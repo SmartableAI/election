@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/finance/519654-progressive-groups-launch-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp"
 type: article
 quality: 119
-heat: 159
+heat: 139
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/US/trump-gty-rc-201010_1602342464487_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself"
-    excerpt: "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911."
-    publishedDateTime: 2020-09-28T09:08:00Z
-    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/"
-    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 109
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "0VFvUed6WpOjkxlC6YJ2H9VnizJAO5NPUPcR93GiJRYMLWAD38ZiEG+jMfo1DcsqjWZTWOiqQFhEzQwqzbpcIZ8oIMz/xnT5Z+0Ni6VD0LqjCgt8ZF+F7dNfVZashmi314ENcfIl0oVW5N6gdM0SAQ6V71jcf/9QrJFFQoaqHRuOt6p5PKKNljvuNSp0YjdGyvOjc39DoGyXYAqrl9/R6UnA1yAcAigubiPLVlGbuuk/5RzF6NzJkY5ro52KH9boo8bF1GIMKd4FJHRVxR4nP8n4TsIGwINdvsoNWem3FtgLPJpmIsiNIirhWL+HuQhznb0HgjRXpa3iIivkNQlxkvhEuWWywYZbsNMVdTYIL2w=;/Eb6LN/buuVrwwTSICpRLQ=="

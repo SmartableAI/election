@@ -43,38 +43,6 @@ related:
         width: 594
         height: 393
         isCached: true
-  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
-    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
-    publishedDateTime: 2020-10-12T12:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump eyes Cuban American judge from Florida for Supreme Court"
-    excerpt: "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state."
-    publishedDateTime: 2020-09-19T23:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/supreme-court-latina-judge-barbara-lagoa-eyed-possible-nominee/5840189002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5840189002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840189002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/9ad405446ea159e94b68b9604fdd24ec4325e3d8/c=0-156-3369-2051/local/-/media/2020/08/17/PalmBeachPost/ghows-LK-200118688-70e433c3.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Lessons the American people can learn from President Trump's illness"
     excerpt: "While the nation waits to see how President Donald Trump will fare as he's treated for COVID-19, doctors say there are lessons to be learned."
     publishedDateTime: 2020-10-04T11:23:00Z
@@ -419,22 +387,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Fred-and-Donald-Trump-687x430.jpg"
         width: 687
         height: 430
-        isCached: true
-  - title: "Cuban-American judge from Florida on Trump high court list"
-    excerpt: "A daughter of Cuban exiles who has had a swift rise as a lawyer and judge is on President Donald Trump's short list to replace Ruth Bader Ginsburg on the U.S. Supreme Court. The president said Monday that he does not personally know Barbara Lagoa,"
-    publishedDateTime: 2020-09-21T19:43:00Z
-    webUrl: "https://www.chron.com/news/article/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
         isCached: true
   - title: "Republican US Sen. Sullivan plans to vote for Trump"
     excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"

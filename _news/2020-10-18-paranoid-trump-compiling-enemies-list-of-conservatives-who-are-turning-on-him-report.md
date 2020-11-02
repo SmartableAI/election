@@ -47,54 +47,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump critics who embraced Hogan are baffled by his vote for long-dead Reagan"
-    excerpt: "Larry Hogan’s decision to repudiate President Trump by casting a write-in vote for Ronald Reagan has drawn swift and sustained backlash from many Democratic supporters and some anti-Trump Republicans who had admired Hogan’s willingness to break with the White House."
-    publishedDateTime: 2020-10-20T21:55:00Z
-    webUrl: "https://www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/63KJTAQSQII6XISYMFFM6K4QNU.jpg&w=1440"
-        width: 1280
-        height: 1025
-        isCached: true
-  - title: "Trump's Instinct to Attack Helped Win Him the White House. Now It May Be His Undoing"
-    excerpt: "President Donald Trump’s campaign is ramping up the pace of the President’s travel, preparing to hold three rallies a day next week. But Republican strategists warn that more Trump isn’t ..."
-    publishedDateTime: 2020-10-13T23:59:00Z
-    webUrl: "https://time.com/5900987/trump-campaign-message-distraction/"
-    ampWebUrl: "https://time.com/5900987/trump-campaign-message-distraction/"
-    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5900987/trump-campaign-message-distraction/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 118
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/doug-mills-donald-trump-campaign-rally-2020.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Half of Trump supporters believe in QAnon conspiracy theory's baseless claims, poll finds"
-    excerpt: "Half of Trump supporters — whether they'd heard of QAnon or not — said they believe the core tenets of the conspiracy."
-    publishedDateTime: 2020-10-22T15:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/22/qanon-poll-finds-half-trump-supporters-believe-baseless-claims/3725567001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3725567001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3725567001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/31/USAT/01de4803-719f-48f8-ac3c-873cfe894844-AFP_AFP_1WO5H1.jpg?auto=webp&crop=3474,1955,x0,y192&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Romney Slams Trump For Refusing To Denounce QAnon, But Says Left Should Condemn Antifa, Too"
     excerpt: "As parties rush down a rabbit hole, they may be opening the door to a political movement that could eventually eclipse them both,” he said."
     publishedDateTime: 2020-10-16T17:21:00Z
@@ -158,22 +110,6 @@ related:
       - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Melania Trump's Fashion Choices Don't Mean Anything, Source Says"
-    excerpt: "Melania Trump's dresses don't mean anything including her pink dress that many thought was a nod to gay pride."
-    publishedDateTime: 2020-10-23T05:25:00Z
-    webUrl: "https://www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703"
-    ampWebUrl: "https://www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
     excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."

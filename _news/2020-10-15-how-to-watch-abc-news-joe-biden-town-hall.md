@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Watch Live: NBC News town hall with Biden"
+    excerpt: "NBC News’s Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami. The event is scheduled to begin at 8 p."
+    publishedDateTime: 2020-10-05T23:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe"
+    ampWebUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden in Gettysburg speech invokes Lincoln, calls for unity"
+    excerpt: "Democratic presidential nominee Joe Biden delivered an impassioned plea for unity while invoking former President Lincoln during a speech in Gettysburg, Pa., on Tuesday, exactly four weeks before the election."
+    publishedDateTime: 2020-10-06T22:57:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_gettysburg_100620getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden should stop ducking the court-packing issue"
     excerpt: "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing."
     publishedDateTime: 2020-10-07T13:30:00Z
@@ -47,37 +79,37 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "'Record-breaking group' of faith leaders endorses Biden"
-    excerpt: "More than 1,600 faith leaders have endorsed Democratic nominee Joe Biden for president as of Friday, including some who could influence evangelical votes, according to a faith voters outreach group."
-    publishedDateTime: 2020-10-09T19:47:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
+  - title: "Watch Live: Biden delivers remarks in Gettysburg, Pa."
+    excerpt: "Democratic presidential nominee Joe Biden is scheduled to deliver remarks Tuesday in Gettysburg, Pa.The event is scheduled to begin at 4 p.m. EDT. Watch the live video above."
+    publishedDateTime: 2020-10-06T19:00:00Z
+    webUrl: "https://thehill.com/519804-watch-live-democratic-presidential-nominee-joe-biden-delivers-remarks-in-gettysburg"
+    ampWebUrl: "https://thehill.com/519804-watch-live-democratic-presidential-nominee-joe-biden-delivers-remarks-in-gettysburg?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/519804-watch-live-democratic-presidential-nominee-joe-biden-delivers-remarks-in-gettysburg?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_093020getty_blowout.jpg"
-        width: 980
-        height: 551
+      - url: "https://thehill.com/sites/default/files/mreportbidentrain.jpg"
+        width: 580
+        height: 387
         isCached: true
-  - title: "17-year-old climate activist Greta Thunberg endorses Joe Biden"
-    excerpt: "\"I never engage in party politics. But the upcoming US elections is above and beyond all that,\" the 17-year-old climate activist from Sweden tweeted."
-    publishedDateTime: 2020-10-10T17:03:00Z
-    webUrl: "https://www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10?amp"
+  - title: "ABC News announces town hall with Democratic nominee Joe Biden"
+    excerpt: "ABC News announced on Thursday that it will hold a town hall with Democratic presidential nominee and former vice president Joe Biden on Thursday, Oct. 15, allowing voters to ask questions to the former vice president less than a month before Election Day."
+    publishedDateTime: 2020-10-08T20:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/abc-news-announces-town-hall-democratic-nominee-joe/story?id=73506593"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/abc-news-announces-town-hall-democratic-nominee-joe/story?id=73506593"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/abc-news-announces-town-hall-democratic-nominee-joe/story?id=73506593"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://i.insider.com/5f81d732642e9400180b52ca?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/biden-town-hall-2-rt-er-201005_1601944628741_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden maintains 12-point national lead: poll"
     excerpt: "Democratic presidential nominee Joe Biden holds a 12-point lead among likely voters in a national poll released by The Washington Post and ABC News early Sunday. Biden is supported by 54 percent of likely voters while Trump is backed by 42 percent,"
@@ -95,101 +127,85 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Nebraska district could prove pivotal for Biden in November"
-    excerpt: "Democratic presidential nominee Joe Biden appears poised to flip Nebraska’s critical 2nd Congressional District in November, giving Democrats hope in a red state that doles out Electoral College votes per congressional district."
-    publishedDateTime: 2020-10-10T22:05:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp"
+  - title: "Watch live: Biden holds town hall event"
+    excerpt: "Democratic presidential nominee Joe Biden is slated to hold a town hall event Thursday evening on ABC.The event is scheduled to begin at 8 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-15T22:46:00Z
+    webUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event"
+    ampWebUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_100920getty_split_nebraska.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Budowsky: President Bush, please vote Biden"
-    excerpt: "I hope you will say a little prayer for democracy and inform the nation you will vote for Biden, the only candidate whose election would prevent four more years of the dangers you warned about in your brilliant speech at the George W."
-    publishedDateTime: 2020-10-14T12:10:00Z
-    webUrl: "https://thehill.com/opinion/campaign/520907-budowsky-president-bush-please-vote-biden"
-    ampWebUrl: "https://thehill.com/opinion/campaign/520907-budowsky-president-bush-please-vote-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520907-budowsky-president-bush-please-vote-biden?amp"
+  - title: "Watch live: Biden participates in HBCU homecoming"
+    excerpt: "Democratic presidential candidate Joe Biden and and his running mate, Kamala Harris, on Friday evening are slated to participate in a HBCU Homecoming rally hosted by actor and comedian Tiffany Hadish."
+    publishedDateTime: 2020-10-23T23:09:00Z
+    webUrl: "https://thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming"
+    ampWebUrl: "https://thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Biden hedges on support for 'court-packing' proposal"
-    excerpt: "Democratic presidential candidate Joe Biden kept his options open on Thursday when asked if he would add judges to the Supreme Court to balance the 6-3 conservative majority that would likely take hold if President Donald Trump's third nominee is confirmed."
-    publishedDateTime: 2020-10-16T02:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-court/biden-hedges-on-support-for-court-packing-proposal-idUSKBN27107R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27107R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27107R"
+  - title: "Watch live: Biden holds campaign event in Atlanta"
+    excerpt: "Democratic presidential nominee Joe Biden is set to hold a drive-in campaign event in Atlanta, Ga., on Tuesday evening.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-27T21:52:00Z
+    webUrl: "https://thehill.com/video/campaign/523034-watch-live-biden-holds-campaign-event-in-atlanta"
+    ampWebUrl: "https://thehill.com/video/campaign/523034-watch-live-biden-holds-campaign-event-in-atlanta?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/523034-watch-live-biden-holds-campaign-event-in-atlanta?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201016&t=2&i=1537676515&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9F04L"
-        width: 817
-        height: 545
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102720getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "The tricky politics of court-packing for Joe Biden"
-    excerpt: "Biden repeated Thursday night that he is not a fan of court-packing, yet he sounded more open to it than ever before."
-    publishedDateTime: 2020-10-16T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/?outputType=amp"
+  - title: "WATCH LIVE: Joe Biden holds campaign event in Atlanta"
+    excerpt: "Joe Biden is going on offense in the final week before Election Day, heading Tuesday to Georgia and planning travel that may put President Donald Trump on defense in other states he won four years ago."
+    publishedDateTime: 2020-10-27T19:24:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-campaign-event-in-atlanta"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-campaign-event-in-atlanta"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-campaign-event-in-atlanta"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: PBS
+      domain: pbs.org
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYTYA7X63EI6VNKVJVY2SJKPJM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-16T184519Z_1096142081_RC2UJJ9MSE4N_RTRMADP_3_USA-ELECTION-BIDEN-1024x682.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Joe Biden has a better option than court-packing: Legislating"
-    excerpt: "A Democratic Congress and president could prevent an activist Supreme Court from dismantling the regulatory state."
-    publishedDateTime: 2020-10-20T18:33:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/10/20/biden-court-packing-alternatives/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/10/20/biden-court-packing-alternatives/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/10/20/biden-court-packing-alternatives/?outputType=amp"
+  - title: "Watch live: Biden holds campaign rally in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden will hold a drive-in campaign rally Thursday night in Tampa, Fla.The event is scheduled to begin at 6:30 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-29T22:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida"
+    ampWebUrl: "https://thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CKX2KQPGII6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
-  - title: "The Latest: Biden won't rule out studying court packing"
-    excerpt: "Democratic presidential nominee Joe Biden won’t rule out studying the addition of members to the Supreme Court as part of a commission he plans to name to look at court reforms if he’s elected"
-    publishedDateTime: 2020-10-22T13:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-rule-studying-court-packing-73759180"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-rule-studying-court-packing-73759180"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-rule-studying-court-packing-73759180"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_63700e64d6954852951bf6e5655a395f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Joe Biden ramping up virtual fundraisers in final stretch of campaign cycle"
     excerpt: "Joe Biden's campaign will host 53 fundraisers total over 14 days, in order to secure voters before Election Day."
@@ -207,203 +223,95 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden and Democrats raised record $383 million in Sept for White House bid"
-    excerpt: "Democratic presidential nominee Joe Biden and his party raised a record-shattering $383 million in September for his presidential bid, likely bolstering his financial advantage over President Donald Trump ahead of the Nov."
-    publishedDateTime: 2020-10-15T02:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-fundraising/biden-and-democrats-raised-record-383-million-in-sept-for-white-house-bid-idUSKBN27004S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27004S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27004S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537515404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E033"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden campaign co-chair says Supreme Court packing question is 'hypothetical'"
-    excerpt: "\"I think it's a legitimate question for you to ask, but it is a distraction with 22 days before the election,\" Richmond said on ABC's \"This Week.\" Speaking with guest host Jon Karl, the congressman was asked where Biden stood on the issue of court-packing."
-    publishedDateTime: 2020-10-11T15:26:00Z
-    webUrl: "https://thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is"
-    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is?amp"
+  - title: "Watch Live: NBC News town hall with Democratic presidential nominee Joe Biden"
+    excerpt: "NBC News’ Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami, Florida. The event is scheduled to begin at 8:00 p."
+    publishedDateTime: 2020-10-05T23:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe"
+    ampWebUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 122
     images:
-      - url: "https://thehill.com/sites/default/files/richmondcedric_061020gn_lead.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Joe Biden says he's 'not a fan' of court packing as SCOTUS hearings continue"
-    excerpt: "As the Senate confirmation hearings for Supreme Court nominee Amy Coney Barrett continue, former Vice President Joe Biden says he is \"not a fan\" of court packing."
-    publishedDateTime: 2020-10-13T21:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
+  - title: "'He's from here': Biden and the battle for Scranton"
+    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
+    publishedDateTime: 2020-10-06T18:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://s.abcnews.com/images/Politics/biden-ap-ml-201013_1602603114866_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden says Barrett's Catholic faith shouldn't be factor in her confirmation hearings"
-    excerpt: "Biden expressed the same sentiment as Democratic senators who are so far focusing on the threat they feel Barrett's confirmation to the Supreme Court would pose to Obamacare."
-    publishedDateTime: 2020-10-12T21:12:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-amy-coney-barrett-confirmation-hearings/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-amy-coney-barrett-confirmation-hearings/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-amy-coney-barrett-confirmation-hearings/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/498f145a-b39f-4e4c-8082-5a8fc675accc/thumbnail/1200x630g2/a226aaf6d83d6cbf0a3c183f724b6c40/gettyimages-1229009797.jpg"
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Biden reaches out to Catholics like himself, embracing a key group in big 2020 states"
-    excerpt: "President Trump has maligned Biden’s faith, but Biden is seeking to firm up a connection that reverberates in the upper Midwest and the Sun Belt while avoiding religious overtones in the Supreme Court nomination fight."
-    publishedDateTime: 2020-10-14T01:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
+  - title: "Joe Biden's wife, Jill, pulls him back to be socially distant"
+    excerpt: "Former second lady Jill Biden pulled back her husband, Democratic presidential nominee Joe Biden, to socially distance from reporters on the tarmac in New Castle, Del., before departing for Miami on Oct."
+    publishedDateTime: 2020-10-07T18:58:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/joe-bidens-wife-jill-pulls-him-back-to-be-socially-distant/2020/10/07/be680e76-8aec-433c-9b74-6a6dbd57016d_video.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ACMVNGALCYI6XG7GZ4S7WQU7DI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden, under pressure on 'court packing,' says he would convene commission on reform"
-    excerpt: "Democratic presidential nominee Joe Biden, under pressure on 'court packing,' told CBS' \"60 Minutes\" he would appoint a bipartisan commission on court reform."
-    publishedDateTime: 2020-10-23T01:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-pressure-court-packing-convene-commission-reform/story?id=73760039"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-pressure-court-packing-convene-commission-reform/story?id=73760039"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-pressure-court-packing-convene-commission-reform/story?id=73760039"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/joe-biden-file-rt-jef-201022_1603380696459_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden Says Amy Coney Barrett Appointment 'Not Constitutional' as He Evades Court Packing Question Again"
-    excerpt: "\"Look, the only court packing is going on right now. It's going on with the Republicans packing the court now,\" Joe Biden said."
-    publishedDateTime: 2020-10-11T02:07:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 107
-    images:
-      - url: "https://d.newsweek.com/en/full/1649258/joe-biden.jpg"
-        width: 2500
-        height: 1571
-        isCached: true
-  - title: "Detroit pastor wants Biden to reach out more to Black community"
-    excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
-    publishedDateTime: 2020-10-01T19:52:00Z
-    webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-07-2020/t_2ec76ecc923d4db1b6fa0dbd5a05337d_name_56ad741c_0722_11eb_8719_0df159d14794.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
-  - title: "Battle for the suburbs: can Joe Biden flip Texas? – video"
-    excerpt: "Texas is a rapidly changing state with the fastest growing population in America. Hispanic Texans are set to become the majority by 2022, but will this help Joe Biden flip a Republican stronghold? Oli"
-    publishedDateTime: 2020-10-07T10:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/ad2b6c6bc07ee8a1c8603135263f9c5f9afdd033/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddfef1d2d526de95827d109c891e36aa"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Examining Joe Biden's Record On Race: 1994 Crime Bill Sponsorship"
-    excerpt: "In the second part of a series on former Vice President Joe Biden's record on race, NPR's Steve Inskeep examines the long-term consequences of his sponsorship of the 1994 Crime Bill."
-    publishedDateTime: 2020-10-13T09:05:00Z
-    webUrl: "https://www.npr.org/2020/10/13/923170325/examining-joe-bidens-record-on-race-1994-crime-bill-sponsorship"
+  - title: "Joe Biden On Race: What The Democratic Presidential Nominee Has Said About Busing"
+    excerpt: "In the first of a two part series on former Vice President Joe Biden's record on race, Steve Inskeep examines his controversial stance on busing. STEVE INSKEEP, HOST: What is Joe Biden's record on ..."
+    publishedDateTime: 2020-10-12T09:10:00Z
+    webUrl: "https://www.npr.org/2020/10/12/922936067/joe-biden-on-race-what-the-democratic-presidential-nominee-has-said-about-busing"
     type: article
     provider:
       name: NPR
       domain: npr.org
-    quality: 105
+    quality: 100
     images:
       - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
         width: 1400
         height: 787
         isCached: true
-  - title: "Facebook And Twitter Limit Sharing New York Post Story About Joe Biden"
-    excerpt: "The social media companies said they wanted to slow the spread of possibly false information. But their actions drew charges of censorship from President Trump's allies."
-    publishedDateTime: 2020-10-14T22:49:00Z
-    webUrl: "https://www.npr.org/2020/10/14/923766097/facebook-and-twitter-limit-sharing-new-york-post-story-about-joe-biden"
+  - title: "Election 2020: How to watch NBC Joe Biden town hall on Monday night"
+    excerpt: "NBC on Monday night will host Democratic presidential nominee Joe Biden in a town hall event in the battleground state of Florida. Biden’s event also comes two days before a scheduled vice presidential debate between Vice President Mike Pence and Biden’s running mate,"
+    publishedDateTime: 2020-10-05T19:35:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/election-2020-how-to-watch-nbc-joe-biden-town-hall-on-monday-night.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/election-2020-how-to-watch-nbc-joe-biden-town-hall-on-monday-night.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/election-2020-how-to-watch-nbc-joe-biden-town-hall-on-monday-night.html?outputType=amp"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
+      name: MassLive
+      domain: masslive.com
+    quality: 90
     images:
-      - url: "https://media.npr.org/assets/img/2020/10/14/gettyimages-1165948314_wide-94737daf8ae51aa6447620c7627e1ed015c5018b.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IU2G66MIKZDJNAEM2EE7S7SAGE.JPG"
+        width: 512
+        height: 341
         isCached: true
-  - title: "Joe Biden once again says he’s ‘not a fan’ of expanding Supreme Court, says GOP ‘court-packing’ by rushing to fill seat"
-    excerpt: "Joe Biden says he is “not a fan” of adding seats to the Supreme Court, after weeks of avoiding questions about the idea that’s been pushed by progressives and used by Republicans to attack him."
-    publishedDateTime: 2020-10-13T13:41:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html?outputType=amp"
+  - title: "Joe Biden opens 9-point lead over President Trump in Michigan, Detroit News/WDIV-TV poll finds"
+    excerpt: "Democratic presidential candidate Joe Biden's lead in Michigan over President Donald Trump now stands at 9 percentage points."
+    publishedDateTime: 2020-10-06T03:18:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/05/biden-leads-trump-9-points-michigan-detroit-news-wdiv-tv-poll/3627544001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3627544001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3627544001"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 101
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 78
     images:
-      - url: "https://www.chicagotribune.com/resizer/lhpLP6O2R93TguuCfUGToqd2e14=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZFXRSDUWO5GW3D4KZJPC77LCIM.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PDTN/ec170626-d7fb-4b6b-9f06-9c9943acc2a2-debate_sbs.png?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Progressive Democrats are united behind Joe Biden but readying for an internal 'World War III' if he wins the election"
-    excerpt: "Trump term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."
-    publishedDateTime: 2020-10-10T00:11:00Z
-    webUrl: "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5f7f6da2ea74820019ca6095?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Why Joe Biden can't expect to automatically get the Latino vote"
     excerpt: "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise."
@@ -421,21 +329,21 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
-    excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
-    publishedDateTime: 2020-10-03T18:52:00Z
-    webUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/"
-    ampWebUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
+  - title: "Bernie Sanders stumps for Joe Biden at small Ann Arbor rally"
+    excerpt: "In the first of two Michigan appearances on Monday, Sen. Bernie Sanders campaigned for Joe Biden in the Democratic stronghold of Ann Arbor. Sanders addressed a crowd of 25 people, as well as 50 to 60 standing outside a barrier to promote social distancing,"
+    publishedDateTime: 2020-10-06T02:47:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/bernie-sanders-stumps-for-joe-biden-at-small-ann-arbor-rally.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/bernie-sanders-stumps-for-joe-biden-at-small-ann-arbor-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/bernie-sanders-stumps-for-joe-biden-at-small-ann-arbor-rally.html?outputType=amp"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
+      name: MLive
+      domain: mlive.com
     quality: 75
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684"
-        width: 1024
-        height: 684
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AA24O3EUFNDIZGF3WTYPSKUDWE.jpg"
+        width: 2048
+        height: 1361
         isCached: true
   - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
     excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
@@ -453,163 +361,190 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Opinion/Chidester: Joe Biden’s credibility issue"
-    excerpt: "\"Since the early 1970s, Joe Biden has been a serial liar when it comes to his ‘work’ in the civil rights movement. It's the equivalent of"
-    publishedDateTime: 2020-10-10T15:44:00Z
-    webUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue"
-    ampWebUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
-    cdnAmpWebUrl: "https://www-seacoastonline-com.cdn.ampproject.org/c/s/www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
+  - title: "Joe Biden calls for unity in visit to historic Gettysburg"
+    excerpt: "Democratic presidential nominee Joe Biden called for unity amid ongoing protests against racial injustice and political division over the COVID-19 pandemic in a campaign speech in Gettysburg on Tuesday."
+    publishedDateTime: 2020-10-07T00:10:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/06/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg/7071601988862/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg/7071601988862/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg/7071601988862/"
     type: article
     provider:
-      name: Seacoastonline.com
-      domain: seacoastonline.com
+      name: UPI.com
+      domain: upi.com
     quality: 75
     images:
-      - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201010&Category=OPINION&ArtNo=201019995&Ref=AR"
-        width: 520
-        height: 816
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7071601988862/2020/1/14c8efc4ed0991ebe7040bd1d12e25bf/v1.5/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "VERIFY: Did Joe Biden say he would ban fracking?"
-    excerpt: "Vice President Mike Pence claimed that under a Biden administration, Joe Biden has said he wants to ban fracking. \"The American people can go look at the record, I know Joe Biden says otherwise ..."
-    publishedDateTime: 2020-10-09T18:01:00Z
-    webUrl: "https://www.wusa9.com/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240"
-    type: article
-    provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 75
-    images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/7ebf6abb-c393-470c-891b-b614125c3413/7ebf6abb-c393-470c-891b-b614125c3413_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Joe Biden's tax returns: 3 things we can learn about Social Security"
-    excerpt: "Although many retirees pay no tax on the benefits, those whose \"provisional income\" exceeds $25,000 or $32,000 for joint filers are taxed."
-    publishedDateTime: 2020-10-11T00:23:00Z
-    webUrl: "https://www.azcentral.com/story/money/2020/10/10/3-things-we-can-learn-about-social-security-from-the-bidens-tax-returns/114243008/"
-    ampWebUrl: "https://amp.azcentral.com/amp/114243008"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/114243008"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/09/27/USATODAY/usatsports/joe-biden-whitehousegov.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden addresses idea of Supreme Court packing: 'I'm not a fan'"
-    excerpt: "Biden argued that the focus should remain on Republicans’ efforts to push through Amy Coney Barrett as a replacement for Ruth Bader Ginsburg before the election."
-    publishedDateTime: 2020-10-13T20:44:00Z
-    webUrl: "https://www.king5.com/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
-    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 75
-    images:
-      - url: "https://media.king5.com/assets/CCT/images/3480a00c-67c9-4add-bf94-9afc4fb2e924/3480a00c-67c9-4add-bf94-9afc4fb2e924_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Joe Biden: I'm 'not a fan' of court-packing"
-    excerpt: "Democratic presidential nominee Joseph R. Biden partially ended his stonewalling on Supreme Court-packing this week, saying he’s “not a fan” of the practice that liberals are calling for as payback for confirming Judge Amy Coney Barrett for the Supreme Court."
-    publishedDateTime: 2020-10-14T02:19:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
+  - title: "Michelle Obama: 'Vote for Joe Biden like your lives depend on it'"
+    excerpt: "Former first lady Michelle Obama launched a 24-minute campaign video for Joe Biden on Tuesday, slamming President Trump and urging Americans to vote for the Democratic presidential nominee like their “lives depend on it."
+    publishedDateTime: 2020-10-06T20:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
     quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2019/03/15/Supreme_Court_37806.jpg-5e141_c0-89-5568-3337_s1200x700.jpg?0c80d9a17edda4869c69b2190de84c73868e539b"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/06/michelle_obama_c20-0-880-502_s1200x700.jpg?fb980a6d3389ca7cc435a478cad5a7e1c62b1a57"
         width: 1200
         height: 700
         isCached: true
-  - title: "Joe Biden, after avoiding questions on court packing, says he is 'not a fan'"
-    excerpt: "\"I'm not a fan of court packing but I don't want to get off on that whole issue,\" Biden told a Cincinnati television station in an interview."
-    publishedDateTime: 2020-10-13T20:01:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/13/joe-biden-addressing-court-packing-says-he-not-fan/5979046002/"
-    ampWebUrl: "https://amp.freep.com/amp/5979046002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5979046002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coming soon to gas station TV screens in battleground states: Ads for Joe Biden"
-    excerpt: "Flush with a recent surge of cash, the Democratic National Committee is launching a wave of unconventional ads encouraging people to vote."
-    publishedDateTime: 2020-10-14T09:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246431365.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246431365.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246431365.html"
+  - title: "Fact check: Will Joe Biden raise your taxes on day one?"
+    excerpt: "On day one, Joe Biden’s going to raise your taxes,” Vice President Mike Pence said during his debate with Sen. Kamala Harris. Details: How much your taxes go up would depend on how much you make. Harris and Biden are pushing an economic plan that would impose much higher taxes on the wealthy,"
+    publishedDateTime: 2020-10-08T01:45:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246283800.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246283800.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246283800.html"
     type: article
     provider:
       name: Miami Herald
       domain: miamiherald.com
-    quality: 71
+    quality: 75
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/9c976b97-2305-4a0f-b21c-31d6d1115dc7/48a910bf-c782-4ffc-ba75-d0603b5c4817/1280x720/match/image.jpg"
-        width: 1080
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/cd1132fd-82b4-4ce3-8e94-cb196d81faf2/5ac1b7ed-3ce9-46b7-b04c-ef3406a51f2d/1280x720/match/image.jpg"
+        width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden Campaign Isn’t Selling ‘I’m Speaking’ Shirts, But Here’s Where You Can Buy Them"
-    excerpt: "T-shirts, coffee mugs, face masks, and other products were selling online after the Harris-Pence debate, capturing key phrases from the event."
-    publishedDateTime: 2020-10-08T14:20:00Z
-    webUrl: "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881"
-    ampWebUrl: "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881?amp=1"
+  - title: "Joe Biden to make a stop in Erie, Pennsylvania, NBC News reports"
+    excerpt: "The Democratic nominee for President of the United States, former Vice President Joe Biden, will be close to Western New York on Saturday. Mike Memoli of NBC News says that Biden will be making a stop in Erie,"
+    publishedDateTime: 2020-10-09T23:52:00Z
+    webUrl: "https://www.wgrz.com/article/news/politics/joe-biden-to-make-a-stop-in-erie-pennsylvania-nbc-news-reports/71-89478deb-1e1d-4f8e-9e3c-c58507a13f54"
+    ampWebUrl: "https://www.wgrz.com/amp/article/news/politics/joe-biden-to-make-a-stop-in-erie-pennsylvania-nbc-news-reports/71-89478deb-1e1d-4f8e-9e3c-c58507a13f54"
+    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/politics/joe-biden-to-make-a-stop-in-erie-pennsylvania-nbc-news-reports/71-89478deb-1e1d-4f8e-9e3c-c58507a13f54"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 66
+      name: WGRZ
+      domain: wgrz.com
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
-        width: 1024
-        height: 682
+      - url: "https://media.wgrz.com/assets/WGRZ/images/530883383/530883383_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "I served 15 years as general counsel for the Republican Party. Here's why I'm voting for Joe Biden | Opinion"
-    excerpt: "Joe Biden is a problem solver who will work with Republicans to address critical issues facing us during this time of unprecedented upheaval."
-    publishedDateTime: 2020-10-13T15:41:00Z
-    webUrl: "https://www.tennessean.com/story/opinion/2020/10/13/im-lifelong-republican-and-im-voting-joe-biden/5975577002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5975577002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5975577002"
+  - title: "All eyes on Ohio with Joe Biden's visit to Cincinnati and Toledo"
+    excerpt: "Former Vice President Joe Biden will visit Cincinnati this afternoon, an indication his campaign sees Ohio as competitive for the Democratic presidential nominee. Biden's Cincinnati visit is an invitation-only voter mobilization event and will follow social distancing and masking guidelines."
+    publishedDateTime: 2020-10-12T13:31:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2020/10/12/election-2020-biden-visit-shows-ohio-play-democrats/5965538002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5965538002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5965538002"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 56
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/10/NLED/8b84935a-6a1f-43dc-9a00-fac4d0a05776-AP20284773795313.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Sen. Bernie Sanders is coming to Michigan on Monday to stump for Joe Biden"
+    excerpt: "Former Democratic presidential candidate and U.S. Sen. Bernie Sanders is coming to Michigan on Monday to stump for Joe Biden. The Independent Vermont senator will visit Ann Arbor"
+    publishedDateTime: 2020-10-03T22:20:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/03/bernie-sanders-joe-biden-trump-election-michigan/3608274001/"
+    ampWebUrl: "https://amp.freep.com/amp/3608274001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3608274001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/07/PDTF/2d58c6fc-fe03-4840-9bf9-e210c3ff5ccf-AP_Election_2020_Bernie_Sand.jpg?auto=webp&crop=5081,2858,x0,y335&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Editorial: Joe Biden's leadership would benefit our country"
-    excerpt: "A Biden administration has an opportunity to demonstrate that the presidency can be — should be — about more than the chief executive’s vanity or need for constant attention."
-    publishedDateTime: 2020-10-11T11:14:00Z
-    webUrl: "https://omaha.com/opinion/editorial/editorial-joe-bidens-leadership-would-benefit-our-country/article_48cd10a0-0314-5bb3-adff-48779fe262cd.html"
+  - title: "‘Decision 2020: Joe Biden Town Hall’ | How to watch, live stream, TV channel, time"
+    excerpt: "Lester Holt of NBC’s Nightly News will be hosting 'Decision 2020: Joe Biden Town Hall' with the democratic presidential candidate tonight at 8 p.m. ET."
+    publishedDateTime: 2020-10-05T19:55:00Z
+    webUrl: "https://www.cleveland.com/entertainment/2020/10/decision-2020-joe-biden-town-hall-how-to-watch-live-stream-tv-channel-time.html"
+    ampWebUrl: "https://www.cleveland.com/entertainment/2020/10/decision-2020-joe-biden-town-hall-how-to-watch-live-stream-tv-channel-time.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/entertainment/2020/10/decision-2020-joe-biden-town-hall-how-to-watch-live-stream-tv-channel-time.html?outputType=amp"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IUPOG3OCQVAHTEHC4DNZVN532Y.jpg"
+        width: 6000
+        height: 4333
+        isCached: true
+  - title: "Brit Hume: Joe Biden's 'senility ... has been obvious to careful watchers for some time'"
+    excerpt: "Fox News senior political analyst Brit Hume claimed Sunday that Joe Biden’s “senility” has been on display for some time now and that President Trump should let it shine through as much as possible if he has any chance at winning reelection."
+    publishedDateTime: 2020-10-12T17:22:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/brit-hume-joe-bidens-senility-has-been-obvious-to-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/brit-hume-joe-bidens-senility-has-been-obvious-to-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/brit-hume-joe-bidens-senility-has-been-obvious-to-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 66
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/brit_hume_c21-0-878-500_s1200x700.jpg?5d564dc8c21de85fddbb1ce2251f85bbcfca979a"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Democratic presidential candidate Joe Biden tests negative for COVID-19 | Raleigh News & Observer"
+    excerpt: "A campaign aide said “as of now” Biden is still expected to go ahead with his planned trip to Grand Rapids, Mich. on Friday."
+    publishedDateTime: 2020-10-02T17:30:00Z
+    webUrl: "https://www.newsobserver.com/news/coronavirus/article246170960.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/coronavirus/article246170960.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/coronavirus/article246170960.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 62
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557041001/5d6d8793-ed64-4f21-87b1-12ca45b6470d/c90833b7-ca74-4967-9cb4-553f6915b86b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden scales back rare Democratic investment in Texas, but dispatches Jill Biden to stoke the embers"
+    excerpt: "Former vice president Joe Biden hasn’t set foot in Texas since the primary, but on Friday, his campaign announced that he’s sending wife"
+    publishedDateTime: 2020-10-10T03:22:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 58
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/ZvCr4APszKnYx5_p2sPqxbo8mb0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/CYH7CODPP2EWWRO7Y2VL6QDFKU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Putin Says He Has Noted Joe Biden's Harsh Anti-Russian Rhetoric"
+    excerpt: "Russian President Vladimir Putin said on Wednesday he had noted what he called harsh anti-Russian rhetoric from U.S. Democratic presidential candidate Joe Biden, but said he had been encouraged by Biden's comments on arms control."
+    publishedDateTime: 2020-10-07T08:39:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Taylor Swift Totally Belongs With Joe Biden in 'Late Show' Spoof"
+    excerpt: "After offering up her first-ever presidential endorsement, Taylor Swift went a big step further and actually wrote a custom song about Democratic candidate Joe Biden. Okay, she didn't, but on Thursday night (Oct."
+    publishedDateTime: 2020-10-09T13:37:00Z
+    webUrl: "https://www.billboard.com/articles/news/television/9463137/taylor-swift-you-belong-with-me-spoof-joe-biden-late-show/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
     quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/8c/48cd10a0-0314-5bb3-adff-48779fe262cd/5f80b9709c912.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://static.billboard.com/files/2020/10/Taylor-Swift-jan-23-park-city-2020-billboard-1548-1602169134-1024x677.jpg"
+        width: 1024
+        height: 677
         isCached: true
   - title: "Elizabeth Warren stumps for Joe Biden at N.H. rally"
     excerpt: "The scene in the parking lot of Teamsters Local 633 in Manchester, N.H., offered a sharp contrast to the big gatherings Warren hosted during the New Hampshire presidential primary, when supporters packed large venues and waited in long lines for a selfie with the Massachusetts senator."
@@ -622,38 +557,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
-  - title: "WATCH: Joe Biden Tells Local Reporter Court-Packing is ‘A Legitimate Question’ — Then Gives Almost Perfect Answer"
-    excerpt: "Local CBS Nevada reporter Orko Manna took another crack at asking Joe Biden about adding justices to the Supreme Court, and the former vice president acknowledged it's \"a legitimate question\" — then gave an almost perfect answer."
-    publishedDateTime: 2020-10-10T14:07:00Z
-    webUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/"
-    ampWebUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 54
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-9c.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden says voters 'don't deserve' to know his position on packing the Supreme Court with additional justices ahead of the November election"
-    excerpt: "Joe Biden said on Friday that American voters 'don't deserve' to know his stance on packing the Supreme Court in remarks made to a reporter in Las Vegas, Nevada, during a campaignn stop."
-    publishedDateTime: 2020-10-10T21:32:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8826943/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 54
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/10/22/34237734-0-image-a-34_1602363783713.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
     excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
     publishedDateTime: 2020-10-03T09:13:00Z
@@ -668,31 +571,87 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Joe Biden has a history of keeping women safe from domestice violence | Opinion"
-    excerpt: "Many Floridians are wondering who the real Joe Biden beyond the public persona that we know well from his decades in public service. As a senior advisor to Vice President Biden in the White House from 2015-2017,"
-    publishedDateTime: 2020-10-12T21:09:00Z
-    webUrl: "https://www.miamiherald.com/opinion/op-ed/article246405055.html"
-    ampWebUrl: "https://amp.miamiherald.com/opinion/op-ed/article246405055.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/opinion/op-ed/article246405055.html"
+  - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"
+    publishedDateTime: 2020-10-02T19:32:00Z
+    webUrl: "https://www.c-span.org/video/?476523-1/joe-biden-campaign-remarks-grand-rapids-michigan&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe and Jill Biden Deliver Remarks in Miami"
+    excerpt: "Democratic presidential candidate Joe Biden and his wife, Jill, speak at a campaign event in Miami’s Little Havana neighborhood. 2020 Democratic presidential candidate Joe Biden and his wife, Jill, speak at a campaign event in Miami’s Little Havana neighborhood."
+    publishedDateTime: 2020-10-05T12:47:00Z
+    webUrl: "https://www.c-span.org/video/?476606-1/joe-jill-biden-deliver-remarks-miami"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Bernie Sanders Campaigns for Joe Biden in New Hampshire"
+    excerpt: "Sen. Bernie Sanders (I-VT) held a get-out-the-vote rally in Lebanon, NH, in support of 2020 Democratic presidential candidate Joe Biden. Before his remarks on health care and the economy, the senator began by wishing President Trump and the First Lady a speedy recovery after they tested positive for coronavirus,"
+    publishedDateTime: 2020-10-05T07:10:00Z
+    webUrl: "https://www.c-span.org/event/?476591/c2020-sen-bernie-sanders-ivt-campaigns-joe-biden-hampshire"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden campaigns in Little Haiti"
+    excerpt: "Democratic presidential nominee Joe Biden stops in Little Haiti to speak to Haitian-American leaders and ask for support on Nov. 3 as he seeks the U.S. presidency against President Donald Trump."
+    publishedDateTime: 2020-10-05T21:37:00Z
+    webUrl: "https://www.miamiherald.com/news/local/community/miami-dade/article246242950.html"
     type: article
     provider:
       name: Miami Herald
       domain: miamiherald.com
-    quality: 51
-  - title: "Bernie Sanders Is Working to Turn Out Young Voters—Even if Biden Keeps Bashing Socialism"
-    excerpt: "On Monday, Sanders traveled to Michigan to stump on Joe Biden’s behalf, devoting his remarks to assuring young voters who may be skeptical of Biden that the former vice president would be “the ..."
-    publishedDateTime: 2020-10-08T00:01:00Z
-    webUrl: "https://www.motherjones.com/2020-elections/2020/10/bernie-sanders-joe-biden-youth-vote/"
+    quality: 35
+  - title: "Joe Biden Remarks in Gettysburg, PA"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, PA. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
+    publishedDateTime: 2020-10-06T15:17:00Z
+    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pa"
     type: article
     provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 46
-    images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/AP20280001097703.jpg?w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Campaigns in Las Vegas"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a campaign event in Las Vegas, Nevada."
+    publishedDateTime: 2020-10-09T22:17:00Z
+    webUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaigns-las-vegas&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Campaign Event in Las Vegas"
+    excerpt: "Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas, Nevada."
+    publishedDateTime: 2020-10-12T15:33:00Z
+    webUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaign-event-las-vegas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Attends Cincinnati Voter Mobilization Event"
+    excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."
+    publishedDateTime: 2020-10-12T23:47:00Z
+    webUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Delivers Remarks on Senior Citizen Policy in FL"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Pembroke Pines, FL on his campaign’s policy proposals affecting senior citizens. 2020 Democratic presidential candidate Joe Biden delivers remarks in Pembroke Pines,"
+    publishedDateTime: 2020-10-13T04:22:00Z
+    webUrl: "https://www.c-span.org/video/?476884-1/joe-biden-delivers-remarks-senior-citizen-policy-fl"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Joe Biden Remarks to Reporters on Supreme Court Confirmation Hearing."
     excerpt: "Joe Biden speaks briefly with reporters before departing for Ohio. Asked if the nominee’s faith should be considered, he responded “No. Her faith should not be considered...No one’s faith should be questioned."
     publishedDateTime: 2020-10-12T23:08:00Z

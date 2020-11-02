@@ -51,54 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence to visit Phoenix on Friday"
-    excerpt: "Vice President Pence will be headed to Phoenix to participate in a Libre Initiative Roundtable for Hispanic Heritage Month, according to White House officials. He will also take place in a Veterans for Trump event before returning to Washington D."
-    publishedDateTime: 2020-09-14T14:32:00Z
-    webUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday"
-    ampWebUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
-    type: article
-    provider:
-      name: ABC15 Arizona
-      domain: abc15.com
-    quality: 75
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fb8f283/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.abc15.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vice President Mike Pence to visit Phoenix on Friday"
-    excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
-    publishedDateTime: 2020-09-14T22:11:00Z
-    webUrl: "https://www.12news.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    ampWebUrl: "https://www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 75
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence to visit Phoenix on Friday"
-    excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
-    publishedDateTime: 2020-09-18T23:08:00Z
-    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
-    type: article
-    provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 75
-    images:
-      - url: "https://media.wfmynews2.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Vice President Mike Pence makes campaign stop in Zanesville"
     excerpt: "ZANESVILLE, Ohio — Vice President Mike Pence made a campaign stop in Zanesville on Wednesday where the Trump campaign won handily back in 2016 capturing 65% of the vote. With less than 50 days until the November election, Pence’s speech focused on ..."
     publishedDateTime: 2020-10-02T05:46:00Z
@@ -146,22 +98,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_Pence_57522.jpg-f34e6_c0-0-5230-3050_s1200x700.jpg?70a6d040525b95b75fe6c36479c516dde92ee6e5"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Vice President Mike Pence to be in Grand Rapids Wednesday"
-    excerpt: "Vice President Mike Pence will travel to Grand Rapids on Wednesday, Oct. 14. Pence will deliver remarks on the \"historic accomplishments of the Trump administration.\" The event will take place at 12:30 p."
-    publishedDateTime: 2020-10-13T13:05:00Z
-    webUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday"
-    ampWebUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
-    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 75
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2844be0/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.theindychannel.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Vice President Mike Pence headed to Selma, NC for MAGA event Friday"
     excerpt: "Vice President Mike Pence is returning to North Carolina for another campaign event. Pence is scheduled to arrive in Selma, North Carolina, on Friday Oct. 17. The event will be held at The Farm at 95."
@@ -336,22 +272,6 @@ related:
     quality: 72
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PIND/a4c4657d-4f89-4e21-ad93-fd72a40134a3-pence.jpg?auto=webp&crop=4607,2592,x0,y691&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence to visit Grand Rapids Wednesday for campaign event"
-    excerpt: "Vice President Mike Pence on Wednesday will hold a campaign event at an automotive trim company in Grand Rapids, President Donald Trump's campaign announced Saturday night. The event will be held at Lacks Enterprises in Grand Rapids and is scheduled to begin at 12:30 p."
-    publishedDateTime: 2020-10-12T19:40:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/10/mike-pence-visit-grand-rapids/5958341002/"
-    ampWebUrl: "https://amp.freep.com/amp/5958341002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5958341002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/NLED/d3e83616-4fb2-42b8-9c36-e4846c6d0b23-AP20279737181110.jpg?auto=webp&crop=3956,2226,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

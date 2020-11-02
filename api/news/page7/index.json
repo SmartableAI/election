@@ -2,6 +2,279 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-26-trump-keeps-calling-750-tax-payment-a-filing-fee-experts-say-theres-no-such-thing.md",
+      "title": "Trump keeps calling $750 tax payment a 'filing fee.' Experts say there's no such thing",
+      "excerpt": "President Donald Trump keeps bringing up what he calls a $750 filing fee for his federal income tax returns. What's that all about?",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/columnist/2020/10/23/president-donald-trump-keeps-bringing-up-what-he-calls-750-filing-fee-his-federal-income-tax-returns/6010994002/",
+      "originalUrl": "https://www.usatoday.com/story/money/columnist/2020/10/23/president-donald-trump-keeps-bringing-up-what-he-calls-750-filing-fee-his-federal-income-tax-returns/6010994002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6010994002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6010994002",
+      "publishedDateTime": "2020-10-25T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-trump-shirks-covid-19-guidelines-while-greeting-a-nearly-maskless-crowd.md",
+      "title": "Trump shirks Covid-19 guidelines while greeting a nearly maskless crowd",
+      "excerpt": "During a campaign stop in Maine, President Donald Trump, without a mask, greeted a largely maskless crowd and signed autographs while in close proximity. CNN medical analyst Dr. Jonathan Reiner says the President's messaging undermines the effort of health professionals advising their patients.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7YgfpVAODTk/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7YgfpVAODTk/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201025173013-trump-campaign-maine-crowd-no-mask-reiner-nr-vpx-00001905-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn",
+      "publishedDateTime": "2020-10-25T15:02:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-large-audience-few-masks-at-trumps-new-hampshire-rally.md",
+      "title": "Large audience, few masks at Trump's New Hampshire rally",
+      "excerpt": "Since losing the state’s race for the governorship by only 50,000 votes, Stacey Abrams and her voter rights organization, Fair Fight, have helped register more than 800,000 new voters in the state. From becoming the first Afro-Latina or LGBTQ congresswoman to the first Native American veteran in Congress,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-biden-trump-campaigns-push-battleground-states-n1244646/ncrd1244696",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244646",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244646",
+      "publishedDateTime": "2020-10-25T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-four-in-ten-supporters-of-biden-trump-would-not-accept-election-defeat.md",
+      "title": "Four in ten supporters of Biden, Trump would not accept election defeat",
+      "excerpt": "More than four in ten supporters of both President Donald Trump and his Democratic challenger, Joe Biden, said they would not accept the result of the November election if their preferred candidate loses,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27A0BB",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27A0BB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 8455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538745981&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O096",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27A0BB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A0BB",
+      "publishedDateTime": "2020-10-25T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.md",
+      "title": "Rep. Jim Jordan on reviewing and authenticating purported Hunter Biden emails",
+      "excerpt": "Rep. Jim Jordan, R-Ohio, who said his staff reviewed and independently authenticated the purported emails from Hunter Biden’s laptop, told “Sunday Morning Futures” that “they’re as real as real can be.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp",
+      "publishedDateTime": "2020-10-25T12:58:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-anti-protesters-attack-jews-for-trump-vehicle-convoy-in-new-york-city.md",
       "title": "Anti-protesters attack 'Jews for Trump' vehicle convoy in New York City",
       "excerpt": "A “Jews For Trump” vehicle convoy was repeatedly attacked and heckled as it made its way through New York City Sunday morning to show its support of the president, video shows.",
@@ -114,62 +387,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-25-ice-cube-im-not-playing-politics-by-working-with-trump-campaign-on-platinum-plan-for-black-americans.md",
-      "title": "Ice Cube: 'I'm not playing politics' by working with Trump campaign on 'Platinum Plan' for Black Americans",
-      "excerpt": "Rapper Ice Cube continued to defend himself against social media attacks for working with President Trump on his \"Platinum Plan\" for Black Americans, telling “Fox News Sunday” that he is “not playing politics with this.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NwDXyao1Jko/ice-cube-interview-trump-campaign-platinum-plan-black-americans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NwDXyao1Jko/ice-cube-interview-trump-campaign-platinum-plan-black-americans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ice-cube-interview-trump-campaign-platinum-plan-black-americans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-cube-interview-trump-campaign-platinum-plan-black-americans.amp",
-      "publishedDateTime": "2020-10-25T11:37:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-health-experts-question-pence-campaigning-as-essential-work.md",
       "title": "Health experts question Pence campaigning as essential work",
       "excerpt": "Health policy specialists are questioning Vice President Mike Pence’s claim that federal rules on essential workers allow him to continue to campaign and not quarantine himself after exposure to multi",
@@ -178,7 +395,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -222,21 +439,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county.md",
-      "title": "Kamala Harris’ husband Doug Emhoff campaigns in Aroostook County",
-      "excerpt": "Emhoff toured the Lundeen Potato Facility in Mars Hill and spoke at a get-out-the-vote rally at Farm Park in Fort Fairfield to help the Biden-Harris ticket win Maine’s toss-up 2nd Congressional District.",
+      "path": "_news/2020-10-26-what-to-make-of-the-kinder-gentler-donald-trump.md",
+      "title": "What to make of the 'kinder, gentler' Donald Trump",
+      "excerpt": "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st",
       "sourceUrl": null,
-      "webUrl": "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/",
-      "originalUrl": "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/",
+      "webUrl": "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump",
+      "originalUrl": "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Douglas-Emhoff-8-Cropped.jpg?fit=2500%2C1563&#038;ssl=1",
-          "width": 2500,
-          "height": 1563,
+          "url": "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -244,63 +461,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp",
       "publishedDateTime": "2020-10-25T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bangor Daily News",
-        "domain": "bangordailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.md",
-      "title": "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson",
-      "excerpt": "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6NWqlGnUVw/joe-hunter-biden-china-ron-johnson",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6NWqlGnUVw/joe-hunter-biden-china-ron-johnson",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 294,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp",
-      "publishedDateTime": "2020-10-25T09:15:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -317,25 +487,25 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Donald Trump"
       ]
     },
     {
-      "path": "_news/2020-10-25-donald-trump-and-mike-pence-both-campaign-sunday-despite-coronavirus-cases-among-vice-presidents-staff.md",
-      "title": "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff",
-      "excerpt": "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said.",
+      "path": "_news/2020-10-25-pence-to-keep-up-travel-despite-contact-with-infected-aide.md",
+      "title": "Pence to keep up travel despite contact with infected aide",
+      "excerpt": "The White House says Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
+      "webUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1273,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -343,16 +513,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6031990002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002",
-      "publishedDateTime": "2020-10-25T08:31:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-25T09:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -369,7 +539,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Mike Pence"
       ]
     },
@@ -386,7 +555,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -442,7 +611,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 305,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -484,6 +653,49 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.md",
+      "title": "Can Joe Biden flip Georgia to Democrats? Campaign stops set for Warm Springs, Atlanta",
+      "excerpt": "Joe Biden will travel to Georgia next week, making a late push in a state that Republicans have won every presidential election since 1996. Biden’s campaign says he will deliver remarks in Warm Springs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html",
+      "originalUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VZT67ZTTZNERHL4YLTGMZVJASY.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp",
+      "publishedDateTime": "2020-10-24T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -612,7 +824,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2658,
+      "heat": 2638,
       "tags": null,
       "images": [
         {
@@ -725,7 +937,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 375,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -822,58 +1034,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-new-york-grocery-store-sparked-backlash-with-a-20-discount-offer-for-trump-supporters.md",
-      "title": "New York grocery store sparked backlash with a 20% discount offer for Trump supporters",
-      "excerpt": "Store owner Jose Colon told Fox News he also meant to extend the 20% off promotional offer to backers of Democratic presidential nominee Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10",
-      "originalUrl": "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f948c93f21803001222bcc5?width=1200&format=jpeg",
-          "width": 814,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp",
-      "publishedDateTime": "2020-10-24T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1044,7 +1204,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1199,162 +1359,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-jr-floats-2024-run-for-president-this-will-make-the-lib-heads-explode.md",
-      "title": "Trump Jr. floats 2024 run for president: ‘This will make the lib heads explode’",
-      "excerpt": "Donald Trump Jr. posted a photo to Instagram Saturday standing in front of a “Don Jr 2024” sign, teasing that prospect. “Hahahahaha. Oh boy. This was a sign I saw up",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
-      "originalUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/don-jr-46.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
-      "publishedDateTime": "2020-10-24T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-minority-pushes-trump-agenda-largely-unpopular-among-tribes.md",
-      "title": "Minority pushes Trump agenda largely unpopular among tribes",
-      "excerpt": "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump’s agenda in areas long considered Democratic territory",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-hear-trump-speak-after-voting-in-person-in-florida.md",
-      "title": "Hear Trump speak after voting in person in Florida",
-      "excerpt": "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn",
-      "publishedDateTime": "2020-10-24T08:11:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

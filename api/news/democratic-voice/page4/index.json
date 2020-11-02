@@ -2,25 +2,25 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-10-10-the-president-is-likely-toast-trumps-woes-raise-gop-fears-of-a-blue-wave.md",
-      "title": "'The president is likely toast': Trump's woes raise GOP fears of a blue wave",
-      "excerpt": "\"The president has had possibly the worst two-week stretch that a candidate could have going into the final month of an election,\" one Republican strategist said.",
+      "path": "_news/2020-10-11-analysis-joe-bidens-polling-better-than-any-challenger-since-1936.md",
+      "title": "Analysis: Joe Biden's polling better than any challenger since 1936",
+      "excerpt": "Former Vice President Joe Biden is dominating President Donald Trump in the latest polls. No, the election is not over yet, and Trump still has a non-negligible chance of winning.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/president-likely-toast-trump-s-woes-raise-gop-fears-blue-n1242753",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/president-likely-toast-trump-s-woes-raise-gop-fears-blue-n1242753",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d7b55ymY66I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d7b55ymY66I/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 132,
+      "heat": 275,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_41/3418914/201009-donald-trump-al-1420_d0ed04371569c11d325b6ef020a5f58d.jpg",
-          "width": 2500,
-          "height": 1724,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,56 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242753",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242753",
-      "publishedDateTime": "2020-10-09T21:27:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html",
+      "publishedDateTime": "2020-10-11T14:17:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-as-trump-revives-push.md",
+      "title": "Pelosi calls latest Trump stimulus proposal 'grossly inadequate' as Trump revives push",
+      "excerpt": "\"It is hard to understand who is shaping their approach,\" Pelosi said of the Trump administration, \"which to date has been a miserable and deadly failure.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242854",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242854",
+      "publishedDateTime": "2020-10-11T10:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -59,25 +106,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-joe-bidens-2020-appeal-to-the-white-working-class-can-work-just-ask-my-dad.md",
-      "title": "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad.",
-      "excerpt": "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me.",
+      "path": "_news/2020-10-11-sasse-its-grotesque-biden-and-dems-wont-discuss-suicide-bombing-court-packing.md",
+      "title": "Sasse: 'It's grotesque' Biden and Dems won't discuss 'suicide bombing' court packing",
+      "excerpt": "What they’re really talking about — or refusing to talk about — is the suicide bombing of two branches of government.”",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727",
+      "webUrl": "https://www.politico.com/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
+      "originalUrl": "https://www.politico.com/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 132,
+      "heat": 128,
       "tags": null,
       "images": [
         {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3417006/201002-think-randy-lewellen-with-daughter-se-1059a_3350f9af48be7d86da91e68a1315f0d2.jpg",
-          "width": 2404,
-          "height": 1533,
+          "url": "https://static.politico.com/b6/9e/daa9bbd04e869f2f46bb5dcf784c/20201011-bensasse-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -85,9 +132,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1241727",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241727",
-      "publishedDateTime": "2020-10-09T14:39:00-07:00",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
+      "publishedDateTime": "2020-10-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-mike-pences-fly-takes-center-stage-on-saturday-night-live.md",
+      "title": "Mike Pence's fly takes center stage on 'Saturday Night Live'",
+      "excerpt": "The vice president, played by Beck Bennett, assured the nation: \"The president is doing amazing, thanks to his team of terrified doctors.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/pop-culture/tv/mike-pence-s-fly-takes-center-stage-saturday-night-live-n1242839",
+      "originalUrl": "https://www.nbcnews.com/pop-culture/tv/mike-pence-s-fly-takes-center-stage-saturday-night-live-n1242839",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_41/3419131/201010-snl-er-1156pm_44fa640d7c35014b2f0e1dcede030b7a.png",
+          "width": 1917,
+          "height": 1075,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242839",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242839",
+      "publishedDateTime": "2020-10-10T22:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -111,7 +215,233 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-trump-has-met-cdc-criteria-to-end-isolation-and-is-cleared-to-return-to-an-active-schedule-by-his-physician.md",
+      "title": "Trump has met CDC criteria to end isolation and is cleared to return to an active schedule by his physician",
+      "excerpt": "President Donald Trump has been cleared to return to an active schedule, according to a new memo from his physician, Dr. Sean Conley, released Saturday night.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
+      "publishedDateTime": "2020-10-10T20:00:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-trump-has-called-his-supporters-disgusting-do-they-care.md",
+      "title": "Trump Has Called His Supporters ‘Disgusting.’ Do They Care?",
+      "excerpt": "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html",
+      "publishedDateTime": "2020-10-10T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-taking-page-from-authoritarians-trump-turns-power-of-state-against-political-rivals.md",
+      "title": "Taking Page From Authoritarians, Trump Turns Power of State Against Political Rivals",
+      "excerpt": "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/10/us/politics/10dc-prexy-2/10dc-prexy-2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html",
+      "publishedDateTime": "2020-10-10T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-biden-campaign-launches-first-ad-featuring-cindy-mccain.md",
+      "title": "Biden campaign launches first ad featuring Cindy McCain ",
+      "excerpt": "Joe Biden's presidential campaign is unveiling its first television ad featuring Cindy McCain, the widow of Republican Sen. John McCain of Arizona, as the Democratic nominee seeks to gain ground with independents and disaffected Republicans in the battleground state.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yunu3yVxkjg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yunu3yVxkjg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923170004-cindy-mccain-intv-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-ad-cindy-mccain/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-ad-cindy-mccain/index.html",
+      "publishedDateTime": "2020-10-10T07:07:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     },
@@ -172,63 +502,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-on-economic-aid-trump-seems-to-realize-he-messed-up-tactically.md",
-      "title": "On economic aid, Trump seems to realize he 'messed up tactically'",
-      "excerpt": "It dawned on the oft-confused president that sabotaging himself in the final four weeks of re-election campaign wasn't such a good idea.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/economic-aid-trump-seems-realize-he-messed-tactically-ncna1242704",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/economic-aid-trump-seems-realize-he-messed-tactically-ncna1242704",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/j/newscms/2018_50/2679261/181211-trump-pence-pelosi-schumer-ew-1206p_98b6b0120df347aa6749aa6f649f6587.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-09-what-makes-mike-pences-complicity-so-chilling.md",
       "title": "What Makes Mike Pence’s Complicity So Chilling",
       "excerpt": "Somewhere under the cornfields and backyard hoop courts of Indiana is a small black box holding the conscience of Vice President Mike Pence. He buried it four years ago, when a tape emerged of Donald Trump boasting about sexually assaulting women.",
@@ -282,62 +555,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-biden-says-hell-answer-court-packing-question-when-the-election-is-over.md",
-      "title": "Biden says he'll answer court-packing question 'when the election is over'",
-      "excerpt": "Democratic presidential nominee Joe Biden again ducked questions Thursday about whether he would seek to add seats to the Supreme Court, telling reporters he would not address the issue until after the November 3 election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0zHRjIHTFqs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0zHRjIHTFqs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 468,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201006165347-02-biden-gettysburg-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html",
-      "publishedDateTime": "2020-10-08T17:01:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     },
@@ -411,7 +628,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2603,
+      "heat": 2403,
       "tags": null,
       "images": [
         {
@@ -457,25 +674,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-08-analysis-this-is-vice-president-mike-pences-answer-on-a-peaceful-transfer-of-power-read-it-carefully.md",
-      "title": "Analysis: This is Vice President Mike Pence's answer on a peaceful transfer of power. Read it carefully.",
-      "excerpt": "The vice presidential debate Wednesday night will be remembered more for how the candidates evaded questions than how they answered them.\n    \n",
+      "path": "_news/2020-10-08-trump-pledges-to-withdraw-troops-from-afghanistan-by-christmas-taliban-cheer.md",
+      "title": "Trump pledges to withdraw troops from Afghanistan by Christmas; Taliban cheer",
+      "excerpt": "Afghanistan's Taliban group on Thursday welcomed an announcement by President Donald Trump that he would pull out all U.S. troops from the country by Christmas. It was \"a positive step towards the implementation of (the) Doha agreement,",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html",
+      "webUrl": "https://www.nbcnews.com/news/world/trump-pledges-withdraw-troops-afghanistan-christmas-taliban-cheer-n1242590",
+      "originalUrl": "https://www.nbcnews.com/news/world/trump-pledges-withdraw-troops-afghanistan-christmas-taliban-cheer-n1242590",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 188,
+      "heat": 132,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201007213656-30-vp-debate-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_41/3418118/201007-afghan-talks-mc-9532_2ba34940be30fa05e78d56ed414bdcf9.JPG",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -483,16 +700,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html",
-      "publishedDateTime": "2020-10-07T22:20:55-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242590",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242590",
+      "publishedDateTime": "2020-10-08T03:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -509,8 +726,8 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice",
-        "Mike Pence"
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -526,7 +743,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -567,120 +784,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-pence-attacks-biden-for-failing-to-rescue-kayla-mueller-who-was-held-hostage-by-isis.md",
-      "title": "Pence attacks Biden for failing to rescue Kayla Mueller, who was held hostage by ISIS.",
-      "excerpt": "Vice President Mike Pence brought the parents of Kayla Mueller, the human rights activist who was killed in 2015 by members of the Islamic State in Syria, to the debate hall and attacked Joseph R. Biden Jr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-10/07elections-briefing-07-22-10-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
-      "publishedDateTime": "2020-10-07T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-biden-crosses-270-threshold-in-cnns-electoral-college-outlook-for-first-time.md",
-      "title": "Biden crosses 270 threshold in CNN's Electoral College outlook for first time ",
-      "excerpt": "Joe Biden is surging in the battle for the White House with less than four weeks to go until Election Day.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2E8_r9CBU_Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2E8_r9CBU_Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html",
-      "publishedDateTime": "2020-10-07T16:51:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     },
@@ -856,62 +959,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-former-cia-director-hayden-backs-biden-warns-reelecting-trump-would-be-very-bad-for-america.md",
-      "title": "Former CIA Director Hayden backs Biden, warns reelecting Trump would be 'very bad' for America",
-      "excerpt": "Former CIA and NSA Director Michael Hayden on Wednesday warned that reelecting President Donald Trump would be \"very bad for America\" while endorsing Democratic nominee Joe Biden for president.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rOzNwIzIq1o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rOzNwIzIq1o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 438,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190628103419-general-michael-hayden-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html",
-      "publishedDateTime": "2020-10-07T08:25:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-stimulus-latest-trump-tweets-halt-negotiations-meaning-federal-help-for-millions-is-not-coming-anytime-soon.md",
       "title": "Stimulus latest: Trump tweets halt negotiations, meaning federal help for millions is not coming anytime soon",
       "excerpt": "President Donald Trump abruptly -- and single-handedly -- short-circuited stimulus negotiations on Tuesday, only to appear to reverse course eight hours later in a pair of tweets.\n    \n",
@@ -1082,6 +1129,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-biden-says-there-shouldnt-be-a-second-debate-if-trump-still-has-covid-19.md",
+      "title": "Biden says there shouldn't be a second debate if Trump still has Covid-19",
+      "excerpt": "Democratic presidential nominee Joe Biden said Tuesday that the second presidential debate should not be held if President Donald Trump is still infected with coronavirus, but that he would base his participation in the debate upon recommendations from medical experts.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UmkhnQmjdEQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UmkhnQmjdEQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1509,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200929212326-18-debate-cleveland-0929-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/joe-biden-second-debate-trump-covid/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/joe-biden-second-debate-trump-covid/index.html",
+      "publishedDateTime": "2020-10-06T18:01:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-biden-says-united-states-is-in-a-dangerous-place-and-calls-for-unity-in-gettysburg-speech.md",
       "title": "Biden says United States is in a 'dangerous place' and calls for unity in Gettysburg speech",
       "excerpt": "Democratic presidential nominee Joe Biden warned of the \"cost of division\" Tuesday in a speech in Gettysburg, Pennsylvania, delivering a call to turn past a moment he said is \"neither good nor normal\" and unify.\n    \n",
@@ -1150,7 +1253,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 375,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1308,62 +1411,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-fact-check-trump-falsely-tweets-that-covid-19-is-less-lethal-than-the-flu.md",
-      "title": "Fact check: Trump falsely tweets that Covid-19 is less lethal than the flu",
-      "excerpt": "President Donald Trump has consistently downplayed the threat of the coronavirus in public, and it seems testing positive for the virus himself has not changed his tune.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RrymOYiVtPI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RrymOYiVtPI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 473,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html",
-      "publishedDateTime": "2020-10-06T09:30:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-06-bernstein-on-trump-he-has-become-homicidally-negligent.md",
       "title": "Bernstein on Trump: He has become homicidally negligent",
       "excerpt": "CNN political analyst Carl Bernstein reacts to the White House declining an offer from the CDC to help contact trace the coronavirus outbreak in the White House.\n    \n",
@@ -1376,7 +1423,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1432,7 +1479,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 163,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -1488,7 +1535,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 595,
+      "heat": 475,
       "tags": null,
       "images": [
         {
@@ -1532,63 +1579,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-biden-describes-the-first-debate-as-a-clownish-undertaking.md",
-      "title": "Biden describes the first debate as a 'clownish undertaking'",
-      "excerpt": "Joe Biden was asked about his first debate with President Trump, and if he could stand up to his opponent in the future. He said the debate frustrated him but should have described it as a \"clownish undertaking\" instead of calling the president a clown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601",
-      "originalUrl": "https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_clown_201005_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93196357601",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93196357601",
-      "publishedDateTime": "2020-10-05T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-trump-off-the-air-in-ohio-and-iowa-as-polls-show-tight-races-in-both-states.md",
       "title": "Trump off the air in Ohio and Iowa as polls show tight races in both states",
       "excerpt": "President Donald Trump's campaign canceled its planned television advertising in Iowa and Ohio this week, focusing its spending on states where Trump is behind even as polls show he is neck-and-neck with Democratic challenger Joe Biden in the two Midwestern states.\n    \n",
@@ -1601,7 +1591,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 193,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -1645,23 +1635,23 @@
       ]
     },
     {
-      "path": "_news/2020-10-05-eric-trump-scheduled-to-sit-for-deposition-monday-in-new-york-attorney-general-investigation.md",
-      "title": "Eric Trump scheduled to sit for deposition Monday in New York attorney general investigation",
-      "excerpt": "Eric Trump, who runs day-to-day operations of the family real estate empire, is scheduled to sit for a deposition on Monday as part of the New York attorney general's investigation into whether the Trump Organization improperly inflated the value of its assets to obtain loans or tax benefits.\n    \n",
+      "path": "_news/2020-10-05-see-tappers-direct-message-to-americans-after-trumps-callous-tweet.md",
+      "title": "See Tapper's direct message to Americans after Trump's 'callous' tweet",
+      "excerpt": "CNN's Dr. Sanjay Gupta and Jake Tapper react to President Donald Trump's tweet telling Americans not to be afraid of Covid-19.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBefDRw1-nk/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBefDRw1-nk/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 164,
+      "heat": 235,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005114222-eric-trump-2019-file-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005163054-tapper-gupta-lead-10052020-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -1671,9 +1661,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html",
-      "publishedDateTime": "2020-10-05T09:30:12-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn",
+      "publishedDateTime": "2020-10-05T14:13:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

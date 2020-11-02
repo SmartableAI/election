@@ -83,6 +83,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Vice President Mike Pence holds campaign rally in Des Moines"
+    excerpt: "DES MOINES, Iowa — With just five days until Election Day, Vice President Mike Pence was back in Iowa campaigning for President Donald Trump to win reelection. He urged the importance of voting 'red' on the entire ballot, not just for the presidency."
+    publishedDateTime: 2020-10-29T22:56:00Z
+    webUrl: "https://www.wqad.com/article/news/local/vice-president-mike-pence-des-moines-iowa-make-america-great-again-rally-october-29-2020/524-33fb5753-761e-48f3-91e5-e8196a27f120"
+    ampWebUrl: "https://www.wqad.com/amp/article/news/local/vice-president-mike-pence-des-moines-iowa-make-america-great-again-rally-october-29-2020/524-33fb5753-761e-48f3-91e5-e8196a27f120"
+    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/local/vice-president-mike-pence-des-moines-iowa-make-america-great-again-rally-october-29-2020/524-33fb5753-761e-48f3-91e5-e8196a27f120"
+    type: article
+    provider:
+      name: WQAD
+      domain: wqad.com
+    quality: 75
+    images:
+      - url: "https://media.tegna-media.com/assets/WOI/images/60a0ae56-3180-459a-b665-7bf4018c62c7/60a0ae56-3180-459a-b665-7bf4018c62c7_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Pence to campaign in Fort Wayne on Thursday and vote in Indianapolis on Friday"
     excerpt: "Vice President Mike Pence has rescheduled his trip to vote in Indianapolis to Friday. He also will campaign in Fort Wayne on Thursday."
     publishedDateTime: 2020-10-19T17:01:00Z

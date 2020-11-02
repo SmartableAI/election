@@ -79,38 +79,6 @@ related:
         width: 1200
         height: 951
         isCached: true
-  - title: "Trump Sons Hint At 2024 Runs As President’s Polling Looks Dire"
-    excerpt: "A number of prominent Republicans, including Trump allies, have made trips to early primary states amid the ongoing 2020 election."
-    publishedDateTime: 2020-10-24T14:52:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f943e3b7a08c6884f937002%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3617%26cropY1%3D340%26cropY2%3D2633"
-        width: 1200
-        height: 761
-        isCached: true
-  - title: "‘I voted for a guy named Trump,’ the president says after voting in person in West Palm Beach"
-    excerpt: "President Donald Trump cast his in-person vote in West Palm Beach on Saturday morning, and said \"I voted for a guy named Trump.\" He took the opportunity to remind people how secure in-person voting is over mail ballots."
-    publishedDateTime: 2020-10-24T22:29:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 114
-    images:
-      - url: "https://www.chicagotribune.com/resizer/KgzswDY0nyTc_DHTjjDMvp_i5VY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IAWGT7FNMS4XFPH4KLRRHBJQGQ.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "FBI director Chris Wray and top US intelligence officials release video countering Trump's conspiracies about election integrity"
     excerpt: "The video will likely enrage the president and his allies as they claim the election is \"rigged\" and that mail-in voting leads to a fraudulent result."
     publishedDateTime: 2020-10-07T17:02:00Z
@@ -126,20 +94,6 @@ related:
       - url: "https://i.insider.com/5a7492c8ec1ade4d2d707e98?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "How Donald Trump's Presidency Has Changed The Media"
-    excerpt: "Navarro asks CNN's chief media correspondent Brian Stelter how Donald Trump's presidency has affected the media and what another four years could bring."
-    publishedDateTime: 2020-10-25T11:51:00Z
-    webUrl: "https://www.npr.org/2020/10/25/927564446/how-donald-trumps-presidency-has-changed-the-media"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
   - title: "'F*** Donald Trump': 50 Cent Says He 'Never Liked' Trump After Chelsea Handler Publicly Scolds Him for Endorsing President"
     excerpt: "\"For all I know he had me set up and had my friend Angel Fernandez killed but that's history,\" 50 Cent said on Saturday night."
@@ -157,22 +111,6 @@ related:
         width: 2937
         height: 1951
         isCached: true
-  - title: "Christopher Ray: FBI Director Contradicts Trump on Vote by Mail Fraud"
-    excerpt: "FBI Director Christopher Wray appeared to throw cold water on President Trump's repeated claims that mail-in voting will be tainted by massive voter fraud."
-    publishedDateTime: 2020-09-24T15:51:00Z
-    webUrl: "https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/"
-    ampWebUrl: "https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/christopher-wray-no-evidence-voter-fraud/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 75
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/09/pjimage-51-1.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
-        isCached: true
   - title: "Kirstie Alley Slammed On Twitter After Revealing She's Voting For Donald Trump"
     excerpt: "\"Cheers\" star Kirstie Alley said that she's voting for President Donald Trump this presidential election once more because she believes he \"will turn the economy around quickly.\""
     publishedDateTime: 2020-10-18T12:07:00Z
@@ -189,6 +127,17 @@ related:
         width: 600
         height: 917
         isCached: true
+  - title: "New Florida Resident Trump Casts Presidential Ballot for Himself"
+    excerpt: "U.S. President Donald Trump voted in his new home state of Florida on Saturday, casting his ballot for his re-election at a public library across the street from one of his golf clubs. Trump, wearing a mask to prevent the spread of coronavirus,"
+    publishedDateTime: 2020-10-24T16:02:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "v/nPe2R+eUgjqR9M5sL9Bowj49ZAWquUYlb133TqIOHlWfEC1PrX2ptU6WZGonZXC9SJBxAa9tYoTXQNKTHWK4Y4HDXf21K89x1EgiZIYOfDZly/BFbj7Eb9kbQLcDVD53xiBAa3lBBOrq+FvXDZrAdDzYZF89zfnZmI7QQ+UqN9vZwNuPQSSNeE3/bbLSl4tw+Wr36vmsZLZSWxQcnLS/mGvofF/H4pQ+qEgqRwFWnCrOVanCPQNleDu+6wY66fjbGxjhRgVwCLuOnL+NlNC/QWCgHGjUWI06yXj0FHpYvguAmuD96NpuvrzNWS4arewrkVEm336Cu2HaexlIxklPJigUdgW04xTxum/tP3urnpufq+8PtdO5c18s2/umkXWcVKUpfY6vI9ipJsBTMzg1jmES5Vf/SqFKZkb1hhuoelvLpYqEykg6nbRgoLREzYCs9tOlcp2wDn8zNgg9525b4HyQNayqbqWTjYnyuhID7pVq70kvcAErij/bQfiz/h8ZGDGzsYqY/kJI3k8NDM1A==;spzh72VREnqM2Di6aAc3Uw=="
 ---

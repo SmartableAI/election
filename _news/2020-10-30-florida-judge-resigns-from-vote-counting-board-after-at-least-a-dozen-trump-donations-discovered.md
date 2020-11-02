@@ -29,68 +29,145 @@ images:
     isCached: true
 
 related:
-  - title: "Pro-Trump high schooler sues Florida district for censoring support"
-    excerpt: "A pro-Trump high school student was issued a temporary restraining order after suing his school district that took issue with his elephant statue supporting President Trump."
-    publishedDateTime: 2020-10-24T17:08:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YAvPrWSLhPo/trump-florida-high-school-district-teen-vote-tyler-maxwell"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp"
+  - title: "Trump says votes should be counted by Election Day at Georgia rally"
+    excerpt: "Trump said extensions could allow “bad things happen in places like Pennsylvania and Nevada.”"
+    publishedDateTime: 2020-11-02T03:32:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKGR4VJWOW8/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d334b5c-f30e-4ae8-86a8-55791119d24c/ce3f607c-3472-47bf-9211-aa6a55c75a42/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump rips absentee ballot extensions, says election 'should end on November 3rd'"
+    excerpt: "President Trump on Friday panned decisions made by some courts that are allowing mail-in or absentee ballots to be counted if they are received by election authorities after Nov. 3, calling the rulings \"CRAZY and so bad for our Country.\""
+    publishedDateTime: 2020-10-30T17:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yjr_lTst78Q/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Rick Scott makes 'six-figure' ad buy for Trump in Florida: Report"
-    excerpt: "The pro-Trump ads will run in six to eight Florida media markets"
-    publishedDateTime: 2020-10-29T01:15:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vm_efSe-LhU/rick-scott-florida-trump-ad-buy-presidential-election"
-    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-florida-trump-ad-buy-presidential-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-florida-trump-ad-buy-presidential-election.amp"
+  - title: "Hundreds gather for Trump caravan rally across Long Island"
+    excerpt: "The same group has held rallies across the area, with one notable rally in New York City where cars stopped in front of Trump Tower on Fifth Avenue to show support for the president."
+    publishedDateTime: 2020-10-25T19:28:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tVA30Pq6PoA/trump-caravan-rally-long-island"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-caravan-rally-long-island.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-caravan-rally-long-island.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2174a7ee-e71a-459c-82e5-f8cb397e2ee5/c8774beb-3e04-4d52-bb28-8b1db2d46535/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ead988d3-9def-4271-a37a-79535f7a8bd7/3b50f3d2-ff89-47d2-82c2-b0ed3bfa2172/1280x720/match/image.jpg"
         width: 1280
-        height: 718
+        height: 720
         isCached: true
-  - title: "Pro-Trump parade rolls through NYC neighborhood, receives surprising support"
-    excerpt: "Video taken of a pro-Trump auto parade ahead of Sunday’s chaotic “Jews for Trump” rally in New York City shows at least one neighborhood giving the parade a warm reception hours before clashes broke out elsewhere in the city between Trump supporters and protesters."
-    publishedDateTime: 2020-10-28T22:38:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sNaFob8Bmpk/pro-trump-parade-rolls-through-nyc-neighborhood"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
+  - title: "Man arrested at Trump rally in Maine carrying knife and wooden baton"
+    excerpt: "A man wielding a knife and wooden baton was arrested at a campaign rally for President Trump in Maine Wednesday where Gov. Kristi Noem appeared. "
+    publishedDateTime: 2020-10-28T23:43:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHoVrBFohvY/man-arrested-trump-rally-maine"
+    ampWebUrl: "https://www.foxnews.com/politics/man-arrested-trump-rally-maine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/man-arrested-trump-rally-maine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20291003271342.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
+    excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."
+    publishedDateTime: 2020-10-25T20:30:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVk-LuIG9CU/russian-hackers-cant-change-votes-trumps-national-security-adviser-says"
+    ampWebUrl: "https://www.foxnews.com/politics/russian-hackers-cant-change-votes-trumps-national-security-adviser-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russian-hackers-cant-change-votes-trumps-national-security-adviser-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3706f679-6725-4e41-8b0b-4117586db841/b2fef4ae-3f28-4dc1-bcf7-a4111b0ab125/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump gains in Florida polls despite Democrats lead in early voting"
-    excerpt: "President Trump is leading for the first time in Florida polling, according to Real Clear Politics on Tuesday, even as Democrats lead in early voting."
-    publishedDateTime: 2020-10-28T01:17:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/96MEjXZ5sOA/trump-gains-in-florida-polls-despite-democrats-lead-in-early-voting"
+  - title: "Trump's path to victory includes winning Nevada or Arizona, holding Georgia, North Carolina: Jason Miller"
+    excerpt: "President Trump's path to reelection includes holding Arizona, Georgia and North Carolina and even picking up purple state Nevada, Trump campaign senior adviser Jason Miller told ABC's \"This Week.\""
+    publishedDateTime: 2020-11-01T16:26:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hlzhq8h1gjA/trump-nevada-road-to-270-north-carolina-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-nevada-road-to-270-north-carolina-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nevada-road-to-270-north-carolina-arizona.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 158
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304773736489.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
+  - title: "What in the World if Trump Wins?"
+    excerpt: "In a second term, expect more chaotic, confident wheeling and dealing overseas."
+    publishedDateTime: 2020-10-26T22:00:00Z
+    webUrl: "https://www.wsj.com/articles/what-in-the-world-if-trump-wins-11603749240"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-in-the-world-if-trump-wins-11603749240"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-in-the-world-if-trump-wins-11603749240"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-249650/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
+    excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
+    publishedDateTime: 2020-10-27T12:18:00Z
+    webUrl: "https://www.wsj.com/articles/in-trump-country-supporters-are-steadfast-but-his-personality-pandemic-wear-11603800097"
+    ampWebUrl: "https://www.wsj.com/amp/articles/in-trump-country-supporters-are-steadfast-but-his-personality-pandemic-wear-11603800097"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-trump-country-supporters-are-steadfast-but-his-personality-pandemic-wear-11603800097"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-250155/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "The Pollster Who Thinks Trump Will Win"
+    excerpt: "Robert Cahaly foresaw the outcome in 2016. Will ‘social acceptability bias’ deliver another surprise?"
+    publishedDateTime: 2020-10-30T03:51:00Z
+    webUrl: "https://www.wsj.com/articles/the-pollster-who-thinks-trump-will-win-11604011863?mod=djemalertNEWS"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
 
 secured: "T883r0mlMHfwLfTaW/82VGocmRrooxJd3Vxd1JdGPGVggdRHPsj2DpibP4PoJWPhlbgvUW6UwGE8pe9DGLSHp5yin+OMRRR5XtUoCh0FdwJGSJqe2B7wb3R0uk0wfHw/V07yHWA/puK070uS/pYupECxS4Vq1pYaHbFDwUTQQJuOMZGvUjXpbZj/uNlRJxgWfS1j0BpNsT2bczcTkQXMtOswFPp5Vpv0rwX+HGmWcWUqe4spIorVdamrmflzTX7FfooEuGJCQhpvH/qgUjdmiTE7bovbXM8m+UZgcErncncMYF1gDEaRmOpsLTWQYLYXVInBq0vIUlITvu4Q/jyblkD8oaZu0uq/ukYkCqOjoDQ=;/7qW1zi3CroC9OUQGtqApg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-tr
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/"
 type: article
 quality: 120
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'West Wing' star Martin Sheen: Donald Trump gets away with more than any TV president could"
+    excerpt: "West Wing' is my escape from the Trump era. Its TV public servants know what the right thing is and they're on speaking terms with their better angels."
+    publishedDateTime: 2020-10-29T22:54:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/28/west-wing-escapism-martin-sheen-interview-donald-trump-column/3746508001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3746508001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3746508001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/27/USAT/55afa79f-4713-404f-84ab-457a4f87edaf-AP_TV-West_Wing-Voting_Special.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kristin Cavallari's Ex-Husband Jay Cutler Endorses Donald Trump For President Like Jack Nicklaus"
     excerpt: "Kristin Cavallari's ex-husband, Jay Cutler, has seemingly endorsed Donald Trump after reposting Jack Nicklaus' message about the POTUS."
     publishedDateTime: 2020-10-30T02:24:00Z

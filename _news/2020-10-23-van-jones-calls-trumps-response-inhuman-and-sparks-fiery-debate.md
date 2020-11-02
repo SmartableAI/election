@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "New York Times: Trump paid no income taxes in 10 out of 15 years beginning in 2000"
-    excerpt: "Donald Trump has paid no income taxes whatsoever in 10 of the past 15 years since 2017 as a result of reporting that he was losing significantly more than he made, according to an explosive report released Sunday by the New York Times.\n    \n"
-    publishedDateTime: 2020-09-27T23:22:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TyYoxDdWM3E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-york-times-report/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-york-times-report/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924170345-01-trump-0924-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "New York Times: Tax records show Trump had over $270 million in debt forgiven after failing to repay lenders"
     excerpt: "President Donald Trump has had more than $270 million in debt forgiven since 2010 after he failed to repay his lenders for a Chicago skyscraper development, The New York Times reported Tuesday.\n    \n"
     publishedDateTime: 2020-10-28T03:07:24Z

@@ -31,179 +31,97 @@ images:
     isCached: true
 
 related:
-  - title: "Trump’s Mission: Burn it down"
-    excerpt: "Trump can’t beat Biden as Biden is currently defined."
-    publishedDateTime: 2020-10-22T19:39:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks2EwAeq9BE/trumps-mission-burn-it-down"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
+  - title: "Trump says votes should be counted by Election Day at Georgia rally"
+    excerpt: "Trump said extensions could allow “bad things happen in places like Pennsylvania and Nevada.”"
+    publishedDateTime: 2020-11-02T03:32:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKGR4VJWOW8/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9375a979-3951-45a7-b621-8a930ac310b9/81b3d6f4-fac0-49c0-867d-5701e2cd8c63/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d334b5c-f30e-4ae8-86a8-55791119d24c/ce3f607c-3472-47bf-9211-aa6a55c75a42/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "New Jersey judge throws out Trump campaign mail-in ballot lawsuit"
-    excerpt: "A federal judge in New Jersey Thursday threw out an August lawsuit filed by the Trump campaign in relation to mail-in voting.  "
-    publishedDateTime: 2020-10-23T04:26:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sv9BGKAUejY/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp"
+  - title: "Trump rips absentee ballot extensions, says election 'should end on November 3rd'"
+    excerpt: "President Trump on Friday panned decisions made by some courts that are allowing mail-in or absentee ballots to be counted if they are received by election authorities after Nov. 3, calling the rulings \"CRAZY and so bad for our Country.\""
+    publishedDateTime: 2020-10-30T17:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yjr_lTst78Q/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1963c64d-d3e7-4868-9a06-8939df701d4d/347f5a13-791d-4178-a0ba-6670d52fead8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "’60 Minutes’ airs Trump interview cut short by president"
-    excerpt: "“60 Minutes” aired the interview on Sunday night. Stahl warned viewers that the interview started politely but “ended, regrettably, contentiously.”"
-    publishedDateTime: 2020-10-26T08:53:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXIEPNZqjZM/60-minutes-airs-trump-interview-cut-short-by-president"
-    ampWebUrl: "https://www.foxnews.com/politics/60-minutes-airs-trump-interview-cut-short-by-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/60-minutes-airs-trump-interview-cut-short-by-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Meadows says Trump tweets to declassify Russia probe docs 'were not' direct orders"
-    excerpt: "White House chief of staff Mark Meadows rejected suggestions this week that President Trump’s tweets earlier this month calling for the “total declassification” of all documents related to the Russia investigation and the FBI’s probe into Hillary Clinton’s private email server were an explicit order"
-    publishedDateTime: 2020-10-21T14:48:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXsdBGgFzjI/meadows-trump-tweets-declassify-russia-probe-documents"
-    ampWebUrl: "https://www.foxnews.com/politics/meadows-trump-tweets-declassify-russia-probe-documents.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-trump-tweets-declassify-russia-probe-documents.amp"
+  - title: "Hundreds gather for Trump caravan rally across Long Island"
+    excerpt: "The same group has held rallies across the area, with one notable rally in New York City where cars stopped in front of Trump Tower on Fifth Avenue to show support for the president."
+    publishedDateTime: 2020-10-25T19:28:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tVA30Pq6PoA/trump-caravan-rally-long-island"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-caravan-rally-long-island.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-caravan-rally-long-island.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "The Trump campaign announces the launch of new national Spanish-language ad \"Por Trump\""
-    excerpt: ""
-    publishedDateTime: 2020-10-21T00:46:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9jTEfWRWh8/trump-campaign-spanish-language-ad-por-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/42dd33d5-AP20294037644605.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "CBP chief warns of border 'invasion' with liberal policies, reversal of Trump-era efforts"
-    excerpt: "The United States could face an \"invasion\" that would make the recent migrant crisis seem relatively tame if President Trump's efforts are reversed, and Democratic policies incentivize illegal border crossings, Acting Customs and Border Protection Commissioner Mark Morgan told reporters on Tuesday."
-    publishedDateTime: 2020-10-27T21:33:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CUodJeQ3JD0/border-chief-warns-invasion-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/border-chief-warns-invasion-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-chief-warns-invasion-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44a905b2-ea8a-4885-9570-85adbfdd4a61/1813cccf-5c76-4873-ac15-1d76991887a1/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ead988d3-9def-4271-a37a-79535f7a8bd7/3b50f3d2-ff89-47d2-82c2-b0ed3bfa2172/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pro-Trump hay bale sculpture crops up after Tennesee man's traditional signs were cut down"
-    excerpt: "Hay is for…campaign signs. At least on one Tennessee man’s property."
-    publishedDateTime: 2020-10-21T00:44:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AxKgxYL8s8g/pro-trump-hay-bale-sculpture-tennesee"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-hay-bale-sculpture-tennesee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-hay-bale-sculpture-tennesee.amp"
+  - title: "Man arrested at Trump rally in Maine carrying knife and wooden baton"
+    excerpt: "A man wielding a knife and wooden baton was arrested at a campaign rally for President Trump in Maine Wednesday where Gov. Kristi Noem appeared. "
+    publishedDateTime: 2020-10-28T23:43:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHoVrBFohvY/man-arrested-trump-rally-maine"
+    ampWebUrl: "https://www.foxnews.com/politics/man-arrested-trump-rally-maine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/man-arrested-trump-rally-maine.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Trump-2020-Hay-ADRIAN-POWELL-1.jpg?ve=1&tl=1"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20291003271342.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump's path to victory includes winning Nevada or Arizona, holding Georgia, North Carolina: Jason Miller"
+    excerpt: "President Trump's path to reelection includes holding Arizona, Georgia and North Carolina and even picking up purple state Nevada, Trump campaign senior adviser Jason Miller told ABC's \"This Week.\""
+    publishedDateTime: 2020-11-01T16:26:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hlzhq8h1gjA/trump-nevada-road-to-270-north-carolina-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-nevada-road-to-270-north-carolina-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nevada-road-to-270-north-carolina-arizona.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304773736489.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "The Trump ‘Jobs Boom’ Is a Convenient Myth"
-    excerpt: "Covid economy, but unemployment declined steadily starting in 2010."
-    publishedDateTime: 2020-10-21T17:02:00Z
-    webUrl: "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-247630?width=620&size=1.5"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "Nuns wearing MAGA masks spotted behind Trump at rally"
-    excerpt: "A group of Trump-loving nuns gained attention on social media Saturday after they were spotted wearing MAGA masks with their habits and cheering on the president behind him at his rally in Circleville,"
-    publishedDateTime: 2020-10-25T00:17:00Z
-    webUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
+  - title: "Florida judge resigns from vote-counting board after at least a dozen Trump donations discovered"
+    excerpt: "A Florida judge who was leading the Duval County's vote-counting board was forced to resign Thursday after it was uncovered that he had donated hundreds of dollars to President Trump's campaign and the Republican National Committee, and also has Trump-Pence signs covering his front lawn. "
+    publishedDateTime: 2020-10-30T21:47:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fFOIADsNTGg/florida-judge-resigns-vote-counting-board-trump-donations"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 142
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/181cfcca-2a48-4e5d-8d4b-11a506858939/daa0e4ed-79eb-48d3-a9fe-7476913978fa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "New York State Republican Candidates Fight Shadow of Trump"
-    excerpt: "GOP candidates hoping to roll back gains made by New York Democrats in 2018 are trying to differentiate themselves from President Trump."
-    publishedDateTime: 2020-10-25T23:26:00Z
-    webUrl: "https://www.wsj.com/articles/new-york-state-republican-candidates-fight-shadow-of-trump-11603666800"
-    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-state-republican-candidates-fight-shadow-of-trump-11603666800"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-state-republican-candidates-fight-shadow-of-trump-11603666800"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-248736/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Issues important to Trump await Barrett on Supreme Court"
-    excerpt: "Amy Coney Barrett's first votes on the Supreme Court could include two big topics affecting the man who appointed her. The court is weighing a plea from President Donald Trump to prevent the Manhattan district attorney from acquiring his tax returns."
-    publishedDateTime: 2020-10-27T11:13:00Z
-    webUrl: "https://www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues"
-    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-amy-coney-barrett-supreme-court-important-issues.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a1de409-79ad-4875-9231-c96193a4761b/656cc5d6-0379-4e6f-9b62-b3314c81d8c0/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Duval.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -223,70 +141,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Charlie Kirk: Enthusiasm for President Trump at record highs"
-    excerpt: "President Trump expected to take the stage in the battleground state of Wisconsin tonight for his third and final rally of the day. The President also had rallies in Ohio and North Carolina, which brings me to this: Trump is closing hard."
-    publishedDateTime: 2020-10-29T19:10:00Z
-    webUrl: "https://www.foxnews.com/transcript/charlie-kirk-enthusiasm-for-president-trump-at-record-highs"
-    ampWebUrl: "https://www.foxnews.com/transcript/charlie-kirk-enthusiasm-for-president-trump-at-record-highs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/charlie-kirk-enthusiasm-for-president-trump-at-record-highs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/90750d5f-eb89-4a23-a199-ce1017a390d9/1edef06c-8465-4365-973c-2b89bcce42ef/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Justice Barrett May Inspire Pro-Life Votes for Trump"
-    excerpt: "Suburban women and religious voters like his judicial appointments, even if his character makes them leery of a second term."
-    publishedDateTime: 2020-10-29T23:00:00Z
-    webUrl: "https://www.wsj.com/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
-    ampWebUrl: "https://www.wsj.com/amp/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-251976/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The Pollster Who Thinks Trump Will Win"
-    excerpt: "Robert Cahaly foresaw the outcome in 2016. Will ‘social acceptability bias’ deliver another surprise?"
-    publishedDateTime: 2020-10-29T23:27:00Z
-    webUrl: "https://www.wsj.com/articles/the-pollster-who-thinks-trump-will-win-11604011863?mod=opinion_lead_pos5"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-251925/social"
-        width: 1279
-        height: 640
-        isCached: true
-  - title: "Many on Wall Street Who Predicted a Trump Win in 2016 Aren’t So Sure Now"
-    excerpt: "In 2016, a small number of well-known investors and executives predicted that Donald Trump would win the presidential election. This year they aren’t quite so bold."
-    publishedDateTime: 2020-10-28T13:15:00Z
-    webUrl: "https://www.wsj.com/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
-    ampWebUrl: "https://www.wsj.com/amp/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 134
-    images:
-      - url: "https://images.wsj.net/im-250339/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
     excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
     publishedDateTime: 2020-10-27T12:18:00Z
@@ -303,66 +157,17 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "50 Cent says 'F--k Donald Trump' one week after expressing support for president"
-    excerpt: "Chelsea Handler has been outspoken about 50 Cent's support for Donald Trump in opposition to Joe Biden's tax plan"
-    publishedDateTime: 2020-10-27T00:03:00Z
-    webUrl: "https://www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president"
-    ampWebUrl: "https://www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president.amp"
+  - title: "The Pollster Who Thinks Trump Will Win"
+    excerpt: "Robert Cahaly foresaw the outcome in 2016. Will ‘social acceptability bias’ deliver another surprise?"
+    publishedDateTime: 2020-10-30T03:51:00Z
+    webUrl: "https://www.wsj.com/articles/the-pollster-who-thinks-trump-will-win-11604011863?mod=djemalertNEWS"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/50-Cent-Chelsea-Handler.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "'SNL' mocks final debate, voters whose 'entire personality is hating Donald Trump'"
-    excerpt: "Live\" satirized last week’s final presidential debate in this weekend's cold open by first making fun of the novel mute button that was introduced Thursday to keep the candidates from interrupting each other."
-    publishedDateTime: 2020-10-26T04:20:00Z
-    webUrl: "https://www.foxnews.com/entertainment/snl-mocks-final-debate-voters-whose-entire-personality-is-hating-donald-trump"
-    ampWebUrl: "https://www.foxnews.com/entertainment/snl-mocks-final-debate-voters-whose-entire-personality-is-hating-donald-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/snl-mocks-final-debate-voters-whose-entire-personality-is-hating-donald-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12727fc9-d37d-42d9-aaeb-e92957f211ce/58127d0c-5a71-49ac-87da-d85ad71e947b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Some media liberals urge revenge, payback if Trump loses"
-    excerpt: "Media commentators, who are unloading everything they have on President Trump, are no longer content with the idea of him merely losing."
-    publishedDateTime: 2020-10-21T16:27:00Z
-    webUrl: "https://www.foxnews.com/media/some-media-liberals-urge-revenge-payback-if-trump-loses"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fc6cce86-a83c-48ed-9313-0f297469ba42/5177576a-8942-4aa9-b4bd-d612b069c42d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Obama Gives Us One of the Best Reasons to Dump Trump"
-    excerpt: "Dean Obeidallah writes that while Americans have many reasons to vote Donald Trump out of office, former President Barack Obama came up with another compelling argument to vote for Joe Biden and Kamala Harris: It won't be so exhausting."
-    publishedDateTime: 2020-10-28T11:48:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/28/obama_gives_us_one_of_the_best_reasons_to_dump_trump_527601.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/525446_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "NJUKTuWNpRhMEa5Y4RmvIkV74T3lduoolKNO4jj9IJy6NQ0+BB3ZQ1854ou2+zP6hwCT+QcX/rM09+RMB7g7nHIXKE5EfglI8XTrNkrnthqsP8+rCH/8j0eRIb0ZN9EtQ2MpDpJ5zQPAQoGH1S70WSIM+yLQ9DmLULzA4NBEVkJL9QdN5FwJjL+XykhiDB2lZ35K/KoXjyr7IuZSBPJ55Wl83YMeDuVf+qiX8nPSR9Zt78jcWLx52snmWUihh5sWWFeBNX510zddglZBwOHrOzdSgzhKmuuhxB/u+3a1iRwQDmpvAoMUSNQkIk9sbkbC/lVU6UOJZQDbrdvftsZJXXqAWxgRWK55feTSRawCwx0=;hlh1G8Sxh0YlZPN0ljfWXQ=="
 ---

@@ -123,22 +123,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Host of Pence-Harris VP debate says they still plan on holding event"
-    excerpt: "The vice presidential debate between Mike Pence and Sen. Kamala Harris is still going on as planned on Wednesday, despite President Trump’s positive Covid-19 test, a debate host spokesperson told Fox News. "
-    publishedDateTime: 2020-10-02T19:12:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 210
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Harris-Pence_AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Vice presidential debate between Pence and Harris: What to know"
     excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris will face off in their highly anticipated debate on Wednesday at University of Utah in Salt Lake City."
     publishedDateTime: 2020-10-05T15:40:53Z
@@ -248,22 +232,6 @@ related:
     quality: 207
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden, Harris express wishes for speedy 'recovery' after Trump's positive coronavirus test"
-    excerpt: "Joe Biden on Friday morning tweeted he and his wife, Jill, are sending their thoughts to President Trump and first lady Melania Trump and wishing \"for a swift recovery\" after the Trumps announced they'd tested positive for COVID-19."
-    publishedDateTime: 2020-10-02T12:52:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HUN01P3BWok/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 205
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -395,22 +363,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Could California’s policies work on a federal scale under a Biden-Harris administration?"
-    excerpt: "California has long been known for its push toward more progressive policies, many of which now form the basis of the Joe Biden-Kamala Harris presidential ticket. But whether or not such proposals have been successful – and whether California should be lauded as a model, is subject to debate."
-    publishedDateTime: 2020-09-30T13:30:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eum3nk0zFTk/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 191
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/holliemckay_headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump campaign says Pence expected to add more events as president deals with coronavirus"
     excerpt: "Vice President Mike Pence will step up on the campaign trail as President Trump deals with a case of the coronavirus."
     publishedDateTime: 2020-10-03T21:46:48Z
@@ -424,118 +376,6 @@ related:
     quality: 191
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da4fefe0-619b-413c-8314-ecabc05fc010/18684257-14cd-4416-a6ae-4cc575d57702/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: First presidential debate: Trump vs. Biden"
-    excerpt: "President Trump and Democratic nominee Joe Biden are set to face off for the first time today in a highly anticipated debate at Case Western University in Cleveland, Ohio."
-    publishedDateTime: 2020-09-29T06:19:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3TSX4uxpl2g/live-updates-first-presidnetial-debate-trump-vs-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-first-presidnetial-debate-trump-vs-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-first-presidnetial-debate-trump-vs-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f3c1523-b26e-498e-82ba-4f05a8f4482a/94d5263d-4a78-4f96-bf8d-8dbfb7b843b4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden silent on potential court packing as Trump taunts him"
-    excerpt: "The fight over the seat vacated by the late Justice Ruth Bader Ginsburg has thrown the Supreme Court into focus once again."
-    publishedDateTime: 2020-09-30T17:33:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6TU7gfYmOHM/court-packing-biden-trump-debate-filibuster"
-    ampWebUrl: "https://www.foxnews.com/politics/court-packing-biden-trump-debate-filibuster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/court-packing-biden-trump-debate-filibuster.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20270789646213.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump-Biden presidential debate in Cleveland: Top 5 moments"
-    excerpt: "President Trump and Democratic presidential candidate Joe Biden attacked each other in starkly personal terms for more than 90 minutes as moderator Chris Wallace worked to get both candidates, but especially Trump, to follow the debate rules the candidates had agreed to."
-    publishedDateTime: 2020-09-30T11:11:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lveyVjhCvqQ/top-5-moments-of-the-first-presidential-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/top-5-moments-of-the-first-presidential-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-5-moments-of-the-first-presidential-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "In Minnesota Biden would open 'flood gates' to terrorism, Trump says"
-    excerpt: "During a rally in Duluth, Minn., on Wednesday, President Trump said that Democratic presidential nominee Joe Biden would turn Minnesota into a \"refugee camp\" and open \"the flood gates to radical Islamic terrorism\" if elected."
-    publishedDateTime: 2020-10-01T15:08:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Uy6_Vat6rc/minnesota-trump-biden-terrorism"
-    ampWebUrl: "https://www.foxnews.com/politics/minnesota-trump-biden-terrorism.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minnesota-trump-biden-terrorism.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/AP20224707259794.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Presidential debate aftermath: Election gamblers bet on Biden"
-    excerpt: "Political bettors have placed their money, if not their support, on former Vice President Joe Biden following the first 2020 presidential debate Tuesday night with President Trump, according to Cloudbet, a cryptocurrency betting site."
-    publishedDateTime: 2020-10-01T00:56:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Foh9cfk-w2s/presidential-debate-aftermath-election-gamblers-bet-on-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-aftermath-election-gamblers-bet-on-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-aftermath-election-gamblers-bet-on-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-SPLIT-THUMB-3.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump in New Jersey, Biden in Delaware: The 2020 campaign trail"
-    excerpt: "With Election Day just a little over a month away, the showdown between President Trump and his Democratic challenger Joe Biden is coming to a head."
-    publishedDateTime: 2020-10-01T13:44:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/seUr9gR31tI/trump-in-new-jersey-biden-in-delaware-the-2020-campaign-trail"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-in-new-jersey-biden-in-delaware-the-2020-campaign-trail.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-in-new-jersey-biden-in-delaware-the-2020-campaign-trail.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/576d770a-696a-426b-a2de-fc39c21ad669/b8359fd3-5cda-44aa-91e5-633c77dd35ee/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden, Trump campaigns heat up after first debate"
-    excerpt: "The campaign trail is heating up between President Trump and Joe Biden after both parties squared off during a highly anticipated debate on Tuesday in Ohio."
-    publishedDateTime: 2020-10-02T05:20:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSec60oKU5E/live-updates-biden-trump-campaigns-heat-up-after-first-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-trump-campaigns-heat-up-after-first-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-trump-campaigns-heat-up-after-first-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be284456-d6de-4336-b05f-6e40b55eab33/ca31ec19-7de0-4662-bb6d-a21760be1861/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -795,22 +635,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden clashes with Trump over Antifa: 'It's an idea, not an organization'"
-    excerpt: "President Trump and former Vice President Joe Biden had a heated exchange over extremist violence with each facing questions over their stances towards them."
-    publishedDateTime: 2020-09-30T10:38:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VBgt1py2VFM/biden-trump-antifa-idea-organization"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-antifa-idea-organization.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-antifa-idea-organization.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/139a0cb1-fcb1-43fa-b9ff-2a72e2ac4f3d/d58ea3dd-ac27-4c05-a566-40e7457c49c1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden up 14 points on Trump following chaotic debate, new poll indicates"
     excerpt: "A new poll shows Joe Biden with a 14 point lead nationally over President Trump, following the first presidential debate last week. "
     publishedDateTime: 2020-10-04T22:21:29Z
@@ -891,38 +715,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump in Minnesota, Biden in Ohio and Pennsylvania: The 2020 campaign trail"
-    excerpt: "Here's where the candidates will be traveling­­ and how they'll be spending their time on Wednesday, Sept. 30, 2020, "
-    publishedDateTime: 2020-09-30T12:40:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pL8aZLnJOb0/trump-biden-pence-harris-2020-campaign-september-30-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-pence-harris-2020-campaign-september-30-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-pence-harris-2020-campaign-september-30-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f3c7e44-469a-4166-89d0-2fe87a027f6e/6cc3008e-9132-418c-b986-013e72a1798a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden makes new push for mask mandate after Trump tests positive for COVID"
-    excerpt: "On the campaign trail for the first time since President Trump announced that he and first lady Melania Trump had tested positive for COVID-19, Democratic presidential nominee Joe Biden once again urged Americans to wear “a mask in public” and once again called for “masking mandates nationwide”"
-    publishedDateTime: 2020-10-02T22:31:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-d19l5DgNHY/biden-mask-mandate-trump-covid-positive"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-mask-mandate-trump-covid-positive.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mask-mandate-trump-covid-positive.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Minnesota coronavirus cases traced to Trump, Biden campaign events: reports"
     excerpt: "More than two dozen cases of coronavirus have been traced to Minnesota campaign events for President Trump and Democratic nominee Joe Biden, state officials said this week."
     publishedDateTime: 2020-10-14T11:28:20Z
@@ -936,54 +728,6 @@ related:
     quality: 188
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b44405f-bba6-4488-b5d1-0b568bb97020/d4f32897-b495-437e-b40b-e58eb4551a80/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden refuses to bash Trump Supreme Court nominee Amy Coney Barrett in debate"
-    excerpt: "Democratic nominee Joe Biden took the high road at Tuesday night's debate, refusing to bash President Trump's pick for Supreme Court, Judge Amy Coney Barrett, instead, saying she seems like a \"very fine person.\" "
-    publishedDateTime: 2020-09-30T17:06:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V0CavtTA8Mc/biden-refuses-to-bash-barrett-at-debate-calls-her-very-fine-person"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-refuses-to-bash-barrett-at-debate-calls-her-very-fine-person.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-refuses-to-bash-barrett-at-debate-calls-her-very-fine-person.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump debate coach Chris Christie says president 'too hot' in Biden showdown"
-    excerpt: "Former New Jersey Gov. Chris Christie, who helped prep President Trump ahead of Tuesday's fiery debate, said his performance was \"too hot\" while also slamming Democratic nominee Joe Biden for being \"very shaky.\" "
-    publishedDateTime: 2020-09-30T12:56:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gqlSnfFbZuo/chris-christie-helped-prep-trump-for-debate-but-said-he-was-too-hot-during-biden-showdown"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-helped-prep-trump-for-debate-but-said-he-was-too-hot-during-biden-showdown.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-helped-prep-trump-for-debate-but-said-he-was-too-hot-during-biden-showdown.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump sees approval rating increase, majority expect him to beat Biden: poll"
-    excerpt: "A poll conducted in the lead-up to Tuesday's presidential debate showed Americans giving President Trump his highest approval rating in months while a majority predicted he would defeat former Vice President Joe Biden in November."
-    publishedDateTime: 2020-10-01T21:18:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cU9xqrIevHg/poll-trump-approval-rating-september-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/poll-trump-approval-rating-september-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/poll-trump-approval-rating-september-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92616b3f-462d-4e3a-8dee-8be37b8456fc/14a0de94-cf96-461d-8243-02f7cf9497a9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1003,38 +747,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Ohio Gov. DeWine praises Trump's debate performance against Biden: 'Great job'"
-    excerpt: "DeWine was booed during Trump’s visit to Ohio earlier this month."
-    publishedDateTime: 2020-09-30T20:36:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5A6g-XUDAHY/ohio-gov-dewine-praises-trump-debate-performance"
-    ampWebUrl: "https://www.foxnews.com/politics/ohio-gov-dewine-praises-trump-debate-performance.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gov-dewine-praises-trump-debate-performance.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202009/959/854081161001_6196111512001_6196118264001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Michelle Obama shares sympathy with viewers 'turned off' by Trump-Biden debate"
-    excerpt: "Former first lady Michelle Obama on Wednesday said she understood those who were “turned off” by President Trump’s behavior during Tuesday's first presidential debate."
-    publishedDateTime: 2020-10-01T03:46:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Sz8QaeqO9E/michelle-obama-shares-sympathy-with-viewers-turned-off-by-trump-biden-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/michelle-obama-shares-sympathy-with-viewers-turned-off-by-trump-biden-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michelle-obama-shares-sympathy-with-viewers-turned-off-by-trump-biden-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6994c738-93b9-4325-8d34-f924d201b486/c696b391-700d-4df4-81ea-a8fc737d83bc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump in Walter Reed hospital battling coronavirus; Biden traveling to Florida"
     excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending their time on Monday, Oct. 5, 2020, just 29 days away from the election. "
     publishedDateTime: 2020-10-05T14:11:47Z
@@ -1048,22 +760,6 @@ related:
     quality: 186
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7921c6e-2149-4167-9e1e-a32af7e74ea0/7e0d79ef-bc9f-4a83-a99a-e56d63d079be/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Rand Paul pitches debate format changes after 'exhausting' Trump-Biden clash"
-    excerpt: "The first presidential debate was an \"exhausting\" spectacle that provided little clarity to undecided voters, Sen. Rand Paul, R-Ky. told \"Your World\" on Wednesday."
-    publishedDateTime: 2020-09-30T22:30:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RpWsRbZtHsI/rand-paul-trump-biden-debate-format"
-    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-trump-biden-debate-format.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-trump-biden-debate-format.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3322cea4-5394-4b3a-b756-a41027059c44/1a9eda94-0a8c-4e21-b72a-89b28a28eed6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1097,38 +793,6 @@ related:
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Pence.jpg"
         width: 1066
-        height: 720
-        isCached: true
-  - title: "Biden granddaughter says she couldn't debate Trump 5 minutes without 'slapping' him"
-    excerpt: "Naomi Biden, a 26-year-old Columbia Law School graduate and the namesake of Biden's own daughter who died in a car accident in 1972, has been a staunch defender of her grandfather. "
-    publishedDateTime: 2020-09-30T13:56:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aPX6LyZWw7Y/naomi-biden-says-she-wouldnt-be-able-to-go-5-minutes-at-debate-without-slapping-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/naomi-biden-says-she-wouldnt-be-able-to-go-5-minutes-at-debate-without-slapping-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/naomi-biden-says-she-wouldnt-be-able-to-go-5-minutes-at-debate-without-slapping-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden weighs in after Trump heads to the hospital: ‘This cannot be a partisan moment’"
-    excerpt: "Democratic nominee delivered a message of unity after reports that President Trump would be taken to Walter Reed Medical Center following his Covid-19 diagnosis. "
-    publishedDateTime: 2020-10-02T23:40:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KMkzEaNFDqM/biden-trump-hospital-cannot-be-partisan-moment"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hospital-cannot-be-partisan-moment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hospital-cannot-be-partisan-moment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-Debate-Mute-thumb-2.jpg"
-        width: 1280
         height: 720
         isCached: true
   - title: "Trump campaign blasts Biden for running negative ads while president is hospitalized"
@@ -1275,54 +939,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden deflects yet again on court packing questions: 'I'm not going to play Trump's game'"
-    excerpt: "Democratic presidential nominee Joe Biden once again avoided giving a straight answer on whether he would support packing the Supreme Court if elected, after making clear during Tuesday’s debate that he would not address the issue."
-    publishedDateTime: 2020-10-01T13:05:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_F_1O2A6O00/biden-deflects-again-court-packing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-deflects-again-court-packing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deflects-again-court-packing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6790c4aa-5e51-4a0d-9e2f-47197a8a4d60/1796f7f2-14c1-46cf-8890-0f405133fc88/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump claims debate victory over Biden: 'I held Joe accountable for his 47 years of lies'"
-    excerpt: "President Trump declared victory over former VIce President Joe Biden after their first presidential debate, telling a rally in Duluth, Minnesota that they and other Americans won as well."
-    publishedDateTime: 2020-10-01T01:55:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6zgAWOQ1fuM/trump-debate-victory-biden-accountable"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-victory-biden-accountable.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-victory-biden-accountable.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02084a04-4267-45b9-bff1-20a991370e73/b8ca5717-15bf-4c99-afed-d3aee0a3345b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump halts campaign events after positive coronavirus test; Biden traveling to Michigan"
-    excerpt: "The November presidential election, just a little over a month away, was thrown into chaos early Friday when President Trump tweeted that he and the first lady tested positive for the coronavirus. "
-    publishedDateTime: 2020-10-02T12:14:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OlqYI41ZN2E/trump-halts-campaign-events-after-positive-coronavirus-test-biden-travels-to-michigan"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-halts-campaign-events-after-positive-coronavirus-test-biden-travels-to-michigan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-halts-campaign-events-after-positive-coronavirus-test-biden-travels-to-michigan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f72eb6e-6d2e-4c08-aa10-151d5fb58830/00caa550-2b5d-4218-ad43-739194331d50/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden plans to attend next debate, hopes Trump will be able to participate, campaign says"
     excerpt: "Democratic presidential nominee Joe Biden will travel to Florida to participate in the next debate and hopes that President Trump will be able to join him despite the president testing positive for the novel coronavirus late last week."
     publishedDateTime: 2020-10-04T19:34:11Z
@@ -1387,22 +1003,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump had to 'fight' during first presidential debate because of Biden's 'lies': Lara Trump"
-    excerpt: "President Trump had to “fight” during the first presidential debate because of Democratic presidential nominee Joe Biden's “lies,” Trump 2020 senior adviser Lara Trump told “Fox & Friends” on Wednesday."
-    publishedDateTime: 2020-09-30T16:52:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qcKNc65okuM/trump-fight-first-presidential-debate-because-biden-lara-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-fight-first-presidential-debate-because-biden-lara-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fight-first-presidential-debate-because-biden-lara-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump campaign says Harris 'driving the bus' on court packing issue"
     excerpt: "The Trump campaign on Sunday questioned who was “driving the bus” for the Biden ticket on the issue of Supreme Court \"packing.\""
     publishedDateTime: 2020-10-11T19:01:51Z
@@ -1428,38 +1028,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 180
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McCarthy slams mute button suggestion for presidential debates, urges Trump to let Biden talk"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Ca., slammed the use of a \"mute button\" in reaction to the unruly first presidential debate on \"Fox & Friends.\""
-    publishedDateTime: 2020-10-01T18:30:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UojZYnfA2qc/presidential-debate-trump-biden-kevin-mccarthy"
-    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-trump-biden-kevin-mccarthy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-biden-kevin-mccarthy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Cleveland Clinic says guests had 'low risk of exposure' to coronavirus at Trump-Biden debate"
-    excerpt: "The health advisor to the Commission on Presidential Debates said Friday that they believe there was “low risk of exposure” to COVID-19 for guests at Tuesday’s debate, after President Trump and first lady Melania Trump tested positive for the novel coronavirus."
-    publishedDateTime: 2020-10-02T16:39:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dRnqJDyIGvs/cleveland-clinic-guests-low-exposure-risk-covid-19-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/cleveland-clinic-guests-low-exposure-risk-covid-19-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cleveland-clinic-guests-low-exposure-risk-covid-19-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
@@ -1511,22 +1079,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump kept busy schedule -- including debate with Biden -- before testing positive for coronavirus"
-    excerpt: "President Trump kept a busy schedule in the last week of September, crisscrossing the country for campaign rallies, facing off with Democratic nominee Joe Biden and tending to the everyday duties of his office."
-    publishedDateTime: 2020-10-02T10:10:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5VIyVSnZl0/trump-kept-busy-schedule-including-debate-with-biden-before-testing-positive-for-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-kept-busy-schedule-including-debate-with-biden-before-testing-positive-for-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-kept-busy-schedule-including-debate-with-biden-before-testing-positive-for-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c5b0fba-c968-4c31-835f-44c27cb291b6/d11f68f5-3ec3-448f-8e47-ff5939e38d33/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden pushes for town hall format for final debate, after Trump says he'll skip 'virtual' showdown"
     excerpt: "The Biden campaign on Thursday seemingly acknowledged that the second presidential debate slated for Oct. 15 will not take place."
     publishedDateTime: 2020-10-08T16:27:18Z
@@ -1538,54 +1090,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 176
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Chicago Mayor Lightfoot slams Trump after he blasts Windy City violence"
-    excerpt: "Democratic Chicago Mayor Lori Lightfoot fired back at President Trump on Tuesday night after he skewered her city during a presidential campaign debate against Joe Biden as a hotbed of crime and violence."
-    publishedDateTime: 2020-09-30T18:16:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/78Ybvo1OA5c/chicago-mayor-lightfoot-trump-violence"
-    ampWebUrl: "https://www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fb66182-ac8a-497e-ac3a-bf667a87f5b8/34ab8c88-9cbd-4877-81a3-a089af7c4ff3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Senior Democratic leadership urge Biden to continue with debates"
-    excerpt: "Senior congressional leadership has urged presidential candidate Joe Biden to continue with the next two previously scheduled debates, despite calls from some urging him to pull out."
-    publishedDateTime: 2020-10-01T01:43:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYdfKAtC7CA/dem-leadership-biden-continue-future-debates"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-leadership-biden-continue-future-debates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-leadership-biden-continue-future-debates.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d86cdf6c-af46-4a4c-9745-1460e6e76ca3/b4152c4c-691b-43f7-8550-f2dfdd4612a3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign postpones events involving president, family"
-    excerpt: "The Trump campaign announced Friday that President Trump’s events are being temporarily postponed, or moved to a virtual setting, after he and first lady Melania Trump tested positive for the novel coronavirus."
-    publishedDateTime: 2020-10-02T18:06:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rje_hUmKoOY/trump-campaign-postpones-events-involving-president-family"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-postpones-events-involving-president-family.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-postpones-events-involving-president-family.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
@@ -1607,38 +1111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden’s team commits to all presidential debates after Cleveland showdown"
-    excerpt: ""
-    publishedDateTime: 2020-09-30T07:46:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hob0A59089Y/bidens-team-commits-to-all-presidential-debates-after-showdown-in-cleveland"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-team-commits-to-all-presidential-debates-after-showdown-in-cleveland.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-team-commits-to-all-presidential-debates-after-showdown-in-cleveland.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Presidential debate: Trump, Biden clash over Barrett Supreme Court nomination, ObamaCare as insults fly"
-    excerpt: "President Trump and former Vice President Joe Biden kicked off their first presidential debate sparring over the Supreme Court nomination and ObamaCare, but it quickly devolved into insults with Biden calling the president a \"clown\" and a \"liar.\" "
-    publishedDateTime: 2020-09-30T01:43:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zCJVDbCWlfw/first-presidential-debate-biden-trump-clash"
-    ampWebUrl: "https://www.foxnews.com/politics/first-presidential-debate-biden-trump-clash.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-presidential-debate-biden-trump-clash.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Harris aims to target Trump while Pence looks to paint contrasts in vice presidential debate"
     excerpt: "When Sen. Kamala Harris of California and Vice President Mike Pence face off Wednesday night in the one and only vice presidential debate, Harris will be concentrating her firepower on a person physically absent from the debate stage in Salt Lake City,"
     publishedDateTime: 2020-10-07T21:11:00Z
@@ -1654,70 +1126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/95cbc652-AP20277623967838.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Biden calls Trump's debate performance 'national embarrassment,' won't 'speculate' about future showdowns"
-    excerpt: "Democratic nominee Joe Biden said Wednesday that President Trump was a “national embarrassment” during the first presidential debate this week, while saying he would not “speculate” on the next two general election showdowns next month."
-    publishedDateTime: 2020-09-30T18:21:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FOPF6c2nsCM/biden-trumps-presidential-debate-national-embarrassment"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trumps-presidential-debate-national-embarrassment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trumps-presidential-debate-national-embarrassment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Commission on Presidential Debates ‘carefully considering’ format changes after first Trump, Biden debate"
-    excerpt: "The Commission on Presidential Debates on Wednesday said the first debate between President Trump and Joe Biden “made clear” that “additional structure” should be added to the format of the remaining debates in order to “ensure” a “more orderly discussion” of issues."
-    publishedDateTime: 2020-09-30T17:51:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iiEJmDlzBvk/commission-on-presidential-debates-carefully-considering-format-changes-after-first-trump-biden-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/commission-on-presidential-debates-carefully-considering-format-changes-after-first-trump-biden-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/commission-on-presidential-debates-carefully-considering-format-changes-after-first-trump-biden-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sheriff in Portland denies Trump's debate claim of winning his endorsement"
-    excerpt: "The sheriff of Multnomah County, which includes Portland, Ore., emphatically denied supporting President Trump Tuesday evening shortly after the president made the claim."
-    publishedDateTime: 2020-09-30T08:27:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement"
-    ampWebUrl: "https://www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/sheriff.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump and Biden abstain from roasting each other at Al Smith dinner, despite tradition and plenty of ammo"
-    excerpt: "Both President Trump and Democratic nominee Joe Biden delivered addresses at the  75th Annual Alfred E. Smith Memorial Foundation Dinner Virtual Event, but the pair broke the tradition of trading jabs in good humor, despite plenty of ammunition displayed most recently at the presidential debate. "
-    publishedDateTime: 2020-10-02T01:21:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s3dFswj7-FY/trump-biden-al-smith-dinner"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-al-smith-dinner.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-al-smith-dinner.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-SPLIT-THUMB-3.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Trump blasts Biden over silence on court-packing question, predicts Dem won't last three months in office"
     excerpt: "President Trump ripped Democratic presidential nominee Joe Biden during an exclusive interivew on \"Hannity\" Thursday after the former vice president refused yet again to say whether he’d support efforts to add more seats to the Supreme Court."
@@ -1762,22 +1170,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/patrick-ward.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden camp ramps up canvassing after avoiding in-person outreach amid pandemic"
-    excerpt: "After avoiding in-person contact with voters for months due to the coronavirus pandemic, Democratic presidential nominee Joe Biden’s campaign is now launching direct canvassing outreach, including some traditional door knocks, in many of the key battleground states."
-    publishedDateTime: 2020-10-01T21:02:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p04scLuASzo/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/patrick-ward.png?ve=1&tl=1"
         width: 340
@@ -1856,22 +1248,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump scored 'historic victory' in first presidential debate, campaign adviser claims"
-    excerpt: "President Trump was the \"dominant force\" in Tuesday night's presidential debate against Democratic nominee Joe Biden Trump 2020 Campaign Senior Adviser Jason Miller told “Special Report\" Wednesday."
-    publishedDateTime: 2020-10-01T01:39:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Ch-Y-3EIfg/presidential-debate-trump-historic-victory"
-    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-trump-historic-victory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-historic-victory.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b882ebd6-9114-42ed-8b44-c1f6b8c9af72/c46d8994-0a49-4c88-a286-2ecade59b62b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump returns to campaign trail with trip to Florida; Biden traveling to Ohio"
     excerpt: "The battle between incumbent President Trump and Democratic rival Joe Biden is coming to a head, with just a little more than three weeks until the November presidential election and millions of Americans already voting."
@@ -2011,20 +1387,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden deflects Trump's demand at debate to 'name one' law enforcement group backing him"
-    excerpt: "Both candidates have the backing of various law enforcement groups."
-    publishedDateTime: 2020-09-30T15:50:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r1Ws--aYsro/biden-trump-debate-law-enforcement-support"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump camp still pushing for in-person Miami debate with Biden amid turmoil over schedule"
     excerpt: "President Trump’s campaign is still pushing for an in-person debate to take place in Miami next week even though plans for the remaining showdowns with Joe Biden have unraveled over the last day."
     publishedDateTime: 2020-10-09T17:16:42Z
@@ -2084,38 +1446,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a43c54b-ed81-4dbc-9ebe-c05591196c5d/7aa1d312-6222-4316-8d82-ac2bcf4df303/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump campaign says Commission on Presidential Debates 'not impartial,' amid talks of rules, format changes"
-    excerpt: "The Trump campaign on Thursday slammed the Commission on Presidential Debates as partisan, as the organization suggested it could modify the rules and format for the remaining presidential debates between President Trump and Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-01T22:28:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IgmgtGs7Pxk/trump-campaign-slams-commission-on-presidential-debates-partisan"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump party at presidential debate did not wear masks, refused offer from Cleveland Clinic for face coverings"
-    excerpt: "President Trump's party at the presidential debate on Tuesday refused to wear masks despite a requirement by the Cleveland Clinic venue that they do so, and they turned down an offer from a Cleveland Clinic staffer to give them face coverings. "
-    publishedDateTime: 2020-10-02T15:34:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GOttDk8iIuw/trump-party-debate-coronavirus-masks"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-party-debate-coronavirus-masks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-party-debate-coronavirus-masks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Live Updates: Vice presidential debate between Pence and Harris set to kick off"
     excerpt: "The vice presidential debate between Vice President Mike Pence and Democratic challenger Sen. Kamala Harris, D-Calif., will take place at the University of Utah in Salt Lake City on Wednesday. The moderator for the sole contest between the two candidates will be USA Today Washington bureau chief Susan Page."
@@ -2274,22 +1604,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00e2df3f-a7b2-4a4f-97f4-b46b4ccadfbe/fc033476-fc2a-42e1-ab01-2af237ebd742/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The Trump-Biden Stakes: Your Life Savings"
-    excerpt: "Millions of Americans have 401(k)s, making high stock values a boon for Main Street—even in Scranton."
-    publishedDateTime: 2020-09-30T20:43:00Z
-    webUrl: "https://www.wsj.com/articles/the-trump-biden-stakes-your-life-savings-11601488409"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-biden-stakes-your-life-savings-11601488409"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-biden-stakes-your-life-savings-11601488409"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-237570/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Where Trump and Biden Stand on Climate and Energy Policy"
     excerpt: "The 2020 presidential election pits one candidate making climate change integral throughout his platform against another who dismisses its importance and pledges to keep pushing a deregulatory agenda."
@@ -2585,54 +1899,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign calls out second debate moderator who interned for Biden, worked for Ted Kennedy"
-    excerpt: "The second debate between President Trump and former Vice President Joe Biden will be moderated by a former intern for the latter."
-    publishedDateTime: 2020-10-01T23:29:00Z
-    webUrl: "https://www.foxnews.com/media/moderator-for-second-presidential-debate-interned-for-biden-worked-for-ted-kennedy"
-    ampWebUrl: "https://www.foxnews.com/media/moderator-for-second-presidential-debate-interned-for-biden-worked-for-ted-kennedy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/moderator-for-second-presidential-debate-interned-for-biden-worked-for-ted-kennedy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 138
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88600ec3-e5bf-4f6b-a350-056b34ddd34c/eca2b18a-d874-444a-8cfb-5d68829fdc5e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden takes aim at Trump after presidential debate, tells crowd it 'was supposed to be about you'"
-    excerpt: "In his first public event since trading fire with President Trump at a very combustible first of three presidential debates, Democratic presidential nominee Joe Biden charged that the president “lies to you” and emphasized that his showdown with Trump “was supposed to be about you."
-    publishedDateTime: 2020-09-30T16:49:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-takes-aim-at-trump-after-presidential-debate-says-it-was-supposed-to-be-about-you"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-aim-at-trump-after-presidential-debate-says-it-was-supposed-to-be-about-you.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-after-presidential-debate-says-it-was-supposed-to-be-about-you.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 137
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20274553380152.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump Rolls the Dice in a Big Debate Gamble"
-    excerpt: "With an aggressive performance against Joe Biden in the first 2020 presidential debate, Donald Trump wagered that undecided voters would be attracted, not repelled, by his approach."
-    publishedDateTime: 2020-09-30T15:00:00Z
-    webUrl: "https://www.wsj.com/articles/trump-rolls-the-dice-in-a-big-debate-gamble-11601477592"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-rolls-the-dice-in-a-big-debate-gamble-11601477592"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-rolls-the-dice-in-a-big-debate-gamble-11601477592"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-238622/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Deroy Murdock: Yes, Joe Biden, President Trump has said many negative things about white supremacists"
     excerpt: "Hate Trump, Inc. is using Trump’s missed opportunity at the presidential debate to claim that he's never condemned white supremacists."
     publishedDateTime: 2020-10-07T01:15:00Z
@@ -2729,22 +1995,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Michael Keaton says Joe Biden should no longer participate in debates, criticizes Trump for being unprepared"
-    excerpt: "Michael Keaton suggested that Joe Biden refuse to engage in further presidential debates after he “won” the first one on Tuesday against Donald Trump."
-    publishedDateTime: 2020-10-01T12:38:00Z
-    webUrl: "https://www.foxnews.com/entertainment/michael-keaton-joe-biden-debate-trump-unprepared"
-    ampWebUrl: "https://www.foxnews.com/entertainment/michael-keaton-joe-biden-debate-trump-unprepared.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/michael-keaton-joe-biden-debate-trump-unprepared.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/MichaelKeaton1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "'The Five' preview first presidential debate between Biden, Trump"
     excerpt: "In just four hours from now, President Trump and Joe Biden will square off for the first time in Cleveland, the former VP arriving for the debate just a few moments ago.  It's going to be must-see TV after the candidatestraded personal attacks on the campaign trail formonths."
     publishedDateTime: 2020-10-14T19:25:00Z
@@ -2759,50 +2009,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris parrots Biden after debate, refuses to say whether they will ‘pack’ Supreme Court"
-    excerpt: "Democratic vice presidential candidate Kamala Harris echoed her running mate and sidestepped a pair of questions on Tuesday about adding more members to the Supreme Court if Republicans fill a vacancy before the Nov."
-    publishedDateTime: 2020-09-30T12:59:00Z
-    webUrl: "https://www.foxnews.com/politics/debate-kamala-harris-biden-pack-supreme-court"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Kamala-Harris.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Joe Biden Asks Voters: 'Do You Believe for a Moment' What Trump Says on Covid-19"
-    excerpt: "Joe Biden accused the president of being ill-prepared to handle the coronavirus pandemic, latching on to President Trump’s previous comments about the death toll from the virus. Asked during a recent interview with Axios about the high U."
-    publishedDateTime: 2020-09-30T08:54:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-first-presidential-debate-2020/card/4SeDkjEmkaV20X6K6sVg"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 125
-    images:
-      - url: "https://images.wsj.net/im-238491?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Leslie Marshall: Biden proves he should be president — we now have more evidence than ever"
-    excerpt: "President Trump acted like a 5-year-old having a gigantic temper tantrum at his debate Tuesday with Joe Biden, leading the Commission on Presidential debates to seek format changes."
-    publishedDateTime: 2020-10-01T21:11:00Z
-    webUrl: "https://www.foxnews.com/opinion/presidential-debate-biden-trump-leslie-marshall"
-    ampWebUrl: "https://www.foxnews.com/opinion/presidential-debate-biden-trump-leslie-marshall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/presidential-debate-biden-trump-leslie-marshall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2f7d5000-586e-4d8a-829a-9f932df4e4c1/bbb62ccc-2ac6-445b-b64b-449c250d4db8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Liz Peek: Trump vs. Kamala Harris – here's how Pelosi blunder helps reelect president"
     excerpt: "House Speaker Nancy Pelosi has stepped in it again. With yet another ill-considered political stunt, she has stirred up President Trump’s base like someone poking a hive of angry hornets, and at the same time put a spotlight on Kamala Harris."
     publishedDateTime: 2020-10-12T11:18:00Z
@@ -2814,22 +2020,6 @@ related:
     quality: 123
     images:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/01/22/694940094001_5992301989001_5992302652001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign says Commission on Presidential Debates 'not impartial,' amid talks of rules, format changes"
-    excerpt: "The Trump campaign on Thursday slammed the Commission on  Debates as partisan, as the organization suggested it could modify the rules and format for the remaining presidential debates between President Trump and Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-01T22:33:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88600ec3-e5bf-4f6b-a350-056b34ddd34c/eca2b18a-d874-444a-8cfb-5d68829fdc5e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -2878,22 +2068,6 @@ related:
       - url: "https://assets.realclear.com/images/52/523939_5_.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Trump Critics Ponder: Should Joe Biden Boycott the Next Two Debates?"
-    excerpt: "As the proceedings rapidly deteriorated on Tuesday night, a narrative began to congeal on social media: The event was such a disgrace that Joe Biden, already pursuing a 'prevent defense' electoral strategy,"
-    publishedDateTime: 2020-10-01T14:25:00Z
-    webUrl: "https://townhall.com/tipsheet/guybenson/2020/10/01/trump-critics-ponder-should-joe-biden-boycott-the-next-two-debates-n2577214"
-    ampWebUrl: "https://townhall.com/tipsheet/guybenson/2020/10/01/trump-critics-ponder-should-joe-biden-boycott-the-next-two-debates-n2577214?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/guybenson/2020/10/01/trump-critics-ponder-should-joe-biden-boycott-the-next-two-debates-n2577214?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 100
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/e8618c85-64ba-4006-8172-05f2a3caf1e2.jpg"
-        width: 650
-        height: 340
         isCached: true
   - title: "Susan Collins isn't done yet; Biden capitalizes on Trump's COVID diagnosis"
     excerpt: "Susan Collins has work to do, but could still win reelection. F or so many years, Sen. Susan Collins has been Maine's immovable object. The Republican survived the Democra"
@@ -2983,38 +2157,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden's Pastoral Charms"
-    excerpt: "Washington -- If I were a Democratic wheeler-dealer sitting atop the most left-wing major party in American history, I would be a little bit nervous. First, there is my party's"
-    publishedDateTime: 2020-10-01T04:01:00Z
-    webUrl: "https://townhall.com/columnists/emmetttyrrell/2020/10/01/joe-bidens-pastoral-charms-n2577235"
-    ampWebUrl: "https://townhall.com/columnists/emmetttyrrell/2020/10/01/joe-bidens-pastoral-charms-n2577235?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/emmetttyrrell/2020/10/01/joe-bidens-pastoral-charms-n2577235?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Joe Biden Is Just an Idea"
-    excerpt: "Lost in the blinding gaslighting over Donald Trump's remarks about white supremacists during the first presidential debate was the fact that Joe Biden proved again that he's little more than"
-    publishedDateTime: 2020-10-02T15:27:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/02/joe_biden_is_just_an_idea_144350.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/02/joe_biden_is_just_an_idea_144350.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/02/joe_biden_is_just_an_idea_144350.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/52/522937_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Joe Biden and the Green New Deal"
     excerpt: "When asked by moderator Chris Wallace during the first presidential debate of the 2020 campaign season if he supports the Green New Deal (GND), Joe Biden said, “No, I don’t"
     publishedDateTime: 2020-10-05T04:01:00Z
@@ -3093,22 +2235,6 @@ related:
         width: 2300
         height: 1533
         isCached: true
-  - title: "'One and Done': Speaker Pelosi Says Biden Should Skip The Final Two Debates"
-    excerpt: "Speaker of the House Nancy Pelosi weighed in on the presidential debates, following Tuesday’s chaotic contest between President Trump and former Vice President Joe Biden, moderated by Fox News' Chris"
-    publishedDateTime: 2020-10-01T20:00:00Z
-    webUrl: "https://townhall.com/tipsheet/reaganmccarthy/2020/10/01/pelosi-on-debates-n2577305"
-    ampWebUrl: "https://townhall.com/tipsheet/reaganmccarthy/2020/10/01/pelosi-on-debates-n2577305?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/reaganmccarthy/2020/10/01/pelosi-on-debates-n2577305?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 83
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/209/fd9aec8a-50b9-456a-b90c-96ad0ef32011.jpg"
-        width: 650
-        height: 340
-        isCached: true
   - title: "Pence debate prep featured Sarah Sanders, Scott Walker, and Pam Bondi as Kamala Harris"
     excerpt: "When Vice President Mike Pence takes the debate stage on Wednesday night, he will have conducted three dry runs using different stand-ins for Sen. Kamala Harris: former Wisconsin Gov. Scott Walker, former White House press secretary Sarah Sanders,"
     publishedDateTime: 2020-10-08T01:00:00Z
@@ -3152,22 +2278,6 @@ related:
         width: 650
         height: 340
         isCached: true
-  - title: "Biden Campaign Unveils Shameless, Vapid Ad Campaign Directed at Christian Voters"
-    excerpt: "Joe Biden's campaign team has lifted the curtain on their latest campaign ad target: Christians. The team will air several ads featuring the Democratic Presidential candidate engaged in various church"
-    publishedDateTime: 2020-10-01T17:10:00Z
-    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289"
-    ampWebUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 80
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
-        width: 650
-        height: 340
-        isCached: true
   - title: "How Mike Pence's movements will reflect President Trump's health"
     excerpt: "Considering the news that a coronavirus-positive President Trump is being moved to Walter Reed military hospital, Vice President Mike Pence's movements over the next few days will offer the best guide as to Trump's health status."
     publishedDateTime: 2020-10-02T22:33:00Z
@@ -3193,31 +2303,6 @@ related:
         width: 1076
         height: 806
         isCached: true
-  - title: "President Trump and Joe Biden Face Off in First 2020 Presidential Debate"
-    excerpt: "Let the 2020 presidential debates begin! Tonight we'll see if all those days of calling a \"lid\" to do debate prep have paid off for Joe Biden. Or, if we're in for a night full of gaffes from the former vice president."
-    publishedDateTime: 2020-09-29T14:44:00Z
-    webUrl: "https://townhall.com/liveblog/2020/09/29/president-trump-and-joe-biden-face-off-in-first-2020-presidential-debate-n174"
-    ampWebUrl: "https://townhall.com/liveblog/2020/09/29/president-trump-and-joe-biden-face-off-in-first-2020-presidential-debate-n174?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/liveblog/2020/09/29/president-trump-and-joe-biden-face-off-in-first-2020-presidential-debate-n174?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 79
-  - title: "Replay: First 2020 Presidential Debate Between Donald Trump And Joe Biden"
-    excerpt: "President Donald Trump and former Vice President Joe Biden participate in the first 2020 presidential debate in Cleveland, OH"
-    publishedDateTime: 2020-10-01T09:10:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/watch_live_first_2020_presidential_debate_between_donald_trump_and_joe_biden.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 79
-    images:
-      - url: "https://assets.realclear.com/images/52/521211.jpg"
-        width: 2300
-        height: 1597
-        isCached: true
   - title: "Rand Paul slams Kamala Harris's 'lie' about Biden's support of fracking ban"
     excerpt: "Kentucky Sen. Rand Paul called out Democratic vice presidential nominee Kamala Harris for denying Joe Biden’s support for banning fracking during the vice presidential debate."
     publishedDateTime: 2020-10-08T03:04:00Z
@@ -3229,20 +2314,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 78
-  - title: "Watch Live: First 2020 Presidential Debate Between Donald Trump And Joe Biden"
-    excerpt: "President Donald Trump and former Vice President Joe Biden participate in the first 2020 presidential debate in Cleveland, OH"
-    publishedDateTime: 2020-09-29T12:08:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/watch_live_first_2020_presidential_debate_between_donald_trump_and_joe_biden.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 77
-    images:
-      - url: "https://assets.realclear.com/images/52/521211.jpg"
-        width: 2300
-        height: 1597
-        isCached: true
   - title: "Former NSA Head Michael Hayden Endorses Biden: He's A Good Man, Donald Trump Is Not"
     excerpt: "Retired Gen. Michael Hayden, who served as director of both the CIA and the NSA during the Bush and Obama administrations, appears in this ad from the \"Republican Voters Against Trump\" group to endorse Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-07T12:54:00Z
@@ -3257,22 +2328,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Why a WSJ Columnist Thinks Biden Might Have Hurt Himself with Progressives After First Debate Chaos"
-    excerpt: "For many, last night’s presidential debate was a mess. President Trump didn’t stop knifing Joe Biden. Joe Biden, frustrated to the nth degree, told the president to shut up. A"
-    publishedDateTime: 2020-09-30T20:30:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/30/why-a-wsj-columnist-thinks-biden-might-have-hurt-himself-with-progressives-after-n2577198"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/30/why-a-wsj-columnist-thinks-biden-might-have-hurt-himself-with-progressives-after-n2577198?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/30/why-a-wsj-columnist-thinks-biden-might-have-hurt-himself-with-progressives-after-n2577198?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 71
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/35119c14-52d5-4cef-90ee-2179b233fcc3.jpg"
-        width: 650
-        height: 340
-        isCached: true
   - title: "Donna Edwards: Trump Acts Like He's Running Against Barack Obama And Hillary Clinton, Not Joe Biden"
     excerpt: "Former Democratic Rep. Donna Edwards marveled at President Trump focusing on Hillary Clinton's emails four years later during a conversation Friday with MSNBC's Nicole Wallace. \"Donald Trump today ran against Barack Obama,"
     publishedDateTime: 2020-10-09T23:56:00Z
@@ -3286,20 +2341,6 @@ related:
       - url: "https://assets.realclear.com/images/49/499335.jpg"
         width: 500
         height: 375
-        isCached: true
-  - title: "Biden's Most Important Answer of the Debate"
-    excerpt: "President Donald Trump’s performance at the first debate was bizarre, cruel, and at times, truly dangerous. For all those reasons, it probably had the net effect of making it likelier that Joe Biden wins the presidency — that’s certainly what the betting markets thought,"
-    publishedDateTime: 2020-10-01T12:49:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/01/bidens_most_important_answer_of_the_debate_525008.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/522747_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "Kamala Harris doesn't want to talk about her ticket's liberal policy agenda"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris spent much of Wednesday night’s debate trying to run away from the liberal policy agenda that she and Joe Biden spent much of their presidential runs advocating."

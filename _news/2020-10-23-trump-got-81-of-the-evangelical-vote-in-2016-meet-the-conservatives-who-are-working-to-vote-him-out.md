@@ -47,6 +47,54 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "President Trump casts a 'very secure vote' for himself in-person in Florida"
+    excerpt: "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida."
+    publishedDateTime: 2020-10-26T01:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump Votes In Person And Slams Mail-In Voting As Campaign Urges Voters To Vote By Mail"
+    excerpt: "Despite his denunciations of mail-in voting, Trump has said the practice is ‘safe in secure’ in Florida, where he voted, because of its Republican governor."
+    publishedDateTime: 2020-10-24T16:26:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/24/trump-votes-in-person-and-slams-mail-in-voting-as-campaign-urges-voters-to-vote-by-mail/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 117
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f94542b84e077087f844587%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2854%26cropY1%3D89%26cropY2%3D1694"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's EPA rewrote the rules on air, water energy. Now voters face a choice on climate change issues"
+    excerpt: "Election Day will be a decision between deregulation or re-regulation. A look at Trump's rollbacks and their long term effects nationwide."
+    publishedDateTime: 2020-10-29T07:14:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/investigations/2020/10/29/climate-change-escalates-voters-face-choice-deregulate-re-regulate/3668667001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3668667001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3668667001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/NCOD/292b255e-c6f8-4fde-80dd-72114e11db3c-04_Environment_Election_CLH.jpg?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "AlIY5jlnNG0ukmcYhNSZGh3NnCIjbbdfleF+VSDXCw6pxgalI0FfmnuZLJMJTcbEobo5QxLNYYKGBq/iCKdK4lbvPpTFMkYcQ3TmbavGiQSEQnN2skHq9qsQxclaJspw7SgHrAmcNf61uQdSjX0h3SqDNMG1tAiizIyP3O/v53kWaSwIeoPGs6ft4TJ5fi5Sams+nhPziA8Rh2nCJJttzSM8GrbXRK/GJVVJFpb2j+TNPe7s8WJcxtWk0t0vmrcvyTIhW1lHj/hn1PvOOq439AlnGe8IS+5hzq2HyLssYPVlF/wgfjoJIll6B9xfaM9coUFqvORhvAoHlnwubJN8pp4B5G2U52ROtngl/tEG3QE=;JryjU4wRA5lk9xoBe0nPFQ=="
 ---

@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House unleashes on Fauci after criticism of Atlas and Trump's pandemic response"
+    excerpt: "The White House on Saturday unleashed on Dr. Anthony Fauci, the country's leading infectious disease expert, following his comments to the Washington Post that criticized the Trump administration's response to the pandemic, including Dr. Scott Atlas, who the President has relied on for advice on handling"
+    publishedDateTime: 2020-11-01T03:10:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fgQdY3zTJk0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/white-house-fauci-trump-atlas-pandemic-response/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/white-house-fauci-trump-atlas-pandemic-response/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011145759-fauci-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's unhappy warrior pitch to voters includes insults and highly specific grievances"
     excerpt: "President Donald Trump is ending his reelection bid in a frenzied cross-country push for votes in states he won -- some handily -- four years ago. But he is not pretending to be happy about it.\n    \n"
     publishedDateTime: 2020-10-28T15:32:58Z
@@ -92,6 +108,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028010254-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump has cast doubt on a peaceful transfer of power, but the preparation for one is well underway"
+    excerpt: "President Donald Trump has cast doubt on whether he will commit to a peaceful transfer of power should Democrat Joe Biden win the election, but the secretive process to prepare a would-be Biden administration has been underway for months with help from top Trump officials.\n    \n"
+    publishedDateTime: 2020-10-31T20:07:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SDfDUYsH6S4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030141258-03-biden-trump-election-night-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

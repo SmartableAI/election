@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B143"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B143"
 type: article
 quality: 121
-heat: 221
+heat: 181
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Says Amy Coney Barrett's Confirmation to Supreme Court Threatens Affordable Health Care"
-    excerpt: "Democratic presidential candidate Joe Biden has criticized Amy Coney Barrett's \"rushed and unprecedented\" Supreme Court confirmation while raising concerns over what it could mean for the future of the Affordable Care Act. President Donald Trump has ..."
-    publishedDateTime: 2020-10-27T09:20:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 112
-    images:
-      - url: "https://d.newsweek.com/en/full/1658668/biden.jpg"
-        width: 2295
-        height: 1530
-        isCached: true
   - title: "Fact check: Senate Republicans moving to confirm Trump's Supreme Court nominee but blocked Obama's"
     excerpt: "A claim addressing the double standard for consideration of the two presidents' Supreme Court nominees was correct on substance, off on timing."
     publishedDateTime: 2020-10-20T23:30:00Z
@@ -92,22 +76,6 @@ related:
       - url: "https://i.insider.com/5f96d54b4743a3001216b920?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Evangelicals went all in on Trump and he played them like ‘suckers’: ex-White House advisor"
-    excerpt: "In a column for the Atlantic, a former adviser to Republican President George W. Bush made the charge that evangelical Christians sold their souls to support Donald Trump while he secretly held them in contempt and used them to advance his political ambitions."
-    publishedDateTime: 2020-10-19T13:41:00Z
-    webUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 65
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Donald-Trump-and-Franklin-Graham.jpg"
-        width: 800
-        height: 430
         isCached: true
 
 secured: "GH8GjrCc0pX3UHEtVtagr4joDS/Vz8U1vEqu8rIfdOnOFX4OvRzISxvUhcPLJF+GBn0q3yiahCUCsp2UccSLeBcquxt+3pZFTbmqF6YvgvTGsdySRgJv6EHxxPnT/L/S2wH08kyQltSscKQcJvN3UI72FOAvWTG8obveh8OGlA1xBiToT2LxbvLXC2tEd5BqNie97NixzLFqKrdSO9px3xyy0ekumlvOCh/kZruzCAvLHfBJdadThM9Llgj00YKbf+E8K92HWFkEYnDbAKIcWS9rGm8siQ4oTp57mQedFHMj/QVrhg1eveNdYj5x+ztdBIsnDM4353vDAcbevl2XEsHxd7J1mCfQqYllQOq5ja0=;xA0uUmuK+9fZmw4mK0DBLg=="

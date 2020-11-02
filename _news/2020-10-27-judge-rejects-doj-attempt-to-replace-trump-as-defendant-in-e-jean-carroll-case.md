@@ -31,53 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Man arrested at Trump rally in Maine carrying knife and wooden baton"
-    excerpt: "A man wielding a knife and wooden baton was arrested at a campaign rally for President Trump in Maine Wednesday where Gov. Kristi Noem appeared. "
-    publishedDateTime: 2020-10-28T23:43:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHoVrBFohvY/man-arrested-trump-rally-maine"
-    ampWebUrl: "https://www.foxnews.com/politics/man-arrested-trump-rally-maine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/man-arrested-trump-rally-maine.amp"
+  - title: "Massive lines at Trump rally in battleground state North Carolina"
+    excerpt: "Supporters reportedly lined up hours in advance for President Trump's rally in Hickory, North Carolina on Sunday."
+    publishedDateTime: 2020-11-01T20:56:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20291003271342.jpg"
-        width: 1024
-        height: 683
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-NC-Lines-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump campaign website briefly defaced by hackers making outlandish claims"
-    excerpt: "President Trump’s campaign website was briefly hacked Tuesday, according to reports."
-    publishedDateTime: 2020-10-28T07:08:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/koSNkPEs6Ec/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
+  - title: "Tiffany Trump hitting campaign trail in NC, Michigan, other battleground states"
+    excerpt: "President Trump's youngest daughter, Tiffany Trump, will be campaigning for her father in four battleground states, North Carolina, Pennsylvania, Michigan and Minnesota, after keeping a low profile during the 2016 campaign."
+    publishedDateTime: 2020-10-26T13:00:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N8961wMi8CY/tiffany-trump-2020-campaign-trail-trump-daughter"
+    ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/beba87ae-315f-4d4f-af9c-349ea7c729e2/cfc957e4-d7a5-46c7-86eb-cab2922961e9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297040355134.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump claims Obama 'campaigning for us' after former president's scathing rebuke"
-    excerpt: "President Trump claimed that former President Obama was campaigning for him “every time he speaks,” after Trump’s predecessor slammed him at a rally for Joe Biden Wednesday night. "
-    publishedDateTime: 2020-10-22T21:00:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xDnpvv7VpU/trump-obama-campaigning-for-us"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
+  - title: "Trump in 'stronger position than he was in 2016' in battleground states: Rep. McCarthy"
+    excerpt: "President Trump is in a \"stronger position than he was in 2016\" in battleground states Arizona, Wisconsin, Ohio and Georgia, House Minority Leader Kevin McCarthy said on Sunday."
+    publishedDateTime: 2020-11-01T18:33:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5sY1CudaMM/trump-2016-2020-battleground-states-kevin-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 167
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Obama-Trump-AP.jpg"
-        width: 1024
-        height: 576
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306646863849.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "GnIl8tuSkGKm+56XEOkuYQzfSXS4Dy3wHkd1CN+HXsg7FoMDcG3dPjj8RmiDRtQDSB1t03uqFflzdabWzBS1PXL64meW+otsq9j9DP5x04R0yMiKjAURUb+w1wUMwwrrKVR09N2lMS+waZGlC4s420P0D6SkeJF44eQwha5hDiPsaK8j0hpLm4nrUsL17pjta3MJge1yatSWo0zyUFL6zVqkn0RQIwu2RlNrJ/ZZnU3IeXzl4PzJNMABvCPtoCqV9/HGSHmeJaBfirHFOHEqqJKsRVsRE4i0z7Z6WOmcJtc/1K4D3nvlWZza5r/wW3vE4eJEKXWdQTWgyxZw9C9YUKloX3YyhKyOwkfchojvig4=;jFAXcxK7f5BgP7qsJrxnsA=="

@@ -64,22 +64,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden campaign touts military support in new TV commercial"
-    excerpt: "EXCLUSIVE: With five days to go until Election Day on Nov. 3, Joe Biden’s campaign on Thursday is going up with a new TV commercial in key battleground states that spotlights the Democratic presidential nominee’s support among military families and veterans."
-    publishedDateTime: 2020-10-29T14:18:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IA0fxpzfJtc/biden-campaign-military-support-new-tv-commercial"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-military-support-new-tv-commercial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-military-support-new-tv-commercial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Progressives eye top economic posts in potential Biden cabinet"
     excerpt: "The former vice president is believed to be considering a diverse group of individuals for different posts."
     publishedDateTime: 2020-10-30T01:40:10Z
@@ -125,6 +109,20 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c7dba56-45b1-4fee-9376-8cceaabcc38e/42bb6143-3aa8-475a-96b8-002346f36c9e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Squad' member Ayanna Pressley to stump for Biden in New Hampshire"
+    excerpt: "Rep. Ayanna Pressley, D-Mass., will stump in New Hampshire Thursday for Joe Biden, making her the first “Squad” member to officially campaign for the Democratic nominee. "
+    publishedDateTime: 2020-10-27T23:37:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xxTXxMo8zEk/squad-member-ayanna-pressley-biden-new-hampshire"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/ayanna.jpg"
         width: 1280
         height: 720
         isCached: true

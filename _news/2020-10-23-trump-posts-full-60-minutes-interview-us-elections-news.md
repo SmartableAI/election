@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-fac
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news"
 type: article
 quality: 140
-heat: 600
+heat: 480
 published: true
 
 provider:
@@ -95,54 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The 60 Minutes interview that President Trump cut short"
-    excerpt: "In an interview that's made headlines this week, Lesley Stahl presses President Trump on once-again rising coronavirus cases and what his priorities would be if re-elected. Stahl also speaks with Mr."
-    publishedDateTime: 2020-10-25T23:43:00Z
-    webUrl: "https://www.cbsnews.com/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/25/109f8076-5b3d-458a-8402-3f8bb05ac1d0/thumbnail/1200x630/a2a33f88b3ac9f5b9291b93bd2a547e4/trumparticle0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump charges into battleground states despite rising virus"
-    excerpt: "President Donald Trump is intensifying his already breakneck travel schedule in the final full week of the presidential campaign despite growing worries about the coronavirus nationwide"
-    publishedDateTime: 2020-10-26T18:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-escalate-campaigning-biden-steps-travel-73828950"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-escalate-campaigning-biden-steps-travel-73828950"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-escalate-campaigning-biden-steps-travel-73828950"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_540b4669b7be4a3dad8ec3a52f66494b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump administration lifts federal protections for gray wolf"
-    excerpt: "The Trump administration on Thursday said it would lift Endangered Species Act protections for the gray wolf, arguing the species had been brought back successfully from the brink of extinction."
-    publishedDateTime: 2020-10-30T01:03:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-wildlife-gray-wolf-idUKKBN27E3CH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27E3CH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27E3CH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539325375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S1WY"
-        width: 828
-        height: 545
-        isCached: true
   - title: "President Trump abruptly ended his '60 Minutes' interview after 45 minutes"
     excerpt: "The news came shortly after President Donald Trump tweeted a video of '60 Minutes' host Lesley Stahl not wearing a mask inside the White House."
     publishedDateTime: 2020-10-20T20:55:00Z
@@ -174,22 +126,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/d7866475-31b1-4e2a-ad70-063761d06ddc-AP_Election_2020_Trump.jpg?auto=webp&crop=5086,2861,x0,y258&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "\"60 Minutes\" preview: Biden plans commission to study Supreme Court; Trump wants U.S. \"to get back to normal\""
-    excerpt: "The separate interviews on CBS News' \"60 Minutes\" are set to air Sunday – just nine days before the U.S. election."
-    publishedDateTime: 2020-10-22T11:16:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-60-minutes-biden-supreme-court/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-60-minutes-biden-supreme-court/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-60-minutes-biden-supreme-court/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 121
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/22/b42ef257-1a7e-4996-a3e3-b1323f2ef66c/thumbnail/1200x630/821cd8fe35737239e88b468fad9722e8/bidentrump-new.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Watch the moment Trump walked out of his '60 minutes' interview with Lesley Stahl"
     excerpt: "The president left the interview after chiding CBS reporter Lesley Stahl for promising to ask him 'tough' questions."
@@ -303,20 +239,6 @@ related:
         width: 1440
         height: 1024
         isCached: true
-  - title: "Trump posts raw footage of '60 Minutes' interview"
-    excerpt: "Posted [NFA] The White House on Thursday released raw footage from an interview that U.S. President Donald Trump did"
-    publishedDateTime: 2020-10-22T23:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPTMJ?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f920641e4b04f7ff7c2b8c5-1603405377343?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "‘Are you ready for tough questions?’ Top moments from Trump's combative interview with Lesley Stahl of 60 Minutes"
     excerpt: "Trump has used the interview, which he abruptly cut short, to continue attacks on the media ahead of the final presidential debate Thursday."
     publishedDateTime: 2020-10-23T06:11:00Z
@@ -364,22 +286,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PL6QK4BHPNEEVKJ4FB4EG5ZZFU.jpg"
         width: 6000
         height: 4000
-        isCached: true
-  - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
-    excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-22T20:20:00Z
-    webUrl: "https://www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408"
-    ampWebUrl: "https://www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/29/us-president-donald-trump-questions-the-coronavirus-figures.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "International students in Minnesota feel anxiety as Trump administration proposes shortening visas"
     excerpt: "For the second time in three months, international college students in Minnesota and across the country fear for their academic future as the Trump administration mulls visa changes that would shorten the duration of their studies."

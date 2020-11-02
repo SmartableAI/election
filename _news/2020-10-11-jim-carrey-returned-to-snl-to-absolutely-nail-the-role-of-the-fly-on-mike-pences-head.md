@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "VIDEO: SATURDAY NIGHT LIVE Tackles the Vice Presidential Debate, and the Fly on Mike Pence's Head"
-    excerpt: "Live returned last night for a new hilarious episode. Last night's Cold Open tackled the vice presidential debate between Mike Pence and Kamala Harris. In the sketch, Susan Page (Kate McKinnon) moderates a debate between Senator Harris (Maya Rudolph) and Vice President Pence (Beck Bennett),"
-    publishedDateTime: 2020-10-11T13:18:00Z
-    webUrl: "https://www.broadwayworld.com/bwwtv/article/VIDEO-SATURDAY-NIGHT-LIVE-Tackles-the-Vice-Presidential-Debate-and-the-Fly-on-Mike-Pences-Head-20201011"
-    type: article
-    provider:
-      name: BroadwayWorld
-      domain: broadwayworld.com
-    quality: 42
-    images:
-      - url: "https://cloudimages.broadwayworld.com/columnpiccloud/1250-275a6e21d6837a7509534c07cd00f328.jpg"
-        width: 1250
-        height: 625
-        isCached: true
 
 secured: "zuh1g+4jRCizhtgw1QIhst8pNIITaPseNOzBU9lQuvFNw8YcLwLtiCHiH3JaGHMM7q81aXIQGem+RdvDRPNqj+IG0thAlUasi893qYWP+KtOxIlxPLDXnn0WQW0C8624qKyq+WIVNkThT5mAvlqI1sfTX24eAz59wEB+WrG3ZhncnTP9FcgxfDdWEDS0fpg7mDsUMgmErgnM9I4ISBJOGapRfY3/G8+giVLdy+x6NIsHQ2HvARexyQIvwQ3PoUfdwx2W0n5/250XHnIXh7bVdyvdiyQSFUtayQSq7pAb/vePK18SEMO5ATCEibTmqW2afA1s7oOehOv3uxvuAZHNZ8O2dMd5tM5p/4a5BvpMa9I=;1ZC4Z2au8vmNPCVBxGb0GQ=="
 ---

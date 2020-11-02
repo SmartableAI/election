@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/virtual-debate-trump-biden-frank-fa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virtual-debate-trump-biden-frank-fahrenkorpf.amp"
 type: article
 quality: 157
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Bob Dole 'concerned' debate commission full of never-Trumpers"
+    excerpt: "Former Sen. Bob Dole expressed concern on Friday that no one on the Commission on Presidential Debates (CPD) supports President Trump, though the commission claims to be nonpartisan. "
+    publishedDateTime: 2020-10-09T21:31:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ErZrFpJRTTw/bob-dole-debate-commission-never-trumpers"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/990d89dc-ff60-4740-b234-940109e5ea79/fda33ddc-3839-4fe8-aa55-2686c8523ab5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "c5s7meyyehOcxXHlMg3l07FTf80bU+shD0sYKTfFveg+VZpA2NtVOT7KB5+y2Mfiqv+hjZoOl/J2nc90f9XHOQFtV8m5ukvl9aMkhOftCjOS4TJ1mRsCxCgoqYmpBLkI8dNBDvZHuO012oXG1aU/pBocS7iFWQ8aRzYU4hstWiCUsDBm2itN+IhNF7suvDchaQopX+dcN5Y8XaLQ53l8FgdVEs/zh03dKLEaVyqkvy2GudYTvl7eG6boyJ1AfMYRAVWONG6PSt+Ew/X9/jMHCCFIR1kZi+QCrfa52IUIVFe+zEglysUeN6qSyGOnSp24NIjiC7CYwB0vJS+n4fD66j/Qgyb4jQOoaAGkYqOAUHw=;ToFg6+RXFsTtjJbCUq7a4g=="
 ---

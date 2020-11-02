@@ -1,0 +1,60 @@
+---
+category: news
+title: "WATCH: VP Mike Pence visits Greenville for campaign rally"
+excerpt: "U.S. Vice President Mike Pence is scheduled to stop by the Donaldson Airport in Greenville Tuesday for a “Make America Great Again” campaign rally ahead of the Nov. 3 election."
+publishedDateTime: 2020-10-27T14:38:00Z
+originalUrl: "https://www.wspa.com/news/vp-mike-pence-to-visit-greenville-tuesday-for-campaign-rally/"
+webUrl: "https://www.wspa.com/news/vp-mike-pence-to-visit-greenville-tuesday-for-campaign-rally/"
+ampWebUrl: "https://www.wspa.com/news/vp-mike-pence-to-visit-greenville-tuesday-for-campaign-rally/amp/"
+cdnAmpWebUrl: "https://www-wspa-com.cdn.ampproject.org/c/s/www.wspa.com/news/vp-mike-pence-to-visit-greenville-tuesday-for-campaign-rally/amp/"
+type: article
+quality: 75
+heat: -1
+published: false
+
+provider:
+  name: WSPA
+  domain: wspa.com
+
+topics:
+  - Election
+  - Mike Pence
+
+images:
+  - url: "https://www.wspa.com/wp-content/uploads/sites/53/2020/10/Mike-Pence-speaking-in-Greenville.jpg?w=1280"
+    width: 863
+    height: 487
+    isCached: true
+
+related:
+  - title: "Live at 1:30: VP Mike Pence visits Portsmouth for rally"
+    excerpt: "Vice President Mike Pence will be in the Granite State on Wednesday for a campaign event. He is scheduled to speak to supporters at a rally in Portsmouth at 1:30 p.m. The event will be streamed live above this article on WMUR."
+    publishedDateTime: 2020-10-21T14:28:00Z
+    webUrl: "https://www.wmur.com/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499"
+    ampWebUrl: "https://www.wmur.com/amp/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/live-at-130-vp-mike-pence-visits-portsmouth-for-rally/34437499"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 75
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/4dfa3c67-5b19-4231-9760-11d8900b7c67/4dfa3c67-5b19-4231-9760-11d8900b7c67_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence To Hold Rally In Portsmouth, New Hampshire"
+    excerpt: "Vice President Mike Pence will make a campaign stop in Portsmouth, New Hampshire Wednesday afternoon. He will headline a rally at Port City Air at 1:30 p.m. before moving on to Ohio for an evening event in Cincinnati."
+    publishedDateTime: 2020-10-21T13:00:00Z
+    webUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/"
+    ampWebUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
+    type: article
+    provider:
+      name: CBS Boston
+      domain: cbslocal.com
+    quality: 55
+
+secured: "hrNTYLO2QAlK9hCGZ/XrquuQCy+2UKUU+/xzBfvlDZaNPXGfJVgPZM5iPvZ6ClVQ9Q8uhEkdnnKFI6TyT3RXHHuFaNr8oY38QbwXUwnGBC+QaRxxOamf9iFgk90L2DL1Bi4OxuJGBfC1ndfUQaTVDIqnhzkTveJc11jQ4R8EG9qKrTq4mAkg0MRqNIfxDkU0AF4md5LIh41qDHDtVnRAGzeOXKks8M2EvRPf0i7Dec4mJ9gPPD0W+VNC9q45vKcYf/iLogl672x1hivTI3xuPbWnG5JmeEJf/CL2Kwsaz1XMboOfkGsRTsDlyg5GyZfi0I2kQYPq2J3uCKWlsTUV6S+3XCExJWNkgSUsYFAi5EaK7tTebe/T1aKAIXD3sZs93AZBPkU+XaljBA6hDA3Ff6wccxgYox+Gb3EYlhyyCuw7aRV/S02zldCNHxfcVlRVCycCi2+Q/uKJQo2pjnVsCevbnLP6fWwAuY/HhOCkmFbQQXeg2ClaPEMkUvdIsdX9BboomCDCPk1U1nT/1JTwwA==;OqovQnKf/dHzAeMt/E37dw=="
+---
+

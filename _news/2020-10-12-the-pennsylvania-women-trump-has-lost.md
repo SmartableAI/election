@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvani
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
 type: article
 quality: 175
-heat: 635
+heat: 555
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's doctor says the President has tested negative on consecutive days"
-    excerpt: "White House physician Sean Conley said Monday President Donald Trump has tested negative for Covid-19 on consecutive days, as the President heads to a crowded campaign rally in Florida.\n    \n"
-    publishedDateTime: 2020-10-12T23:39:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oZfst1Abrhg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Fact check: Trump continues dishonesty bombardment at Pennsylvania rally"
     excerpt: "President Donald Trump has returned to the campaign trail with all of his usual campaign dishonesty.\n    \n"
     publishedDateTime: 2020-10-14T13:12:44Z
@@ -127,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration puts up billboards of immigration violators in Pennsylvania"
-    excerpt: "The Trump administration has put up billboards in Pennsylvania of immigration violators, an unprecedented move taken in a swing state a month before the presidential election.\n    \n"
-    publishedDateTime: 2020-10-02T23:19:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HA0c-zY776s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboards-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboards-pennsylvania/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922010710-ice-police-officer-ny-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Justice Department files complaint against Melania Trump's ex-friend over tell-all book"
     excerpt: "The Justice Department is suing Stephanie Winston Wolkoff, an ex-friend and former adviser to first lady Melania Trump, claiming she breached a confidentiality agreement by publishing a tell-all book, according to a lawsuit filed in the Washington, DC, District Court on Tuesday.\n    \n"
     publishedDateTime: 2020-10-13T22:56:34Z
@@ -159,19 +127,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "White House touts unusual Justice Department announcement about 'discarded' Trump ballots in Pennsylvania"
-    excerpt: "The Justice Department said Thursday that it is investigating \"potential issues with mail-in ballots\" in the swing state of Pennsylvania and, in a highly unusual disclosure, revealed that several ballots marked for President Donald Trump were \"discarded.\"\n    \n"
-    publishedDateTime: 2020-09-24T21:25:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9hHZhBbYMtY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/doj-trump-ballots-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/doj-trump-ballots-pennsylvania/index.html"
+  - title: "Fact check: At Pennsylvania rally, Trump makes four false claims about voting in the state"
+    excerpt: "President Donald Trump has made a habit of lying about the integrity of the election. And in the first of his three Monday events in Pennsylvania, he made four false claims about voting in the state.\n    \n"
+    publishedDateTime: 2020-10-27T00:43:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UlOJrsdkIhI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/fact-check-voting-pennsylvania-fraud-philadelphia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/fact-check-voting-pennsylvania-fraud-philadelphia/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924074304-donald-trump-0923-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142449-03-trump-rally-pa-1026-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -318,36 +286,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420164/201014-mccloskey-court-hearing-se-143p_7b68a0bea8cb98aebd86e91b93602446.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Pennsylvania: In a county Trump flipped, Democrats seek voters willing to flip back."
-    excerpt: "Democrats are hoping to reverse Mr. Trump’s resounding win four years ago in northeastern Pennsylvania’s Luzerne County, but they have a mountain to clim"
-    publishedDateTime: 2020-09-26T13:04:00Z
-    webUrl: "https://www.nytimes.com/2020/09/26/us/politics/pennsylvania-voting.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/26/us/politics/pennsylvania-voting.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/us/politics/pennsylvania-voting.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 128
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/27/us/politics/26dispatches-pennsylvania/26dispatches-pennsylvania-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump’s Taxes Show He Engineered a Sudden Windfall in 2016"
-    excerpt: "Over $21 million in highly unusual payments from the Las Vegas hotel Donald Trump owns with Phil Ruffin were routed through other Trump companies, then directed to Mr. Trump. Tax records expose ..."
-    publishedDateTime: 2020-10-09T11:26:00Z
-    webUrl: "https://www.nytimes.com/interactive/2020/10/09/us/donald-trump-taxes-las-vegas.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/07/us/donald-trump-taxes-las-vegas-1602094433672/donald-trump-taxes-las-vegas-1602094433672-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women"
     excerpt: "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit."

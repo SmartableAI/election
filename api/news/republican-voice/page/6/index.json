@@ -2,6 +2,511 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-14-turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.md",
+      "title": "Turley: Court-packing would be a 'blunder of the first order' by Biden",
+      "excerpt": "The Democrats, as usual, looking small and petty in comparison, but with just 22 days until you're the ultimate jury and the election takes place, let's turn back to the campaign trail where Joe Biden has finally mustered up the courage to leave his basement bunker for a few hours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden",
+      "originalUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/826bf8c5-7513-4888-b950-2911d89eb94e/d73bb5e3-e212-48a4-980d-7dbc454e86bd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp",
+      "publishedDateTime": "2020-10-14T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-durbin-says-trump-administration-case-against-obamacare-is-orange-cloud-over-barrett-nomination.md",
+      "title": "Durbin says Trump administration case against ObamaCare is 'orange cloud' over Barrett nomination",
+      "excerpt": "Sen. Dick Durbin, D-Ill., continued Democrats' claims that the real reason why Republicans are rushing to confirm Judge Amy Coney Barrett to the Supreme Court is so that she can be on the bench for an upcoming ObamaCare case, but he had a particularly colorful way of putting it.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2De58Ce9Thw/durbin-barrett-hearing-trump-obamacare-case",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2De58Ce9Thw/durbin-barrett-hearing-trump-obamacare-case",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288542482521-e1602689531456.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/durbin-barrett-hearing-trump-obamacare-case.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-barrett-hearing-trump-obamacare-case.amp",
+      "publishedDateTime": "2020-10-14T08:45:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-report.md",
+      "title": "Biden says Pennsylvania plant 'thinking of shutting down,' company responds to 'untrue' claim: report",
+      "excerpt": "Democratic presidential nominee Joe Biden during a campaign stop in Pennsylvania over the weekend incorrectly said that a plant in the city was considering closing its doors, prompting the company to issue a response to calm workers' fears, Erie News Now reported Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7sGq_71w1A/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7sGq_71w1A/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report.amp",
+      "publishedDateTime": "2020-10-14T05:50:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-new-jersey-mayors-facebook-post-blasting-trump-and-his-supporters-prompts-outcry.md",
+      "title": "New Jersey mayor's Facebook post blasting Trump and his supporters prompts outcry",
+      "excerpt": "A New Jersey mayor has come under fire for a private Facebook post that condemned President Donald Trump and likened his supporters to “religious zealots” who want to “enact the Christian version of Sharia law.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAYvkukryMs/mayor-facebook-blasted-trump-zealots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAYvkukryMs/mayor-facebook-blasted-trump-zealots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287769111764.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mayor-facebook-blasted-trump-zealots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayor-facebook-blasted-trump-zealots.amp",
+      "publishedDateTime": "2020-10-13T17:40:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-ex-white-house-doctor-questions-bidens-mental-capacity-to-be-president.md",
+      "title": "Ex-White House doctor questions Biden's 'mental capacity' to be president",
+      "excerpt": "“I’m concerned, like so many other people in this country are right now, that he is not up for the job,\" Jackson said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvR-lQXJkr4/white-house-doctor-ronny-jackson-biden-mental-capacity-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvR-lQXJkr4/white-house-doctor-ronny-jackson-biden-mental-capacity-president",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/048f5479-3edc-4e43-8155-6c4f45a2c149/af8ff7d7-6b5c-4ce2-a9be-4ad5bb46b196/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp",
+      "publishedDateTime": "2020-10-13T14:48:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-ayanna-pressley-challenger-in-massachusetts-says-she-was-attacked-at-local-trump-rally-suffered-broken-tibia.md",
+      "title": "Ayanna Pressley challenger in Massachusetts says she was attacked at local Trump rally, suffered broken tibia",
+      "excerpt": "The incident left her with a sprained finger, fractured tibia, and a mild concussion, Campbell told Fox News on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
+      "publishedDateTime": "2020-10-13T14:02:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-ivanka-trump-campaigns-in-wisconsin-georgia-3-weeks-before-election-day.md",
+      "title": "Ivanka Trump campaigns in Wisconsin, Georgia 3 weeks before Election Day",
+      "excerpt": "Advisor to the president Ivanka Trump visited Wisconsin ahead of a visit to Georgia on Tuesday for campaign events three weeks before the 2020 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 409,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ivanka-Trump.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp",
+      "publishedDateTime": "2020-10-13T12:01:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.md",
+      "title": "Barrett allies use ad with Biden, Schumer to promote ‘Ginsburg Standard’",
+      "excerpt": "Supporters of Judge Amy Coney Barrett’s nomination to the Supreme Court are promoting the “Ginsburg Standard” of not answering questions about hypothetical cases, as Barrett’s confirmation hearings get underway in the Senate. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kTbLpIZ0UqA/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kTbLpIZ0UqA/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7c204b7-5802-4d50-ad0a-59e6e92a598b/54ad03db-d03d-4987-b285-b56ea5d7d5e9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp",
+      "publishedDateTime": "2020-10-13T10:01:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-trump-hits-fauci-says-his-pitching-arm-is-far-more-accurate-than-his-prognostications.md",
+      "title": "Trump hits Fauci, says his 'pitching arm' is 'far more accurate than his prognostications'",
+      "excerpt": "President Trump on Tuesday took a swipe at Dr. Anthony Fauci, saying his “pitching arm” is “far more accurate than his prognostications,” as the World Health Organization has warned against lockdowns to combat the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O1lRpxX06QQ/trump-hits-fauci-coronavirus-prognostications-pitching-arm",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O1lRpxX06QQ/trump-hits-fauci-coronavirus-prognostications-pitching-arm",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp",
+      "publishedDateTime": "2020-10-13T09:31:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-california-republicans-refuse-to-remove-ballot-boxes-slam-states-35-million-team-biden-contract.md",
       "title": "California Republicans refuse to remove ballot boxes, slam state's $35 million 'Team Biden' contract",
       "excerpt": "The California Republican Party responded Monday to criticism over unofficial ballot drop-off boxes in counties with highly competitive U.S. House races, arguing that state law allows “ballot harvesting,” and also slamming a $35 million contract the state’s top election official awarded to a “Team Biden”",
@@ -118,7 +623,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 475,
+      "heat": 555,
       "tags": null,
       "images": [
         {
@@ -556,6 +1061,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-11-twitter-adds-warning-to-immune-tweet-by-us-president-trump.md",
+      "title": "Twitter adds warning to 'immune' tweet by US President Trump",
+      "excerpt": "As President Trump  on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus, Twitter slapped a warning label on his tweet in which he declared he was now “immune” from the virus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tx_XT2LTV3M/twitter-adds-warning-to-immune-tweet-by-us-president-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tx_XT2LTV3M/twitter-adds-warning-to-immune-tweet-by-us-president-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3feda8a-9f09-4f04-8b12-362f78fe55a2/4dcd18cb-2e8e-4d06-9acb-92f7162bae8e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-11T13:38:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.md",
       "title": "Trump calls C-SPAN's Scully 'a fraud,' mocks claims that Twitter account was hacked",
       "excerpt": "President Trump on Sunday lambasted C-SPAN political editor Steve Scully over claims that his Twitter account was hacked.",
@@ -680,7 +1241,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -834,6 +1395,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-trump-picks-up-another-nobel-peace-prize-nomination-from-europe-after-diplomatic-victories.md",
+      "title": "Trump picks up another Nobel Peace Prize nomination from Europe after diplomatic victories",
+      "excerpt": "President Trump has picked up another nomination for the Nobel Peace Prize, after a Finnish member of the European Parliament (MEP) has called for the American president to be given the honor.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TBVo42WulqA/trump-nobel-peace-prize-europe-diplomatic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TBVo42WulqA/trump-nobel-peace-prize-europe-diplomatic",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e8e094d-02fb-436e-b8c2-34d55254b703/1d37db9d-91f1-4844-8be6-32ccc9adf7b4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T13:33:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     },
@@ -999,63 +1616,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-mike-pence-and-the-gop-mount-a-last-stand-in-arizona.md",
-      "title": "Mike Pence and the GOP Mount a Last Stand in Arizona",
-      "excerpt": "Most voters have made up their minds, so the Trump campaign is rallying the conservative ‘old guard.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "originalUrl": "https://www.wsj.com/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-243001/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "publishedDateTime": "2020-10-09T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-09-chicago-mayor-blames-trump-for-plot-against-michigan-gov-whitmer.md",
       "title": "Chicago mayor blames Trump for plot against Michigan Gov. Whitmer",
       "excerpt": "Chicago Mayor Lori Lightfoot is the latest public figure to pile on President Trump for a foiled plot to kidnap Michigan Gov. Gretchen Whitmer.",
@@ -1109,574 +1669,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-halloween-store-selling-debate-fly-wig-inspired-by-bug-on-mike-pences-head-at-vp-debate.md",
-      "title": "Halloween store selling 'Debate Fly Wig' inspired by bug on Mike Pence's head at VP debate",
-      "excerpt": "Just in time for Halloween, an online shop is selling a bug-bedecked white wig inspired by the now-viral fly that landed in Vice President Mike Pence’s hair during the vice presidential debate on Wednesday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
-      "originalUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/3-wishes-fly-wig-.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
-      "publishedDateTime": "2020-10-09T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-trump-suggests-he-may-hold-weekend-rallies-in-florida-pennsylvania-after-receiving-green-light-from-doctor.md",
-      "title": "Trump suggests he may hold weekend rallies in Florida, Pennsylvania after receiving green light from doctor",
-      "excerpt": "President Trump told Fox News' Sean Hannity in an exclusive interview Thursday that his campaign is trying to make last-minute arrangements for holding weekend rallies in Florida and Pennsylvania after White House physician Dr. Sean Conley cleared him for public engagements earlier in the day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_2RIrOjhPn0/trump-weekend-rallies-florida-pennsylvania",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_2RIrOjhPn0/trump-weekend-rallies-florida-pennsylvania",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03957425-562e-4a08-9416-8c97e308d3b0/bba0db18-ae44-4233-b350-ecf576d4d522/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp",
-      "publishedDateTime": "2020-10-08T20:23:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate.md",
-      "title": "Karen Pence’s office says both sides agreed to no masks at end of debate",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aplWtDyy8c0/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aplWtDyy8c0/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1cce0175-a7be-420c-a6f4-6a820ce90d21/6ac1c14e-ff9e-4404-9fc2-423cb394a034/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate.amp",
-      "publishedDateTime": "2020-10-08T20:18:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-debate-commission-co-chair-defends-virtual-move-after-trump-pulls-out-we-will-be-guided-by-the-medicine.md",
-      "title": "Debate commission co-chair defends virtual move after Trump pulls out: 'We will be guided by the medicine'",
-      "excerpt": "Commission on Presidential Debates (CPD) co-chair Frank Fahrenkopf has defended the organization's decision to move the second presidential debate, slated for Oct. 15, to a virtual setting after President Trump dismissed the idea as a \"waste\" of time. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WaohQlSRuas/virtual-debate-trump-biden-frank-fahrenkorpf",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WaohQlSRuas/virtual-debate-trump-biden-frank-fahrenkorpf",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9f4375-e6af-4667-81a1-d8564e2cd2f6/7133e21f-a8e0-418b-b911-a6323c249384/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/virtual-debate-trump-biden-frank-fahrenkorpf.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virtual-debate-trump-biden-frank-fahrenkorpf.amp",
-      "publishedDateTime": "2020-10-08T19:28:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.md",
-      "title": "Vice presidential debate: Both Trump, Biden campaign claim victory after Pence, Harris showdown",
-      "excerpt": "Both the Trump campaign and the Biden campaign claimed victory after Wednesday night’s vice presidential debate—with team Trump touting Vice President Pence, saying he is “ready to lead,” and team Biden praising Sen. Kamala Harris for making a “forceful case” for a Biden presidency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 4528,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
-      "publishedDateTime": "2020-10-07T22:43:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.md",
-      "title": "AOC to VP Pence: ‘It’s Congresswoman Ocasio-Cortez to you’",
-      "excerpt": "U.S. Rep. Alexandria Ocasio-Cortez appeared to be closely watching the vice presidential debate Wednesday night, tweeting several responses to comments by Vice President Mike Pence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1YEsGrTirgU/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1YEsGrTirgU/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/Pence-AOC_AP-Getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.amp",
-      "publishedDateTime": "2020-10-07T21:07:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-harris-says-she-is-a-person-of-faith-insulting-to-suggest-she-would-knock-anyone-for-religion.md",
-      "title": "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion",
-      "excerpt": "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 292,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
-      "publishedDateTime": "2020-10-07T19:50:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-mcdaniel-slams-biden-over-despicable-politicization-of-coronavirus-in-first-interview-since-positive-test.md",
-      "title": "McDaniel slams Biden over 'despicable' politicization of coronavirus in first interview since positive test",
-      "excerpt": "The coronavirus pandemic has brought out the \"worst\" in Joe Biden and the Democratic Party, Republican National Committee Chairwoman Ronna McDaniel told \"Bill Hemmer Reports\" on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wVf6myPU25A/rnc-mcdaniel-biden-politicizing-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wVf6myPU25A/rnc-mcdaniel-biden-politicizing-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5a355fd-dcbc-4859-88bc-65d72fb4a4e3/42f314ee-ce14-48bd-8c00-9e2d9a072753/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-mcdaniel-biden-politicizing-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-mcdaniel-biden-politicizing-coronavirus.amp",
-      "publishedDateTime": "2020-10-07T14:39:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-trump-campaign-cancels-ohio-iowa-tv-ads-amid-optimism-over-swing-state-election-chances.md",
-      "title": "Trump campaign cancels Ohio, Iowa TV ads amid optimism over swing state election chances",
-      "excerpt": "“President Trump and his campaign are extremely confident about our chances in these states,” a Trump campaign spokeswoman said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7wRtyKXITsc/trump-cancels-ohio-iowa-tv-ads",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7wRtyKXITsc/trump-cancels-ohio-iowa-tv-ads",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29bfe935-daa8-4470-8854-e86a54083904/73b2af23-e387-4c77-bfc9-a57bce52aa82/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp",
-      "publishedDateTime": "2020-10-07T12:39:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-ed-rollins-vp-debate-harris-pence-faceoff-in-utah-and-america-should-look-to-hear-this-one-word.md",
-      "title": "Ed Rollins: VP debate –Harris, Pence faceoff in Utah and America should look to hear this one word",
-      "excerpt": "It is not unrealistic to think that Pence or Harris could be America’s president in the not-too-distant future",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins",
-      "originalUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9237c49-0e3b-44b1-852b-13637dd6bd4a/fa189495-4350-42bd-a9f1-b6601bcdc060/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins.amp",
-      "publishedDateTime": "2020-10-07T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

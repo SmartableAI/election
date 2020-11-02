@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump mocks virus as he launches potential superspreader sprint to win reelection"
-excerpt: "Donald Trump on Monday launched a three-week quest to save his presidency, behaving as though the pandemic that has killed 215,000 Americans was already a memory in front of a packed-in crowd -- even amid chilling new warnings about the resurgent virus.\n    \n"
-publishedDateTime: 2020-10-13T10:57:20Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KtPeQduE-Q0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KtPeQduE-Q0/index.html"
+excerpt: "(CNN)Donald Trump on Monday launched a three-week quest to save his presidency, behaving as though the pandemic that has killed 215,000 Americans was already a memory in front of a packed-in crowd ..."
+publishedDateTime: 2020-10-13T09:25:00Z
+originalUrl: "https://edition.cnn.com/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
+webUrl: "https://edition.cnn.com/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
 type: article
-quality: 185
+quality: 145
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
@@ -810,6 +811,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump's Support of Extremism and Conspiracy Theories"
+    excerpt: "Supported by Violent extremists and conspiracy theorists found their tribune in Donald Trump. By Jesse Wegman Mr. Wegman is a member of the editorial board. Kathleen Kingsbury, acting editorial ..."
+    publishedDateTime: 2020-10-17T06:37:00Z
+    webUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-extremism-conspiracy-theories.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-extremism-conspiracy-theories.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/16/opinion/trump-extremism-conspiracy-theories.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/16/opinion/16wegman/merlin_175022151_9253e8bd-74c3-4ce2-92f3-b9eef3de63ae-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump administration reverses course on California wildfire aid"
     excerpt: "The request was for September, when blazes scorched nearly 1.9 million acres, destroyed over 3,300 structures and killed at least 3 people."
     publishedDateTime: 2020-10-17T00:50:00Z
@@ -1378,6 +1395,20 @@ related:
         width: 780
         height: 520
         isCached: true
+  - title: "Losing Could Expose Trump to Prosecution for Any Number of Crimes"
+    excerpt: "Even if President Donald Trump loses on November 3, it’s hard to imagine that he’ll ever be convicted of any crime, much less serve time in prison. That’s because, first and foremost ..."
+    publishedDateTime: 2020-10-18T21:30:00Z
+    webUrl: "https://theintercept.com/2020/10/18/trump-election-crimes-prosecution/"
+    type: article
+    provider:
+      name: The Intercept
+      domain: theintercept.com
+    quality: 65
+    images:
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/10/trump-crime-2-2.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Here’s How the GOP Can Get Rid of That Trump Stench"
     excerpt: "Donald Trump is headed toward a massive defeat —at least, if any of the polls (or our eyes) are to be believed. What is more, there’s a decent chance a massive blue wave could do the unthinkable, sweeping even “safe” Republicans like South Carolina Senator Lindsey Graham out to sea."
     publishedDateTime: 2020-10-10T08:22:00Z
@@ -1406,6 +1437,6 @@ related:
       domain: thedailybeast.com
     quality: 44
 
-secured: "OfRokLc8YOZsWpmun+INTRRfNIeCLRlM4aYhSA2UVhkXm0OH3eBgUxBT2Vv3IUH3AVhKtZCH1aCZqnhleOVoI+LC6klgb2/yN2qmcwW+ESgSw25VjBbpxDDNZlKwzb4dkHcA5tA4SHYePpQwKjMaZyqSXckd4Yu9ZiSOHbSS9iLO78zeqDTixBJbseN7A70imEi5XeHh6Q+kjDo5H8Orevh50oUEyjFTznbxsimDnQaXRvIaUIuu2Q8eq4inDqPoiPiSJclzT7Uj3qNQzv7DvQzO2BgHvIlJN9gaGOFUqCONljA42mOg9EIY7J0mIXnXULIYL5rvc3KvyWVBcrekYhxlyln1vdNjTrHjgWZOiOU=;42Ty0BSjmzuOOkgLWQ3fUw=="
+secured: "zQeBPsdu9vRQkvug0YLPEwctZzYVMLJryTw7YvdzV0tG+a3tFLUPYyeW/JBmqPdK4ifMDESoH7pFKbb4x6SmN4rIts5ylOec3fvVtrgzzZpry4TdrEX7ZznL13RqsDoY+fu+MSmHzf14CA/SXX68LB86T4AfI8oXz12p8lyaSu6lXsadGEcwyAkYvILetlzG5NXcRMJ4zL4CJAIVjqBjCgjhwC61Fp4mdtkTRCS+iVYY/hIS7NHXQTpXeqH1w7P1h2LF1sLKezOp+KVHyXYmfRPFXrDuOSRuAI6jej7J9x9HHD+lz2f1VeVtekuZJA64Hmn51Ol8FgKGG5wbKfrn9/yxMrmNCKZkUoTy8tcWUNU=;6GGpDEUqiWyfkG6nEOi9Pw=="
 ---
 

@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "New York grocery store sparked backlash with a 20% discount offer for Trump supporters"
-    excerpt: "Store owner Jose Colon told Fox News he also meant to extend the 20% off promotional offer to backers of Democratic presidential nominee Joe Biden."
-    publishedDateTime: 2020-10-24T20:35:00Z
-    webUrl: "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp"
+  - title: "Trump keeps calling $750 tax payment a 'filing fee.' Experts say there's no such thing"
+    excerpt: "President Donald Trump keeps bringing up what he calls a $750 filing fee for his federal income tax returns. What's that all about?"
+    publishedDateTime: 2020-10-25T22:12:00Z
+    webUrl: "https://www.usatoday.com/story/money/columnist/2020/10/23/president-donald-trump-keeps-bringing-up-what-he-calls-750-filing-fee-his-federal-income-tax-returns/6010994002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6010994002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6010994002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'"
+    excerpt: "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president."
+    publishedDateTime: 2020-10-18T18:14:00Z
+    webUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 117
+    quality: 107
     images:
-      - url: "https://i.insider.com/5f948c93f21803001222bcc5?width=1200&format=jpeg"
-        width: 814
-        height: 407
+      - url: "https://i.insider.com/5f8c7e90c21cfb0019468a88?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Tucker Carlson Interviews Bin Laden Niece Who Said She’s Gotten More Backlash for Trump Support Than for Her Last Name"
-    excerpt: "Amid the thousands and thousands of news cycles in the past few months, you may have missed that back in September, Noor bin Ladin — niece of Osama bin Laden — endorsed President Donald Trump for reelection."
-    publishedDateTime: 2020-10-17T18:05:00Z
-    webUrl: "https://www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/"
-    ampWebUrl: "https://www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/amp/"
+  - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
+    excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
+    publishedDateTime: 2020-10-20T23:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 51
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Tucker-Carlson-Noor-bin-Ladin-1200x675.jpg"
+      - url: "https://i.insider.com/5b74902142e1cc5b777140d9?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "cpJePVIBJpZZxD/p9X4c0m9pOIv3TCQMaIJKcJ9rTitlKVXEFR9/IXI2SIdb9IQztEZfiab7PLcs0PICgtQmamKsCV5Eqa2KnTmGyR/ZATz4XADpjze8gcTIUU0nJUyNhCtAAe+YPeRZEUG5trgIHWW1z1fU8V8QKX8UGoursBZMYscnUFqCBiWLBRKoIkFGKGKHiWEJxEvoU34Dlr+1DTCoFNZt8cABr1Zd3yrXsRmCVg3KixQqvKOYUa7TodcQNd0SK0vjh1rnz2JSEeY2Ia34ZcwZk+OeVmVIPQrVadY7+c3wcUBWofF8T+EJIW5x5gdPqmfqjSoizj7viIBK41nI6UznUX4R86OaSUvrAXs=;gc1eoXfeA0Wb83HTahr+1Q=="

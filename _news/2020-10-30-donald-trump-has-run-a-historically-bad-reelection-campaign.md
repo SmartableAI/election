@@ -48,6 +48,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "John King: Trump needs mind-blowing election turnout"
+    excerpt: "CNN's John King takes a look at what President Donald Trump will need to win over industrial swing states in the 2020 election.\n    \n"
+    publishedDateTime: 2020-10-31T00:58:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LNTWZU8Lrw4/john-king-2020-election-trump-biden-sot-vpx-ac360.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/31/john-king-2020-election-trump-biden-sot-vpx-ac360.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/31/john-king-2020-election-trump-biden-sot-vpx-ac360.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027235853-donald-trump-west-salem-wisconsin-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former CIA director: Trump likely to put up challenges to election result "
+    excerpt: "Former CIA Director John Brennan speaks to CNN's Erin Burnett about a report from threat trackers at the International Crisis Group that warns America could face \"unfamiliar danger\" in the days around the presidential election.\n    \n"
+    publishedDateTime: 2020-11-02T00:13:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m934RIXluSs/election-result-violence-john-brennan-global-conflict-watchers-sot-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/01/election-result-violence-john-brennan-global-conflict-watchers-sot-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/01/election-result-violence-john-brennan-global-conflict-watchers-sot-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102000357-brennan-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate to confirm Trump's Supreme Court nominee a week ahead of Election Day"
     excerpt: "Senate Republicans are poised to confirm President Trump's Supreme Court nominee Judge Amy Coney Barrett on Monday, a major victory for the President and his party just days before November 3, that promises to push the high court in a more conservative direction for generations to come.\n    \n"
     publishedDateTime: 2020-10-26T10:04:06Z
@@ -109,22 +141,6 @@ related:
     quality: 180
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029141817-chad-wolf-1029-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Tax bombshell reveals Trump's image is a sham"
-    excerpt: "It was the moment when Donald Trump's \"Art of the Deal\" fabulism, billionaire tycoon bluster and populist standard-bearing for forgotten Americans was revealed to be what it always looked like: a sham.\n    \n"
-    publishedDateTime: 2020-09-28T05:23:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927181158-02-trump-press-briefing-0927-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -368,19 +384,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Trump reignites climate fight in visit to fire-ravaged West Coast"
-    excerpt: "For weeks, President Donald Trump was largely silent on the wildfires that have charred more than 3.3 million acres in California, triggered Oregon officials to prepare for a potential \"mass fatality incident,\" and created apocalyptic orange skies and clouds raining ash that have drifted across cities"
-    publishedDateTime: 2020-09-14T21:06:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5zU9tawExY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
+  - title: "Analysis: Why Trump needs more than a 2016 polling miss to win"
+    excerpt: "The 2020 election is down to the home stretch. And like most of the year, former Vice President Joe Biden continues to lead President Donald Trump nationally and in the swing states that matter. There are some who dismiss the polls because of their perceived inaccuracies in 2016.\n    \n"
+    publishedDateTime: 2020-10-31T13:47:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F5WX4HAtmgc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/polling-trump-biden-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/polling-trump-biden-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029164424-01-trump-florida-1029-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: This is how Donald Trump gets to 270"
+    excerpt: "With just 2 days until the 2020 election, this is the last Sunday newsletter before the country votes. The 5 BIG storylines you need to know to understand the last week on the campaign trail are below. They're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
+    publishedDateTime: 2020-11-01T19:51:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mu9IWOs20X4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031142107-02-trump-1030-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: This one poll is giving Trump backers hope and Democrats anxiety "
+    excerpt: "Poll of the week: A new Des Moines Register/Selzer and Co. poll from Iowa likely voters has President Donald Trump leading Democratic presidential nominee Joe Biden by a 48% to 41% margin.\n    \n"
+    publishedDateTime: 2020-11-01T16:47:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9uGkKLUQXuI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/iowa-poll-selzer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/iowa-poll-selzer/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200913235654-03-wildfires-california-0909-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030141258-03-biden-trump-election-night-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1022,6 +1070,6 @@ related:
       domain: thedailybeast.com
     quality: 40
 
-secured: "z/BVrCdm7ZJtLEyNgz6oOjN5zmrrZ8weYFLs0+2KPDWrv6ZdJObKzwassDIiBSo7Fj5jLJsNl3UJGykt28+1xoy8Kq+rg3P2Y2M9GW8mZ0X7BvN5pBKkZkq3sFrg5zeA6wElsZSnwJxtzbUETiCNzhaM47jC5Fu1/LHQm7nn5r1ozivYY6PUgPEw5083/IWrKA6LLVX6oFmIHXlHyUCISvl5O024YrJz2ME8HS0BKFvzMmpHKfxn37k5HvoWAsWPUYT0ghwzEiZbGUQIStUpNH9gvlJMY/TqoqoM8WqHjxTD5ChLzU8cieyStebNUtU23lJ5ptb1ikx4H6h68sjpaoxnqzWbeFCZYX8m6ISynN8=;ONhQOxOxXs53hcXEbmlqug=="
+secured: "ZvGPF1Sh5ogKlzrt5FYhNya4gRD3IMIkfl6iBJsJU2Af+nekgcyUf4gusFmOCKkUfoVWDK2OxxCzAsGIqTfz04HCzHRLf7nbpAlkHPNkyn4WStUP2mseMMjJ3/aFSsXyz/64K0GgIeMFZf8gSDjnjXDVWX5HcdmYBUxQIJAWuApAB1UpRgxrsl3VUG3AdYRIDwwelewtrKmcuzepwvRkikvajZC1HJ+kPyCWpW2kkLP0Yh6UyrtjPhbsxFA+AZ9o3YDUhj9CunRxwFfFCgQCahpqIcNCB8/Z32Q3/xPaOSw4xJN7X8tQ6UhHA3z6osXU/RRIu1ihHFT9boEo5q2y6GqMR5EJ1XhdGWtJsmy4U9d6O3MLO8riZBs8eylxWKkSnbudK6BqB4u0y26FnG0/CELQjy4fZ4lu2AFgsagzio80VAg77gy5ItF1W/RmvdzaY9Dci7hzwIO1zICWtkJ/JvTftlJyBbu5PtGu8KFbfnZV5Qn3SyiN3SlR/eowWKA8lZ89HbirZlqTb1B4emxe4A==;H6e7Sdp4kWhj8QBQ7RREbg=="
 ---
 

@@ -32,21 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: This is Vice President Mike Pence's answer on a peaceful transfer of power. Read it carefully."
-    excerpt: "The vice presidential debate Wednesday night will be remembered more for how the candidates evaded questions than how they answered them.\n    \n"
-    publishedDateTime: 2020-10-08T05:20:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html"
+  - title: "A Fly Landed on Mike Pence"
+    excerpt: "A local TV news reporter from California clocked the fly’s screen time on Mr. Pence’s head at 2 minutes, 3 seconds. While Mr. Pence spent most of the 90-minute debate avoiding direct questions posed by the moderator,"
+    publishedDateTime: 2020-10-08T03:37:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007213656-30-vp-debate-2020-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-38/07elections-briefing-07-22-38-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Jimmy Fallon Riffs on Mike Pence’s Fly and Pink Eye"
+    excerpt: "He’s the head of the coronavirus task force. Not really a great look when you’re covered in bugs and bleeding out of your eye,” Fallon said on Thursday."
+    publishedDateTime: 2020-10-09T08:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/arts/television/late-night-mike-pence-fly-vp-debate-pink-eye.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/arts/television/late-night-mike-pence-fly-vp-debate-pink-eye.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/arts/television/late-night-mike-pence-fly-vp-debate-pink-eye.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/arts/09latenight/09latenight-facebookJumbo.png"
+        width: 764
+        height: 400
+        isCached: true
+  - title: "‘S.N.L.’ Has a Theory About the Fly That Landed on Mike Pence’s Head"
+    excerpt: "Live” satirized Wednesday’s vice-presidential debate in an episode of comedy monologues guaranteed to press everyone’s buttons."
+    publishedDateTime: 2020-10-11T07:52:00Z
+    webUrl: "https://www.nytimes.com/2020/10/11/arts/television/snl-fly-pence-jim-carrey.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/11/arts/television/snl-fly-pence-jim-carrey.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/11/arts/television/snl-fly-pence-jim-carrey.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/arts/11snl/11snl-facebookJumbo.jpg"
+        width: 1000
+        height: 523
         isCached: true
 
 secured: "zWkeBt6MmR/IRu3rGAdqyku1u+p/42Ifzm8gGXugSptx2oo8vKybst/KOE4R/hZugCyn1u0gihzLc0p//YxbYeKkS0HOCvTfQW7Fp5RtOATG4IiI39EoWXnrIxRTqET4RMzsh8jha2iKu1j0f2AEhJMKD/nl1dSAqxYUC97LAjixEm3kQ9K0tkJdiFDpK7cVGQC2a4iqu8GXNWeneB4i3DfFkWv+0MZlZCLmbytSRv35OfGMoANVyUcqrup6Hn3QbdMJrViahdijaI7laU+PWxXYK/Nh3XhUmCl6SABgx256rT12kXJvezvNSyb3y7tg27xoQMMCybhK3nupHOx/hbHwWBu//B1lCK48Y+DSASU=;fBlqdmvc+XYNJgbJz7gQEA=="

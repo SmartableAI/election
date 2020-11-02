@@ -59,6 +59,22 @@ related:
         width: 646
         height: 363
         isCached: true
+  - title: "The secret to Biden's lead: People find him likable"
+    excerpt: "Former Vice President Joe Biden heads into the final week before Election Day with a substantial advantage over President Trump, built on a careful foundation of Biden’s own personal image."
+    publishedDateTime: 2020-10-27T11:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522830-the-secret-to-bidens-lead-people-find-him-likable"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522830-the-secret-to-bidens-lead-people-find-him-likable?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522830-the-secret-to-bidens-lead-people-find-him-likable?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102420getty_fav.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden looks like a safe pair of hands for the US economy"
     excerpt: "Contrary to popular belief, Democratic presidents have been better for the economy than Republicans"
     publishedDateTime: 2020-10-28T07:00:00Z
@@ -74,54 +90,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/b8147904e132d78468aab14375d97c0ad91cb23d/0_87_5304_3182/master/5304.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25238f8ed303e9d2146e0c5164c0eb95"
         width: 600
         height: 360
-        isCached: true
-  - title: "Watch live: Biden holds campaign event in Atlanta"
-    excerpt: "Democratic presidential nominee Joe Biden is set to hold a drive-in campaign event in Atlanta, Ga., on Tuesday evening.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-10-27T21:52:00Z
-    webUrl: "https://thehill.com/video/campaign/523034-watch-live-biden-holds-campaign-event-in-atlanta"
-    ampWebUrl: "https://thehill.com/video/campaign/523034-watch-live-biden-holds-campaign-event-in-atlanta?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/523034-watch-live-biden-holds-campaign-event-in-atlanta?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_102720getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "U.S. group urges Biden to use financial regulation to control climate change"
-    excerpt: "A climate advocacy group comprised of high-profile backers of Democratic presidential candidate Joe Biden on Tuesday urged the former vice president to consider using U.S. financial regulation as a tool to fight global warming if he is elected."
-    publishedDateTime: 2020-10-27T16:59:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-climatechange-financial-idUSKBN27C2JI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2JI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2JI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539010385&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1N0"
-        width: 910
-        height: 545
-        isCached: true
-  - title: "U.S. group urges Biden to use financial regulation to control climate change"
-    excerpt: "A climate advocacy group comprised of high-profile backers of Democratic presidential candidate Joe Biden on Tuesday urged the former vice president to consider using U.S. financial regulation as a tool to fight global warming if he is elected."
-    publishedDateTime: 2020-10-27T21:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-climatechange-financial/us-group-urges-biden-to-use-financial-regulation-to-control-climate-change-idUSKBN27C2JI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2JI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2JI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539010385&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1N0"
-        width: 910
-        height: 545
         isCached: true
   - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
     excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
@@ -155,6 +123,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "'Black lives matter': Navy SEAL who oversaw bin Laden raid says he voted for Joe Biden"
+    excerpt: "The retired Navy SEAL did not specifically name President Trump, but ended the op-ed by saying \"I voted for Joe Biden.\""
+    publishedDateTime: 2020-10-21T05:12:00Z
+    webUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5d07f57cf2f4796a1323eb05?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
     excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
     publishedDateTime: 2020-10-15T21:00:00Z
@@ -171,47 +155,19 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Joe Biden makes remarks after health briefing..."
-    excerpt: "Watch \"Presidential candidate Joe Biden makes remarks after public health briefing\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-28T16:54:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201028164124-presidential-candidate-joe-biden-makes-remarks-after-public-health-briefing/"
+  - title: "North America’s Building Trades Unions Issue Formal Endorsement of Joe Biden for President"
+    excerpt: "Today, North America’s Building Trades Unions (NABTU) formally endorsed former Vice President Joe Biden and Senator Kamala Harris for President and Vice President of the United States. The organization issued the following statement from NABTU President Sean McGarvey: “North America’s Building Trades Unions are proud to endorse former Vice President Joe Biden for President of the United States."
+    publishedDateTime: 2020-10-23T17:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/joe-biden-business-building-construction-construction-and-engineering-industrial-products-and-services-dbfaad2cabd003fffb18a350f7b64888"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Associated Press
+      domain: apnews.com
+    quality: 95
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/28/story_07450270_1603903804.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How Joe Biden Is Positioning Himself as a Modern FDR"
-    excerpt: "If this sounds to you like Joe Biden, you’d be right. If this sounds like Franklin Delano Roosevelt, you’d also be right. With just a week before the election, Biden traveled to Warm Springs, Ga., Tuesday to deliver a speech on national healing and economic redemption—and to wrap himself in FDR’s mantle."
-    publishedDateTime: 2020-10-28T17:31:00Z
-    webUrl: "https://time.com/5904569/joe-biden-fdr/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/fdr-biden-diptych.jpg"
-        width: 2400
-        height: 1200
-        isCached: true
-  - title: "Democratic presidential nominee Joe Biden takes questions from voters at ABC town hall"
-    excerpt: "Joe Biden defended his record amid a wide variety of questions during his town hall on ABC. Ed O'Keefe reports."
-    publishedDateTime: 2020-10-16T12:41:00Z
-    webUrl: "https://www.cbsnews.com/video/democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/7da6feff-35ad-459e-a4f3-719d800900f6/thumbnail/1200x630/0ee680c81d086467d3596858c2b98876/cbsn-fusion-democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall-thumbnail-567096-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Kamala Harris: 'Joe Biden is going to live a long life'"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris says voters can rest assured that Joseph R. Biden, 77, will live a “long life” because he’s strong in both “spirit” and “body.”"
@@ -229,6 +185,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Joe Biden, Mike Pence to campaign in Iowa this week, underscoring competitive presidential race"
+    excerpt: "Republican Vice President Mike Pence and Democratic former Vice President Joe Biden will campaign in Iowa this week, underscoring how competitive the state has become in the closing days of the 2020 presidential race. Pence will hold a \"Make America ..."
+    publishedDateTime: 2020-10-29T04:28:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/10/27/why-joe-biden-and-mike-pence-traveling-iowa-campaigns-think-iowa-winnable-but-not-yet-won/6046269002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6046269002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6046269002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 78
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3417,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Barack Obama holds first in-person rally for Joe Biden Wednesday"
     excerpt: "Obama will be speaking to a crowd at a drive-in rally in Philadelphia, where supporters will listen to him over the radio inside their cars."
     publishedDateTime: 2020-10-21T05:30:00Z
@@ -245,21 +217,21 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "3 Important Social Security Changes That Joe Biden Wants to Make"
-    excerpt: "The Democratic presidential candidate has big plans for Social Security. Here are a few key points all voters should know about."
-    publishedDateTime: 2020-10-24T11:36:00Z
-    webUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
-    ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
+  - title: "Will Joe Biden Bring Republicans Into His Cabinet? It Seems Possible."
+    excerpt: "Although appointing GOP members to top cabinet positions is a way to reward those who have endorsed Biden’s presidential candidacy, it could worry or demobilize Democratic voters who see a Biden-led party as one that neglects progressive and far-left concerns."
+    publishedDateTime: 2020-10-20T23:12:00Z
+    webUrl: "https://nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063"
+    ampWebUrl: "https://nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063?amp"
+    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063?amp"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: The National Interest
+      domain: nationalinterest.org
     quality: 75
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/71/a7186a1d-b66f-5ada-b123-fd3c09c16eb0/5f941b810bbe1.image.jpg"
-        width: 700
-        height: 465
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-10-20T100035Z_581827861_RC2AMJ9873X7_RTRMADP_3_USA-ELECTION-ECONOMY-BIDEN%20copy.jpg"
+        width: 1700
+        height: 1133
         isCached: true
   - title: "Hillary Clinton endorses Joe Biden's plans for U.S. court commission"
     excerpt: "Democratic presidential nominee Joseph R. Biden has found at least one supporter for his idea to create a blue-ribbon panel to study the U.S. court system: Hillary Clinton."
@@ -276,6 +248,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/19/Election_2020_DNC_69834.jpg-51cce_c99-0-2811-1582_s1200x700.jpg?6ee2f71840e6d2ce1a6b90520d3850ff9bad6041"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Coming soon to gas station TV screens in battleground states: Ads for Joe Biden"
+    excerpt: "Flush with a recent surge of cash, the Democratic National Committee is launching a wave of unconventional ads encouraging people to vote."
+    publishedDateTime: 2020-10-14T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246431365.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246431365.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246431365.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 71
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/9c976b97-2305-4a0f-b21c-31d6d1115dc7/48a910bf-c782-4ffc-ba75-d0603b5c4817/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
         isCached: true
   - title: "Fmr. President Barack Obama to campaign for Joe Biden in Philadelphia on Wednesday"
     excerpt: "Former President Barack Obama will campaign for Joe Biden in Philadelphia this upcoming week. The Biden campaign announced Friday that Obama will travel to Philly on Oct. 21 to campaign on behalf of the former vice president and Senator Kamala Harris."
@@ -306,22 +294,6 @@ related:
     quality: 66
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/26/PNAS/3dada756-b57c-4387-8975-f4ba563db3c7-20201022_debate_nashville_tn_as_2706.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden is the right choice for president of the United States for our times | Opinion"
-    excerpt: "Although some have tried to use Joe Biden’s years in Washington against him, his experience is actually a shield that can protect all of us."
-    publishedDateTime: 2020-10-28T19:31:00Z
-    webUrl: "https://www.tennessean.com/story/opinion/2020/10/28/joe-biden-right-choice-president-our-times-karen-camper/6058112002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/6058112002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6058112002"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PNAS/40f80051-62a0-4c08-9435-d0b6822cce49-_MJZ4295.JPG?auto=webp&crop=4550,2559,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -366,6 +338,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Former President Barack Obama To Campaign For Joe Biden In Miami on Saturday"
+    excerpt: "Former President Barack Obama is coming to town Saturday to campaign for his former VP Joe BidenPlexiglass dividers were seen being put into place ahead of tonight's debate between President Trump and former Vice President Joe Biden."
+    publishedDateTime: 2020-10-22T11:41:00Z
+    webUrl: "https://miami.cbslocal.com/video/4810811-former-president-barack-obama-to-campaign-for-joe-biden-in-miami-on-saturday/"
+    ampWebUrl: "https://miami.cbslocal.com/video/4810811-former-president-barack-obama-to-campaign-for-joe-biden-in-miami-on-saturday/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4810811-former-president-barack-obama-to-campaign-for-joe-biden-in-miami-on-saturday/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 52
   - title: "Waka Flocka Flame Thinks Donald Trump Is A Better President Than Barack Obama"
     excerpt: "Over the last few weeks, Hip Hop artists have revealed their support for incumbent President Donald Trump over former Vice President Joe Biden. For example, 50 Cent suggested having lower taxes for wealthy people is more important than being concerned about Trump’s racist rhetoric and policies."
     publishedDateTime: 2020-10-22T11:04:00Z
@@ -428,19 +411,19 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Former President Obama Campaigns for Joe Biden in Miami"
-    excerpt: "Former President Obama delivers remarks at a drive-in campaign rally in North Miami, FL, in support of Democrat Joe Biden ’s 2020 presidential campaign. Former President Obama campaigned in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
-    publishedDateTime: 2020-10-24T17:56:00Z
-    webUrl: "https://www.c-span.org/video/?477346-1/president-obama-campaigns-joe-biden-miami"
+  - title: "Joe Biden Campaign Event in Durham, North Carolina"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks at a voter mobilization event in Durham, North Carolina."
+    publishedDateTime: 2020-10-19T14:57:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaign-event-durham-north-carolina"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Scranton Virtual Block Party for Joe Biden"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks to a virtual rally in support of his campaign held by supporters in his hometown of Scranton, Pennsylvania."
-    publishedDateTime: 2020-10-28T23:16:00Z
-    webUrl: "https://www.c-span.org/video/?477510-1/scranton-virtual-block-party-joe-biden"
+  - title: "Former President Obama Campaigns in Philadelphia for Joe Biden"
+    excerpt: "President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden. Former President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-10-20T18:26:00Z
+    webUrl: "https://www.c-span.org/video/?477092-1/president-obama-campaigns-philadelphia-joe-biden"
     type: article
     provider:
       name: C-SPAN

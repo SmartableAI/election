@@ -9,7 +9,7 @@ ampWebUrl: "https://nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-o
 cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/"
 type: article
 quality: 75
-heat: 175
+heat: 215
 published: true
 
 provider:
@@ -58,6 +58,38 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/2/f1/2f1eaf86-10a2-11eb-9cee-2706909b2f7a/5f8b30c8048eb.image.jpg?resize=1024%2C749"
         width: 1024
         height: 749
+        isCached: true
+  - title: "Vice President Pence speaks about another round of Stimulus Checks"
+    excerpt: "Vice President Pence was in the “Keystone State” to plead his case for four more years of President Trump. While visiting he was asked about the concerns of the COVID-19 stimulus and"
+    publishedDateTime: 2020-10-18T16:13:00Z
+    webUrl: "https://www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/"
+    ampWebUrl: "https://www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/amp/"
+    cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/amp/"
+    type: article
+    provider:
+      name: Wane
+      domain: wane.com
+    quality: 75
+    images:
+      - url: "https://www.wane.com/wp-content/uploads/sites/21/2020/10/GettyImages-1218977241-1.jpg?w=1280"
+        width: 724
+        height: 483
+        isCached: true
+  - title: "Vice President Mike Pence will host rally in Kinston on Sunday"
+    excerpt: "KINSTON, N.C. (WTVD) -- With a little more than a week before the election, Vice President Mike Pence will visit the Tar Heel state for a planned rally one day after President Donald Trump."
+    publishedDateTime: 2020-10-23T17:14:00Z
+    webUrl: "https://abc11.com/politics/vice-president-pence-will-host-rally-in-kinston-on-sunday/7275528/"
+    ampWebUrl: "https://abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 75
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Here's what Vice President Mike Pence might talk about during Fort Wayne campaign stop"
     excerpt: "Vice President Mike Pence will stump for President Donald Trump in Indiana Thursday at the Fort Wayne Aero Center."

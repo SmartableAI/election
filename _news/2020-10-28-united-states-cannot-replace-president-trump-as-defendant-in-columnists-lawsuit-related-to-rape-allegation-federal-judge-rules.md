@@ -31,206 +31,309 @@ images:
     isCached: true
 
 related:
-  - title: "Hackers Stole $2.3 Million From Trump Reelection Account In Wisconsin"
-    excerpt: "Hackers have taken $2.3 million from the Wisconsin Republican Party’s account supporting Trump’s reelection, the party’s chairman told The Associated Press on Thursday, a campaign disruption in the critical swing state less than a week from Election Day."
-    publishedDateTime: 2020-10-29T14:41:00Z
-    webUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/"
-    ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/"
+  - title: "Election 2020 live updates: Trump campaign website hacked"
+    excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
+    publishedDateTime: 2020-10-29T03:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6007506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: USA Today
+      domain: usatoday.com
     quality: 140
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ad2feba488e31d7ba9182%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D282%26cropY2%3D3360"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "I'm a Republican Former Elections Official. I Choose Democracy Over Trump | Opinion"
-    excerpt: "It wasn't until I became the executive director of New York City's Board of Elections that I had an up-close view of how complex and difficult it is to manage an election in the largest city in the country."
-    publishedDateTime: 2020-10-28T10:00:00Z
-    webUrl: "https://www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625"
-    ampWebUrl: "https://www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625?amp=1"
+  - title: "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics"
+    excerpt: "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware."
+    publishedDateTime: 2020-10-22T11:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 134
+      name: ABC
+      domain: abcnews.go.com
+    quality: 136
     images:
-      - url: "https://d.newsweek.com/en/full/1659972/president-donald-trump.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/trump-1-rt-er-201021_1603316702002_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "WATCH LIVE: President Donald Trump holds Wisconsin rally"
-    excerpt: "President is slated to hold a rally in Mosinee, Wis., on Thursday evening. The event is scheduled to begin at 9 p.m. EDT. Watch the live video above.  Tags Wisconsin Trump rally 2020 campaign 2020 ele"
-    publishedDateTime: 2020-09-18T01:06:00Z
-    webUrl: "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally"
-    ampWebUrl: "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
+  - title: "Trump casts a 'very secure vote' for himself in Florida: 2020 election updates"
+    excerpt: "Trump cast his ballot at the West Palm Beach library near his private Mar-a-Lago club. The president told reporters after leaving the library it was \"an honor\" to be voting and that he cast a \"very secure vote."
+    publishedDateTime: 2020-10-24T21:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/24/2020-election-updates-trump-votes-himself-florida/6021545002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6021545002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6021545002"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/24/USAT/0338551a-28f6-4df2-8161-d2acb8fb8d2f-AP_Election_2020_Trump_5.jpg?auto=webp&crop=2911,1637,x0,y2308&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election 2020 live updates: Obama says Trump treats 'presidency like a reality show'"
+    excerpt: "With 10 days to go until Election Day, President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3."
+    publishedDateTime: 2020-10-24T23:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/election blog/?id=73795075"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/election blog/?id=73795075"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/International/obama-miami-2-ap-rc-201024_1603571842167_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Election 2020 live updates: Trump makes false statement about Election Day ballot counts"
+    excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
+    publishedDateTime: 2020-10-27T19:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6007506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facebook pulled 48 Trump election campaign ads which told people 'your vote has not been counted'"
+    excerpt: "Some 399,000 saw the ads from the Trump campaign before Facebook pulled it, which was potentially misleading to some voters."
+    publishedDateTime: 2020-10-23T15:44:00Z
+    webUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/5f92f8b4212113001874071a?width=1200&format=jpeg"
+        width: 780
+        height: 390
+        isCached: true
+  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
+    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
+    publishedDateTime: 2020-10-12T12:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump COVID-19 live updates: Bodyman for Trump tests positive"
+    excerpt: "The mystery surrounding President Donald Trump's COVID-19 diagnosis and condition deepened Saturday after confusing and contradictory information from the White House."
+    publishedDateTime: 2020-10-04T12:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald2_09112020.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/Trump-Coronavirus-Twitter-_hpMain_20201004-043059_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "‘We need you’: GOP hunts for new voters in Trump territory"
-    excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
-    publishedDateTime: 2020-10-28T04:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/we-need-you-gop-hunts-for-new-voters-in-trump-territory/2020/10/28/133ffe00-18d6-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+  - title: "2020 election live updates: White House says Trump has tested negative for COVID without saying when"
+    excerpt: "President Donald Trump has tested negative for COVID-19 on “consecutive days,” White House physician Sean Conley said in memo released Monday. The document, posted to Twitter by White House ..."
+    publishedDateTime: 2020-10-13T16:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "GRAPHIC-Trump's stock market - A wild four years"
-    excerpt: "The four years since President Donald Trump's 2016 election victory have been a period like no other for the U.S. stock market."
-    publishedDateTime: 2020-10-29T10:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-markets-stocks-idUSL1N2HC1UL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HC1UL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HC1UL"
+  - title: "Trump grants clemency to five backed by ally Alice Johnson"
+    excerpt: "President Donald Trump on Wednesday granted clemency to five people convicted of committing drug and financial crimes, all of them cases that were pushed by prison reform advocate and Trump ally Alice Johnson."
+    publishedDateTime: 2020-10-22T01:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_daedaf4ef0704080945b2d81dc4a9a01_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump celebrates at White House as Supreme Court nominee confirmed"
+    excerpt: "President Donald Trump reveled in one of his signature achievements on Monday at a White House ceremony to celebrate U.S. Senate confirmation of his third Supreme Court nominee, Amy Coney Barrett, eight days before the election."
+    publishedDateTime: 2020-10-27T04:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett-idINKBN27A0CX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A0CX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A0CX"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539255040&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0U6"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538916881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q02G"
+        width: 777
         height: 545
         isCached: true
-  - title: "Slovenian premier endorses Trump's reelection, joins others"
-    excerpt: "Slovenian Prime Minister Janez Jansa endorsed U.S. President Donald Trump’s reelection on Friday, saying Joe Biden would be a weak leader."
-    publishedDateTime: 2020-10-25T17:57:00Z
-    webUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
+  - title: "WATCH LIVE: Trump speaks at campaign rally in Bullhead City, Arizona"
+    excerpt: "Trump weighed in on two nights of clashes with Philadelphia police and store break-ins following the fatal shooting by police of Walter Wallace Jr."
+    publishedDateTime: 2020-10-28T18:57:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump COVID-19 live updates: Campaign manager Bill Stepien tests positive"
+    excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
+    publishedDateTime: 2020-10-03T14:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73402267"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73402267"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73402267"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Election updates: Trump deemed 'safe' to return to public engagements, won't say if he's tested negative"
+    excerpt: "Trump's aides are working to satisfy his desire to get back out on the campaign trail as early as Monday in Pittsburgh."
+    publishedDateTime: 2020-10-11T00:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5882077002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
+    excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
+    publishedDateTime: 2020-10-24T22:53:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 120
-  - title: "Pollster Frank Luntz: If Trump defies polls again in 2020, 'my profession is done'"
-    excerpt: "Pollster Frank Luntz told Fox News on Thursday night that poll predictions are wrong about the 2020 election between President Trump and former Vice President Joe Biden, his \"profession is done\" in terms of faith and confidence from the public."
-    publishedDateTime: 2020-10-23T13:03:00Z
-    webUrl: "https://thehill.com/homenews/media/522405-pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done"
-    ampWebUrl: "https://thehill.com/homenews/media/522405-pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/522405-pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 119
+    quality: 122
     images:
-      - url: "https://thehill.com/sites/default/files/luntzfrank_getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump seeks to energize rural voters key to 2016 success in Wisconsin campaign rally"
-    excerpt: "Kicking off three days of campaigning, Trump will speak to supporters at an airport in Mosinee, Wisconsin, a state he won by less than 1 point in 2016."
-    publishedDateTime: 2020-09-18T03:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/trump-looks-energize-rural-voters-wisconsin-campaign-rally/3488284001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3488284001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3488284001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/54d92870-8e8d-4892-8f4d-a87270cb1420-AP_Election_2020_Trump.jpg?auto=webp&crop=3497,1968,x0,y0&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
-    excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
-    publishedDateTime: 2020-10-29T14:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/29/judge-brent-shore-florida-duval-county-vote-counting-head-trump-donations/6068234002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6068234002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6068234002"
+  - title: "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process"
+    excerpt: "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters."
+    publishedDateTime: 2020-10-28T21:35:00Z
+    webUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NFTU/7cb2302c-7824-4bb4-8511-52dba15d3133-IMG_7191.jpg?auto=webp&crop=4031,2267,x1,y90&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump's EPA rewrote the rules on air, water energy. Now voters face a choice on climate change issues"
-    excerpt: "Election Day will be a decision between deregulation or re-regulation. A look at Trump's rollbacks and their long term effects nationwide."
-    publishedDateTime: 2020-10-29T07:14:00Z
-    webUrl: "https://www.usatoday.com/in-depth/news/investigations/2020/10/29/climate-change-escalates-voters-face-choice-deregulate-re-regulate/3668667001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3668667001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3668667001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 110
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/NCOD/292b255e-c6f8-4fde-80dd-72114e11db3c-04_Environment_Election_CLH.jpg?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f99df9069331a0011bc5ed3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Coronavirus updates: Feared surge is underway; masks can still save 63K lives; Trump missing from task force meetings, Fauci says"
+    excerpt: "A long-predicted surge in COVID-19 cases and deaths has begun in the United States, but Americans aren't changing their behaviors. Latest COVID news."
+    publishedDateTime: 2020-10-24T12:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/24/covid-news-fall-winter-surge-trump-rally-masks-can-save-63-k-lives/3743485001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3743485001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3743485001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/85141cd530c0facfb3015ac08455e120005288b5/c=0-8-3000-1696/local/-/media/2020/10/22/USATODAY/usatsports/MotleyFool-TMOT-81b0d5d3-4a9ffab2.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Has Sold $118 Million Worth Of Property Since Taking Office"
-    excerpt: "While other Trump Organization ventures have grabbed more headlines, the president’s company has quietly struck more than 100 small deals—that all add up."
-    publishedDateTime: 2020-10-26T10:42:00Z
-    webUrl: "https://www.forbes.com/sites/chasewithorn/2020/10/26/trump-has-sold-118-million-worth-of-property-since-taking-office/"
+  - title: "Voting 2020 live updates: Trump campaign loses appeal on satellite offices; Ohio's legal battle over drop boxes is officially over"
+    excerpt: "As Trump plans to early vote in Florida, Pence cast his ballot in Indianapolis. 52M have already voted. Latest voting news from across the U.S."
+    publishedDateTime: 2020-10-23T19:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/voting-2020-problems-and-news-how-vote-court-battles-russia/3728419001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3728419001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728419001"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 95
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f939566a39fd9a825850db6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/73823eae-9c73-41f8-ae97-15b449bec90b-AFP_AFP_8T79DM.jpg?auto=webp&crop=5920,3330,x0,y300&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Mike Pence touts Donald Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:47:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
+  - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
+    excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."
+    publishedDateTime: 2020-10-27T19:48:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/article/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 100
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 90
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/84/08445a8c-87a2-5c8a-9a36-c7fcbd793e7e/5f8603fe6cff5.image.jpg"
-        width: 512
-        height: 360
-        isCached: true
-  - title: "Pence touts Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:22:00Z
-    webUrl: "https://www.chron.com/news/article/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 100
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/53/75/20102983/5/rawImage.jpg"
-        width: 1527
-        height: 2048
+      - url: "https://s.hdnux.com/photos/01/14/56/42/20113594/13/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
     excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
@@ -248,103 +351,77 @@ related:
         width: 800
         height: 430
         isCached: true
-  - title: "How a mid-size construction firm used political influence, litigation, and media stunts — and secured $2 billion in Trump border wall contracts"
-    excerpt: "Fisher Sand & Gravel, led by CEO Tommy Fisher, made a sharp recovery after having its prototype personally rejected by President Trump in 2018."
-    publishedDateTime: 2020-10-26T09:59:00Z
-    webUrl: "https://www.businessinsider.com/how-fisher-sand-gravel-secured-2bn-trump-border-wall-contracts-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/how-fisher-sand-gravel-secured-2bn-trump-border-wall-contracts-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-fisher-sand-gravel-secured-2bn-trump-border-wall-contracts-2020-10?amp"
+  - title: "WATCH LIVE: Trump Holds Rally in Tampa on Thursday"
+    excerpt: "President Donald Trump is scheduled to speak to supporters on Thursday afternoon in Tampa, Florida, before heading to an evening rally in Fayetteville, North Carolina."
+    publishedDateTime: 2020-10-29T22:12:00Z
+    webUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/5f969bc0f21803001222bdb5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Hackers Stole $2.3M From Wisconsin GOP, How Does It Affect Trump's Reelection Bid?"
-    excerpt: "The Wisconsin Republican Party has announced that hackers have stolen $2.3 million from funds meant for Donald Trump’s reelection campaign. The hackers compromised Republican ve"
-    publishedDateTime: 2020-10-29T17:55:00Z
-    webUrl: "https://www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626"
-    ampWebUrl: "https://www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hackers-stole-23m-wisconsin-gop-how-does-it-affect-trumps-reelection-bid-3072626?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 84
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/us-president-donald-trump-claps-during-a-rally.jpg"
-        width: 1024
-        height: 708
-        isCached: true
-  - title: "Trump administration proposes reversal of homeless policy"
-    excerpt: "A new federal plan to end homelessness released last week by the Trump administration calls for a reversal of Obama-era “housing first” policies. The plan, released Oct. 19, is the first from the United States Interagency Council on Homelessness since President Donald Trump fired its executive director last year and replaced him with Robert G."
-    publishedDateTime: 2020-10-27T19:00:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-administration-proposes-reversal-of-15678824.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Mediaite
+      domain: mediaite.com
     quality: 75
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Vice President Mike Pence shuns quarantine, rallies Trump crowd at Central Wisconsin Airport in Mosinee"
-    excerpt: "The vice president's visit comes while Wisconsin sees record high cases of COVID-19 and while members of his staff have been infected."
-    publishedDateTime: 2020-10-29T03:17:00Z
-    webUrl: "https://www.wausaudailyherald.com/story/news/2020/10/28/mike-pence-mosinee-central-wisconsin-airport-rally-trump-set/6054485002/"
-    ampWebUrl: "https://amp.wausaudailyherald.com/amp/6054485002"
-    cdnAmpWebUrl: "https://amp-wausaudailyherald-com.cdn.ampproject.org/c/s/amp.wausaudailyherald.com/amp/6054485002"
-    type: article
-    provider:
-      name: Wausau Daily Herald
-      domain: wausaudailyherald.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PWAU/639b99c2-6b8d-4fe7-8529-232863157d65-SPJ_Mike_Pence_Mosinee_rally_102820_354_ttm.jpg?auto=webp&crop=2260,1272,x0,y141&format=pjpg&width=1200"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1272406110-1200x801.jpg"
         width: 1200
-        height: 675
+        height: 801
         isCached: true
-  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
-    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
-    publishedDateTime: 2020-10-29T20:07:00Z
-    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
+  - title: "The Latest: Trump Says Final Debate Went 'Really Well'"
+    excerpt: "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”."
+    publishedDateTime: 2020-10-23T19:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 56
-    images:
-      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
-        width: 846
-        height: 571
-        isCached: true
-  - title: "Trump Aims to Boost Rural Turnout in Critical Wisconsin"
-    excerpt: "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters."
-    publishedDateTime: 2020-09-18T02:44:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 65
+  - title: "The Latest: Aide: Trump Tests Negative for Virus Pre-Debate"
+    excerpt: "The White House chief of staff says President Donald Trump tested negative for the coronavirus before Thursday night’s final presidential debate."
+    publishedDateTime: 2020-10-22T22:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Vice President Pence Holds Rally in Mosinee, Wisconsin"
-    excerpt: "Vice President Pence delivered campaign remarks at a “Make America Great Again” rally in Florida’s state capital of… Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice ..."
-    publishedDateTime: 2020-10-30T09:25:00Z
-    webUrl: "https://www.c-span.org/event/?477463/"
+  - title: "The Latest: Trump heaping attention on 1 Nebraska district"
+    excerpt: "President Donald Trump talks with the traveling press as first lady Melania Trump waits near Air Force One at Andrews Air Force Base, Md., Tuesday, Oct. 27, 2020. They flew"
+    publishedDateTime: 2020-10-28T01:26:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-heaping-attention-on-1-nebraska-district/image_3a2d2708-da36-5d0e-bceb-7b2e43bd20ce.html"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/a2/3a2d2708-da36-5d0e-bceb-7b2e43bd20ce/5f98a68289117.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "The Latest: Mrs. Trump Warms up Tampa Crowd at Trump Rally"
+    excerpt: "First lady Melania Trump is making her first joint campaign appearance of the year with her husband. Mrs. Trump warmed up the large crowd outside Raymond James Stadium in Tampa for President Donald Trump."
+    publishedDateTime: 2020-10-29T19:04:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Live updates: VP Mike Pence visits Allegheny County Airport"
+    excerpt: "Vice President Mike Pence is headed to the Allegheny County Airport to stump for President Trump down the home stretch for the General Election on Nov 3. His visit comes a day after Trump and ..."
+    publishedDateTime: 2020-10-23T20:22:00Z
+    webUrl: "https://triblive.com/local/live-updates-vp-mike-pence-visits-allegheny-county-airport/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
     quality: 35
 
 secured: "SADvmUhCu75H1VOe2G+ZKkywe4FLY9eoemTepTiYkyZxh6CrasuN6rLrc4lzgZwfpFhy9Kn+XAoTHCTEoKHzrEOpfc9fLvFLcISfbwsoT1GlC95p5umud/xA58hcZYTCi1viTif0fcWmWcl41X0AutSMnOoLgPaF4dZGQBAxe5/EzWRGyI3so3vK5NByKGejHDGd9iwG4HhUjp65UDWu31fYyomyWCgHDIgvF88pSjnYLiVr53jVGo8yjJ0s9K00+J8WD4qPZqrfYTzG4L7kScME+vG2L9ZDZTXR5CwJZgH5i3a2zbgOIojxnwZW5jZtuyJ4Yf8jptbSfERYLkHURJmzXRDsXhvCYKYU0OWf8hs=;x7N29hBEDKyUiQvwzFe2ew=="

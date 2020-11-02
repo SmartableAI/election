@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-
 cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
 type: article
 quality: 75
-heat: 195
+heat: 155
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence welcomed by crowd of 500 in Flint"
-    excerpt: "Tonight as the sun went down, Air Force Two touched down at Flint Bishop Airport. Pence hustled up to the podium, highlighting the importance of Michigan in this election."
-    publishedDateTime: 2020-10-29T04:28:00Z
-    webUrl: "https://www.fox2detroit.com/video/865403"
-    ampWebUrl: "https://www.fox2detroit.com/video/865403.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/video/865403.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 55
   - title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
     excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally. HIBBING, Minn. – A brisk wind blew across the runway and light snow greeted Vice President Mike Pence as he made his closing arguments to Iron ..."
     publishedDateTime: 2020-10-26T21:20:00Z
@@ -77,15 +66,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
-    publishedDateTime: 2020-10-30T13:55:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-arizona"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
   - title: "Vice President Pence Holds Rally in Flagstaff, AZ"
     excerpt: "President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3.5 points."
     publishedDateTime: 2020-10-30T07:24:00Z
@@ -96,6 +76,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "dG6Ti3wfj91ftDsTrd5Z/yQPF6pzGbZTDniXdNkYBiBZk3bPrHmtn18A3YhZVIL7PVPqR5kc2UNvnx1EGOCCE/2JkLxcwfowTBEQ1THaTQCWrftTi/gTvUyb/M7muxtWdit53ty9f/g/lr/9Z+PPffcXtzN6egYQ3zJlKpqUmfgDdhpShTvCS8f1ouqLP2/W1xCT+ydf9rxIfXU7JIoMSFjStQzBsgdprKJJgLhdH8LBdo13z0JWlz2K8CfQg8Pood4XPa0UisEGGoCzMD+8NylQ0Aj9bkORF7tqRgPOr5TZLBDLgbKsztE2Ww1m7nE9YO17tONE+pxwr/SDlk4Dfe3fL1YDjEyv3rs5OOG0qHo=;jlQIS4F2lF81n1spPbbmIg=="
+secured: "Sgi2jt87HCc1bqo9TrZMQ/XYdWU3p2+w6VnkYXWveveccjU9g0961cDp/z3BE0hNi5mucqmDD1Spmb0eZ+FdmfEPGfQ2jldye/7bfPAPr5SGe7oG4F8v1Y9qj9RGDcneZzCk6pB+R74CADb3MHV29zE0njb0tfySv//adKlvGGWffWkDG6AMH+6gq0BgTk2Bpxz0uOAFjMKw9xb6lFP0hwoXTTmQ7epsGLSpswZrQfJ7PGIFTGZV0/bMdIq5q8H3fsCbUzlNhKfnazAetj+u01dkyQuBafnQZMntGytskUDPmG2LbJ8OkPgANGki52oSqFIIi/k2CGKoFhfoR28Jk8loJQ687/1ejtbk2du0LKoOtilCuITC2IorU0i/ZhTUGe/C6OrQa2n5yNQ5zvSL+Riq+Xt3gHYTzvQ9KudAbC3hfaQTdbGqu6Sb+M3Ss2B1UPOgt+3VErDNvY4I28ruhrkCFsPaylYfHV6keTGcSOjfLEtsIDAzVDK0S1IqIpGVxpy6IGE0E0g6GQJFVlMFqg==;5OHyMjD0mR54sK7XJqCUug=="
 ---
 

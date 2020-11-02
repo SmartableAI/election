@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241854"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241854"
 type: article
 quality: 115
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: NBC News
@@ -30,22 +30,6 @@ images:
     width: 2371
     height: 1602
     isCached: true
-
-related:
-  - title: "Pete Wilson endorses Trump, says president has 'very good judgment'"
-    excerpt: "Wilson was among nearly seven dozen members of past GOP administrations and Congress who backed Trump in a signed letter."
-    publishedDateTime: 2020-10-02T01:22:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/10/01/pete-wilson-endorses-trump-says-president-has-very-good-judgment-1319581"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/0f/98/71f042ff4c01b1a5186cc20ae208/gettyimages-77065138-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "v4pIKQ91r7J+ln7SF1TfX+tVxD0GZxj/rsrGR1ZvUfjxwFQrxtP55S2EXO4LFmFJmOOwvn6aftc/pU3NVlmWjf0mlO6YGLqNibqJmqw/uU2DinzBIrTK/XepVlTEZegZOAB2ZagtHPqGOGNAdra0GI1TWFIvFIgQ/SMi27FUvxIWSibgNqojMsFb8U1Bf+dkeYnJS1nQQprd8/dMMFfifKJayV4Iy77hPbQ4tR7WaMU2hK3M21ABamX9aPJgUicVcHhTslKKUQxL2GEZ6apYHoU9XunNc8sA4DPtthrFEqdh/u+2aokuoBuKIv0BdYTCvE8qQ3M56KzfUvtiuBS2wgyVj1oH9eNcuPJgNZLr5LM=;ruoWOccsMH2ZlR5xhQvd2Q=="
 ---

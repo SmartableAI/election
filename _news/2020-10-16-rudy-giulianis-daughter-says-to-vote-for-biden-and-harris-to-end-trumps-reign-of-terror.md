@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 1825
+heat: 1845
 published: true
 
 provider:
@@ -671,6 +671,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/18/us/politics/18elections-brief-blindpig/18elections-brief-blindpig-facebookJumbo.png"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump and Biden vie for Catholic voters amid Supreme Court battle"
+    excerpt: "Washington (CNN)The fight to win over swing Catholic voters in the presidential election has intensified as Democrats and Republicans on Capitol Hill battle over confirming President Donald Trump ..."
+    publishedDateTime: 2020-10-18T23:49:00Z
+    webUrl: "https://www.cnn.com/2020/10/18/politics/catholic-vote-joe-biden-donald-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/catholic-vote-joe-biden-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/catholic-vote-joe-biden-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016204638-joe-biden-church-0913-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump and Biden Will Be Muted for Parts of Their Next Debate"
     excerpt: "In an unusual move meant to avoid interruptions like those that marred the first debate, the organizers said they would turn off each candidate’s audio feed while his rival had the floor."

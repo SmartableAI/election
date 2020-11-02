@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234?amp=1"
 type: article
 quality: 114
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 3000
     height: 2192
     isCached: true
-
-related:
-  - title: "Trump told group of Christians how he said 'excuse me?' when Mike Pence asked him to pray"
-    excerpt: "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals."
-    publishedDateTime: 2020-09-29T17:49:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 81
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "7GIbdbGE+SWiZN7vNebKwEw3t+xAiilk6Zasz1vGuhWVWY0/48rmZQH9clYybVpkUWwf+FuN+4q0OgiVf5JfgXDjzw9JA4spOgXqogpmVK7S5HQwrWRS2l/RkRLHBAdcP5R1jp2y3dCxq0ZfkXyrS0F7wGJZtX+hIYCEcSFULNFoCjxjABNbqsP7PQCCsE4pSSewl+gZuL3rSSbKqz/puu6gr+NZsaM2+PaeJaaMkAEMequVnymnS55qhRUw7uSIXPrRbL8Ny93R83xQVQdLTp1v8nFOWY9SaBLFByhGG31+zZEv9k+Gdf7oVRO2wFEFvMo6VMaV4mQzSmE4XiPvVUpymuUPqLzmA6Fuu+lDGB8=;jwDlpUiqWbZw0oSXiJyTDg=="
 ---

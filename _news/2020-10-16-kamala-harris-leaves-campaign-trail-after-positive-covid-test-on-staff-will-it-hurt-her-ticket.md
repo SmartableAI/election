@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "David Brooks column: Kamala Harris knows how to win elections"
+    excerpt: "This has turned into the least ideological election in recent times. The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Trump. How to beat COVID-19."
+    publishedDateTime: 2020-10-09T14:36:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/weMd1o2h9mRwikHA_a7geSaCrHU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DBS7QEH2M5C5VUNRIYK6KKOKWQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris questions Supreme Court nominee: US election news"
     excerpt: "Donald Trump began his rally in Johnstown, Pennsylvania, a bit late but he had a good excuse: He was watching Kamala Harris question his Supreme Court nominee Amy Coney Barrett. “That’s ..."
     publishedDateTime: 2020-10-13T14:49:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20287836163811.jpg?resize=1200%2C630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mike Pence and Kamala Harris vice presidential debate to have plexiglass barrier because of coronavirus concerns"
+    excerpt: "President Donald Trump has the coronavirus. And number of his people in his orbit have been diagnosed with Covid-19 since his debate with Joe Biden."
+    publishedDateTime: 2020-10-05T22:03:00Z
+    webUrl: "https://www.cnbc.com/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 129
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106730748-1601931141982-AP20279684793202.jpg?v=1601931215"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Kamala Harris featured on cover of Elle magazine's November issue"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris (D-Calif.) is on the cover for Elle magazine’s November issue, in which the senator participates in a broad interview spanning racial inequality,"
@@ -107,6 +139,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "In her first race, Kamala Harris learned how to become a political brawler"
+    excerpt: "When Harris was attacked by her opponents in her run for San Francisco district attorney, she punched back — and won."
+    publishedDateTime: 2020-10-05T23:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XB74HSQFD4I6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 909
+        isCached: true
   - title: "Fact check: Kamala Harris did not say these remarks about American churches"
     excerpt: "A copy-paste social media post that appears to have been circulating on Facebook since October 8 makes the false claim that the Democratic vice president nominee Kamala Harris lashed out at churches and pastors for promoting intolerance,"
     publishedDateTime: 2020-10-11T23:43:00Z
@@ -155,6 +203,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Kamala Harris should boost the ratings of this year’s vice presidential debate"
+    excerpt: "If the vice presidential debate happens, TV networks will have to thank Kamala Harris for what will likely be an improvement in ratings from prior years."
+    publishedDateTime: 2020-10-05T19:51:00Z
+    webUrl: "https://qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/"
+    ampWebUrl: "https://qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 121
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/10/kamala-harris-2020-vp-e1601914206329.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "Kamala Harris’s spot on the debate stage signals promise for American democracy"
     excerpt: "The suggestion that a person born abroad, especially if they aren’t White, isn’t really American has a long history, shaped by American racial hierarchies and ideas of citizenship. At Wednesday’s vice-presidential debate,"
     publishedDateTime: 2020-10-07T15:00:00Z
@@ -187,21 +251,21 @@ related:
         width: 780
         height: 545
         isCached: true
-  - title: "Perdue's rival raises nearly $2M after senator mispronounces Kamala Harris's name"
-    excerpt: "Democratic Georgia Senate candidate Jon Ossoff said his campaign raised nearly $2 million after Sen. David Perdue (R-Ga.) mispronounced Sen. Kamala Harris’s (D-Calif.) name at a Trump campaign event."
-    publishedDateTime: 2020-10-19T13:02:00Z
-    webUrl: "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name"
-    ampWebUrl: "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name?amp"
+  - title: "Georgia Sen. David Perdue's mispronunciation of Kamala Harris' name draws outrage"
+    excerpt: "Georgia Sen. David Perdue is drawing outrage after appearing to mock Democratic vice presidential nominee Kamala Harris' name while warming up the crowd ahead of a rally for President Donald Trump speech on Friday night."
+    publishedDateTime: 2020-10-17T00:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 120
     images:
-      - url: "https://thehill.com/sites/default/files/ossoffjohn_perduedavid_072920getty_split.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/david-perdue_hpMain_20201016-203442_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic"
     excerpt: "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package."
@@ -266,22 +330,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1647999/kamala-harris-vice-presidential-debate-getty.jpg"
         width: 3112
         height: 2071
-        isCached: true
-  - title: "Kamala Harris, Bernie Sanders Urge Stimulus Bill Focus Over Amy Coney Barrett Hearings"
-    excerpt: "The senators suggested that a further relief package should be the focus of the Senate, as opposed to the SCOTUS nomination."
-    publishedDateTime: 2020-10-12T13:43:00Z
-    webUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296"
-    ampWebUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1649537/sanders-harris.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "The Energy 202: Kamala Harris makes Amy Coney Barrett's climate views a campaign issue"
     excerpt: "Democrats expect the Supreme Court to be crucial in allowing future administrations to confront climate change."
@@ -437,37 +485,32 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Talk of the County reader opinion: ‘Our garbage collector is more qualified to run for office’ than Kamala Harris"
-    excerpt: "Being from California, if Kamala Harris had any decency and actually believed in law and order, then why didn’t she visit two police officers who were shot while sitting in their car from California?"
-    publishedDateTime: 2020-10-19T16:06:00Z
-    webUrl: "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp"
+  - title: "Fact check: Fabricated Kamala Harris tweet on removing cop account from Instagram"
+    excerpt: "Social media users are circulating a fabricated tweet allegedly from vice presidential candidate Kamala Harris, in which she asks for an account called “@cops.page” to be removed and says the focus should be on defunding the police,"
+    publishedDateTime: 2020-10-05T14:28:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-police-tweet-idUSKBN26Q220"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q220"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q220"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 104
-    images:
-      - url: "https://www.chicagotribune.com/resizer/Y-l6TvPRVPV9unrZaobdN9beS4E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S2FMJGCNYMIPZRCS3E742QM3PA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Fox News cut ties with a regular contributor after he called Kamala Harris an 'insufferable lying b----' on Twitter"
-    excerpt: "Harlan Hill, who has ties to Trump's re-election campaign, was a regular contributor to Fox News until he tweeted a misogynistic insult about Harris."
-    publishedDateTime: 2020-10-09T09:49:00Z
-    webUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+  - title: "VP debate will have plexiglass shield between Mike Pence, Kamala Harris"
+    excerpt: "Harris campaign requested a plexiglass shield for Wednesday's debate, and the Commission on Presidential Debates agreed to it."
+    publishedDateTime: 2020-10-06T03:33:00Z
+    webUrl: "https://abc7chicago.com/politics/vp-debate-will-have-plexiglass-shield-between-pence-harris/6796476/"
+    ampWebUrl: "https://abc7chicago.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 100
     images:
-      - url: "https://i.insider.com/5f802c4eea74820019ca61a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cdn.abcotvs.com/dip/images/6669222_093020-cc-getty-debate-stage-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris asks Amy Coney Barrett: 'Do you believe climate change is happening?'"
     excerpt: "Supreme Court nominee Amy Coney Barrett is questioned by Democratic vice-presidential candidate Kamala Harris."
@@ -497,19 +540,21 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Senator Kamala Harris: Republicans trying to \"jam through\" Amy Coney Barrett nomination"
-    excerpt: "At confirmation hearings for Supreme Court nominee Amy Coney Barrett, Senator Kamala Harris accused her Republican colleagues of attempting to \"jam through\" approval before Election Day, and warned that the Affordable Care Act and numerous rights Americans rely on are at risk."
-    publishedDateTime: 2020-10-12T17:40:00Z
-    webUrl: "https://www.cbsnews.com/video/senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination/"
+  - title: "Mike Pence vs. Kamala Harris: The Most Important Vice Presidential Debate Ever?"
+    excerpt: "As Trump combats Coronavirus, it’s unclear if the presidential debates will proceed. In the event that Trump opts out of the next two debates, the vice presidential debate will be critical, putting pressure on Pence and Harris to persuade supporters to back their respective campaigns."
+    publishedDateTime: 2020-10-04T15:12:00Z
+    webUrl: "https://nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142"
+    ampWebUrl: "https://nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142?amp"
+    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 96
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/2d5e0841-796e-493e-9f04-f3bf44d13c2c/thumbnail/1200x630/819834dc9a7096ad7a6913e7d8141769/cbsn-fusion-senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination-thumbnail-564550-640x360.jpg"
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-09-28T194007Z_595349806_RC2V7J9A8LUP_RTRMADP_3_USA-ELECTION-HARRIS.JPG"
         width: 1200
-        height: 630
+        height: 837
         isCached: true
   - title: "Amy Coney Barrett refuses to tell Kamala Harris if she thinks climate change is happening"
     excerpt: "Supreme court nominee accuses Democratic senator of soliciting an opinion ‘on a very contentious matter of public debate’"
@@ -575,6 +620,86 @@ related:
         width: 1300
         height: 794
         isCached: true
+  - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
+    excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
+    publishedDateTime: 2020-10-07T12:04:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/07/kamala-harris-mike-pence-what-watch-vice-presidential-debate/5878313002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5878313002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5878313002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/14a07ef5-cda0-4fad-85af-933d6cb90950-VP_debate_sign.jpg?auto=webp&crop=5237,2946,x0,y266&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "SNL: Who Is Playing Kamala Harris on Saturday Night Live?"
+    excerpt: "Kamala Harris (D-CA) delivers remarks at Shaw University on September 28, 2020. On October 3, 2020, Saturday Night Live will be returning to NBC for the premiere of its 46th season. The host will be Chris Rock and rapper Megan Thee Stallion will be performing as the musical guest."
+    publishedDateTime: 2020-10-04T01:25:00Z
+    webUrl: "https://heavy.com/entertainment/kamala-harris-snl-who-is-playing/"
+    ampWebUrl: "https://heavy.com/entertainment/kamala-harris-snl-who-is-playing/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/kamala-harris-snl-who-is-playing/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228774543-e1601766932483.jpg?quality=65&strip=all"
+        width: 4800
+        height: 2712
+        isCached: true
+  - title: "Debate Squad: Meet Kamala Harris’s Closest Family Supporters"
+    excerpt: "Kamala Harris will debate Vice President Mike Pence—with six additional feet of distance between them—on Wednesday in Salt Lake City. Based on Harris's prosecutorial past and her tough lines of questioning for Brett Kavanaugh and attorney general Bill Barr in the Senate,"
+    publishedDateTime: 2020-10-05T15:30:00Z
+    webUrl: "https://www.vogue.com/article/kamala-harris-family-everything-you-need-to-know"
+    ampWebUrl: "https://www.vogue.com/article/kamala-harris-family-everything-you-need-to-know/amp"
+    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/kamala-harris-family-everything-you-need-to-know/amp"
+    type: article
+    provider:
+      name: Vogue
+      domain: vogue.com
+    quality: 75
+    images:
+      - url: "https://assets.vogue.com/photos/5f79406417ef50f396f17d9b/master/pass/GettyImages-1267250943.jpg"
+        width: 6464
+        height: 4662
+        isCached: true
+  - title: "Kamala Harris Superfan Is Getting Plastic Surgery To Look More Like Her"
+    excerpt: "In other 2020 news... A 33 year old Houston woman named Cynthia Anne will be undergoing a series of procedures in order to make herself look more like Democratic vice presidential nominee Kamala Harris."
+    publishedDateTime: 2020-10-04T18:45:00Z
+    webUrl: "https://www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 75
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1601835602_c78f4d7725bf01ada66dda7b037cc311.jpg/7bac4c72765958e3770472613f1ce7c4/1601835602_35a963e82449ae5c9c997e817819d6d0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Scoop: Inside Kamala Harris' new strategy for the VP debate"
+    excerpt: "Kamala Harris waves during an event at the University of Nevada, Las Vegas, Oct. 2. Photo: Ethan Miller/ President Trump’s hospitalization has changed the game plan for Sen. Kamala Harris for Wednesday's debate."
+    publishedDateTime: 2020-10-04T21:55:00Z
+    webUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+    ampWebUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 75
+    images:
+      - url: "https://images.axios.com/BzhhevCANjFvRDPxSiQwbeCSBDE=/fit-in/1366x1366/2020/10/04/1601842365580.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "How will Kamala Harris affect Asian Americans voting in Texas?"
     excerpt: "For Jashmin Patel, who moved to Austin in February, Joe Biden naming U.S. Sen. Kamala Harris as his running mate resonated on a personal level. “I"
     publishedDateTime: 2020-10-07T10:24:00Z
@@ -622,54 +747,6 @@ related:
       - url: "https://patch.com/img/cdn20/getty/22887410/20201014/115957/styles/patch_image/public/gettyimages-1228230080___14114308192.jpg?width=984"
         width: 984
         height: 738
-        isCached: true
-  - title: "Kamala Harris to campaign in Florida on Monday"
-    excerpt: "Kamala Harris (D-Calif.) took a COVID-19 test on Saturday and the virus was not detected, according to a campaign aide. Driving the news: The Democratic vice presidential nominee paused her campaign travel through Sunday after her communications director tested positive for the coronavirus."
-    publishedDateTime: 2020-10-17T21:54:00Z
-    webUrl: "https://www.axios.com/kamala-harris-test-negative-covid-19-florida-678e31bb-387f-468b-b123-08052062cb8d.html"
-    ampWebUrl: "https://www.axios.com/kamala-harris-test-negative-covid-19-florida-678e31bb-387f-468b-b123-08052062cb8d.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-test-negative-covid-19-florida-678e31bb-387f-468b-b123-08052062cb8d.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 75
-    images:
-      - url: "https://images.axios.com/uiWeMyAsIiogKtDBqaVoppQU27c=/fit-in/1366x1366/2020/10/17/1602970013282.jpg"
-        width: 1366
-        height: 909
-        isCached: true
-  - title: "Sen. Kamala Harris campaigning in Jacksonville Monday"
-    excerpt: "Sen. Kamala Harris, Democratic vice presidential nominee, is planning a campaign stop in Jacksonville on Monday. Details on the visit have not been released yet. Harris is resuming in-person campaigning after two people associated with the campaign tested positive for coronavirus."
-    publishedDateTime: 2020-10-17T20:26:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/politics/kamala-harris-campaigning-in-jacksonville-monday/77-ab01292c-b50e-4e10-8fac-ddd2a18f118c"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/politics/kamala-harris-campaigning-in-jacksonville-monday/77-ab01292c-b50e-4e10-8fac-ddd2a18f118c"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/politics/kamala-harris-campaigning-in-jacksonville-monday/77-ab01292c-b50e-4e10-8fac-ddd2a18f118c"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 75
-    images:
-      - url: "https://media.firstcoastnews.com/assets/WTLV/images/627406b8-f5dd-4959-90dc-63b6acd29c17/627406b8-f5dd-4959-90dc-63b6acd29c17_750x422.png"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Sen. Kamala Harris will campaign in Jacksonville on Monday"
-    excerpt: "Sen. Kamala Harris will travel to Jacksonville and Orlando on Monday to campaign during the first day of in-person early voting in Florida."
-    publishedDateTime: 2020-10-17T19:29:00Z
-    webUrl: "https://news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/"
-    ampWebUrl: "https://www.news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/?outputType=amp"
-    cdnAmpWebUrl: "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/?outputType=amp"
-    type: article
-    provider:
-      name: News4Jax
-      domain: news4jax.com
-    quality: 75
-    images:
-      - url: "https://www.news4jax.com/resizer/qpiGKRvh83depZOjlULXkPAxH7Q=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/57NA7ZSDRBDPNH2U77EAYEMEY4.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Democrats need to turn Kamala Harris loose on Amy Coney Barrett: columnist"
     excerpt: "According to New York Times Legal Affairs journalist Christian Farias, Senate Judiciary Committee Democrats would be wise to cede their time to Sen. Kamala Harris (D-CA) when hearings open on Monday over the nomination of Amy Coney Barrett to the Supreme Court."
@@ -751,6 +828,54 @@ related:
         width: 780
         height: 439
         isCached: true
+  - title: "Kamala Harris, Lindsey Graham among senators to watch at Amy Coney Barrett hearings"
+    excerpt: "Graham hopes a strong performance will help in his tight re-election race. Harris hopes doing the same will give a boost to the Biden-Harris ticket."
+    publishedDateTime: 2020-10-11T16:12:00Z
+    webUrl: "https://www.wltx.com/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
+    type: article
+    provider:
+      name: WLTX19
+      domain: wltx.com
+    quality: 69
+    images:
+      - url: "https://media.wltx.com/assets/KFMB/images/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Kamala Harris, Lindsey Graham among senators to watch at Amy Coney Barrett hearings"
+    excerpt: "Graham hopes a strong performance will help in his tight re-election race. Harris hopes doing the same will give a boost to the Biden-Harris ticket."
+    publishedDateTime: 2020-10-12T03:47:00Z
+    webUrl: "https://www.king5.com/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
+    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
+    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 69
+    images:
+      - url: "https://media.king5.com/assets/KFMB/images/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Maya Rudolph Nails Her Return to SNL as Kamala Harris — Down to the Converse Sneakers"
+    excerpt: "Maya Rudolph is stepping into Sen. Kamala Harris's shoes once again for Saturday Night Live. Maya, a former SNL cast member, made her return to 30 Rockefeller Plaza on Oct. 3 to reprise her role as the Democratic vice presidential nominee. Naturally ..."
+    publishedDateTime: 2020-10-04T19:50:00Z
+    webUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505"
+    ampWebUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
+    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
+    type: article
+    provider:
+      name: PopSugar
+      domain: popsugar.com
+    quality: 68
+    images:
+      - url: "https://media1.popsugar-assets.com/files/thumbor/Urh-sal9oW4cB0dcI6r_4XUzTtU/405x638:2625x1803/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2020/10/04/823/n/1922564/c39e7b115f7a1853c6e4f3.85989201_.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris cancels travel through Sunday after staffer tests positive for COVID-19"
     excerpt: "Democratic vice presidential nominee Kamala D. Harris is canceling travel plans through Sunday after her communications director tested positive for the coronavirus."
     publishedDateTime: 2020-10-16T03:53:00Z
@@ -783,22 +908,6 @@ related:
         width: 367
         height: 250
         isCached: true
-  - title: "Outrage Over Mispronunciation of Kamala Harris’ Name, Supporters Launch Online Campaign"
-    excerpt: "The mispronunciation outraged a large number of Harris' supporters and her spokesperson Sabrina Singh said, I'll keep it simple: If you can pronounce 'former' Senator David Perdue, you can pronounce 'future' Vice President Kamala Harris."
-    publishedDateTime: 2020-10-18T04:46:00Z
-    webUrl: "https://www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/"
-    ampWebUrl: "https://www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 67
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2020/08/Kamala-Harris-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Kamala Harris' travel halted after 2 people in campaign's orbit test positive for COVID-19"
     excerpt: "Local and national elections & political news, delivered to your inbox Democratic vice presidential nominee Kamala Harris has canceled events and travel through the weekend after two people close ..."
     publishedDateTime: 2020-10-15T14:27:00Z
@@ -815,21 +924,21 @@ related:
         width: 1024
         height: 577
         isCached: true
-  - title: "Watch: Trail Blazers’ CJ McCollum interviews VP nominee Kamala Harris during Remaking America"
-    excerpt: "The Blazers' starting shooting guard interviewed the democratic candidate for Vice President in his new show, Remaking America."
-    publishedDateTime: 2020-10-20T20:07:00Z
-    webUrl: "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html"
-    ampWebUrl: "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp"
+  - title: "Kamala Harris faces intense pressure, double standards leading into vice presidential debate"
+    excerpt: "Those who know California Sen. Kamala Harris say she will come prepared to face off with Vice President Mike Pence."
+    publishedDateTime: 2020-10-05T13:00:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/amp/"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 64
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OIANM34RPNFNJD6AY4FG5OBJQM.JPG"
-        width: 2968
-        height: 2220
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/Election_2020_Biden_Harris_27250-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Amy Coney Barrett Refuses To Tell Kamala Harris If She Thinks Black Voter Discrimination Exists"
     excerpt: "No one doubts that.” It was in that context that Harris simply asked Barrett if she agrees with that opinion. Kamala Harris is describing the gutting of the VRA. Barrett looks like she is ..."
@@ -846,6 +955,22 @@ related:
       - url: "https://ionenewsone.files.wordpress.com/2020/10/16026347644687.jpg?quality=80&strip=all&w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Maya Rudolph Nails Her SNL Return as Kamala Harris, in the Senator's Signature Sneakers, No Less"
+    excerpt: "Maya Rudolph brought back her impression of vice presidential nominee Kamala Harris for Saturday Night Live's Oct. 3 episode."
+    publishedDateTime: 2020-10-04T20:46:00Z
+    webUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505"
+    ampWebUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
+    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
+    type: article
+    provider:
+      name: PopSugar
+      domain: popsugar.com
+    quality: 62
+    images:
+      - url: "https://media1.popsugar-assets.com/files/thumbor/Urh-sal9oW4cB0dcI6r_4XUzTtU/405x638:2625x1803/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2020/10/04/823/n/1922564/c39e7b115f7a1853c6e4f3.85989201_.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Report: One quarter of Kamala Harris announcement coverage included racist or sexist stereotyping"
     excerpt: "The report was released one day before Sen. Kamala Harris takes the debate stage against Vice President Mike Pence."
@@ -895,22 +1020,6 @@ related:
         width: 2626
         height: 1762
         isCached: true
-  - title: "Claire McCaskill Says Kamala Harris Grilling Was First to ‘Hurt’ Amy Coney Barrett’s Credibility"
-    excerpt: "Claire McCaskill said that Senator and vice-presidential nominee Kamala Harris was the first questioner to hurt Judge Amy Coney Barrett's credibility at the ongoing Supreme Court confirmation hearings."
-    publishedDateTime: 2020-10-14T16:53:00Z
-    webUrl: "https://www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/"
-    ampWebUrl: "https://www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 62
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joy-Reid-Claire-McCaskill.jpg"
-        width: 1200
-        height: 624
-        isCached: true
   - title: "Kamala Harris: Judge Coney Barrett's faith shouldn't matter in Supreme Court confirmation hearings"
     excerpt: "Democratic Vice Presidential nominee Kamala Harris says Judge Amy Coney Barrett’s faith should not be an issue at Coney Barrett’s confirmation hearings this week. “One’s faith should never be the basis of supporting or rejecting a nominee."
     publishedDateTime: 2020-10-12T02:42:00Z
@@ -959,21 +1068,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Poultry company distances itself from GOP's Perdue amid uproar over Republican mocking Kamala Harris"
-    excerpt: "Sen. David Perdue, Georgia Republican, unwillingly put the chicken company sharing his surname on the defensive Saturday by ruffling feathers during a Trump rally the night before."
-    publishedDateTime: 2020-10-17T22:35:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
+  - title: "Kamala Harris’s husband Doug Emhoff to campaign in Texas today"
+    excerpt: "Kamala Harris campaign is making a new pitch to win voters over in South Texas, dispatching Harris’s husband Doug Emhoff for a pair of campaign events on Monday. Emhoff will first head to the Texas border,"
+    publishedDateTime: 2020-10-05T22:25:00Z
+    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-husband-Doug-Emhoff-campaign-Texas-15622339.php"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 60
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2018/01/14/trump_42066_c0-0-2973-1734_s1200x700.jpg?f05d20b9dd9583e95c8cd473cbc2c16a25fe80c2"
-        width: 1200
-        height: 700
+      - url: "https://s.hdnux.com/photos/01/14/42/07/20062665/12/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Jamaicans in Florida energised by Kamala Harris on 2020 ticket"
     excerpt: "President Donald Trump and Joe Biden are entering the final stretch of the campaign in a fierce battle for Latino voters who could sway the results in Florida and determine who wins the White House. B"
@@ -989,77 +1096,21 @@ related:
         width: 325
         height: 325
         isCached: true
-  - title: "Trump Court Nominee Fends Off Questions On Abortion, Health Care"
-    excerpt: "US President Donald Trump's Supreme Court nominee Amy Coney Barrett told lawmakers Tuesday she would put personal and religious beliefs aside when deciding landmark cases but stopped short of revealing how she would rule on hot-button issues like abortion."
-    publishedDateTime: 2020-10-14T03:27:00Z
-    webUrl: "https://www.ibtimes.com/trump-court-nominee-fends-questions-abortion-health-care-3060657"
+  - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket? | Charlotte Observer"
+    excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."
+    publishedDateTime: 2020-10-15T21:02:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246481970.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/judge-amy-coney-barrett-a-practicing-catholic-is.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Kamala Harris in Florida: where and when will she campaign?"
-    excerpt: "Joe Biden's running mate will resume her campaign in Florida as the Democrats look to overhaul the Republicans in the most vital of swing states."
-    publishedDateTime: 2020-10-18T20:53:00Z
-    webUrl: "https://en.as.com/en/2020/10/18/latest_news/1603050982_131904.html"
-    type: article
-    provider:
-      name: as.com
-      domain: as.com
-    quality: 55
-    images:
-      - url: "https://as01.epimg.net/en/imagenes/2020/10/18/latest_news/1603050982_131904_1603057692_noticia_normal.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Don Lemon Fires Back at Sen. Perdue, Offers Up Remedial Visual Aid for Pronouncing Kamala Harris’ Name Correctly"
-    excerpt: "CNN's Don Lemon fires back at Sen. David Perdue, offers up grade school-level visual aid for pronouncing Kamala Harris' name correctly"
-    publishedDateTime: 2020-10-17T03:33:00Z
-    webUrl: "https://www.mediaite.com/election-2020/don-lemon-fires-back-at-sen-perdue-offers-up-remedial-visual-aid-for-pronouncing-kamala-harris-name-correctly/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/don-lemon-fires-back-at-sen-perdue-offers-up-remedial-visual-aid-for-pronouncing-kamala-harris-name-correctly/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/don-lemon-fires-back-at-sen-perdue-offers-up-remedial-visual-aid-for-pronouncing-kamala-harris-name-correctly/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 54
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Don-Lemons-Offers-Visual-Aid-for-Sen.-Perdue-to-Pronounce-Kamala-Harris-Name-Correctly.jpg"
-        width: 946
-        height: 532
-        isCached: true
-  - title: "Kamala Harris Cancels Travel After Staff Members Test Positive For Covid-19"
-    excerpt: "Kamala Harris canceling all campaign travel through this weekend, after two people involved with the campaign test positive for Covid-19. Veuer's Elizabeth Keatinge has more."
-    publishedDateTime: 2020-10-19T09:50:00Z
-    webUrl: "https://www.10tv.com/video/syndication/veuer/kamala-harris-cancels-travel-after-staff-members-test-positive-for-covid-19/602-72b05335-6d45-4071-86cd-3365d78bd156"
-    type: article
-    provider:
-      name: 10TV.com
-      domain: 10tv.com
-    quality: 53
-    images:
-      - url: "https://media.tegna-media.com/assets/VEUER/images/43c5298a-0ffa-4933-8aa9-79a57d21ce16/43c5298a-0ffa-4933-8aa9-79a57d21ce16_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "David Perdue's mispronunciation of Kamala Harris' name immediately backfires"
-    excerpt: "David Perdue mispronounced the name of vice presidential nominee Sen. Kamala Harris — a colleague he has served with on the Senate Budget Committee for almost four years — Perdue's Democratic opponent Jon Ossoff raised over $1 million online after circulating the clip of Perdue speaking at a Trump's re-election Friday night."
-    publishedDateTime: 2020-10-17T19:41:00Z
-    webUrl: "https://www.chron.com/politics/article/David-Perdue-Kamala-Harris-name-Jon-Ossoff-video-15655519.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Charlotte Observer
+      domain: charlotteobserver.com
     quality: 52
     images:
-      - url: "https://s.hdnux.com/photos/01/14/61/11/20124283/12/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/70f7fa99-4b85-46e4-837e-1a7993be9522/60c69175-10cb-490d-936b-43105ffe89f5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Which Kamala Harris will show up? 5 things to watch for in tonight’s VP debate"
     excerpt: "While vice presidential debates have historically had little impact on the overall race, a lot is riding on how Mike Pence and Kamala Harris perform."
@@ -1089,21 +1140,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "\"I am so sorry I wasn't able to be in Cleveland today\": Democratic vice presidential nominee Kamala Harris calls into 93.1 WZAK"
-    excerpt: "The U.S. Senator from California was originally scheduled to speak in Cleveland on Friday, but cancelled after members of her team tested positive for COVID-19"
-    publishedDateTime: 2020-10-17T17:52:00Z
-    webUrl: "https://www.wkyc.com/article/news/politics/elections/kamala-harris-wzak-cleveland-radio-appearance/95-2ef27e40-d26f-4b6e-afcf-0968a6ffe1b0"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/politics/elections/kamala-harris-wzak-cleveland-radio-appearance/95-2ef27e40-d26f-4b6e-afcf-0968a6ffe1b0"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/politics/elections/kamala-harris-wzak-cleveland-radio-appearance/95-2ef27e40-d26f-4b6e-afcf-0968a6ffe1b0"
+  - title: "'Let’s put our shoulders to the wheel': Sen. Kamala Harris arrives in Utah for VP debate"
+    excerpt: "The Democratic vice presidential nominee, California Sen. Kamala Harris, is already in Utah for Wednesday night’s debate with Vice President Mike Pence at the University of Utah."
+    publishedDateTime: 2020-10-03T20:46:00Z
+    webUrl: "https://www.ksl.com/article/50024554/lets-put-our-shoulders-to-the-wheel-sen-kamala-harris-arrives-in-utah-for-vp-debate"
     type: article
     provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 47
+      name: KSL
+      domain: ksl.com
+    quality: 46
     images:
-      - url: "https://media.wkyc.com/assets/WKYC/images/0f2dd792-c102-4827-804b-b12e74939a46/0f2dd792-c102-4827-804b-b12e74939a46_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://img.ksl.com/slc/2540/254033/25403361.jpg?filter=ksl/responsive_story_lg"
+        width: 614
+        height: 345
         isCached: true
   - title: "Kamala Harris suspends travel after two associated with campaign test positive for COVID-19"
     excerpt: "Senator Kamala Harris's travel has been canceled through Sunday after two people associated with the campaign tested positive for coronavirus."
@@ -1127,22 +1176,6 @@ related:
       name: The Arizona Republic
       domain: azcentral.com
     quality: 40
-  - title: "CJ McCollum interviews Kamala Harris, Jusuf Nurkic recruits Danilo Gallinari, Pacers hire new coach, burning offseason questions: NBA news and notes"
-    excerpt: "The Portland Trail Blazers' starting shooting guard, who has aspirations of moving into broadcasting after his NBA career, will interview Sen. Kamala Harris (D-Calif.), the Democratic nominee for Vice President,"
-    publishedDateTime: 2020-10-20T19:45:00Z
-    webUrl: "https://www.oregonlive.com/blazers/2020/10/cj-mccollum-interviews-kamala-harris-jusuf-nurkic-recruits-danilo-gallinari-pacers-hire-new-coach-burning-offseason-questions-nba-news-and-notes.html"
-    ampWebUrl: "https://www.oregonlive.com/blazers/2020/10/cj-mccollum-interviews-kamala-harris-jusuf-nurkic-recruits-danilo-gallinari-pacers-hire-new-coach-burning-offseason-questions-nba-news-and-notes.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/blazers/2020/10/cj-mccollum-interviews-kamala-harris-jusuf-nurkic-recruits-danilo-gallinari-pacers-hire-new-coach-burning-offseason-questions-nba-news-and-notes.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 36
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZT2S4LWM6NC6XBJKQN65JSNMDQ.JPG"
-        width: 3629
-        height: 2419
-        isCached: true
   - title: "Tal Kopan Discusses Sen. Kamala Harris' Record"
     excerpt: "San Francisco Chronicle's Tal Kopan discusses Sen. Kamala Harris' record ahead of Wednesday night's Vice Presidential debate."
     publishedDateTime: 2020-10-06T16:23:00Z
@@ -1156,24 +1189,6 @@ related:
     excerpt: "T11:30:00-04:00  2020 vice presidential candidate Senator Kamala Harris (D-CA) campaigns in Asheville, North Carolina,"
     publishedDateTime: 2020-10-15T11:08:00Z
     webUrl: "https://www.c-span.org/video/?476950-1/senator-kamala-harris-campaigns-asheville-north-carolina"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Campaigns in Jacksonville, Florida"
-    excerpt: "Kamala Harris (D-CA) speaks at a voter mobilization event in Florida’s capital of Jacksonville on the state’s first day of in-person voting. 2020 vice presidential candidate Sen. Kamala Harris (D-CA) speaks at a voter mobilization event in Florida’s capital of Jacksonville on the state’s first day of in-person voting."
-    publishedDateTime: 2020-10-19T16:23:00Z
-    webUrl: "https://www.c-span.org/video/?477126-1/senator-kamala-harris-campaigns-jacksonville-florida"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Campaigns in Orlando, Florida"
-    excerpt: "T11:55:00-04:00 Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Senator Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Javascript must be enabled in order to access C-SPAN videos."
-    publishedDateTime: 2020-10-19T16:12:00Z
-    webUrl: "https://www.c-span.org/video/?477125-1/senator-kamala-harris-campaigns-orlando-florida"
     type: article
     provider:
       name: C-SPAN

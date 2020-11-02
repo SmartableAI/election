@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Romney cites Trump's rhetoric as he denounces 'vile' state of American politics"
+    excerpt: "Republican Sen. Mitt Romney of Utah on Tuesday issued a strong rebuke of the current tone of American politics saying they have become \"a vile, vituperative, hate-filled morass\" and roundly criticizing President Donald Trump for several of his recent comments which included insulting Democratic vice"
+    publishedDateTime: 2020-10-13T17:17:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r7Rp43nO8Ik/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/mitt-romney-trump-pelosi-kamala-harris-attacks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/mitt-romney-trump-pelosi-kamala-harris-attacks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922102900-04-romney-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "READ: White House physician says Trump is taking Remdesivir and 'doing very well'"
     excerpt: "President Donald Trump is being treated at Walter Reed National Military Medical Center for Covid-19 and has begun receiving an anti-viral drug, his doctor announced Friday night.\n    \n"
     publishedDateTime: 2020-10-03T04:43:22Z
@@ -60,22 +76,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002221504-trump-covdi19-camilo-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump is hospitalized with Covid, but he's still not taking the pandemic seriously"
-    excerpt: "President Donald Trump's fight with Covid-19 has so far not convinced him to prioritize a responsible approach to a pandemic that has killed 209,000 Americans over his own political needs.\n    \n"
-    publishedDateTime: 2020-10-05T05:54:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57_qlbB9m10/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-hospitalized-coronavirus-pandemic/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-hospitalized-coronavirus-pandemic/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003213715-national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx-00000512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Melania Trump has no plans to leave White House while sick, official says, contrasting with the President"
-    excerpt: "First lady Melania Trump has no plans to leave the White House while she convalesces at the Executive Residence after contracting Covid-19, an official confirmed to CNN on Monday.\n    \n"
-    publishedDateTime: 2020-10-05T12:22:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WQBJteVmT-I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/melania-trump-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/melania-trump-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002093931-03-donald-melania-trump-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "North Carolina Democrat's sex scandal renews GOP hopes of keeping majority despite Trump's drag on the ticket"
     excerpt: "President Donald Trump's eroded political standing has hurt GOP senators in crucial races across the country, but Republicans now hope a sex scandal in North Carolina will help them fend off the Trump effect in a race that's central to holding the Senate majority.\n    \n"
     publishedDateTime: 2020-10-09T19:52:43Z
@@ -158,22 +142,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "‘Don’t Be Afraid of Covid,’ Trump Says. But Many Are."
-    excerpt: "Readers discuss the president’s comments and removal of his mask upon his return from the hospital, and the “world-class care” he received compared with that available to others."
-    publishedDateTime: 2020-10-06T17:39:00Z
-    webUrl: "https://www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/06/reader-center/05trump-virus-hp-promo/05trump-virus-hp-promo-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Trump tells White House doctor: ‘I feel great!’"
     excerpt: "The President this morning says ‘I feel great!’” Trump's physician, Sean Conley, wrote in a memo released by the White House press office."
@@ -207,22 +175,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump's slipping poll numbers imperil down ballot Republicans"
-    excerpt: "From his first day in office, Donald Trump has been the shock and awe president. But with three weeks until Election Day, has Mr. Trump lost his ability to shock and awe us?"
-    publishedDateTime: 2020-10-11T12:19:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/trump-s-slipping-poll-numbers-imperil-down-ballot-republicans-93627973695"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93627973695"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93627973695"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_clip_a2_201011_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump and the GOP are using Kyle Rittenhouse in last-ditch 2020 voter strategy"
     excerpt: "With weeks to go before a chaotic and close election, Republicans are cultivating a vigilante identity — someone who breaks the rules to make things right."
     publishedDateTime: 2020-10-04T08:36:00Z
@@ -238,52 +190,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416625/201001-kyle-rittenhouse-jm-0936_ba06d965e936a9e276a03c1a82c2a974.jpg"
         width: 2000
         height: 1331
-        isCached: true
-  - title: "Trump's Proud Boys 'stand back and stand by' debate moment was more than a dog whistle"
-    excerpt: "There are not two sides to white supremacy, just as there are not two sides to homophobia, anti-Semitism or any other type of hate. That is, apparently, unless your name is Donald J. Trump."
-    publishedDateTime: 2020-09-30T16:51:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241570"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241570"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416378/200930-proud-boys-portland-jm-1217_0_4aead6db0f14f95b2d194d823f968045.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump's taxes raise IRS red flags. But his flouting of civic duty is equally concerning."
-    excerpt: "Taxes pay for all that we do together. We need them. They matter. But our president calls into question the very nature of that collective effort."
-    publishedDateTime: 2020-10-01T08:43:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-taxes-raise-irs-red-flags-his-flouting-civic-ncna1241623"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241623"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241623"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416490/200930-donald-trump-1989-ac-657p_ea32ad4656a4da3a6147911405a83890.jpg"
-        width: 2013
-        height: 1262
-        isCached: true
-  - title: "Barr accused of 'working hand in glove' with Team Trump, White House"
-    excerpt: "One former federal prosecutor said of Barr, \"The attorney general is working hand in glove with the White House and the Trump re-election campaign.\""
-    publishedDateTime: 2020-09-29T18:49:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/barr-accused-working-hand-glove-team-trump-white-house-ncna1241366"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3413850/200921-donald-trump-william-barr-profile-2019-ac-851p_2cfe3612ae4433cdb3e04d5d1f7d57a6.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Coming full circle, Trump returns to false, misguided 'flu' rhetoric"
     excerpt: "Nearly seven months after his misguided \"think about that!\" tweet, comparing COVID-19 to the flue, the Republican has apparently come full circle."
@@ -313,6 +219,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump hits the final sprint with an economy facing withdrawal"
+    excerpt: "The president’s approval rating on the economy remained his bright spot. But he darkened that outlook by shutting the door on a comprehensive economic aid package just as millions of Americans start voting."
+    publishedDateTime: 2020-10-07T19:20:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/trump-economy-withdrawal-427360"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a4/b3/07014c8046ed9a88a87f549fbaa1/ap20280831002575-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Everything We Know About When Trump Got Sick, His Treatment, And How He Is Now"
     excerpt: "He is currently being treated at Walter Reed medical center. How exactly is he doing and how long has he been ill? That is more up in the air than I think most American citizens would prefer! Here’s everything we know—and everything we don’t—regarding the timeline of when he was diagnosed,"
     publishedDateTime: 2020-10-03T20:23:00Z
@@ -338,15 +258,6 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 43
-  - title: "‘Fox & Friends’ Trashes Trump for Blowing the Debate Over White Supremacists"
-    excerpt: "Host Brian Kilmeade delivered a rare criticism of Trump, saying he completely failed to deal with Chris Wallace’s challenge to condemn white supremacy."
-    publishedDateTime: 2020-09-30T15:44:00Z
-    webUrl: "https://www.thedailybeast.com/fox-and-friends-trashes-trump-for-blowing-the-debate-over-white-supremacists"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 42
 
 secured: "6xuoxy/uYHfLzeNM96o5DsbdlpkltG7h2agndFpL3E4fq1aUrE68/R/nhYcDqCU6nDmsO7MUnXErqRfQMYxjMXFY2uV9w2GPeFajhZcQycnxKy3UPfqBBVgC/IC3mqeCox0/+Sz6RrFbYzLH1nI1V7h+rgLdt6222A9cxWORsfAHKjRdT+/81t/UZ7FQFcdPLDuDi+XNUPKGm1MrsCOFVimB7Mty7n+t6CxBzskd1/ZY/+M2DnCQbjg1jjPWDgrVwZS7FgMFj4DzUVd0dE5mnAqST6KTShcGgmaHkR54F7ZZTbpgv/5D74tk7REZ4YdvsMwEnOwmkmvX/JBKmfT/vn3rgOo+oqorTPYvnPRTqwE=;JkMDzSGR00LIdTrATGTh+w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-downplays-ties-bernie-sanders
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
 type: article
 quality: 180
-heat: 340
+heat: 320
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden pushes back against ties to Bernie Sanders during first debate: 'I am the Democratic party'"
-    excerpt: "Democratic presidential nominee Joe Biden pushed back against President Trump's efforts to link him to Bernie Sanders during the first debate on Tuesday night."
-    publishedDateTime: 2020-09-30T01:51:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5dxXvOBdIu4/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79e49bf7-b944-49eb-905b-4594b0fa8bc0/19832c56-70c3-4add-a268-662177528c18/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Viral clip shows Biden lowering his mask to cough in his hand"
     excerpt: "Joe Biden on Friday coughed into his hand during a campaign stop in Las Vegas, Nevada."

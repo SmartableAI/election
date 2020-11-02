@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pelosi questions Trump's health, says ‘we’re going to be talking about the 25th Amendment’"
+    excerpt: "House Speaker Nancy Pelosi made a dramatic announcement during her weekly press conference Thursday by telling reporters that she intends to discuss the possibility of removing President Trump from office via the 25th Amendment, following questions regarding Trump's health as he recovers from coronavirus."
+    publishedDateTime: 2020-10-08T16:47:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/45dceYd9weY/pelosi-trump-talking-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-trump-talking-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-talking-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9494099-7141-4201-8d9d-1f847d6e2de3/9a6763cc-9307-416b-ae4e-ebbb622758a2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pelosi, after a year of not speaking to Trump, says talks don't have to be 'person-to-person'"
     excerpt: "House Speaker Nancy Pelosi on Friday confirmed that she has not spoken to President Trump for more than a year -- as she negotiates with the White House on a stimulus package through Treasury Secretary Steven Mnuchin."
     publishedDateTime: 2020-10-17T21:12:06Z
@@ -90,6 +106,34 @@ related:
     quality: 155
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8e1ae883-5f3a-4ee1-a040-836ff1fc032e/562323ac-48aa-4952-9692-711b5c004789/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "McConnell: Pelosi talking about the 25th Amendment and Trump is 'absurd'"
+    excerpt: "Senate Majority Leader Mitch McConnell said on Friday that House Speaker Nancy Pelosi's proposal to establish a commission to determine whether a president is capable of discharging his office is \"absurd\" and should not be taken seriously."
+    publishedDateTime: 2020-10-09T15:37:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LErT-NMqa_Q/mcconnell-pelosi-25th-amendment-trump-absurd"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa4b7c19-ac18-41be-aabe-9cb3b7aed03b/e5554fe7-3d54-408a-be5e-5b6cc688a8bf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pelosi to announce bill on 25th Amendment after questioning Trump's health"
+    excerpt: "House Speaker Nancy Pelosi on Friday will introduce legislation to create a commission that would allow Congress to oust President Trump from office, using the 25th Amendment."
+    publishedDateTime: 2020-10-09T12:40:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0eV-uFkk29w/pelosi-25th-amendment-trumps-health"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8fe0b7e-de00-4adf-85ab-a113f04cf158/ec0cb441-0df6-492c-97c3-b8ff9080d625/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

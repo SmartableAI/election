@@ -25,52 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden will return to Michigan on Halloween"
-    excerpt: "The trip marks the former vice president's fourth to Michigan in recent weeks, again signaling the importance of the state in the overall race."
-    publishedDateTime: 2020-10-29T02:15:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/26/joe-biden-return-michigan-halloween-election-2020/6049405002/"
-    ampWebUrl: "https://amp.freep.com/amp/6049405002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6049405002"
+  - title: "Can Joe Biden flip Georgia to Democrats? Campaign stops set for Warm Springs, Atlanta"
+    excerpt: "Joe Biden will travel to Georgia next week, making a late push in a state that Republicans have won every presidential election since 1996. Biden’s campaign says he will deliver remarks in Warm Springs,"
+    publishedDateTime: 2020-10-25T06:41:00Z
+    webUrl: "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html"
+    ampWebUrl: "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/347b1fa3-f7b8-482f-8fb2-adcc72da78b5-biden_101620_kd125.jpg?auto=webp&crop=2399,1350,x0,y115&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Lighten up, everyone. Voters can handle 'Saturday Night Live' jokes about Joe Biden."
-    excerpt: "Jim Carrey captures and exaggerates the parody-worthy parts of Joe Biden's persona that make him relatable and the perfect antidote to Donald Trump."
-    publishedDateTime: 2020-10-24T11:13:00Z
-    webUrl: "https://www.azcentral.com/story/opinion/2020/10/24/saturday-night-live-biden-jokes-wont-help-trump-win-column/3728423001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3728423001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3728423001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: al.com
+      domain: al.com
     quality: 68
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/0bb9798c-daaa-4318-ae23-a649491c7638-AP_TV_SNL.jpg?auto=webp&crop=1505,847,x0,y93&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VZT67ZTTZNERHL4YLTGMZVJASY.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "VP Mike Pence to make 2 campaign stops in North Carolina on Halloween"
-    excerpt: "Vice President Mike Pence is set to return to North Carolina on Saturday for two campaign stops, just three days before Election Day, WTVD reported."
-    publishedDateTime: 2020-10-30T06:04:00Z
-    webUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-make-2-campaign-stops-north-carolina-halloween/FGNHNKGYWNF6VFKP6HM42DXAHY/"
+  - title: "Senator Kamala Harris Remarks to HBCU Student Leaders at Spelman College in Atlanta, Georgia"
+    excerpt: "T14:32:19-04:00 vice presidential candidate Senator Kamala Harris (D-CA) speaks to HBCU student leaders at Spelman College in Atlanta, Georgia. Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to HBCU student leaders at Spelman College in Atlanta,"
+    publishedDateTime: 2020-10-23T20:32:00Z
+    webUrl: "https://www.c-span.org/video/?477326-1/senator-kamala-harris-remarks-hbcu-student-leaders-spelman-college-atlanta-georgia"
     type: article
     provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
-    images:
-      - url: "https://www.wsoctv.com/resizer/pXusisgI-i7o4r9ZDOxKtDRJ0cQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/AV3ZLYO4QE6NNM2EBGO6L6GALM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 24
 
 secured: "ILKrVi1qMFs0cnGwwedKXHVE6DlwyEoFJwB/VVnjgivtw+cbwIMChCgeFRduisxyfWshsNiH7pPFitbdZ60Y4OzyowPYc+lLP0Qk50JYIHbrpe42gKYHCqmiHd/ZEHFEjwPEaYzOhvBFR5t4spdrn6PZamxZL/Mj8M0yBFBPMRJWnRXrE7oxGUZIE9ryJn6lEl8D0DLjXkgHipLYPtnNryS2qP0igoRbMutJNZd3vOGtZm9jKC23nmNpUtFL8ZgZVfAH57rMMfAcBY1Ek/RZ2ea58tIimSBmqlWDG/we4UvSBy2CJ/vdjVJFkTYKy5/7teGDvhuDhE2Sg0lIiHoBG5I3msz55ifxoW9K2UMIE6LhPSKoanhwlS4Q5g2ZnwEmN5H2pTzvXTH9GNbmv030dbmVGsZvcCEHxZyqnSd7cLq96tgP8FY6aK+VgzVCsh8NUfF0WrwnGIkdqTBSmU/kbMbs4x9OBcmfzsAdLPbGIekat0+ibRZr+Iqc2leFe1H8VzvBeksJErEnBsXXSHZdsQ==;zaFnAhieb/CslAnl6wSWng=="
 ---

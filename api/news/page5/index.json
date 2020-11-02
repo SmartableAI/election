@@ -2,21 +2,25 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-10-28-trump-promised-massive-middle-class-tax-cuts-in-2016-he-delivered-cuts-not-as-much-on-the-middle-class-part.md",
-      "title": "Trump promised massive middle-class tax cuts in 2016. He delivered cuts, not as much on the middle class part",
-      "excerpt": "The GOP tax bill in 2017 gave households an average $1,600 cut but the richest Americans, especially those making over $300,000, got the most relief.",
+      "path": "_news/2020-10-28-analysis-how-arizona-complicates-trumps-re-election-bid.md",
+      "title": "Analysis: How Arizona complicates Trump's re-election bid",
+      "excerpt": "Electoral analysts like myself have been pumping up the importance of the Great Lake (Rust Belt) battleground states. The math is pretty easy. Under any reasonable scenario, President Donald Trump needs to win at least Michigan, Pennsylvania or Wisconsin to take the presidency. This assumes he carries",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-mostly-delivered-2016-campaign-pledge-cut-taxes/3685282001/",
-      "originalUrl": "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-mostly-delivered-2016-campaign-pledge-cut-taxes/3685282001/",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OWA9DSAR5bI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OWA9DSAR5bI/index.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1510,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/-mm-/58bcbd7626012765178f61ecb84b86080363f1ac/c=0-77-2631-1564/local/-/media/2016/09/15/USATODAY/USATODAY/636095412520377554-AP-Campaign-2016-Trump.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201026145854-02-biden-trump-election-night-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +28,113 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3685282001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3685282001",
-      "publishedDateTime": "2020-10-27T14:05:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-analysis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-analysis/index.html",
+      "publishedDateTime": "2020-10-28T04:26:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-tells-voters-to-change-their-votesbut-only-a-few-states-allow-that.md",
+      "title": "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That",
+      "excerpt": "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/",
+      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9890ed25a04196a125a749%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3202%26cropY1%3D0%26cropY2%3D1802",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/",
+      "publishedDateTime": "2020-10-28T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-heres-a-timeline-of-president-donald-trumps-and-dr-anthony-faucis-relationship.md",
+      "title": "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship",
+      "excerpt": "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/07/31/USAT/5f2d0ac9-24b5-43ca-bb6c-a6da956b363b-AFP_AFP_1VA3UJ.jpg?auto=webp&crop=4011,2257,x0,y355&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3718797001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718797001",
+      "publishedDateTime": "2020-10-28T02:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -54,6 +162,366 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.md",
+      "title": "Trump campaign website briefly defaced by hackers making outlandish claims",
+      "excerpt": "President Trump’s campaign website was briefly hacked Tuesday, according to reports.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/koSNkPEs6Ec/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/koSNkPEs6Ec/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/beba87ae-315f-4d4f-af9c-349ea7c729e2/cfc957e4-d7a5-46c7-86eb-cab2922961e9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp",
+      "publishedDateTime": "2020-10-28T00:08:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-winnable-but-not-yet-won-why-joe-biden-and-mike-pence-are-both-headed-to-iowa-this-week.md",
+      "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
+      "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
+      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3418,x0,y95&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/3754115001",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001",
+      "publishedDateTime": "2020-10-27T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-uses-outdated-thinking-in-attempt-to-woo-suburban-women-im-getting-your-husbands-back-to-work.md",
+      "title": "Trump uses outdated thinking in attempt to woo suburban women: I'm 'getting your husbands back to work'",
+      "excerpt": "President Donald Trump offered his latest appeal to suburban women Tuesday evening, promising to get their husbands \"back to work\" if he's reelected.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CnejoqrBT7I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CnejoqrBT7I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027152336-trump-lansing-mi-1027-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/27/politics/trump-suburban-women-2020-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-suburban-women-2020-election/index.html",
+      "publishedDateTime": "2020-10-27T20:06:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-lifts-tariffs-on-canadian-aluminum-warns-he-may-resume-them.md",
+      "title": "Trump lifts tariffs on Canadian aluminum, warns he may resume them",
+      "excerpt": "U.S. President Donald Trump issued a proclamation on Tuesday formally removing tariffs on raw aluminum imports from Canada but threatening to reinstate them if there was a surge in imports of the metal across the northern U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trade-canada-aluminum-idINKBN27C2TA",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trade-canada-aluminum-idINKBN27C2TA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539024638&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1SE",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27C2TA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27C2TA",
+      "publishedDateTime": "2020-10-27T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-trump-appears-to-give-a-pass-to-the-domestic-kidnapping-plot-against-whitmer.md",
+      "title": "Trump appears to give a pass to the domestic kidnapping plot against Whitmer",
+      "excerpt": "President Donald Trump repeatedly attacked Michigan Gov. Gretchen Whitmer, a Democrat, during his rally in Lansing, Michigan, on Tuesday, at one point taking credit for the FBI thwarting a plot to kidnap her and then immediately downplaying the actual threat that had been posed to Whitmer.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7leQrboZfQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7leQrboZfQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027120930-donald-trump-1019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-kidnapping-michigan/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-kidnapping-michigan/index.html",
+      "publishedDateTime": "2020-10-27T15:55:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-livestream-trump-holds-tuesday-rally-in-michigan.md",
+      "title": "Livestream: Trump Holds Tuesday Rally In Michigan",
+      "excerpt": "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
+      "originalUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/566479/20201027/013957/styles/patch_image/public/gettyimages-1229304833___27133938792.jpg?width=984",
+          "width": 896,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
+      "publishedDateTime": "2020-10-27T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-says-kamala-harris-wont-be-first-woman-president-rallygoers-demand-ivanka.md",
+      "title": "Trump Says Kamala Harris 'Won't Be First Woman President,' Rallygoers Demand Ivanka",
+      "excerpt": "Trump said Kamala Harris will \"take over\" for Biden three weeks into his term if he wins before declaring, \"she will not be the first woman president\" Tuesday at a Lansing, Michigan campaign event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
+      "originalUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1659983/ivanka-trump-president-first-woman.jpg",
+          "width": 2500,
+          "height": 1515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1",
+      "publishedDateTime": "2020-10-27T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-fact-check-trump-falsely-claims-pennsylvanians-cant-go-to-church.md",
       "title": "Fact check: Trump falsely claims Pennsylvanians 'can't go to church' ",
       "excerpt": "President Donald Trump keeps falsely declaring that various states run by Democratic governors are \"closed\" or \"shut down.\"\n    \n",
@@ -66,7 +534,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -122,7 +590,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -163,101 +631,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-2020-election-live-updates-biden-on-track-for-historic-california-victory-kamala-harris-heads-west.md",
-      "title": "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west",
-      "excerpt": "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfchronicle.com/bayarea/article/2020-Election-Live-Updates-Biden-on-track-for-15678983.php",
-      "originalUrl": "https://www.sfchronicle.com/bayarea/article/2020-Election-Live-Updates-Biden-on-track-for-15678983.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/56/42/20113594/13/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php",
-      "publishedDateTime": "2020-10-27T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-supporters-rally-at-us-embassy-in-jerusalem.md",
-      "title": "Trump supporters rally at US Embassy in Jerusalem",
-      "excerpt": "A convoy of cars decorated with American flags and Trump 2020 banners drove from Tel Aviv to Jerusalem, holding a rally outside the U.S. Embassy in support of the American president ahead of next week",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_33227a247da641f9860ed82b53e0118f_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040",
-      "publishedDateTime": "2020-10-27T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -431,58 +804,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit.md",
-      "title": "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit",
-      "excerpt": "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/",
-      "originalUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9846fbc3e178a4ae7bff0e%2F0x0.jpg",
-          "width": 1200,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/",
-      "publishedDateTime": "2020-10-27T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-kamala-harris-had-the-perfect-response-when-asked-about-mike-pences-fly.md",
       "title": "Kamala Harris had the perfect response when asked about Mike Pence’s fly",
       "excerpt": "Leave it to Whoopi Goldberg to ask Sen. Kamala Harris the question still on everybody’s mind: “Did you see the fly?” On Monday’s episode of “The View,” Harris and hosts Goldberg, Joy Behar, Sara Haines, Sunny Hostin and Ana Navarro discussed ...",
@@ -491,7 +812,7 @@
       "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1769,
+      "heat": 2149,
       "tags": null,
       "images": [
         {
@@ -700,58 +1021,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-explainer-can-trump-call-in-troops-to-quell-election-day-unrest.md",
-      "title": "Explainer: Can Trump call in troops to quell Election Day unrest?",
-      "excerpt": "U.S. President Donald Trump has declined to commit to a peaceful transfer of power if he decides the Nov. 3 presidential election results are fraudulent and has proposed mobilizing troops under the 200-year-old Insurrection Act to put down unrest if he won.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-insurrection-explainer/explainer-can-trump-call-in-troops-to-quell-election-day-unrest-idUSKBN27C1DC",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-insurrection-explainer/explainer-can-trump-call-in-troops-to-quell-election-day-unrest-idUSKBN27C1DC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 340,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538958726&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0WM",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27C1DC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1DC",
-      "publishedDateTime": "2020-10-27T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-stephen-colbert-mike-pence-is-americas-spare-tire.md",
       "title": "Stephen Colbert: Mike Pence Is ‘America’s Spare Tire’",
       "excerpt": "After the White House called the vice president an essential worker, Colbert said: “At best, he is vice essential. You want him in the trunk, but you hope to never have to use him.”",
@@ -852,58 +1121,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-election-2020-both-trump-and-biden-campaign-in-battleground-pennsylvania.md",
-      "title": "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania",
-      "excerpt": "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 3834,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/biden-event-02-gty-jef-201026_1603744290053_hpMain_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "publishedDateTime": "2020-10-26T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-twitter-sticks-misleading-label-on-donald-trumps-tweet-about-problems-with-mail-in-ballots.md",
       "title": "Twitter sticks 'misleading' label on Donald Trump's tweet about problems with mail-in ballots",
       "excerpt": "President Donald Trump's tweet about \"big\" problems with mail-in ballots was labeled by Twitter as part of its pledge to stop election disinformation.",
@@ -912,7 +1129,7 @@
       "originalUrl": "https://www.usatoday.com/story/tech/2020/10/26/donald-trump-twitter-mail-ballots-election-tweet-misleading/6049734002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1012,21 +1229,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-joe-biden-visiting-wisconsin-for-3rd-time-a-key-swing-state-hillary-clinton-lost-in-2016.md",
-      "title": "Joe Biden visiting Wisconsin for 3rd time, a key swing state Hillary Clinton lost in 2016",
-      "excerpt": "It's been over a month since Joe Biden has been to Wisconsin-- a key swing state that critics say Hillary Clinton lost because she didn't pour enough time or resources into it. But that will ...",
+      "path": "_news/2020-10-27-vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday.md",
+      "title": "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday",
+      "excerpt": "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
-      "originalUrl": "https://abcnews.go.com/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
+      "webUrl": "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday",
+      "originalUrl": "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/biden-event-04-rt-jef-201026_1603746299117_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1034,23 +1251,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
-      "publishedDateTime": "2020-10-26T16:36:00-07:00",
+      "ampWebUrl": "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true",
+      "cdnAmpWebUrl": "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true",
+      "publishedDateTime": "2020-10-26T16:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMJ4",
+        "domain": "tmj4.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1060,7 +1268,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Mike Pence"
       ]
     },
     {
@@ -1117,232 +1325,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-civil-rights-attorney-leo-terrell-biden-has-done-nothing-for-black-community-other-than-insulting-them.md",
-      "title": "Civil rights attorney Leo Terrell: Biden has done nothing for Black community 'other than insulting' them",
-      "excerpt": "Civil rights attorney Leo Terrell rips 2020 Democratic nominee Joe Biden for his failure to address issues impacting the Black community during his 36-year career in the United States Senate on his new Fox Nation show \"Larry & Leo 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america",
-      "originalUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbf6717b-c334-4068-a87d-aad633c8e263/15d85389-9135-4ac2-b213-64434dd48029/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america.amp",
-      "publishedDateTime": "2020-10-26T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-ivanka-trump-jared-kushner-threaten-to-sue-over-billboard.md",
-      "title": "Ivanka Trump, Jared Kushner threaten to sue over billboard",
-      "excerpt": "Ivanka Trump and Jared Kushner are threatening to sue The Lincoln Project over billboards the organization erected in New York City's Times Square. CNN's Brianna Keilar and Alexandra Field report.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZKXlUB9Psks/ivanka-trump-jared-kushner-the-lincoln-project-lawsuit-threat-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZKXlUB9Psks/ivanka-trump-jared-kushner-the-lincoln-project-lawsuit-threat-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190307124143-polemica-sobre-credenciales-de-seguridad-vida-privada-trump-ivanka-pkg-ione-molinares-00003520-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2020/10/26/ivanka-trump-jared-kushner-the-lincoln-project-lawsuit-threat-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/10/26/ivanka-trump-jared-kushner-the-lincoln-project-lawsuit-threat-vpx.cnn",
-      "publishedDateTime": "2020-10-26T14:42:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-kayleigh-mcenany-once-praised-biden-as-a-man-of-the-people-who-resonates-with-middle-class-over-tycoon-trump.md",
-      "title": "Kayleigh McEnany once praised Biden as a 'man of the people' who resonates with \"middle class\" over 'tycoon' Trump",
-      "excerpt": "Prior to becoming a prominent backer of Donald Trump, Kayleigh McEnany praised then-Vice President Joe Biden as \"funny and likable\" and a \"man of the people\" who resonates with \"middle class voters.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mOrqP6T-t5Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mOrqP6T-t5Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826211729-kayleigh-mcenany-rnc-august-26-2020-02-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/26/politics/kayleigh-mcenany-biden-2015/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/kayleigh-mcenany-biden-2015/index.html",
-      "publishedDateTime": "2020-10-26T14:33:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-pence-skips-public-health-recommended-self-quarantine-but-does-change-plans-after-staff-outbreak.md",
-      "title": "Pence skips public health recommended self-quarantine but does change plans after staff outbreak",
-      "excerpt": "Vice President Mike Pence, despite flouting public health guidelines by still campaigning after being exposed to people testing positive with coronavirus, is taking some precautions on the road.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G-ClNsokWxo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G-ClNsokWxo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201025103438-03-mike-pence-october-campaigning-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/26/politics/mike-pence-coronavirus-precautions/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/mike-pence-coronavirus-precautions/index.html",
-      "publishedDateTime": "2020-10-26T12:24:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

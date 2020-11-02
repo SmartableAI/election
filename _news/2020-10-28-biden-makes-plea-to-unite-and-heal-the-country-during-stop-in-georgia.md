@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Polls show Biden gaining ground in Texas, Georgia"
+    excerpt: "Democratic nominee Joe Biden appears to have gained ground in Georgia and the so-called new battleground state Texas, according to the latest polls."
+    publishedDateTime: 2020-10-27T14:23:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LF7_1TY7L_w/georgia-texas-polls-biden-presidential-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-texas-polls-biden-presidential-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-texas-polls-biden-presidential-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297811856343.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Playing offense, Biden pledges if ‘we win Georgia, we win everything’"
     excerpt: "It’s been more than a quarter century since the Democrats won Georgia in a presidential election – but Joe Biden’s hoping to break the losing streak."
     publishedDateTime: 2020-10-28T00:36:09Z

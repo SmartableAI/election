@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Spygate' author Bongino cheers Trump declassification move while awaiting surgery"
-    excerpt: "Dan Bongino has lived Russiagate for nearly four years, but he learned of President Trump’s sweeping order to declassify relevant documents on the eve of an event even more serious and personal to him."
-    publishedDateTime: 2020-10-07T03:32:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bbsKA6TtQ_M/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery"
-    ampWebUrl: "https://www.foxnews.com/politics/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/d0a5d77d-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Emphatic Trump Jr. rails on mainstream media, Democrats after latest Russia probe declassification"
     excerpt: "Donald Trump Jr. slammed the mainstream media and Democrats after President Trump announced Tuesday he authorized the declassification of all documents related to the high-profile Russia investigation."
     publishedDateTime: 2020-10-07T13:45:10Z

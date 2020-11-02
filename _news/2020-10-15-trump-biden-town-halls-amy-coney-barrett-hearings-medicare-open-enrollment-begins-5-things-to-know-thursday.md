@@ -47,21 +47,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden leaves door open to adding Supreme Court justices"
-    excerpt: "Democratic nominee Joe Biden on Thursday kept the door open to adding justices to the Supreme Court if Republicans push ahead with confirming President Trump’s nominee Amy Coney Barrett."
-    publishedDateTime: 2020-10-16T01:24:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices?amp"
+  - title: "Joe Biden says he's 'not a fan' of court packing as SCOTUS hearings continue"
+    excerpt: "As the Senate confirmation hearings for Supreme Court nominee Amy Coney Barrett continue, former Vice President Joe Biden says he is \"not a fan\" of court packing."
+    publishedDateTime: 2020-10-13T21:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/biden-ap-ml-201013_1602603114866_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Senate hearing for Trump's Supreme Court nominee Amy Coney Barrett kicks off Monday"
     excerpt: "The high-stakes confirmation hearing for Judge Amy Coney Barrett, President Donald Trump’s Supreme Court nominee, gets underway Monday in the Senate Judiciary Committee."
@@ -79,19 +79,101 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Joe Biden Would Be a Sea Change For the Oil Industry"
-    excerpt: "A reversion to a less in-your-face style of U.S. leadership would lead to a steadier, albeit duller, oil market."
-    publishedDateTime: 2020-10-18T06:10:00Z
-    webUrl: "https://www.washingtonpost.com/business/energy/joe-biden-would-be-a-sea-change-for-theoil-industry/2020/10/18/f5eff0c4-1107-11eb-b404-8d1e675ec701_story.html"
+  - title: "Biden says Barrett's Catholic faith shouldn't be factor in her confirmation hearings"
+    excerpt: "Biden expressed the same sentiment as Democratic senators who are so far focusing on the threat they feel Barrett's confirmation to the Supreme Court would pose to Obamacare."
+    publishedDateTime: 2020-10-12T21:12:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-amy-coney-barrett-confirmation-hearings/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-amy-coney-barrett-confirmation-hearings/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-amy-coney-barrett-confirmation-hearings/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XABZUARA4I6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/498f145a-b39f-4e4c-8082-5a8fc675accc/thumbnail/1200x630g2/a226aaf6d83d6cbf0a3c183f724b6c40/gettyimages-1229009797.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Senate to begin confirmation hearings for Trump's Supreme Court nominee Amy Coney Barrett"
+    excerpt: "\"Courts are not designed to solve every problem or right every wrong in our public life,\" Barrett says in her planned remarks."
+    publishedDateTime: 2020-10-12T11:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/12/amy-coney-barrett-hearing-updates-trumps-nominee-face-senators/5937558002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5937558002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937558002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden declines to say whether he will expand the size of the Supreme Court if he wins"
+    excerpt: "The Democratic presidential candidate said whatever he decides to do will depend on the Senate's handling of Judge Amy Coney Barrett's confirmation."
+    publishedDateTime: 2020-10-16T22:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/town-hall-joe-biden-vague-court-packing-says-depends-senate/3672724001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3672724001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3672724001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/7e6fa779-ec61-40aa-bee2-2cf20a135ca7-AP20290022134268.jpg?auto=webp&crop=3732,2099,x674,y914&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden Says Amy Coney Barrett Appointment 'Not Constitutional' as He Evades Court Packing Question Again"
+    excerpt: "\"Look, the only court packing is going on right now. It's going on with the Republicans packing the court now,\" Joe Biden said."
+    publishedDateTime: 2020-10-11T02:07:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 107
+    images:
+      - url: "https://d.newsweek.com/en/full/1649258/joe-biden.jpg"
+        width: 2500
+        height: 1571
+        isCached: true
+  - title: "Joe Biden addresses idea of Supreme Court packing: 'I'm not a fan'"
+    excerpt: "Biden argued that the focus should remain on Republicans’ efforts to push through Amy Coney Barrett as a replacement for Ruth Bader Ginsburg before the election."
+    publishedDateTime: 2020-10-13T20:44:00Z
+    webUrl: "https://www.king5.com/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
+    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
+    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 75
+    images:
+      - url: "https://media.king5.com/assets/CCT/images/3480a00c-67c9-4add-bf94-9afc4fb2e924/3480a00c-67c9-4add-bf94-9afc4fb2e924_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Joe Biden: I'm 'not a fan' of court-packing"
+    excerpt: "Democratic presidential nominee Joseph R. Biden partially ended his stonewalling on Supreme Court-packing this week, saying he’s “not a fan” of the practice that liberals are calling for as payback for confirming Judge Amy Coney Barrett for the Supreme Court."
+    publishedDateTime: 2020-10-14T02:19:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2019/03/15/Supreme_Court_37806.jpg-5e141_c0-89-5568-3337_s1200x700.jpg?0c80d9a17edda4869c69b2190de84c73868e539b"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Joe Biden: Senators should not consider Amy Coney Barrett's faith in confirmation process"
     excerpt: "Democratic presidential nominee Joseph R. Biden said Monday that Judge Amy Coney Barrett’s Catholic faith should not be a consideration in Judge Barrett’s confirmation hearings for the U.S. Supreme Court."
@@ -108,6 +190,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/Election_2020_Biden_96935.jpg-16fc0_c0-0-5926-3456_s1200x700.jpg?e885779a9796061107f5b31234b49be1eeead7a2"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Claire McCaskill Says Kamala Harris Grilling Was First to ‘Hurt’ Amy Coney Barrett’s Credibility"
+    excerpt: "Claire McCaskill said that Senator and vice-presidential nominee Kamala Harris was the first questioner to hurt Judge Amy Coney Barrett's credibility at the ongoing Supreme Court confirmation hearings."
+    publishedDateTime: 2020-10-14T16:53:00Z
+    webUrl: "https://www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/"
+    ampWebUrl: "https://www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 62
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joy-Reid-Claire-McCaskill.jpg"
+        width: 1200
+        height: 624
         isCached: true
   - title: "Joe Biden, Clarence Thomas, and Amy Coney Barrett with Angela Wright"
     excerpt: "Angela Wright confides in Mary C. Curtis about former Vice President Joseph Biden, #MeToo and the inner workings of a contentious Supreme Court battle."

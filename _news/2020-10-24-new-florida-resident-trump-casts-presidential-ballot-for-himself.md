@@ -25,156 +25,117 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Explainer: Can Trump call in troops to quell Election Day unrest?"
-    excerpt: "U.S. President Donald Trump has declined to commit to a peaceful transfer of power if he decides the Nov. 3 presidential election results are fraudulent and has proposed mobilizing troops under the 200-year-old Insurrection Act to put down unrest if he won."
-    publishedDateTime: 2020-10-27T10:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-insurrection-explainer/explainer-can-trump-call-in-troops-to-quell-election-day-unrest-idUSKBN27C1DC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C1DC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1DC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538958726&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0WM"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Analysis: A newly restrained Trump faces the same old problems"
-    excerpt: "President Donald Trump turned in the restrained and consistent performance his advisers said he needed in his final debate with Democratic challenger Joe Biden, but it was unlikely to alter the U.S. presidential race in any fundamental way."
-    publishedDateTime: 2020-10-23T06:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-analysis-idUSKBN2780M0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2780M0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2780M0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538560388&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0D0"
-        width: 703
-        height: 545
-        isCached: true
-  - title: "AP Explains: What's next for Trump's Supreme Court nominee"
-    excerpt: "S.C., said in a statement after the Democrats' announcement that Barrett “deserves to be on the Supreme Court and she will be confirmed.\" In a statement Wednesday with Senate Democratic Leader Chuck Schumer,"
-    publishedDateTime: 2020-10-22T18:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-explains-supreme-court-nomination-73754471"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-explains-supreme-court-nomination-73754471"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-explains-supreme-court-nomination-73754471"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_79c51426e4874bda9db129e7fad959d1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "UK-US trade pact opposed with Trump, cows and pigs as props"
-    excerpt: "Demonstrators dressed as chickens, a cow and President Donald Trump gathered near the Houses of Parliament to protest a proposed U.S.-U.K. trade deal that activists say will lower food standards"
-    publishedDateTime: 2020-10-24T13:29:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/uk-us-trade-pact-opposed-trump-cows-pigs-73804135"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/uk-us-trade-pact-opposed-trump-cows-pigs-73804135"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/uk-us-trade-pact-opposed-trump-cows-pigs-73804135"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_e8ab5ff369224d3fa5c863ea6681009a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Fact Checkers Say Trump Built A Wall Of False Claims On Immigration"
-    excerpt: "Washington Post fact checkers find Donald Trump has made more false or misleading statements about immigration than any other issue."
-    publishedDateTime: 2020-10-26T04:13:00Z
-    webUrl: "https://www.forbes.com/sites/stuartanderson/2020/10/26/fact-checkers-say-trump-built-a-wall-of-false-claims-on-immigration/"
-    ampWebUrl: "https://www.forbes.com/sites/stuartanderson/2020/10/26/fact-checkers-say-trump-built-a-wall-of-false-claims-on-immigration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2020/10/26/fact-checkers-say-trump-built-a-wall-of-false-claims-on-immigration/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f696e289718d032d07249a6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5990%26cropY1%3D0%26cropY2%3D3369"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "President Trump claimed during the debate the GOP will take back the House on Election Day. That is unlikely."
-    excerpt: "\"I think we're going to win the House,\" President Trump said of Republicans during the debate. That is contrary to what most election experts think."
-    publishedDateTime: 2020-10-24T15:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/president-trump-claimed-gop-take-back-house-unlikely/3738018001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3738018001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738018001"
+  - title: "President Trump weighing firing of FBI Director Christopher Wray after election"
+    excerpt: "President Trump regards FBI Director Christopher Wray as having gone out of his way to separate himself from the president on multiple occasions."
+    publishedDateTime: 2020-10-23T10:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3731576001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3731576001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 121
+    quality: 136
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/61a04f09-915d-4eaa-9561-f18c06b3efdd-XXX__AN55555.JPG?auto=webp&crop=5003,2814,x1,y112&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2019/12/10/USAT/35138d1c-09b6-47ee-9233-e39128c5332c-XXX__JG24825.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Justice Department can't represent President Trump in E. Jean Carroll defamation case, judge rules"
-    excerpt: "E. Jean Carroll accused Trump of rape. He denied it. She sued him for defamation. Then the Justice Department got involved."
-    publishedDateTime: 2020-10-28T02:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/27/justice-dept-cant-represent-trump-e-jean-carroll-defamation-case/6052159002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6052159002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6052159002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/06/27/USAT/67fdd2af-3f5d-4f81-b81d-e067ca60bedd-AP_Trump_New_Accuser.JPG?auto=webp&crop=3599,2030,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "How the Trump Campaign is Trying to Suppress the Black Vote"
-    excerpt: "Trump has a tendency to say the quiet part out loud, but in Wilmington, he was practically shouting that not all votes are created equal. And in North Carolina in particular, that means one thing: suppress Black voters."
-    publishedDateTime: 2020-10-22T11:42:00Z
-    webUrl: "https://time.com/5902729/black-voter-suppression-2020/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/black-voter-suppression-2020.jpg"
-        width: 2400
-        height: 1482
-        isCached: true
-  - title: "Judge: US can't replace Trump in columnist's slander suit"
-    excerpt: "A federal judge on Tuesday denied President Donald Trump's request that he be replaced as the defendant in a defamation lawsuit alleging he raped a woman in a Manhattan department store in the 1990s."
-    publishedDateTime: 2020-10-27T20:40:00Z
-    webUrl: "https://www.businessinsider.com/judge-us-cant-replace-trump-in-columnists-slander-suit-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/judge-us-cant-replace-trump-in-columnists-slander-suit-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-us-cant-replace-trump-in-columnists-slander-suit-2020-10?amp"
+  - title: "Trump is considering firing FBI director Christopher Wray after the election, report says"
+    excerpt: "Trump is reportedly furious that Wray and Attorney General Barr have not launched investigations targeting his Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-23T13:06:00Z
+    webUrl: "https://www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Key events in North Korea-U.S. ties during the Trump presidency"
-    excerpt: "North Korea's Kim Jong Un awaits the winner of next week's U.S. presidential election armed with greater leverage in their high-stakes nuclear diplomacy thanks to a more powerful and versatile arsenal"
-    publishedDateTime: 2020-10-29T18:51:00Z
-    webUrl: "https://www.reuters.com/news/picture/key-events-in-north-korea-us-ties-during-idUSRTX85VOS"
+    quality: 131
+    images:
+      - url: "https://i.insider.com/5eab11f9204ad303cc23aeb3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Fact check: Trump keeps making false or misleading statements on mail ballots as Election Day nears"
+    excerpt: "Seeing chaos where others don’t, President Donald Trump is falsely asserting that voting by mail is proving to be rife with problems across the country,"
+    publishedDateTime: 2020-10-27T19:47:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 126
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539310419&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-29T181801Z_37240_MRPRC11C2363840_RTRMADP_0_NORTHKOREA-USA"
-        width: 810
-        height: 539
+      - url: "https://www.chicagotribune.com/resizer/8bLIEbk3JdBza-wGzxEnjkDLfUs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4XWKPBI2EFEUNGTHY2HT32ASIM.jpg"
+        width: 1200
+        height: 951
+        isCached: true
+  - title: "Presidential debate: Trump history shows Kristen Welker has her work cut out for her"
+    excerpt: "Trump clearly does not think well of nor respect Black women. Moderator Kristen Welker of NBC News must be tough and in command from start to finish."
+    publishedDateTime: 2020-10-22T09:13:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/22/trump-faces-moderator-kristen-welker-biden-final-debate-column/3718392001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3718392001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718392001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/8d742268-bae4-414c-98ce-7376ea3bcff5-XXX_NUP_189887_0045_dcb.JPG?auto=webp&crop=6191,3482,x0,y314&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "FBI director Chris Wray and top US intelligence officials release video countering Trump's conspiracies about election integrity"
+    excerpt: "The video will likely enrage the president and his allies as they claim the election is \"rigged\" and that mail-in voting leads to a fraudulent result."
+    publishedDateTime: 2020-10-07T17:02:00Z
+    webUrl: "https://businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5a7492c8ec1ade4d2d707e98?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'F*** Donald Trump': 50 Cent Says He 'Never Liked' Trump After Chelsea Handler Publicly Scolds Him for Endorsing President"
+    excerpt: "\"For all I know he had me set up and had my friend Angel Fernandez killed but that's history,\" 50 Cent said on Saturday night."
+    publishedDateTime: 2020-10-25T02:33:00Z
+    webUrl: "https://www.newsweek.com/f-donald-trump-50-cent-says-he-never-liked-trump-after-chelsea-handler-publicly-scolds-him-1541930"
+    ampWebUrl: "https://www.newsweek.com/f-donald-trump-50-cent-says-he-never-liked-trump-after-chelsea-handler-publicly-scolds-him-1541930?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/f-donald-trump-50-cent-says-he-never-liked-trump-after-chelsea-handler-publicly-scolds-him-1541930?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 99
+    images:
+      - url: "https://d.newsweek.com/en/full/1658159/50-cent.jpg"
+        width: 2937
+        height: 1951
+        isCached: true
+  - title: "Kirstie Alley Slammed On Twitter After Revealing She's Voting For Donald Trump"
+    excerpt: "\"Cheers\" star Kirstie Alley said that she's voting for President Donald Trump this presidential election once more because she believes he \"will turn the economy around quickly.\""
+    publishedDateTime: 2020-10-18T12:07:00Z
+    webUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002"
+    ampWebUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/03/kirstie-alley.jpg"
+        width: 600
+        height: 917
         isCached: true
 
 secured: "cj+IuoEl3I2pct2V3wr3aiXnxLVU1iKHVATCKJOgBPli2TohDCGujS9BcGlQRp7w3cMsvhA3IU3es3kA3e2GE1reMUb0gyn3rkWu0gtrCDjt268n6mWogr+JwY8dp88zsAHunqAPqfk92ZEkLpfDQ7OqBSWggvSDyX0KriLO+EZk0BHa3Qa/BRH5ozN+M8avtaHhz5lmDHTS1fToXztsIk1Z0X9o3duO3fsPZ2XOrJDKEKJy0d0hD86B3SRzYQ27PbRUoYTz+DY2HQ8XfNdkwbRX2yMG3EkA8DzAKdlOpcqlAWiVRH1zhiYXnFJO7Bi5Suae0SWT+zcFVlDcMkHOaGTYXsGF7Qrh0Fe4TVYy9WDy9/NGri+AMumpQh2P9jpQd3UDSwc1c3fbq9PRCt4BKZ1euDqtQ+0HsgGwczos6JFSNylmmbumZYgVSsuz8BsTIy+IUIABEAPuMxiwpRVnOcUoueTb5RwnCnPX2+K+brZD3nw+XpJUN21GJmCXzEblQFVO+19DOhKJrYKPt0E3+w==;lTYWHwPhf6DLFI7YMODhFw=="

@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Joe Biden Says Amy Coney Barrett's Confirmation to Supreme Court Threatens Affordable Health Care"
-    excerpt: "Democratic presidential candidate Joe Biden has criticized Amy Coney Barrett's \"rushed and unprecedented\" Supreme Court confirmation while raising concerns over what it could mean for the future of the Affordable Care Act. President Donald Trump has ..."
-    publishedDateTime: 2020-10-27T09:20:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 112
-    images:
-      - url: "https://d.newsweek.com/en/full/1658668/biden.jpg"
-        width: 2295
-        height: 1530
-        isCached: true
   - title: "Fact check: Senate Republicans moving to confirm Trump's Supreme Court nominee but blocked Obama's"
     excerpt: "A claim addressing the double standard for consideration of the two presidents' Supreme Court nominees was correct on substance, off on timing."
     publishedDateTime: 2020-10-20T23:30:00Z
@@ -92,22 +76,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538471929&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L17U"
         width: 810
         height: 521
-        isCached: true
-  - title: "Evangelicals went all in on Trump and he played them like ‘suckers’: ex-White House advisor"
-    excerpt: "In a column for the Atlantic, a former adviser to Republican President George W. Bush made the charge that evangelical Christians sold their souls to support Donald Trump while he secretly held them in contempt and used them to advance his political ambitions."
-    publishedDateTime: 2020-10-19T13:41:00Z
-    webUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 65
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Donald-Trump-and-Franklin-Graham.jpg"
-        width: 800
-        height: 430
         isCached: true
 
 secured: "Z1YjaGUws3BZCw2tdE7MNW92bQ4skItClvXec7RS5xC0yy3N9O7hqGI98oYJJ7gDZg5LzVFB+tljZsiFIDT21m2F/x10UUviEHcoRov6V4QIWJx+1uSuJxYUzmePJ/fftj7WvLBq8zwG9dbjpkMuSwI7s875q2wapo0V18L8qyk+xf1+MeOF8E1lQzns2eFoxaozDYXnZ4Xbmh2jDRMX6pNn/Ud1ezsH24e2PBjXvolTPBsOVfKRb9hrSVaigUIKvRFT7SIrlk4on8U0LcIF2H8Kx4841uw/qOXMWquio4COCeKZRi3KMKO7+cLFae1Dus6JWlUOi3s5/F7VGRB5xMWmUPAcjh9N1B+uDhU4E04=;wa1+TOM4yCmCH+yKt2Jojg=="

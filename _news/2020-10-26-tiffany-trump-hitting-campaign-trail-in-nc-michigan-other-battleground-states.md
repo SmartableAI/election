@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
 type: article
 quality: 171
-heat: 211
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden campaign faces backlash for TV ad depicting Michigan tech CEO as struggling bar owner"
-    excerpt: "The Biden team is under fire for releasing a TV campaign ad last week depicting a Michigan bar owner struggling to keep his business afloat during the pandemic."
-    publishedDateTime: 2020-10-20T15:27:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nLpF-VPDeIQ/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp"
+  - title: "Massive lines at Trump rally in battleground state North Carolina"
+    excerpt: "Supporters reportedly lined up hours in advance for President Trump's rally in Hickory, North Carolina on Sunday."
+    publishedDateTime: 2020-11-01T20:56:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/blind-pig.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-NC-Lines-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Former Trump Campaign Staffer: \"Father, Forgive Me\" For I Believed Him In His Con"
-    excerpt: "Former Trump campaign official Jessica Denson is now backing former Vice President Joe Biden for president, calling the Trump campaign a \"vile, self-serving branding exercise\" for Trump and his family."
-    publishedDateTime: 2020-10-29T11:42:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/29/former_trump_campaign_staffer_father_forgive_me_for_i_believed_him_in_his_con.html"
+  - title: "Judge rejects DOJ attempt to replace Trump as defendant in E. Jean Carroll case"
+    excerpt: "A federal court ruled that the Justice Department cannot take President Trump's place as the defendant in a lawsuit filed by writer E. Jean Carroll, who sued for defamation over Trump's response to her allegations that he raped her in the 1990s."
+    publishedDateTime: 2020-10-27T14:05:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D5Y0Un7KFk8/judge-us-cant-replace-trump-e-jean-carroll-slander-suit"
+    ampWebUrl: "https://www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
     images:
-      - url: "https://assets.realclear.com/images/52/525517.jpg"
-        width: 1068
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a6dfdd4-d81f-4363-93de-7d261a7f9c73/2721936a-8943-4360-804a-30ba90618f18/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump in 'stronger position than he was in 2016' in battleground states: Rep. McCarthy"
+    excerpt: "President Trump is in a \"stronger position than he was in 2016\" in battleground states Arizona, Wisconsin, Ohio and Georgia, House Minority Leader Kevin McCarthy said on Sunday."
+    publishedDateTime: 2020-11-01T18:33:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5sY1CudaMM/trump-2016-2020-battleground-states-kevin-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306646863849.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "13vi7cG30S3kMZprvOUQDDW0pSHVKQmeKTKhn3q2siVAHKd7Dlkigf9C7lgit5tU2iYzN+DJsRLaNaIjnOt2mfpR3U8fJVYgT63CmzhenSGUO9s/DXfaUenc8xtowakcACu7DqpwE9YSgJcjM7l2Jn6SbIF4hOejTGStzYSwL+Y8JGK3yPw19gzx2bKiiHhMHqvVkzp7XoFf5XweLVIIR7NpjKhf05zN6c6GJ8rOo94hLYfDs9CuxNnf7BtLKSf78X8Sg1SdDuOv6OxOLk/yP8YlUD1SDayZOzjFffw3cnTsummClsPigfhuxRnBBcKtlexbCCLzKXkYfA8cW0kfRbEzhB9TfA/oXFOJBFUY1R8=;8WmMOOcsMFAkz6pqPdx2kg=="

@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden faces challenges in quickly combating the pandemic"
+    excerpt: "If Joe Biden wins next week's election, he says he'll immediately call Dr. Anthony Fauci, the nation's top infectious-disease expert. He'll work with governors and local officials to institute a nationwide mask-wearing mandate and instruct Congress to pass a sweeping spending bill by the end of January to address the coronavirus and its fallout."
+    publishedDateTime: 2020-10-28T02:39:00Z
+    webUrl: "https://www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Donald Trump, NBC News Set Town Hall Event For Thursday, Competing With ABC News’ Joe Biden Event"
     excerpt: "Donald Trump will do a town hall for NBC News on Thursday, after an agreement was reached between the network and his presidential campaign on the details for the event. That means that Trump and"
     publishedDateTime: 2020-10-14T12:14:00Z
@@ -107,31 +118,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden Said He Wants to 'Transition From the Oil Industry.' That Shouldn't Be a Surprise"
-    excerpt: "W hen former Vice President Joe Biden said at Thursday’s presidential debate that he wanted to “transition from the oil industry,” President Donald Trump pounced. “Oh, that’s a big statement,” Trump said,"
-    publishedDateTime: 2020-10-23T23:29:00Z
-    webUrl: "https://time.com/5903235/joe-biden-oil-industry-debate/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 75
-  - title: "Opinion: Questions Joe Biden should answer about Hunter's emails"
-    excerpt: "If all of this is really so wild and crazy conspiracy theory, then Biden would be champing at the bit to dispel it, Harsanyi writes"
-    publishedDateTime: 2020-10-29T03:01:00Z
-    webUrl: "https://www.detroitnews.com/story/opinion/2020/10/28/opinion-questions-joe-biden-should-answer-hunters-emails/3754663001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3754663001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3754663001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/PDTN/58bac02b-d97a-483e-9ba1-d3709f2874b1-POTD-002.jpg?auto=webp&crop=4905,2760,x0,y490&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Alicia Andrews: Joe Biden is the better presidential candidate to manage foreign affairs and the military"
     excerpt: "The United States needs a leader who understands that when it comes to foreign policy, we need allies, we need thorough plans and to listen to our military leaders, Andrews"
     publishedDateTime: 2020-10-18T05:00:00Z
@@ -173,31 +159,6 @@ related:
         width: 800
         height: 528
         isCached: true
-  - title: "Editorial: Joe Biden can restore nation to normalcy"
-    excerpt: "At this point some might question the utility of an endorsement regarding the race for the President of the United States; supporters of President Trump or former Vice President Joe Biden will have long ago locked in their decisions,"
-    publishedDateTime: 2020-10-22T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/editorial-joe-biden-can-restore-nation-to-normalcy/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 55
-    images:
-      - url: "https://www.heraldnet.com/wp-content/uploads/2020/10/23074911_web1_TSR-201022-edh-opi-EndorseBiden2.jpg"
-        width: 1302
-        height: 868
-        isCached: true
-  - title: "Joe Biden Says He Plans to Push New Health Care Legislation If Elected"
-    excerpt: "Speaking to reporters after voting in Wilmington, Delaware, Joe Biden says he has new legislation ready to go, if elected, that would improve the Obama-era Affordable Care Act that includes a public option and reduces prescription drug prices."
-    publishedDateTime: 2020-10-28T17:45:00Z
-    webUrl: "https://www.c-span.org/video/?c4919121/joe-biden-plans-push-health-care-legislation-elected"
-    ampWebUrl: "https://www.c-span.org/amp/video/?c4919121"
-    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4919121"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 55
 
 secured: "WQXI1RaUQYrU0LucrlpCQY+kavdABb5jEOQtbK0ydDp6d7DQbI1kpUiC1iXeSlQ6TbLqNVQo8qSMaRgrhKrDE4XwYhG2XF37rd6yXYyOw6mjTkLqnJltl4mvm/PbK0olCAZt15YPacBWtg8vwgSa+o2IrXOkW7rIuEqkxh49EbSpo7LWt55q9szKXd5xcgnRGEOkh1TS3wXcTW5cSUvpWhsHCJsSRQuFZ2tDY3R/y4LZvyA9QBZiCVBUVtn+BNuBMz2ZKo2nPKQ55zkSvi4Hyr9sEtcvVNqbsO4HMze8Mskozh/s0V3056Y4WoHOT185f/VAafFg752GV9wd8sLLoJF9BRmpgZYduZYU5AiMzi3XgE/SJwe+EiT9XFfGjshhb3FnuvDmWOdX86CL2R2OgmotySS1y6/v2bkd2zYnIcAcD2JgPJK5uWwkZBnFFgs8euiTaA/M0VzufalqU6IfDB99zFQwR9YlJGlt1aYykWZSDy9r84BuF+Lo8rF2WHCt8R3/Y0ESpCztmt348Rsg/Q==;DWBvwA8nHHtUT6wdFpMGbA=="
 ---

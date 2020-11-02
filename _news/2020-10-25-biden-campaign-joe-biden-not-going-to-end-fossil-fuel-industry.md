@@ -32,152 +32,95 @@ images:
     isCached: true
 
 related:
-  - title: "Brad Pitt narrates new Biden campaign ad airing during World Series "
-    excerpt: "Actor Brad Pitt narrated an ad for Joe Biden's presidential campaign that's airing Saturday night during the fourth game of the World Series.\n    \n"
-    publishedDateTime: 2020-10-24T23:26:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a7--fEF0U18/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-biden-ad-world-series/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-biden-ad-world-series/index.html"
+  - title: "Lady Gaga and John Legend to join Joe Biden and Kamala Harris for final campaign events"
+    excerpt: "Superstars Lady Gaga and John Legend will join Joe Biden and Kamala Harris for their final respective events on the campaign trail on the eve of Election Day, the Biden campaign announced Sunday.\n    \n"
+    publishedDateTime: 2020-11-01T20:51:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/36z-f9SM6zk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 192
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160225091736-lady-gaga-joe-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "FBI investigating alleged harassment of Biden campaign bus by Trump supporters "
+    excerpt: "The FBI is investigating the alleged harassment of a Joe Biden campaign bus last week by motorists displaying Trump 2020 flags, a law enforcement source familiar with the probe told CNN on Sunday.\n    \n"
+    publishedDateTime: 2020-11-01T20:49:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/74amVvb1Cs8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/fbi-investigating-biden-bus-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/fbi-investigating-biden-bus-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031214725-biden-bus-trump-caravan-texas-1031-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "20 former Republican US attorneys endorse Biden campaign"
+    excerpt: "Twenty US attorneys, who were appointed and served under Republican presidents as far back as Dwight Eisenhower, announced on Tuesday their endorsement of Democratic presidential nominee Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-27T22:35:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M_UbOryJkAE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/republican-us-attorneys-endorse-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/republican-us-attorneys-endorse-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200209172505-brad-pitt-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden campaign blames Facebook for $500,000 in lost fundraising "
-    excerpt: "Democratic nominee Joe Biden's campaign said Thursday it had lost out on more than $500,000 in potential campaign donations this week and blamed Facebook after issues with the social media's advertising systems had prevented the campaign from running some ads soliciting donations.\n    \n"
-    publishedDateTime: 2020-10-30T02:21:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QHVupwUnRuk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/tech/biden-facebook-fundraising/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/tech/biden-facebook-fundraising/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029220911-biden-zuckerberg-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden if elected will form task force to reunite 545 separated immigrant children with family, campaign says"
-    excerpt: "Joe Biden is pledging that if he's elected president, he will sign an executive order to form a task force that will focus on reuniting the 545 immigrant children who've been separated from their families.\n    \n"
-    publishedDateTime: 2020-10-29T14:03:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wsiKa5UPt6A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/biden-immigrant-children/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/biden-immigrant-children/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 156
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028173658-01-biden-delaware-1028-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Could Joe Biden Actually Bring America Back Together?"
-    excerpt: "President has long valorized comity and respect in the political arena, but the country’s deepest cleavages are now imprinted on Americans’ party affiliations."
-    publishedDateTime: 2020-10-17T19:08:00Z
-    webUrl: "https://www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together"
-    ampWebUrl: "https://www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together/amp"
-    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together/amp"
-    type: article
-    provider:
-      name: The New Yorker
-      domain: newyorker.com
-    quality: 135
-    images:
-      - url: "https://media.newyorker.com/photos/5f8a0f7b994428c9a71a8f3e/master/pass/Luo-Biden.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "A Biden Landslide? Some Democrats Can’t Help Whispering"
-    excerpt: "Democrats are still haunted by the ghosts of 2016. But some are allowing themselves to contemplate a Biden victory big enough to reorder the nation’s politics."
-    publishedDateTime: 2020-10-21T09:59:00Z
-    webUrl: "https://www.nytimes.com/2020/10/21/us/politics/biden-election-landslide.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/21/us/politics/biden-election-landslide.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/us/politics/biden-election-landslide.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/19/us/politics/19biden-landslide-top/merlin_178713780_0331426e-fb13-423f-84cb-9a6f19e16007-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden makes late push to flip the Senate"
-    excerpt: "The Democratic nominee is hitting Georgia and Iowa this week, while Jill Biden campaigned with the Democratic Senate candidate in Maine."
-    publishedDateTime: 2020-10-28T20:10:00Z
-    webUrl: "https://www.politico.com/news/2020/10/27/biden-democrats-senate-433032"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/27/biden-democrats-senate-433032"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/27/biden-democrats-senate-433032"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/89/67/b3640b0c42d5afcfc67a0dcd7655/201027-biden-ga-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden Hopes to Fight Autocracy Abroad. He’ll Have to Start at Home."
-    excerpt: "It was her job to help coordinate administration efforts to support democracy, encourage free and fair elections, and oppose authoritarianism abroad. Among America’s most important tools in this regard,"
-    publishedDateTime: 2020-10-30T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/10/30/opinion/biden-trump-foreign-policy.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/30/opinion/biden-trump-foreign-policy.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/30/opinion/biden-trump-foreign-policy.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/30/opinion/30goldberg1a/30goldberg1a-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden campaign manager urges supporters to ‘campaign like we’re trailing’"
-    excerpt: "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina."
-    publishedDateTime: 2020-10-18T23:09:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/biden-campaign-manager-urges-supporters-to-campaign-like-we-re-trailing-94105157774"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94105157774"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94105157774"
+  - title: "Bulldozer thief drove through Florida town digging up Biden-Harris campaign signs"
+    excerpt: "James Blight was arrested in Haines City, Florida for allegedly stealing a bulldozer to dig up and vandalize the homes of people displaying Joe Biden signs."
+    publishedDateTime: 2020-10-26T14:38:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/bulldozer-thief-drove-through-florida-town-digging-biden-harris-campaign-n1244750"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244750"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244750"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 134
+    quality: 155
     images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_avi_biden_on_the_trail_201018_1920x1080.nbcnews-fp-1200-630.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3422981/201026-bulldozer-haines-city-cover-jm-0928_7573f2356a341e72152ac7388e223e38.jpg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Hey, SNL: Jim Carrey’s Joe Biden Just Isn’t Working"
-    excerpt: "Bring back Jason Sudeikis already! Senior Entertainment Editor Some years back, Jim Carrey’s team reached out to me about placing an op-ed in The Daily Beast. The piece, written by Carrey, discussed the supposed dangers of vaccines,"
-    publishedDateTime: 2020-10-20T07:56:00Z
-    webUrl: "https://www.thedailybeast.com/hey-snl-jim-carreys-joe-biden-just-isnt-working"
+  - title: "How Kamala Harris and Jill Biden are subverting stepmom stigma in America"
+    excerpt: "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom."
+    publishedDateTime: 2020-10-25T22:38:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Most Democrats are Scared to Say So, but Joe Biden Is Poised for a Landslide Win"
+    excerpt: "Democrats were in denial about their Hillary Clinton’s weaknesses. Now, they’re afraid to acknowledge Biden’s strengths."
+    publishedDateTime: 2020-10-28T12:55:00Z
+    webUrl: "https://www.thedailybeast.com/most-democrats-are-scared-to-say-so-but-joe-biden-is-poised-for-a-landslide-win"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 45
-  - title: "Local Dems Desperate for Biden to Visit Less Swingy States"
-    excerpt: "In the final days of the campaign, Democrats in states with Senate seats on the verge of flipping hope Biden will pay a last-minute visit to help tip the balance."
-    publishedDateTime: 2020-10-27T09:30:00Z
-    webUrl: "https://www.thedailybeast.com/local-dems-desperate-for-biden-to-visit-less-swingy-states"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
+    quality: 40
 
 secured: "xJwcXsrp1AnWC30ssVvhrWQ7PSyXGe96BkE/B+4e/OBeFGHuwCoQLdaAcrvadfInaFZdmaaZJ44r6blZFDRcop5pQ699ke0KMPtjEXLIvVMtYGlbWhcPVRtLajYTMbvIVCZI4meEnYqpbBDF0ExVB74ntvk5fzTecI0rLDEX94Og1gUqlJaChPM5a/cUz5ISkrXSbndYp4TNfBVuHWCfriECZ73BqxjQZGtsoMJZzak4lF3nFjTh2CbvXSZfRcXr/of7CQlYGuGxjwxpiybSEpDnB9shLKp6GhRpKwbWUD0m73xJ5aDp5H89Dw3j1oItfEEoOydPFT0apbFJWAlo3S2rzTJnX55PsD7ddWltgGf8jGGleelUviRbolHWSUx6okvZKEiwmQsmVuP26sgx1SdwSIujwZk895s7FVLm+q048lKWkE7iYSVFcDLjDbzjJkqq0ldhVvTWidi5nZ7aQb/1MhS4ohkSOmrxBXjl5IjkyT+cMazRHUijWpvi3ooh4jJkIBbyyw3ILHVdLZb2NQ==;fl6opobeLqJ1uZF8ffPD3w=="
 ---

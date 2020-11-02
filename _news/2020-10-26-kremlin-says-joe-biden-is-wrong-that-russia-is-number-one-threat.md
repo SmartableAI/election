@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Americans say they are better off under Trump, but is America? Trump by the numbers"
+    excerpt: "Gallup reports that 56% said they're better off than in 2016, but 56% also said President Donald Trump does not deserve to be reelected."
+    publishedDateTime: 2020-10-29T09:21:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/29/americans-say-better-off-but-not-america-trump-numbers-column/6046218002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6046218002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6046218002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/1790a9c3-a79f-4718-bee3-8c5d1e212277-AP_Election_2020_Trump_1.jpg?auto=webp&crop=2725,1533,x0,y138&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
     excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
     publishedDateTime: 2020-10-28T04:13:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/53fd7af8-cdff-4f51-9f62-2cf621c1da9f/913d99e9-deef-42dd-bbd0-15b9cd8cce1f/1280x720/match/image.jpg"
         width: 1279
         height: 720
+        isCached: true
+  - title: "Americans Must Render Judgment Against Joe Biden At The Polls"
+    excerpt: "The most recent bombshells were revealed by the NY Post, which detailed a web of emails and transactions allegedly involving Hunter Biden, Joe Biden, China, Ukraine, and others. Despite the serious nature of these alleged “transactions,” Joe Biden has ..."
+    publishedDateTime: 2020-11-01T14:01:00Z
+    webUrl: "https://www.theamericanconservative.com/articles/americans-must-render-judgment-against-joe-biden-at-the-polls/"
+    type: article
+    provider:
+      name: The American Conservative
+      domain: theamericanconservative.com
+    quality: 55
+    images:
+      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/10/GettyImages-520783510.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "ukHhL2VV4uygeABECvjIYMzQ6z4TChFtblnx7yZGMr4L170k7qpBo6ladWkpfZ+khISNJwC6Q8WjpunoEkt3oQRL2ApFkknGzr5XKv4yjrGZj6UTUiCyKwUmuM+I1kOxXuP0Y5KgefzRwNdV/J/ofjo3tuJEALeINdy9CeWbt//9Jf1f9j//8iTWSYOHxkUGzmMakBRckQkThAIuW9LFvtI7SthHx6by/o1QPjVsQ9+G6UxjAfWAgbT+AY2H7qaU7q2zk73KDyfFxaOxGTtNj+Av5eVbk/3nDxAn+0d30QMxdC16PxdJg4UAiP5SwEf7JS7YAq9GBaSND+mUq0KONx85QUzRq4blsVjRhUL7+3MndgLoS+TvT1WnFqiNivZma7BcuArvLDVcZqEIejxkSr0ofzrIMyztfRCNFF6MhAL9sM/38p88zRHLXeYv0syIjo/hTIoputBL+LdY8Dj7PQd8IM+diEkjO4HHjMsjgvPBGSjga4GbHeZG4M11B4ntrvHWoQXfExLohr5/f0riNA==;Uruz9bu8zZDbKjJ9o6El2w=="

@@ -25,52 +25,47 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump says he'll 'kiss everyone' in crowd at rally"
-    excerpt: "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience."
-    publishedDateTime: 2020-10-13T01:40:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/"
+  - title: "The Latest: Michelle Obama goes after Trump in new video"
+    excerpt: "Michelle Obama is going after President Donald Trump in a scathing new video that accuses him of “willful mismanagement” of the coronavirus crisis and of racism"
+    publishedDateTime: 2020-10-06T14:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-michelle-obama-trump-video-73450075"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-michelle-obama-trump-video-73450075"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-michelle-obama-trump-video-73450075"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0e385ace-fd32-4196-b1c2-1265f34474f5_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://s.abcnews.com/images/GMA/201006_gma_vega1_0702_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Donald Trump Doubles Down On COVID-19 Immunity: \"I'll Kiss Everyone\""
-    excerpt: "The President told those in the audience of his Florida rally that he'll give everyone a 'big fat kiss.' He's back to heating up the campaign trail to promote his bid to become America's leader once again."
-    publishedDateTime: 2020-10-13T01:14:00Z
-    webUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
+  - title: "Michelle Obama Makes Final Pitch: 'Vote For Joe Biden Like Your Lives Depend On It'"
+    excerpt: "President Trump \"continues to gaslight the American people by acting like this pandemic is not a real threat,\" Michelle Obama says in video remarks."
+    publishedDateTime: 2020-10-06T05:00:00Z
+    webUrl: "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it"
     type: article
     provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 75
+      name: NPR
+      domain: npr.org
+    quality: 99
     images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602551163_d7899330b7fbf5dd52d377294a843561.jpg/f38a03882fe2aefa58769e2eea500454/1602551163_cd8a0b17d84284a41870abd86bafcfef.jpg"
-        width: 1200
-        height: 800
+      - url: "https://media.npr.org/assets/img/2020/10/06/michelle-obama-closing-argument_wide-53ba9b0b61da569863ffca9af3caba3915ebbbfe.png?s=1400"
+        width: 1400
+        height: 786
         isCached: true
-  - title: "Rick Gates Calls on Trump to Pardon Him — And Everyone Convicted of Crimes by Mueller Probe"
-    excerpt: "Donald Trump's former 2016 deputy camping manager Rick Gates calls on the president to pardon him — and everyone else convicted of crimes by the Mueller Probe"
-    publishedDateTime: 2020-10-15T01:18:00Z
-    webUrl: "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/"
-    ampWebUrl: "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/"
+  - title: "The Latest: Trump Calls Rush Limbaugh Show for MAGA 'Rally'"
+    excerpt: "President Donald Trump, still White House bound after his COVID-19 diagnosis, called into the Rush Limbaugh show Friday for a radio “rally” with the conservative talk host."
+    publishedDateTime: 2020-10-09T17:05:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/the-latest-trump-calls-rush-limbaugh-show-for-maga-rally"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/the-latest-trump-calls-rush-limbaugh-show-for-maga-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/the-latest-trump-calls-rush-limbaugh-show-for-maga-rally?context=amp"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 65
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Rick-Gates-Calls-on-Trump-to-Pardon-Him-And-Everyone-Convicted-of-Crimes-by-Mueller-Probe-1200x672.jpg"
-        width: 1200
-        height: 672
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "rJUs+IRmzxrFMUUeNgkf2DhqlnCUhZhe1mKKGoJKeLT9aKlG5Wj3AsYYCYzy9NVICRnrXvmB4ey/u1AVDtcVSPmYj4iwd4lYGRAU0qhM3y+u8K+NQz5AQXF/JpCeQfpe7IPaQ6j3sB1dU5vY76kyQpREvEssPYiZvP9rO7L7W4xQ0D78CUt1snBSI7TvHCfUc7mzR8WXpkctXJWNp5Qe/t9F+kIrpQjcc+nQrfNoClvxQa6SQb87caBvySNBmfiUNEgRd43ezx5AjnrUaQkFco0BE55brZ5w5X/nbr8zIQ0npQ53npQ6MCX7POvkn4+H6gydDD+PupnUj5grcp8+LCzx9kmWGw4pj2mAXaG/OKoqoAQTrwLfUmsr8US55PaoStogmi2ssJWo2FXzBysrESl4B8doEsLKvwVx309yy5bATBBpBOrkDlXTtTEoAo6n+s0OBE1ATnT3IwFa0vP49d/mZ80ifee+bqL3o/J0mfQomh9773OQmVnRj64CAdC+kvybTDc1GQmfG1ZtFba7Ww==;a6Ug53ZxFG/fJ5TzgYftog=="
 ---

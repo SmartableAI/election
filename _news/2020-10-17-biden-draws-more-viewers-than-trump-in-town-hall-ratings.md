@@ -48,6 +48,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump, Biden attend dueling town halls"
+    excerpt: "President Trump and Democratic presidential nominee Joe Biden are appearing in seperate town halls Thursday night, instead of the previously scheduled second debate. "
+    publishedDateTime: 2020-10-15T21:38:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8nZbxtV63hU/live-updates-trump-biden-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92926cba-8753-4253-be21-5ae4e189119a/2f8ab13f-a630-468d-820a-cfbd97f71e37/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Trump, Biden participate in dueling town halls"
+    excerpt: "President Trump and former Vice President Joe Biden held dueling town halls Thursday with less than three weeks to go before the election. "
+    publishedDateTime: 2020-10-16T06:43:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_POvSnj0ch0/live-updates-trump-biden-participate-in-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-participate-in-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-participate-in-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/745c01a0-6b66-4bcf-84cc-80436d1ac538/f6ffaf80-861f-4362-9b46-57f0baededd7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump, Biden funnel ad dollars into key battlegrounds in final stretch"
     excerpt: "Local television markets in the battleground states of Florida, Arizona, and Pennsylvania have become ground zero for President Trump and Democratic nominee Joe Biden's ferocious advertising campaign war."
     publishedDateTime: 2020-10-16T17:17:31Z
@@ -63,6 +95,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20276724903875.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Live updates: Trump campaigns in Midwest, Biden warns of 'complacency'"
+    excerpt: "While President Trump rallied voters in Michigan and Wisconsin on Saturday, Democratic nominee Joe Biden's campaign told supporters in a memo that the race was \"neck and neck\" in some battleground states like Arizona and North Carolina -- and said Trump can still win. "
+    publishedDateTime: 2020-10-18T08:46:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-VyKS_L3oek/live-updates-trump-campaigns-in-midwest-biden-warns-of-complacency"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaigns-in-midwest-biden-warns-of-complacency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaigns-in-midwest-biden-warns-of-complacency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b2d6d4d-94f9-4d51-bdf2-850937b1cd15/2756603e-4cc8-4c6b-ba77-9cf8041dc9ba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump calls Biden 'corrupt,' campaign responds"
+    excerpt: ""
+    publishedDateTime: 2020-10-19T04:28:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YGQyLLbbD7c/live-updates-trump-calls-biden-corrupt-campaign-responds"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-calls-biden-corrupt-campaign-responds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-calls-biden-corrupt-campaign-responds.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7a9d273-a728-4c7c-a878-0eea2a2d61b9/2e149a47-e5fd-4e99-97d2-03818d03c97d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Top pro-Trump super PAC takes aim at Biden in new $10M ad blitz"
     excerpt: "EXCLUSIVE: A leading super PAC backing President Trump's re-election is amping up a new ad blitz with a $10 million infusion on Monday to run the TV commercial in seven crucial general election battleground states."
@@ -618,6 +682,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump and Biden in Dueling Town Halls -- Live Analysis"
+    excerpt: "President Trump and Joe Biden were set to hold separate town halls Thursday."
+    publishedDateTime: 2020-10-15T23:33:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-town-halls-live-coverage-thursday"
+    ampWebUrl: "https://www.wsj.com/amp/livecoverage/trump-biden-town-halls-live-coverage-thursday"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/livecoverage/trump-biden-town-halls-live-coverage-thursday"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-245386/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden Fends Off President Trump’s 2016 Playbook"
+    excerpt: "Despite attacks, the Democratic nominee has a higher favorability rating than either the president or Hillary Clinton had in 2016."
+    publishedDateTime: 2020-10-20T13:20:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-246853/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Urges Barr to Initiate Investigation into Joe Biden and Son"
     excerpt: "The president’s request of the attorney general comes as he escalates his campaign to discredit his Democratic opponent two weeks before the election."
     publishedDateTime: 2020-10-20T19:14:00Z
@@ -807,6 +903,22 @@ related:
     quality: 85
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Joe Biden Is Not A Good Person"
+    excerpt: "None of us know Joe Biden, but we know enough about him to see, plain as day, that his “aw shucks, I’m just your average middle-class guy” routine is one of the greatest frauds ever ..."
+    publishedDateTime: 2020-10-18T00:01:00Z
+    webUrl: "https://townhall.com/columnists/derekhunter/2020/10/18/joe-biden-is-not-a-good-person-n2578301"
+    ampWebUrl: "https://townhall.com/columnists/derekhunter/2020/10/18/joe-biden-is-not-a-good-person-n2578301?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/derekhunter/2020/10/18/joe-biden-is-not-a-good-person-n2578301?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/63/033a73f2-0c3d-48e3-9e43-491cf88654a2.jpg"
         width: 650
         height: 340
         isCached: true

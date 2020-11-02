@@ -25,38 +25,6 @@ topics:
   - Donald Trump
 
 related:
-  - title: "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate"
-    excerpt: "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters."
-    publishedDateTime: 2020-10-15T19:00:00Z
-    webUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408"
-    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1652864/donald-trump-10-14.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump To Take Part In NBC Town Hall Thursday, Fauci Says He’s Not Infectious"
-    excerpt: "President Donald Trump will participate in a town hall event on NBC Thursday night on what should have been the evening of the second presidential debate, the network announced Wednesday, with the nation’s top health officials reportedly clearing the president to make the public appearance amid his recovery from Covid-19."
-    publishedDateTime: 2020-10-14T12:39:00Z
-    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/"
-    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 122
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f86ece3cc8558aa5e09dc5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D344%26cropY2%3D3438"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
     excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
     publishedDateTime: 2020-10-21T05:26:00Z
@@ -73,131 +41,37 @@ related:
         width: 911
         height: 455
         isCached: true
-  - title: "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall"
-    excerpt: "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question."
-    publishedDateTime: 2020-10-16T04:42:00Z
-    webUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5f8909c09e9fe40019009ab8?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall"
-    excerpt: "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said."
-    publishedDateTime: 2020-10-16T06:54:00Z
-    webUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The final debate could be Trump's last chance to turn the race around: He's already attacking the moderator"
-    excerpt: "Trump praised Welker in the past, complementing her in January for landing a gig on NBC's \"Today\" show. \"They made a very wise decision,\" Trump said."
-    publishedDateTime: 2020-10-20T00:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/18/trump-attack-third-debate-moderator-kristen-welker-unfair/3704010001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3704010001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3704010001"
+  - title: "Trump promised massive middle-class tax cuts in 2016. He delivered cuts, not as much on the middle class part"
+    excerpt: "The GOP tax bill in 2017 gave households an average $1,600 cut but the richest Americans, especially those making over $300,000, got the most relief."
+    publishedDateTime: 2020-10-27T21:05:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-mostly-delivered-2016-campaign-pledge-cut-taxes/3685282001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3685282001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3685282001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 107
+    quality: 106
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/a2b11f88-7c73-4171-9166-a5534fdcbde3-XXX_Welker_Kristen_2_dcb.JPG?auto=webp&crop=2999,1687,x1,y128&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/58bcbd7626012765178f61ecb84b86080363f1ac/c=0-77-2631-1564/local/-/media/2016/09/15/USATODAY/USATODAY/636095412520377554-AP-Campaign-2016-Trump.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 678
         isCached: true
-  - title: "Alec Baldwin, Mariska Hargitay And More Protest NBC’s Trump Town Hall Air Time"
-    excerpt: "\"Law & Order,\" \"SNL\" and \"This Is Us\" stars called out the network’s decision to air Trump Town Hall at the same time as Joe Biden’s event."
-    publishedDateTime: 2020-10-15T18:13:00Z
-    webUrl: "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746"
-    ampWebUrl: "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/president-donald-trump-threw-talks-on-new-us.jpg"
-        width: 1024
-        height: 664
-        isCached: true
-  - title: "Rick Wilson: ‘Trump reeked of desperation’ in NBC town hall — and proved his campaign is ‘broken’"
-    excerpt: "President Donald Trump’s one-man town hall showed he’s “broke, broken and unmoored” as his re-election campaign hits rock bottom, according to former Republican strategist Rick Wilson. The president backed out of a town hall debate with Joe Biden because the event was supposed to be virtual because of his COVID-19 infection,"
-    publishedDateTime: 2020-10-16T15:37:00Z
-    webUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
+  - title: "‘Where are the surrogates?’ Fox News corners White House aide on GOP lawmakers refusing to campaign for Trump"
+    excerpt: "White House Communications Director Alyssa Farah on Wednesday faced questions from Fox News about why Republican lawmakers have been absent from President Donald Trump’s re-election campaign. “If you look at the polls,"
+    publishedDateTime: 2020-10-14T16:00:00Z
+    webUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 62
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/07/trump-shutterstock.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type”"
-    excerpt: "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role"
-    publishedDateTime: 2020-10-18T05:52:00Z
-    webUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com"
-    ampWebUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 59
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type” WATCH"
-    excerpt: "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role"
-    publishedDateTime: 2020-10-18T05:52:00Z
-    webUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/"
-    ampWebUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
     quality: 56
     images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Trump Mulls Higher US Stimulus Offer As Mnuchin Downplays Deal"
-    excerpt: "Getting a new stimulus spending package approved by Congress is unlikely before the November election, US Treasury Secretary Steven Mnuchin said Thursday, even as his boss President Donald Trump indicated he may raise his offer amid an impasse with the Democrats."
-    publishedDateTime: 2020-10-15T21:11:00Z
-    webUrl: "https://www.ibtimes.com/trump-mulls-higher-us-stimulus-offer-mnuchin-downplays-deal-3062833"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/15/us-treasury-secretary-steven-mnuchin-has-spent-weeks-AFP_8T74F9.jpg"
-        width: 1024
-        height: 673
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Kilmeade-Farah-2-787x430.jpg"
+        width: 787
+        height: 430
         isCached: true
 
 secured: "ZmaagPekFMafMKy6o6ecNO7QCEEK+RVT+qoHgKi4yNDmMCes4S+MY15i/aU/f5w6vFWYeltfFbI7TB9g1WqRBJ1dXh03Yhj9njn7m1wY3Abcaq+OmjEAhKUVVDEOe4mrkXmBRKqpSFjkHhloAYR+iH9gn20Xo3iA9Zo1YsK1t+G6eovBlFWhERtTgiXcONrB3tHeiX4JIxdUAWSgF9rj4mfTwXKAO2fGdVJLggetznq601Q+pmATyBT3sa+UlPtEHFdK0xNV2VPsQIZo+m28spVQ9b4YZapS0NJQ+f4awT1SYX/iY/tLabgGPMB3J/q/4Vt4xIQsI6PGbUPusvTlesEFWJeRK60E8YU4pem0sBwPkqGxkJRmpe78hLIZsEkaHR7SINiICYE9s9onebUDEmXph4+Bz0QYX9F7zslkgU0/PCqJJVDtwj+cwPuXbIOHRfQjROKZohjis4ChVZGke2dTysbe9hdWVdq8RLKgFQWV9rZ2xB4VF5HjGGpdRImsmtKQmVIglylglXlEel6JHg==;WgzyEZHglNQY77DDBwljIw=="

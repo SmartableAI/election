@@ -43,37 +43,21 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Maryland man charged with threatening Biden, Harris in letter on supporter's doorstep"
-    excerpt: "Federal prosecutors on Wednesday charged a Maryland man with threatening Democratic presidential candidate Joe Biden and running mate Kamala Harris in a letter left on the doorstep of a someone with a yard sign supporting their campaign."
-    publishedDateTime: 2020-10-21T17:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762NM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM"
+  - title: "How to watch the vice presidential debate between Kamala Harris and Mike Pence"
+    excerpt: "Vice presidential debate between Vice President Mike Pence and Kamala Harris. Date: Wednesday, October 7, 2020. Location: Universi"
+    publishedDateTime: 2020-10-05T11:05:00Z
+    webUrl: "https://www.cbsnews.com/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 143
+      name: CBS News
+      domain: cbsnews.com
+    quality: 146
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538350209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1MS"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump targets Kamala Harris in sexist rant against the Democratic vice-presidential nominee"
-    excerpt: "\"We're not going to have a socialist president, especially a female socialist president ... we're not gonna' put up with it,\" Trump said."
-    publishedDateTime: 2020-10-24T01:50:00Z
-    webUrl: "https://www.businessinsider.com/trump-targets-kamala-harris-in-sexist-rant-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-targets-kamala-harris-in-sexist-rant-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-targets-kamala-harris-in-sexist-rant-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 140
-    images:
-      - url: "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/04/19def6a2-ce46-4d7c-aef0-ef22b057d114/thumbnail/1200x630/81909c8d04ab0054ef6b66ffc61d14a9/ap-20276586203171.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
   - title: "Kamala Harris visit Friday marks latest sign of Biden’s commitment to Texas"
     excerpt: "Democratic vice presidential candidate Kamala Harris will visit Houston and two other Texas cities to round out the final day of early voting on Friday. The Houston leg of Harris’ trip will be her last of the day,"
@@ -91,6 +75,45 @@ related:
         width: 2048
         height: 1607
         isCached: true
+  - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
+    excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
+    publishedDateTime: 2020-10-03T00:08:00Z
+    webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
+        width: 810
+        height: 285
+        isCached: true
+  - title: "Vice President Pence, Sen. Kamala Harris set to face off in VP debate"
+    excerpt: "CNBC's Andrew Ross Sorkin takes a look at what's ahead for the week, including some news from the Fed and the vice presidential debates."
+    publishedDateTime: 2020-10-05T11:15:00Z
+    webUrl: "https://www.cnbc.com/video/2020/10/05/vice-president-pence-sen-kamala-harris-set-to-face-off-in-vp-debate.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 130
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106729766-16018947981601894796-11764345025-1080pnbcnews.jpg?v=1601894798"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The Latest: Harris insists Biden won't ban fracking"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-10-25T06:33:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
   - title: "How Kamala Harris highlights what women in politics face"
     excerpt: "With Senator Kamala Harris as a historic vice-presidential running mate, it's impossible to avoid the topic of gender this election cycle - but are the rules of the race really different for women? Here's how her nomination highlights the issues women in politics have faced for decades - and how things are changing - with analysis from Debbie Walsh,"
     publishedDateTime: 2020-10-21T13:26:00Z
@@ -249,6 +272,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Pence, Harris prep for debate with higher stakes"
+    excerpt: "NBC NEWS – Vice President Mike Pence and Senator Kamala Harris are expected to face off in a debate on Wednesday night against an extraordinary backdrop that has raised the stakes of the event."
+    publishedDateTime: 2020-10-05T13:43:00Z
+    webUrl: "https://nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/"
+    ampWebUrl: "https://nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/amp/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/amp/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 100
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2020/10/kamala-and-pence.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Harris target of more misinformation than Pence, data shows"
     excerpt: "The report identified more than 1 million mentions since June on Twitter of Kamala Harris with hashtags or terms associated with misinformation about her."
     publishedDateTime: 2020-10-30T14:52:00Z
@@ -313,6 +352,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joshua Harris-Till: Joe Biden is the right choice for the next generation"
+    excerpt: "For the next generation, I believe the only choice for president is Joe Biden. This isn’t about politics; this isn’t about lifelong politicians; this isn’t even about a political party. This election is about common sense."
+    publishedDateTime: 2020-10-25T05:00:00Z
+    webUrl: "https://tulsaworld.com/opinion/columnists/joshua-harris-till-joe-biden-is-the-right-choice-for-the-next-generation/article_398a387e-fb7a-11ea-b506-1381693cc740.html"
+    ampWebUrl: "https://tulsaworld.com/opinion/columnists/joshua-harris-till-joe-biden-is-the-right-choice-for-the-next-generation/article_398a387e-fb7a-11ea-b506-1381693cc740.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/opinion/columnists/joshua-harris-till-joe-biden-is-the-right-choice-for-the-next-generation/article_398a387e-fb7a-11ea-b506-1381693cc740.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 99
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/1/96/196a60d8-b228-5cc9-acb5-92b1e5c4253d/5d3b524cd7bb3.image.jpg?crop=1133%2C702%2C28%2C23&resize=1024%2C634&order=crop%2Cresize"
+        width: 1024
+        height: 634
+        isCached: true
+  - title: "How to Watch Kamala Harris and Mike Pence's First Vice Presidential Debate"
+    excerpt: "As we approach the final weeks of the 2020 presidential campaign cycle, incumbent vice president Mike Pence and Senator Kamala Harris will soon take the stage for their first and only vice presidential debate before the election,"
+    publishedDateTime: 2020-10-05T14:36:00Z
+    webUrl: "https://www.tvguide.com/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
+    ampWebUrl: "https://www.tvguide.com/amp/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
+    cdnAmpWebUrl: "https://www-tvguide-com.cdn.ampproject.org/c/s/www.tvguide.com/amp/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
+    type: article
+    provider:
+      name: TV Guide
+      domain: tvguide.com
+    quality: 98
+    images:
+      - url: "https://tvguide1.cbsistatic.com/i/r/2020/10/03/c84537b1-beee-4623-a0a7-4004673e3f92/thumbnail/1300x867/c5cc7998a0ff8ddeb925ee4019f1fda3/201002-mikepencekamalaharris-news.jpg"
+        width: 1300
+        height: 867
+        isCached: true
   - title: "Democrats of color rally around Kamala Harris amid racial microaggressions, political attacks"
     excerpt: "Kamala Harris' path on the campaign trail has been filled with discrimination, as she is the first Black and Indian Democratic vice presidential nominee, and a woman."
     publishedDateTime: 2020-10-22T19:17:00Z
@@ -326,6 +397,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/kamala-harris-01-gty-jt-200926_1601131851322_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Kamala Harris target of more misinformation on social media than VP Pence, data shows"
+    excerpt: "Long before Democratic presidential nominee Joe Biden announced her as his running mate, Kamala Harris was the target of widespread online misinformation."
+    publishedDateTime: 2020-10-30T01:58:00Z
+    webUrl: "https://www.wesh.com/article/harris-target-of-more-misinformation-on-social-media-than-pence/34525320"
+    ampWebUrl: "https://www.wesh.com/amp/article/harris-target-of-more-misinformation-on-social-media-than-pence/34525320"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/harris-target-of-more-misinformation-on-social-media-than-pence/34525320"
+    type: article
+    provider:
+      name: WESH
+      domain: wesh.com
+    quality: 93
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-ap-1604022761.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*"
+        width: 1200
+        height: 677
         isCached: true
   - title: "California’s Democratic base to Newsom: Pick a filibuster foe to replace Kamala Harris if she wins"
     excerpt: "California progressive and labor leaders have a demand of Gov. Gavin Newsom should Sen. Kamala Harris be elected vice president: Pick a replacement who will help get rid of the Senate filibuster to improve Democrats’ chances of passing bills."
@@ -373,6 +460,54 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris brings Biden campaign to Texas"
+    excerpt: "Democratic vice presidential nominee Kamala Harris kicks off a three-city campaign swing through Texas on Friday, signaling that for"
+    publishedDateTime: 2020-10-30T16:58:00Z
+    webUrl: "https://www.statesman.com/news/20201030/kamala-harris-brings-biden-campaign-to-texas"
+    ampWebUrl: "https://www.statesman.com/news/20201030/kamala-harris-brings-biden-campaign-to-texas?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201030/kamala-harris-brings-biden-campaign-to-texas?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 90
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201030&Category=NEWS&ArtNo=201039965&Ref=AR"
+        width: 3000
+        height: 2359
+        isCached: true
+  - title: "Kamala Harris knocks Trump multiple times for questioning Obama's birthplace"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris knocked President Trump multiple times on Friday for questioning whether former President Barack Obama was born in the United States."
+    publishedDateTime: 2020-10-23T22:53:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/23/kamala-harris-knocks-trump-multiple-times-for-ques/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/23/kamala-harris-knocks-trump-multiple-times-for-ques/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/23/kamala-harris-knocks-trump-multiple-times-for-ques/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 87
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/23/Election_2020_Harris_67523.jpg-ffc7d_c0-75-1792-1120_s1200x700.jpg?8157d32486336fcd9b727fe5d5751534d97aa3fc"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Sen. Kamala Harris will travel to Florida on Halloween to campaign for Biden"
+    excerpt: "Democratic vice presidential nominee Kamala Harris will travel to Florida on Halloween in a last-minute push to earn votes in the crucial battleground state. While a handful of the latest polls show Democratic presidential nominee Joe Biden with a narrow lead over incumbent Republican President Donald Trump,"
+    publishedDateTime: 2020-10-29T16:11:00Z
+    webUrl: "https://www.wtsp.com/article/news/politics/kamala-harris-florida-halloween-campaign/67-1b6b33d6-57bd-4c04-aabc-17f1cdb9b379"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/kamala-harris-florida-halloween-campaign/67-1b6b33d6-57bd-4c04-aabc-17f1cdb9b379"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/kamala-harris-florida-halloween-campaign/67-1b6b33d6-57bd-4c04-aabc-17f1cdb9b379"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 87
+    images:
+      - url: "https://media.wtsp.com/assets/WBNS/images/c1538ad2-e519-4060-9427-02347bc7747f/c1538ad2-e519-4060-9427-02347bc7747f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Kamala Harris in Michigan: Trump administration 'is admitting defeat' on COVID-19"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris said that the Trump administration \"is admitting defeat\" after White House Chief of Staff Mark Meadows said the United States \"is not going to control\" the virus."
     publishedDateTime: 2020-10-25T23:35:00Z
@@ -407,19 +542,35 @@ related:
         isCached: true
   - title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
     excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
-    publishedDateTime: 2020-10-28T18:19:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3750272001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3750272001"
+    publishedDateTime: 2020-10-29T00:27:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3750272001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3750272001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
     quality: 85
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mel Brooks Praised For First Ever Political Video Endorsing Joe Biden, Kamala Harris"
+    excerpt: "Brooks’ name began to trend on Twitter as fans praised the star for making his first-ever political video. In the clip, Brooks reveals that he is voting for Democratic presidential nominee Joe Biden in the upcoming election."
+    publishedDateTime: 2020-10-21T19:26:00Z
+    webUrl: "https://www.ibtimes.com/mel-brooks-praised-first-ever-political-video-endorsing-joe-biden-kamala-harris-3066228"
+    ampWebUrl: "https://www.ibtimes.com/mel-brooks-praised-first-ever-political-video-endorsing-joe-biden-kamala-harris-3066228?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/mel-brooks-praised-first-ever-political-video-endorsing-joe-biden-kamala-harris-3066228?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 83
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/people-stand-in-line-on-the-first-day-AFP_8RX84X-7.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say | Charlotte Observer"
     excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
@@ -452,6 +603,34 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/be09d52d-94af-4df5-a2c3-f74c5433144e-USATSI_15031289.jpg?auto=webp&crop=1999,1124,x0,y33&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "These Kamala Harris Quotes About Mike Pence Don't Hold Back"
+    excerpt: "As soon as Sen. Kamala Harris (D-California) was announced as former Vice President Joe Biden’s running mate for the 2020 presidential election, it was quickly followed by discussion of the vice presidential debate."
+    publishedDateTime: 2020-10-05T18:54:00Z
+    webUrl: "https://www.elitedaily.com/p/these-kamala-harris-quotes-about-mike-pence-dont-hold-back-33860669"
+    type: article
+    provider:
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 80
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2020/10/5/fd8319bd-a69f-41e5-bdb9-379d19c5fe4b-untitled-design-2020-10-05t114458422.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Seattle Storm endorse Joe Biden-Kamala Harris ticket in 2020 presidential election"
+    excerpt: "In a rare move for a U.S. professional sports team, the Seattle Storm on Wednesday endorsed the Democratic ticket of former Vice President Joe Biden and U.S. Senator Kamala Harris for the 2020 presidential election."
+    publishedDateTime: 2020-10-22T20:47:00Z
+    webUrl: "https://www.chron.com/sports/storm/article/seattle-storm-endorse-joe-biden-kamala-harris-15668155.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 79
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/67/21/20149336/3/rawImage.jpg"
+        width: 2048
+        height: 1395
         isCached: true
   - title: "VP Mike Pence in Fort Wayne, Sen. Kamala Harris in virtual event Thursday"
     excerpt: "Pence on Thursday night arrived at Indianapolis International Airport in preparation for voting Friday morning at the City-County Building in Indianapolis."
@@ -594,6 +773,54 @@ related:
       - url: "https://cdnph.upi.com/ph/st/th/4321603644464/2020/upi/3ad59f43d1778808fde5591a836b2b2a/v1.5/Watch-Live-Kamala-Harris-to-campaign-in-Michigan-Sunday.jpg?lg=5"
         width: 800
         height: 534
+        isCached: true
+  - title: "Kamala Harris to visit Arizona on Wednesday, Oct. 28"
+    excerpt: "PHOENIX — Vice-presidential candidate Kamala Harris is expected to make a visit to Arizona just days before Election Day. The news was announced on Monday in a press release stating Harris will be stopping in Tucson and Phoenix on Wednesday,"
+    publishedDateTime: 2020-10-28T03:13:00Z
+    webUrl: "https://www.abc15.com/news/election-2020/kamala-harris-to-visit-arizona-on-wednesday-oct-28"
+    ampWebUrl: "https://www.abc15.com/news/election-2020/kamala-harris-to-visit-arizona-on-wednesday-oct-28?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/election-2020/kamala-harris-to-visit-arizona-on-wednesday-oct-28?_amp=true"
+    type: article
+    provider:
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 75
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/d90/5c3d34b8b29a45469a86c02775b7a2cf/d90a44c9ad6549ec832da9fa766bc177/poster_38e30fc0b22e49d5b755b86336e9d57f.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Doug Emhoff Reveals How He and Kamala Harris Stay in Fighting Shape"
+    excerpt: "LIKE THE REST of us, the future maybe first second gentleman of the United States is counting the days until November 3rd, when the fate of the country will be decided and Kamala Harris’s husband, Doug Emhoff, can either return to his home gym in ..."
+    publishedDateTime: 2020-10-29T15:13:00Z
+    webUrl: "https://www.menshealth.com/fitness/a34485835/doug-emhoff-fitness-diet-interview/"
+    ampWebUrl: "https://www.menshealth.com/fitness/amp34485835/doug-emhoff-fitness-diet-interview/"
+    cdnAmpWebUrl: "https://www-menshealth-com.cdn.ampproject.org/c/s/www.menshealth.com/fitness/amp34485835/doug-emhoff-fitness-diet-interview/"
+    type: article
+    provider:
+      name: Men's Health
+      domain: menshealth.com
+    quality: 75
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mh-10-29-emhoff-1603910726.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Kamala Harris will campaign in Houston, Fort Worth, McAllen Friday"
+    excerpt: "The campaign’s increased attention on Texas comes as polls continue to show a close race in the traditionally red state."
+    publishedDateTime: 2020-10-28T21:42:00Z
+    webUrl: "https://www.khou.com/article/news/politics/national-politics/kamala-harris-texas-houston-fort-forth-rio-grande-valley/285-c73637c8-eb12-4719-bf5e-0e13c79d7d51"
+    ampWebUrl: "https://www.khou.com/amp/article/news/politics/national-politics/kamala-harris-texas-houston-fort-forth-rio-grande-valley/285-c73637c8-eb12-4719-bf5e-0e13c79d7d51"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/national-politics/kamala-harris-texas-houston-fort-forth-rio-grande-valley/285-c73637c8-eb12-4719-bf5e-0e13c79d7d51"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
+    images:
+      - url: "https://media.khou.com/assets/WOI/images/d1c3a6be-1210-459d-b261-22521a01b9b1/d1c3a6be-1210-459d-b261-22521a01b9b1_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Kamala Harris Campaigns In South Florida Saturday"
     excerpt: "As Election Day approaches, the Democratic VP candidate will speak to voters in Palm Beach, Broward and Miami-Dade counties."
@@ -787,6 +1014,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "If Joe Biden wins, history’s light will shine brightest on Kamala Harris"
+    excerpt: "With a straight face, O’Donnell, the “CBS Evening News” anchor, asked Harris whether she would bring a “socialist or progressive perspective” to the White House if Joe Biden is elected president. For months,"
+    publishedDateTime: 2020-10-27T19:01:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/27/opinion/if-joe-biden-wins-historys-light-will-shine-brightest-kamala-harris/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/27/opinion/if-joe-biden-wins-historys-light-will-shine-brightest-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/27/opinion/if-joe-biden-wins-historys-light-will-shine-brightest-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 69
   - title: "Gavin Newsom jokes about picking Kamala Harris’ successor as he votes in Sacramento"
     excerpt: "Gavin Newsom says Sacramento Kings player Harrison Barnes is just about the only person he’s talked with recently who hasn’t tried to influence his pick to replace Kamala Harris in the Senate if she’s elected vice president."
     publishedDateTime: 2020-10-29T22:55:00Z
@@ -830,6 +1068,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Ayesha Curry and Kamala Harris Stress the Importance of Voting: \"Everything's at Stake\""
+    excerpt: "With just a few days until Election Day, Ayesha Curry and Kamala Harris are stressing the importance of voting. On Oct. 28, the Full Plate author had a virtual"
+    publishedDateTime: 2020-10-29T18:22:00Z
+    webUrl: "https://www.popsugar.com/celebrity/ayesha-curry-kamala-harris-talk-about-voting-video-47927212"
+    ampWebUrl: "https://www.popsugar.com/celebrity/ayesha-curry-kamala-harris-talk-about-voting-video-47927212/amp"
+    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/celebrity/ayesha-curry-kamala-harris-talk-about-voting-video-47927212/amp"
+    type: article
+    provider:
+      name: PopSugar
+      domain: popsugar.com
+    quality: 67
+    images:
+      - url: "https://media1.popsugar-assets.com/files/thumbor/REFx-CUgJrFrnCRSww0rHppkA7w/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2020/10/29/735/n/1922398/0e95199d5f9af012a2d3a0.84227808_.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What Happens To Kamala Harris' Senate Seat After The Election? There's A Process"
     excerpt: "Ever since Democratic presidential nominee Joe Biden named Sen. Kamala Harris (D-California) as his running mate, Harris has been taking on both her congressional responsibilities and campaigning duties."
     publishedDateTime: 2020-10-20T13:37:00Z
@@ -843,6 +1097,22 @@ related:
       - url: "https://imgix.bustle.com/uploads/getty/2020/10/19/4c46921e-b617-4491-ab6f-e18129ad003b-getty-1228948863.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris Says Political Figures Mispronouncing Her Name Are \"Predictable and Childish\""
+    excerpt: "Kamala Harris joined Trevor Noah on The Daily Social Distancing Show Thursday night where she addressed those who mispronounce her name. \"Why does it seem like it becomes harder to pronounce your name the more conservative a person is?"
+    publishedDateTime: 2020-10-30T05:58:00Z
+    webUrl: "https://www.hollywoodreporter.com/live-feed/kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish"
+    ampWebUrl: "https://www.hollywoodreporter.com/amp/live-feed/kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/live-feed/kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 65
+    images:
+      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Oct29_DailyShowKamalaHarris-1604031696-1024x577.jpg"
+        width: 1024
+        height: 577
         isCached: true
   - title: "Will Kamala Harris increase turnout among Black voters? Some Democrats see encouraging signs"
     excerpt: "Democratic vice presidential candidate Kamala Harris hosted a drive-in rally at Morehouse College, an historic Black school. On Saturday, she visited Cleveland, where she gave a rousing shout-out to Rep."
@@ -986,6 +1256,17 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 47
+  - title: "Democratic Vice President Candidate, US Senator Kamala Harris To Campaign In South Florida"
+    excerpt: "Vice presidential candidate, US Senator Kamala Harris will campaign Saturday in Miami-Dade, Broward, and Palm Beach counties as Democrats try to boost early voting turnout in party strongholds."
+    publishedDateTime: 2020-10-29T17:17:00Z
+    webUrl: "https://miami.cbslocal.com/2020/10/29/democratic-vice-president-candidate-us-senator-kamala-harris-to-campaign-in-south-florida/"
+    ampWebUrl: "https://miami.cbslocal.com/2020/10/29/democratic-vice-president-candidate-us-senator-kamala-harris-to-campaign-in-south-florida/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2020/10/29/democratic-vice-president-candidate-us-senator-kamala-harris-to-campaign-in-south-florida/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 45
   - title: "Sens. Kamala Harris (D-CA) & Bernie Sanders (I-VT) Speak At Virtual Rally for Joe Biden"
     excerpt: "Kamala Harris (D-CA) speaks a virutal rally in support of her running mate Joe Biden’s presidential campaign, hosted by Sen. Bernie Sanders (I-VT). Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
     publishedDateTime: 2020-10-28T20:23:00Z

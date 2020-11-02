@@ -27,67 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
-    excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
-    publishedDateTime: 2020-09-19T01:12:00Z
-    webUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
+  - title: "Kamala Harris, Bernie Sanders Urge Stimulus Bill Focus Over Amy Coney Barrett Hearings"
+    excerpt: "The senators suggested that a further relief package should be the focus of the Senate, as opposed to the SCOTUS nomination."
+    publishedDateTime: 2020-10-12T13:43:00Z
+    webUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296"
+    ampWebUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
+      - url: "https://d.newsweek.com/en/full/1649537/sanders-harris.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump heads to Iowa, Amy Coney Barrett confirmation hearings, Billboard Music Awards: 5 things to know Wednesday"
+    excerpt: "President Trump heads to Iowa, Amy Coney Barrett confirmation hearings resume for a third day and more things to start your Wednesday morning."
+    publishedDateTime: 2020-10-14T09:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/14/trump-iowa-amy-coney-barrett-billboard-music-awards/5937767002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5937767002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937767002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6c2a0c79-e2fc-4c78-a068-a33ceb6bff94-AP_Election_2020_Trump.jpg?auto=webp&crop=3341,1879,x1290,y427&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Trump mulling Appeals Court judges Barbara Lagoa, Amy Coney Barrett for Supreme Court - source"
-    excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy opened up by the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
-    publishedDateTime: 2020-09-19T16:48:00Z
-    webUrl: "https://www.reuters.com/article/usa-courts-ginsburg-candidates/trump-mulling-appeals-court-judges-barbara-lagoa-amy-coney-barrett-for-supreme-court-source-idUSKCN26A0S8"
+  - title: "Senator Kamala Harris: Republicans trying to \"jam through\" Amy Coney Barrett nomination"
+    excerpt: "At confirmation hearings for Supreme Court nominee Amy Coney Barrett, Senator Kamala Harris accused her Republican colleagues of attempting to \"jam through\" approval before Election Day, and warned that the Affordable Care Act and numerous rights Americans rely on are at risk."
+    publishedDateTime: 2020-10-12T17:40:00Z
+    webUrl: "https://www.cbsnews.com/video/senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 93
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20200919&t=2&i=1534134972&r=LYNXNPEG8I0NV&w=800"
-        width: 800
-        height: 532
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/2d5e0841-796e-493e-9f04-f3bf44d13c2c/thumbnail/1200x630/819834dc9a7096ad7a6913e7d8141769/cbsn-fusion-senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination-thumbnail-564550-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate"
-    excerpt: "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri."
-    publishedDateTime: 2020-09-13T20:13:00Z
-    webUrl: "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp"
+  - title: "Kamala Harris accuses Amy Coney Barrett of planning to ‘undo RBG’s legacy’ and to do the GOP’s ‘dirty work’"
+    excerpt: "Kamala Harris, the Democratic vice presidential nominee, says Republicans are trying to get the Supreme Court to do their “dirty work” by installing a new justice who will overturn the Affordable Care Act."
+    publishedDateTime: 2020-10-12T22:17:00Z
+    webUrl: "https://www.latimes.com/politics/00000175-1ed1-de05-a9f7-7ffb61bc0000-123"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 87
     images:
-      - url: "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Trump boasts Amy Coney Barrett was ‘toying’ with ‘evil’ Democrats"
-    excerpt: "President Donald Trump is bragging that his nominee for the U.S. Supreme Court, the supposedly non-partisan and non-political branch of government, was “toying” with the Democratic U.S. Senators on the Judiciary Committee this week."
-    publishedDateTime: 2020-10-15T23:20:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/barrett.jpg"
-        width: 800
-        height: 430
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e36e9f8/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F32%2F51%2F615392c94bf7861703acda7c66b2%2Fharris-comfirmation-amy-coney-barrett-la-thmb.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "CTaHEYmwLb1KuK9mqg8vlmr3QKT9Gh+rEz2et7C+xfzmWOZCJOF1NjbVNHfWNuNCZegEcsEYrJGdwa6ktK4ECyrXHXUQJVzFKFmo//q+9/ivyaDEeluYM4gwiHWF+yYWs7HU/0SWu0Ai48a748uzTNN5CdtQ7+dDGMd08DrfJ8LJMAvzSYgK2FTnFfgGP3rU+iU3PYwalIhQ6hpGR3zfyq/bmzWLAgMb6F/20tN4EussBjPylJ8RDG/0WP6skrEyi3t9nIVlJ+mMK58Tly0mz15jTrOgjUhQgM2OQNOj9lotwL+J35LsC4ayY++9UUyAMN0w3eo1Kfql9puDlgB/uAeAvpFQglg9OdTzMUHv86I=;JvVbljVdqR5lM68yM9+Hsg=="

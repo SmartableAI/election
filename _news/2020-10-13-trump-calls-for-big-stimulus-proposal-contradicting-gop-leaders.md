@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Exxon Mobil, after Trump's fundraising remarks, says its CEO and Trump had no phone call"
-    excerpt: "Exxon Mobil Corp said there had been no phone call between its chief executive, Darren Woods, and President Donald Trump after the president invoked the company's name at a rally in Arizona on Monday when he said he could raise more money than his Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-20T02:40:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-exxon-mobil/exxon-mobil-after-trumps-fundraising-remarks-says-its-ceo-and-trump-had-no-phone-call-idUSKBN2750CN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2750CN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2750CN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538108580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J06F"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump trashed by ex-GOP chair in op-ed calling for him to be driven from office"
     excerpt: "In a scorching op-ed for USA TODAY, former New Hampshire Republican Party Chairwoman Jennifer Horn excoriated her party for its loyalty to President Donald Trump — and urged her colleagues to be rid of him."
     publishedDateTime: 2020-10-17T17:40:00Z

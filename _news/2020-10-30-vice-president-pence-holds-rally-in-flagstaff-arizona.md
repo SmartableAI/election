@@ -19,81 +19,70 @@ topics:
   - Mike Pence
 
 related:
-  - title: "Hundreds attend rally to see Vice President Mike Pence in Greenville"
-    excerpt: "The vice president had landed in Greenville, an Upstate South Carolina city that is, in most regards, strongly considered to be Trump country. “I don’t want to lose this country to Joe Biden,\" said Dean Cox,"
-    publishedDateTime: 2020-10-28T15:51:00Z
-    webUrl: "https://www.wyff4.com/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    ampWebUrl: "https://www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
+  - title: "WATCH: Trump speaks at campaign rally in Goodyear, Arizona"
+    excerpt: "Trump paused his campaign speech in Bullhead City, Arizona to admire what he identified as a fighter jet flying by."
+    publishedDateTime: 2020-10-28T23:17:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
     type: article
     provider:
-      name: WYFF4
-      domain: wyff4.com
-    quality: 75
+      name: PBS
+      domain: pbs.org
+    quality: 125
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/img-5460-1603849421.jpg?crop=1.00xw:0.752xh;0,0.111xh&resize=1200:*"
-        width: 1200
-        height: 677
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Vice President Mike Pence welcomed by crowd of 500 in Flint"
-    excerpt: "Tonight as the sun went down, Air Force Two touched down at Flint Bishop Airport. Pence hustled up to the podium, highlighting the importance of Michigan in this election."
-    publishedDateTime: 2020-10-29T04:28:00Z
-    webUrl: "https://www.fox2detroit.com/video/865403"
-    ampWebUrl: "https://www.fox2detroit.com/video/865403.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/video/865403.amp"
+  - title: "Trump's disrespect of Sen. Martha McSally was painful to watch"
+    excerpt: "President Donald Trump treated Sen. Martha McSally like a second-class citizen during his Goodyear rally. That's the thanks she gets, for her loyalty."
+    publishedDateTime: 2020-10-29T23:12:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/28/trumps-disrespect-sen-martha-mcsally-painful-watch/6064387002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6064387002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6064387002"
     type: article
     provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 55
-  - title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
-    excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally. HIBBING, Minn. – A brisk wind blew across the runway and light snow greeted Vice President Mike Pence as he made his closing arguments to Iron ..."
-    publishedDateTime: 2020-10-26T21:20:00Z
-    webUrl: "https://www.startribune.com/pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 52
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://stmedia.stimg.co/pence+kormann+012.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PPHX/29606f50-ae19-4a72-a361-eb0642dbbb5e-DW1_8023.JPG?auto=webp&crop=3045,1713,x0,y304&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
+    excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
+    publishedDateTime: 2020-10-21T17:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5996029002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "WATCH: Thousands of Trump Fans Stranded in Freezing Cold Hours After Nebraska Rally, 7 Reportedly Hospitalized"
+    excerpt: "Thousands of supporters were stranded in the freezing cold following President Donald Trump's rally in Nebraska due to a shortage of buses, including at least seven who were reportedly hospitaliz"
+    publishedDateTime: 2020-10-28T11:12:00Z
+    webUrl: "https://www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 55
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Trump-Omaha-stranded.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Watch Now: 'I need you to be sure to vote,' Vice President Mike Pence tells 200 supporters at Greensboro rally on Tuesday"
-    excerpt: "A crowd of about 200 people chanted for “four more years” of President Donald Trump on Tuesday afternoon during a campaign rally featuring Vice President Mike Pence."
-    publishedDateTime: 2020-10-28T08:19:00Z
-    webUrl: "https://greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.html"
-    ampWebUrl: "https://greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.amp.html"
-    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.amp.html"
-    type: article
-    provider:
-      name: News & Record
-      domain: greensboro.com
-    quality: 50
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/3/2b/32bbaa04-189a-11eb-96fc-97e1fd38bd2a/5f9886a6215fe.image.jpg?resize=1024%2C713"
-        width: 1024
-        height: 713
-        isCached: true
-  - title: "Vice President Pence Holds Rally in Swanton, Ohio"
-    excerpt: "President Pence delivers remarks at a campaign rally in Swanton, Ohio. Vice President Pence delivers remarks at a campaign rally in Swanton, Ohio. Vice President Pence delivered remarks at a campaign rally in support of his and President Trump’s reelection on"
-    publishedDateTime: 2020-10-24T11:47:00Z
-    webUrl: "https://www.c-span.org/video/?477288-1/vice-president-pence-holds-rally-swanton-ohio"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Holds Rally in Flagstaff, AZ"
-    excerpt: "President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3.5 points."
-    publishedDateTime: 2020-10-30T07:24:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-az"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "KLzlL/Z7GgkNbax/a+8btILqPjW7it53CyhdYweNO9vpyuG/r3JES9Iq2fIrT0t0cvh3WJ3hfa1fPqrxu2vGnFHS4WMeLVSxHODJnkqGtoopU9Oav6CANpNQpr4fqLzPkI1CEQB9DLab34yhuFMhPHV5AuWvMQZ+eGqD4VZeVVOTdVSwA6q1gWthzI4RngyzemrAKoFKmC7Gtp1nQm43e5ve8nAWY44bbJftd11AAh48ocf1SkRjZLR8eyulw3jyjGy5+dXMYg1jq13I3m68QtlCfMsmJAp5KHr/flhohEWWgPeQKyBUxXXVDYTkS5oRLlMRNmuAB4R/mMFqYGIZP3xP+NWvL8+njqVypBu5FQ8eS04kVyj1o/zKLXN6N/WLg/31bZnI47YuEiiBBMfHsQ05fgK65dSa+OlCPPYrChFMPI+UKUM+uBQUCzZVnfaBVrmxCQWWhST7xbgFA6JwuvXYNfAXQ9UuSzLZ04xnii7CGni2WUDLTZ/qf2fXDspZ2DLbqZRAvxXpi94hBTjqVg==;VOjePIPUs0c5pa+1IYsQYw=="
 ---

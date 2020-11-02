@@ -77,22 +77,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Debate: Biden says he'd create 'Bidencare' if Supreme Court strikes down Affordable Care Act"
-    excerpt: "Former Vice President Joe Biden cast aside attacks from President Donald Trump over what health care could look like under a Democratic president."
-    publishedDateTime: 2020-10-23T06:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/presidential-debate-bidencare-replace-aca-if-supreme-court-strikes-down/3737892001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3737892001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3737892001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/083659c1-add0-4dbf-a87f-92cb969eb738-XXX__AN55804.JPG?auto=webp&crop=4660,2621,x0,y55&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Sean Hannity Attacks Joe Biden's Mental Fitness Despite Tucker Carlson Saying Tactic Won't Work"
     excerpt: "This morning, the President took aim at his opponent's mental stability once again in a tweet lambasting Biden for mistakingly saying he was running for senate."
     publishedDateTime: 2020-10-13T11:21:00Z
@@ -108,20 +92,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1580304/sean-hannity.jpg"
         width: 2500
         height: 1662
-        isCached: true
-  - title: "Man Arrested In N.C. Had Plan To Kill Joe Biden, Feds Say"
-    excerpt: "Alexander Hillel Treisman, 19, was indicted on child pornography charges. Federal agents presented evidence suggesting he was obsessed with mass shootings – and drove within 4 miles of Biden's home."
-    publishedDateTime: 2020-10-23T20:03:00Z
-    webUrl: "https://www.npr.org/2020/10/23/927181809/man-arrested-in-n-c-had-plan-to-kill-joe-biden-feds-say"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/23/ap_20282488538797_wide-dbc4104ac85aea3cee58df3cf4fad51eb21d9270.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
   - title: "'Mr. Rogers' versus 'someone's crazy uncle': There wasn't a debate Thursday, but the dueling-town-hall format played to Joe Biden's strengths"
     excerpt: "During the split-screen chaos, Biden's penchant for retail politics kept him in a strong place at a time when President Donald Trump needed momentum."

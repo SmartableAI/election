@@ -31,117 +31,147 @@ images:
     isCached: true
 
 related:
-  - title: "Biden will ‘campaign aggressively’ in final stretch, top aide insists"
-    excerpt: "When it comes to the number of in-person campaign events being held in the White House race, President Trump is lapping Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-23T08:03:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7S3hNtXlns/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
+  - title: "Biden banks on Hollywood support in final days before 2020 election"
+    excerpt: "Hillary Clinton employed a similar strategy in 2016, when she won the popular vote but lost the Electoral College."
+    publishedDateTime: 2020-11-01T22:07:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297057827109.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
-    excerpt: "Rep. Ilhan Omar, D-Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
-    publishedDateTime: 2020-10-27T17:12:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gr2E32btmE8/ilhan-omar-progressives-biden-left"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Progressives eye top economic posts in potential Biden cabinet"
-    excerpt: "The former vice president is believed to be considering a diverse group of individuals for different posts."
-    publishedDateTime: 2020-10-30T01:40:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R2oOYtX7l48/biden-cabinet-picks-election"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2bf9be-186f-4158-b058-11bf6fe4b802/71d1c024-26eb-4378-a235-3f19a38abe51/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c13facdb-af1b-4373-8d46-17432f01bec0/6c6c594d-6400-49b2-9d62-794f24392062/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McEnany: Joe Biden’s comments on oil, fracking will be ‘death knell’ of his campaign"
-    excerpt: "Democratic presidential hopeful Joe Biden \"lost\" Pennsylvania in the election after his comments on banning the oil and fracking industry, White House press secretary Kayleigh McEnany said on Tuesday."
-    publishedDateTime: 2020-10-27T18:16:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RIuiVjo3EW8/mcenany-biden-oil-fracking-comments-campaign"
-    ampWebUrl: "https://www.foxnews.com/politics/mcenany-biden-oil-fracking-comments-campaign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-biden-oil-fracking-comments-campaign.amp"
+  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
+    excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."
+    publishedDateTime: 2020-10-25T16:15:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6NWqlGnUVw/joe-hunter-biden-china-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Warren eyes Treasury Secretary job in potential Biden White House: report"
+    excerpt: "Warren reportedly plans to make her case for the position depending on the outcome of next week’s election."
+    publishedDateTime: 2020-10-30T01:12:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_KiQb7VYLI/warren-treasury-secretary-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d92e365-3fbb-48cc-b1f3-2d5c1088ddef/b749bc16-2f42-48c2-ab47-1c09becd69f0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "New Hampshire newspaper backs Biden, first Democrat for president in 100 years"
+    excerpt: "One of the nation's most prominent conservative-leaning newspapers endorsed Joe Biden for president on Sunday, marking the first time the publication has endorsed a Democratic presidential candidate in over 100 years."
+    publishedDateTime: 2020-10-25T19:37:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/90vbbqrnN5g/biden-endorsement-conservative-new-hampshire-union-leader-newspaper"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pelosi: 'I feel very confident that Joe Biden will be elected president on Tuesday'"
+    excerpt: "House Speaker Nancy Pelosi projected Thursday that Joe Biden would win the White House and said Democrats are ready to work with him on a transition agenda to tackle the coronavirus pandemic, address the economic fallout and pass an infrastructure agenda. "
+    publishedDateTime: 2020-10-29T17:21:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EfkCiwKZMR4/pelosi-confident-biden-win-democratic-transition-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/08731db9-Nancy-Pelosi.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden says Catholic faith guides policies but gets hit on abortion, religious freedom"
+    excerpt: "Joe Biden is touting his Catholic faith as groups are hitting him on issues held near and dear to the faithful and opposed by the church, including religious freedom for nuns and abortion."
+    publishedDateTime: 2020-10-30T19:17:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sMIa_lBS0vI/biden-catholic-vote-2020-election-religious-liberty"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden campaign dodges questions about Bobulinski meeting claims, dismisses ‘smear campaign’"
-    excerpt: "The Biden campaign on Thursday again refused to address new allegations about Democratic presidential nominee Joe Biden’s alleged role in his son’s business dealings, dismissing the claims as a “smear campaign.”"
-    publishedDateTime: 2020-10-29T22:07:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gvUZ0Z8dRBo/biden-questions-bobulinski-meeting"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-questions-bobulinski-meeting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-bobulinski-meeting.amp"
+  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc.': Sen. Johnson"
+    excerpt: "Coming up, White House Chief of Staff Mark Meadows on a blockbuster admission at the final presidential debate, Joe Biden on transitioning the oil and gas industry. JOE BIDEN (D), PRESIDENTIAL CANDIDATE:  By the way,"
+    publishedDateTime: 2020-10-29T19:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson"
+    ampWebUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 133
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c7dba56-45b1-4fee-9376-8cceaabcc38e/42bb6143-3aa8-475a-96b8-002346f36c9e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77982519-0b80-4d5e-88e5-ef13e983e2a2/77bf9357-3466-4f1c-9e36-660714f9e3bf/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
-    excerpt: "Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
-    publishedDateTime: 2020-10-27T17:15:00Z
-    webUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+  - title: "Michigan Democrat on Biden's Expanded Travel: 'I Want Joe Biden to Win Georgia'"
+    excerpt: "Many Midwestern Democrats have criticized Hillary Clinton for losing sight of their “Blue Wall,” or a collection of states near the Great Lakes that the party has typically carried in presidential elections."
+    publishedDateTime: 2020-10-27T09:47:00Z
+    webUrl: "https://www.wsj.com/livecoverage/election-live-updates-trump-biden/card/hsUB8oa28eKyvdY3Lpg6"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 111
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden rips Hunter Biden email leak as 'smear campaign,' says Russia trying to spread disinformation"
-    excerpt: "Democratic presidential nominee Joe Biden slammed the recent reports of his son Hunter’s overseas business dealings, calling them a “smear campaign” and arguing that the information is part of a Russian disinformation campaign."
-    publishedDateTime: 2020-10-26T02:26:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d83e8ba2-3baf-4881-ba00-146146946f25/fad58832-89f0-405f-9f53-c0961608987b/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-250629?size=1.5"
         width: 1280
-        height: 720
+        height: 853
+        isCached: true
+  - title: "A Biden Family Special Prosecutor in 2021?"
+    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
+    publishedDateTime: 2020-10-27T10:36:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/525278_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "ccaaciHsWomGvP+uYA008uKXsQWfrth6IVw3WjFAUfmWnyAfBcnP/Qi3FqFo785MBjPz/Oxl3lyEl1s8UsPqkclTxHOk+RXs368OhvexinYZcJK3SJxNe5J9xlbmLEri49GCIcQqbKohmpdBEwqUVVu1ncamjNegMrxslbITytqZyIAEeMbRviU9Yf6pq4esdvoL3ZefduiCRnZ9flQ22QOyfMfXJEzhdahJ+V+PjV8dK3kJNeO7qp+UwztuZrQcu6w38jJONPWWUMoUH4cVTgoAfe+7+tWQtMEYQvhU4CJyihGWN/zKB90A12y+mGwuy3mcBTvwfWkHwegLD/NqvGGijpCjjMb0OuL2ZnZyj1k=;Xu/VDbQusKH2T80Z8La2Jw=="

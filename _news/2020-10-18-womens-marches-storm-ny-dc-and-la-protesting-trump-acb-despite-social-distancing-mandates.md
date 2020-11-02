@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Phil Murphy slams Trump over New Jersey fundraiser, says event is under investigation"
-    excerpt: "New Jersey Gov. Phil Murphy slammed President Trump for holding a high-dollar fundraiser in the state less than one day before he tested positive for COVID-19, accusing the president of needlessly exposing attendees to the virus."
-    publishedDateTime: 2020-10-06T17:54:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYO6oOPq4EU/nj-governor-says-trumps-bedminster-fundraiser-under-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/nj-governor-says-trumps-bedminster-fundraiser-under-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-governor-says-trumps-bedminster-fundraiser-under-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bb84f88-e2a0-4bdd-bfd5-635cba70b0c7/2e932280-87d8-4787-bc3c-5dc98bfdc624/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Woman claims Facebook took down her account after posting about her assault at pro-Trump rally in DC"
     excerpt: "A woman who marched at a pro-Trump rally in Washington, D.C., claims Facebook took down her entire account after she posted about being assaulted by Women’s March and Black Lives Matter activists."
     publishedDateTime: 2020-10-19T21:48:55Z

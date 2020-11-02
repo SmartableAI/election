@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246645198.html"
 type: article
 quality: 68
-heat: 108
+heat: 88
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket? | Charlotte Observer"
-    excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."
-    publishedDateTime: 2020-10-15T21:02:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246481970.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 52
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/70f7fa99-4b85-46e4-837e-1a7993be9522/60c69175-10cb-490d-936b-43105ffe89f5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Mike Pence making 2 more campaign stops in North Carolina | Charlotte Observer"
     excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump’s reelection bid."
     publishedDateTime: 2020-10-27T08:17:00Z

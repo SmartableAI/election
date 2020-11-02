@@ -29,112 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday"
-    excerpt: "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday."
-    publishedDateTime: 2020-10-09T17:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
+  - title: "Schumer calls Trump 'a moron' over coronavirus response"
+    excerpt: "Senate Minority Leader Charles Schumer (D-N.Y.) on Thursday said the federal government is failing to react appropriately to surging coronavirus cases around the country because President Trump is “a moron."
+    publishedDateTime: 2020-10-30T00:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show"
+    ampWebUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200"
+      - url: "https://thehill.com/sites/default/files/schumercharles_102620gn5_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
+    excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
+    publishedDateTime: 2020-10-22T14:44:00Z
+    webUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html"
+    ampWebUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 64
+    images:
+      - url: "https://www.nydailynews.com/resizer/n86PgTsxzNsdGCH3r9bUqsW9kQo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7VS5ZK3VDHRSTYX6YFC7QYAD7A.aspx"
         width: 1200
-        height: 675
+        height: 816
         isCached: true
-  - title: "Trump hosts White House event, Delta threatens Louisiana, NBA Finals: 5 things to know this weekend"
-    excerpt: "Trump plans White House event amid coronavirus questions, Delta threatens Louisiana, NBA Finals Game 6 and more things to start your weekend."
-    publishedDateTime: 2020-10-10T08:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592092001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592092001"
+  - title: "Trump Spox Hogan Gidley Says He Doesn’t Want to ‘Quibble Over Semantics’ on WH Claim Trump Ended Coronavirus"
+    excerpt: "Hogan Gidley, press secretary for President Donald Trump's campaign, was grilled about the claim that one of Trump's accomplishments has been \"ending the Covid-19 pandemic,\" and responded by referring to the false claim as a matter of \"semantics."
+    publishedDateTime: 2020-10-28T22:34:00Z
+    webUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/"
+    ampWebUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
+      name: Mediaite
+      domain: mediaite.com
+    quality: 56
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/687fdb68-1f73-456a-8a89-73c4208ff441-12345.jpg?auto=webp&crop=2160,1215,x226,y22&format=pjpg&width=1200"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Alisyn-Camerota-Hogan-Gidley-10-28.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump claims he is now immune to the coronavirus and has 'a protective glow' — but the science is not that simple"
-    excerpt: "The president said on Sunday he now has \"a protective glow\" — a concept which does not appear in medical or scientific research about the coronavirus."
-    publishedDateTime: 2020-10-12T02:11:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f83204cbab422001979aa7c?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
-    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
-    publishedDateTime: 2020-10-06T09:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Eric Trump, Vice President Mike Pence to visit Pa. Friday, Saturday"
-    excerpt: "Eric Trump is hosting several campaign events for his father President Donald Trump in Pennsylvania Friday and Saturday. There is a Catholics for Trump event"
-    publishedDateTime: 2020-10-16T09:18:00Z
-    webUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/"
-    ampWebUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
-    type: article
-    provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 90
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/07/0b4e231f4016435c96a9d4630ea6f691.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 75
-  - title: "Report: Trump Tipped Off Republican Donors Coronavirus Would Crash Economy"
-    excerpt: "Economic aides met privately with the Hoover Institution and told them the economic risks of the virus, allowing them to sell off stocks before most investors"
-    publishedDateTime: 2020-10-15T12:32:00Z
-    webUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625"
-    ampWebUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/trump-received-a-single-dose-of-regenerons-antibody.jpg"
-        width: 1024
-        height: 682
+        height: 624
         isCached: true
 
 secured: "lEDXidRMTMcWXFLav/ZjHaY633S8ZF5MgIZBUeoW8bExeNIIHqwubsvxoaaLqbkdnnP36SipBcMU+RJLEIuqk8Zbv8QrSYb42z5v9sBExPpl/yXSpICphHxz8p8MsYanO0fGvAAGuGrOT/2iqXoPQNCKOoydqCY9ENIITl1VeFk+xV+IagYOebTCqFe+b/WjmlYBx5lh+W6dHoa4il02/pm45FBqEFmsbVAdyv1DRSXQpEtjScmDDi/IOIbMYJZ0owghkTdVq/LWPYhlTgCdfDcy/sLMavQSLsGWDtQTh5yYvu7VZ4awFPum7v4p1McLkT3oNTUbmvobOrQcpq0NeAHpd8nz8Wlex0Eq456rH5w=;sQwLBBuFxZHirsFgJKMDCw=="

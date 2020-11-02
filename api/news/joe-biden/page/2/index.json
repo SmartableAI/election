@@ -2,106 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-22-biden-calls-for-bipartisan-commission-to-propose-ways-to-reform-the-court-system.md",
-      "title": "Biden calls for 'bipartisan commission' to propose ways to 'reform the court system'",
-      "excerpt": "Biden faces pressure to take a position on adding seats to the Supreme Court as Trump’s nominee advances toward a Senate vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_43/3422105/201022-joe-biden-cincinatti-jm-0931_816bd6ee28dec090bc4549dd0d88c9eb.jpg",
-          "width": 2500,
-          "height": 1496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244271",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244271",
-      "publishedDateTime": "2020-10-22T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-tyler-perry-jennifer-lopez-more-stars-endorse-joe-biden-for-president.md",
-      "title": "Tyler Perry, Jennifer Lopez & More Stars Endorse Joe Biden For President",
-      "excerpt": "Joe Biden and Kamala Harris have gained endorsements from plenty of powerful celebrities, like Tyler Perry, Jennifer Lopez and Taylor Swift. Here’s who else is voting for them on November 3.",
-      "sourceUrl": null,
-      "webUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
-      "originalUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pmchollywoodlife.files.wordpress.com/2020/10/joe-biden-celebs-endorse-vote-ftr.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
-      "cdnAmpWebUrl": "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
-      "publishedDateTime": "2020-10-21T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hollywood Life",
-        "domain": "hollywoodlife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-22-biden-endorses-texas-democratic-house-candidate-julie-oliver.md",
       "title": "Biden endorses Texas Democratic House candidate Julie Oliver",
       "excerpt": "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas.",
@@ -110,7 +10,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -162,7 +62,7 @@
       "originalUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -266,7 +166,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/barack-obama-hold-person-event-biden-73729555",
       "featuredContent": null,
       "highlight": null,
-      "heat": 705,
+      "heat": 685,
       "tags": null,
       "images": [
         {
@@ -474,7 +374,7 @@
       "originalUrl": "https://www.cbsnews.com/news/michael-steele-former-rnc-chairman-endorses-joe-biden/?intcid=CNI-00-10aaa3b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -498,101 +398,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-gov-doug-ducey-did-not-mock-joe-biden-he-mocked-doug-ducey.md",
-      "title": "Gov. Doug Ducey did not mock Joe Biden, he mocked Doug Ducey",
-      "excerpt": "How can Arizona Gov. Doug Ducey proclaim his decency while promoting the election of a man who engages in ugly, insolent, disrespectful diatribes?",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/20/gov-doug-ducey-did-not-mock-joe-biden-mocked-himself/5988271002/",
-      "originalUrl": "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/20/gov-doug-ducey-did-not-mock-joe-biden-mocked-himself/5988271002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/55052bf3-daaf-4435-a4a0-1ed3baf804a5-AP20293762278951.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/5988271002",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5988271002",
-      "publishedDateTime": "2020-10-20T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-joe-bidens-love-of-amtrak-tells-us-how-he-would-govern.md",
-      "title": "Joe Biden’s love of Amtrak tells us how he would govern",
-      "excerpt": "After the first presidential debate, Joe Biden did what he has done many times before: boarded a train. “The Build Back Better Express” would lumber for the better part of a day between Cleveland and Johnstown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/",
-      "originalUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVBWLIQDUII6XOJOAKLHN6PL5Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp",
-      "publishedDateTime": "2020-10-20T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -670,59 +475,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-joe-biden-slams-trump-criticism-of-dr-anthony-fauci-the-american-people-are-tired-of-your-lies.md",
-      "title": "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'",
-      "excerpt": "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814",
-      "originalUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1",
-      "publishedDateTime": "2020-10-19T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-20-what-joe-biden-can-learn-from-jacinda-ardern.md",
       "title": "What Joe Biden Can Learn from Jacinda Ardern",
       "excerpt": "The reelection of New Zealand’s prime minister was “one for the history books.” Her formula for success was simple.",
@@ -779,7 +531,7 @@
       "originalUrl": "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -883,7 +635,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -907,6 +659,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-a-wall-street-chief-strategist-says-a-biden-blue-wave-could-spur-a-5-drop-in-the-sp-500-because-of-uncertainty-over-some-democrat-policies.md",
+      "title": "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies",
+      "excerpt": "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10",
+      "originalUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f3fa81089aff80028ab70e7?format=jpeg",
+          "width": 5000,
+          "height": 2499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp",
+      "publishedDateTime": "2020-10-17T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -992,7 +796,7 @@
       "originalUrl": "https://www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1036,54 +840,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-watch-live-joe-biden-delivers-remarks-on-health-care-in-michigan.md",
-      "title": "Watch Live: Joe Biden Delivers Remarks On Health Care In Michigan",
-      "excerpt": "Democratic nominee Joe Biden will make a campaign stop in Southfield, Michigan on Friday afternoon to deliver remarks on expanding access to health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/10/16/watch_live_biden_delivers_remarks_on_health_care_in_michigan.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/16/watch_live_biden_delivers_remarks_on_health_care_in_michigan.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/524025.jpg",
-          "width": 1102,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-16-column-big-tech-slaps-the-new-york-post-to-shield-joe-biden.md",
       "title": "Column: Big Tech slaps The New York Post to shield Joe Biden",
       "excerpt": "We were always told it would come from the right, but now we see that it comes from Big Tech, which has interfered with a news organization’s coverage of a Joe Biden campaign issue. Social media giants Twitter and Facebook on Wednesday limited the sharing on their platforms of a story from The New York Post about questionable business dealings of Joe Biden’s son Hunter in Ukraine.",
@@ -1092,7 +848,7 @@
       "originalUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 745,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1144,7 +900,7 @@
       "originalUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659",
       "featuredContent": null,
       "highlight": null,
-      "heat": 410,
+      "heat": 370,
       "tags": null,
       "images": [
         {
@@ -1297,21 +1053,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-biden-campaign-announces-record-383m-fundraising-haul-in-september.md",
-      "title": "Biden campaign announces record $383M fundraising haul in September",
-      "excerpt": "Democratic presidential nominee Joe Biden's (D) campaign announced late Wednesday that it had raised a massive $383 million during the third quarter of 2020, marking the best period for the campaign so far.",
+      "path": "_news/2020-10-15-allegation-on-biden-prompts-pushback-from-social-media-companies.md",
+      "title": "Allegation on Biden Prompts Pushback From Social Media Companies",
+      "excerpt": "Joe Biden’s campaign rejected assertions made in a published report that were based on unverified material from Trump allies. Facebook and Twitter found the story dubious enough to limit access to it on their platform.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september",
-      "originalUrl": "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september",
+      "webUrl": "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg",
-          "width": 980,
-          "height": 551,
+          "url": "https://static01.nyt.com/images/2020/10/14/us/politics/14biden1/14biden1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1319,16 +1079,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp",
-      "publishedDateTime": "2020-10-15T05:27:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.amp.html",
+      "publishedDateTime": "2020-10-14T19:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1345,7 +1105,65 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-biden-raised-whopping-383m-in-september.md",
+      "title": "Biden raised whopping $383M in September",
+      "excerpt": "It's the latest massive fundraising haul for Biden, who brought in $365 million in August as online donors shower his campaign with cash.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/14/biden-fundraising-haul-429546",
+      "originalUrl": "https://www.politico.com/news/2020/10/14/biden-fundraising-haul-429546",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/56/13/9c8da794491ba762495085d758ab/1014biden2.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -1414,7 +1232,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad",
       "featuredContent": null,
       "highlight": null,
-      "heat": 625,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1466,7 +1284,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-54527265",
       "featuredContent": null,
       "highlight": null,
-      "heat": 580,
+      "heat": 500,
       "tags": null,
       "images": [
         {
@@ -1497,6 +1315,149 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-watch-live-joe-biden-delivers-remarks-on-vision-for-older-americans.md",
+      "title": "Watch live: Joe Biden delivers remarks on vision for older Americans",
+      "excerpt": "Watch live coverage as former Vice President Joe Biden delivers remarks on his vision for older Americans in Pembroke Pines, Fla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-on-vision-for-older-americans-93755973895",
+      "originalUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-on-vision-for-older-americans-93755973895",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/2020-10-12T190715Z_1179308835_RC27HJ9P5VQL_RTRMADP_3_USA-ELECTION-BIDEN.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93755973895",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93755973895",
+      "publishedDateTime": "2020-10-13T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-doug-jones-as-joe-bidens-attorney-general-alabama-senator-name-thrown-into-mix.md",
+      "title": "Doug Jones as Joe Biden’s Attorney General? Alabama Senator name thrown into mix",
+      "excerpt": "If Democrat Joe Biden wins the presidential election on Nov. 3 – however long the vote tally takes – would he consider Alabama Senator Doug Jones as the next U.S. Attorney General? Yes, according to a recent article from Politico.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2020/10/doug-jones-as-joe-bidens-attorney-general-alabama-senator-name-thrown-into-mix.html",
+      "originalUrl": "https://www.al.com/news/2020/10/doug-jones-as-joe-bidens-attorney-general-alabama-senator-name-thrown-into-mix.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FCXH7PGNZJBHRK3X6DAFNREBO4.jpg",
+          "width": 4368,
+          "height": 2912,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2020/10/doug-jones-as-joe-bidens-attorney-general-alabama-senator-name-thrown-into-mix.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/doug-jones-as-joe-bidens-attorney-general-alabama-senator-name-thrown-into-mix.html?outputType=amp",
+      "publishedDateTime": "2020-10-13T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-joe-bidens-support-for-lgbtq-rights-is-no-joke-whatever-saturday-night-live-says.md",
+      "title": "Joe Biden's support for LGBTQ rights is no joke, whatever 'Saturday Night Live' says",
+      "excerpt": "Biden pointed his finger at my heart, said 'trans rights are human rights,' and told me about his plans to ensure no LGBTQ person gets left behind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tennessean.com/story/opinion/2020/10/13/biden-champion-lesbian-gay-bisexual-transgender-americans-column/5969757002/",
+      "originalUrl": "https://www.tennessean.com/story/opinion/2020/10/13/biden-champion-lesbian-gay-bisexual-transgender-americans-column/5969757002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/2e284423-1388-4be5-b900-c2009cc463c8-Clymer_and_Biden.jpg?auto=webp&crop=959,539,x1,y86&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.tennessean.com/amp/5969757002",
+      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5969757002",
+      "publishedDateTime": "2020-10-13T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tennessean",
+        "domain": "tennessean.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1542,6 +1503,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight.md",
+      "title": "Biden: Faith shouldn't be a subject in Barrett confirmation fight",
+      "excerpt": "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
+      "originalUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
+      "publishedDateTime": "2020-10-12T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

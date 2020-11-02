@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93106245716"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93106245716"
 type: article
 quality: 149
-heat: -1
-published: false
+heat: 209
+published: true
 
 provider:
   name: NBC News
@@ -32,83 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Leader of Proud Boys also leads grassroots group Latinos for Trump"
-    excerpt: "The leader of the Proud Boys, a far-right group thrust into the spotlight earlier this week during the presidential debate, is also the leader of the grassroots group Latinos for Trump.\n    \n"
-    publishedDateTime: 2020-10-01T22:26:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hhvzj_wxJYE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926165616-01-proud-boys-portland-0926-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: Donald Trump has a long history of refusing to condemn white supremacist and hate groups"
-    excerpt: "Asked directly during Tuesday night's debate to condemn the Proud Boys hate group, President Donald Trump told them to \"stand back and stand by.\"\n    \n"
-    publishedDateTime: 2020-09-30T15:16:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iJvXAfe-0RI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/white-supremacy-trump-proud-boys-charlottesville-kkk-david-duke/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/white-supremacy-trump-proud-boys-charlottesville-kkk-david-duke/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926165616-01-proud-boys-portland-0926-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Meadows: Decision on Trump's discharge to be made later today"
-    excerpt: "White House physician Sean Conley said in a briefing with reporters after Trump's announcement that the president had \"met or exceeded all standard hospital discharge criteria\" and could be released from Walter Reed National Military Medical Center later in the day for continued treatment at the White House."
-    publishedDateTime: 2020-10-05T23:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-05-trump-covid-n1242088/ncrd1242110"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242088"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242088"
+  - title: "'This was avoidable': Trump has been downplaying the virus from the start"
+    excerpt: "In recent weeks, Trump has put himself and others at risk by holding mass gatherings, some indoors, and shunning mask use while claiming the end of the virus was just around the corner."
+    publishedDateTime: 2020-10-02T17:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241775"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241775"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417640/201005-doctors-walter-reed-ew-420p_b1ad8bbd55e872fa22c64b305dee773b.jpg"
-        width: 2500
-        height: 1676
-        isCached: true
-  - title: "Trump says U.S. economic recovery is faster than any other nation — but China is leaps and bounds ahead"
-    excerpt: "China is seeing double-digit economic growth, Japan's Nikkei index is doing better than the Dow and Korea's unemployment rate is almost back to pre-pandemic levels."
-    publishedDateTime: 2020-10-07T02:27:00Z
-    webUrl: "https://www.nbcnews.com/business/economy/trump-says-u-s-economic-recovery-faster-any-other-nation-n1242361"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242361"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242361"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 119
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_10/3259446/200306-port-workers-facemasks-china-ac-439p_f5177fc439d4d7e9d25940c0b647178f.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416883/201002-donald-trump-melania-trump-ew-202a_2aef1d6bb1b9e1b977edd6d985618f74.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "White House floats a Trump speech as the outbreak spreads"
-    excerpt: "THE TRUMP ADMINISTRATION is considering having President DONALD TRUMP address the nation. He returned from the White House on Monday night after a weekend at Walter Reed. NYT's Maggie Haberman had this as well ALYSSA FARAH-- the White House comms director -- suggested to White House reporters that we will “hear from” TRUMP “at some point today."
-    publishedDateTime: 2020-10-06T17:16:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/06/white-house-floats-a-trump-speech-as-the-outbreak-spreads-490536"
+  - title: "Contact tracers scramble to find people infected by Trump and his entourage"
+    excerpt: "The possibility that the president and his entourage have become traveling superspreaders is a nightmare scenario for officials in the four states he visited in the last week."
+    publishedDateTime: 2020-10-02T23:10:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 133
     images:
-      - url: "https://static.politico.com/fc/db/81b47a084faaac9796b3dad22075/201006-trump-ap-773.jpg"
+      - url: "https://static.politico.com/14/83/e0cf91bd4b3887707e2a394d5fb1/201002-trump-pa-rally-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "'The president is likely toast': Trump's woes raise GOP fears of a blue wave"
+    excerpt: "\"The president has had possibly the worst two-week stretch that a candidate could have going into the final month of an election,\" one Republican strategist said."
+    publishedDateTime: 2020-10-10T04:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/president-likely-toast-trump-s-woes-raise-gop-fears-blue-n1242753"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242753"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242753"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418914/201009-donald-trump-al-1420_d0ed04371569c11d325b6ef020a5f58d.jpg"
+        width: 2500
+        height: 1724
         isCached: true
 
 secured: "G+Z2G4YaZf0zujR2CFIA2C/81YTtLSmbnBOTw+uJRcUUg49dCDB1Rm08fzccM2xYyTdCEyklOabXiPmJ6ikcDjtI2eSi62sCFbdRBTJzsDnECRbeynVQCbJ2TTOj/0Ld6c9iDnap/kNTq8TVwhPEsmfw1pZQ59j6iOzndTDyXJGuvjWCSrUKyCDIkVU6hi/QZt07pR1leEFiBfhZzusjSeswsWBKKzUDERH6e45YsDhr/ZrXStttAShMezbyxnm7ITPFUN4g4P93UieKIssXlM022I8R65ULiwMcGXN6tF874oCNQJ00aXrxOY7GYe3Zvxy7BMU6igcbCyW8VAvmdIS3vii0IiSjTc/Xo1Zcwn422KiYh6VlwGJdIC+nC7cXRHrLY0ce/heSmuD/vp8Wfe5Sp9yomKepBeFXTMPeHh+Tul1LgTlBw2N45CoU168JBKmUHSG0MadXVvR4/VfO32ZLNa33LqncEQ4AFKHN1of1yFUoD3jluKOicns8qq6Mlx3/EuxieaeFZD3XHa2q6A==;85e2GBcez3RXvpVlDadmbQ=="

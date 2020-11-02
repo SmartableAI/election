@@ -2,6 +2,214 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-10-11-kamala-harris-faces-sexism-and-racism-as-online-commenters-label-her-black-hillary-charlotte-observer.md",
+      "title": "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’ | Charlotte Observer",
+      "excerpt": "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246337265.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246337265.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/politics-government/election/article246337265.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246337265.html",
+      "publishedDateTime": "2020-10-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-twitter-reacts-to-jim-carreys-joe-biden-impersonation-on-snl.md",
+      "title": "Twitter Reacts To Jim Carrey's Joe Biden Impersonation On 'SNL'",
+      "excerpt": "Jim Carrey's portrayal of Joe Biden on \"Saturday Night Live\" left some viewers disappointed. Some called for Jason Sudeikis or Woody Harrelson to play the former vice-president once more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
+      "originalUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/19/jim-carrey.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
+      "publishedDateTime": "2020-10-11T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-mike-pences-fly-takes-center-stage-on-saturday-night-live.md",
+      "title": "Mike Pence's fly takes center stage on 'Saturday Night Live'",
+      "excerpt": "The vice president, played by Beck Bennett, assured the nation: \"The president is doing amazing, thanks to his team of terrified doctors.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/pop-culture/tv/mike-pence-s-fly-takes-center-stage-saturday-night-live-n1242839",
+      "originalUrl": "https://www.nbcnews.com/pop-culture/tv/mike-pence-s-fly-takes-center-stage-saturday-night-live-n1242839",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_41/3419131/201010-snl-er-1156pm_44fa640d7c35014b2f0e1dcede030b7a.png",
+          "width": 1917,
+          "height": 1075,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242839",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242839",
+      "publishedDateTime": "2020-10-10T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-trump-has-met-cdc-criteria-to-end-isolation-and-is-cleared-to-return-to-an-active-schedule-by-his-physician.md",
+      "title": "Trump has met CDC criteria to end isolation and is cleared to return to an active schedule by his physician",
+      "excerpt": "President Donald Trump has been cleared to return to an active schedule, according to a new memo from his physician, Dr. Sean Conley, released Saturday night.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
+      "publishedDateTime": "2020-10-10T20:00:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-trump-has-called-his-supporters-disgusting-do-they-care.md",
       "title": "Trump Has Called His Supporters ‘Disgusting.’ Do They Care?",
       "excerpt": "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change.",
@@ -14,7 +222,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -59,25 +267,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-a-moment-to-put-country-above-party-biden-makes-appeal-to-disaffected-republican-and-independent-voters.md",
-      "title": "'A moment to put country above party': Biden makes appeal to disaffected Republican and independent voters",
-      "excerpt": "Joe Biden is making a clear attempt to appeal to disaffected Republicans and independent voters in the final weeks of the election, promising he'd be a president that would work hard not just for those who support him, but also for those who do not.\n    \n",
+      "path": "_news/2020-10-11-joe-bidens-tax-returns-3-things-we-can-learn-about-social-security.md",
+      "title": "Joe Biden's tax returns: 3 things we can learn about Social Security",
+      "excerpt": "Although many retirees pay no tax on the benefits, those whose \"provisional income\" exceeds $25,000 or $32,000 for joint filers are taxed.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NNzZYmKbATo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NNzZYmKbATo/index.html",
+      "webUrl": "https://www.azcentral.com/story/money/2020/10/10/3-things-we-can-learn-about-social-security-from-the-bidens-tax-returns/114243008/",
+      "originalUrl": "https://www.azcentral.com/story/money/2020/10/10/3-things-we-can-learn-about-social-security-from-the-bidens-tax-returns/114243008/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 157,
+      "highlight": null,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201006165347-02-biden-gettysburg-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/09/27/USATODAY/usatsports/joe-biden-whitehousegov.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -85,23 +289,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/10/politics/joe-biden-disaffected-republicans-independents/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/joe-biden-disaffected-republicans-independents/index.html",
-      "publishedDateTime": "2020-10-10T17:17:11-07:00",
+      "ampWebUrl": "https://amp.azcentral.com/amp/114243008",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/114243008",
+      "publishedDateTime": "2020-10-10T17:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -111,7 +306,7 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
+        "Joe Biden"
       ]
     },
     {
@@ -180,7 +375,7 @@
       "originalUrl": "https://www.usatoday.com/story/sports/nba/lakers/2020/10/10/donald-trump-tells-rush-limbaugh-lebron-hater-nasty-spokesman/5955438002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -221,6 +416,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-nebraska-district-could-prove-pivotal-for-biden-in-november.md",
+      "title": "Nebraska district could prove pivotal for Biden in November",
+      "excerpt": "Democratic presidential nominee Joe Biden appears poised to flip Nebraska’s critical 2nd Congressional District in November, giving Democrats hope in a red state that doles out Electoral College votes per congressional district.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november",
+      "originalUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_100920getty_split_nebraska.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp",
+      "publishedDateTime": "2020-10-10T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -338,19 +585,75 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-trump-tells-rush-limbaugh-he-might-not-have-recovered-from-covid-19-without-regeneron-antibody-cocktail.md",
-      "title": "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail",
-      "excerpt": "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization.",
+      "path": "_news/2020-10-10-trump-picks-up-another-nobel-peace-prize-nomination-from-europe-after-diplomatic-victories.md",
+      "title": "Trump picks up another Nobel Peace Prize nomination from Europe after diplomatic victories",
+      "excerpt": "President Trump has picked up another nomination for the Nobel Peace Prize, after a Finnish member of the European Parliament (MEP) has called for the American president to be given the honor.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TBVo42WulqA/trump-nobel-peace-prize-europe-diplomatic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TBVo42WulqA/trump-nobel-peace-prize-europe-diplomatic",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e8e094d-02fb-436e-b8c2-34d55254b703/1d37db9d-91f1-4844-8be6-32ccc9adf7b4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T13:33:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-cindy-mccain-praises-joe-biden-in-a-new-campaign-ad-calling-him-a-president-who-would-put-service-before-self.md",
+      "title": "Cindy McCain praises Joe Biden in a new campaign ad, calling him a president who would 'put service before self'",
+      "excerpt": "\"Joe will always fight for the American people, just like John did,\" Cindy McCain, wife of late Arizona Senator John McCain, said in the ad supporting Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10",
+      "originalUrl": "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f81ebbb642e9400180b52df?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -360,9 +663,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
-      "publishedDateTime": "2020-10-10T14:24:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp",
+      "publishedDateTime": "2020-10-10T12:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -386,7 +689,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Joe Biden"
       ]
     },
     {
@@ -447,55 +750,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back.md",
-      "title": "Nancy Pelosi calls Donald Trump plan ‘one step forward, two steps back’",
-      "excerpt": "Pelosi and Treasury Secretary Steven Mnuchin head into weekend negotiations with the top-line number for relief fast approaching the $2 trillion level that many Senate Republicans say they cannot accept.",
+      "path": "_news/2020-10-10-biden-campaign-launches-first-ad-featuring-cindy-mccain.md",
+      "title": "Biden campaign launches first ad featuring Cindy McCain ",
+      "excerpt": "Joe Biden's presidential campaign is unveiling its first television ad featuring Cindy McCain, the widow of Republican Sen. John McCain of Arizona, as the Democratic nominee seeks to gain ground with independents and disaffected Republicans in the battleground state.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK.html",
-      "originalUrl": "https://www.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yunu3yVxkjg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yunu3yVxkjg/index.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html",
-      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html",
-      "publishedDateTime": "2020-10-10T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
       },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-i-shouldnt-be-here-wisconsin-bar-owner-in-icu-with-covid-19-blames-trump-for-out-of-control-pandemic.md",
-      "title": "'I shouldn't be here': Wisconsin bar owner in ICU with COVID-19 blames Trump for out-of-control pandemic",
-      "excerpt": "The owner of a beloved Oshkosh bar is in the ICU with COVID-19 and blames the president for an out-of-control pandemic that has infected his family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/10/oshkosh-bar-owner-icu-coronavirus-blames-trump-crisis-covid-19-oblio/5952206002/?ref=hvper.com",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/10/oshkosh-bar-owner-icu-coronavirus-blames-trump-crisis-covid-19-oblio/5952206002/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
+      "heat": 395,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/media/Oshkosh/2014/08/11/-030509schlitzbeeroblioanw01.jpg20090306.jpg?auto=webp&crop=3872,2178,x0,y207&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923170004-cindy-mccain-intv-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -503,16 +776,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5952206002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5952206002",
-      "publishedDateTime": "2020-10-10T07:02:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-ad-cindy-mccain/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-ad-cindy-mccain/index.html",
+      "publishedDateTime": "2020-10-10T07:07:49-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -529,7 +802,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Democratic Voice"
       ]
     },
     {
@@ -589,6 +862,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-10-trump-hosts-white-house-event-delta-threatens-louisiana-nba-finals-5-things-to-know-this-weekend.md",
+      "title": "Trump hosts White House event, Delta threatens Louisiana, NBA Finals: 5 things to know this weekend",
+      "excerpt": "Trump plans White House event amid coronavirus questions, Delta threatens Louisiana, NBA Finals Game 6 and more things to start your weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/10/USAT/687fdb68-1f73-456a-8a89-73c4208ff441-12345.jpg?auto=webp&crop=2160,1215,x226,y22&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3592092001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592092001",
+      "publishedDateTime": "2020-10-10T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-candace-owens-blexit-group-pays-for-some-attendees-travel-to-trumps-white-house-event.md",
       "title": "Candace Owens' BLEXIT group pays for some attendees' travel to Trump's White House event",
       "excerpt": "Some guests for Saturday's White House event featuring President Donald Trump had their travel and lodging paid for by Candace Owens' group, BLEXIT.",
@@ -641,25 +966,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-the-president-is-likely-toast-trumps-woes-raise-gop-fears-of-a-blue-wave.md",
-      "title": "'The president is likely toast': Trump's woes raise GOP fears of a blue wave",
-      "excerpt": "\"The president has had possibly the worst two-week stretch that a candidate could have going into the final month of an election,\" one Republican strategist said.",
+      "path": "_news/2020-10-10-coronavirus-updates-trump-can-return-to-public-engagements-on-saturday-doctor-says.md",
+      "title": "Coronavirus updates: Trump can return to 'public engagements' on Saturday, doctor says",
+      "excerpt": "A pandemic of the novel coronavirus has now killed more than 1 million people worldwide. Over 36.4 million people across the globe have been diagnosed with COVID-19, the disease caused by the new respiratory virus,",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/president-likely-toast-trump-s-woes-raise-gop-fears-blue-n1242753",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/president-likely-toast-trump-s-woes-raise-gop-fears-blue-n1242753",
+      "webUrl": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73493745",
+      "originalUrl": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73493745",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
+      "highlight": null,
+      "heat": 297,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_41/3418914/201009-donald-trump-al-1420_d0ed04371569c11d325b6ef020a5f58d.jpg",
-          "width": 2500,
-          "height": 1724,
+          "url": "https://s.abcnews.com/images/US/donald-trump-taxes-01-ap-llr-201007_1602087324181_hpMain_16x9_1600.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -667,16 +988,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242753",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242753",
-      "publishedDateTime": "2020-10-09T21:27:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745",
+      "publishedDateTime": "2020-10-10T00:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -693,8 +1014,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Democratic Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -706,7 +1026,7 @@
       "originalUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -799,6 +1119,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-progressive-democrats-are-united-behind-joe-biden-but-readying-for-an-internal-world-war-iii-if-he-wins-the-election.md",
+      "title": "Progressive Democrats are united behind Joe Biden but readying for an internal 'World War III' if he wins the election",
+      "excerpt": "Trump term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10",
+      "originalUrl": "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7f6da2ea74820019ca6095?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -902,120 +1274,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-joe-bidens-2020-appeal-to-the-white-working-class-can-work-just-ask-my-dad.md",
-      "title": "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad.",
-      "excerpt": "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3417006/201002-think-randy-lewellen-with-daughter-se-1059a_3350f9af48be7d86da91e68a1315f0d2.jpg",
-          "width": 2404,
-          "height": 1533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1241727",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241727",
-      "publishedDateTime": "2020-10-09T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-mike-pence-and-the-gop-mount-a-last-stand-in-arizona.md",
-      "title": "Mike Pence and the GOP Mount a Last Stand in Arizona",
-      "excerpt": "Most voters have made up their minds, so the Trump campaign is rallying the conservative ‘old guard.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "originalUrl": "https://www.wsj.com/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-243001/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "publishedDateTime": "2020-10-09T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-judge-rejects-trump-campaign-request-for-access-to-philadelphia-voter-offices.md",
       "title": "Judge rejects Trump campaign request for access to Philadelphia voter offices",
       "excerpt": "A Philadelphia judge has rejected a lawsuit filed by President Donald Trump's campaign seeking poll watcher access to satellite voter offices in the city. The campaign last week said its poll watchers were denied entry to areas where voters were casting ballots,",
@@ -1065,270 +1323,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-philadelphia-judge-rejects-trumps-poll-watcher-lawsuit.md",
-      "title": "Philadelphia judge rejects Trump's poll-watcher lawsuit ",
-      "excerpt": "A local judge on Friday rejected an effort by the Trump campaign to send poll watchers to voting sites in Philadelphia, ruling that the campaign's attempted poll-watching isn't allowed under state law.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201009003625-voto-anticipado-elecciones-estados-unidos-encuesta-analisis-seg-pkg-michael-roa-00000311-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html",
-      "publishedDateTime": "2020-10-09T11:32:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-chicago-mayor-blames-trump-for-plot-against-michigan-gov-whitmer.md",
-      "title": "Chicago mayor blames Trump for plot against Michigan Gov. Whitmer",
-      "excerpt": "Chicago Mayor Lori Lightfoot is the latest public figure to pile on President Trump for a foiled plot to kidnap Michigan Gov. Gretchen Whitmer.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ceaa499-d5b5-4917-ac44-406654011b1c/b10fb369-d5aa-4334-8275-cc8d437f5d58/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp",
-      "publishedDateTime": "2020-10-09T10:48:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-hurricane-delta-trumps-coronavirus-battle-nobel-peace-prize-lakers-5-things-to-know-friday.md",
-      "title": "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday",
-      "excerpt": "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3592077001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001",
-      "publishedDateTime": "2020-10-09T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.md",
-      "title": "Fans want Jeff Goldblum to play ‘the fly’ on Mike Pence’s head on ‘SNL’",
-      "excerpt": "Senator Kamala Harris and Vice President Mike Pence’s vice presidential debate was broken up into nine segments with topics ranging from the Covid-19 pandemic to climate change to the economy. Though,",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html",
-      "originalUrl": "https://www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6JE352O3GVGF5I3VP5IVMPMVFA.jpg",
-          "width": 4958,
-          "height": 3487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html?outputType=amp",
-      "publishedDateTime": "2020-10-09T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-halloween-store-selling-debate-fly-wig-inspired-by-bug-on-mike-pences-head-at-vp-debate.md",
-      "title": "Halloween store selling 'Debate Fly Wig' inspired by bug on Mike Pence's head at VP debate",
-      "excerpt": "Just in time for Halloween, an online shop is selling a bug-bedecked white wig inspired by the now-viral fly that landed in Vice President Mike Pence’s hair during the vice presidential debate on Wednesday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
-      "originalUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/3-wishes-fly-wig-.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
-      "publishedDateTime": "2020-10-09T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

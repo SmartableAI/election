@@ -96,22 +96,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump coronavirus adviser Atlas fires back against Redfield criticisms, says advice based on 'current science'"
-    excerpt: "EXCLUSIVE: Special Adviser to President Trump Dr. Scott Atlas fired back at criticisms leveled against him and his role on the Coronavirus Task Force on Monday, defending his record and expertise while maintaining that his advice to the president is based on the current science."
-    publishedDateTime: 2020-09-28T19:41:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06cH5nnVpj0/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Spicer: Trump campaign 'will move forward' while president in hospital"
     excerpt: "That was what we all watched together just moments ago, a site that you don't see very often, the President of the United States, leaving the White House and heading to the hospital. He'll check in there for a few days."
     publishedDateTime: 2020-10-07T08:02:00Z

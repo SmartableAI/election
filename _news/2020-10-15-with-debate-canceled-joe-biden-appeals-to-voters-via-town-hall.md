@@ -125,22 +125,6 @@ related:
         width: 980
         height: 552
         isCached: true
-  - title: "USA Today backs Biden with first endorsement"
-    excerpt: "USA Today, the nation’s highest-circulation newspaper, made its first presidential endorsement on Tuesday, announcing its support for Democratic nominee Joe Biden Joe Biden Nearly 300 former national security officials sign Biden endorsement letter Trump narrows Biden's lead in Pennsylvania: poll Florida breaks first-day early voting record with 350K ballots cast MORE."
-    publishedDateTime: 2020-10-20T13:22:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/usatoday_getty_022019.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Biden's first step on taxes may be cracking down on cheats, Democrats say"
     excerpt: "Joe Biden will reverse Republican tax cuts for the wealthy and corporations on \"day one\" if he wins November's election, his Democratic running mate, Senator Kamala Harris, vowed during Wednesday night's vice-presidential debate."
     publishedDateTime: 2020-10-09T13:40:00Z
@@ -172,22 +156,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-plumbers-main_hpMain_20201010-193754_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Nearly 300 former national security officials sign Biden endorsement letter"
-    excerpt: "Nearly 300 more former national security officials have signed onto a letter endorsing Democratic candidate Joe Biden for president."
-    publishedDateTime: 2020-10-20T09:37:00Z
-    webUrl: "https://thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter"
-    ampWebUrl: "https://thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "The Finance 202: Joe Biden's tax plan would barely dent growth, conservative group finds"
     excerpt: "President Trump says Joe Biden’s tax plan would bring about a depression and destroy the country. Independent studies have found no support for that claim. And the latest, an updated examination of the Biden proposal from the right-leaning American Enterprise Institute,"
@@ -262,38 +230,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XQT4UASQ2VBOBMNUIHHH6G56NY.jpg"
         width: 4017
         height: 2678
-        isCached: true
-  - title: "The real Joe Biden is far from the one you endorsed"
-    excerpt: "If Joe Biden wins but is unable to carry out his duties, then it is likely to be the far left progressives who will actually be running things. Is that really what The Plain Dealer is endorsing, asks Jim Johnston of Avon Lake in a letter to the editor."
-    publishedDateTime: 2020-10-19T17:11:00Z
-    webUrl: "https://www.cleveland.com/letters/2020/10/the-real-joe-biden-is-far-from-the-one-you-endorsed.html"
-    ampWebUrl: "https://www.cleveland.com/letters/2020/10/the-real-joe-biden-is-far-from-the-one-you-endorsed.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2020/10/the-real-joe-biden-is-far-from-the-one-you-endorsed.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V6YIY2S4QJDWJLC3VGTNZA3T5Q.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Former Republican National Committee chairman endorses Joe Biden for president"
-    excerpt: "Former Republican National Committee Chairman Michael Steele announced in an ad by the Lincoln Project that he is voting for Democratic presidential nominee Joe Biden on Election Day."
-    publishedDateTime: 2020-10-21T00:43:00Z
-    webUrl: "https://www.kjrh.com/news/election-2020/former-republican-national-committee-chairman-endorses-joe-biden-for-president"
-    ampWebUrl: "https://www.kjrh.com/news/election-2020/former-republican-national-committee-chairman-endorses-joe-biden-for-president?_amp=true"
-    cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/election-2020/former-republican-national-committee-chairman-endorses-joe-biden-for-president?_amp=true"
-    type: article
-    provider:
-      name: KJRH
-      domain: kjrh.com
-    quality: 71
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9530e12/2147483647/strip/true/crop/1000x563+0+81/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F79%2Fd8%2Facd014b74556a695e7f764d3cf97%2Fmichael-steele.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
     excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."

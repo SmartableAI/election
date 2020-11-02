@@ -32,37 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden paid nearly $300,000 in federal income taxes in 2019 "
-    excerpt: "Joe Biden released his 2019 tax returns on Tuesday, which show he and his wife, Jill, paid nearly $300,000 in federal income tax last year and had an adjusted gross income of about $985,000.\n    \n"
-    publishedDateTime: 2020-09-29T19:53:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gt8W3ZRuoO0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/joe-biden-tax-returns/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/joe-biden-tax-returns/index.html"
+  - title: "Michelle Obama releases closing campaign message: Vote for Biden 'like your lives depend on it'"
+    excerpt: "Former first lady Michelle Obama is making her closing message to Americans in a campaign video released less than one month until Election Day, imploring people to vote as she shares why she believes the stakes are so high this year.\n    \n"
+    publishedDateTime: 2020-10-06T13:48:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PcumDGemN28/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002172437-michelle-obama-dnc-august-2020-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Joe Biden campaigns in Miami ahead of NBC News town hall"
-    excerpt: "A new NBC News/Wall Street Journal poll shows Joe Biden opening a 14-point lead on President Trump nationally, with the election less than a month away. Biden told reporters that he’d listen to scientists about the next debate after President Trump’s Covid-19 diagnosis."
-    publishedDateTime: 2020-10-06T00:02:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/joe-biden-campaigns-in-miami-ahead-of-nbc-news-town-hall-93193797761"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93193797761"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93193797761"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_gha_covid_and_the_campaign_201005_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "eJs8INVzdFF5H5w5ndFTKYg2KBgw+8nFsjUVn0SviQbazdEjgPuHRAI99PgPVKIDK+M33uZ9FrCX0kOUZfRLLNMk2Tk/PYZgSqDweKly6nC9teh6p5M3QTUnMif72ovez0uXdweVj+HP2ZY7gSJisHUKLEvOSJUboNX57OOsw5y9wAXRg8HiPsT9LhQHYbnkWYP1WEJkHZvT9fu9YrzmAgsAetNJnauzY8K/LAcllSBHMJherzKdyqJS6tXwrpdGvxxoaS3R7Ax7YhXPagDKsLHSes4Ydzbx5VUJGxRgh9+AhONrZg7LlLHZHHWBnromX5OIhOS79UeOkqiNN3yiRm1Ooy4YtJdeViK7rBM5i8TA02n2OdCHaL1WK0kkiISTpDMdjyYOARfGhKCwAn8avXv+HSXb66ohVBtGr1c8qJqL1iatyc9rCHyPMbk8Q+iRLJ6dwPS8lzYy4Cqhx8vCsg8FFjoQsPEXvd6Ym4SDZTFaKkCcfYOypys5+XBRIr34kNsgS7LJPgtGC/0O6xynSA==;6VfNtWUHIsPCHB1bQGo/Jw=="

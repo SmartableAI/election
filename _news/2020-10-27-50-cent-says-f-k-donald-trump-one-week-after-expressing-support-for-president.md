@@ -80,22 +80,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
-    excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."
-    publishedDateTime: 2020-10-25T20:30:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVk-LuIG9CU/russian-hackers-cant-change-votes-trumps-national-security-adviser-says"
-    ampWebUrl: "https://www.foxnews.com/politics/russian-hackers-cant-change-votes-trumps-national-security-adviser-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russian-hackers-cant-change-votes-trumps-national-security-adviser-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Meadows says Trump tweets to declassify Russia probe docs 'were not' direct orders"
     excerpt: "White House chief of staff Mark Meadows rejected suggestions this week that President Trump’s tweets earlier this month calling for the “total declassification” of all documents related to the Russia investigation and the FBI’s probe into Hillary Clinton’s private email server were an explicit order"
     publishedDateTime: 2020-10-21T14:48:12Z
@@ -224,22 +208,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "What in the World if Trump Wins?"
-    excerpt: "In a second term, expect more chaotic, confident wheeling and dealing overseas."
-    publishedDateTime: 2020-10-26T22:00:00Z
-    webUrl: "https://www.wsj.com/articles/what-in-the-world-if-trump-wins-11603749240"
-    ampWebUrl: "https://www.wsj.com/amp/articles/what-in-the-world-if-trump-wins-11603749240"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-in-the-world-if-trump-wins-11603749240"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-249650/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Charlie Kirk: Enthusiasm for President Trump at record highs"
     excerpt: "President Trump expected to take the stage in the battleground state of Wisconsin tonight for his third and final rally of the day. The President also had rallies in Ohio and North Carolina, which brings me to this: Trump is closing hard."
     publishedDateTime: 2020-10-29T19:10:00Z
@@ -272,22 +240,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The Pollster Who Thinks Trump Will Win"
-    excerpt: "Robert Cahaly foresaw the outcome in 2016. Will ‘social acceptability bias’ deliver another surprise?"
-    publishedDateTime: 2020-10-29T23:27:00Z
-    webUrl: "https://www.wsj.com/articles/the-pollster-who-thinks-trump-will-win-11604011863?mod=opinion_lead_pos5"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-251925/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "Many on Wall Street Who Predicted a Trump Win in 2016 Aren’t So Sure Now"
     excerpt: "In 2016, a small number of well-known investors and executives predicted that Donald Trump would win the presidential election. This year they aren’t quite so bold."
     publishedDateTime: 2020-10-28T13:15:00Z
@@ -301,22 +253,6 @@ related:
     quality: 134
     images:
       - url: "https://images.wsj.net/im-250339/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
-    excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
-    publishedDateTime: 2020-10-27T12:18:00Z
-    webUrl: "https://www.wsj.com/articles/in-trump-country-supporters-are-steadfast-but-his-personality-pandemic-wear-11603800097"
-    ampWebUrl: "https://www.wsj.com/amp/articles/in-trump-country-supporters-are-steadfast-but-his-personality-pandemic-wear-11603800097"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-trump-country-supporters-are-steadfast-but-his-personality-pandemic-wear-11603800097"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 131
-    images:
-      - url: "https://images.wsj.net/im-250155/social"
         width: 1280
         height: 640
         isCached: true

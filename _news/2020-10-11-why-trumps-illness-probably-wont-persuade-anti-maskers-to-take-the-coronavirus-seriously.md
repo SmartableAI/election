@@ -47,38 +47,6 @@ related:
         width: 812
         height: 545
         isCached: true
-  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
-    excerpt: "This ethnic group barely receives attention in American media and politics. The Midwest, home to many German Americans, is a battleground for the 2020 presidential election. Will this inconspicuous group yet again cast the deciding votes in the upcoming election?"
-    publishedDateTime: 2020-10-01T13:10:00Z
-    webUrl: "https://www.chron.com/news/article/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 82
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Anti-Trump Ad Compares US Political Climate To 1930s Germany That Saw Rise Of Hitler, Nazis"
-    excerpt: "The ad was released by the Jewish Democratic Council of America, which describes itself as a progressive Jewish group The ad juxtaposes images of 1930s Germany with Trump campaign rallies A recent report said Trump made anti-Semitic remarks after talking with Jewish lawmakers A progressive Jewish group on Tuesday released a 30-second campaign ad that compares the current climate in the United States to 1930s Germany,"
-    publishedDateTime: 2020-09-29T20:20:00Z
-    webUrl: "https://www.ibtimes.com/anti-trump-ad-compares-us-political-climate-1930s-germany-saw-rise-hitler-nazis-3053915"
-    ampWebUrl: "https://www.ibtimes.com/anti-trump-ad-compares-us-political-climate-1930s-germany-saw-rise-hitler-nazis-3053915?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/anti-trump-ad-compares-us-political-climate-1930s-germany-saw-rise-hitler-nazis-3053915?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/26/donald-trump-supporters-gathered-to-hear-the-president.jpg"
-        width: 1024
-        height: 661
-        isCached: true
 
 secured: "hhE9cNdKrx8fug2bhdBIwHqxIDZVgQvD9rRyZdDTdJgFL0V0qXGAhsW88lGYR4k79D98R6hhIi80BTCyLYqcSPhSGejCIOC/gpIQSAkG9EfZaXdRvywiamQ8NHKpOn1aON678zrLlDO2hUm0L4CemKqAnw1/Bx/qxPG3JEDoaMA+EYj+X+qLJVFvmCO0qC/g9SMDMXghb3d7/TL2V0MszjqVbPKzwBqNOw75Qgfu1BARwMCKJbfpBjPKYX0Y+C6MmnBe9Xn6BUZaBcYSRAZmBMBbrhz/x6FEBl2t0UTvDXaJI6s3nz+gpTvx59tDGpPUenekoN1H75gJNkbgMOMVQTfW32h7yu3gjQvRqm5SPIlpIKU8Tl82fiCYvKDPDp3AxEebY3AzAQ+AWH90M/wi7yqJvI/ECLENws3T0KzJLj5VC7gf0OADADAadQhb1xQZjXbXYlmk/3xoNR0pRYGzcD4CP8HCXp6CYkxnE7Pl54q/BuuN73y8z7GlX/OOocrMgMY0FiYIKAR4VtO8HbL9rg==;r3lVAhaKVna4jEFdUsRWBQ=="
 ---

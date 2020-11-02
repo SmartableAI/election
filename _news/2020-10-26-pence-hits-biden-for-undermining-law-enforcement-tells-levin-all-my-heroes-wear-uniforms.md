@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/pence-hits-biden-for-undermining-law-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/pence-hits-biden-for-undermining-law-enforcement-all-my-heroes-wear-uniforms.amp"
 type: article
 quality: 149
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Joe Biden becomes 'an underdog' if he doesn't win Pa., says Nate Silver"
+    excerpt: "Without Pennsylvania and its 20 electoral votes, Democratic presidential nominee Joe Biden will become “an underdog,” the founder of an opinion poll analysis website, FiveThirtyEight, said on Sunday."
+    publishedDateTime: 2020-11-01T19:55:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM3J29QnmKk/joe-biden-underdog-without-pennsylvania-win-nate-silver"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "NA0stZMxpbIuPixHT21OmGlGZ/67sqSK/eG+hAdvlSbMegioq/EN6iyD5uK5S3l8WbDtNx4vBlUFR178aOyR3ryqFyDN+s6hIL+7alUVriwBrp3LXa7uHkhyA+lBSniU+/aBnoDfR2UfueAwdcVSI6f+IfXVHNoWIDRhFUPYI/83vNI8goiIMh387kyDibhO6E5ngpVYuWT/GoH9vwIPl9/Uhmskb1FksvLRUY+AACLuLLPKrO7tVAOJZ1NWyq/va3cmp7G+8o43Jcgo0n/0LQHhim/dCHS3xtb6IGL+utmOpsvWU7RSExF3ZpcwTMv58hTYsZRpO74UsmdRzWWDhscezprYoHLY0cIh4tcMQ6O/dKUtsHodj6v8h5frd860gJs63M227R0kcKUhOuLbGz/MwPZCjPGx9BehL3VC9cUSTp3ynvm2r+67ao4th4um31RbK4JJfJNYiiKaL+JgyZMY2dJG37OmYiDAUAfXoEQXUsn8FlDbEROzFEbefa+/JeYxvDWqvZmJccU2MjOp7g==;UzNbmg++tilDBcfcL7GBrg=="
 ---

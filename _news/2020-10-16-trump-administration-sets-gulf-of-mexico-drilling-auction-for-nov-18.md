@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court to review Trump's 'Remain in Mexico' policy"
-    excerpt: "The Supreme Court is agreeing to review a Trump administration policy that makes asylum-seekers wait in Mexico for U.S. court hearings"
-    publishedDateTime: 2020-10-19T13:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_baedd00b2d3c4ea3a5162698b8a957e7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump administration rejects California's request for wildfire disaster assistance"
     excerpt: "The federal government has denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
     publishedDateTime: 2020-10-16T10:11:00Z
@@ -95,6 +79,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
+    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
+    publishedDateTime: 2020-10-14T13:00:00Z
+    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
+    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 22
 
 secured: "97ZcvXQ9svAUDyp5q+5JUh2v/NawVb7QXlTBXbZjdtanT665znAoorZNdgFwr3ZW3BZ4q8Uthw3+kK4keZqRCx0cmm1chy/z+W1o90ZRlPw3c9LbOhda/jjd7AG7y/c2c14uekvVFc71X69xoC9TJs3P0+esxQ0Irq80dFCdJB/xVr6Xd2aalcc7D/IDTXsGCPl4crSBvW7xq+G2YsbtEdHmiCeWwX7UHehnmTQ6Y2bhmWa+7uK0N6yUkbxlYtprzN7/ncFDzFqU3SnJb438wqGi5ZqW6GAuFU//mFXMNdCbxxehewb92GTkTXuEfGRUz9eAkQC6Zau1fT6sGN1Lo6hRhtjFEaXHGh3wcPDRTrc=;3S9EmC+BiGgjHf2R+q8I4Q=="
 ---

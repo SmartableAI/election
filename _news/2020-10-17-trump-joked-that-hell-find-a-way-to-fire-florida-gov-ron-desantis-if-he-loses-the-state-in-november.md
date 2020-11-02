@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/donald-trump-ron-densantis-florida-b
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp"
 type: article
 quality: 109
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
+    excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
+    publishedDateTime: 2020-10-24T09:12:00Z
+    webUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "US Air Force F-16s intercepted an unauthorized aircraft flying in a restricted area over a Trump rally"
+    excerpt: "When President Donald Trump saw the F-16 deploy signal flares, he told a crowd that they were putting on a display for him."
+    publishedDateTime: 2020-10-29T06:21:00Z
+    webUrl: "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f99e8aa69331a0011bc5f19?width=1200&format=jpeg"
+        width: 998
+        height: 499
+        isCached: true
   - title: "Gun-Toting ‘Guards’ at Florida Polls Claim They Were Hired By Trump Campaign — Trump Campaign Denies"
     excerpt: "Two armed men dressed as security guards told cops they were hired by the Trump campaign to set up near a Florida early voting location — a claim that President Donald Trump's campaign denied through a spokesperson."
     publishedDateTime: 2020-10-22T13:24:00Z

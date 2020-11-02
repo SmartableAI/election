@@ -96,86 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Vice President Mike Pence and Karen Pence test negative for coronavirus, spokesman says"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for Covid-19 Friday morning, according to a statement tweeted by spokesperson Devin O'Malley.\n    \n"
-    publishedDateTime: 2020-10-02T12:21:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FbP2PIAZfSE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/pence-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/pence-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 177
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190116184541-karen-and-mike-pence-clay-cane-op-ed-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: Trump's coronavirus problem isn't getting better"
-    excerpt: "With just 51 days until the 2020 election, it will be here before you know it. Every Sunday, I deliver to your inbox the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
-    publishedDateTime: 2020-09-13T17:44:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "An 'exhausted' Trump's long path to coronavirus "
-    excerpt: "When President Donald Trump stepped into the dining room of his golf club in New Jersey on Thursday, high-dollar attendees gathered for a fundraiser there thought he seemed a little off.\n    \n"
-    publishedDateTime: 2020-10-02T21:44:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/alEIB7jj-64/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-path/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-path/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002142052-02-trump-melania-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Melania Trump announces she has 'mild symptoms' of coronavirus"
-    excerpt: "First lady Melania Trump said Friday that she is experiencing \"mild symptoms\" but is \"looking forward to a speedy recovery\" following her Covid-19 diagnosis.\n    \n"
-    publishedDateTime: 2020-10-02T16:04:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x4lMT8xICDg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/melania-trump-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/melania-trump-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002010216-02-trump-melania-0911-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's positive Covid-19 test throws country into fresh upheaval"
-    excerpt: "A country already unnerved by a devastating health catastrophe and a turbulent political season faced fresh upheaval Friday as Americans awoke to news President Donald Trump had contracted coronavirus.\n    \n"
-    publishedDateTime: 2020-10-02T09:29:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgVIolT-fDc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002021411-trump-1001-white-house-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Obama wishes Trump a 'speedy recovery' following coronavirus diagnosis"
     excerpt: "Former President Barack Obama wished President Donald Trump and first lady Melania Trump good care and \"a speedy recovery\" on Friday after they were diagnosed with Covid-19.\n    \n"
     publishedDateTime: 2020-10-03T00:32:20Z
@@ -205,6 +125,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003091039-michigan-voter-zeleny-pkg-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's campaign manager tests positive for Covid-19"
+    excerpt: "President Donald Trump's campaign manager Bill Stepien has tested positive for coronavirus, according to a senior official.\n    \n"
+    publishedDateTime: 2020-10-03T05:05:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ElQeDP-lhZo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-manager-tests-positive/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-manager-tests-positive/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003000225-bill-stepien-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -333,22 +269,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Here are the Cabinet members and others around Trump who have been tested"
-    excerpt: "President Donald Trump's positive coronavirus diagnosis has raised questions about the health of those around him, including members of his cabinet and his Vice President.\n    \n"
-    publishedDateTime: 2020-10-02T15:20:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8vjHiL3-chw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/covid-trump-cabinet-testing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/covid-trump-cabinet-testing/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002101734-01-trump-rally-virginia-0925-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -496,37 +416,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "New reports show White House politicking trumps science in telling coronavirus decisions"
-    excerpt: "A series of new revelations about the federal government's coronavirus response could reinforce concerns about whether the Trump administration's political motives were a higher priority than the health of Americans.\n    \n"
-    publishedDateTime: 2020-09-18T17:50:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7yB-XpQd-S8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-usps-cdc-hhs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/donald-trump-coronavirus-usps-cdc-hhs/index.html"
+  - title: "Biden looks to seal election after Trump's week from hell"
+    excerpt: "Joe Biden is on the campaign trail. Donald Trump is in the hospital. In a role reversal, the president who mocked his rival for being weak and hiding “in his basement” is stuck in isolation under doctors’ supervision while Biden jets off to states like Michigan on Friday and Florida on Monday,"
+    publishedDateTime: 2020-10-03T23:40:00Z
+    webUrl: "https://www.politico.com/news/2020/10/03/biden-looks-to-seal-election-after-trumps-week-from-hell-425891"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/03/biden-looks-to-seal-election-after-trumps-week-from-hell-425891"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/03/biden-looks-to-seal-election-after-trumps-week-from-hell-425891"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200120121345-04-trump-0109-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's Supreme Court nominee Amy Coney Barrett was diagnosed with coronavirus this summer"
-    excerpt: "Judge Amy Coney Barrett, the President's nominee for the US Supreme Court, was diagnosed with coronavirus late this summer but has recovered, according to three sources familiar with the matter.\n    \n"
-    publishedDateTime: 2020-10-02T18:20:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q00UIwRZh4I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/amy-coney-barrett-coronavirus-supreme-court-nominee/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/amy-coney-barrett-coronavirus-supreme-court-nominee/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
+      name: Politico
+      domain: politico.com
     quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926180611-09-trump-scotus-announcement-0926-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/dc/98/bebcc9f041c9a5bf1eb65efee2ff/gettyimages-1278114433-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump's doctor walks backs comments on timing of President's Covid-19 diagnosis and treatment"
     excerpt: "Doctors treating President Donald Trump for Covid-19 created confusion on Saturday with remarks during a briefing that appeared to shift the timeline of Trump's positive coronavirus test and treatment. Trump's physician, Dr. Sean Conley, released a statement afterward to try to clarify the comments.\n"
@@ -576,35 +480,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "READ: Trump's doctor releases statement after the President and first lady test positive for Covid-19"
-    excerpt: "President Donald Trump and first lady Melania Trump tested positive for coronavirus, the President announced early Friday morning, an extraordinary development coming months into a global pandemic and in the final stretch of his reelection campaign.\n    \n"
-    publishedDateTime: 2020-10-02T05:49:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yDAopmnNIec/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-doctor-covid-statement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-doctor-covid-statement/index.html"
+  - title: "White House chief of staff defends briefing reporters without a mask despite Trump's coronavirus test"
+    excerpt: "White House chief of staff Mark Meadows addressed reporters outside the White House Friday, hours after President Donald Trump's positive coronavirus diagnosis, blatantly disregarding guidelines on mask usage despite his close contact with the President this week.\n    \n"
+    publishedDateTime: 2020-10-02T16:46:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ETp5hQ2GpZY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/mark-meadows-mask-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/mark-meadows-mask-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 160
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002010356-trump-melania-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: This Republican senator is the early leader for worst take on Trump's coronavirus diagnosis"
-    excerpt: "Hours after President Donald Trump announced that he and his wife, first lady Melania Trump, had tested positive for Covid-19, Georgia Sen. Kelly Loeffler decided that the world needed to hear her take on the matter.\n    \n"
-    publishedDateTime: 2020-10-02T15:39:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JY9JEyYgVCU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/kelly-loeffler-donald-trump-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/kelly-loeffler-donald-trump-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200716171623-01-kelly-loeffler-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002104915-mark-meadows-wh-pool-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -621,22 +509,6 @@ related:
     quality: 158
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005152305-01-walter-reed-press-conference-1005-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'It affects virtually nobody': Fact-checking Trump's continued efforts to downplay the risks of coronavirus"
-    excerpt: "Hours before the US death toll from Covid-19 surpassed 200,000, President Donald Trump was again downplaying the risks of the disease.\n    \n"
-    publishedDateTime: 2020-09-22T22:37:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cExtPYra-aw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/trump-covid-19-statement-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922124616-trump-rally-0921-virtually-nobody-covid-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -672,21 +544,21 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Lindsey Graham: Trump 'very focused' on confirming Barrett to Supreme Court despite his coronavirus diagnosis"
-    excerpt: "Senate Judiciary Chairman Lindsey Graham said Friday that President Trump is \"very focused\" on getting Amy Coney Barrett onto the Supreme Court and said that confirmation hearings remain \"on track\" after the news of the President's coronavirus diagnosis.\n    \n"
-    publishedDateTime: 2020-10-02T17:28:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Loixqa7GIkI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/lindsey-graham-coronavirus-barrett-confirmation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/lindsey-graham-coronavirus-barrett-confirmation/index.html"
+  - title: "A bullish Biden campaign invades Trump territory"
+    excerpt: "In a move that would have been far-fetched even a few months ago, Joe Biden is set to spend $6.2 million on ads in the state over the next month — attempting to put the state in play for the first time in decades."
+    publishedDateTime: 2020-10-07T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/joe-biden-trump-territory-426802"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/joe-biden-trump-territory-426802"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/joe-biden-trump-territory-426802"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 156
+      name: Politico
+      domain: politico.com
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200915195604-01-lindsey-graham-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/5e/f7/8fdf17e9485f806b65259c3c25a4/201006-biden-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "2020 Election Live Updates: With Clock Ticking Down, Trump Lashes Out"
     excerpt: "President Trump, down by double digits in national polls, is attacking his enemies and even his aides. His doctor said the president could return to public engagements tomorrow. Joe Biden heads to Nevada today."
@@ -703,38 +575,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/08/us/politics/08elections-briefings-hannity4/08elections-briefings-hannity4-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Washington Post: Trump considered daughter Ivanka as 2016 vice presidential pick, according to book by former campaign aide"
-    excerpt: "President Donald Trump floated his daughter Ivanka Trump as a vice presidential running mate during the 2016 election, according to a report by The Washington Post on Monday.\n    \n"
-    publishedDateTime: 2020-09-28T12:42:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gg2gCjstCxk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-vice-president-running-mate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-vice-president-running-mate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 149
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181105192613-trump-ivanka-rally-cleveland-ohio-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pence aide blasts former coronavirus task force member who criticized Trump"
-    excerpt: "Retired Gen. Keith Kellogg, the vice president’s national security adviser, said he was “not proud of Olivia Troye.”"
-    publishedDateTime: 2020-09-22T15:23:00Z
-    webUrl: "https://www.politico.com/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
-    type: article
-    provider:
-      name: YAHOO!
-      domain: politico.com
-    quality: 148
-    images:
-      - url: "https://static.politico.com/c0/dd/d809e0514280ba562d91c7a20674/200922-keith-kellogg-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Justice Dept. Eases Election Fraud Inquiry Constraints as Trump Promotes False Narrative"
     excerpt: "The move comes as President Trump promotes a false narrative of widespread voter fraud ahead of the election. For decades, federal prosecutors have been told not to mount election fraud investigations in the final months before an election for fear they could depress voter turnout or erode confidence in the results."
@@ -768,22 +608,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "From masks to disinfectants: Trump's coronavirus theories"
-    excerpt: "Here are several times that the president downplayed or endorsed theories dismissing the severity of the pandemic."
-    publishedDateTime: 2020-10-02T13:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/masks-disinfectants-trump-s-coronavirus-theories-n1241793"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241793"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241793"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416925/201003-trump-coronavirus-mn-0740_68feaad9839ca1bbfc3d8938263fd2d6.JPG"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "For a tired nation, Trump's Covid-19 diagnosis provides a wake-up call"
     excerpt: "The president's coronavirus case is a turning point not seen since March. But politicization of the pandemic means it might not matter."
     publishedDateTime: 2020-10-03T08:43:00Z
@@ -799,6 +623,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3417092/201002-wake-up-call-trump-main-cover-cs_f89e67da9c3de4e47cb21523bc8ebf23.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "The latest on Trump's Covid diagnosis"
+    excerpt: "President Trump and first lady Melania Trump have both tested positive for Covid-19. Follow here for the latest."
+    publishedDateTime: 2020-10-03T04:39:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-covid-19-updates-saturday/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-covid-19-updates-saturday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-covid-19-updates-saturday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002160118-us-president-donald-trump-walks-from-marine-one-after-arriving-on-the-south-lawn-of-the-white-house-in-washington-dc-october-1-2020-following-campaign-events-in-new-jersey--super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump Tests Positive for Coronavirus: This Week in the 2020 Race"
     excerpt: "A year of surprises had its biggest one yet — a coronavirus diagnosis for President Trump that has thrown the White House and the November presidential race into flux."
@@ -1182,22 +1022,6 @@ related:
         width: 2500
         height: 1651
         isCached: true
-  - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
-    excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."
-    publishedDateTime: 2020-10-02T07:33:00Z
-    webUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 128
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/02/world/02dc-virus-trump-ticktock-1/02dc-virus-trump-ticktock-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump returns to the trail claiming coronavirus victory and playing campaign defense"
     excerpt: "The president is not only fighting on expected battleground terrain, but in areas of previously strong support his team never expected would be up for grabs this year."
     publishedDateTime: 2020-10-12T23:06:00Z
@@ -1213,22 +1037,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3419422/201012-donald-trump-jm-1316_ee911d3309c69f7b72eec9fe9eb08384.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Trump Says He’ll Begin ‘Quarantine Process’ After Hope Hicks Tests Positive for Coronavirus"
-    excerpt: "Ms. Hicks, a senior aide and the closest known person to the president to have contracted the virus, traveled with him this week aboard Air Force One."
-    publishedDateTime: 2020-10-02T05:27:00Z
-    webUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 125
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-hicks/01dc-hicks-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "California school districts spurn Trump food box letter weeks before Election Day"
     excerpt: "Critics have accused the president of politicizing poverty and using the food relief program as a campaign tool."
@@ -1260,33 +1068,19 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "As death toll climbs, Trump says coronavirus 'affects virtually nobody'"
-    excerpt: "As the US death toll tops 200,000, Trump continues to do what he's done for six months: downplay the seriousness of the crisis."
-    publishedDateTime: 2020-09-22T12:17:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/death-toll-climbs-trump-says-coronavirus-affects-virtually-nobody-ncna1240684"
+  - title: "Trump campaign manager tests positive for Covid-19"
+    excerpt: "Bill Stepien's diagnosis is the latest blow to a reeling campaign. He says he will manage the campaign from home."
+    publishedDateTime: 2020-10-03T03:46:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-manager-tests-positive-for-covid-19-425722"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Politico
+      domain: politico.com
     quality: 115
     images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_37/3411578/200911-donald-trump-white-house-jm-1838_1cb3c875a1dccb40666ec82f6e5fe311.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Is Team Trump using the Food Box Program as a campaign prop?"
-    excerpt: "As Election Day draws closer, the Trump administration is requiring the Food Box Program to include signed letters from the president."
-    publishedDateTime: 2020-10-01T14:10:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/team-trump-using-food-box-program-campaign-prop-ncna1241693"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_16/3309381/200415-donald-trump-signature-cs-1216p_55fead8ecc4caed031149c3c02cffedf.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.politico.com/32/ce/171c4c4945f49393a0ea065cc4be/190412-bill-stepien-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump could be discharged as early as Monday, doctors say"
     excerpt: "President Donald Trump could be discharged “as early as tomorrow” from the hospital as he battles the coronavirus, his medical team said on Sunday, while acknowledging Trump experienced concerning drops in his oxygen saturation levels both Friday and Saturday."
@@ -1409,20 +1203,6 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 107
-  - title: "TRUMP tests positive for COVID — VIRUS cases INCREASE — Race-baiting ROBOCALL hits state rep race"
-    excerpt: "President Donald Trump announced early Friday that he has tested positive for the coronavirus, upending his presidency and the 2020 race just 32 days before Election Day. The 74-year-old president disclosed his diagnosis in a tweet at 12:54 a."
-    publishedDateTime: 2020-10-02T11:30:00Z
-    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2020/10/02/trump-tests-positive-for-covid-virus-cases-increase-race-baiting-robocall-hits-state-rep-race-490507"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 102
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
   - title: "'We are learning to live with Covid': Trump makes misleading comparison between coronavirus and the flu"
     excerpt: "The most deaths to have resulted from a flu season in the U.S. over the past decade is estimated to be roughly 61,000 in 2017-2018."
     publishedDateTime: 2020-10-06T13:15:00Z
@@ -1446,6 +1226,15 @@ related:
       name: Politico
       domain: politico.com
     quality: 91
+  - title: "Trump Campaign Attacks Joe Biden for Not Having COVID-19"
+    excerpt: "He has experience, now, fighting the coronavirus as an individual,” a campaign spokesperson said of Trump. “Those firsthand experiences, Joe Biden, he doesn’t have those.”"
+    publishedDateTime: 2020-10-05T20:01:00Z
+    webUrl: "https://www.thedailybeast.com/trump-campaign-attacks-joe-biden-for-not-having-covid-19"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
   - title: "Both Sides Contradict Trump: Abortion Is on the Ballot in 2020"
     excerpt: "During the debate, President Trump feigned ignorance about abortion as an election issue in 2020 but everyone with any passing familiarity with the issue knows better."
     publishedDateTime: 2020-10-05T09:33:00Z

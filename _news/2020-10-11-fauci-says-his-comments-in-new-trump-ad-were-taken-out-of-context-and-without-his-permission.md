@@ -61,6 +61,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'Trump defeats COVID-19' coin goes on sale at White House-themed gift shop"
+    excerpt: "Commemorative coins marking President Trump's battle with COVID-19 are available for preorder at a White House-themed gift shop."
+    publishedDateTime: 2020-10-06T12:46:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pCY5Ongtmh0/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production"
+    ampWebUrl: "https://www.foxnews.com/politics/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20279854806341-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Appeals court rejects Trump's effort to block enforcement of tax returns subpoena"
     excerpt: "The Second Circuit Court of Appeals Wednesday upheld a lower court ruling allowing Manhattan District Attorney Cy Vance's office to enforce a subpoena to get President Trump's tax returns and other documents dating back to 2011, rejecting Trump's attempt to block the effort."
     publishedDateTime: 2020-10-07T15:03:27Z
@@ -139,17 +155,49 @@ related:
         width: 3113
         height: 2075
         isCached: true
-  - title: "Florida Police Chiefs Association makes first-ever presidential endorsement, backs Donald Trump"
-    excerpt: "The organization adds its name to a growing list of law enforcement organizations that have backed President Trump for re-election."
-    publishedDateTime: 2020-10-10T23:58:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pNTRtBxJpvo/florida-police-chiefs-association-endorsement-trump"
+  - title: "Trump says he's 'medication free,' details COVID-19 recovery in first on-camera interview since diagnosis"
+    excerpt: "“I wanted to leave after the first day,” Trump said of his stint at Walter Reed."
+    publishedDateTime: 2020-10-10T01:09:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hTY37mms_48/trump-medication-free-covid-19-recovery-tucker-carlson"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 143
+    quality: 138
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20166815809777.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12856a10-0319-4812-9d69-e810b72a2daf/6a59da7e-173f-4a4c-ad67-6a6a7e4d061c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Do liberals really believe Trump faked his COVID-19 diagnosis?"
+    excerpt: "You will decide whether or not Donald Trump gets a second term or the cognitively challenged, weak, frail Joe Biden takes over. God help us. But until then, well, we do know one thing for certain, per usual."
+    publishedDateTime: 2020-10-08T13:48:00Z
+    webUrl: "https://www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c105924-6cdc-4f18-874f-9dbb7b3f6bd5/aba778b1-1ff8-4281-a5a0-8e4c4144771b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Tucker: Mainstream media enraged by Trump's positive COVID message"
+    excerpt: "The media happily seconded that diagnosis.  Trump they informed us has a condition known as clinical obesity -- obesity, whatever.  It sounds significantly worse than cancer and far more unattractive."
+    publishedDateTime: 2020-10-08T17:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e386560-e8e4-442a-84bb-515e606be400/815c2bfc-6d3b-47e3-8755-c08c731d5606/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -242,6 +290,20 @@ related:
       - url: "https://assets.realclear.com/images/52/521215.jpg"
         width: 750
         height: 562
+        isCached: true
+  - title: "Trump Returns To White House, Tells Americans, \"Don't Be Afraid Of Covid, Don't Let It Dominate You\""
+    excerpt: "President Donald Trump delivered remarks on the coronavirus after returning to the White House from Walter Reed Medical Center."
+    publishedDateTime: 2020-10-06T13:47:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/06/trump_returns_to_white_house_tells_americans_dont_be_afraid_of_covid_dont_let_it_dominate_you.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 50
+    images:
+      - url: "https://assets.realclear.com/images/52/523276.png"
+        width: 500
+        height: 375
         isCached: true
   - title: "Trump Is Doing Exact Opposite of What He Should Be Doing"
     excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better. During the last 4 years, the American people have seen the mighty attempts at legislative overreach as practiced by Pelosi,"

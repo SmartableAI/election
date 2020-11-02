@@ -31,102 +31,143 @@ images:
     isCached: true
 
 related:
-  - title: "Pence defends Trump COVID-19 response, claims administration 'literally saved hundreds of thousands'"
-    excerpt: "Vice President Mike Pence has again defended the Trump administration's response to the coronavirus pandemic."
-    publishedDateTime: 2020-10-25T11:30:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AOtPNlbGc6E/pence-dismisses-biden-attacks-over-covid-19-response"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-dismisses-biden-attacks-over-covid-19-response.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-dismisses-biden-attacks-over-covid-19-response.amp"
+  - title: "Trump says votes should be counted by Election Day at Georgia rally"
+    excerpt: "Trump said extensions could allow “bad things happen in places like Pennsylvania and Nevada.”"
+    publishedDateTime: 2020-11-02T03:32:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKGR4VJWOW8/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d334b5c-f30e-4ae8-86a8-55791119d24c/ce3f607c-3472-47bf-9211-aa6a55c75a42/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump rips absentee ballot extensions, says election 'should end on November 3rd'"
+    excerpt: "President Trump on Friday panned decisions made by some courts that are allowing mail-in or absentee ballots to be counted if they are received by election authorities after Nov. 3, calling the rulings \"CRAZY and so bad for our Country.\""
+    publishedDateTime: 2020-10-30T17:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yjr_lTst78Q/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/592054c4-68cd-45b2-ae7f-f3d5e8645d87/63381419-bca8-4bf5-a42a-9f6af8160c38/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump to follow Minnesota COVID rule limiting rally crowd to 250"
-    excerpt: "The Trump 2020 campaign has limited its Friday rally attendee count in Minnesota to 250 people at state orders amid a spike in COVID-19 cases."
-    publishedDateTime: 2020-10-30T13:44:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0bvLv1Slw8E/trump-minnesota-rally-250-walz-covid-19"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-minnesota-rally-250-walz-covid-19.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-rally-250-walz-covid-19.amp"
+  - title: "Man arrested at Trump rally in Maine carrying knife and wooden baton"
+    excerpt: "A man wielding a knife and wooden baton was arrested at a campaign rally for President Trump in Maine Wednesday where Gov. Kristi Noem appeared. "
+    publishedDateTime: 2020-10-28T23:43:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHoVrBFohvY/man-arrested-trump-rally-maine"
+    ampWebUrl: "https://www.foxnews.com/politics/man-arrested-trump-rally-maine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/man-arrested-trump-rally-maine.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275156282844-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20291003271342.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "‘Thousands upon thousands’ of Trump supporters greet president in California: McEnany"
-    excerpt: ""
-    publishedDateTime: 2020-10-19T05:43:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qcf1o3RKkNA/thousands-upon-thousands-of-trump-supporters-greet-president-in-california-mcenany"
-    ampWebUrl: "https://www.foxnews.com/politics/thousands-upon-thousands-of-trump-supporters-greet-president-in-california-mcenany.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/thousands-upon-thousands-of-trump-supporters-greet-president-in-california-mcenany.amp"
+  - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
+    excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."
+    publishedDateTime: 2020-10-25T20:30:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVk-LuIG9CU/russian-hackers-cant-change-votes-trumps-national-security-adviser-says"
+    ampWebUrl: "https://www.foxnews.com/politics/russian-hackers-cant-change-votes-trumps-national-security-adviser-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russian-hackers-cant-change-votes-trumps-national-security-adviser-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Scaramucci blasts Trump's rhetoric and handling of COVID, says president 'has a screw loose'"
-    excerpt: "President Trump destroyed the U.S. economy with his botched response to the coronavirus pandemic, former White House Commuications Director Anthony Scaramucci told \"Bill Hemmer Reports\" Tuesday. "
-    publishedDateTime: 2020-10-27T21:03:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Q1qtAFjTl0/anthony-scaramucci-trump-rhetoric-covid-screw-loose"
-    ampWebUrl: "https://www.foxnews.com/politics/anthony-scaramucci-trump-rhetoric-covid-screw-loose.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anthony-scaramucci-trump-rhetoric-covid-screw-loose.amp"
+  - title: "Trump's path to victory includes winning Nevada or Arizona, holding Georgia, North Carolina: Jason Miller"
+    excerpt: "President Trump's path to reelection includes holding Arizona, Georgia and North Carolina and even picking up purple state Nevada, Trump campaign senior adviser Jason Miller told ABC's \"This Week.\""
+    publishedDateTime: 2020-11-01T16:26:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hlzhq8h1gjA/trump-nevada-road-to-270-north-carolina-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-nevada-road-to-270-north-carolina-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nevada-road-to-270-north-carolina-arizona.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0b29c07-db17-4aab-a106-2ee2144a099f/930a6ea0-14b2-4900-87cc-f3a92b3501c0/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304773736489.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Florida judge resigns from vote-counting board after at least a dozen Trump donations discovered"
+    excerpt: "A Florida judge who was leading the Duval County's vote-counting board was forced to resign Thursday after it was uncovered that he had donated hundreds of dollars to President Trump's campaign and the Republican National Committee, and also has Trump-Pence signs covering his front lawn. "
+    publishedDateTime: 2020-10-30T21:47:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fFOIADsNTGg/florida-judge-resigns-vote-counting-board-trump-donations"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Duval.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "First lady Melania Trump will not travel to PA rally due to 'lingering cough' after COVID battle"
-    excerpt: "First Lady Melania Trump will not accompany President Donald Trump to a campaign rally in Pennsylvania Tuesday evening due to a “lingering cough” despite having recovered from the novel coronavirus."
-    publishedDateTime: 2020-10-20T17:44:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pmN1DlBQdjA/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle"
-    ampWebUrl: "https://www.foxnews.com/politics/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle.amp"
+  - title: "What in the World if Trump Wins?"
+    excerpt: "In a second term, expect more chaotic, confident wheeling and dealing overseas."
+    publishedDateTime: 2020-10-26T22:00:00Z
+    webUrl: "https://www.wsj.com/articles/what-in-the-world-if-trump-wins-11603749240"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-in-the-world-if-trump-wins-11603749240"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-in-the-world-if-trump-wins-11603749240"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288723563703.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://images.wsj.net/im-249650/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "First lady Melania Trump will not travel to Pa. rally due to 'lingering cough' after COVID battle"
-    excerpt: "First lady Melania Trump will not accompany President Donald Trump to a campaign rally in Pennsylvania on Tuesday evening due to a “lingering cough” despite having recovered from the novel coronavirus."
-    publishedDateTime: 2020-10-21T02:29:00Z
-    webUrl: "https://www.foxnews.com/politics/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle"
-    ampWebUrl: "https://www.foxnews.com/politics/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle.amp"
+  - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
+    excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
+    publishedDateTime: 2020-10-27T12:18:00Z
+    webUrl: "https://www.wsj.com/articles/in-trump-country-supporters-are-steadfast-but-his-personality-pandemic-wear-11603800097"
+    ampWebUrl: "https://www.wsj.com/amp/articles/in-trump-country-supporters-are-steadfast-but-his-personality-pandemic-wear-11603800097"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-trump-country-supporters-are-steadfast-but-his-personality-pandemic-wear-11603800097"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 122
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288723563703.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://images.wsj.net/im-250155/social"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "The Pollster Who Thinks Trump Will Win"
+    excerpt: "Robert Cahaly foresaw the outcome in 2016. Will ‘social acceptability bias’ deliver another surprise?"
+    publishedDateTime: 2020-10-30T03:51:00Z
+    webUrl: "https://www.wsj.com/articles/the-pollster-who-thinks-trump-will-win-11604011863?mod=djemalertNEWS"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-pollster-who-thinks-trump-will-win-11604011863"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
 
 secured: "H/4wQTLh8P9zyJ3KsIblvsbgjgsDIdy+eEKLs6heVxDwx0JX3AWWHp2r7dGYqPqAE8yS4AmMcH6URjsQKh42cbKyCNMpukfBd4ZqoH//DiBuuJjzGv7dlm/7fYvsYO08/XUPcng3O1ADs8rqwczmwxC2QWhaLGIUnfdnpIFaTmONuszOAvsnpKeWT4RIQiJSScX8TcDOUUyn1QUxNWmIYD+fDmY1ILjBXYYJhCrzMOYuXZhLJV07tBTfzUdyrJyF8zfHEvhWp4a/OMAx7e69cuE51ymGmMdivCasrQIx8M+c6AbPNy+9yARCAvSKqTdStDN4alpdXSw9nhjR1hYmd54fzXieRsKew+DkyJmH9YI=;PVP77c1aRuy4hoUDlt1pQA=="
 ---

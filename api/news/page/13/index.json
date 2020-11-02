@@ -2,6 +2,223 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-19-trump-reportedly-got-bored-during-one-of-his-first-classified-briefings-on-afghanistan-and-ordered-milkshakes-in-the-middle-of-it.md",
+      "title": "Trump reportedly got bored during one of his first classified briefings on Afghanistan and ordered milkshakes in the middle of it",
+      "excerpt": "Trump has garnered a reputation as a president who routinely ignores intelligence briefings, and reportedly prefers visuals over written briefings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8dae319e9fe4001900a150?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10?amp",
+      "publishedDateTime": "2020-10-19T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-sacha-baron-cohen-explains-how-he-crashed-pence-speech-dressed-as-trump.md",
+      "title": "Sacha Baron Cohen explains how he crashed Pence speech dressed as Trump",
+      "excerpt": "The actor talked to the New York Times about donning a prosthetic face and body and showing up at Vice President's Mike Pence speech at a Conservative Political Action Conference last February. \"Obviously, I'm wearing a fat suit,\" Cohen told the publication.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
+      "originalUrl": "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201019083432-sacha-baron-cohen-brother-grimsby-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
+      "publishedDateTime": "2020-10-19T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-birx-tells-friends-she-was-relieved-after-trump-adviser-scott-atlas-inaccurate-mask-tweet-was-removed.md",
+      "title": "Birx tells friends she was relieved after Trump adviser Scott Atlas' inaccurate mask tweet was removed",
+      "excerpt": "Members of the White House coronavirus task force are praising a move by Twitter removing a misleading tweet from top Trump adviser Dr. Scott Atlas that told Americans masks don't work.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbqhKm0CKOI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbqhKm0CKOI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200717094414-01-dr-birx-profile-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx-task-force/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx-task-force/index.html",
+      "publishedDateTime": "2020-10-19T07:23:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-pence-to-mount-aggressive-campaign-push-in-final-two-weeks.md",
+      "title": "Pence to mount 'aggressive' campaign push in final two weeks",
+      "excerpt": "Vice President Mike Pence will travel at least five days a week and ramp up to at least two campaign rallies each day as part of a “very aggressive schedule” in the final days before the election, Pen",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks",
+      "originalUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp",
+      "publishedDateTime": "2020-10-19T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-warren-buffett-and-joe-biden-are-bullish-on-america-agree-the-super-rich-should-pay-higher-taxes-and-want-quarterly-earnings-guidance-to-end.md",
       "title": "Warren Buffett and Joe Biden are bullish on America, agree the super rich should pay higher taxes, and want quarterly earnings guidance to end",
       "excerpt": "\"Warren Buffett said it best when he stated that he should not pay a lower tax rate than his secretary,\" Biden's campaign website reads.",
@@ -10,7 +227,7 @@
       "originalUrl": "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -51,6 +268,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-perdues-rival-raises-nearly-2m-after-senator-mispronounces-kamala-harriss-name.md",
+      "title": "Perdue's rival raises nearly $2M after senator mispronounces Kamala Harris's name",
+      "excerpt": "Democratic Georgia Senate candidate Jon Ossoff said his campaign raised nearly $2 million after Sen. David Perdue (R-Ga.) mispronounced Sen. Kamala Harris’s (D-Calif.) name at a Trump campaign event.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name",
+      "originalUrl": "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 420,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ossoffjohn_perduedavid_072920getty_split.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name?amp",
+      "publishedDateTime": "2020-10-19T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -118,7 +387,7 @@
       "originalUrl": "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 415,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -139,49 +408,6 @@
       "provider": {
         "name": "WTXL ABC 27",
         "domain": "wtxl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump.md",
-      "title": "Sacha Baron Cohen reveals how he snuck into a Mike Pence speech dressed as Trump",
-      "excerpt": "Sacha Baron Cohen has detailed how he managed to sneak into a speech by Mike Pence dressed as Donald Trump for his 'Borat' sequel",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022",
-      "originalUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2020/10/borat-mike-pence.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp",
-      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp",
-      "publishedDateTime": "2020-10-19T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -662,6 +888,110 @@
       ]
     },
     {
+      "path": "_news/2020-10-19-coronavirus-updates-trump-pelosi-mcconnell-face-deadline-for-stimulus-deal-sturgis-rally-linked-to-cases.md",
+      "title": "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases",
+      "excerpt": "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3695793001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001",
+      "publishedDateTime": "2020-10-18T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-trump-attends-church-service-in-las-vegas.md",
+      "title": "Trump attends church service in Las Vegas",
+      "excerpt": "U.S. President Donald Trump made a rare visit to church Sunday as he and Democratic rival Joe Biden campaigned across the country from one another. (Oct. 18)",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/210c8f2c-cf3c-46f1-803f-5fbfcb0902fc_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-these-voters-rejected-hillary-clinton-but-theyre-voting-for-joe-biden-here-are-the-many-reasons-why.md",
       "title": "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why.",
       "excerpt": "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small.",
@@ -711,6 +1041,49 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-sacha-baron-cohen-reveals-how-he-was-able-to-sneak-into-mike-pence-speech-to-film-borat-2.md",
+      "title": "Sacha Baron Cohen reveals how he was able to sneak into Mike Pence speech to film Borat 2",
+      "excerpt": "Sacha Baron Cohen has revealed how he managed to sneak into a Mike Pence speech during a rally earlier this year while filming a scene for the upcoming Borat sequel. The actor, believe it or not, managed to disguise himself as none other than President Donald Trump in order to gain access into the speech,",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/",
+      "originalUrl": "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/10/PRI_169142927.jpg?quality=90&strip=all&zoom=1&resize=600%2C315&ssl=1",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/",
+      "publishedDateTime": "2020-10-18T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -882,7 +1255,7 @@
       "originalUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -914,392 +1287,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.md",
-      "title": "Buttigieg blasts Trump foreign policy, calls him 'destabilizing force literally everywhere he goes'",
-      "excerpt": "Former South Bend, Ind., Mayor Pete Buttigieg once blasted Democratic presidential nominee Joe Biden for his foreign policy record, but now defends him while claiming that President Trump is a \"disaster\" in that area.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.spot.im/loader.png",
-          "width": 375,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
-      "publishedDateTime": "2020-10-18T06:21:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-kamala-harris-political-director-shares-update-after-two-involved-in-campaign-test-positive-for-covid-19.md",
-      "title": "Kamala Harris’ Political Director shares update after two involved in campaign test positive for COVID-19",
-      "excerpt": "Kamala Harris cancels all campaign events through the weekend after two people involved with the campaign test positive for COVID-19. Her Political Director Vincent Evans says the campaign is taking every precaution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/the-week/watch/kamala-harris-political-director-shares-update-after-two-involved-in-campaign-test-positive-for-covid-19-94067269688",
-      "originalUrl": "https://www.msnbc.com/the-week/watch/kamala-harris-political-director-shares-update-after-two-involved-in-campaign-test-positive-for-covid-19-94067269688",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_johnson_harris_201017_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo94067269688",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo94067269688",
-      "publishedDateTime": "2020-10-17T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ossoff-raises-1-million-in-senate-race-after-perdue-mispronounces-kamala-harriss-name.md",
-      "title": "Ossoff raises $1 million in Senate race after Perdue mispronounces Kamala Harris's name",
-      "excerpt": "Democratic Georgia Senate candidate Jon Ossoff announced Saturday that his campaign raised $1 million after Sen. David Perdue, R-Ga., appeared to mock the name of democratic vice presidential candidate Kamala Harris at a rally Friday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IR7NliYNX3s/ossoff-raises",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IR7NliYNX3s/ossoff-raises",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/081a6c40-dd52-414e-8d63-9ca720cac7f7/518c3dc2-a2a5-402c-ae4b-77e7c7f5058e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ossoff-raises.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ossoff-raises.amp",
-      "publishedDateTime": "2020-10-17T15:17:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-trump-slams-republican-critic-who-warned-of-november-bloodbath.md",
-      "title": "Trump slams Republican critic who warned of November 'bloodbath'",
-      "excerpt": "U.S. President Donald Trump on Saturday attacked a longtime congressional critic who warned this week that his handling of the coronavirus pandemic and authoritarian leaders could cause a \"Republican bloodbath in the Senate\" in the Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537867561&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G0JA",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2720PJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2720PJ",
-      "publishedDateTime": "2020-10-17T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-us-spies-say-the-hunter-biden-email-controversy-shows-how-exploitable-and-grotesquely-vulnerable-trump-and-giuliani-are-to-russian-intelligence.md",
-      "title": "US spies say the Hunter Biden email controversy shows how 'exploitable' and 'grotesquely vulnerable' Trump and Giuliani are to Russian intelligence",
-      "excerpt": "\"They want to protect their boy in the White House because Trump's policies have been strategically fantastic for Russia,\" said a former CIA spy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10",
-      "originalUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f89defd9e9fe40019009d36?width=1200&format=jpeg",
-          "width": 1190,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10?amp",
-      "publishedDateTime": "2020-10-17T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-obama-to-stump-for-biden-less-than-two-weeks-before-election.md",
-      "title": "Obama to stump for Biden less than two weeks before election",
-      "excerpt": "Former President Barack Obama will head to Philadelphia on Wednesday to campaign on behalf of the Biden-Harris ticket, his first appearance on the trail thus far. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ovBzoCuJdAI/obama-to-stump-for-biden-less-than-two-weeks-before-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ovBzoCuJdAI/obama-to-stump-for-biden-less-than-two-weeks-before-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1730,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1252fcb-4478-4830-b791-03a9cfbe0bb8/47eac9e9-ebf0-45af-b4d1-517d78bc2ae2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp",
-      "publishedDateTime": "2020-10-17T12:15:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-trump-rips-little-ben-sasse-after-nebraska-senators-diatribe-against-the-president.md",
-      "title": "Trump rips 'Little Ben Sasse' after Nebraska senator's diatribe against the president",
-      "excerpt": "President Trump tore into Sen. Ben Sasse Saturday in a series of tweets after the Nebraska Republican excoriated the president in a recent call with constituents and called him a \"TV-obsessed narcissistic individual.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q51CjaU0DRo/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q51CjaU0DRo/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20286538611587-e1602519668720.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president.amp",
-      "publishedDateTime": "2020-10-17T11:51:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

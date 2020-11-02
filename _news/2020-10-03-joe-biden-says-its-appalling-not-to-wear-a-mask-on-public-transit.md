@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-biden-says-its-appalling-not-to
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df2813d5-41e5-4132-8ff6-c5812061fcfd/3e4a8b04-e04e-499e-b950-eadf2ebb92f5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden launches ads touting his faith after cardinal says he's 'not a Catholic in good standing'"
-    excerpt: "Former Vice President Joe Biden launched an ad campaign seeking to highlight his Catholic faith as many conservatives and fellow Catholics have questioned the sincerity of his beliefs."
-    publishedDateTime: 2020-10-02T21:17:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BWj9oPPI9_I/biden-faith-ads-cardinal-not-a-catholic-in-good-standing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-faith-ads-cardinal-not-a-catholic-in-good-standing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faith-ads-cardinal-not-a-catholic-in-good-standing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6ae7bc9-6e0d-4d29-ba79-8b430021b38f/9acbf912-fed6-444e-bd83-bb7d22d18a37/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

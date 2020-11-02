@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live updates: Hunter Biden's alleged emails become a campaign issue"
+    excerpt: "House Intelligence Committee Chairman Adam Schiff on Friday described revelations from a slew of emails in a laptop allegedly belonging to Hunter Biden as being part of a Russia-backed smear campaign."
+    publishedDateTime: 2020-10-18T08:16:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zIsxZparPwc/hunter-bidens-alleged-emails-become-a-campaign-issue"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-bidens-alleged-emails-become-a-campaign-issue.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-bidens-alleged-emails-become-a-campaign-issue.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f4568f1-b039-4f09-bfa7-8a39981110f5/5aab47e3-b27a-4451-84c8-d657c2c07e2b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Progressives push for Warren, Sanders in potential Biden cabinet"
     excerpt: "If Democratic presidential nominee Joe Biden wins the race for the White House, will either Sens. Bernie Sanders or Elizabeth Warren be trading the title of senator for secretary?"
     publishedDateTime: 2020-10-27T16:06:01Z
@@ -283,6 +299,22 @@ related:
     quality: 121
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Reporters fail to ask Joe Biden about Tony Bobulinski’s explosive claims in rare round of questions"
+    excerpt: "Joe Biden took questions from reporters on Wednesday for the first time since Tucker Carlson’s interview with Tony Bobulinski, a former business associate of Hunter Biden who said the Biden family dismissed concerns that Joe Biden’s alleged ties to his son's business deals could put a future presidential campaign at risk – but the media members on hand didn’t bother to ask about it."
+    publishedDateTime: 2020-10-28T22:19:00Z
+    webUrl: "https://www.foxnews.com/media/reporters-dont-ask-joe-biden-about-tony-bobulinski-hunter-emails"
+    ampWebUrl: "https://www.foxnews.com/media/reporters-dont-ask-joe-biden-about-tony-bobulinski-hunter-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/reporters-dont-ask-joe-biden-about-tony-bobulinski-hunter-emails.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19d8c899-c6f5-41b9-9d36-0ae911189500/6139a1db-2f01-4c1a-9325-b4d504a0cb23/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

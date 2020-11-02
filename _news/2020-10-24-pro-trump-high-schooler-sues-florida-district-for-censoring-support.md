@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-florida-high-school-district-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
     quality: 155
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Florida judge resigns from vote-counting board after at least a dozen Trump donations discovered"
-    excerpt: "A Florida judge who was leading the Duval County's vote-counting board was forced to resign Thursday after it was uncovered that he had donated hundreds of dollars to President Trump's campaign and the Republican National Committee, and also has Trump-Pence signs covering his front lawn. "
-    publishedDateTime: 2020-10-30T21:47:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fFOIADsNTGg/florida-judge-resigns-vote-counting-board-trump-donations"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 142
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Duval.jpg"
         width: 1280
         height: 720
         isCached: true

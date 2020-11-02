@@ -63,22 +63,6 @@ related:
         width: 1199
         height: 799
         isCached: true
-  - title: "Trump envoy traveled to Syria for talks on missing Americans"
-    excerpt: "A senior White House official made an unusual, secret visit to Syria for high-level talks aimed at securing the release of two Americans who have been missing for years amid the country’s long civil w"
-    publishedDateTime: 2020-10-21T14:39:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_efc880968da349c0a4dc41b8f6155a29_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Donald Trump Has Promoted QAnon-Linked Twitter Accounts More Than 250 Times"
     excerpt: "The president previously said \"is that supposed to be a bad thing?\" when asked about theory that he is taking down satanic pedophiles."
     publishedDateTime: 2020-10-16T12:47:00Z
@@ -110,20 +94,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de0dd33fa87183df1ec42%2F0x0.jpg%3FcropX1%3D28%26cropX2%3D2971%26cropY1%3D0%26cropY2%3D1963"
         width: 1199
         height: 800
-        isCached: true
-  - title: "Poll: Most Americans Don’t Think What Trump Says Is Based In Fact"
-    excerpt: "Only 22% believe Trump’s campaign statements are always or often based in fact, including 45% of Republicans, while nearly a quarter of Republicans believe his statements are rarely or never factual."
-    publishedDateTime: 2020-10-21T14:31:00Z
-    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/21/poll-most-americans-dont-think-what-trump-says-is-based-in-fact/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9043c6bb76f50d5bdce0c0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D162%26cropY2%3D2694"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Why Are Ben Sasse and other Republicans Trying to Cancel Donald Trump?"
     excerpt: "Sasse and others avoided criticizing Trump when he was up. Now that he’s down, they’re turning on him. The hypocrisy is rich."
@@ -157,37 +127,21 @@ related:
         width: 2000
         height: 1348
         isCached: true
-  - title: "Trump ‘is hemorrhaging support’ and is flailing badly to win it back: reporter"
-    excerpt: "President Donald Trump is trailing Democratic rival Joe Biden in the polls, and one veteran journalist said that he seems clueless about how to stop the bleeding. Journalist Alex Wagner, the host of Showtime’s “The Circus,"
-    publishedDateTime: 2020-10-21T12:30:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/amp/"
+  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
+    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
+    publishedDateTime: 2020-10-13T17:55:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 71
+    quality: 61
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/01/Trump-Justin-Follett-2-e1552430064870-764x430.jpg"
-        width: 764
-        height: 430
-        isCached: true
-  - title: "Rural voters explain why they’re leaving Trump: ‘I went from being a pawn — to collateral damage’"
-    excerpt: "President Donald Trump has desperately tried to convince rural America that he will save them as their communities are slowly falling away. Trump has tried to prop them up with farmer funding, but the tactic shows an ignorance about the issues that rural families are facing when it comes to education and access to medical"
-    publishedDateTime: 2020-10-18T05:16:00Z
-    webUrl: "https://www.rawstory.com/2020/10/rural-voters-explain-why-theyre-leaving-trump-i-went-from-being-a-pawn-to-collateral-damage/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/rural-voters-explain-why-theyre-leaving-trump-i-went-from-being-a-pawn-to-collateral-damage/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/rural-voters-explain-why-theyre-leaving-trump-i-went-from-being-a-pawn-to-collateral-damage/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 62
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/08/Soy-farmer-745x430.jpg"
-        width: 745
-        height: 430
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
+        width: 800
+        height: 403
         isCached: true
   - title: "BUSTED: Fake Black Trump ‘supporters’ — with tens of thousands of followers — purged on social media"
     excerpt: "Forbes reported that Twitter is suspending several fake accounts posing as Black supporters of President Donald Trump, saying that they violate the guidelines on spam and account manipulation. Many of these accounts used identical language over and over,"
@@ -204,20 +158,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/05/blacks_4_trump_shutterstock.jpg"
         width: 800
         height: 430
-        isCached: true
-  - title: "Mass. middle schooler who supports Trump asks for staff training"
-    excerpt: "The student's family hired an attorney and wrote to administrators in early October asking for the teacher to apologize and for the school to train staff to respect the views of students"
-    publishedDateTime: 2020-10-14T11:48:00Z
-    webUrl: "https://bangordailynews.com/2020/10/14/news/new-england/mass-middle-schooler-who-supports-trump-asks-for-staff-training/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/APTOPIX-Election-2020-Trump.jpg?fit=1024%2C683&#038;ssl=1"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "NWG+0zXax8fuaTlf1gLHJpwn4G+DgbfcAGMMuGQoqnWF2yXYRdTG+7Xt2wnEZsBsm4QtMIH976rnhocjyMHCWHaQHqsn+CjA1GtnhYTJh8viG5fzrp4usGacgZDppTJ01437b3wiOaPqW3UPToX2Z8/jnAa6lqTir5DrA/bEkEGYJnUQAWb0CRpyq3AlE+sXowyDWf8108gmU+B2qEZpTHKCp1raJLDcjnN+mmNzOyJVV3D7lKhX4WoJVyeSjUd9D50Ifd00OplBr5F+fFGxZC7YIzjzK9Pn5Lnqr/NQSaHrjbyag39BvgVvffCqsU+O0M+Zha8tKlf4p8YWHDg9Qvq5qPqbrnsls74hjrVeEFE=;pKjPOhFSzxrm+cbMWIkLEA=="

@@ -2,533 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-10-20-trump-calls-fauci-a-disaster-and-seeks-to-reassure-his-team-he-can-win.md",
-      "title": "Trump calls Fauci a 'disaster' and seeks to reassure his team he can win",
-      "excerpt": "President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday, airing his frustration with the scientist during a call meant to reassure campaign staff he has a path to victory on Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2742AD",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2742AD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538074915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I1MX",
-          "width": 799,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2742AD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742AD",
-      "publishedDateTime": "2020-10-20T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-demi-lovatos-new-song-commander-in-chief-lets-trumps-enablers-off-too-easy.md",
-      "title": "Demi Lovato's new song 'Commander In Chief' lets Trump's enablers off too easy",
-      "excerpt": "Though “Commander in Chief” is a valiant and valid entry into America's protest music canon, it lets everyone but Trump off the hook.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/demi-lovato-s-new-song-commander-chief-lets-trump-s-ncna1243929",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/demi-lovato-s-new-song-commander-chief-lets-trump-s-ncna1243929",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421333/201019-demi-lovato-bbma-ew-421p_2cf653fb217f5a628908233be7d9b23f.jpg",
-          "width": 2500,
-          "height": 1642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1243929",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243929",
-      "publishedDateTime": "2020-10-19T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-joe-biden-slams-trump-criticism-of-dr-anthony-fauci-the-american-people-are-tired-of-your-lies.md",
-      "title": "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'",
-      "excerpt": "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814",
-      "originalUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1",
-      "publishedDateTime": "2020-10-19T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-tells-campaign-staff-were-going-to-win-calls-fauci-a-disaster.md",
-      "title": "Trump tells campaign staff ‘we’re going to win’, calls Fauci a ‘disaster’",
-      "excerpt": "President Trump told campaign staff “we’re going to win this race” in a rouse-the-troops phone call Monday morning where said he would have up to five rallies",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/",
-      "originalUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-staff-win.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/amp/",
-      "publishedDateTime": "2020-10-19T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sen-cory-gardner-tied-to-president-trumps-vindictive-base-faces-conundrum-in-colorado.md",
-      "title": "Sen. Cory Gardner, tied to President Trump's 'vindictive' base, faces conundrum in Colorado",
-      "excerpt": "Larimer County has never shown strong voter support for U.S. Sen. Cory Gardner. Not in 2014, when Larimer County, home to Colorado State University, handed the CSU alumnus his Senate seat by a margin of 0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/19/colorado-election-2020-cory-gardner-donald-trump-campaign-base-conundrum/3711527001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/19/colorado-election-2020-cory-gardner-donald-trump-campaign-base-conundrum/3711527001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/14/PFTC/271b51e9-c3fa-4b03-8386-6fdcd3e33fc6-101320_GardnerHickenlooperDebate_15_bb.jpg?auto=webp&crop=3299,1856,x0,y306&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3711527001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3711527001",
-      "publishedDateTime": "2020-10-19T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-does-team-trump-realize-that-hillary-clinton-isnt-running.md",
-      "title": "Does Team Trump realize that Hillary Clinton isn't running?",
-      "excerpt": "Clinton said of Republicans in 2017, \"It appears they don't know I'm not president.\" She could say now, \"It appears they don't know I'm not a candidate.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-team-trump-realize-hillary-clinton-isn-t-running-ncna1243882",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-team-trump-realize-hillary-clinton-isn-t-running-ncna1243882",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/j/newscms/2016_42/1758506/161020-final-debate-clinton-trump-end-1217a_10a97711107374366ede83a1d78e9a8d.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-reportedly-got-bored-during-one-of-his-first-classified-briefings-on-afghanistan-and-ordered-milkshakes-in-the-middle-of-it.md",
-      "title": "Trump reportedly got bored during one of his first classified briefings on Afghanistan and ordered milkshakes in the middle of it",
-      "excerpt": "Trump has garnered a reputation as a president who routinely ignores intelligence briefings, and reportedly prefers visuals over written briefings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8dae319e9fe4001900a150?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10?amp",
-      "publishedDateTime": "2020-10-19T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-deep-in-trump-country-alabamans-hope-hell-win-90-percent-or-more.md",
-      "title": "Deep in ‘Trump Country,’ Alabamans hope he’ll win 90 percent or more",
-      "excerpt": "A solemn prayer rings out in a wood-paneled courtroom in Winston County, where Donald Trump won a resounding 90 percent of the vote in 2016. Republicans in this conservative bastion in northern Alabama say they hope God will allow the president — a man so unlike them in so many ways — to do even",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/deep-in-trump-country-alabamans-hope-hell-win-90-percent-or-more/",
-      "originalUrl": "https://www.rawstory.com/2020/10/deep-in-trump-country-alabamans-hope-hell-win-90-percent-or-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/1677861-origin_1-645x430.jpg",
-          "width": 645,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/deep-in-trump-country-alabamans-hope-hell-win-90-percent-or-more/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/deep-in-trump-country-alabamans-hope-hell-win-90-percent-or-more/amp/",
-      "publishedDateTime": "2020-10-19T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-john-fogerty-demands-the-president-stop-using-his-music-donald-trump-is-the-fortunate-son.md",
-      "title": "John Fogerty demands the president stop using his music: Donald Trump IS the ‘fortunate son’",
-      "excerpt": "The rock legend tweets about his cease-and-desist order against President Trump, who regularly plays the classic Creedence Clearwater Revival anti-war",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672?mod=home-page",
-      "originalUrl": "https://www.marketwatch.com/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672?mod=home-page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-246451/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672",
-      "publishedDateTime": "2020-10-18T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-kirstie-alley-responds-to-nasty-people-criticizing-her-decision-to-vote-again-for-donald-trump.md",
-      "title": "Kirstie Alley responds to 'nasty people' criticizing her decision to vote again for Donald Trump",
-      "excerpt": "Actress Kirstie Alley is standing up for her decision to vote for President Donald Trump. The \"Cheers\" actress faced \"nasty\" backlash online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/18/kirstie-alley-donald-trump-support-nasty-critics-twitter/3706149001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/18/kirstie-alley-donald-trump-support-nasty-critics-twitter/3706149001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/f2a21d0b-8395-4ade-a00c-0d9b30914ae7-GTY_1017791726.JPG?auto=webp&crop=3853,2168,x0,y1000&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3706149001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3706149001",
-      "publishedDateTime": "2020-10-18T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-18-donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things.md",
       "title": "Donald Trump Jr. says dad’s ‘next move’ is to ‘break up’ FBI: ‘He has to get rid of these things’",
       "excerpt": "Donald Trump Jr. on Sunday called on his father to “break up” the FBI if he wins a second term. During an interview on Fox News, host Maria Bartiromo asked the president’s son what his father would do if the FBI does not do his bidding by smearing the son of Democratic nominee Joe Biden",
@@ -641,7 +114,7 @@
       "originalUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -676,6 +149,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-18-living-and-learning-donald-trump-has-never-met-a-mistake-he-didnt-repeat.md",
+      "title": "Living and learning: Donald Trump has never met a mistake he didn’t repeat",
+      "excerpt": "At his Thursday night town hall, Joe Biden admitted that some of the 1994 crime bill he coauthored was a mistake, reminding us of our own mea culpa on stop-and-frisk four years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/cYD80D5Ij1vd9mvtNW30qxnUC-Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6PB4IDWS2FHFTPB27EWL7PU5PQ.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-18T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-trump-slams-republican-critic-who-warned-of-november-bloodbath.md",
       "title": "Trump slams Republican critic who warned of November 'bloodbath'",
       "excerpt": "U.S. President Donald Trump on Saturday attacked a longtime congressional critic who warned this week that his handling of the coronavirus pandemic and authoritarian leaders could cause a \"Republican bloodbath in the Senate\" in the Nov.",
@@ -684,7 +200,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -780,58 +296,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-17-a-georgia-state-lawmaker-crowdsurfed-over-maskless-attendees-at-a-georgia-trump-rally.md",
-      "title": "A Georgia state lawmaker crowdsurfed over maskless attendees at a Georgia Trump rally",
-      "excerpt": "Vernon Jones, a Black Democratic lawmaker who has endorsed President Trump for reelection, defied health guidelines with the stunt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10",
-      "originalUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8afdf99e9fe40019009ee6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10?amp",
-      "publishedDateTime": "2020-10-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-17-not-going-to-waste-a-single-minute-on-tweets-gop-sen-sasse-pushes-back-after-trump-attacks.md",
       "title": "'Not going to waste a single minute on tweets': GOP Sen. Sasse pushes back after Trump attacks",
       "excerpt": "Trump and GOP Sen. Ben Sasse are publicly feuding as Republicans are working overtime to try keep control of the Senate.",
@@ -864,58 +328,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-trump-joked-that-hell-find-a-way-to-fire-florida-gov-ron-desantis-if-he-loses-the-state-in-november.md",
-      "title": "Trump joked that he'll 'find a way' to fire Florida Gov. Ron DeSantis if he loses the state in November",
-      "excerpt": "The president sees Florida as a must-win state in his electoral coalition if he is to be reelected to a second term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8afa23c21cfb00194689f7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp",
-      "publishedDateTime": "2020-10-17T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1084,6 +496,63 @@
       ]
     },
     {
+      "path": "_news/2020-10-17-whats-really-behind-trumps-i-know-nothing-defense.md",
+      "title": "What's really behind Trump's 'I know nothing' defense",
+      "excerpt": "(CNN)For a guy who brags about having a great memory, President Donald Trump sure has trouble remembering the folks who really like him, which, given his well-documented desire to be loved by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "originalUrl": "https://www.cnn.com/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015173645-trump-rally-crowd-pennsylvania-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "publishedDateTime": "2020-10-16T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-from-qanon-to-dictators-trump-embraces-those-who-embrace-him-back.md",
       "title": "From QAnon to dictators, Trump embraces those who embrace him back",
       "excerpt": "Throughout his presidency, Trump has struggled to condemn white supremacists and other extremists who show support for him, no matter their views or actions.",
@@ -1092,7 +561,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1165,6 +634,49 @@
       "provider": {
         "name": "Page Six",
         "domain": "pagesix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-donald-trump-to-campaign-wednesday-in-gastonia.md",
+      "title": "Donald Trump to campaign Wednesday in Gastonia",
+      "excerpt": "The president will be at the Gastonia Municipal Airport Wednesday to campaign for his 2020 reelection campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "originalUrl": "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wcnc.com/assets/WZZM/images/d11f7245-6d50-49bc-81d7-092cae6f06dd/d11f7245-6d50-49bc-81d7-092cae6f06dd_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "cdnAmpWebUrl": "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "publishedDateTime": "2020-10-16T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCNC",
+        "domain": "wcnc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1271,6 +783,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-mcconnell-not-pelosi-balks-at-trumps-demands-on-economic-aid.md",
+      "title": "McConnell, not Pelosi, balks at Trump's demands on economic aid",
+      "excerpt": "Trump wants the public to believe that Nancy Pelosi is standing in the way of an economic aid package, but it's actually Mitch McConnell who's ignoring him",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcconnell-not-pelosi-balks-trump-s-demands-economic-aid-ncna1243726",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcconnell-not-pelosi-balks-trump-s-demands-economic-aid-ncna1243726",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2017_32/2116716/170811-trump-mcconnell-mn-1155_7675d005b66ad35c468bea532ccec283.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1426,19 +995,227 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-get-the-kids-back-to-school-donald-trump-uses-sons-covid-19-diagnosis-to-push-for-reopening-classrooms.md",
-      "title": "'Get the kids back to school': Donald Trump uses son's COVID-19 diagnosis to push for reopening classrooms",
-      "excerpt": "Barron Trump’s positive COVID-19 test has become part of his father's push to physically reopen schools. The 14-year-old has since tested negative.",
+      "path": "_news/2020-10-16-watch-trumps-reaction-when-a-voter-tells-him-he-has-a-great-smile-during-nbc-news-town-hall.md",
+      "title": "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall",
+      "excerpt": "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/10/15/trump-uses-barrons-coronavirus-test-push-school-reopen/3667827001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/10/15/trump-uses-barrons-coronavirus-test-push-school-reopen/3667827001/",
+      "webUrl": "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10",
+      "originalUrl": "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 173,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200",
+          "url": "https://i.insider.com/5f8909c09e9fe40019009ab8?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp",
+      "publishedDateTime": "2020-10-15T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-trump-ex-fundraiser-to-plead-guilty-in-1mdb-foreign-lobbying-case.md",
+      "title": "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case",
+      "excerpt": "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27033J",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J",
+      "publishedDateTime": "2020-10-15T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-senate-panel-sets-october-22-vote-on-trump-court-pick-despite-democrats-protests.md",
+      "title": "Senate panel sets October 22 vote on Trump court pick despite Democrats' protests",
+      "excerpt": "The Republican-led U.S. Senate Judiciary Committee on Thursday scheduled an Oct. 22 vote to advance conservative appellate judge Amy Coney Barrett's nomination to the Supreme Court to the full Senate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537566094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0SM",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2701AT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2701AT",
+      "publishedDateTime": "2020-10-15T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts.md",
+      "title": "Sasse blasted Trump in private phone call: 'He kisses dictators' butts'",
+      "excerpt": "Ben Sasse (R-Neb.) blasted President Trump for “mistreat [ing] women,” “kiss [ing] dictators’ butts” and mocking evangelicals in private in a recording obtained by the Washington Examiner. In what appears to be a private call with constituents,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts",
+      "originalUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/sasseben_101420gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts?amp",
+      "publishedDateTime": "2020-10-15T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-fact-check-joe-biden-called-forces-of-intolerance-not-trump-supporters-the-dregs-of-society.md",
+      "title": "Fact check: Joe Biden called 'forces of intolerance,' not Trump supporters, the 'dregs of society'",
+      "excerpt": "Accounts linked to President Donald Trump and his family claim that Joe Biden called Trump supporters the \"dregs of society.\" In reality, he said that about \"forces of intolerance.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 386,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -1448,9 +1225,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3667827001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667827001",
-      "publishedDateTime": "2020-10-15T21:09:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5966195002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966195002",
+      "publishedDateTime": "2020-10-15T13:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -1478,21 +1255,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-donald-trump-jr-and-special-guest-to-visit-volusia-saturday.md",
-      "title": "Donald Trump Jr. and 'special guest' to visit Volusia Saturday",
-      "excerpt": "Donald Trump Jr., son of the president, will headline a Trump campaign rally Saturday in Volusia County that's expected to attract thousands of supporters. The event also promises a \"special guest.\" The \"Fighting Against Socialism Bus Tour\" is expected to arrive at the 2A Ranch,",
+      "path": "_news/2020-10-16-trump-administration-sets-gulf-of-mexico-drilling-auction-for-nov-18.md",
+      "title": "Trump administration sets Gulf of Mexico drilling auction for Nov. 18",
+      "excerpt": "The Trump administration on Thursday said it would offer all available areas in the Gulf of Mexico for auction to oil and gas drillers on Nov. 18, the first major test of the offshore sector's appetite for investment since early this year.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journalonline.com/story/news/politics/elections/2020/10/15/donald-trump-jr-and-special-guest-visit-volusia-saturday/3668401001/",
-      "originalUrl": "https://www.news-journalonline.com/story/news/politics/elections/2020/10/15/donald-trump-jr-and-special-guest-visit-volusia-saturday/3668401001/",
+      "webUrl": "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN2702SX",
+      "originalUrl": "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN2702SX",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/10/NTFO/a30fece2-3b0c-4563-8054-f08340a39889-101020_Donald_Trump_Jr_11.jpg?auto=webp&crop=4511,2538,x0,y229&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537642428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1PZ",
+          "width": 908,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1500,14 +1277,236 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.news-journalonline.com/amp/3668401001",
-      "cdnAmpWebUrl": "https://amp-news--journalonline-com.cdn.ampproject.org/c/s/amp.news-journalonline.com/amp/3668401001",
-      "publishedDateTime": "2020-10-15T20:15:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2702SX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702SX",
+      "publishedDateTime": "2020-10-15T12:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daytona Beach News-Journal",
-        "domain": "news-journalonline.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-alec-baldwin-mariska-hargitay-and-more-protest-nbcs-trump-town-hall-air-time.md",
+      "title": "Alec Baldwin, Mariska Hargitay And More Protest NBC’s Trump Town Hall Air Time",
+      "excerpt": "\"Law & Order,\" \"SNL\" and \"This Is Us\" stars called out the network’s decision to air Trump Town Hall at the same time as Joe Biden’s event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746",
+      "originalUrl": "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/president-donald-trump-threw-talks-on-new-us.jpg",
+          "width": 1024,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1",
+      "publishedDateTime": "2020-10-15T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-will-trump-win-again-watch-floridas-sumter-county-for-first-election-night-clue.md",
+      "title": "Will Trump win again? Watch Florida's Sumter County for first election night clue.",
+      "excerpt": "Will Trump win again? Watch Florida's Sumter County for first election night clue. Last week, Democrats took delight in the spectacle of a 500-golf cart flotilla of Joe Biden supporters parading through Florida's largest retirement community en route to turn in their vote-by-mail ballots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/will-trump-win-again-watch-florida-s-sumter-county-first-n1243497",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/will-trump-win-again-watch-florida-s-sumter-county-first-n1243497",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_42/3420360/201015-the-villlages-al-0741_d3ce3f854b407fc2901767388f852caa.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243497",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243497",
+      "publishedDateTime": "2020-10-15T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-trump-tweet-gave-taliban-upper-hand-in-negotiations-afghan-peace-official-tells-financial-times.md",
+      "title": "Trump tweet gave Taliban upper hand in negotiations: Afghan peace official tells Financial Times",
+      "excerpt": "A tweet by President Donald Trump calling for U.S. troops to be home by Christmas has given the insurgent Taliban the upper hand in negotiations, the top Afghanistan peace official told the Financial Times newspaper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/afghanistan-taliban-int/trump-tweet-gave-taliban-upper-hand-in-negotiations-afghan-peace-official-tells-financial-times-idUSKBN2701Q5",
+      "originalUrl": "https://www.reuters.com/article/afghanistan-taliban-int/trump-tweet-gave-taliban-upper-hand-in-negotiations-afghan-peace-official-tells-financial-times-idUSKBN2701Q5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537585037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E13E",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701Q5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701Q5",
+      "publishedDateTime": "2020-10-15T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-trump-tries-to-shore-up-support-from-big-business-iowans.md",
+      "title": "Trump tries to shore up support from big business, Iowans",
+      "excerpt": "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_d47b702268724e7b9f1ab4a4522bab57_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
+      "publishedDateTime": "2020-10-14T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,232 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-13-ivanka-trump-campaigns-in-wisconsin-georgia-3-weeks-before-election-day.md",
+      "title": "Ivanka Trump campaigns in Wisconsin, Georgia 3 weeks before Election Day",
+      "excerpt": "Advisor to the president Ivanka Trump visited Wisconsin ahead of a visit to Georgia on Tuesday for campaign events three weeks before the 2020 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 409,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ivanka-Trump.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp",
+      "publishedDateTime": "2020-10-13T12:01:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-trump-attorneys-ask-supreme-court-for-stay-in-manhattan-das-tax-case.md",
+      "title": "Trump attorneys ask Supreme Court for stay in Manhattan DA's tax case",
+      "excerpt": "The president’s attorneys argue that the DA’s subpoena for his tax documents is 'overbroad' and lacks 'good faith.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-attorneys-ask-supreme-court-stay-manhattan-da-s-tax-n1243207",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-attorneys-ask-supreme-court-stay-manhattan-da-s-tax-n1243207",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_42/3419820/201013-donald-trump-florida-jm-1413_ae797ea12ee1e8ec3d62f1ab8af6c82b.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243207",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243207",
+      "publishedDateTime": "2020-10-13T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-watch-live-joe-biden-delivers-remarks-on-vision-for-older-americans.md",
+      "title": "Watch live: Joe Biden delivers remarks on vision for older Americans",
+      "excerpt": "Watch live coverage as former Vice President Joe Biden delivers remarks on his vision for older Americans in Pembroke Pines, Fla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-on-vision-for-older-americans-93755973895",
+      "originalUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-on-vision-for-older-americans-93755973895",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/2020-10-12T190715Z_1179308835_RC27HJ9P5VQL_RTRMADP_3_USA-ELECTION-BIDEN.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93755973895",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93755973895",
+      "publishedDateTime": "2020-10-13T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.md",
+      "title": "Barrett allies use ad with Biden, Schumer to promote ‘Ginsburg Standard’",
+      "excerpt": "Supporters of Judge Amy Coney Barrett’s nomination to the Supreme Court are promoting the “Ginsburg Standard” of not answering questions about hypothetical cases, as Barrett’s confirmation hearings get underway in the Senate. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kTbLpIZ0UqA/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kTbLpIZ0UqA/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7c204b7-5802-4d50-ad0a-59e6e92a598b/54ad03db-d03d-4987-b285-b56ea5d7d5e9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp",
+      "publishedDateTime": "2020-10-13T10:01:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-mitt-romney-criticizes-trump-democrats-as-he-decries-vile-and-hate-filled-state-of-american-politics.md",
       "title": "Mitt Romney criticizes Trump, Democrats as he decries 'vile' and 'hate-filled' state of American politics",
       "excerpt": "Utah Sen. Mitt Romney, the 2012 Republican nominee for president, directly criticized President Donald Trump and Speaker Nancy Pelosi.",
@@ -118,7 +344,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -222,7 +448,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10780,
+      "heat": 10680,
       "tags": null,
       "images": [
         {
@@ -267,21 +493,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-kamala-harris-questions-supreme-court-nominee-us-election-news.md",
-      "title": "Kamala Harris questions Supreme Court nominee: US election news",
-      "excerpt": "Donald Trump began his rally in Johnstown, Pennsylvania, a bit late but he had a good excuse: He was watching Kamala Harris question his Supreme Court nominee Amy Coney Barrett. “That’s ...",
+      "path": "_news/2020-10-13-doug-jones-as-joe-bidens-attorney-general-alabama-senator-name-thrown-into-mix.md",
+      "title": "Doug Jones as Joe Biden’s Attorney General? Alabama Senator name thrown into mix",
+      "excerpt": "If Democrat Joe Biden wins the presidential election on Nov. 3 – however long the vote tally takes – would he consider Alabama Senator Doug Jones as the next U.S. Attorney General? Yes, according to a recent article from Politico.",
       "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news",
-      "originalUrl": "https://www.aljazeera.com/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news",
+      "webUrl": "https://www.al.com/news/2020/10/doug-jones-as-joe-bidens-attorney-general-alabama-senator-name-thrown-into-mix.html",
+      "originalUrl": "https://www.al.com/news/2020/10/doug-jones-as-joe-bidens-attorney-general-alabama-senator-name-thrown-into-mix.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1680,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20287836163811.jpg?resize=1200%2C630",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FCXH7PGNZJBHRK3X6DAFNREBO4.jpg",
+          "width": 4368,
+          "height": 2912,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -289,23 +515,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news",
-      "publishedDateTime": "2020-10-13T07:49:00-07:00",
+      "ampWebUrl": "https://www.al.com/news/2020/10/doug-jones-as-joe-bidens-attorney-general-alabama-senator-name-thrown-into-mix.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/doug-jones-as-joe-bidens-attorney-general-alabama-senator-name-thrown-into-mix.html?outputType=amp",
+      "publishedDateTime": "2020-10-13T07:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -315,7 +532,7 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
+        "Joe Biden"
       ]
     },
     {
@@ -374,7 +591,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 435,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -522,6 +739,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-13-joe-bidens-support-for-lgbtq-rights-is-no-joke-whatever-saturday-night-live-says.md",
+      "title": "Joe Biden's support for LGBTQ rights is no joke, whatever 'Saturday Night Live' says",
+      "excerpt": "Biden pointed his finger at my heart, said 'trans rights are human rights,' and told me about his plans to ensure no LGBTQ person gets left behind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tennessean.com/story/opinion/2020/10/13/biden-champion-lesbian-gay-bisexual-transgender-americans-column/5969757002/",
+      "originalUrl": "https://www.tennessean.com/story/opinion/2020/10/13/biden-champion-lesbian-gay-bisexual-transgender-americans-column/5969757002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/2e284423-1388-4be5-b900-c2009cc463c8-Clymer_and_Biden.jpg?auto=webp&crop=959,539,x1,y86&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.tennessean.com/amp/5969757002",
+      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5969757002",
+      "publishedDateTime": "2020-10-13T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tennessean",
+        "domain": "tennessean.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-kkk-social-visit-cards-left-at-joe-biden-supporters-homes-in-tennessee.md",
       "title": "KKK 'Social Visit' Cards Left at Joe Biden Supporters' Homes in Tennessee",
       "excerpt": "Residents in Shelbyville also said that signs showing support for Democratic candidate appeared to have been run over by a car.",
@@ -574,21 +834,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-against-all-enemies-trump-threatens-to-aim-the-power-of-the-federal-government-at-his-political-foes.md",
-      "title": "Against all enemies: Trump threatens to aim the power of the federal government at his political foes",
-      "excerpt": "It’s no surprise coming from the man who presided over “Lock her up” chants at his 2016 rallies, but it still shocks the conscience: As president, Donald Trump is doing all he can to use the force of the federal government to intimidate,",
+      "path": "_news/2020-10-13-as-trump-holds-rally-fauci-urges-masks-avoiding-mass-gatherings.md",
+      "title": "As Trump holds rally, Fauci urges masks, avoiding mass gatherings",
+      "excerpt": "As President Donald Trump held his first campaign rally since disclosing he contracted the coronavirus this month, top U.S. infectious disease expert Anthony Fauci said the United States faced a \"whole lot of trouble\" if it did not encourage universal wearing of face",
       "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html",
-      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-fauci-idUSKBN26X2K4",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-fauci-idUSKBN26X2K4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 605,
       "tags": null,
       "images": [
         {
-          "url": "https://www.nydailynews.com/resizer/cmK2ixqKqNcqJxHnoL8GlF8_5BM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/D4SIBM7BQJENXLJDJSCIS4GCL4.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537204245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C019",
+          "width": 818,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -596,59 +856,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-13T01:07:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26X2K4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2K4",
+      "publishedDateTime": "2020-10-12T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-trump-says-hell-kiss-everyone-in-crowd-at-rally.md",
-      "title": "Trump says he'll 'kiss everyone' in crowd at rally",
-      "excerpt": "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/0e385ace-fd32-4196-b1c2-1265f34474f5_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -681,7 +898,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 475,
+      "heat": 555,
       "tags": null,
       "images": [
         {
@@ -780,7 +997,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 635,
+      "heat": 555,
       "tags": null,
       "images": [
         {
@@ -907,110 +1124,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-kamala-harris-accuses-amy-coney-barrett-of-planning-to-undo-rbgs-legacy-and-to-do-the-gops-dirty-work.md",
-      "title": "Kamala Harris accuses Amy Coney Barrett of planning to ‘undo RBG’s legacy’ and to do the GOP’s ‘dirty work’",
-      "excerpt": "Kamala Harris, the Democratic vice presidential nominee, says Republicans are trying to get the Supreme Court to do their “dirty work” by installing a new justice who will overturn the Affordable Care Act.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/00000175-1ed1-de05-a9f7-7ffb61bc0000-123",
-      "originalUrl": "https://www.latimes.com/politics/00000175-1ed1-de05-a9f7-7ffb61bc0000-123",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/e36e9f8/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F32%2F51%2F615392c94bf7861703acda7c66b2%2Fharris-comfirmation-amy-coney-barrett-la-thmb.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-fauci-trump-ad-taking-him-out-of-context-really-disappointing-should-be-taken-down.md",
-      "title": "Fauci: Trump ad taking him out of context 'really disappointing', should be taken down",
-      "excerpt": "Asked by \"The Lead\" anchor Jake Tapper whether he believes the ad should be taken down, Fauci said, \"I think so.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/dr-fauci-says-trump-ad-featuring-him-should-taken-down/5972629002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/dr-fauci-says-trump-ad-featuring-him-should-taken-down/5972629002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/5f4edcd4-b446-4136-8cf7-987c080931fd-GTY_1228670944.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5972629002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972629002",
-      "publishedDateTime": "2020-10-12T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1176,115 +1289,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight.md",
-      "title": "Biden: Faith shouldn't be a subject in Barrett confirmation fight",
-      "excerpt": "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
-      "originalUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
-      "publishedDateTime": "2020-10-12T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-read-kamala-harris-remarks-at-the-supreme-court-confirmation-hearing.md",
-      "title": "Read: Kamala Harris' remarks at the Supreme Court confirmation hearing",
-      "excerpt": "Sen. Kamala Harris, the Democratic vice presidential nominee and a member of the Senate Judiciary Committee, spoke at the Supreme Court confirmation hearing of Amy Coney Barrett Monday remotely from her Senate office.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7_0ESG6VMM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7_0ESG6VMM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201012131303-04-barrett-hearing-1012-screengrab-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html",
-      "publishedDateTime": "2020-10-12T10:29:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

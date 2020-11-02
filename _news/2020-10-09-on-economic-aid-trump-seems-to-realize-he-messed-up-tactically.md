@@ -7,8 +7,8 @@ originalUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/economic-aid-trum
 webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/economic-aid-trump-seems-realize-he-messed-tactically-ncna1242704"
 type: article
 quality: 115
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -28,6 +28,49 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "See Tapper's direct message to Americans after Trump's 'callous' tweet"
+    excerpt: "CNN's Dr. Sanjay Gupta and Jake Tapper react to President Donald Trump's tweet telling Americans not to be afraid of Covid-19.\n    \n"
+    publishedDateTime: 2020-10-05T21:13:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBefDRw1-nk/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005163054-tapper-gupta-lead-10052020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump hopes for Monday discharge as Americans wonder about his health"
+    excerpt: "It's been more than two days since President Donald Trump was airlifted to Walter Reed National Military Medical Center, but Americans remain largely in the dark about the trajectory of his infection with Covid-19 and the specifics of his condition as the White House tries to control the optics of his"
+    publishedDateTime: 2020-10-05T13:18:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Mz23KP1Wmo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004234718-04-trump-walter-reed-morotcade-1004-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
+    excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
+    publishedDateTime: 2020-10-04T09:02:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trump-might-lose-but-his-judges-will-keep-wrecking-america-for-years-to-come"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 38
 
 secured: "K4o0pirkKfMVp+QV7PzsoEqchWl1nJxeIu8Nb2eTkrEojkKFd8szNsLxyMyc37TA9Qx3RrF5XePNKfi9BIDsHQmt5Qg4magG1mNpIxzuF/hHG4wA7A2msCw4v1JDjN91mCOZhQWN9z/dbBxEKu7pgYLYLmiHhXJMMdVdTDgzgu2sIqavFadLXGC1oLeb4gUtvi9ZFysW5gFQMDn2EbtXSn31jPyWk1sd/dHMD0RF2pM+0DGQZ/jj/Y5CKvlC4vud4vF/2dWjIXcpDEvMWN061W+Nae1Z0UbYajbowhDIHNxHhBlyk6ooE8v8+MpDmGZij1hKdMphwEDONwU1WtgLtdUoGUVQhwq6GG9MKKLbQYcxrNHoWave25HdjOhTZ5/5MczaVXgG7hoM1UPX1+puIOyzJy80i75PrNnezwFKtSgI0n8h68i0lSsNUpj3/KhTISuiuM6sXpI0GtgfYg+wen/ZB0gZnnzw0DuZmDLFL5dDn/gx/jLTNlzmSJ4NQYOnW/0tMPGzmkOqVONRFfccZg==;6Ft/0UsRkdgb8QZd0iutyw=="
 ---

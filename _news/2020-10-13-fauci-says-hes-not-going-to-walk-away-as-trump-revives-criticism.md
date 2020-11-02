@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/trump-versus-fauci/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/trump-versus-fauci/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 415
 published: true
 
 provider:
@@ -190,22 +190,6 @@ related:
       - url: "https://static.politico.com/ad/dc/4ddc83174a25a8aefdbc7e4b876c/201019-fauci-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Dr. Fauci contradicts Trump's false claim that Covid-19 is as deadly as flu"
-    excerpt: "\"It is not correct to say it's the same as flu,\" the government's top infectious disease experts told NBC News' Kate Snow."
-    publishedDateTime: 2020-10-06T23:27:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/dr-fauci-contradicts-trump-s-false-claim-covid-19-deadly-n1242340"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242340"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242340"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418022/201006-anthony-fauci-jm-1700_11670c45c1eef9372c7dc60f11a33626.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Trump 'not happy' with Barr, won't commit to keeping AG in potential second term"
     excerpt: "The Justice Department found no evidence of wrongdoing and declined to release its report publicly or file any charges into Obama-era 'unmasking.'"

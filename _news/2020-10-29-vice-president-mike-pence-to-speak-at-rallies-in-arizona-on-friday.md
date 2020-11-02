@@ -1,0 +1,76 @@
+---
+category: news
+title: "Vice President Mike Pence to speak at rallies in Arizona on Friday"
+excerpt: "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson."
+publishedDateTime: 2020-10-29T05:16:00Z
+originalUrl: "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+webUrl: "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+type: article
+quality: 75
+heat: -1
+published: false
+
+provider:
+  name: KPNX
+  domain: 12news.com
+
+topics:
+  - Election
+  - Mike Pence
+
+images:
+  - url: "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg"
+    width: 1140
+    height: 641
+    isCached: true
+
+related:
+  - title: "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday"
+    excerpt: "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday."
+    publishedDateTime: 2020-10-26T23:30:00Z
+    webUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday"
+    ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+    type: article
+    provider:
+      name: TMJ4
+      domain: tmj4.com
+    quality: 75
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Mike Pence, second lady Karen Pence to make separate stops in North Carolina next week"
+    excerpt: "In the homestretch leading up to Election Day, the Trump/Pence campaign announced both Vice President Mike Pence and second lady Karen Pence will make stops in battleground North Carolina next week."
+    publishedDateTime: 2020-10-25T01:35:00Z
+    webUrl: "https://abc11.com/politics/mike-karen-pence-to-make-separate-stops-in-north-carolina-next-week/7314278/"
+    ampWebUrl: "https://abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 60
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Mike Pence welcomed by crowd of 500 in Flint"
+    excerpt: "Tonight as the sun went down, Air Force Two touched down at Flint Bishop Airport. Pence hustled up to the podium, highlighting the importance of Michigan in this election."
+    publishedDateTime: 2020-10-29T04:28:00Z
+    webUrl: "https://www.fox2detroit.com/video/865403"
+    ampWebUrl: "https://www.fox2detroit.com/video/865403.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/video/865403.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 55
+
+secured: "b2bs4pDB4gtdke724HPwWUhGrCpTjELH/8mV15WCvEOcFp4hpRmhptYahoIJ65caVJ56qJKC/woKjCD1XKqSoCCqjK/o2yjnuo1Ik7TDhFW+85ihetHX26A8CmnvNLDJF6AG3SnjC31lhuJPCiwPIUuWl5LSuX2aOIZPvMNq0WKUp3DcTAGw94i2mBjr9BFxwOhIM7T3dyCYXujzVxeHX2oT/jeftw8r6TGTgXKoZuRP8bHUCT+cGIRep+8lRMu3/iRED/gaqEBLfaSAJcvkIROq23GEQIi2SDHzS1BOryujKv0iZmmaZASQ3+Aui5/yqcHvXjQhEerRPUu87ekb2X0O7QS5y0h3cuKgeQW90m8=;jv9hQ3edKZEc2lTUzmACnw=="
+---
+

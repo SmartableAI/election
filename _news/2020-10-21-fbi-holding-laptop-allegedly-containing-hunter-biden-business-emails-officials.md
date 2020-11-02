@@ -414,6 +414,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hey, Joe Biden, what did you know about Hunter’s dirty deals?: Goodwin"
+    excerpt: "Now that some secrets of the Biden family business are no longer secrets, it’s easy to imagine Joe Biden asking the same question Robert Redford asked in the 1972 film “The Candidate.”"
+    publishedDateTime: 2020-10-17T10:14:00Z
+    webUrl: "https://nypost.com/2020/10/17/what-did-joe-biden-know-about-hunters-crook-emails-goodwin/"
+    ampWebUrl: "https://nypost.com/2020/10/17/what-did-joe-biden-know-about-hunters-crook-emails-goodwin/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/what-did-joe-biden-know-about-hunters-crook-emails-goodwin/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/ObamaJoeHunter.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Hunter biz partner confirms e-mail, details Joe Biden’s push to make millions from China: Goodwin"
     excerpt: "Wait until Scranton hears about this. One of Joe Biden’s ways of contrasting himself with President Trump has been to declare the election a battle of Park Avenue values vs. Scranton, Pa., values."
     publishedDateTime: 2020-10-22T04:44:00Z

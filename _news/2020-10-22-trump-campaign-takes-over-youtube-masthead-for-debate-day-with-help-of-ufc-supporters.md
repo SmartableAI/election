@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
 type: article
 quality: 168
-heat: 208
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Pollster who predicted 2016 result says Trump on track to win again with help of 'hidden' support"
-    excerpt: "With two weeks left until Election Day, 35 million Americans having already voted, and most polls showing Joe Biden leading President Trump, Trafalgar Group chief pollster Robert Cahaly told “Hannity” Tuesday the incumbent is likely to be reelected."
-    publishedDateTime: 2020-10-21T03:53:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9GoVbc_gSPQ/robert-cahaly-trafalgar-group-2020-election-polls"
-    ampWebUrl: "https://www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
+  - title: "Trump campaign website briefly defaced by hackers making outlandish claims"
+    excerpt: "President Trump’s campaign website was briefly hacked Tuesday, according to reports."
+    publishedDateTime: 2020-10-28T07:08:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/koSNkPEs6Ec/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b3568cb-18e7-4d67-a16b-76fb5ff90b60/5a562e06-b9f3-41fc-b1b1-7004ce012eae/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/beba87ae-315f-4d4f-af9c-349ea7c729e2/cfc957e4-d7a5-46c7-86eb-cab2922961e9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Leslie Stahl to Trump: Can You Characterize Your Supporters?; Trump: \"People Who Love Our Country\""
-    excerpt: "President Donald Trump released the footage of his interview with Leslie Stahl to the public on Thursday. In this video, Stahl questions Trump about his supporters. \"Can you characterize your supporters?"
-    publishedDateTime: 2020-10-22T23:46:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/22/leslie_stahl_to_trump_can_you_characterize_your_supporters_trump_people_who_love_our_country.html"
+  - title: "Trump campaign adviser Lewandowski predicts clear election winner with Trump victories in major swing states"
+    excerpt: "President Trump has warned that Americans may not learn the results of the presidential election until well after Election Day due to certain battleground states extending the deadline for accepting mailed ballots, but Trump campaign senior adviser Corey Lewandowski predicted that Trump will win so decisively"
+    publishedDateTime: 2020-11-01T15:08:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/muP_8kyz5sk/trump-campaign-adviser-lewandowski-election-predictions-swing-states"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-adviser-lewandowski-election-predictions-swing-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-adviser-lewandowski-election-predictions-swing-states.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 51
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
     images:
-      - url: "https://assets.realclear.com/images/52/524929.jpg"
-        width: 1036
-        height: 776
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be367b42-5921-461d-b8a2-7cd1b5de3963/800d4d41-4d0a-4de7-bd12-e9bff97e3c9d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump claims Obama 'campaigning for us' after former president's scathing rebuke"
+    excerpt: "President Trump claimed that former President Obama was campaigning for him “every time he speaks,” after Trump’s predecessor slammed him at a rally for Joe Biden Wednesday night. "
+    publishedDateTime: 2020-10-22T21:00:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xDnpvv7VpU/trump-obama-campaigning-for-us"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Obama-Trump-AP.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "8XxmVX+xI0WjEfESxP2SDCVaZ5XwwqzbldhpYtLZBQddlzwfMY50K/YG0e2BLMLxlgv7xndMYpQK3sEvNGead348mh+CVdsfWwGXYxJI0ZmyXUlF1f6pm40ZbeR8SsTNpMK7RqPKttlq5YehlXwzWaencQXQyevoMogTA0yqjGtsnGxMTbGOmyUmYnKb9hIZdullv39ptXFNVuYTXsLTERkw2YrvlljVthE4ghEuShPUm74rtLGmwD0BA2SVleDpOURGb2vHX1Oxi2Bew6ZIGqtVtz7Rogf0puyDNTe8CVqDtOIl1UBkHkt79exqYnEYr2Rn9ZyFRtchNDQq64Qtfc6NZzTihvZnyt010vVkBQ0=;GKVBGwZpvcNvTf2Qni5YsQ=="

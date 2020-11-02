@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-reall
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/amp/"
 type: article
 quality: 125
-heat: 185
+heat: 125
 published: true
 
 provider:
@@ -29,46 +29,6 @@ images:
     width: 1199
     height: 856
     isCached: true
-
-related:
-  - title: "F-16 Intercepts Plane Flying Close To Trump Rally, Deploys Signal Flares"
-    excerpt: "The U.S. Federal Aviation Administration had placed the airspace that the unauthorized plane flew into under temporary restriction due to Trump's campaign rally."
-    publishedDateTime: 2020-10-29T03:38:00Z
-    webUrl: "https://www.ibtimes.com/f-16-intercepts-plane-flying-close-trump-rally-deploys-signal-flares-3072160"
-    ampWebUrl: "https://www.ibtimes.com/f-16-intercepts-plane-flying-close-trump-rally-deploys-signal-flares-3072160?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/f-16-intercepts-plane-flying-close-trump-rally-deploys-signal-flares-3072160?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/11/pakistan-has-a-fleet-of-about-50-f.jpg"
-        width: 1024
-        height: 563
-        isCached: true
-  - title: "RI's House Speaker in Tight Race in Pro-Trump District"
-    excerpt: "Rhode Island's Democratic House speaker is in a tight race as he campaigns to hang on to his legislative seat in a district that went for Donald Trump in 2016."
-    publishedDateTime: 2020-10-25T12:53:00Z
-    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district"
-    ampWebUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "The Latest: Trump Supporters Delayed in the Cold After Rally"
-    excerpt: "Throngs of people who attended a campaign rally held by President Donald Trump at a Nebraska airport had to wait around in frigid weather for hours after it ended before they could get back to their cars."
-    publishedDateTime: 2020-10-28T14:22:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "RwuFh5DTrpTo0/bFinvofNObUb2HEY0oFNLMU7jsWqliFX6JnU38x+TYpmOhpl1AzLO+yGwTDGr5Lj4NsfXuGOXry9pBQ4ejdvGiiwXSTzwHBaAXPnl1L1OpDp0Zbpi52YWCQ983kT3rebQIzRiRrRmIIPNcHbHIsx6160Sx9i+CpuxQMiyVZFVFJdHFRawiQQVITBjdgESIQYVGiAw2x+nKSU9amIKFKgwpTP72o4BZarvOLlkMuDL5gWolCi3ITY9Yz19gDyNi5/nrgWV6ngtZxF/AVO1WS/GuW4+mX47Q4sIo7u0E2hbDxaI/3wOhO8dxQDWyDvrL+JLBO/3ubT8A+uvNaLLJ+dAs2Y4/cVM=;L0y++6YyBVy9eM25MtP1aQ=="
 ---

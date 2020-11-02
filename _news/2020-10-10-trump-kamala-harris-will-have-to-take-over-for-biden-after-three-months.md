@@ -43,22 +43,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin"
-    excerpt: "Harris has essentially five tasks. Keep in mind that we should expect a much smaller audience for next week’s event and that the vice-presidential faceoff has never affected the outcome of the presidential contest."
-    publishedDateTime: 2020-10-01T16:45:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 175
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SAPLPEACWUI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Trump soldier Mike Pence faces off with an impressive Kamala Harris: Mastio and Lawrence"
     excerpt: "Pence didn't even pretend Trump has a plan to protect insurance for people with preexisting conditions. And Harris didn't answer on 'packing the court.'"
     publishedDateTime: 2020-10-08T04:58:00Z
@@ -154,22 +138,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/bf51c65e-ece4-47bf-91cc-86f7ed0aadad-AFP_AFP_8RN2T9.jpg?auto=webp&crop=5068,2851,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Biden Likely to Tap Kamala Harris to Prosecute Trump Court Pick"
-    excerpt: "Vice presidential nominee Kamala Harris is expected to play a prominent role in the fight against President Donald Trump’s Supreme Court nominee, though it’s not clear whether she’ll tear into pick in the same way she went after now-Justice Brett Kavanaugh,"
-    publishedDateTime: 2020-09-20T16:54:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 155
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5e44OeJFk9U/v0/360x-1.jpg"
-        width: 360
-        height: 239
         isCached: true
   - title: "Election 2020 Today: Trump resets, Biden harnesses history"
     excerpt: "Three weeks before Election Day, President Donald Trump’s campaign has been left reeling by a series of setbacks"
@@ -282,22 +250,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LDHVJAAOQUI6XADUB2KDVEN7BA.jpg&w=1440"
         width: 1440
         height: 808
-        isCached: true
-  - title: "Joe Biden and Kamala Harris release 2019 tax returns ahead of debate"
-    excerpt: "Democratic nominees Joe Biden and Kamala Harris released their 2019 tax returns as an explosive report shed light on President Trump's income taxes."
-    publishedDateTime: 2020-09-29T19:38:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 150
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/8410e00/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2Fe8%2Ff7ed2525455f94d478de7b80ac55%2Ftrump-and-biden.jpg"
-        width: 320
-        height: 209
         isCached: true
   - title: "Kamala Harris v Mike Pence: Why this vice-president debate matters"
     excerpt: "This promises to be a vice-presidential debate like no other. Some have even called it the most important in history, since it comes as the US president is ill with Covid 19, a virus that's claimed 200,"
@@ -939,38 +891,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason"
-    excerpt: "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word."
-    publishedDateTime: 2020-09-13T21:21:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376DOHTVYI6VGM4M77XX5VJ2I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "How For-Profit Colleges Might Fare Under Joe Biden And Kamala Harris"
-    excerpt: "For-profit colleges have had it made the last few years. After years of scrutiny and tougher regulation, many for-profit executives made a sigh of relief when Trump—the owner of an unaccredited for-profit college—was elected."
-    publishedDateTime: 2020-09-14T19:03:00Z
-    webUrl: "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/"
-    ampWebUrl: "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 140
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5fb7b1f734baeeab7acc41%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biden aims to expand map as Trump recovers from coronavirus"
     excerpt: "As President Donald Trump recovers from the coronavirus, Joe Biden is trying to capitalize on having the campaign trail all to himself"
     publishedDateTime: 2020-10-06T08:19:00Z
@@ -1354,6 +1274,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_337f5b3358fa4af984533f8f2b6a6581_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump, Biden quizzed on COVID-19, QAnon and taxes: a timeline"
+    excerpt: "US President Donald Trump and Democratic nominee Joe Biden competed for TV audiences in duelling town halls instead of meeting face to face for their second debate as originally planned."
+    publishedDateTime: 2020-10-17T00:40:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/10/15/kamala-harris-pauses-in-person-campaigning-us-election-new"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/15/kamala-harris-pauses-in-person-campaigning-us-election-new"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/15/kamala-harris-pauses-in-person-campaigning-us-election-new"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 140
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/10/000_8T834A.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump and Biden try to woo early U.S. voters on Sunday"
     excerpt: "U.S. presidential rivals Donald Trump and Joe Biden will court early voters on Sunday as their campaigns step up events ahead of their final debate this week."
@@ -3613,22 +3549,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "When Are The Next Presidential Debates? Schedule Includes Two More Trump-Biden Showdowns, One Pence-Harris Faceoff"
-    excerpt: "Republican President Donald Trump and Democratic nominee Joe Biden are set to square off two more times in October, after a chaotic first debate on Tuesday."
-    publishedDateTime: 2020-10-01T01:36:00Z
-    webUrl: "https://www.ibtimes.com/when-are-next-presidential-debates-schedule-includes-two-more-trump-biden-showdowns-3054683"
-    ampWebUrl: "https://www.ibtimes.com/when-are-next-presidential-debates-schedule-includes-two-more-trump-biden-showdowns-3054683?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/when-are-next-presidential-debates-schedule-includes-two-more-trump-biden-showdowns-3054683?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 108
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/30/us-president-donald-trump-and-democratic-candidate-joe.jpg"
-        width: 1024
-        height: 690
-        isCached: true
   - title: "Joe Biden pushes back at President Trump for downplaying masks, says wearing one is \"patriotic\""
     excerpt: "After President Trump's mask photo op on the White House balcony, his Democratic rival is emphasizing the importance of masks. In a NBC News town hall, former Vice President Biden told the audience wearing a mask was a \"big deal\" and \"patriotic."
     publishedDateTime: 2020-10-06T11:57:00Z
@@ -3961,22 +3881,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg"
         width: 1024
         height: 681
-        isCached: true
-  - title: "Joe Biden, Kamala Harris to make campaign appearance in Arizona"
-    excerpt: "Joe Biden and running mate Sen. Kamala Harris are coming to Arizona to campaign Thursday just as early voting gets started. The Biden campaign announced the visit to Arizona late Thursday, hours after President Donald Trump announced he would return to the battleground state for his sixth and seventh visits on Monday and Tuesday."
-    publishedDateTime: 2020-10-02T03:11:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/01/joe-biden-kamala-harris-make-campaign-appearance-arizona/5890211002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5890211002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5890211002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 100
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/15/PMJS/9d0fa111-a48e-4b24-9259-a322f3fbce5e-AP_Election_2020_Joe_Biden_Profile.jpg?auto=webp&crop=2419,1361,x0,y122&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Kamala Harris and Mike Pence clash, but in a civilized way"
     excerpt: "The vice presidential debate pitted a kinder, gentler Donald Trump against a former prosecutor turned senator. It wasn't a 'no-fly' zone."
@@ -4614,22 +4518,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris tests negative for COVID-19, joins Joe Biden in wishing President Donald Trump ‘full and speedy recovery’"
-    excerpt: "Harris was tested Thursday as part of the campaign’s routine testing. Her results came back negative, news outlets reported."
-    publishedDateTime: 2020-10-02T15:02:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/democratic-vp-candidate-sen-kamala-harris-tests-negative-for-covid-19-joins-running-mate-joe-biden-in-wishing-president-donald-trump-full-and-speedy-recovery.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/democratic-vp-candidate-sen-kamala-harris-tests-negative-for-covid-19-joins-running-mate-joe-biden-in-wishing-president-donald-trump-full-and-speedy-recovery.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/democratic-vp-candidate-sen-kamala-harris-tests-negative-for-covid-19-joins-running-mate-joe-biden-in-wishing-president-donald-trump-full-and-speedy-recovery.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 91
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/J6PQVLFDERCORGP7MEI3H56VX4.JPG"
-        width: 1300
-        height: 1011
-        isCached: true
   - title: "From Kayla Mueller to John McCain, Arizona looms large in Mike Pence-Kamala Harris debate"
     excerpt: "Arizona themes ran through the debate between Vice President Mike Pence and Sen. Kamala Harris, D-Calif., the Democratic VP nominee."
     publishedDateTime: 2020-10-08T15:43:00Z
@@ -5013,6 +4901,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "Fact-checking Donald Trump, Joe Biden in head-to-head town halls"
+    excerpt: "It was supposed to be the second presidential debate. Instead, President Donald Trump refused a virtual debate and followed Joe Biden’s lead of doing a town hall on network television."
+    publishedDateTime: 2020-10-16T22:54:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/16/donald-trump-joe-biden-town-hall-fact-check-election-2020/3675867001/"
+    ampWebUrl: "https://amp.freep.com/amp/3675867001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3675867001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/12da6da8-5aef-4b74-9d97-90ed056f203f-AP20290036202128.jpg?auto=webp&crop=5470,3077,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "HA HA! Donald Trump Loses To Biden in Ratings"
     excerpt: "First, in August the Democratic National Convention beat out the Republican National Convention by a good margin, and now, as Biden and Trump competed with Town Halls on ABC and NBC respectively, Biden once again won the ratings contest,"
@@ -5619,6 +5523,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KOFDJ3H4GRDYPBTWWDK3CLT67M.jpg"
         width: 5205
         height: 3470
+        isCached: true
+  - title: "It Sure Sounds Like Trump Is About to Back Out of the Last Debate With Biden"
+    excerpt: "Donald Trump really likes milkshakes Which would be fine and perhaps even somewhat humanizing given the deliciousness of the frosty drink if not for the fact that he’s reportedly more focused on ..."
+    publishedDateTime: 2020-10-19T00:00:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-joe-biden-scientists"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-joe-biden-scientists/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-joe-biden-scientists/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 87
+    images:
+      - url: "https://media.vanityfair.com/photos/5f7f095db13a7bb1006f713e/master/pass/TrumpDebate10.8.jpg"
+        width: 2000
+        height: 1424
         isCached: true
   - title: "Struggling Ann Arbor club owner in Biden ad: 'This is Donald Trump's economy'"
     excerpt: "A national TV ad airing Sunday from Joe Biden's campaign focuses on the Blind Pig to criticize President Trump's response to the COVID-19 pandemic."
@@ -7106,20 +7026,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Why Kamala Harris May Be the Perfect Weapon Against Trump"
-    excerpt: "That’s not a sentiment that’s shared about Kamala.” Harris with her husband, attorney Douglas Emhoff (left) in January 2019 In 2008, Harris announced her candidacy for California attorney ..."
-    publishedDateTime: 2020-09-28T19:57:00Z
-    webUrl: "https://www.lamag.com/citythinkblog/kamala-harris-vice-president-joe-biden/"
-    type: article
-    provider:
-      name: Los Angeles Magazine
-      domain: lamag.com
-    quality: 70
-    images:
-      - url: "https://cdn2.lamag.com/wp-content/uploads/sites/6/2020/09/Featured_GettyImages-539942758_1500x1000px.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Biden Says No Debate if Trump Still Has Covid, But Looks Forward to Facing President ‘If and When He Shows Up’"
     excerpt: "Joe Biden said he's looking forward to facing President Donald Trump in another debate \"if and when he shows up,\" but said \"there shouldn't be a debate\" if Trump is still infected with COVID-19."
     publishedDateTime: 2020-10-07T11:42:00Z
@@ -7900,6 +7806,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Who Elected Donald Trump?"
+    excerpt: "The question of who elected Donald Trump may seem redundant, irrelevant even, this close to a new election. However, four years after the 2016 election, different constituencies offer wholly ..."
+    publishedDateTime: 2020-10-16T09:04:00Z
+    webUrl: "https://www.counterpunch.org/2020/10/16/who-elected-donald-trump/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 55
+    images:
+      - url: "https://www.counterpunch.org/wp-content/dropzone/2020/08/IMG_7268-scaled.jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Senator David Perdue takes heat for Kamala Harris name flub"
     excerpt: "His opponents claim he intentionally mispronounced Harris's name at a Macon Trump rally. His camp says it was merely a slip that was taken out of context."
     publishedDateTime: 2020-10-17T04:37:00Z

@@ -143,22 +143,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump renews fears of voter intimidation as he recruits army of poll watchers, pushes false claims of election fraud"
-    excerpt: "Republicans are putting together what they call an army of Trump supporters to monitor election procedures as Trump pushes false claims about voter fraud."
-    publishedDateTime: 2020-10-01T14:10:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-election-poll-watchers-voter-fraud-20201001-pvkh7urnmvhnbk6fxxlftmevv4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-election-poll-watchers-voter-fraud-20201001-pvkh7urnmvhnbk6fxxlftmevv4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-election-poll-watchers-voter-fraud-20201001-pvkh7urnmvhnbk6fxxlftmevv4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 117
-    images:
-      - url: "https://www.chicagotribune.com/resizer/D_AKTwwndtDj-kl0ujoKxlXibx0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OU37FZUCHFGZZLQYVGUFTJXTLQ.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Where COVID-19 stimulus relief bill stands after Trump, and what it means for you: FAQs"
     excerpt: "Negotiations collapsed Tuesday after Trump tweeted that he wanted to wait until after the election to move forward on COVID-19 relief talks."
     publishedDateTime: 2020-10-07T18:41:00Z
@@ -172,22 +156,6 @@ related:
     quality: 117
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Republicans and democracy have much deeper problems than Trump's awful debate performance"
-    excerpt: "A Trump loss won't fix our nasty, polarized and shallow politics. We need to stop hoping transformation is around the corner if we oust one bad apple."
-    publishedDateTime: 2020-10-01T09:33:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/01/trump-debate-performance-sorry-state-republicans-democracy-column/5874170002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5874170002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874170002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/be27cb49-4846-4ca2-924b-bc8ab1d9f5d2-AP_Election_2020_Debate.jpg?auto=webp&crop=4895,2753,x0,y120&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -223,22 +191,17 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "Election debate officials are considering muting candidates' mics, report says, after Trump interrupted 71 times in the chaotic first round"
-    excerpt: "The commission is considering allowing moderators to switch off mics to avoid a repeated of the chaos in the first debate."
-    publishedDateTime: 2020-10-01T10:05:00Z
-    webUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10"
-    ampWebUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
+  - title: "Risk assets rise on stimulus hopes and Trump's health progress"
+    excerpt: "Stocks and oil prices rose on Monday as stimulus hopes and suggestions Donald Trump's health was improving brought relief to markets after last week's rush to safety on uncertainty over the impact of the U."
+    publishedDateTime: 2020-10-05T14:15:00Z
+    webUrl: "https://www.reuters.com/article/us-global-markets-idUKKBN26Q00L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26Q00L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26Q00L"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5f759dd874fe5b0018a8e6b9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "METALS-Copper slips as Trump ends stimulus deal talks"
     excerpt: "Copper prices fell on Wednesday after U.S. President Donald Trump halted negotiations with the U.S. Congress on a large coronavirus stimulus bill."
     publishedDateTime: 2020-10-07T03:33:00Z

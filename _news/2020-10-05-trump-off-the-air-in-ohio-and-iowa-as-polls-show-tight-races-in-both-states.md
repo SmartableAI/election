@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/trump-ads-ohio-iowa/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-ads-ohio-iowa/index.html"
 type: article
 quality: 173
-heat: 193
+heat: 173
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "‘If He Doesn’t Win Ohio, It’s Over’: Trump Slips in the Heartland"
-    excerpt: "Four years ago, the president easily won Ohio by building a balanced coalition among white voters across educational lines. But his support has waned since then, particularly in the suburbs."
-    publishedDateTime: 2020-10-02T11:09:00Z
-    webUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/02/us/02pollwatch-newsletter/02pollwatch-newsletter-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "Afa5WLn0hGo3Nh4kzMGEi30LyhhuQTOOLw6+2gLkg7s+iVJGNqrZv4VPHSbWF35UHw+31rsF6QtIAa3GSiIDL0rLwHoz3z78ETnx8j5zMnSQi54Mn4bDFkpIR/zOdFFazXWlbmbnw4RqX2Stre72yxby3xAwfb7Gu77WGNoRFd2OXoKdLPCpva7L9epfg2NSE5x4oDdHGss7n6kmgu1V1W2G17l5KKgEfosNdWmfxsZ9YmU2M6jS0wqny8qi1m+JMYGo2b5eiVjeIhmelVpSm0UrFALqajQgtOg4X4eINLCUP3yXVxsXvHiwvlRynuBa4wTvrG4Df1fZhOHnrwzI6aQ5p1IWpmkX6QEtljPV2dE=;4D/DrI2OTslDvF/yVkcNoQ=="
 ---

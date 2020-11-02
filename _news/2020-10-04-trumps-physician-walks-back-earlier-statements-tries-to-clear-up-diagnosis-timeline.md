@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump says U.S. economic recovery is faster than any other nation — but China is leaps and bounds ahead"
+    excerpt: "China is seeing double-digit economic growth, Japan's Nikkei index is doing better than the Dow and Korea's unemployment rate is almost back to pre-pandemic levels."
+    publishedDateTime: 2020-10-07T02:27:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/trump-says-u-s-economic-recovery-faster-any-other-nation-n1242361"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242361"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242361"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 119
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_10/3259446/200306-port-workers-facemasks-china-ac-439p_f5177fc439d4d7e9d25940c0b647178f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "In his chess match with North Korea, Trump is clearly losing"
     excerpt: "On global affairs, Trump has said, \"If you're not a great chess master, you're going to have a problem.\" His failures with North Korea prove the point."
     publishedDateTime: 2020-10-14T13:34:00Z

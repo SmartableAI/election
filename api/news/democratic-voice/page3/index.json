@@ -2,6 +2,232 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-17-trump-continued-to-put-us-in-danger-by-referencing-us-says-rachel-vindman-wife-of-key-impeachment-witness.md",
+      "title": "Trump 'continued to put us in danger' by referencing us, says Rachel Vindman, wife of key impeachment witness",
+      "excerpt": "Rachel Vindman -- the wife of former Lt. Col. Alexander Vindman, a key witness in President Donald Trump's impeachment inquiry -- slammed the President on Friday for going after her husband and family.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t4jd2ZyXIlY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t4jd2ZyXIlY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201016140437-rachel-vindman-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/17/politics/rachel-vindman-wife-alexander-vindman-trump-danger/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/rachel-vindman-wife-alexander-vindman-trump-danger/index.html",
+      "publishedDateTime": "2020-10-17T07:30:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-whats-really-behind-trumps-i-know-nothing-defense.md",
+      "title": "What's really behind Trump's 'I know nothing' defense",
+      "excerpt": "(CNN)For a guy who brags about having a great memory, President Donald Trump sure has trouble remembering the folks who really like him, which, given his well-documented desire to be loved by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "originalUrl": "https://www.cnn.com/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015173645-trump-rally-crowd-pennsylvania-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "publishedDateTime": "2020-10-16T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-biden-blames-trumps-liberate-michigan-tweet-for-plot-to-kidnap-michigan-governor.md",
+      "title": "Biden blames Trump's 'liberate Michigan' tweet for plot to kidnap Michigan governor",
+      "excerpt": "Joe Biden said President Donald Trump bears blame for the alleged domestic terrorist plot to kidnap Michigan Gov. Gretchen Whitmer, pointing in a speech Friday to Trump's calls on Twitter to \"liberate Michigan\" in the wake of the Democratic governor's coronavirus-related restrictions.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YTlAkqNP1IE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YTlAkqNP1IE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015213641-joe-biden-abc-town-hall-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html",
+      "publishedDateTime": "2020-10-16T15:53:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-mcconnell-not-pelosi-balks-at-trumps-demands-on-economic-aid.md",
+      "title": "McConnell, not Pelosi, balks at Trump's demands on economic aid",
+      "excerpt": "Trump wants the public to believe that Nancy Pelosi is standing in the way of an economic aid package, but it's actually Mitch McConnell who's ignoring him",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcconnell-not-pelosi-balks-trump-s-demands-economic-aid-ncna1243726",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcconnell-not-pelosi-balks-trump-s-demands-economic-aid-ncna1243726",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2017_32/2116716/170811-trump-mcconnell-mn-1155_7675d005b66ad35c468bea532ccec283.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-maryland-republican-gov-hogan-a-longtime-trump-critic-casts-a-ballot-for-reagan.md",
       "title": "Maryland Republican Gov. Hogan, a longtime Trump critic, casts a ballot for Reagan",
       "excerpt": "Maryland Gov. Larry Hogan, a Republican and outspoken critic of President Donald Trump, wrote in Ronald Reagan for president when he cast his 2020 ballot.\n    \n",
@@ -70,7 +296,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1825,
+      "heat": 1845,
       "tags": null,
       "images": [
         {
@@ -455,7 +681,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 354,
+      "heat": 394,
       "tags": null,
       "images": [
         {
@@ -568,7 +794,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1990,
+      "heat": 2030,
       "tags": null,
       "images": [
         {
@@ -668,23 +894,137 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-biden-announces-record-383-million-fundraising-haul-for-september.md",
-      "title": "Biden announces record $383 million fundraising haul for September",
-      "excerpt": "Democratic presidential nominee Joe Biden announced Wednesday evening that his campaign raised a record-breaking $383 million in September, its second straight historic monthly fundraising haul as the campaign nears Election Day.\n    \n",
+      "path": "_news/2020-10-15-allegation-on-biden-prompts-pushback-from-social-media-companies.md",
+      "title": "Allegation on Biden Prompts Pushback From Social Media Companies",
+      "excerpt": "Joe Biden’s campaign rejected assertions made in a published report that were based on unverified material from Trump allies. Facebook and Twitter found the story dubious enough to limit access to it on their platform.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
+      "webUrl": "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg",
+          "url": "https://static01.nyt.com/images/2020/10/14/us/politics/14biden1/14biden1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.amp.html",
+      "publishedDateTime": "2020-10-14T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-biden-raised-whopping-383m-in-september.md",
+      "title": "Biden raised whopping $383M in September",
+      "excerpt": "It's the latest massive fundraising haul for Biden, who brought in $365 million in August as online donors shower his campaign with cash.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/14/biden-fundraising-haul-429546",
+      "originalUrl": "https://www.politico.com/news/2020/10/14/biden-fundraising-haul-429546",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/56/13/9c8da794491ba762495085d758ab/1014biden2.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-the-original-hamilton-cast-will-reunite-to-host-a-virtual-fundraiser-for-joe-biden.md",
+      "title": "The original 'Hamilton' cast will reunite to host a virtual fundraiser for Joe Biden",
+      "excerpt": "The original cast of \"Hamilton\" is reuniting to put together a virtual fundraiser for Democratic nominee Joe Biden.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4cwPC46h-RI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4cwPC46h-RI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201014110142-01-hamilton-cast-2016-new-york-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -694,9 +1034,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
-      "publishedDateTime": "2020-10-14T19:30:07-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/hamilton-joe-biden-fundraiser-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/hamilton-joe-biden-fundraiser-trnd/index.html",
+      "publishedDateTime": "2020-10-14T10:27:18-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -849,7 +1189,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 781,
+      "heat": 761,
       "tags": null,
       "images": [
         {
@@ -950,6 +1290,63 @@
       ]
     },
     {
+      "path": "_news/2020-10-14-watch-live-joe-biden-delivers-remarks-on-vision-for-older-americans.md",
+      "title": "Watch live: Joe Biden delivers remarks on vision for older Americans",
+      "excerpt": "Watch live coverage as former Vice President Joe Biden delivers remarks on his vision for older Americans in Pembroke Pines, Fla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-on-vision-for-older-americans-93755973895",
+      "originalUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-on-vision-for-older-americans-93755973895",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/2020-10-12T190715Z_1179308835_RC27HJ9P5VQL_RTRMADP_3_USA-ELECTION-BIDEN.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93755973895",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93755973895",
+      "publishedDateTime": "2020-10-13T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-fauci-says-hes-not-going-to-walk-away-as-trump-revives-criticism.md",
       "title": "Fauci says he's 'not going to walk away' as Trump revives criticism",
       "excerpt": "President Donald Trump revived his public criticism of Dr. Anthony Fauci Tuesday morning, continuing his efforts to undermine the infectious disease expert even as the doctor said he's not going to bow to pressure.\n    \n",
@@ -962,7 +1359,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 435,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -1018,7 +1415,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 635,
+      "heat": 555,
       "tags": null,
       "images": [
         {
@@ -1285,394 +1682,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-as-trump-revives-push.md",
-      "title": "Pelosi calls latest Trump stimulus proposal 'grossly inadequate' as Trump revives push",
-      "excerpt": "\"It is hard to understand who is shaping their approach,\" Pelosi said of the Trump administration, \"which to date has been a miserable and deadly failure.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242854",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242854",
-      "publishedDateTime": "2020-10-11T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-sasse-its-grotesque-biden-and-dems-wont-discuss-suicide-bombing-court-packing.md",
-      "title": "Sasse: 'It's grotesque' Biden and Dems won't discuss 'suicide bombing' court packing",
-      "excerpt": "What they’re really talking about — or refusing to talk about — is the suicide bombing of two branches of government.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
-      "originalUrl": "https://www.politico.com/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b6/9e/daa9bbd04e869f2f46bb5dcf784c/20201011-bensasse-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
-      "publishedDateTime": "2020-10-11T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-mike-pences-fly-takes-center-stage-on-saturday-night-live.md",
-      "title": "Mike Pence's fly takes center stage on 'Saturday Night Live'",
-      "excerpt": "The vice president, played by Beck Bennett, assured the nation: \"The president is doing amazing, thanks to his team of terrified doctors.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/pop-culture/tv/mike-pence-s-fly-takes-center-stage-saturday-night-live-n1242839",
-      "originalUrl": "https://www.nbcnews.com/pop-culture/tv/mike-pence-s-fly-takes-center-stage-saturday-night-live-n1242839",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_41/3419131/201010-snl-er-1156pm_44fa640d7c35014b2f0e1dcede030b7a.png",
-          "width": 1917,
-          "height": 1075,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242839",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242839",
-      "publishedDateTime": "2020-10-10T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-has-met-cdc-criteria-to-end-isolation-and-is-cleared-to-return-to-an-active-schedule-by-his-physician.md",
-      "title": "Trump has met CDC criteria to end isolation and is cleared to return to an active schedule by his physician",
-      "excerpt": "President Donald Trump has been cleared to return to an active schedule, according to a new memo from his physician, Dr. Sean Conley, released Saturday night.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
-      "publishedDateTime": "2020-10-10T20:00:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-has-called-his-supporters-disgusting-do-they-care.md",
-      "title": "Trump Has Called His Supporters ‘Disgusting.’ Do They Care?",
-      "excerpt": "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html",
-      "publishedDateTime": "2020-10-10T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-a-moment-to-put-country-above-party-biden-makes-appeal-to-disaffected-republican-and-independent-voters.md",
-      "title": "'A moment to put country above party': Biden makes appeal to disaffected Republican and independent voters",
-      "excerpt": "Joe Biden is making a clear attempt to appeal to disaffected Republicans and independent voters in the final weeks of the election, promising he'd be a president that would work hard not just for those who support him, but also for those who do not.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NNzZYmKbATo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NNzZYmKbATo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201006165347-02-biden-gettysburg-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/10/politics/joe-biden-disaffected-republicans-independents/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/joe-biden-disaffected-republicans-independents/index.html",
-      "publishedDateTime": "2020-10-10T17:17:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-taking-page-from-authoritarians-trump-turns-power-of-state-against-political-rivals.md",
-      "title": "Taking Page From Authoritarians, Trump Turns Power of State Against Political Rivals",
-      "excerpt": "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/10/us/politics/10dc-prexy-2/10dc-prexy-2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html",
-      "publishedDateTime": "2020-10-10T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

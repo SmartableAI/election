@@ -2,124 +2,19 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-28-trump-says-kamala-harris-wont-be-first-woman-president-rallygoers-demand-ivanka.md",
-      "title": "Trump Says Kamala Harris 'Won't Be First Woman President,' Rallygoers Demand Ivanka",
-      "excerpt": "Trump said Kamala Harris will \"take over\" for Biden three weeks into his term if he wins before declaring, \"she will not be the first woman president\" Tuesday at a Lansing, Michigan campaign event.",
+      "path": "_news/2020-10-27-trump-and-pence-defy-pandemic-for-political-gain.md",
+      "title": "Trump and Pence defy pandemic for political gain",
+      "excerpt": "President Trump and Vice President Pence are holding events in battleground states, defiant about the pandemic, a White House outbreak and a climbing national case count.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
-      "originalUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
+      "webUrl": "https://abcnews.go.com/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 2290,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1659983/ivanka-trump-president-first-woman.jpg",
-          "width": 2500,
-          "height": 1515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1",
-      "publishedDateTime": "2020-10-27T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-promised-massive-middle-class-tax-cuts-in-2016-he-delivered-cuts-not-as-much-on-the-middle-class-part.md",
-      "title": "Trump promised massive middle-class tax cuts in 2016. He delivered cuts, not as much on the middle class part",
-      "excerpt": "The GOP tax bill in 2017 gave households an average $1,600 cut but the richest Americans, especially those making over $300,000, got the most relief.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-mostly-delivered-2016-campaign-pledge-cut-taxes/3685282001/",
-      "originalUrl": "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-mostly-delivered-2016-campaign-pledge-cut-taxes/3685282001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/58bcbd7626012765178f61ecb84b86080363f1ac/c=0-77-2631-1564/local/-/media/2016/09/15/USATODAY/USATODAY/636095412520377554-AP-Campaign-2016-Trump.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3685282001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3685282001",
-      "publishedDateTime": "2020-10-27T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-supporters-rally-at-us-embassy-in-jerusalem.md",
-      "title": "Trump supporters rally at US Embassy in Jerusalem",
-      "excerpt": "A convoy of cars decorated with American flags and Trump 2020 banners drove from Tel Aviv to Jerusalem, holding a rally outside the U.S. Embassy in support of the American president ahead of next week",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_33227a247da641f9860ed82b53e0118f_16x9_992.jpg",
+          "url": "https://s.abcnews.com/images/Politics/trump-lititz-rally-04-gty-jef-201026_1603739248715_hpMain_16x9_992.jpg",
           "width": 992,
           "height": 558,
           "title": null,
@@ -129,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040",
-      "publishedDateTime": "2020-10-27T11:38:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
+      "publishedDateTime": "2020-10-26T12:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -155,420 +50,8 @@
       ],
       "topics": [
         "Election",
+        "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-twitter-labels-trump-post-about-mail-ballots-as-disputed-and-misleading.md",
-      "title": "Twitter labels Trump post about mail ballots as ‘disputed’ and ‘misleading’",
-      "excerpt": "The president claimed, without evidence, there were “problems and discrepancies” with mail-in ballots “all over the USA.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f109-dd93-ad7f-f90d0def0000&nlid=630318",
-      "originalUrl": "https://www.politico.com/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f109-dd93-ad7f-f90d0def0000&nlid=630318",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/cc/78/67c2074c4385a792442f74d82304/gettyimages-1229297971-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697",
-      "publishedDateTime": "2020-10-27T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit.md",
-      "title": "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit",
-      "excerpt": "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/",
-      "originalUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9846fbc3e178a4ae7bff0e%2F0x0.jpg",
-          "width": 1200,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/",
-      "publishedDateTime": "2020-10-27T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company.md",
-      "title": "No Dividends, No Problem: Trump Megadonor Sheldon Adelson Has Given At Least $180 Million This Year, Despite Troubles At His Company",
-      "excerpt": "Regardless of what happens with his casino empire, Sheldon Adelson has more than enough cash to remain one of the biggest political donors in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michelatindera/2020/10/27/no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company/",
-      "originalUrl": "https://www.forbes.com/sites/michelatindera/2020/10/27/no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f978c5a40130f51d658e810%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1896%26cropY1%3D0%26cropY2%3D1067",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-explainer-can-trump-call-in-troops-to-quell-election-day-unrest.md",
-      "title": "Explainer: Can Trump call in troops to quell Election Day unrest?",
-      "excerpt": "U.S. President Donald Trump has declined to commit to a peaceful transfer of power if he decides the Nov. 3 presidential election results are fraudulent and has proposed mobilizing troops under the 200-year-old Insurrection Act to put down unrest if he won.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-insurrection-explainer/explainer-can-trump-call-in-troops-to-quell-election-day-unrest-idUSKBN27C1DC",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-insurrection-explainer/explainer-can-trump-call-in-troops-to-quell-election-day-unrest-idUSKBN27C1DC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 340,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538958726&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0WM",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27C1DC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1DC",
-      "publishedDateTime": "2020-10-27T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80.md",
-      "title": "Coal baron Murray, a Trump ally who fought environmental regulation, dead at 80",
-      "excerpt": "U.S. coal baron Robert Murray, an ally of President Donald Trump and a leading industry voice who called global warming a hoax, died on Sunday at age 80, U.S. media reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
-      "originalUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
-      "publishedDateTime": "2020-10-26T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-election-2020-both-trump-and-biden-campaign-in-battleground-pennsylvania.md",
-      "title": "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania",
-      "excerpt": "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 3834,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/biden-event-02-gty-jef-201026_1603744290053_hpMain_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "publishedDateTime": "2020-10-26T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-twitter-sticks-misleading-label-on-donald-trumps-tweet-about-problems-with-mail-in-ballots.md",
-      "title": "Twitter sticks 'misleading' label on Donald Trump's tweet about problems with mail-in ballots",
-      "excerpt": "President Donald Trump's tweet about \"big\" problems with mail-in ballots was labeled by Twitter as part of its pledge to stop election disinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2020/10/26/donald-trump-twitter-mail-ballots-election-tweet-misleading/6049734002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2020/10/26/donald-trump-twitter-mail-ballots-election-tweet-misleading/6049734002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6049734002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6049734002",
-      "publishedDateTime": "2020-10-26T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-trump-attacked-biden-for-warning-against-4-more-years-of-george-but-the-democrat-has-long-called-himself-a-gaffe-machine.md",
-      "title": "Trump attacked Biden for warning against '4 more years of George,' but the Democrat has long called himself a 'gaffe machine'",
-      "excerpt": "Joe Biden called President Donald Trump \"George\" during a campaign event. Biden has been open about his stutter, calling himself a \"gaffe machine.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
-      "originalUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f96ad79f21803001222bdca?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
-      "publishedDateTime": "2020-10-26T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
       ]
     },
     {
@@ -580,7 +63,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-court-barrett/update-1-trump-plans-second-white-house-event-for-barrett-as-senate-takes-up-nomination-idUSL1N2HH17E",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -604,58 +87,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-biden-on-attacks-on-mental-fitness-trump-thought-911-attack-was-711-attack.md",
-      "title": "Biden on attacks on mental fitness: Trump thought '9/11 attack was 7/11 attack'",
-      "excerpt": "Former Vice President Joe Biden (D) defended his mental acuity and took shots at President Trump during an interview airing Sunday on CBS's \"60 Minutes.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11",
-      "originalUrl": "https://thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe2_102202020_0.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11?amp",
-      "publishedDateTime": "2020-10-25T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -741,7 +172,7 @@
       "originalUrl": "https://www.usatoday.com/story/money/columnist/2020/10/23/president-donald-trump-keeps-bringing-up-what-he-calls-750-filing-fee-his-federal-income-tax-returns/6010994002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -842,21 +273,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-25-donald-trump-and-mike-pence-both-campaign-sunday-despite-coronavirus-cases-among-vice-presidents-staff.md",
-      "title": "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff",
-      "excerpt": "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said.",
+      "path": "_news/2020-10-26-four-in-ten-supporters-of-biden-trump-would-not-accept-election-defeat.md",
+      "title": "Four in ten supporters of Biden, Trump would not accept election defeat",
+      "excerpt": "More than four in ten supporters of both President Donald Trump and his Democratic challenger, Joe Biden, said they would not accept the result of the November election if their preferred candidate loses,",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
+      "webUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27A0BB",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27A0BB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1273,
+      "heat": 8455,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538745981&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O096",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -864,16 +295,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6031990002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002",
-      "publishedDateTime": "2020-10-25T08:31:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27A0BB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A0BB",
+      "publishedDateTime": "2020-10-25T14:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -890,26 +321,25 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Mike Pence"
+        "Donald Trump"
       ]
     },
     {
-      "path": "_news/2020-10-25-new-york-grocery-store-sparked-backlash-with-a-20-discount-offer-for-trump-supporters.md",
-      "title": "New York grocery store sparked backlash with a 20% discount offer for Trump supporters",
-      "excerpt": "Store owner Jose Colon told Fox News he also meant to extend the 20% off promotional offer to backers of Democratic presidential nominee Joe Biden.",
+      "path": "_news/2020-10-26-what-to-make-of-the-kinder-gentler-donald-trump.md",
+      "title": "What to make of the 'kinder, gentler' Donald Trump",
+      "excerpt": "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10",
-      "originalUrl": "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10",
+      "webUrl": "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump",
+      "originalUrl": "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f948c93f21803001222bcc5?width=1200&format=jpeg",
-          "width": 814,
-          "height": 407,
+          "url": "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -917,16 +347,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp",
-      "publishedDateTime": "2020-10-24T13:35:00-07:00",
+      "ampWebUrl": "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp",
+      "publishedDateTime": "2020-10-25T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -995,21 +425,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-24-minority-pushes-trump-agenda-largely-unpopular-among-tribes.md",
-      "title": "Minority pushes Trump agenda largely unpopular among tribes",
-      "excerpt": "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump’s agenda in areas long considered Democratic territory",
+      "path": "_news/2020-10-24-video-shows-a-man-holding-up-a-hand-gesture-tied-to-white-supremacy-behind-trump-at-his-florida-rally.md",
+      "title": "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally",
+      "excerpt": "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html",
+      "webUrl": "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10",
+      "originalUrl": "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 170,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1017,16 +447,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-24T09:00:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp",
+      "publishedDateTime": "2020-10-24T02:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1055,7 +485,7 @@
       "originalUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1124,6 +554,58 @@
       "ampWebUrl": "https://www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/amp/",
       "publishedDateTime": "2020-10-23T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease.md",
+      "title": "Forbes Estimates China Paid Trump At Least $5.4 Million Since He Took Office, Via Mysterious Trump Tower Lease",
+      "excerpt": "Donald Trump maintained a stake in Trump Tower when he became president, and with it, a financial connection to the Chinese government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
+      "originalUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f92da59cdd9baa8c7aac7f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T18:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1268,7 +750,7 @@
       "originalUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1473,58 +955,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-facebook-pulled-48-trump-election-campaign-ads-which-told-people-your-vote-has-not-been-counted.md",
-      "title": "Facebook pulled 48 Trump election campaign ads which told people 'your vote has not been counted'",
-      "excerpt": "Some 399,000 saw the ads from the Trump campaign before Facebook pulled it, which was potentially misleading to some voters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
-      "originalUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f92f8b4212113001874071a?width=1200&format=jpeg",
-          "width": 780,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp",
-      "publishedDateTime": "2020-10-23T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-23-pelosi-covid-19-aid-possible-before-election-but-its-up-to-trump.md",
       "title": "Pelosi: COVID-19 aid possible before election but it's up to Trump",
       "excerpt": "U.S. House Speaker Nancy Pelosi said it still was possible to get another round of COVID-19 aid before the Nov. 3 election, but that it was up to President Donald Trump to act if he wants to finalize a deal for more financial relief soon.",
@@ -1533,7 +963,7 @@
       "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN278252",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1060,
+      "heat": 700,
       "tags": null,
       "images": [
         {
@@ -1574,6 +1004,579 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-colberts-message-to-debate-viewers-who-wanted-even-less-trump-the-ultimate-mute-button-is-in-your-hands.md",
+      "title": "Colbert’s message to debate viewers who wanted even less Trump: ‘The ultimate mute button is in your hands’",
+      "excerpt": "The \"Late Show with Stephen Colbert\" host said the highlight of the night was that he would “never have to watch Donald Trump debate ever again.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-23-2020/t_4513567856534e928d248f5715c1d6bf_name_thumb.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/?outputType=amp",
+      "publishedDateTime": "2020-10-23T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-president-trump-weighing-firing-of-fbi-director-christopher-wray-after-election.md",
+      "title": "President Trump weighing firing of FBI Director Christopher Wray after election",
+      "excerpt": "President Trump regards FBI Director Christopher Wray as having gone out of his way to separate himself from the president on multiple occasions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 276,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/12/10/USAT/35138d1c-09b6-47ee-9233-e39128c5332c-XXX__JG24825.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3731576001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3731576001",
+      "publishedDateTime": "2020-10-23T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-donald-trumps-abraham-lincoln-comparison-at-debate-sparks-wave-of-memes.md",
+      "title": "Donald Trump's Abraham Lincoln Comparison at Debate Sparks Wave of Memes",
+      "excerpt": "Joe Biden mocked the comparison and called Trump \"one of the most racist presidents we've had in modern history,\" in the final presidential debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593",
+      "originalUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1657664/donald-trump.jpg",
+          "width": 2500,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1",
+      "publishedDateTime": "2020-10-23T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects.md",
+      "title": "‘I’m going to do what’s right’: Bramnick criticism of Trump could hurt his statewide prospects",
+      "excerpt": "He is one of three major Republicans either running or known to be openly flirting with seeking the party’s nomination to challenge Democratic Gov. Phil Murphy next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/new-jersey/story/2020/10/22/im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects-1329556",
+      "originalUrl": "https://www.politico.com/states/new-jersey/story/2020/10/22/im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects-1329556",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/fb/f6/788d630745c693ac95fb3e095bba/201022-bramnick-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-they-are-so-well-taken-care-of-trump-defends-separating-migrant-children-from-parents.md",
+      "title": "'They are so well taken care of': Trump defends separating migrant children from parents",
+      "excerpt": "Former Vice President Joe Biden promised citizenship for the nation's undocumented immigrants while President Donald Trump defended his own record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/22/biden-slams-trump-promises-citizenship-undocumented-immigrants/3738323001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/22/biden-slams-trump-promises-citizenship-undocumented-immigrants/3738323001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3738323001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738323001",
+      "publishedDateTime": "2020-10-22T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-issues-order-for-some-career-federal-employees-to-lose-their-civil-service-protections.md",
+      "title": "Trump issues order for some career federal employees to lose their civil service protections",
+      "excerpt": "Career federal employees whose work involves making policy would no longer be hired under competitive procedures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SYLKOEQUQQI6XPAQICZFHAXRXY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-22T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-grants-clemency-to-former-gary-boxer-charles-duke-tanner-imprisoned-for-drug-crimes.md",
+      "title": "Trump grants clemency to former Gary boxer Charles ‘Duke’ Tanner imprisoned for drug crimes",
+      "excerpt": "Charles “Duke” Tanner, a former Gary boxer serving a 30-year sentence on federal drug and conspiracy convictions, was granted clemency Wednesday by President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-tanner-trump-clemency-st-1023-20201022-b4f2vcqmqng5nbm3pvic7qu4su-story.html",
+      "originalUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-tanner-trump-clemency-st-1023-20201022-b4f2vcqmqng5nbm3pvic7qu4su-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/Pm-aHlFSnssyVo3j_nF3vTocN34=/630x630/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/75BMD65FYJBY7BZZN4SN7Z6BYE.jpg",
+          "width": 630,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-tanner-trump-clemency-st-1023-20201022-b4f2vcqmqng5nbm3pvic7qu4su-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/post-tribune/ct-ptb-tanner-trump-clemency-st-1023-20201022-b4f2vcqmqng5nbm3pvic7qu4su-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-22T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-posts-full-60-minutes-interview-us-elections-news.md",
+      "title": "Trump posts full ’60 Minutes’ interview: US Elections news",
+      "excerpt": "President Donald Trump posts entire CBS interview ahead of its scheduled air time, showing him walking out. After last month’s chaotic debate, President Donald Trump and his Democratic rival, Joe Biden,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "originalUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 480,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2020/10/2020-10-22T121407Z_1438368857_RC2ONJ97NGLC_RTRMADP_3_USA-ELECTION-GLOBAL-CLIMATECHANGE.jpg?resize=1200%2C630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "publishedDateTime": "2020-10-22T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons.md",
+      "title": "John Brennan says Trump wouldn't qualify for a security clearance \"for a variety of reasons'",
+      "excerpt": "When asked if someone with the amount of debt President Trump has would qualify for a security clearance, former CIA director John Brennan said he thinks President Trump wouldn’t qualify for a security clearance “for a variety of reasons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons/2020/10/22/521a71f3-dbab-406f-953e-d560b1d2b61a_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons/2020/10/22/521a71f3-dbab-406f-953e-d560b1d2b61a_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-22-2020/t_749b9a4d6d5f496687300cc597144b45_name_Screen_Shot_2020_10_22_at_11_23_58_AM_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-how-donald-trumps-america-first-agenda-has-damaged-global-human-rights.md",
+      "title": "How Donald Trump’s ‘America first’ agenda has damaged global human rights",
+      "excerpt": "The Trump administration's overt transgressions of international norms embolden other world leaders to violate human rights.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030",
+      "originalUrl": "https://theconversation.com/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/364520/original/file-20201020-17-oqamgw.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030",
+      "publishedDateTime": "2020-10-22T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-trump-struggles-to-defend-lie-about-mexico-paying-for-the-wall.md",
+      "title": "Trump struggles to defend lie about Mexico 'paying for the wall'",
+      "excerpt": "Trump claims to have yet another idea to get Mexico to pay for a border wall. In reality, it's a fresh con, intended to take the place of an old con.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-struggles-defend-lie-about-mexico-paying-wall-ncna1244269",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-struggles-defend-lie-about-mexico-paying-wall-ncna1244269",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_40/3392970/200626-trump-border-wall-jm-1339_c2377799002c4533c808cda3853168ae.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244269",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244269",
+      "publishedDateTime": "2020-10-22T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

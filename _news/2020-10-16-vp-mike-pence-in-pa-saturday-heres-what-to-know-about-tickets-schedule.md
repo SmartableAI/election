@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence scheduled to visit Jacksonville on Saturday"
-    excerpt: "Jacksonville FL — Vice President Mike Pence is scheduled to make a campaign stop in Jacksonville on Saturday. Pence’s communications director Katie Miller tweeted that Pence would also be visiting Tallahassee on Saturday as well. Details about Pence ..."
-    publishedDateTime: 2020-10-19T22:58:00Z
-    webUrl: "https://www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/"
-    ampWebUrl: "https://www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/?outputType=amp"
-    type: article
-    provider:
-      name: WOKV
-      domain: wokv.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/23PKWX22FQ5XKKKYT7SOUCDWB4.jpg"
-        width: 3686
-        height: 2658
-        isCached: true
   - title: "Vice President Mike Pence scheduled to visit Tallahassee on Saturday"
     excerpt: "Pence 2020 campaign stop in Tallahassee this Saturday.  Katie Miller, Pence's communications director, on Monday tweeted Pence's schedule for the week, showing stops in Tallahassee and Jacksonville but offering no details."
     publishedDateTime: 2020-10-20T00:27:00Z
@@ -104,22 +88,6 @@ related:
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/9e77f718-2a68-4075-94d5-e7360a7f5a9b-VicePresidentPence_Peoria_Oct8_4.JPG?auto=webp&crop=2999,1687,x0,y100&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VP Mike Pence set to visit Jacksonville, Florida, on Saturday"
-    excerpt: "Vice President Mike Pence will be coming to Jacksonville and Tallahassee this Saturday, according to a tweet from his communications director."
-    publishedDateTime: 2020-10-20T20:42:00Z
-    webUrl: "https://www.jacksonville.com/story/news/politics/elections/presidential/2020/10/20/vp-mike-pence-set-visit-jacksonville-florida-saturday/5996634002/"
-    ampWebUrl: "https://amp.jacksonville.com/amp/5996634002"
-    cdnAmpWebUrl: "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/5996634002"
-    type: article
-    provider:
-      name: The Florida Times-Union
-      domain: jacksonville.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/3658fd42755583d64b04f69690f6d4a6f28401aa/c=0-270-5184-3186/local/-/media/2020/09/09/JacksonvilleFL/ghows_gallery-LK-622009997-f7614850.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -171,6 +139,22 @@ related:
         width: 1280
         height: 851
         isCached: true
+  - title: "Vice President Mike Pence to rally in Kinston, NC on Sunday"
+    excerpt: "Pence's schedule has him in Minnesota the next day. Doors open at 4 p.m. and close at 5:30 p.m. Campaign officials said both rallies will feature remarks from Vice President Mike Pence and Republican candidates. The news release said President Trump and ..."
+    publishedDateTime: 2020-10-23T17:23:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 75
+    images:
+      - url: "https://media.wfmynews2.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "LIVE COVERAGE: Vice President Mike Pence’s visit to Tallahassee"
     excerpt: "Pence 2020 campaign stop in Florida's capital city on Saturday.  We'll also provide early reaction to Pence's visit. A Democratic press conference is planned for 2 p.m. ET, also in Tallahassee.  Biden-Harris campaign blasts Pence on pandemic response before Tallahassee arrival Prior to Vice President Mike Pence's scheduled arrival at the Tallahassee International Airport on Saturday evening,"
     publishedDateTime: 2020-10-24T17:25:00Z
@@ -186,6 +170,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/10/NPPP/be490532-434e-41dc-979a-f9a6c0c1a5b0-Election_2020_Florida.jpg?auto=webp&crop=3497,1968,x0,y307&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Mike Pence to rally in Kinston, NC on Sunday"
+    excerpt: "Pence will hold a 'Make America Great Again!' event in Kinston, which is in Lenoir County. The rally is set for 6 p.m."
+    publishedDateTime: 2020-10-25T07:32:00Z
+    webUrl: "https://www.12news.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 75
+    images:
+      - url: "https://media.12news.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Details of Vice President Mike Pence visit to Tallahassee still up in the air"
     excerpt: "Mike Pence will fly to Tallahassee Saturday after promoting early voting in Pennsylvania. But no one yet can say exactly where and when he'll be in town."
@@ -233,6 +233,20 @@ related:
         width: 840
         height: 630
         isCached: true
+  - title: "Vice President Mike Pence coming to West Mifflin for rally Friday"
+    excerpt: "Vice President Mike Pence will be in West Mifflin on Friday for a Make America Great Again Victory Rally. Pence will be joined by Rep. Mike Kelly and Luke Negron at the event, which will be held at Lynx FBO Pittsburgh on Lebanon Road."
+    publishedDateTime: 2020-10-22T11:11:00Z
+    webUrl: "https://www.wpxi.com/news/top-stories/vice-president-mike-pence-coming-west-mifflin-rally-friday/MMWS27SUUNCJ7L2GVEX4WNK6KU/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 55
+    images:
+      - url: "https://www.wpxi.com/resizer/k80XdFUY9-oMERdPVWgTMszBQPM=/1200x628/d1hfln2sfez66z.cloudfront.net/08-27-2020/t_1b5fc946b12544e2ada6fbef1564f361_name_Mike_Pence_What_you_need_to_know_5f47b61b836f805692005f63_1_Aug_27_2020_13_44_39_poster.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "VP Mike Pence To Campaign In Lakeland, Tallahassee On Saturday"
     excerpt: "Vice President Mike Pence will campaign Saturday in Lakeland and Tallahassee, a day after President Donald Trump also rallies voters in the state."
     publishedDateTime: 2020-10-22T23:52:00Z
@@ -272,6 +286,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Pence Remarks at Campaign Rally in New Hampshire"
+    excerpt: "President Pence delivers remarks at a campaign rally in Portsmouth, New Hampshire. Vice President Pence delivers remarks at a campaign rally in Portsmouth, New Hampshire. Vice President Pence spoke at a Trump campaign rally in Selma,"
+    publishedDateTime: 2020-10-21T17:38:00Z
+    webUrl: "https://www.c-span.org/video/?477199-1/vice-president-pence-remarks-campaign-rally-hampshire"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Vice President Mike Pence rallies base during MAGA rally in Fort Wayne"
     excerpt: "The Hoosier state is a stronghold for Republicans, which experts say, raises the question of why the vice president is campaigning here in the critical two weeks prior to the election. Political science associate professor Doctor Laura Wilson told us this is about supporting other Republicans on the ballot and getting as many Hoosiers to the polls as possible."
     publishedDateTime: 2020-10-23T22:43:00Z

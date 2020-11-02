@@ -32,83 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Leader of Proud Boys also leads grassroots group Latinos for Trump"
-    excerpt: "The leader of the Proud Boys, a far-right group thrust into the spotlight earlier this week during the presidential debate, is also the leader of the grassroots group Latinos for Trump.\n    \n"
-    publishedDateTime: 2020-10-01T22:26:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hhvzj_wxJYE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html"
+  - title: "Trump has met CDC criteria to end isolation and is cleared to return to an active schedule by his physician"
+    excerpt: "President Donald Trump has been cleared to return to an active schedule, according to a new memo from his physician, Dr. Sean Conley, released Saturday night.\n    \n"
+    publishedDateTime: 2020-10-11T03:00:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926165616-01-proud-boys-portland-0926-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Donald Trump has a long history of refusing to condemn white supremacist and hate groups"
-    excerpt: "Asked directly during Tuesday night's debate to condemn the Proud Boys hate group, President Donald Trump told them to \"stand back and stand by.\"\n    \n"
-    publishedDateTime: 2020-09-30T15:16:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iJvXAfe-0RI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/white-supremacy-trump-proud-boys-charlottesville-kkk-david-duke/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/white-supremacy-trump-proud-boys-charlottesville-kkk-david-duke/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926165616-01-proud-boys-portland-0926-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'This election is about Donald Trump, up or down': Focus group pollsters"
-    excerpt: "Peter Hart, Democratic Pollster, Hart Research Associates, and Nicole McCleskey, Republican Pollster, Public Opinion Strategies, talk to Chuck Todd about a post-debate focus group they conducted for Meet the Press."
-    publishedDateTime: 2020-10-04T12:59:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/-this-election-is-about-donald-trump-up-or-down-focus-group-pollsters-93106245716"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93106245716"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93106245716"
+  - title: "Trump's physician walks back earlier statements, tries to clear up diagnosis timeline"
+    excerpt: "President Donald Trump's physician walks back earlier statements and tries to clear up the diagnosis timeline."
+    publishedDateTime: 2020-10-04T03:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241993"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 149
+    quality: 128
     images:
-      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_full_focus_201004.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Meadows: Decision on Trump's discharge to be made later today"
-    excerpt: "White House physician Sean Conley said in a briefing with reporters after Trump's announcement that the president had \"met or exceeded all standard hospital discharge criteria\" and could be released from Walter Reed National Military Medical Center later in the day for continued treatment at the White House."
-    publishedDateTime: 2020-10-05T23:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-05-trump-covid-n1242088/ncrd1242110"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242088"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242088"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417640/201005-doctors-walter-reed-ew-420p_b1ad8bbd55e872fa22c64b305dee773b.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
         width: 2500
-        height: 1676
+        height: 1667
         isCached: true
-  - title: "White House floats a Trump speech as the outbreak spreads"
-    excerpt: "THE TRUMP ADMINISTRATION is considering having President DONALD TRUMP address the nation. He returned from the White House on Monday night after a weekend at Walter Reed. NYT's Maggie Haberman had this as well ALYSSA FARAH-- the White House comms director -- suggested to White House reporters that we will “hear from” TRUMP “at some point today."
-    publishedDateTime: 2020-10-06T17:16:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/06/white-house-floats-a-trump-speech-as-the-outbreak-spreads-490536"
+  - title: "In his chess match with North Korea, Trump is clearly losing"
+    excerpt: "On global affairs, Trump has said, \"If you're not a great chess master, you're going to have a problem.\" His failures with North Korea prove the point."
+    publishedDateTime: 2020-10-14T13:34:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/his-chess-match-north-korea-trump-clearly-losing-ncna1243316"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 115
     images:
-      - url: "https://static.politico.com/fc/db/81b47a084faaac9796b3dad22075/201006-trump-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_17/3318221/200422-trump-kim-mc-937_f300c03badf176b4e5c4bf5b25fc42c7.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "fyq2bdu+kPSaeMmnzFMgjRtWpd+aZOMA5BfiSWHw3DOUF0QEL+iR76s/ovSfj3lU5g2+E65DdyIUjzLyjkkzc4Qsc82UkhqisxjnkjOPRrml9h1Q7RRI/bWFtCezWT8hcqUBmnlye24WA0elk+oAzBT+/QWSvsk6pk+G7lHI7TbWf3+GBM/bigG5PASiLLexXchBBYhCsI2AeVPXdhgIp5k2Am8lo8zS/XoS+3Gar/SRlAjxPgSFgzjv8asfEFumD89WIP/EsNgePmRSK2Z5QR68eJd8TJKEaMmNsgyCfhzc7PoZuaJf26LmKJFzIApvnObAIfuwk0WsWxha5A6RLlwGOCLbbHdf4mJNlKeANn8G2ruuH0KwolGYP4O2nhTcUsC9G5Q633YdaCaHm4CqMkkfh/X97HxyVI0qNDNtlF9JnB/xoZPpSSW/hQL/6J/lEPVdCgZeb05jkigZr6vj2wgZ3ZevPf+7RQleS8uMBVRFbZ4PvEg8sS6ipmHlshm4XnZFLzCMdlhyVSQJceqMGQ==;6puSDkboISxmk+YKFXlAYg=="

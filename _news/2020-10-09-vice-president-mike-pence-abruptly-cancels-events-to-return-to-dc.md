@@ -27,21 +27,211 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH LIVE: Vice President Pence speaks at Iowa rallies"
-    excerpt: "Vice President Mike Pence will visit Carter Lake and Des Moines, Iowa Oct. 1, where he will speak at political rallies being held in the state."
-    publishedDateTime: 2020-10-01T17:01:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
+  - title: "Vice President Mike Pence, second lady test negative for coronavirus"
+    excerpt: "Spokesman Devin O’Malley says Vice President Pence “remains in good health and wishes the Trumps well in their recovery.”"
+    publishedDateTime: 2020-10-02T12:59:00Z
+    webUrl: "https://www.pbs.org/newshour/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/vice-president-mike-pence-second-lady-test-negative-for-coronavirus"
     type: article
     provider:
       name: PBS
       domain: pbs.org
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/vote2020_tape7-1024x630.jpg"
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/pence-1024x785.jpg"
         width: 1024
-        height: 630
+        height: 785
+        isCached: true
+  - title: "Joe and Jill Biden test negative for coronavirus"
+    excerpt: "Democratic nominee and his wife underwent PCR testing for Covid-19 after Trump announced he has coronavirus"
+    publishedDateTime: 2020-10-02T17:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/oct/02/joe-biden-coronavirus-negative-test-wife-jill"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/02/joe-biden-coronavirus-negative-test-wife-jill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/02/joe-biden-coronavirus-negative-test-wife-jill"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/25a42ce0e9f290e768851aa1e37a3c8bc3e792a6/0_157_3272_1963/master/3272.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a5491efcfbf99560e98a5e2e6edb1f10"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "What Mike Pence needs to tell us about coronavirus"
+    excerpt: "Vice President Mike Pence was present at the Sept. 26 event at the White House introducing Judge Amy Coney Barrett as President Trump’s Supreme Court nominee. Among the several attendees who have subsequently tested positive for the novel coronavirus are Sen."
+    publishedDateTime: 2020-10-04T14:05:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/04/what-mike-pence-needs-tell-us/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/04/what-mike-pence-needs-tell-us/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/04/what-mike-pence-needs-tell-us/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FWTBPOAAIII6XMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "What to know about Trump's coronavirus treatment regimen"
+    excerpt: "These are Business Insider's biggest healthcare stories for October 5."
+    publishedDateTime: 2020-10-05T13:22:00Z
+    webUrl: "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-5-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f77adce2400440019129cce?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "210,000 deaths later, Trump reverts to comparing the coronavirus to the flu"
+    excerpt: "They thought about it when the toll of covid-19, the disease caused by the coronavirus, passed 27,000 deaths on Apri"
+    publishedDateTime: 2020-10-06T19:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/06/210000-deaths-later-trump-reverts-comparing-coronavirus-flu/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHXBOQQHSUI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
+    excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
+    publishedDateTime: 2020-10-25T19:24:00Z
+    webUrl: "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 122
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769"
+        width: 2965
+        height: 1977
+        isCached: true
+  - title: "Kamala Harris vs. Mike Pence takeaways: Coronavirus, ‘I’m speaking’ and California’s cameo"
+    excerpt: "Aside from the historic nature of Sen. Kamala Harris’ appearance the event in Salt Lake City was so civil that the social media star of the evening was a fly that landed on Vice President Mike Pence’s hair and lingered for more than two minutes."
+    publishedDateTime: 2020-10-08T21:31:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/45/53/20077260/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Trump COVID-19 live updates: Doctor won't comment on Trump tweet about coronavirus"
+    excerpt: "President Trump's condition is continuing to improve as he fights a coronavirus infection, doctors say, and he is able to leave the hospital on Monday."
+    publishedDateTime: 2020-10-05T20:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Democratic nominee Joe Biden campaigns in Michigan after testing negative for coronavirus"
+    excerpt: "The former vice president delayed his scheduled trip to the battleground state in order to take two coronavirus tests Friday morning."
+    publishedDateTime: 2020-10-03T01:39:00Z
+    webUrl: "https://www.cnbc.com/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 116
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106712128-16007764692020-09-21t201730z_1749449824_rc283j97mwkc_rtrmadp_0_usa-election-biden.jpeg?v=1600776508"
+        width: 3500
+        height: 2334
+        isCached: true
+  - title: "Mike Pence's Top Aide Tested Positive For The Coronavirus And Pence Will Keep Campaigning"
+    excerpt: "The vice president tested negative on Saturday, his office said. By Matt Berman and Kadia Goba Last updated on October 24, 2020, at 11:52 p.m. ET Posted on October 24, 2020, at 11:16 p.m. ET Vice President Mike Pence walks on stage at a campaign event in Michigan on October 22."
+    publishedDateTime: 2020-10-25T10:43:00Z
+    webUrl: "https://www.buzzfeednews.com/article/mattberman/mike-pence-coronavirus-marc-short-chief-of-staff"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/mattberman/mike-pence-coronavirus-marc-short-chief-of-staff"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/mattberman/mike-pence-coronavirus-marc-short-chief-of-staff"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 116
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/2/20/campaign_images/690bc2095fe0/hope-hicks-who-recently-traveled-with-trump-teste-2-4143-1601669514-20_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
+    publishedDateTime: 2020-10-25T10:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6028911002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday"
+    excerpt: "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday."
+    publishedDateTime: 2020-10-09T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump just praised one of the experimental coronavirus treatments he got and said FDA should approve it"
+    excerpt: "In a video posted Wednesday, Trump touted experimental coronavirus drugs from Regeneron and Eli Lilly."
+    publishedDateTime: 2020-10-08T08:32:00Z
+    webUrl: "https://www.businessinsider.com/trump-video-calls-for-approval-of-regenerons-antibody-drug-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-video-calls-for-approval-of-regenerons-antibody-drug-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-video-calls-for-approval-of-regenerons-antibody-drug-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f7e3edec655f6001969ed3c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Vice President Mike Pence tests negative for Covid-19"
     excerpt: "CNBC's Eamon Javers reports on Vice President Mike Pence's negative coronavirus test and former FDA commissioner Dr. Scott Gottlieb offers insight into how the White House may proceed with screenings and testing."
@@ -57,390 +247,269 @@ related:
         width: 1041
         height: 694
         isCached: true
-  - title: "Pence returning to Iowa"
-    excerpt: "Vice President Mike Pence will return to Iowa on Oct. 1 to speak at 'Faith in Leadership, America's Need for Revival.' It will be his fifth visit this year."
-    publishedDateTime: 2020-09-25T01:29:00Z
-    webUrl: "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924"
-    ampWebUrl: "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml"
-    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml"
+  - title: "Joe Biden tests negative for coronavirus"
+    excerpt: "Democratic presidential nominee Joe Biden said he and his wife Jill tested negative for coronavirus on Friday. “I’m happy to report that Jill and I have tested negative,” Biden said on Twitter. “Thank you to everyone for your messages of concern."
+    publishedDateTime: 2020-10-03T12:22:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Joe-Biden-tests-negative-for-coronavirus-15616211.php"
     type: article
     provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 75
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
     images:
-      - url: "https://www.thegazette.com/storyimage/GA/20200924/ARTICLE/200929835/AR/0/AR-200929835.jpg&MaxH=300&MaxW=500"
-        width: 449
-        height: 300
+      - url: "https://s.hdnux.com/photos/01/14/37/26/20051343/5/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Vice President Mike Pence to host debate watch party in Lititz"
-    excerpt: "Vice President Mike Pence will travel to Lititz on Tuesday, September 29 to host a 'Make America Great Again!' watch party of the Presidential Debate."
-    publishedDateTime: 2020-09-25T09:04:00Z
-    webUrl: "https://www.fox43.com/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
-    ampWebUrl: "https://www.fox43.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
-    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+  - title: "Trump could face a relapse, experts warn, as president downplays coronavirus threat despite massive death toll"
+    excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts' warning that the U.S. death toll, at more than 210,000, could almost double by year's end."
+    publishedDateTime: 2020-10-06T23:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/fauci-warns-trump-relapse-president-downplays-coronavirus-death-toll/3634631001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3634631001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634631001"
     type: article
     provider:
-      name: FOX43
-      domain: fox43.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://media.tegna-media.com/assets/WPMT/images/be32be9e-bda1-4af1-8b52-19e59bf6215e/be32be9e-bda1-4af1-8b52-19e59bf6215e_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence to make NH campaign stop next week"
-    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
-    publishedDateTime: 2020-09-26T12:44:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 75
-    images:
-      - url: "https://media.11alive.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence to make NH campaign stop next week"
-    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
-    publishedDateTime: 2020-09-27T06:10:00Z
-    webUrl: "https://www.ksdk.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    ampWebUrl: "https://www.ksdk.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    type: article
-    provider:
-      name: KSDK
-      domain: ksdk.com
-    quality: 75
-    images:
-      - url: "https://media.ksdk.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Here's what to know about Vice President Mike Pence's visit to Atlanta"
-    excerpt: "The finish line for the Nov. 3 presidential election is rapidly approaching, and campaigning is ramping up - especially here in Georgia, which is showing signs of becoming competitive for Democrats in 2020."
-    publishedDateTime: 2020-09-30T02:45:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 75
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence to host debate watch party in Lititz"
-    excerpt: "LITITZ, Pa. — Vice President Mike Pence is traveling to Lancaster County next week to host a 'Make America Great Again!' watch party of the Presidential Debate. On Tuesday, September 29, Pence will travel to Meadow Spring Farm in Lititz ahead of the ..."
-    publishedDateTime: 2020-09-30T21:22:00Z
-    webUrl: "https://www.wbir.com/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
-    ampWebUrl: "https://www.wbir.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
-    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
-    type: article
-    provider:
-      name: 10 News
-      domain: wbir.com
-    quality: 75
-    images:
-      - url: "https://media.wbir.com/assets/WPMT/images/be32be9e-bda1-4af1-8b52-19e59bf6215e/be32be9e-bda1-4af1-8b52-19e59bf6215e_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Pence speaks at debate campaign watch party"
-    excerpt: "LITITZ, Pa. — Vice President Mike Pence attended a debate watch party at Meadow Spring Farm in Ephrata Township Sept. 29. His visit comes amid a tight contest in the battleground state of Pennsylvania, which played a major role in deciding the 2016 ..."
-    publishedDateTime: 2020-09-30T21:07:00Z
-    webUrl: "https://www.wbir.com/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
-    ampWebUrl: "https://www.wbir.com/amp/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
-    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
-    type: article
-    provider:
-      name: 10 News
-      domain: wbir.com
-    quality: 75
-    images:
-      - url: "https://media.wbir.com/assets/WPMT/images/63353a4c-348a-4005-a9fd-4955d7c4ad81/63353a4c-348a-4005-a9fd-4955d7c4ad81_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Photos: Vice President Pence visits Carter Lake"
-    excerpt: "Vice President Mike Pence makes a campaign stop in Carter Lake, Iowa on Thursday. Vice President Mike Pence arrives at Eppley Airfield in Omaha on Thursday, Oct. 1, 2020. The vice president also spoke at PVS Structures,"
-    publishedDateTime: 2020-10-02T01:18:00Z
-    webUrl: "https://omaha.com/photos-vice-president-pence-visits-carter-lake/collection_a63db07c-1383-5e56-a28f-a8291614013b.html"
-    ampWebUrl: "https://omaha.com/photos-vice-president-pence-visits-carter-lake/collection_a63db07c-1383-5e56-a28f-a8291614013b.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/photos-vice-president-pence-visits-carter-lake/collection_a63db07c-1383-5e56-a28f-a8291614013b.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/b7/cb745a3a-a374-509a-b39a-9cfaa3ecedc8/5f76176ae246b.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Mike Pence fly memes land on the vice presidential debate"
-    excerpt: "Pence Fly and Mike Pence Fly -- even landing a three-picture deal from Universal, joked Paul Feig, who directed Bridesmaids, The Heat and Ghostbusters: ATC. C-SPAN even thought the moment viral ..."
-    publishedDateTime: 2020-10-08T13:03:03Z
-    webUrl: "https://www.cnet.com/news/mike-pence-fly-memes-dominated-the-vice-presidential-debate/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/mike-pence-fly-memes-dominated-the-vice-presidential-debate/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mike-pence-fly-memes-dominated-the-vice-presidential-debate/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 75
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/nGPD5Zds7crxw9756joYE-utTE0=/2020/10/08/13211f95-e329-409a-a925-bf6fbdfd633b/1228948960.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
-    excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
-    publishedDateTime: 2020-09-25T03:52:00Z
-    webUrl: "https://kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/"
-    ampWebUrl: "https://amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
-    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
-    type: article
-    provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 74
-    images:
-      - url: "https://kstp.com/kstpImages/repository/2020-09/800MikePenceMinneapolisAP.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Vice President Mike Pence to return to Des Moines for Family Leader event"
-    excerpt: "The Oct. 1 event will be Pence's fifth visit to the state this year. Polling shows a tight presidential race between Donald Trump and Joe Biden."
-    publishedDateTime: 2020-09-24T22:21:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/09/24/vice-president-mike-pence-return-des-moines-christian-family-leader-event/3523396001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/3523396001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3523396001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDEM/ce6f9ca5-c73b-4a43-a480-ecd6c5c64004-4C4050C9-41C4-40A3-8064-3E10A427FBDB.jpeg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/9b1ca01d-1e46-4a77-b125-e2569de56541-GettyImages-1228897458.jpg?auto=webp&crop=4637,2608,x0,y366&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence to make campaign stop in Carter Lake this week"
-    excerpt: "Vice President Mike Pence will visit Carter Lake on Thursday. The visit comes as a poll released Monday shows former Vice President Joe Biden leading President Donald Trump in Nebraska’s"
-    publishedDateTime: 2020-09-28T19:04:00Z
-    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
-    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+  - title: "Trump Campaign Manager, Kellyanne Conway Are Latest To Test Positive For Coronavirus"
+    excerpt: "Stepien took over Trump's campaign in July and attended the debate on Tuesday. Although Conway no longer works at the White House, she recently attended an event at the Rose Garden."
+    publishedDateTime: 2020-10-03T08:31:00Z
+    webUrl: "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/03/919821048/trump-campaign-manager-kellyanne-conway-are-latest-to-test-positive-for-coronavi"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 74
+      name: NPR
+      domain: npr.org
+    quality: 98
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/83/083fca39-f0e6-5963-8e20-8d0b547e974d/5f71fa5e04a74.image.jpg"
-        width: 512
-        height: 341
+      - url: "https://media.npr.org/assets/img/2020/10/03/ap_20233729964769_wide-8408f37dfac959679b411484ec8fbc0d2fa04d50.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
-  - title: "Vice President Mike Pence to hold presidential debate watch party in Lititz"
-    excerpt: "Vice President Mike Pence will be back in the Susquehanna Valley next week.He plans to hold a presidential debate watch party Tuesday night in Lititz, Lancaster County.The event w"
-    publishedDateTime: 2020-09-25T16:41:00Z
-    webUrl: "https://www.wgal.com/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
-    ampWebUrl: "https://www.wgal.com/amp/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
-    cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
+  - title: "Multiple people in Vice President Mike Pence's orbit test positive for the coronavirus"
+    excerpt: "Vice President Mike Pence will not quarantine after multiple people in his orbit test positive for the coronavirus. Pence's press secretary says the vice president is essential personnel and will maintain his schedule."
+    publishedDateTime: 2020-10-26T12:35:00Z
+    webUrl: "https://www.cbsnews.com/video/multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus/"
     type: article
     provider:
-      name: WGAL
-      domain: wgal.com
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/ea344a62-27f3-43f3-bc18-064eec3db129/thumbnail/1200x630/2b643b630ac6e7dca1e24427c4417fa2/cbsn-fusion-multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus-thumbnail-574507-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump is still comparing COVID-19 to the flu. But the coronavirus has already killed 3 times more people than flu does in a year."
+    excerpt: "President Trump suggested COVID-19 can be less lethal than the flu, and said the flu kills \"over 100,000\" people per year. Those claims are wrong."
+    publishedDateTime: 2020-10-06T22:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-incorrectly-compares-coronavirus-flu-deaths-lethality-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-incorrectly-compares-coronavirus-flu-deaths-lethality-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-incorrectly-compares-coronavirus-flu-deaths-lethality-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f7c8351282c500018c78ce2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Department of Transportation rejected a public transit mask mandate on the same day Trump's coronavirus diagnosis was revealed"
+    excerpt: "CIO submitted a request to the government in July to better protect workers against the coronavirus."
+    publishedDateTime: 2020-10-04T22:26:00Z
+    webUrl: "https://www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5f7a3ea2282c500018c787dc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
+    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
+    publishedDateTime: 2020-10-06T09:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Joe Biden and Jill Biden test negative for coronavirus"
+    excerpt: "The Democratic presidential nominee and his wife were tested earlier in the day after news of President Donald Trump’s infection was announced."
+    publishedDateTime: 2020-10-02T19:47:00Z
+    webUrl: "https://www.al.com/news/2020/10/biden-and-his-wife-test-negative-for-coronavirus.html"
+    ampWebUrl: "https://www.al.com/news/2020/10/biden-and-his-wife-test-negative-for-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/biden-and-his-wife-test-negative-for-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KCJ4KJTCJNEILMOZW4WOHM5P2M.jpg"
+        width: 4938
+        height: 3292
+        isCached: true
+  - title: "Vice President Mike Pence’s top aide tests positive for coronavirus"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday. Pence himself tested negative,"
+    publishedDateTime: 2020-10-25T04:03:00Z
+    webUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KTIDZGVA4VEXFPEH37ETNHERVA.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
+  - title: "Mike Pence's chief of staff, top adviser both test positive for coronavirus"
+    excerpt: "Sources tell ABC News, Marc Short, Chief of Staff to the Vice President Mike Pence has tested positive for COVID-19. And top adviser Marty Obst has also tested positive for coronavirus earlier ..."
+    publishedDateTime: 2020-10-25T03:43:00Z
+    webUrl: "https://abc7.com/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    ampWebUrl: "https://abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
     quality: 73
     images:
-      - url: "https://kubrick.htvapps.com/vidthumb/96bdbcd0-d328-4919-add6-7c1e3714e8c5/96bdbcd0-d328-4919-add6-7c1e3714e8c5_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+      - url: "https://cdn.abcotvs.com/dip/images/7316573_102420-ap-mike-pence-img.jpg"
+        width: 3422
+        height: 2281
+        isCached: true
+  - title: "A Fox News host has cast Trump as a war hero who got the coronavirus because he 'put himself on the line'"
+    excerpt: "Fox News host Greg Gutfeld compared Trump's coronavirus diagnosis to a solider's sacrifice on the battlefield while speaking on \"The Five\" talk."
+    publishedDateTime: 2020-10-03T11:31:00Z
+    webUrl: "https://www.businessinsider.com/fox-news-host-greg-gutfeld-trump-covid-19-for-us-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+  - title: "VP Mike Pence to continue campaigning after chief of staff tests positive for coronavirus"
+    excerpt: "Pence spokesman Devin O’Malley said Pence and his wife, Karen Pence, both tested negative for the virus on Saturday."
+    publishedDateTime: 2020-10-25T03:34:00Z
+    webUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
+    ampWebUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 66
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
+        width: 1024
+        height: 579
+        isCached: true
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
+    publishedDateTime: 2020-10-25T18:11:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6028911002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Borat 2 sequel full title hints at a connection to Vice President Mike Pence"
-    excerpt: "The rumored full title of Sacha Baron Cohen's sequel to his wildly successful 2006 comedy Borat hints at a connection to Vice President Mike Pence."
-    publishedDateTime: 2020-09-28T01:49:00Z
-    webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
-    ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+  - title: "Kanye West Sends Prayers To Donald And Melania Trump After Both Tested Positive For Coronavirus"
+    excerpt: "Kanye West sent well-wishes to President Donald Trump and first lady Melania Trump after they tested positive for COVID-19."
+    publishedDateTime: 2020-10-04T09:40:00Z
+    webUrl: "https://www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370"
+    ampWebUrl: "https://www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370?amp=1"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 72
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/28/04/33702662-0-image-a-4_1601263306386.jpg"
-        width: 636
-        height: 382
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/04/26/donald-trump-kanye-west.jpg"
+        width: 1024
+        height: 759
         isCached: true
-  - title: "Vice President Mike Pence lands in Des Moines to speak at Family Leader event"
-    excerpt: "Vice President Mike Pence landed in Des Moines Thursday afternoon and immediately headed to speak at an event hosted by the Family Leader Foundation. The trip is Pence's fifth to Iowa this year and comes just days before early voting begins Oct."
-    publishedDateTime: 2020-10-01T20:02:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/10/01/vp-mike-pence-lands-des-moines-iowa-speak-family-leader/5878444002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5878444002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5878444002"
+  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
+    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
+    publishedDateTime: 2020-10-10T19:43:00Z
+    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDEM/ce6f9ca5-c73b-4a43-a480-ecd6c5c64004-4C4050C9-41C4-40A3-8064-3E10A427FBDB.jpeg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence visiting Atlanta next week"
-    excerpt: "Pence will be delivering remarks at a Faith & Freedom Coalition Policy Conference highlighting the “Trump Administration’s continued efforts to support religious freedom and every American’s right to worship."
-    publishedDateTime: 2020-09-25T16:13:00Z
-    webUrl: "https://www.wsbtv.com/news/local/vice-president-mike-pence-visiting-atlanta-next-week/HS7FVCTR5NBVPCC366K4VGGX5I/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
+      name: WSOC-TV
+      domain: wsoctv.com
     quality: 55
     images:
-      - url: "https://www.wsbtv.com/resizer/cVtib_f5nbLdndrX5T-fqm997Fs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/KLEJHYU4DW4B65I7BBSA3B2UGY.jpg"
-        width: 1200
-        height: 628
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
+        width: 769
+        height: 433
         isCached: true
-  - title: "Vice President Mike Pence's visit to Atlanta"
-    excerpt: "As part of the campaigning, Vice President Mike Pence will make a swing back through Georgia to energize Republican voters, less than a week after Pre"
-    publishedDateTime: 2020-09-30T16:12:00Z
-    webUrl: "https://www.11alive.com/video/news/live_breaking/mike-pence-in-atlanta-why-and-when-is-he-here/85-6e9ac6c4-9964-470e-bdf9-e19bce1f79bd"
+  - title: "North Carolina campaigns continue for Vice President Mike Pence after chief of staff tests positive for coronavirus"
+    excerpt: "Vice President Mike Pence will campaign in North Carolina Sunday after his chief of staff tested positive for the coronavirus."
+    publishedDateTime: 2020-10-27T20:14:00Z
+    webUrl: "https://www.wxii12.com/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
+    ampWebUrl: "https://www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
+    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 55
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Yes, That Is Vice President Mike Pence In The Borat 2 Trailer"
-    excerpt: "And, before you ask, yes, that does appear to be Vice President Pence himself in the trailer. The clip includes footage of Cohen crashing the Conservative Political Action Conference while dressed as Trump back in February."
-    publishedDateTime: 2020-10-01T16:55:00Z
-    webUrl: "https://www.bustle.com/entertainment/the-borat-2-trailer-tackles-covid-19-the-trump-administration"
-    type: article
-    provider:
-      name: Bustle
-      domain: bustle.com
-    quality: 55
-    images:
-      - url: "https://imgix.bustle.com/uploads/image/2020/10/1/8adc0f40-5596-4678-ac6b-9a5bec6336c5-screen-shot-2020-10-01-at-95021-am.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "LIVE: Vice President Mike Pence campaigns in Miami"
-    excerpt: "South Florida will once again be in the spotlight for the 2020 presidential race as President Donald Trump and Vice President Mike Pence travel to Miami on Thursday."
-    publishedDateTime: 2020-10-15T16:11:00Z
-    webUrl: "https://www.wflx.com/2020/10/15/live-vice-president-mike-pence-campaigns-miami/"
-    type: article
-    provider:
-      name: WFLX
-      domain: wflx.com
-    quality: 55
-    images:
-      - url: "https://www.wflx.com/resizer/SmJ-y4gRQJz3dkcLXndl-86fIHQ=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/5GMRLJ75TBMNUBLT3EDAUC4GQE.com"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "WATCH LIVE: Vice President Mike Pence holds campaign event in western Iowa"
-    excerpt: "CARTER LAKE, Iowa (KTIV) -- Vice President Mike Pence is hosting a campaign event in western Iowa Thursday. Pence is holding a \"Make America Great Again\" event in Council Bluffs with him expected ..."
-    publishedDateTime: 2020-10-01T16:48:00Z
-    webUrl: "https://ktiv.com/2020/10/01/watch-live-vice-president-mike-pence-holds-campaign-event-in-western-iowa/"
-    type: article
-    provider:
-      name: KTIV
-      domain: ktiv.com
+      name: WXII12
+      domain: wxii12.com
     quality: 53
     images:
-      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/4/2020/01/Mike-Pence-Hedshot.jpg"
-        width: 1280
-        height: 720
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/1000-19-1603642733.jpeg?crop=1.00xw:0.846xh;0,0.0685xh&resize=1200:*"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "WATCH LIVE: Vice President Mike Pence holds campaign event in Des Moines, IA"
-    excerpt: "Vice President Mike Pence is in Des Moines today, holidng a \"Make-America-Great-Again\" Rally for President Trump's reelection campaign. KTIV App Users: To watch the rally on KTIV.com, click here. The rally takes place at the Des Moines International Airport and is just two days after President Donald Trump's campaign event in Omaha,"
-    publishedDateTime: 2020-10-29T19:36:00Z
-    webUrl: "https://ktiv.com/2020/10/29/watch-live-vice-president-mike-pence-holds-campaign-event-in-des-moines-ia/"
+  - title: "Mike Pence, Karen Pence test negative as White House coronavirus cases climb"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence both tested negative Monday as a number of new cases were confirmed in the nation's capital."
+    publishedDateTime: 2020-10-05T18:47:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/05/mike-pence-tests-negative-covid-19-white-house-coronavirus-trump/3626064001/"
     type: article
     provider:
-      name: KTIV
-      domain: ktiv.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 52
     images:
-      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/4/2020/10/Pence-in-Carter-Lake-IA.jpg"
-        width: 720
-        height: 405
+      - url: "https://www.gannett-cdn.com/presto/2019/09/26/PIND/f459176d-794d-415b-b2f4-9a80abebd0f8-Pence1.JPG?crop=2735,1539,x0,y0&width=1600&height=800&fit=bounds"
+        width: 1422
+        height: 800
         isCached: true
-  - title: "Full coverage from Vice President Mike Pence's visit to Lititz for presidential debate watch party"
-    excerpt: "Vice President Mike Pence is in Lancaster County, as President Donald Trump and his Democratic challenger, former Vice President Joe Biden, debate for the first time. Pence touched down in Lititz ..."
-    publishedDateTime: 2020-09-30T07:12:00Z
-    webUrl: "https://lancasteronline.com/news/politics/full-coverage-from-vice-president-mike-pences-visit-to-lititz-for-presidential-debate-watch-party/article_96f78616-0286-11eb-abe2-5f363f07154b.html"
+  - title: "Joe Biden tests negative for coronavirus before events in Grand Rapids"
+    excerpt: "Democratic presidential nominee Joe Biden and his wife Jill Biden tested negative for the coronavirus Friday morning, hours before he is scheduled to campaign in Michigan. Bidens"
+    publishedDateTime: 2020-10-03T04:25:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html"
     type: article
     provider:
-      name: Lancaster Online
-      domain: lancasteronline.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/7c/37c4bdfa-02b1-11eb-9eec-9714b1336c56/5f73cccba1934.image.jpg?resize=849%2C630"
-        width: 849
-        height: 630
-        isCached: true
-  - title: "Exclusive: Vice President Mike Pence Talks About Pennsylvania Battleground, Philadelphia Gun Violence"
-    excerpt: "Eyewitness News spoke exclusively one-on-one with Pence, asking him about polling which shows President Trump behind 9 percentage points in Pennsylvania."
-    publishedDateTime: 2020-09-30T03:26:00Z
-    webUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/"
-    ampWebUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
-    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 40
-  - title: "Vice President Pence Holds Rally in Council Bluffs, IA"
-    excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
-    publishedDateTime: 2020-10-01T09:01:00Z
-    webUrl: "https://www.c-span.org/video/?476385-1/vice-president-pence-holds-rally-council-bluffs-ia"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Rally in Carter Lake, Iowa"
-    excerpt: "2020-10-01T16:33:13-04:00https://images.c-span.org/Files/a9a/20201001164553002_hd.jpgVice President Mike Pence delivered remarks at a rally in support of his and President Trump’s reelection campaign held in Carter Lake, Iowa. Vice President Mike Pence ..."
-    publishedDateTime: 2020-10-02T01:53:00Z
-    webUrl: "https://www.c-span.org/event/?476385/c2020-vice-president-pence-holds-rally-carter-lake-ia"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Rally in Council Bluffs, Iowa"
-    excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
-    publishedDateTime: 2020-10-01T18:07:00Z
-    webUrl: "https://www.c-span.org/video/?476385-1/vice-president-pence-holds-campaign-rally-council-bluffs-iowa"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Remarks in Des Moines, Iowa"
-    excerpt: "President Mike Pence addresses a gathering in Des Moines, Iowa, hosted by the Family Leader Foundation. He’s introduced by Housing and Urban Development Secretary Dr. Ben Carson. Vice President Mike Pence addresses a gathering in Des Moines,"
-    publishedDateTime: 2020-10-01T21:30:00Z
-    webUrl: "https://www.c-span.org/video/?476509-1/vice-president-pence-remarks-des-moines-iowa"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
+      name: MLive
+      domain: mlive.com
     quality: 35
 
 secured: "gW6BuzY+oY/Vwf/bPH3Y5a45pc5XCSW9nk7GqDgb/NFEjYhp1gAj5Vt1w9MEwPn7ZC5j8GFe/ga/ave70Vva3XyIRAD5CIFK7k4ebPt3Rmv3hFtKLygSsSeAFTyynBeq5HW8ZpWZ9e58OS4i6dhAdLDLkoETcAKazusyQ97VeTiTY8Qq7p+JjNeQjE5Wnjy5HkEb7aizNeibMu9HJA5kz23XA4oSJ2i2nEudagtvc55a8ZNePreCd16nmTsRrLaTlLJcLE+0Y3mJYxAattR2giyc6C1TEnDH50HKjDPnmz/kSzDJP4Hu+QlWZVdLffRliNGPkV+s2hVIY/H3QNtZ/PasYCnDUjxCaaw5T/nPn8g=;e3JUI5spk71xOwCVnp8cWA=="

@@ -47,22 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says"
-    excerpt: "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects."
-    publishedDateTime: 2020-10-03T02:31:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg"
-        width: 2500
-        height: 1535
-        isCached: true
   - title: "WH Chief Of Staff: Trump Improving But Doctors Were 'Very Concerned'"
     excerpt: "White House Chief of Staff Mark Meadows said Saturday Donald Trump's health, including a fall in his blood oxygen level, had left the president's doctors \"very concerned\" but that he had improved and there was never a risk he would have to hand over power."
     publishedDateTime: 2020-10-04T05:42:00Z

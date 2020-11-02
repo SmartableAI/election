@@ -47,6 +47,38 @@ related:
         width: 807
         height: 545
         isCached: true
+  - title: "Lawyers: Trump can’t use job as a shield in defamation suit"
+    excerpt: "Lawyers for a woman who claims President Donald Trump raped her in a department store dressing room a quarter century ago say he can’t hurl insults at her and then replace himself with the government"
+    publishedDateTime: 2020-10-06T02:09:00Z
+    webUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Who’s Hurt The Most By Trump Halting Second Stimulus Talks?"
+    excerpt: "Trump's tweeted on Tuesday his decision to end stimulus negotiations. Here's who is hurt the most by this decision."
+    publishedDateTime: 2020-10-08T11:39:00Z
+    webUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/"
+    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ef7aab5571027102156b2%2F0x0.jpg"
+        width: 1200
+        height: 784
+        isCached: true
   - title: "Nikkei bounces back on Trump health report, railways rebound"
     excerpt: "Japanese shares bounced back on Monday, led by gains in value shares including railway companies, after doctors said U.S. President Donald Trump's health was improving following treatment for COVID-19."
     publishedDateTime: 2020-10-05T03:21:00Z
@@ -58,15 +90,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "President Makes Progress, Not 'Out of the Woods': Trump Update"
-    excerpt: "President Donald Trump has made “substantial progress” but still isn’t “out of the woods,” his physician Sean Conley said in a Saturday evening update. Trump completed a second dose of Remdesivir and remains fever free,"
-    publishedDateTime: 2020-10-04T17:19:00Z
-    webUrl: "https://www.chron.com/business/article/Johnson-Becomes-Third-Senator-to-Test-Positive-15618806.php"
+  - title: "Oil rebounds on Trump health update, Norway shutdowns"
+    excerpt: "Oil prices rose on Monday, lifted by comments from doctors for U.S. President Donald Trump suggesting he could be discharged from hospital as soon as Monday, just a few days after his positive coronavirus test sparked widespread alarm."
+    publishedDateTime: 2020-10-05T11:07:00Z
+    webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN26Q060"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q060"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q060"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 35
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "DjpsZb61tZ9gKt2IZZkdTSdR1IrKGinbxjg5OJL8SMuPOMfoMpjA9SzGrdhxUWO/aLP1Dq23+MZoVsEk+gvA45XEBp1Ey5FAztm4ty67dM6JsizYQR0LF0kS4X77kqybqAHrSKw+inYZJ6QcHDEyvvVUlcTZNmZ4r7enUSs+1eC7mMtxuJ04Tz/+WZLI3DbeU2RRqHGJy/SG57cTj5DgY6BQeo4t0mZbEaFly1fHcNorVJzn//EDh4iZzhjWObRYEtSnpfHo9eTRZxJrFNF02cpfBpzZd9D31txlR/+lVCqG4Llk0TdUCQlvuK/vHjujm58WUY9Yp8dmaAd2A7A9iNmE0tc+3HcdvzQ3nOF7/Qk=;8zhIWIxAlWk6lyCObTi2cw=="
 ---

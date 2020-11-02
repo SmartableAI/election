@@ -63,26 +63,10 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Mike Pence's chief of staff Marc Short, other top aide test positive for COVID-19"
-    excerpt: "Two of Vice President Mike Pence's top deputies have tested positive for the coronavirus: chief of staff Marc Short and political aide Marty Obst. \"Today, Marc Short, Chief of Staff to the Vice President,"
-    publishedDateTime: 2020-10-25T12:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/marty-obst-top-aide-mike-pence-tests-positive/story?id=73811825"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/mike-pence_hpMain_20201024-213634_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Vice President Mike Pence's chief of staff Marc Short tests positive for COVID-19"
     excerpt: "\"Vice President Pence and Mrs. Pence both tested negative for COVID-19 today, and remain in good health,\" Pence's press secretary Devin O'Malley said."
     publishedDateTime: 2020-10-25T04:13:00Z
-    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3a&ftag=CNM-00-10aab4i"
+    webUrl: "https://www.cbsnews.com/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/?intcid=CNI-00-10aaa3b"
     ampWebUrl: "https://www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-president-mike-pences-chief-of-staff-marc-short-tests-positive-for-covid-19/"
     type: article
@@ -110,20 +94,6 @@ related:
       - url: "https://i.insider.com/5f94df4df21803001222bce7?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Vice President Mike Pence's top aides test positive for COVID-19, but he continues to work"
-    excerpt: "Mike Pence plans to preside over the Senate floor during a vote on Amy Coney Barrett's confirmation despite several of his top aides contracting COVID-19."
-    publishedDateTime: 2020-10-26T17:18:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/26/mike-pences-top-aides-test-positive-covid-19-vp-not-quarantining/6042345002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Pence rallies in Reno as COVID cases rise"
     excerpt: "Vice President Mike Pence’s campaign rally in a hangar at Reno-Tahoe Airport on Thursday comes as Washoe County confronts record-setting numbers on new daily cases, hospitalizations and"
@@ -157,6 +127,22 @@ related:
         width: 4000
         height: 2938
         isCached: true
+  - title: "Mike Pence, Karen Pence test negative for COVID-19 after at least 5 aides tested positive"
+    excerpt: "Vice President Mike Pence and Second Lady Karen Pence tested negative for COVID-19 Monday morning, according to the vice president’s office."
+    publishedDateTime: 2020-10-26T19:35:00Z
+    webUrl: "https://www.azfamily.com/news/us_world_news/mike-pence-karen-pence-test-negative-for-covid-19-after-at-least-5-aides-tested/article_858e142d-d0bc-5b8b-aa70-e6f970ca5542.html"
+    ampWebUrl: "https://www.azfamily.com/news/us_world_news/mike-pence-karen-pence-test-negative-for-covid-19-after-at-least-5-aides-tested/article_858e142d-d0bc-5b8b-aa70-e6f970ca5542.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/mike-pence-karen-pence-test-negative-for-covid-19-after-at-least-5-aides-tested/article_858e142d-d0bc-5b8b-aa70-e6f970ca5542.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 66
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/c/a9/ca958ab0-68e7-561f-bc46-366126ea7a3a/5f9720833af61.image.jpg?resize=1024%2C691"
+        width: 1024
+        height: 691
+        isCached: true
   - title: "As Mike Pence speaks in Tallahassee, reports reveal 2 top aides tested positive for COVID-19"
     excerpt: "WASHINGTON – Vice President Mike Pence was in the middle of his second campaign rally in Florida at Tallahassee International Airport Saturday when Bloomberg reported that one of his closest advisers had tested positive for the novel coronavirus earlier ..."
     publishedDateTime: 2020-10-26T13:37:00Z
@@ -172,6 +158,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/25/PTAL/057a072d-a817-4e5e-8e7d-945716bff373-Trump_supporters032.JPG?auto=webp&crop=5417,3048,x0,y189&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Several People in Vice President Mike Pence’s World Now Have Covid-19"
+    excerpt: "At least five people in Vice President Mike Pence’s inner circle have tested positive for the coronavirus, according to a report from CNN. That tally includes some of his closest advisors, including his chief of staff Marc Short and an advisor named Marty Orbst."
+    publishedDateTime: 2020-10-25T15:25:00Z
+    webUrl: "https://www.motherjones.com/coronavirus-updates/2020/10/several-people-in-vice-president-mike-pences-world-now-have-covid-19/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 55
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/pencenormalize-10820.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
         isCached: true
   - title: "White House COVID-19 Outbreak: Why Mike Pence Is Being Called ‘Grossly Negligent’ After Staff’s COVID Diagnosis"
     excerpt: "Trump administration and campaign officials faced questioning about Vice President Mike Pence’s planned travel in the upcoming week after two of his top aides tested positive for COVID-19."

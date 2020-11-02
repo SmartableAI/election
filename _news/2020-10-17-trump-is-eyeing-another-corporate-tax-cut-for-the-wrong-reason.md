@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump is still falsely claiming that Mexico is paying for his border wall"
+    excerpt: "In 2016, President Donald Trump promised at his campaign rallies that Mexico would pay for the giant wall he planned to build on its border.\n    \n"
+    publishedDateTime: 2020-10-15T01:35:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Z-4YjqP5NQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013104016-primera-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's pursuit of coronavirus vaccine comes at the expense of therapies he now claims as a 'cure'"
     excerpt: "When President Donald Trump huddled with vaccine makers last spring, the CEO of Regeneron -- who landed an audience with the President after a private call to a well-placed White House adviser -- made the most of the chance to plug his company's coronavirus treatment.\n    \n"
     publishedDateTime: 2020-10-16T15:13:29Z
@@ -125,6 +141,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump flails and shows no ability to reset as some Republicans voice their concerns"
+    excerpt: "(CNN)As President Donald Trump began a packed day of events Friday, he delivered an unusually somber message to seniors -- a group he won in 2016 and desperately needs to win back -- speaking of ..."
+    publishedDateTime: 2020-10-17T04:50:00Z
+    webUrl: "https://www.cnn.com/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 129
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump's MAGA rally messaging is as erratic as he is. No wonder he's sinking in the polls."
     excerpt: "Trump’s message this go around is, quite simply, as all over the place as Trump is. And it seems likely that this chaos is contributing to Trump trailing Democratic opponent Joe Biden nationally by 14 points in a recent NBC/WSJ poll."

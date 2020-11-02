@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-the-economic-growth-candi
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-the-economic-growth-candidate-11602183763"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: Wall Street Journal
@@ -30,38 +30,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Chaffetz rips mainstream media hypocrisy on Hunter Biden: Shame on them"
-    excerpt: "The mainstream media's treatment of Joe Biden and his son, Hunter Biden, is a \"national embarrassment\" compared to how President Trump and his family are treated, Fox News contributor Jason Chaffetz told \"Fox & Friends\" Thursday."
-    publishedDateTime: 2020-10-01T14:11:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J18vGZrgGjI/biden-trump-media-comey-russia-investigation-senate-jason-chaffetz"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-media-comey-russia-investigation-senate-jason-chaffetz.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-media-comey-russia-investigation-senate-jason-chaffetz.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden: \"There Has Been No Indication Of A Conflict Of Interest\" With Hunter Biden In Ukraine"
-    excerpt: "Former Vice President Joe Biden spoke briefly to reporters at an October 2019 SEIU convention that President Trump was lying when he for suggested both Ukraine and China should investigate dealings with his son Hunter while Biden was in office."
-    publishedDateTime: 2020-09-25T09:51:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/23/biden_there_has_been_no_indication_of_a_conflict_of_interest_with_hunter_biden_in_ukraine.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 54
-    images:
-      - url: "https://assets.realclear.com/images/52/522128.jpg"
-        width: 750
-        height: 562
-        isCached: true
 
 secured: "m5TWJSrKEnm6Hq6EpYe8/vQhbH59t09akfjPMIyXL+Iq3LSiO0Glj1VD3VMX2uAbS2mP7O/BciDVOhK+6mWBpD/IrobkwYAml7KL71xcEddrOAyPDYfgtFO8GUeTSdyOhDrUaPh+fh6hgJU8CnM0O4VJXqSlZjkY6aT91+H4IgneqFPXVJbp+U5IPPjzviWq8IyfbGxTbswKaUT7FNvLjapk0KfMUtojoEik3l/y5rM4eFPtiNYaGwZv7PG4fjXBjvx9waMz4Q+K+b9b/e6X1ywJ+xP1zV1FzosMWXzRHFVaweMzUZqAnO2oWOnIvBbViLoUa0cD0SLYNyCg7amOd//9ZUU0FX9nPmSx0ABFWQdXIUKcGepY/1NOAOm6wqnf3If5l1n/ozUG57f28/BMfnwSU0GZSgQjVBQ9//QHnbGuYLJBnFLi3KHXAUCyLhnSF2C+jnOTk8HDVMkk1nOU7tLWEM97qELhqTyWrvGL7k4svSFjIjjg6gFg+pvqFmbTihto5I2XgjQ4uQFO6ADJdw==;LjEK+M2+/DvY86aP36KOGw=="
 ---

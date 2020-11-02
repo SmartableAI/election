@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Vice President Mike Pence welcomed by crowd of 500 in Flint"
-    excerpt: "Tonight as the sun went down, Air Force Two touched down at Flint Bishop Airport. Pence hustled up to the podium, highlighting the importance of Michigan in this election."
-    publishedDateTime: 2020-10-29T04:28:00Z
-    webUrl: "https://www.fox2detroit.com/video/865403"
-    ampWebUrl: "https://www.fox2detroit.com/video/865403.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/video/865403.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 55
   - title: "Watch Now: 'I need you to be sure to vote,' Vice President Mike Pence tells 200 supporters at Greensboro rally on Tuesday"
     excerpt: "A crowd of about 200 people chanted for “four more years” of President Donald Trump on Tuesday afternoon during a campaign rally featuring Vice President Mike Pence."
     publishedDateTime: 2020-10-28T08:19:00Z
@@ -72,15 +61,6 @@ related:
     excerpt: "President Pence delivers remarks at a campaign rally in Swanton, Ohio. Vice President Pence delivers remarks at a campaign rally in Swanton, Ohio. Vice President Pence delivered remarks at a campaign rally in support of his and President Trump’s reelection on"
     publishedDateTime: 2020-10-24T11:47:00Z
     webUrl: "https://www.c-span.org/video/?477288-1/vice-president-pence-holds-rally-swanton-ohio"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
-    publishedDateTime: 2020-10-30T13:55:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-arizona"
     type: article
     provider:
       name: C-SPAN

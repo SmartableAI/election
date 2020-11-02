@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Americans say they are better off under Trump, but is America? Trump by the numbers"
+    excerpt: "Gallup reports that 56% said they're better off than in 2016, but 56% also said President Donald Trump does not deserve to be reelected."
+    publishedDateTime: 2020-10-29T09:21:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/29/americans-say-better-off-but-not-america-trump-numbers-column/6046218002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6046218002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6046218002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/1790a9c3-a79f-4718-bee3-8c5d1e212277-AP_Election_2020_Trump_1.jpg?auto=webp&crop=2725,1533,x0,y138&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
     excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
     publishedDateTime: 2020-10-28T04:13:00Z
@@ -74,6 +90,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Americans Must Render Judgment Against Joe Biden At The Polls"
+    excerpt: "The most recent bombshells were revealed by the NY Post, which detailed a web of emails and transactions allegedly involving Hunter Biden, Joe Biden, China, Ukraine, and others. Despite the serious nature of these alleged “transactions,” Joe Biden has ..."
+    publishedDateTime: 2020-11-01T14:01:00Z
+    webUrl: "https://www.theamericanconservative.com/articles/americans-must-render-judgment-against-joe-biden-at-the-polls/"
+    type: article
+    provider:
+      name: The American Conservative
+      domain: theamericanconservative.com
+    quality: 55
+    images:
+      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/10/GettyImages-520783510.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "PfzsU2xHogGW1i22G2vSmTpVKXKQXJPXc0CXAP1Cko6g6I4ZVtxnoMCB+QU0EO+7kED0N4QDbn7B+d3mrLuIA+nWy63CAaZzHcFlYD2z55YgJyooavJgXQLjIXAd4IK5sigOH8/Tp0FoM55TsI6rFlIUCr1jAqQ8zBgcfpNvGCrsgtAPYALRRzr/cQOp+ecawIZEag31TzPQoxCA9HoKBanq1u8HCgvDllvK3HwZosU4GobFxTvI7PvVjfmEXvt2LM5QB9fECjUNXYOGzvu2aA8ixP4XplMmw2z3s4EHj6E2c6E3CV1bgCHJOBDOP4YmKlIZt59H/cOjAu1vUL757cQDsSYXIEyX0d3KYbXYHNU=;RBRe2nCKr1hGzEEtvlSqJw=="
 ---

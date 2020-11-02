@@ -31,174 +31,141 @@ images:
     isCached: true
 
 related:
-  - title: "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis"
-    excerpt: "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements."
-    publishedDateTime: 2020-10-01T09:11:00Z
-    webUrl: "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+  - title: "Trump said to be improving but next 48 hours 'critical'"
+    excerpt: "President Donald Trump says in a video from his hospital quarters that he is feeling better as he battles the novel coronavirus and hopes to “be back soon.”"
+    publishedDateTime: 2020-10-04T06:28:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_d2b4023d2f934b70b528779f972f8185_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump has mild symptoms, will remain on job: chief of staff"
-    excerpt: "President Donald Trump has mild symptoms after testing positive for COVID-19 but he was expected to remain on the job, White House Chief of Staff Mark Meadows said on Friday."
-    publishedDateTime: 2020-10-02T15:43:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-meadows/trump-has-mild-symptoms-will-remain-on-job-chief-of-staff-idUSKBN26N2MD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2MD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2MD"
+  - title: "Trump's COVID-19 symptoms 'very concerning', next 48 hours critical, source says"
+    excerpt: "President Donald Trump is not yet on a clear path to recovery from COVID-19 and some of his vital signs over the last 24 hours were very concerning, a person familiar with his health said on Saturday."
+    publishedDateTime: 2020-10-03T21:18:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-int/trumps-covid-19-symptoms-very-concerning-next-48-hours-critical-source-idUSKBN26O0YF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O0YF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0YF"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 120
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535885118&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG911NE"
-        width: 817
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1536048213&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9202O"
+        width: 854
         height: 545
         isCached: true
-  - title: "Global stocks rise as signs of Trump's improving health calm markets"
-    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
-    publishedDateTime: 2020-10-05T04:27:00Z
-    webUrl: "https://www.reuters.com/article/global-markets-idINKBN26Q03N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26Q03N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26Q03N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536147605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400A"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Who’s Hurt The Most By Trump Halting Second Stimulus Talks?"
-    excerpt: "Trump's tweeted on Tuesday his decision to end stimulus negotiations. Here's who is hurt the most by this decision."
-    publishedDateTime: 2020-10-08T11:39:00Z
-    webUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/"
-    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ef7aab5571027102156b2%2F0x0.jpg"
-        width: 1200
-        height: 784
-        isCached: true
-  - title: "Judge rules against Trump campaign in New Jersey lawsuit over counting ballots"
-    excerpt: "A federal judge denied the campaign's motion for a preliminary injunction halting two New Jersey election rules."
-    publishedDateTime: 2020-10-07T06:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/election-2020-trump-campaign-ruled-against-in-ballot-counting-lawsuit/5902285002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5902285002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5902285002"
+  - title: "Trump reports feeling better, but next few days are 'the real test' in his COVID-19 battle"
+    excerpt: "Several days after symptoms of COVID-19 appear, the body's immune system must make a critical switch to fight the virus with precision."
+    publishedDateTime: 2020-10-05T13:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/03/trump-covid-19-update-why-next-days-crucial-presidents-health/3613288001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3613288001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3613288001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 121
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/03/31/PNJM/284dd463-8af7-4ae5-a440-d2adf017a73f-AP20091840255665.jpg?auto=webp&crop=3718,2091,x1,y36&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/dc42f208-e8ce-4df7-a647-0ee34d21106c-123_President_Donald_Trump_Debate_Night.jpg?auto=webp&crop=2999,1687,x0,y73&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Has Turned ‘Ballot Harvesting’ Into A Rallying Cry Against Mail-In Voting—Here’s What It Is"
-    excerpt: "On Monday, Trump called for an investigation into an unsubstantiated report from Project Veritas — a right-wing activist group that has a track record of publishing misleading stories — that claimed Rep."
-    publishedDateTime: 2020-09-28T19:53:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/amp/"
+  - title: "Trump reports feeling better, but here's why the next few days are 'the real test' in his COVID-19 battle"
+    excerpt: "Several days after symptoms of COVID-19 appear, the body's immune system must make a critical switch to fight the virus with precision."
+    publishedDateTime: 2020-10-04T02:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/03/trump-covid-19-update-why-next-days-crucial-presidents-health/3613288001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3613288001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3613288001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/dc42f208-e8ce-4df7-a647-0ee34d21106c-123_President_Donald_Trump_Debate_Night.jpg?auto=webp&crop=2999,1687,x0,y73&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In First Video From Hospital, Trump Says He Feels ‘Much Better,’ But Next Few Days Will Be ‘The Real Test’"
+    excerpt: "President Donald Trump Saturday night said in a video from Walter Reed Medical Center he is feeling “much better now” after White House officials gave conflicting accounts about his condition throughout the day."
+    publishedDateTime: 2020-10-03T23:54:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 112
+    quality: 107
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f723ce187ec74e766144241%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f790ccb33b8b5974bcf95f6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3530%26cropY1%3D179%26cropY2%3D2165"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "'Mailmen selling ballots. Dumped in rivers. Found in creeks': Trump makes unfounded claims about mail-in voting"
-    excerpt: "From claiming mailmen are \"selling the ballots\" to arguing that mail ballots are being \"dumped in rivers,\" Trump ramped up his assault on mail-voting"
-    publishedDateTime: 2020-09-30T23:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/2020-debate-trump-makes-outrageous-claims-mail-voting/3586836001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3586836001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3586836001"
+  - title: "Doctors say Trump doing 'very well' at hospital"
+    excerpt: "Doctors say US President Donald Trump is doing “very well” as he spends the weekend at a military hospital for treatment of COVID-19. (Oct. 3)"
+    publishedDateTime: 2020-10-03T17:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/03/doctors-say-trump-doing-very-well-hospital/3609245001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/3c9be54e-1f1b-4489-bb6f-74160918199e-AP_US_Election_Debate_Global_Reaction.jpg?auto=webp&crop=5453,3067,x273,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6202483-2d89-4536-b228-2432ce9d25ba_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Oil rebounds on Trump health update, Norway shutdowns"
-    excerpt: "Oil prices rose on Monday, lifted by comments from doctors for U.S. President Donald Trump suggesting he could be discharged from hospital as soon as Monday, just a few days after his positive coronavirus test sparked widespread alarm."
-    publishedDateTime: 2020-10-05T11:07:00Z
-    webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN26Q060"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q060"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q060"
+  - title: "Trump says 'real test' ahead in his COVID fight"
+    excerpt: "Posted . President Donald Trump told Americans from his hospital room that the next few days will be the \"real test\" o"
+    publishedDateTime: 2020-10-04T12:27:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2y2?now=true"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "A look at how the Atlantic City disaster may have set Trump up to pay nothing in taxes for years"
-    excerpt: "A key provision under US tax law known as \"abandonment\" may have been Trump's ticket to a $72.9 million tax refund after leaving his casino business."
-    publishedDateTime: 2020-10-07T15:18:00Z
-    webUrl: "https://www.businessinsider.com/how-atlantic-city-disaster-casinos-hotels-trump-pay-no-taxes-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
     images:
-      - url: "https://i.insider.com/5f7cdca294fce90018f7b82b?width=1200&format=jpeg"
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f79befce4b04d445762f7a0-1601814268494?location=LANDSCAPE"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Art gets political at new Trump gallery in Katy"
-    excerpt: "Two ardent supporters of President Donald Trump have taken an artistic approach to backing the commander-in-chief’s reelection efforts. Longtime friends Bruce Badeau and Andy Valadez have opened a Trump-themed art gallery in homage to the president."
-    publishedDateTime: 2020-10-05T20:37:00Z
-    webUrl: "https://www.chron.com/neighborhood/katy/news/article/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
-    ampWebUrl: "https://www.chron.com/neighborhood/katy/news/amp/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/neighborhood/katy/news/amp/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
+  - title: "Trump: Getting COVID-19 'Blessing from God'"
+    excerpt: "President Donald Trump says getting infected with COVID-19 was a \"blessing from God.\" Trump attributes him feeling well to the experimental antibody therapy he got from Regeneron Pharmaceuticals Inc."
+    publishedDateTime: 2020-10-07T23:35:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/trump-getting-covid-19-blessing-god/5917803002/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://s.hdnux.com/photos/01/14/42/31/20063862/3/375x250.jpg"
-        width: 333
-        height: 250
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1df67988-38d6-46ff-882c-a088a293b68b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Trump is stubbornly clinging to stunts to show all is well — even as his condition worsens: analysis"
-    excerpt: "Writing for Vox, correspondent German Lopez slammed President Donald Trump for his ongoing series of stunts to prove that everything in the country is normal and there is nothing to be afraid of or criticize his government for — even as COVID-19 has made him very sick."
-    publishedDateTime: 2020-10-05T15:45:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
+  - title: "Trump Improving, Could Be Discharged Monday: Doctors"
+    excerpt: "US President Donald Trump has \"continued to improve\" as he is treated for Covid-19, his doctors said Sunday, revealing he could be discharged as early as Monday. His medical team said his oxygen levels had dropped twice briefly in recent days and he is being treated with steroids,"
+    publishedDateTime: 2020-10-04T17:01:00Z
+    webUrl: "https://www.ibtimes.com/trump-improving-could-be-discharged-monday-doctors-3056521"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 60
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-793x430.jpg"
-        width: 793
-        height: 430
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/white-house-physician-sean-conley-answers-questions-surrounded.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "IdEERNf4zdpYyWR5cnwhPMrJaLLGss0AC0kmsvs5/XSVv0eReaRCiDFh9vd69Hrz5jd6ocZj/NlXzqdt3WYZRVvFnBtzGCQqQj3TtXAODb6CUCE/PssTHzMXjD9ac+UJ3Qv+1I1OkYMXCYYOVUxsAyc88dArqBf4DsnFE/J8Q8Umfrx6NQacHZ+kA3OzokB+n6LRwjxx3v3HRnJqTbdFM+ddhD27Htcrecr2s2/Cc5fq7B9yaiiWyLtBMqjA6WpoiltL8bm+KsKr0X1bju8qxJb6QbTgT6rhEd3CQdMzOyBvv3zkA6D/gILsBwUcN1k4Td/n4UgVlMOr179FhQdFpkHjGaDjEp6fuGz8DhdBB8w=;uIj/jQmcRpQARvMFSEKufA=="

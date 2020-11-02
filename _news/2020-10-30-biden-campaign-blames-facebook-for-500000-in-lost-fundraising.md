@@ -47,6 +47,54 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Bruce Springsteen narrates new Biden ad about hometown of Scranton"
+    excerpt: "Joe Biden's presidential campaign will air a new campaign ad featuring Bruce Springsteen during Saturday night's nationally televised game between Ohio State and Penn State on ABC, a Biden aide told CNN.\n    \n"
+    publishedDateTime: 2020-10-31T18:47:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yVy8N1ID-4Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/bruce-springsteen-biden-hometown-ad/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/bruce-springsteen-biden-hometown-ad/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190425105802-bruce-springsteen-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Joe Biden discloses names of elite fundraisers"
+    excerpt: "More than 800 individuals and couples each raised at least $100,000 to help fund former Vice President Joe Biden's presidential bid, according to a list of fundraisers the Democrat's campaign released Saturday night, just days before the election.\n    \n"
+    publishedDateTime: 2020-11-01T04:19:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6UeyPr2QAdY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/joe-biden-bundlers-released/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/joe-biden-bundlers-released/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030163620-02-joe-biden-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden goes all in on rebuilding 'blue wall' in campaign's closing stretch "
+    excerpt: "Joe Biden is making his final stand on the \"blue wall\" that President Donald Trump toppled four years ago.\n    \n"
+    publishedDateTime: 2020-11-01T00:09:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HmyrCc0whhY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/joe-biden-blue-wall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/joe-biden-blue-wall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031163632-obama-biden-flint-michigan-1031-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden if elected will form task force to reunite 545 separated immigrant children with family, campaign says"
     excerpt: "Joe Biden is pledging that if he's elected president, he will sign an executive order to form a task force that will focus on reuniting the 545 immigrant children who've been separated from their families.\n    \n"
     publishedDateTime: 2020-10-29T14:03:05Z
@@ -94,22 +142,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/19/us/politics/19biden-landslide-top/merlin_178713780_0331426e-fb13-423f-84cb-9a6f19e16007-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden campaign: Joe Biden 'not going to end fossil fuel industry'"
-    excerpt: "In an exclusive interview with Meet the Press, Kate Bedingfield, Biden Deputy Campaign Manager, says that former Vice President wants to end energy subsidies but doesn't want to see people lose their jobs."
-    publishedDateTime: 2020-10-25T14:02:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/biden-campaign-joe-biden-not-going-to-end-fossil-fuel-industry-94604869798"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94604869798"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94604869798"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/mtp_clip_bedsenergy_201025_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Biden makes late push to flip the Senate"
     excerpt: "The Democratic nominee is hitting Georgia and Iowa this week, while Jill Biden campaigned with the Democratic Senate candidate in Maine."

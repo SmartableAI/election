@@ -31,19 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says in video he has created 'voter fraud organization'"
-    excerpt: "Democratic nominee Joe Biden said his team has created \"the most extensive and inclusive voter fraud organization in the history of American politics\" in a recent video."
-    publishedDateTime: 2020-10-25T13:18:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F7YzaNNGHLE/biden-voter-fraud-organization-video-gaffe"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-voter-fraud-organization-video-gaffe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voter-fraud-organization-video-gaffe.amp"
+  - title: "Biden banks on Hollywood support in final days before 2020 election"
+    excerpt: "Hillary Clinton employed a similar strategy in 2016, when she won the popular vote but lost the Electoral College."
+    publishedDateTime: 2020-11-01T22:07:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c13facdb-af1b-4373-8d46-17432f01bec0/6c6c594d-6400-49b2-9d62-794f24392062/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden campaign touts military support in new TV commercial"
+    excerpt: "EXCLUSIVE: With five days to go until Election Day on Nov. 3, Joe Biden’s campaign on Thursday is going up with a new TV commercial in key battleground states that spotlights the Democratic presidential nominee’s support among military families and veterans."
+    publishedDateTime: 2020-10-29T14:18:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IA0fxpzfJtc/biden-campaign-military-support-new-tv-commercial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-military-support-new-tv-commercial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-military-support-new-tv-commercial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298607934584-e1603619808274.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
+    excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."
+    publishedDateTime: 2020-10-25T16:15:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6NWqlGnUVw/joe-hunter-biden-china-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Warren eyes Treasury Secretary job in potential Biden White House: report"
+    excerpt: "Warren reportedly plans to make her case for the position depending on the outcome of next week’s election."
+    publishedDateTime: 2020-10-30T01:12:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_KiQb7VYLI/warren-treasury-secretary-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d92e365-3fbb-48cc-b1f3-2d5c1088ddef/b749bc16-2f42-48c2-ab47-1c09becd69f0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "New Hampshire newspaper backs Biden, first Democrat for president in 100 years"
+    excerpt: "One of the nation's most prominent conservative-leaning newspapers endorsed Joe Biden for president on Sunday, marking the first time the publication has endorsed a Democratic presidential candidate in over 100 years."
+    publishedDateTime: 2020-10-25T19:37:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/90vbbqrnN5g/biden-endorsement-conservative-new-hampshire-union-leader-newspaper"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pelosi: 'I feel very confident that Joe Biden will be elected president on Tuesday'"
+    excerpt: "House Speaker Nancy Pelosi projected Thursday that Joe Biden would win the White House and said Democrats are ready to work with him on a transition agenda to tackle the coronavirus pandemic, address the economic fallout and pass an infrastructure agenda. "
+    publishedDateTime: 2020-10-29T17:21:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EfkCiwKZMR4/pelosi-confident-biden-win-democratic-transition-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/08731db9-Nancy-Pelosi.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -63,19 +143,35 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Media embrace Biden after dismissing him as a likely loser"
-    excerpt: "Most pundits had consigned him to history’s dustbin as the primaries got under way, laying out all the reasons why he wouldn’t--and shouldn’t--win the Democratic nomination."
-    publishedDateTime: 2020-10-29T07:47:00Z
-    webUrl: "https://www.foxnews.com/media/media-embrace-biden-after-dismissing-him-as-a-likely-loser"
+  - title: "Michigan Democrat on Biden's Expanded Travel: 'I Want Joe Biden to Win Georgia'"
+    excerpt: "Many Midwestern Democrats have criticized Hillary Clinton for losing sight of their “Blue Wall,” or a collection of states near the Great Lakes that the party has typically carried in presidential elections."
+    publishedDateTime: 2020-10-27T09:47:00Z
+    webUrl: "https://www.wsj.com/livecoverage/election-live-updates-trump-biden/card/hsUB8oa28eKyvdY3Lpg6"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 111
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20301701741020-e1603892188715.jpg"
+      - url: "https://images.wsj.net/im-250629?size=1.5"
         width: 1280
-        height: 720
+        height: 853
+        isCached: true
+  - title: "A Biden Family Special Prosecutor in 2021?"
+    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
+    publishedDateTime: 2020-10-27T10:36:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/525278_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "j8i64qiinPoXNtMbzjpTrj0byNEVXVP6E1+LvfLTN9lwMP/RsnEPwHOs8tWtwAsEKCgdDA+DbdVPlSy9srOpSYG2XD7GxRJpfyBxQwhJI3H9LiRJGoleOPJMrWkYPZD4qZxc5C1AXaoUBB/7BxwYy+uouqpGTCXwL52Aeb+nHANbsQXi9rOZw9aCVckpy15nweb2FVHIZP4hkanVfoefDfD4rCz41sHKas5viGR0Pgncu4qy7NZxQbfjmzAuVdSu5lm9rEECwKcdgtcSlVd0IVLrc9qGdRYBmK01AF2ZBqddkolg26pNfR4bAvkRqDWqLwPbXQb3wjOkIRcJ/V7gc5IqQvg1ID2/F0hMSkKz35s=;z+wni8wblg64NyB1w1LEeQ=="

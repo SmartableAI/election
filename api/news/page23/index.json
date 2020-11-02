@@ -2,21 +2,25 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2020-10-07-watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump.md",
-      "title": "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump",
-      "excerpt": "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George",
+      "path": "_news/2020-10-07-sen-cotton-calls-out-obama-biden-admin-clinton-on-russia-collusion-hoax.md",
+      "title": "Sen. Cotton calls out Obama-Biden admin, Clinton on Russia collusion hoax",
+      "excerpt": "The declassification of former CIA director John Brennan's notes proves Hillary Clinton colluded with foreign entities to inject disinformation into the 2016 campaign, Sen. Tom Cotton, R-Ark., told \"Fox & Friends\" Wednesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/",
-      "originalUrl": "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCKzsD3mkUU/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCKzsD3mkUU/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 234,
       "tags": null,
       "images": [
         {
-          "url": "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg",
-          "width": 800,
-          "height": 430,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,125 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/",
-      "publishedDateTime": "2020-10-06T19:35:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp",
+      "publishedDateTime": "2020-10-07T04:48:49-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-russias-vladimir-putin-says-he-has-noted-joe-bidens-sharp-anti-russian-rhetoric.md",
+      "title": "Russia's Vladimir Putin says he has noted Joe Biden's 'sharp anti-Russian rhetoric'",
+      "excerpt": "Russian President Vladimir Putin said on Wednesday he had noted what he called harsh anti-Russian rhetoric from Democratic presidential candidate Joe Biden, but that he had been encouraged by Biden’s comments on arms control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/russia-s-vladimir-putin-says-he-has-noted-joe-biden-n1242379",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/russia-s-vladimir-putin-says-he-has-noted-joe-biden-n1242379",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202007/n_joy_trumpputin_200725_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242379",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242379",
+      "publishedDateTime": "2020-10-07T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-trumps-tweets-turn-market-ibm-eyes-new-nyc-office-bankruptcy-consulting-booms.md",
+      "title": "Trump's tweets turn market — IBM eyes new NYC office — Bankruptcy consulting booms",
+      "excerpt": "The top finance stories for October 7, including the latest news on IBM's interest in NYC offices and law firms' recruitment of summer associates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10",
+      "originalUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7cc2e394fce90018f7b762?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10?amp",
+      "publishedDateTime": "2020-10-07T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,6 +167,219 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-battle-for-the-suburbs-can-joe-biden-flip-texas-video.md",
+      "title": "Battle for the suburbs: can Joe Biden flip Texas? – video",
+      "excerpt": "Texas is a rapidly changing state with the fastest growing population in America. Hispanic Texans are set to become the majority by 2022, but will this help Joe Biden flip a Republican stronghold? Oli",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video",
+      "originalUrl": "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ad2b6c6bc07ee8a1c8603135263f9c5f9afdd033/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddfef1d2d526de95827d109c891e36aa",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-mike-pence-what-you-need-to-know-about-the-republican-nominee-for-vice-president.md",
+      "title": "Mike Pence: What you need to know about the Republican nominee for vice president",
+      "excerpt": "Everything you need to know about Vice President Mike Pence, Donald Trump's vice president on the Republican ticket.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "originalUrl": "https://abcnews.go.com/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/republican-national-convention-night-3-43-gty-jc-200826_1598496693180_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "publishedDateTime": "2020-10-07T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-mike-pence-gets-a-rare-moment-in-the-national-spotlight.md",
+      "title": "Mike Pence Gets A Rare Moment In The National Spotlight",
+      "excerpt": "Vice President Mike Pence takes the stage for a debate with Kamala Harris in Salt Lake City Wednesday night. The debate comes amid President Trump's treatment for COVID-19. Pence has tested negative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2020/10/07/921055053/mike-pence-gets-a-rare-moment-in-the-national-spotlight",
+      "originalUrl": "https://www.npr.org/2020/10/07/921055053/mike-pence-gets-a-rare-moment-in-the-national-spotlight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-im-mayor-first-in-miami-dade-walking-a-line-between-trump-and-constituents.md",
+      "title": "‘I’m mayor first’: In Miami-Dade, walking a line between Trump and constituents",
+      "excerpt": "The Republican mayor of Miami-Dade County is a Trump-endorsed congressional candidate in a nationally watched swing seat. He’s also the elected leader of the urban heart of South Florida, a coronavirus hot spot that’s home to 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/07/carlos-gimenez-trump-coronavirus-426909",
+      "originalUrl": "https://www.politico.com/news/2020/10/07/carlos-gimenez-trump-coronavirus-426909",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/2d/ab/cec464684938adc1e0bb8c5a741d/201006-gimenez-herald-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-trumps-declassifying-order-wont-erase-his-wrongdoing-swalwell-says.md",
       "title": "Trump's declassifying order won't erase his wrongdoing, Swalwell says",
       "excerpt": "Rep. Eric Swalwell calls Trump move a 'sloppy sleight of hand'",
@@ -66,7 +392,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -122,7 +448,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -163,6 +489,62 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-biden-says-there-shouldnt-be-a-second-debate-if-trump-still-has-covid-19.md",
+      "title": "Biden says there shouldn't be a second debate if Trump still has Covid-19",
+      "excerpt": "Democratic presidential nominee Joe Biden said Tuesday that the second presidential debate should not be held if President Donald Trump is still infected with coronavirus, but that he would base his participation in the debate upon recommendations from medical experts.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UmkhnQmjdEQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UmkhnQmjdEQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1509,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200929212326-18-debate-cleveland-0929-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/joe-biden-second-debate-trump-covid/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/joe-biden-second-debate-trump-covid/index.html",
+      "publishedDateTime": "2020-10-06T18:01:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -234,7 +616,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 340,
+      "heat": 320,
       "tags": null,
       "images": [
         {
@@ -346,7 +728,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 211,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -387,58 +769,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity.md",
-      "title": "Biden in Gettysburg speech invokes Lincoln, calls for unity",
-      "excerpt": "Democratic presidential nominee Joe Biden delivered an impassioned plea for unity while invoking former President Lincoln during a speech in Gettysburg, Pa., on Tuesday, exactly four weeks before the election.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity",
-      "originalUrl": "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_gettysburg_100620getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp",
-      "publishedDateTime": "2020-10-06T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -510,7 +840,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 375,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -845,7 +1175,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2127,
+      "heat": 1787,
       "tags": null,
       "images": [
         {
@@ -889,6 +1219,114 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-exclusive-former-cia-director-john-brennan-says-the-biggest-threat-to-the-2020-election-is-trump-himself.md",
+      "title": "EXCLUSIVE: Former CIA director John Brennan says the biggest threat to the 2020 election is Trump himself",
+      "excerpt": "Russia got everything it could have hoped for from Donald Trump's presidency, the former CIA chief said in an interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10",
+      "originalUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7cacb6282c500018c78e83?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp",
+      "publishedDateTime": "2020-10-06T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-trump-nabs-endorsement-from-major-nevada-newspaper.md",
+      "title": "Trump nabs endorsement from major Nevada newspaper",
+      "excerpt": "The Las Vegas Review-Journal endorsed President Trump’s reelection over the weekend. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3hK_Bi2r5UQ/las-vegas-review-journal-endorses-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3hK_Bi2r5UQ/las-vegas-review-journal-endorses-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279850847067-1.jpg",
+          "width": 4088,
+          "height": 2297,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp",
+      "publishedDateTime": "2020-10-06T12:15:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-trump-rejects-democrats-stimulus-offer-says-no-deal-until-after-the-election.md",
       "title": "Trump rejects Democrats' stimulus offer, says no deal until after the election",
       "excerpt": "President Donald Trump appeared to spike ongoing negotiations over COVID-19 stimulus relief, telling Republicans to focus on confirming Barrett.",
@@ -897,7 +1335,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/06/covid-stimulus-update-trump-rejects-democratic-offer-eyes-election/3627003001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 636,
+      "heat": 596,
       "tags": null,
       "images": [
         {
@@ -938,442 +1376,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trump-still-believes-the-cure-for-the-virus-is-positive-thinking.md",
-      "title": "Trump still believes the cure for the virus is ‘positive thinking’",
-      "excerpt": "Peale’s work drew on, and popularized for a new generation, the hugely influential 19th century spiritual movement of New Thought, first popularized by onetime watchmaker Phineas Quimby in the 1860s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/outlook/2020/10/06/positive-thinking-trump-virus-fear/",
-      "originalUrl": "https://www.washingtonpost.com/outlook/2020/10/06/positive-thinking-trump-virus-fear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2UTSHAHNEI6XBYZBXYVTUKHSQ.jpg&w=1440",
-          "width": 1440,
-          "height": 974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/10/06/positive-thinking-trump-virus-fear/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/06/positive-thinking-trump-virus-fear/?outputType=amp",
-      "publishedDateTime": "2020-10-06T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-fact-check-trump-falsely-tweets-that-covid-19-is-less-lethal-than-the-flu.md",
-      "title": "Fact check: Trump falsely tweets that Covid-19 is less lethal than the flu",
-      "excerpt": "President Donald Trump has consistently downplayed the threat of the coronavirus in public, and it seems testing positive for the virus himself has not changed his tune.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RrymOYiVtPI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RrymOYiVtPI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 473,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html",
-      "publishedDateTime": "2020-10-06T09:30:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trumps-favorite-trade-scorecard-posts-its-worst-figure-since-2006-as-the-election-looms.md",
-      "title": "Trump's favorite trade scorecard posts its worst figure since 2006 as the election looms",
-      "excerpt": "Shipments of consumer goods led the jump in imports and hit a record high as companies prepared for holiday-season spending.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10",
-      "originalUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7c728c282c500018c78c61?format=jpeg",
-          "width": 5629,
-          "height": 2814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10?amp",
-      "publishedDateTime": "2020-10-06T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-bernstein-on-trump-he-has-become-homicidally-negligent.md",
-      "title": "Bernstein on Trump: He has become homicidally negligent",
-      "excerpt": "CNN political analyst Carl Bernstein reacts to the White House declining an offer from the CDC to help contact trace the coronavirus outbreak in the White House.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bl-JO99hKFI/carl-bernstein-trump-behavior-coronavirus-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bl-JO99hKFI/carl-bernstein-trump-behavior-coronavirus-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201006092851-carl-bernstein-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/06/carl-bernstein-trump-behavior-coronavirus-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/06/carl-bernstein-trump-behavior-coronavirus-newday-vpx.cnn",
-      "publishedDateTime": "2020-10-06T07:25:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trump-deploying-high-risk-strategy-by-leaving-hospital-so-early-rollins-says.md",
-      "title": "Trump deploying 'high-risk strategy' by leaving hospital so early, Rollins says",
-      "excerpt": "The president is deploying a \"high-risk strategy\" by leaving Walter Reed hospital earlier than expected, Republican strategist Ed Rollins told NYT.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dq72gKYBHzY/trump-high-risk-strategy-campaign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dq72gKYBHzY/trump-high-risk-strategy-campaign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20279838236015.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-high-risk-strategy-campaign.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-high-risk-strategy-campaign.amp",
-      "publishedDateTime": "2020-10-06T07:08:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-michelle-obama-releases-closing-campaign-message-vote-for-biden-like-your-lives-depend-on-it.md",
-      "title": "Michelle Obama releases closing campaign message: Vote for Biden 'like your lives depend on it'",
-      "excerpt": "Former first lady Michelle Obama is making her closing message to Americans in a campaign video released less than one month until Election Day, imploring people to vote as she shares why she believes the stakes are so high this year.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PcumDGemN28/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PcumDGemN28/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002172437-michelle-obama-dnc-august-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html",
-      "publishedDateTime": "2020-10-06T06:48:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-donald-trump-jr-reportedly-wanted-a-family-intervention-to-stop-trumps-crazy-behaviour-at-walter-reed.md",
-      "title": "Donald Trump Jr. reportedly wanted a family 'intervention' to stop Trump's 'crazy behaviour' at Walter Reed",
-      "excerpt": "Donald Trump's erratic and controversial behaviour since his hospitalisation for Covid-19 has divided his family, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-jr-thought-father-acting-crazy-walter-reed-report-2020-10",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-jr-thought-father-acting-crazy-walter-reed-report-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7c5680282c500018c78c2f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-jr-thought-father-acting-crazy-walter-reed-report-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-thought-father-acting-crazy-walter-reed-report-2020-10?amp",
-      "publishedDateTime": "2020-10-06T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trump-mounts-bizarre-and-misleading-white-house-return-despite-warnings.md",
-      "title": "Trump mounts bizarre and misleading White House return despite warnings",
-      "excerpt": "A strongly medicated President Donald Trump bolted from his VIP hospital bubble Monday, staging a bizarre White House comeback that included an irresponsible mask removal and a reckless pronouncement there is nothing to fear from Covid-19, which has already killed 210,000 Americans.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/llKqpPMyq1I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/llKqpPMyq1I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html",
-      "publishedDateTime": "2020-10-06T04:17:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

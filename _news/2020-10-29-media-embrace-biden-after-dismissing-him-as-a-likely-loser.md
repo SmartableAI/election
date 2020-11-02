@@ -46,37 +46,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden says Catholic faith guides policies but gets hit on abortion, religious freedom"
-    excerpt: "Joe Biden is touting his Catholic faith as groups are hitting him on issues held near and dear to the faithful and opposed by the church, including religious freedom for nuns and abortion."
-    publishedDateTime: 2020-10-30T19:17:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sMIa_lBS0vI/biden-catholic-vote-2020-election-religious-liberty"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
+  - title: "Clyburn says 'voter suppression' is only way Biden can lose, claims to have had 'complaints all day'"
+    excerpt: "House Majority Whip James Clyburn, D-S.C., told Fox News Sunday he would \"pray\" for Black Trump voters and flatly stated that the only way Democrat Joe Biden loses the election would be \"for voter suppression to be successful.\""
+    publishedDateTime: 2020-11-02T01:50:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SUIr-au6jtQ/clyburn-voter-suppression-only-way-biden-can-lose"
+    ampWebUrl: "https://www.foxnews.com/politics/clyburn-voter-suppression-only-way-biden-can-lose.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-voter-suppression-only-way-biden-can-lose.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc.': Sen. Johnson"
-    excerpt: "Coming up, White House Chief of Staff Mark Meadows on a blockbuster admission at the final presidential debate, Joe Biden on transitioning the oil and gas industry. JOE BIDEN (D), PRESIDENTIAL CANDIDATE:  By the way,"
-    publishedDateTime: 2020-10-29T19:20:00Z
-    webUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson"
-    ampWebUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77982519-0b80-4d5e-88e5-ef13e983e2a2/77bf9357-3466-4f1c-9e36-660714f9e3bf/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "4UK20OjSNeNnoJcc+iHd5UAtEbYH0sP6v9LC/TCzPPJx4YicQWz8po/+C4q8l9pJYWIBCRVlLCI4H7QHeHIrUbHZCDl02MJs/YmlpptbfM6jWejD9XlXVOBWsRUOO8YhUthPpFxqiDF/omXeL2UnWyIXMydpWtNkBuAe2qN4E7ZpmV5ORi6KXByKhWsVyJAjX3KnGYHJAtjvxqqgWnyKpAbgUCCW6DOofaUz/hl5KFa1HE/ba6LSe705Qog+Gv63o1J8FtjijNNTJI/ftKXfmqHLEv7yyN8hVAbZ3x57oAH0Ed3XuCvNjuB3pXndStScGzxM5d4z8CtCaGiVjB5qRN2VPdtbYzdr1emzzESlFJk=;C9p9P3XKgdbCXd7Dn7lF+A=="

@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris and Mike Pence will reportedly be separated by plexiglass in debate on Wednesday night"
-    excerpt: "The highest profile use of plexiglass so far this election cycle came from Democrat Jaime Harrison in his debate against Republican South Carolina Sen. Lindsey Graham."
-    publishedDateTime: 2020-10-05T21:20:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5f7b8483282c500018c78b59?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
-    excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
-    publishedDateTime: 2020-10-05T17:32:00Z
-    webUrl: "https://www.newsweek.com/it-would-real-mistake-kamala-harris-underestimate-mike-pences-debating-skills-says-pete-1536450"
-    ampWebUrl: "https://www.newsweek.com/it-would-real-mistake-kamala-harris-underestimate-mike-pences-debating-skills-says-pete-1536450?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/it-would-real-mistake-kamala-harris-underestimate-mike-pences-debating-skills-says-pete-1536450?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 129
-    images:
-      - url: "https://d.newsweek.com/en/full/1646102/pete-buttigieg.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Mike Pence avoided Roe v. Wade in Wednesday’s debate. Here’s why."
     excerpt: "Both parties are out of touch on abortion. But most voters support Roe, and conservatives already trust Pence on social issues."
     publishedDateTime: 2020-10-09T01:49:00Z
@@ -75,83 +43,53 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Mike Pence reluctantly agrees to plexiglass barriers in tonight’s V.P. debate."
-    excerpt: "From \"The Daily 202\" podcast: the Commission on Presidential Debates said the vice president dropped his objections to a plexiglass barricade on his side of the stage for today’s debate after viewing the setup during a walk-through of the debate hall."
-    publishedDateTime: 2020-10-07T12:51:00Z
-    webUrl: "https://www.washingtonpost.com/podcasts/election-2020/mike-pence-reluctantly-agrees-to-plexiglass-barriers-in-tonights-vp-debate/"
+  - title: "At debate, Mike Pence didn’t say what he has before: He supports overturning Roe v. Wade"
+    excerpt: "Vice President Mike Pence artfully sidestepped the chance to talk about banning abortion before a national audience at Wednesday’s debate."
+    publishedDateTime: 2020-10-08T23:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20201007/t_1602074181394_name_Election2020.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/pence-vp-debate-04-rt-jef-201007_1602126711944_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "How to Watch Wednesday Night’s Debate Between Mike Pence and Kamala Harris—and What to Expect"
-    excerpt: "The debate, which will take place at 9 p.m. on Wednesday, will feature increased social distancing protocols, including greater distance between the two candidates and plexiglass shields in front of each of their lecterns."
-    publishedDateTime: 2020-10-05T21:35:00Z
-    webUrl: "https://www.vogue.com/article/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris"
-    ampWebUrl: "https://www.vogue.com/article/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris/amp"
-    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris/amp"
+  - title: "Vice President Mike Pence to be in Grand Rapids Wednesday"
+    excerpt: "Vice President Mike Pence will travel to Grand Rapids on Wednesday, Oct. 14. Pence will deliver remarks on the \"historic accomplishments of the Trump administration.\" The event will take place at 12:30 p."
+    publishedDateTime: 2020-10-13T13:05:00Z
+    webUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday"
+    ampWebUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
+    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
     type: article
     provider:
-      name: Vogue
-      domain: vogue.com
-    quality: 89
-    images:
-      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "“A Campaign Careening Towards the Finish Line”: The Pence–Harris Debate Was a Feeble Attempt at Normal"
-    excerpt: "Abigail Tracy: “I expect Senator Harris to tap into her time as a prosecutor and fully prosecute the case against Mike Pence,” Democratic strategist Cooper Teboe, who’s working with the ..."
-    publishedDateTime: 2020-10-08T15:36:17Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/mike-pence-kamala-harris-debate-was-a-feeble-attempt-at-normal"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/mike-pence-kamala-harris-debate-was-a-feeble-attempt-at-normal/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/mike-pence-kamala-harris-debate-was-a-feeble-attempt-at-normal/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 84
-    images:
-      - url: "https://media.vanityfair.com/photos/5f7f3b70d070eec8d50f0d80/master/pass/kamala-harris-pence-debate-2.jpg"
-        width: 2000
-        height: 1294
-        isCached: true
-  - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
-    excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
-    publishedDateTime: 2020-10-07T12:04:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/07/kamala-harris-mike-pence-what-watch-vice-presidential-debate/5878313002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5878313002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5878313002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/14a07ef5-cda0-4fad-85af-933d6cb90950-VP_debate_sign.jpg?auto=webp&crop=5237,2946,x0,y266&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "SNL: Who Is Playing Kamala Harris on Saturday Night Live?"
-    excerpt: "Kamala Harris (D-CA) delivers remarks at Shaw University on September 28, 2020. On October 3, 2020, Saturday Night Live will be returning to NBC for the premiere of its 46th season. The host will be Chris Rock and rapper Megan Thee Stallion will be performing as the musical guest."
-    publishedDateTime: 2020-10-04T01:25:00Z
-    webUrl: "https://heavy.com/entertainment/kamala-harris-snl-who-is-playing/"
-    ampWebUrl: "https://heavy.com/entertainment/kamala-harris-snl-who-is-playing/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/kamala-harris-snl-who-is-playing/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
+      name: WXYZ Detroit
+      domain: wxyz.com
     quality: 75
     images:
-      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228774543-e1601766932483.jpg?quality=65&strip=all"
-        width: 4800
-        height: 2712
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2844be0/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.theindychannel.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Mike Pence to make campaign stop in Flint Wednesday"
+    excerpt: "Today the Trump Campaign announced Vice President Mike Pence will hold a rally on Wednesday evening, in Flint."
+    publishedDateTime: 2020-10-26T16:51:00Z
+    webUrl: "https://www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/"
+    ampWebUrl: "https://www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 75
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/23f542e2e71148e6bf2a33da67870ac8.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Vice President Mike Pence to host campaign event in Grand Rapids Wednesday"
     excerpt: "United States Vice President, Mike Pence, will reportedly visit Michigan next week after the Republican National Convention."
@@ -169,21 +107,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris plans two campaign events in Raleigh today | Charlotte Observer"
-    excerpt: "Kamala Harris will be in Raleigh on Monday, her first visit to North Carolina as the Democratic nominee for vice president. Harris, a U.S. senator from California and former attorney general, will give a speech Monday afternoon at Shaw University."
-    publishedDateTime: 2020-09-28T14:27:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246023330.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
+  - title: "Vice President Mike Pence to visit Grand Rapids Wednesday for campaign event"
+    excerpt: "Vice President Mike Pence on Wednesday will hold a campaign event at an automotive trim company in Grand Rapids, President Donald Trump's campaign announced Saturday night. The event will be held at Lacks Enterprises in Grand Rapids and is scheduled to begin at 12:30 p."
+    publishedDateTime: 2020-10-12T19:40:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/10/mike-pence-visit-grand-rapids/5958341002/"
+    ampWebUrl: "https://amp.freep.com/amp/5958341002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5958341002"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 72
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e24a9e94-12c3-454a-873e-0e9c2916d379/da956aac-77ef-469c-a259-8f538eb7b90e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/NLED/d3e83616-4fb2-42b8-9c36-e4846c6d0b23-AP20279737181110.jpg?auto=webp&crop=3956,2226,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Mike Pence to visit Grand Rapids on Wednesday for campaign event"
     excerpt: "Vice President Mike Pence on Wednesday will hold a campaign event at an automotive trim company in Grand Rapids, President Donald Trump's campaign announced Saturday night. The event will be held at Lacks Enterprises in Grand Rapids and is scheduled to begin at 12:30 p."
@@ -201,17 +139,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice Presidential Debate: Kamala Harris, Mike Pence Reportedly Being Separated By Plexiglass"
-    excerpt: "SALT LAKE CITY (CBS SF) – Vice President Mike Pence and Sen. Kamala Harris will reportedly be separated by plexiglass at Wednesday’s Vice Presidential Debate amid concerns about the ..."
-    publishedDateTime: 2020-10-05T21:47:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2020/10/05/vice-presidential-debate-kamala-harris-mike-pence-reportedly-being-separated-by-plexiglass/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/10/05/vice-presidential-debate-kamala-harris-mike-pence-reportedly-being-separated-by-plexiglass/amp/"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/10/05/vice-presidential-debate-kamala-harris-mike-pence-reportedly-being-separated-by-plexiglass/amp/"
-    type: article
-    provider:
-      name: CBS SF BayArea
-      domain: cbslocal.com
-    quality: 69
 
 secured: "LasWdZ18bsrY3WBcm0VTLBDTjMMIxibkQsXF8GhvDqvYApSJLHGJMmy1Qit/WfxPyX/Y9jfwtGfZfSjaI2T/U0IPPPcPxxah7XCsepKrK6tfFAMWI+SUzSnrb9Y8HGt2PiWj4dY3NMwO2xx5yzessQUwr6pj5rcZfdtuFMN9bFFBmsOag07Sc11lQYDpZNzoa+JKrY5fe0DXvfzDI+9mcBD8ZQloNjcLUmh+fBR84EhHvVs7srHXmFbpKB2qsb5eo7T6As2Uxryv2fMqWwNoRZZsofV3JgB/2Bpcra+hEbhjSHCp/GdyBC2cZW0Uur0owbhwPBiFMbw1dPmXgNYsFUGP68OwJZKpUwn9Cwj07TSb4gUqOcy2OImZBWTGxmtGPGWTaAuKIlS0RKfNYXmhb/oSZ/1gLCnQdnTnwxdDF3OzYBxzgDrfXyd5orkrcP5jLXpkBrikCRM7UFu/TMUUISnwPIYjHeM82nB3GqD0XdVInwi8M9HzY1GHD85VbcqFnZRgFF+8njJvXM/ePuMiPg==;ZT3LggbJ/uod3dVAZz83ng=="
 ---

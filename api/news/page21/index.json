@@ -2,25 +2,21 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-10-09-on-economic-aid-trump-seems-to-realize-he-messed-up-tactically.md",
-      "title": "On economic aid, Trump seems to realize he 'messed up tactically'",
-      "excerpt": "It dawned on the oft-confused president that sabotaging himself in the final four weeks of re-election campaign wasn't such a good idea.",
+      "path": "_news/2020-10-10-record-breaking-group-of-faith-leaders-endorses-biden.md",
+      "title": "'Record-breaking group' of faith leaders endorses Biden",
+      "excerpt": "More than 1,600 faith leaders have endorsed Democratic nominee Joe Biden for president as of Friday, including some who could influence evangelical votes, according to a faith voters outreach group.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/economic-aid-trump-seems-realize-he-messed-tactically-ncna1242704",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/economic-aid-trump-seems-realize-he-messed-tactically-ncna1242704",
+      "webUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden",
+      "originalUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
+      "highlight": null,
+      "heat": 465,
       "tags": null,
       "images": [
         {
-          "url": "https://media4.s-nbcnews.com/j/newscms/2018_50/2679261/181211-trump-pence-pelosi-schumer-ew-1206p_98b6b0120df347aa6749aa6f649f6587.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://thehill.com/sites/default/files/bidenjoe_093020getty_blowout.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T06:33:00-07:00",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp",
+      "publishedDateTime": "2020-10-09T12:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,8 +50,418 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-philadelphia-judge-rejects-trumps-poll-watcher-lawsuit.md",
+      "title": "Philadelphia judge rejects Trump's poll-watcher lawsuit ",
+      "excerpt": "A local judge on Friday rejected an effort by the Trump campaign to send poll watchers to voting sites in Philadelphia, ruling that the campaign's attempted poll-watching isn't allowed under state law.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201009003625-voto-anticipado-elecciones-estados-unidos-encuesta-analisis-seg-pkg-michael-roa-00000311-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html",
+      "publishedDateTime": "2020-10-09T11:32:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-verify-did-joe-biden-say-he-would-ban-fracking.md",
+      "title": "VERIFY: Did Joe Biden say he would ban fracking?",
+      "excerpt": "Vice President Mike Pence claimed that under a Biden administration, Joe Biden has said he wants to ban fracking. \"The American people can go look at the record, I know Joe Biden says otherwise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wusa9.com/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
+      "originalUrl": "https://www.wusa9.com/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wusa9.com/assets/WUSA/images/7ebf6abb-c393-470c-891b-b614125c3413/7ebf6abb-c393-470c-891b-b614125c3413_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wusa9.com/amp/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
+      "cdnAmpWebUrl": "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
+      "publishedDateTime": "2020-10-09T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUSA9",
+        "domain": "wusa9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-chicago-mayor-blames-trump-for-plot-against-michigan-gov-whitmer.md",
+      "title": "Chicago mayor blames Trump for plot against Michigan Gov. Whitmer",
+      "excerpt": "Chicago Mayor Lori Lightfoot is the latest public figure to pile on President Trump for a foiled plot to kidnap Michigan Gov. Gretchen Whitmer.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ceaa499-d5b5-4917-ac44-406654011b1c/b10fb369-d5aa-4334-8275-cc8d437f5d58/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp",
+      "publishedDateTime": "2020-10-09T10:48:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.md",
+      "title": "Fans want Jeff Goldblum to play ‘the fly’ on Mike Pence’s head on ‘SNL’",
+      "excerpt": "Senator Kamala Harris and Vice President Mike Pence’s vice presidential debate was broken up into nine segments with topics ranging from the Covid-19 pandemic to climate change to the economy. Though,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html",
+      "originalUrl": "https://www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6JE352O3GVGF5I3VP5IVMPMVFA.jpg",
+          "width": 4958,
+          "height": 3487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html?outputType=amp",
+      "publishedDateTime": "2020-10-09T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-david-brooks-column-kamala-harris-knows-how-to-win-elections.md",
+      "title": "David Brooks column: Kamala Harris knows how to win elections",
+      "excerpt": "This has turned into the least ideological election in recent times. The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Trump. How to beat COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1680,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/weMd1o2h9mRwikHA_a7geSaCrHU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DBS7QEH2M5C5VUNRIYK6KKOKWQ.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-09T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-halloween-store-selling-debate-fly-wig-inspired-by-bug-on-mike-pences-head-at-vp-debate.md",
+      "title": "Halloween store selling 'Debate Fly Wig' inspired by bug on Mike Pence's head at VP debate",
+      "excerpt": "Just in time for Halloween, an online shop is selling a bug-bedecked white wig inspired by the now-viral fly that landed in Vice President Mike Pence’s hair during the vice presidential debate on Wednesday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
+      "originalUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/3-wishes-fly-wig-.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
+      "publishedDateTime": "2020-10-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-the-note-trump-campaigns-in-a-bubble-amid-signs-of-gop-worry-about-race.md",
+      "title": "The Note: Trump campaigns in a bubble amid signs of GOP worry about race",
+      "excerpt": "President Donald Trump is stuck at the White House-- sidelined by a COVID-19 diagnosis that turned out not to have upended his campaign messaging much at all.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
+      "originalUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/president-trump-rt-jef-201008_1602194061389_hpMain_2_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
+      "publishedDateTime": "2020-10-09T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-fox-news-cut-ties-with-a-regular-contributor-after-he-called-kamala-harris-an-insufferable-lying-b-on-twitter.md",
+      "title": "Fox News cut ties with a regular contributor after he called Kamala Harris an 'insufferable lying b----' on Twitter",
+      "excerpt": "Harlan Hill, who has ties to Trump's re-election campaign, was a regular contributor to Fox News until he tweeted a misogynistic insult about Harris.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10",
+      "originalUrl": "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f802c4eea74820019ca61a2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp",
+      "publishedDateTime": "2020-10-09T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -124,7 +530,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/mike-pence-cancels-appearance-vote-friday-indy/5911905002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 642,
+      "heat": 542,
       "tags": null,
       "images": [
         {
@@ -180,7 +586,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 157,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -293,7 +699,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 157,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -337,25 +743,129 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-biden-says-hell-answer-court-packing-question-when-the-election-is-over.md",
-      "title": "Biden says he'll answer court-packing question 'when the election is over'",
-      "excerpt": "Democratic presidential nominee Joe Biden again ducked questions Thursday about whether he would seek to add seats to the Supreme Court, telling reporters he would not address the issue until after the November 3 election.\n    \n",
+      "path": "_news/2020-10-09-president-trump-coughs-during-his-call-in-interview-on-hannity-but-says-hes-feeling-really-good.md",
+      "title": "President Trump coughs during his call-in interview on Hannity, but says he's feeling 'really good'",
+      "excerpt": "Caught between subjects, President Donald Trump coughed and had to pause for a few seconds before continuing on with no check-in from host Sean Hannity.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0zHRjIHTFqs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0zHRjIHTFqs/index.html",
+      "webUrl": "https://www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10",
+      "originalUrl": "https://www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7fc1caea74820019ca6178?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10?amp",
+      "publishedDateTime": "2020-10-08T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-mike-pence-avoided-roe-v-wade-in-wednesdays-debate-heres-why.md",
+      "title": "Mike Pence avoided Roe v. Wade in Wednesday’s debate. Here’s why.",
+      "excerpt": "Both parties are out of touch on abortion. But most voters support Roe, and conservatives already trust Pence on social issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VAOULYLK6ZFUNBMPCG2V62YPXA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/?outputType=amp",
+      "publishedDateTime": "2020-10-08T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-joe-biden-the-economic-growth-candidate.md",
+      "title": "Joe Biden: The Economic Growth Candidate?",
+      "excerpt": "It’s hard to see how Joe Biden’s tax plan would grow anything except the government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/joe-biden-the-economic-growth-candidate-11602183763",
+      "originalUrl": "https://www.wsj.com/articles/joe-biden-the-economic-growth-candidate-11602183763",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
-      "heat": 468,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201006165347-02-biden-gettysburg-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://images.wsj.net/im-240642/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -363,16 +873,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html",
-      "publishedDateTime": "2020-10-08T17:01:20-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-biden-the-economic-growth-candidate-11602183763",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-the-economic-growth-candidate-11602183763",
+      "publishedDateTime": "2020-10-08T17:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -389,112 +899,8 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-at-debate-mike-pence-didnt-say-what-he-has-before-he-supports-overturning-roe-v-wade.md",
-      "title": "At debate, Mike Pence didn’t say what he has before: He supports overturning Roe v. Wade",
-      "excerpt": "Vice President Mike Pence artfully sidestepped the chance to talk about banning abortion before a national audience at Wednesday’s debate.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
-      "originalUrl": "https://abcnews.go.com/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/pence-vp-debate-04-rt-jef-201007_1602126711944_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
-      "publishedDateTime": "2020-10-08T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-kamala-harris-vs-mike-pence-takeaways-coronavirus-im-speaking-and-californias-cameo.md",
-      "title": "Kamala Harris vs. Mike Pence takeaways: Coronavirus, ‘I’m speaking’ and California’s cameo",
-      "excerpt": "Aside from the historic nature of Sen. Kamala Harris’ appearance the event in Salt Lake City was so civil that the social media star of the evening was a fly that landed on Vice President Mike Pence’s hair and lingered for more than two minutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/45/53/20077260/5/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Mike Pence"
+        "Joe Biden",
+        "Republican Voice"
       ]
     },
     {
@@ -607,6 +1013,110 @@
       ]
     },
     {
+      "path": "_news/2020-10-08-hillary-clinton-praises-kamala-harris-debate-performance-she-swatted-away-the-lies-with-ease.md",
+      "title": "Hillary Clinton praises Kamala Harris debate performance: 'She swatted away the lies with ease'",
+      "excerpt": "Hillary Clinton congratulated Democratic vice presidential nominee Kamala Harris (D-Calif.) on Thursday for what the former secretary of State called a “masterful debate performance” the night before.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she",
+      "originalUrl": "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/clintonhillary_08282019_2.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp",
+      "publishedDateTime": "2020-10-08T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-trump-calls-for-the-fda-to-approve-one-of-the-covid-19-treatments-he-got.md",
+      "title": "Trump calls for the FDA to approve one of the COVID-19 treatments he got",
+      "excerpt": "These are Business Insider's biggest healthcare stories for October 8.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-8-2020-10",
+      "originalUrl": "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-8-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7e0be794fce90018f7bb83?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-8-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-october-8-2020-10?amp",
+      "publishedDateTime": "2020-10-08T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-pence-does-his-best-but-harris-wont-let-him-explain-away-trumps-failures.md",
       "title": "Pence does his best but Harris won't let him explain away Trump's failures",
       "excerpt": "Vice President Mike Pence tried his best on Wednesday to recast the reality of Donald Trump's presidency, but Sen. Kamala Harris, the Democratic pick for his job, refused to let him spin away the nation's current dire plight during their single debate.\n    \n",
@@ -619,7 +1129,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2603,
+      "heat": 2403,
       "tags": null,
       "images": [
         {
@@ -662,6 +1172,63 @@
         "Democratic Voice",
         "Mike Pence",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-trump-pledges-to-withdraw-troops-from-afghanistan-by-christmas-taliban-cheer.md",
+      "title": "Trump pledges to withdraw troops from Afghanistan by Christmas; Taliban cheer",
+      "excerpt": "Afghanistan's Taliban group on Thursday welcomed an announcement by President Donald Trump that he would pull out all U.S. troops from the country by Christmas. It was \"a positive step towards the implementation of (the) Doha agreement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/trump-pledges-withdraw-troops-afghanistan-christmas-taliban-cheer-n1242590",
+      "originalUrl": "https://www.nbcnews.com/news/world/trump-pledges-withdraw-troops-afghanistan-christmas-taliban-cheer-n1242590",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_41/3418118/201007-afghan-talks-mc-9532_2ba34940be30fa05e78d56ed414bdcf9.JPG",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242590",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242590",
+      "publishedDateTime": "2020-10-08T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -718,58 +1285,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-08-what-trumps-comments-about-ceasing-stimulus-package-negotiations-mean-for-future-1200-payments-in-one-minute-or-less.md",
-      "title": "What Trump's comments about ceasing stimulus-package negotiations mean for future $1,200 payments — in one minute or less",
-      "excerpt": "Confused on all the news around the stimulus talks and Trump's tweets? Catch up on what it all means for the chances of another stimulus check here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f63d42757b7da001ee125e3?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp",
-      "publishedDateTime": "2020-10-08T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-08-kanye-west-tweets-video-with-vote-kanye-hat-on-kamala-harris-head-during-vp-debate.md",
       "title": "Kanye West Tweets Video With 'Vote Kanye' Hat on Kamala Harris' Head During VP Debate",
       "excerpt": "Kanye West's name will appear on ballots in 11 states, but people have wondered whether his presidential campaign is sincere, a spoiler attempt or just a publicity stunt.",
@@ -818,559 +1333,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.md",
-      "title": "Vice presidential debate: Both Trump, Biden campaign claim victory after Pence, Harris showdown",
-      "excerpt": "Both the Trump campaign and the Biden campaign claimed victory after Wednesday night’s vice presidential debate—with team Trump touting Vice President Pence, saying he is “ready to lead,” and team Biden praising Sen. Kamala Harris for making a “forceful case” for a Biden presidency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 4528,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
-      "publishedDateTime": "2020-10-07T22:43:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-former-cia-director-accuses-mike-pence-of-lying-about-hillary-clinton-and-russia-during-vp-debate.md",
-      "title": "Former CIA Director Accuses Mike Pence of Lying About Hillary Clinton and Russia During VP Debate",
-      "excerpt": "Vice President Mike Pence \"lied about handwritten notes of mine from 2016 that referenced unsubstantiated Russian allegation about Secretary Clinton\" during his debate with Senator Kamala Harris, former CIA Director John Brennan tweeted on Wednesday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305",
-      "originalUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1647769/vice-president-mike-pence.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305?amp=1",
-      "publishedDateTime": "2020-10-07T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-analysis-this-is-vice-president-mike-pences-answer-on-a-peaceful-transfer-of-power-read-it-carefully.md",
-      "title": "Analysis: This is Vice President Mike Pence's answer on a peaceful transfer of power. Read it carefully.",
-      "excerpt": "The vice presidential debate Wednesday night will be remembered more for how the candidates evaded questions than how they answered them.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201007213656-30-vp-debate-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html",
-      "publishedDateTime": "2020-10-07T22:20:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.md",
-      "title": "AOC to VP Pence: ‘It’s Congresswoman Ocasio-Cortez to you’",
-      "excerpt": "U.S. Rep. Alexandria Ocasio-Cortez appeared to be closely watching the vice presidential debate Wednesday night, tweeting several responses to comments by Vice President Mike Pence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1YEsGrTirgU/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1YEsGrTirgU/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/Pence-AOC_AP-Getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.amp",
-      "publishedDateTime": "2020-10-07T21:07:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-to-you.md",
-      "title": "AOC Corrects Mike Pence During VP Debate: 'It's Congresswoman Ocasio-Cortez to You'",
-      "excerpt": "Cortez tweeted to Vice President Mike Pence as he referred to her as \"AOC\" during his debate with Senator Kamala Harris. \"It's Congresswoman Ocasio-Cortez to you.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301",
-      "originalUrl": "https://www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1647767/rep-alexandria-ocasio-cortez.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301?amp=1",
-      "publishedDateTime": "2020-10-07T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to-debate.md",
-      "title": "Pence targets Biden over ISIS hostages, brings family of executed aid worker to debate",
-      "excerpt": "Vice President Pence invoked slain ISIS hostage Kayla Mueller on Wednesday as he sought to tout what he described as President Trump’s foreign policy accomplishments in his debate against Sen. Kamala Harris (D-Calif.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to",
-      "originalUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1402,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike3_10072020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp",
-      "publishedDateTime": "2020-10-07T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-a-fly-landed-on-mike-pence.md",
-      "title": "A Fly Landed on Mike Pence",
-      "excerpt": "A local TV news reporter from California clocked the fly’s screen time on Mr. Pence’s head at 2 minutes, 3 seconds. While Mr. Pence spent most of the 90-minute debate avoiding direct questions posed by the moderator,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-38/07elections-briefing-07-22-38-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html",
-      "publishedDateTime": "2020-10-07T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-pence-attacks-biden-for-failing-to-rescue-kayla-mueller-who-was-held-hostage-by-isis.md",
-      "title": "Pence attacks Biden for failing to rescue Kayla Mueller, who was held hostage by ISIS.",
-      "excerpt": "Vice President Mike Pence brought the parents of Kayla Mueller, the human rights activist who was killed in 2015 by members of the Islamic State in Syria, to the debate hall and attacked Joseph R. Biden Jr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-10/07elections-briefing-07-22-10-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
-      "publishedDateTime": "2020-10-07T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-an-unexpected-guest-fly-lands-on-mike-pences-head-during-debate-goes-viral.md",
-      "title": "An unexpected guest: Fly lands on Mike Pence's head during debate, goes viral",
-      "excerpt": "The fly, which was on Mike Pence's head for several minutes, quickly went viral and created a buzz – pun intended – online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/07/fly-lands-mike-pence-head-during-vice-presidential-debate/5919316002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/07/fly-lands-mike-pence-head-during-vice-presidential-debate/5919316002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/08/USAT/dc97230a-e74a-4d28-aecf-bc43087c617e-AP_Election_2020_Debate.jpg?auto=webp&crop=3148,1771,x1,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5919316002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5919316002",
-      "publishedDateTime": "2020-10-07T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-harris-says-she-is-a-person-of-faith-insulting-to-suggest-she-would-knock-anyone-for-religion.md",
-      "title": "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion",
-      "excerpt": "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 292,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
-      "publishedDateTime": "2020-10-07T19:50:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     }

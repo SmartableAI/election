@@ -31,179 +31,273 @@ images:
     isCached: true
 
 related:
-  - title: "Boris Johnson wishes Trump 'speedy recovery' from COVID-19"
-    excerpt: "UK Prime Minister Boris Johnson wished President Trump a \"speedy recovery\" Friday, hours after he and First Lady Melania Trump tested positive for COVID-19. "
-    publishedDateTime: 2020-10-02T11:58:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S8RtvTbFBJo/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp"
+  - title: "Supporters gather for Prayer vigil for Trump outside Walter Reed"
+    excerpt: "President Trump supporters lined up in front of Walter Reed Hospital Saturday evening, to show support for Trump who was recently diagnosed with coronavirus."
+    publishedDateTime: 2020-10-04T01:39:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3m_XV2nSRFs/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed"
+    ampWebUrl: "https://www.foxnews.com/politics/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2738da37-1419-4682-9089-68409501409d/96dde887-984b-47d6-ab6a-a2c7703711bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Bernie Sanders wishes Trump and First Lady 'full and speedy recovery'"
-    excerpt: "Sen. Bernie Sanders, I-Vt., on Saturday wished President Trump and First Lady Melania Trump a “full and speedy recovery’ from COVID-19, after they were diagnosed with the virus earlier this week."
-    publishedDateTime: 2020-10-03T20:04:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YmEizUmbPws/bernie-sanders-trump-first-lady-recovery"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-trump-first-lady-recovery.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-trump-first-lady-recovery.amp"
+  - title: "Trump health update expected at Walter Reed Medical Center"
+    excerpt: "President Trump’s medical team is expected to give an update on his health Sunday morning, as members of the White House press pool head to the Walter Reed Medical Center to be briefed on his condition."
+    publishedDateTime: 2020-10-04T15:26:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bPgBX6_YUVA/trump-coronavirus-health-update-sunday-walter-reed"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "'Trump defeats COVID-19' coin goes on sale at White House-themed gift shop"
-    excerpt: "Commemorative coins marking President Trump's battle with COVID-19 are available for preorder at a White House-themed gift shop."
-    publishedDateTime: 2020-10-06T12:46:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pCY5Ongtmh0/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production"
-    ampWebUrl: "https://www.foxnews.com/politics/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production.amp"
+  - title: "Trump discharged from Walter Reed, returns to White House"
+    excerpt: "President Trump was discharged from Walter Reed National Military Medical Center and returned to the White House on Monday evening to continue his fight against the novel coronavirus, after his medical team warned that he “may not entirely be out of the woods yet.”"
+    publishedDateTime: 2020-10-05T22:30:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9FqRpXdn3k0/trump-discharged-from-walter-reed-returns-to-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-discharged-from-walter-reed-returns-to-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-discharged-from-walter-reed-returns-to-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House releases new photo of Trump from Walter Reed"
+    excerpt: ""
+    publishedDateTime: 2020-10-05T07:37:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IFFG1-c1pu4/white-house-releases-new-photo-of-trump-from-walter-reed"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-releases-new-photo-of-trump-from-walter-reed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-releases-new-photo-of-trump-from-walter-reed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Virginia Senate debate sees Warner, Gade clash on Trump, race, health care"
+    excerpt: "Democratic incumbent U.S. Sen. Mark Warner and his Republican challenger shared the debate stage Saturday night in their second meeting ahead of Election Day in Norfolk, Va. "
+    publishedDateTime: 2020-10-04T03:29:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CEY8SY4FPcg/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care"
+    ampWebUrl: "https://www.foxnews.com/politics/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20279854806341-1.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20277814149900.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Michael Cohen responds to Trump’s positive COVID-19 test: 'This was all preventable'"
-    excerpt: "President Trump’s former attorney Michael Cohen blasted the chief executive’s COVID-19 diagnosis Friday, claiming that the White House is to blame."
-    publishedDateTime: 2020-10-03T20:33:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHjSvTPTw_s/michael-cohen-trump-covid-19-diagnosis"
-    ampWebUrl: "https://www.foxnews.com/politics/michael-cohen-trump-covid-19-diagnosis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-cohen-trump-covid-19-diagnosis.amp"
+  - title: "Phil Murphy slams Trump over New Jersey fundraiser, says event is under investigation"
+    excerpt: "New Jersey Gov. Phil Murphy slammed President Trump for holding a high-dollar fundraiser in the state less than one day before he tested positive for COVID-19, accusing the president of needlessly exposing attendees to the virus."
+    publishedDateTime: 2020-10-06T17:54:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYO6oOPq4EU/nj-governor-says-trumps-bedminster-fundraiser-under-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/nj-governor-says-trumps-bedminster-fundraiser-under-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-governor-says-trumps-bedminster-fundraiser-under-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Michael-Cohen-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bb84f88-e2a0-4bdd-bfd5-635cba70b0c7/2e932280-87d8-4787-bc3c-5dc98bfdc624/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump campaign keeping at ‘full speed’ with 'Operation MAGA' as Trump fights COVID-19"
-    excerpt: "The campaign is launching \"Operation MAGA,\" which features virtual events ahead of the VP debate, and resumes in-person events with Pence, members of Trump family."
-    publishedDateTime: 2020-10-03T19:41:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DNiMs_Ma3S8/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
+  - title: "President Trump releases update, says he's feeling 'much better' after hospitalization"
+    excerpt: "President Trump released a video from Walter Reed Medical Center Saturday evening, informing Americans that he felt \"much better\" after entering the facility and was committed to defeating the virus."
+    publishedDateTime: 2020-10-03T22:59:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/04B88szc_Gw/president-trump-releases-update-says-hes-feeling-much-better-after-hospitalization"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-releases-update-says-hes-feeling-much-better-after-hospitalization.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-releases-update-says-hes-feeling-much-better-after-hospitalization.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2738da37-1419-4682-9089-68409501409d/96dde887-984b-47d6-ab6a-a2c7703711bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign YouTube takeover to feature Trump message thanking Americans for support"
+    excerpt: "EXCLUSIVE: The Trump campaign is taking over the YouTube.com masthead for 24 hours beginning at midnight, Fox News has learned, featuring the video of President Trump as he was departing the White House for Walter Reed Military Medical Center to be treated for COVID-19."
+    publishedDateTime: 2020-10-03T23:43:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LPFwnLg3R78/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Chinese President Xi Jinping wishes Trump, Melania a 'fast recovery' after COVID diagnosis"
-    excerpt: "Chinese President Xi Jinping wished President Trump and Melania Trump a \"fast recovery,\" according to state TV."
-    publishedDateTime: 2020-10-03T14:43:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S38Wf2euCEE/xi-jinping-trump-melania-coronavirus-message"
-    ampWebUrl: "https://www.foxnews.com/politics/xi-jinping-trump-melania-coronavirus-message.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xi-jinping-trump-melania-coronavirus-message.amp"
+  - title: "Trump says he will be discharged from Walter Reed, return to White House Monday evening"
+    excerpt: "President Trump said he will be discharged from Walter Reed National Military Medical Center Monday evening and will return to the White House. "
+    publishedDateTime: 2020-10-05T18:40:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zim5ZZjbxnQ/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/b4ae6462-AP20070377919994.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump receives 'around the world' national security briefing by phone due to COVID diagnosis"
-    excerpt: "President Trump received an \"around the world\" national security briefing on a secure line Sunday afternoon."
-    publishedDateTime: 2020-10-05T00:13:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XDGz2TmwHWE/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump says he's 'medication free,' details COVID-19 recovery in first on-camera interview since diagnosis"
-    excerpt: "“I wanted to leave after the first day,” Trump said of his stint at Walter Reed."
-    publishedDateTime: 2020-10-10T01:09:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hTY37mms_48/trump-medication-free-covid-19-recovery-tucker-carlson"
+  - title: "Hundreds of Trump supporters gather outside Trump Tower in NYC, briefly shut down Fifth Avenue"
+    excerpt: "Hundreds of President Trump supporters lined up outside Trump Tower in New York City early Sunday, briefly shutting down Manhattan’s Fifth Avenue, to show support after the president’s recent coronavirus diagnosis."
+    publishedDateTime: 2020-10-04T16:32:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9WpgNM9QjYI/trump-tower-supporters-coronavirus-nyc"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 138
+    quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12856a10-0319-4812-9d69-e810b72a2daf/6a59da7e-173f-4a4c-ad67-6a6a7e4d061c/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/trump-supporters-walter-reed1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump thanks supporters gathered outside hospital: 'I'm about to make a little surprise visit''"
+    excerpt: "President Trump tweeted out his thanks on Sunday to the supporters who have gathered outside Walter Reed Medical Center in Maryland over the weekend, where the president is battling a case of the novel coronavirus. "
+    publishedDateTime: 2020-10-04T19:57:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-szueN4JBw/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump says he's disappointed in Barr over status of Durham probe"
+    excerpt: "The president on Friday expressed outrage at reports Attorney General William Barr has communicated to lawmakers that the Durham report will not be released until after the presidential election. "
+    publishedDateTime: 2020-10-09T17:48:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pBF5-R14SRw/trump-slams-durham-report-investigation-not-being-released-before-election"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82547877-ca99-469d-97ed-d1d12eb85c62/5cd196a0-b825-43d7-8768-bde3bf2730fe/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign keeping at ‘full speed’ as president fights COVID-19"
-    excerpt: "The campaign is launching \"Operation MAGA,\" which features virtual events ahead of the VP debate, and resumes in-person events with Pence, members of Trump family."
-    publishedDateTime: 2020-10-03T19:44:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
+  - title: "Trump to appear at White House event, first since returning from Walter Reed"
+    excerpt: "President Trump on Saturday will make his first appearance at a White House event since he returned from his stay at Walter Reed National Military Medical Center earlier this week."
+    publishedDateTime: 2020-10-10T13:27:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KXNlHFyMDoU/trump-white-house-event-first-walter-reed"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 152
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bcfbf85-4fee-4d63-a075-4a07d3b0cf37/01fcde80-46af-4c80-8839-34cfe61ac6bf/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d357204f-72a4-4424-8654-01cf19622c87/31d2c5a9-155d-4aa2-967c-10751e34cc07/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Do liberals really believe Trump faked his COVID-19 diagnosis?"
-    excerpt: "You will decide whether or not Donald Trump gets a second term or the cognitively challenged, weak, frail Joe Biden takes over. God help us. But until then, well, we do know one thing for certain, per usual."
-    publishedDateTime: 2020-10-08T13:48:00Z
-    webUrl: "https://www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis"
-    ampWebUrl: "https://www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis.amp"
+  - title: "Video shows Seattle-area teacher scold 10-year-old for admiring Trump: mom"
+    excerpt: "A Seattle-area middle school teacher scolded his 10-year-old student and briefly kicked him out of his virtual classroom last week after the child said he admires President Trump."
+    publishedDateTime: 2020-10-06T06:58:00Z
+    webUrl: "https://www.foxnews.com/us/seattle-teacher-trump"
+    ampWebUrl: "https://www.foxnews.com/us/seattle-teacher-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/seattle-teacher-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 133
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c105924-6cdc-4f18-874f-9dbb7b3f6bd5/aba778b1-1ff8-4281-a5a0-8e4c4144771b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/School.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Tucker: Mainstream media enraged by Trump's positive COVID message"
-    excerpt: "The media happily seconded that diagnosis.  Trump they informed us has a condition known as clinical obesity -- obesity, whatever.  It sounds significantly worse than cancer and far more unattractive."
-    publishedDateTime: 2020-10-08T17:20:00Z
-    webUrl: "https://www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message"
-    ampWebUrl: "https://www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message.amp"
+  - title: "Trump campaign sends pizzas to supporters outside Walter Reed Medical Center"
+    excerpt: "The Trump campaign sent pizza to supporters gathered outside Walter Reed National Military Medical Center as the commander-in-chief continues his battle against coronavirus inside. Video captured"
+    publishedDateTime: 2020-10-05T15:36:00Z
+    webUrl: "https://nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/"
+    ampWebUrl: "https://nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-hospital-pizza-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Alyssa Milano blasts Donald Trump's drive-by to fans outside Walter Reed Medical Center"
+    excerpt: "Alyssa Milano revealed that a friend’s uncle recently died due to COVID-19 after lambasting President Donald Trump over his drive-by to fans outside Walter Reed National Military Medical Center, where he is being treated for the virus."
+    publishedDateTime: 2020-10-05T18:01:00Z
+    webUrl: "https://www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed"
+    ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 127
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e386560-e8e4-442a-84bb-515e606be400/815c2bfc-6d3b-47e3-8755-c08c731d5606/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/GettyImages-1078617590.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump's Physician Reveals When Trump Could Be Released From Walter Reed"
+    excerpt: "The doctors at Walter Reed Medical Center on Sunday offered an update on President Donald Trump's battle with the Wuhan coronavirus. According to Dr. Sean Dooley, Trump continues to improve. \"He has remained without fever since Friday morning."
+    publishedDateTime: 2020-10-04T16:25:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435"
+    ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/277/eb5d690a-a1de-4c62-bfe4-fcb0669bf3aa.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "d0io51PgO4SscZip9mm5yCaWy369cmMfAt3jXbCPBaCwt+BOU0mJxzdBQnCcd9O7awQa+mwS3dSl/9GOjEoYxOcBNU9m5B1eEebJky6bpxbwfkjCjg9ZcvWnVoFUJvFORGJ69l7xWoYxmQ/106X0IkCr7SZv+WLnTSToPfOc3SZfccXW9vUPsZqEvcVCg79GpMLnneJ6pGV4pYY+YV/36RKMy2CL5CqaOe6/HtO7ivBZsCtCPFwK9A0+Q6RRZeqV+iWTP24gcrpsUH0TYYHI1UJ4J8Z2sT0hzfFwo4CnrrWmnvR/Q7z6/3weSgdriqxafKw3sb6cl7c1KpVfFsvBnY1g5hmis8ZlWbgROBRZxWk=;Uhba2fNPD9guvRJB8VTcQA=="

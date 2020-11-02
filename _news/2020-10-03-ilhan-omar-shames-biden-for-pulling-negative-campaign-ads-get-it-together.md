@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden launches ads touting his faith after cardinal says he's 'not a Catholic in good standing'"
-    excerpt: "Former Vice President Joe Biden launched an ad campaign seeking to highlight his Catholic faith as many conservatives and fellow Catholics have questioned the sincerity of his beliefs."
-    publishedDateTime: 2020-10-02T21:17:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BWj9oPPI9_I/biden-faith-ads-cardinal-not-a-catholic-in-good-standing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-faith-ads-cardinal-not-a-catholic-in-good-standing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faith-ads-cardinal-not-a-catholic-in-good-standing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6ae7bc9-6e0d-4d29-ba79-8b430021b38f/9acbf912-fed6-444e-bd83-bb7d22d18a37/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "WUdNcQ4YXSGF9FYdYVMcFF8i1uLfPYMzUrVdyoe6hY93Hln9C3C2gvLAYm5KBD5bqsm3jVnt+k5jHpk2GjH7hKGxyTkmkZLz3HbZg+gitOrcrrD1obSmpkF4xgJSQIy27GHzbx8VEOcL5o2RJdS+YafOQm+LpX76CiTPCMbn66Nnhaem1QfDc0ISl0fPss5ix8d7fE3VzBvBfUQjIV/hGzxhE6X1hOyCJ1xhzSmzvshO5J1vUVzULCev6t8ugcmWTts3RaXASQ66OG1/lugdssxdIvZeWx/dHIUCoSJLczL9Hcdk/bTB5Bxm/G+rvxatNKPRFZ6T1dkmUmQOVsonF0+v5fAVxSSv68FcwYsolbs=;Lvzrre7a/NJhQcYzyH2dvA=="
 ---

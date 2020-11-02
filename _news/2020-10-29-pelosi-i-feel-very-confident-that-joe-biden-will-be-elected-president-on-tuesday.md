@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-confident-biden-win-democrat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
 type: article
 quality: 169
-heat: 249
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,65 +31,148 @@ images:
     isCached: true
 
 related:
-  - title: "Kudlow: Biden's economic plan would crush middle class, cost millions of jobs over next decade"
-    excerpt: "A Joe Biden presidency would cripple the U.S. economy and cause the loss of an estimated five million American jobs by 2030, White House economic adviser Larry Kudlow told \"The Ingraham Angle\" on Thursday."
-    publishedDateTime: 2020-10-30T03:33:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4OYjTm4RVYU/kudlow-biden-economic-plan-crush-us-economy"
-    ampWebUrl: "https://www.foxnews.com/politics/kudlow-biden-economic-plan-crush-us-economy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kudlow-biden-economic-plan-crush-us-economy.amp"
+  - title: "Biden banks on Hollywood support in final days before 2020 election"
+    excerpt: "Hillary Clinton employed a similar strategy in 2016, when she won the popular vote but lost the Electoral College."
+    publishedDateTime: 2020-11-01T22:07:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ee9de7a-ba64-41ba-b1e0-10d348d471e1/5a05a687-b6df-41f5-a8eb-879dc90d2370/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c13facdb-af1b-4373-8d46-17432f01bec0/6c6c594d-6400-49b2-9d62-794f24392062/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pelosi: 'I feel very confident that Joe Biden will be elected president on Tuesday'"
-    excerpt: "House Speaker Nancy Pelosi projected Thursday that Joe Biden would win the White House and said Democrats are ready to work with him on a transition agenda to tackle the coronavirus pandemic, address the economic fallout and pass an infrastructure agenda."
-    publishedDateTime: 2020-10-29T19:24:00Z
-    webUrl: "https://www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
+  - title: "Biden campaign touts military support in new TV commercial"
+    excerpt: "EXCLUSIVE: With five days to go until Election Day on Nov. 3, Joe Biden’s campaign on Thursday is going up with a new TV commercial in key battleground states that spotlights the Democratic presidential nominee’s support among military families and veterans."
+    publishedDateTime: 2020-10-29T14:18:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IA0fxpzfJtc/biden-campaign-military-support-new-tv-commercial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-military-support-new-tv-commercial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-military-support-new-tv-commercial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 129
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/08731db9-Nancy-Pelosi.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
+    excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."
+    publishedDateTime: 2020-10-25T16:15:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6NWqlGnUVw/joe-hunter-biden-china-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden's Ukraine Defense Rests on a Bogus Premise"
-    excerpt: "The crux of Joe Biden’s Ukraine corruption scandal defense rests on his contention that he traveled to Ukraine during his tenure as Vice President to demand that they fire their"
-    publishedDateTime: 2020-10-30T04:01:00Z
-    webUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046"
-    ampWebUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
+  - title: "Warren eyes Treasury Secretary job in potential Biden White House: report"
+    excerpt: "Warren reportedly plans to make her case for the position depending on the outcome of next week’s election."
+    publishedDateTime: 2020-10-30T01:12:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_KiQb7VYLI/warren-treasury-secretary-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg"
-        width: 650
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d92e365-3fbb-48cc-b1f3-2d5c1088ddef/b749bc16-2f42-48c2-ab47-1c09becd69f0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "New Hampshire newspaper backs Biden, first Democrat for president in 100 years"
+    excerpt: "One of the nation's most prominent conservative-leaning newspapers endorsed Joe Biden for president on Sunday, marking the first time the publication has endorsed a Democratic presidential candidate in over 100 years."
+    publishedDateTime: 2020-10-25T19:37:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/90vbbqrnN5g/biden-endorsement-conservative-new-hampshire-union-leader-newspaper"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
         height: 340
         isCached: true
-  - title: "Hunter Biden messages 'independently confirmed' to be authentic, GOP lawmaker says"
-    excerpt: "A top House Republican said his staff independently authenticated materials from a laptop that purportedly belonged to Hunter Biden."
-    publishedDateTime: 2020-10-25T19:41:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says?_amp=true"
+  - title: "Biden says Catholic faith guides policies but gets hit on abortion, religious freedom"
+    excerpt: "Joe Biden is touting his Catholic faith as groups are hitting him on issues held near and dear to the faithful and opposed by the church, including religious freedom for nuns and abortion."
+    publishedDateTime: 2020-10-30T19:17:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sMIa_lBS0vI/biden-catholic-vote-2020-election-religious-liberty"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 59
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc.': Sen. Johnson"
+    excerpt: "Coming up, White House Chief of Staff Mark Meadows on a blockbuster admission at the final presidential debate, Joe Biden on transitioning the oil and gas industry. JOE BIDEN (D), PRESIDENTIAL CANDIDATE:  By the way,"
+    publishedDateTime: 2020-10-29T19:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson"
+    ampWebUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77982519-0b80-4d5e-88e5-ef13e983e2a2/77bf9357-3466-4f1c-9e36-660714f9e3bf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Michigan Democrat on Biden's Expanded Travel: 'I Want Joe Biden to Win Georgia'"
+    excerpt: "Many Midwestern Democrats have criticized Hillary Clinton for losing sight of their “Blue Wall,” or a collection of states near the Great Lakes that the party has typically carried in presidential elections."
+    publishedDateTime: 2020-10-27T09:47:00Z
+    webUrl: "https://www.wsj.com/livecoverage/election-live-updates-trump-biden/card/hsUB8oa28eKyvdY3Lpg6"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 111
+    images:
+      - url: "https://images.wsj.net/im-250629?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "A Biden Family Special Prosecutor in 2021?"
+    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
+    publishedDateTime: 2020-10-27T10:36:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/525278_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "5mYPXkiW+uPdXQ8AmxSN2nZmGtjUc/WF+w+B3kqjXTKaWLyY2WT24iCm5SGuYDd+jPdfaJIFhs6M4OHND+4VcO4aseAZo3buGtcK43aCPK8x+1swHOHsy46Pof+3oXS0NmPOw4PpUJxy9JeS7Uf9cizCrIPw5IUu3esgEymJuW5hZEgiakoP+ivttT67gkr9YF9okALjPcqIfGtv6IfzIaBK0ZIHfuu0BZRUH/mk4DJrUMM+ywtxKCfFjca9en2iQQach8xHKCuCavJbOPpomiIn/5GIALZXJnmQYopjERMEIx0UqNf3D6tynLpYjHHPv2+a9EpW2jjyyJEdtDYep/dJj81xQrrzeE70MTGOa8k=;t+L6++/gQCEEQlr6DZlnpQ=="
 ---

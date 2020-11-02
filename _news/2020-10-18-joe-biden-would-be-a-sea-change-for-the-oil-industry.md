@@ -29,122 +29,118 @@ images:
     isCached: true
 
 related:
-  - title: "Biden: Faith shouldn't be a subject in Barrett confirmation fight"
-    excerpt: "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings."
-    publishedDateTime: 2020-10-12T17:53:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp"
+  - title: "Nebraska district could prove pivotal for Biden in November"
+    excerpt: "Democratic presidential nominee Joe Biden appears poised to flip Nebraska’s critical 2nd Congressional District in November, giving Democrats hope in a red state that doles out Electoral College votes per congressional district."
+    publishedDateTime: 2020-10-10T22:05:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_100920getty_split_nebraska.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Biden leaves door open to adding Supreme Court justices"
-    excerpt: "Democratic nominee Joe Biden on Thursday kept the door open to adding justices to the Supreme Court if Republicans push ahead with confirming President Trump’s nominee Amy Coney Barrett."
-    publishedDateTime: 2020-10-16T01:24:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices?amp"
+  - title: "Biden campaign puts up huge fundraising numbers in September"
+    excerpt: "Shattered records with $383 million haul, giving his campaign a whopping $432 million cash on hand and an enormous leg up on Trump's in campaign's homestretch."
+    publishedDateTime: 2020-10-15T12:03:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-campaign-fundraising-september/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-september/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-september/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump-Biden town halls, Amy Coney Barrett hearings, Medicare open enrollment begins: 5 things to know Thursday"
-    excerpt: "NBC and ABC host dueling town halls with Trump and Biden, final day of hearings in Amy Coney Barrett's nomination and more things to know Thursday."
-    publishedDateTime: 2020-10-15T08:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/15/trump-biden-amy-coney-barrett-medicare-tony-awards-nominations/5937774002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5937774002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937774002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/e09696b0-d773-4f59-8cdb-a9f02a49b57f/thumbnail/1200x630/a99e3f72fd1556e17b867982d953ea7a/cbsn-fusion-joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg-thumbnail-561204-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Senate hearing for Trump's Supreme Court nominee Amy Coney Barrett kicks off Monday"
-    excerpt: "The high-stakes confirmation hearing for Judge Amy Coney Barrett, President Donald Trump’s Supreme Court nominee, gets underway Monday in the Senate Judiciary Committee."
-    publishedDateTime: 2020-10-12T09:58:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=73527557"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=73527557"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=73527557"
+  - title: "Biden hedges on support for 'court-packing' proposal"
+    excerpt: "Democratic presidential candidate Joe Biden kept his options open on Thursday when asked if he would add judges to the Supreme Court to balance the 6-3 conservative majority that would likely take hold if President Donald Trump's third nominee is confirmed."
+    publishedDateTime: 2020-10-16T02:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-court/biden-hedges-on-support-for-court-packing-proposal-idUSKBN27107R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27107R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27107R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201016&t=2&i=1537676515&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9F04L"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Joe Biden pressed whether he would take a COVID-19 vaccine"
+    excerpt: "Joe Biden says his mandate on vaccine distribution and consumption would depend on the \"nature\" of it and how it would be distributed."
+    publishedDateTime: 2020-10-16T01:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/amy-coney-barrett-confirmation-01-ap-llr-201009_1602276556016_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://s.abcnews.com/images/Politics/201015_abc_biden_th_Q2_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Joe Biden: Senators should not consider Amy Coney Barrett's faith in confirmation process"
-    excerpt: "Democratic presidential nominee Joseph R. Biden said Monday that Judge Amy Coney Barrett’s Catholic faith should not be a consideration in Judge Barrett’s confirmation hearings for the U.S. Supreme Court."
-    publishedDateTime: 2020-10-12T15:30:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
+  - title: "How Joe Biden - yes, Joe Biden - could revolutionize American politics"
+    excerpt: "Joe Biden may be running a safe and centrist campaign, but beneath the methodical calm is a genuinely innovative ideological appeal. The former vice president is updating and bringing back the long-dormant Democratic tradition of labor liberalism."
+    publishedDateTime: 2020-10-17T10:07:00Z
+    webUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html"
+    ampWebUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 66
+      name: Hartford Courant
+      domain: courant.com
+    quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/Election_2020_Biden_96935.jpg-16fc0_c0-0-5926-3456_s1200x700.jpg?e885779a9796061107f5b31234b49be1eeead7a2"
+      - url: "https://www.courant.com/resizer/62fGLeSoK1c5uUgQIK_MTD4KU9o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W3IYWI2YR5HIZOY2R6EEU5HYOU.jpg"
         width: 1200
-        height: 700
+        height: 799
         isCached: true
-  - title: "Joe Biden, Clarence Thomas, and Amy Coney Barrett with Angela Wright"
-    excerpt: "Angela Wright confides in Mary C. Curtis about former Vice President Joseph Biden, #MeToo and the inner workings of a contentious Supreme Court battle."
-    publishedDateTime: 2020-10-08T13:15:00Z
-    webUrl: "https://www.rollcall.com/podcasts/equal-time/joe-biden-clarence-thomas-and-amy-coney-barrett-with-angela-wright/"
+  - title: "Joe Biden could return to Irish roots as US president"
+    excerpt: "Mr Biden was vice president. He wants to return, but next time as president. For now, heaven can wait. For Ronald Reagan it was Ballyporeen. For Barack Obama it was Moneygall. For Joe Biden it is Carlingford."
+    publishedDateTime: 2020-10-18T03:19:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54557939"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
     type: article
     provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 55
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
     images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/BARRETT_004_10012020-1.jpg?resize=1200,600"
-        width: 1200
-        height: 600
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/158D7/production/_114897288_hi063809777.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Jim Carrey’s Biden impression is a below-average Joe"
-    excerpt: "It’s a misguided choice that makes me think more about Carrey and his style than about Biden while I’m watching."
-    publishedDateTime: 2020-10-19T21:14:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/?outputType=amp"
+  - title: "Joe Biden says voters 'don't deserve' to know his position on packing the Supreme Court with additional justices ahead of the November election"
+    excerpt: "Joe Biden said on Friday that American voters 'don't deserve' to know his stance on packing the Supreme Court in remarks made to a reporter in Las Vegas, Nevada, during a campaignn stop."
+    publishedDateTime: 2020-10-10T21:32:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8826943/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
-  - title: "If Amy Coney Barrett Has To Apologize for Saying Sexual 'Preference,' Does Joe Biden?"
-    excerpt: "Sens. Mazie Hirono and Cory Booker both criticized the Supreme Court nominee for saying \"preference\" instead of \"orientation.\""
-    publishedDateTime: 2020-10-14T02:45:00Z
-    webUrl: "https://reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/"
-    ampWebUrl: "https://reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 48
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 54
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/10/22/34237734-0-image-a-34_1602363783713.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "PLxJtNDO7783g/kmdfDzl3MoEhAjTChj7AwQZMxsRYXLTMujI8IQFq2s6+pJoAeIrYGg+M+daeYu9s6GTYgxhZTbPPf1mnLFykbOSWaY++QVQn7y5CH9nv18nEeGuZMMN6XElLNIY4nCTsTkMWSsKj/GiLR8k/NsINP0pXpu6p+ZyOraqHlFIAb8x3yyYQH6GTL+Eo/SQ20zZ0X09h++gxpYTGo/H26/uHa325pp/xZ9HqlDIGEJbOMj6YJx6P1CD6oEwjm3rNZE/0pEHXIS4MtoDfAr6gKsQKQcMy6bl+tmY5jI3kVcf5e+XMEtFr3otfYS7cK6T7H5qtAs3dbxWVoeM0votCT0KdC/zDYOYWBUi9czJFCoiysh+8NBHSnjvXitv2eE8SoSiPvvuSLsEbiQ784HcwUsijlA147Dd6PEtMSCBkdpdZlpARZsjNJg3BWGjife896P3bDDAeSyo6g54OULxfSEZL0iSKHJ2SaR5lFcS3RJnUlwWY0UDDdKbtXGnHjNF8Lqek9V3eEaow==;Ua8rmBP1fGtEF67gZNAgcQ=="
 ---

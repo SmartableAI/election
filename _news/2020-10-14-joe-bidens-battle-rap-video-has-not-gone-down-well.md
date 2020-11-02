@@ -95,54 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "1st Trump-Biden Presidential Debate Was ‘Exhausting,’ 8 Things To Do To Recover"
-    excerpt: "U.S. President Donald Trump began interrupting Democratic challenger and former Vice-President Joe Biden and then moderator Chris Wallace. It all went downhill from there."
-    publishedDateTime: 2020-10-01T17:24:00Z
-    webUrl: "https://www.forbes.com/sites/brucelee/2020/09/30/1st-trump-biden-presidential-debate-was-exhausting-how-to-do-a-mental-cleanse/"
-    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/09/30/1st-trump-biden-presidential-debate-was-exhausting-how-to-do-a-mental-cleanse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/09/30/1st-trump-biden-presidential-debate-was-exhausting-how-to-do-a-mental-cleanse/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 136
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f740c57426d5c99d5ae7afa%2F0x0.jpg"
-        width: 1200
-        height: 809
-        isCached: true
-  - title: "Only 2 Percent of Americans Said Donald Trump-Joe Biden Debate Changed Their Vote: Poll"
-    excerpt: "A new poll suggests that almost no voters are likely to change their vote after viewing the first debate between President Donald Trump and Democratic nominee Joe Biden, although most thought Biden won the debate."
-    publishedDateTime: 2020-10-01T23:47:00Z
-    webUrl: "https://www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798"
-    ampWebUrl: "https://www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 132
-    images:
-      - url: "https://d.newsweek.com/en/full/1644891/trump-biden-debate-view-television.jpg"
-        width: 2500
-        height: 1632
-        isCached: true
-  - title: "Trump-Biden presidential debate ratings fall 13% from 2016's record-setting first debate"
-    excerpt: "Fox News Channel drew 17.8 million viewers, the most of any network, while ABC led the broadcast pack with 12.6 million viewers."
-    publishedDateTime: 2020-10-01T06:20:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/09/30/trump-biden-presidential-debate-drew-lower-ratings-than-2016-opener/5869777002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5869777002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5869777002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden campaign sells out 'truth over flies' swatter after fly lands on Pence during debate"
     excerpt: "The Biden campaign quickly sold out of a “Truth Over Flies” fly swatter it was offering inspired by a viral moment from Wednesday's vice presidential debate."
     publishedDateTime: 2020-10-08T13:56:00Z
@@ -158,22 +110,6 @@ related:
       - url: "https://thehill.com/sites/default/files/pencefly_10072020getty_0.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Trump and Biden show own vulnerabilities in a messy argument that was barely a debate: ANALYSIS"
-    excerpt: "Former Vice President Joe Biden wanted a debate about President Donald Trump and his record. Trump wanted a debate about Biden – and Elizabeth Warren, Bernie Sanders and Biden’s son, Hunter, along the way."
-    publishedDateTime: 2020-09-30T09:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 128
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-trump-debate-splt-gty-ps-200929_1601430833917_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "The Biden campaign is selling swatters after a fly landed on Mike Pence's head during the VP debate"
     excerpt: "The Biden campaign was quick to capitalize on the moment in the vice-presidential debate, releasing a range of campaign-slogan-branded fly swatters."
@@ -191,22 +127,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden campaign raises record $3.8 million in second hour of debate"
-    excerpt: "Joe Biden's deputy campaign manager said the campaign set a new record for fundraising in the second half of the first debate."
-    publishedDateTime: 2020-09-30T14:21:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-campaign-fundraising-record-debate/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/2a1a6315-027f-4c72-93ca-c4831b377fcc/thumbnail/1200x630/ed68bb5540f7b0481b6229e2e450c2c9/gettyimages-1228795810.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Joe Biden in Michigan says he hopes first family recovers soon"
     excerpt: "Joe Biden wished President Trump and the first lady a speedy recovery from COVID-19 on Friday, speaking from the campaign trail in Michigan after his own campaign announced that Biden tested negative for the coronavirus."
     publishedDateTime: 2020-10-02T22:52:00Z
@@ -220,6 +140,54 @@ related:
     quality: 125
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/02/809a3b2d-989b-4c5e-8e10-c328091be6dd/thumbnail/1200x630/00122e40fc004343e7f45d2515e23b92/gettyimages-1278091226.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Judge tosses defamation suit filed by former Biden aide"
+    excerpt: "A Delaware judge has dismissed a defamation lawsuit filed by a longtime adviser and former Senate aide to Joe Biden over a county official’s comments about the formation of a local stock exchange"
+    publishedDateTime: 2020-10-03T01:58:00Z
+    webUrl: "https://www.washingtonpost.com/business/judge-tosses-defamation-suit-filed-by-former-biden-aide/2020/10/02/4758b31a-04f1-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/judge-tosses-defamation-suit-filed-by-former-biden-aide/2020/10/02/4758b31a-04f1-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/judge-tosses-defamation-suit-filed-by-former-biden-aide/2020/10/02/4758b31a-04f1-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Supreme Court could threaten Biden agenda"
+    excerpt: "The Supreme Court is looming as a roadblock for Democrats as they plot an ambitious wish list if they gain control of the White House and Congress for the first time in a decade."
+    publishedDateTime: 2020-10-04T11:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/519425-supreme-court-could-threaten-biden-agenda"
+    ampWebUrl: "https://thehill.com/homenews/senate/519425-supreme-court-could-threaten-biden-agenda?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/519425-supreme-court-could-threaten-biden-agenda?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/barrettamyconey_092920gn5_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "How Joe Biden's climate plan compares to the Green New Deal"
+    excerpt: "\"Joe Biden's climate plan isn't everything, but it isn't nothing at all,\" one leading climate activist told CBS News."
+    publishedDateTime: 2020-10-05T11:54:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-green-new-deal-climate-change/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-green-new-deal-climate-change/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-green-new-deal-climate-change/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/02/eb2914a4-3fd8-404f-9574-886728b8c4f7/thumbnail/1200x630g3/43f7b2bae2c5f2fe2f28290ace9d2b3d/gettyimages-1144793556.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -415,22 +383,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Fact check: Joe Biden faces friendly fire – partly false – over age, pot, prisons and more"
-    excerpt: "An Instagram user levels strong charges against former Vice President Joe Biden but says he will vote for him against Trump"
-    publishedDateTime: 2020-10-01T12:40:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/01/fact-check-joe-biden-friendly-fire-over-age-pot-prisons/3518767001"
-    ampWebUrl: "https://amp.usatoday.com/amp/3518767001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518767001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/fa27bf47-bcf7-4a05-86c4-f0cb21e75b8b-AP_Election_2020_Biden.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "The New York Post inadvertently revealed the original source of its dubious Hunter Biden story"
     excerpt: "Two photos published in the story seem to point to a specific Mac repair shop in the Trolley Square neighborhood of Wilmington, Delaware."
     publishedDateTime: 2020-10-15T06:14:00Z
@@ -447,19 +399,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden's whistle-stop train tour to battleground states"
-    excerpt: "Joe Biden and his wife Jill take the stage in front of their campaign train during a campaign stop in Pittsburgh, Pennsylvania, September 30. REUTERS/Mike Segar"
-    publishedDateTime: 2020-10-01T22:40:00Z
-    webUrl: "https://www.reuters.com/news/picture/joe-bidens-whistle-stop-train-tour-to-ba-idUSRTX7ZBC0"
+  - title: "Former VP Joe Biden pulls all negative campaign ads"
+    excerpt: "NBC News' Mike Memoli reports the Biden campaign has decided to pull all negative advertising in light of President Trump's Covid-19 diagnosis."
+    publishedDateTime: 2020-10-03T06:31:00Z
+    webUrl: "https://www.cnbc.com/video/2020/10/02/former-vp-joe-biden-pulls-all-negative-campaign-ads.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CNBC
+      domain: cnbc.com
     quality: 105
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535743609&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-01T174006Z_36816_MRPRC279J99RZR9_RTRMADP_0_USA-ELECTION-BIDEN"
-        width: 810
-        height: 540
+      - url: "https://image.cnbcfm.com/api/v1/image/106728123-16016768131601676810-11717776718-1080pnbcnews.jpg?v=1601676813"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Joe Biden campaigns in Miami"
     excerpt: "Watch \"Joe Biden campaigns in Miami\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -577,6 +529,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "VP Mike Pence: Iowa voters must decide 'Joe Biden will never be president'"
+    excerpt: "Pence spoke to a crowd of about 275 people in a warehouse at PVS Structures in Carter Lake. He said “the road to victory runs straight through Iowa” and said"
+    publishedDateTime: 2020-10-02T04:10:00Z
+    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-iowa-voters-must-decide-joe-biden-will-never-be-president/article_b1159011-36b1-5079-ab15-98d73977890b.html"
+    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-iowa-voters-must-decide-joe-biden-will-never-be-president/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-iowa-voters-must-decide-joe-biden-will-never-be-president/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 88
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/83/683affe3-d479-598f-94ef-648f85849d4c/5f369a748c7d1.preview.png"
+        width: 699
+        height: 326
+        isCached: true
   - title: "Biden campaign sees opportunity in military women, spouses and people of color"
     excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
     publishedDateTime: 2020-10-03T11:16:00Z
@@ -634,37 +602,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden to visit Grand Rapids Friday"
-    excerpt: "Joe Biden will visit Grand Rapids Friday, according to his campaign. Biden plans to discuss his “Build Back Better” economic plan, according to a release. The campaign has not released additional details about when or where the stop will be held."
-    publishedDateTime: 2020-09-30T23:03:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
+  - title: "What would your tax rate be under Joe Biden's proposed plan?"
+    excerpt: "Presidential candidate Joe Biden has announced that, if elected, his goal will be to make major changes to tax rules, mostly by raising taxes on the wealthy as well as on corporations. In fact, the Penn Wharton model,"
+    publishedDateTime: 2020-10-04T16:00:00Z
+    webUrl: "https://www.azcentral.com/story/money/taxes/2020/10/04/what-would-your-tax-rate-be-under-bidens-plan/114216908/"
+    ampWebUrl: "https://amp.azcentral.com/amp/114216908"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/114216908"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
-        width: 3771
-        height: 2514
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Joe Biden’s Grand Rapids visit targets former Republican stronghold"
-    excerpt: "Joe Biden is heading to Grand Rapids on Friday, making a play for voters in a traditionally Republican county that has become more blue in recent elections. President Donald Trump won Kent County in 2016 when he became the first Republican to flip Michigan in nearly three decades."
-    publishedDateTime: 2020-10-01T23:22:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
+  - title: "What would your tax rate be under Joe Biden's proposed plan?"
+    excerpt: "Presidential candidate Joe Biden has announced that, if elected, his goal will be to make major changes to tax rules, mostly by raising taxes on the wealthy as well as on corporations. In fact, the Penn Wharton model,"
+    publishedDateTime: 2020-10-04T20:38:00Z
+    webUrl: "https://www.cincinnati.com/story/money/taxes/2020/10/04/what-would-your-tax-rate-be-under-bidens-plan/114216908/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/114216908"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/114216908"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XRZ2WVTVNNH53EO2BFXKHACEVQ.JPG"
-        width: 3000
-        height: 2000
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Taylor Swift endorses Joe Biden"
     excerpt: "Everyone deserves a government that takes global health risks seriously and puts the lives of its people first. The only way we can begin to make things better is to choose leaders who are"
@@ -778,6 +746,17 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "The Latest: Biden Glad Trump Is Better, Says Crisis Remains"
+    excerpt: "Joe Biden says he’s glad President Donald Trump appears to have made a swift recovery from the coronavirus, but he notes that “our nation’s current crisis is far from over.”."
+    publishedDateTime: 2020-10-05T21:00:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Joe Biden to participate in prime-time town hall event on Oct. 15 in lieu of debate"
     excerpt: "Joseph R. Biden will participate in a prime-time town hall event hosted by ABC News on Oct. 15, the network announced on Thursday."
     publishedDateTime: 2020-10-08T21:29:00Z

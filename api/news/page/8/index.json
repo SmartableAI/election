@@ -2,6 +2,162 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-24-trump-jr-floats-2024-run-for-president-this-will-make-the-lib-heads-explode.md",
+      "title": "Trump Jr. floats 2024 run for president: ‘This will make the lib heads explode’",
+      "excerpt": "Donald Trump Jr. posted a photo to Instagram Saturday standing in front of a “Don Jr 2024” sign, teasing that prospect. “Hahahahaha. Oh boy. This was a sign I saw up",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
+      "originalUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/don-jr-46.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
+      "publishedDateTime": "2020-10-24T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-hear-trump-speak-after-voting-in-person-in-florida.md",
+      "title": "Hear Trump speak after voting in person in Florida",
+      "excerpt": "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "publishedDateTime": "2020-10-24T08:11:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-video-shows-a-man-holding-up-a-hand-gesture-tied-to-white-supremacy-behind-trump-at-his-florida-rally.md",
+      "title": "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally",
+      "excerpt": "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10",
+      "originalUrl": "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp",
+      "publishedDateTime": "2020-10-24T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-did-trump-really-use-a-twitter-password-as-weak-as-maga2020.md",
       "title": "Did Trump Really Use A Twitter Password As Weak As ‘maga2020!’?",
       "excerpt": "Dutch hackers claim to have broken into Donald Trump’s Twitter account using an easily guessable password, but security experts are not convinced.",
@@ -10,7 +166,7 @@
       "originalUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -122,7 +278,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 570,
+      "heat": 610,
       "tags": null,
       "images": [
         {
@@ -216,6 +372,101 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease.md",
+      "title": "Forbes Estimates China Paid Trump At Least $5.4 Million Since He Took Office, Via Mysterious Trump Tower Lease",
+      "excerpt": "Donald Trump maintained a stake in Trump Tower when he became president, and with it, a financial connection to the Chinese government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
+      "originalUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f92da59cdd9baa8c7aac7f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-gov-doug-ducey-unleashes-a-tweetstorm-after-joe-biden-calls-him-out-on-masks.md",
+      "title": "Gov. Doug Ducey unleashes a Tweetstorm after Joe Biden calls him out on masks",
+      "excerpt": "Gov. Doug Ducey's approval ratings have plummeted given his handling of COVID-19. So, naturally, he patted himself on the back for his leadership.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/opinion/op-ed/laurieroberts/2020/10/23/gov-doug-ducey-tries-praise-his-coronavirus-handling-fails/6012498002/",
+      "originalUrl": "https://www.azcentral.com/story/opinion/op-ed/laurieroberts/2020/10/23/gov-doug-ducey-tries-praise-his-coronavirus-handling-fails/6012498002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/bc7ed05e-df72-4056-986b-de8309954b78-cent02-7ctz9ylo191evdkhhle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/6012498002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6012498002",
+      "publishedDateTime": "2020-10-23T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -392,7 +643,7 @@
       "originalUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -444,7 +695,7 @@
       "originalUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 70,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -796,58 +1047,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-facebook-pulled-48-trump-election-campaign-ads-which-told-people-your-vote-has-not-been-counted.md",
-      "title": "Facebook pulled 48 Trump election campaign ads which told people 'your vote has not been counted'",
-      "excerpt": "Some 399,000 saw the ads from the Trump campaign before Facebook pulled it, which was potentially misleading to some voters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
-      "originalUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f92f8b4212113001874071a?width=1200&format=jpeg",
-          "width": 780,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp",
-      "publishedDateTime": "2020-10-23T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-23-pelosi-covid-19-aid-possible-before-election-but-its-up-to-trump.md",
       "title": "Pelosi: COVID-19 aid possible before election but it's up to Trump",
       "excerpt": "U.S. House Speaker Nancy Pelosi said it still was possible to get another round of COVID-19 aid before the Nov. 3 election, but that it was up to President Donald Trump to act if he wants to finalize a deal for more financial relief soon.",
@@ -856,7 +1055,7 @@
       "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN278252",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1060,
+      "heat": 700,
       "tags": null,
       "images": [
         {
@@ -880,58 +1079,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-whats-happening-out-there-with-black-men-and-trump.md",
-      "title": "‘What’s happening out there’ with Black men and Trump?",
-      "excerpt": "Tens of thousands of Black men, mostly, in jail. And you know what? They remember it because if you look at what’s happening with the voting right now, they remember that you treated them very, very badly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 525,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PMR5PFALTUI6XBYZBXYVTUKHSQ.jpg&w=1440",
-          "width": 1440,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/?outputType=amp",
-      "publishedDateTime": "2020-10-23T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1129,7 +1276,7 @@
       "originalUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1170,167 +1317,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-president-trump-weighing-firing-of-fbi-director-christopher-wray-after-election.md",
-      "title": "President Trump weighing firing of FBI Director Christopher Wray after election",
-      "excerpt": "President Trump regards FBI Director Christopher Wray as having gone out of his way to separate himself from the president on multiple occasions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 336,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/10/USAT/35138d1c-09b6-47ee-9233-e39128c5332c-XXX__JG24825.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3731576001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3731576001",
-      "publishedDateTime": "2020-10-23T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-donald-trumps-abraham-lincoln-comparison-at-debate-sparks-wave-of-memes.md",
-      "title": "Donald Trump's Abraham Lincoln Comparison at Debate Sparks Wave of Memes",
-      "excerpt": "Joe Biden mocked the comparison and called Trump \"one of the most racist presidents we've had in modern history,\" in the final presidential debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593",
-      "originalUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1657664/donald-trump.jpg",
-          "width": 2500,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1",
-      "publishedDateTime": "2020-10-23T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects.md",
-      "title": "‘I’m going to do what’s right’: Bramnick criticism of Trump could hurt his statewide prospects",
-      "excerpt": "He is one of three major Republicans either running or known to be openly flirting with seeking the party’s nomination to challenge Democratic Gov. Phil Murphy next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/new-jersey/story/2020/10/22/im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects-1329556",
-      "originalUrl": "https://www.politico.com/states/new-jersey/story/2020/10/22/im-going-to-do-whats-right-bramnick-criticism-of-trump-could-hurt-his-statewide-prospects-1329556",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/fb/f6/788d630745c693ac95fb3e095bba/201022-bramnick-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

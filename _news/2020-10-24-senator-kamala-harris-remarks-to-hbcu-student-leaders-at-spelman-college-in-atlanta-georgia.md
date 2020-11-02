@@ -19,95 +19,36 @@ topics:
   - Kamala Harris
 
 related:
-  - title: "Georgia Sen. David Perdue's mispronunciation of Kamala Harris' name draws outrage"
-    excerpt: "Georgia Sen. David Perdue is drawing outrage after appearing to mock Democratic vice presidential nominee Kamala Harris' name while warming up the crowd ahead of a rally for President Donald Trump speech on Friday night."
-    publishedDateTime: 2020-10-17T00:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422"
+  - title: "Can Joe Biden flip Georgia to Democrats? Campaign stops set for Warm Springs, Atlanta"
+    excerpt: "Joe Biden will travel to Georgia next week, making a late push in a state that Republicans have won every presidential election since 1996. Biden’s campaign says he will deliver remarks in Warm Springs,"
+    publishedDateTime: 2020-10-25T06:41:00Z
+    webUrl: "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html"
+    ampWebUrl: "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/david-perdue_hpMain_20201016-203442_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Georgia GOP Sen. Perdue faces criticism after 'mockingly' mispronouncing Kamala Harris' name"
-    excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""
-    publishedDateTime: 2020-10-17T12:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3686517001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3686517001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/3fcd34f3-d788-4bc0-95a6-39d3de585056-AP_Election_2020_Trump_10.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Watch ‘super racist’ rant against Kamala Harris by GOP senator at Georgia MAGA rally"
-    excerpt: "Republicans are playing political defense in the once reliably-red state of Georgia. President Donald Trump is holding a Friday night campaign rally despite the coronavirus pandemic and had Sen. David Perdue (R-GA) warm up the crowd."
-    publishedDateTime: 2020-10-17T04:13:00Z
-    webUrl: "https://www.rawstory.com/2020/10/watch-super-racist-rant-against-kamala-harris-by-gop-senator-at-georgia-maga-rally/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/watch-super-racist-rant-against-kamala-harris-by-gop-senator-at-georgia-maga-rally/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-super-racist-rant-against-kamala-harris-by-gop-senator-at-georgia-maga-rally/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
+      name: al.com
+      domain: al.com
     quality: 68
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/David-Purdue.png"
-        width: 800
-        height: 430
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VZT67ZTTZNERHL4YLTGMZVJASY.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Georgia GOP Sen. Perdue faces criticism after purposefully mispronouncing Kamala Harris' name"
-    excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""
-    publishedDateTime: 2020-10-17T02:47:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3686517001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3686517001"
+  - title: "Democratic nominee Joe Biden to visit Minnesota on Friday"
+    excerpt: "Democratic presidential nominee Joe Biden will return to Minnesota for a drive-in event in St. Paul on Friday, the campaign told the. The planned visit, four days before the Nov. 3 election, will come as both campaigns launch their final push to capture Minnesota's 10 electoral votes,"
+    publishedDateTime: 2020-10-29T18:30:00Z
+    webUrl: "https://www.startribune.com/democratic-nominee-joe-biden-to-visit-minnesota-on-friday/572911991/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 64
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/3fcd34f3-d788-4bc0-95a6-39d3de585056-AP_Election_2020_Trump_10.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
+      - url: "https://stmedia.stimg.co/1600457850_19098701+TRUMPBIDEN.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "David Perdue's Mocking of Kamala Harris' Name is Turning Into the Self-Own to End All Self-Owns"
-    excerpt: "It must be hard out here for a Republican these days. Imagine having to choose between being a decent human being and appealing to your deplorable base. We learned all through the Obama years how a foreign-sounding name on a brown person gives racist ass xenophobes conservative voters the heebee jeebees."
-    publishedDateTime: 2020-10-18T15:51:00Z
-    webUrl: "https://www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435"
-    ampWebUrl: "https://www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435/amp"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 63
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fopcp5p4uhnol5lcvz4v.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Kamala Harris gives Orlando speech on first day of early voting in Florida"
-    excerpt: "On her first stop in Florida, Kamala Harris gave a speech encouraging voters to go to the polls on the first day of early voting in Florida. Harris attacked President Trump's coronavirus response while assuring viewers that change was coming."
-    publishedDateTime: 2020-10-19T16:53:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article246557098.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 33
 
 secured: "I7DB3RwdfJpgc6xcQc9rN0SvxOUuk0uWxa2WNddhjbtK/MXSXXXQzo6cT2BZAhkCSRT3qFXGLAkjmdvGpi4E6a++AF2J/MSoZcdL1UeGirTkA8gAscW+bOLIcu9UH+xpciaGaPmB7KCsN0jHbXzNwGgVuIkiOgJrJcYnHUDlCNwFEFSu/ZJM9+y1rxnnqEOGCboGrU2f1wgFGUJTLBIDaQc861UnvMs5TwjoEBAjzG9U+pyESUyYaQXe9WfFOBZD1QswZxxk4JpCNinxDmxQM0zjB10pWYfAs/GE0vaQWKY6YXxj0rjPU5ziO8adA6hU4HUfJZr+yluDjebfdCoG7JeOfkILSTF0WCF036vmiJkeCS4jY7cThtJiWNJBIIzTmu3Df5D2d4PzcFiPbydV6uk1YjFFnRQzLade5MxBxatveFHyO9Iy3zKVLeGXE0DdrHftLs1Pn0nYuxBnymALO9M9TzfJl7naAPCcA9R2eySUG63WjlJ+6mF5sFQXrBowtML6HXafsrU8S4fYXAbVXw==;ZVKm3QpnBJGw9e96OeoAAw=="
 ---

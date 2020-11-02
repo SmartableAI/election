@@ -47,53 +47,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Watch live: Biden participates in HBCU homecoming"
-    excerpt: "Democratic presidential candidate Joe Biden and and his running mate, Kamala Harris, on Friday evening are slated to participate in a HBCU Homecoming rally hosted by actor and comedian Tiffany Hadish."
-    publishedDateTime: 2020-10-23T23:09:00Z
-    webUrl: "https://thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming"
-    ampWebUrl: "https://thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Bloomberg is funding late $15 million push to help Biden in Texas, Ohio"
-    excerpt: "Billionaire Michael Bloomberg is planning to spend around $15 million on television advertising in Texas and Ohio during the final week of the presidential campaign to help Democratic candidate Joe Biden defeat President Donald Trump,"
-    publishedDateTime: 2020-10-27T19:45:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-bloomberg/update-1-bloomberg-is-funding-late-15-million-push-to-help-biden-in-texas-ohio-idUSL1N2HI12O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C1OX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1OX"
+  - title: "Biden tests negative for COVID-19, campaign says"
+    excerpt: "Democratic U.S. presidential nominee Joe Biden tested negative for COVID-19 on Saturday, his campaign said in a statement."
+    publishedDateTime: 2020-10-24T16:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-health-idUSKBN2790NR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2790NR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2790NR"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538993510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q140"
-        width: 816
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538697782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N0EP"
+        width: 862
         height: 545
-        isCached: true
-  - title: "Sanders: Progressives will work to 'rally the American people' if Biden wins"
-    excerpt: "Sen. Bernie Sanders (I-Vt.) predicted that progressives would look to move Democratic presidential nominee Joe Biden toward their priorities if he wins the White House this November and Democrats sweep Congress."
-    publishedDateTime: 2020-10-22T17:24:00Z
-    webUrl: "https://thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins"
-    ampWebUrl: "https://thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/sandersbernie_022620gn28_lead.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Joe Biden makes last-minute plea to Hispanic voters in 11 states, including Texas"
     excerpt: "With polls showing Joe Biden still doesn’t have enough support from Hispanic voters, his campaign has launched 5 new Spanish language ads airing in Texas and 10 other states."
@@ -111,24 +79,6 @@ related:
         width: 2048
         height: 1451
         isCached: true
-  - title: "Joe Biden Remarks in Michigan on Health Care"
-    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on health care and the economy at a campaign event in Southfield, Michigan, a suburb of Detroit."
-    publishedDateTime: 2020-10-19T06:17:00Z
-    webUrl: "https://www.c-span.org/video/?477057-1/joe-biden-campaigns-southfield-michigan"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Delivers Remarks in Warm Springs, Georgia"
-    excerpt: "T13:46:02-04:00 a week to go to election day, Democratic presidential candidate Joe Biden delivers remarks in Warm Springs, Georgia, home to FDR’s “Little White House.” The former vice president says he’s running to help “unite” and “heal” the country."
-    publishedDateTime: 2020-10-27T18:43:00Z
-    webUrl: "https://www.c-span.org/event/?477413/c2020-joe-biden-delivers-remarks-warm-springs-ga"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "wVEG8ytGOJAJEsW19TBwqDT+eWbZG+3tDWyoQYa+P8R9mIVQZ3NPiaP4H9UTJOtYvVz5AeUCgNov6/yWrImcksy5RZ5AXjhhVOvab4qHOGRZ8vZmvxkSz07ZmDiRhuAHmCsct9RUXz9qpVmCywh1e4Jci2N1LRVhBF6NRNkuPzMcdSTiFqAp1GYs3XDVNZ0OreW5/YcZbsuCJzTzjkhfqBffU9TRJ4fpp1XcZJTa69rQijXb8rYCPq3UVsOj+iw6bSlTwvFFyNCVXOSbcwDtSXMOLySDuJb/xm2IOTzMkQU5QJRPcRKcF9SDM1kKSl9QEWqIAkuLRYp3uTSTC4X8Zfs6012R+PdBtB1yEUdTCsA=;hQRrevp6OPsI0uWHsfaD1Q=="
 ---

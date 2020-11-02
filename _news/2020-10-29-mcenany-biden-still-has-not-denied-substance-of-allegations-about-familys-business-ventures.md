@@ -47,21 +47,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Lara Logan slams Biden for playing ‘Russia card’ in response to Hunter Biden email allegations"
-    excerpt: "2020 Democratic presidential candidate Joe Biden played the \"Russian information warfare\" card to dodge questions pertaining to his son Hunter Biden's foreign dealings, Fox Nation host Lara Logan said on Friday."
-    publishedDateTime: 2020-10-23T18:16:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/21iBRaLM3ns/lara-logan-biden-playing-russia-card-hunter-biden-emails"
-    ampWebUrl: "https://www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
+  - title: "Media needs to ask Joe Biden these three questions amid son's allegations: Gowdy"
+    excerpt: "Joe Biden and his son, Hunter, should be asked by the mainstream media the same questions President Trump and his children were asked in 2016 about business dealings, former House Oversight Committee Chair Trey Gowdy argued Thursday."
+    publishedDateTime: 2020-10-29T17:08:00Z
+    webUrl: "https://www.foxnews.com/media/biden-joe-hunter-tony-bobulinski-question-answer-trey-gowdy"
+    ampWebUrl: "https://www.foxnews.com/media/biden-joe-hunter-tony-bobulinski-question-answer-trey-gowdy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-joe-hunter-tony-bobulinski-question-answer-trey-gowdy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 130
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a838606-a658-4f83-a78b-1c04e4ac7325/38976114-6a10-4ddc-9172-4ccc577f45b9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "LidUTPCLhSqejACUnjoKaCuc1e3j5EwGyAX8ROWUQOFilbtIVH2ixMjU2gwC9chRlm0vDY7u5vmsX9rJWwaXmrTq9WhKjGFf7Dnr2cINOnyycc9ZQb0JERk7JELy4SOWOJxLa+S2IIE0tzxvB/f/tIGQoORi/JNWQkSZrbqS7HdEG4UyjM0r9Gel7+HMNrQd5SZjVzpLNuvY8Uvox8v8BcLucXM1pkV9s4wp4coLhWHBGlgV1rzgO4V+UBfHBFxC1NYKSLqN66+z00EEoyX8x3RLISfkR15xIV77+sjPD0SBdM/JlEzDnOWwOML40Nrq71ishLAQDVvoayLKqZV0Gjqh3EPmAKwz5U+trArYdn4=;kd2RJ7QEZt7gCgLcShw9fg=="

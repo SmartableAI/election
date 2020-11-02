@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Democrats attack Amy Coney Barrett for saying 'sexual preference,' but Biden used same term in May"
+    excerpt: "Democratic lawmakers hammered Supreme Court nominee Judge Amy Coney Barrett for her use of the term \"sexual preference\" to describe the LGBTQ community, but apparently the term isn't as outdated as some Democrats believe it is."
+    publishedDateTime: 2020-10-14T00:24:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oQYXzwUOfig/democrats-attack-amy-coney-barrett-sexual-preference-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-attack-amy-coney-barrett-sexual-preference-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-attack-amy-coney-barrett-sexual-preference-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be2bd71c-ae89-43cc-992b-cfcca9a23d4a/28bfbf47-fe2a-4ccf-9803-3c47ae558c95/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris says Amy Coney Barrett's faith shouldn't be scrutinized in confirmation hearings"
     excerpt: "Democratic vice presidential nominee Kamala Harris said Supreme Court nominee Amy Coney Barrett should \"absolutely not\" be questioned about her faith during her confirmation process. "
     publishedDateTime: 2020-10-10T16:47:51Z
@@ -152,6 +168,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Sen.20Harris.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump health reports marred by confusing and conflicting messages"
+    excerpt: "It was just two sentences from an unnamed source in a White House pool report, but it exploded the prevailing narrative about President Trump’s health."
+    publishedDateTime: 2020-10-06T07:11:00Z
+    webUrl: "https://www.foxnews.com/media/trump-health-reports-marred-by-confusing-and-conflicting-messages"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d355350b-7a7e-46f2-b397-7e7c16a5be9d/284fa6f0-8cc2-4fa4-8cef-b459fdd0cb6e/1280x720/match/image.jpg"
+        width: 1134
+        height: 720
         isCached: true
 
 secured: "IAfl/CAXbgmYrRQlgvUCMkKbCMFFSbJFCfLv0lhSXi3/4JQ4VqUs8jO/HA2lRn24+Osc1u3euaQsOySPXOHJu5smUtnXhhrNvLKHPnkfxQa3LPgbp6f6AGsRwXncB4TgHhEdAcZnEbwD4pe5kHb6Ts7/uMCzE8JHNu93O6YKevlszv5feriMJ09f4bpinu8ZiXt20dV4RajfWZjiekq4WZlzQGiL8HhKom1MKdk3MpIN1x0b/iKMAqCe8/4cnpO/xAI/+9t4ifXPiiD+7FaThbtWZd/q03nYW5jQoYhUBGLyCVaeHNLdRtweQ9xgiIJtO723o6rBRdtymqr6lCazDfE/hbEr0JcmnyDZ+fKuk/g=;pBvMi9REczSi/wERt/bjOQ=="

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -228,7 +228,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -272,21 +272,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-30-trumps-disrespect-of-sen-martha-mcsally-was-painful-to-watch.md",
-      "title": "Trump's disrespect of Sen. Martha McSally was painful to watch",
-      "excerpt": "President Donald Trump treated Sen. Martha McSally like a second-class citizen during his Goodyear rally. That's the thanks she gets, for her loyalty.",
+      "path": "_news/2020-10-30-schumer-calls-trump-a-moron-over-coronavirus-response.md",
+      "title": "Schumer calls Trump 'a moron' over coronavirus response",
+      "excerpt": "Senate Minority Leader Charles Schumer (D-N.Y.) on Thursday said the federal government is failing to react appropriately to surging coronavirus cases around the country because President Trump is “a moron.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/28/trumps-disrespect-sen-martha-mcsally-painful-watch/6064387002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/28/trumps-disrespect-sen-martha-mcsally-painful-watch/6064387002/",
+      "webUrl": "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show",
+      "originalUrl": "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 185,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/28/PPHX/29606f50-ae19-4a72-a361-eb0642dbbb5e-DW1_8023.JPG?auto=webp&crop=3045,1713,x0,y304&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://thehill.com/sites/default/files/schumercharles_102620gn5_lead.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -294,16 +294,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6064387002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6064387002",
-      "publishedDateTime": "2020-10-29T16:12:00-07:00",
+      "ampWebUrl": "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp",
+      "publishedDateTime": "2020-10-29T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -384,7 +384,7 @@
       "originalUrl": "https://www.cbsnews.com/news/jack-nicklaus-endorses-president-trump-for-re-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -480,153 +480,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-livestream-donald-trump-rally-set-for-fayetteville-thursday.md",
-      "title": "Livestream: Donald Trump Rally Set For Fayetteville Thursday",
-      "excerpt": "Trump's rally will be held at the Fayetteville Regional Airport, located at 400 Airport Road in Fayetteville. The event is set to begin at 6:30 p.m. Trump's travel to the state highlights just how important his campaign views the Tar Heel state,",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/north-carolina/charlotte/livestream-donald-trump-rally-set-fayetteville-thursday",
-      "originalUrl": "https://patch.com/north-carolina/charlotte/livestream-donald-trump-rally-set-fayetteville-thursday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/getty/22921643/20201029/104240/styles/patch_image/public/gettyimages-1282737607___29104037184.jpg?width=984",
-          "width": 984,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/north-carolina/charlotte/amp/29048865/livestream-donald-trump-rally-set-for-fayetteville-thursday",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/north-carolina/charlotte/amp/29048865/livestream-donald-trump-rally-set-for-fayetteville-thursday",
-      "publishedDateTime": "2020-10-29T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-hackers-stole-23-million-from-trump-reelection-account-in-wisconsin.md",
-      "title": "Hackers Stole $2.3 Million From Trump Reelection Account In Wisconsin",
-      "excerpt": "Hackers have taken $2.3 million from the Wisconsin Republican Party’s account supporting Trump’s reelection, the party’s chairman told The Associated Press on Thursday, a campaign disruption in the critical swing state less than a week from Election Day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/",
-      "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 560,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ad2feba488e31d7ba9182%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D282%26cropY2%3D3360",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/",
-      "publishedDateTime": "2020-10-29T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-ari-fleischer-why-my-2020-choice-for-president-will-be-donald-trump.md",
-      "title": "Ari Fleischer: Why my 2020 choice for president will be Donald Trump",
-      "excerpt": "In many ways, I find President Trump over-the-top and offensive, and have said so on-the-air and on Twitter. He can be too hot to handle, insulting people and too often making himself the issue, diverting attention from more important policy matters.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/523320-why-my-choice-for-president-will-be-donald-trump",
-      "originalUrl": "https://thehill.com/opinion/white-house/523320-why-my-choice-for-president-will-be-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/donaldtrump_05082019.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/523320-why-my-choice-for-president-will-be-donald-trump?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/523320-why-my-choice-for-president-will-be-donald-trump?amp",
-      "publishedDateTime": "2020-10-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-29-factbox-us-supreme-court-rules-against-trump-as-legal-battles-over-election-continue.md",
       "title": "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue",
       "excerpt": "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in",
@@ -635,7 +488,7 @@
       "originalUrl": "https://www.reuters.com/article/topNews/idUSKBN27E1HY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 332,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -679,21 +532,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-us-air-force-f-16s-intercepted-an-unauthorized-aircraft-flying-in-a-restricted-area-over-a-trump-rally.md",
-      "title": "US Air Force F-16s intercepted an unauthorized aircraft flying in a restricted area over a Trump rally",
-      "excerpt": "When President Donald Trump saw the F-16 deploy signal flares, he told a crowd that they were putting on a display for him.",
+      "path": "_news/2020-10-29-election-2020-live-updates-trump-campaign-website-hacked.md",
+      "title": "Election 2020 live updates: Trump campaign website hacked",
+      "excerpt": "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10",
-      "originalUrl": "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10",
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 660,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f99e8aa69331a0011bc5f19?width=1200&format=jpeg",
-          "width": 998,
-          "height": 499,
+          "url": "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -701,16 +554,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp",
-      "publishedDateTime": "2020-10-28T23:21:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6007506002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002",
+      "publishedDateTime": "2020-10-28T20:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -783,21 +636,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-fbi-says-extremist-threatened-trump-obama-in-online-posts.md",
-      "title": "FBI says extremist threatened Trump, Obama in online posts",
-      "excerpt": "An FBI agent says a man accused of conspiring to kidnap Michigan's governor also made threatening online comments about President Donald Trump and other political figures",
+      "path": "_news/2020-10-29-watch-trump-speaks-at-campaign-rally-in-goodyear-arizona.md",
+      "title": "WATCH: Trump speaks at campaign rally in Goodyear, Arizona",
+      "excerpt": "Trump paused his campaign speech in Bullhead City, Arizona to admire what he identified as a fighter jet flying by.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/fbi-extremist-threatened-trump-obama-online-posts-73892980",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/fbi-extremist-threatened-trump-obama-online-posts-73892980",
+      "webUrl": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona",
+      "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/US/WireAP_705c061595964214804bb497f9a1c396_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -805,120 +658,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/fbi-extremist-threatened-trump-obama-online-posts-73892980",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/fbi-extremist-threatened-trump-obama-online-posts-73892980",
-      "publishedDateTime": "2020-10-28T17:48:00-07:00",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona",
+      "publishedDateTime": "2020-10-28T16:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "PBS",
+        "domain": "pbs.org",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-trump-says-hopefully-states-wont-be-allowed-to-count-ballots-after-election-day-which-is-a-normal-part-of-the-electoral-process.md",
-      "title": "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process",
-      "excerpt": "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f99df9069331a0011bc5ed3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp",
-      "publishedDateTime": "2020-10-28T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-trump-pulls-statistically-even-with-biden-in-florida-arizona-is-a-dead-heat-reutersipsos.md",
-      "title": "Trump pulls statistically even with Biden in Florida; Arizona is a dead heat: Reuters/Ipsos",
-      "excerpt": "President Donald Trump has pulled into a virtual tie with Democratic challenger Joe Biden in Florida, just a week after the former vice president held a narrow lead there, a Reuters/Ipsos opinion poll showed on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27D30N",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27D30N",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 510,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539183378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R1TO",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27D30N",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D30N",
-      "publishedDateTime": "2020-10-28T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -947,7 +696,7 @@
       "originalUrl": "https://www.cbsnews.com/news/anonymous-trump-critic-revealed/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1204,21 +953,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says.md",
-      "title": "White House Claim That Trump Ended The Pandemic Was ‘Poorly Worded,’ Spokesperson Says",
-      "excerpt": "The White House said Wednesday that a news release that listed “ending the Covid-19 pandemic” as an accomplishment of the Trump administration was “poorly worded,” even as President Trump and members of his inner circle continue to talk about the pandemic as if it’s ending.",
+      "path": "_news/2020-10-29-man-arrested-at-trump-rally-with-south-dakotas-noem.md",
+      "title": "Man arrested at Trump rally with South Dakota's Noem",
+      "excerpt": "Police in Maine on Wednesday arrested a man who displayed two weapons at a campaign rally for President Donald Trump where South Dakota Gov. Kristi Noem was appearing. Noem spokeswoman Maggie Seidel said Noem's security detail engaged a man who had two weapons.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/",
-      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/",
+      "webUrl": "https://www.chron.com/news/article/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php",
+      "originalUrl": "https://www.chron.com/news/article/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f999042865a9df7bf8af58e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D192%26cropY2%3D1880",
-          "width": 1200,
-          "height": 675,
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1226,23 +975,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/amp/",
-      "publishedDateTime": "2020-10-28T08:44:00-07:00",
+      "ampWebUrl": "https://www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php",
+      "publishedDateTime": "2020-10-28T10:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1373,7 +1113,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1521,21 +1261,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-does-russia-china-north-korea-want-trump-to-win-the-election-what-trump-said-about-putin-xi-kim-jong-un.md",
-      "title": "Does Russia, China, North Korea Want Trump To Win The Election? What Trump Said About Putin, Xi, Kim Jong Un",
-      "excerpt": "President Donald Trump said North Korean leader Kim Jong Un, Russian President Vladimir Putin and Chinese leader Xi Jinping would prefer him to be reelected over Joe Biden, calling them \"sharp as a tack.",
+      "path": "_news/2020-10-28-livestream-trump-holds-tuesday-rally-in-michigan.md",
+      "title": "Livestream: Trump Holds Tuesday Rally In Michigan",
+      "excerpt": "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
-      "originalUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
+      "webUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
+      "originalUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/us-president-donald-trump-holds-his-first-summit.jpg",
-          "width": 1024,
-          "height": 682,
+          "url": "https://patch.com/img/cdn20/getty/566479/20201027/013957/styles/patch_image/public/gettyimages-1229304833___27133938792.jpg?width=984",
+          "width": 896,
+          "height": 672,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1543,16 +1283,264 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
-      "publishedDateTime": "2020-10-27T15:05:00-07:00",
+      "ampWebUrl": "https://patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
+      "publishedDateTime": "2020-10-27T15:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-says-kamala-harris-wont-be-first-woman-president-rallygoers-demand-ivanka.md",
+      "title": "Trump Says Kamala Harris 'Won't Be First Woman President,' Rallygoers Demand Ivanka",
+      "excerpt": "Trump said Kamala Harris will \"take over\" for Biden three weeks into his term if he wins before declaring, \"she will not be the first woman president\" Tuesday at a Lansing, Michigan campaign event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
+      "originalUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1659983/ivanka-trump-president-first-woman.jpg",
+          "width": 2500,
+          "height": 1515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1",
+      "publishedDateTime": "2020-10-27T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-twitter-labels-trump-post-about-mail-ballots-as-disputed-and-misleading.md",
+      "title": "Twitter labels Trump post about mail ballots as ‘disputed’ and ‘misleading’",
+      "excerpt": "The president claimed, without evidence, there were “problems and discrepancies” with mail-in ballots “all over the USA.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f109-dd93-ad7f-f90d0def0000&nlid=630318",
+      "originalUrl": "https://www.politico.com/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f109-dd93-ad7f-f90d0def0000&nlid=630318",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/cc/78/67c2074c4385a792442f74d82304/gettyimages-1229297971-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697",
+      "publishedDateTime": "2020-10-27T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company.md",
+      "title": "No Dividends, No Problem: Trump Megadonor Sheldon Adelson Has Given At Least $180 Million This Year, Despite Troubles At His Company",
+      "excerpt": "Regardless of what happens with his casino empire, Sheldon Adelson has more than enough cash to remain one of the biggest political donors in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michelatindera/2020/10/27/no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company/",
+      "originalUrl": "https://www.forbes.com/sites/michelatindera/2020/10/27/no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f978c5a40130f51d658e810%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1896%26cropY1%3D0%26cropY2%3D1067",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80.md",
+      "title": "Coal baron Murray, a Trump ally who fought environmental regulation, dead at 80",
+      "excerpt": "U.S. coal baron Robert Murray, an ally of President Donald Trump and a leading industry voice who called global warming a hoax, died on Sunday at age 80, U.S. media reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
+      "originalUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
+      "publishedDateTime": "2020-10-26T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-twitter-sticks-misleading-label-on-donald-trumps-tweet-about-problems-with-mail-in-ballots.md",
+      "title": "Twitter sticks 'misleading' label on Donald Trump's tweet about problems with mail-in ballots",
+      "excerpt": "President Donald Trump's tweet about \"big\" problems with mail-in ballots was labeled by Twitter as part of its pledge to stop election disinformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2020/10/26/donald-trump-twitter-mail-ballots-election-tweet-misleading/6049734002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2020/10/26/donald-trump-twitter-mail-ballots-election-tweet-misleading/6049734002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6049734002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6049734002",
+      "publishedDateTime": "2020-10-26T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

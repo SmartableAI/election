@@ -41,6 +41,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden can end the drama on election night. All he has to do is win Texas."
+    excerpt: "Joe Biden can end the election on election night. All it takes is an investment in Texas. Texas is the state where big, late money and showing up could put an end to the suspense about whether President Trump will concede defeat Nov."
+    publishedDateTime: 2020-10-04T15:00:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/04/joe-biden-win-texas/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/04/joe-biden-win-texas/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/04/joe-biden-win-texas/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 137
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4S6IEDQE6AI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "What a Joe Biden win could mean for the ETF industry"
     excerpt: "As the 2020 presidential race intensifies, three market analysts assess what the possible outcomes could mean for exchange-traded funds."
     publishedDateTime: 2020-10-10T15:23:00Z
@@ -147,22 +163,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
-    excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
-    publishedDateTime: 2020-09-27T09:19:00Z
-    webUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html"
-    ampWebUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 75
-    images:
-      - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
-        width: 1200
-        height: 864
-        isCached: true
   - title: "Editorial: Weary nation needs Joe Biden as president"
     excerpt: "Biden has grown in leadership and stature to meet the historic challenges under which President Donald Trump has shrunk."
     publishedDateTime: 2020-10-11T09:18:00Z
@@ -178,54 +178,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/50/23/20088055/3/rawImage.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "Save the Children? Extremist conspiracy movement QAnon fabricates pedophile claims against Joe Biden as election looms"
-    excerpt: "QAnon has hijacked the Save the Children movement to push baseless pedophilia claims against Joe Biden and other Democrats before the election."
-    publishedDateTime: 2020-09-29T15:56:00Z
-    webUrl: "https://www.palmbeachpost.com/story/tech/2020/09/28/qanon-pedophile-claims-biden-trump-save-the-children-facebook-instagram/3522626001/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/3522626001"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3522626001"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/7816fd70-f6e9-457f-8236-c459ddfbce36-GTY_1228159792.jpg?auto=webp&crop=5268,2964,x0,y336&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Save the Children? Extremist conspiracy movement QAnon fabricates pedophile claims against Joe Biden as election looms"
-    excerpt: "QAnon has hijacked the Save the Children movement to push baseless pedophilia claims against Joe Biden and other Democrats before the election."
-    publishedDateTime: 2020-09-30T16:56:00Z
-    webUrl: "https://www.indystar.com/story/tech/2020/09/28/qanon-pedophile-claims-biden-trump-save-the-children-facebook-instagram/3522626001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3522626001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3522626001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/7816fd70-f6e9-457f-8236-c459ddfbce36-GTY_1228159792.jpg?auto=webp&crop=5268,2964,x0,y336&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bloomberg's Florida vote-buying scheme: Electing Joe Biden is not an end that justifies dubious mean"
-    excerpt: "By any means necessary” is a battle cry of the far left, coined by a Marxist philosopher on the Caribbean island of Martinique in 1960."
-    publishedDateTime: 2020-10-02T03:20:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/1/editorial-electing-joe-biden-is-not-an-end-that-ju/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/1/editorial-electing-joe-biden-is-not-an-end-that-ju/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/1/editorial-electing-joe-biden-is-not-an-end-that-ju/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 60
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/26/election_2020_debate_13227_c0-212-5082-3176_s1200x700.jpg?db917b09d8cbb24332b5ca6852b875bd774a8b48"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Editorial: We recommend Joe Biden for president"
     excerpt: "Character, without question, is the starkest divide between President Donald Trump and former Vice President Joe Biden, the Houston Chronicle Editorial Board writes."
@@ -255,15 +207,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Joe Biden Remarks to U.S. Conference of Mayors"
-    excerpt: "Democratic presidential nominee Joe Biden spoke at the 2020 fall leadership meeting of the U.S. Conference of Mayors. He talked about the importance of local government, the need to address systemic racism,"
-    publishedDateTime: 2020-09-27T17:52:00Z
-    webUrl: "https://www.c-span.org/video/?476255-1/joe-biden-remarks-us-conference-mayors"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
   - title: "Joe Biden Get-Out-The-Vote Event in Las Vegas, Nevada"
     excerpt: "Democratic presidential candidate Joe Biden appeals to members of the Latino community at a “Get-Out-The-Vote” event in Las Vegas, Nevada. Pete Buttigieg, a 2020 Democratic presidential candidate, spoke to supporters in Las Vegas after the close of"
     publishedDateTime: 2020-10-09T21:08:00Z

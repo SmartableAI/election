@@ -9,8 +9,8 @@ ampWebUrl: "https://patch.com/north-carolina/charlotte/amp/29048865/livestream-d
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/north-carolina/charlotte/amp/29048865/livestream-donald-trump-rally-set-for-fayetteville-thursday"
 type: article
 quality: 75
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Patch
@@ -25,6 +25,38 @@ images:
     width: 984
     height: 738
     isCached: true
+
+related:
+  - title: "Livestream: Trump Holds Tuesday Rally In Michigan"
+    excerpt: "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing."
+    publishedDateTime: 2020-10-27T22:39:00Z
+    webUrl: "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan"
+    ampWebUrl: "https://patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/566479/20201027/013957/styles/patch_image/public/gettyimages-1229304833___27133938792.jpg?width=984"
+        width: 896
+        height: 672
+        isCached: true
+  - title: "Trump to return to Minnesota for Rochester rally on Friday"
+    excerpt: "As Election Day looms, President Donald Trump is returning to Minnesota for a rally Friday in Rochester that will mark his fourth trip to the state in recent weeks, his campaign announced Wednesday."
+    publishedDateTime: 2020-10-28T21:15:00Z
+    webUrl: "https://www.startribune.com/trump-to-return-to-minnesota-for-rochester-rally-on-friday/572901371/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1603745573"
+        width: 1680
+        height: 876
+        isCached: true
 
 secured: "9MkJuJLwuwJvRg3CRdJ9cG+78AEggxmvWdPmPDFQf0P3s93PQc72XMRA1n5QyOqYgc7Dn4IYyzMumNwKJsb7f8q/Gv1fJuIupGBt3+hEKAf+Wdcv1XxCzhjI01ydLixlSPzUL4HOSAlaO+vFC5e/emf0MEbqLxBoDkSRFVjEXIyzu/ZzA7uU2yQwPEhWR1iMCRW2r2fOezRWhM7NK+gP8RqHvrXgMrckTwFIRtMI9H6AVr20EMNLCywjqbr9SWIwNVazDjvxZSkJGyrh6VFQC0e0nXjWfIYudy5itKDDasgT0chcK7+INw8F58m1YTo3c/i5BKBId+str2kYwGWGKQkt4yFoSCvt0//5/nSeHnHHCgSTzhV/VDxg9lq+/SsWO4nDJR4GKHfmSyVhuVADQjjNjJ+dMj9euBcP5YL5ynMBbhyZzTmzfIaHdzPJgZCyd7VfTW+JM1yBSc8W7VxxIEbwEWIEkYcmcXguKHEpsaG7RzMrpxBZecR+SL/TXBulkpJljc4GVZGoVeavcyT0pQ==;bDwHXBWLk3aKzhEYq3hbkw=="
 ---

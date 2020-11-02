@@ -31,375 +31,263 @@ images:
     isCached: true
 
 related:
-  - title: "George Floyd's sister calls for change in new Biden ad"
-    excerpt: "In a new ad released by Democratic nominee Joe Biden's campaign on Wednesday, Bridgett Floyd, sister of George Floyd, calls for change and discusses the importance of voting after her brother was killed by police officers in Minneapolis,"
-    publishedDateTime: 2020-10-14T16:00:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
+  - title: "'Record-breaking group' of faith leaders endorses Biden"
+    excerpt: "More than 1,600 faith leaders have endorsed Democratic nominee Joe Biden for president as of Friday, including some who could influence evangelical votes, according to a faith voters outreach group."
+    publishedDateTime: 2020-10-09T19:47:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/georgefloyd063020.jpg"
-        width: 780
+      - url: "https://thehill.com/sites/default/files/bidenjoe_093020getty_blowout.jpg"
+        width: 980
         height: 551
         isCached: true
-  - title: "What we know – and don't know – about Hunter Biden's alleged laptop"
-    excerpt: "A central figure has contradicted himself about his actions and motivations, raising questions about his account."
-    publishedDateTime: 2020-10-15T22:04:00Z
-    webUrl: "https://www.cbsnews.com/news/hunter-biden-alleged-laptop-new-york-post/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-alleged-laptop-new-york-post/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-alleged-laptop-new-york-post/"
+  - title: "17-year-old climate activist Greta Thunberg endorses Joe Biden"
+    excerpt: "\"I never engage in party politics. But the upcoming US elections is above and beyond all that,\" the 17-year-old climate activist from Sweden tweeted."
+    publishedDateTime: 2020-10-10T17:03:00Z
+    webUrl: "https://www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/15/19cdb850-10df-4dd7-bf5f-13d82d9675d9/thumbnail/1200x630g3/74c90b18bdc18eb7190a4a1c998cb5f9/gettyimages-520756502.jpg"
+      - url: "https://i.insider.com/5f81d732642e9400180b52ca?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Who Is George Stephanopoulous, Moderator of Biden Town Hall?"
-    excerpt: "Stephanopoulous, 59, leads breaking news and major special events coverage for ABC, a position he's held since 2014."
-    publishedDateTime: 2020-10-15T19:00:00Z
-    webUrl: "https://www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523"
-    ampWebUrl: "https://www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1653288/george-stephanopoulos.jpg"
-        width: 3606
-        height: 2549
-        isCached: true
-  - title: "Biden campaign removing retired general from ad after his complaint"
-    excerpt: "The Biden campaign will remove images of a former commander of the U.S.-led anti-ISIS military coalition from an ad after he called out the campaign for including him without his permission, a spokesman said Monday."
-    publishedDateTime: 2020-10-19T21:32:00Z
-    webUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint"
-    ampWebUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
+  - title: "Budowsky: President Bush, please vote Biden"
+    excerpt: "I hope you will say a little prayer for democracy and inform the nation you will vote for Biden, the only candidate whose election would prevent four more years of the dangers you warned about in your brilliant speech at the George W."
+    publishedDateTime: 2020-10-14T12:10:00Z
+    webUrl: "https://thehill.com/opinion/campaign/520907-budowsky-president-bush-please-vote-biden"
+    ampWebUrl: "https://thehill.com/opinion/campaign/520907-budowsky-president-bush-please-vote-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520907-budowsky-president-bush-please-vote-biden?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Retired Navy admiral behind bin Laden raid says he voted for Biden"
-    excerpt: "William McRaven, the retired Navy admiral who oversaw the raid that killed Osama bin Laden, endorsed Democratic presidential nominee Joe Biden in an op-ed fo"
-    publishedDateTime: 2020-10-20T15:12:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521839-retired-navy-admiral-behind-bin-laden-raid-says-he-voted-for-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521839-retired-navy-admiral-behind-bin-laden-raid-says-he-voted-for-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521839-retired-navy-admiral-behind-bin-laden-raid-says-he-voted-for-biden?amp"
+  - title: "Biden campaign announces record $383M fundraising haul in September"
+    excerpt: "Democratic presidential nominee Joe Biden's (D) campaign announced late Wednesday that it had raised a massive $383 million during the third quarter of 2020, marking the best period for the campaign so far."
+    publishedDateTime: 2020-10-15T12:27:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/mcraven_1.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Biden up by single point in Florida: poll"
-    excerpt: "Democratic presidential nominee Joe Biden has a single-point lead over President Trump in Florida, according to a poll released Tuesday from the University of No"
-    publishedDateTime: 2020-10-20T18:55:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521899-biden-up-by-single-point-in-florida-survey"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521899-biden-up-by-single-point-in-florida-survey?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521899-biden-up-by-single-point-in-florida-survey?amp"
+  - title: "Biden leaves door open to adding Supreme Court justices"
+    excerpt: "Democratic nominee Joe Biden on Thursday kept the door open to adding justices to the Supreme Court if Republicans push ahead with confirming President Trump’s nominee Amy Coney Barrett."
+    publishedDateTime: 2020-10-16T01:24:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_091420getty.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "The best case against a Biden presidency: Him"
-    excerpt: "When you take a clear-eyed look at Biden, there is no meaningful case for his candidacy. His biggest argument is that he is the “good guy” in this election, which he describes as a “battle for the soul of the nation."
-    publishedDateTime: 2020-10-21T16:45:00Z
-    webUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him"
-    ampWebUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "What we need to hear from Biden at the debate"
-    excerpt: "I listed questions that President Trump should have to answer for each of the debate topics listed, except for covid-19, since it was already a topic in the first debate. Now, here are the questions Biden should address: If you add a public option to the Affordable Care Act,"
-    publishedDateTime: 2020-10-21T12:01:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/21/what-we-need-hear-biden-debate/?outputType=amp"
+  - title: "The tricky politics of court-packing for Joe Biden"
+    excerpt: "Biden repeated Thursday night that he is not a fan of court-packing, yet he sounded more open to it than ever before."
+    publishedDateTime: 2020-10-16T14:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FRLZVLQSMYI6XISYMFFM6K4QNU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYTYA7X63EI6VNKVJVY2SJKPJM.jpg&w=1440"
         width: 1440
-        height: 810
+        height: 960
         isCached: true
-  - title: "Biden endorses Democratic challenger in Texas House district"
-    excerpt: "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas."
-    publishedDateTime: 2020-10-21T19:20:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
+  - title: "On Joe Biden can provide the fact-based policymaking we desperately need"
+    excerpt: "Despite the cacophony and disinformation flying around this appalling campaign season, the candidates’ positions on the economy are actually fairly clear."
+    publishedDateTime: 2020-10-16T19:30:00Z
+    webUrl: "https://thehill.com/opinion/campaign/521383-on-joe-biden-can-provide-the-fact-based-policymaking-we-desperately-need"
+    ampWebUrl: "https://thehill.com/opinion/campaign/521383-on-joe-biden-can-provide-the-fact-based-policymaking-we-desperately-need?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521383-on-joe-biden-can-provide-the-fact-based-policymaking-we-desperately-need?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "George Floyd's sister says Biden is 'the change that we need' in new campaign ad"
-    excerpt: "The Democratic presidential nominee released the ad on what would have been George Floyd's 47th birthday, in an appeal to Black voters."
-    publishedDateTime: 2020-10-14T18:44:00Z
-    webUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
+  - title: "Biden and Democrats raised record $383 million in Sept for White House bid"
+    excerpt: "Democratic presidential nominee Joe Biden and his party raised a record-shattering $383 million in September for his presidential bid, likely bolstering his financial advantage over President Donald Trump ahead of the Nov."
+    publishedDateTime: 2020-10-15T02:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-fundraising/biden-and-democrats-raised-record-383-million-in-sept-for-white-house-bid-idUSKBN27004S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27004S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27004S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537515404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E033"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden reaches out to Catholics like himself, embracing a key group in big 2020 states"
+    excerpt: "President Trump has maligned Biden’s faith, but Biden is seeking to firm up a connection that reverberates in the upper Midwest and the Sun Belt while avoiding religious overtones in the Supreme Court nomination fight."
+    publishedDateTime: 2020-10-14T01:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ACMVNGALCYI6XG7GZ4S7WQU7DI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Goldman's chief economist breaks down why a Biden-led blue wave would prompt an upgrade in growth forecasts"
+    excerpt: "Longer-term economic growth forecasts would be lifted by spending increases on infrastructure, climate, healthcare, and education, Goldman said."
+    publishedDateTime: 2020-10-05T16:37:00Z
+    webUrl: "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 120
+    quality: 107
     images:
-      - url: "https://i.insider.com/5f871fa52a400c0019deba3a?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
+      - url: "https://i.insider.com/5f7b3e7494fce90018f7b152?format=jpeg"
+        width: 2886
+        height: 1443
         isCached: true
-  - title: "Georgetown University report finds Joe Biden's free public college plan would pay off within 10 years"
-    excerpt: "To address such concerns, Democratic nominees former Vice President Joe Biden and Senator Kamala Harris have proposed a lengthy education plan that includes an eye-catching proposal: tuition-free public college for all families with incomes below $125,"
-    publishedDateTime: 2020-10-14T14:17:00Z
-    webUrl: "https://www.cnbc.com/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
+  - title: "Examining Joe Biden's Record On Race: 1994 Crime Bill Sponsorship"
+    excerpt: "In the second part of a series on former Vice President Joe Biden's record on race, NPR's Steve Inskeep examines the long-term consequences of his sponsorship of the 1994 Crime Bill."
+    publishedDateTime: 2020-10-13T09:05:00Z
+    webUrl: "https://www.npr.org/2020/10/13/923170325/examining-joe-bidens-record-on-race-1994-crime-bill-sponsorship"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 110
+      name: NPR
+      domain: npr.org
+    quality: 105
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106742672-1602619695489-Former_Vice_President_and_presidential_nominee_Joe_Biden.jpg?v=1602619788"
-        width: 2000
-        height: 1333
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
-  - title: "Joe Biden speaks on health care in Michigan"
-    excerpt: "Watch \"Joe Biden speaks on health care in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-16T20:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201016200018-joe-biden-speaks-on-health-care-in-michigan/"
+  - title: "Biden faces voters' questions during town hall"
+    excerpt: "Democratic presidential nominee Joe Biden is back on the campaign trail after facing tough questions on issues including the COVID-19 pandemic and the Supreme Court in a televised town hall last night."
+    publishedDateTime: 2020-10-16T18:29:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-voter-questions-town-hall-covid-supreme-court/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07294060_1602880564.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden prepares for final debate as Obama hits the campaign trail"
-    excerpt: "Democratic nominee Joe Biden has no public events scheduled Wednesday as he prepares for Thursday's second and final presidential debate. Meanwhile, former President Barack Obama will make his first in-person campaign appearance on Biden's behalf in Philadelphia."
-    publishedDateTime: 2020-10-21T15:43:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-campaign-prepare-debate-obama-philadelphia/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/21/a429cbc0-5775-483b-87d7-24f0a697b41d/thumbnail/1200x630/e72afb088e1d6bd07f186c30bf1ae09c/cbsn-fusion-joe-biden-takes-break-from-campaign-trail-to-prepare-for-last-debate-before-election-thumbnail-571471-640x360.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/16/9e09baf2-69d3-4666-86a4-cb3eaa8ead88/thumbnail/1200x630/4d81d2ae682b8536e03b5acfb35cc04b/cbsn-fusion-biden-back-on-campaign-trail-after-facing-tough-voter-questions-during-town-hall-thumbnail-567322-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Insiders at the NY Post are griping about the Hunter Biden coverage, highlighting a political divide in the tabloid newsroom"
-    excerpt: "The publication of the story so close to the election quickly stirred questions and conspiracy theories among some Post rank-and-file."
-    publishedDateTime: 2020-10-16T23:49:00Z
-    webUrl: "https://www.businessinsider.com/ny-post-insiders-gripe-about-biden-coverage-2020-10"
+  - title: "Democratic presidential nominee Joe Biden takes questions from voters at ABC town hall"
+    excerpt: "Joe Biden defended his record amid a wide variety of questions during his town hall on ABC. Ed O'Keefe reports."
+    publishedDateTime: 2020-10-16T12:41:00Z
+    webUrl: "https://www.cbsnews.com/video/democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
     images:
-      - url: "https://i.insider.com/5f8a00499e9fe40019009e3b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Harry Dunn death: Mum appeals to US candidate Joe Biden"
-    excerpt: "The mother of Harry Dunn has called on the US presidential candidate Joe Biden to help bring her son's alleged killer to justice if he wins the election. Charlotte Charles's 19-year-old son was killed when his motorbike and a car driven by American Anne Sacoolas crashed outside a US military base."
-    publishedDateTime: 2020-10-18T12:44:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-england-northamptonshire-54589802?intlink_from_url=&link_location=live-reporting-story"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-england-northamptonshire-54589802"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-england-northamptonshire-54589802"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6A72/production/_109205272_harry_dunn.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg"
-    excerpt: "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay."
-    publishedDateTime: 2020-10-13T22:05:00Z
-    webUrl: "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/"
-    ampWebUrl: "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 71
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2020/10/OCR-L-VIRUS-CLIMATECHANGE-0403-02-1.jpg?w=1024&h=662"
-        width: 1024
-        height: 662
-        isCached: true
-  - title: "Massachusetts Gov. Charlie Baker floated as possible Cabinet member for Joe Biden"
-    excerpt: "Baker finds himself among a handful of Republicans currently under consideration for Cabinet posts should Biden beat Trump."
-    publishedDateTime: 2020-10-20T20:42:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 70
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SCABQQT6OZCHVNUUEPFM2KFSZM.JPG"
-        width: 3000
-        height: 2187
-        isCached: true
-  - title: "Joe Biden takes question on milkshake flavors, scurries away after Hunter Biden inquiry"
-    excerpt: "Democratic presidential nominee Joe Biden was ready and willing to talk about his favorite milkshake flavors this weekend until the subject turned to his son Hunter."
-    publishedDateTime: 2020-10-19T19:13:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 67
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/Election_2020_Biden_70752.jpg-301da_c0-0-5329-3108_s1200x700.jpg?5e87b37174222647cce88ce9da594e5f12880f5c"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/7da6feff-35ad-459e-a4f3-719d800900f6/thumbnail/1200x630/0ee680c81d086467d3596858c2b98876/cbsn-fusion-democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall-thumbnail-567096-640x360.jpg"
         width: 1200
-        height: 700
+        height: 630
         isCached: true
-  - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
-    excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
-    publishedDateTime: 2020-10-16T13:52:00Z
-    webUrl: "https://www.washingtonian.com/2020/10/16/tj-ducklo-32-joe-bidens-press-secretary-and-he-has-stage-4-cancer/"
+  - title: "Joe Biden’s contradictory statements show he’s not being honest with voters"
+    excerpt: "Joe Biden is not up for the job and is anything but a model of integrity, writes Marcia S. Hanzal of Avon in a letter to the editor."
+    publishedDateTime: 2020-10-16T15:23:00Z
+    webUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html"
+    ampWebUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
     type: article
     provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 55
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 73
     images:
-      - url: "https://www.washingtonian.com/wp-content/uploads/2020/10/20200226_winyaindigosociety_charleston_sc_0003-1024x681.jpg"
-        width: 1024
-        height: 681
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RKTVKHVIOJGHRNG2YQIQHIHO7A.jpg"
+        width: 5220
+        height: 2715
         isCached: true
-  - title: "The greatest risk for a Biden administration"
-    excerpt: "The greatest risk for a possible Biden administration and Democratic majority is not attacking these disasters aggressively enough. Big problems call for big solutions — and if the problems are not fixed,"
-    publishedDateTime: 2020-10-21T09:48:00Z
-    webUrl: "https://theweek.com/articles/944800/greatest-risk-biden-administration"
+  - title: "Editorial: Joe Biden's leadership would benefit our country"
+    excerpt: "A Biden administration has an opportunity to demonstrate that the presidency can be — should be — about more than the chief executive’s vanity or need for constant attention."
+    publishedDateTime: 2020-10-11T11:14:00Z
+    webUrl: "https://omaha.com/opinion/editorial/editorial-joe-bidens-leadership-would-benefit-our-country/article_48cd10a0-0314-5bb3-adff-48779fe262cd.html"
     type: article
     provider:
-      name: THE WEEK
-      domain: theweek.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 55
     images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/biden_go_big.jpg?itok=0cFJOnsA"
-        width: 1260
-        height: 560
-        isCached: true
-  - title: "Twitter erupts over Sam Elliott TV ad for Joe Biden during World Series"
-    excerpt: "Actor Sam Elliott lent his voice to a Joe Biden campaign video that aired during the World Series Tuesday and became a Twitter magnet. See the ad and responses to"
-    publishedDateTime: 2020-10-21T03:45:00Z
-    webUrl: "https://tulsaworld.com/article_0346b718-cd6f-56a1-b748-63e502647644.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/34/0346b718-cd6f-56a1-b748-63e502647644/5f8facfc3043c.preview.jpg?crop=1763%2C992%2C0%2C92&resize=1120%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/8c/48cd10a0-0314-5bb3-adff-48779fe262cd/5f80b9709c912.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
         isCached: true
-  - title: "What you need to know about Joe Biden's tax plan"
-    excerpt: "In general, Biden is proposing to raise taxes on the wealthy and on corporations by reversing some of the Republican-backed tax cuts that President Donald Trump signed into law in"
-    publishedDateTime: 2020-10-21T02:00:00Z
-    webUrl: "https://www.wdrb.com/news/national/what-you-need-to-know-about-joe-bidens-tax-plan/article_28451f8c-1341-11eb-a401-472a556b662e.html"
+  - title: "Joe Biden raises record $383 million in September"
+    excerpt: "The haul, announced Wednesday night, leaves him with $432 million in the bank just weeks before the Nov. 3 election."
+    publishedDateTime: 2020-10-15T05:25:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/?outputType=amp"
     type: article
     provider:
-      name: WDRB
-      domain: wdrb.com
+      name: The Boston Globe
+      domain: bostonglobe.com
     quality: 55
+  - title: "Bernie Sanders Is Working to Turn Out Young Voters—Even if Biden Keeps Bashing Socialism"
+    excerpt: "On Monday, Sanders traveled to Michigan to stump on Joe Biden’s behalf, devoting his remarks to assuring young voters who may be skeptical of Biden that the former vice president would be “the ..."
+    publishedDateTime: 2020-10-08T00:01:00Z
+    webUrl: "https://www.motherjones.com/2020-elections/2020/10/bernie-sanders-joe-biden-youth-vote/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 46
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/a/d7/ad7f1080-1180-11eb-8b8e-f385863a0ff6/5f8ca5c0e104f.image.jpg?resize=946%2C630"
-        width: 946
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/AP20280001097703.jpg?w=1200&h=630&crop=1"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Charlie Baker Reportedly Under Consideration For Potential Joe Biden Cabinet Position"
-    excerpt: "Massachusetts Republican Gov. Charlie Baker is reportedly being considered for a spot in a potential Joe Biden cabinet."
-    publishedDateTime: 2020-10-21T01:11:00Z
-    webUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/"
-    ampWebUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
-    type: article
-    provider:
-      name: CBS Boston
-      domain: cbslocal.com
-    quality: 48
-  - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
-    excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
-    publishedDateTime: 2020-10-20T00:32:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3668502001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3668502001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 41
-  - title: "Joe Biden Campaigns in Durham, NC"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham, NC, where early voting is already underway. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham,"
-    publishedDateTime: 2020-10-17T11:10:00Z
-    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-nc"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "DDNL2R33gE25QfGwO7X8vP9pRZengEvLgRYoorSv/MvfLMtk3/meZvUwovoiH6eBIKi0WNzP5X0dulSO3oHaVOwpReO5ELiz67vnyXHEogLKz7oSHhQxSGfJNAq/DU+CS+aF2GupAwTqA1QQ0EXh8BjW/iYOMR/ZHp5yOWiXss67qwXaUlE3WN59jz9vPpH6trSQxlzKPGkqrI4KlY9Kqoo9K9UY3HX67NcwHt0wrS8ktpFlFkqpKtFVIa5fNosTqmYKj2nIfP1kGIJsp46RsgzJ+t+E94OW/PXHaIWiDKZDMKlwiJMxPMonimU8G8LjDaqaj8IwiT35Rr4MwG10sJj0bjWHZ9KQcYDRIYZd5R0=;aF5C0/RDrTq37Y/TdoaQOA=="
 ---

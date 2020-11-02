@@ -31,213 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he did not discuss election with court nominee Barrett"
-    excerpt: "U.S. President Donald Trump said on Sunday he hopes his Supreme Court nominee Amy Coney Barrett is paying attention to the issue of mail-in ballot security but said he did not discuss the upcoming U.S."
-    publishedDateTime: 2020-09-27T23:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I128"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I128"
+  - title: "Trump Campaign Says Biden Lacks 'Firsthand Experience' of Being Infected With COVID-19"
+    excerpt: "\"Those firsthand experiences are what are going to get President Trump four more years,\" Trump campaign spokesperson Erin Perrine told Fox News on Monday."
+    publishedDateTime: 2020-10-05T17:34:00Z
+    webUrl: "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440"
+    ampWebUrl: "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1646101/erin-perrnie.png"
+        width: 2560
+        height: 1600
+        isCached: true
+  - title: "Donald and Melania Trump showing 'mild' Covid symptoms as Joe and Jill Biden test negative – live"
+    excerpt: "White House confirms president has mild symptoms, while Biden campaign confirms Democratic nominee and his wife, Jill Biden, tested negative"
+    publishedDateTime: 2020-10-02T17:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f7759718f080b5d569e31c5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
+    images:
+      - url: "https://i.guim.co.uk/img/media/f78cc710812578b72c2fc54f125bf12d5253baaa/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b504a8e21fed6a4594d4cbb1edeccd7"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden, in change, speaks with mask on at campaign event"
+    excerpt: "When Joe Biden delivered remarks in Michigan on Friday, there was one major difference from his previous speeches: He spoke with a mask the entire time. Biden usually removes his mask before making remarks during campaign events or as he did earlier this week in a presidential debate."
+    publishedDateTime: 2020-10-02T22:32:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519408-biden-in-change-speaks-with-mask-on-at-campaign-event"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519408-biden-in-change-speaks-with-mask-on-at-campaign-event?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519408-biden-in-change-speaks-with-mask-on-at-campaign-event?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden to hit the campaign trail after negative test for COVID-19"
+    excerpt: "Democratic presidential candidate Joe Biden plans to head to the battleground state of Michigan and resume campaigning on Friday after testing negative for coronavirus, hours after President Donald Trump was sidelined by contracting the virus."
+    publishedDateTime: 2020-10-02T18:58:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idCAKBN26N2UZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN26N2UZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN26N2UZ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 140
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535128732&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0RE"
-        width: 838
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535923179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9120S"
+        width: 900
         height: 545
         isCached: true
-  - title: "Trump Positive Covid Test Upends Key Reelection Arguments Shortly Before Election"
-    excerpt: "Trump has frequently claimed the pandemic is in its final stages and that the economy is surging, but his diagnosis and its aftermath contradict both claims."
-    publishedDateTime: 2020-10-02T09:48:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/02/trump-positive-covid-test-upends-key-reelection-arguments-shortly-before-election/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/02/trump-positive-covid-test-upends-key-reelection-arguments-shortly-before-election/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/02/trump-positive-covid-test-upends-key-reelection-arguments-shortly-before-election/amp/"
+  - title: "Joe and Jill Biden test negative for COVID-19, doctor says"
+    excerpt: "Joe and Jill Biden tested negative for coronavirus Friday morning, after President Trump and First Lady Melania Trump tested positive."
+    publishedDateTime: 2020-10-02T17:46:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-test-negative-for-covid-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 135
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76f017c1898c6631453cfd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4988%26cropY1%3D442%26cropY2%3D3248"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Some in China are worrying Trump will start a war to win reelection, US-China expert says"
-    excerpt: "US allies don't trust China, but they also don't like Trump's unilateral approach, according to Michael Green, a former NSC senior director for Asia."
-    publishedDateTime: 2020-09-25T13:16:00Z
-    webUrl: "https://www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-worries-trump-starting-war-to-win-election-expert-says-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 131
-    images:
-      - url: "https://i.insider.com/5dd6f8cffd9db2191b20d696?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Barrett must recuse from 2020 election cases, shield Supreme Court from Trump corruption"
-    excerpt: "Barrett will be a fine justice. But Trump has had a corrupting influence on Congress and she'd put the court on a similar path if she rules on his fate."
-    publishedDateTime: 2020-10-12T07:29:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/12/barrett-protect-supreme-court-recuse-2020-election-cases-column/5915556002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5915556002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5915556002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'I hope it's a fair election': Trump won't commit to not declaring election win prematurely"
-    excerpt: "President Donald Trump also said he would challenge an election dispute about mail ballots to the Supreme Court."
-    publishedDateTime: 2020-09-30T15:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-trump-wont-commit-not-claiming-premature-win/3584421001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3584421001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3584421001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/37cbe3b4-7723-43c6-be0d-80b4491682d5-donald_trump.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump keeps hinting he may reject the election results. Is his true goal an immunity deal?"
-    excerpt: "By putting his peaceful departure into question, Trump may succeed in making it a bargaining chip he can trade in for protection from prosecution."
-    publishedDateTime: 2020-10-01T07:22:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/01/donald-trump-peaceful-departure-immunity-from-prosecution-column/3573454001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3573454001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3573454001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/d9074626-c4e0-4794-a818-5deb00ce9d9c-GTY_1157608706.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "1,600 former Justice Department lawyers accuse Barr of using DOJ to help Trump in election"
-    excerpt: "In an open letter, former Justice Department attorneys expressed concerns Thursday that Attorney General William Barr is using the power of the agency to help Trump win reelection."
-    publishedDateTime: 2020-10-01T19:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/william-barr-accused-1-600-lawyers-using-doj-help-trump-win/5881731002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5881731002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5881731002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/14/USAT/4cdbac47-f1cd-4959-af61-e40d133acfb0-AFP_AFP_8PL9ZC.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bio highlights of Amy Coney Barrett, Trump's high court pick"
-    excerpt: "Here are some biographical details on Amy Coney Barrett, nominated by President Donald Trump for the U.S. Supreme Court"
-    publishedDateTime: 2020-09-27T06:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bio-highlights-amy-coney-barrett-trumps-high-court-73265760"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e24b29958b714f1cad4500725db55417_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/02/061d0c26-d4db-4165-9a46-4fdd228be443/thumbnail/1200x630/fdffb3a33dc359e38ea3e1f25c784e06/gettyimages-1277616091-1.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "President Trump nominates Amy Coney Barrett for Supreme Court seat"
-    excerpt: "A week and a day after Justice Ruth Bader Ginsburg’s death, President Trump nominated a replacement for the iconic jurist."
-    publishedDateTime: 2020-09-27T08:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-nominates-amy-coney-barrett-supreme-court/story?id=73247654"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-amy-coney-barrett-01-gty-jt-200926_1601155308187_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump caps judiciary remake with choice of Barrett for court"
-    excerpt: "President Donald Trump is capping a dramatic reshaping of the federal judiciary with another Supreme Court nomination"
-    publishedDateTime: 2020-09-27T06:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-caps-judiciary-remake-choice-barrett-court-73270993"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-caps-judiciary-remake-choice-barrett-court-73270993"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-caps-judiciary-remake-choice-barrett-court-73270993"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ce1b557035fb465eb649c382a37d1eeb_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump Nominates Amy Coney Barrett To Supreme Court"
-    excerpt: "Barrett already faces opposition from Democrats about ties to a controversial religious group and record on abortion."
-    publishedDateTime: 2020-09-26T21:10:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/09/26/trump-nominates-amy-coney-barrett-to-supreme-court/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/09/26/trump-nominates-amy-coney-barrett-to-supreme-court/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/09/26/trump-nominates-amy-coney-barrett-to-supreme-court/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/trim/0x166:4000x2417/fit-in/711x400/smart/https://specials-images.forbesimg.com/imageserve/5f6fb11614395e9675471acb/0x0.jpg"
-        width: 711
-        height: 400
-        isCached: true
-  - title: "Donald Trump's Tax Returns Raise Deutsche Bank Loan Questions"
-    excerpt: "Revelations about the president's taxes have raised serious questions about decisions made at one of the world's largest banks."
-    publishedDateTime: 2020-09-28T09:10:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-tax-returns-deutsche-bank-loan-questions-1534533"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-tax-returns-deutsche-bank-loan-questions-1534533?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tax-returns-deutsche-bank-loan-questions-1534533?amp=1"
+  - title: "Kim Jong Un Wishes Donald Trump a Speedy Recovery From COVID-19"
+    excerpt: "Kim Jong Un \"offered his sympathy to the president and the first lady\" while saying \"they will surely overcome it\" on Friday night."
+    publishedDateTime: 2020-10-02T23:13:00Z
+    webUrl: "https://www.newsweek.com/kim-jong-un-wishes-donald-trump-speedy-recovery-covid-19-1536125"
+    ampWebUrl: "https://www.newsweek.com/kim-jong-un-wishes-donald-trump-speedy-recovery-covid-19-1536125?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kim-jong-un-wishes-donald-trump-speedy-recovery-covid-19-1536125?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1642146/donald-trump-speaks-during-news-conference.jpg"
-        width: 1024
-        height: 683
+      - url: "https://d.newsweek.com/en/full/1645698/trump-kim.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump the disrupter has lost his novelty"
-    excerpt: "When political newcomer Donald Trump joined a stage full of other Republican candidates in August 2015 for the first presidential primary debate of the 2016 cycle, it was widely predicted that while Trump had been an entertaining diversion,"
-    publishedDateTime: 2020-09-30T09:08:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/30/trump-disrupter-has-lost-his-novelty/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/30/trump-disrupter-has-lost-his-novelty/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/30/trump-disrupter-has-lost-his-novelty/?outputType=amp"
+  - title: "What Trump's COVID-19 diagnosis could mean for his campaign"
+    excerpt: "All previously announced campaign events involving the president’s participation are in the process of being moved to virtual events or are being temporarily postponed."
+    publishedDateTime: 2020-10-03T03:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-campaign-events-virtual-postponed-election-strategy-uncertain/story?id=73387105"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-campaign-events-virtual-postponed-election-strategy-uncertain/story?id=73387105"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-campaign-events-virtual-postponed-election-strategy-uncertain/story?id=73387105"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NF5N6OQCZQI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Video/trump-duluth-ap-rc-201002_1601644038745_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump says next days of COVID-19 treatment will be 'real test'"
     excerpt: "President Donald Trump said in a video from his hospital room on Saturday that he felt \"much better\" and hoped to be \"back soon,\" after a day of contradictory messages from the White House about his condition following his COVID-19 diagnosis."
@@ -271,131 +175,131 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Some textbooks still parrot Donald Trump’s skewed version of U.S. history"
-    excerpt: "Last week, he even held a conference on U.S. history assailing “decades of left-wing indoctrination in our schools” and intending to launch a commission to promote “pro-American curriculum that celebrates the truth about our nation’s great history."
-    publishedDateTime: 2020-09-24T10:57:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/24/some-textbooks-still-parrot-donald-trumps-skewed-version-american-history/?outputType=amp"
+  - title: "Biden again tests negative for COVID-19"
+    excerpt: "Democratic nominee Joe Biden tested negative for COVID-19 on Sunday, his campaign said. Biden was administered a PCR test for the virus, his campaign said, and COVID-19 was not detected. It marked the second time Biden has tested negative since President Trump revealed early Friday morning that he had the virus."
+    publishedDateTime: 2020-10-04T23:40:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MCZMLOHZFYI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://thehill.com/sites/default/files/bidenjoe_093020upi_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Donald Trump says he'll 'probably' announce Supreme Court pick by Saturday"
-    excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
-    publishedDateTime: 2020-09-21T23:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Uses Curve Gesture While Saying He'll Nominate a Woman to Supreme Court"
-    excerpt: "President Donald Trump said Saturday that he will \"most likely\" nominate a woman as his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg—but it's a hand gesture he made that drew his critics to accuse him of misogyny."
-    publishedDateTime: 2020-09-20T14:49:00Z
-    webUrl: "https://www.newsweek.com/trump-uses-curve-gesture-while-saying-hell-nominate-woman-supreme-court-1533141"
-    ampWebUrl: "https://www.newsweek.com/trump-uses-curve-gesture-while-saying-hell-nominate-woman-supreme-court-1533141?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-uses-curve-gesture-while-saying-hell-nominate-woman-supreme-court-1533141?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1639433/donald-trump-curve-hand-woman.jpg"
-        width: 987
-        height: 594
-        isCached: true
-  - title: "Trump: 'Very close' to Supreme Court decision, will announce nominee Saturday"
-    excerpt: "President Trump said Tuesday he’s \"very close\" to making a decision on a Supreme Court nominee and will announce his pick on Saturday."
-    publishedDateTime: 2020-09-22T22:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-close-supreme-court-decision-announce-nominee-saturday/story?id=73176232"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 122
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-rally-gty-jt-200922_1600810721682_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump plans to nominate conservative judge Amy Coney Barrett to Supreme Court"
-    excerpt: "President Donald Trump plans to announce conservative federal appeals court judge Amy Coney Barrett on Saturday as his Supreme Court nominee, two sources said on Friday, as he moves to shift it further to the right and sets up a heated Senate confirmation fight with"
-    publishedDateTime: 2020-09-26T08:16:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-ginsburg-barrett-idUSKCN26H05G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26H05G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26H05G"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1534989327&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8P02Y"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Nancy Pelosi won't rule out impeachment to block a Trump Supreme Court nominee"
-    excerpt: "With President Trump expected to nominate a Supreme Court pick sometime this week, Pelosi is considering ways to prevent a vote on the nomination."
-    publishedDateTime: 2020-09-20T18:08:00Z
-    webUrl: "https://www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-ruth-bader-ginsburg-supreme-court-democrats-trump-impeachment-2020-9?amp"
+  - title: "Joe Biden again tests negative for COVID-19"
+    excerpt: "Former Vice President Joe Biden's campaign said the Democratic candidate underwent testing on Sunday."
+    publishedDateTime: 2020-10-05T00:08:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-again-tests-negative-for-covid-19-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-again-tests-negative-for-covid-19-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-again-tests-negative-for-covid-19-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 121
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f678b1657b7da001ee12a91?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f7a6127282c500018c787ec?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump intends to nominate Judge Amy Coney Barrett to Supreme Court, CNN reports"
-    excerpt: "President Donald Trump intends to nominate conservative federal appeals court judge Amy Coney Barrett to fill the vacancy on the U.S. Supreme Court following the death of Justice Ruth Bader Ginsburg,"
-    publishedDateTime: 2020-09-25T23:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg-barrett-idUSKCN26G31M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G31M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G31M"
+  - title: "Joe Biden tests negative for COVID-19, campaign says"
+    excerpt: "Joe Biden’s campaign says the Democratic presidential nominee tested negative for coronavirus Sunday. The results come five days after Biden spent more than 90 minutes on the debate stage with President Donald Trump."
+    publishedDateTime: 2020-10-04T23:53:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_1Du1qOnOZwbyj80OVwdjArXzeQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RPYUJKXZFTSF7M2SXL4AX7ON74.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump steroid treatment for COVID-19 raises potential side effect risk"
+    excerpt: "U.S. President Donald Trump is being treated for COVID-19 with a steroid that is recommended for severe cases of the illness and that comes with risks of serious side effects, including mood swings, aggression and confusion."
+    publishedDateTime: 2020-10-06T08:20:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-steroid-idINKBN26R06W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26R06W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26R06W"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 121
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534972792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O1YJ"
-        width: 819
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536259936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941UE"
+        width: 785
         height: 545
         isCached: true
-  - title: "'This is all about your healthcare': Biden says Trump nominated Amy Coney Barrett to end Affordable Care Act"
-    excerpt: "Biden decried Trump nominating Barrett \"before Justice Ginsburg could be laid to rest\" and after hundreds of thousands of Americans already voted."
-    publishedDateTime: 2020-09-27T21:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/27/biden-amy-coney-barrett-nomination-affordable-care-act/3555305001/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/3555305001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3555305001"
+  - title: "What you need to know about the COVID-19 cocktail Trump is raving about"
+    excerpt: "Regeneron's stock has soared 60% this year, while its CEO has been a member of one of the president's golf clubs."
+    publishedDateTime: 2020-10-09T21:06:00Z
+    webUrl: "https://www.cbsnews.com/news/what-is-regeneron-covid-antibody-cocktail-trump-covid-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/what-is-regeneron-covid-antibody-cocktail-trump-covid-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/what-is-regeneron-covid-antibody-cocktail-trump-covid-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/08/451bddff-be48-47a4-8918-5a25abc93bb1/thumbnail/1200x630/a73a8edcb18486baeeec90522562161c/cbsn-fusion-doctor-president-trump-calling-regeneron-therapeutic-drug-cure-for-coronavirus-thumbnail-562227-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump heads to Sanford, Florida for first rally since COVID-19 diagnosis; Biden calls trip 'reckless'"
+    excerpt: "Trump's Florida rally, which will be followed this week by events in Pennsylvania and Iowa, takes place amid continuing questions about his health."
+    publishedDateTime: 2020-10-12T23:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/12/trump-holds-sanford-florida-rally-first-since-covid-19-diagnosis/5966416002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5966416002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966416002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 121
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/d583c4c2-503d-4ac8-bfe4-1e7b11d3407f-AP_Election_2020_Biden_2.jpg?auto=webp&crop=2184,1229,x1,y83&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/0fb68168-57af-47e5-bbac-508549df02ad-Trump_Sanford_3.jpg?auto=webp&crop=5020,2824,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Twitter flags Trump tweet for violating its rules on COVID-19 information"
+    excerpt: "Twitter on Sunday flagged a tweet by Donald Trump in which the U.S. President claimed he was immune to the coronavirus, saying it violated the social media platform's rules about misleading information related to COVID-19."
+    publishedDateTime: 2020-10-12T04:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-twitter/update-1-twitter-flags-trump-tweet-for-violating-its-rules-on-covid-19-information-idUSL1N2H207Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0TI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0TI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537066206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A0KI"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump's doctor says he's no longer a risk for transmitting COVID-19 to others"
+    excerpt: "President Donald Trump's physician said Trump is not a \"transmission risk to others\" in a memo released after he held his first public event."
+    publishedDateTime: 2020-10-11T02:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/10/trump-not-risk-transmitting-covid-19-dr-conley-says/5958045002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5958045002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5958045002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -415,132 +319,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump says he will ‘always’ protect those with preexisting conditions. He hasn’t."
-    excerpt: "In speeches, in tweets, in media interviews, President Donald Trump keeps promising that he will preserve protections for Americans with preexisting health conditions. It’s a crowd-pleaser of a policy,"
-    publishedDateTime: 2020-09-24T15:29:00Z
-    webUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-trump-pre-existing-conditions-obamacare-20200924-wczjljigrvgtvduyqawwi4g274-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 120
-    images:
-      - url: "https://www.chicagotribune.com/resizer/FbcSB6ccAaTvlWkOiUdvDGiAzSw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CGUIVXLNDNH43IC7AHZRZU6WUY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Instant View: Reaction to Trump plan to pick Amy Coney Barrett for Supreme Court"
-    excerpt: "President Donald Trump on Saturday will name conservative federal appeals court judge Amy Coney Barrett to fill the vacancy on the U.S. Supreme Court following the death of Justice Ruth Bader Ginsburg,"
-    publishedDateTime: 2020-09-26T08:20:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-court-ginsburg-barrett-instantvie-idUKKCN26H02H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN26H02H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN26H02H"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1534989634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8P017"
-        width: 776
-        height: 545
-        isCached: true
-  - title: "It's official: Trump nominates Amy Coney Barrett of South Bend for Supreme Court"
-    excerpt: "President Donald Trump nominated Judge Amy Coney Barrett to fill Justice Ruth Bader Ginsburg's seat on the U.S. Supreme Court."
-    publishedDateTime: 2020-09-27T15:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/26/amy-coney-barrett-donald-trump-pick-us-supreme-court/3494905001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3494905001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3494905001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/26/PIND/7cda7ea8-4aaf-48fd-aaff-23767e274db1-AP20270769446482.jpg?auto=webp&crop=5785,3254,x1,y195&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Election 2020 Today: Barrett hearings, Trump's road trek"
-    excerpt: "Supreme Court nominee Amy Coney Barrett returns to Capitol Hill for a third day of confirmation hearings by the Senate Judiciary Committee"
-    publishedDateTime: 2020-10-14T13:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-barrett-hearings-trumps-road-trek-73604547"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a2da9a643e3a48f7b79d88551722c6f0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
-    excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
-    publishedDateTime: 2020-09-21T20:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-says-likely-announce-pick-friday-saturday/5844276002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5844276002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844276002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump met with Supreme Court frontrunner Amy Coney Barrett at White House on Monday"
-    excerpt: "Trump has said he will announce his Supreme Court pick at the end of this week, after memorial services for the late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-22T01:01:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/21/supreme-court-trump-meets-amy-coney-barrett-white-house/5859016002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5859016002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5859016002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/965fa8fcf99a2ad2b13754fffe3245918eb7b6b3/c=0-216-5188-3147/local/-/media/2018/07/09/USATODAY/USATODAY/636667468355546579-20180223-185916-NDD-5572.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Factbox: Notable legal opinions of Trump's planned U.S. Supreme Court pick Barrett"
-    excerpt: "Amy Coney Barrett, who President Donald Trump plans to pick for a lifetime job on the U.S. Supreme Court, has served as a federal appeals court judge since 2017 and has weighed in on cases involving several hot-button issues including abortion,"
-    publishedDateTime: 2020-09-26T04:24:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-barrett-rulings-factbox-idUSKCN26H05D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26H05D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26H05D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1534989322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8P02P"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "After Donald Trump nominates Amy Coney Barrett, Senate now must ask these questions"
-    excerpt: "A Supreme Court confirmation fight just 38 days from a presidential election, after denying Merrick Garland hearings in 2016, harms America."
-    publishedDateTime: 2020-09-26T23:17:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/26/trump-nominates-amy-coney-barrett-questions-senate-editorials-debates/3532487001/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/3532487001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3532487001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/26/USAT/1ac222a9-8977-4977-bbbb-7c793d7ad7ee-nomination_1.jpg?auto=webp&crop=2896,1629,x1,y385&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump hit with COVID-19: Anyone can get sick. Anyone can spread the deadly disease."
     excerpt: "As we surge towards a quarter-million COVID-19 deaths, some Americans believe prevention strategies like masks are not worth it. They're wrong."
     publishedDateTime: 2020-10-02T21:36:00Z
@@ -557,241 +335,145 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Pelosi on possible second Trump impeachment in lame duck session — ‘We have our options’"
-    excerpt: "House Speaker Nancy Pelosi on Sunday did not rule out impeaching President Trump or Attorney General William Barr if the Senate tries to push through a Supreme Court nomination during a lame-duck session if Joe Biden wins the November election."
-    publishedDateTime: 2020-09-20T21:46:00Z
-    webUrl: "https://www.cnbc.com/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/20/pelosi-on-possible-second-trump-impeachment-we-have-our-options.html"
+  - title: "On President Donald Trump and COVID-19, just tell the truth to the American people"
+    excerpt: "Dr. Sean Conley says he'd 'rather not' disclose specifics on Donald Trump. Dr. Conley, the American people would rather know more than less."
+    publishedDateTime: 2020-10-03T19:26:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/03/donald-trump-covid-transparency-honesty-national-security-editorials-debates/3594411001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3594411001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3594411001"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 116
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106708428-1600449385444-zan.jpg?v=1600449433"
-        width: 3000
-        height: 2000
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/e9ea8b74-8f7c-4fd9-a5b0-cfed92e8df34-trump_doctor.jpg?auto=webp&crop=5567,3131,x0,y403&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "McSally, Ducey hail Trump Supreme Court pick of Amy Coney Barrett; others have misgivings"
-    excerpt: "Sen. Kyrsten Sinema will \"carefully consider whether this nominee is professionally qualified\" and would \"uphold the rule of law,\" a spokeswoman said."
-    publishedDateTime: 2020-09-28T01:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/arizona/2020/09/26/mcsally-ducey-hail-trump-supreme-court-pick-amy-coney-barrett/3537220001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3537220001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3537220001"
+  - title: "Fact check: Photo of Trump family with face masks predates Trump’s COVID-19 diagnosis"
+    excerpt: "A post on social media features a photograph of the Trump family wearing face masks on the night of the first presidential debate on Sept 29. The post misleadingly implies the image was taken after President Donald Trump and Melania Trump tested positive for the new"
+    publishedDateTime: 2020-10-05T19:24:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-trump-family-masks-idUSKBN26Q2QT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q2QT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q2QT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536256658&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941TD"
+        width: 760
+        height: 545
+        isCached: true
+  - title: "Fact check: Trump could have been exposed to COVID-19 before Sept. 29 presidential debate"
+    excerpt: "A claim suggesting Trump caught COVID-19 from the 'left' during the Sept. 29 debate is conspiratorial with no basis in fact. We rate it false."
+    publishedDateTime: 2020-10-04T18:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/04/fact-check-trump-could-have-been-exposed-covid-19-before-debate/3608785001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3608785001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608785001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/26/USAT/d37ba6e7-fc65-40d2-b46a-5583fcf92f0c-GTY_1276846523.jpg?auto=webp&crop=3335,1876,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/6b35ef4d-e79a-4c45-aa1c-639fa321c900-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5844,3288,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Our tax system, not Trump, is the scandal. It's designed to help rich people avoid taxes."
-    excerpt: "Trump and Republicans wrote the 2017 Tax Cuts and Jobs Act. To no one’s surprise, it added more ways for the wealthy to avoid paying their fair share."
-    publishedDateTime: 2020-09-29T18:23:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/09/29/trump-tax-returns-system-intended-to-encourage-evasion-column/3571867001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3571867001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3571867001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/b7a7f2d0-eda2-4c9d-98c2-022088e168b9-AFP_AFP_1CS15Q.JPG?auto=webp&crop=3253,1830,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Senate to begin confirmation hearings for Trump's Supreme Court nominee Amy Coney Barrett"
-    excerpt: "\"Courts are not designed to solve every problem or right every wrong in our public life,\" Barrett says in her planned remarks."
-    publishedDateTime: 2020-10-12T11:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/12/amy-coney-barrett-hearing-updates-trumps-nominee-face-senators/5937558002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5937558002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937558002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Administration Slow To Approve Diversity Visas Ahead of Deadline, Despite Court Order"
-    excerpt: "The Trump administration has issued just over 1,000 diversity visas since receiving a court order earlier this month to resume issuing the documents to the tens of thousands of immigrants from underrepresented countries still waiting."
-    publishedDateTime: 2020-09-22T11:54:00Z
-    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/"
-    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/09/22/trump-administration-slow-to-approve-diversity-visas-ahead-of-deadline-despite-court-order/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 115
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f69d86b7e353074bdddc7ba%2F0x0.jpg"
-        width: 1199
-        height: 800
-        isCached: true
-  - title: "Trump announced Amy Coney Barrett as his Supreme Court pick Saturday. Here's what we know."
-    excerpt: "\"They say the biggest thing you can do (as president) is the appointment of judges, but especially the appointment of Supreme Court justices,\" Trump said Friday."
-    publishedDateTime: 2020-09-28T08:01:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/26/what-we-know-trumps-supreme-court-pick/3546199001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3546199001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3546199001"
+  - title: "Now that Trump has COVID-19, will shoppers be more compliant with mask mandates at stores?"
+    excerpt: "With President Donald Trump testing positive for COVID-19, will shoppers be more willing to mask up before heading into stores?"
+    publishedDateTime: 2020-10-02T21:29:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/10/02/trump-coronavirus-mask-mandates-consumer-compliance-resistance/5893316002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5893316002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5893316002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/eb69e2d4-d811-4488-894a-9373d66ee7d6-trumpmask.jpg?auto=webp&crop=4825,2714,x0,y240&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Pelosi says Democrats will 'use every arrow in our quiver' to block Trump's Supreme Court nominee"
-    excerpt: "House Speaker Nancy Pelosi paid tribute to the late Sunday, calling her a \"powerful, brilliant brain on the court\" in an appearance on ABC's \"This Week,\" while refusing to take another impeachment inquiry off the table in order to block President Donald Trump's upcoming nominee to the Supreme Court."
-    publishedDateTime: 2020-09-20T14:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/pelosi-demands-senate-republicans-wait-inauguration-fill-ginsburgs/story?id=73121750&ref=hvper.com"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pelosi-democrats-arrow-quiver-block-trumps-supreme-court/story?id=73121750"
+  - title: "Trump is being treated with an experimental drug cocktail for COVID-19. Here's what it is."
+    excerpt: "The White House announced Mr. Trump received a dose of Regeneron's antibody cocktail before he was transported to Walter Reed Medical Center."
+    publishedDateTime: 2020-10-02T23:07:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/02/b59722df-d9e8-4c46-8280-be603279d3ed/thumbnail/1200x630g2/2bf44e50dfde63019f9141ba8ad055d1/gettyimages-1228854672.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'This cannot be a partisan moment': Obama, Biden, and the Clintons offer prayers for Trump after he tests positive for COVID-19"
+    excerpt: "\"We wish the President and First Lady a speedy recovery,\" said Hillary Clinton, who competed against President Donald Trump in the 2016 election."
+    publishedDateTime: 2020-10-04T12:01:00Z
+    webUrl: "https://www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 112
     images:
-      - url: "https://s.abcnews.com/images/Politics/nany-pelosi-rbg-memorial-gty-jef-200920_1600611307003_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/5f77aec5282c500018c786ca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Sen. Mike Lee, who met with Trump Supreme Court pick Amy Coney Barrett, tests positive for COVID-19"
-    excerpt: "Utah, a member of the Senate Judiciary Committee, announced in a statement Friday he received a positive COVID-19 test."
-    publishedDateTime: 2020-10-02T17:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/covid-19-mike-lee-tests-positive-gop-seeks-barrett-confirmation/3590455001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3590455001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3590455001"
+  - title: "Trump claims he got COVID from Gold Star event. Evidence shows he likely was already sick by then."
+    excerpt: "The president implied he caught the coronavirus during a ceremony for fallen soldiers. It’s more likely he exposed the military families to the virus."
+    publishedDateTime: 2020-10-09T23:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/investigations/2020/10/09/trump-suggested-he-got-covid-19-gold-star-event-experts-disagree/5936784002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5936784002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5936784002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/da1ee30e-b77d-42da-909d-b6d919492ddf-GTY_1228790928.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Trump administration insists UN sanctions on Iran are restored. No, they're not, says United Nations"
-    excerpt: "Trump administration declares that UN sanctions eased against Iran as part of a nuclear accord have been reimposed. It is virtually alone in this."
-    publishedDateTime: 2020-09-20T21:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/09/19/us-says-international-sanctions-iran-back-other-nations-say-no/3477492001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3477492001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3477492001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/de93a1dd-8741-430c-b5db-d84c006770e4-AP_US_Iran_Sanctions.jpg?auto=webp&crop=4883,2747,x1,y6&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/22a8cbd7-0a07-4a86-9414-a17ecd1caed1-Gold_Star_event.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "President Donald Trump to announce Supreme Court nominee to fill Ruth Bader Ginsburg's seat on Saturday"
-    excerpt: "Trump has said he wants the Senate to vote on his nominee by Election Day, and prominent Republicans say they have the votes to confirm his pick."
-    publishedDateTime: 2020-09-22T15:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/22/ruth-bader-ginsburg-trump-announce-supreme-court-pick-saturday/5863841002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5863841002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5863841002"
+  - title: "Trump's first public address since COVID-19 diagnosis had hallmarks of a campaign event at the White House"
+    excerpt: "White House spokesman Judd Deere said the event was an \"official\" event, and \"the campaign is not involved in this.\""
+    publishedDateTime: 2020-10-10T21:23:00Z
+    webUrl: "https://www.cbsnews.com/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/10/8edbe822-2635-4cdf-83fd-290898f33e7e/thumbnail/1200x630/ceb27539b1ede26b1d98e19256853537/gettyimages-1228998575.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Utah Sen. Mitt Romney says he will vote on Trump's Supreme Court nominee if they reach the Senate floor"
-    excerpt: "Romney's announcement dealt a fatal blow to Democrats' hopes of blocking Trump from filling the Supreme Court vacancy days before the election."
-    publishedDateTime: 2020-09-22T18:50:00Z
-    webUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitt-romney-will-vote-trump-supreme-court-nominee-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5eac6e64e3c3fb1ef2603383?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump nominates Amy Coney Barrett to the Supreme Court. What happens next in Senate confirmation process"
-    excerpt: "Now that Trump has named Amy Coney Barrett as his nominee to the Supreme Court, the Senate can start its nomination process."
-    publishedDateTime: 2020-09-26T21:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/26/amy-coney-barrett-senate-begin-confirmation-process-trump-pick/3515632001/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/3515632001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3515632001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/01/24/USAT/0256b25e-6163-4600-b212-e95fee7b0cf5-AP_Trump_Supreme_Court_Contenders.jpg?auto=webp&crop=3214,1800,x0,y719&format=pjpg&width=1200"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Trump to push ahead with Supreme Court nomination amid partisan battle"
-    excerpt: "President Donald Trump on Monday prepared to push ahead with plans for his third U.S. Supreme Court nomination, which would cement a 6-3 conservative majority, as some Republicans wavered on whether to support the move weeks ahead of an election."
-    publishedDateTime: 2020-09-21T13:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-ginsburg/trump-to-push-ahead-with-supreme-court-nomination-amid-partisan-battle-idUSKCN26C1UE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26C1UE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26C1UE"
+  - title: "Democrat Biden, wife test negative for COVID-19, doctor says"
+    excerpt: "Democratic presidential candidate Joe Biden and his wife Jill have tested negative for coronavirus, their doctor said in a statement on Friday."
+    publishedDateTime: 2020-10-02T17:41:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUKKBN26N2UZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26N31K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26N31K"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Trump boasts at Pennsylvania rally that Supreme Court nominee Amy Coney Barrett will defend 'God-given rights'"
-    excerpt: "Donald Trump traveled to battleground Pennsylvania for a campaign rally after formally choosing Amy Coney Barrett as his nominee for Supreme Court."
-    publishedDateTime: 2020-09-27T01:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/26/trump-boasts-scotus-pick-barrett-defend-god-given-rights/3529669001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3529669001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3529669001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/26/PPYR/2220182a-9db3-493c-b46b-956e9ec00697-HES-DR-092620-trump-25.jpg?auto=webp&crop=2735,1539,x0,y182&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump nominates antiabortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
-    excerpt: "Barrett's addition to the court would shift the ideological balance of it sharply to the right, giving conservatives a 6-3 majority."
-    publishedDateTime: 2020-09-27T09:05:00Z
-    webUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/5f6faea274fe5b0018a8da9a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "UK PM Johnson, who had COVID, says sure Trump will be fine"
     excerpt: "British Prime Minister Boris Johnson said on Sunday he was sure U.S. President Donald Trump, who has COVID-19, would be fine and was receiving the best possible care."
     publishedDateTime: 2020-10-04T09:48:00Z
@@ -803,232 +485,222 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Trump to nominate anti-abortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
-    excerpt: "Barrett's addition to the Court would shift the ideological balance of the Court sharply to the right, giving conservatives a 6-3 majority."
-    publishedDateTime: 2020-09-25T21:54:00Z
-    webUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-to-pick-judge-amy-coney-barrett-to-replace-ginsburg-on-the-supreme-court-2020-9?amp"
+  - title: "Joe Biden makes campaign stop in Erie, Pa."
+    excerpt: "Watch \"Joe Biden makes campaign stop in Erie, Pa.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-10T22:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201011121901-joe-biden-makes-campaign-stop-in-erie-pa/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5f69220357b7da001ee12f6d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07205931_1602418924.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump is leaning toward Amy Coney Barrett as nominee to replace Ruth Bader Ginsburg on Supreme Court, GOP sources say"
-    excerpt: "While Barrett, 48, has been the front-runner for the nomination all along, the sources said she has become the sole focus of the process."
-    publishedDateTime: 2020-09-25T21:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/25/amy-coney-barrett-trumps-favorite-fill-ruth-bader-ginsburg-seat/3534900001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3534900001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3534900001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 102
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/01/24/USAT/0256b25e-6163-4600-b212-e95fee7b0cf5-AP_Trump_Supreme_Court_Contenders.jpg?auto=webp&crop=3214,1800,x0,y719&format=pjpg&width=1200"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Trump has selected Amy Coney Barrett as his nominee to replace Ruth Bader Ginsburg on Supreme Court, GOP sources say"
-    excerpt: "While Barrett, 48, has been the front-runner for the nomination all along, the sources said she has become the sole focus of the process."
-    publishedDateTime: 2020-09-27T08:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/25/amy-coney-barrett-trumps-favorite-fill-ruth-bader-ginsburg-seat/3534900001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3534900001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3534900001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 102
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/01/24/USAT/0256b25e-6163-4600-b212-e95fee7b0cf5-AP_Trump_Supreme_Court_Contenders.jpg?auto=webp&crop=3214,1800,x0,y719&format=pjpg&width=1200"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Trump to nominate Amy Coney Barrett for Supreme Court in White House ceremony"
-    excerpt: "President Donald Trump on Saturday plans to name conservative appellate judge Amy Coney Barrett as his third U.S. Supreme Court appointment, setting off a scramble in the Republican-led Senate to confirm her before Election Day in 5-1/2 weeks."
-    publishedDateTime: 2020-09-26T21:21:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-court-trump-idUKKBN26H0GC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26H0GC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26H0GC"
+  - title: "Twitter flags Trump claim of COVID-19 immunity"
+    excerpt: "Twitter flagged a tweet by U.S. President Donald Trump that said: \"A total and complete sign off from White House Doctors yesterday. That means I can't get it (immune), and can't give it. Very nice to know."
+    publishedDateTime: 2020-10-11T23:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2Vu?now=true"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
-  - title: "Trump Vows to Nominate a Woman to Fill Ginsburg's Supreme Court Seat This Week"
-    excerpt: "The President said he would nominate his selection despite Democrats' objections to have a justice chosen after the election"
-    publishedDateTime: 2020-09-20T14:08:00Z
-    webUrl: "https://time.com/5890820/trump-supreme-court-nominee-woman/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 101
+    quality: 105
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-supreme-court-nominee-woman.jpg"
-        width: 5093
-        height: 3395
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f8371d5e4b04d445762fba5-1602449877042?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Democrats condemn Trump for gloating about an end to Obamacare less than a day after announcing his Supreme Court nominee"
-    excerpt: "\"President Trump just admitted his nominee will strike down the Affordable Care Act,\" Chuck Schumer said of Trump's SCOTUS pick, Amy Coney Barrett."
-    publishedDateTime: 2020-09-27T17:57:00Z
-    webUrl: "https://www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-scotus-eliminating-obamacare-will-be-a-big-win-barrett-2020-9?amp"
+  - title: "A running list of all the people Trump came into contact with in the days before he tested positive for COVID-19"
+    excerpt: "First lady Melania Trump, top aide Hope Hicks, Sen. Mike Lee, and RNC chairwoman Ronna McDaniel are among those who have tested positive so far."
+    publishedDateTime: 2020-10-02T23:03:00Z
+    webUrl: "https://www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 100
+    quality: 104
     images:
-      - url: "https://i.insider.com/5f70b3430ab50d00184acb14?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f7778842400440019129bcb?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump and Sen. Mike Lee's positive COVID-19 tests spark worries over Amy Coney Barrett confirmation, but GOP moving forward anyway"
-    excerpt: "Democrats say Supreme Court hearings are \"premature\" after GOP Sen. Mike Lee tested positive for COVID-19 following a meeting with Amy Coney Barrett."
-    publishedDateTime: 2020-10-02T23:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/amy-coney-barrett-covid-19-not-slowing-down-confirmation-process/3592280001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592280001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592280001"
+  - title: "President Donald Trump delivers update on his health as he fights COVID-19"
+    excerpt: "President Donald Trump thanked Walter Reed National Military Medical Center staff and even cracked a joke about his age."
+    publishedDateTime: 2020-10-04T00:22:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/president-donald-trump-delivers-update-his-health-he-fights-covid-19/3613477001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 95
+    quality: 103
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/da1ee30e-b77d-42da-909d-b6d919492ddf-GTY_1228790928.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "This chart shows the dozens of high-level officials Trump has interacted with over the past week and the results of their COVID-19 tests"
+    excerpt: "Trump was in contact with dozens of high-level government officials in the days prior to testing positive for COVID-19."
+    publishedDateTime: 2020-10-03T01:47:00Z
+    webUrl: "https://www.businessinsider.com/chart-who-trump-interacted-with-their-covid-19-test-results-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/chart-who-trump-interacted-with-their-covid-19-test-results-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chart-who-trump-interacted-with-their-covid-19-test-results-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5f77cc98282c500018c786dd?width=1200&format=jpeg"
         width: 1200
-        height: 676
+        height: 600
         isCached: true
-  - title: "Pence suggests Trump SCOTUS nominee should skip committee to be confirmed before ‘election issues’ arise"
-    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named Supreme Court nominee should just skip the usual Judiciary Committee hearings and get confirmed by the U."
-    publishedDateTime: 2020-09-22T22:57:00Z
-    webUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/pence-suggests-trump-scotus-nominee-should-skip-committee-to-be-confirmed-before-election-issues-arise/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 88
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Mike-Penc-Shutterstock-482x430.jpg"
-        width: 482
-        height: 430
-        isCached: true
-  - title: "Donald Trump Nominates Amy Coney Barrett to the Supreme Court"
-    excerpt: "President Donald Trump has nominated Judge Amy Coney Barrett to the Supreme Court, igniting what is set to be a titanic fight in the Senate."
-    publishedDateTime: 2020-09-27T02:10:00Z
-    webUrl: "https://time.com/5893561/donald-trump-amy-coney-barrett-supreme-court/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 85
-  - title: "China's Xi sends sympathy message to Trump over infection"
-    excerpt: "Chinese President Xi Jinping has sent a message of sympathy to U.S. President Donald Trump and First Lady Melania Trump following their coronavirus diagnosis"
-    publishedDateTime: 2020-10-03T11:15:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/chinas-xi-sends-sympathy-message-trump-infection-73402883"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 85
-  - title: "Pence Suggests Unnamed Trump SCOTUS Nominee Should Skip Committee and Just Be Confirmed Before ‘Election Issues’ Arise"
-    excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named ..."
-    publishedDateTime: 2020-09-22T21:52:00Z
-    webUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/"
-    ampWebUrl: "https://www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
-    cdnAmpWebUrl: "https://www-thenewcivilrightsmovement-com.cdn.ampproject.org/c/s/www.thenewcivilrightsmovement.com/2020/09/pence-suggests-unnamed-trump-scotus-nominee-should-skip-committee-and-just-be-confirmed-before-election-issues-arise/amp/"
-    type: article
-    provider:
-      name: The New Civil Rights Movement
-      domain: thenewcivilrightsmovement.com
-    quality: 81
-    images:
-      - url: "https://www.thenewcivilrightsmovement.com/wp-content/uploads/2020/09/pence-rally-photo-Michael-Candelori-4.jpg"
-        width: 940
-        height: 490
-        isCached: true
-  - title: "Trump says he will name woman to succeed Ginsburg on Supreme Court"
-    excerpt: "With less than two months to go before the US election, galvanized Democrats are pushing back furiously on Trump’s desire to ‘to move quickly’ on the nomination process US President Donald Trump on Saturday said he would nominate a woman to succeed late Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-20T22:40:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-says-he-will-name-woman-to-succeed-ginsburg-on-supreme-court/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Donald-Trump-5.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Who Is Amy Coney Barrett? Trump Expected To Replace RBG With Social Conservative"
-    excerpt: "President Donald Trump is expected to nominate a new Supreme Court justice following the passing of liberal Justice, Ruth Bader Ginsburg. After Ginsburg’s death, Trump hinted that he would nominate a woman for the position and multiple sources have claimed Amy Coney Barrett will be nominated for the position."
-    publishedDateTime: 2020-09-26T16:52:00Z
-    webUrl: "https://www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336"
-    ampWebUrl: "https://www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-amy-coney-barrett-trump-expected-replace-rbg-social-conservative-3052336?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/25/amy-coney-barrett-48-is-considered-hostile-to.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "BREAKING: Trump Will Reportedly Nominate Amy Coney Barrett to Replace Ruth Bader Ginsburg on the Supreme Court"
-    excerpt: "A new report says that Amy Coney Barrett will be President Donald Trump's pick to replace Justice Ruth Bader Ginsburg on the Supreme Court."
-    publishedDateTime: 2020-09-26T12:14:00Z
-    webUrl: "https://www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/"
-    ampWebUrl: "https://www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/breaking-trump-will-reportedly-pick-amy-coney-barrett-to-fill-ruth-bader-ginsburgs-seat-on-the-supreme-court/amp/"
+  - title: "Biden Says He’ll Debate Trump on Oct. 15 ‘If the Scientists Say It’s Safe’"
+    excerpt: "Joe Biden told assembled members of the press that he still intended on debating President Trump on October 15th if doctors and scientists feel that it is safe."
+    publishedDateTime: 2020-10-05T17:03:00Z
+    webUrl: "https://www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/amp/"
     type: article
     provider:
       name: Mediaite
       domain: mediaite.com
-    quality: 55
+    quality: 88
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Amy-Coney-Barrett-via-CSPAN2-screengrab-e1530815426294.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-05-at-12.33.52-PM.jpg"
+        width: 934
+        height: 548
         isCached: true
-  - title: "Trump Improving, Could Be Discharged Monday: Doctors"
-    excerpt: "US President Donald Trump has \"continued to improve\" as he is treated for Covid-19, his doctors said Sunday, revealing he could be discharged as early as Monday. His medical team said his oxygen levels had dropped twice briefly in recent days and he is being treated with steroids,"
-    publishedDateTime: 2020-10-04T17:01:00Z
-    webUrl: "https://www.ibtimes.com/trump-improving-could-be-discharged-monday-doctors-3056521"
+  - title: "Trump released a 5-minute video applauding the drugs and treatments he received while sick with COVID-19 without ever mentioning the virus by name"
+    excerpt: "The video was released hours before the vice presidential debate Wednesday night. Trump used it to tout his own experience with COVID-19."
+    publishedDateTime: 2020-10-08T06:04:00Z
+    webUrl: "https://www.businessinsider.com/trump-never-mentioned-covid-19-during-new-video-treatment-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-never-mentioned-covid-19-during-new-video-treatment-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-never-mentioned-covid-19-during-new-video-treatment-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5f7eaa6ac655f6001969ed7f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump campaign attacks Joe Biden for lack of ‘firsthand experience’ being infected with COVID-19"
+    excerpt: "Trump campaign aide Erin Perrine on Monday suggested that President Donald Trump is a better leader than Democratic candidate Joe Biden because he has the “firsthand experience” of being infected with COVID-19."
+    publishedDateTime: 2020-10-05T17:29:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 77
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/smith-perrine-1-791x430.jpg"
+        width: 791
+        height: 430
+        isCached: true
+  - title: "Joe Biden Tests Negative For COVID-19, His Physician Says"
+    excerpt: "Democratic vice presidential nominee Kamala Harris also received a negative diagnosis. Sen. Mike Lee, R-Utah, and Notre Dame president test positive."
+    publishedDateTime: 2020-10-02T17:24:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-tests-negative-covid-19-his-physician-says-3055880"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-tests-negative-covid-19-his-physician-says-3055880?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-tests-negative-covid-19-his-physician-says-3055880?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 55
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/white-house-physician-sean-conley-answers-questions-surrounded.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/democrat-joe-biden-goes-into-his-first-debate.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump Calls Swedish Lawmaker in Thanks for Nobel Nomination"
-    excerpt: "A Swedish lawmaker who has nominated U.S. President Donald Trump for the 2021 Nobel Peace Prize for his efforts in the Middle East, said Tuesday he got a phone call of thanks from Trump."
-    publishedDateTime: 2020-09-22T13:54:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-09-22/trump-calls-swedish-lawmaker-in-thanks-for-nobel-nomination"
+  - title: "MAGA: Donald Trump May Have Exposed Thousands of People to COVID-19"
+    excerpt: "President Donald Trump and other White House insiders infected with COVID-19 carried the virus across the country in a matter of days, potentially exposing hundreds, perhaps thousands, of people as they went about their business,"
+    publishedDateTime: 2020-10-07T23:21:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-exposure"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-exposure/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-exposure/amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/5e176a0afd7db20008a8b957/master/pass/Trump75.jpg"
+        width: 2000
+        height: 1330
+        isCached: true
+  - title: "Donald Trump Says He's Fine, No Apologies for COVID Conduct"
+    excerpt: "Donald Trump says he feels great and special treatment at Walter Reed Hospital ... as he put it -- \"It's good to be President.\""
+    publishedDateTime: 2020-10-10T00:58:00Z
+    webUrl: "https://www.tmz.com/2020/10/09/donald-trump-says-hes-fine-covid-fox-news-tucker-carlson/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/09/donald-trump-says-hes-fine-covid-fox-news-tucker-carlson/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/09/donald-trump-says-hes-fine-covid-fox-news-tucker-carlson/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 75
+    images:
+      - url: "https://imagez.tmz.com/image/d0/16by9/2020/10/10/d004f24fd2d842c3893a71b13bc31855_xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's Indian Fan Who Fasted For President's COVID-19 Recovery Dies Of Heart Attack"
+    excerpt: "\"He was upset when he learned about Trump testing positive for the COVID-19. He spent sleepless nights, starved and prayed for the U.S. President Trump's recovery for the past three-four days,\" his friend told local media."
+    publishedDateTime: 2020-10-12T11:37:00Z
+    webUrl: "https://www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756"
+    ampWebUrl: "https://www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Joe Biden, in Grand Rapids, wearing a mask, urges Americans to follow COVID safety rules"
+    excerpt: "Biden's comments were his first since President Trump announced he and the first lady tested positive for COVID-19."
+    publishedDateTime: 2020-10-03T09:28:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/02/joe-biden-masked-touts-covid-safety-rules-grand-rapids-speech/3592260001/"
+    ampWebUrl: "https://amp.freep.com/amp/3592260001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3592260001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PDTF/fc02fc8e-bdd9-48db-91c3-0f4dc84fe5ae-AP20276746861930.jpg?auto=webp&crop=5548,3121,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump tests negative for COVID-19, White House physician says"
+    excerpt: "U.S. President Donald Trump’s personal physician Dr. Sean Conley confirmed late Monday that the president has tested negative for the novel coronavirus “on consecutive days.”"
+    publishedDateTime: 2020-10-13T02:36:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/donald-trump-tests-negative-covid-19/6MH5D5K2IBATFLQG7HO5QQGIIY/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 55
+    images:
+      - url: "https://www.wsbtv.com/resizer/tOVgVIvOp1TkdA8ZzYfZxN8ornY=/1200x628/d1hfln2sfez66z.cloudfront.net/10-12-2020/t_34ff7305edb54255b37a3168b934545f_name_Trump_tests_negative_for_COVID_19_Poster.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "InPX4i/MnCjkOaHLQqS4mvGc2xVPa/4R1EYdAj99qsL3CR7aHwMk6pgkOuhNvnJqeTe3W2tdG/Z/RRBT2GXJbUAVWnTOB2+ngwdZYZ9M1xGEC6xkcWHJf57daoL03YT8rgl4mO5H41QoUWeBb8RrFZblleXDiiQHucvyoXIKf6OKQnNPpnF0VHlS4b50bYpVeq41mAt9e70FE7t+THxpuLz3EFca35H2ryKusS1RS4QkG1Lg6M7u1NbwFrjmSscKF9C8Fh3DJ82M80OmvxPuUrcN4wAktImI6PdlSFNiPkaa7TL6S+rr/kXz6vWEN9EpuXnNGD4B9HJlnJOtM+MqU2JHlnyway+V7q8jXwrcigcYxbvgdlSJDQfngbnE9+AyXb7O3bBDjOMibINoFo3JS1m73U6ARrdg1DQxcrZas6p0gdkyO7QfL3F2tcQ/YP5LmstWUhmUO6gVAfQWNmKt6M6I29VSGKtTQPEv+9muzgnyF/prFIXGyhspAtV8d9KkBT3ucuAOFLjqXqRJn0H3Sg==;0BoJkBMXweujTwFv/Yz0Rw=="
 ---

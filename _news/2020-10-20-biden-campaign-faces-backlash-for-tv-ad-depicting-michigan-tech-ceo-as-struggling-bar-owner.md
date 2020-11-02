@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tiffany Trump hitting campaign trail in NC, Michigan, other battleground states"
-    excerpt: "President Trump's youngest daughter, Tiffany Trump, will be campaigning for her father in four battleground states, North Carolina, Pennsylvania, Michigan and Minnesota, after keeping a low profile during the 2016 campaign."
-    publishedDateTime: 2020-10-26T13:00:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N8961wMi8CY/tiffany-trump-2020-campaign-trail-trump-daughter"
-    ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
+  - title: "Biden faces backlash for saying 'America was an idea' that 'we've never lived up to'"
+    excerpt: "Joe Biden was facing intense backlash Wednesday night for referring to America as an \"idea\" that \"we've never lived up to.\""
+    publishedDateTime: 2020-10-22T06:52:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297040355134.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Former Trump Campaign Staffer: \"Father, Forgive Me\" For I Believed Him In His Con"
-    excerpt: "Former Trump campaign official Jessica Denson is now backing former Vice President Joe Biden for president, calling the Trump campaign a \"vile, self-serving branding exercise\" for Trump and his family."
-    publishedDateTime: 2020-10-29T11:42:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/29/former_trump_campaign_staffer_father_forgive_me_for_i_believed_him_in_his_con.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
-    images:
-      - url: "https://assets.realclear.com/images/52/525517.jpg"
-        width: 1068
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f93da98f-cf85-410a-865f-986bff199415/14f02d01-20fb-42ab-be54-7fb6e3dfe8d7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "PdrU1ZCjXQcjCRnTQNBMZxLxE6vv18nex2QxG8u9KGdWTcVoAo7EwiT0pS4aAYRwAssIIkbxx0Wp7b05YGmXOer8yNFiJapuXScnEuG0JkAENXhZgsjZvBo9sAzAk4x2bsvMKgvx5BTJIop560vUVvKtmuTsYt/HIoGjOgiwnH5LuzBYkWn7moXOISlfqk0yDxjKmf6w7XQ1sMY7YdHrjM5peywB2VqkQ/t7OqX6keJHVcxzDX6Viw47id9vV7qCk+HvLczozFJC3l0fJqh3LPtStGwtxWtUWgel7PJEbJ0WkNfDzOVxYTfJsBqQZxnJVTUnl5nF2qzBhMX5cFgvsf8nYm4b3/DdtLhliwJ9e0A=;A3Dky5VECFEWkQuvvrRItQ=="

@@ -186,6 +186,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump tells supporters in Pennsylvania they can 'save the American Dream' from 'corrupt forces'"
+    excerpt: "President Trump on Saturday told supporters in Pennsylvania that they have the chance to “save the American dream” by reelecting him to office on Tuesday -- while warning of “corrupt forces” who are seeking to replace him with Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-31T16:30:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fE41akD_eaw/trump-pennsylvania-american-dream"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-american-dream.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-american-dream.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1c28aa3-8f61-431d-b3c4-c43a2bf5827d/ce54a741-f833-4cf7-8887-2ace3de5a30b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden defends low-key campaign travel schedule, says he's 'not overconfident'"
     excerpt: "Democratic presidential nominee Joe Biden on Monday defended his light campaign travel schedule, maintaining that he's not overconfident about his odds of defeating incumbent President Trump with one week to go until the November election."
     publishedDateTime: 2020-10-27T15:47:06Z

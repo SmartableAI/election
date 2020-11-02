@@ -688,6 +688,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump and Biden vie for Catholic voters amid Supreme Court battle"
+    excerpt: "Washington (CNN)The fight to win over swing Catholic voters in the presidential election has intensified as Democrats and Republicans on Capitol Hill battle over confirming President Donald Trump ..."
+    publishedDateTime: 2020-10-18T23:49:00Z
+    webUrl: "https://www.cnn.com/2020/10/18/politics/catholic-vote-joe-biden-donald-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/catholic-vote-joe-biden-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/catholic-vote-joe-biden-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016204638-joe-biden-church-0913-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Holds Rally in Nevada After Biden Campaigns in North Carolina"
     excerpt: "Joe Biden is vastly outspending President Trump in TV advertising, maintaining a nearly 2-to-1 advantage on the airwaves. The Trump campaign is projecting a confidence that doesn’t match the difficult reality his team is grappling with."
     publishedDateTime: 2020-10-20T00:37:00Z

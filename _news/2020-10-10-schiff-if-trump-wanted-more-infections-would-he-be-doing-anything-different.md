@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-mor
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp"
 type: article
 quality: 121
-heat: 181
+heat: 161
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says"
-    excerpt: "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects."
-    publishedDateTime: 2020-10-03T02:31:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg"
-        width: 2500
-        height: 1535
-        isCached: true
   - title: "If Trump's symptoms started before Friday, he may have been highly infectious during the debate"
     excerpt: "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden."
     publishedDateTime: 2020-10-03T12:53:00Z

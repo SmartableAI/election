@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-mania/
 cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-mania/amp"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "The Latest: Doctor Giving Trump Health Update Sunday Morning"
-    excerpt: "President Donald Trump’s doctors are set to brief the public on his condition late Sunday morning after he spent a second night hospitalized with COVID-19."
-    publishedDateTime: 2020-10-04T15:28:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "4KdP1subL1/cXLXOiO4FZ+bRjUZ6RybKNPa0TTISSr6B6D0fpaWSjBI6bpZhZdBuIO8Blvb/zrOFa2xtu5/SzcdxC8DZFJGS/atsMSX6N0sN2lD8tmtCot53GTKitr+MBHgjPV5HxFsZt6E4TqcST/LloC4Dww88dgDtpcqo+tMnNsSH9Kcn97v7bspF+rl2OLZd4yZ5CGHH60Qy758Ug6Q0s6R9LJR2uWtoBy3ncsW1xfkxySG5N7PzHVzQoE3CYdsWr+N0z1hAAEA88wzoZyYmSx2pLA2x88/plEujcRREg15tdMMU1rb81Uemc3Z/N1HaES88FNkbrdYMm9m7iQ9YajpVZ0hvhCXdbTwxSfHXJbmLlA+mFbyFa6qlVzapctCE7K1CWQb9IyZJYkzetMblk25VhVLxozqXXbkS0tuH/cj/TPEePvNp3Ki7SVPC4ra2UYoepAIM7GJpZItFo/TK6n7ZUrhyhqQpIWCxyV5ByGFyaoViMigU8sCorBVVaK6J4ADPXjAUZ/co2Jhxbg==;R6wpr+JijXlHocJ9xobDeA=="
 ---

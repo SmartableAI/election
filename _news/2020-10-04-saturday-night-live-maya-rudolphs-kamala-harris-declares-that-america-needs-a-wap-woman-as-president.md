@@ -27,85 +27,147 @@ images:
     isCached: true
 
 related:
-  - title: "As Harris Prepares for Pence Debate, Asian American Women Pay Tribute to Their Immigrant Mothers, Grandmothers"
-    excerpt: "The Democratic Party's vice presidential nominee became the first Asian-American woman on a major party's ticket. Here's what her nomination means to the women she represents."
-    publishedDateTime: 2020-10-07T21:37:00Z
-    webUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176"
-    ampWebUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
+  - title: "Jim Carrey and Maya Rudolph Transform into Joe Biden and Kamala Harris - SNL"
+    excerpt: "Matt Brennan joined the Los Angeles Times as television editor in 2019. Previously, he served as Paste Magazine’s TV editor, and has written for Indiewire, Slate, Deadspin and LA Weekly, among others."
+    publishedDateTime: 2020-10-04T05:23:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/tv/h-aqttywddi-123"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 130
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 127
     images:
-      - url: "https://d.newsweek.com/en/full/1647685/kamala-harris.jpg"
-        width: 594
-        height: 396
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cc38a37/2147483647/strip/true/crop/480x252+0+54/resize/1200x630!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh-aqTtywDDI%2Fhqdefault.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Hillary Clinton praises Kamala Harris debate performance: 'She swatted away the lies with ease'"
-    excerpt: "Hillary Clinton congratulated Democratic vice presidential nominee Kamala Harris (D-Calif.) on Thursday for what the former secretary of State called a “masterful debate performance” the night before."
-    publishedDateTime: 2020-10-08T15:35:00Z
-    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she"
-    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
+  - title: "Jim Carrey makes shaky Joe Biden debut on 'SNL,' Maya Rudolph's Kamala Harris cracks a 'WAP' joke"
+    excerpt: "In the \"SNL\" premiere, Jim Carrey made his debut as Joe Biden in the opening debate parody, while Maya Rudolph's Kamala Harris cracked a \"WAP\" joke."
+    publishedDateTime: 2020-10-05T14:23:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/04/snl-jim-carrey-makes-shaky-debut-joe-biden-debate-cold-open/3615416001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615416001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615416001"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 113
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
     images:
-      - url: "https://thehill.com/sites/default/files/clintonhillary_08282019_2.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Scoop: Inside Kamala Harris' new strategy for the VP debate"
-    excerpt: "Kamala Harris waves during an event at the University of Nevada, Las Vegas, Oct. 2. Photo: Ethan Miller/ President Trump’s hospitalization has changed the game plan for Sen. Kamala Harris for Wednesday's debate."
-    publishedDateTime: 2020-10-04T21:55:00Z
-    webUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
-    ampWebUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+  - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
+    excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
+    publishedDateTime: 2020-10-02T17:40:00Z
+    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/"
+    ampWebUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: People
+      domain: people.com
+    quality: 94
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2FJoJo.jpg"
+        width: 1500
+        height: 783
+        isCached: true
+  - title: "\"SNL\" Gives Sneak-Peek Of Jim Carrey As Joe Biden, Maya Rudolph As Kamala Harris"
+    excerpt: "Ahead of tomorrow's 'Saturday Night Live' season premiere, the show shared a teaser clip featuring Jim Carrey and Maya Rudolph as Joe Biden and Kamala Harris. S.N.L is returning tomorrow night for its first live episode since the start of the COVID-19 pandemic in March,"
+    publishedDateTime: 2020-10-03T02:53:00Z
+    webUrl: "https://www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 85
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1601661847_d2b1086c31d907151d23dce6970a5e02.jpg/0232a7f3f125a3597b97b33ed1941b66/1601661847_8938d8a81a9303511c14efe9777758ba.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Jim Carrey makes shaky Joe Biden debut on 'SNL,' Maya Rudolph's Kamala Harris cracks a 'WAP' joke"
+    excerpt: "In the \"SNL\" premiere, Jim Carrey made his debut as Joe Biden in the opening debate parody, while Maya Rudolph's Kamala Harris cracked a \"WAP\" joke."
+    publishedDateTime: 2020-10-04T14:23:00Z
+    webUrl: "https://www.jsonline.com/story/entertainment/tv/2020/10/04/snl-jim-carrey-makes-shaky-debut-joe-biden-debate-cold-open/3615416001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3615416001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3615416001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘Saturday Night Live’ returns with Jim Carrey as Joe Biden (video)"
+    excerpt: "Jim Carrey took on the role of Democratic candidate Joe Biden with Alec Baldwin returning to play Trump — a role that earned him an Emmy Award and the president’s ire. “I’ve got the beginning of 46 good ideas that I may or may not have access to."
+    publishedDateTime: 2020-10-04T04:31:00Z
+    webUrl: "https://www.masslive.com/entertainment/2020/10/saturday-night-live-returns-with-jim-carrey-as-joe-biden-video.html"
+    ampWebUrl: "https://www.masslive.com/entertainment/2020/10/saturday-night-live-returns-with-jim-carrey-as-joe-biden-video.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/entertainment/2020/10/saturday-night-live-returns-with-jim-carrey-as-joe-biden-video.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
     quality: 75
     images:
-      - url: "https://images.axios.com/BzhhevCANjFvRDPxSiQwbeCSBDE=/fit-in/1366x1366/2020/10/04/1601842365580.jpg"
-        width: 1366
-        height: 768
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P6GG27TJQZGGVBF4DD7R5XZX4Q.jpg"
+        width: 2576
+        height: 1427
         isCached: true
-  - title: "Kamala Harris' false 'Honest Abe' story and her misuse of American history"
-    excerpt: "Sen. Kamala Harris is the very embodiment of today’s progressives. She proved this again and again on the debate stage with Vice President Mike Pence, most clearly in her willingness to twist or rewrite history."
-    publishedDateTime: 2020-10-14T00:06:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
+  - title: "‘SNL’ season premiere with Chris Rock: See Jim Carrey as Joe Biden and Maya Rudolph as Kamala Harris"
+    excerpt: "This weekend, “SNL” is live once again and back onstage at Studio 8H with host Chris Rock. Here’s what to expect for the 46th season premiere of “SNL.\" For Chris Rock, “Saturday Night Live” is always something of a homecoming."
+    publishedDateTime: 2020-10-03T20:37:00Z
+    webUrl: "https://www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html"
+    ampWebUrl: "https://www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html?outputType=amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 73
+      name: NJ.com
+      domain: nj.com
+    quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/13/B1-keenew_c0-133-1800-1183_s1200x700.jpg?0f47a19364006e5f83b6c36f5a2c150dc0da5a84"
-        width: 1200
-        height: 700
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VTRDUHBP3FDJHMGJDGVL46HLOA.jpg"
+        width: 1260
+        height: 846
         isCached: true
-  - title: "The VP debate is over. Did Sen. Kamala Harris’ performance light a fire under women voters?"
-    excerpt: "With the gender gap widening when it comes to presidential preferences, the power of the women’s vote, especially if the election is close, is all the more consequential."
-    publishedDateTime: 2020-10-09T13:13:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
+  - title: "Debuting Joe Biden impression on ‘SNL,’ Jim Carrey hesitates and rallies for self-control"
+    excerpt: "The former VP, in Carrey’s take, urges himself ‘to just stand here and look lucid.’  NBC Jim Carrey unveiled his take on Joe Biden on Saturday, playing the presidential nominee as subdued, hesitant and determined not to lose his temper when provoked by his combative opponent."
+    publishedDateTime: 2020-10-04T04:11:00Z
+    webUrl: "https://chicago.suntimes.com/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 65
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 66
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_70dd3658a4d2eb9ef428f24c9e71719f-h_ebc103cbe12a1add9a23b31dd1f56886.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
+      - url: "https://cdn.vox-cdn.com/thumbor/eX4eH1FqUvdZILA7P1L5_5nqHJg=/0x0:2942x2052/1400x1050/filters:focal(1224x531:1694x1001):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67577730/Screen_Shot_2020_10_03_at_11.20.33_PM.7.png"
+        width: 1400
+        height: 1050
+        isCached: true
+  - title: "VIDEO: Debuting Joe Biden impression on ‘SNL,’ Jim Carrey hesitates, rallies for self-control"
+    excerpt: "The former VP, in Carrey’s take, urges himself ‘to just stand here and look lucid.’  NBC Jim Carrey unveiled his take on Joe Biden on Saturday, playing the presidential nominee as subdued, hesitant and determined not to lose his temper when provoked by his combative opponent."
+    publishedDateTime: 2020-10-05T16:38:00Z
+    webUrl: "https://chicago.suntimes.com/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 64
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/a7NJUwClBEu4NX0brCqHDlFvvwI=/76x0:871x585/1400x1050/filters:focal(413x26:573x186):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67577730/NUP_191888_0024.14.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "b8FqroVA1FqW/vFT8nYKY1YcCw41QcmOaTCGicBHA89rHowrqjlTLOYs08wnoyWHSgtH8Ug4hNztkRzAPxoXZDdNapWyi1oQXXPnyN2DMBI0SAcGklfG1L3m7iW6UkHQ9f4ZcvcrfHiMdif6w51mCqR3bWPrO70Fl2JdZgDIGnxf6H7Sge3eka2jReu3h8luS5Lf91y7FDTuF355BJec1tH8YnJqm9x7qRmKYM8n0LB9XT57XINf1lDsWSsZD8lTnKkWdVEvxeBEQejqnQ9nQ6+HIqsRVc4UmhxsSP02h9r4jurHunMv4N9as0gPJfMqfYjO+yOPcsBh5PSAVravhjSQLAFSKhAha8p3Rczr9t72OWxNvsCrQ3h8jTQHiENpExAUEQaD4/i/ZUIS7RASH08dC/TIjzexUnpBsTk7dDPmM0ISoY+VRYlQC0ShC6LaZ5+H6hExQraqsrvHV2vWPycgcsHTJUWwJB9hkcxvSvcLbh+V57zS7Vg+fAqEZYQ2HGAw8Riou2t6YRSdKsvuHA==;MpmgjSrGsduVgNnRXTa1tg=="

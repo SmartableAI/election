@@ -47,70 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How Trump contrasts Biden on Covid-19"
-    excerpt: "Joe Biden has questioned the reopening strategy around the country and called for an emphasis on testing. President Donald Trump has pushed for businesses and schools to open and has downplayed the importance of testing.\n    \n"
-    publishedDateTime: 2020-09-20T19:26:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eDic3atzBa4/trump-vs-biden-covid-19-policies-mh-orig.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/08/31/trump-vs-biden-covid-19-policies-mh-orig.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/08/31/trump-vs-biden-covid-19-policies-mh-orig.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200831122448-trump-vs-biden-covid-thumb-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How the coronavirus has defined Trump's reelection campaign"
-    excerpt: "President Donald Trump hoped to make his reelection campaign about the soaring economy at the start of 2020, but the coronavirus pandemic and Trump's response to it have largely defined what Americans are hearing about the presidential campaign.\n    \n"
-    publishedDateTime: 2020-09-23T11:05:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nmRy3NXQelI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/the-breakthrough-coronavirus-trump-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/the-breakthrough-coronavirus-trump-campaign/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922190137-trump-south-lawn-0922-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking Biden and Trump at the first debate"
-    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden will face off in the first 2020 presidential debate Tuesday night live from Cleveland.\n    \n"
-    publishedDateTime: 2020-09-30T01:43:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0QmIwOIDx7k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929202421-06-debate-cleveland-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Hits and misses from the first Trump-Biden debate"
-    excerpt: "The first general election debate between President Donald Trump and former Vice President Joe Biden is (thankfully) over.\n    \n"
-    publishedDateTime: 2020-09-30T04:29:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7-4bTE44c4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225858-trump-biden-debate-faces-split-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden says Trump is 'responsible' for getting coronavirus"
     excerpt: "Democratic presidential nominee Joe Biden said Monday night that President Donald Trump is responsible for contracting coronavirus, faulting Trump for failing to wear masks and follow social distancing guidelines.\n    \n"
     publishedDateTime: 2020-10-06T01:14:35Z
@@ -207,19 +143,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "First Trump-Biden debate to focus on Supreme Court, coronavirus and race"
-    excerpt: "The first presidential debate between President Donald Trump and Democratic nominee Joe Biden will focus on a number of topics, including the coronavirus pandemic, the Supreme Court and the racial reckoning in the country, the debate commission announced on Tuesday.\n    \n"
-    publishedDateTime: 2020-09-22T18:10:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QzOMDKh4Sl4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/debate-topics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/debate-topics/index.html"
+  - title: "Analysis: Trump and Biden battle for the Midwest as virus surges"
+    excerpt: "Former Vice President Joe Biden and President Donald Trump went head-to-head in the mighty swing state of Florida on Thursday, as the US crossed a daily record with more than 88,000 new coronavirus cases and the two candidates showed their sharply divergent approaches to the virus at dueling rallies.\n"
+    publishedDateTime: 2020-10-31T01:53:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jty433MrjkM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 189
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828000814-trump-biden-acceptance-speech-covid-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -383,19 +319,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence's former lead coronavirus task force aide slams Trump and endorses Biden in new video"
-    excerpt: "A former top aide to Vice President Mike Pence assailed President Donald Trump's response to the pandemic in a new video Thursday, adding to the growing list of former Trump administration officials who have criticized the President and, in several cases, endorsed his Democratic opponent Joe Biden.\n"
-    publishedDateTime: 2020-09-18T02:04:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xNnbxtNSoPQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/former-pence-aide-coronvirus-task-force-slams-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/former-pence-aide-coronvirus-task-force-slams-trump/index.html"
+  - title: "Biden campaign cancels Texas event after Trump supporters surround bus on interstate"
+    excerpt: "A campaign bus for Joe Biden traveling Friday from San Antonio to Austin, Texas, was surrounded by multiple vehicles with Trump signs that attempted to slow down the bus and run it off the road, a Biden campaign official tells CNN.\n    \n"
+    publishedDateTime: 2020-11-01T01:43:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2WsdgwekVbA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/biden-bus-2020-campaign-texas-trump-supporters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/biden-bus-2020-campaign-texas-trump-supporters/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 180
+    quality: 183
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031211553-biden-harris-bus-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -412,6 +348,22 @@ related:
     quality: 180
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029164424-01-trump-florida-1029-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Biden plans to undo Trump's 'America First' foreign policy and return US to world stage"
+    excerpt: "After four years of norm-bending, treaty-disrupting and alliance-shaking foreign policy from the Trump administration, Democratic presidential candidate Joe Biden is promising to return the US to its more traditional role on the world stage.\n    \n"
+    publishedDateTime: 2020-10-31T11:25:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gNEDf100P4I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/biden-foreign-policy-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/biden-foreign-policy-plans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029160720-01-biden-florida-1029-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -767,6 +719,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama to offer 'personal testimonial' for Biden at first joint event of campaign"
+    excerpt: "Barack Obama will offer his one-time vice president, Joe Biden, a \"personal testimonial\" during their first joint event of the campaign on Saturday, an Obama aide told CNN, thrusting the former president into the role of character witness to the Democratic nominee just days before the election.\n    \n"
+    publishedDateTime: 2020-10-31T20:57:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UvWYKGqi5OY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/obama-biden-michigan-joint-campaign-appearance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/obama-biden-michigan-joint-campaign-appearance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031141838-01-obama-flint-michigan-1031-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump coronavirus adviser Scott Atlas undermines importance of masks as cases spike"
     excerpt: "White House coronavirus task force member Dr. Scott Atlas sought to undermine the importance of face masks on Saturday as coronavirus cases spike across the US.\n    \n"
     publishedDateTime: 2020-10-18T13:05:29Z
@@ -991,21 +959,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Courts Obama-Trump Voters as the President Seeks to Hold Them"
-    excerpt: "The Democratic nominee, in Wisconsin, tried to place himself on the side of American workers, while Mr. Trump used a trip to Ohio to blame his opponent for job losses there."
-    publishedDateTime: 2020-09-21T23:39:00Z
-    webUrl: "https://www.nytimes.com/2020/09/21/us/politics/biden-obama-trump-voters.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/21/us/politics/biden-obama-trump-voters.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/21/us/politics/biden-obama-trump-voters.amp.html"
+  - title: "Trump baselessly claims doctors are inflating coronavirus death counts for money as cases again hit record levels"
+    excerpt: "President Donald Trump on Friday baselessly claimed that doctors are inflating the coronavirus death count for monetary gain while cases, hospitalizations and deaths surge across the country.\n    \n"
+    publishedDateTime: 2020-10-31T02:09:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/buCOUskb9rc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/trump-doctors-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/trump-doctors-covid/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
+      name: CNN
+      domain: cnn.com
+    quality: 154
     images:
-      - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21biden-trump/21biden-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029112836-trumps-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "How Mormons Fed Up With Trump Could Help Lift Biden in Arizona"
     excerpt: "Loyalty to the Republican Party is ingrained in the Latter-day Saints religion. But in Arizona, some find the president’s behavior at odds with their values and are shifting to Joe Biden."
@@ -1167,6 +1135,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Sick of getting texts from the Biden or Trump campaigns? You're not alone"
+    excerpt: "The campaigns of President Donald Trump and the Democratic presidential nominee Joe Biden didn’t respond to requests for comment on their texting strategies or on consumer complaints, which in recent days have been common on social media. Lindsay said ..."
+    publishedDateTime: 2020-10-30T15:11:00Z
+    webUrl: "https://www.nbcnews.com/tech/internet/sick-getting-texts-biden-or-trump-campaigns-you-re-not-n1245365"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245365"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245365"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423981/201029-joe-biden-phone-jm-1003_ceef8b86028dfdb1a4adb8820c4e9bb6.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump and Biden Converge in Florida, an Elusive Prize Still Up for Grabs"
     excerpt: "The presidential rivals both appeared in Tampa, confronting their vulnerabilities and courting a range of voters, a clear sign that both see their political fortunes tied to the state."
     publishedDateTime: 2020-10-30T00:56:00Z
@@ -1183,22 +1167,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Biden calls out Trump for suggesting 'injecting bleach' to treat coronavirus"
-    excerpt: "While speaking about vaccine production, Joe Biden called out President Donald Trump for suggesting that \"injecting bleach\" could help treat the coronavirus, while the president claimed it was said \"sarcastically."
-    publishedDateTime: 2020-09-30T01:54:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-calls-out-trump-for-suggesting-injecting-bleach-to-treat-coronavirus-92820037882"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92820037882"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92820037882"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 147
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nbc_mo_debate_bleach_200929_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "The president cast his ballot in Florida, not far from a rally where Obama slammed Trump’s response to the pandemic. And from New York to Alabama, Americans lined up to vote in person. This briefing has ended."
     publishedDateTime: 2020-10-25T08:17:00Z
@@ -1210,6 +1178,22 @@ related:
     quality: 145
     images:
       - url: "https://static01.nyt.com/images/2020/10/24/us/24elections-briefing-obama2/merlin_179011449_c82eab33-d1ca-4df1-ae0c-1fae2562c6f7-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Tires of Economic Message and Returns to Attacks Amid Florida Duel With Biden"
+    excerpt: "Both candidates stumped in Florida, where Joe Biden has a narrow edge over President Trump in new polls. Mr. Trump abruptly canceled his North Carolina rally, citing bad weather. Senator David Perdue of Georgia dropped out of a third debate with his Democratic challenger,"
+    publishedDateTime: 2020-10-30T18:56:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/29/us/trump-biden-election"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/29/us/trump-biden-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/29/us/trump-biden-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 144
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/29/us/politics/29election-briefing-minnesota/merlin_179156607_1f9a4296-aaa1-4b46-bc8e-cc6a2164f732-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -1277,19 +1261,37 @@ related:
         width: 2500
         height: 1400
         isCached: true
-  - title: "Donald Trump and Joe Biden Debate Law and Order"
-    excerpt: "In the presidential debate Joseph R. Biden Jr. and Donald J. Trump debated the concept of law and order after recent unrest gripped the nation."
-    publishedDateTime: 2020-09-30T02:53:00Z
-    webUrl: "https://www.nytimes.com/video/us/elections/100000007368637/trump-biden-law-and-order-debate-video-clip.html"
+  - title: "Kamala Harris takes aim at Trump’s handling of the coronavirus at Arizona campaign event"
+    excerpt: "Kamala Harris took aim at President Trump’s handling of the coronavirus pandemic while at a drive-in mobilization event in Arizona. Harris said, “It didn’t have to be this bad.”"
+    publishedDateTime: 2020-10-28T21:34:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-takes-aim-at-trump-s-handling-of-the-coronavirus-at-arizona-campaign-event-94870597876"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94870597876"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94870597876"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
+    quality: 141
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/f_mo_kamala_drivethru_201028-00_01_48_00-Still001.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "In dueling Florida rallies, Trump and Biden paint different pictures of Covid — and America"
+    excerpt: "Joe Biden and Donald Trump held dueling rallies in Florida on Thursday, painting stark a contrast for their visions of the U.S. and the Covid-19 pandemic in the key battleground state just five days before Election Day."
+    publishedDateTime: 2020-10-29T20:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/dueling-florida-rallies-trump-biden-paint-different-pictures-covid-america-n1245333"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245333"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245333"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
     quality: 140
     images:
-      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29vid-debate-trump-2/29vid-debate-trump-2-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_44/3424079/201029-joe-biden-florida-jm-1513_ccefe0b7f56f6a212526f0724d635cca.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden Tested Negative. He Could Still Have the Coronavirus."
     excerpt: "President Trump and the first lady have tested positive for the coronavirus. Now everyone who has been anywhere near them will need to be tested too, ideally multiple times. That includes Joe Biden. He tested negative today,"
@@ -1760,20 +1762,6 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_Menendez_LorellaPraeli_BrittanyPacknettCunningham_DaveJacobson_2020election_201018_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "On a coronavirus vaccine, Trump hints at yet another conspiracy"
-    excerpt: "Trump's claims about a coronavirus vaccine have gotten a little weird lately. His claims about a conspiracy to delay a vaccine was even worse."
-    publishedDateTime: 2020-09-25T15:05:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/coronavirus-vaccine-trump-hints-yet-another-conspiracy-ncna1241079"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3414422/200923-blood-samples-covid-vaccine-se-455p_e9fcf162d35a6475396839cc99fd3e8b.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "It's not just Trump: US coronavirus cases on the rise again"
     excerpt: "Trump's ailment can help serve as a reminder that that the coronavirus crisis is far from over, and in many parts of the country, it's getting worse."

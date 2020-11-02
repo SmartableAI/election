@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live updates: Hunter Biden emails and the presidential race"
+    excerpt: "The owner of a Delaware computer repair store stepped forward with a laptop that allegedly contained Hunter Biden's emails detailing an opportunity for a meeting between his father, former Vice President Joe Biden, and a top Burisma executive."
+    publishedDateTime: 2020-10-16T07:43:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_iaJuoGyqA4/live-updates-hunter-biden-emails-and-the-presidential-race"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hunter-biden-emails-and-the-presidential-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hunter-biden-emails-and-the-presidential-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1977768f-7111-4548-8d99-b534d36a9544/0565d1f9-b70f-4605-a44d-3d992fae988f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden campaign says they are not ahead by double-digit lead"
     excerpt: "Democratic presidential candidate Joe Biden’s campaign manager warned against trusting inflated national polling numbers released this week, which showed Biden in a double-digit lead over incumbent candidate President Trump."
     publishedDateTime: 2020-10-17T02:04:06Z
@@ -188,6 +204,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4414f9d6-f232-4e19-ab96-8f3c7cf79afb/7eee0c83-8cea-471c-8995-0784cfc73a2b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Hunter Biden emails become presidential campaign issue"
+    excerpt: "One participant in an explosive email thread allegedly involving Hunter Biden has corroborated the veracity of the messages, which appear to suggest a payout for Biden's father, Democratic presidential nominee Joe Biden, as part of a deal with a Chinese energy firm."
+    publishedDateTime: 2020-10-17T05:32:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhnWQhQuGsE/live-updates-hunter-biden-emails-become-presidential-campaign-issue"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hunter-biden-emails-become-presidential-campaign-issue.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hunter-biden-emails-become-presidential-campaign-issue.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c04e6639-6b4c-4e23-ae7e-6f586695754d/fbf87ae6-a9cf-4f2b-af7f-8a458b7efb89/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

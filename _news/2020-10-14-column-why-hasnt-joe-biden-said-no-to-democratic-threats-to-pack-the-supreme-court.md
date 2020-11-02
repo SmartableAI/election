@@ -31,453 +31,198 @@ images:
     isCached: true
 
 related:
-  - title: "If Joe Biden Wins, Will the Democrats Pack the Supreme Court?"
-    excerpt: "It's a question that Democrats and Joe Biden really don't want to answer. Most Senate Democrats pivot to discuss their focus on winning the majority and protecting Americans' health care, which they warn could be at risk."
-    publishedDateTime: 2020-09-23T19:12:00Z
-    webUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914"
-    ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1641290/chuck-schumer.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden says voters should choose who nominates Supreme Court justice"
-    excerpt: "Democratic nominee Joe Biden said Saturday that voters should decide who nominates the next Supreme Court justice to replace the vacancy left by Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-27T02:20:00Z
-    webUrl: "https://thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice"
-    ampWebUrl: "https://thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/518457-biden-says-voters-should-choose-who-nominates-supreme-court-justice?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_9262020_gettyimages.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden should enact critical government reforms if he wins"
-    excerpt: "If Joe Biden wins the presidency, one of his first orders of business should be to enact his proposed package of ethics reforms that ensures no future president can replicate the corruption of the Tru"
-    publishedDateTime: 2020-09-26T22:06:00Z
-    webUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins"
-    ampWebUrl: "https://thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518443-joe-biden-should-enact-critical-government-reforms-if-he-wins?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_030820getty_progressives.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden refuses to say whether he would support expanding Supreme Court"
-    excerpt: "Democratic nominee Joe Biden refused on Sunday to answer a question about whether he’d back expanding the Supreme Court to have more justices."
-    publishedDateTime: 2020-09-27T18:48:00Z
-    webUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme"
-    ampWebUrl: "https://thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518496-biden-declines-to-answer-question-on-whether-hed-support-expanding-supreme?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_09252020gn.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden has foreign policy ideals that can work in this chaotic world"
-    excerpt: "On trade policy, Biden supported the North American Free Trade Agreement and also promoted the Trans Pacific Partnership. The latter, which Hillary Clinton and Trump both opposed in 2016, sought to elevate standards for free trade on issues like labor rights,"
-    publishedDateTime: 2020-09-28T15:00:00Z
-    webUrl: "https://thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world"
-    ampWebUrl: "https://thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/518548-joe-biden-has-foreign-policy-ideals-that-can-work-in-this-chaotic-world?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_03122020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Beto O’Rourke says Texas is ‘Joe Biden’s to lose’"
-    excerpt: "O'Rourke argued that public polling tends to underestimate Democratic performance in Texas, pointing to results from his 2018 Senate race, and Hillary Clinton in 2016."
-    publishedDateTime: 2020-09-29T23:43:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Beto-O-Rourke-says-Texas-is-Joe-Biden-s-to-15607037.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/33/41/20035650/3/rawImage.jpg"
-        width: 2048
-        height: 1283
-        isCached: true
-  - title: "Biden says he opposes Supreme Court term limits"
-    excerpt: "Democratic presidential nominee Joe Biden Joe Biden Fox News president, top anchors advised to quarantine after coronavirus exposure: report Six notable moments from Trump and Biden's '60 Minutes ..."
-    publishedDateTime: 2020-10-26T21:39:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522848-biden-says-he-opposes-supreme-court-term-limits"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522848-biden-says-he-opposes-supreme-court-term-limits?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522848-biden-says-he-opposes-supreme-court-term-limits?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_10262020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "The Supreme Court Is Going to Be a Problem for Joe Biden"
-    excerpt: "A hyper-partisan court stands ready to oppose everything a unified Democratic government does. This is Bloomberg Opinion Today, a Supreme Court of Bloomberg Opinion’s opinions.  Democrats must decide how to respond to a partisan Supreme Court."
-    publishedDateTime: 2020-10-27T20:45:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2020-10-27/the-supreme-court-is-going-to-be-a-problem-for-joe-biden"
-    ampWebUrl: "https://www.bloomberg.com/amp/opinion/articles/2020-10-27/the-supreme-court-is-going-to-be-a-problem-for-joe-biden"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-10-27/the-supreme-court-is-going-to-be-a-problem-for-joe-biden"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 125
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imGTeqWHd_l4/v1/360x-1.jpg"
-        width: 360
-        height: 267
-        isCached: true
-  - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
-    excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."
-    publishedDateTime: 2020-09-27T18:17:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200927-puwcggrhibektg63wyfdzuyeq4-story.html?outputType=amp"
+  - title: "Column: Big Tech slaps The New York Post to shield Joe Biden"
+    excerpt: "We were always told it would come from the right, but now we see that it comes from Big Tech, which has interfered with a news organization’s coverage of a Joe Biden campaign issue. Social media giants Twitter and Facebook on Wednesday limited the sharing on their platforms of a story from The New York Post about questionable business dealings of Joe Biden’s son Hunter in Ukraine."
+    publishedDateTime: 2020-10-16T10:06:00Z
+    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 121
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/_PA3J5pS0nFUPeIzjC67IR6vTUE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ED4OMV2TAJEKLKWKRNMHJFESTY.jpg"
+      - url: "https://www.chicagotribune.com/resizer/P2hqGpWjNVftSNcBqXQMwth4Lbs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H2RW7ZNH7DBS77JXMSLEEFLGFI.jpg"
         width: 1200
-        height: 675
+        height: 797
         isCached: true
-  - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
-    excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
-    publishedDateTime: 2020-09-20T10:37:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
+  - title: "How come we never talk about Joe Biden’s health care plan?"
+    excerpt: "We're preoccupied with Trump's attack on Obamacare, but Biden's plan could produce the most intense fight of his presidency."
+    publishedDateTime: 2020-10-22T19:31:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 119
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NFPHNGAROEI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Joe Biden is betting big on climate change. Can he grow the economy at the same time?"
-    excerpt: "The former vice president is calling for $2 trillion in federal spending over the next four years to get the United States on the path to eliminating carbon emissions by mid-century — likely requiring massive shift away from oil and other fossil fuels."
-    publishedDateTime: 2020-09-25T11:50:00Z
-    webUrl: "https://www.houstonchronicle.com/business/energy/article/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
-    ampWebUrl: "https://www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/energy/amp/joe-biden-climate-change-covid-economy-green-deal-15595374.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 118
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/25/63/20012285/3/375x250.jpg"
-        width: 371
-        height: 250
-        isCached: true
-  - title: "Joe Biden's plans to hike taxes for rich Americans will be key for markets if he wins the election, a strategist says"
-    excerpt: "Robertson said markets will factor in whether Biden's tax plans pressure domestic equities and credit markets at the expense of foreign markets."
-    publishedDateTime: 2020-09-30T11:31:00Z
-    webUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5f745c180ab50d00184ad34d?format=jpeg"
-        width: 3500
-        height: 1750
-        isCached: true
-  - title: "Joe Biden declines to say whether he will expand the size of the Supreme Court if he wins"
-    excerpt: "The Democratic presidential candidate said whatever he decides to do will depend on the Senate's handling of Judge Amy Coney Barrett's confirmation."
-    publishedDateTime: 2020-10-16T22:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/town-hall-joe-biden-vague-court-packing-says-depends-senate/3672724001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3672724001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3672724001"
+  - title: "How would Joe Biden handle a Supreme Court dangerously out of touch with the people?"
+    excerpt: "The pertinent question is not whether Biden believes in court packing but if or how he'd correct for some 40 years of blatant conservative activism."
+    publishedDateTime: 2020-10-15T10:14:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/15/joe-biden-supreme-court-federalist-society-amy-barrett-column/3640970001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3640970001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3640970001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 116
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/7e6fa779-ec61-40aa-bee2-2cf20a135ca7-AP20290022134268.jpg?auto=webp&crop=3732,2099,x674,y914&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/47a2b65a-0c84-45b1-af3d-3dc09e5f4d28-GTY_1229033254.jpg?auto=webp&crop=5297,2980,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "The Energy 202: Joe Biden walks political tightrope by saying he does not support the Green New Deal"
-    excerpt: "The former vice president has spent months reconciling the climate demands of his party’s liberal and moderate wings."
-    publishedDateTime: 2020-09-30T12:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HYTZNXAC4II6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 1118
-        isCached: true
-  - title: "Joe Biden speaks about Supreme Court in Philadelphia"
-    excerpt: "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-20T18:33:00Z
-    webUrl: "https://www.washingtonpost.com/video/national/joe-biden-speaks-about-supreme-court-in-philadelphia/2020/09/20/a04eccb1-7423-4c53-ba27-4b91cd99d5fb_live.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/09-20-2020/t_9297af0036cb4b3399eab29fba386abf_name_20200911_biden_jabin_thumb.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "George W. Bush's first EPA chief on why she supports Joe Biden"
-    excerpt: "Christine Todd Whitman, the former Republican governor of New Jersey who headed the Environmental Protection Agency under President George W. Bush, is endorsing Joe Biden in the presidential race. She joined CBSN to explain why she believes the Democratic nominee is a better choice for the country than President Trump."
-    publishedDateTime: 2020-09-28T21:56:00Z
-    webUrl: "https://www.cbsnews.com/video/george-w-bushs-first-epa-chief-on-why-she-supports-joe-biden/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/28/82a5b4b7-6b45-4a2f-9c68-17503be50c3b/thumbnail/1200x630/0daa3e25a97217bff1b74715ab3504d1/cbsn-fusion-george-w-bushs-first-epa-chief-on-why-she-supports-joe-biden-thumbnail-555771-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden tells white supremacist groups to 'cease and desist' – video"
-    excerpt: "Joe Biden warned white supremacist groups including the Proud Boys, an extremist rightwing group, to 'cease and desist'"
-    publishedDateTime: 2020-09-30T21:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/sep/30/biden-trump-proud-boys-white-supremacists-cease-and-desist?ref=hvper.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/2c96dc4c3432c3b225914fc3d1566fe0e60f6cff/0_97_6214_3731/master/6214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf33728528f043a1130adf56f1ec6fd1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden on expanding the Supreme Court"
-    excerpt: "Under pressure from his party to consider increasing the number of justices, Biden says that if elected, he’d form a commission to study and advise on potential judicial reform"
-    publishedDateTime: 2020-10-25T23:46:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-on-expanding-the-supreme-court/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/25/2524ac00-dc39-41b5-a416-1bff2fc7803e/thumbnail/1200x630/c14eb01a97fc7707f5ef961e54f49405/bidenot3supremecourt0-574202-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Leaked internal memos reveal the Democratic plan to use the battle over RGB's replacement to Joe Biden's advantage"
-    excerpt: "Talking points urge congressional Democrats to highlight the stakes for healthcare as they fight the GOP over filling a SCOTUS seat."
-    publishedDateTime: 2020-09-25T15:28:00Z
-    webUrl: "https://www.businessinsider.com/democrats-healthcare-pelosi-schumer-scotus-ginsburg-rbg-obamacare-2020-9"
+  - title: "Biden calls controversial New York Post story about his son Hunter a 'smear campaign'"
+    excerpt: "Biden forcefully pushed back against the report that Hunter tried to set up a meeting between a Ukrainian official and the former Vice President."
+    publishedDateTime: 2020-10-17T18:13:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 83
+    quality: 118
     images:
-      - url: "https://i.insider.com/5f6d060f0f4d550011032355?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/5f8b2e529e9fe40019009f10?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 375
         isCached: true
-  - title: "Joe Biden’s low-key campaign style worries some Democrats"
-    excerpt: "The final stretch of a presidential campaign is typically a nonstop mix of travel, caffeine and adrenaline. But as the worst pandemic in a century bears down on the United States, Joe Biden is"
-    publishedDateTime: 2020-09-26T23:55:00Z
-    webUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/"
-    ampWebUrl: "https://www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/09/26/joe-biden-low-key-campaign-democrats/amp/"
+  - title: "FBI probing whether emails in New York Post story about Hunter Biden are tied to Russian disinformation"
+    excerpt: "The FBI is investigating whether emails published by the New York Post about Hunter Biden are linked to a Russian effort to spread disinformation."
+    publishedDateTime: 2020-10-16T21:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/16/hunter-biden-fbi-probing-if-new-york-post-story-tied-russia/3684342001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3684342001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3684342001"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/09/AP20269061560469.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Joe Biden Is an Overhyped Debater"
-    excerpt: "Throughout Biden’s shaky 2020 Democratic primary debate performances, observers remarked that this wasn’t the same guy we saw debating Paul Ryan years ago."
-    publishedDateTime: 2020-09-29T15:47:00Z
-    webUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/"
-    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/Joe-Biden-1-DNC-scaled.jpg?resize=300%2C300&ssl=1"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Joe Biden: 'I am the Democratic Party right now'"
-    excerpt: "Joseph R. Biden declared Tuesday that he is effectively the Democratic party to try to rebut President Trump’s claim that he’d push a health proposal that would kick 180 million Americans off their private health insurance plans."
-    publishedDateTime: 2020-09-30T03:01:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/29/joe-biden-i-am-democratic-party-right-now/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/29/joe-biden-i-am-democratic-party-right-now/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/29/joe-biden-i-am-democratic-party-right-now/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/29/Election_2020_Debate_44204.jpg-74e82_c0-209-4955-3099_s1200x700.jpg?997af342a35fcecbf52c74f7b08e1f8b029a3b03"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "What California’s COVID approach could teach the country if Joe Biden wins"
-    excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."
-    publishedDateTime: 2020-09-20T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article245761785.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 73
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/6fca8008-5399-473b-9c15-ae69e818d75a/main/1280x720/1m2s741ms/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden uses Supreme Court vacancy to argue that 'health care hangs in balance’ for voters in November election"
-    excerpt: "Joe Biden on Sunday used the Supreme Court vacancy to reinforce his argument that the election should be a referendum on President Donald Trump’s handling of health care."
-    publishedDateTime: 2020-09-20T22:28:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-nw-joe-biden-supreme-court-health-care-20200920-tddzyfuipngczf4pxcfugehzmy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 69
-    images:
-      - url: "https://www.courant.com/resizer/rQ7xWt6cu6HdkyBvZQhc6Ex2KSc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43432GVOO5GY5ODFGH2DAL7244.aspx"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/a7e1e9c5-cc73-4ba8-94df-4a843104fb36-GTY_1228757046.jpg?auto=webp&crop=4648,2615,x0,y28&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "‘Joe Biden has no ground game in Florida.’ Will Mike Bloomberg’s money change that?"
-    excerpt: "Progressive activists backing Joe Biden in Florida say they’ve made millions of phone calls, sent hundreds of thousands of text messages and even written thousands of letters to convince voters to support the Democratic presidential nominee."
-    publishedDateTime: 2020-09-24T10:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article245936375.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article245936375.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article245936375.html"
+  - title: "Donald Trump threatened Facebook and Twitter again after they throttled the spread of a dubious New York Post story about Hunter Biden"
+    excerpt: "President Trump tweeted it was \"so terrible\" that Facebook and Twitter \"took down\" the New York Post article, which they did not do."
+    publishedDateTime: 2020-10-15T09:30:00Z
+    webUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/63f0cd1c-aa82-41aa-9299-fa4254e9cb80/6c7afb92-5477-477c-8802-a3b7875f288f/1280x720/match/image.jpg"
-        width: 1280
-        height: 718
-        isCached: true
-  - title: "Could Joe Biden Win Georgia? Democratic Nominee Launches Ad Blitz In Southern Battleground State"
-    excerpt: "Democratic nominee Joe Biden unveiled new ads in Georgia, targeting African-Americans in the battleground state."
-    publishedDateTime: 2020-09-22T00:51:00Z
-    webUrl: "https://www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482"
-    ampWebUrl: "https://www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/could-joe-biden-win-georgia-democratic-nominee-launches-ad-blitz-southern-3049482?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/20/democratic-presidential-nominee-and-former-vice-president-joe.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Ex-husband says Jill Biden 'betrayed' him by cheating on him with Joe Biden; Biden camp denies it"
-    excerpt: "The ex-husband of Jill Biden has accused her of breaking up their marriage by cheating on him with then-Sen. Joseph R. Biden, a bombshell claim that the Biden campaign adamantly denies."
-    publishedDateTime: 2020-09-24T07:01:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/23/ex-husband-says-jill-biden-betrayed-him-by-cheatin/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 62
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/14/Election_2020_Biden_75896.jpg-f0c03_c0-0-5812-3390_s1200x700.jpg?e08503a716ce7b17cc9f3907f086fb5a345c64c9"
+      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
         width: 1200
-        height: 700
+        height: 600
         isCached: true
-  - title: "FACT CHECK: Joe Biden’s false and exaggerated Supreme Court claims"
-    excerpt: "In remarks following the death of Associate Justice Ruth Bader Ginsburg, Democratic presidential nominee Joe Biden made several false and exaggerated claims while arguing that the Senate should wait until after the Nov."
-    publishedDateTime: 2020-09-24T03:04:00Z
-    webUrl: "https://www.chron.com/news/article/FACT-CHECK-Joe-Biden-s-false-and-exaggerated-15587948.php"
+  - title: "The New York Post's Hunter Biden Stories Raise Questions About Joe Biden and It's Reporting — Here Are 9"
+    excerpt: "The emails and photos included in the report came from a Trump-supporting computer store owner in Delaware via Rudy Giuliani."
+    publishedDateTime: 2020-10-15T17:16:00Z
+    webUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463"
+    ampWebUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 108
+    images:
+      - url: "https://d.newsweek.com/en/full/1653127/hunter-biden.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Facebook And Twitter Limit Sharing New York Post Story About Joe Biden"
+    excerpt: "The social media companies said they wanted to slow the spread of possibly false information. But their actions drew charges of censorship from President Trump's allies."
+    publishedDateTime: 2020-10-14T22:49:00Z
+    webUrl: "https://www.npr.org/2020/10/14/923766097/facebook-and-twitter-limit-sharing-new-york-post-story-about-joe-biden"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/14/gettyimages-1165948314_wide-94737daf8ae51aa6447620c7627e1ed015c5018b.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Impatient Democrats want Biden to do more in Texas"
+    excerpt: "The whispers about Texas are picking up again."
+    publishedDateTime: 2020-10-16T19:22:00Z
+    webUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
+    excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
+    publishedDateTime: 2020-10-15T11:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-54552101"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54552101"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54552101"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 73
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7AB4/production/_114921413_biden-mails.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "In context: A look behind the NY Post headline about Joe Biden and a Ukraine meeting"
+    excerpt: "For weeks, conservatives have tried to attack Democratic presidential nominee Joe Biden by raising what they portray as sketchy business dealings by his"
+    publishedDateTime: 2020-10-16T18:22:00Z
+    webUrl: "https://www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting"
+    ampWebUrl: "https://www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 68
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=NEWS&ArtNo=201019455&Ref=AR"
+        width: 3543
+        height: 2364
+        isCached: true
+  - title: "Is This a Photograph of Joe Biden’s House?"
+    excerpt: "A little background research can go a long way towards avoiding the making of embarrassingly inaccurate accusations."
+    publishedDateTime: 2020-10-17T21:36:00Z
+    webUrl: "https://www.snopes.com/fact-check/biden-mansion-tweet/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
     quality: 55
     images:
-      - url: "https://s.hdnux.com/photos/01/14/22/54/19999550/5/rawImage.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.snopes.com/tachyon/2020/10/biden_home.jpg"
+        width: 1122
+        height: 748
         isCached: true
-  - title: "Joe Biden Will Create Commission on Supreme Court Reforms if Elected"
-    excerpt: "The Democratic presidential nominee has been repeatedly pressed to give his position on ‘court packing’ but said his commission would study options ‘well beyond’ court expansion."
-    publishedDateTime: 2020-10-22T13:22:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
+  - title: "NY Post: Ex-Biden Business Partner Says Joe Was In On Family Deal 'to Make Millions' From China"
+    excerpt: "A former business partner of Hunter Biden issued a statement to The New York Post overnight, asserting that the Biden family, including Joe, Hunter and Joe's brother James, \"aggressively leveraged the Biden family name to make millions of dollars from foreign entities even though some were from communist controlled China."
+    publishedDateTime: 2020-10-22T09:43:00Z
+    webUrl: "https://www.cnsnews.com/article/national/susan-jones/ny-post-ex-biden-business-partner-says-joe-was-family-deal-make"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 23
 
 secured: "q1b713cHT/IdBxMai8ff+OmL1Bqs9JyxQQo8jKo/l1Q95SQfvjPRZf7pxFtk4YDrURiX9kvT8BOsskzcVYw5WWa+WqG/Qyx9M/hhNDc/XDsd1h7gaKJfrYLtyouajRlr4PoMo3JCIXyS2FnW2Ul/MbFProzUUNiXz8XclP2SgDECK8u4kGEvmJfePpv8NN6s9OfRPSflUJDXC3bUsW8phBU+zliwaZ9du+BHE7veEwwLKVZQMW4nxLyeDgfxHfxXQ1SSdU9FpwALIuLIRKVbEOeq2CoptIXZh/f56bRAVknEv2h2dEjyKWovhtNhKSq12UctmHuIsxxEOrmevLiz/+oysM8kIPikO9RlX+KI1N8=;U01q4okAma7QQ1EoJocuRg=="
 ---

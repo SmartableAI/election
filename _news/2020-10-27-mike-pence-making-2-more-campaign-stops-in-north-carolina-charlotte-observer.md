@@ -37,22 +37,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket? | Charlotte Observer"
-    excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."
-    publishedDateTime: 2020-10-15T21:02:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246481970.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 52
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/70f7fa99-4b85-46e4-837e-1a7993be9522/60c69175-10cb-490d-936b-43105ffe89f5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "gi+711qIAeKEB8LmT/edSHT3MHoUD8CRHjDrY1kCACYqiR51Qlm6Qfv1gYswnkooU/MNy94V27BjK5sy7BibpSAPKzKVCsNnKumetOcDXWy4infOISuNN8AfsoSiCV9NF4jV80lcvvllu2pzUp9l0VQhElOkI5X6vZP/BNQfAfeVB+mFETftQgZqnx5hhmhwPlUuJDD2fY5Ppd9QFo4Tf1JgjwnoqSiBNDFmekC6Bqk8WFpe8kZw6NgmeJfxH6Y3BYB+Y4E5joMlDtwnC+RxUKHzm1sc49262qi+8v9SQbdcBqVxC8x0T9KElcZZ7U2EwqpomSTcw1L7jWkSYP7VYU0GGlRWJjDQYLZ+3K01yd4=;NkGesgReexC7ZUcg2BKGiA=="
 ---

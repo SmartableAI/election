@@ -31,69 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook pulled 48 Trump election campaign ads which told people 'your vote has not been counted'"
-    excerpt: "Some 399,000 saw the ads from the Trump campaign before Facebook pulled it, which was potentially misleading to some voters."
-    publishedDateTime: 2020-10-23T15:44:00Z
-    webUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 127
-    images:
-      - url: "https://i.insider.com/5f92f8b4212113001874071a?width=1200&format=jpeg"
-        width: 780
-        height: 390
-        isCached: true
-  - title: "Can you change your vote? Trump thinks people should"
-    excerpt: "President Donald Trump, arguing he's gained since the last debate, on Tuesday encouraged voters who have already voted absentee to look into changing their votes."
-    publishedDateTime: 2020-10-28T13:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/change-vote-trump-thinks-people/story?id=73854468"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/change-vote-trump-thinks-people/story?id=73854468"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/change-vote-trump-thinks-people/story?id=73854468"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-lititz-rally-01-rt-jef-201026_1603738033058_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Report: Trump Campaign Has Videotaped Philadelphia Voters In Potentially Illegal Voter Intimidation"
-    excerpt: "Members of President Donald Trump’s re-election campaign have been filming Philadelphia voters as they put their ballots in drop boxes, which poll watchers are not permitted to do in Pennsylvania and could be an act of illegal voter intimidation,"
-    publishedDateTime: 2020-10-22T22:53:00Z
-    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/"
-    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/amp/"
+  - title: "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That"
+    excerpt: "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate."
+    publishedDateTime: 2020-10-28T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/"
+    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 111
+    quality: 124
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9203f9fec3f6d2522ff281%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D53%26cropY2%3D2585"
-        width: 1200
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9890ed25a04196a125a749%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3202%26cropY1%3D0%26cropY2%3D1802"
+        width: 1199
         height: 675
         isCached: true
-  - title: "Voting across the US live updates: Joe Biden leads Donald Trump in Texas poll; New Hampshire can't ban armed voters; Facebook threat"
-    excerpt: "The latest in voting news, including Joe Biden leading Donald Trump in a new Texas poll and New Hampshire saying it can't keep armed voters away."
-    publishedDateTime: 2020-10-25T21:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/25/voting-2020-joe-biden-donald-trump-texas/3728764001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3728764001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728764001"
+  - title: "President Trump casts a 'very secure vote' for himself in-person in Florida"
+    excerpt: "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida."
+    publishedDateTime: 2020-10-26T01:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump's EPA rewrote the rules on air, water energy. Now voters face a choice on climate change issues"
+    excerpt: "Election Day will be a decision between deregulation or re-regulation. A look at Trump's rollbacks and their long term effects nationwide."
+    publishedDateTime: 2020-10-29T07:14:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/investigations/2020/10/29/climate-change-escalates-voters-face-choice-deregulate-re-regulate/3668667001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3668667001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3668667001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 109
+    quality: 110
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/1912c2b8-97e2-4eb4-a230-436baefc21e2-Dallas_line.jpg?auto=webp&crop=4819,2711,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/NCOD/292b255e-c6f8-4fde-80dd-72114e11db3c-04_Environment_Election_CLH.jpg?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out."
+    excerpt: "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump."
+    publishedDateTime: 2020-10-22T17:39:00Z
+    webUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "19abbJdudvEuL3PZj0nqS5HzQ08SZ/mEs04UwU5eaBFhWjL0OoAZva0Q8s+ZDLrOHCHE4w6f+zDTxcsg5bJCdqlmvg4AZANEhZXAX8BqJXSM1rsSImaEk2HOfU2yx6kedKEvgewIQz2CeUts937q+VcbnRcpur9lhJobFzTHrflWF6fmxGYhkRhvcasrQ2z15zctHXIabp87LZpXaa72G5ZF5RnorpTAE+MO3zxbdmmhpd2K0324R02LsOnZzF3MLp3YsLAeB/ebhySpS0k1CSEeJ7SYVwcWBAuhP9sC0ttCwhe5rTdRLtM3++nIxBR2fxayPTEhMSLGX/L9aQyEBG2bByJHlHQU7EQlsmKZJ3sJC5CmOV9Nb5XlQsAKyF5Z3UfDNvi7S5bv8aE7yE089a5TgwvmiLDe00lIBudLhFimS78GbhVEdbmuHbnxDivmzYsSPxmSHV9DpBy7urlx9hk6SEXlsDzQva2OjZ4SczAyCPpY1MxJ+5sAEv9Dz1GvIYw4I4OiY9K98X+DEIUxcg==;ilb8klMfORI3zVAYE4KVxw=="

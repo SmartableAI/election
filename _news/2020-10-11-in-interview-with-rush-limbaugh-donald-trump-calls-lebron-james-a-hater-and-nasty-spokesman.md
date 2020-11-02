@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5955438002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5955438002"
 type: article
 quality: 112
-heat: 132
+heat: 112
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Latest: Trump Calls Rush Limbaugh Show for MAGA 'Rally'"
-    excerpt: "President Donald Trump, still White House bound after his COVID-19 diagnosis, called into the Rush Limbaugh show Friday for a radio “rally” with the conservative talk host."
-    publishedDateTime: 2020-10-09T17:05:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/the-latest-trump-calls-rush-limbaugh-show-for-maga-rally"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/the-latest-trump-calls-rush-limbaugh-show-for-maga-rally?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/the-latest-trump-calls-rush-limbaugh-show-for-maga-rally?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "kMgzV2rwWUgisaePzRoYHOFX2v8q9wM8EoBBO2OtT3gFVyJEfJOq6OepyFq99BGG8t7L6T2MmFNRKD2z3N7kwrX1ONBi8UtmAypMW7mRBN9HwXB6cZOZR53uMmEDG3ckYRnDrrD812km9JHlpc3MZSusZMTci6F2u4cR+HaiCdN58dlYiJOqqEc/yfklfUtXQtw/ho33QJg2eRqfWY+s+LklI1Beg2t4oS33DxgpkTSn8+Gn2Nn0osyX8WQFT1vxyjsOktcKeQE78eM+aDtY8pVjCA444544S6gcKU52aKZxe/bpKdsjZsZOpwRf3UufOG94UyYaLMVPpDCU9wJ5JfmlU1u1G246VCh9e5mY5GYTiqehzdBOiYWZRAuMHIquOx7h7D68JpjfVMhXoXdtWFK3VxjjwytgDGbIg6D1XKa1JNwcllTCFx0PSMZiE16yY0RXh51WVknoael4hjgLZSkqXEwzXBIirO1OPPtrwbNMT66ESon0fxynCxF1hlu6MyxdRS8N7l7/iFM3+yQBdg==;tC+MLDX7NG4IpFThaHWlXw=="
 ---

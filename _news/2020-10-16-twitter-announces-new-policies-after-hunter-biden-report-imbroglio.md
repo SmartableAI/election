@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-announces-new-policies-afte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp"
 type: article
 quality: 175
-heat: 815
+heat: 835
 published: true
 
 provider:
@@ -396,6 +396,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f796f0e1-696b-4992-b9ba-da1064a892da/0b6b02e5-8614-43f2-bbcf-34d666086897/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Hey, Joe Biden, what did you know about Hunter’s dirty deals?: Goodwin"
+    excerpt: "Now that some secrets of the Biden family business are no longer secrets, it’s easy to imagine Joe Biden asking the same question Robert Redford asked in the 1972 film “The Candidate.”"
+    publishedDateTime: 2020-10-17T10:14:00Z
+    webUrl: "https://nypost.com/2020/10/17/what-did-joe-biden-know-about-hunters-crook-emails-goodwin/"
+    ampWebUrl: "https://nypost.com/2020/10/17/what-did-joe-biden-know-about-hunters-crook-emails-goodwin/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/what-did-joe-biden-know-about-hunters-crook-emails-goodwin/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/ObamaJoeHunter.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "FBI holding laptop allegedly containing Hunter Biden business emails: officials"
     excerpt: "FBI in possession of Hunter Biden's purported laptop, sources say The FBI is in possession of the laptop purportedly belonging to Hunter Biden which allegedly contained emails revealing details of his foreign business dealings,"

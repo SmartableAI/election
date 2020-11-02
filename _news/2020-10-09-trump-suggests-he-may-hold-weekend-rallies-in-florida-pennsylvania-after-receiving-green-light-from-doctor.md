@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-weekend-rallies-florida-penns
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp"
 type: article
 quality: 157
-heat: 157
+heat: 197
 published: true
 
 provider:
@@ -29,6 +29,36 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump campaign kicks off Florida 'Fighters Against Socialism' bus tour"
+    excerpt: "Donald Trump Jr. made the first of four campaign stops in Florida at the Tampa Convention Center on Sunday, as part of a statewide bus tour, heralding the dangers of an ever-growing Marxist and socialist presence within the United States. "
+    publishedDateTime: 2020-10-12T20:43:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H7QRsZmgmHI/trump-team-kicks-off-florida-fighters-against-socialism-bus-tour"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump-jr.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Federal judge rejects Trump suit to block ballot drop boxes in Pennsylvania"
+    excerpt: "A federal judge in Pennsylvania rejected a lawsuit from the Trump administration to limit the number of drop boxes in the state for mail-in ballots. "
+    publishedDateTime: 2020-10-11T01:33:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MC1frMzaAB0/federal-judge-rejects-trump-suit-to-block-ballot-drop-boxes-in-pennsylvania"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/PA-Ballot-iStock.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "24FEFZgn6Egx7m7xvQ8dheTRMgZb/bTF/SL1wXlsrNLGJSkEp69LZ0YqShv5i0nyd/4W6DxPIJInQqS7bslnzaJdUIkAriNl8gMggRpssFKxUbA/hbvdrmaeAb9j4EUSX/o4UDESkpcwmf7+S1TvyvKhu8bgfe+3MO4cHbZb264t3aBSmTIZQUa3B6SWwDF73PaeUebVGWghgIeSh7K6KLTVK2aLcS1dCT34uc/nrTagqAcIHGx8KYZBdx4ESgmJkbleO9rBWfmiCl8z7+12ewUxZa9QrEL+nyX2UUo45vIG1LE/4TYPvZ6JHutavJYFW87xeOUNcQFaWmA+s9g65Xrp/PO51A9ytvJwGVD5A7Y=;J5gsAktg6KnhdevEqIKLfw=="
 ---

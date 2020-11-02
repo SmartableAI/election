@@ -398,19 +398,19 @@ related:
       name: WJBK
       domain: fox2detroit.com
     quality: 48
-  - title: "Joe Biden Attends Cincinnati Voter Mobilization Event"
-    excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."
-    publishedDateTime: 2020-10-12T23:47:00Z
-    webUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
+  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
+    publishedDateTime: 2020-10-12T23:00:00Z
+    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
-    publishedDateTime: 2020-10-12T23:00:00Z
-    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
+  - title: "Vice President Pence Campaigns in Maine"
+    excerpt: "President Pence delivers remarks at a campaign rally in Hermon, Maine. Vice President Pence delivers remarks at a campaign rally in Hermon, Maine. President Trump delivered remarks at a campaign rally in Macon,"
+    publishedDateTime: 2020-10-19T13:34:00Z
+    webUrl: "https://www.c-span.org/video/?477109-1/vice-president-pence-campaigns-maine"
     type: article
     provider:
       name: C-SPAN

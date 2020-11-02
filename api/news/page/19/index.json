@@ -2,6 +2,115 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-13-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight.md",
+      "title": "Biden: Faith shouldn't be a subject in Barrett confirmation fight",
+      "excerpt": "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
+      "originalUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
+      "publishedDateTime": "2020-10-12T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-read-kamala-harris-remarks-at-the-supreme-court-confirmation-hearing.md",
+      "title": "Read: Kamala Harris' remarks at the Supreme Court confirmation hearing",
+      "excerpt": "Sen. Kamala Harris, the Democratic vice presidential nominee and a member of the Senate Judiciary Committee, spoke at the Supreme Court confirmation hearing of Amy Coney Barrett Monday remotely from her Senate office.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7_0ESG6VMM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7_0ESG6VMM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201012131303-04-barrett-hearing-1012-screengrab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html",
+      "publishedDateTime": "2020-10-12T10:29:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week.md",
       "title": "The Guilty History Behind Joe Biden and the Democrats Regarding Their SCOTUS Complaints This Week",
       "excerpt": "As the confirmation hearing for Amy Coney Barrett’s appointment commences we are girding ourselves to be inundated with plenty of mewling and complaining from Democrats and the press. There will",
@@ -232,7 +341,7 @@
       "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -444,6 +553,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-12-kamala-harris-bernie-sanders-urge-stimulus-bill-focus-over-amy-coney-barrett-hearings.md",
+      "title": "Kamala Harris, Bernie Sanders Urge Stimulus Bill Focus Over Amy Coney Barrett Hearings",
+      "excerpt": "The senators suggested that a further relief package should be the focus of the Senate, as opposed to the SCOTUS nomination.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296",
+      "originalUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1649537/sanders-harris.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1",
+      "publishedDateTime": "2020-10-12T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-what-trump-could-learn-from-the-fall-of-frances-own-fiery-law-and-order-president.md",
       "title": "What Trump could learn from the fall of France's own fiery 'law and order' president",
       "excerpt": "Americans are on the eve of a momentous political choice this November. But for a jump on how the story goes from here, consider what happened in France, where another \"back to normal\" candidate challenged a firebrand incumbent.",
@@ -509,7 +670,7 @@
       "originalUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
       "featuredContent": null,
       "highlight": null,
-      "heat": 875,
+      "heat": 815,
       "tags": null,
       "images": [
         {
@@ -609,6 +770,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-11-analysis-joe-bidens-polling-better-than-any-challenger-since-1936.md",
+      "title": "Analysis: Joe Biden's polling better than any challenger since 1936",
+      "excerpt": "Former Vice President Joe Biden is dominating President Donald Trump in the latest polls. No, the election is not over yet, and Trump still has a non-negligible chance of winning.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d7b55ymY66I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d7b55ymY66I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html",
+      "publishedDateTime": "2020-10-11T14:17:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-tupacs-relative-says-the-trump-campaign-was-clearly-disrespectful-to-leave-a-ticket-for-the-late-rapper-at-vice-presidential-debate.md",
       "title": "Tupac's relative says the Trump campaign was 'clearly disrespectful' to leave a ticket for the late rapper at vice presidential debate",
       "excerpt": "The dig came after vice presidential nominee Kamala Harris said Tupac Shakur is the \"best rapper alive\" during a recent interview.",
@@ -658,6 +875,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-twitter-adds-warning-to-immune-tweet-by-us-president-trump.md",
+      "title": "Twitter adds warning to 'immune' tweet by US President Trump",
+      "excerpt": "As President Trump  on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus, Twitter slapped a warning label on his tweet in which he declared he was now “immune” from the virus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tx_XT2LTV3M/twitter-adds-warning-to-immune-tweet-by-us-president-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tx_XT2LTV3M/twitter-adds-warning-to-immune-tweet-by-us-president-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3feda8a-9f09-4f04-8b12-362f78fe55a2/4dcd18cb-2e8e-4d06-9acb-92f7162bae8e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-11T13:38:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -781,7 +1054,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -872,7 +1145,7 @@
       "originalUrl": "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1016,58 +1289,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-trump-says-all-his-friends-leaving-sad-place-new-york-city-due-to-covid-lockdowns.md",
-      "title": "Trump Says All His Friends Leaving 'Sad Place' New York City Due to COVID Lockdowns",
-      "excerpt": "President Donald Trump railed against the coronavirus pandemic lockdown measures being enforced in his hometown of New York City, claiming the country's largest metropolis is now a \"ghost town.\" Trump defended his nonchalant attitude toward social-distancing measures prior to contracting COVID-19,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138",
-      "originalUrl": "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1649283/trump-new-york-city-lockdown.jpg",
-          "width": 3000,
-          "height": 1933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1",
-      "publishedDateTime": "2020-10-11T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-11-trump-packing-supreme-court-would-permanently-destroy-the-court.md",
       "title": "Trump: Packing Supreme Court would 'permanently destroy the Court'",
       "excerpt": "President Trump said Democratic nominee Joe Biden has \"zero chance\" of resisting members of his party who want him to pack the courts and referenced the historial lesson of President Franklin Delano Roosevelt's attempt to expand the Supreme Court.",
@@ -1080,7 +1301,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1121,214 +1342,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-kamala-harris-faces-sexism-and-racism-as-online-commenters-label-her-black-hillary.md",
-      "title": "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’",
-      "excerpt": "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/politics-government/election/article246337265.html",
-      "originalUrl": "https://www.miamiherald.com/news/politics-government/election/article246337265.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/election/article246337265.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html",
-      "publishedDateTime": "2020-10-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-twitter-reacts-to-jim-carreys-joe-biden-impersonation-on-snl.md",
-      "title": "Twitter Reacts To Jim Carrey's Joe Biden Impersonation On 'SNL'",
-      "excerpt": "Jim Carrey's portrayal of Joe Biden on \"Saturday Night Live\" left some viewers disappointed. Some called for Jason Sudeikis or Woody Harrelson to play the former vice-president once more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
-      "originalUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/19/jim-carrey.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
-      "publishedDateTime": "2020-10-11T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-mike-pences-fly-takes-center-stage-on-saturday-night-live.md",
-      "title": "Mike Pence's fly takes center stage on 'Saturday Night Live'",
-      "excerpt": "The vice president, played by Beck Bennett, assured the nation: \"The president is doing amazing, thanks to his team of terrified doctors.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/pop-culture/tv/mike-pence-s-fly-takes-center-stage-saturday-night-live-n1242839",
-      "originalUrl": "https://www.nbcnews.com/pop-culture/tv/mike-pence-s-fly-takes-center-stage-saturday-night-live-n1242839",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_41/3419131/201010-snl-er-1156pm_44fa640d7c35014b2f0e1dcede030b7a.png",
-          "width": 1917,
-          "height": 1075,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242839",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242839",
-      "publishedDateTime": "2020-10-10T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-has-met-cdc-criteria-to-end-isolation-and-is-cleared-to-return-to-an-active-schedule-by-his-physician.md",
-      "title": "Trump has met CDC criteria to end isolation and is cleared to return to an active schedule by his physician",
-      "excerpt": "President Donald Trump has been cleared to return to an active schedule, according to a new memo from his physician, Dr. Sean Conley, released Saturday night.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
-      "publishedDateTime": "2020-10-10T20:00:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

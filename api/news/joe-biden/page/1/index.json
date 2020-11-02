@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-30-pelosi-confident-biden-to-be-elected-president.md",
-      "title": "Pelosi: 'Confident' Biden to be elected President",
-      "excerpt": "Speaker of the House Nancy Pelosi says she's confident the Democratic Presidential nominee Joe Biden will be elected president. She says while she doesn't want to be \"overconfident,\" she wants to be ready to \"go down a different path.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/29/pelosi-confident-biden-elected-president/6074216002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/29/pelosi-confident-biden-elected-president/6074216002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/74c82bc6-1200-4500-92ad-131a2db60975_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-30-facebook-admits-it-improperly-blocked-some-political-ads-due-to-technical-issues-as-joe-bidens-campaign-slams-it-for-being-wholly-unprepared.md",
       "title": "Facebook admits it 'improperly' blocked some political ads due to 'technical issues' as Joe Biden's campaign slams it for being 'wholly unprepared'",
       "excerpt": "Facebook said no ads were blocked \"because of any partisan consideration,\" as Biden's camp accused the company of offering \"no clarity\" on the issue.",
@@ -218,7 +166,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -242,58 +190,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-biden-cunningham-hold-narrow-leads-in-north-carolina-poll.md",
-      "title": "Biden, Cunningham hold narrow leads in North Carolina: poll",
-      "excerpt": "Democratic presidential nominee Joe Biden has a narrow lead over President Trump in North Carolina, while Democrat Cal Cunningham holds a similarly slim lead in the Tarheel State’s marquee Senate race in a new survey released Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll",
-      "originalUrl": "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_102720getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp",
-      "publishedDateTime": "2020-10-29T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -371,6 +267,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-30-watch-joe-biden-holds-drive-in-rally-in-tampa-florida.md",
+      "title": "WATCH: Joe Biden holds drive-in rally in Tampa, Florida",
+      "excerpt": "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
+      "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-09T170355Z_1622682236_RC25FJ9G8NK1_RTRMADP_3_USA-ELECTION-BIDEN-1024x717.jpg",
+          "width": 1024,
+          "height": 717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
+      "publishedDateTime": "2020-10-29T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-biden-vows-to-pass-lgbtq-rights-legislation-in-first-100-days.md",
       "title": "Biden vows to pass LGBTQ rights legislation in first 100 days",
       "excerpt": "Democratic presidential candidate Joe Biden has promised to make the Equality Act a \"top legislative priority\" should he win Tuesday’s election.",
@@ -383,7 +331,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -485,49 +433,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-joe-biden-will-return-to-michigan-on-halloween.md",
-      "title": "Joe Biden will return to Michigan on Halloween",
-      "excerpt": "The trip marks the former vice president's fourth to Michigan in recent weeks, again signaling the importance of the state in the overall race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/10/26/joe-biden-return-michigan-halloween-election-2020/6049405002/",
-      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/10/26/joe-biden-return-michigan-halloween-election-2020/6049405002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/347b1fa3-f7b8-482f-8fb2-adcc72da78b5-biden_101620_kd125.jpg?auto=webp&crop=2399,1350,x0,y115&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/6049405002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6049405002",
-      "publishedDateTime": "2020-10-28T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-29-ben-shapiro-calls-biden-a-gateway-drug-to-radicalism-not-a-return-to-normalcy.md",
       "title": "Ben Shapiro calls Biden a 'gateway drug to radicalism', not a return to normalcy",
       "excerpt": "Joe Biden has based his presidential campaign on a promise to restore \"normalcy\" if he unseats President Trump, but the former vice president will act as nothing more than \"a gateway drug to radicalism,",
@@ -582,6 +487,58 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-coronavirus-is-a-key-campaign-issue-whats-joe-bidens-plan.md",
+      "title": "Coronavirus Is A Key Campaign Issue: What's Joe Biden's Plan?",
+      "excerpt": "With cases surging, the coronavirus pandemic is heating up as an election issue. Voters have seen President Trump's approach to the crisis play out in real-time, but how would Biden handle things?",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/sections/health-shots/2020/10/28/928392673/coronavirus-is-a-key-campaign-issue-whats-joe-biden-s-plan",
+      "originalUrl": "https://www.npr.org/sections/health-shots/2020/10/28/928392673/coronavirus-is-a-key-campaign-issue-whats-joe-biden-s-plan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/10/27/biden_wide-d2ce06a26f17d40267637f287c6c07c5694d9841.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -680,63 +637,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals.md",
-      "title": "2020 Hindsight on Impeachment Trial and Unravelling Biden Family Business Deals",
-      "excerpt": "Failing to get ahead of what has become the drip, drip of new details on Hunter Biden’s business dealings – and the potential ties to his father – could prove",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952",
-      "originalUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true",
-      "publishedDateTime": "2020-10-28T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-joe-biden-could-be-compromised-by-chinese-communist-party-rep-crenshaw.md",
       "title": "Joe Biden could be compromised by Chinese Communist Party: Rep. Crenshaw",
       "excerpt": "Joe Biden needs to answer whether or not he's compromised by China before the Nov. 3 election, Rep. Dan Crenshaw, R-Texas, said Wednesday.",
@@ -794,58 +694,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran.md",
-      "title": "Analysis: Biden would face uncertain path to detente with wary Iran",
-      "excerpt": "Joe Biden plans to scrap what he calls the \"dangerous failure\" of President Donald Trump's maximum pressure policy on Iran should he win the U.S. election, but after years of confrontation his diplomacy-first approach to a historic Middle East foe could prove an",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-iran-analysis-int/analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran-idUSKBN27D1E2",
-      "originalUrl": "https://www.reuters.com/article/usa-election-iran-analysis-int/analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran-idUSKBN27D1E2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539111804&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R0RX",
-          "width": 789,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27D1E2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D1E2",
-      "publishedDateTime": "2020-10-28T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-winnable-but-not-yet-won-why-joe-biden-and-mike-pence-are-both-headed-to-iowa-this-week.md",
       "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
       "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
@@ -886,58 +734,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-joe-biden-visiting-wisconsin-for-3rd-time-a-key-swing-state-hillary-clinton-lost-in-2016.md",
-      "title": "Joe Biden visiting Wisconsin for 3rd time, a key swing state Hillary Clinton lost in 2016",
-      "excerpt": "It's been over a month since Joe Biden has been to Wisconsin-- a key swing state that critics say Hillary Clinton lost because she didn't pour enough time or resources into it. But that will ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
-      "originalUrl": "https://abcnews.go.com/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/biden-event-04-rt-jef-201026_1603746299117_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
-      "publishedDateTime": "2020-10-26T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     },
@@ -999,6 +795,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-27-biden-has-solid-lead-in-wisconsin-narrower-edge-in-pennsylvania-reutersipsos-poll.md",
+      "title": "Biden has solid lead in Wisconsin, narrower edge in Pennsylvania: Reuters/Ipsos poll",
+      "excerpt": "Democratic presidential challenger Joe Biden led President Donald Trump by a solid margin in Wisconsin and maintained a narrower advantage in Pennsylvania with just over a week until Election Day, Reuters/Ipsos opinion polls showed on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27B2F8",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27B2F8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538891639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1KD",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27B2F8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B2F8",
+      "publishedDateTime": "2020-10-26T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-fact-check-voa-video-is-not-a-biden-ad-to-address-the-muslim-community.md",
       "title": "Fact check: VOA video is not a Biden ad to address the Muslim community",
       "excerpt": "Users on social media are sharing a video with Urdu subtitles showing democratic presidential candidate Joe Biden. Some posts refer to the clip as “Biden’s Muslim Commercial” claiming it was produced by the Biden campaign and that it is “being promoted in areas of",
@@ -1007,7 +855,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-biden-not-muslim-ad-idUSKBN27B22U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1047,59 +895,6 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-trump-attacked-biden-for-warning-against-4-more-years-of-george-but-the-democrat-has-long-called-himself-a-gaffe-machine.md",
-      "title": "Trump attacked Biden for warning against '4 more years of George,' but the Democrat has long called himself a 'gaffe machine'",
-      "excerpt": "Joe Biden called President Donald Trump \"George\" during a campaign event. Biden has been open about his stutter, calling himself a \"gaffe machine.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
-      "originalUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f96ad79f21803001222bdca?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
-      "publishedDateTime": "2020-10-26T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Joe Biden"
       ]
     },
@@ -1156,64 +951,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-pence-hits-biden-for-undermining-law-enforcement-tells-levin-all-my-heroes-wear-uniforms.md",
-      "title": "Pence hits Biden for 'undermining' law enforcement, tells Levin 'all my heroes wear uniforms'",
-      "excerpt": "Vice President Mike Pence contrasted the Trump administration's support of law enforcement to that of Joe Biden's on Sunday, telling \"Life, Liberty & Levin\" that unlike his Democratic challenger, his support for the thin blue line dates back to his childhood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/pence-hits-biden-for-undermining-law-enforcement-all-my-heroes-wear-uniforms",
-      "originalUrl": "https://www.foxnews.com/media/pence-hits-biden-for-undermining-law-enforcement-all-my-heroes-wear-uniforms",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0593634-1bea-4ded-a92c-f3546eca0606/67309192-93de-4dbb-93c4-3310dba3a2b3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/pence-hits-biden-for-undermining-law-enforcement-all-my-heroes-wear-uniforms.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/pence-hits-biden-for-undermining-law-enforcement-all-my-heroes-wear-uniforms.amp",
-      "publishedDateTime": "2020-10-25T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall-street-journal-nyt.md",
       "title": "White House lawyer helped shop controversial Hunter Biden story to Wall Street Journal: NYT",
       "excerpt": "A controversial story alleging wrongdoing by former Vice President Joe Biden's family in foreign business dealings was pitched by Trump allies to the Wall Street Journal before it appeared in the New York Post,",
@@ -1222,7 +959,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1253,6 +990,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.md",
+      "title": "Can Joe Biden flip Georgia to Democrats? Campaign stops set for Warm Springs, Atlanta",
+      "excerpt": "Joe Biden will travel to Georgia next week, making a late push in a state that Republicans have won every presidential election since 1996. Biden’s campaign says he will deliver remarks in Warm Springs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html",
+      "originalUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VZT67ZTTZNERHL4YLTGMZVJASY.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp",
+      "publishedDateTime": "2020-10-24T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1380,6 +1160,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-24-gov-doug-ducey-unleashes-a-tweetstorm-after-joe-biden-calls-him-out-on-masks.md",
+      "title": "Gov. Doug Ducey unleashes a Tweetstorm after Joe Biden calls him out on masks",
+      "excerpt": "Gov. Doug Ducey's approval ratings have plummeted given his handling of COVID-19. So, naturally, he patted himself on the back for his leadership.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/opinion/op-ed/laurieroberts/2020/10/23/gov-doug-ducey-tries-praise-his-coronavirus-handling-fails/6012498002/",
+      "originalUrl": "https://www.azcentral.com/story/opinion/op-ed/laurieroberts/2020/10/23/gov-doug-ducey-tries-praise-his-coronavirus-handling-fails/6012498002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/bc7ed05e-df72-4056-986b-de8309954b78-cent02-7ctz9ylo191evdkhhle_original.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/6012498002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6012498002",
+      "publishedDateTime": "2020-10-23T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-iran-says-its-not-interested-in-debate-after-biden-warns-it-will-pay-a-price.md",
       "title": "Iran Says It's 'Not Interested' in Debate After Biden Warns It 'Will Pay A Price'",
       "excerpt": "\"We have repeatedly stated that Iran does not interfere in other countries' elections,\" Iranian mission to the United Nations spokesperson Alireza Miryousefi told Newsweek.",
@@ -1489,6 +1312,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-north-carolina-man-with-van-full-of-guns-asked-should-i-kill-joe-biden-online-authorities-say.md",
+      "title": "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say",
+      "excerpt": "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3740228001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001",
+      "publishedDateTime": "2020-10-23T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-people-embrace-rebranding-of-proud-boys-to-poor-boys-after-biden-misspeaks.md",
       "title": "People embrace rebranding of 'Proud Boys' to 'Poor Boys' after Biden misspeaks",
       "excerpt": "Social media users expressed amusement Thursday when Democratic nominee for president Joe Biden mistakenly called the Proud Boys the \"poor boys\" during a debate with President Trump.",
@@ -1580,6 +1455,106 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-biden-calls-for-bipartisan-commission-to-propose-ways-to-reform-the-court-system.md",
+      "title": "Biden calls for 'bipartisan commission' to propose ways to 'reform the court system'",
+      "excerpt": "Biden faces pressure to take a position on adding seats to the Supreme Court as Trump’s nominee advances toward a Senate vote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_43/3422105/201022-joe-biden-cincinatti-jm-0931_816bd6ee28dec090bc4549dd0d88c9eb.jpg",
+          "width": 2500,
+          "height": 1496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244271",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244271",
+      "publishedDateTime": "2020-10-22T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-tyler-perry-jennifer-lopez-more-stars-endorse-joe-biden-for-president.md",
+      "title": "Tyler Perry, Jennifer Lopez & More Stars Endorse Joe Biden For President",
+      "excerpt": "Joe Biden and Kamala Harris have gained endorsements from plenty of powerful celebrities, like Tyler Perry, Jennifer Lopez and Taylor Swift. Here’s who else is voting for them on November 3.",
+      "sourceUrl": null,
+      "webUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
+      "originalUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pmchollywoodlife.files.wordpress.com/2020/10/joe-biden-celebs-endorse-vote-ftr.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
+      "cdnAmpWebUrl": "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
+      "publishedDateTime": "2020-10-21T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hollywood Life",
+        "domain": "hollywoodlife.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

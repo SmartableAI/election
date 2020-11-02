@@ -32,35 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Watch live: Joe Biden delivers remarks in Delaware on Supreme Court"
-    excerpt: "Watch live coverage of Joe Biden as he delivers remarks in Wilmington, Del., on the U.S. Supreme Court.Sept. 27, 2020 © 2020 NBC UNIVERSAL"
-    publishedDateTime: 2020-09-27T15:02:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92653637692"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92653637692"
+  - title: "Watch live: NBC News Town Hall with Joe Biden"
+    excerpt: "NBC News’ Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday, October 5th in Miami, Fla. A socially-distanced audience of undecided voters will be asking Biden where he stands on the critical issues impacting their lives."
+    publishedDateTime: 2020-10-02T19:59:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-nbc-news-town-hall-with-joe-biden-93026373600"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93026373600"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93026373600"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden1.nbcnews-fp-1200-630.jpg"
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_holt_TH_monday.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Watch live: Biden delivers remarks in Delaware on Supreme Court"
-    excerpt: "Watch live coverage of Joe Biden as he delivers remarks in Wilmington, Del., on the U.S. Supreme Court.Sept. 27, 2020 © 2020 NBC UNIVERSAL"
-    publishedDateTime: 2020-09-28T00:21:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92653637692"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92653637692"
+  - title: "Biden says small groups, PPE, necessary for schools to be open during pandemic"
+    excerpt: "Former Vice President Joe Biden outlines his plan for reopening schools safely during the coronavirus pandemic and focused on rate of transmission in the community, making sure teachers and proper PPE,"
+    publishedDateTime: 2020-10-06T01:04:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-says-small-groups-ppe-necessary-for-schools-to-be-open-during-pandemic-93197381884"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93197381884"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93197381884"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 131
     images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden1.nbcnews-fp-1200-630.jpg"
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_schools_201005_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

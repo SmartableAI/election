@@ -63,6 +63,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump uses Midwestern swing to launch false attacks on doctors while Covid cases rise"
+    excerpt: "With three days to go in a campaign that's been dominated by the pandemic, President Donald Trump made the baseless and politically perilous claim that American doctors are profiting from Covid-19 deaths during a visit to the critical electoral region of the Midwest, where former Vice President Biden"
+    publishedDateTime: 2020-10-31T11:59:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0PIrRDt7Cvc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030194342-trump-kasparov-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump criticizes lockdowns in Europe as Covid-19 cases surge on the continent and in US "
+    excerpt: "President Donald Trump on Sunday harshly criticized strict lockdowns coming to some European countries to combat the coronavirus pandemic, claiming the restrictions are ineffective as cases surge both there and in the US.\n    \n"
+    publishedDateTime: 2020-11-01T19:08:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PcU-0tR08yQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/trump-europe-lockdowns-criticism/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/trump-europe-lockdowns-criticism/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031142109-01-trump-1030-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump Jr. put a perfect exclamation point on his father's bungling of Covid-19"
     excerpt: "Appearing on Laura Ingraham's Fox News show Thursday night, Donald Trump Jr. was asked about Dr. Sanjay Gupta's recommendation that anyone who attends a campaign rally for the President self-quarantine for two weeks.\n    \n"
     publishedDateTime: 2020-10-30T15:06:35Z

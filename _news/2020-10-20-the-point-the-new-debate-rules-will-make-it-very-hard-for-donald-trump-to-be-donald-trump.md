@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: The *real* secret of Donald Trump's success revealed by his tax returns"
-    excerpt: "President Donald Trump likes to tell people he made his fortune building things.\n    \n"
-    publishedDateTime: 2020-09-29T14:14:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yhTkq_2MfTQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190221170200-the-trump-dynasty-ae-doc-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The Point: How professional wrestling perfectly explains Donald Trump's 'Superman' stunt"
     excerpt: "This paragraph, from The New York Times, might at first shock you:\n    \n"
     publishedDateTime: 2020-10-12T01:43:58Z
@@ -124,22 +108,6 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170120165006-trump-sports-gal-12-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Twitter bans posts wishing for Trump death. The Squad wonders where that policy was for them"
-    excerpt: "The four progressive Democratic congresswomen known as \"The Squad\" expressed surprise on Friday night when Twitter posted about its policy against wishing harm or death to someone in light of President Trump's Covid-19 diagnosis.\n    \n"
-    publishedDateTime: 2020-10-03T18:21:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5EP6Kmbcxto/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban-the-squad-politics-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban-the-squad-politics-trnd/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190714042443-tlaib-ocasio-cortez-pressley-omar-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -159,21 +127,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Dow futures plunge 500 points as Trump says he tested positive for Covid-19"
-    excerpt: "Futures tied to the Dow Jones Industrial Average plummeted 500 points. S&P 500 futures and Nasdaq 100 futures were also in negative territory."
-    publishedDateTime: 2020-10-02T09:37:00Z
-    webUrl: "https://www.nbcnews.com/business/markets/dow-futures-plunge-more-400-points-trump-says-he-tested-n1241770?amp/"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241770"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241770"
+  - title: "Drugmaker says White House doctor described Trump treatment inaccurately"
+    excerpt: "Dr. Sean Conley's statement today — and yesterday — described one of the president's coronavirus treatments as a polyclonal antibody cocktail, but the makers of the drug therapy told NBC News in an email that's the wrong term for the treatment."
+    publishedDateTime: 2020-10-05T17:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241998"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 133
+    quality: 134
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3414757/200924-donald-trump-ew-506p_d18730592e7d92cf390f4bf2f60888bd.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
         width: 2500
-        height: 1642
+        height: 1667
         isCached: true
   - title: "Bipartisan 'get well soon' wishes for Trump, but some Democrats send pointed message"
     excerpt: "Bipartisan 'get well soon' wishes for Trump, but some Democrats have a pointed message WASHINGTON — Messages for a quick recovery from lawmakers and world leaders began flooding in Friday, reacting to the news that President Donald Trump and first lady Melania Trump have tested positive for Covid-19."

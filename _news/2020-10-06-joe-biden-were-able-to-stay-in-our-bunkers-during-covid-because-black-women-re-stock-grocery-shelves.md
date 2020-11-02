@@ -48,6 +48,28 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
+    excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
+    publishedDateTime: 2020-10-07T13:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 61
+  - title: "‘Some black woman’: Video of Joe Biden saying why people stayed home during pandemic goes viral"
+    excerpt: "Democratic nominee for president Joe Biden attributed people's ability to stay home during the pandemic to “some black woman” stocking grocery store shelves."
+    publishedDateTime: 2020-10-05T21:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
 
 secured: "vTmhegR6K9QiAQofDltpP1OmYcEJC5ljwwNP+Kjl4LjvCCEFX2z0B49lAGyMCrZEUNJitHzcz2pPGLGjZ0I8cUq3891XBiMfy/g256GQI2PXCgiCG4BV6KOTxuc5D+BtgYiE7GIV24HnJoeegHqqAlr7b4FNHhGTDNxeKFlpJj7+7Cp7liKmBwlqXSiISlp3dCQfh/5r9eHaTedeZ4ida9QcvJob/TVoQ3Mrg4QE9wWhiuO8dpwRgoUMGeqCAnev8H5ZxIUhXGXmO8JsYIm2kmcEz1XLjkqHwrKyzILiYfmNdsY0Pzyd/Yu9HEsCPyCiFDddsmnsRg2/mj+vUqD0ZAxVbLmjp632Uzq1ZKOfOTqQeD21qQBnvvWpuo+6DdIRW49COvO9ArPXuaOnpaJ3xz4vAJ9Eo0KhrylZeA5wATRT4d+wIBrCO+brDHyiIcgPef2InYEfHH2ELRMFQxnpL5nOXvJhf2W1jsCjnPaISlpSNx/Mmf1kuU1MM9mnh/iPbIBl0lWZml9GtTnGu7MkAg==;VcRQXzWYN2deF3PMLq/zeA=="
 ---

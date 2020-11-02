@@ -2,6 +2,1014 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-02-herschel-walker-tells-james-clyburn-he-took-trump-out-of-context-with-latest-criticism.md",
+      "title": "Herschel Walker tells James Clyburn he took Trump out of context with latest criticism",
+      "excerpt": "Former NFL star Herschel Walker pushed back on House Majority Whip James Clyburn, D-S.C., on Sunday after the latter said that President Trump called a Black woman a dog.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zOvhgiXy9zg/herschel-walker-james-clyburn-trump-context",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zOvhgiXy9zg/herschel-walker-james-clyburn-trump-context",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a449154-1c52-4b5f-b68d-3448968888f8/b900a9eb-b048-4194-baef-a3e0d6db74e7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-james-clyburn-trump-context.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-james-clyburn-trump-context.amp",
+      "publishedDateTime": "2020-11-01T19:42:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-conway-makes-case-for-trump-reelection-the-antidote-to-uncertainty-is-not-more-uncertainty.md",
+      "title": "Conway makes case for Trump reelection: 'The antidote to uncertainty is not more uncertainty'",
+      "excerpt": "Reelecting President Trump is in the best interest of the American people, former counselor to the president Kellyanne Conway told Fox News' \"Democracy 2020 Election Preview\" Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oG6FXJDDS1M/kellyanne-conway-trump-reelection-antidote-uncertainty",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oG6FXJDDS1M/kellyanne-conway-trump-reelection-antidote-uncertainty",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b045d9c2-5e4d-489e-9daa-1841a74800a9/976fc1ea-2106-43f2-aaa9-c2fcafcfb438/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kellyanne-conway-trump-reelection-antidote-uncertainty.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kellyanne-conway-trump-reelection-antidote-uncertainty.amp",
+      "publishedDateTime": "2020-11-01T19:37:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-trump-says-votes-should-be-counted-by-election-day-at-georgia-rally.md",
+      "title": "Trump says votes should be counted by Election Day at Georgia rally",
+      "excerpt": "Trump said extensions could allow “bad things happen in places like Pennsylvania and Nevada.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKGR4VJWOW8/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKGR4VJWOW8/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 370,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d334b5c-f30e-4ae8-86a8-55791119d24c/ce3f607c-3472-47bf-9211-aa6a55c75a42/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp",
+      "publishedDateTime": "2020-11-01T19:32:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-biden-banks-on-hollywood-support-in-final-days-before-2020-election.md",
+      "title": "Biden banks on Hollywood support in final days before 2020 election",
+      "excerpt": "Hillary Clinton employed a similar strategy in 2016, when she won the popular vote but lost the Electoral College.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 370,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c13facdb-af1b-4373-8d46-17432f01bec0/6c6c594d-6400-49b2-9d62-794f24392062/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
+      "publishedDateTime": "2020-11-01T14:07:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.md",
+      "title": "Biden's campaign bundlers include Wall Street billionaires, entertainment moguls",
+      "excerpt": "Democratic presidential candidate Joe Biden unveiled a list of his biggest fundraisers Saturday night, revealing a campaign powered in part by Wall Street executives, Silicon Valley billionaires and entertainment moguls. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WhT96bEV-YI/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WhT96bEV-YI/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dff98d6f-d7b1-4e88-ad74-8d152941afcd/77e1be30-e89f-49eb-9c49-1f1844ed2954/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp",
+      "publishedDateTime": "2020-11-01T13:04:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-massive-lines-at-trump-rally-in-battleground-state-north-carolina.md",
+      "title": "Massive lines at Trump rally in battleground state North Carolina",
+      "excerpt": "Supporters reportedly lined up hours in advance for President Trump's rally in Hickory, North Carolina on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-NC-Lines-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp",
+      "publishedDateTime": "2020-11-01T12:56:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-joe-biden-becomes-an-underdog-if-he-doesnt-win-pa-says-nate-silver.md",
+      "title": "Joe Biden becomes 'an underdog' if he doesn't win Pa., says Nate Silver",
+      "excerpt": "Without Pennsylvania and its 20 electoral votes, Democratic presidential nominee Joe Biden will become “an underdog,” the founder of an opinion poll analysis website, FiveThirtyEight, said on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM3J29QnmKk/joe-biden-underdog-without-pennsylvania-win-nate-silver",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM3J29QnmKk/joe-biden-underdog-without-pennsylvania-win-nate-silver",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp",
+      "publishedDateTime": "2020-11-01T11:55:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-trump-campaign-hits-back-at-buttigiegs-claim-that-trump-took-credit-for-obama-economy.md",
+      "title": "Trump campaign hits back at Buttigieg's claim that Trump 'took credit' for Obama economy",
+      "excerpt": "Mayor Pete Buttigieg was wrong about 2020 Democratic presidential hopeful Joe Biden's economic agenda being better for Americans, said Trump 2020 Communications Director Tim Murtaugh on Sunday, two days away from Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-1LtxD5rTZE/tim-murtaugh-trump-obama-economy-pete-buttigieg",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-1LtxD5rTZE/tim-murtaugh-trump-obama-economy-pete-buttigieg",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tim-murtaugh-trump-obama-economy-pete-buttigieg.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-murtaugh-trump-obama-economy-pete-buttigieg.amp",
+      "publishedDateTime": "2020-11-01T11:30:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-joe-biden-is-last-shot-for-establishment-democrats-says-lawrence-jones.md",
+      "title": "Joe Biden is ‘last shot’ for establishment Democrats, says Lawrence Jones",
+      "excerpt": "Progressivism will gain momentum in the Democratic Party if Joe Biden loses the election, Fox Nation host Lawrence Jones said on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j6bh5v7okI0/joe-biden-last-shot-dem-establishment-lawrence-jones",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j6bh5v7okI0/joe-biden-last-shot-dem-establishment-lawrence-jones",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-last-shot-dem-establishment-lawrence-jones.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-last-shot-dem-establishment-lawrence-jones.amp",
+      "publishedDateTime": "2020-11-01T09:24:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-hunter-bidens-business-was-industrial-scale-corruption-graham.md",
+      "title": "Hunter Biden's business was 'industrial-scale' corruption: Graham",
+      "excerpt": "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., said Sunday that he plans on holding a hearing where he will ask the FBI why they sat on the laptop believed to have belonged to Hunter Biden for almost a year without taking action.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7oB-3AQtPvE/graham-hunter-biden-business-industrial-scale-corruption",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7oB-3AQtPvE/graham-hunter-biden-business-industrial-scale-corruption",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff940e5b-abfd-4f83-a643-516042790627/644bed36-8304-4ae7-92cf-2c5809b22a97/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/graham-hunter-biden-business-industrial-scale-corruption.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-hunter-biden-business-industrial-scale-corruption.amp",
+      "publishedDateTime": "2020-11-01T09:07:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-gov-huckabee-believes-president-trump-will-get-reelected-by-a-substantial-margin.md",
+      "title": "Gov. Huckabee believes President Trump will get reelected by a 'substantial' margin",
+      "excerpt": "Former Arkansas Gov. Mike Huckabee believes President Trump will win the 2020 election by a “substantial” margin, telling “Fox & Friends” on Sunday that “it will cause people's heads to explode because they just can’t see it coming.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bNi9PkWNQb4/mike-huckabee-trump-reelected-substantial-margin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bNi9PkWNQb4/mike-huckabee-trump-reelected-substantial-margin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
+      "publishedDateTime": "2020-11-01T08:10:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.md",
+      "title": "Trump, Ernst take leads over Dem challengers in Iowa poll",
+      "excerpt": "Just days before Election Day, both President Trump and U.S. Sen. Joni Ernst have pulled ahead of their Democratic challengers in the assessment of Iowa voters, a new poll shows.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80259ac2-43eb-438e-a2d5-2bdface5d4b2/bcc4294e-9b2c-457a-98ce-4d1de4a56c36/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
+      "publishedDateTime": "2020-10-31T23:47:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.md",
+      "title": "Ivanka Trump breaks Obama record on way to $35M-plus fundraising haul: reports",
+      "excerpt": "Ivanka Trump, White House senior adviser and first daughter, has reportedly raised tens of millions of dollars for her father’s reelection and even broke former President Obama’s single-day fundraising record at a Texas stop in September.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aNPNr4onWZY/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aNPNr4onWZY/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20302653297420.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.amp",
+      "publishedDateTime": "2020-10-31T20:53:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-trump-announces-day-of-remembrance-for-americans-killed-by-illegal-immigrants.md",
+      "title": "Trump announces day of remembrance for Americans killed by illegal immigrants",
+      "excerpt": "President Trump on Friday declared Nov. 1 a day of remembrance for Americans killed by illegal immigrants -- seeking to highlight his policies curbing illegal immigration in the last days of his reelection campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BmvawIV5xAE/trump-day-of-remembrance-illegal-immigrants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BmvawIV5xAE/trump-day-of-remembrance-illegal-immigrants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 272,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00058b18-b335-4f2a-ae6f-f16a7766d0f4/b69801ec-0c99-4ab7-b22e-43c9cc783a03/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-day-of-remembrance-illegal-immigrants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-day-of-remembrance-illegal-immigrants.amp",
+      "publishedDateTime": "2020-10-31T14:47:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-california-pastor-explains-trump-vote-with-clear-conscience.md",
+      "title": "California pastor explains Trump vote with 'clear conscience'",
+      "excerpt": "California pastor Bill Johnson of Bethel Church explains why he is voting for President Trump with 'confidence' after comparing his record to Joe Biden's.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNGxaKKpVLo/trump-vote-california-pastor-christian-election-2020-bill-johnson",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNGxaKKpVLo/trump-vote-california-pastor-christian-election-2020-bill-johnson",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-vote-california-pastor-christian-election-2020-bill-johnson.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vote-california-pastor-christian-election-2020-bill-johnson.amp",
+      "publishedDateTime": "2020-10-31T12:04:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-obama-biden-to-make-first-joint-appearance-in-michigan.md",
+      "title": "Obama, Biden to make first joint appearance in Michigan",
+      "excerpt": "Democrats are bringing their firepower to Michigan, the critical swing state that helped seal President Trump's 2016 victory. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDZVfeWq3aQ/obama-biden-first-joint-appearance-michigan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDZVfeWq3aQ/obama-biden-first-joint-appearance-michigan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20304657210535.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-biden-first-joint-appearance-michigan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-biden-first-joint-appearance-michigan.amp",
+      "publishedDateTime": "2020-10-31T10:11:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-kayleigh-mcenany-says-seals-rescue-of-american-hostage-is-story-of-trump-presidency-we-dont-stop.md",
+      "title": "Kayleigh McEnany says SEALs' rescue of American hostage is 'story of' Trump presidency: 'We don't stop'",
+      "excerpt": "The American hostage rescued in West Africa by SEAL Team 6 in a daring raid is part of President Trump's exceptional accomplishments, Kayleigh McEnany said Saturday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bFE0zfyVx0/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bFE0zfyVx0/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany.amp",
+      "publishedDateTime": "2020-10-31T09:21:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-ivanka-trump-says-she-is-unapologetically-pro-life.md",
+      "title": "Ivanka Trump says she is 'unapologetically' pro-life",
+      "excerpt": "Ivanka Trump this week said that she is “unapologetically” pro-life, adding that motherhood changed how she thinks about the abortion issue.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fX1ewM5PPsE/ivanka-trump-says-she-is-unapolagetically-pro-life",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fX1ewM5PPsE/ivanka-trump-says-she-is-unapolagetically-pro-life",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301701834860.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-says-she-is-unapolagetically-pro-life.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-says-she-is-unapolagetically-pro-life.amp",
+      "publishedDateTime": "2020-10-31T00:51:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-top-two-pro-trump-super-pacs-make-final-20-million-ad-push.md",
       "title": "Top two pro-Trump super PACs make final $20 million ad push",
       "excerpt": "The two leading super PACs that are supporting President Trump's re-election bid are teaming up to shell out $20 million to run ads on TV and digital in seven crucial general election battleground in the closing stretch leading up to Election Day on Tuesday.",
@@ -227,118 +1235,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-30-trump-rips-absentee-ballot-extensions-says-election-should-end-on-november-3rd.md",
-      "title": "Trump rips absentee ballot extensions, says election 'should end on November 3rd'",
-      "excerpt": "President Trump on Friday panned decisions made by some courts that are allowing mail-in or absentee ballots to be counted if they are received by election authorities after Nov. 3, calling the rulings \"CRAZY and so bad for our Country.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yjr_lTst78Q/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yjr_lTst78Q/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-absentee-ballot-extensions-election-should-end-november-3rd.amp",
-      "publishedDateTime": "2020-10-30T10:03:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-john-james-slams-michigan-senate-opponent-says-dems-freaking-out-as-biden-obama-storm-state.md",
-      "title": "John James slams Michigan Senate opponent, says Dems 'freaking out' as Biden, Obama storm state",
-      "excerpt": "Michigan Senate candidate John James reacts on 'Fox & Friends' to Joe Biden and former President Barack Obama campaigning in his state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bncp6ts5Y5s/michigan-senate-campaign-republican-gop-john-james-biden-obama",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bncp6ts5Y5s/michigan-senate-campaign-republican-gop-john-james-biden-obama",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/michigan-senate-campaign-republican-gop-john-james-biden-obama.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-senate-campaign-republican-gop-john-james-biden-obama.amp",
-      "publishedDateTime": "2020-10-30T07:09:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-30-candace-owens-on-lil-waynes-trump-support-liberals-laughed-at-idea-of-black-exit-by-dems.md",
       "title": "Candace Owens on Lil Wayne's Trump support: Liberals laughed at idea of 'Black Exit' by Dems",
       "excerpt": "Black Americans leaving the Democratic Party shows they have done nothing for the Black community, according to author Candace Owens on Friday.",
@@ -520,7 +1416,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 173,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -620,62 +1516,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-former-michigan-gov-rick-snyder-on-being-a-proud-republican-who-voted-for-biden.md",
-      "title": "Former Michigan Gov. Rick Snyder on being a 'proud Republican' who voted for Biden",
-      "excerpt": "Snyder served eight years as governor and was replaced by Democrat Gretchen Whitmer in 2019.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Up38R7dsQKg/rick-snyder-michigan-proud-republican-vote-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Up38R7dsQKg/rick-snyder-michigan-proud-republican-vote-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a257808-e5f9-45ef-ad5e-450f5bcf961e/cae4a195-e800-4d6e-821c-691ed6d2aebc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-snyder-michigan-proud-republican-vote-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-snyder-michigan-proud-republican-vote-biden.amp",
-      "publishedDateTime": "2020-10-29T14:54:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-29-pence-stumps-for-vulnerable-gop-senators-resisting-democrat-takeover.md",
       "title": "Pence stumps for vulnerable GOP senators resisting Democrat takeover",
       "excerpt": "Vice President Mike Pence is campaigning with four GOP senators this week in an effort to boost their precarious standing in races that will help determine which party controls the upper chamber of Congress.",
@@ -730,62 +1570,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-pelosi-i-feel-very-confident-that-joe-biden-will-be-elected-president-on-tuesday.md",
-      "title": "Pelosi: 'I feel very confident that Joe Biden will be elected president on Tuesday'",
-      "excerpt": "House Speaker Nancy Pelosi projected Thursday that Joe Biden would win the White House and said Democrats are ready to work with him on a transition agenda to tackle the coronavirus pandemic, address the economic fallout and pass an infrastructure agenda. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EfkCiwKZMR4/pelosi-confident-biden-win-democratic-transition-agenda",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EfkCiwKZMR4/pelosi-confident-biden-win-democratic-transition-agenda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/08731db9-Nancy-Pelosi.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp",
-      "publishedDateTime": "2020-10-29T10:21:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -874,792 +1658,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response.amp",
       "publishedDateTime": "2020-10-29T09:17:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-former-democrat-rubin-on-why-he-is-voting-for-trump-no-feeling-of-patriotism-on-the-left-anymore.md",
-      "title": "Former Democrat Rubin on why he is voting for Trump: 'No feeling of patriotism' on the left anymore",
-      "excerpt": "President Trump is the last bastion to stopping the radical left, talk show host Dave Rubin said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
-      "publishedDateTime": "2020-10-29T08:41:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-joe-biden-is-a-trojan-horse-for-socialism-says-tammy-bruce.md",
-      "title": "Joe Biden is a 'Trojan Horse' for socialism, says Tammy Bruce",
-      "excerpt": "2020 Democratic presidential candidate Joe Biden is being used as a \"trojan horse,\" Fox News contributor Tammy Bruce said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIRZaQwY97E/biden-trojan-horse-socialism-tammy-bruce",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIRZaQwY97E/biden-trojan-horse-socialism-tammy-bruce",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-trojan-horse-socialism-tammy-bruce.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trojan-horse-socialism-tammy-bruce.amp",
-      "publishedDateTime": "2020-10-29T07:13:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-vote-for-joe-biden-seriously.md",
-      "title": "Vote for Joe Biden? Seriously?",
-      "excerpt": "Biden is Bernie Sanders’s grim party in sheep's clothing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/vote-for-joe-biden-seriously-11603926854",
-      "originalUrl": "https://www.wsj.com/articles/vote-for-joe-biden-seriously-11603926854",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-251110/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854",
-      "publishedDateTime": "2020-10-28T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-trump-jr-warns-election-is-about-freedom-versus-tyranny-capitalism-versus-socialism-and-communism.md",
-      "title": "Trump Jr. warns election is 'about freedom versus tyranny, capitalism versus socialism and Communism'",
-      "excerpt": "The Democrats' \"endgame\" is to transform America into a far-left, Marxist state where dissent is not permitted, Donald Trump Jr. told \"Hannity\" Wednesday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l7dRPBdl3yI/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l7dRPBdl3yI/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9942e7b-6b0a-44f9-adb5-f4160494c7c8/af75e25c-e3e2-4766-a781-cbdb39525ebe/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism.amp",
-      "publishedDateTime": "2020-10-28T20:19:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-colorado-ag-steps-in-after-landlord-allegedly-threatens-rent-raise-at-mobile-home-park-if-biden-wins.md",
-      "title": "Colorado AG steps in after landlord allegedly threatens rent raise at mobile home park if Biden wins",
-      "excerpt": "Colorado’s Attorney General sent a cease and desist letter to the owner of a mobile home park in Fort Morgan, Colo., following reports of voter intimidation after the landlord allegedly threatened to spike rent rates should Democratic presidential candidate Joe Biden win on Nov. 3.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U7skF9w_qeo/colorado-attorney-general-steps-in-after-voter-intimidation-found-in-mobile-home-park-threatening-rent-increa",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U7skF9w_qeo/colorado-attorney-general-steps-in-after-voter-intimidation-found-in-mobile-home-park-threatening-rent-increa",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a89e0be-ca89-4feb-92e9-50c0498d22ce/78ae422c-3438-47c6-9791-096f72831c10/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/colorado-attorney-general-steps-in-after-voter-intimidation-found-in-mobile-home-park-threatening-rent-increa.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-attorney-general-steps-in-after-voter-intimidation-found-in-mobile-home-park-threatening-rent-increa.amp",
-      "publishedDateTime": "2020-10-28T19:11:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-fbi-reveals-alleged-whitmer-kidnapper-plotter-also-wanted-to-hang-trump-disproving-democrats-narrative.md",
-      "title": "FBI reveals alleged Whitmer kidnapper plotter also wanted to hang Trump, disproving Democrats' narrative",
-      "excerpt": "Some Democrats have blamed the president's inflammatory rhetoric with inciting the kidnap scheme.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/amBamIwQlq8/fbi-whitmer-kidnap-hang-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/amBamIwQlq8/fbi-whitmer-kidnap-hang-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ceaa499-d5b5-4917-ac44-406654011b1c/b10fb369-d5aa-4334-8275-cc8d437f5d58/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fbi-whitmer-kidnap-hang-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-whitmer-kidnap-hang-trump.amp",
-      "publishedDateTime": "2020-10-28T18:49:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-buttigieg-defends-biden-claims-dems-would-have-chosen-somebody-else-if-they-wanted-fracking-ban.md",
-      "title": "Buttigieg defends Biden, claims Dems 'would have chosen somebody else' if they wanted fracking ban",
-      "excerpt": "\"The Story\" host Martha MacCallum pressed Joe Biden campaign surrogate Pete Buttigieg Wednesday over the 2020 Democratic nominee's position on fracking and the oil industry following repeated attempts to clarify earlier comments on the issue.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrRnzjXbNyU/buttigieg-biden-fracking-2020-election-democrat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrRnzjXbNyU/buttigieg-biden-fracking-2020-election-democrat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0cb2aca-19a3-4646-bc5d-0063433e4f4a/f7d5a14f-7792-4ac9-82b6-499d188861d6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-biden-fracking-2020-election-democrat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-biden-fracking-2020-election-democrat.amp",
-      "publishedDateTime": "2020-10-28T17:57:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-aoc-appears-in-vanity-fair-in-outfits-worth-14000-to-curse-trump-out.md",
-      "title": "AOC appears in Vanity Fair in outfits worth $14,000 to curse Trump out",
-      "excerpt": "Freshman Democratic congresswoman Alexandria Ocasio Cortez wore thousands of dollars worth of outfits and jewelry for her spread in Vanity Fair magazine's December issue while attacking President Trump for not paying his taxes. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rIBCa9NSqM/aoc-vanity-fair-outfits-14000-curse-trump-out",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rIBCa9NSqM/aoc-vanity-fair-outfits-14000-curse-trump-out",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34f50180-ee67-479f-ae87-813eac9f7a29/38af5f53-6445-4c6c-add9-7556a2a2adc2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-vanity-fair-outfits-14000-curse-trump-out.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-vanity-fair-outfits-14000-curse-trump-out.amp",
-      "publishedDateTime": "2020-10-28T17:23:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-man-arrested-at-trump-rally-in-maine-carrying-knife-and-wooden-baton.md",
-      "title": "Man arrested at Trump rally in Maine carrying knife and wooden baton",
-      "excerpt": "A man wielding a knife and wooden baton was arrested at a campaign rally for President Trump in Maine Wednesday where Gov. Kristi Noem appeared. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHoVrBFohvY/man-arrested-trump-rally-maine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHoVrBFohvY/man-arrested-trump-rally-maine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20291003271342.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/man-arrested-trump-rally-maine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/man-arrested-trump-rally-maine.amp",
-      "publishedDateTime": "2020-10-28T16:43:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-administration-moves-to-change-h-1b-guest-worker-program-to-prioritize-higher-wage-applicants.md",
-      "title": "Trump administration moves to change H-1B guest worker program to prioritize higher-wage applicants",
-      "excerpt": "The Department of Homeland Security moved to make a significant change to the controversial guest worker program that would prioritize higher-paid applicants.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yiNVTjDJetI/trump-dhs-h1b-guest-worker-rule",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yiNVTjDJetI/trump-dhs-h1b-guest-worker-rule",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a89e0be-ca89-4feb-92e9-50c0498d22ce/78ae422c-3438-47c6-9791-096f72831c10/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-dhs-h1b-guest-worker-rule.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-h1b-guest-worker-rule.amp",
-      "publishedDateTime": "2020-10-28T15:37:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-white-houses-stephen-miller-warns-of-nationwide-catch-and-release-if-biden-is-elected.md",
-      "title": "White House’s Stephen Miller warns of ‘nationwide catch and release’ if Biden is elected",
-      "excerpt": "White House adviser Stephen Miller on Wednesday warned of a policy of “nationwide catch and release” if Democratic nominee Joe Biden is elected to the White House -- painting a stark contrast with the Trump administration’s stance on immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b530d401-035d-4417-afe9-6328f16ac9d0/c7bd7582-9739-4393-9db4-069bf0b51ebb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
-      "publishedDateTime": "2020-10-28T14:46:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-philadelphia-da-threatens-trump-over-presidents-call-for-poll-watchers-ive-got-something-for-you.md",
-      "title": "Philadelphia DA threatens Trump over president's call for poll watchers: 'I've got something for you'",
-      "excerpt": "Philadelphia’s district attorney on Wednesday threatened President Donald Trump if he sent “uncertified” poll watchers to the city, telling him in a statement, “I’ve got something for you” if any attempts are made to interfere with Election Day activities.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jSgKdGVYci0/philadelphia-da-threatens-trump-presidents-call-poll-watchers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jSgKdGVYci0/philadelphia-da-threatens-trump-presidents-call-poll-watchers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Larry-Krasner-GETTY-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/philadelphia-da-threatens-trump-presidents-call-poll-watchers.amp",
-      "publishedDateTime": "2020-10-28T14:40:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-ben-shapiro-calls-biden-a-gateway-drug-to-radicalism-not-a-return-to-normalcy.md",
-      "title": "Ben Shapiro calls Biden a 'gateway drug to radicalism', not a return to normalcy",
-      "excerpt": "Joe Biden has based his presidential campaign on a promise to restore \"normalcy\" if he unseats President Trump, but the former vice president will act as nothing more than \"a gateway drug to radicalism,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ben-shapiro-biden-gateway-drug-radicalism",
-      "originalUrl": "https://www.foxnews.com/media/ben-shapiro-biden-gateway-drug-radicalism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee29d0-c3c3-44ce-bfe5-fc7de7e56021/ace30db7-d411-4eb0-8ba1-fad27222a5e3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-ari-fleischer-biden-is-taking-advantage-of-a-broken-down-media-that-is-biased-against-trump.md",
-      "title": "Ari Fleischer: Biden is 'taking advantage of' a 'broken-down media' that is 'biased against Trump'",
-      "excerpt": "The Biden campaign is \"taking advantage\" of the media bias against President Trump to keep the controversy surrounding former Vice President Joe Biden's son Hunter out of the spotlight, former White House Press Secretary Ari Fleischer claimed Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp",
-      "publishedDateTime": "2020-10-28T12:36:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

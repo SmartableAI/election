@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ohio Dem backs Trump after history of feuds with her party"
-    excerpt: "Democratic Ohio state Rep. Bernadine Kennedy Kent endorsed President Trump on Tuesday after a history of feuding with Ohio Democrats."
-    publishedDateTime: 2020-09-30T15:30:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KlPJnhfEkQs/ohio-dem-backs-trump-after-history-party-feuds"
-    ampWebUrl: "https://www.foxnews.com/politics/ohio-dem-backs-trump-after-history-party-feuds.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-dem-backs-trump-after-history-party-feuds.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db4210bf-8b0d-46c7-9cdd-da299ddc0cdf/3d2bbdb7-c69a-4e2e-9c66-c483d52aa989/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "IrGwPTpYkCk7upbFWqC3pOinGvweYYk9dkQaWRfNg7zFIN7jk9p45oYCrerDBdpHGTBnJV4xrqo3l+qSTQM3hLMTy3uhdk5351ZCUtdFi24K09E5Vbqd38fC7+R1yi6X2mQVKhFPmlWNULoJreskY6VR7r99U3JADn4LIU2RxTCkz5WNlPFCdn6V1pUf/X3OjKQz3WSOUEQqEgm4E09NZG9dQWIq56xgad+QTJYoyAIMBIVd1+bIJLoq1kvwvUU4PNB2YpZ/8ARUoI1VAiiBNszcvG+32qDPhPLKTwoVIVsg9iadVwx86d1cxdyxOCHR0wy+N9Dub9PFBd1TrtErlqSc7Yq+B7G7OQB08ZU6a/U=;312jOX3hBgkCto1peaOvww=="
 ---

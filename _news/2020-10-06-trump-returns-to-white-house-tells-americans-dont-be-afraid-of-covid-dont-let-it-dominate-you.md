@@ -26,250 +26,291 @@ images:
     isCached: true
 
 related:
-  - title: "Trump health update expected at Walter Reed Medical Center"
-    excerpt: "President Trump’s medical team is expected to give an update on his health Sunday morning, as members of the White House press pool head to the Walter Reed Medical Center to be briefed on his condition."
-    publishedDateTime: 2020-10-04T15:26:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bPgBX6_YUVA/trump-coronavirus-health-update-sunday-walter-reed"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp"
+  - title: "Trump touts his COVID-19 treatment in first rally since diagnosis"
+    excerpt: "President Trump hailed the medical care received in his first rally since testing positive for the coronavirus, vowing to a crowd in Sanford, Florida that he would ensure the whole country enjoyed the type of treatment he received."
+    publishedDateTime: 2020-10-13T01:02:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ed56aWGnxWY/trump-rally-florida-coronavirus-treatment-positive"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31790f6b-ec92-43ef-8975-b267c39de1ad/50309679-a9dd-431d-8943-98675c68aa9e/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
-  - title: "Trump discharged from Walter Reed, returns to White House"
-    excerpt: "President Trump was discharged from Walter Reed National Military Medical Center and returned to the White House on Monday evening to continue his fight against the novel coronavirus, after his medical team warned that he “may not entirely be out of the woods yet.”"
-    publishedDateTime: 2020-10-05T22:30:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9FqRpXdn3k0/trump-discharged-from-walter-reed-returns-to-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-discharged-from-walter-reed-returns-to-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-discharged-from-walter-reed-returns-to-white-house.amp"
+  - title: "Trump hits ‘whatever’ in his long COVID retreat"
+    excerpt: "Trump has the “whatever, leave us alone” voters squarely on his side, but what about other voters?"
+    publishedDateTime: 2020-10-19T22:00:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwNULzOOXfc/trump-hits-whatever-in-his-long-covid-retreat"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hits-whatever-in-his-long-covid-retreat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-whatever-in-his-long-covid-retreat.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Virginia Senate debate sees Warner, Gade clash on Trump, race, health care"
-    excerpt: "Democratic incumbent U.S. Sen. Mark Warner and his Republican challenger shared the debate stage Saturday night in their second meeting ahead of Election Day in Norfolk, Va. "
-    publishedDateTime: 2020-10-04T03:29:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CEY8SY4FPcg/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care"
-    ampWebUrl: "https://www.foxnews.com/politics/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care.amp"
+  - title: "'Trump defeats COVID-19' coin goes on sale at White House-themed gift shop"
+    excerpt: "Commemorative coins marking President Trump's battle with COVID-19 are available for preorder at a White House-themed gift shop."
+    publishedDateTime: 2020-10-06T12:46:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pCY5Ongtmh0/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production"
+    ampWebUrl: "https://www.foxnews.com/politics/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20277814149900.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20279854806341-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Bongino on ‘infuriating’ media attacks of Trump’s drive-by 'visit' outside hospital"
-    excerpt: "The mainstream media’s attacks of President Trump’s surprise drive-by visit to his supporters outside Walter Reed Medical Center on Sunday is “infuriating,” former Secret Service agent Dan Bongino told “Fox & Friends” on Monday."
-    publishedDateTime: 2020-10-05T15:04:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shNtPZ7Fuy4/bongino-media-trump-drive-by-visit-hospital"
-    ampWebUrl: "https://www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp"
+  - title: "Appeals court rejects Trump's effort to block enforcement of tax returns subpoena"
+    excerpt: "The Second Circuit Court of Appeals Wednesday upheld a lower court ruling allowing Manhattan District Attorney Cy Vance's office to enforce a subpoena to get President Trump's tax returns and other documents dating back to 2011, rejecting Trump's attempt to block the effort."
+    publishedDateTime: 2020-10-07T15:03:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nnLUyLR2awk/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena"
+    ampWebUrl: "https://www.foxnews.com/politics/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump campaign YouTube takeover to feature Trump message thanking Americans for support"
-    excerpt: "EXCLUSIVE: The Trump campaign is taking over the YouTube.com masthead for 24 hours beginning at midnight, Fox News has learned, featuring the video of President Trump as he was departing the White House for Walter Reed Military Medical Center to be treated for COVID-19."
-    publishedDateTime: 2020-10-03T23:43:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LPFwnLg3R78/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump says he will be discharged from Walter Reed, return to White House Monday evening"
-    excerpt: "President Trump said he will be discharged from Walter Reed National Military Medical Center Monday evening and will return to the White House. "
-    publishedDateTime: 2020-10-05T18:40:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zim5ZZjbxnQ/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump thanks supporters gathered outside hospital: 'I'm about to make a little surprise visit''"
-    excerpt: "President Trump tweeted out his thanks on Sunday to the supporters who have gathered outside Walter Reed Medical Center in Maryland over the weekend, where the president is battling a case of the novel coronavirus. "
-    publishedDateTime: 2020-10-04T19:57:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-szueN4JBw/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "White House gives New Jersey officials list of at least 206 people who attended Trump fundraiser"
-    excerpt: "The White House has supplied the New Jersey Department of Health with the names of more than 200 individuals who attended a fundraiser last week just hours before President Trump announced that he had contracted COVID-19."
-    publishedDateTime: 2020-10-04T20:38:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GXF3Zbs2eps/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump says he's disappointed in Barr over status of Durham probe"
-    excerpt: "The president on Friday expressed outrage at reports Attorney General William Barr has communicated to lawmakers that the Durham report will not be released until after the presidential election. "
-    publishedDateTime: 2020-10-09T17:48:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pBF5-R14SRw/trump-slams-durham-report-investigation-not-being-released-before-election"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82547877-ca99-469d-97ed-d1d12eb85c62/5cd196a0-b825-43d7-8768-bde3bf2730fe/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81360eac-8bd9-45d6-ade4-a674a7097bb2/99c19865-80a4-493c-a3bb-66c2aedb0f8c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Twitter adds warning to 'immune' tweet by US President Trump"
-    excerpt: "As President Trump  on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus, Twitter slapped a warning label on his tweet in which he declared he was now “immune” from the virus."
-    publishedDateTime: 2020-10-11T20:38:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tx_XT2LTV3M/twitter-adds-warning-to-immune-tweet-by-us-president-trump"
+  - title: "Trump getting support from those most affected by 'asymmetrical' COVID lockdowns: Hanson"
+    excerpt: "President Trump was welcomed back to the campaign trail Monday night by a huge crowd in Sanford, Fla. for his first rally since recovering from coronavirus, and Hoover Institution senior fellow Victor Davis Hanson told “The Ingraham Angle”  the continuing support for Trump stems in part from the lockdowns."
+    publishedDateTime: 2020-10-13T04:14:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/95UIUdRW7gQ/trump-campaign-asymmetrical-covid-lockdowns"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-asymmetrical-covid-lockdowns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-asymmetrical-covid-lockdowns.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3feda8a-9f09-4f04-8b12-362f78fe55a2/4dcd18cb-2e8e-4d06-9acb-92f7162bae8e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16b8580b-6379-444f-8b38-793de1aa526f/90f66992-98d5-4782-8269-e83c8e0305d4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pelosi to announce bill on 25th Amendment after questioning Trump's health"
-    excerpt: "House Speaker Nancy Pelosi on Friday will introduce legislation to create a commission that would allow Congress to oust President Trump from office, using the 25th Amendment."
-    publishedDateTime: 2020-10-09T12:40:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0eV-uFkk29w/pelosi-25th-amendment-trumps-health"
+  - title: "Trump slams Cuomo over 'apology tour' as NY governor warns public should be 'skeptical' of COVID vaccine"
+    excerpt: "President Donald Trump on Monday slammed New York Gov. Andrew Cuomo for taking a so-called “apology tour” to promote his book on leadership while the coronavirus pandemic is still raging and crime has been steadily increasing this year. "
+    publishedDateTime: 2020-10-19T23:06:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pk3ZwRzgT2A/trump-slams-cuomo-over-apology-tour-as-ny-governor-warns-public-should-be-skeptical-of-covid-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-cuomo-over-apology-tour-as-ny-governor-warns-public-should-be-skeptical-of-covid-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-cuomo-over-apology-tour-as-ny-governor-warns-public-should-be-skeptical-of-covid-vaccine.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 153
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8fe0b7e-de00-4adf-85ab-a113f04cf158/ec0cb441-0df6-492c-97c3-b8ff9080d625/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20289680956035.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump to appear at White House event, first since returning from Walter Reed"
-    excerpt: "President Trump on Saturday will make his first appearance at a White House event since he returned from his stay at Walter Reed National Military Medical Center earlier this week."
-    publishedDateTime: 2020-10-10T13:27:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KXNlHFyMDoU/trump-white-house-event-first-walter-reed"
+  - title: "First lady Melania Trump confirms negative COVID-19 test, says son Barron tested positive but is now negative"
+    excerpt: "First Lady Melania Trump revealed Wednesday that her 14-year-old son with President Trump, Barron, contracted coronavirus but has since tested negative."
+    publishedDateTime: 2020-10-14T20:23:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H1S4GIQaryk/first-lady-melania-trump-negative-covid-19-barron"
+    ampWebUrl: "https://www.foxnews.com/politics/first-lady-melania-trump-negative-covid-19-barron.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-negative-covid-19-barron.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 152
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d357204f-72a4-4424-8654-01cf19622c87/31d2c5a9-155d-4aa2-967c-10751e34cc07/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump-1.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign sends pizzas to supporters outside Walter Reed Medical Center"
-    excerpt: "The Trump campaign sent pizza to supporters gathered outside Walter Reed National Military Medical Center as the commander-in-chief continues his battle against coronavirus inside. Video captured"
-    publishedDateTime: 2020-10-05T15:36:00Z
-    webUrl: "https://nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/"
-    ampWebUrl: "https://nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/amp/"
+  - title: "Trump to visit Penn., Iowa next week, stepping up travel schedule post-COVID diagnosis"
+    excerpt: "President Trump added Pennsylvania and Iowa to his campaign schedule next week, stepping up travel plans despite his recent bout with coronavirus. "
+    publishedDateTime: 2020-10-10T18:24:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Opqt4I8wVXo/trump-penn-iowa-travel-schedule-post-covid"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282563282147.jpg"
+        width: 3113
+        height: 2075
+        isCached: true
+  - title: "Fauci says his comments in new Trump ad 'were taken out of context' and without his permission"
+    excerpt: "Dr. Anthony Fauci, the nation’s leading infectious disease expert, said comments of his in a recent commercial from President Trump’s campaign were used without his permission and “taken out of context.”"
+    publishedDateTime: 2020-10-11T22:54:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5rPOq6qYwm4/fauci-comments-out-of-context"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ec5c54-5fac-46f6-b307-5b43cd4dc46c/d578bef7-c259-44b3-846c-7d0be3c01dcc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says he's 'medication free,' details COVID-19 recovery in first on-camera interview since diagnosis"
+    excerpt: "“I wanted to leave after the first day,” Trump said of his stint at Walter Reed."
+    publishedDateTime: 2020-10-10T01:09:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hTY37mms_48/trump-medication-free-covid-19-recovery-tucker-carlson"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12856a10-0319-4812-9d69-e810b72a2daf/6a59da7e-173f-4a4c-ad67-6a6a7e4d061c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Do liberals really believe Trump faked his COVID-19 diagnosis?"
+    excerpt: "You will decide whether or not Donald Trump gets a second term or the cognitively challenged, weak, frail Joe Biden takes over. God help us. But until then, well, we do know one thing for certain, per usual."
+    publishedDateTime: 2020-10-08T13:48:00Z
+    webUrl: "https://www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c105924-6cdc-4f18-874f-9dbb7b3f6bd5/aba778b1-1ff8-4281-a5a0-8e4c4144771b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Tucker: Mainstream media enraged by Trump's positive COVID message"
+    excerpt: "The media happily seconded that diagnosis.  Trump they informed us has a condition known as clinical obesity -- obesity, whatever.  It sounds significantly worse than cancer and far more unattractive."
+    publishedDateTime: 2020-10-08T17:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e386560-e8e4-442a-84bb-515e606be400/815c2bfc-6d3b-47e3-8755-c08c731d5606/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fauci says he was taken ‘out of context’ in Trump COVID-19 campaign ad"
+    excerpt: "Dr. Anthony Fauci says his words were taken “out of context” in a new political ad about the Trump administration’s response to the coronavirus pandemic, according to a report. “In my nearly"
+    publishedDateTime: 2020-10-12T13:17:00Z
+    webUrl: "https://nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/"
+    ampWebUrl: "https://nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 132
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-hospital-pizza-01.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/fauci-ad-49.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Alyssa Milano blasts Donald Trump's drive-by to fans outside Walter Reed Medical Center"
-    excerpt: "Alyssa Milano revealed that a friend’s uncle recently died due to COVID-19 after lambasting President Donald Trump over his drive-by to fans outside Walter Reed National Military Medical Center, where he is being treated for the virus."
-    publishedDateTime: 2020-10-05T18:01:00Z
-    webUrl: "https://www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed"
-    ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 127
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/GettyImages-1078617590.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump health reports marred by confusing and conflicting messages"
-    excerpt: "It was just two sentences from an unnamed source in a White House pool report, but it exploded the prevailing narrative about President Trump’s health."
-    publishedDateTime: 2020-10-06T07:11:00Z
-    webUrl: "https://www.foxnews.com/media/trump-health-reports-marred-by-confusing-and-conflicting-messages"
+  - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
+    excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."
+    publishedDateTime: 2020-10-10T21:27:00Z
+    webUrl: "https://www.foxnews.com/transcript/mcenany-praises-trump-for-fast-tracking-landmark-covid-vaccines"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 115
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d355350b-7a7e-46f2-b397-7e7c16a5be9d/284fa6f0-8cc2-4fa4-8cef-b459fdd0cb6e/1280x720/match/image.jpg"
-        width: 1134
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
+        width: 1280
         height: 720
         isCached: true
-  - title: "A Strange Thing Happened to President Trump's Star on the Hollywood Walk of Fame"
-    excerpt: "While President Donald Trump battles the Wuhan coronavirus at the Walter Reed Medical Center, someone who despises the president decided to destroy his star on the Hollywood Walk of Fame."
-    publishedDateTime: 2020-10-04T18:24:00Z
-    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/a-strange-thing-happened-to-president-trumps-star-on-the-hollywood-walk-of-fame-n2577439"
+  - title: "Jimmy Kimmel mocks Donald Trump for holding rallies that could potentially infect his supporters"
+    excerpt: "Jimmy Kimmel took aim at Donald Trump for continuing to campaign after his positive COVID-19 diagnosis and subsequent treatment."
+    publishedDateTime: 2020-10-14T14:08:00Z
+    webUrl: "https://www.foxnews.com/entertainment/jimmy-kimmel-donald-trump-rallies-infect-supporters"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 102
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/kimmel-trump-ap.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Disgusting': Joe Biden Tells His Tens of Followers About His Trump 'Death Blow' Fantasy"
+    excerpt: "Joe Biden’s campaign said they would pull negative ads upon news that President Trump had tested positive for coronavirus and was being admitted to Walter Reed Medical Center. I mean,"
+    publishedDateTime: 2020-10-05T20:25:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 60
+    quality: 91
     images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2017/52/63d298b0-c2be-4ddf-b084-6001db337308.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/85cd2048-65ea-49c4-a5ed-58fd7b789e59.jpg"
+        width: 650
+        height: 340
         isCached: true
+  - title: "Trump Is on His Way to Victory -- Because of the Trump Miracle Economy"
+    excerpt: "Of course, President Donald Trump is headed for another election victory on Nov. 3. Why should anyone be shocked? Trump is proving once again why he's the GOAT (the greatest"
+    publishedDateTime: 2020-10-18T04:01:00Z
+    webUrl: "https://townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297"
+    ampWebUrl: "https://townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/288/c05df06c-70eb-450d-bd63-289fcc4e787d.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Watch: Trump Holds First 'MAGA' Rally Since Coronavirus Recovery"
+    excerpt: "President Trump delivers remarks at a Make America Great Again event in Sanford, Florida. Judge Amy Coney Barrett said during her confirmation hearing opening statement that she was honored to accept President Donald Trump’s nomination to the Supreme Court,"
+    publishedDateTime: 2020-10-15T09:42:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/watch_live_trump_holds_first_maga_rally_since_coronavirus.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/521215.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "Trump Is Doing Exact Opposite of What He Should Be Doing"
+    excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better. During the last 4 years, the American people have seen the mighty attempts at legislative overreach as practiced by Pelosi,"
+    publishedDateTime: 2020-10-15T11:29:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/15/trump_is_doing_exact_opposite_of_what_he_should_be_doing_526384.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "w2368R3iqSpNVstnL0T7KbTncvh8Y+mibwr0AkM1cE09hvvtqj3xsMVAio0tAZoqlaWDcWRtyDn+GLZ1UM01Y2T94xFuPuNKfyDZBg5j9pUcusGBDfGNH7x9m64mJDYq49T0R+xaZaxLxBsDdywbrbIukG0pivOLgjyq/+wceBz6HsTkH30QT0/ZiApOPKKt/nTY9ms5eJNWsJJVBnlJjZdBnWkHFHm+JNu0buZyNqEyj4V6z69s9XVmgskXK2RxeYIT/ZEi9o92PcLJkPa1c0Lg4xd3X98yChVL1//2WHpOZa49LBnX7DIYGqdD99b01UK/0Ft9vuS1NsNrljqNVxcq271UJY/mgLNmmzZnH8Y=;f6XawN07nQ8P2ZFigkgBYg=="
 ---

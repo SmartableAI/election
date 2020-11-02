@@ -7,7 +7,7 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_G1y4hE0VaE/trump-
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_G1y4hE0VaE/trump-fdr-supreme-court-packing"
 type: article
 quality: 155
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/28/694940094001_6090161738001_6090159029001-vs.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Video shows Seattle-area teacher scold 10-year-old for admiring Trump: mom"
-    excerpt: "A Seattle-area middle school teacher scolded his 10-year-old student and briefly kicked him out of his virtual classroom last week after the child said he admires President Trump."
-    publishedDateTime: 2020-10-06T06:58:00Z
-    webUrl: "https://www.foxnews.com/us/seattle-teacher-trump"
-    ampWebUrl: "https://www.foxnews.com/us/seattle-teacher-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/seattle-teacher-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/School.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "7f0dZYNMmtNLGO9grduqmm1w8nDni/TcdPyJy/uVUMaLwT8FPuGBwi/Ri4Kc7oc9lpzCDKIcDKTJPtBS43dgXCP2UaoJAdWVgoqQjrZx2029wYwRqCuz+ziys7vd0P2eoxuWrpovTWfnffhMRXWe2stWT3BttYDELmjLRiShOHAYgk3166kE3mBzUGfMF9klcNvk8A6eOmwajn87FmAIJ6RHPQWZuf41Yz9jSd5q4nHQTzzZky4IkXNEg6UDPVHwCViI9BJYgoKg5GyHi80EzWi492y5zke1ftQIc3qhKWHRZbthE8mhcwcdSFR6xcsivGBUv9YtGtmgynK5MJpsf7Sqvv9WVWoxKSIsO0S9XyI=;2otm4IaDxc/eSHtTNScw9w=="

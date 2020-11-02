@@ -205,22 +205,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden being tested for coronavirus following Trump's positive test"
-    excerpt: "Democratic presidential nominee Joe Biden is being tested for coronavirus on Friday morning, following President Donald Trump's disclosure that he had tested positive just days after the first debate.\n    \n"
-    publishedDateTime: 2020-10-02T13:48:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/awQy7z3Y2fA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/joe-biden-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/joe-biden-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929171850-biden-arrives-cleveland-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: Why Donald Trump still has a shot against Joe Biden"
     excerpt: "The polls look awful for President Donald Trump. He's down by about 10 points nationally and in almost all of the swing states to Democratic presidential nominee Joe Biden. Trump's first debate performance was widely panned, and he needs a lot to go right the rest of the way.\n    \n"
     publishedDateTime: 2020-10-10T22:51:54Z
@@ -362,38 +346,6 @@ related:
     quality: 177
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008142359-17-photos-this-week-1008-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump campaign says it doesn't want changes to debate format "
-    excerpt: "President Donald Trump's reelection campaign said Thursday it opposes the Commission on Presidential Debates making changes to the format of the remaining debates after the commission said it would be adopting changes.\n    \n"
-    publishedDateTime: 2020-10-01T22:24:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/So_DFwEIbSw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-debate-changes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-debate-changes/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "See Trump's busy week before his Covid-19 diagnosis"
-    excerpt: "Before President Donald Trump tested positive for Covid-19 he had a busy week, traveling from Washington, DC, to Pennsylvania, Ohio, Minnesota and New Jersey.\n    \n"
-    publishedDateTime: 2020-10-02T22:32:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kqMo-dJSV2E/trump-contact-tracing-coronavirus-orig-jm.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/02/trump-contact-tracing-coronavirus-orig-jm.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/02/trump-contact-tracing-coronavirus-orig-jm.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002140502-21-trump-unf-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -621,22 +573,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "State officials brace for conflict after Trump tells his supporters to go to the polls"
-    excerpt: "State and local officials across the country are scrambling to respond to the potential for voter intimidation and violence on Election Day in the wake of President Donald Trump's calls during Tuesday's debate for his supporters to \"go into the polls.\"\n    \n"
-    publishedDateTime: 2020-10-01T21:39:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ajVDfrbABQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/voting-polls-trump-intimidation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/voting-polls-trump-intimidation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924210438-01-voting-0811-connecticut-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump's illness raises national security concerns as Pentagon looks to reassure public"
     excerpt: "Military leaders moved quickly to reassure the American public Friday that it was business as usual at the Pentagon despite President Donald Trump's announcement that he tested positive for coronavirus, making it clear in the hours that followed there was no indication of an immediate threat to the US"
     publishedDateTime: 2020-10-03T00:03:38Z
@@ -650,22 +586,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002183014-trump-virus-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "White House shows no signs of backing down from Trump's refusal to condemn White supremacy"
-    excerpt: "The White House is showing no signs of backing down from President Donald Trump's refusal to condemn White supremacy during Tuesday night's presidential debate, despite pleas from some Republican allies to clarify his comments.\n    \n"
-    publishedDateTime: 2020-10-01T18:39:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oiiwgUwfSbc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/donald-trump-white-house-white-supremacy-proud-boys/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/donald-trump-white-house-white-supremacy-proud-boys/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001100032-01-trump-0930-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -716,22 +636,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003231343-01-donald-trump-walter-reed-1003-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Stoking his base, Trump warns of a Kamala Harris presidency"
-    excerpt: "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president."
-    publishedDateTime: 2020-09-22T08:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240492"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 160
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG"
-        width: 2500
-        height: 1695
         isCached: true
   - title: "Pence Tests Negative for Virus and Will Debate With Harris Next Week"
     excerpt: "With President Trump’s positive coronavirus test, Vice President Mike Pence will take on a more prominent campaign role and represent him at events. Vice President Mike Pence filled in for ..."
@@ -1129,22 +1033,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump indicates he's not open to rule changes at next debates"
-    excerpt: "President Donald Trump on Thursday suggested he would not agree to any rule changes for the second and third presidential debates a day after the debates' organizers vowed to adjust their formatting following Tuesday's chaotic faceoff."
-    publishedDateTime: 2020-10-01T19:22:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-indicates-he-s-not-open-rule-changes-next-debates-n1241726"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241726"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241726"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416725/201001-debate-cleveland-donald-trump-se-255p_d911b5232e10e9c23968f4be3a3d9468.jpg"
-        width: 2500
-        height: 1676
-        isCached: true
   - title: "The Tragedy of Donald Trump"
     excerpt: "Last week, just two short days before Donald Trump tested positive for the coronavirus, several of my colleagues wrote a story about the early days of the pandemic, and the strong global public health consensus at the time that open borders and free movement of peoples should not be suspended,"
     publishedDateTime: 2020-10-02T21:16:00Z
@@ -1525,22 +1413,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "G.O.P. Alarmed by Trump’s Comments on Extremist Group, Fearing a Drag on the Party"
-    excerpt: "For the second time in two weeks, Republicans distanced themselves from the president, expressing unease about his failure to disavow a right-wing organization linked with white supremacy and acts of violence."
-    publishedDateTime: 2020-10-01T08:22:00Z
-    webUrl: "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-white-supremacy.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-white-supremacy.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/30/us/politics/trump-debate-white-supremacy.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 129
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30campaign-ledeall1/30campaign-ledeall1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Kamala Harris walked a fine line familiar to many women of color during the debate"
     excerpt: "Sen. Harris brought her traditional résumé, barrier-breaking background and a collection of facial expressions to Wednesday’s debate"
     publishedDateTime: 2020-10-08T15:12:00Z
@@ -1636,20 +1508,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_42/3420446/meena_kamala-2x1-v1_59d1e9b795bae17d29197c6a3a0dada2.jpg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump requires food aid boxes to come with a letter from him"
-    excerpt: "The Agriculture Department last week began mandating that millions of boxes of surplus food for needy families include a letter from President Donald Trump claiming credit for the program. The USDA’s $4 billion Families to Farmers Food Box Program has distributed more than 100 million boxes to those in need since May,"
-    publishedDateTime: 2020-10-01T08:32:00Z
-    webUrl: "https://www.politico.com/news/2020/10/01/trump-letter-food-aid-boxes-424230"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/45/74/4c18628445b79d74ba2ba7c4a0dd/200930-trump-food-box-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "A Sick Donald Trump Takes His Own Medicine. How Will That Go?"
     excerpt: "Like any normal person admitted to a hospital who can still talk and walk, President Donald Trump wanted out of there. According to CNN, he demanded his release on Sunday because, in part, he thought hospitalization made him look weak but settled for a quick lap outside the Walter Reed National Military Medical Center in a Secret Service Suburban to demonstrate his vitality."
@@ -1762,20 +1620,6 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
-        isCached: true
-  - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
-    excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."
-    publishedDateTime: 2020-09-18T03:18:00Z
-    webUrl: "https://www.politico.com/news/2020/09/17/trump-kamala-harris-president-417490"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 111
-    images:
-      - url: "https://static.politico.com/eb/61/c1f3860c4cdc85e87b8b815cf975/200917-trump-ap-4-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Maya Rudolph’s Kamala Harris Shuts Down Mike Pence on SNL"
     excerpt: "But things really got weird when Herman Cain showed up as a reincarnated fly to attack “white devil” Trump for giving “the ‘rona.”"

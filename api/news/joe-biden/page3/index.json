@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-13-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight.md",
-      "title": "Biden: Faith shouldn't be a subject in Barrett confirmation fight",
-      "excerpt": "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
-      "originalUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
-      "publishedDateTime": "2020-10-12T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-12-the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week.md",
       "title": "The Guilty History Behind Joe Biden and the Democrats Regarding Their SCOTUS Complaints This Week",
       "excerpt": "As the confirmation hearing for Amy Coney Barrett’s appointment commences we are girding ourselves to be inundated with plenty of mewling and complaining from Democrats and the press. There will",
@@ -119,7 +67,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -262,7 +210,7 @@
       "originalUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -306,25 +254,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-joe-bidens-2020-appeal-to-the-white-working-class-can-work-just-ask-my-dad.md",
-      "title": "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad.",
-      "excerpt": "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me.",
+      "path": "_news/2020-10-11-joe-bidens-tax-returns-3-things-we-can-learn-about-social-security.md",
+      "title": "Joe Biden's tax returns: 3 things we can learn about Social Security",
+      "excerpt": "Although many retirees pay no tax on the benefits, those whose \"provisional income\" exceeds $25,000 or $32,000 for joint filers are taxed.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727",
+      "webUrl": "https://www.azcentral.com/story/money/2020/10/10/3-things-we-can-learn-about-social-security-from-the-bidens-tax-returns/114243008/",
+      "originalUrl": "https://www.azcentral.com/story/money/2020/10/10/3-things-we-can-learn-about-social-security-from-the-bidens-tax-returns/114243008/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
+      "highlight": null,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3417006/201002-think-randy-lewellen-with-daughter-se-1059a_3350f9af48be7d86da91e68a1315f0d2.jpg",
-          "width": 2404,
-          "height": 1533,
+          "url": "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/09/27/USATODAY/usatsports/joe-biden-whitehousegov.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -332,16 +276,314 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1241727",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241727",
-      "publishedDateTime": "2020-10-09T14:39:00-07:00",
+      "ampWebUrl": "https://amp.azcentral.com/amp/114243008",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/114243008",
+      "publishedDateTime": "2020-10-10T17:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-nebraska-district-could-prove-pivotal-for-biden-in-november.md",
+      "title": "Nebraska district could prove pivotal for Biden in November",
+      "excerpt": "Democratic presidential nominee Joe Biden appears poised to flip Nebraska’s critical 2nd Congressional District in November, giving Democrats hope in a red state that doles out Electoral College votes per congressional district.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november",
+      "originalUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_100920getty_split_nebraska.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp",
+      "publishedDateTime": "2020-10-10T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-cindy-mccain-praises-joe-biden-in-a-new-campaign-ad-calling-him-a-president-who-would-put-service-before-self.md",
+      "title": "Cindy McCain praises Joe Biden in a new campaign ad, calling him a president who would 'put service before self'",
+      "excerpt": "\"Joe will always fight for the American people, just like John did,\" Cindy McCain, wife of late Arizona Senator John McCain, said in the ad supporting Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10",
+      "originalUrl": "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f81ebbb642e9400180b52df?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp",
+      "publishedDateTime": "2020-10-10T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-progressive-democrats-are-united-behind-joe-biden-but-readying-for-an-internal-world-war-iii-if-he-wins-the-election.md",
+      "title": "Progressive Democrats are united behind Joe Biden but readying for an internal 'World War III' if he wins the election",
+      "excerpt": "Trump term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10",
+      "originalUrl": "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7f6da2ea74820019ca6095?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-record-breaking-group-of-faith-leaders-endorses-biden.md",
+      "title": "'Record-breaking group' of faith leaders endorses Biden",
+      "excerpt": "More than 1,600 faith leaders have endorsed Democratic nominee Joe Biden for president as of Friday, including some who could influence evangelical votes, according to a faith voters outreach group.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden",
+      "originalUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_093020getty_blowout.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp",
+      "publishedDateTime": "2020-10-09T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-verify-did-joe-biden-say-he-would-ban-fracking.md",
+      "title": "VERIFY: Did Joe Biden say he would ban fracking?",
+      "excerpt": "Vice President Mike Pence claimed that under a Biden administration, Joe Biden has said he wants to ban fracking. \"The American people can go look at the record, I know Joe Biden says otherwise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wusa9.com/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
+      "originalUrl": "https://www.wusa9.com/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wusa9.com/assets/WUSA/images/7ebf6abb-c393-470c-891b-b614125c3413/7ebf6abb-c393-470c-891b-b614125c3413_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wusa9.com/amp/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
+      "cdnAmpWebUrl": "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
+      "publishedDateTime": "2020-10-09T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUSA9",
+        "domain": "wusa9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-joe-biden-the-economic-growth-candidate.md",
+      "title": "Joe Biden: The Economic Growth Candidate?",
+      "excerpt": "It’s hard to see how Joe Biden’s tax plan would grow anything except the government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/joe-biden-the-economic-growth-candidate-11602183763",
+      "originalUrl": "https://www.wsj.com/articles/joe-biden-the-economic-growth-candidate-11602183763",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-240642/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-biden-the-economic-growth-candidate-11602183763",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-the-economic-growth-candidate-11602183763",
+      "publishedDateTime": "2020-10-08T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -359,7 +601,7 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
+        "Republican Voice"
       ]
     },
     {
@@ -371,7 +613,7 @@
       "originalUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1402,
+      "heat": 1382,
       "tags": null,
       "images": [
         {
@@ -412,64 +654,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-pence-attacks-biden-for-failing-to-rescue-kayla-mueller-who-was-held-hostage-by-isis.md",
-      "title": "Pence attacks Biden for failing to rescue Kayla Mueller, who was held hostage by ISIS.",
-      "excerpt": "Vice President Mike Pence brought the parents of Kayla Mueller, the human rights activist who was killed in 2015 by members of the Islamic State in Syria, to the debate hall and attacked Joseph R. Biden Jr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-10/07elections-briefing-07-22-10-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
-      "publishedDateTime": "2020-10-07T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice",
         "Mike Pence"
       ]
     },
@@ -531,21 +715,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-joe-biden-should-stop-ducking-the-court-packing-issue.md",
-      "title": "Joe Biden should stop ducking the court-packing issue",
-      "excerpt": "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing.",
+      "path": "_news/2020-10-07-fact-check-robert-byrd-eulogized-by-joe-biden-at-funeral-was-not-kkk-grand-wizard.md",
+      "title": "Fact check: Robert Byrd, eulogized by Joe Biden at funeral, was not KKK Grand Wizard",
+      "excerpt": "Social media users have been sharing content online that claims Democratic Presidential nominee Joe Biden eulogized Robert Byrd, asserting he was the grand wizard of the Ku Klux Klan (KKK). This claim is partly false.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
-      "originalUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-byrd-eulogy-biden-kkk-grand-idUSKBN26S2EE",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-byrd-eulogy-biden-kkk-grand-idUSKBN26S2EE",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1005,
+      "heat": 138,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/conservativecourts2020_080119hillillustration.jpg",
-          "width": 980,
-          "height": 551,
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201007&t=2&i=1536544756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG961N0",
+          "width": 818,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -553,16 +737,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
-      "publishedDateTime": "2020-10-07T06:30:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26S2EE",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S2EE",
+      "publishedDateTime": "2020-10-07T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -640,127 +824,19 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity.md",
-      "title": "Biden in Gettysburg speech invokes Lincoln, calls for unity",
-      "excerpt": "Democratic presidential nominee Joe Biden delivered an impassioned plea for unity while invoking former President Lincoln during a speech in Gettysburg, Pa., on Tuesday, exactly four weeks before the election.",
+      "path": "_news/2020-10-07-battle-for-the-suburbs-can-joe-biden-flip-texas-video.md",
+      "title": "Battle for the suburbs: can Joe Biden flip Texas? – video",
+      "excerpt": "Texas is a rapidly changing state with the fastest growing population in America. Hispanic Texans are set to become the majority by 2022, but will this help Joe Biden flip a Republican stronghold? Oli",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity",
-      "originalUrl": "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity",
+      "webUrl": "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video",
+      "originalUrl": "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_gettysburg_100620getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp",
-      "publishedDateTime": "2020-10-06T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it.md",
-      "title": "Michelle Obama Makes Final Pitch: 'Vote For Joe Biden Like Your Lives Depend On It'",
-      "excerpt": "President Trump \"continues to gaslight the American people by acting like this pandemic is not a real threat,\" Michelle Obama says in video remarks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it",
-      "originalUrl": "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/10/06/michelle-obama-closing-argument_wide-53ba9b0b61da569863ffca9af3caba3915ebbbfe.png?s=1400",
-          "width": 1400,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-biden-describes-the-first-debate-as-a-clownish-undertaking.md",
-      "title": "Biden describes the first debate as a 'clownish undertaking'",
-      "excerpt": "Joe Biden was asked about his first debate with President Trump, and if he could stand up to his opponent in the future. He said the debate frustrated him but should have described it as a \"clownish undertaking\" instead of calling the president a clown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601",
-      "originalUrl": "https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_clown_201005_1920x1080.nbcnews-fp-1200-630.jpg",
+          "url": "https://i.guim.co.uk/img/media/ad2b6c6bc07ee8a1c8603135263f9c5f9afdd033/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddfef1d2d526de95827d109c891e36aa",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -770,16 +846,115 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93196357601",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93196357601",
-      "publishedDateTime": "2020-10-05T17:49:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T03:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-joe-biden-in-pennsylvania-to-visit-historic-gettysburg-tuesday.md",
+      "title": "Joe Biden in Pennsylvania, to visit historic Gettysburg Tuesday",
+      "excerpt": "Democratic presidential nominee Joe Biden will campaign in southern Pennsylvania on Tuesday, in a state viewed as a critical battleground for next month's election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/7071601988862/2020/1/14c8efc4ed0991ebe7040bd1d12e25bf/v1.5/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/",
+      "publishedDateTime": "2020-10-06T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-my-message-to-pro-life-evangelicals-for-biden.md",
+      "title": "My Message to ‘Pro-Life Evangelicals for Biden’",
+      "excerpt": "In a period of less than 10 minutes on Monday, I read an article about Democratic presidential nominee Joe Biden’s extreme pro-abortion views and then was sent a link to",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/michaelbrown/2020/10/06/my-message-to-prolife-evangelicals-for-biden-n2577557",
+      "originalUrl": "https://townhall.com/columnists/michaelbrown/2020/10/06/my-message-to-prolife-evangelicals-for-biden-n2577557",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/michaelbrown/2020/10/06/my-message-to-prolife-evangelicals-for-biden-n2577557?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/michaelbrown/2020/10/06/my-message-to-prolife-evangelicals-for-biden-n2577557?amp=true",
+      "publishedDateTime": "2020-10-06T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -797,25 +972,25 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
+        "Republican Voice"
       ]
     },
     {
-      "path": "_news/2020-10-05-goldmans-chief-economist-breaks-down-why-a-biden-led-blue-wave-would-prompt-an-upgrade-in-growth-forecasts.md",
-      "title": "Goldman's chief economist breaks down why a Biden-led blue wave would prompt an upgrade in growth forecasts",
-      "excerpt": "Longer-term economic growth forecasts would be lifted by spending increases on infrastructure, climate, healthcare, and education, Goldman said.",
+      "path": "_news/2020-10-06-watch-live-nbc-news-town-hall-with-biden.md",
+      "title": "Watch Live: NBC News town hall with Biden",
+      "excerpt": "NBC News’s Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami. The event is scheduled to begin at 8 p.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10",
-      "originalUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10",
+      "webUrl": "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe",
+      "originalUrl": "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 1025,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f7b3e7494fce90018f7b152?format=jpeg",
-          "width": 2886,
-          "height": 1443,
+          "url": "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -823,16 +998,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp",
-      "publishedDateTime": "2020-10-05T09:37:00-07:00",
+      "ampWebUrl": "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp",
+      "publishedDateTime": "2020-10-05T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -962,49 +1137,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-05-joe-biden-moves-ahead-of-president-trump-among-miami-dade-hispanic-voters-poll-finds.md",
-      "title": "Joe Biden moves ahead of President Trump among Miami-Dade Hispanic voters, poll finds",
-      "excerpt": "American voters continue to favor President Donald Trump over Joe Biden in Miami-Dade County, but more are moving toward the Democratic nominee, boosting Biden’s chances of winning battleground Florida,",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/politics-government/article246216955.html",
-      "originalUrl": "https://www.miamiherald.com/news/politics-government/article246216955.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f4761fca-22cf-457b-bb5b-25c8c5877932/dc6ba712-84ad-49d0-be23-fb3df9b27dff/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/article246216955.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246216955.html",
-      "publishedDateTime": "2020-10-05T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden.md",
       "title": "Will new Florida voters tip the election in favor of Joe Biden?",
       "excerpt": "Are we there yet? After the first debate, and the news about Donald Trump, many Americans are wondering when the election will end.",
@@ -1013,7 +1145,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 520,
+      "heat": 440,
       "tags": null,
       "images": [
         {
@@ -1054,63 +1186,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-senior-adviser-biden-to-be-tested-again-sunday.md",
-      "title": "Senior adviser: Biden to be tested again Sunday",
-      "excerpt": "Symone Sanders, a senior adviser to the Biden campaign, said Sunday the campaign is not concerned about continuing events following President Donald Trump's Covid-19 diagnosis, because it is adhering to health guidelines and testing the former vice president \"regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006",
-      "originalUrl": "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/74/6d/5471731740c89a4a860f39cfaf1c/apsanders.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006",
-      "publishedDateTime": "2020-10-04T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1168,6 +1243,102 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-jim-carrey-and-maya-rudolph-transform-into-joe-biden-and-kamala-harris-snl.md",
+      "title": "Jim Carrey and Maya Rudolph Transform into Joe Biden and Kamala Harris - SNL",
+      "excerpt": "Matt Brennan joined the Los Angeles Times as television editor in 2019. Previously, he served as Paste Magazine’s TV editor, and has written for Indiewire, Slate, Deadspin and LA Weekly, among others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/tv/h-aqttywddi-123",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/h-aqttywddi-123",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 307,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/cc38a37/2147483647/strip/true/crop/480x252+0+54/resize/1200x630!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh-aqTtywDDI%2Fhqdefault.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-03T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline.md",
+      "title": "Howie Carr: Media continue to cover up Joe Biden’s mental decline",
+      "excerpt": "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/",
+      "originalUrl": "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/",
+      "publishedDateTime": "2020-10-03T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1285,23 +1456,23 @@
       ]
     },
     {
-      "path": "_news/2020-10-01-former-commander-of-us-forces-in-afghanistan-endorses-biden.md",
-      "title": "Former commander of US forces in Afghanistan endorses Biden",
-      "excerpt": "It's striking how many retired military leaders, many of whom have been apolitical for decades, have stepped up to denounce Trump, endorse Biden, or both.",
+      "path": "_news/2020-10-03-watch-live-nbc-news-town-hall-with-joe-biden.md",
+      "title": "Watch live: NBC News Town Hall with Joe Biden",
+      "excerpt": "NBC News’ Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday, October 5th in Miami, Fla. A socially-distanced audience of undecided voters will be asking Biden where he stands on the critical issues impacting their lives.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/former-commander-us-forces-afghanistan-endorses-biden-ncna1241706",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/former-commander-us-forces-afghanistan-endorses-biden-ncna1241706",
+      "webUrl": "https://www.nbcnews.com/video/watch-live-nbc-news-town-hall-with-joe-biden-93026373600",
+      "originalUrl": "https://www.nbcnews.com/video/watch-live-nbc-news-town-hall-with-joe-biden-93026373600",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 115,
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2018_52/2699456/1812230-_stanley-mcchrystal-se-1239p_976e1254705613d2cb950f20ea8c4696.nbcnews-fp-1200-630.jpg",
+          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_holt_TH_monday.nbcnews-fp-1200-630.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -1311,9 +1482,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T09:40:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93026373600",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93026373600",
+      "publishedDateTime": "2020-10-02T12:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -1342,120 +1513,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-01-kyle-rittenhouse-to-sue-joe-biden-after-campaign-ad-links-teen-to-white-supremacy.md",
-      "title": "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy",
-      "excerpt": "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video.",
+      "path": "_news/2020-10-03-theres-no-joy-in-being-right-biden-makes-cautious-return-to-the-campaign-trail.md",
+      "title": "‘There’s no joy in being right’: Biden makes cautious return to the campaign trail",
+      "excerpt": "Friday was a day of “hibernation,” as one Biden adviser put it, an approach designed to allow the news cycle to burn on its own fuel. Campaign advisers said that the public would come to its own conclusion that the president’s failure to protect the nation or take the pandemic seriously enough had come back to haunt him,",
       "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/nation-world/national/article246142010.html",
-      "originalUrl": "https://www.miamiherald.com/news/nation-world/national/article246142010.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/nation-world/national/article246142010.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html",
-      "publishedDateTime": "2020-10-01T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-former-afghanistan-commander-gen-stanley-mcchrystal-endorses-joe-biden-despite-previous-tension-between-them.md",
-      "title": "Former Afghanistan commander Gen. Stanley McChrystal endorses Joe Biden, despite previous tension between them",
-      "excerpt": "Before overseeing all U.S. operations in Afghanistan under the Obama administration, U.S. Army Gen. Stanley McChrystal led the Pentagon's most secretive black ops for five years. During his military career,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/10/01/former-afghanistan-commander-stanley-mcchrystal-endorses-joe-biden.html",
-      "originalUrl": "https://www.cnbc.com/2020/10/01/former-afghanistan-commander-stanley-mcchrystal-endorses-joe-biden.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105536897-1540824438662gettyimages-91549841.jpeg?v=1601558056",
-          "width": 3300,
-          "height": 2200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/01/former-afghanistan-commander-stanley-mcchrystal-endorses-joe-biden.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/01/former-afghanistan-commander-stanley-mcchrystal-endorses-joe-biden.html",
-      "publishedDateTime": "2020-10-01T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-three-quarters-of-lgbtq-voters-back-joe-biden-glaad-poll-finds.md",
-      "title": "Three-quarters of LGBTQ voters back Joe Biden, GLAAD poll finds",
-      "excerpt": "With the presidential election just a month away, 75 percent of LGBTQ voters said they support Biden, while 17 percent back Trump, according to a GLAAD poll.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/three-quarters-lgbtq-voters-back-joe-biden-glaad-poll-finds-n1241690",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/three-quarters-lgbtq-voters-back-joe-biden-glaad-poll-finds-n1241690",
+      "webUrl": "https://www.politico.com/states/california/story/2020/10/02/biden-tests-negative-for-coronavirus-1319844",
+      "originalUrl": "https://www.politico.com/states/california/story/2020/10/02/biden-tests-negative-for-coronavirus-1319844",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://static.politico.com/65/ac/d885bdd04d24856933469af10242/gettyimages-1277705292-1.jpg",
+          "width": 1160,
+          "height": 774,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1463,16 +1539,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241690",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241690",
-      "publishedDateTime": "2020-10-01T07:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T10:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1492,112 +1568,7 @@
         "Joe Biden",
         "Democratic Voice"
       ]
-    },
-    {
-      "path": "_news/2020-10-01-biden-kicks-off-train-tour-through-ohio-pennsylvania-after-raucous-debate.md",
-      "title": "Biden kicks off train tour through Ohio, Pennsylvania after raucous debate",
-      "excerpt": "Joe Biden is embarking on a roughly 200-mile train tour on Wednesday through Ohio and Pennsylvania, appealing to voters who have strayed from Democrats in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 433,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/joe-biden-train-campaign-01-gty-llr-200930_1601479889365_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
-      "publishedDateTime": "2020-09-30T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-fact-check-joe-biden-did-not-say-he-attended-delaware-state-university.md",
-      "title": "Fact check: Joe Biden did not say he attended Delaware State University",
-      "excerpt": "Tens of thousands of social media users have been sharing posts that say Democratic presidential candidate Joe Biden lied about attending Delaware State University (DSU). This claim is false: Biden did not say that he attended DSU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD",
-      "originalUrl": "https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535546722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T1V0",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26L2RD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L2RD",
-      "publishedDateTime": "2020-09-30T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
     }
   ],
-  "nextPage": 4
+  "nextPage": null
 }

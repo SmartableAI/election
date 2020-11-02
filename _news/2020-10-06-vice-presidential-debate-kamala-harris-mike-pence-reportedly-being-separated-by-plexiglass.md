@@ -22,6 +22,22 @@ topics:
   - Mike Pence
 
 related:
+  - title: "Plexiglass and 12 feet apart: Mike Pence, Kamala Harris have new rules for vice presidential debate"
+    excerpt: "The changes come after President Donald Trump and several White House staffers and allies have tested positive for COVID-19 after last week's presidential debate."
+    publishedDateTime: 2020-10-05T23:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/05/vice-presidential-debate-plexiglass-divide-kamala-harris-mike-pence/3630292001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3630292001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3630292001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Kamala Harris and Mike Pence will reportedly be separated by plexiglass in debate on Wednesday night"
     excerpt: "The highest profile use of plexiglass so far this election cycle came from Democrat Jaime Harrison in his debate against Republican South Carolina Sen. Lindsey Graham."
     publishedDateTime: 2020-10-05T21:20:00Z
@@ -37,6 +53,22 @@ related:
       - url: "https://i.insider.com/5f7b8483282c500018c78b59?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "As Harris Prepares for Pence Debate, Asian American Women Pay Tribute to Their Immigrant Mothers, Grandmothers"
+    excerpt: "The Democratic Party's vice presidential nominee became the first Asian-American woman on a major party's ticket. Here's what her nomination means to the women she represents."
+    publishedDateTime: 2020-10-07T21:37:00Z
+    webUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176"
+    ampWebUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1647685/kamala-harris.jpg"
+        width: 594
+        height: 396
         isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
@@ -54,21 +86,51 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Mike Pence avoided Roe v. Wade in Wednesday’s debate. Here’s why."
-    excerpt: "Both parties are out of touch on abortion. But most voters support Roe, and conservatives already trust Pence on social issues."
-    publishedDateTime: 2020-10-09T01:49:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/?outputType=amp"
+  - title: "Can Kamala Harris be president? How about Mike Pence? That’s what’s at stake in VP debate"
+    excerpt: "With President Trump having been hospitalized after contracting COVID-19 and Democratic presidential nominee Joe Biden risking exposure to the virus by traveling far more than most Americans, Wednesday’s debate between the vice president and the Democratic nominee will be anything but an afterthought."
+    publishedDateTime: 2020-10-06T01:09:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Can-Kamala-Harris-be-president-How-about-Mike-15623377.php"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 121
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VAOULYLK6ZFUNBMPCG2V62YPXA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.hdnux.com/photos/01/14/42/40/20064307/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Megyn Kelly scolds Kamala Harris on debate facial expressions: 'Take it like a woman'"
+    excerpt: "Megyn Kelly scolded Sen. Kamala Harris Kamala Harris Five takeaways from the vice presidential debate Pence targets Biden over"
+    publishedDateTime: 2020-10-08T13:26:00Z
+    webUrl: "https://thehill.com/homenews/media/520147-megyn-kelly-scolds-kamala-harris-on-debate-facial-expressions-take-it-like-a"
+    ampWebUrl: "https://thehill.com/homenews/media/520147-megyn-kelly-scolds-kamala-harris-on-debate-facial-expressions-take-it-like-a?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/520147-megyn-kelly-scolds-kamala-harris-on-debate-facial-expressions-take-it-like-a?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_pencemike2_100720getty_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
+    excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
+    publishedDateTime: 2020-10-04T15:57:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 104
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/08/kamala_pence.jpg"
+        width: 800
+        height: 430
         isCached: true
   - title: "Mike Pence reluctantly agrees to plexiglass barriers in tonight’s V.P. debate."
     excerpt: "From \"The Daily 202\" podcast: the Commission on Presidential Debates said the vice president dropped his objections to a plexiglass barricade on his side of the stage for today’s debate after viewing the setup during a walk-through of the debate hall."
@@ -83,6 +145,22 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20201007/t_1602074181394_name_Election2020.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Plexiglass will divide Mike Pence, Kamala Harris at Wednesday's vice presidential debate"
+    excerpt: "The changes come after President Donald Trump and several White House staffers and allies have tested positive for COVID-19 after last week's presidential debate."
+    publishedDateTime: 2020-10-05T23:28:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/05/vice-presidential-debate-plexiglass-divide-kamala-harris-mike-pence/3630292001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3630292001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3630292001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "How to Watch Wednesday Night’s Debate Between Mike Pence and Kamala Harris—and What to Expect"
     excerpt: "The debate, which will take place at 9 p.m. on Wednesday, will feature increased social distancing protocols, including greater distance between the two candidates and plexiglass shields in front of each of their lecterns."
@@ -116,101 +194,83 @@ related:
         width: 2000
         height: 1294
         isCached: true
-  - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
-    excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
-    publishedDateTime: 2020-10-07T12:04:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/07/kamala-harris-mike-pence-what-watch-vice-presidential-debate/5878313002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5878313002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5878313002"
+  - title: "Mike Pence fly memes land on the vice presidential debate"
+    excerpt: "Pence Fly and Mike Pence Fly -- even landing a three-picture deal from Universal, joked Paul Feig, who directed Bridesmaids, The Heat and Ghostbusters: ATC. C-SPAN even thought the moment viral ..."
+    publishedDateTime: 2020-10-08T13:03:03Z
+    webUrl: "https://www.cnet.com/news/mike-pence-fly-memes-dominated-the-vice-presidential-debate/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/mike-pence-fly-memes-dominated-the-vice-presidential-debate/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mike-pence-fly-memes-dominated-the-vice-presidential-debate/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/14a07ef5-cda0-4fad-85af-933d6cb90950-VP_debate_sign.jpg?auto=webp&crop=5237,2946,x0,y266&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "SNL: Who Is Playing Kamala Harris on Saturday Night Live?"
-    excerpt: "Kamala Harris (D-CA) delivers remarks at Shaw University on September 28, 2020. On October 3, 2020, Saturday Night Live will be returning to NBC for the premiere of its 46th season. The host will be Chris Rock and rapper Megan Thee Stallion will be performing as the musical guest."
-    publishedDateTime: 2020-10-04T01:25:00Z
-    webUrl: "https://heavy.com/entertainment/kamala-harris-snl-who-is-playing/"
-    ampWebUrl: "https://heavy.com/entertainment/kamala-harris-snl-who-is-playing/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/kamala-harris-snl-who-is-playing/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
+      name: CNET
+      domain: cnet.com
     quality: 75
     images:
-      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228774543-e1601766932483.jpg?quality=65&strip=all"
-        width: 4800
-        height: 2712
-        isCached: true
-  - title: "Vice President Mike Pence to visit Grand Rapids Wednesday"
-    excerpt: "Vice President Mike Pence plans to visit a West Michigan manufacturing facility this week. Pence will host a “Make America Great Again!\" event at Lacks Enterprises, Inc., 5675 Kraft Ave. SE, near the Gerald R."
-    publishedDateTime: 2020-10-11T02:36:00Z
-    webUrl: "https://www.mlive.com/politics/2020/10/vice-president-mike-pence-to-visit-grand-rapids-wednesday.html"
-    ampWebUrl: "https://www.mlive.com/politics/2020/10/vice-president-mike-pence-to-visit-grand-rapids-wednesday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/10/vice-president-mike-pence-to-visit-grand-rapids-wednesday.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NBFAZ2TCPVGYDF3AUIIIIBJV3Y.JPG"
-        width: 3684
-        height: 2456
-        isCached: true
-  - title: "Vice President Mike Pence to host campaign event in Grand Rapids Wednesday"
-    excerpt: "United States Vice President, Mike Pence, will reportedly visit Michigan next week after the Republican National Convention."
-    publishedDateTime: 2020-10-11T06:08:00Z
-    webUrl: "https://www.clickondetroit.com/decision-2020/2020/10/11/vice-president-mike-pence-to-host-campaign-event-in-grand-rapids-wednesday/"
-    ampWebUrl: "https://www.clickondetroit.com/decision-2020/2020/10/11/vice-president-mike-pence-to-host-campaign-event-in-grand-rapids-wednesday/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/decision-2020/2020/10/11/vice-president-mike-pence-to-host-campaign-event-in-grand-rapids-wednesday/?outputType=amp"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 73
-    images:
-      - url: "https://www.clickondetroit.com/resizer/iAJPnlcv37wvv43msq_VFZ1c3qY=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/CT43XHH5UJBRXMH63EKKNRK2JI.jpg"
+      - url: "https://cnet3.cbsistatic.com/img/nGPD5Zds7crxw9756joYE-utTE0=/2020/10/08/13211f95-e329-409a-a925-bf6fbdfd633b/1228948960.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris plans two campaign events in Raleigh today | Charlotte Observer"
-    excerpt: "Kamala Harris will be in Raleigh on Monday, her first visit to North Carolina as the Democratic nominee for vice president. Harris, a U.S. senator from California and former attorney general, will give a speech Monday afternoon at Shaw University."
-    publishedDateTime: 2020-09-28T14:27:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246023330.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
+  - title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
+    excerpt: "Despite all the fury on social media about the fly on Mike Pence’s head and Kamala Harris’ demeanor, analysts say the vice presidential debate is unlikely to alter the state of the ..."
+    publishedDateTime: 2020-10-11T19:14:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246337265.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246337265.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246337265.html"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 72
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 68
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e24a9e94-12c3-454a-873e-0e9c2916d379/da956aac-77ef-469c-a259-8f538eb7b90e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Vice President Mike Pence to visit Grand Rapids on Wednesday for campaign event"
-    excerpt: "Vice President Mike Pence on Wednesday will hold a campaign event at an automotive trim company in Grand Rapids, President Donald Trump's campaign announced Saturday night. The event will be held at Lacks Enterprises in Grand Rapids and is scheduled to begin at 12:30 p."
-    publishedDateTime: 2020-10-11T02:30:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/10/mike-pence-visit-grand-rapids/5958341002/"
-    ampWebUrl: "https://amp.freep.com/amp/5958341002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5958341002"
+  - title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
+    excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
+    publishedDateTime: 2020-10-02T12:42:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5892854002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 71
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/NLED/d3e83616-4fb2-42b8-9c36-e4846c6d0b23-AP20279737181110.jpg?auto=webp&crop=3956,2226,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The VP debate is over. Did Sen. Kamala Harris’ performance light a fire under women voters?"
+    excerpt: "With the gender gap widening when it comes to presidential preferences, the power of the women’s vote, especially if the election is close, is all the more consequential."
+    publishedDateTime: 2020-10-09T13:13:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 65
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_70dd3658a4d2eb9ef428f24c9e71719f-h_ebc103cbe12a1add9a23b31dd1f56886.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "VIDEO: SATURDAY NIGHT LIVE Tackles the Vice Presidential Debate, and the Fly on Mike Pence's Head"
+    excerpt: "Live returned last night for a new hilarious episode. Last night's Cold Open tackled the vice presidential debate between Mike Pence and Kamala Harris. In the sketch, Susan Page (Kate McKinnon) moderates a debate between Senator Harris (Maya Rudolph) and Vice President Pence (Beck Bennett),"
+    publishedDateTime: 2020-10-11T13:18:00Z
+    webUrl: "https://www.broadwayworld.com/bwwtv/article/VIDEO-SATURDAY-NIGHT-LIVE-Tackles-the-Vice-Presidential-Debate-and-the-Fly-on-Mike-Pences-Head-20201011"
+    type: article
+    provider:
+      name: BroadwayWorld
+      domain: broadwayworld.com
+    quality: 42
+    images:
+      - url: "https://cloudimages.broadwayworld.com/columnpiccloud/1250-275a6e21d6837a7509534c07cd00f328.jpg"
+        width: 1250
+        height: 625
         isCached: true
 
 secured: "eqbWR88K+tpi/WhoFPAZAgTJuaYeEbNCbNOMdID12AsTPRS52v2Bs7h4ps6XugiM1URE6ZnuamUCfyjZmanpzqeGGj8Xu6njNesfwlbBQfcjHn4kafyV+vxZOkN1UzJagFQhTBVa3apFVd6mxXEKD0uwC7x1BbdMFWe6mmT9OloykvWonUJP0eNVewLYnXmPrBPM1qAyW6wim3YdSSoifG7BSp2i6d1M2xGRFalfr2yC6IWRVNgb3Yq2BfS5mMzYJdiVHNW0iEZEOaKYQ7xN7u8XtgS5sKS2I2h/doRUGy/e1T4IYmYfgIbHAnjncdpHQ560MuVQlK8XqtOqOYYiIskaoqFfUEw2qL+X4ltK9XIcQXGilYsRVyUjpbTFvIVXeJU43shdwT5LNTVRg/9d1rJKAarFLFcbYWwMMM1/Z7qMQKFyH7ez7ygoZJDoUk6np2ofSNzhFAHGKhQ1f+SUxk//y4DQWxiNfwlNy0Bux+c1WmfZhKKeSd2k5/ALmQVEIjmFIE/tssWqL5C9Z5NWyA==;dNv/qZ5Xa/j2KpOC7CZFWQ=="

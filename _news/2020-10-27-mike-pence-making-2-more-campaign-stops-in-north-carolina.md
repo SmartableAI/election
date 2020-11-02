@@ -25,22 +25,6 @@ topics:
   - Mike Pence
 
 related:
-  - title: "Biden, Cunningham hold narrow leads in North Carolina: poll"
-    excerpt: "Democratic presidential nominee Joe Biden has a narrow lead over President Trump in North Carolina, while Democrat Cal Cunningham holds a similarly slim lead in the Tarheel State’s marquee Senate race in a new survey released Thursday."
-    publishedDateTime: 2020-10-29T19:54:00Z
-    webUrl: "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll"
-    ampWebUrl: "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_102720getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say"
     excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
     publishedDateTime: 2020-10-23T11:12:00Z
@@ -57,19 +41,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence making two campaign stops in North Carolina this weekend"
-    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
-    publishedDateTime: 2020-10-30T06:18:00Z
-    webUrl: "https://abc11.com/politics/vp-pence-making-two-campaign-stops-in-north-carolina-this-weekend/7463634/"
-    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
+  - title: "Joe Biden to visit Durham on Sunday as North Carolina’s early voting numbers soar | Charlotte Observer"
+    excerpt: "More than one million North Carolina voters have already cast their ballots, and Democratic presidential nominee Joe Biden is hoping to increase those numbers. Biden will visit Durham on Sunday for a 1 p."
+    publishedDateTime: 2020-10-17T12:02:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article246508225.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article246508225.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article246508225.html"
     type: article
     provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 69
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 59
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/7398556_102720-wtvd-Tim-5pm-Pence-in-Greensboro-vid.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/2530ebd3-c89b-4972-9eff-cfb6c796564b/main/1280x720/1m46s304ms/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -331,49 +331,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-mike-pence-show-them-michigan-is-trump-country.md",
-      "title": "Mike Pence: ‘Show them Michigan is Trump country’",
-      "excerpt": "Vice President Mike Pence asked Michigan voters to prove the state is “'Trump country” during a campaign appearance just six days from the election. Pence held a campaign rally at Bishop International Airport in Flint Wednesday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html",
-      "originalUrl": "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U55OY3N3QRD2TGTDUAHHXF5NDQ.JPG",
-          "width": 1300,
-          "height": 867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp",
-      "publishedDateTime": "2020-10-28T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville.md",
       "title": "Hundreds attend rally to see Vice President Mike Pence in Greenville",
       "excerpt": "The vice president had landed in Greenville, an Upstate South Carolina city that is, in most regards, strongly considered to be Trump country. “I don’t want to lose this country to Joe Biden,\" said Dean Cox,",
@@ -382,7 +339,7 @@
       "originalUrl": "https://www.wyff4.com/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -526,7 +483,7 @@
       "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1769,
+      "heat": 2149,
       "tags": null,
       "images": [
         {
@@ -625,6 +582,102 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday.md",
+      "title": "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday",
+      "excerpt": "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday",
+      "originalUrl": "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true",
+      "cdnAmpWebUrl": "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true",
+      "publishedDateTime": "2020-10-26T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMJ4",
+        "domain": "tmj4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-trump-and-pence-defy-pandemic-for-political-gain.md",
+      "title": "Trump and Pence defy pandemic for political gain",
+      "excerpt": "President Trump and Vice President Pence are holding events in battleground states, defiant about the pandemic, a White House outbreak and a climbing national case count.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2290,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-lititz-rally-04-gty-jef-201026_1603739248715_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
+      "publishedDateTime": "2020-10-26T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
       ]
     },
     {
@@ -903,6 +956,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-26-pence-hits-campaign-trail-amid-wh-virus-outbreak.md",
+      "title": "Pence hits campaign trail amid WH virus outbreak",
+      "excerpt": "Publish Audio Pence hits campaign trail amid WH virus outbreak. Posted [AUDIO ONLY] Vice President Mike Pence campaigned on Sunday despite a COVID-19 outbreak among his a",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idRCV008WDL",
+      "originalUrl": "https://www.reuters.com/video/watch/idRCV008WDL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20201026&i=RCV008WDL&r=RCV008WDL&t=2",
+          "width": 4262,
+          "height": 3240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-amy-coney-barrett-mike-pence-tropical-storm-zeta-5-things-to-know-monday.md",
       "title": "Amy Coney Barrett, Mike Pence, Tropical Storm Zeta: 5 things to know Monday",
       "excerpt": "Amy Coney Barrett is poised to become the ninth Supreme Court justice, Tropical Storm Zeta expected to develop into a hurricane and more things to start your Monday.",
@@ -1004,64 +1109,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-pence-hits-biden-for-undermining-law-enforcement-tells-levin-all-my-heroes-wear-uniforms.md",
-      "title": "Pence hits Biden for 'undermining' law enforcement, tells Levin 'all my heroes wear uniforms'",
-      "excerpt": "Vice President Mike Pence contrasted the Trump administration's support of law enforcement to that of Joe Biden's on Sunday, telling \"Life, Liberty & Levin\" that unlike his Democratic challenger, his support for the thin blue line dates back to his childhood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/pence-hits-biden-for-undermining-law-enforcement-all-my-heroes-wear-uniforms",
-      "originalUrl": "https://www.foxnews.com/media/pence-hits-biden-for-undermining-law-enforcement-all-my-heroes-wear-uniforms",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0593634-1bea-4ded-a92c-f3546eca0606/67309192-93de-4dbb-93c4-3310dba3a2b3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/pence-hits-biden-for-undermining-law-enforcement-all-my-heroes-wear-uniforms.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/pence-hits-biden-for-undermining-law-enforcement-all-my-heroes-wear-uniforms.amp",
-      "publishedDateTime": "2020-10-25T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-at-least-5-people-in-pences-orbit-including-chief-of-staff-marc-short-are-positive-for-coronavirus.md",
       "title": "At least 5 people in Pence's orbit, including chief of staff Marc Short, are positive for coronavirus",
       "excerpt": "Marc Short, chief of staff to Vice President Mike Pence, has been diagnosed with Covid-19, the Vice President's office announced in a statement, marking the second top Pence aide to test positive this week.\n    \n",
@@ -1127,7 +1174,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/health-experts-question-pence-campaigning-as-essential-work/2020/10/25/9457ae2e-16e8-11eb-8bda-814ca56e138b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1171,21 +1218,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-25-donald-trump-and-mike-pence-both-campaign-sunday-despite-coronavirus-cases-among-vice-presidents-staff.md",
-      "title": "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff",
-      "excerpt": "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said.",
+      "path": "_news/2020-10-25-pence-to-keep-up-travel-despite-contact-with-infected-aide.md",
+      "title": "Pence to keep up travel despite contact with infected aide",
+      "excerpt": "The White House says Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/",
+      "webUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1273,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1193,16 +1240,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6031990002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002",
-      "publishedDateTime": "2020-10-25T08:31:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-25T09:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1219,7 +1266,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Mike Pence"
       ]
     },
@@ -1236,7 +1282,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 305,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1350,7 +1396,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2658,
+      "heat": 2638,
       "tags": null,
       "images": [
         {
@@ -1450,7 +1496,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 570,
+      "heat": 610,
       "tags": null,
       "images": [
         {
@@ -1491,40 +1537,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election.md",
-      "title": "WEB EXTRA: VP Mike Pence and Karen Pence Vote In 2020 Election",
-      "excerpt": "Vice President Mike Pence and Second Lady Karen Pence voted in the 2020 general election in Indianapolis, IN on Friday. The Pences submitted their absentee ballots in person.",
-      "sourceUrl": null,
-      "webUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/",
-      "originalUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/",
-      "cdnAmpWebUrl": "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/",
-      "publishedDateTime": "2020-10-23T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

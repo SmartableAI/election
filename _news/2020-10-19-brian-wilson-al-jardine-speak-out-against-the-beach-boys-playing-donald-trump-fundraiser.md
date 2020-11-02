@@ -59,47 +59,36 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Donald Trump keeps begging women to like him. They keep saying no."
-    excerpt: "I paid $14.95 to hear a cadre of women who love President Trump explain why women should love President Trump. This 96-minute education came in the form of “The Trump I Know,” a new documentary available for download,"
-    publishedDateTime: 2020-10-21T03:24:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html?outputType=amp"
+  - title: "Michelle Goldberg column: Is the Trump campaign colluding with Russia again?"
+    excerpt: "According to The Washington Post, U.S. intelligence agencies warned the White House last year that Giuliani, then searching in Ukraine for dirt about Biden and his son Hunter, was the target of a Russian influence operation."
+    publishedDateTime: 2020-10-20T14:48:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-trump-campaign-russia-hunter-biden-20201020-qtnsvdsixrexzli62o5bkmmcay-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-trump-campaign-russia-hunter-biden-20201020-qtnsvdsixrexzli62o5bkmmcay-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-trump-campaign-russia-hunter-biden-20201020-qtnsvdsixrexzli62o5bkmmcay-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MK6GEMQPFUI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 961
+      - url: "https://www.chicagotribune.com/resizer/Dc8h7rcK6xp9zygY3UMLNyYObsw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E3DWMOIFMLK7J2OA6APXQJE6OM.jpg"
+        width: 1200
+        height: 876
         isCached: true
-  - title: "Trump speaks as he arrives for Carson City rally"
-    excerpt: "President Donald Trump speaks to reporters as he heads for his campaign rally in in Carson City, Nevada on Sunday. Once considered a battleground state, Nevada hasn’t swung for a Republican presidential contender since 2004."
-    publishedDateTime: 2020-10-19T01:36:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/19/trump-speaks-he-arrives-carson-city-rally/3707058001/"
+  - title: "Why Beijing May Want To Keep Trump In The White House"
+    excerpt: "Donald Trump has frustrated and enraged China during a tumultuous first term, but Beijing may welcome his re-election as it scans the horizon for the decline of its superpower rival. Relations are as icy as at any time since formal ties were established four decades ago,"
+    publishedDateTime: 2020-10-20T07:16:00Z
+    webUrl: "https://www.ibtimes.com/why-beijing-may-want-keep-trump-white-house-3065107"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4506c45e-7512-47f4-be1b-b5f7f5e1eb8e_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Despite Past Democratic Wins, Trump Making a Play for Nevada"
-    excerpt: "Democrats have kept Nevada in their column in every presidential election since 2004. But political strategists and organizers on the ground warn Nevada is still a swing state. (Steve Marcus/Las Vegas Sun via AP,"
-    publishedDateTime: 2020-10-18T20:19:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-18/despite-past-democratic-wins-trump-making-a-play-for-nevada"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-18/despite-past-democratic-wins-trump-making-a-play-for-nevada?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-18/despite-past-democratic-wins-trump-making-a-play-for-nevada?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/a-significant-worry-for-beijing-is-that-biden.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "9M7mXN09LUp+07PK3tp/RKRi+useTtWnGp4Q38cm796ZVW2KGrsc8zDyzpUyKB/RRN+8NmGRejYYSFi3JNQv08CN9zmm5VdBkFeESFHVOI2MBQSk/7OLoAQK2PzsoaBhmle8r1+1hosYepohGTpwx08pyIvFCs24+5HEzzTaM9YBP4ZlSmvPMgR1/ZrugdN33QgjaYyZi81JmkiJBfKLQPpv6grZuPmV8vDtf/CKB+xwPjJs/nYmSZakOuswNZHO7ZykP7SEfQ1R96ghLNL9B8n+qpt9uUwCpeUMq1/6bdYzKuPTwumTvqRDlVewXTJZnsBmJ82FYb+bxPfiQwYMJUTMv5tWmAp2IugLn2Gd5qA=;fE2OkHf4vl2WETgt1hSVGw=="
 ---

@@ -2,21 +2,25 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-10-17-breaking-kamala-harris-to-campaign-in-florida-monday.md",
-      "title": "BREAKING: Kamala Harris to campaign in Florida Monday",
-      "excerpt": "Harris' Florida swing comes after busy week of campaigning that saw President Trump and Democratic rival Joe Biden make stops in Florida.",
+      "path": "_news/2020-10-18-buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.md",
+      "title": "Buttigieg blasts Trump foreign policy, calls him 'destabilizing force literally everywhere he goes'",
+      "excerpt": "Former South Bend, Ind., Mayor Pete Buttigieg once blasted Democratic presidential nominee Joe Biden for his foreign policy record, but now defends him while claiming that President Trump is a \"disaster\" in that area.",
       "sourceUrl": null,
-      "webUrl": "https://www.palmbeachpost.com/story/news/politics/2020/10/17/kamala-harris-resume-person-campaigning-florida-monday/3693432001/",
-      "originalUrl": "https://www.palmbeachpost.com/story/news/politics/2020/10/17/kamala-harris-resume-person-campaigning-florida-monday/3693432001/",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/08/24/PalmBeachPost/ghows_gallery_ei-LK-200829833-381fbd87.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +28,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.palmbeachpost.com/amp/3693432001",
-      "cdnAmpWebUrl": "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3693432001",
-      "publishedDateTime": "2020-10-17T09:14:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
+      "publishedDateTime": "2020-10-18T06:21:57-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Palm Beach Post",
-        "domain": "palmbeachpost.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-living-and-learning-donald-trump-has-never-met-a-mistake-he-didnt-repeat.md",
+      "title": "Living and learning: Donald Trump has never met a mistake he didn’t repeat",
+      "excerpt": "At his Thursday night town hall, Joe Biden admitted that some of the 1994 crime bill he coauthored was a mistake, reminding us of our own mea culpa on stop-and-frisk four years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/cYD80D5Ij1vd9mvtNW30qxnUC-Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6PB4IDWS2FHFTPB27EWL7PU5PQ.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-18T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,25 +97,29 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
+        "Donald Trump"
       ]
     },
     {
-      "path": "_news/2020-10-17-a-georgia-state-lawmaker-crowdsurfed-over-maskless-attendees-at-a-georgia-trump-rally.md",
-      "title": "A Georgia state lawmaker crowdsurfed over maskless attendees at a Georgia Trump rally",
-      "excerpt": "Vernon Jones, a Black Democratic lawmaker who has endorsed President Trump for reelection, defied health guidelines with the stunt.",
+      "path": "_news/2020-10-18-kamala-harris-political-director-shares-update-after-two-involved-in-campaign-test-positive-for-covid-19.md",
+      "title": "Kamala Harris’ Political Director shares update after two involved in campaign test positive for COVID-19",
+      "excerpt": "Kamala Harris cancels all campaign events through the weekend after two people involved with the campaign test positive for COVID-19. Her Political Director Vincent Evans says the campaign is taking every precaution,",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10",
-      "originalUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10",
+      "webUrl": "https://www.msnbc.com/the-week/watch/kamala-harris-political-director-shares-update-after-two-involved-in-campaign-test-positive-for-covid-19-94067269688",
+      "originalUrl": "https://www.msnbc.com/the-week/watch/kamala-harris-political-director-shares-update-after-two-involved-in-campaign-test-positive-for-covid-19-94067269688",
       "featuredContent": null,
-      "highlight": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
       "heat": 118,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f8afdf99e9fe40019009ee6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_johnson_harris_201017_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,9 +127,171 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10?amp",
-      "publishedDateTime": "2020-10-17T09:09:00-07:00",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo94067269688",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo94067269688",
+      "publishedDateTime": "2020-10-17T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-ossoff-raises-1-million-in-senate-race-after-perdue-mispronounces-kamala-harriss-name.md",
+      "title": "Ossoff raises $1 million in Senate race after Perdue mispronounces Kamala Harris's name",
+      "excerpt": "Democratic Georgia Senate candidate Jon Ossoff announced Saturday that his campaign raised $1 million after Sen. David Perdue, R-Ga., appeared to mock the name of democratic vice presidential candidate Kamala Harris at a rally Friday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IR7NliYNX3s/ossoff-raises",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IR7NliYNX3s/ossoff-raises",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/081a6c40-dd52-414e-8d63-9ca720cac7f7/518c3dc2-a2a5-402c-ae4b-77e7c7f5058e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ossoff-raises.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ossoff-raises.amp",
+      "publishedDateTime": "2020-10-17T15:17:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-trump-slams-republican-critic-who-warned-of-november-bloodbath.md",
+      "title": "Trump slams Republican critic who warned of November 'bloodbath'",
+      "excerpt": "U.S. President Donald Trump on Saturday attacked a longtime congressional critic who warned this week that his handling of the coronavirus pandemic and authoritarian leaders could cause a \"Republican bloodbath in the Senate\" in the Nov.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537867561&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G0JA",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2720PJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2720PJ",
+      "publishedDateTime": "2020-10-17T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-us-spies-say-the-hunter-biden-email-controversy-shows-how-exploitable-and-grotesquely-vulnerable-trump-and-giuliani-are-to-russian-intelligence.md",
+      "title": "US spies say the Hunter Biden email controversy shows how 'exploitable' and 'grotesquely vulnerable' Trump and Giuliani are to Russian intelligence",
+      "excerpt": "\"They want to protect their boy in the White House because Trump's policies have been strategically fantastic for Russia,\" said a former CIA spy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10",
+      "originalUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f89defd9e9fe40019009d36?width=1200&format=jpeg",
+          "width": 1190,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/spies-hunter-biden-emails-trump-giuliani-vulnerable-russian-intelligence-2020-10?amp",
+      "publishedDateTime": "2020-10-17T13:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -97,6 +319,161 @@
       ]
     },
     {
+      "path": "_news/2020-10-18-sen-kamala-harris-will-campaign-in-jacksonville-on-monday.md",
+      "title": "Sen. Kamala Harris will campaign in Jacksonville on Monday",
+      "excerpt": "Sen. Kamala Harris will travel to Jacksonville and Orlando on Monday to campaign during the first day of in-person early voting in Florida.",
+      "sourceUrl": null,
+      "webUrl": "https://news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/",
+      "originalUrl": "https://news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news4jax.com/resizer/qpiGKRvh83depZOjlULXkPAxH7Q=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/57NA7ZSDRBDPNH2U77EAYEMEY4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/?outputType=amp",
+      "publishedDateTime": "2020-10-17T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News4Jax",
+        "domain": "news4jax.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-obama-to-stump-for-biden-less-than-two-weeks-before-election.md",
+      "title": "Obama to stump for Biden less than two weeks before election",
+      "excerpt": "Former President Barack Obama will head to Philadelphia on Wednesday to campaign on behalf of the Biden-Harris ticket, his first appearance on the trail thus far. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ovBzoCuJdAI/obama-to-stump-for-biden-less-than-two-weeks-before-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ovBzoCuJdAI/obama-to-stump-for-biden-less-than-two-weeks-before-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1770,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1252fcb-4478-4830-b791-03a9cfbe0bb8/47eac9e9-ebf0-45af-b4d1-517d78bc2ae2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp",
+      "publishedDateTime": "2020-10-17T12:15:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-trump-rips-little-ben-sasse-after-nebraska-senators-diatribe-against-the-president.md",
+      "title": "Trump rips 'Little Ben Sasse' after Nebraska senator's diatribe against the president",
+      "excerpt": "President Trump tore into Sen. Ben Sasse Saturday in a series of tweets after the Nebraska Republican excoriated the president in a recent call with constituents and called him a \"TV-obsessed narcissistic individual.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q51CjaU0DRo/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q51CjaU0DRo/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20286538611587-e1602519668720.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-ben-sasse-nebraska-senators-diatribe-against-president.amp",
+      "publishedDateTime": "2020-10-17T11:51:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-bidens-non-answer-answer-on-police-and-court-packing.md",
       "title": "Biden's non-answer answer on police and 'court-packing'",
       "excerpt": "While we seem to be left with two Biden non-answers, Biden’s non-answer on America’s system of justice gives us his implicit answer on packing the court. The key to that answer lies in Biden’s most important political audience — the left.",
@@ -105,7 +482,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -181,58 +558,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-trump-joked-that-hell-find-a-way-to-fire-florida-gov-ron-desantis-if-he-loses-the-state-in-november.md",
-      "title": "Trump joked that he'll 'find a way' to fire Florida Gov. Ron DeSantis if he loses the state in November",
-      "excerpt": "The president sees Florida as a must-win state in his electoral coalition if he is to be reelected to a second term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8afa23c21cfb00194689f7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp",
-      "publishedDateTime": "2020-10-17T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -405,6 +730,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-17-a-wall-street-chief-strategist-says-a-biden-blue-wave-could-spur-a-5-drop-in-the-sp-500-because-of-uncertainty-over-some-democrat-policies.md",
+      "title": "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies",
+      "excerpt": "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10",
+      "originalUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f3fa81089aff80028ab70e7?format=jpeg",
+          "width": 5000,
+          "height": 2499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp",
+      "publishedDateTime": "2020-10-17T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-scotus-to-hear-trump-administrations-argument-to-exclude-illegal-immigrants-from-census.md",
       "title": "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census",
       "excerpt": "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate",
@@ -502,6 +879,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-whats-really-behind-trumps-i-know-nothing-defense.md",
+      "title": "What's really behind Trump's 'I know nothing' defense",
+      "excerpt": "(CNN)For a guy who brags about having a great memory, President Donald Trump sure has trouble remembering the folks who really like him, which, given his well-documented desire to be loved by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "originalUrl": "https://www.cnn.com/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015173645-trump-rally-crowd-pennsylvania-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "publishedDateTime": "2020-10-16T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -683,7 +1117,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -724,58 +1158,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-georgia-sen-david-perdues-mispronunciation-of-kamala-harris-name-draws-outrage.md",
-      "title": "Georgia Sen. David Perdue's mispronunciation of Kamala Harris' name draws outrage",
-      "excerpt": "Georgia Sen. David Perdue is drawing outrage after appearing to mock Democratic vice presidential nominee Kamala Harris' name while warming up the crowd ahead of a rally for President Donald Trump speech on Friday night.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422",
-      "originalUrl": "https://abcnews.go.com/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/david-perdue_hpMain_20201016-203442_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422",
-      "publishedDateTime": "2020-10-16T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -886,7 +1268,7 @@
       "originalUrl": "https://www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -927,352 +1309,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-its-on-north-carolina-vice-president-pence-greets-supporters-in-selma.md",
-      "title": "'It's on, North Carolina': Vice President Pence greets supporters in Selma",
-      "excerpt": "Vice President Mike Pence traveled to Selma on Friday for a \"Make America Great Again\" event at The Farm at 95. Supporters were lined up well before the 2:30 p.m. event. \"I'm here for one reason and one reason only,",
-      "sourceUrl": null,
-      "webUrl": "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/",
-      "originalUrl": "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/7084491_101620-wtvd-Gloria-5pm-Pence-in-Selma-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/",
-      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/",
-      "publishedDateTime": "2020-10-16T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVD",
-        "domain": "abc11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-opponent-of-pences-brother-alleges-racist-threats-gunfire.md",
-      "title": "Opponent of Pence's brother alleges racist threats, gunfire",
-      "excerpt": "A Black woman running for Congress in Indiana against Vice President Mike Pence's brother says she has received numerous racist and threatening messages and thinks she heard gunfire before a campaign",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_dd8ad0e12c23463da4021f5640723e72_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
-      "publishedDateTime": "2020-10-16T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence.md",
-      "title": "EXCLUSIVE: NBC2 speaks one-on-one with Vice President Mike Pence",
-      "excerpt": "All eyes are on Florida Thursday as President Donald Trump visits Miami for town hall meeting to be broadcast on NBC. Vice President Mike Pence held a rally Thursday in Miami befo",
-      "sourceUrl": null,
-      "webUrl": "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/",
-      "originalUrl": "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nbc-2.com/wp-content/uploads/2020/10/pence.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/",
-      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/",
-      "publishedDateTime": "2020-10-16T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC2",
-        "domain": "nbc-2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-halloween-2020-pet-costumes-to-dress-dogs-up-as-baby-yoda-donald-trump-and-more.md",
-      "title": "Halloween 2020: Pet costumes to dress dogs up as baby Yoda, Donald Trump and more",
-      "excerpt": "These adorable pet costumes will surely brighten your day, even if the COVID pandemic ruined your plans this year. Dressing up to celebrate Halloween is one of the safest ways to celebrate during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/entertainment/2020/10/halloween-2020-pet-costumes-to-dress-dogs-up-as-baby-yoda-donald-trump-and-more.html",
-      "originalUrl": "https://www.masslive.com/entertainment/2020/10/halloween-2020-pet-costumes-to-dress-dogs-up-as-baby-yoda-donald-trump-and-more.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PEJWEYQBPZCOJLDGOMRBPCWMYY.png",
-          "width": 1320,
-          "height": 1324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/entertainment/2020/10/halloween-2020-pet-costumes-to-dress-dogs-up-as-baby-yoda-donald-trump-and-more.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/entertainment/2020/10/halloween-2020-pet-costumes-to-dress-dogs-up-as-baby-yoda-donald-trump-and-more.html?outputType=amp",
-      "publishedDateTime": "2020-10-16T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ex-facebook-and-oculus-exec-palmer-luckey-is-hosting-a-fundraiser-for-president-donald-trump-this-weekend.md",
-      "title": "Ex-Facebook and Oculus exec Palmer Luckey is hosting a fundraiser for President Donald Trump this weekend",
-      "excerpt": "Palmer Luckey reportedly donated thousands to Trump in 2016, and his company, Anduril, has been awarded a contract to build a \"virtual\" border wall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10",
-      "originalUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f89d7e5d260780019341e37?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10?amp",
-      "publishedDateTime": "2020-10-16T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-biden-says-it-depends-on-court-packing-vaccine-mandate-at-abc-town-hall-as-election-nears.md",
-      "title": "Biden says 'it depends' on court-packing, vaccine mandate at ABC town hall as election nears",
-      "excerpt": "Democratic presidential candidate Joe Biden at an ABC town hall Thursday night equivocated on whether or not he would pack the Supreme Court or institute a mandate to take a coronavirus vaccine even as he gave definitive statements on other issues, including that he would not ban fracking and a strong",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbMYctqU4n0/biden-court-packing-vaccine-mandate-abc-town-hall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbMYctqU4n0/biden-court-packing-vaccine-mandate-abc-town-hall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 519,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-court-packing-vaccine-mandate-abc-town-hall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-packing-vaccine-mandate-abc-town-hall.amp",
-      "publishedDateTime": "2020-10-16T10:58:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-kamala-harris-has-awkward-moment-at-nc-event-says-election-ends-in-19-days.md",
-      "title": "Kamala Harris has awkward moment at NC event, says election 'ends in 19 days'",
-      "excerpt": "Calif., had an awkward moment during a virtual campaign event in North Carolina Thursday, as she and a staff member broke out into laughter in the middle of a serious push for people to vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
-      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4e8ff0d-d9db-4626-b9da-37b669934c72/90e950f7-e76b-4303-9f45-717cf17942b1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
-      "publishedDateTime": "2020-10-16T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

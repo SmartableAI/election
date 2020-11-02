@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Final debate offers Trump a late chance to reshape presidential race"
-    excerpt: "President Donald Trump gets a final chance to make his case for re-election before a vast audience of Americans when he squares off against Democratic rival Joe Biden on Thursday in their last debate before the Nov."
-    publishedDateTime: 2020-10-22T05:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN2770H1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2770H1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2770H1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538409171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L0AU"
-        width: 817
-        height: 545
-        isCached: true
   - title: "President Donald Trump said wind turbines kill 'all the birds.' Cats and radio towers kill far more."
     excerpt: "President Donald Trump's claim that wind turbines pose a great threat to our avian friends is dubious at best."
     publishedDateTime: 2020-10-24T02:28:00Z
@@ -143,17 +127,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Rails Against Muted Microphones at Presidential Debate"
-    excerpt: "The fact that Trump is willing to debate Biden again without being able to interrupt him at will is an indicator of how much the president needs to change the trajectory of the campaign."
-    publishedDateTime: 2020-10-20T15:05:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "IKXwl4iUV9ChtSbJK2SvhHtrJBPF58w74OmjnL9sOesoiQsbZLGgGJJgGtRnD9yy1ptUhpN9LUsmivSsKslAqY9VYdQS/RJYnCV0RmhznNix5VkDsNkbjtOLqf3ThO24HGoiDVUVMQvZDQCSc5FI2S0MWCgRmIPsxo7cdKCQDijM49enk410UCTTlgJZe28tEm9cB+4pyPWL4rBG9yncxYTb9PUQifcE6n+XF4tnsMlyNbByvQlQ/GuVsDUmYxF84/9adSzbit6Ko1tpYgmkZF/9PW8UcD47riAF9PIPJ/Ln6VzuKxhN13P5a4qTqiMITFsADy42M7lqrXIkFvpvct+2RmJTegiug1JSzpDjSP0=;/AkJyJxuZoV8vox2t2boIw=="
 ---

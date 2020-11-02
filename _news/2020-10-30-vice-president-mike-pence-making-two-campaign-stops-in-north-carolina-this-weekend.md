@@ -27,90 +27,82 @@ images:
     isCached: true
 
 related:
-  - title: "Biden, Cunningham hold narrow leads in North Carolina: poll"
-    excerpt: "Democratic presidential nominee Joe Biden has a narrow lead over President Trump in North Carolina, while Democrat Cal Cunningham holds a similarly slim lead in the Tarheel State’s marquee Senate race in a new survey released Thursday."
-    publishedDateTime: 2020-10-29T19:54:00Z
-    webUrl: "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll"
-    ampWebUrl: "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp"
+  - title: "Mike Pence campaigns in Oakland County today"
+    excerpt: "Vice President Mike Pence will host a campaign rally in Waterford Township this afternoon with a focus on fracking, trade, the economy, and contrasting Joe Biden's record on China vs."
+    publishedDateTime: 2020-10-22T10:00:00Z
+    webUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.html"
+    ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.amp.html"
+    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.amp.html"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: The Oakland Press
+      domain: theoaklandpress.com
+    quality: 75
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_102720getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/a/aa/aaa9c977-c5bd-5d7c-af59-639076a70f9c/5b56809739ced.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say"
-    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
-    publishedDateTime: 2020-10-23T11:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3740228001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001"
+  - title: "Mike Pence in Oakland County: 'The road to victory runs right through Michigan'"
+    excerpt: "\"I know Michigan is going to 'yes' to four more years of President Donald Trump in 2020.\" Vice President Mike Pence visited Michigan for the second time in a week on Thursday with a campaign stop in Waterford Township, hosting a rally with about 200-300 ..."
+    publishedDateTime: 2020-10-22T20:46:00Z
+    webUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-in-oakland-county-the-road-to-victory-runs-right-through-michigan/article_aee312e4-1498-11eb-bb82-4b03b4c666eb.html"
+    ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-in-oakland-county-the-road-to-victory-runs-right-through-michigan/article_aee312e4-1498-11eb-bb82-4b03b4c666eb.amp.html"
+    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-in-oakland-county-the-road-to-victory-runs-right-through-michigan/article_aee312e4-1498-11eb-bb82-4b03b4c666eb.amp.html"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: usatoday.com
-    quality: 112
+      name: The Oakland Press
+      domain: theoaklandpress.com
+    quality: 71
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/8/e1/8e1dd228-1499-11eb-a6c0-1b7d3257600d/5f91d7fb31dc4.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Vice President Mike Pence coming to Central Wisconsin Airport for campaign rally in Mosinee"
+    excerpt: "The vice president's visit comes while Wisconsin sees record high cases of COVID-19 and while members of his staff have been infected."
+    publishedDateTime: 2020-10-28T22:36:00Z
+    webUrl: "https://www.thenorthwestern.com/story/news/2020/10/28/mike-pence-mosinee-central-wisconsin-airport-rally-trump-set/6054485002/"
+    ampWebUrl: "https://amp.thenorthwestern.com/amp/6054485002"
+    cdnAmpWebUrl: "https://amp-thenorthwestern-com.cdn.ampproject.org/c/s/amp.thenorthwestern.com/amp/6054485002"
+    type: article
+    provider:
+      name: Northwestern Media
+      domain: thenorthwestern.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PWAU/639b99c2-6b8d-4fe7-8529-232863157d65-SPJ_Mike_Pence_Mosinee_rally_102820_354_ttm.jpg?auto=webp&crop=2260,1272,x0,y141&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Mike Pence making 2 more campaign stops in North Carolina"
-    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
-    publishedDateTime: 2020-10-27T08:27:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+  - title: "Vice President Mike Pence Campaigns in Mosinee"
+    excerpt: "Vice President Mike Pence made a campaign stop at the Central Airport in Mosinee on Wednesday. The stop is just one of several in Badger State for the Trump administration this week alone. About 150 people attended the rally."
+    publishedDateTime: 2020-10-29T01:09:00Z
+    webUrl: "https://waow.com/2020/10/28/vice-president-mike-pence-campaigns-in-mosinee/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
-  - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
-    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
-    publishedDateTime: 2020-10-25T12:37:00Z
-    webUrl: "https://www.azcentral.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3740228001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3740228001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: WAOW
+      domain: waow.com
     quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/9/2020/10/pence.jpg"
+        width: 505
+        height: 317
         isCached: true
-  - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
-    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
-    publishedDateTime: 2020-10-26T03:17:00Z
-    webUrl: "https://www.freep.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
-    ampWebUrl: "https://amp.freep.com/amp/3740228001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3740228001"
+  - title: "WATCH: Vice President Mike Pence campaigns in the Upstate"
+    excerpt: "Vice President Mike Pence was campaigning in the Upstate on Tuesday afternoon. Pence held a rally at Donaldson Jet Center in Greenville. Officials said a little more than 2,000 people attended the event held in a hangar."
+    publishedDateTime: 2020-10-28T19:54:00Z
+    webUrl: "https://www.wistv.com/2020/10/27/live-pm-vice-president-mike-pence-holds-campaign-rally-upstate/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: WIS TV
+      domain: wistv.com
     quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.wistv.com/resizer/nhz_ERntBjIWp5Tw3f3MtEDqSRA=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/2BZ6FRGNN5DKRIITPK63APIRAM.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Joe Biden Campaigns in Durham, North Carolina"
-    excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a voter mobilization event in Durham, NC, where early voting is already underway."
-    publishedDateTime: 2020-10-18T19:00:00Z
-    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-north-carolina"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "zZGJM2mfFaNT4VJWqSyQ6+g9/yPMGOu7AXvLiJavp1xJVjHbnkd1OMeIAmOEUNvKSd9PNwPGb9N2iPuDWCMqgZizxaDisefsI3QMohCCSyU5w6RUqHXA50u26pfkjrFfvar5dOv/mKczPKbfHWzNsU506KApFhKsee22sQhsg46RxpZN7bsyLRjps3vsH1woN/qLogMnI+kZKi0Kv7AChEOXkIL8w5qJWrpDvWwuO6x88F+F7hJfd9ToiH94deq0Rxq6oCoO4U9XD2suq7k6ZKNoUaqaULY24m7rt+qfk0EQZFFkM475CEO6B8uGEzq584xx6yiL0HCrMZiGnIQZ6sp9VgwqwTUcZivFYRI9tFGQB+vhAGzRXGVAcmFB2zykqdfwuiadERxfeqSz7ms4zL+1pcrEEo13DqJesHN8TD6uNv1k4gjz7U9qLrAgou0D7nhVGN1Qm1jTX6iftfwjpceWecG2SqFIX9JsA65p2Qi3KIfXIsN+lY7AfgNMiGHlR317bTbZgywvzt9wjeUSYQ==;/pSnnORHtCFt3cQqFhegAA=="
 ---

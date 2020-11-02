@@ -30,249 +30,159 @@ images:
     isCached: true
 
 related:
-  - title: "Trump health update expected at Walter Reed Medical Center"
-    excerpt: "President Trump’s medical team is expected to give an update on his health Sunday morning, as members of the White House press pool head to the Walter Reed Medical Center to be briefed on his condition."
-    publishedDateTime: 2020-10-04T15:26:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bPgBX6_YUVA/trump-coronavirus-health-update-sunday-walter-reed"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp"
+  - title: "Trump says it'll be 'fast and easy' to confirm Amy Coney Barrett"
+    excerpt: "President Trump declared on Twitter Tuesday evening that the Senate battle to confirm Amy Coney Barrett to the Supreme Court “will be fast and easy.”"
+    publishedDateTime: 2020-10-07T01:57:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s7qeKGpTq1Y/trump-fast-confirm-amy-coney-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20273529004578.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump discharged from Walter Reed, returns to White House"
-    excerpt: "President Trump was discharged from Walter Reed National Military Medical Center and returned to the White House on Monday evening to continue his fight against the novel coronavirus, after his medical team warned that he “may not entirely be out of the woods yet.”"
-    publishedDateTime: 2020-10-05T22:30:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9FqRpXdn3k0/trump-discharged-from-walter-reed-returns-to-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-discharged-from-walter-reed-returns-to-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-discharged-from-walter-reed-returns-to-white-house.amp"
+  - title: "VP nominee Kamala Harris likely to be in spotlight at Amy Coney Barrett confirmation hearing"
+    excerpt: "Supreme Court nominee Amy Coney Barrett will not be the only person in the middle of a high-stakes job interview next week."
+    publishedDateTime: 2020-10-08T17:37:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/463WuPpMdd8/vp-nominee-kamala-harris-barrett-hearing"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Virginia Senate debate sees Warner, Gade clash on Trump, race, health care"
-    excerpt: "Democratic incumbent U.S. Sen. Mark Warner and his Republican challenger shared the debate stage Saturday night in their second meeting ahead of Election Day in Norfolk, Va. "
-    publishedDateTime: 2020-10-04T03:29:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CEY8SY4FPcg/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care"
-    ampWebUrl: "https://www.foxnews.com/politics/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care.amp"
+  - title: "Barrett: I’ve had no conversation with Trump about how I’d rule on any case"
+    excerpt: "Supreme Court nominee Amy Coney Barrett told the Senate Judiciary Committee on Tuesday that she has made \"no commitment\" to President Trump or other lawmakers on how she would rule on major cases regarding issues like abortion, health care, or a potential electoral dispute."
+    publishedDateTime: 2020-10-13T17:04:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3AapxUlaSc/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20277814149900.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a8fd501-d38e-4100-a101-1825df709586/499a69fe-147e-4440-8733-3d38df777221/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Bongino on ‘infuriating’ media attacks of Trump’s drive-by 'visit' outside hospital"
-    excerpt: "The mainstream media’s attacks of President Trump’s surprise drive-by visit to his supporters outside Walter Reed Medical Center on Sunday is “infuriating,” former Secret Service agent Dan Bongino told “Fox & Friends” on Monday."
-    publishedDateTime: 2020-10-05T15:04:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shNtPZ7Fuy4/bongino-media-trump-drive-by-visit-hospital"
-    ampWebUrl: "https://www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp"
+  - title: "Trump: Convincing Susan Collins to confirm Amy Coney Barrett 'not worth the work'"
+    excerpt: "President Trump on Friday said convincing Republican Sen. Susan Collins to vote in favor of his Supreme Court nominee Judge Amy Coney Barrett is “not worth the work,” noting that the senator from Maine has not supported him on other issues in the past."
+    publishedDateTime: 2020-10-16T13:34:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7pj0yGBpXBw/trump-susan-collins-amy-coney-barrett-confirmation"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-susan-collins-amy-coney-barrett-confirmation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-susan-collins-amy-coney-barrett-confirmation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump campaign YouTube takeover to feature Trump message thanking Americans for support"
-    excerpt: "EXCLUSIVE: The Trump campaign is taking over the YouTube.com masthead for 24 hours beginning at midnight, Fox News has learned, featuring the video of President Trump as he was departing the White House for Walter Reed Military Medical Center to be treated for COVID-19."
-    publishedDateTime: 2020-10-03T23:43:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LPFwnLg3R78/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
+    quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump says he will be discharged from Walter Reed, return to White House Monday evening"
-    excerpt: "President Trump said he will be discharged from Walter Reed National Military Medical Center Monday evening and will return to the White House. "
-    publishedDateTime: 2020-10-05T18:40:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zim5ZZjbxnQ/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good.amp"
+  - title: "Amy Coney Barrett distances herself from Trump tweets, says she won't be anyone's 'pawn'"
+    excerpt: "Amy Coney Barrett distanced herself on Tuesday from President Trump's public requests of his Supreme Court nominee and told the Senate Judiciary Committee that the commander-in-chief never asked her how she'd rule on abortion and the Affordable Care Act."
+    publishedDateTime: 2020-10-13T23:59:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zo438bSCXZA/amy-coney-barrett-distances-trump-pawn"
+    ampWebUrl: "https://www.foxnews.com/politics/amy-coney-barrett-distances-trump-pawn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/amy-coney-barrett-distances-trump-pawn.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump thanks supporters gathered outside hospital: 'I'm about to make a little surprise visit''"
-    excerpt: "President Trump tweeted out his thanks on Sunday to the supporters who have gathered outside Walter Reed Medical Center in Maryland over the weekend, where the president is battling a case of the novel coronavirus. "
-    publishedDateTime: 2020-10-04T19:57:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-szueN4JBw/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country.amp"
+  - title: "Democrats attack Amy Coney Barrett for saying 'sexual preference,' but Biden used same term in May"
+    excerpt: "Democratic lawmakers hammered Supreme Court nominee Judge Amy Coney Barrett for her use of the term \"sexual preference\" to describe the LGBTQ community, but apparently the term isn't as outdated as some Democrats believe it is."
+    publishedDateTime: 2020-10-14T00:24:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oQYXzwUOfig/democrats-attack-amy-coney-barrett-sexual-preference-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-attack-amy-coney-barrett-sexual-preference-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-attack-amy-coney-barrett-sexual-preference-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "White House gives New Jersey officials list of at least 206 people who attended Trump fundraiser"
-    excerpt: "The White House has supplied the New Jersey Department of Health with the names of more than 200 individuals who attended a fundraiser last week just hours before President Trump announced that he had contracted COVID-19."
-    publishedDateTime: 2020-10-04T20:38:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GXF3Zbs2eps/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump says he's disappointed in Barr over status of Durham probe"
-    excerpt: "The president on Friday expressed outrage at reports Attorney General William Barr has communicated to lawmakers that the Durham report will not be released until after the presidential election. "
-    publishedDateTime: 2020-10-09T17:48:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pBF5-R14SRw/trump-slams-durham-report-investigation-not-being-released-before-election"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82547877-ca99-469d-97ed-d1d12eb85c62/5cd196a0-b825-43d7-8768-bde3bf2730fe/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be2bd71c-ae89-43cc-992b-cfcca9a23d4a/28bfbf47-fe2a-4ccf-9803-3c47ae558c95/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Twitter adds warning to 'immune' tweet by US President Trump"
-    excerpt: "As President Trump  on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus, Twitter slapped a warning label on his tweet in which he declared he was now “immune” from the virus."
-    publishedDateTime: 2020-10-11T20:38:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tx_XT2LTV3M/twitter-adds-warning-to-immune-tweet-by-us-president-trump"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3feda8a-9f09-4f04-8b12-362f78fe55a2/4dcd18cb-2e8e-4d06-9acb-92f7162bae8e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pelosi to announce bill on 25th Amendment after questioning Trump's health"
-    excerpt: "House Speaker Nancy Pelosi on Friday will introduce legislation to create a commission that would allow Congress to oust President Trump from office, using the 25th Amendment."
-    publishedDateTime: 2020-10-09T12:40:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0eV-uFkk29w/pelosi-25th-amendment-trumps-health"
+  - title: "Kamala Harris says Amy Coney Barrett's faith shouldn't be scrutinized in confirmation hearings"
+    excerpt: "Democratic vice presidential nominee Kamala Harris said Supreme Court nominee Amy Coney Barrett should \"absolutely not\" be questioned about her faith during her confirmation process. "
+    publishedDateTime: 2020-10-10T16:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a89xgruYdXI/kamala-harris-amy-coney-barrett-faith-off-the-table-during-confirmation"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 153
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8fe0b7e-de00-4adf-85ab-a113f04cf158/ec0cb441-0df6-492c-97c3-b8ff9080d625/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282841382936.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Trump to appear at White House event, first since returning from Walter Reed"
-    excerpt: "President Trump on Saturday will make his first appearance at a White House event since he returned from his stay at Walter Reed National Military Medical Center earlier this week."
-    publishedDateTime: 2020-10-10T13:27:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KXNlHFyMDoU/trump-white-house-event-first-walter-reed"
+  - title: "Biden says Barrett's Catholic faith 'should not be considered' during confirmation process"
+    excerpt: "Democratic presidential nominee Joe Biden said that Amy Coney Barrett’s Catholic faith “should not be considered” as confirmation hearings for President Trump’s Supreme Court nominee get underway."
+    publishedDateTime: 2020-10-12T16:13:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rN9n5Va52g/biden-amy-coney-barrett-catholic-faith"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 152
+    quality: 145
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d357204f-72a4-4424-8654-01cf19622c87/31d2c5a9-155d-4aa2-967c-10751e34cc07/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20286520134581-e1602518354123.jpg"
+        width: 2378
+        height: 1341
         isCached: true
-  - title: "Trump campaign sends pizzas to supporters outside Walter Reed Medical Center"
-    excerpt: "The Trump campaign sent pizza to supporters gathered outside Walter Reed National Military Medical Center as the commander-in-chief continues his battle against coronavirus inside. Video captured"
-    publishedDateTime: 2020-10-05T15:36:00Z
-    webUrl: "https://nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/"
-    ampWebUrl: "https://nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-hospital-pizza-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Alyssa Milano blasts Donald Trump's drive-by to fans outside Walter Reed Medical Center"
-    excerpt: "Alyssa Milano revealed that a friend’s uncle recently died due to COVID-19 after lambasting President Donald Trump over his drive-by to fans outside Walter Reed National Military Medical Center, where he is being treated for the virus."
-    publishedDateTime: 2020-10-05T18:01:00Z
-    webUrl: "https://www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed"
-    ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed.amp"
+  - title: "Trump complains Republicans giving Democrats 'great deal of time' to talk during Barrett hearing"
+    excerpt: "President Trump complained Monday morning that Republicans on the Senate Judiciary Committee were giving Democratic members a “great deal of time” to speak during Judge Amy Coney Barrett’s Supreme Court confirmation hearing, saying he would “pull back.”"
+    publishedDateTime: 2020-10-12T14:49:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sI501h3HP2U/trump-democrats-amy-coney-barrett-hearing-time-to-talk"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 127
+    quality: 142
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/GettyImages-1078617590.jpg?ve=1&tl=1"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20286472723142-e1602512962193.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP nominee Kamala Harris likely to be in spotlight at Amy Coney Barrett confirmation hearing"
+    excerpt: "Supreme Court nominee Amy Coney Barrett will not be the only person in the middle of a high-stakes job interview next week."
+    publishedDateTime: 2020-10-08T17:40:00Z
+    webUrl: "https://www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Sen.20Harris.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "A Strange Thing Happened to President Trump's Star on the Hollywood Walk of Fame"
-    excerpt: "While President Donald Trump battles the Wuhan coronavirus at the Walter Reed Medical Center, someone who despises the president decided to destroy his star on the Hollywood Walk of Fame."
-    publishedDateTime: 2020-10-04T18:24:00Z
-    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/a-strange-thing-happened-to-president-trumps-star-on-the-hollywood-walk-of-fame-n2577439"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 60
-    images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2017/52/63d298b0-c2be-4ddf-b084-6001db337308.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Returns To White House, Tells Americans, \"Don't Be Afraid Of Covid, Don't Let It Dominate You\""
-    excerpt: "President Donald Trump delivered remarks on the coronavirus after returning to the White House from Walter Reed Medical Center."
-    publishedDateTime: 2020-10-06T13:47:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/06/trump_returns_to_white_house_tells_americans_dont_be_afraid_of_covid_dont_let_it_dominate_you.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 50
-    images:
-      - url: "https://assets.realclear.com/images/52/523276.png"
-        width: 500
-        height: 375
         isCached: true
 
 secured: "ULhND3Z0B1VG20gKNbcjHcWdWc4NWBIwQawkt6ceAuxToGtnBrh2WlC26IioxgxfcZnQaOeOWVSDy1v5lpCvrjy4mft7hBShU5TZlvZq5kmu3ip219q/386Fp1N4obrFxWRmvy7d0trTA47Xhr32qxjgxwAfypKfX71XLdkyy4o2u4nq+tjqNZzJvwM+OI2XH9Uw1YhgBkneCgAz9eVaxFiUDPGKnzNOb25Vx8s1Vea/lP3op/xPoSS9n1fI8Ti5WkNV4ysdPM9kJyfvQ0cYAU9OLeIDHo2xU9M6ZjotVGS5cjRQniZCOknfrJ4VyU5eqVmTHNc+tvJ3LFvyoS/QCp9c18X2lpjZpQzg5NKbId0=;yYjoyeUj6ZobOPwlCSCISg=="

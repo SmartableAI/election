@@ -47,22 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself"
-    excerpt: "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911."
-    publishedDateTime: 2020-09-28T09:08:00Z
-    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/"
-    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 109
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "6hrCdrAkKPwcUM/lwD4JSg5F0u+2WulTFrLjVr2RYBsnfUp3bz6fGZherFtqJs/NFs+cSPqf6lRhW14Tq+w7gWuXkZjqzPytSnjOXcncK1tmdiqJd9+x8gD/ZmRppgPEsraBtQu1x4L+CGPEFQ+ugYDVOLB/+4P9wdzcG2bmIxGC/EoSnV2XDA7TvnM9dhmB6yMVyEChbD6QWPamAdkkHgTycOGDkzPQvrPjVi6/ODC5cTRdzF/HIeYv7KhyARX7FbTALkMMR1nF+BBCqe38mPNCSDjZI0FMYHGQ2M+kffBMes1X/xHI3TKV2I0XRr9mOCqMATneu8ljUtTDm+ku+FRYWkCtGPMrDPD8JSo8XkU=;ENPA4ljuSIc7N+mSYcybUw=="
 ---

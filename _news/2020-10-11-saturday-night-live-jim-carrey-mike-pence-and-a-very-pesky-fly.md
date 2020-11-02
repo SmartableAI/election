@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-nigh
 webUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly"
 type: article
 quality: 105
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F10%252F11%252Fd6%252Fb7e3e060eb6c4ebfb25046cce24636db.53424.png%252F1200x630.png?signature=9P-G81GvVzhCukasPC8Cf2i2Npw="
         width: 1200
         height: 630
-        isCached: true
-  - title: "VIDEO: SATURDAY NIGHT LIVE Tackles the Vice Presidential Debate, and the Fly on Mike Pence's Head"
-    excerpt: "Live returned last night for a new hilarious episode. Last night's Cold Open tackled the vice presidential debate between Mike Pence and Kamala Harris. In the sketch, Susan Page (Kate McKinnon) moderates a debate between Senator Harris (Maya Rudolph) and Vice President Pence (Beck Bennett),"
-    publishedDateTime: 2020-10-11T13:18:00Z
-    webUrl: "https://www.broadwayworld.com/bwwtv/article/VIDEO-SATURDAY-NIGHT-LIVE-Tackles-the-Vice-Presidential-Debate-and-the-Fly-on-Mike-Pences-Head-20201011"
-    type: article
-    provider:
-      name: BroadwayWorld
-      domain: broadwayworld.com
-    quality: 42
-    images:
-      - url: "https://cloudimages.broadwayworld.com/columnpiccloud/1250-275a6e21d6837a7509534c07cd00f328.jpg"
-        width: 1250
-        height: 625
         isCached: true
 
 secured: "wMhQ6XyDSZSNnE+6h4nVmcy8ClGlmcU9vPBCriSVs3HxwqSgTW4L+537DxjCamjVr/iZp0x/NVVlXqjU48QXDnQaGCrYVR3c0H+F4g4VCuAuhnoO+U0mKOouMRwFfPSEdvgSzk3WxynqQLKOPBwQEWffj137v32pqbBGIyTFUbPyY0oGk3snHw9gXBLMYiO7g1C4AxxxHc2p0JU+WfBXz/Du8gYNZdOJ1OVzsHcFZqQOe9mnleqxbDCv8ta7ZdgRuqbTvpRzTWum6Oznm+YRkmMcn7iyqI50eozMxv7e10uM9cIwsOZk35MJFBH8o95lxY/2sjFIKwtL/6lyw0youwQZ9UkYuJytUYvmQfceo24HRhvnZLRQL8WUDRnP89cIxT0nDiMTuR8cotR0vgb2D6hjQpaClJNnQ+/ydqs7AdLJfVgNIGxODaSXE94XEeUeQAnm9a0IICyYp8ObCXzpHGkuMZVu5NeVjP38HT2XWxyniSeVH4z6alVh3q4jo1y4yGlHEFIszG4qyENilZx26g==;mAVxA4wIpB+5NgjPAqb7BA=="

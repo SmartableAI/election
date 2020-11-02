@@ -31,225 +31,68 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics"
-    excerpt: "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware."
-    publishedDateTime: 2020-10-22T11:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
+  - title: "What to make of the 'kinder, gentler' Donald Trump"
+    excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
+    publishedDateTime: 2020-10-25T17:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump"
+    ampWebUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 136
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-1-rt-er-201021_1603316702002_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Trump casts a 'very secure vote' for himself in Florida: 2020 election updates"
-    excerpt: "Trump cast his ballot at the West Palm Beach library near his private Mar-a-Lago club. The president told reporters after leaving the library it was \"an honor\" to be voting and that he cast a \"very secure vote."
-    publishedDateTime: 2020-10-24T21:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/24/2020-election-updates-trump-votes-himself-florida/6021545002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6021545002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6021545002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 136
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/24/USAT/0338551a-28f6-4df2-8161-d2acb8fb8d2f-AP_Election_2020_Trump_5.jpg?auto=webp&crop=2911,1637,x0,y2308&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Election 2020 live updates: Trump makes false statement about Election Day ballot counts"
-    excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
-    publishedDateTime: 2020-10-27T19:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6007506002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Betting markets give Trump slightly improved chances after debate"
-    excerpt: "U.S. President Donald Trump's probability of getting re-elected gained slightly on online betting markets following Thursday's final presidential debate."
-    publishedDateTime: 2020-10-23T09:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-gambling-idUSKBN27812E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27812E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27812E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538576756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0MP"
-        width: 873
-        height: 545
+      - url: "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "John Daly after being President Donald Trump's guest at debate: 'He's like me and Jesus'"
-    excerpt: "Golfer John Daly was at the second and final presidential debate on Thursday and caught up with USA TODAY Sports during the after party."
-    publishedDateTime: 2020-10-23T13:34:00Z
-    webUrl: "https://www.usatoday.com/story/sports/2020/10/23/john-daly-presidential-debate-donald-trump-like-me-and-jesus/3739947001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3739947001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3739947001"
+  - title: "Trump’s New Executive Order May Make It Easier To Fire Scientists Like Fauci"
+    excerpt: "Trump recently signed an Executive Order creating a Schedule F class of government employee that could have lasting implications even if former Vice-President Joe Biden were to win the upcoming election."
+    publishedDateTime: 2020-10-26T08:44:00Z
+    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/"
+    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/amp/"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: usatoday.com
-    quality: 116
+      name: Forbes
+      domain: forbes.com
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/9a2c80c6-bfe7-4509-861b-b4d57d8da789-AP_Election_2020_Debate.jpg?auto=webp&crop=4405,2478,x0,y0&format=pjpg&width=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9487bb2b122fa1efaa12d2%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 891
         isCached: true
-  - title: "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases"
-    excerpt: "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news."
-    publishedDateTime: 2020-10-18T19:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
+  - title: "Hometown hate: From the start, Trump has wielded the power of the federal government to hurt NYC"
+    excerpt: "It’s a relatively new Donald Trump tic: to exclaim that his beloved hometown is dying, what with all the restrictions designed to prevent the spread of COVID. We suppose he’d prefer planes full of people (from where,"
+    publishedDateTime: 2020-10-25T19:46:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 62
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+      - url: "https://www.nydailynews.com/resizer/Bgr0qo_yCZ83rRbUXIEhS3Ci6ZI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NFONZQZR3RDDJKGPUQZJLP2N6Y.jpg"
         width: 1200
-        height: 675
+        height: 799
         isCached: true
-  - title: "Voting 2020 live updates: Trump urges Biden voters to 'spoil' ballot and vote for him; charges of voter suppression scheme in Ohio, Michigan"
-    excerpt: "Trump urges Biden voters to 'spoil' ballot and vote for him; mail your ballot today to make sure it's counted. Latest news."
-    publishedDateTime: 2020-10-28T22:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/voting-2020-news-updates-florida-early-voting-wisconsin-ballots/6040707002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6040707002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6040707002"
+  - title: "How Donald Trump threatens the retirement of every American worker"
+    excerpt: "Tom Michels worked 31 years at LTV's iron ore mine in northern Minnesota — and had already started making retirement plans — when the company's bankruptcy wiped out his job and most of his hard-earned pension."
+    publishedDateTime: 2020-10-23T08:43:00Z
+    webUrl: "https://www.salon.com/2020/10/23/how-donald-trump-threatens-the-retirement-of-every-american-worker_partner/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NSHT/d424f4e1-5562-4636-acad-5cec060ace46-FLSAR-102520-S_COLZAC_001.jpg?auto=webp&crop=3067,1726,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coronavirus updates: Feared surge is underway; masks can still save 63K lives; Trump missing from task force meetings, Fauci says"
-    excerpt: "A long-predicted surge in COVID-19 cases and deaths has begun in the United States, but Americans aren't changing their behaviors. Latest COVID news."
-    publishedDateTime: 2020-10-24T12:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/24/covid-news-fall-winter-surge-trump-rally-masks-can-save-63-k-lives/3743485001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3743485001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3743485001"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: usatoday.com
-    quality: 96
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/85141cd530c0facfb3015ac08455e120005288b5/c=0-8-3000-1696/local/-/media/2020/10/22/USATODAY/usatsports/MotleyFool-TMOT-81b0d5d3-4a9ffab2.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Voting 2020 live updates: Trump campaign loses appeal on satellite offices; Ohio's legal battle over drop boxes is officially over"
-    excerpt: "As Trump plans to early vote in Florida, Pence cast his ballot in Indianapolis. 52M have already voted. Latest voting news from across the U.S."
-    publishedDateTime: 2020-10-23T19:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/voting-2020-problems-and-news-how-vote-court-battles-russia/3728419001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3728419001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728419001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/73823eae-9c73-41f8-ae97-15b449bec90b-AFP_AFP_8T79DM.jpg?auto=webp&crop=5920,3330,x0,y300&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "If Trump loses the election — experts worry that’s when things could get really ‘weird’"
-    excerpt: "As a Joe Biden election win appears increasingly likely, many in Washington, D.C., are beginning to wonder what will happen between Nov. 3 and Jan. 20. Even if President Donald Trump calmly accepts an election loss,"
-    publishedDateTime: 2020-10-28T15:11:00Z
-    webUrl: "https://www.rawstory.com/2020/10/if-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/if-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/if-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 82
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/10/trump-frown-afp.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "If Donald Trump loses the election — experts worry that’s when things could get really ‘weird’"
-    excerpt: "As a Joe Biden election win appears increasingly likely, many in Washington, D.C., are beginning to wonder what will happen between Nov. 3 and Jan. 20. Even if President Donald Trump calmly accepts an election loss,"
-    publishedDateTime: 2020-10-29T10:45:00Z
-    webUrl: "https://www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 78
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/10/trump-frown-afp.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Lewis' hopes for Senate upset may turn on Trump's fate"
-    excerpt: "Jason Lewis' strategy for knocking off Democratic U.S. Sen. Tina Smith has been clear for over a year: For better or worse, the former congressman is all in for President Donald Trump. Lewis, a one-term former congressman best known from his days as a conservative talk radio host known as “Minnesota's Mr."
-    publishedDateTime: 2020-10-18T05:09:00Z
-    webUrl: "https://www.chron.com/news/article/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Top Donald Trump Quotes During The Final Presidential Debate 2020"
-    excerpt: "The second and final presidential debate saw Joe Biden and Donald Trump in a series of sharp exchanges over topics such as COVID-19, national security, and racism in America."
-    publishedDateTime: 2020-10-23T04:49:00Z
-    webUrl: "https://www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793"
-    ampWebUrl: "https://www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/democratic-presidential-candidate-joe-biden-has-dismissed-donald.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "The Latest: Aide: Trump Tests Negative for Virus Pre-Debate"
-    excerpt: "The White House chief of staff says President Donald Trump tested negative for the coronavirus before Thursday night’s final presidential debate."
-    publishedDateTime: 2020-10-22T22:29:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Salon
+      domain: salon.com
     quality: 55
+    images:
+      - url: "https://media.salon.com/2018/08/trump-fox-and-friends2.jpg"
+        width: 846
+        height: 571
+        isCached: true
 
 secured: "mvVX55fZCUsEmicFM89Ez3Jl8xf4zBZQcbnuC0FeZbmjV3o+ymhoO3bryUPwumDlIM/TB/wRvx7qYt7Ct8/fnpsYY5IOsO2IR9GcYeqF9i+sQL8UicunfVZELEV8x6mZQ7aE71CFdq5Y575i29lzILy81yXRVZe4JeUspIaWtfWpO40j/1J7uZ4rnM1Warynl3BhQdQ8tEMO/QrrzSKrjQNllnuRdPRqGiVYpbqaSfFmTCuddIoGztSfKeOD7WMlshCn4IUC6eH36LeRDXoPhzlWEalkKVRTfyL+HJzoX5QzRrpR/yB78f50n5KvCTqNmc0HbGmueA2CxCbhmNuKl1sh8SmYMcKv9AD0RVyXIRg=;leFdrX7WO8VeLHsuDTFYLw=="
 ---

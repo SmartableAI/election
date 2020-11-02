@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.palmbeachpost.com/amp/3693432001"
 cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3693432001"
 type: article
 quality: 75
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Palm Beach Post
@@ -27,54 +27,166 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris to make two stops in North Carolina Wednesday | Charlotte Observer"
-    excerpt: "Kamala Harris will visit North Carolina on Wednesday, almost a week after canceling a visit due to COVID-19 cases among a staffer and flight crew member. A brief statement released by the Joe Biden presidential campaign Monday said Harris plans to visit Asheville and Charlotte."
-    publishedDateTime: 2020-10-19T15:41:00Z
-    webUrl: "https://www.charlotteobserver.com/news/article246555648.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/article246555648.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article246555648.html"
+  - title: "Kamala Harris’ husband Doug Emhoff to campaign in West Michigan for Biden"
+    excerpt: "Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris, is planning several campaign visits in Michigan Friday. Joe Biden’s presidential campaign announced Emhoff will visit Muskegon County,"
+    publishedDateTime: 2020-10-21T19:06:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 70
+      name: MLive
+      domain: mlive.com
+    quality: 89
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/a3270031-586e-48ae-9de2-0b9a14248687/01c7d70f-98b4-4b30-8887-d9631f2436e7/1280x720/match/image.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F5TQJ5FGVZGYZBWBHISZKJ47FA.JPG"
+        width: 1300
+        height: 838
+        isCached: true
+  - title: "Mike Pence to host campaign rally in Michigan today"
+    excerpt: "PM, You can watch it here live on wlns.com WATERFORD TOWNSHIP, Mich. (WLNS)– Proving the road to the White House runs through Michigan, for the second"
+    publishedDateTime: 2020-10-22T13:01:00Z
+    webUrl: "https://www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/"
+    ampWebUrl: "https://www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 75
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/thumbnail_Image-2-1.jpg?w=1280"
         width: 1280
-        height: 720
+        height: 960
         isCached: true
-  - title: "Kamala Harris' Charlotte event goes virtual after campaign staffers test positive for coronavirus"
-    excerpt: "Kamala Harris' trip to North Carolina has been canceled after two campaign staffers tested positive for COVID-19, the Joe Biden-Kamala Harris campaign announced Thursday. Instead, Harris is planning to hold a virtual event in North Carolina on the first day of early vote Thursday."
-    publishedDateTime: 2020-10-16T08:07:00Z
-    webUrl: "https://www.wcnc.com/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
-    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
-    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
+  - title: "Joe Biden will return to Michigan on Halloween"
+    excerpt: "The trip marks the former vice president's fourth to Michigan in recent weeks, again signaling the importance of the state in the overall race."
+    publishedDateTime: 2020-10-29T02:15:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/26/joe-biden-return-michigan-halloween-election-2020/6049405002/"
+    ampWebUrl: "https://amp.freep.com/amp/6049405002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6049405002"
     type: article
     provider:
-      name: WCNC
-      domain: wcnc.com
-    quality: 62
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
     images:
-      - url: "https://media.wcnc.com/assets/WCNC/images/648fddce-80bd-4ba4-b4a3-0a14d91c24b8/648fddce-80bd-4ba4-b4a3-0a14d91c24b8_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/347b1fa3-f7b8-482f-8fb2-adcc72da78b5-biden_101620_kd125.jpg?auto=webp&crop=2399,1350,x0,y115&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Beyoncé, Kerry Washington, Kamala Harris and More Celebrate What Would've Been George Floyd's 47th Birthday"
-    excerpt: "Today marks what would have been George Floyd's 47th birthday. In honor of the occasion, a score of celebs posted tributes to his life, his memory and his impact. Actors, public figures, politicians and activists all joined in on commemorating the day,"
-    publishedDateTime: 2020-10-15T05:43:00Z
-    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
-    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
+  - title: "Bay Area political events: Kamala Harris’ chief of staff, Rep. Mark DeSaulnier"
+    excerpt: "A conversation with Karine Jean-Pierre, chief of staff to Democratic vice presidential candidate Sen. Kamala Harris, and a town hall meeting with Democratic Rep. Mark DeSaulnier of Concord and Rep. Jamie Raskin,"
+    publishedDateTime: 2020-10-28T15:29:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Bay-Area-political-events-Women-in-politics-15675578.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Bay-Area-political-events-Women-in-politics-15675578.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Bay-Area-political-events-Women-in-politics-15675578.php"
     type: article
     provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 57
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 71
     images:
-      - url: "https://media.kvue.com/assets/ETONLINE/images/c6234b46-27b0-423f-a452-2daa2c3e2498/c6234b46-27b0-423f-a452-2daa2c3e2498_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://s.hdnux.com/photos/01/14/73/16/20165545/5/rawImage.jpg"
+        width: 2048
+        height: 1294
         isCached: true
+  - title: "Dem VP nominee Kamala Harris’ Texas visit will include stops in Houston, Fort Worth and McAllen"
+    excerpt: "Kamala Harris, the Democratic nominee for vice president, will make campaign stops in Fort Worth, McAllen, and Houston on Friday. Harris’ visit is a major statement as her swing through Texas will come just four days before Election Day."
+    publishedDateTime: 2020-10-28T15:21:00Z
+    webUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/"
+    ampWebUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 63
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/bd9ebfe10da443d2822a2f2d9dede8b4.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Kamala Harris to visit Rio Grande Valley, Fort Worth and Houston during Texas campaign swing Friday"
+    excerpt: "The vice presidential nominee and U.S. senator from California will swing through the state on the final day of early voting before Tuesday's election."
+    publishedDateTime: 2020-10-28T14:03:00Z
+    webUrl: "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/"
+    ampWebUrl: "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 61
+    images:
+      - url: "https://thumbnails.texastribune.org/ChodZXE0IOtqQbDjtrU8A5BKi_A=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/fb392dd9d7bc0901a2d7dbd9bddfd252/04_Kamala_Harris_TT.jpg"
+        width: 1200
+        height: 804
+        isCached: true
+  - title: "In rare move, Seattle Storm endorse Joe Biden and Kamala Harris: 'These are not typical times'"
+    excerpt: "In a move rarely seen by professional sports teams, the Seattle Storm voiced its support for the 2020 Democratic ticket of Joe Biden and Kamala Harris on Wednesday."
+    publishedDateTime: 2020-10-22T03:29:00Z
+    webUrl: "https://www.startribune.com/in-rare-move-seattle-storm-endorse-joe-biden-and-kamala-harris-these-are-not-typical-times/572824402/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 58
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1603304987"
+        width: 1680
+        height: 876
+        isCached: true
+  - title: "Kamala Harris in Florida: where and when will she campaign?"
+    excerpt: "Joe Biden's running mate will resume her campaign in Florida as the Democrats look to overhaul the Republicans in the most vital of swing states."
+    publishedDateTime: 2020-10-18T20:53:00Z
+    webUrl: "https://en.as.com/en/2020/10/18/latest_news/1603050982_131904.html"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 55
+    images:
+      - url: "https://as01.epimg.net/en/imagenes/2020/10/18/latest_news/1603050982_131904_1603057692_noticia_normal.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In a rare move, the Seattle Storm endorses Joe Biden and Kamala Harris: ‘These are not typical times’"
+    excerpt: "In a move rarely seen by professional sports teams, the Seattle Storm voiced its support for the 2020 Democratic ticket of Joe Biden and Kamala Harris on Wednesday."
+    publishedDateTime: 2020-10-21T23:29:00Z
+    webUrl: "https://www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/"
+    ampWebUrl: "https://www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Kamala Harris’ husband Doug Emhoff campaigns in Aroostook County"
+    excerpt: "Emhoff toured the Lundeen Potato Facility in Mars Hill and spoke at a get-out-the-vote rally at Farm Park in Fort Fairfield to help the Biden-Harris ticket win Maine’s toss-up 2nd Congressional District."
+    publishedDateTime: 2020-10-25T17:00:00Z
+    webUrl: "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Douglas-Emhoff-8-Cropped.jpg?fit=2500%2C1563&#038;ssl=1"
+        width: 2500
+        height: 1563
+        isCached: true
+  - title: "Doug Emhoff paused his career for wife Kamala Harris’ aspirations — and became campaign’s ‘secret weapon’"
+    excerpt: "The high-powered professional sidelined his career to support his wife's sky-high aspirations, even as his work life creates a prickly conundrum over possible conflicts of interest if she takes office."
+    publishedDateTime: 2020-10-28T17:38:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/doug-emhoff-paused-his-career-for-his-wife-kamala-harriss-aspirations-and-became-the-campaigns-secret-weapon/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/doug-emhoff-paused-his-career-for-his-wife-kamala-harriss-aspirations-and-became-the-campaigns-secret-weapon/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/doug-emhoff-paused-his-career-for-his-wife-kamala-harriss-aspirations-and-became-the-campaigns-secret-weapon/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 38
 
 secured: "MWowSI692c2e9kofXLlCXaKE2dgvmQTUM6chV1TAjOaYyhJOHRlgTZu9XieqYR0DGzL/JmrcUwp0CX4HTmxjEfr/oO5ICO7lwXohpFEgF3bDUx+3aETkxT+hTK+6IKbGpcNDpOEEHXxUis/2Wp205b4TkwD+2FycPmtZOD6Ar/jmMrjTvVyY0vN2iCABaWg54VR5nt+zkZ7Bgu9n9ZBYpx3RlMOBHsEl8f/vFh3Ppx7N1s/eUdt1HucVA6T1L40YS55lad85uYGHFxGikrP00eme3M7QIp2S4KfOqgyARK0imDy2poWW6V6hCZj+H8AD1z1cAf8OfJAL/mY0X/C7ui0F3pgQH+F5NpXVM2Du/t5w3fBZZibdcMybXX+FV1rs9PxJfos/jD2A7ePqMxKWCNjpG21+ywvBzm1KVfNXlTvE6ei7sitBX+HP0ntXPA6ZdwgJRwtiFbqCAZglUtvM6v9AbN7k07o0pzSlVBdyRQenP2ESzoC8UHRP0g4vYWiaVo7PfokxSd8xuSME8EH06Q==;Z6nz5svZ2KmAuSe7bQvU/Q=="
 ---

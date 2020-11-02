@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 309
+published: true
 
 provider:
   name: MLive
@@ -27,205 +27,166 @@ images:
     isCached: true
 
 related:
-  - title: "Biden campaign announces record $383M fundraising haul in September"
-    excerpt: "Democratic presidential nominee Joe Biden's (D) campaign announced late Wednesday that it had raised a massive $383 million during the third quarter of 2020, marking the best period for the campaign so far."
-    publishedDateTime: 2020-10-15T12:27:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp"
+  - title: "BREAKING: Kamala Harris to campaign in Florida Monday"
+    excerpt: "Harris' Florida swing comes after busy week of campaigning that saw President Trump and Democratic rival Joe Biden make stops in Florida."
+    publishedDateTime: 2020-10-17T16:14:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/17/kamala-harris-resume-person-campaigning-florida-monday/3693432001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3693432001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3693432001"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden campaign puts up huge fundraising numbers in September"
-    excerpt: "Shattered records with $383 million haul, giving his campaign a whopping $432 million cash on hand and an enormous leg up on Trump's in campaign's homestretch."
-    publishedDateTime: 2020-10-15T12:03:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-campaign-fundraising-september/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-september/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-september/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/e09696b0-d773-4f59-8cdb-a9f02a49b57f/thumbnail/1200x630/a99e3f72fd1556e17b867982d953ea7a/cbsn-fusion-joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg-thumbnail-561204-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden denies unethical behavior involving his son Hunter during questioning at debate"
-    excerpt: "Democratic presidential nominee Joe Biden on Thursday denied any unethical behavior related to his son Hunter Biden under questioning at the second presidential debate with President Trump."
-    publishedDateTime: 2020-10-23T02:59:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522377-biden-denies-unethical-behavior-involving-his-son-hunter-during-questioning?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 118
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_102202020_0.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Video of Joe Biden Comforting Parkland School Shooting Families Watched Over 7 Million Times"
-    excerpt: "Footage of Joe Biden comforting the families of victims of the 2018 Parkland shooting has resurfaced and is being shared widely on social media. Arun Chaudhary, a political operative and filmmaker who served on President Barack Obama 's presidential 2008 campaign,"
-    publishedDateTime: 2020-10-22T10:22:00Z
-    webUrl: "https://www.newsweek.com/video-joe-biden-parkland-shooting-victims-families-1541245"
-    ampWebUrl: "https://www.newsweek.com/video-joe-biden-parkland-shooting-victims-families-1541245?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-joe-biden-parkland-shooting-victims-families-1541245?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
-    images:
-      - url: "https://d.newsweek.com/en/full/1656915/joe-biden.jpg"
-        width: 3000
-        height: 1941
-        isCached: true
-  - title: "Biden faces voters' questions during town hall"
-    excerpt: "Democratic presidential nominee Joe Biden is back on the campaign trail after facing tough questions on issues including the COVID-19 pandemic and the Supreme Court in a televised town hall last night."
-    publishedDateTime: 2020-10-16T18:29:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-voter-questions-town-hall-covid-supreme-court/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/16/9e09baf2-69d3-4666-86a4-cb3eaa8ead88/thumbnail/1200x630/4d81d2ae682b8536e03b5acfb35cc04b/cbsn-fusion-biden-back-on-campaign-trail-after-facing-tough-voter-questions-during-town-hall-thumbnail-567322-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cindy McCain praises Joe Biden in a new campaign ad, calling him a president who would 'put service before self'"
-    excerpt: "\"Joe will always fight for the American people, just like John did,\" Cindy McCain, wife of late Arizona Senator John McCain, said in the ad supporting Biden."
-    publishedDateTime: 2020-10-10T19:33:00Z
-    webUrl: "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f81ebbb642e9400180b52df?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Will Joe Biden Bring Republicans Into His Cabinet? It Seems Possible."
-    excerpt: "Although appointing GOP members to top cabinet positions is a way to reward those who have endorsed Biden’s presidential candidacy, it could worry or demobilize Democratic voters who see a Biden-led party as one that neglects progressive and far-left concerns."
-    publishedDateTime: 2020-10-20T23:12:00Z
-    webUrl: "https://nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063"
-    ampWebUrl: "https://nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063?amp"
-    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063?amp"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 75
     images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-10-20T100035Z_581827861_RC2AMJ9873X7_RTRMADP_3_USA-ELECTION-ECONOMY-BIDEN%20copy.jpg"
-        width: 1700
-        height: 1133
-        isCached: true
-  - title: "Jake Tapper rips Joe Biden's quiet campaign schedule: 'Opposite of the word tireless'"
-    excerpt: "CNN anchor Jake Tapper on Sunday ripped Joseph R. During an interview with Democratic Sen. Chris Coons, Mr. Tapper expressed incredulity that Mr. Biden, the Democratic presidential nominee, had taken the day off Saturday less than three weeks before the election."
-    publishedDateTime: 2020-10-19T15:47:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 68
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/jake_tapper_c21-0-878-500_s1200x700.jpg?5d564dc8c21de85fddbb1ce2251f85bbcfca979a"
+      - url: "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/08/24/PalmBeachPost/ghows_gallery_ei-LK-200829833-381fbd87.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
-  - title: "Joe Biden scales back rare Democratic investment in Texas, but dispatches Jill Biden to stoke the embers"
-    excerpt: "Former vice president Joe Biden hasn’t set foot in Texas since the primary, but on Friday, his campaign announced that he’s sending wife"
-    publishedDateTime: 2020-10-10T03:22:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/?outputType=amp"
+  - title: "Mike Pence to host campaign rally in Michigan today"
+    excerpt: "PM, You can watch it here live on wlns.com WATERFORD TOWNSHIP, Mich. (WLNS)– Proving the road to the White House runs through Michigan, for the second"
+    publishedDateTime: 2020-10-22T13:01:00Z
+    webUrl: "https://www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/"
+    ampWebUrl: "https://www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/amp/"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
+      name: WLNS.com
+      domain: wlns.com
+    quality: 75
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/thumbnail_Image-2-1.jpg?w=1280"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Joe Biden will return to Michigan on Halloween"
+    excerpt: "The trip marks the former vice president's fourth to Michigan in recent weeks, again signaling the importance of the state in the overall race."
+    publishedDateTime: 2020-10-29T02:15:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/26/joe-biden-return-michigan-halloween-election-2020/6049405002/"
+    ampWebUrl: "https://amp.freep.com/amp/6049405002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6049405002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/347b1fa3-f7b8-482f-8fb2-adcc72da78b5-biden_101620_kd125.jpg?auto=webp&crop=2399,1350,x0,y115&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Bay Area political events: Kamala Harris’ chief of staff, Rep. Mark DeSaulnier"
+    excerpt: "A conversation with Karine Jean-Pierre, chief of staff to Democratic vice presidential candidate Sen. Kamala Harris, and a town hall meeting with Democratic Rep. Mark DeSaulnier of Concord and Rep. Jamie Raskin,"
+    publishedDateTime: 2020-10-28T15:29:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Bay-Area-political-events-Women-in-politics-15675578.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Bay-Area-political-events-Women-in-politics-15675578.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Bay-Area-political-events-Women-in-politics-15675578.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 71
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/73/16/20165545/5/rawImage.jpg"
+        width: 2048
+        height: 1294
+        isCached: true
+  - title: "Dem VP nominee Kamala Harris’ Texas visit will include stops in Houston, Fort Worth and McAllen"
+    excerpt: "Kamala Harris, the Democratic nominee for vice president, will make campaign stops in Fort Worth, McAllen, and Houston on Friday. Harris’ visit is a major statement as her swing through Texas will come just four days before Election Day."
+    publishedDateTime: 2020-10-28T15:21:00Z
+    webUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/"
+    ampWebUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 63
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/bd9ebfe10da443d2822a2f2d9dede8b4.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Kamala Harris to visit Rio Grande Valley, Fort Worth and Houston during Texas campaign swing Friday"
+    excerpt: "The vice presidential nominee and U.S. senator from California will swing through the state on the final day of early voting before Tuesday's election."
+    publishedDateTime: 2020-10-28T14:03:00Z
+    webUrl: "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/"
+    ampWebUrl: "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 61
+    images:
+      - url: "https://thumbnails.texastribune.org/ChodZXE0IOtqQbDjtrU8A5BKi_A=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/fb392dd9d7bc0901a2d7dbd9bddfd252/04_Kamala_Harris_TT.jpg"
+        width: 1200
+        height: 804
+        isCached: true
+  - title: "In rare move, Seattle Storm endorse Joe Biden and Kamala Harris: 'These are not typical times'"
+    excerpt: "In a move rarely seen by professional sports teams, the Seattle Storm voiced its support for the 2020 Democratic ticket of Joe Biden and Kamala Harris on Wednesday."
+    publishedDateTime: 2020-10-22T03:29:00Z
+    webUrl: "https://www.startribune.com/in-rare-move-seattle-storm-endorse-joe-biden-and-kamala-harris-these-are-not-typical-times/572824402/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
     quality: 58
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/ZvCr4APszKnYx5_p2sPqxbo8mb0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/CYH7CODPP2EWWRO7Y2VL6QDFKU.jpg"
-        width: 1200
-        height: 630
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1603304987"
+        width: 1680
+        height: 876
         isCached: true
-  - title: "Joe Biden raises record $383 million in September"
-    excerpt: "The haul, announced Wednesday night, leaves him with $432 million in the bank just weeks before the Nov. 3 election."
-    publishedDateTime: 2020-10-15T05:25:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/?outputType=amp"
+  - title: "Kamala Harris in Florida: where and when will she campaign?"
+    excerpt: "Joe Biden's running mate will resume her campaign in Florida as the Democrats look to overhaul the Republicans in the most vital of swing states."
+    publishedDateTime: 2020-10-18T20:53:00Z
+    webUrl: "https://en.as.com/en/2020/10/18/latest_news/1603050982_131904.html"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
-  - title: "What it Means to Vote for Joe Biden"
-    excerpt: "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
-    publishedDateTime: 2020-10-22T09:57:00Z
-    webUrl: "https://patch.com/florida/palmharbor/what-it-means-vote-joe-biden"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
+      name: as.com
+      domain: as.com
     quality: 55
     images:
-      - url: "https://patch.com/img/cdn20/users/583297/20201020/111417/styles/patch_image/public/voting___20110535314.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Here’s How To Visit Joe Biden’s ‘Animal Crossing’ Island, Which Is Decked Out In Campaign Stuff"
-    excerpt: "The presidential election is less than a month away, and Democratic candidate Joe Biden’s campaign found a new way to reach voters. While it might be unconventional, Biden's campaign has a new virtual field office on an island in Animal"
-    publishedDateTime: 2020-10-17T16:00:00Z
-    webUrl: "https://www.elitedaily.com/p/heres-how-to-visit-joe-bidens-animal-crossing-island-which-is-decked-out-in-campaign-stuff-39314113"
-    type: article
-    provider:
-      name: Elite Daily
-      domain: elitedaily.com
-    quality: 43
-    images:
-      - url: "https://imgix.bustle.com/uploads/image/2020/10/17/8d59e681-577a-4830-893b-4d428623c657-combine_images-2.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+      - url: "https://as01.epimg.net/en/imagenes/2020/10/18/latest_news/1603050982_131904_1603057692_noticia_normal.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Joe Biden Campaign Event in Durham, North Carolina"
-    excerpt: "Democratic presidential nominee Joe Biden delivered remarks at a voter mobilization event in Durham, North Carolina."
-    publishedDateTime: 2020-10-19T14:57:00Z
-    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaign-event-durham-north-carolina"
+  - title: "In a rare move, the Seattle Storm endorses Joe Biden and Kamala Harris: ‘These are not typical times’"
+    excerpt: "In a move rarely seen by professional sports teams, the Seattle Storm voiced its support for the 2020 Democratic ticket of Joe Biden and Kamala Harris on Wednesday."
+    publishedDateTime: 2020-10-21T23:29:00Z
+    webUrl: "https://www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/"
+    ampWebUrl: "https://www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/?amp=1"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Former President Obama Campaigns in Philadelphia for Joe Biden"
-    excerpt: "President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden. Former President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
-    publishedDateTime: 2020-10-20T18:26:00Z
-    webUrl: "https://www.c-span.org/video/?477092-1/president-obama-campaigns-philadelphia-joe-biden"
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Kamala Harris’ husband Doug Emhoff campaigns in Aroostook County"
+    excerpt: "Emhoff toured the Lundeen Potato Facility in Mars Hill and spoke at a get-out-the-vote rally at Farm Park in Fort Fairfield to help the Biden-Harris ticket win Maine’s toss-up 2nd Congressional District."
+    publishedDateTime: 2020-10-25T17:00:00Z
+    webUrl: "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Douglas-Emhoff-8-Cropped.jpg?fit=2500%2C1563&#038;ssl=1"
+        width: 2500
+        height: 1563
+        isCached: true
+  - title: "Doug Emhoff paused his career for wife Kamala Harris’ aspirations — and became campaign’s ‘secret weapon’"
+    excerpt: "The high-powered professional sidelined his career to support his wife's sky-high aspirations, even as his work life creates a prickly conundrum over possible conflicts of interest if she takes office."
+    publishedDateTime: 2020-10-28T17:38:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/doug-emhoff-paused-his-career-for-his-wife-kamala-harriss-aspirations-and-became-the-campaigns-secret-weapon/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/doug-emhoff-paused-his-career-for-his-wife-kamala-harriss-aspirations-and-became-the-campaigns-secret-weapon/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/doug-emhoff-paused-his-career-for-his-wife-kamala-harriss-aspirations-and-became-the-campaigns-secret-weapon/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 38
 
 secured: "3EtgvxN0vGbMjV+TuiUKhA69Z2zf7FZsgkeC6sFOzZEwaMCO8uRASrj90BGn2Gvu//Rb9zWxtoJN4kcarHqMN6dR3jo8W7SvmmaNiybQ0flz3A+s45USyC/rCqao8t3KxK3N68HFg91geTiG18QtNCn/oqIlYzEnLQDk1HvlmbdFUrHqb9g80sYG08uM9woSkZtad4bDN69IbYnpoht+tNBBab3feZl6q20uflBICQxAlNOtqJ9ubaZqppOk/KPqlnN5zsresP4G19cg7natha7y3Q/NOvy82tPZ2ur0ogJJI22Gc3ordHeuQ2rEWCqou1uo4LdPks7FtZD5wBl2LleucCMGPKo7SXYBNvOdGvnB66HOSPrXLrq8cNRPQpmcGkP3I/cKM0BlMbj2moqvM71yHuf7wNAOnc52nSPEpPqou2HhgW9W5UTCs1l+TDaVuj0hwRdknMOwxQI32u6arldtQ/Um+lOrP7McRD/7A8Yf+CIuXbpDeg7iIEtpxx/Qc75OUewOr1lbKLR8p2zRKQ==;7c/tYGI9ldOmyqbgj1I6lQ=="
 ---

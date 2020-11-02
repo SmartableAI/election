@@ -2,6 +2,278 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-20-trump-hosting-sinclair-town-hall-in-white-house-rose-garden.md",
+      "title": "Trump hosting Sinclair ‘town hall’ in White House Rose Garden",
+      "excerpt": "President Trump on Tuesday will tape a “town hall” event in the White House Rose Garden with Eric Bolling, the former Fox News host, for the Sinclair Broadcasting Network. The event",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
+      "originalUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201020-trump-sinclair-town-hall.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
+      "publishedDateTime": "2020-10-20T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-nc-governor-caught-on-hot-mic-telling-biden-theyll-drag-cal-cunningham-across-the-line-after-scandal.md",
+      "title": "NC governor caught on hot mic telling Biden they'll drag Cal Cunningham ‘across the line’ after scandal",
+      "excerpt": "\"I think Cal's going to get across the line, too,\" Gov. Roy Cooper appeared to say on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1tj-Snexq0/roy-cooper-joe-biden-hot-mic-cal-cunningham",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1tj-Snexq0/roy-cooper-joe-biden-hot-mic-cal-cunningham",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282026845724.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/roy-cooper-joe-biden-hot-mic-cal-cunningham.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-cooper-joe-biden-hot-mic-cal-cunningham.amp",
+      "publishedDateTime": "2020-10-20T06:46:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-trump-slams-debate-moderator-welker-as-terrible-totally-partisan.md",
+      "title": "Trump slams debate moderator Welker as 'terrible,' 'totally partisan'",
+      "excerpt": "President Trump said he is ready for Thursday's debate against Democratic presidential nominee Joe Biden, but claimed that it will not be fair because the moderator, NBC's Kristen Welker, will be biased against him.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CqO0LmFk3KQ/trump-slams-debate-moderator-kristen-welker",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CqO0LmFk3KQ/trump-slams-debate-moderator-kristen-welker",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1df101ed-4ddd-407f-ae39-a12f276397cf/a6fdfdd2-0702-448a-93c1-a621b104cc66/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-debate-moderator-kristen-welker.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-debate-moderator-kristen-welker.amp",
+      "publishedDateTime": "2020-10-20T06:12:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-trump-urges-barr-to-act-fast-appoint-somebody-to-probe-hunter-biden-business-dealings.md",
+      "title": "Trump urges Barr to 'act fast,' 'appoint somebody' to probe Hunter Biden business dealings",
+      "excerpt": "President Trump on Tuesday said Attorney General William Barr needs to “act” and “appoint somebody” after nearly a dozen House Republicans urged him to tap a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLQAi5Mrcl4/trump-william-barr-act-hunter-biden-business-dealings",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLQAi5Mrcl4/trump-william-barr-act-hunter-biden-business-dealings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp",
+      "publishedDateTime": "2020-10-20T05:44:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-trump-to-speak-to-fox-friends-two-weeks-from-election-day.md",
+      "title": "Trump to speak to 'Fox & Friends,' two weeks from Election Day",
+      "excerpt": "President Trump will join “Fox & Friends” for an exclusive interview Tuesday at 8 a.m. ET, two weeks out from Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f6djMKrte9k/trump-fox-friends-interview-two-weeks-election-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f6djMKrte9k/trump-fox-friends-interview-two-weeks-election-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 430,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-fox-friends-interview-two-weeks-election-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-friends-interview-two-weeks-election-day.amp",
+      "publishedDateTime": "2020-10-20T04:45:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-former-rnc-chairman-endorses-biden-with-two-weeks-left-in-the-election.md",
       "title": "Former RNC chairman endorses Biden with two weeks left in the election",
       "excerpt": "Former Republican National Committee Chairman Michael Steele endorsed Democratic presidential candidate Joe Biden on Tuesday, saying the former vice president \"will pursue options that work towards healing the divide\" worsened by President Donald Trump.\n    \n",
@@ -14,7 +286,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1150,
+      "heat": 1130,
       "tags": null,
       "images": [
         {
@@ -153,58 +425,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-joe-bidens-love-of-amtrak-tells-us-how-he-would-govern.md",
-      "title": "Joe Biden’s love of Amtrak tells us how he would govern",
-      "excerpt": "After the first presidential debate, Joe Biden did what he has done many times before: boarded a train. “The Build Back Better Express” would lumber for the better part of a day between Cleveland and Johnstown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/",
-      "originalUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVBWLIQDUII6XOJOAKLHN6PL5Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp",
-      "publishedDateTime": "2020-10-20T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-20-trump-calls-fauci-a-disaster-and-seeks-to-reassure-his-team-he-can-win.md",
       "title": "Trump calls Fauci a 'disaster' and seeks to reassure his team he can win",
       "excerpt": "President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday, airing his frustration with the scientist during a call meant to reassure campaign staff he has a path to victory on Nov.",
@@ -213,7 +433,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2742AD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -310,6 +530,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-trump-pushes-rosy-virus-message-i-look-fine.md",
+      "title": "Trump pushes rosy virus message: 'I look fine'",
+      "excerpt": "President Donald Trump was again downplaying the severity of the coronavirus on Monday during a rally in Arizona. \"The pandemic is rounding the turn. Vaccines are coming. And I look fine, don't I?\" Trump said,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/20/trump-pushes-rosy-virus-message-i-look-fine/5987060002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/20/trump-pushes-rosy-virus-message-i-look-fine/5987060002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/3caf549b-a00f-4373-959e-1e28aadff5f6_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -427,59 +699,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-joe-biden-slams-trump-criticism-of-dr-anthony-fauci-the-american-people-are-tired-of-your-lies.md",
-      "title": "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'",
-      "excerpt": "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814",
-      "originalUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1",
-      "publishedDateTime": "2020-10-19T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-why-vice-president-pence-was-in-northern-maine-on-monday.md",
       "title": "Why Vice President Pence was in northern Maine on Monday",
       "excerpt": "When you think of the battlegrounds that could decide whether President Trump or Democratic nominee Joe Biden wins next month’s general election, Maine often doesn’t come to mind.",
@@ -549,7 +768,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1299,
+      "heat": 1439,
       "tags": null,
       "images": [
         {
@@ -996,6 +1215,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-19-talk-of-the-county-reader-opinion-our-garbage-collector-is-more-qualified-to-run-for-office-than-kamala-harris.md",
+      "title": "Talk of the County reader opinion: ‘Our garbage collector is more qualified to run for office’ than Kamala Harris",
+      "excerpt": "Being from California, if Kamala Harris had any decency and actually believed in law and order, then why didn’t she visit two police officers who were shot while sitting in their car from California?",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html",
+      "originalUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/Y-l6TvPRVPV9unrZaobdN9beS4E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S2FMJGCNYMIPZRCS3E742QM3PA.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-19T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-does-team-trump-realize-that-hillary-clinton-isnt-running.md",
       "title": "Does Team Trump realize that Hillary Clinton isn't running?",
       "excerpt": "Clinton said of Republicans in 2017, \"It appears they don't know I'm not president.\" She could say now, \"It appears they don't know I'm not a candidate.\"",
@@ -1050,275 +1321,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-reportedly-got-bored-during-one-of-his-first-classified-briefings-on-afghanistan-and-ordered-milkshakes-in-the-middle-of-it.md",
-      "title": "Trump reportedly got bored during one of his first classified briefings on Afghanistan and ordered milkshakes in the middle of it",
-      "excerpt": "Trump has garnered a reputation as a president who routinely ignores intelligence briefings, and reportedly prefers visuals over written briefings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8dae319e9fe4001900a150?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ordered-milkshakes-amid-classified-briefing-on-afghanistan-2020-10?amp",
-      "publishedDateTime": "2020-10-19T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sacha-baron-cohen-explains-how-he-crashed-pence-speech-dressed-as-trump.md",
-      "title": "Sacha Baron Cohen explains how he crashed Pence speech dressed as Trump",
-      "excerpt": "The actor talked to the New York Times about donning a prosthetic face and body and showing up at Vice President's Mike Pence speech at a Conservative Political Action Conference last February. \"Obviously, I'm wearing a fat suit,\" Cohen told the publication.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "originalUrl": "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201019083432-sacha-baron-cohen-brother-grimsby-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "publishedDateTime": "2020-10-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor.md",
-      "title": "REVEALED: Birx confronted Pence with demand he fire Trump’s ‘dishonest’ herd immunity doctor",
-      "excerpt": "Delving into the battle inside the White House task force overseeing the government’s response to the coronavirus pandemic, the Washington Post is reporting that Dr. Deborah Birx has grown fed up with Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/",
-      "originalUrl": "https://www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/mike-pencescreen-grab-via-youtube.jpeg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor/amp/",
-      "publishedDateTime": "2020-10-19T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-birx-tells-friends-she-was-relieved-after-trump-adviser-scott-atlas-inaccurate-mask-tweet-was-removed.md",
-      "title": "Birx tells friends she was relieved after Trump adviser Scott Atlas' inaccurate mask tweet was removed",
-      "excerpt": "Members of the White House coronavirus task force are praising a move by Twitter removing a misleading tweet from top Trump adviser Dr. Scott Atlas that told Americans masks don't work.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbqhKm0CKOI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbqhKm0CKOI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200717094414-01-dr-birx-profile-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx-task-force/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx-task-force/index.html",
-      "publishedDateTime": "2020-10-19T07:23:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-pence-to-mount-aggressive-campaign-push-in-final-two-weeks.md",
-      "title": "Pence to mount 'aggressive' campaign push in final two weeks",
-      "excerpt": "Vice President Mike Pence will travel at least five days a week and ramp up to at least two campaign rallies each day as part of a “very aggressive schedule” in the final days before the election, Pen",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks",
-      "originalUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp",
-      "publishedDateTime": "2020-10-19T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

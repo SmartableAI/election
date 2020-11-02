@@ -2,943 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-10-07-im-mayor-first-in-miami-dade-walking-a-line-between-trump-and-constituents.md",
-      "title": "‘I’m mayor first’: In Miami-Dade, walking a line between Trump and constituents",
-      "excerpt": "The Republican mayor of Miami-Dade County is a Trump-endorsed congressional candidate in a nationally watched swing seat. He’s also the elected leader of the urban heart of South Florida, a coronavirus hot spot that’s home to 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/07/carlos-gimenez-trump-coronavirus-426909",
-      "originalUrl": "https://www.politico.com/news/2020/10/07/carlos-gimenez-trump-coronavirus-426909",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/2d/ab/cec464684938adc1e0bb8c5a741d/201006-gimenez-herald-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump.md",
-      "title": "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump",
-      "excerpt": "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/",
-      "originalUrl": "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/",
-      "publishedDateTime": "2020-10-06T19:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-donald-trump-is-shown-gasping-for-air-in-white-house-return-video-twitter-users-claim.md",
-      "title": "Donald Trump Is Shown ‘Gasping For Air’ In White House Return Video, Twitter Users Claim",
-      "excerpt": "Shortly after the president was released from Walter Reed hospital, many noted he appeared to be gasping for air when he returned to the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543",
-      "originalUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/his-covid-19-diagnosis-has-left-president-donald.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543?amp=1",
-      "publishedDateTime": "2020-10-06T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-trump-rejects-democrats-stimulus-offer-says-no-deal-until-after-the-election.md",
-      "title": "Trump rejects Democrats' stimulus offer, says no deal until after the election",
-      "excerpt": "President Donald Trump appeared to spike ongoing negotiations over COVID-19 stimulus relief, telling Republicans to focus on confirming Barrett.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/06/covid-stimulus-update-trump-rejects-democratic-offer-eyes-election/3627003001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/06/covid-stimulus-update-trump-rejects-democratic-offer-eyes-election/3627003001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 636,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3627003001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3627003001",
-      "publishedDateTime": "2020-10-06T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trump-still-believes-the-cure-for-the-virus-is-positive-thinking.md",
-      "title": "Trump still believes the cure for the virus is ‘positive thinking’",
-      "excerpt": "Peale’s work drew on, and popularized for a new generation, the hugely influential 19th century spiritual movement of New Thought, first popularized by onetime watchmaker Phineas Quimby in the 1860s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/outlook/2020/10/06/positive-thinking-trump-virus-fear/",
-      "originalUrl": "https://www.washingtonpost.com/outlook/2020/10/06/positive-thinking-trump-virus-fear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2UTSHAHNEI6XBYZBXYVTUKHSQ.jpg&w=1440",
-          "width": 1440,
-          "height": 974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/outlook/2020/10/06/positive-thinking-trump-virus-fear/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/06/positive-thinking-trump-virus-fear/?outputType=amp",
-      "publishedDateTime": "2020-10-06T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trumps-favorite-trade-scorecard-posts-its-worst-figure-since-2006-as-the-election-looms.md",
-      "title": "Trump's favorite trade scorecard posts its worst figure since 2006 as the election looms",
-      "excerpt": "Shipments of consumer goods led the jump in imports and hit a record high as companies prepared for holiday-season spending.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10",
-      "originalUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7c728c282c500018c78c61?format=jpeg",
-          "width": 5629,
-          "height": 2814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10?amp",
-      "publishedDateTime": "2020-10-06T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-donald-trump-jr-reportedly-wanted-a-family-intervention-to-stop-trumps-crazy-behaviour-at-walter-reed.md",
-      "title": "Donald Trump Jr. reportedly wanted a family 'intervention' to stop Trump's 'crazy behaviour' at Walter Reed",
-      "excerpt": "Donald Trump's erratic and controversial behaviour since his hospitalisation for Covid-19 has divided his family, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-jr-thought-father-acting-crazy-walter-reed-report-2020-10",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-jr-thought-father-acting-crazy-walter-reed-report-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7c5680282c500018c78c2f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-jr-thought-father-acting-crazy-walter-reed-report-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-thought-father-acting-crazy-walter-reed-report-2020-10?amp",
-      "publishedDateTime": "2020-10-06T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-a-perverse-potuss-projection-every-time-trump-accuses-he-reveals-his-own-guilt.md",
-      "title": "A perverse POTUS’s projection: Every time Trump accuses, he reveals his own guilt",
-      "excerpt": "A rule of thumb, and twitter thumbs, we’ve learned the hard way these past few years: If Donald Trump is accusing someone of a wrongdoing, he’s probably guilty of it himself. Psychologists call this projection,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html",
-      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/zp62sjxdixnH68j05vd2qKUulcc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6HXZ2SXOYNAXDADS7SUMUPV6WI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-06T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-an-embarrassment-trump-tweet-angers-pandemic-survivors.md",
-      "title": "'An embarrassment': Trump tweet angers pandemic survivors",
-      "excerpt": "Some survivors of COVID-19 and people who have lost loved ones to the pandemic are angry over President Donald Trump's advice not to fear the disease",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_0c3ded261d674c6b8dfbbb215da83719_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "publishedDateTime": "2020-10-05T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trumps-niece-mary-says-the-covid-19-situation-in-the-us-is-horrible-because-the-president-sees-illness-as-a-display-of-unforgivable-weakness.md",
-      "title": "Trump's niece, Mary, says the COVID-19 situation in the US is 'horrible' because the president sees illness as 'a display of unforgivable weakness'",
-      "excerpt": "Mary Trump, an outspoken critic of Donald Trump, her uncle, spoke with NPR's \"All Things Considered\" after the president's COVID-19 diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mary-trump-president-sees-illness-unforgivable-weakness-2020-10",
-      "originalUrl": "https://www.businessinsider.com/mary-trump-president-sees-illness-unforgivable-weakness-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7adb552400440019129e20?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mary-trump-president-sees-illness-unforgivable-weakness-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-president-sees-illness-unforgivable-weakness-2020-10?amp",
-      "publishedDateTime": "2020-10-05T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-progressive-groups-launch-we-paid-more-campaign-in-response-to-trump-taxes-report.md",
-      "title": "Progressive groups launch 'We Paid More' campaign in response to Trump taxes report",
-      "excerpt": "A coalition of progressive groups on Monday launched an initiative to make the case that the tax code is too favorable to the wealthy, after The New York Times reported last week that President Trump",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
-      "originalUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_092920getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
-      "publishedDateTime": "2020-10-05T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trump-campaign-says-biden-lacks-firsthand-experience-of-being-infected-with-covid-19.md",
-      "title": "Trump Campaign Says Biden Lacks 'Firsthand Experience' of Being Infected With COVID-19",
-      "excerpt": "\"Those firsthand experiences are what are going to get President Trump four more years,\" Trump campaign spokesperson Erin Perrine told Fox News on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440",
-      "originalUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 992,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1646101/erin-perrnie.png",
-          "width": 2560,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1",
-      "publishedDateTime": "2020-10-05T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-secret-service-volunteered-for-trump-drive-lewandowski-claims.md",
-      "title": "Secret Service ‘Volunteered’ For Trump Drive, Lewandowski Claims",
-      "excerpt": "An attending physician said the agents likely didn’t know the “real risks” of being inside the vehicle with Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/",
-      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b280907e0d0d800a27488%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1487%26cropY1%3D67%26cropY2%3D904",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/amp/",
-      "publishedDateTime": "2020-10-05T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-trump-pledges-to-pass-the-biggest-tax-cut-ever-in-early-morning-campaign-tweetstorm-from-walter-reed.md",
-      "title": "Trump pledges to pass 'THE BIGGEST TAX CUT EVER' in early morning campaign tweetstorm from Walter Reed",
-      "excerpt": "Trump previously vowed a middle-class tax cut during the November 2018 midterms, but it never happened. His second-term tax platform remains vague.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10?amp",
-      "publishedDateTime": "2020-10-05T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health.md",
-      "title": "CNN supercut shows how Trump has repeatedly mocked his opponents’ health",
-      "excerpt": "CNN’s John Avlon on Monday showed how President Donald Trump has repeatedly used his political opponents’ health as a weapon, such as when he openly mocked Hillary Clinton for coming down with pneumonia in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/",
-      "originalUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2017/07/Trump-mocks-disabled-reporter.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/amp/",
-      "publishedDateTime": "2020-10-05T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-meadows-still-optimistic-trump-will-leave-hospital-later-on-monday.md",
-      "title": "Meadows: ‘Still optimistic’ Trump will leave hospital later on Monday",
-      "excerpt": "Trump's chief of staff said the president will meet with his doctors and nurses on Monday morning to assess his progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "originalUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/95/64/e2030d6244139256e6df0f3d8ac3/ap20278592774995.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "publishedDateTime": "2020-10-05T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-alec-baldwin-defends-portraying-donald-trump-on-snl-while-president-is-hospitalized.md",
-      "title": "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized",
-      "excerpt": "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3621055001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3621055001",
-      "publishedDateTime": "2020-10-05T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-texas-man-accused-of-punch-amid-trump-argument-turns-self-in.md",
-      "title": "Texas man accused of punch amid Trump argument turns self in",
-      "excerpt": "Authorities say a Texas man who was seen on video punching another man as they argued over President Donald Trump has turned himself in after police obtained a warrant for assault",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_2dac7a77f4fb432388b1632ccc3281f2_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "publishedDateTime": "2020-10-05T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-top-israeli-rabbis-and-us-envoy-pray-for-trump-recovery.md",
       "title": "Top Israeli rabbis, and U.S. envoy, pray for Trump recovery",
       "excerpt": "Israel's rabbis prayed for U.S. President Donald Trump to recover from COVID-19 on Monday, invoking his name in a Jewish holiday ceremony at Jerusalem's Western Wall.",
@@ -999,7 +62,7 @@
       "originalUrl": "https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1055,7 +118,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 167,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1100,21 +163,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-05-trump-who-has-a-highly-contagious-infectious-disease-left-walter-reed-to-pay-a-surprise-visit-to-cheering-fans-outside-the-hospital.md",
-      "title": "Trump, who has a highly contagious infectious disease, left Walter Reed to pay a 'surprise visit' to cheering 'fans' outside the hospital",
-      "excerpt": "He was moved to the hospital on Friday for a \"few days.\"",
+      "path": "_news/2020-10-05-donald-trump-jr-among-names-floated-for-open-pennsylvania-senate-seat-report.md",
+      "title": "Donald Trump Jr. Among Names Floated for Open Pennsylvania Senate Seat [REPORT]",
+      "excerpt": "Media reports are conflicting about whether or not Donald Trump Jr.'s name is being considered for a 2022 Pennsylvania run.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10",
+      "webUrl": "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/",
+      "originalUrl": "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f7a437d282c500018c787e0?width=1200&format=jpeg",
-          "width": 1004,
-          "height": 502,
+          "url": "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228190343-e1601850280332.jpg?quality=65&strip=all",
+          "width": 3970,
+          "height": 2240,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1122,23 +185,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10?amp",
-      "publishedDateTime": "2020-10-04T15:20:00-07:00",
+      "ampWebUrl": "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/",
+      "publishedDateTime": "2020-10-04T15:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1160,7 +214,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-health-coronavirus-trump-germany-idUSKBN26P0ZQ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1204,29 +258,42 @@
       ]
     },
     {
-      "path": "_news/2020-10-04-the-latest-doctor-giving-trump-health-update-sunday-morning.md",
-      "title": "The Latest: Doctor Giving Trump Health Update Sunday Morning",
-      "excerpt": "President Donald Trump’s doctors are set to brief the public on his condition late Sunday morning after he spent a second night hospitalized with COVID-19.",
+      "path": "_news/2020-10-04-this-election-is-about-donald-trump-up-or-down-focus-group-pollsters.md",
+      "title": "'This election is about Donald Trump, up or down': Focus group pollsters",
+      "excerpt": "Peter Hart, Democratic Pollster, Hart Research Associates, and Nicole McCleskey, Republican Pollster, Public Opinion Strategies, talk to Chuck Todd about a post-debate focus group they conducted for Meet the Press.",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning",
-      "originalUrl": "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning",
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-this-election-is-about-donald-trump-up-or-down-focus-group-pollsters-93106245716",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-this-election-is-about-donald-trump-up-or-down-focus-group-pollsters-93106245716",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 209,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_full_focus_201004.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp",
-      "publishedDateTime": "2020-10-04T08:28:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93106245716",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93106245716",
+      "publishedDateTime": "2020-10-04T05:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1243,7 +310,8 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1255,7 +323,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 619,
+      "heat": 459,
       "tags": null,
       "images": [
         {
@@ -1308,7 +376,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1352,6 +420,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-04-snl-kicks-off-new-season-with-potus-debate-aka-alec-baldwins-trump-jim-carreys-biden-go-off-the-rails.md",
+      "title": "‘SNL’ Kicks Off New Season With POTUS Debate AKA Alec Baldwin’s Trump & Jim Carrey’s Biden Go “Off The Rails.”",
+      "excerpt": "As Donald Trump sits in a military hospital receiving treatment for the coronavirus, Saturday Night Live decided to stick with skewering the first Presidential debate of September 29. “Even though",
+      "sourceUrl": null,
+      "webUrl": "https://deadline.com/2020/10/snl-donald-trump-covid-jim-carrey-joe-biden-alec-baldwin-presidential-debate-maya-rudolph-1234590926/#!",
+      "originalUrl": "https://deadline.com/2020/10/snl-donald-trump-covid-jim-carrey-joe-biden-alec-baldwin-presidential-debate-maya-rudolph-1234590926/#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://deadline.com/wp-content/uploads/2020/10/snl-s-46-biden-trump-1.jpg?w=1024",
+          "width": 1024,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://deadline.com/2020/10/snl-donald-trump-covid-jim-carrey-joe-biden-alec-baldwin-presidential-debate-maya-rudolph-1234590926/amp/",
+      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-donald-trump-covid-jim-carrey-joe-biden-alec-baldwin-presidential-debate-maya-rudolph-1234590926/amp/",
+      "publishedDateTime": "2020-10-03T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline.com",
+        "domain": "deadline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-the-squad-responds-to-twitter-policy-banning-posts-wishing-for-trumps-death-excuse-me.md",
       "title": "'The Squad' Responds to Twitter Policy Banning Posts Wishing for Trump's Death: 'Excuse Me?'",
       "excerpt": "\"So... you mean to tell us you could've done this the whole time?\" Congresswoman Alexandria Ocasio-Cortez tweeted.",
@@ -1360,7 +471,7 @@
       "originalUrl": "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1404,19 +515,71 @@
       ]
     },
     {
-      "path": "_news/2020-10-04-minnesota-congressmen-flew-delta-after-flying-with-trump.md",
-      "title": "Minnesota congressmen flew Delta after flying with Trump",
-      "excerpt": "Three Minnesota congressmen are facing backlash over taking a commercial flight home from Washington, D.C., on Friday night just two days after they shared Air Force One with President Donald Trump. U.",
+      "path": "_news/2020-10-04-your-questions-about-trump-and-covid-19-answered-who-gave-trump-coronavirus-what-is-the-regeneron-antibody-cocktail.md",
+      "title": "Your questions about Trump and COVID-19, answered: Who gave Trump coronavirus? What is the Regeneron antibody 'cocktail'?",
+      "excerpt": "Our readers from across the US are asking important questions about President Trump's positive COVID-19 test. We answer your questions.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/10/02/trump-tests-positive-coronavirus-reader-questions-answers/5893893002/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2020/10/02/trump-tests-positive-coronavirus-reader-questions-answers/5893893002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 100,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/US/201003_abcnl_spev_trump_6pm_hpMain_16x9_992.jpg",
+          "url": "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5893893002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5893893002",
+      "publishedDateTime": "2020-10-03T19:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-trump-family-aides-flouted-cleveland-hotel-mask-mandate-ahead-of-debate.md",
+      "title": "Trump family, aides flouted Cleveland hotel mask mandate ahead of debate",
+      "excerpt": "Hours before they were seen watching Tuesday's presidential debate without masks in violation of safety protocols, members of President Donald Trump's family, campaign staff and White House team also flouted a mask mandate at a hotel frequented by visitors to Cleveland Clinic.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-mask_hpMain_20201003-193502_16x9_992.jpg",
           "width": 992,
           "height": 558,
           "title": null,
@@ -1426,9 +589,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
-      "publishedDateTime": "2020-10-03T15:53:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582",
+      "publishedDateTime": "2020-10-03T17:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -1558,7 +721,595 @@
         "Election",
         "Donald Trump"
       ]
+    },
+    {
+      "path": "_news/2020-10-04-trump-has-been-fever-free-for-over-24-hours-hasnt-need-supplemental-oxygen-at-hospital.md",
+      "title": "Trump has been 'fever-free' for over 24 hours, hasn't need supplemental oxygen at hospital",
+      "excerpt": "President Donald Trump has been fever-free for over 24 hours and has not needed supplemental oxygen Saturday morning, his doctors told reporters outside Walter Reed National Military Medical Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1241952",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952",
+      "publishedDateTime": "2020-10-03T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes.md",
+      "title": "Biden: Trump diagnosis is 'bracing reminder' of virus stakes",
+      "excerpt": "Democrat Joe Biden is offering sympathy to President Donald Trump over his coronavirus diagnosis while casting the moment as a reminder of the health crisis facing the United States",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-trump-diagnosis-bracing-reminder-virus-stakes-73397867",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-trump-diagnosis-bracing-reminder-virus-stakes-73397867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 840,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_9e3058a1cc2d4ba6ac43c25fa8e8d7dc_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-trump-diagnosis-bracing-reminder-virus-stakes-73397867",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-trump-diagnosis-bracing-reminder-virus-stakes-73397867",
+      "publishedDateTime": "2020-10-03T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-chris-christie-is-the-latest-in-trump-orbit-to-get-virus.md",
+      "title": "Chris Christie is the latest in Trump orbit to get virus",
+      "excerpt": "Chris Christie tested positive for COVID-19, he tweeted Saturday morning — the latest in a string of virus cases connected to President Donald Trump's inner circle. Christie said that he will be receiving medical attention and “will keep the necessary folks apprised of my condition.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_947b45dfec594eaf9655cd8486013db8_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900",
+      "publishedDateTime": "2020-10-03T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-president-trump-taken-to-walter-reed-medical-center.md",
+      "title": "President Trump taken to Walter Reed Medical Center",
+      "excerpt": "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+      "originalUrl": "https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 865,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-8-rt-er-201002_1601678432669_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+      "publishedDateTime": "2020-10-03T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-trump-plans-to-name-conservative-activist-tom-fitton-to-court-oversight-agency.md",
+      "title": "Trump plans to name conservative activist Tom Fitton to court oversight agency",
+      "excerpt": "The founder of Judicial Watch would sit on the D.C. Commission on Judicial Disabilities and Tenure, which has the power to remove certain judges for misconduct.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/02/tom-fitton-trump-court-oversight-425674",
+      "originalUrl": "https://www.politico.com/news/2020/10/02/tom-fitton-trump-court-oversight-425674",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/5b/2f/2781a5054bdeb5f8fad86b29dc81/201002-tom-fitton-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/02/tom-fitton-trump-court-oversight-425674",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/tom-fitton-trump-court-oversight-425674",
+      "publishedDateTime": "2020-10-02T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-commentary-what-happens-if-trump-is-unable-to-govern.md",
+      "title": "Commentary: What happens if Trump is ‘unable’ to govern",
+      "excerpt": "For some imaginable health outcomes, especially those associated with COVID-19, the 25th Amendment is ambiguous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/-lhwol4kj9AqzQiaSHRO5HEJYCg=/1200x0/left/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7IK6LRFWZBWDJ7GPE4AA2QZJY.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-02T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-trump-not-the-first-president-to-be-infected-in-a-pandemic-woodrow-wilson-was-in-the-same-spot-a-century-ago.md",
+      "title": "Trump not the first president to be infected in a pandemic, Woodrow Wilson was in the same spot a century ago.",
+      "excerpt": "A pandemic was ravaging America, thousands were dead or dying, and the president was infected. His name was Woodrow Wilson and one century ago he was in a situation similar to the position Donald Trump finds himself in now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/trump-not-first-president-be-infected-pandemic-woodrow-wilson-was-n1241854",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/trump-not-first-president-be-infected-pandemic-woodrow-wilson-was-n1241854",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_40/3417011/201002-woodrow-wilson-july-1919-se-1120a_af3c5be0a2ceeb52f5f5e4f5267c53a1.jpg",
+          "width": 2371,
+          "height": 1602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241854",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241854",
+      "publishedDateTime": "2020-10-02T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-federal-judge-says-census-count-must-keep-going-until-oct-31-despite-trump-administration-efforts-to-cut-it-short.md",
+      "title": "Federal judge says Census count must keep going until Oct. 31 despite Trump administration efforts to cut it short",
+      "excerpt": "A federal judge in California has ordered the Trump administration to continue counting for the 2020 Census through Oct. 31, overriding the administration's efforts to shorten the timeline to submit results.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671",
+      "originalUrl": "https://abcnews.go.com/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/census-2020-01-ap-llr-201002_1601660075177_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671",
+      "publishedDateTime": "2020-10-02T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-trump-has-more-in-common-with-lincoln-than-you-might-think.md",
+      "title": "Trump has more in common with Lincoln than you might think",
+      "excerpt": "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
+      "originalUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trump_lincoln_08042020_1.jpg",
+          "width": 980,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
+      "publishedDateTime": "2020-10-02T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-pelosi-upbeat-on-relief-says-trump-illness-could-lift-roadblock.md",
+      "title": "Pelosi Upbeat on Relief, Says Trump Illness Could Lift Roadblock",
+      "excerpt": "U.S. House Speaker Nancy Pelosi said negotiations with the White House on a new stimulus will press ahead and President Donald Trump’s Covid-19 diagnosis might change the tenor of the talks by emphasizing the seriousness of the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/on-small-business/pelosi-upbeat-on-relief-says-trump-illness-could-lift-roadblock/2020/10/02/dd4ceac6-04c9-11eb-b92e-029676f9ebec_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/on-small-business/pelosi-upbeat-on-relief-says-trump-illness-could-lift-roadblock/2020/10/02/dd4ceac6-04c9-11eb-b92e-029676f9ebec_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6GKELOQEYQI6XOJOAKLHN6PL5Q.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-white-house-says-trump-not-incapacitated-working-from-isolation-pence-negative.md",
+      "title": "White House says Trump 'not incapacitated,' working from isolation; Pence negative",
+      "excerpt": "The White House tried to reassure Americans on Friday that President Donald Trump was still working from isolation, after his bombshell announcement that he had caught the coronavirus threw the administration and presidential election campaign into uncertainty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN26N0MX",
+      "originalUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN26N0MX",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 3384,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535828951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910W2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN26N0K4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26N0K4",
+      "publishedDateTime": "2020-10-02T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
     }
   ],
-  "nextPage": 8
+  "nextPage": null
 }

@@ -174,22 +174,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump mocks virus as he launches potential superspreader sprint to win reelection"
-    excerpt: "Donald Trump on Monday launched a three-week quest to save his presidency, behaving as though the pandemic that has killed 215,000 Americans was already a memory in front of a packed-in crowd -- even amid chilling new warnings about the resurgent virus.\n    \n"
-    publishedDateTime: 2020-10-13T10:57:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KtPeQduE-Q0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191650-03-trump-rally-sanford-fl-1012-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Senior officials urge Election Day patience, while Trump calls for fast results "
     excerpt: "Senior Department of Homeland Security officials on Tuesday urged patience from voters and warned that election results won't likely be known on Election Day this year -- comments that are in contrast with those of President Donald Trump, who has said he wants immediate results.\n    \n"
     publishedDateTime: 2020-10-21T00:39:26Z
@@ -665,6 +649,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump mocks virus as he launches potential superspreader sprint to win reelection"
+    excerpt: "(CNN)Donald Trump on Monday launched a three-week quest to save his presidency, behaving as though the pandemic that has killed 215,000 Americans was already a memory in front of a packed-in crowd ..."
+    publishedDateTime: 2020-10-13T09:25:00Z
+    webUrl: "https://edition.cnn.com/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 145
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191650-03-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration renews push for nuclear arms agreement with Russia before election"
     excerpt: "With only weeks to go until the general election, the Trump administration is renewing a push to finalize a nuclear agreement with Moscow, hoping that a deal may force China to reconsider its position on trilateral arms talks."
     publishedDateTime: 2020-10-12T15:49:00Z
@@ -824,6 +824,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015140856-leon-panetta-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Donald Trump's Support of Extremism and Conspiracy Theories"
+    excerpt: "Supported by Violent extremists and conspiracy theorists found their tribune in Donald Trump. By Jesse Wegman Mr. Wegman is a member of the editorial board. Kathleen Kingsbury, acting editorial ..."
+    publishedDateTime: 2020-10-17T06:37:00Z
+    webUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-extremism-conspiracy-theories.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-extremism-conspiracy-theories.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/16/opinion/trump-extremism-conspiracy-theories.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/16/opinion/16wegman/merlin_175022151_9253e8bd-74c3-4ce2-92f3-b9eef3de63ae-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump administration reverses course on California wildfire aid"
     excerpt: "The request was for September, when blazes scorched nearly 1.9 million acres, destroyed over 3,300 structures and killed at least 3 people."
@@ -1378,6 +1394,20 @@ related:
       - url: "https://compote.slate.com/images/36941fca-478c-4b21-a79c-db91ec071ba3.jpeg?width=780&height=520&rect=1559x1039&offset=0x0"
         width: 780
         height: 520
+        isCached: true
+  - title: "Losing Could Expose Trump to Prosecution for Any Number of Crimes"
+    excerpt: "Even if President Donald Trump loses on November 3, it’s hard to imagine that he’ll ever be convicted of any crime, much less serve time in prison. That’s because, first and foremost ..."
+    publishedDateTime: 2020-10-18T21:30:00Z
+    webUrl: "https://theintercept.com/2020/10/18/trump-election-crimes-prosecution/"
+    type: article
+    provider:
+      name: The Intercept
+      domain: theintercept.com
+    quality: 65
+    images:
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/10/trump-crime-2-2.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Here’s How the GOP Can Get Rid of That Trump Stench"
     excerpt: "Donald Trump is headed toward a massive defeat —at least, if any of the polls (or our eyes) are to be believed. What is more, there’s a decent chance a massive blue wave could do the unthinkable, sweeping even “safe” Republicans like South Carolina Senator Lindsey Graham out to sea."

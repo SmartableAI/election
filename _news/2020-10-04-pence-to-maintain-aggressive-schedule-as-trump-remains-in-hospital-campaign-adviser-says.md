@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-maintain-aggressive-campaign-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp"
 type: article
 quality: 190
-heat: 330
+heat: 310
 published: true
 
 provider:
@@ -77,22 +77,6 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump coronavirus adviser Atlas fires back against Redfield criticisms, says advice based on 'current science'"
-    excerpt: "EXCLUSIVE: Special Adviser to President Trump Dr. Scott Atlas fired back at criticisms leveled against him and his role on the Coronavirus Task Force on Monday, defending his record and expertise while maintaining that his advice to the president is based on the current science."
-    publishedDateTime: 2020-09-28T19:41:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06cH5nnVpj0/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

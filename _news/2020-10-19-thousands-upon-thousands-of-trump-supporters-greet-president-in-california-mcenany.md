@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hundreds gather for Trump caravan rally across Long Island"
-    excerpt: "The same group has held rallies across the area, with one notable rally in New York City where cars stopped in front of Trump Tower on Fifth Avenue to show support for the president."
-    publishedDateTime: 2020-10-25T19:28:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tVA30Pq6PoA/trump-caravan-rally-long-island"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-caravan-rally-long-island.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-caravan-rally-long-island.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ead988d3-9def-4271-a37a-79535f7a8bd7/3b50f3d2-ff89-47d2-82c2-b0ed3bfa2172/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump to follow Minnesota COVID rule limiting rally crowd to 250"
     excerpt: "The Trump 2020 campaign has limited its Friday rally attendee count in Minnesota to 250 people at state orders amid a spike in COVID-19 cases."
     publishedDateTime: 2020-10-30T13:44:10Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6010994002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6010994002"
 type: article
 quality: 117
-heat: 137
+heat: 177
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Incoming Sarasota School Board member getting backlash for calling Trump supporters ‘Nazis’"
+    excerpt: "The newest member of the Sarasota County School Board is facing backlash for calling Trump supporters Nazis in a 2017 Facebook post."
+    publishedDateTime: 2020-10-20T20:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/education/2020/10/19/sarasota-school-board-member-called-trump-supporters-nazis-2017/3710042001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3710042001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3710042001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/NSHT/c84afe4c-edcb-4ae9-946f-328495ddf94e-EdwardsTom_01.jpg?auto=webp&crop=4149,2334,x0,y399&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'"
     excerpt: "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president."
     publishedDateTime: 2020-10-18T18:14:00Z
@@ -44,6 +60,22 @@ related:
     quality: 107
     images:
       - url: "https://i.insider.com/5f8c7e90c21cfb0019468a88?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
+    excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
+    publishedDateTime: 2020-10-20T23:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5b74902142e1cc5b777140d9?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

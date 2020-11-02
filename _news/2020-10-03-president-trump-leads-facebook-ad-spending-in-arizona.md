@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/president-trump-leads-facebook-ad-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 295
+published: true
 
 provider:
   name: Fox News
@@ -31,53 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump team thinks Nevada is in play. Is it?"
-    excerpt: "The Trump campaign has been hitting Nevada harder than ever this election season, and they seem certain the state might be President Trump’s for the taking this November. "
-    publishedDateTime: 2020-10-02T20:04:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/85pFVFkLklI/trump-team-thinks-nevada-is-in-play-is-it"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp"
+  - title: "President Trump sends out video tweet after being discharged from Walter Reed"
+    excerpt: "President Trump tweeted out a football-themed video minutes after walking out of Walter Reed Medical Center and climbing aboard Marine 1 to return to the White House after spending the weekend battling COVID-19."
+    publishedDateTime: 2020-10-05T23:03:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U-ax0LbgIok/president-trump-video-discharged-football"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-video-discharged-football.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-video-discharged-football.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/donald-trump-nevada-2-AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump nabs endorsement from major Nevada newspaper"
-    excerpt: "The Las Vegas Review-Journal endorsed President Trump’s reelection over the weekend. "
-    publishedDateTime: 2020-10-06T19:15:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3hK_Bi2r5UQ/las-vegas-review-journal-endorses-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279850847067-1.jpg"
-        width: 4088
-        height: 2297
-        isCached: true
-  - title: "Wisconsin gov tells Trump to require masks at state rallies — or skip them"
-    excerpt: "Gov. Tony Evers suggested President Trump not come to Wisconsin for two campaign rallies this weekend, as the state struggles with record-breaking numbers of hospitalizations and new coronavirus cases."
-    publishedDateTime: 2020-09-30T20:16:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FfvgpRt-46w/wisconsin-governor-tony-evers-trump-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-governor-tony-evers-trump-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-governor-tony-evers-trump-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rising job opportunities for White working-class men could point to additional Trump support"
+    excerpt: "Following decades of declining job prospects, White men without a college education have seen employment opportunities rise, which has the potential to influence their ballot choices this election cycle."
+    publishedDateTime: 2020-10-09T12:12:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEIUeJ-6dmI/white-working-class-job-prospects-climb-trump-economy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/02/694940094001_6082525765001_6082528154001-vs.jpg"
+        width: 773
+        height: 435
+        isCached: true
+  - title: "Mike Pence and the GOP Mount a Last Stand in Arizona"
+    excerpt: "Most voters have made up their minds, so the Trump campaign is rallying the conservative ‘old guard.’"
+    publishedDateTime: 2020-10-09T21:29:00Z
+    webUrl: "https://www.wsj.com/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392"
+    ampWebUrl: "https://www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-243001/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Donald Trump: America's Vindictive and Delusional Leader"
     excerpt: "Although arrogant men have often occupied the Oval Office, the nation has never suffered a presidential ego quite so expansive as Donald Trump’s. In his mind, he is the state, his interests indistinguishable from those of the nation."
@@ -93,19 +91,33 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Why Do I Support Donald Trump? Look at His Record"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-10-09T03:03:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/09/why_do_i_support_donald_trump_look_at_his_record_525809.html#!"
+  - title: "Is Trump Now Down Double Digits?"
+    excerpt: "There was lots of oohing and ahhing on social media yesterday, following the release of a new NBC/WSJ poll showing Joe Biden opening up a 14-point lead over Donald Trump."
+    publishedDateTime: 2020-10-05T17:05:00Z
+    webUrl: "https://townhall.com/tipsheet/guybenson/2020/10/05/is-trump-down-double-digits-n2577441"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
+      name: Townhall
+      domain: townhall.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/52/523613_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/276/f9e1fd9b-6188-4fd2-be72-a4a764193fb9.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "A Strange Thing Happened to President Trump's Star on the Hollywood Walk of Fame"
+    excerpt: "While President Donald Trump battles the Wuhan coronavirus at the Walter Reed Medical Center, someone who despises the president decided to destroy his star on the Hollywood Walk of Fame."
+    publishedDateTime: 2020-10-04T18:24:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/a-strange-thing-happened-to-president-trumps-star-on-the-hollywood-walk-of-fame-n2577439"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 60
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2017/52/63d298b0-c2be-4ddf-b084-6001db337308.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "U5sEIJNdpmWeFFllL2Yhk/9vixtH8PIHM0AiJKsJetSJjRX3mbc0M5RyqfZwZz2DaMVy/ak/KbeuN3pj43udwp/mDzgkwwxnGNpn3dU3VzGxl9sqciEBg8Auc1Uy/gTAL//Hb/XhZj2kaE4UFlSz3dW9GIQHqdZcr37Pu7nIH3u7li5cLRgfZ/467pKlAafhbKtbwI1LN+/W+U0Kb+744GCH/fK+an1EggFenWyw7jFyaiB1WdHTiKdoZz/HrsvoxHtL+SLwENjHtbBBIEAVz9xq6MF0I0giLPKPb3MWsSo1yQmZULgsD8Dvmkydmni1xGTYBC624keqrDtuDetETtiZUfTXSsq4SL+Mwx9j5wU=;7WvCt9x0wq2pAknJDS3cTA=="

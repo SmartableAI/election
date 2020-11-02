@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.newsobserver.com/opinion/article246646338.html"
 cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article246646338.html"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Bay Area political events: Kamala Harris’ chief of staff, Rep. Mark DeSaulnier"
-    excerpt: "A conversation with Karine Jean-Pierre, chief of staff to Democratic vice presidential candidate Sen. Kamala Harris, and a town hall meeting with Democratic Rep. Mark DeSaulnier of Concord and Rep. Jamie Raskin,"
-    publishedDateTime: 2020-10-28T15:29:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Bay-Area-political-events-Women-in-politics-15675578.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Bay-Area-political-events-Women-in-politics-15675578.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Bay-Area-political-events-Women-in-politics-15675578.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 71
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/73/16/20165545/5/rawImage.jpg"
-        width: 2048
-        height: 1294
-        isCached: true
 
 secured: "yzdLupIoKOBkdALtNgwnhMmDzObXAwuf02Nhp6YxlUkAJaK5JNLcvPV/1te3rokVplXY7muiFxygn//nvHltOm3FvFpBPrelG+JxRDa46FbBEBu2BpNGvz1KTPnSoHhkJvUefALcU0CpyYlmejrLPXHuYcIr+kuAd4o6RLxaiVaPX7YoQkCAypOxfC4/A6eCqFLublNXZSd1vovBnzG/CLWfYizDwZjS0xtKRapVUOVgEadGGrJSCs9f2PGHWY6C8Gdmoq7qn79R6CBjYaQCuDtByc4oCjiaKRfd0xjIKxIMp85B+uD7GmO4NCpDuoe/i1ZKryIRzg7R53DS0tgcaTAmkN9w0+wyXFVgd59S0JyC7TqUT9Yb1rnfe1Sdu8XJhqVhdFTWs4s5kMELm54gXDw9dG9FM6Hyb/vTssZIIPm0lOY58+yiLoGdHErsl1xKXgm1J2MJG0w906MUjUwe5CnQ5S+VKn/s/tDLUcaAhZ7UPMcQDqySKh0pK3B/eDwYKESjlGiV1FY72hmUbVn8aQ==;aLLQ6QI2PwvtfyThD5biuA=="
 ---

@@ -29,19 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "UFC's Jorge Masvidal to join Donald Trump Jr. for 'Fighters Against Socialism' bus tour"
-    excerpt: "“The anti communism bus tour will be arriving at a city near you,” Masvidal tweeted."
-    publishedDateTime: 2020-09-29T22:29:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/czYJH2iqFmo/ufc-jorge-masvidal-donald-trump-jr-fighters-against-socialism-bus-tour"
-    ampWebUrl: "https://www.foxnews.com/politics/ufc-jorge-masvidal-donald-trump-jr-fighters-against-socialism-bus-tour.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ufc-jorge-masvidal-donald-trump-jr-fighters-against-socialism-bus-tour.amp"
+  - title: "Trump suggests he may hold weekend rallies in Florida, Pennsylvania after receiving green light from doctor"
+    excerpt: "President Trump told Fox News' Sean Hannity in an exclusive interview Thursday that his campaign is trying to make last-minute arrangements for holding weekend rallies in Florida and Pennsylvania after White House physician Dr. Sean Conley cleared him for public engagements earlier in the day."
+    publishedDateTime: 2020-10-09T03:23:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_2RIrOjhPn0/trump-weekend-rallies-florida-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9b8e4a1-a978-45b0-8497-7170a0b970a0/2b4239af-5bd7-4d53-a26b-839ad695c3d0/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03957425-562e-4a08-9416-8c97e308d3b0/bba0db18-ae44-4233-b350-ecf576d4d522/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Federal judge rejects Trump suit to block ballot drop boxes in Pennsylvania"
+    excerpt: "A federal judge in Pennsylvania rejected a lawsuit from the Trump administration to limit the number of drop boxes in the state for mail-in ballots. "
+    publishedDateTime: 2020-10-11T01:33:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MC1frMzaAB0/federal-judge-rejects-trump-suit-to-block-ballot-drop-boxes-in-pennsylvania"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/PA-Ballot-iStock.jpg"
         width: 1280
         height: 720
         isCached: true

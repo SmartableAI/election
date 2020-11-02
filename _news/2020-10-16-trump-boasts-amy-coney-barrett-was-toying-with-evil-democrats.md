@@ -31,67 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
-    excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
-    publishedDateTime: 2020-09-19T01:12:00Z
-    webUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump mulling Appeals Court judges Barbara Lagoa, Amy Coney Barrett for Supreme Court - source"
-    excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy opened up by the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
-    publishedDateTime: 2020-09-19T16:48:00Z
-    webUrl: "https://www.reuters.com/article/usa-courts-ginsburg-candidates/trump-mulling-appeals-court-judges-barbara-lagoa-amy-coney-barrett-for-supreme-court-source-idUSKCN26A0S8"
+  - title: "Senate panel sets October 22 vote on Trump court pick despite Democrats' protests"
+    excerpt: "The Republican-led U.S. Senate Judiciary Committee on Thursday scheduled an Oct. 22 vote to advance conservative appellate judge Amy Coney Barrett's nomination to the Supreme Court to the full Senate,"
+    publishedDateTime: 2020-10-15T21:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2701AT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2701AT"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 93
+    quality: 120
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20200919&t=2&i=1534134972&r=LYNXNPEG8I0NV&w=800"
-        width: 800
-        height: 532
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537566094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0SM"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate"
-    excerpt: "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri."
-    publishedDateTime: 2020-09-13T20:13:00Z
-    webUrl: "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp"
+  - title: "Nancy Pelosi defends shunning Donald Trump for a year after she walked out on their meeting last October"
+    excerpt: "The Speaker and President Trump have not spoken since October 16, 2019 after the two traded insults and the Pelosi walked out."
+    publishedDateTime: 2020-10-17T12:46:00Z
+    webUrl: "https://www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year"
+    ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 87
+    quality: 108
     images:
-      - url: "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Women Marchers Led By ‘The Handmaid’s Tale’ Protesters Voice Opposition On Trump Ticket, Amy Coney Barrett Nomination"
-    excerpt: "Mike Pence presidential ticket and the Supreme Court nomination of Amy Coney Barrett was coordinated Saturday by the Women’s March organization."
-    publishedDateTime: 2020-10-17T23:35:00Z
-    webUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/"
-    ampWebUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 52
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20291710573192.jpg?w=512"
-        width: 512
-        height: 341
+      - url: "https://i.insider.com/5f8ac006d260780019342001?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "YSwgi7l7HHLHg02G0xkAwH7YPjAAdmIeLY4NBkiPugoTyYpwlnFUvI+4XHrc+kee4LfXz1Kgd0icFAFKVr6//kHH60ZI83YncUTX8HU523FnUtWV6V31ym+XAtzpKoU25n24r4W9VhIz3lN0OmDGZP6IZ3NVY618biy1ts5UZ5VzK+m2J8MTKbJQ/FP+OGZzQPHgboEh3BAJ+L47SV/mBuw1hbxcdEbgNZJXXfXZzQgLoRTL4KqwRihiGNYUBlOWYaHPE0HcloB6l56UylUaZ9iSs+tLlnaZCSffUBSO64NcX5m6Nm/+qXTaMkFfUcztX5WdEK7Zy97MrfOdtszP+2A4O6Vr2xg5Vy/oj0GuhDs=;UtG/YvwYWjtjr0ezb1d+Qg=="

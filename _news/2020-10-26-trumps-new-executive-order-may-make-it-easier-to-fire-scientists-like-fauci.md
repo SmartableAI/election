@@ -31,101 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump calls Fauci a 'disaster' and seeks to reassure his team he can win"
-    excerpt: "President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday, airing his frustration with the scientist during a call meant to reassure campaign staff he has a path to victory on Nov."
-    publishedDateTime: 2020-10-20T08:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2742AD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742AD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742AD"
+  - title: "What to make of the 'kinder, gentler' Donald Trump"
+    excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
+    publishedDateTime: 2020-10-25T17:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump"
+    ampWebUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538074915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I1MX"
-        width: 799
-        height: 545
+      - url: "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Trump reportedly slammed Anthony Fauci as 'a disaster' on a campaign phone call"
-    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said on a call, CNN reported. \"People are tired of hearing Fauci and all these idiots.\""
-    publishedDateTime: 2020-10-20T00:34:00Z
-    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+  - title: "President Trump claimed during the debate the GOP will take back the House. That is unlikely."
+    excerpt: "\"I think we're going to win the House,\" Trump said during the debate. That is contrary to what most election experts think."
+    publishedDateTime: 2020-10-23T03:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/president-trump-claimed-gop-take-back-house-unlikely/3738018001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3738018001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738018001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 121
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
     images:
-      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "UPDATE 1-Trump calls Fauci a 'disaster' and seeks to reassure his team he can win"
-    excerpt: "U.S. President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday and sought to reassure campaign workers he still has a path to victory on Election Day 15 days away despite slipping opinion poll numbers."
-    publishedDateTime: 2020-10-19T17:38:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-idUSL1N2HA15G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742AD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742AD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538059176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I1FP"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "President Trump reportedly slammed Anthony Fauci as \"a disaster\" in a campaign phone call"
-    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said. \"People are saying whatever. Just leave us alone.\""
-    publishedDateTime: 2020-10-19T16:25:00Z
-    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump is lashing out at Fauci — and is ‘clearly in a place of desperation’: CNN political analyst"
-    excerpt: "President Donald Trump on Tuesday lashed out at Dr. Anthony Fauci after America’s top infectious disease expert objected to the Trump campaign taking his past statements out of context and using them in an election ad."
-    publishedDateTime: 2020-10-13T15:03:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 62
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/03/trumpfauci.jpeg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "WATCH: Trump Rally Crowd Boos Dr. Fauci as President Calls Him a ‘Nice Guy,’ Then Trashes Him as ‘A Democrat’"
-    excerpt: "President Donald Trump supporters erupted into boos at his Thursday rally after the president called Dr. Anthony Fauci a \"nice guy\" before trashing him as \"a Democrat.\""
-    publishedDateTime: 2020-10-15T19:32:00Z
-    webUrl: "https://www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/"
-    ampWebUrl: "https://www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 56
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Outnumbered-Overtime-With-Harris-Faulkner-01_54_30-PM-1200x675.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/61a04f09-915d-4eaa-9561-f18c06b3efdd-XXX__AN55555.JPG?auto=webp&crop=5003,2814,x1,y112&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Hometown hate: From the start, Trump has wielded the power of the federal government to hurt NYC"
+    excerpt: "It’s a relatively new Donald Trump tic: to exclaim that his beloved hometown is dying, what with all the restrictions designed to prevent the spread of COVID. We suppose he’d prefer planes full of people (from where,"
+    publishedDateTime: 2020-10-25T19:46:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 62
+    images:
+      - url: "https://www.nydailynews.com/resizer/Bgr0qo_yCZ83rRbUXIEhS3Ci6ZI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NFONZQZR3RDDJKGPUQZJLP2N6Y.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "How Donald Trump threatens the retirement of every American worker"
+    excerpt: "Tom Michels worked 31 years at LTV's iron ore mine in northern Minnesota — and had already started making retirement plans — when the company's bankruptcy wiped out his job and most of his hard-earned pension."
+    publishedDateTime: 2020-10-23T08:43:00Z
+    webUrl: "https://www.salon.com/2020/10/23/how-donald-trump-threatens-the-retirement-of-every-american-worker_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 55
+    images:
+      - url: "https://media.salon.com/2018/08/trump-fox-and-friends2.jpg"
+        width: 846
+        height: 571
         isCached: true
 
 secured: "c30j+HMXCgxuCIa33UoND4K6E54kaTricqxffP9DmYeqB3sj64u5ywtGl56xXz8P/oyoT4nfZR0tSR2VvwYOihsSzucH5yfAUfsOR/YbQTTQVsHArHLnlT9n4ttPJSgdta1TsWxA4YjaAqtoAqyfjNMXcthTYFbz0XNeWwpPdLrAfyRBSHL5bGwNOg82nI5l6VnBb+VeVrzn/fFeTT3/wFsZ2sev0fTWzI8VmnZw7yvwP9neypBqYMd7BqvYcQ9n8KlRXP4GjsCkCSSq92t3kzXPx+fLFMKmFjS4jvpSZ8PwhlGzu1oYEXy0iDzBHQPKpFS1kCiwUvCHeauMp+j20fAGHTxf5Tt4AaDRMSwhrtQ=;aNxjxIzVK8snBjSZen7LeA=="

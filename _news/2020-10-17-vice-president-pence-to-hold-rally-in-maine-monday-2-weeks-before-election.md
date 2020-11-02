@@ -59,6 +59,33 @@ related:
         width: 2000
         height: 1694
         isCached: true
+  - title: "Vice President Mike Pence schedules campaign rally in Flint Wednesday"
+    excerpt: "Vice President Mike Pence is coming back to Michigan Wednesday with only six days left until the Nov. 3 presidential election. The Trump campaign announced Pence will hold a campaign rally at Bishop International Airport in Flint on Oct."
+    publishedDateTime: 2020-10-26T17:26:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/vice-president-mike-pence-schedules-campaign-rally-in-flint-wednesday.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2AUJ4FPUWVA7PJPYE6YQN23GGQ.JPG"
+        width: 1300
+        height: 867
+        isCached: true
+  - title: "Vice President Mike Pence To Campaign In Oakland County Thursday"
+    excerpt: "(CBS DETROIT) – Vice President Mike Pence is returning to Michigan Thursday for a campaign rally. The visit comes less than two weeks before Election Day and before the second presidential ..."
+    publishedDateTime: 2020-10-22T16:12:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
+    type: article
+    provider:
+      name: CBS Detroit
+      domain: cbslocal.com
+    quality: 55
 
 secured: "fLSDfJuaENmOKFj99ITaal1cymEWK1B8RzW1koufZ8ElpQYKGe/qpgClVrfGDZw/2ScWWWQc7pBXkOK+cWieW3HGt+fuB2pRXyWlTQOSwtIflIP9b5/EqPbEDHu/sgidECx+inuBZAtUTmLSvg4zpjmq9eUaGDNd1U9RW0NTsFUU4phPvjebNFI09T/Pa/p2Lbk/toQ5Y2Hyjao6Z0VyDamvAHP0/qVEtxu6RwLgWycHbkYfM5a4VXbN1sjnNIQANEHllqVrdmZmFuZ2K+kQuIWcmGgRmAAnwMpCV278ECkIBQuhpxn8WQ8h/CpD0RvM2MuzVMZIlCCFJUjIjG295BukJAbsrmtxbDCbxe5zq8I=;ZM2ckKg23vFW0lZC671FYQ=="
 ---

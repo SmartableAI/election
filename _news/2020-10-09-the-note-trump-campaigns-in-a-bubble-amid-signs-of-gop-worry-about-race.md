@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
 type: article
 quality: 124
-heat: -1
-published: false
+heat: 164
+published: true
 
 provider:
   name: ABC
@@ -31,98 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Texas man accused of punch amid Trump argument turns self in"
-    excerpt: "Authorities say a Texas man who was seen on video punching another man as they argued over President Donald Trump has turned himself in after police obtained a warrant for assault"
-    publishedDateTime: 2020-10-05T11:39:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562"
+  - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
+    excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
+    publishedDateTime: 2020-10-07T02:35:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 67
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_2dac7a77f4fb432388b1632ccc3281f2_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg"
+        width: 800
+        height: 430
         isCached: true
-  - title: "Trump accuser E. Jean Carroll files motion against Justice Department"
-    excerpt: "Former Elle columnist E. Jean Carroll is fighting the Justice Department’s attempt to substitute for President Donald Trump as the defendant in her defamation lawsuit."
-    publishedDateTime: 2020-10-06T04:01:00Z
-    webUrl: "https://abcnews.go.com/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015"
-    ampWebUrl: "https://abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015"
+  - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
+    excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
+    publishedDateTime: 2020-10-15T18:30:00Z
+    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2020-10-15/trump-gop-leaders-will-appeal-north-carolina-ballot-ruling"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/E-Jean-Carroll-01-AP-ib-200807_1596832650350_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "As Trump holds rally, Fauci urges masks, avoiding mass gatherings"
-    excerpt: "As President Donald Trump held his first campaign rally since disclosing he contracted the coronavirus this month, top U.S. infectious disease expert Anthony Fauci said the United States faced a \"whole lot of trouble\" if it did not encourage universal wearing of face"
-    publishedDateTime: 2020-10-13T06:00:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-fauci-idUSKBN26X2K4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2K4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2K4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537204245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C019"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Trump tax returns: Reality show businessman turns America's loser in chief"
-    excerpt: "How did Donald Trump bankrupt his presidency and fail to save America from COVID-19? Answers lie in his success in dodging taxes and debts."
-    publishedDateTime: 2020-09-29T17:27:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/29/trump-tax-returns-reality-show-loser-businessman-editorials-debates/3565963001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3565963001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565963001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/f065e03b-91bf-4678-aad0-a2161d916085-Trump.jpg?auto=webp&crop=5087,2861,x0,y423&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Donald Trump Took Down Bonwit Teller, A Fifth Avenue Landmark"
-    excerpt: "When a young Donald Trump wanted to locate his Trump Tower on Fifth Avenue, he targeted and purchased the famous Bonwit Teller apparel store. But the store's demolition drew controversy as several pieces of art,"
-    publishedDateTime: 2020-10-03T13:03:00Z
-    webUrl: "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76773dd654b423dfece1b5%2F0x0.jpg"
-        width: 1199
-        height: 797
-        isCached: true
-  - title: "As Donald Trump Heads Back to Work in the Oval Office, His Colleagues Face 'A Dangerous Moment'"
-    excerpt: "Trump's decision to work from his office was seen by many as another example of the President's disregard for those around him."
-    publishedDateTime: 2020-10-07T22:46:00Z
-    webUrl: "https://time.com/5897557/donald-trump-oval-office-coronavirus/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 93
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/donald-trump-back-in-the-oval-office-02.jpg"
-        width: 2400
-        height: 1550
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "PG12FNC4OlV/GGEyw3vBXH2KOcT86OzmmT66Zr1aNgQsisU2HXN9baHfmiBcpJmmu528xWz2ZiC6sQl4DBIMY1N/9E7wbSxxRf8O45rUdOKAOt4a2rArKUdBs+Qk9UzRbFuVXNBApXu1YQbsCEOCs5Px/yivkv1iXtXIhACTFWGM3wbFAQc8fsPav3DrcwhsFgqpAVV/8TDdokW9HaP8b4sKSaRyRpjnA9yVMLjhRILl2AiVCo/oAesgct+YwfQ8PdNio0Yd0pC+wluQQP3eABigCGLgEqcyYmgSquxLQjQua3IKOtkZQANS65fVYOSjecYw3dyL3p4Uo6QEo2Kw18+yj2u2WQNXsVmoZz8GCYtfAHv8zzhwoxN9lGfvTypMdKgJ2PTJp76UEFh+kUQaGkRqniqWQnH4FipUnROBEgb8qazxlsCr5m1u4lchn1u8CMYMcOPL+6g7G7UXwOIO7XN1gujkWVHJcp9a5nsLjkqWkBCzFmYX6GbgJdfFCi5RtBAiGom+gGhvN/BYJQRYQw==;3H1NOafNnwgF/xPT+OdAmQ=="
 ---

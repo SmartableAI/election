@@ -63,38 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AP FACT CHECK: Trump and his familiar falsehoods"
-    excerpt: "President Donald Trump says Mexico is paying for the wall (it isn’t), health care choice for veterans came from him (it didn’t) and his tax cut stands as the biggest in American history (nowhere close)."
-    publishedDateTime: 2020-10-26T04:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-familiar-falsehoods-73826161"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-familiar-falsehoods-73826161"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-familiar-falsehoods-73826161"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_88494b7b4bf24725b9ae00ddd880a442_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "AP FACT CHECK: Trump and his oh-so-familiar falsehoods"
-    excerpt: "These are among his touchstones — the falsehoods that span his presidency — and he's giving them another go in the final days of his relentless campaigning. He's got fresher false material, too, claiming “incredible” numbers in the pandemic response despite record infections,"
-    publishedDateTime: 2020-10-26T04:27:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-trump-familiar-falsehoods-73828678"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-familiar-falsehoods-73828678"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-familiar-falsehoods-73828678"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_88494b7b4bf24725b9ae00ddd880a442_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Fact-check: Did Trump's 'Liberate Michigan' Tweet Inspire Plot to Kidnap Gov. Whitmer?"
     excerpt: "The governor of Michigan has linked the plot to kidnap her to President Donald Trump's rhetoric during the pandemic."
     publishedDateTime: 2020-10-09T10:46:00Z
@@ -143,35 +111,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Donald Trump left hospital to wave to crowd from SUV outside Walter Reed"
-    excerpt: "President Donald Trump left the hospital minutes after tweeting that he was going to surprise supporters outside Walter Reed."
-    publishedDateTime: 2020-10-04T23:19:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/04/president-trump-makes-surprise-visit-suv-outside-walter-reed/3619686001/"
+  - title: "Trevor Noah Knows How Trump Could Have Avoided This Debate Debacle"
+    excerpt: "If Trump didn’t want to do a virtual debate, you know what he could have done? Not gotten coronavirus, motherfucker!”"
+    publishedDateTime: 2020-10-09T12:39:00Z
+    webUrl: "https://www.vanityfair.com/hollywood/2020/10/trevor-noah-trump-virtual-debate"
+    ampWebUrl: "https://www.vanityfair.com/hollywood/2020/10/trevor-noah-trump-virtual-debate/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2020/10/trevor-noah-trump-virtual-debate/amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 99
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/a1626c6f-f577-4a36-aee8-a0aa4e3b95ec-Screen_Shot_2020-10-04_at_6.59.46_PM.jpg?quality=10"
-        width: 2062
-        height: 1154
-        isCached: true
-  - title: "An actual clown on the debate: 'I hope we can set the record straight on what clowns actually are, and they are not Donald Trump'"
-    excerpt: "Actual clown Tim Cunningham told Business Insider that clowns are virtuosos, not at all like Donald Trump. 'When I heard it, I laughed out loud.'"
-    publishedDateTime: 2020-10-01T01:09:00Z
-    webUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5f74e45074fe5b0018a8e596?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://media.vanityfair.com/photos/5f8055e5d070eec8d50f0da7/master/pass/Screenshot%202020-10-09%20at%208.18.16%20AM.png"
+        width: 1919
+        height: 927
         isCached: true
 
 secured: "enExae5gD/1+4JZ1K3y4bbYJmjUmR3Be0KP+svFtuVu2QVYzyA+Y6Asl7vKZJFt2teS8ELWGHOVLCNh1hae+V4xxI+V8RhTEHYsxcERdqqdcfGJWl21cLI3SM5U+trf4524+KnUdL3cUt+gIH29TqcwRhpSmR+hK7F+TIy8lPtx+gNtO1ZiPZnINljxB6xIZd/gtMbgRLaAnlsXFS/u8vWN9xQcYuEoTX1YAFjHu/KZUV0NQT7rVUKm+iVGTehARw1UHLDQRQS74GJvaHS7PSAoJ7Fp+v5aqP3er/m/XO8qf+TnwFdBcJzNOgEhqgXX/A+EP9UJRyHXRYrx8/kpa/IC1u2OOb9dgFBoRdCC/nwc=;zT380pVmpylutEBFqHbFwA=="

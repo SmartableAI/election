@@ -192,6 +192,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden tells Pennsylvania rally COVID-19 deaths, cases would be lower if Trump had consistently worn a mask"
+    excerpt: "Former Vice President Joe Biden criticized President Trump's mask-wearing habits on Sunday, telling a Pennsylvania rally that the impact of the COVID-19 pandemic wouldn't have been as great if Trump had been better about wearing one."
+    publishedDateTime: 2020-11-02T00:58:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGCbg6vsXhw/biden-covid-deaths-trump-mask"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-deaths-trump-mask.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-deaths-trump-mask.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/770a34bb-ca60-44e4-9bc0-be2c339d4343/f84ea96a-50e1-4131-9578-95531fcec7e6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fox News Poll: Majority trusts Biden on COVID, half say virus is out of control"
+    excerpt: "Less than a week before Election Day, the electorate’s outlook is gloomy. More than 6-in-10 rate economic conditions negatively and only about 2-in-10 think coronavirus is under control in the U.S., according to the latest Fox News national survey of likely voters. "
+    publishedDateTime: 2020-11-01T14:00:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qN51gO6Y4GU/fox-news-poll-majority-trusts-biden-on-covid-half-say-virus-is-out-of-control"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-poll-majority-trusts-biden-on-covid-half-say-virus-is-out-of-control.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-poll-majority-trusts-biden-on-covid-half-say-virus-is-out-of-control.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Joe Biden’s Covid Fairy Tale"
     excerpt: "His plan seems to be to wait until a magical sprite waves her wand and makes the virus vanish in a poof."
     publishedDateTime: 2020-10-29T23:20:00Z
@@ -256,28 +288,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Joe Biden disavows New Green Deal co-sponsored by Kamala Harris"
-    excerpt: "Democratic nominee Joe Biden needs to have a sit-down with his running mate, Sen. Kamala Harris of California."
-    publishedDateTime: 2020-09-30T03:55:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 80
-  - title: "Biden accidentally refers to Harris-Biden administration"
-    excerpt: "Democratic presidential nominee Joe Biden mistakenly promoted running mate Kamala Harris, elevating her to the top of their ticket."
-    publishedDateTime: 2020-09-22T10:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-accidentally-refers-to-harris-biden-administration?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
   - title: "Kamala Harris: Woman of firsts and star of the Democratic Party"
     excerpt: "Democratic vice presidential nominee California Sen. Kamala Harris is largely described in terms of her firsts. She is the first woman of color on a presidential ticket, who, if elected, would be the first woman just a heartbeat from the Oval Office."
     publishedDateTime: 2020-10-19T21:47:00Z

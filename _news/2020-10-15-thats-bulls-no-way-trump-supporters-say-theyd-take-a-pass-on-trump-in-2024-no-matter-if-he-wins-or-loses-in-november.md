@@ -109,6 +109,70 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facebook just removed Trump's post falsely claiming that Covid is less deadly than the flu"
+    excerpt: "The president's post violated Facebook's rules on COVID-19 misinformation, which bans false claims about the severity of the virus."
+    publishedDateTime: 2020-10-06T15:31:00Z
+    webUrl: "https://www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f7c8637282c500018c78d16?width=1200&format=jpeg"
+        width: 534
+        height: 267
+        isCached: true
+  - title: "Facebook just removed Trump's post falsely claiming that COVID-19 is less deadly than the flu"
+    excerpt: "President Donald Trump's post violated Facebook's rules on coronavirus misinformation, which bans false claims about the severity of COVID-19."
+    publishedDateTime: 2020-10-07T00:20:00Z
+    webUrl: "https://www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f7c8637282c500018c78d16?width=1200&format=jpeg"
+        width: 534
+        height: 267
+        isCached: true
+  - title: "Mike Pence touts Donald Trump's Supreme Court pick at Wisconsin rally"
+    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
+    publishedDateTime: 2020-10-13T19:47:00Z
+    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.html"
+    ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 100
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/84/08445a8c-87a2-5c8a-9a36-c7fcbd793e7e/5f8603fe6cff5.image.jpg"
+        width: 512
+        height: 360
+        isCached: true
+  - title: "Pence touts Trump's Supreme Court pick at Wisconsin rally"
+    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
+    publishedDateTime: 2020-10-13T19:22:00Z
+    webUrl: "https://www.chron.com/news/article/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 100
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/53/75/20102983/5/rawImage.jpg"
+        width: 1527
+        height: 2048
+        isCached: true
   - title: "Trump officials, while painting a rosy picture in public, warned conservative allies that coronavirus could harm economy"
     excerpt: "On television, Larry Kudlow was optimistic. \"We have contained this,\" President Donald Trump's top economic advisor said of the coronavirus."
     publishedDateTime: 2020-10-15T03:00:00Z
@@ -125,21 +189,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Twitter said it had to temporarily lock Trump's account after he shared a columnist's email address, violating the company's policies"
-    excerpt: "Twitter confirmed that it locked Trump's account after he shared the email address of a journalist to his 87 million followers."
-    publishedDateTime: 2020-10-07T04:19:00Z
-    webUrl: "https://www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10?amp"
+  - title: "Vulnerable GOP senator says Trump ‘let his guard down’ about COVID-19"
+    excerpt: "A vulnerable Republican senator on Monday broke with President Donald Trump and suggested that he botched his messaging of the COVID-19 pandemic. In an interview with the Houston Chronicle editorial board,"
+    publishedDateTime: 2020-10-05T19:47:00Z
+    webUrl: "https://www.rawstory.com/2020/10/vulnerable-gop-senator-says-trump-let-his-guard-down-about-19/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/vulnerable-gop-senator-says-trump-let-his-guard-down-about-19/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/vulnerable-gop-senator-says-trump-let-his-guard-down-about-19/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
     images:
-      - url: "https://i.insider.com/5f7cb1ff94fce90018f7b6dc?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/03/John-Cornyn.jpg"
+        width: 800
+        height: 430
         isCached: true
   - title: "Does Trump merit the hatred? Let us count the ways"
     excerpt: "The passion many feel for removing Donald Trump from the presidency is so intense that some of his partisans mock it as derangement. The hatred is unprecedented in recent history, far exceeding anything suffered by also-reviled predecessors Barack Obama,"
@@ -172,6 +236,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-16.jpg"
         width: 1200
         height: 624
+        isCached: true
+  - title: "Trump's Medical Condition: What We Know And Don't Know About His Status Amid Confusion Over Privacy"
+    excerpt: "Doctors are being coy on whether Trump has suffered lung damage from COVID-19 and when exactly he last tested negative."
+    publishedDateTime: 2020-10-05T22:15:00Z
+    webUrl: "https://www.ibtimes.com/trumps-medical-condition-what-we-know-dont-know-about-his-status-amid-confusion-over-3057143"
+    ampWebUrl: "https://www.ibtimes.com/trumps-medical-condition-what-we-know-dont-know-about-his-status-amid-confusion-over-3057143?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-medical-condition-what-we-know-dont-know-about-his-status-amid-confusion-over-3057143?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/us-president-donald-trump-was-said-to-be.jpg"
+        width: 1024
+        height: 646
         isCached: true
   - title: "Collins: Maskless Trump Set a Poor Example at White House"
     excerpt: "Republican U.S. Sen. Susan Collins of Maine says she was “shocked” to see President Donald Trump discharged from the hospital so soon."
