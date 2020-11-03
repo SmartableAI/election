@@ -31,131 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Trump makes return to much-changed Mar-a-Lago"
-    excerpt: "In Mar-a-Lago's disco-lit main ballroom, he watched as a large crowd serenaded his son's girlfriend while sparklers flared. On the stone dining patio, he hosted the Brazilian President for talks as diners sat at tables nearby, crammed together like normal. Eager to appear like everything was fine, he"
-    publishedDateTime: 2020-10-23T19:14:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdXyqyBUghg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html"
+  - title: "The Point: Marco Rubio goes full Trump on election eve"
+    excerpt: "Even as some ambitious 2024 Republicans have begun to distance themselves from Donald Trump's version of, uh, conservatism, Florida's Sen. Marco Rubio offered the equivalent of a bear hug for the incumbent just 48 hours before Election Day. \n    \n"
+    publishedDateTime: 2020-11-02T23:30:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190128124838-01-marco-rubio-dec2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump just keeps driving in the wrong direction"
+    excerpt: "With just 23 days until the 2020 election, here's my latest roundup of the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
+    publishedDateTime: 2020-10-11T20:05:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2SonSDP_rus/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/us-election-2020-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/us-election-2020-week-ahead/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200527133726-trump-bolsonaro-0307-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011150015-donald-trump-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration removes gray wolf from endangered species list"
-    excerpt: "The Trump administration is dropping the gray wolf from the endangered species list under the assertion that the animal's population has sufficiently recovered, a move conservation groups decry as shortsighted and promise to challenge in court.\n    \n"
-    publishedDateTime: 2020-10-29T20:45:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lfIqmsf742c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/trump-administration-gray-wolf-endangered-list/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/trump-administration-gray-wolf-endangered-list/index.html"
+  - title: "The Point: This chart shows why Trump is *so* dangerous to the GOP"
+    excerpt: "Win or lose in eight days' time, President Donald Trump's lasting legacy on the Republican Party will be a shrinking base that looks less and less like the country.\n    \n"
+    publishedDateTime: 2020-10-26T22:32:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/clzMhlHtFIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-trump-graph/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-trump-graph/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180720124911-08-endangered-species-act-grey-wolf-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142442-02-trump-rally-pa-1026-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump seems to strike a new tone on masks: 'If you get close, wear a mask'"
-    excerpt: "President Donald Trump struck a slightly a new tone on mask-wearing at a rally on Thursday, telling a group of largely maskless, shoulder-to-shoulder supporters that he thinks wearing a mask is appropriate when social distancing isn't possible.\n    \n"
-    publishedDateTime: 2020-10-29T21:53:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/320rlFYwXBY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/trump-masks-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/trump-masks-election-2020/index.html"
+  - title: "The Point: The absolutely bonkers threat Donald Trump made this week"
+    excerpt: "At a rally in Allentown, Pennsylvania, on Tuesday, President Donald Trump said something incredible -- even by his standards.\n    \n"
+    publishedDateTime: 2020-10-27T18:22:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0kZocpA_jeU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029155018-01-trumps-tampa-1029-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142449-03-trump-rally-pa-1026-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration pushes allies to pressure China over its nuclear program"
-    excerpt: "The Trump administration is working to pressure NATO allies to collectively crackdown on China's nuclear program as it looks to limit Beijing's growing influence in the global arms race.\n    \n"
-    publishedDateTime: 2020-10-29T20:52:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sk502hws9xY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/us-china-nuclear-pressure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/us-china-nuclear-pressure/index.html"
+  - title: "The Point: This is how Donald Trump gets to 270"
+    excerpt: "With just 2 days until the 2020 election, this is the last Sunday newsletter before the country votes. The 5 BIG storylines you need to know to understand the last week on the campaign trail are below. They're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
+    publishedDateTime: 2020-11-01T19:51:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mu9IWOs20X4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200126113335-01-china-missiles-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031142107-02-trump-1030-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration has filed 75 lawsuits to seize land for border wall during the pandemic"
-    excerpt: "Within the last six months, as the coronavirus pandemic gripped the US, the Trump administration filed 75 lawsuits to seize private land along the US-Mexico border for the border wall, according to data reviewed by CNN from the Texas Civil Rights Project.\n    \n"
-    publishedDateTime: 2020-10-29T09:27:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QYUlitKOsis/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/border-wall-texas-pandemic/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/border-wall-texas-pandemic/index.html"
+  - title: "The Point: This Republican senator is taking being pro-Trump to a whole other level"
+    excerpt: "Georgia Republican Sen. Kelly Loeffler was apparently on another planet or something during the 2016 presidential race.\n    \n"
+    publishedDateTime: 2020-10-29T14:27:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnE3hm97Sm4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/kelly-loeffler-donald-trump-georgia-senate-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/kelly-loeffler-donald-trump-georgia-senate-race/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200110150124-us-mexico-border-wall-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016183832-kelly-loeffler-1015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Already in a health care ditch, Trump gets shovel, keeps digging"
-    excerpt: "Trump's health care comments to \"60 Minutes\" were a mess. His related rhetoric during the presidential debate wasn't any better."
-    publishedDateTime: 2020-10-23T16:56:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/already-health-care-ditch-trump-gets-shovel-keeps-digging-ncna1244551"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244551"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244551"
+  - title: "The Point: Donald Trump Jr. put a perfect exclamation point on his father's bungling of Covid-19"
+    excerpt: "Appearing on Laura Ingraham's Fox News show Thursday night, Donald Trump Jr. was asked about Dr. Sanjay Gupta's recommendation that anyone who attends a campaign rally for the President self-quarantine for two weeks.\n    \n"
+    publishedDateTime: 2020-10-30T15:06:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5snpTHKONc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 162
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_18/2800321/190327-obamacare-mc-mc-828_5bc91cbc317e1ed253c83b660125e6dc.JPG"
-        width: 2500
-        height: 1684
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200824223931-109-rnc-monday-trump-jr-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short"
-    excerpt: "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\""
-    publishedDateTime: 2020-10-24T00:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244167"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167"
+  - title: "Trump has cast doubt on a peaceful transfer of power, but the preparation for one is well underway"
+    excerpt: "President Donald Trump has cast doubt on whether he will commit to a peaceful transfer of power should Democrat Joe Biden win the election, but the secretive process to prepare a would-be Biden administration has been underway for months with help from top Trump officials.\n    \n"
+    publishedDateTime: 2020-10-31T20:07:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SDfDUYsH6S4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
+      name: CNN
+      domain: cnn.com
+    quality: 161
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421859/201021-donald-trump-ew-145p_33980ba252755dffd3445498e1c818e0.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "‘Doesn’t that make me a smart guy?’: Trump defends Chicago business deals after NYT report"
-    excerpt: "The president’s latest tweet closely resembles other arguments he has employed in response to news accounts of his financial records."
-    publishedDateTime: 2020-10-28T20:06:00Z
-    webUrl: "https://www.politico.com/news/2020/10/28/trump-chicago-business-deals-nyt-report-433198"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 105
-    images:
-      - url: "https://static.politico.com/96/b8/f71768494a18998a63f902da97c6/201028-trump-tower-chicago-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030141258-03-biden-trump-election-night-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "s0MyKYkGMG/HplBa0OkjSjDlknIMaV+rKgHMgDBQXrVWT+y8pAV2nYraqSJkFfJba9M4BTjR5EZNPEUYKmr9ITXBFALLaP3Ejc3SFgZHQ4rYWlxT+JVnbll6qi3l+cBSFTuDdwwNfQcp6qcaKdF5Y1Z3PgbWHfS3DjyvwzE8AiWVmamldH893IXlOGUa3wXqrEhoV1Mn6PVDvHYdKBMpeIlBGc/wAjhIlCHA/IF2B65T/dLg87hYljtw4I0DeCYzQrFQBcr9sR8fDcYq3LnWIRxHf/Idq2G/HFCDcNHYamiBV5hNGuusjUener4h8hWZJI2oUsQR3qvrwygNzcnYVaHMXkNGU9GaPETaq/61v00=;zs2d3KYVwqOaKIjs9Uq4/w=="

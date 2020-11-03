@@ -527,6 +527,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Eric Trump and Donald Trump Jr. spread false information in run up to election"
+    excerpt: "As two of his top surrogates, President Donald Trump's eldest sons, Donald Trump Jr. and Eric Trump, have spread a significant amount of false information this campaign season on topics ranging from the coronavirus, to their father's alleged successes, to attacks against his Democratic opponent former"
+    publishedDateTime: 2020-11-02T23:47:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9msZ_0NcDnY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/eric-trump-donald-trump-jr-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/eric-trump-donald-trump-jr-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204073854-donald-trump-jr-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden draws contrast with Trump on coronavirus as pandemic worsens in campaign's final days "
     excerpt: "Democratic presidential nominee Joe Biden sought Wednesday to make the differences in how he and President Donald Trump have approached the coronavirus pandemic a part of his closing message, sitting for a briefing with health experts and addressing the crisis as Trump campaigned out West as if it was"
     publishedDateTime: 2020-10-28T20:00:47Z

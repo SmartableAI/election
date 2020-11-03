@@ -340,6 +340,20 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Trump campaigns for swing state voters in battleground tour"
+    excerpt: "President Trump is trailing behind Joe Biden in many battleground states on the eve of the election, but with mail-in ballots in Pennsylvania counted up to three days after Election Day, Mr. Trump is promising a legal fight."
+    publishedDateTime: 2020-11-03T00:33:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-campaigns-for-swing-state-voters-in-battleground-tour/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/2ced17af-0948-4014-b28e-c7dc51e1161d/thumbnail/1200x630/2ef01a72c72bd26c6379f9dc01c33b46/1102-en-weijia-579242-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris: 'Joe Biden is going to live a long life'"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris says voters can rest assured that Joseph R. Biden, 77, will live a “long life” because he’s strong in both “spirit” and “body.”"
     publishedDateTime: 2020-10-27T18:36:00Z

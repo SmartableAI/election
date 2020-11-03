@@ -1327,6 +1327,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden brings 'anti-fracking activist' Lady Gaga to PA rally, draws Trump campaign criticism"
+    excerpt: "In a scathing press release, the Trump campaign noted that Lady Gaga had shared a link to the group “Artists against Fracking” on her Facebook page in 2012."
+    publishedDateTime: 2020-11-03T00:08:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WEmAp59GzY/biden-anti-fracking-activist-lady-gaga-pa-rally-trump-campaign-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-anti-fracking-activist-lady-gaga-pa-rally-trump-campaign-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-anti-fracking-activist-lady-gaga-pa-rally-trump-campaign-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/948565b5-fec4-48a4-9ff6-cf0c6c6d3e20/78478623-b6db-4be8-846f-749ed364db01/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says 'good chance' coronavirus vaccine ready in weeks, as Biden predicts 'dark winter'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden met for their second and final presidential debate before the Nov. 3 election, immediately jumping into the impact of the coronavirus."
     publishedDateTime: 2020-10-23T01:50:47Z
@@ -1566,6 +1582,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump-Biden highway incident in Texas may have been white SUV's fault, police say; more investigation planned"
+    excerpt: "A white SUV, not a black, pro-Trump vehicle, appeared to be at fault in a now-viral highway incident with a Biden bus that occurred in Texas on Friday, the San Marcos Police Department reportedly said."
+    publishedDateTime: 2020-11-03T02:30:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QxIus3etFI8/police-white-suv-trump-caravan-biden-bus"
+    ampWebUrl: "https://www.foxnews.com/politics/police-white-suv-trump-caravan-biden-bus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/police-white-suv-trump-caravan-biden-bus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59bbe749-e1d8-4de9-83a4-f2c83d346777/55281509-77bb-4cec-ab55-b33f3f7a3135/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Top pro-Trump super PAC takes aim at Biden in $10M final push"
     excerpt: "EXCLUSIVE: The leading outside group supporting President Trump's re-election bid is launching a final ad blitz starting Saturday that takes aim at Democratic presidential nominee Joe Biden in TV ads to run in some of the crucial battleground states that will decide the winner of the White House race."

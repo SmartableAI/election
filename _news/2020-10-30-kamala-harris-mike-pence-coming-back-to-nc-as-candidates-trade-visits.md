@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Kamala Harris, Mike Pence coming back to NC as candidates trade visits"
-excerpt: "The Democratic vice-presidential nominee announced plans to appear in Goldsboro and Fayetteville, a day after Vice President Mike Pence is scheduled to be in Wilmington and Greensboro, the Republican candidate’s second visit to the state in five days."
-publishedDateTime: 2020-10-30T16:11:00Z
-originalUrl: "https://www.thestate.com/news/state/north-carolina/article246833557.html"
-webUrl: "https://www.thestate.com/news/state/north-carolina/article246833557.html"
-ampWebUrl: "https://amp.thestate.com/news/state/north-carolina/article246833557.html"
-cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/state/north-carolina/article246833557.html"
+excerpt: "Kamala Harris will return to North Carolina on Sunday as the pace of visits from vice-presidential candidates accelerates ahead of Tuesday’s election. The Democratic vice-presidential nominee announced plans to appear in Goldsboro and Fayetteville,"
+publishedDateTime: 2020-10-30T16:09:00Z
+originalUrl: "https://www.myrtlebeachonline.com/news/state/north-carolina/article246833557.html"
+webUrl: "https://www.myrtlebeachonline.com/news/state/north-carolina/article246833557.html"
+ampWebUrl: "https://amp.myrtlebeachonline.com/news/state/north-carolina/article246833557.html"
+cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/state/north-carolina/article246833557.html"
 type: article
 quality: 100
 heat: -1
 published: false
 
 provider:
-  name: The State
-  domain: thestate.com
+  name: The Sun News
+  domain: myrtlebeachonline.com
 
 topics:
   - Election
@@ -1702,6 +1702,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "Sa8vIJ7J+4P8qcPOJvS/QeebcJunr0wvyeQD/VbIqzMtVuYMufwTCZwHtTXkl2KhBRa9R4Kqq2jbAWnh1wSTEevkTEv4NosSetTem1reS2cC7CgzG7xkvq1W/8hUX4bQ51w8UxrdqcatqnBcBT6vt9bMwSdfDxidWynlN3RJVXQihMrfqMpUYE/HNm723//Yu1MKFMPbDubteVi+GSOO7dlpOemaKyiPD78/Rsjo78aC32PsbKyQX1uzSkK/27Nf4FkKWqePvGBmq6OvO+sIiljB4FtbLCI5bFLN70688uqSKypNVtUJTA2FBcKv9ZHvsH6+spn5gHV9IXPCo1bv5aNRLoPyAUmj1RaB/MPc6wI=;oTCfH2lwArUbv7rvoXn5cg=="
+secured: "rn0Vq3vxpgycKIeCZLsVdb8X/xOpQsmaShZzKwWbd28qcN0eaXJwmXFIdqH6t3isMD4f6efKHeySOdS/hmGVPKrR/35Tb0+pJe/RbwHKFB1Nrk3uIJctltHGl8dkT7Q1dw1BvJ8PUFTW34oqAUhWd8nvrscxBGhfoyILEnLpyJh/vFHcLQJt1VzDQ0lI2uCJI4YngzRizvg+Bod1lwnlj+biMAVbZK5m+hLta3lakqYqizINJFM12TOskHPdUUTCcCh8oGDYA0m04IuVgMahtvP+dHSOZ7ZqlA2sGL4p0EYGB/FgF98gxPSoyeKRuUyHJYVg54OhPJMHIKog93siBAJzUfpcJrqxEo3g7s/d+UFc7KStkMbvKS+/0y5bpnqD9mRzg6n970cSP1pDuHACg9A2ilAWQqFA6ie6pejDbcSW6CWyp6z4ZMuar9YUodW0iUUu/ZGx8x6yBIp7HhjAsWV88WmJV97NNmAXEAyPT/K+WnJjow6gEtnpmHaD9LhKmYP+jymPiX4fNomvWvKbZw==;TwGOO+6yL6fI+x1bAGk3hw=="
 ---
 

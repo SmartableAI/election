@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 2524
+heat: 2544
 published: true
 
 provider:
@@ -524,6 +524,22 @@ related:
     quality: 180
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029160720-01-biden-florida-1029-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Eric Trump and Donald Trump Jr. spread false information in run up to election"
+    excerpt: "As two of his top surrogates, President Donald Trump's eldest sons, Donald Trump Jr. and Eric Trump, have spread a significant amount of false information this campaign season on topics ranging from the coronavirus, to their father's alleged successes, to attacks against his Democratic opponent former"
+    publishedDateTime: 2020-11-02T23:47:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9msZ_0NcDnY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/eric-trump-donald-trump-jr-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/eric-trump-donald-trump-jr-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200204073854-donald-trump-jr-0203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rand Paul: Trump's election performance likely to determine who holds Senate"
+    excerpt: "Paul predicts Iowa, NC Senate races 'definitely go the way the president goes'"
+    publishedDateTime: 2020-11-02T23:10:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xU0pBgLS-n8/rand-paul-election-2020-trump-senate-races-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-election-2020-trump-senate-races-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-election-2020-trump-senate-races-republicans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3801dba0-03c3-4ccd-ad53-ea6f9494bada/ede4d4b7-fe76-4b53-b11b-e60c86c1df65/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump rips absentee ballot extensions, says election 'should end on November 3rd'"
     excerpt: "President Trump on Friday panned decisions made by some courts that are allowing mail-in or absentee ballots to be counted if they are received by election authorities after Nov. 3, calling the rulings \"CRAZY and so bad for our Country.\""
     publishedDateTime: 2020-10-30T17:03:37Z
@@ -63,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Pennsylvania AG hit for predicting Trump will lose election before votes even counted"
+    excerpt: "Pennsylvania’s Attorney General Josh Shapiro, a Democrat, found himself in hot water on social media after claiming that President Trump has lost the ability to win the battleground state, just over 24 hours before the polls close on Election Day."
+    publishedDateTime: 2020-11-02T23:34:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k1HjNJjClfY/pennsylvanias-democratic-trump-lose-before-votes-counted"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvanias-democratic-trump-lose-before-votes-counted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvanias-democratic-trump-lose-before-votes-counted.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59bbe749-e1d8-4de9-83a4-f2c83d346777/55281509-77bb-4cec-ab55-b33f3f7a3135/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pennsylvania AG dismisses Trump, says he could 'care less' what president says on election night"
     excerpt: "President Trump has been criticizing states that have extended deadlines for accepting ballots beyond Election Day, saying that the country should have a result by Tuesday night. Pennsylvania Attorney General Josh Shapiro, however, says his state will make sure that every ballot is counted, regardless"

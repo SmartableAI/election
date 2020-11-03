@@ -63,6 +63,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden hold campaign event in Pennsylvania..."
+    excerpt: "Watch \"Joe Biden hold campaign event in Pittsburgh, Pennsylvania\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-03T01:53:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201103013411-joe-biden-hold-campaign-event-in-pittsburgh-pennsylvania/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/03/story_07518181_1604367844.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Scarborough Says Biden Struggling with Florida Hispanics: ‘Especially Latino Men’"
     excerpt: "MSNBC host and former Congressman Joe Scarborough said Democratic presidential nominee Joe Biden needs to improve his share of the vote among Florida Hispanics in order to win the state."
     publishedDateTime: 2020-10-29T15:07:00Z

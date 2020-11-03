@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Donald Trump just keeps driving in the wrong direction"
-    excerpt: "With just 23 days until the 2020 election, here's my latest roundup of the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
-    publishedDateTime: 2020-10-11T20:05:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2SonSDP_rus/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/us-election-2020-week-ahead/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/us-election-2020-week-ahead/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011150015-donald-trump-1010-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Fauci reacts to Trump ad: This is disappointing "
     excerpt: "Dr. Anthony Fauci told CNN's Jake Tapper the Trump campaign should remove their ad featuring his comments which he says were used out of context.\n    \n"
     publishedDateTime: 2020-10-12T20:31:31Z

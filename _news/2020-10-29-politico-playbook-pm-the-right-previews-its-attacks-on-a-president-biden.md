@@ -46,6 +46,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Oregon resident speaks out after deer heads left near Biden, Black Lives Matter signs"
+    excerpt: "Residents gathered at a rally organized to support neighbors after two deer heads were left by a Joe Biden and Kamala Harris political campaign sign and a Black Lives Matter sign in Lake Oswego, Oregon."
+    publishedDateTime: 2020-11-03T01:33:00Z
+    webUrl: "https://www.nbcnews.com/video/oregon-resident-speaks-out-after-deer-heads-left-near-biden-black-lives-matter-signs-95194181737"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95194181737"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95194181737"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/nc_vosot_deerheads_201102-00_00_14_14-Still001.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "YI7zdkLzCcYSEX2gszt8Y1bLNL14+3Lsgh0jyvHkXT5YxFG5HTrV6jt+8adihHcxrNPlrKwejAIRcdm3t6APsTB5inHvvAyecFFJaPIbI81vc0Sh8MNT9jXrpItLhspRPe9woxSo6uXWsxOdydK4klOOM74E+aen3vCzThsk3p/3CJsC3OW7bzco1d/8vW1eOZhVHkhoWkJTdJSSPk65g/xI62ciC7w7hylIVCJ9IOq5bo1qGPeJgEFserQ58LRjcB9IDATvsbRwE3yI4EGEd7bcUovM8lpKZJrJZOAVBfh06S5Fzv4ut/gkaDWjt1j48g0S262uBCuijaHhF+BsEw5Tz7MQRGgXVVIDkRvnxU0mnSojeBCqHmZ1IXfxTU485pCO7I9xLLbsFzPgKouriHJ5BVeRRMD+spz6BueUIYQ4LxE6jJU8Dd00vpYi/liRwI4oCfo9Heb+HaOHoDS5nw13BTrp/P5XLTXzNf+EcIN1bEzLVQnBCwG3mlBkbFuAOFtaBINZqTT3ua7evEN+YQ==;InM3MWRDKVy3XPkvVgPnsA=="
 ---

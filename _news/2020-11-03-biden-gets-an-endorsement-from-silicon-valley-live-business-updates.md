@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavi
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Oregon resident speaks out after deer heads left near Biden, Black Lives Matter signs"
+    excerpt: "Residents gathered at a rally organized to support neighbors after two deer heads were left by a Joe Biden and Kamala Harris political campaign sign and a Black Lives Matter sign in Lake Oswego, Oregon."
+    publishedDateTime: 2020-11-03T01:33:00Z
+    webUrl: "https://www.nbcnews.com/video/oregon-resident-speaks-out-after-deer-heads-left-near-biden-black-lives-matter-signs-95194181737"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95194181737"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95194181737"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/nc_vosot_deerheads_201102-00_00_14_14-Still001.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "POLITICO Playbook PM: The right previews its attacks on a President Biden"
     excerpt: "THE RIGHT HAS AMPLIFIED the story, but the mainstream press has shot down BOBULINSKI’S claims at every turn. For example, the news pages of The Wall Street Journal reported they couldn’t establish that BIDEN was involved or received money as part of the defunct arrangement."
     publishedDateTime: 2020-10-28T17:02:00Z

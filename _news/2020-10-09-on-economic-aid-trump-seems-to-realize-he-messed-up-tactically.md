@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Undeterred by Pandemic, Americans Prepare to Deliver Verdict on Trump"
+    excerpt: "President Trump and Joseph R. Biden Jr. barnstormed through battleground states, concluding an extraordinary campaign conducted amid a health crisis and deep economic anxiety."
+    publishedDateTime: 2020-11-03T02:27:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/trump-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/trump-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/trump-covid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02campaign1/02campaign1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
     excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
     publishedDateTime: 2020-10-04T09:02:00Z

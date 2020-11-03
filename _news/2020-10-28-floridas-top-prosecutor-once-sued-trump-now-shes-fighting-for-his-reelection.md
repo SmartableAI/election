@@ -110,22 +110,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump has cast doubt on a peaceful transfer of power, but the preparation for one is well underway"
-    excerpt: "President Donald Trump has cast doubt on whether he will commit to a peaceful transfer of power should Democrat Joe Biden win the election, but the secretive process to prepare a would-be Biden administration has been underway for months with help from top Trump officials.\n    \n"
-    publishedDateTime: 2020-10-31T20:07:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SDfDUYsH6S4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030141258-03-biden-trump-election-night-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Bloomberg knocks Trump back on his heels in Florida"
     excerpt: "The former New York City mayor’s spending is forcing the president to dig deep in the key swing state and enabling the Biden campaign to spend ad dollars elsewhere."
     publishedDateTime: 2020-10-20T23:12:00Z

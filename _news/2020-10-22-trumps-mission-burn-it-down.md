@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -282,6 +282,20 @@ related:
     quality: 115
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fc6cce86-a83c-48ed-9313-0f297469ba42/5177576a-8942-4aa9-b4bd-d612b069c42d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "WSJ Opinion: What Pollsters Miss About Trump"
+    excerpt: "Main Street: A self-described ‘cowboy’ explains why he thinks the president will defy expectations and win again. Image: Brendan Smialowski/AFP via Getty Images"
+    publishedDateTime: 2020-11-03T00:54:00Z
+    webUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-what-pollsters-miss-about-trump/084C85CB-6793-4837-8B1B-4A88AB6A1D20"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20201102/110220opvidmainstreet/110220opvidmainstreet_1280x720.jpg"
         width: 1280
         height: 720
         isCached: true

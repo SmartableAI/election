@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
+    excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
+    publishedDateTime: 2020-11-03T02:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27H12Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27H12Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27H12Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201101&t=2&i=1539602176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA01B3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump's EPA rewrote the rules on air, water energy. Now voters face a choice on climate change issues"
     excerpt: "Election Day will be a decision between deregulation or re-regulation. A look at Trump's rollbacks and their long term effects nationwide."
     publishedDateTime: 2020-10-29T07:14:00Z

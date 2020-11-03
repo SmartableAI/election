@@ -63,6 +63,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "In final pre-election push, Biden and Trump also gird for court battle"
+    excerpt: "President Donald Trump and Democratic rival Joe Biden made a last-ditch push for votes in battleground states on Monday as their campaigns prepared for post-election disputes that could prolong a divisive presidential election."
+    publishedDateTime: 2020-11-03T02:01:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-trump-trade-jabs-prepare-for-post-election-ballot-court-battle-idUSKBN27I0FD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I0FD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I0FD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539662237&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA10PN"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Where Biden and Trump stand in the polls one day out from Election Day"
+    excerpt: "President Trump and former Vice President Biden are neck and neck in the polls in crucial battleground states like Texas and Ohio."
+    publishedDateTime: 2020-11-03T02:08:00Z
+    webUrl: "https://www.businessinsider.com/where-biden-trump-stand-polls-one-day-out-election-day-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/where-biden-trump-stand-polls-one-day-out-election-day-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/where-biden-trump-stand-polls-one-day-out-election-day-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 155
+    images:
+      - url: "https://i.insider.com/5f9731574743a3001216bbf0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania"
     excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday."
     publishedDateTime: 2020-10-27T04:24:00Z
@@ -3717,6 +3749,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "A nation on edge, Biden and Trump race to the finish"
+    excerpt: "Politics A nation on edge, Biden and Trump race to the finish. Posted [NFA] President Donald Trump and Democratic rival Joe Biden traded barbs on Monday and exhorted last-minute v"
+    publishedDateTime: 2020-11-03T00:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/a-nation-on-edge-biden-and-trump-race-to-id721503101?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD2VRR33&r=OVD2VRR33&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "President Trump and Joe Biden hit key states in final campaign stops"
     excerpt: "Both presidential candidates are filling their schedules with campaign stops in key states Monday. CBS News' Skyler Henry joins CBSN with the latest."
     publishedDateTime: 2020-11-02T18:17:00Z
@@ -3728,6 +3774,20 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/02/9324fd7a-c005-46c3-a9a5-43110de77ce1/thumbnail/1200x630/b9ac906eecc859dea52f0bcd6fc2b2e1/cbsn-fusion-president-trump-joe-biden-final-campaign-stops-election-2020-thumbnail-578989-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump and Joe Biden's last full day of campaigning"
+    excerpt: "President Trump is hitting four different states on the final full day of campaigning, while Joe Biden is focusing on Pennsylvania. CBS News political contributor Lynda Tran and political analyst Leslie Sanchez join CBSN to break down what to look out for on the final stretch."
+    publishedDateTime: 2020-11-02T23:32:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-biden-enter-final-stretch-of-2020-campaign/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/02/38a755f7-8045-4b6d-affc-b3ba7e3a4dbe/thumbnail/1200x630/c1355b46a0272b215ce0de6cd2d56146/cbsn-fusion-president-trump-joe-biden-enter-final-stretch-of-campaign-thumbnail-579061-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -3756,6 +3816,20 @@ related:
     quality: 120
     images:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/11/02/story_07510793_1604345644.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump holds rallies in 4 states; Joe Biden in..."
+    excerpt: "Watch \"President Trump holds rallies in 4 states; Joe Biden campaigns in Pennsylvania\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-03T00:42:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201102190048-president-trump-holds-rallies-in-4-states-joe-biden-campaigns-in-pennsylvania/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/02/story_07510774_1604344264.jpg"
         width: 1280
         height: 720
         isCached: true

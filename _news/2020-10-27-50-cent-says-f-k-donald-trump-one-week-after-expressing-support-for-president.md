@@ -286,6 +286,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "WSJ Opinion: What Pollsters Miss About Trump"
+    excerpt: "Main Street: A self-described ‘cowboy’ explains why he thinks the president will defy expectations and win again. Image: Brendan Smialowski/AFP via Getty Images"
+    publishedDateTime: 2020-11-03T00:54:00Z
+    webUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-what-pollsters-miss-about-trump/084C85CB-6793-4837-8B1B-4A88AB6A1D20"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20201102/110220opvidmainstreet/110220opvidmainstreet_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Obama Gives Us One of the Best Reasons to Dump Trump"
     excerpt: "Dean Obeidallah writes that while Americans have many reasons to vote Donald Trump out of office, former President Barack Obama came up with another compelling argument to vote for Joe Biden and Kamala Harris: It won't be so exhausting."
     publishedDateTime: 2020-10-28T11:48:00Z

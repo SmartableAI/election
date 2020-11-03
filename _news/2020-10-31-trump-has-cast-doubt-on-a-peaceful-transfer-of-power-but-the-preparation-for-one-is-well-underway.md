@@ -31,141 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Hear Trump speak after voting in person in Florida"
-    excerpt: "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n"
-    publishedDateTime: 2020-10-24T15:11:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
+  - title: "The Point: Marco Rubio goes full Trump on election eve"
+    excerpt: "Even as some ambitious 2024 Republicans have begun to distance themselves from Donald Trump's version of, uh, conservatism, Florida's Sen. Marco Rubio offered the equivalent of a bear hug for the incumbent just 48 hours before Election Day. \n    \n"
+    publishedDateTime: 2020-11-02T23:30:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190128124838-01-marco-rubio-dec2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump just keeps driving in the wrong direction"
+    excerpt: "With just 23 days until the 2020 election, here's my latest roundup of the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
+    publishedDateTime: 2020-10-11T20:05:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2SonSDP_rus/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/us-election-2020-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/us-election-2020-week-ahead/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011150015-donald-trump-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Obama in Florida: Trump's tough guy schtick is a fraud"
-    excerpt: "Former President Barack Obama on Saturday laced into President Donald Trump, describing his successor as a thin-skinned bully whose true weakness was revealed when he walked off the set of a high profile interview this week after being faced with a few probing questions.\n    \n"
-    publishedDateTime: 2020-10-25T01:53:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aWP-mx-OuAM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/barack-obama-florida-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/barack-obama-florida-donald-trump/index.html"
+  - title: "The Point: This chart shows why Trump is *so* dangerous to the GOP"
+    excerpt: "Win or lose in eight days' time, President Donald Trump's lasting legacy on the Republican Party will be a shrinking base that looks less and less like the country.\n    \n"
+    publishedDateTime: 2020-10-26T22:32:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/clzMhlHtFIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-trump-graph/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-trump-graph/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024165556-03-barack-obama-miami-1024-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142442-02-trump-rally-pa-1026-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Older women voters want to send a message to Trump in November  "
-    excerpt: "Jane Van Zandt is soaked. Her blue mittens are dripping. Her glasses keep fogging up. Her blue raincoat simply does not seem heavy enough to keep her warm against the bluster of a cold and rainy late October morning in Chester, New Hampshire. Yet, this 78-year-old offers no complaints as she holds her"
-    publishedDateTime: 2020-10-30T23:19:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JMlHNthCDn8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/new-hampshire-senior-women-voters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/new-hampshire-senior-women-voters/index.html"
+  - title: "The Point: The absolutely bonkers threat Donald Trump made this week"
+    excerpt: "At a rally in Allentown, Pennsylvania, on Tuesday, President Donald Trump said something incredible -- even by his standards.\n    \n"
+    publishedDateTime: 2020-10-27T18:22:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0kZocpA_jeU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030160430-nh-write-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142449-03-trump-rally-pa-1026-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "White House unleashes on Fauci after criticism of Atlas and Trump's pandemic response"
-    excerpt: "The White House on Saturday unleashed on Dr. Anthony Fauci, the country's leading infectious disease expert, following his comments to the Washington Post that criticized the Trump administration's response to the pandemic, including Dr. Scott Atlas, who the President has relied on for advice on handling"
-    publishedDateTime: 2020-11-01T03:10:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fgQdY3zTJk0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/white-house-fauci-trump-atlas-pandemic-response/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/white-house-fauci-trump-atlas-pandemic-response/index.html"
+  - title: "With Senate at risk, Trump focuses on himself"
+    excerpt: "After President Donald Trump took the controversial step of commuting the jail sentence of his longtime friend Roger Stone, Sen. Susan Collins was again stuck between the leader of her party and the Trump-aligned voters she needs to win a tough reelection.\n    \n"
+    publishedDateTime: 2020-10-29T21:19:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1jGI_2y8jkc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/donald-trump-senate-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/donald-trump-senate-election-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011145759-fauci-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013163336-martha-mcsally-donald-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump signs law designating 9-8-8 as universal number for national suicide hotline starting in 2022"
-    excerpt: "President Donald Trump on Saturday signed into a law a bipartisan bill that will make 9-8-8 the universal telephone number to reach the national suicide prevention hotline starting in 2022.\n    \n"
-    publishedDateTime: 2020-10-17T23:42:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4_MT-McEHSw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
+  - title: "The Point: This is how Donald Trump gets to 270"
+    excerpt: "With just 2 days until the 2020 election, this is the last Sunday newsletter before the country votes. The 5 BIG storylines you need to know to understand the last week on the campaign trail are below. They're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
+    publishedDateTime: 2020-11-01T19:51:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mu9IWOs20X4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031142107-02-trump-1030-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Florida’s top prosecutor once sued Trump. Now she’s fighting for his reelection."
-    excerpt: "Ashley Moody ran on a promise to keep her office out of politics. She has quietly become a major Republican player in the must-win state."
-    publishedDateTime: 2020-10-28T02:04:00Z
-    webUrl: "https://www.politico.com/news/2020/10/27/florida-ashley-moody-trump-432617"
+  - title: "The Point: This Republican senator is taking being pro-Trump to a whole other level"
+    excerpt: "Georgia Republican Sen. Kelly Loeffler was apparently on another planet or something during the 2016 presidential race.\n    \n"
+    publishedDateTime: 2020-10-29T14:27:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnE3hm97Sm4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/kelly-loeffler-donald-trump-georgia-senate-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/kelly-loeffler-donald-trump-georgia-senate-race/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 125
+      name: CNN
+      domain: cnn.com
+    quality: 169
     images:
-      - url: "https://static.politico.com/5b/c8/bc1c3d7e4e74986946d4a7e37373/201026-ashley-moody-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016183832-kelly-loeffler-1015-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Bloomberg knocks Trump back on his heels in Florida"
-    excerpt: "The former New York City mayor’s spending is forcing the president to dig deep in the key swing state and enabling the Biden campaign to spend ad dollars elsewhere."
-    publishedDateTime: 2020-10-20T23:12:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2020/10/20/bloomberg-knocks-trump-back-on-his-heels-in-florida-1328177"
+  - title: "The Point: Donald Trump Jr. put a perfect exclamation point on his father's bungling of Covid-19"
+    excerpt: "Appearing on Laura Ingraham's Fox News show Thursday night, Donald Trump Jr. was asked about Dr. Sanjay Gupta's recommendation that anyone who attends a campaign rally for the President self-quarantine for two weeks.\n    \n"
+    publishedDateTime: 2020-10-30T15:06:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5snpTHKONc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-jr-covid-19-2020-election/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: CNN
+      domain: cnn.com
+    quality: 162
     images:
-      - url: "https://static.politico.com/41/86/94af27cc4b74a93b78d2798e7dcc/apbloomberg.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Supporters Chant ‘Fire Fauci’ at Florida Trump Rally"
-    excerpt: "At a late-night rally in Florida, President Trump suggested that he might fire Dr. Anthony S. Fauci, but that he would wait until “after the election.”"
-    publishedDateTime: 2020-11-02T14:47:00Z
-    webUrl: "https://www.nytimes.com/video/us/elections/100000007428283/trump-rally-fire-fauci.html?playlistId=video/us-politics"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/01/world/01elections-briefing-trump-new/01elections-briefing-trump-new-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "'Vote for Trump or else!': Feds review threatening emails sent to Florida voters"
-    excerpt: "Local officials in five Florida counties told POLITICO they have turned the emails over to the FBI, which declined to offer specifics."
-    publishedDateTime: 2020-10-21T22:01:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2020/10/21/vote-for-trump-or-else-feds-review-threatening-emails-sent-to-florida-voters-1328913"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 110
-    images:
-      - url: "https://static.politico.com/5d/4f/08ad183c44b1b72837846f0a0d3e/190816-votingmachine-getty-773.jpg"
-        width: 3000
-        height: 1999
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200824223931-109-rnc-monday-trump-jr-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "HUo17yGogOWmFrptAwk0VV/RE09GUhgz37VfQ1P6lGRIK4xljnG6f/YMB2pJ+lLmwYEGgUCnwdBOftHR3zSrxXJ2JqrqaNeB8ShOZLKJ69KVKqbWIh0rc3T3evyCcFyV2Y11s6RlGJIJ3JuNnyZalMEyabuxjk8jMCh7ICH11b4MkioYty3Ema6edHuXqUeGFSM0Wwdli+gILBtRnElmyXr0SC++Nami9L7EGfkRn5NEwWNupI9L10oR/rkQyI+jx4b0y+en2zA8hhOZEZdWC0/Imhu/r0xGVfB8+T/cEbxAwd+RmP4cTP33PqvGjkB3U3D7dso163Qeabz0sp+9B4ITRw7dM8FTgfk7FEbHzWQ=;43fMfF43He52Zcs7ZOjVyQ=="

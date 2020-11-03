@@ -328,6 +328,20 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Trump campaigns for swing state voters in battleground tour"
+    excerpt: "President Trump is trailing behind Joe Biden in many battleground states on the eve of the election, but with mail-in ballots in Pennsylvania counted up to three days after Election Day, Mr. Trump is promising a legal fight."
+    publishedDateTime: 2020-11-03T00:33:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-campaigns-for-swing-state-voters-in-battleground-tour/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/2ced17af-0948-4014-b28e-c7dc51e1161d/thumbnail/1200x630/2ef01a72c72bd26c6379f9dc01c33b46/1102-en-weijia-579242-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
     excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."
     publishedDateTime: 2020-10-27T19:48:00Z
@@ -464,6 +478,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XrCJYXBb2Zpm0y35TwfJ/139WgrB1rqWI65gWbs1YWRlOq0onsxyPyPClYZalq8RJIQUoOI+qDSt3Tw29LjIpGku3tD+TFY6FKzJ7k3xvMvwRa58ThHHPYmRzyr74fiHcmocXrPkVhB4W7xhzM1pZKCA6pPDWzEoyNIl+Op2fstNdu+Vpx6gJTdr87tYMZ0wYrPnX/7AUx2I4R2Ehgaw9Je+iLkpfAA1FU236ZCYYD7wuluDPen2a8td8mQheGuP+EW43rCR0ze32Ns4NjhzYvqftJahM2QKPxoqdzVoRKgXNkipuk1Rc8WMqnyM2sQMZXTLYLwDv41wcNG8ikGJRzZysNS9jOGKIac95bEV/Pw=;jOYfXTGVLOZa9oCWlMfHzQ=="
+secured: "mDnI8asTjMJ+Lo8lBojTc+2Z94923j4KOzvioJc/Upce/YvcoP8goFLtPZMV37+nX4hN+Mi7sAOutj95j4CWtBmBxdFzGTNZpVtHHwrEoEvauu9DK62Faa6MpkRxwuTKObF7W8Ia5Dc4lMZRKVDjatToV1cN0VBBqlbpiNrzABOVuQMS2rdVsd1td9biTW3Fm88esYVp7iyT//t4WSbKjOINOYng5XoAtJP3a6NdRraBfz1qvdbK4gH4qTky1Ie34zBG1Q10BbM/3PiinujZEjUeIZY0fitoBDnG3nYKnBOFtwcxmYg/u0Mm4XRiwJ2kB7a8wSAjM44IBxOIKLDX9CTvnNitj+6odbtFTD9Mj71ES+Wr9ptE92t5DcW8eQqxo0/Ue3PVP/ypPaUoE6H8JeaH5fTHDYaZJCryGvoLPp0tFbRhQ4/omW5CoROouMlQ54Rofm2uPTw+0eIMundJLTVhmWxm7mAILOuUELX0K6d4eVUOmzzXJuevDz8qiYZj9fXrdg8+ucm/5PQt81JeMQ==;4L/OFfGEZYjcML5M/wmRig=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 935
+heat: 975
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 201
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e12e53e-92c6-4b06-9b74-05d3498fa4d5/65309d56-4642-4f19-8fcb-2046d2dd6613/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris vows to get rid of Trump’s tax cuts if elected"
+    excerpt: "Democratic vice presidential nominee Kamala Harris on Monday said she and Joe Biden would “get rid of” President Trump’s tax cuts for the middle class if elected, erroneously claiming that only the nation’s wealthy had benefited."
+    publishedDateTime: 2020-11-03T01:05:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OyvuS9P80z4/kamala-harris-trumps-tax-cuts"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-trumps-tax-cuts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-trumps-tax-cuts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/296cacad-a487-477c-a401-47d8cc5602b4/d77cb2b1-80b2-4176-941a-009d9b70a403/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -287,6 +303,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ec1b9f5-0348-4a6f-ae96-4b7562fb0ec2/c80ab8e5-4930-46c1-a768-aa7670ee23f8/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden urges battleground Pennsylvania voters to ‘put an end’ to Trump presidency"
+    excerpt: "Democratic presidential nominee Joe Biden, campaigning in Pennsylvania on the eve of Election Day, told voters that “tomorrow we can end the presidency that’s divided this nation.”"
+    publishedDateTime: 2020-11-03T01:50:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dlbZyg3JHW8/biden-pennsylvania-end-trump-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pennsylvania-end-trump-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pennsylvania-end-trump-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20307833339196.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden pushes back on Trump's attacks in Pennsylvania: ‘I’m not eliminating fracking’"
     excerpt: "Facing a barrage of incoming fire from President Trump, Democratic presidential nominee Joe Biden is making it clear where he stands on the nation’s oil industry."
@@ -599,6 +631,6 @@ related:
         height: 748
         isCached: true
 
-secured: "Rh2LKl6gg56JkmG4pM95ksoPFjoeZXvFhj/ZB57d9WBLiqIsQV+GssiSHmoJqSJCAOrkFdcTe6ytv6BwpCA9YHAfbiuZSw7Xp2eNv3VECho3tIbbMVjBnoEHSJWoBg7rQLfngB+mWdIGyKBbrtu16a+1NEM9vbZ2/IAeXRJdssv5l56JxFY2zACWU9V652qTPK0nIGzkBjmLIIVDgVEZUz9aDAGJ+H2JYdZNgdsJOvGxuWBwNFz2pRnoG42wWKfk7PHODvRIHlY93tDPYa9INhUV31Xinnprl2Ev1CR/nyaleHRobQsNvlF+a2rrwgxGBqSqel4hzt8jpdiubyCUdrdZ+LhxSK0M335EseN42uA=;XLBlRVQgOuLZ4eCAMpCsUQ=="
+secured: "/MKIvO2lod1Xul/nN2/tGDOEV7SzhGo6Coqv2IafOA43vKOTzHf8YY8cDtAUEGZMI1PsGCAA7m56C9BGB1Y31nLQBB+NqEp0VwjYAUPwnZ1OqFubV+8DBkWnmRZXDqziOuhEdld/M2+KJ4nYn9xExAGVWNRYV66QnXNmbBWP2axuudxVtXVJEMPIxAS3hIM/ef2yfeumY7rUEvom7lwJna2f+prVFD1L4vVFP+KMunWJc+d10fdGRJ4ywCmSjVw97Pf6yYMnoHzqgwM9TFr7Wp0//GK8GzjW0P++iHpj5eyEv0nWdDtxyZcG2wmgsQ28aG4lFRrqqilcGju7djv/Hutne5VcCbr4Bnq38ni7/Y4=;i5w3uOPN5xkvekccCZDi7w=="
 ---
 

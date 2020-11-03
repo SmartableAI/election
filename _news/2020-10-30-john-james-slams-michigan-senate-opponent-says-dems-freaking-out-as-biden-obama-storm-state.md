@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-senate-campaign-republican
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-senate-campaign-republican-gop-john-james-biden-obama.amp"
 type: article
 quality: 163
-heat: 164
+heat: 163
 published: true
 
 provider:

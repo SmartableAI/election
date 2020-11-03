@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671"
 type: article
 quality: 153
-heat: 713
+heat: 733
 published: true
 
 provider:
@@ -327,6 +327,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539674605&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-11-02T132510Z_37279_MRPRC2PUJ9WQPU5_RTRMADP_0_USA-ELECTION-TRUMP"
         width: 810
         height: 540
+        isCached: true
+  - title: "Trump campaigns for swing state voters in battleground tour"
+    excerpt: "President Trump is trailing behind Joe Biden in many battleground states on the eve of the election, but with mail-in ballots in Pennsylvania counted up to three days after Election Day, Mr. Trump is promising a legal fight."
+    publishedDateTime: 2020-11-03T00:33:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-campaigns-for-swing-state-voters-in-battleground-tour/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/2ced17af-0948-4014-b28e-c7dc51e1161d/thumbnail/1200x630/2ef01a72c72bd26c6379f9dc01c33b46/1102-en-weijia-579242-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
     excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."

@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris vows to get rid of Trump’s tax cuts if elected"
+    excerpt: "Democratic vice presidential nominee Kamala Harris on Monday said she and Joe Biden would “get rid of” President Trump’s tax cuts for the middle class if elected, erroneously claiming that only the nation’s wealthy had benefited."
+    publishedDateTime: 2020-11-03T01:05:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OyvuS9P80z4/kamala-harris-trumps-tax-cuts"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-trumps-tax-cuts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-trumps-tax-cuts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/296cacad-a487-477c-a401-47d8cc5602b4/d77cb2b1-80b2-4176-941a-009d9b70a403/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Election 7 days away: Biden picks up campaign pace as Trump barnstorms swing states"
     excerpt: "President Trump is embarking on a campaign swing through key battleground states with the November election just one week away, as Democratic rival Joe Biden picks up the pace of his travel with a planned trip to reliably red Georgia."
     publishedDateTime: 2020-10-27T12:31:26Z
@@ -286,6 +302,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ec1b9f5-0348-4a6f-ae96-4b7562fb0ec2/c80ab8e5-4930-46c1-a768-aa7670ee23f8/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden urges battleground Pennsylvania voters to ‘put an end’ to Trump presidency"
+    excerpt: "Democratic presidential nominee Joe Biden, campaigning in Pennsylvania on the eve of Election Day, told voters that “tomorrow we can end the presidency that’s divided this nation.”"
+    publishedDateTime: 2020-11-03T01:50:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dlbZyg3JHW8/biden-pennsylvania-end-trump-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pennsylvania-end-trump-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pennsylvania-end-trump-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20307833339196.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden pushes back on Trump's attacks in Pennsylvania: ‘I’m not eliminating fracking’"
     excerpt: "Facing a barrage of incoming fire from President Trump, Democratic presidential nominee Joe Biden is making it clear where he stands on the nation’s oil industry."

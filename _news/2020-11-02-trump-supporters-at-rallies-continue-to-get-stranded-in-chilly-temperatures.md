@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-strande
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
 type: article
 quality: 173
-heat: 253
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bolton: Trump trying to set up con on his own supporters"
+    excerpt: "CNN's Jake Tapper speaks with former national security adviser John Bolton about President Donald Trump's rhetoric around when mail-in ballots should be counted and Trump's threats of legal action after polls close on Election Day.\n    \n"
+    publishedDateTime: 2020-11-02T22:49:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tHrXL4FJL0/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102171610-bolton-tapper-split-for-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump supporters seen blocking traffic on a New Jersey highway and a New York City bridge"
     excerpt: "Hundreds of vehicles flying Trump, MAGA and American flags caused delays around the New York metropolitan area on Sunday after they were seen stopping traffic to cheer and chant.\n    \n"
     publishedDateTime: 2020-11-02T02:32:08Z
@@ -63,37 +79,53 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "'It's a little tough out here': Trump blitzes must-win states with perfected rally routine"
-    excerpt: "President Donald Trump was running late when he arrived here Sunday morning, wind howling and tiny drops of ice sticking to his face, to begin the second-to-last day of his final run for office.\n    \n"
-    publishedDateTime: 2020-11-02T14:53:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
+  - title: "Washington Post: Trump administration to roll back federal protections from Alaska's Tongass National Forest"
+    excerpt: "Federal protections for Alaska's Tongass National Forest will be lifted this week by the Trump administration, allowing \"logging and other forms of development\" to occur in the world's largest intact temperate rainforest known as America's Amazon, The Washington Post reported Wednesday.\n    \n"
+    publishedDateTime: 2020-10-28T16:22:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aHbswDwT7dw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 156
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027121426-donald-trump-1024-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190913160012-tongass-forest-3-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Despite the Trump administration's new policy, many pharmacies still won't vaccinate children against flu "
-    excerpt: "As a dark winter approaches with \"twindemics\" of Covid-19 and the flu, an effort by the Trump administration to increase the number of children receiving flu shots is not working, according to a CNN investigation.\n    \n"
-    publishedDateTime: 2020-10-26T14:58:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXUl-9swsd4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
+  - title: "What Trump Needs to Win: A Polling Error Much Bigger Than 2016’s"
+    excerpt: "That’s a big “if.” The indelible memory of 2016’s polling misfire, when Donald J. Trump trailed in virtually every pre-election poll and yet swept the battleground states and won the Electoral College,"
+    publishedDateTime: 2020-11-02T10:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025074215-kid-flu-shot-stock-3-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/11/02/upshot/02up-what-trump-needs-sub/02up-what-trump-needs-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The One Pollster in America Who Is Sure Trump Is Going to Win"
+    excerpt: "Robert Cahaly’s polls have Arizona, Michigan and Florida in the president’s column. It’s hard to find another pollster who agrees with him. But they didn’t believe him in 2016 either."
+    publishedDateTime: 2020-11-03T02:21:00Z
+    webUrl: "https://www.nytimes.com/article/trump-polls-trafalgar-group.html?pageType=LegacyCollection&collectionName=Polls+and+Voters&label=Polls+and+Voters&template=storyline_band_recirc"
+    ampWebUrl: "https://www.nytimes.com/article/trump-polls-trafalgar-group.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-polls-trafalgar-group.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/03trafalgar-promo/03trafalgar-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "gWk83NyhkgL6oq3ivce1GGqtRKNl8cbdlVdoSBVVTXbZUT2qYpZV1SFIKcqPI23SgM3Q3ZhwuZmWovZ7PvFnyrHqJH24eyhqcBc/Av9A4QF3fINWEqzABQHhlNPHQvqwxjDGVSu1E3y1c7rAGbvsaX5FGUW825VfQ9xyZR1Hlu6GcIies149ppzuo0yWSicLnDMnBsRR1XdcpmQTZa//fOLeRKndrjYVl2P25fWrE37UlbxyNqpisCrMMADW9paP854zYN91BQuxxQoAIPuBXen0mvtoCkDV9xZC1HicpFbWXKEQlHXDUF2xIUDRLKGubCOs//qvoEcOopSE8YMXchc6XLk3JRvGiz2p/UXBZ8Q=;66HUJFfTWiYrQ0WzRj5EIg=="

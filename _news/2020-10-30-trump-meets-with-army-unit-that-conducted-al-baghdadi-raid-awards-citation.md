@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-bragg-unit-citation-army-unit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bragg-unit-citation-army-unit-baghdadi.amp"
 type: article
 quality: 173
-heat: 174
+heat: 173
 published: true
 
 provider:

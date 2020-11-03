@@ -75,6 +75,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden hold campaign event in Pennsylvania..."
+    excerpt: "Watch \"Joe Biden hold campaign event in Pittsburgh, Pennsylvania\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-03T01:53:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201103013411-joe-biden-hold-campaign-event-in-pittsburgh-pennsylvania/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/03/story_07518181_1604367844.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lady Gaga Joins Joe & Jill Biden at Final Drive-In Rally in Pittsburgh"
     excerpt: "Democratic presidential candidate Joe Biden and his wife Jill speak at a drive-in rally in Pittsburgh, their final campaign event on the eve of Election Day. Also featured is singer Lady Gaga. 2020 Democratic presidential candidate Joe Biden and his wife Jill speak at a drive-in rally in Pittsburgh,"
     publishedDateTime: 2020-11-02T10:21:00Z
