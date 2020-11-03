@@ -127,6 +127,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Anxious Americans choose between Biden, Trump after rancorous campaign"
+    excerpt: "After a rancorous presidential campaign that exposed the depth of the political divisions in the United States, Americans streamed to the polls on Tuesday to choose either incumbent Donald Trump or challenger Joe Biden to lead a pandemic-battered nation for the next"
+    publishedDateTime: 2020-11-03T18:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/anxious-americans-choose-between-biden-trump-after-rancorous-campaign-idUSKBN27J0J2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J0GK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0GK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539840241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21H4"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "After acrimonious campaign, uneasy Americans choose between Biden, Trump"
+    excerpt: "After a rancorous presidential campaign that exposed the depth of the political divisions in the United States, Americans streamed to the polls on Tuesday to choose either incumbent Donald Trump or challenger Joe Biden to lead a pandemic-battered nation for the next"
+    publishedDateTime: 2020-11-03T20:29:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27J0GC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27J0GC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J0GC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539862843&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21OZ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
     excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
     publishedDateTime: 2020-11-02T09:12:00Z
@@ -238,6 +270,22 @@ related:
       - url: "https://i.insider.com/5f8a510dd260780019341ff0?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump visits campaign HQ on Election Day: 'Winning is easy. Losing is never easy' - live updates"
+    excerpt: "President Trump plans to spend the day making calls, giving interviews, monitoring events from the White House."
+    publishedDateTime: 2020-11-03T18:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/election-day-2020-donald-trump-mike-pence/6129648002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6129648002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6129648002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/fdf64f4e-38fd-48bd-8479-56b1f74b1fff-AFP_AFP_8UG9DU.JPG?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fact check: Trump keeps making false or misleading statements on mail ballots as Election Day nears"
     excerpt: "Seeing chaos where others don’t, President Donald Trump is falsely asserting that voting by mail is proving to be rife with problems across the country,"
@@ -501,6 +549,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/7/d1/7d112f5d-8b7a-5910-92bf-0649ff57200d/5f9c809b2838b.image.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "When Will We Know If Donald Trump Or Joe Biden Won Pennsylvania?"
+    excerpt: "\"It is vitally important that the more than 3 million ballots cast by mail here be counted as soon as possible,” Pennsylvania's Secretary of State Kathy Boockvar said in a statement."
+    publishedDateTime: 2020-11-03T11:50:00Z
+    webUrl: "https://www.ibtimes.com/when-will-we-know-if-donald-trump-or-joe-biden-won-pennsylvania-3070080"
+    ampWebUrl: "https://www.ibtimes.com/when-will-we-know-if-donald-trump-or-joe-biden-won-pennsylvania-3070080?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/when-will-we-know-if-donald-trump-or-joe-biden-won-pennsylvania-3070080?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/30/americans-such-as-this-voter-in-pennsylvania-have.jpg"
+        width: 1024
+        height: 724
         isCached: true
   - title: "ALLAN WERNICK: A Joe Biden win means Trump’s anti-immigrant policies could be reversed"
     excerpt: "If Joe Biden wins the election, he can reverse many of President Trump’s anti-immigrant rules, procedures and policies. Trump and Stephen Miller have brought restrictionist regulations and policy changes without going through Congress."

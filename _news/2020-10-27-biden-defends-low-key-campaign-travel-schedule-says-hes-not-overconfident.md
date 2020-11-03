@@ -93,6 +93,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Newt Gingrich: Trump's Georgia rally had larger crowd than all Biden-Harris events combined"
+    excerpt: "President Trump's rallies alone show that he has greater support than Joe Biden for the 2020 presidential election, said Fox News contributor Newt Gingrich on Election Day."
+    publishedDateTime: 2020-11-03T20:55:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1_ZdKWftNeQ/newt-gingrich-trump-rallies-compared-biden-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/newt-gingrich-trump-rallies-compared-biden-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newt-gingrich-trump-rallies-compared-biden-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump hits Biden campaign manager for 'strange' election night claim"
     excerpt: "President Trump downplayed Democratic presidential nominee Joe Biden's campaign manager Jen O’Malley Dillon's claim that “under no scenario” could Trump be declared a victor on election night."
     publishedDateTime: 2020-11-03T13:36:50Z
@@ -636,6 +652,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Kamala Harris Makes Last-Minute Push for Votes in Michigan"
+    excerpt: "Democratic vice presidential nominee Kamala Harris is spending Election Day in Michigan for a final get-out-the-vote effort before joining Joe Biden in Wilmington, Del. Upon arriving at Detroit Metro Airport Tuesday afternoon,"
+    publishedDateTime: 2020-11-03T19:36:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/QbslvxPeNNUbpSoyiJ85"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-254252?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Michigan Democrat on Biden's Expanded Travel: 'I Want Joe Biden to Win Georgia'"
     excerpt: "Many Midwestern Democrats have criticized Hillary Clinton for losing sight of their “Blue Wall,” or a collection of states near the Great Lakes that the party has typically carried in presidential elections."

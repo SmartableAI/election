@@ -157,6 +157,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Ultimate Donald Trump Mystery That Couldn’t Be Solved Before Election Day"
+    excerpt: "A s Americans vote today, they do so with a limited view of Donald Trump’s finances—especially at one project, the Trump International Hotel & Tower in Chicago, which offers the prospect of shedding light on many questions: who the president owes money to,"
+    publishedDateTime: 2020-11-03T13:48:00Z
+    webUrl: "https://www.forbes.com/sites/danalexander/2020/11/03/the-ultimate-donald-trump-mystery-that-couldnt-be-solved-before-election-day/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 117
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa0cd87544469eca855ec25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As Trump Claims Pandemic Will' End Quickly,' Fauci Warns U.S. May Not Return To 'Normal' Until 2022."
     excerpt: "\"People were ridiculed for wearing masks. It depended on what side of the political spectrum you were at, which was so painful to me.\""
     publishedDateTime: 2020-10-28T15:15:00Z

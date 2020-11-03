@@ -2,6 +2,222 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-16-watch-live-joe-biden-delivers-remarks-on-health-care-in-michigan.md",
+      "title": "Watch Live: Joe Biden Delivers Remarks On Health Care In Michigan",
+      "excerpt": "Democratic nominee Joe Biden will make a campaign stop in Southfield, Michigan on Friday afternoon to deliver remarks on expanding access to health care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/10/16/watch_live_biden_delivers_remarks_on_health_care_in_michigan.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/16/watch_live_biden_delivers_remarks_on_health_care_in_michigan.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/524025.jpg",
+          "width": 1102,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-twitter-announces-new-policies-after-hunter-biden-report-imbroglio.md",
+      "title": "Twitter announces new policies after Hunter Biden report imbroglio",
+      "excerpt": "A top policy executive at Twitter announced policy changes at the social media giant late Thursday after the company faced its toughest allegations yet of censorship in order to protect Democratic candidates.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 835,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp",
+      "publishedDateTime": "2020-10-15T21:19:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-trump-presses-nbc-anchor-to-ask-more-about-antifa-left-wing-violence.md",
+      "title": "Trump presses NBC anchor to ask more about Antifa, left-wing violence",
+      "excerpt": "President Trump and NBC anchor Savannah Guthrie had a testy exchange at Thursday's presidential town hall, with the former wondering she didn't ask him about left-wing actors like Antifa.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8fYBW1ZbqXI/trump-guthrie-nbc-antifa",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8fYBW1ZbqXI/trump-guthrie-nbc-antifa",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c32226e3-077e-4b0c-bece-647d2ac28283/d083186b-e89b-4dc9-8426-0900432df432/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp",
+      "publishedDateTime": "2020-10-15T19:06:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.md",
+      "title": "Trump says if he and Pelosi agree on stimulus package, Senate GOP will get on board",
+      "excerpt": "President Trump said Thursday that he is “ready to sign” a fourth coronavirus stimulus package, and said that if he and House Speaker Nancy Pelosi are able to come to an agreement, he believes Senate Republicans will get on board.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 329,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
+      "publishedDateTime": "2020-10-15T18:14:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-biden-said-its-absolutely-ok-to-raise-taxes-during-economic-downturn.md",
       "title": "Biden said it's 'absolutely' OK to raise taxes during economic downturn",
       "excerpt": "Former Vice President Joe Biden defended his plan to repeal President Trump's tax cuts on the wealthy and said it's \"absolutely\" appropriate to raise taxes during a struggling economy.",
@@ -1428,230 +1644,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-12T08:43:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-has-been-a-champion-for-the-black-community-paris-dennard.md",
-      "title": "Trump 'has been a champion' for the Black community: Paris Dennard",
-      "excerpt": "“There’s no doubt” that President Trump “will go down as the greatest champion for the Black community since Abraham Lincoln,” Black Voices for Trump Advisory Board member Paris Dennard told “Fox & Friends” on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uvO13RMffaQ/trump-champion-black-community-paris-dennard",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uvO13RMffaQ/trump-champion-black-community-paris-dennard",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/paris.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:30:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-cuomo-reacts-to-biden-attorney-general-rumors-no-interest-in-going-to-washington.md",
-      "title": "Cuomo reacts to Biden attorney general rumors: 'No interest in going to Washington'",
-      "excerpt": "New York Gov. Andrew Cuomo said on Monday he has \"no interest\" in serving as Democratic nominee Joe Biden's attorney general.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FFtaTyefvBM/biden-cuomo-attorney-general-rumors-cabinet",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FFtaTyefvBM/biden-cuomo-attorney-general-rumors-cabinet",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/andrew-cuomo-joe-biden.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:24:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-rails-against-portlands-biden-fools-antifa-radicals-after-lincoln-roosevelt-statues-toppled.md",
-      "title": "Trump rails against Portland's 'Biden fools', 'Antifa radicals' after Lincoln, Roosevelt statues toppled",
-      "excerpt": "President Trump reacted to demonstrators who toppled statues of Abraham Lincoln and Theodore Roosevelt in Portland overnight, saying  \"Biden fools” and \"Antifa radicals\" were responsible as local Democratic leadership fails to bring in federal law enforcement.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1cxsFWqEPI/trump-portland-protest-biden-fools-antifa-radicals-lincoln-roosevelt-statues-toppled",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1cxsFWqEPI/trump-portland-protest-biden-fools-antifa-radicals-lincoln-roosevelt-statues-toppled",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/GettyImages-1229022717.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:12:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-twitter-adds-warning-to-immune-tweet-by-us-president-trump.md",
-      "title": "Twitter adds warning to 'immune' tweet by US President Trump",
-      "excerpt": "As President Trump  on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus, Twitter slapped a warning label on his tweet in which he declared he was now “immune” from the virus.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tx_XT2LTV3M/twitter-adds-warning-to-immune-tweet-by-us-president-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tx_XT2LTV3M/twitter-adds-warning-to-immune-tweet-by-us-president-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3feda8a-9f09-4f04-8b12-362f78fe55a2/4dcd18cb-2e8e-4d06-9acb-92f7162bae8e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-11T13:38:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

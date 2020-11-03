@@ -208,6 +208,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump calls Fauci a 'disaster' and says it would be a 'bomb' if he fired him"
+    excerpt: "WASHINGTON — President Donald Trump on Monday attacked Dr. Anthony Fauci during a phone call with campaign staff, calling the infectious disease specialist a \"disaster\" and saying every time he ..."
+    publishedDateTime: 2020-10-20T06:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/fauci-says-he-s-not-surprised-trump-contracted-covid-19-n1243857"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243857"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243857"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421152/201019-dr-fauci-mc-1148_3ed84c1ace06fe5ca93514b6865a2068.JPG"
+        width: 2500
+        height: 1473
+        isCached: true
   - title: "The political futility of Trump's offensive against Anthony Fauci"
     excerpt: "As the public sours on his handling on the pandemic, Trump thinks he can win back voters by ridiculing the nation's most trusted voice on the coronavirus?"
     publishedDateTime: 2020-10-13T14:17:00Z

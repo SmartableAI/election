@@ -145,6 +145,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Election Day: With polls closing in hours, stakes for Trump, Biden reach their peak"
+    excerpt: "The day has arrived for Americans across the country to have their voices heard, as they vote for president and vice president of the United States while anxiously awaiting the culmination of a year and a half of feverish campaigning."
+    publishedDateTime: 2020-11-03T20:07:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nqjn3v_1VoA/election-day-polls-close-in-hours-stakes-for-trump-biden-peak"
+    ampWebUrl: "https://www.foxnews.com/politics/election-day-polls-close-in-hours-stakes-for-trump-biden-peak.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-day-polls-close-in-hours-stakes-for-trump-biden-peak.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 199
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f662954-45b3-440a-843b-a5575391b971/4965c78c-b0c8-4f2d-a71c-4c2bb979eab0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump, Biden camps duel over possibility of a winner being declared on Election Night"
     excerpt: "President Trump and former Vice President Joe Biden’s campaigns sparred Monday over the possibility of a winner being declared on Election Night, with Trump’s campaign accusing Democrats of wanting to “delegitimize” votes and Biden’s campaign saying there’s “no scenario” the race will be called for Trump"
     publishedDateTime: 2020-11-02T19:57:43Z
@@ -2289,6 +2305,15 @@ related:
     excerpt: "RealClearPolitics"
     publishedDateTime: 2020-10-29T11:37:00Z
     webUrl: "https://www.realclearpolitics.com/2020/10/28/how_arizona_complicates_trumps_reelection_bid_527801.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+  - title: "Why Donald Trump Deserves Reelection"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-03T19:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/03/why_donald_trump_deserves_reelection_528432.html"
     type: article
     provider:
       name: RealClearPolitics

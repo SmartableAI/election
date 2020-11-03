@@ -365,6 +365,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Live Election Day coverage: Trump, Biden will both spend election night at home as results roll in"
+    excerpt: "The polls are open. We have live updates of Election Day 2020 news from across the U.S. as the nation awaits the results of Trump vs Biden."
+    publishedDateTime: 2020-11-03T20:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/2020-election-day-results-live-trump-biden-senate-races/6131323002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6131323002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6131323002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 141
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/6d25c3b0-b64f-47b2-8fa2-a0225a1ef5e0-GTY_1229438580.1.jpg?auto=webp&crop=5820,3274,x0,y296&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "World reacts with surprise, worry to 1st Biden-Trump debate"
     excerpt: "Many across the world looked on largely aghast as the first debate between President Donald Trump and Democratic challenger Joe Biden devolved into a verbal slugfest short on substance but heavy with implications for America’s international image."
     publishedDateTime: 2020-10-01T17:55:00Z
@@ -6395,6 +6411,20 @@ related:
       name: CBS Miami
       domain: cbslocal.com
     quality: 61
+  - title: "An authoritarian holds the reins of power: Don't assume Donald Trump can lose the election"
+    excerpt: "With just two weeks to go, trailing badly in most polls, how can Donald Trump possibly win the 2020 election? That question and its attendant assumptions are dominating the conventional wisdom ..."
+    publishedDateTime: 2020-10-20T12:12:00Z
+    webUrl: "https://www.salon.com/2020/10/20/an-authoritarian-holds-the-reins-of-power-dont-assume-donald-trump-can-lose-the-election/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 60
+    images:
+      - url: "https://media.salon.com/2019/12/trump-biden-12051.jpg"
+        width: 846
+        height: 571
+        isCached: true
   - title: "So say Joe Biden or Donald Trump refuses to concede election — what happens then?"
     excerpt: "America sits on the brink of the most consequential election in modern history, and President Donald Trump has turned up the heat by refusing to commit to a peaceful transition of power if he loses. \"Well,"
     publishedDateTime: 2020-10-25T02:11:00Z

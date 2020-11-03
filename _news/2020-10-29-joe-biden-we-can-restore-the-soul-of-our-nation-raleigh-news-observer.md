@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Iran is Hoping for Biden Return to Nuclear Deal—But Trust Will Be Hard to Rebuild | Analysis"
+    excerpt: "While the Trump administration has repeatedly said its door was open for talks, Iranian President Hassan Rouhani has insisted that the U.S. must first return to the nuclear deal and lift its unilateral sanctions."
+    publishedDateTime: 2020-11-03T19:29:00Z
+    webUrl: "https://www.newsweek.com/trump-rouhani-biden-iran-deal-1544522"
+    ampWebUrl: "https://www.newsweek.com/trump-rouhani-biden-iran-deal-1544522?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-rouhani-biden-iran-deal-1544522?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1664166/rouhani-un.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Can Joe Biden's Campaign Message Carry Him Over The Finish Line?"
     excerpt: "Joe Biden has had a remarkably consistent campaign message. He was running, he said, to restore the soul of the nation. His campaign was — in essence — about human decency and character."
     publishedDateTime: 2020-11-02T11:16:00Z
@@ -73,6 +89,31 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Biden stops at childhood home, thanks voters in Scranton"
+    excerpt: "Democratic nominee Joe Biden stopped by his hometown of Scranton Tuesday, where he thanked voters before moving on to Philadelphia later in the day. Biden has made his working-class upbringing in Scranton a centerpiece of his campaign."
+    publishedDateTime: 2020-11-03T17:01:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-stops-childhood-home-thanks-voters-scranton/6140568002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aa76382f-3127-4dd7-b743-de7fc9046a94_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "FOREX-Dollar dips as investors bet on Biden victory"
+    excerpt: "By Karen Brettell NEW YORK, Nov 3 (Reuters) - The U.S. dollar dipped on Tuesday as risk appetite grew on bets that Democrat Joe Biden will win Tuesday’s U.S."
+    publishedDateTime: 2020-11-03T18:39:00Z
+    webUrl: "https://www.reuters.com/article/global-forex-idUKL1N2HP1DM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2HP1DM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2HP1DM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
     excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
     publishedDateTime: 2020-10-28T04:13:00Z

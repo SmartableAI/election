@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-p
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1"
 type: article
 quality: 144
-heat: 284
+heat: 324
 published: true
 
 provider:
@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Harrison Ford Urges Voters To ‘Fire’ Trump Instead of Dr. Fauci in Lincoln Project Ad"
+    excerpt: "In a new ad for the Lincoln Project, Harrison Ford urges voters to \"fire\" President Donald Trump instead of allowing him to fire Dr. Anthony Fauci."
+    publishedDateTime: 2020-11-03T18:16:00Z
+    webUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/"
+    ampWebUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 68
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/11/Harrison-Ford-Fauci-Trump-1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Brett Favre says he will vote for Donald Trump, expected to appear with president at Green Bay rally"
     excerpt: "Brett Favre became the latest ex-athlete to declare his support for President Donald Trump, tweeting that the Republican nominee will have his vote on Friday. The former NFL quart"
     publishedDateTime: 2020-10-30T16:09:00Z
@@ -144,6 +160,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Trump and Vice President Pence Campaign Rally in Grand Rapids, Michigan"
+    excerpt: "On the eve of the 2020 election, Vice President Mike Pence made a final pitch to voters at a rally in Grand Rapids, Michigan. The vice president criticized his predecessor, 2020 Democratic presidential nominee Joe Biden,"
+    publishedDateTime: 2020-11-03T20:22:00Z
+    webUrl: "https://www.c-span.org/video/?477687-1/president-trump-vice-president-pence-campaign-rally-grand-rapids-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 45
 
 secured: "Wq2vNnHuk9fRTfg1QiJgNTF571UuLSIjNHs3BEqsLxlRO9MUVSfOb313fE7IU4wWwHMihmVkP5CVMdUHHUQ3GBmsXeCpJFOoFeC0jrVYVQYo0kguzQDIqVhlGpVfXbjmxoRE1k6vJSRcVjP0Ijxw2El4BKtOLYVxUR4U+XGF63vfSSaBgtB6W5ouvA2lAxwMh4a1fZHHLuF0+sC1QZFqd+E5Cp+qf7vboQEc4zx8Nu824kuC/CrqbEfKNxN3Y+d5cBuZ0HXWZlxj9FUB38sLj3cxsHr7rbAW+NmUMbp2PIHcAjX2CVUq+Ycg4SWBJcsyX1r3JZCJefvTEgKUcHe//uPG7u/7lQZZR63PPSQktW/ix9Z0xTJUAq8RoQou2IVfdpvdSKIyXYmlc2m8jZxWqFLXqW2XE1GutveNMpfOsrltxtDV+34lKIStUnq0Z6CABS72gLWMxsRiXn4DJxAG8SW7yyKPJ7dWvNWWqjzK/b/F2NtxCR8Dj9LQ5M6J49Ae9OMcMLHcAejwNw1SYDZZAQ==;vzhx9ENEvWMRSau/vCNAmA=="
 ---

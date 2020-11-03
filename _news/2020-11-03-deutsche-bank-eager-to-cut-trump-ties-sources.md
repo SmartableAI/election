@@ -45,6 +45,22 @@ related:
         width: 805
         height: 545
         isCached: true
+  - title: "Deutsche Bank plans to cut ties with Trump after the election and could seize his assets if he can't pay back his debts, Reuters reports"
+    excerpt: "The German lender is seeking to dump millions of dollars of Trump debt and sees a Trump loss as its best exit strategy, officials told Reuters."
+    publishedDateTime: 2020-11-03T20:12:00Z
+    webUrl: "https://www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fa12e611df1d500182187c3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "qdeB5Vn93oqnV2t5Mam50WCWZko6AZJAZQ8No+eEP/AsLqnMGOYi5O+ihPNpumHMaschdoMBcI9G46p5Sa3xjvSBgPZCZ6nPEB69jbQVpM9AkFMXfYjJk44YyrEusiUY9NLJizjvL763UrKTjCMfPtBwKHA9cm+t8S+gce40L3fv1388+BiMyE5lflSDEx6ydwewNJe/XKC04L3FxAfyW54oK7Lpb+VusSyV/mYPnyjfacZVbX/O2dYFWjQXS2ZQl7Z3AFA0Ysii5RwRRYW2gMuiXk+tokfkdYeCUyMKHE/NCmXo4EtTQqG2J457Ysuh3QjOZH8Vr8xBGy/eMX3ndw00oa75zx7JrVK28bOabvE=;u21Fp/i+E9GXT83G05tqkw=="
 ---

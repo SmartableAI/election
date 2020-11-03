@@ -2,6 +2,232 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-04-in-st-petersburg-fla-trumps-character-is-in-focus.md",
+      "title": "In St. Petersburg, Fla., Trump's Character Is in Focus",
+      "excerpt": "With millions of Floridians having already voted, the Election Day line quickly diminished outside the largest polling location in St. Petersburg, Fla. The city resides in Pinellas County, one of the bellwether counties in the country's largest battleground state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
+      "originalUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-254027?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill.md",
+      "title": "Trump May Try to Fire Wray, but FBI Director Has GOP Support on Capitol Hill",
+      "excerpt": "President Trump has frequently and openly speculated about firing FBI Director Christopher Wray after the election, but Mr. Wray continues to enjoy support from some GOP senators..",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "originalUrl": "https://www.wsj.com/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-254320/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "publishedDateTime": "2020-11-03T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.md",
+      "title": "Trump thanks campaign staffers, predicts 'incredible night': 'Tremendous group of people'",
+      "excerpt": "The president spoke for a time to campaign staff and answered questions from the media before hitting the road again.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f2kdm1Y2Lc/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f2kdm1Y2Lc/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/109c1c28-bcc7-4e77-8dfa-a4ca2fbf0d23/be21ccfe-e069-4386-980a-617cbf2b5a83/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.amp",
+      "publishedDateTime": "2020-11-03T12:36:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-ex-trump-loyalist-michael-cohen-hints-former-boss-wont-like-his-ballot-choice.md",
+      "title": "Ex-Trump loyalist Michael Cohen hints former boss won't like his ballot choice",
+      "excerpt": "President Trump's former attorney trolled the White House with a Twitter hint that he voted for Democrat Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nKdKfeLwf7o/michael-cohen-says-he-voted-for-biden-guess-what-i-did",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nKdKfeLwf7o/michael-cohen-says-he-voted-for-biden-guess-what-i-did",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55102a4f-6e35-4349-b50e-83e6b9601442/4036c90d-7074-4064-b8f1-1cd8f013fbc7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp",
+      "publishedDateTime": "2020-11-03T09:42:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-trump-campaign-gop-to-appeal-to-nevada-supreme-court-to-halt-vegas-area-mail-in-ballot-count.md",
       "title": "Trump campaign, GOP to appeal to Nevada Supreme Court to halt Vegas-area mail-in ballot count",
       "excerpt": "LAS VEGAS (AP) — President Donald Trump’s re-election campaign and Nevada Republicans filed notice Monday that they’ll ask the state Supreme Court to stop the count of mail-in ballots in Clark County, the state’s most populous and Democratic-leaning county, including Las Vegas.",
@@ -238,7 +464,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1075,
+      "heat": 1115,
       "tags": null,
       "images": [
         {
@@ -351,7 +577,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1424,230 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-pennsylvania-american-dream.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-american-dream.amp",
       "publishedDateTime": "2020-10-31T09:30:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-kayleigh-mcenany-says-seals-rescue-of-american-hostage-is-story-of-trump-presidency-we-dont-stop.md",
-      "title": "Kayleigh McEnany says SEALs' rescue of American hostage is 'story of' Trump presidency: 'We don't stop'",
-      "excerpt": "The American hostage rescued in West Africa by SEAL Team 6 in a daring raid is part of President Trump's exceptional accomplishments, Kayleigh McEnany said Saturday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bFE0zfyVx0/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bFE0zfyVx0/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany.amp",
-      "publishedDateTime": "2020-10-31T09:21:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-ivanka-trump-says-she-is-unapologetically-pro-life.md",
-      "title": "Ivanka Trump says she is 'unapologetically' pro-life",
-      "excerpt": "Ivanka Trump this week said that she is “unapologetically” pro-life, adding that motherhood changed how she thinks about the abortion issue.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fX1ewM5PPsE/ivanka-trump-says-she-is-unapolagetically-pro-life",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fX1ewM5PPsE/ivanka-trump-says-she-is-unapolagetically-pro-life",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301701834860.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-says-she-is-unapolagetically-pro-life.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-says-she-is-unapolagetically-pro-life.amp",
-      "publishedDateTime": "2020-10-31T00:51:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-top-two-pro-trump-super-pacs-make-final-20-million-ad-push.md",
-      "title": "Top two pro-Trump super PACs make final $20 million ad push",
-      "excerpt": "The two leading super PACs that are supporting President Trump's re-election bid are teaming up to shell out $20 million to run ads on TV and digital in seven crucial general election battleground in the closing stretch leading up to Election Day on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zUgV0XwX-Xk/top-two-pro-trump-super-pacs-make-final-20-million-ad-push",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zUgV0XwX-Xk/top-two-pro-trump-super-pacs-make-final-20-million-ad-push",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split-10.29.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-30T16:11:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-facebook-manually-limited-new-york-post-hunter-biden-story-report.md",
-      "title": "Facebook manually limited New York Post Hunter Biden story: Report",
-      "excerpt": "Facebook fact-checkers manually flagged and restricted distribution of the New York Post's Hunter Biden story, documents obtained by The Guardian show.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/facebook-2-Reuters.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp",
-      "publishedDateTime": "2020-10-30T16:00:25-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

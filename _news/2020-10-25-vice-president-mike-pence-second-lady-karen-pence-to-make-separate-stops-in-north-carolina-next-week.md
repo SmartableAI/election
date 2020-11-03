@@ -27,42 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday"
-    excerpt: "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday."
-    publishedDateTime: 2020-10-26T23:30:00Z
-    webUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday"
-    ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+  - title: "WEB EXTRA: VP Mike Pence and Karen Pence Vote In 2020 Election"
+    excerpt: "Vice President Mike Pence and Second Lady Karen Pence voted in the 2020 general election in Indianapolis, IN on Friday. The Pences submitted their absentee ballots in person."
+    publishedDateTime: 2020-10-23T20:52:00Z
+    webUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/"
+    ampWebUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
     type: article
     provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 75
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vice President Mike Pence welcomed by crowd of 500 in Flint"
-    excerpt: "Tonight as the sun went down, Air Force Two touched down at Flint Bishop Airport. Pence hustled up to the podium, highlighting the importance of Michigan in this election."
-    publishedDateTime: 2020-10-29T04:28:00Z
-    webUrl: "https://www.fox2detroit.com/video/865403"
-    ampWebUrl: "https://www.fox2detroit.com/video/865403.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/video/865403.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 55
-  - title: "Vice President Pence Holds Rally in Mosinee, Wisconsin"
-    excerpt: "Vice President Pence delivered campaign remarks at a “Make America Great Again” rally in Florida’s state capital of… Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice ..."
-    publishedDateTime: 2020-10-30T09:25:00Z
-    webUrl: "https://www.c-span.org/event/?477463/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 70
 
 secured: "HN6Ox5XZxKI75ziBBr9qYPuWl0u7wqVuk8KU/6HFT0PAboeGY2s00Yi9qdqU7iynoPhgSSVwEPHvxgT6tzHPEo0sesADBVKNnSvcDdMb5NETnW1PWaBSqo9ZvxKIXVj5xiIQoAYRxgjHb8M6QPX67piZpwtQVpzcaxdNPMDaTWkA43ZBT0D8uKe2LgXYEuCYs+Yb70jrTY9DuptKqsmp78/couHzS228UTYeYZBPYXI5LCU9x94YgeHfp2nOmIU7aA4rkE7QQyjfN0H9Q8Fc+YAYtmB3Z9k2/vEJU4DoELdDfPklnfvAjg/1hYLnkERepz6hPW3i+JCX9YccTMaZJbYd/4iIn56W8fEBXHL3WTY=;aVL09GKgNrGfJAA+WnIing=="
 ---

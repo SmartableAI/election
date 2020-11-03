@@ -880,6 +880,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump trashes Fauci and makes baseless coronavirus claims in campaign call"
+    excerpt: "(CNN)A frustrated and at times foul-mouthed President Donald Trump claimed on a campaign call that people are tired of hearing about the deadly pandemic which has killed more than 215,000 ..."
+    publishedDateTime: 2020-10-19T17:09:00Z
+    webUrl: "https://www.cnn.com/2020/10/19/politics/donald-trump-anthony-fauci-coronavirus/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/donald-trump-anthony-fauci-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/donald-trump-anthony-fauci-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011151047-02-fauci-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Twitter removes tweet from top Trump Covid-19 adviser saying masks don't work"
     excerpt: "Twitter on Sunday removed a tweet from one of President Donald Trump's top Covid-19 advisers, which falsely claimed that masks don't work to prevent the spread of coronavirus. The tweet no longer appeared on the site Sunday morning,"
     publishedDateTime: 2020-10-20T00:48:00Z

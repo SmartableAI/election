@@ -25,54 +25,76 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence campaigns in Oakland County today"
-    excerpt: "Vice President Mike Pence will host a campaign rally in Waterford Township this afternoon with a focus on fracking, trade, the economy, and contrasting Joe Biden's record on China vs."
-    publishedDateTime: 2020-10-22T10:00:00Z
-    webUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.html"
-    ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.amp.html"
-    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.amp.html"
+  - title: "Vice President Mike Pence to visit Westmoreland County in final day before election"
+    excerpt: "With just one day to go before the 2020 presidential election, Vice President Mike Pence will appear on behalf of President Donald Trump’s reelection campaign in Westmoreland County. Pence will speak at a “Make America Great Again” rally in Latrobe on Monday morning."
+    publishedDateTime: 2020-11-02T12:59:00Z
+    webUrl: "https://www.wtae.com/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220"
+    ampWebUrl: "https://www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220"
     type: article
     provider:
-      name: The Oakland Press
-      domain: theoaklandpress.com
-    quality: 75
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 84
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/a/aa/aaa9c977-c5bd-5d7c-af59-639076a70f9c/5b56809739ced.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Mike Pence in Oakland County: 'The road to victory runs right through Michigan'"
-    excerpt: "\"I know Michigan is going to 'yes' to four more years of President Donald Trump in 2020.\" Vice President Mike Pence visited Michigan for the second time in a week on Thursday with a campaign stop in Waterford Township, hosting a rally with about 200-300 ..."
-    publishedDateTime: 2020-10-22T20:46:00Z
-    webUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-in-oakland-county-the-road-to-victory-runs-right-through-michigan/article_aee312e4-1498-11eb-bb82-4b03b4c666eb.html"
-    ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-in-oakland-county-the-road-to-victory-runs-right-through-michigan/article_aee312e4-1498-11eb-bb82-4b03b4c666eb.amp.html"
-    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-in-oakland-county-the-road-to-victory-runs-right-through-michigan/article_aee312e4-1498-11eb-bb82-4b03b4c666eb.amp.html"
-    type: article
-    provider:
-      name: The Oakland Press
-      domain: theoaklandpress.com
-    quality: 71
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/8/e1/8e1dd228-1499-11eb-a6c0-1b7d3257600d/5f91d7fb31dc4.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Vice President Mike Pence coming to Central Wisconsin Airport for campaign rally in Mosinee"
-    excerpt: "The vice president's visit comes while Wisconsin sees record high cases of COVID-19 and while members of his staff have been infected."
-    publishedDateTime: 2020-10-28T22:36:00Z
-    webUrl: "https://www.thenorthwestern.com/story/news/2020/10/28/mike-pence-mosinee-central-wisconsin-airport-rally-trump-set/6054485002/"
-    ampWebUrl: "https://amp.thenorthwestern.com/amp/6054485002"
-    cdnAmpWebUrl: "https://amp-thenorthwestern-com.cdn.ampproject.org/c/s/amp.thenorthwestern.com/amp/6054485002"
-    type: article
-    provider:
-      name: Northwestern Media
-      domain: thenorthwestern.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PWAU/639b99c2-6b8d-4fe7-8529-232863157d65-SPJ_Mike_Pence_Mosinee_rally_102820_354_ttm.jpg?auto=webp&crop=2260,1272,x0,y141&format=pjpg&width=1200"
+      - url: "https://kubrick.htvapps.com/vidthumb/a8ca6ef5-8b65-45e5-a083-461eccaede15/a8ca6ef5-8b65-45e5-a083-461eccaede15_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday"
+    excerpt: "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday."
+    publishedDateTime: 2020-10-26T23:30:00Z
+    webUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday"
+    ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+    type: article
+    provider:
+      name: TMJ4
+      domain: tmj4.com
+    quality: 75
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "With time short, Vice President Mike Pence returns in effort to keep Arizona red"
+    excerpt: "Vice President Mike Pence will campaign in Flagstaff and Tucson as the presidential race in battleground Arizona goes down to the wire."
+    publishedDateTime: 2020-10-30T13:14:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/30/vice-president-mike-pence-returns-effort-keep-arizona-red-flagstaff-tucson/6078523002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6078523002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6078523002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence welcomed by crowd of 500 in Flint"
+    excerpt: "Tonight as the sun went down, Air Force Two touched down at Flint Bishop Airport. Pence hustled up to the podium, highlighting the importance of Michigan in this election."
+    publishedDateTime: 2020-10-29T04:28:00Z
+    webUrl: "https://www.fox2detroit.com/video/865403"
+    ampWebUrl: "https://www.fox2detroit.com/video/865403.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/video/865403.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 55
+  - title: "VP Mike Pence to visit Tucson, Flagstaff on Oct. 30"
+    excerpt: "Vice President Mike Pence will be making back-to-back stops in Flagstaff and Tucson on Friday, two days after President Trump visited Bullhead City and Goodyear to host \"Make America Great Again\" rallies."
+    publishedDateTime: 2020-10-29T12:50:00Z
+    webUrl: "https://www.fox10phoenix.com/video/865477"
+    ampWebUrl: "https://www.fox10phoenix.com/video/865477.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/865477.amp"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 55
   - title: "WATCH: Vice President Mike Pence campaigns in the Upstate"
     excerpt: "Vice President Mike Pence was campaigning in the Upstate on Tuesday afternoon. Pence held a rally at Donaldson Jet Center in Greenville. Officials said a little more than 2,000 people attended the event held in a hangar."
     publishedDateTime: 2020-10-28T19:54:00Z
@@ -87,6 +109,35 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vice President Mike Pence Speaks At Rally In Latrobe"
+    excerpt: "With one day left until Election Day, Vice President Mike Pence is speaking at a rally at the Arnold Palmer Regional Airport; KDKA's Ross Guidotti reports."
+    publishedDateTime: 2020-11-02T17:27:00Z
+    webUrl: "https://cleveland.cbslocal.com/video/4838712-vice-president-mike-pence-speaks-at-rally-in-latrobe/"
+    ampWebUrl: "https://cleveland.cbslocal.com/video/4838712-vice-president-mike-pence-speaks-at-rally-in-latrobe/amp/"
+    cdnAmpWebUrl: "https://cleveland-cbslocal-com.cdn.ampproject.org/c/s/cleveland.cbslocal.com/video/4838712-vice-president-mike-pence-speaks-at-rally-in-latrobe/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 55
+  - title: "Vice President Pence Holds Rally in Flagstaff, AZ"
+    excerpt: "President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3.5 points."
+    publishedDateTime: 2020-10-30T07:24:00Z
+    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-az"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Campaigns in Latrobe, PA"
+    excerpt: "Vice President Pence delivers remarks at a campaign rally in Latrobe, PA. The Keystone State is getting visits from him and President Trump as well as their Democratic challengers, Joe Biden & Sen. Kamala Harris (CA),"
+    publishedDateTime: 2020-11-02T08:03:00Z
+    webUrl: "https://www.c-span.org/video/?477688-1/vice-president-pence-campaigns-latrobe-pa"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "uffxT5/A5qhdOK+1EGkpa2ov8zAYCzsCdZEHHkpqfsoGb3VhlOtQcJzhI0MXV2zlpjQM8psKkD9xvJC2KmhopFrCFTeyRWCPYAi/PEOBUPb9AdIunBGGvXdXuPfslC8EZd/Gq59uV75dQFY+xxkE0D6zn2rhoJ+W/0JEijJ2A70aeEcZ4N5BBJPIAJxgjPESjHloau00mT+ktJPyccdq29UhPxMHxwsMOVsOkk08WHJ3LykTwR2Wp9gs8htx3uMpA6x0hKE3OOoUDTtnmH+Py1q+KYiDpnl9Kx6A5I7EDFbdJOz1Wl3TO8ks3+BPd2yfF75rZBVEQljK6O568Y+pXSK+q3/rAQwszFSf4jG5xpB7j7isK37sT9jBRqZxOPN6eejAthyMuCGDH6WdXvLXQ23PBEh17sU1FQPWOh60P9YIItK+YsrCjlezFnVWm4im2VCtVeXwelMUspbFu2/foGeYZWvJUK7BXjjihjlAyDYyD2JWxnjuayBTQlmeMxpmpeoGj0Ns37kBJ3vaZfml/g==;1Y93N5NNuCfYms/v3CuG3g=="
 ---

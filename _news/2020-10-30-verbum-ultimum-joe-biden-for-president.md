@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden stumps for union support near Pittsburgh"
-    excerpt: "Democratic presidential nominee Joe Biden revved up a group of union members to help him turn out the vote in a suburban Pittsburgh county on Monday. (Nov. 2)"
-    publishedDateTime: 2020-11-02T22:16:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/02/biden-stumps-union-support-near-pittsburgh/6130843002/"
+  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
+    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
+    publishedDateTime: 2020-11-03T20:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Reuters
+      domain: reuters.com
+    quality: 108
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d9cf2ddc-1746-42f7-a3d2-903e299b3290_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
+        width: 818
+        height: 545
         isCached: true
 
 secured: "iIixoOGHimjcqkEYcsa2iXISEKWxWpCn7rfQLseN5qbEVXhIwdLWtTY88wReKaZZ+UC6t+pioHtKe+gDNX3WiPwQ9CLHDp1s95c7NWa4pSQQAq3vkhMKYCk9J9E52flqt1ioWlXl9kObOwVXQLbdeCaixIBmm2Su0AvkJ9sPi2LIimqumWPJeDwLfTc0u64308rITpIHjoWn69VnlM7rvdkF/bPhVrHO81Q9qJ9Y3qDCmNSF6vbq/wxfYZLSXVMCdJKBAyl/lqZ8pgZ8OLPXuDhyaKYDa0YufUOwKNzaabYOAH4LFyD9FUkKWp5A28qZzVVu0SHOTJkrRMbA4L8/ONHfqyNpuaeRyHO3JKQJQB8=;y7k6pwfVZJMA0debW0SUFw=="

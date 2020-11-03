@@ -2,6 +2,327 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-26-ben-shapiro-nothing-funny-about-kamala-harris-laughing-off-questions-about-socialism.md",
+      "title": "Ben Shapiro: 'Nothing funny' about Kamala Harris laughing off questions about socialism",
+      "excerpt": "Podcast host and author Ben Shapiro on Monday ripped Sen. Kamala Harris, D-Calif., for laughing at an interviewer who asked if she had socialist views.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zNjyUmwcoA/kamala-harris-laughs-socialist-views-ben-shapiro",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zNjyUmwcoA/kamala-harris-laughs-socialist-views-ben-shapiro",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp",
+      "publishedDateTime": "2020-10-26T07:56:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-mike-pence-tests-negative-as-he-campaigns-amid-covid-surge-across-us.md",
+      "title": "Mike Pence tests negative as he campaigns amid Covid surge across US",
+      "excerpt": "Cases are rising rapidly, with more than 8.5m cases and a death toll of 225,000, as battleground states see surging case numbers",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dce33209681cd0593109afbbad29c19a48ba23d5/0_71_4782_2872/master/4782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e23fe7e1cf3f49903dad84507f1bf4ba",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
+      "publishedDateTime": "2020-10-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-joe-bidens-dangerous-top-secret-foreign-policy.md",
+      "title": "Joe Biden's dangerous, top secret 'foreign policy'",
+      "excerpt": "Biden likely would have an unstable, factional coalition government and be unprepared to deal with any foreign hostilities.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy",
+      "originalUrl": "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp",
+      "publishedDateTime": "2020-10-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-mike-pence-running-and-typhoon-molave-mondays-best-photos.md",
+      "title": "Mike Pence running and Typhoon Molave – Monday's best photos",
+      "excerpt": "The Guardian’s picture editors select photo highlights from around the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos",
+      "originalUrl": "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/27fe2d7b425f2cbeafb45ca28589c0356b43e2cc/0_132_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=059e8b43da7aa82fd9c5d7d3585cc117",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-journalist-peggy-noonan-blasted-for-calling-kamala-harris-dancing-embarrassing.md",
+      "title": "Journalist Peggy Noonan Blasted For Calling Kamala Harris’ Dancing ‘Embarrassing’",
+      "excerpt": "Wall Street Journal columnist Peggy Noonan was heavily criticized for her comments on Sen. Kamala Harris in a recent op-ed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/journalist-peggy-noonan-blasted-calling-kamala-harris-dancing-embarrassing-3070034",
+      "originalUrl": "https://www.ibtimes.com/journalist-peggy-noonan-blasted-calling-kamala-harris-dancing-embarrassing-3070034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/kamala-harris.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/journalist-peggy-noonan-blasted-calling-kamala-harris-dancing-embarrassing-3070034?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/journalist-peggy-noonan-blasted-calling-kamala-harris-dancing-embarrassing-3070034?amp=1",
+      "publishedDateTime": "2020-10-26T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-biden-staff-tells-60-minutes-he-misspoke-on-cost-of-free-public-college.md",
+      "title": "Biden staff tells '60 Minutes' he misspoke on cost of free public college",
+      "excerpt": "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OKvJtRcm96Q/biden-staff-misspoke-60-minutes-free-public-college-cost",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OKvJtRcm96Q/biden-staff-misspoke-60-minutes-free-public-college-cost",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp",
+      "publishedDateTime": "2020-10-26T05:35:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-pence-hits-campaign-trail-amid-wh-virus-outbreak.md",
       "title": "Pence hits campaign trail amid WH virus outbreak",
       "excerpt": "Publish Audio Pence hits campaign trail amid WH virus outbreak. Posted [AUDIO ONLY] Vice President Mike Pence campaigned on Sunday despite a COVID-19 outbreak among his a",
@@ -607,7 +928,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27A0BB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 9215,
+      "heat": 9255,
       "tags": null,
       "images": [
         {
@@ -1029,331 +1350,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-rnc-chair-mcdaniel-calls-out-biden-for-energy-comments-hes-lying-to-the-american-people.md",
-      "title": "RNC Chair McDaniel calls out Biden for energy comments: 'He's lying to the American people'",
-      "excerpt": "Republican National Committee Chair Ronna McDaniel accused Democratic presidential nominee Joe Biden of \"lying to the American people\" regarding his energy policies, specifically regarding fracking and the oil industry.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDKAnypyY1U/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDKAnypyY1U/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c12189ec-a656-4aec-b107-11d3bc0ac4f5/5ec31af4-90ba-4cb1-9c02-e0d45010d724/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp",
-      "publishedDateTime": "2020-10-25T06:46:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-biden-says-in-video-he-has-created-voter-fraud-organization.md",
-      "title": "Biden says in video he has created 'voter fraud organization'",
-      "excerpt": "Democratic nominee Joe Biden said his team has created \"the most extensive and inclusive voter fraud organization in the history of American politics\" in a recent video.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F7YzaNNGHLE/biden-voter-fraud-organization-video-gaffe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F7YzaNNGHLE/biden-voter-fraud-organization-video-gaffe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298607934584-e1603619808274.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-voter-fraud-organization-video-gaffe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voter-fraud-organization-video-gaffe.amp",
-      "publishedDateTime": "2020-10-25T06:18:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-pence-defends-trump-covid-19-response-claims-administration-literally-saved-hundreds-of-thousands.md",
-      "title": "Pence defends Trump COVID-19 response, claims administration 'literally saved hundreds of thousands'",
-      "excerpt": "Vice President Mike Pence has again defended the Trump administration's response to the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AOtPNlbGc6E/pence-dismisses-biden-attacks-over-covid-19-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AOtPNlbGc6E/pence-dismisses-biden-attacks-over-covid-19-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/592054c4-68cd-45b2-ae7f-f3d5e8645d87/63381419-bca8-4bf5-a42a-9f6af8160c38/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-dismisses-biden-attacks-over-covid-19-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-dismisses-biden-attacks-over-covid-19-response.amp",
-      "publishedDateTime": "2020-10-25T04:30:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.md",
-      "title": "Can Joe Biden flip Georgia to Democrats? Campaign stops set for Warm Springs, Atlanta",
-      "excerpt": "Joe Biden will travel to Georgia next week, making a late push in a state that Republicans have won every presidential election since 1996. Biden’s campaign says he will deliver remarks in Warm Springs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html",
-      "originalUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VZT67ZTTZNERHL4YLTGMZVJASY.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp",
-      "publishedDateTime": "2020-10-24T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing.md",
-      "title": "AOC tells Jane Fonda it's OK to be Trump's 'public enemy No. 1': 'That's a good thing'",
-      "excerpt": "Being attacked President Trump is a “badge of honor,\" U.S. Rep. Alexandria Ocasio-Cortez told actress Jane Fonda during an online interview last week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L19Hh4W6lYo/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L19Hh4W6lYo/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/181cfcca-2a48-4e5d-8d4b-11a506858939/daa0e4ed-79eb-48d3-a9fe-7476913978fa/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing.amp",
-      "publishedDateTime": "2020-10-24T22:21:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-4-pence-aides-test-positive.md",
-      "title": "4 Pence Aides Test Positive",
-      "excerpt": "Six states broke records as the virus surged at an alarming pace. Dr. Anthony Fauci suggested the U.S. might need a national mask mandate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates?name=styln-coronavirus&label=undefined&block=storyline_menu_recirc&impression_id=8b644a51-1681-11eb-865f-353ca55f0bc4&variant=undefined",
-      "originalUrl": "https://www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates?name=styln-coronavirus&label=undefined&block=storyline_menu_recirc&impression_id=8b644a51-1681-11eb-865f-353ca55f0bc4&variant=undefined",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/24/us/24virus-briefing-record2/merlin_178956543_7b911ad5-0186-4e53-ab31-4d31bf107a0a-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates.amp.html",
-      "publishedDateTime": "2020-10-24T22:20:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

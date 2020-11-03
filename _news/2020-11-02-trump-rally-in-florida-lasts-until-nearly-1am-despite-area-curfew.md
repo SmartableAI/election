@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Melania Trump votes in Florida wearing Gucci dress, no mask"
+    excerpt: "First Lady Melania Trump was dressed to the nines while voting in person on Election Day, wearing an equestrian-print white dress among other high-fashion accessories. Trump cast her ballot at a voting center in Palm Beach,"
+    publishedDateTime: 2020-11-03T20:23:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Melania-Trump-Getty-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "fKaTpfX1EbzpfKbP3pSSywYa1qUgTMKwPS0txvowNVml+s64UcOEOYStWtaayCdYkQTGfMIE94Ay9d1H5YsonkmuQwNbEdNAK6Pi/mPDyJn05nAXZrzF6wU98OYTXPG3tYa6pNMbrgo0YupVuU6hP/u+ZRI6PzoV40HrDtKf2rAREnhxUUwQ05ksibyKpZ4Q+Zs+9pQWbtMr/M5sa/zLq715FjTXTaTZ6hGZSZnE8fGESDP/PbhjmSbgikO3Xxioemqyy+DN55jnBBAuC9dbkQclsbtHtD5PSxo49/Tm4j3Jw3r61SUM+ozhMIkWqmwSqdXdrV5z8BvzKtc4lpvCZKVx9VusX9wZYdTZXpexyOI=;Ep0AkFap62pUlMpmSfozVQ=="
 ---

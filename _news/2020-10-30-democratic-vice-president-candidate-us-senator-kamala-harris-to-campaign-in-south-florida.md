@@ -220,6 +220,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "As U.S. votes, a village in India prays for Kamala Harris"
+    excerpt: "Thulasendrapuram, which is about eight hours' drive from the southern city of Chennai, pulled together in a special ceremony at the main temple to wish Kamala Harris good luck on Election Day."
+    publishedDateTime: 2020-11-03T16:16:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-harris-ancestral-village-prays-election-day-20201103-xsxssgsezvaollomckldm7vkfy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-harris-ancestral-village-prays-election-day-20201103-xsxssgsezvaollomckldm7vkfy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-harris-ancestral-village-prays-election-day-20201103-xsxssgsezvaollomckldm7vkfy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/faeDrPsPezhEa-8HTVnvVeOYX1U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/T5BRY7M2WQ3NE2YMZTFSQVZ3MI.aspx"
+        width: 1200
+        height: 855
+        isCached: true
   - title: "The Countdown: Avengers stars quiz Kamala Harris and what to wear to vote"
     excerpt: "Thirteen days left and we look at what you can wear when you go vote and who gets to question Kamala Harris. It was Democrat vice-presidential pick Kamala Harris's birthday yesterday and the cast of the Avengers held a fundraiser over Zoom where they got to question her."
     publishedDateTime: 2020-10-21T17:26:00Z
@@ -251,6 +267,20 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-28T014859Z_473603595_RC2DRJ9IJCP1_RTRMADP_3_USA-ELECTION-HARRIS-1024x681.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "Where is California native Kamala Harris spending Election Day?"
+    excerpt: "Kamala Harris is spending part of her last day on the campaign trail in Detroit. She'll be touring the Motor City on Election Day, encouraging supporters to go to the polls, according to reports. The California native's last-minute visit in Michigan signals the importance of this state."
+    publishedDateTime: 2020-11-03T19:17:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-Election-Day-where-watching-returns-15697222.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/02/44/20195619/81/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Kamala Harris to Campaign in Texas, First Dem VP Candidate to Do So in 30-Plus Years"
     excerpt: "\"Texas is not a battleground state. It's that simple,\" former Texas Gov. Rick Perry said of Trump not campaigning in Texas prior to the election. Polls show the race as very tight."
@@ -343,6 +373,34 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/NPPP/0716bd2e-ed3b-4861-b40e-ae39e3712e3f-PBC_Early_Voting_Color_04.jpg?auto=webp&crop=4165,2343,x0,y239&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris speaks to reporters"
+    excerpt: "Watch \"Kamala Harris speaks to reporters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-03T20:28:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201103201045-kamala-harris-speaks-to-reporters/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/03/story_07531918_1604434564.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Village in India prays Kamala Harris' victory"
+    excerpt: "A village in India that was home to the grandparents of Democratic vice presidential candidate Kamala Harris gathered Tuesday to pray for her ticket's win in the U.S. presidential election."
+    publishedDateTime: 2020-11-03T20:50:00Z
+    webUrl: "https://www.cbsnews.com/video/village-in-india-prays-kamala-harris-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/8240f33f-3ec3-4309-984b-1e6cdbc16292/thumbnail/1200x630/ec69a3072b588fc813763eefe160d1ee/social-indianvillagepraysforharris-579935-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Pence, Harris prep for debate with higher stakes"
     excerpt: "NBC NEWS – Vice President Mike Pence and Senator Kamala Harris are expected to face off in a debate on Wednesday night against an extraordinary backdrop that has raised the stakes of the event."
@@ -753,6 +811,22 @@ related:
       - url: "https://imgix.bustle.com/uploads/image/2020/10/5/fd8319bd-a69f-41e5-bdb9-379d19c5fe4b-untitled-design-2020-10-05t114458422.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris in Detroit to rally Election Day support: 'Have faith in the American people'"
+    excerpt: "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit."
+    publishedDateTime: 2020-11-03T19:34:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/"
+    ampWebUrl: "https://amp.freep.com/amp/6129769002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6129769002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDTF/f6c9f117-74cf-4558-a513-e8dc14dfdc70-AP20308672071807.jpg?auto=webp&crop=4361,2454,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Seattle Storm endorse Joe Biden-Kamala Harris ticket in 2020 presidential election"
     excerpt: "In a rare move for a U.S. professional sports team, the Seattle Storm on Wednesday endorsed the Democratic ticket of former Vice President Joe Biden and U.S. Senator Kamala Harris for the 2020 presidential election."
@@ -1750,6 +1824,24 @@ related:
     excerpt: "Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign. Democratic Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign."
     publishedDateTime: 2020-11-02T18:30:00Z
     webUrl: "https://www.c-span.org/event/?477707/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Arrives in Detroit"
+    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to reporters as she arrives in Detroit to help get out the vote for the Biden-Harris ticket. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to reporters as she arrives in Detroit to help get out the vote for the Biden-Harris ticket."
+    publishedDateTime: 2020-11-03T19:09:00Z
+    webUrl: "https://www.c-span.org/event/?477774/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris (D-CA) Campaigns in Detroit"
+    excerpt: "T14:07:12-05:00 Kamala Harris (D-CA) urges voters in Detroit to get to the polls and vote. Senator Kamala Harris (D-CA) urges voters in Detroit to get to the polls and vote. Javascript must be enabled in order to access C-SPAN videos."
+    publishedDateTime: 2020-11-03T19:15:00Z
+    webUrl: "https://www.c-span.org/video/?477751-1/senator-kamala-harris-d-ca-campaigns-detroit"
     type: article
     provider:
       name: C-SPAN

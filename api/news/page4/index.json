@@ -2,6 +2,416 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-30-nfl-legend-brett-favre-endorses-trump-for-president.md",
+      "title": "NFL legend Brett Favre endorses Trump for president",
+      "excerpt": "NFL great Brett Favre has endorsed President Donald Trump for reelection. He's one of the most prominent figures in sports to publicly pledge support for the President.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fsVIeIUpq4U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fsVIeIUpq4U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201030124235-brett-favre-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/30/politics/brett-favre-endorses-trump-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/brett-favre-endorses-trump-trnd/index.html",
+      "publishedDateTime": "2020-10-30T10:12:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams.md",
+      "title": "Pence To Hold Rallies In Flagstaff, Tucson On Friday: Livestreams",
+      "excerpt": "With four days to go until Election Day, Vice President Mike Pence returns to Arizona to rally support from voters.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/arizona/tucson/pence-hold-rallies-flagstaff-tucson-friday-livestreams",
+      "originalUrl": "https://patch.com/arizona/tucson/pence-hold-rallies-flagstaff-tucson-friday-livestreams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/566479/20201030/124208/styles/patch_image/public/gettyimages-1228965113___30124130047.jpg?width=984",
+          "width": 911,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams",
+      "publishedDateTime": "2020-10-30T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-criscrossing-texas-in-us-senate-race-hegar-joins-kamala-harris-cornyn-rolls-with-ted-cruz.md",
+      "title": "Criscrossing Texas: In U.S. Senate race, Hegar joins Kamala Harris, Cornyn rolls with Ted Cruz",
+      "excerpt": "U.S. Sen. John Cornyn and his challenger, former Air Force pilot MJ Hegar, are getting some big-name boosts in the final stretch of their Senate race",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/15/00/31/20186702/3/rawImage.jpg",
+          "width": 1935,
+          "height": 1290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "publishedDateTime": "2020-10-30T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-john-james-slams-michigan-senate-opponent-says-dems-freaking-out-as-biden-obama-storm-state.md",
+      "title": "John James slams Michigan Senate opponent, says Dems 'freaking out' as Biden, Obama storm state",
+      "excerpt": "Michigan Senate candidate John James reacts on 'Fox & Friends' to Joe Biden and former President Barack Obama campaigning in his state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bncp6ts5Y5s/michigan-senate-campaign-republican-gop-john-james-biden-obama",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bncp6ts5Y5s/michigan-senate-campaign-republican-gop-john-james-biden-obama",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michigan-senate-campaign-republican-gop-john-james-biden-obama.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-senate-campaign-republican-gop-john-james-biden-obama.amp",
+      "publishedDateTime": "2020-10-30T07:09:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-candace-owens-on-lil-waynes-trump-support-liberals-laughed-at-idea-of-black-exit-by-dems.md",
+      "title": "Candace Owens on Lil Wayne's Trump support: Liberals laughed at idea of 'Black Exit' by Dems",
+      "excerpt": "Black Americans leaving the Democratic Party shows they have done nothing for the Black community, according to author Candace Owens on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86M7oShwDNk/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86M7oShwDNk/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe.amp",
+      "publishedDateTime": "2020-10-30T05:54:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-column-white-house-of-horrors-a-halloween-themed-poem-about-donald-trump.md",
+      "title": "Column: White House of Horrors: A Halloween-themed poem about Donald Trump",
+      "excerpt": "The latest TrumPoem, a rhyming account of the presidency of Donald J. Trump, loosely based on his words and acts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html",
+      "originalUrl": "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/j-XTbKD9PYU9tz4KDyqMTvFLhiQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/NZWX7L47I5C4LGNNJC3VIP5CPM.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-30T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-pence-highlights-economic-recovery-report-at-nevada-rally.md",
+      "title": "Pence highlights economic recovery report at Nevada rally",
+      "excerpt": "RENO, Nev. (AP) — Vice President Mike Pence urged early in-person voting and highlighted reports of a partial economic recovery during a rally Thursday in Reno, hoping to drum up enthusiasm in Nevada in the final days before the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfchronicle.com/news/article/Pence-returns-to-Nevada-for-rally-in-final-15685969.php",
+      "originalUrl": "https://www.sfchronicle.com/news/article/Pence-returns-to-Nevada-for-rally-in-final-15685969.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/77/65/20184389/5/375x250.jpg",
+          "width": 375,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sfchronicle.com/news/amp/Pence-returns-to-Nevada-for-rally-in-final-15685969.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Pence-returns-to-Nevada-for-rally-in-final-15685969.php",
+      "publishedDateTime": "2020-10-30T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-facebook-admits-it-improperly-blocked-some-political-ads-due-to-technical-issues-as-joe-bidens-campaign-slams-it-for-being-wholly-unprepared.md",
+      "title": "Facebook admits it 'improperly' blocked some political ads due to 'technical issues' as Joe Biden's campaign slams it for being 'wholly unprepared'",
+      "excerpt": "Facebook said no ads were blocked \"because of any partisan consideration,\" as Biden's camp accused the company of offering \"no clarity\" on the issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ee3a894f34d0518a8716ae2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-admits-tech-glitch-political-ad-ban-biden-camp-furious-2020-10?amp",
+      "publishedDateTime": "2020-10-29T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-people-are-going-to-be-shocked-return-of-the-shy-trump-voter.md",
       "title": "‘People Are Going To Be Shocked’: Return of the ‘Shy’ Trump Voter?",
       "excerpt": "In 2016, pollsters Arie Kapteyn and Robert Cahaly saw Trump coming. In 2020, they see polls again underestimating his support.",
@@ -596,58 +1006,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-30-hackers-steal-23-million-from-wisconsin-gops-trump-reelection-fund.md",
-      "title": "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund",
-      "excerpt": "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/",
-      "originalUrl": "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/",
-      "publishedDateTime": "2020-10-29T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-29-retired-minnesota-police-officers-asked-to-be-trump-poll-watchers-in-rough-neighborhoods.md",
       "title": "Retired Minnesota police officers asked to be Trump poll watchers in 'rough neighborhoods'",
       "excerpt": "A volunteer attorney for the Trump 2020 campaign is seeking retired officers to work as poll challengers in Minnesota.",
@@ -764,7 +1122,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -966,382 +1324,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-biden-and-cunningham-hold-slim-leads-in-north-carolina-poll-finds.md",
-      "title": "Biden and Cunningham Hold Slim Leads in North Carolina, Poll Finds",
-      "excerpt": "Joe Biden and Cal Cunningham both led their Republican rivals by three points, a Times/Siena College survey found. Perhaps most notably, 64 percent of respondents said they had already voted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/28/us/-promo-1603923638541/-promo-1603923638541-facebookJumbo.png",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html",
-      "publishedDateTime": "2020-10-29T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-top-democrat-says-trump-administration-moving-ahead-with-sale-of-f-35-jets-to-the-uae.md",
-      "title": "Top Democrat says Trump administration moving ahead with sale of F-35 jets to the UAE",
-      "excerpt": "The chairman of the House Foreign Affairs Committee said Thursday that the Trump administration has informally notified Congress of its intent to move forward with a major arms sale to the United Arab Emirates involving advanced F-35 jets.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfsYpxzAR3E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfsYpxzAR3E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201029133251-01-f-35-lightning-ii-joint-strike-fighter-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/29/politics/f-35-jets-uae/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/f-35-jets-uae/index.html",
-      "publishedDateTime": "2020-10-29T10:50:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-watch-joe-biden-holds-drive-in-rally-in-tampa-florida.md",
-      "title": "WATCH: Joe Biden holds drive-in rally in Tampa, Florida",
-      "excerpt": "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
-      "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-09T170355Z_1622682236_RC25FJ9G8NK1_RTRMADP_3_USA-ELECTION-BIDEN-1024x717.jpg",
-          "width": 1024,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
-      "publishedDateTime": "2020-10-29T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-biden-dismisses-record-economic-growth-as-not-nearly-enough-to-dig-out-of-deep-recession.md",
-      "title": "Biden dismisses record economic growth as not 'nearly enough' to dig out of 'deep' recession",
-      "excerpt": "Democratic presidential nominee Joe Biden dismissed the U.S. economy's record-shattering growth as not \"nearly enough\" to get the country out of a \"deep hole\" on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HYnv6vHSu3k/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HYnv6vHSu3k/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20303505056598.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response.amp",
-      "publishedDateTime": "2020-10-29T09:17:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-former-democrat-rubin-on-why-he-is-voting-for-trump-no-feeling-of-patriotism-on-the-left-anymore.md",
-      "title": "Former Democrat Rubin on why he is voting for Trump: 'No feeling of patriotism' on the left anymore",
-      "excerpt": "President Trump is the last bastion to stopping the radical left, talk show host Dave Rubin said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
-      "publishedDateTime": "2020-10-29T08:41:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-trump-is-taking-credit-for-the-biggest-and-best-gdp-in-american-history-here-are-the-facts.md",
-      "title": "Trump is taking credit for the 'biggest and best' GDP  in American history. Here are the facts",
-      "excerpt": "The US government just published an eye-popping report: Gross domestic product, the broadest measure of the country's economic growth, grew at a stunning 33.1% annual rate in the third quarter.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEqNM0jKFkw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEqNM0jKFkw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201028225743-01-trump-fastest-gdp-growth-history-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/29/economy/gdp-report-trump-biggest-best-factcheck/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/economy/gdp-report-trump-biggest-best-factcheck/index.html",
-      "publishedDateTime": "2020-10-29T08:18:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-livestream-donald-trump-rally-set-for-fayetteville-thursday.md",
-      "title": "Livestream: Donald Trump Rally Set For Fayetteville Thursday",
-      "excerpt": "Trump's rally will be held at the Fayetteville Regional Airport, located at 400 Airport Road in Fayetteville. The event is set to begin at 6:30 p.m. Trump's travel to the state highlights just how important his campaign views the Tar Heel state,",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/north-carolina/charlotte/livestream-donald-trump-rally-set-fayetteville-thursday",
-      "originalUrl": "https://patch.com/north-carolina/charlotte/livestream-donald-trump-rally-set-fayetteville-thursday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/getty/22921643/20201029/104240/styles/patch_image/public/gettyimages-1282737607___29104037184.jpg?width=984",
-          "width": 984,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/north-carolina/charlotte/amp/29048865/livestream-donald-trump-rally-set-for-fayetteville-thursday",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/north-carolina/charlotte/amp/29048865/livestream-donald-trump-rally-set-for-fayetteville-thursday",
-      "publishedDateTime": "2020-10-29T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

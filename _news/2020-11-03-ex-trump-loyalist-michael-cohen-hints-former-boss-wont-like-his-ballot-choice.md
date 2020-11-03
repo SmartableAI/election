@@ -8,6 +8,9 @@ webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nKdKfeLwf7o/michael-coh
 ampWebUrl: "https://www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp"
 type: article
+quality: 171
+heat: 171
+published: true
 
 provider:
   name: Fox News

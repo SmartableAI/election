@@ -2,6 +2,335 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-10-06-trump-campaign-says-biden-lacks-firsthand-experience-of-being-infected-with-covid-19.md",
+      "title": "Trump Campaign Says Biden Lacks 'Firsthand Experience' of Being Infected With COVID-19",
+      "excerpt": "\"Those firsthand experiences are what are going to get President Trump four more years,\" Trump campaign spokesperson Erin Perrine told Fox News on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440",
+      "originalUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1012,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1646101/erin-perrnie.png",
+          "width": 2560,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1",
+      "publishedDateTime": "2020-10-05T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-eric-trump-scheduled-to-sit-for-deposition-monday-in-new-york-attorney-general-investigation.md",
+      "title": "Eric Trump scheduled to sit for deposition Monday in New York attorney general investigation",
+      "excerpt": "Eric Trump, who runs day-to-day operations of the family real estate empire, is scheduled to sit for a deposition on Monday as part of the New York attorney general's investigation into whether the Trump Organization improperly inflated the value of its assets to obtain loans or tax benefits.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005114222-eric-trump-2019-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html",
+      "publishedDateTime": "2020-10-05T09:30:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-joe-biden-enlists-artists-like-ludacris-dupri-jeezy-and-monica-for-voting-ads-in-battleground-states.md",
+      "title": "Joe Biden enlists artists like Ludacris, Dupri, Jeezy and Monica for voting ads in battleground states",
+      "excerpt": "Joe Biden has tapped popular music artists like Ludacris, Monica, Jermaine Dupri and Jeezy to encourage Black citizens in battleground states to vote in the upcoming presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states",
+      "originalUrl": "https://www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/ludacris-reuters.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states.amp",
+      "publishedDateTime": "2020-10-05T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-who-is-dr-sean-conley-president-trumps-physician.md",
+      "title": "Who is Dr. Sean Conley, President Trump's physician?",
+      "excerpt": "Conley, an officer in the U.S. Navy, earned his B.S. from the University of Notre Dame in 2002, according to his LinkedIn. He earned his D.O. from the Philadelphia College of Osteopathic Medicine and is an experienced emergency physician.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoZbwOiSh2M/sean-conley-walter-reed-osteopathic-medicine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoZbwOiSh2M/sean-conley-walter-reed-osteopathic-medicine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20278602412679-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sean-conley-walter-reed-osteopathic-medicine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sean-conley-walter-reed-osteopathic-medicine.amp",
+      "publishedDateTime": "2020-10-05T09:01:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas-strongest-recovery-ever.md",
+      "title": "Joe Biden's small business outreach shows he's ready to spark America's strongest recovery ever",
+      "excerpt": "We need to turn this recovery into America’s renaissance, and that starts with sending Joe Biden and Kamala Harris to the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas",
+      "originalUrl": "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp",
+      "publishedDateTime": "2020-10-05T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-bongino-on-infuriating-media-attacks-of-trumps-drive-by-visit-outside-hospital.md",
+      "title": "Bongino on ‘infuriating’ media attacks of Trump’s drive-by 'visit' outside hospital",
+      "excerpt": "The mainstream media’s attacks of President Trump’s surprise drive-by visit to his supporters outside Walter Reed Medical Center on Sunday is “infuriating,” former Secret Service agent Dan Bongino told “Fox & Friends” on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/shNtPZ7Fuy4/bongino-media-trump-drive-by-visit-hospital",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/shNtPZ7Fuy4/bongino-media-trump-drive-by-visit-hospital",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp",
+      "publishedDateTime": "2020-10-05T08:04:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-secret-service-volunteered-for-trump-drive-lewandowski-claims.md",
       "title": "Secret Service ‘Volunteered’ For Trump Drive, Lewandowski Claims",
       "excerpt": "An attending physician said the agents likely didn’t know the “real risks” of being inside the vehicle with Trump.",
@@ -1029,320 +1358,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-trump-and-the-gop-are-using-kyle-rittenhouse-in-last-ditch-2020-voter-strategy.md",
-      "title": "Trump and the GOP are using Kyle Rittenhouse in last-ditch 2020 voter strategy",
-      "excerpt": "With weeks to go before a chaotic and close election, Republicans are cultivating a vigilante identity — someone who breaks the rules to make things right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/trump-gop-are-using-kyle-rittenhouse-last-ditch-2020-voter-ncna1241940",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-gop-are-using-kyle-rittenhouse-last-ditch-2020-voter-ncna1241940",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_40/3416625/201001-kyle-rittenhouse-jm-0936_ba06d965e936a9e276a03c1a82c2a974.jpg",
-          "width": 2000,
-          "height": 1331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1241940",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241940",
-      "publishedDateTime": "2020-10-04T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-jim-carrey-plays-joe-biden-in-snl-season-premiere.md",
-      "title": "Jim Carrey Plays Joe Biden in ‘S.N.L.’ Season Premiere",
-      "excerpt": "Chris Rock hosted the first live episode since “S.N.L.” was driven from its studio by the coronavirus, and the show didn’t hold back on jokes about President Trump’s diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/04/arts/04snl/04snl-facebookJumbo.jpg",
-          "width": 1000,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.amp.html",
-      "publishedDateTime": "2020-10-04T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-trump-said-to-be-improving-but-next-48-hours-critical.md",
-      "title": "Trump said to be improving but next 48 hours 'critical'",
-      "excerpt": "President Donald Trump says in a video from his hospital quarters that he is feeling better as he battles the novel coronavirus and hopes to “be back soon.”",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_d2b4023d2f934b70b528779f972f8185_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "publishedDateTime": "2020-10-03T23:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-jim-carrey-and-maya-rudolph-transform-into-joe-biden-and-kamala-harris-snl.md",
-      "title": "Jim Carrey and Maya Rudolph Transform into Joe Biden and Kamala Harris - SNL",
-      "excerpt": "Matt Brennan joined the Los Angeles Times as television editor in 2019. Previously, he served as Paste Magazine’s TV editor, and has written for Indiewire, Slate, Deadspin and LA Weekly, among others.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/tv/h-aqttywddi-123",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/h-aqttywddi-123",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 307,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/cc38a37/2147483647/strip/true/crop/480x252+0+54/resize/1200x630!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh-aqTtywDDI%2Fhqdefault.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-03T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-snl-kicks-off-new-season-with-potus-debate-aka-alec-baldwins-trump-jim-carreys-biden-go-off-the-rails.md",
-      "title": "‘SNL’ Kicks Off New Season With POTUS Debate AKA Alec Baldwin’s Trump & Jim Carrey’s Biden Go “Off The Rails.”",
-      "excerpt": "As Donald Trump sits in a military hospital receiving treatment for the coronavirus, Saturday Night Live decided to stick with skewering the first Presidential debate of September 29. “Even though",
-      "sourceUrl": null,
-      "webUrl": "https://deadline.com/2020/10/snl-donald-trump-covid-jim-carrey-joe-biden-alec-baldwin-presidential-debate-maya-rudolph-1234590926/#!",
-      "originalUrl": "https://deadline.com/2020/10/snl-donald-trump-covid-jim-carrey-joe-biden-alec-baldwin-presidential-debate-maya-rudolph-1234590926/#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://deadline.com/wp-content/uploads/2020/10/snl-s-46-biden-trump-1.jpg?w=1024",
-          "width": 1024,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://deadline.com/2020/10/snl-donald-trump-covid-jim-carrey-joe-biden-alec-baldwin-presidential-debate-maya-rudolph-1234590926/amp/",
-      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-donald-trump-covid-jim-carrey-joe-biden-alec-baldwin-presidential-debate-maya-rudolph-1234590926/amp/",
-      "publishedDateTime": "2020-10-03T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-the-squad-responds-to-twitter-policy-banning-posts-wishing-for-trumps-death-excuse-me.md",
-      "title": "'The Squad' Responds to Twitter Policy Banning Posts Wishing for Trump's Death: 'Excuse Me?'",
-      "excerpt": "\"So... you mean to tell us you could've done this the whole time?\" Congresswoman Alexandria Ocasio-Cortez tweeted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234",
-      "originalUrl": "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1645787/squad.jpg",
-          "width": 3000,
-          "height": 2192,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234?amp=1",
-      "publishedDateTime": "2020-10-03T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }

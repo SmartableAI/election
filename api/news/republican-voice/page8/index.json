@@ -2,6 +2,231 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-07-is-joy-reid-hoping-that-president-trump-dies-it-sure-seems-like-it-curtis-houck-wrote.md",
+      "title": "'Is Joy Reid hoping that President Trump dies? It sure seems like it,' Curtis Houck wrote",
+      "excerpt": "MSNBC host Joy Reid said President Trump looks like a “very sick elderly man” and was accused of hoping he dies from coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/05/13/694940094001_6036228258001_6036224895001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain.amp",
+      "publishedDateTime": "2020-10-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-sen-cotton-calls-out-obama-biden-admin-clinton-on-russia-collusion-hoax.md",
+      "title": "Sen. Cotton calls out Obama-Biden admin, Clinton on Russia collusion hoax",
+      "excerpt": "The declassification of former CIA director John Brennan's notes proves Hillary Clinton colluded with foreign entities to inject disinformation into the 2016 campaign, Sen. Tom Cotton, R-Ark., told \"Fox & Friends\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCKzsD3mkUU/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCKzsD3mkUU/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp",
+      "publishedDateTime": "2020-10-07T04:48:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-trumps-declassifying-order-wont-erase-his-wrongdoing-swalwell-says.md",
+      "title": "Trump's declassifying order won't erase his wrongdoing, Swalwell says",
+      "excerpt": "Rep. Eric Swalwell calls Trump move a 'sloppy sleight of hand'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mgvXIU38pFo/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mgvXIU38pFo/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing.amp",
+      "publishedDateTime": "2020-10-06T19:26:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-trump-says-itll-be-fast-and-easy-to-confirm-amy-coney-barrett.md",
+      "title": "Trump says it'll be 'fast and easy' to confirm Amy Coney Barrett",
+      "excerpt": "President Trump declared on Twitter Tuesday evening that the Senate battle to confirm Amy Coney Barrett to the Supreme Court “will be fast and easy.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s7qeKGpTq1Y/trump-fast-confirm-amy-coney-barrett",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s7qeKGpTq1Y/trump-fast-confirm-amy-coney-barrett",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20273529004578.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp",
+      "publishedDateTime": "2020-10-06T18:57:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-puerto-rico-gov-wanda-vazquez-garced-endorses-trump-re-election-bid.md",
       "title": "Puerto Rico Gov. Wanda Vázquez Garced endorses Trump re-election bid",
       "excerpt": "Last month, the Trump administration unveiled a $13 billion aid package to help Puerto Rico in its ongoing recovery from Hurricane Maria.",
@@ -1460,232 +1685,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-president-trump-leads-facebook-ad-spending-in-arizona.md",
-      "title": "President Trump leads Facebook ad spending in Arizona",
-      "excerpt": "President Trump has spent more money on Facebook advertising in Arizona and other parts of the Sun Belt than any other candidate, campaign or business. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u34Jr-tiLQA/president-trump-leads-facebook-ad-spending-in-arizona",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u34Jr-tiLQA/president-trump-leads-facebook-ad-spending-in-arizona",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Trump-Biden-THUMB-3.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp",
-      "publishedDateTime": "2020-10-03T09:51:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-dem-squad-accuses-twitter-of-shielding-trump-from-hate-tweets-after-dismissing-attacks-on-them.md",
-      "title": "Dem 'Squad' accuses Twitter of shielding Trump from hate-tweets after dismissing attacks on them",
-      "excerpt": "Democratic Reps. Rashida Tlaib and Alexandria Ocasio-Cortez are complaining that Twitter has gone the extra mile to shield President Trump from tweets wishing him harm or death after the platform failed to protect others. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8j34q_yq790/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8j34q_yq790/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp",
-      "publishedDateTime": "2020-10-03T08:29:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-joe-bidens-other-questionable-chinese-concern-and-involvement-hollywood-part-two.md",
-      "title": "Joe Biden’s OTHER Questionable Chinese Concern and Involvement - Hollywood (Part Two)",
-      "excerpt": "This piece is part two in a series. You can read the first installment here.SELF-CENSORING THEIR OWN SELF-INTERESTSThe pandemic has created a constant stream of challenges for the studios",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301",
-      "originalUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2016/63/90ca6ef4-d0ce-4729-9c4a-0b1df4f8db40.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301?amp=true",
-      "publishedDateTime": "2020-10-02T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us.md",
-      "title": "Will Biden ‘Condemn’ the Stalinist Regime Whose Lifelong Obsession Is the Destruction of the US?",
-      "excerpt": "Are you willing tonight to condemn white supremacists and militia groups…” President Trump: “Sure…What do you want to call them? Give me a name.”Chris Wallace: “White supremacists and right-wing",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371",
-      "originalUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/274/745a0700-7ead-4c6d-9c76-495705c88b3c.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371?amp=true",
-      "publishedDateTime": "2020-10-02T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

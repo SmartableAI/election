@@ -2,6 +2,172 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-04-in-st-petersburg-fla-trumps-character-is-in-focus.md",
+      "title": "In St. Petersburg, Fla., Trump's Character Is in Focus",
+      "excerpt": "With millions of Floridians having already voted, the Election Day line quickly diminished outside the largest polling location in St. Petersburg, Fla. The city resides in Pinellas County, one of the bellwether counties in the country's largest battleground state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
+      "originalUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-254027?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill.md",
+      "title": "Trump May Try to Fire Wray, but FBI Director Has GOP Support on Capitol Hill",
+      "excerpt": "President Trump has frequently and openly speculated about firing FBI Director Christopher Wray after the election, but Mr. Wray continues to enjoy support from some GOP senators..",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "originalUrl": "https://www.wsj.com/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-254320/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "publishedDateTime": "2020-11-03T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-trump-not-thinking-of-election-night-speech-yet.md",
+      "title": "Trump 'not thinking' of election night speech yet",
+      "excerpt": "Politics Trump 'not thinking' of election night speech yet. Posted . President Donald Trump visited the Republican National Committee campaign headquarters in Arlington, Virginia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85",
+      "originalUrl": "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20201103&i=OVD30RPB3&r=OVD30RPB3&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-in-a-historically-republican-suburb-of-pittsburgh-voters-debate-whether-to-give-trump-a-second-term.md",
       "title": "In a historically Republican suburb of Pittsburgh, voters debate whether to give Trump a second term.",
       "excerpt": "Long lines of voters moved steadily in the first hour of voting at the Municipal Center in this town of about 30,000 people in Butler County, a historically Republican county. Cranberry Township, home to the headquarters of Westinghouse Electric and many engineers,",
@@ -223,7 +389,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -327,7 +493,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -483,7 +649,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 873,
+      "heat": 953,
       "tags": null,
       "images": [
         {
@@ -800,7 +966,7 @@
       "originalUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 380,
+      "heat": 400,
       "tags": null,
       "images": [
         {
@@ -1322,58 +1488,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-30-hackers-steal-23-million-from-wisconsin-gops-trump-reelection-fund.md",
-      "title": "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund",
-      "excerpt": "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/",
-      "originalUrl": "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/",
-      "publishedDateTime": "2020-10-29T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-30-golf-legend-jack-nicklaus-endorses-trump-for-reelection-calls-him-more-diverse-than-any-president-hes-seen.md",
       "title": "Golf legend Jack Nicklaus endorses Trump for reelection, calls him \"more diverse\" than any president he's seen",
       "excerpt": "Golf legend Jack Nicklaus said Wednesday that he voted for President Donald Trump, heaping praise on the commander chief while urging Americans to cast their ballots for the president. The18-time major champion posted his endorsement on Twitter,",
@@ -1475,106 +1589,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-livestream-donald-trump-rally-set-for-fayetteville-thursday.md",
-      "title": "Livestream: Donald Trump Rally Set For Fayetteville Thursday",
-      "excerpt": "Trump's rally will be held at the Fayetteville Regional Airport, located at 400 Airport Road in Fayetteville. The event is set to begin at 6:30 p.m. Trump's travel to the state highlights just how important his campaign views the Tar Heel state,",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/north-carolina/charlotte/livestream-donald-trump-rally-set-fayetteville-thursday",
-      "originalUrl": "https://patch.com/north-carolina/charlotte/livestream-donald-trump-rally-set-fayetteville-thursday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/getty/22921643/20201029/104240/styles/patch_image/public/gettyimages-1282737607___29104037184.jpg?width=984",
-          "width": 984,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/north-carolina/charlotte/amp/29048865/livestream-donald-trump-rally-set-for-fayetteville-thursday",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/north-carolina/charlotte/amp/29048865/livestream-donald-trump-rally-set-for-fayetteville-thursday",
-      "publishedDateTime": "2020-10-29T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally.md",
-      "title": "Watch: Trump rushes Sen. Martha McSally on stage during Arizona rally",
-      "excerpt": "During a campaign rally in Goodyear, Ariz., President Donald Trump rushed Republican Senator Martha McSally on stage to speak. McSally is in a close Senate race with her Democratic challenger astronaut Mark Kelly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally-94906437729",
-      "originalUrl": "https://www.nbcnews.com/video/watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally-94906437729",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/f_mo_mcsally_trump_201029.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo94906437729",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94906437729",
-      "publishedDateTime": "2020-10-29T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

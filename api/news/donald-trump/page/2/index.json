@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-29-livestream-donald-trump-rally-set-for-fayetteville-thursday.md",
+      "title": "Livestream: Donald Trump Rally Set For Fayetteville Thursday",
+      "excerpt": "Trump's rally will be held at the Fayetteville Regional Airport, located at 400 Airport Road in Fayetteville. The event is set to begin at 6:30 p.m. Trump's travel to the state highlights just how important his campaign views the Tar Heel state,",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/north-carolina/charlotte/livestream-donald-trump-rally-set-fayetteville-thursday",
+      "originalUrl": "https://patch.com/north-carolina/charlotte/livestream-donald-trump-rally-set-fayetteville-thursday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/22921643/20201029/104240/styles/patch_image/public/gettyimages-1282737607___29104037184.jpg?width=984",
+          "width": 984,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/north-carolina/charlotte/amp/29048865/livestream-donald-trump-rally-set-for-fayetteville-thursday",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/north-carolina/charlotte/amp/29048865/livestream-donald-trump-rally-set-for-fayetteville-thursday",
+      "publishedDateTime": "2020-10-29T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally.md",
+      "title": "Watch: Trump rushes Sen. Martha McSally on stage during Arizona rally",
+      "excerpt": "During a campaign rally in Goodyear, Ariz., President Donald Trump rushed Republican Senator Martha McSally on stage to speak. McSally is in a close Senate race with her Democratic challenger astronaut Mark Kelly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally-94906437729",
+      "originalUrl": "https://www.nbcnews.com/video/watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally-94906437729",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/f_mo_mcsally_trump_201029.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo94906437729",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94906437729",
+      "publishedDateTime": "2020-10-29T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-factbox-us-supreme-court-rules-against-trump-as-legal-battles-over-election-continue.md",
       "title": "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue",
       "excerpt": "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in",
@@ -535,7 +635,7 @@
       "originalUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -1063,7 +1163,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27A0BB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 9215,
+      "heat": 9255,
       "tags": null,
       "images": [
         {
@@ -1450,110 +1550,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abrambrown/2020/10/23/among-us-suffers-attack-by-apparent-pro-trump-hacker-three-days-after-aocs-hit-twitch-rally/amp/",
       "publishedDateTime": "2020-10-23T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease.md",
-      "title": "Forbes Estimates China Paid Trump At Least $5.4 Million Since He Took Office, Via Mysterious Trump Tower Lease",
-      "excerpt": "Donald Trump maintained a stake in Trump Tower when he became president, and with it, a financial connection to the Chinese government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
-      "originalUrl": "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f92da59cdd9baa8c7aac7f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T18:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-announces-that-sudan-will-israel-normalize-relations.md",
-      "title": "Trump Announces That Sudan Will Israel Normalize Relations",
-      "excerpt": "President Donald Trump announced Friday that Sudan had agreed to establish diplomatic ties with Israel, making it the third Arab state to do so under the Trump Administration-brokered peace deals, known as the “Abraham Accords.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
-      "originalUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934ca4eb1b5edb9d90d708%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4618%26cropY1%3D97%26cropY2%3D2694",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/",
-      "publishedDateTime": "2020-10-23T14:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

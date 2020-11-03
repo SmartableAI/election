@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-04-kamala-harris-husband-declares-ohio-a-blue-state-during-election-day-visit-to-columbus.md",
+      "title": "Kamala Harris' husband declares Ohio a 'blue state' during Election Day visit to Columbus",
+      "excerpt": "Underscoring the Democrats' attempt to steal battleground Ohio from Donald Trump - who won the state in 2016 - Doug Emhoff rallies Biden supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/11/03/doug-emhoff-kamala-harris-husband-says-ohio-now-blue-state-during-election-day-visit-for-joe-biden/6143275002/",
+      "originalUrl": "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/11/03/doug-emhoff-kamala-harris-husband-says-ohio-now-blue-state-during-election-day-visit-for-joe-biden/6143275002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/03/NCOD/d6aa1413-93fb-40f8-b743-7b7a93b5dd96-MT_emhoff_visit_ea04.jpg?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/6143275002",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6143275002",
+      "publishedDateTime": "2020-11-03T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-as-us-votes-a-village-in-india-prays-for-kamala-harris.md",
       "title": "As U.S. Votes, a Village in India Prays for Kamala Harris",
       "excerpt": "Those who live in the hometown of Ms. Harris’s grandfather see the Democratic vice-presidential nominee as one of their own. “She is the daughter of the village’s soil,” one woman said.",
@@ -71,7 +114,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1075,
+      "heat": 1115,
       "tags": null,
       "images": [
         {
@@ -333,7 +376,7 @@
       "originalUrl": "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -386,7 +429,7 @@
       "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2689,
+      "heat": 2829,
       "tags": null,
       "images": [
         {
@@ -1522,58 +1565,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-kamala-harris-bernie-sanders-urge-stimulus-bill-focus-over-amy-coney-barrett-hearings.md",
-      "title": "Kamala Harris, Bernie Sanders Urge Stimulus Bill Focus Over Amy Coney Barrett Hearings",
-      "excerpt": "The senators suggested that a further relief package should be the focus of the Senate, as opposed to the SCOTUS nomination.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296",
-      "originalUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1649537/sanders-harris.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1",
-      "publishedDateTime": "2020-10-12T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

@@ -139,6 +139,31 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Harrison Ford Urges Voters To ‘Fire’ Trump Instead of Dr. Fauci in Lincoln Project Ad"
+    excerpt: "In a new ad for the Lincoln Project, Harrison Ford urges voters to \"fire\" President Donald Trump instead of allowing him to fire Dr. Anthony Fauci."
+    publishedDateTime: 2020-11-03T18:16:00Z
+    webUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/"
+    ampWebUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 68
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/11/Harrison-Ford-Fauci-Trump-1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "President Trump and Vice President Pence Campaign Rally in Grand Rapids, Michigan"
+    excerpt: "On the eve of the 2020 election, Vice President Mike Pence made a final pitch to voters at a rally in Grand Rapids, Michigan. The vice president criticized his predecessor, 2020 Democratic presidential nominee Joe Biden,"
+    publishedDateTime: 2020-11-03T20:22:00Z
+    webUrl: "https://www.c-span.org/video/?477687-1/president-trump-vice-president-pence-campaign-rally-grand-rapids-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 45
 
 secured: "bYv6Ys/n/l0YrHypU+timojdCx/5f8p9H9d+TkqRA1LaDzWyip3fh1I1mUL4zrIbmzPTK7TEqGNB9sMt/HXRB24THCHduE0OsyYByuk5Dn8UKhw9Kz0xlmEAbKI/VIzCFbXbF2Myyq2f3qxXV/GMPSNBSBczAnjQL717dxDUN0/AO8+OJHT8O2mlWAGHm7UxMaNeyO0z2bEeR1k6S05Uqpv60KkMln49IX3Ci1T47InbUNEj0hoTsBq2yr3RBSfUf3wuKRgTfr/Q9n1WwPDOsC7RwG1abBW8utuiHo9OBw8A8Dc0Uu6hGfZw1uG6PRGhVdbLlkMYULBwR1H46Gk/cn9sHDe/JD4G77iOxWfhWwo=;cZcrtJjpZ5Zl6YRViiMlyw=="
 ---

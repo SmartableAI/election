@@ -1828,6 +1828,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "‘I feel very good,’ President Trump tells campaign workers during an Election Day visit to a Republican office."
+    excerpt: "President Trump paid a call to a Republican office in Virginia on Tuesday and, despite trailing in the polls, predicted “a great night” and basked in the memories of the rallies he staged in his bid for a second term."
+    publishedDateTime: 2020-11-03T20:22:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/i-feel-very-good-president-trump-tells-campaign-workers-during-an-election-day-visit-to-a-republican-office.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/i-feel-very-good-president-trump-tells-campaign-workers-during-an-election-day-visit-to-a-republican-office.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/i-feel-very-good-president-trump-tells-campaign-workers-during-an-election-day-visit-to-a-republican-office.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/multimedia/03elections-briefing-trumpVA/03elections-briefing-trumpVA-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Young voters in swing states are a big part of the early surge. That could boost Biden."
     excerpt: "The 20 to 29 years olds are making their presence felt in places like Florida, Texas, Michigan and elsewhere. Younger Americans are voting early in droves this cycle, far outpacing their pre-Election Day turnout in several key swing states at this time in 2016."
     publishedDateTime: 2020-10-28T11:23:00Z
@@ -1843,6 +1859,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423366/201027-la-vote-se-1205p_0fc3d607c68be8f161774257b7c59a38.jpg"
         width: 2500
         height: 1556
+        isCached: true
+  - title: "Republicans fight to hold control of Senate as Democrats try to capitalize on anti-Trump vote"
+    excerpt: "Maine, Colorado, Arizona, North Carolina and Iowa — could decide which party controls the Senate. WASHINGTON — Control of Congress will be up for grabs on Election Day as the entire House of Representatives and one-third of the Senate seats are decided by voters."
+    publishedDateTime: 2020-11-03T20:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/republicans-fight-hold-control-senate-democrats-try-capitalize-anti-trump-n1245847"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245847"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245847"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_44/3423727/201028-election-congressional-control-main-cover-cs_dd0b7f149f02138bb8501c19637175af.fit-1240w.jpg"
+        width: 1240
+        height: 620
         isCached: true
   - title: "Trump defends Texas drivers who surrounded Biden bus, while the president’s supporters block traffic in New York and New Jersey."
     excerpt: "In several instances over the last few days, supporters of President Trump have disrupted traffic. In Texas on Friday, Trump supporters surrounded a Biden campaign bus, and in New York and New Jersey on Sunday,"

@@ -19,61 +19,115 @@ topics:
   - Mike Pence
 
 related:
-  - title: "Hundreds attend rally to see Vice President Mike Pence in Greenville"
-    excerpt: "The vice president had landed in Greenville, an Upstate South Carolina city that is, in most regards, strongly considered to be Trump country. “I don’t want to lose this country to Joe Biden,\" said Dean Cox,"
-    publishedDateTime: 2020-10-28T15:51:00Z
-    webUrl: "https://www.wyff4.com/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    ampWebUrl: "https://www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
+  - title: "Vice President Mike Pence to visit Westmoreland County in final day before election"
+    excerpt: "With just one day to go before the 2020 presidential election, Vice President Mike Pence will appear on behalf of President Donald Trump’s reelection campaign in Westmoreland County. Pence will speak at a “Make America Great Again” rally in Latrobe on Monday morning."
+    publishedDateTime: 2020-11-02T12:59:00Z
+    webUrl: "https://www.wtae.com/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220"
+    ampWebUrl: "https://www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220"
     type: article
     provider:
-      name: WYFF4
-      domain: wyff4.com
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 84
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/a8ca6ef5-8b65-45e5-a083-461eccaede15/a8ca6ef5-8b65-45e5-a083-461eccaede15_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday"
+    excerpt: "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday."
+    publishedDateTime: 2020-10-26T23:30:00Z
+    webUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday"
+    ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+    type: article
+    provider:
+      name: TMJ4
+      domain: tmj4.com
     quality: 75
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/img-5460-1603849421.jpg?crop=1.00xw:0.752xh;0,0.111xh&resize=1200:*"
-        width: 1200
-        height: 677
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
-    excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally. HIBBING, Minn. – A brisk wind blew across the runway and light snow greeted Vice President Mike Pence as he made his closing arguments to Iron ..."
-    publishedDateTime: 2020-10-26T21:20:00Z
-    webUrl: "https://www.startribune.com/pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
+  - title: "With time short, Vice President Mike Pence returns in effort to keep Arizona red"
+    excerpt: "Vice President Mike Pence will campaign in Flagstaff and Tucson as the presidential race in battleground Arizona goes down to the wire."
+    publishedDateTime: 2020-10-30T13:14:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/30/vice-president-mike-pence-returns-effort-keep-arizona-red-flagstaff-tucson/6078523002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6078523002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6078523002"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 52
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 70
     images:
-      - url: "https://stmedia.stimg.co/pence+kormann+012.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Watch Now: 'I need you to be sure to vote,' Vice President Mike Pence tells 200 supporters at Greensboro rally on Tuesday"
-    excerpt: "A crowd of about 200 people chanted for “four more years” of President Donald Trump on Tuesday afternoon during a campaign rally featuring Vice President Mike Pence."
-    publishedDateTime: 2020-10-28T08:19:00Z
-    webUrl: "https://greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.html"
-    ampWebUrl: "https://greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.amp.html"
-    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.amp.html"
+  - title: "Vice President Mike Pence Campaigns in Mosinee"
+    excerpt: "Vice President Mike Pence made a campaign stop at the Central Airport in Mosinee on Wednesday. The stop is just one of several in Badger State for the Trump administration this week alone. About 150 people attended the rally."
+    publishedDateTime: 2020-10-29T01:09:00Z
+    webUrl: "https://waow.com/2020/10/28/vice-president-mike-pence-campaigns-in-mosinee/"
     type: article
     provider:
-      name: News & Record
-      domain: greensboro.com
-    quality: 50
+      name: WAOW
+      domain: waow.com
+    quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/3/2b/32bbaa04-189a-11eb-96fc-97e1fd38bd2a/5f9886a6215fe.image.jpg?resize=1024%2C713"
-        width: 1024
-        height: 713
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/9/2020/10/pence.jpg"
+        width: 505
+        height: 317
         isCached: true
-  - title: "Vice President Pence Holds Rally in Swanton, Ohio"
-    excerpt: "President Pence delivers remarks at a campaign rally in Swanton, Ohio. Vice President Pence delivers remarks at a campaign rally in Swanton, Ohio. Vice President Pence delivered remarks at a campaign rally in support of his and President Trump’s reelection on"
-    publishedDateTime: 2020-10-24T11:47:00Z
-    webUrl: "https://www.c-span.org/video/?477288-1/vice-president-pence-holds-rally-swanton-ohio"
+  - title: "Vice President Mike Pence welcomed by crowd of 500 in Flint"
+    excerpt: "Tonight as the sun went down, Air Force Two touched down at Flint Bishop Airport. Pence hustled up to the podium, highlighting the importance of Michigan in this election."
+    publishedDateTime: 2020-10-29T04:28:00Z
+    webUrl: "https://www.fox2detroit.com/video/865403"
+    ampWebUrl: "https://www.fox2detroit.com/video/865403.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/video/865403.amp"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 55
+  - title: "VP Mike Pence to visit Tucson, Flagstaff on Oct. 30"
+    excerpt: "Vice President Mike Pence will be making back-to-back stops in Flagstaff and Tucson on Friday, two days after President Trump visited Bullhead City and Goodyear to host \"Make America Great Again\" rallies."
+    publishedDateTime: 2020-10-29T12:50:00Z
+    webUrl: "https://www.fox10phoenix.com/video/865477"
+    ampWebUrl: "https://www.fox10phoenix.com/video/865477.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/865477.amp"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 55
+  - title: "WATCH: Vice President Mike Pence campaigns in the Upstate"
+    excerpt: "Vice President Mike Pence was campaigning in the Upstate on Tuesday afternoon. Pence held a rally at Donaldson Jet Center in Greenville. Officials said a little more than 2,000 people attended the event held in a hangar."
+    publishedDateTime: 2020-10-28T19:54:00Z
+    webUrl: "https://www.wistv.com/2020/10/27/live-pm-vice-president-mike-pence-holds-campaign-rally-upstate/"
+    type: article
+    provider:
+      name: WIS TV
+      domain: wistv.com
+    quality: 55
+    images:
+      - url: "https://www.wistv.com/resizer/nhz_ERntBjIWp5Tw3f3MtEDqSRA=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/2BZ6FRGNN5DKRIITPK63APIRAM.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vice President Mike Pence Speaks At Rally In Latrobe"
+    excerpt: "With one day left until Election Day, Vice President Mike Pence is speaking at a rally at the Arnold Palmer Regional Airport; KDKA's Ross Guidotti reports."
+    publishedDateTime: 2020-11-02T17:27:00Z
+    webUrl: "https://cleveland.cbslocal.com/video/4838712-vice-president-mike-pence-speaks-at-rally-in-latrobe/"
+    ampWebUrl: "https://cleveland.cbslocal.com/video/4838712-vice-president-mike-pence-speaks-at-rally-in-latrobe/amp/"
+    cdnAmpWebUrl: "https://cleveland-cbslocal-com.cdn.ampproject.org/c/s/cleveland.cbslocal.com/video/4838712-vice-president-mike-pence-speaks-at-rally-in-latrobe/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 55
   - title: "Vice President Pence Campaigns in Latrobe, PA"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Latrobe, PA. The Keystone State is getting visits from him and President Trump as well as their Democratic challengers, Joe Biden & Sen. Kamala Harris (CA),"
     publishedDateTime: 2020-11-02T08:03:00Z

@@ -2,6 +2,379 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-04-in-st-petersburg-fla-trumps-character-is-in-focus.md",
+      "title": "In St. Petersburg, Fla., Trump's Character Is in Focus",
+      "excerpt": "With millions of Floridians having already voted, the Election Day line quickly diminished outside the largest polling location in St. Petersburg, Fla. The city resides in Pinellas County, one of the bellwether counties in the country's largest battleground state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
+      "originalUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-254027?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-kamala-harris-husband-declares-ohio-a-blue-state-during-election-day-visit-to-columbus.md",
+      "title": "Kamala Harris' husband declares Ohio a 'blue state' during Election Day visit to Columbus",
+      "excerpt": "Underscoring the Democrats' attempt to steal battleground Ohio from Donald Trump - who won the state in 2016 - Doug Emhoff rallies Biden supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/11/03/doug-emhoff-kamala-harris-husband-says-ohio-now-blue-state-during-election-day-visit-for-joe-biden/6143275002/",
+      "originalUrl": "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/11/03/doug-emhoff-kamala-harris-husband-says-ohio-now-blue-state-during-election-day-visit-for-joe-biden/6143275002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/03/NCOD/d6aa1413-93fb-40f8-b743-7b7a93b5dd96-MT_emhoff_visit_ea04.jpg?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/6143275002",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6143275002",
+      "publishedDateTime": "2020-11-03T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill.md",
+      "title": "Trump May Try to Fire Wray, but FBI Director Has GOP Support on Capitol Hill",
+      "excerpt": "President Trump has frequently and openly speculated about firing FBI Director Christopher Wray after the election, but Mr. Wray continues to enjoy support from some GOP senators..",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "originalUrl": "https://www.wsj.com/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-254320/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "publishedDateTime": "2020-11-03T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.md",
+      "title": "Trump thanks campaign staffers, predicts 'incredible night': 'Tremendous group of people'",
+      "excerpt": "The president spoke for a time to campaign staff and answered questions from the media before hitting the road again.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f2kdm1Y2Lc/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f2kdm1Y2Lc/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/109c1c28-bcc7-4e77-8dfa-a4ca2fbf0d23/be21ccfe-e069-4386-980a-617cbf2b5a83/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.amp",
+      "publishedDateTime": "2020-11-03T12:36:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-fact-check-residents-of-queens-village-new-york-have-not-received-pre-filled-out-ballots-for-joe-biden.md",
+      "title": "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden",
+      "excerpt": "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27J2KY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY",
+      "publishedDateTime": "2020-11-03T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-trump-not-thinking-of-election-night-speech-yet.md",
+      "title": "Trump 'not thinking' of election night speech yet",
+      "excerpt": "Politics Trump 'not thinking' of election night speech yet. Posted . President Donald Trump visited the Republican National Committee campaign headquarters in Arlington, Virginia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85",
+      "originalUrl": "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20201103&i=OVD30RPB3&r=OVD30RPB3&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-ex-trump-loyalist-michael-cohen-hints-former-boss-wont-like-his-ballot-choice.md",
+      "title": "Ex-Trump loyalist Michael Cohen hints former boss won't like his ballot choice",
+      "excerpt": "President Trump's former attorney trolled the White House with a Twitter hint that he voted for Democrat Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nKdKfeLwf7o/michael-cohen-says-he-voted-for-biden-guess-what-i-did",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nKdKfeLwf7o/michael-cohen-says-he-voted-for-biden-guess-what-i-did",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55102a4f-6e35-4349-b50e-83e6b9601442/4036c90d-7074-4064-b8f1-1cd8f013fbc7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp",
+      "publishedDateTime": "2020-11-03T09:42:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-in-a-historically-republican-suburb-of-pittsburgh-voters-debate-whether-to-give-trump-a-second-term.md",
       "title": "In a historically Republican suburb of Pittsburgh, voters debate whether to give Trump a second term.",
       "excerpt": "Long lines of voters moved steadily in the first hour of voting at the Municipal Center in this town of about 30,000 people in Butler County, a historically Republican county. Cranberry Township, home to the headquarters of Westinghouse Electric and many engineers,",
@@ -269,6 +642,49 @@
         "Election",
         "Kamala Harris",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-borat-2-how-tsa-security-guards-almost-ruined-the-mike-pence-scene.md",
+      "title": "Borat 2: How TSA Security Guards Almost Ruined the Mike Pence Scene",
+      "excerpt": "According to Sacha Baron Cohen, one of the biggest stunts in the Borat sequel involving Vice President Mike Pence almost didn’t happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
+      "originalUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/11/borat-2-header.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
+      "publishedDateTime": "2020-11-03T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -605,7 +1021,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -765,7 +1181,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -914,443 +1330,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-sen-kennedy-calls-trump-an-insult-to-the-political-elite-who-never-talks-down-to-the-working-class.md",
-      "title": "Sen. Kennedy calls Trump 'an insult to the political elite' who never 'talks down' to the working class",
-      "excerpt": "The devotion of Donald Trump voters to their candidate stems from two factors, Sen. John Kennedy, R-La., told \"Tucker Carlson Tonight\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7jamlbG6Hw/sen-john-kennedy-trump-an-insult-to-the-political-elite",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7jamlbG6Hw/sen-john-kennedy-trump-an-insult-to-the-political-elite",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bee7c401-096b-4170-b016-408119f9f8fe/9b8497ea-e0bf-4985-8235-bbe6fdf7b1bb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-trump-an-insult-to-the-political-elite.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-trump-an-insult-to-the-political-elite.amp",
-      "publishedDateTime": "2020-11-02T18:56:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-doctors-groups-rip-trump-for-touting-baseless-conspiracy-theory-over-covid-19-death-count.md",
-      "title": "Doctors groups rip Trump for touting 'baseless' conspiracy theory over COVID-19 death count",
-      "excerpt": "Medical groups such as the American Medical Association denounced President Trump's claim that doctors inflate COVID-19 deaths, calling it \"malicious.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/31/trump-claims-doctors-profiting-attributing-deaths-covid-19/6101540002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/31/trump-claims-doctors-profiting-attributing-deaths-covid-19/6101540002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6101540002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6101540002",
-      "publishedDateTime": "2020-11-02T16:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-the-point-marco-rubio-goes-full-trump-on-election-eve.md",
-      "title": "The Point: Marco Rubio goes full Trump on election eve",
-      "excerpt": "Even as some ambitious 2024 Republicans have begun to distance themselves from Donald Trump's version of, uh, conservatism, Florida's Sen. Marco Rubio offered the equivalent of a bear hug for the incumbent just 48 hours before Election Day. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 370,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190128124838-01-marco-rubio-dec2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html",
-      "publishedDateTime": "2020-11-02T15:30:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-bolton-trump-trying-to-set-up-con-on-his-own-supporters.md",
-      "title": "Bolton: Trump trying to set up con on his own supporters",
-      "excerpt": "CNN's Jake Tapper speaks with former national security adviser John Bolton about President Donald Trump's rhetoric around when mail-in ballots should be counted and Trump's threats of legal action after polls close on Election Day.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tHrXL4FJL0/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tHrXL4FJL0/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201102171610-bolton-tapper-split-for-vpx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn",
-      "publishedDateTime": "2020-11-02T14:49:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.md",
-      "title": "Biden to campaign in Pennsylvania, Harris to Michigan on Election Day",
-      "excerpt": "Democratic presidential nominee Joe Biden will travel to Pennsylvania Tuesday while his running mate Sen. Kamala Harris will campaign in Michigan, in their final push to get out the vote on Election Day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iZuSuvCuPqg/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iZuSuvCuPqg/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1075,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp",
-      "publishedDateTime": "2020-11-02T14:16:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-biden-stumps-for-union-support-near-pittsburgh.md",
-      "title": "Biden stumps for union support near Pittsburgh",
-      "excerpt": "Democratic presidential nominee Joe Biden revved up a group of union members to help him turn out the vote in a suburban Pittsburgh county on Monday. (Nov. 2)",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/11/02/biden-stumps-union-support-near-pittsburgh/6130843002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/11/02/biden-stumps-union-support-near-pittsburgh/6130843002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/d9cf2ddc-1746-42f7-a3d2-903e299b3290_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T14:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-president-trump-installs-commission-to-promote-patriotic-education-counter-radical-views-of-us-history.md",
-      "title": "President Trump installs commission to promote 'patriotic education,' counter 'radical' views of US history",
-      "excerpt": "President Trump signed an executive order Monday designed to promote what he called \"patriotic education\" and to push back on the idea that the country is \"irredeemably and systemically racist.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqkZCtY9HW8/trump-1776-commission-critical-race-theory",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqkZCtY9HW8/trump-1776-commission-critical-race-theory",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c303b0a9-1733-49b4-986c-15bd16d64504/f6005f74-a2af-475a-ad1e-c59d8b2faff2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
-      "publishedDateTime": "2020-11-02T13:12:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-unfair-donald-trump-cant-complain-imagine-if-another-candidate-acted-like-he-does.md",
-      "title": "'Unfair' Donald Trump can't complain: Imagine if another candidate acted like he does",
-      "excerpt": "Have voters finally reached their limit and are prepared to bring down the curtain on the Trump show? Tune in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/11/02/election-imagine-if-other-candidates-acted-like-trump-editorials-debates/6058615002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/11/02/election-imagine-if-other-candidates-acted-like-trump-editorials-debates/6058615002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/02/USAT/498d4f6c-3c46-4d0b-ae54-1b37cf6dda8e-helsinki.JPG?auto=webp&crop=3405,1915,x0,y72&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6058615002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6058615002",
-      "publishedDateTime": "2020-11-02T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

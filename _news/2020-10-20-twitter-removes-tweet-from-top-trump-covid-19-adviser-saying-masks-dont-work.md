@@ -880,6 +880,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump trashes Fauci and makes baseless coronavirus claims in campaign call"
+    excerpt: "(CNN)A frustrated and at times foul-mouthed President Donald Trump claimed on a campaign call that people are tired of hearing about the deadly pandemic which has killed more than 215,000 ..."
+    publishedDateTime: 2020-10-19T17:09:00Z
+    webUrl: "https://www.cnn.com/2020/10/19/politics/donald-trump-anthony-fauci-coronavirus/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/donald-trump-anthony-fauci-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/donald-trump-anthony-fauci-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011151047-02-fauci-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump says 2.2 million people were projected to die from Covid-19"
     excerpt: "How Biden or Trump could win. Trump, defending his administration's pandemic response, claimed Thursday that \"2.2 million people — modeled out — were expected to die\" from the coronavirus. Trump has made this claim previously — that original projections for coronavirus deaths in America said the country would lose 2."
     publishedDateTime: 2020-10-23T19:49:00Z

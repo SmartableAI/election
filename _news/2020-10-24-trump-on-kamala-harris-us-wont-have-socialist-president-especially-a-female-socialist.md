@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Harrison Ford Urges Voters To ‘Fire’ Trump Instead of Dr. Fauci in Lincoln Project Ad"
+    excerpt: "In a new ad for the Lincoln Project, Harrison Ford urges voters to \"fire\" President Donald Trump instead of allowing him to fire Dr. Anthony Fauci."
+    publishedDateTime: 2020-11-03T18:16:00Z
+    webUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/"
+    ampWebUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 68
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/11/Harrison-Ford-Fauci-Trump-1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Brett Favre says he will vote for Donald Trump, expected to appear with president at Green Bay rally"
     excerpt: "Brett Favre became the latest ex-athlete to declare his support for President Donald Trump, tweeting that the Republican nominee will have his vote on Friday. The former NFL quart"
     publishedDateTime: 2020-10-30T16:09:00Z
@@ -143,6 +159,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Trump and Vice President Pence Campaign Rally in Grand Rapids, Michigan"
+    excerpt: "On the eve of the 2020 election, Vice President Mike Pence made a final pitch to voters at a rally in Grand Rapids, Michigan. The vice president criticized his predecessor, 2020 Democratic presidential nominee Joe Biden,"
+    publishedDateTime: 2020-11-03T20:22:00Z
+    webUrl: "https://www.c-span.org/video/?477687-1/president-trump-vice-president-pence-campaign-rally-grand-rapids-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 45
 
 secured: "6enQnmsv16jBMOiqp3oHAk6pSSrLtO8X919m/8IL3sLS4XZVAP2XqhRsDQDKXnFDOWzlHccFYjQCWJlGNdPpkkjcP585fHidAemF0M/Hz1kSVyqah/8CdvNhtZt3TyNchOnzHgt9Q5nBmv2UtUWgylP20psRdrrsP8vxVTZII1vTCtiKit0K3K5R9LDSMQJcJ7LsBYMV9H9NP7ghSYWjwEcrXjLMS+S4nZYtnzFO8xfJKTvmVdde3Uy4waXLMTI+dGOEZNHKPw1TY1iXqomhKV5fdaSMCehcaKnKoWCHlDaOMT7na7L7+av/VHfUH2IXr1LIlG7NYe6iYq0FjmAgc43u1eVIIkFd0JmjqkofQa/SAgZjvevRzCiNK9cu3LZt3czQn+YCaV9mVFXejPJihAESxmVuG5lsnImnaRPWXWewc+Wvf/klNBncQ5On6XXrdHvjrVAyCtl9Sr6u39X8kRJMixG06HWl2zCA8nHXea7RSKZJe9UFseDSYS4ZToVQL+MAQR0pXCnLtdawAkPAQQ==;JDvyiWV1RIKnxuCks59VtA=="
 ---
