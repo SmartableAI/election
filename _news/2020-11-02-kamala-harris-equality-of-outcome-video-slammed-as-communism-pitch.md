@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slamm
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/07/UFC-Jorge-Masvidal.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Rob Schneider blasts Kamala Harris' video about equality as 'Socialistic, Marxist Drivel'"
+    excerpt: "Rob Schneider lambasted Democratic vice presidential nominee Senator Kamala Harris for a video she shared on Twitter about equality. He called her rhetoric \"Socialistic, Marxist Drivel.\""
+    publishedDateTime: 2020-11-03T21:33:00Z
+    webUrl: "https://www.foxnews.com/entertainment/rob-schneider-slams-kamala-harris-video-equality-socialistic-marxist-drivel"
+    ampWebUrl: "https://www.foxnews.com/entertainment/rob-schneider-slams-kamala-harris-video-equality-socialistic-marxist-drivel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/rob-schneider-slams-kamala-harris-video-equality-socialistic-marxist-drivel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/RobSchneider1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "T8R+llkM8DeT/3PpH5dWj7onFvWQCNc4C0wwhbmr8zihZvro9XojBWhGXskc992k3rm3xsnia27Tv8C6nlgW3W1LHa783bCfLUFLwYfA5e0fu/SKZwWMuM1Mi9eFbeuMLI9lg/VxD8vswVf19oGwooAqsNZ6Znf0fmVxZ/62LnN20ECleJrFDONfopkxpjfaUPCJ6R3dDuimx1e1AV+z2NeWjQEVohkhqTH1+mY1N2FMTMy3Jx8L2GagerAOM/vSXSjUpAxDxqqSE43Vefk/sKl2LAip7Og8ugklwFb1hF6e14oBFNusnUCaUUgc+PaPibTHZKf8Xtas6+cvGiVepT/ty0Lu3hkLUZyrKudXXd8=;jhqkJjhaRHIWN+dF7/XVtw=="

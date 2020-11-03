@@ -442,6 +442,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump holds 5 rallies in 4 swing states in bid to woo last-minute Election Day votes"
+    excerpt: "With Election Day finally here, President Trump spent Monday in a final attempt to win over swing state voters. The president says he's confident, but he is also threatening legal action in some states if results are not announced on Election Day."
+    publishedDateTime: 2020-11-03T22:33:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-holds-5-rallies-in-4-swing-states-in-bid-to-woo-last-minute-election-day-votes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/1a6d47b2-2e31-4493-9e4e-18a6d4dffc48/thumbnail/1200x630/23814d88feb99b83cfef95ef27085d45/trump-tracy-579436-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Inside Trump's crowded campaign rallies"
     excerpt: "Two days before Election Day, President Donald Trump launched a campaign sprint across battleground states starting with Michigan that will be crucial to"
     publishedDateTime: 2020-11-02T13:25:00Z
@@ -625,6 +639,34 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump vs. Biden: Minnesota gets turn as presidential battleground"
+    excerpt: "President Donald Trump has worked to flip state while Joe Biden tries to hold it for Democrats. Minnesota found itself in the unfamiliar position this year of being targeted by both presidential campaigns,"
+    publishedDateTime: 2020-11-03T22:17:00Z
+    webUrl: "https://www.startribune.com/donald-trump-vs-joe-biden-minnesota-gets-turn-as-presidential-battleground/572948082/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/trumpbiden.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Election Day Live Updates: Donald Trump, Joe Biden Square Off For President, Latest Senate And House Results"
+    excerpt: "Early voting shatters record as Americans anxiously await the outcome of a presidential election during a pandemic."
+    publishedDateTime: 2020-11-03T15:00:00Z
+    webUrl: "https://www.ibtimes.com/election-day-live-updates-donald-trump-joe-biden-square-president-latest-senate-house-3075278"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 66
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/03/gettyimages-1229363851.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Iowa Poll: Are likely voters supporting Donald Trump or Joe Biden for president?"
     excerpt: "In the last Iowa Poll before the Nov. 3 election, voters were asked who they were likely to support for president — Donald Trump or Joe Biden."
     publishedDateTime: 2020-11-02T08:04:00Z

@@ -48,6 +48,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "In Detroit, Kamala Harris makes a final pitch."
+    excerpt: "Standing in the parking lot of Sheet Metal Workers Local 80 in Southfield, a suburb of Detroit, Sen. Kamala Harris issued a late call to action on Tuesday. “Today is a day that many of us have been waiting for four years,"
+    publishedDateTime: 2020-11-03T22:24:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/in-detroit-kamala-harris-makes-a-final-pitch.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/in-detroit-kamala-harris-makes-a-final-pitch.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/in-detroit-kamala-harris-makes-a-final-pitch.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-Kamala-Detroit/merlin_179522802_38780a87-de60-4b16-9346-04599f54ec04-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris’s ancestral village in India offers prayers for her victory."
     excerpt: "More than 8,000 miles from the White House, in a small Indian village ringed by lush green rice paddies, several dozen people flocked into a Hindu temple, carrying roses and strings of sweet-smelling jasmine,"
     publishedDateTime: 2020-11-03T14:01:00Z

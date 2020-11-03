@@ -159,6 +159,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Pence Remarks at Trump Campaign Rally in Grand Rapids, Michigan"
+    excerpt: "On the eve of the 2020 election, Vice President Mike Pence spoke at a Trump campaign rally in Grand Rapids, Michigan. The vice president criticized his predecessor, Democratic presidential nominee Joe Biden,"
+    publishedDateTime: 2020-11-03T22:00:00Z
+    webUrl: "https://www.c-span.org/video/?477687-2/vice-president-pence-remarks-trump-campaign-rally-grand-rapids-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 46
   - title: "President Trump and Vice President Pence Campaign Rally in Grand Rapids, Michigan"
     excerpt: "On the eve of the 2020 election, Vice President Mike Pence made a final pitch to voters at a rally in Grand Rapids, Michigan. The vice president criticized his predecessor, 2020 Democratic presidential nominee Joe Biden,"
     publishedDateTime: 2020-11-03T20:22:00Z

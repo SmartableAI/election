@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-mak
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
 type: article
 quality: 110
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://i.insider.com/5f99e8aa69331a0011bc5f19?width=1200&format=jpeg"
         width: 998
         height: 499
+        isCached: true
+  - title: "Florida remains central to Trump's path to victory"
+    excerpt: "Florida is a toss-up heading into Election Day. Nearly 64% of Florida voters cast their ballots early, and the Latino and Black vote will be crucial to win. Manuel Bojorquez reports from a voting site in Miami."
+    publishedDateTime: 2020-11-03T22:34:00Z
+    webUrl: "https://www.cbsnews.com/video/florida-remains-central-to-trump-path-to-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/03/3cc4cfdd-5f46-4dec-aa8a-8723511dead5/thumbnail/1200x630/b823f684a68a300c622ce0b5263adffc/florida-bojorquez-579447-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Gun-Toting ‘Guards’ at Florida Polls Claim They Were Hired By Trump Campaign — Trump Campaign Denies"
     excerpt: "Two armed men dressed as security guards told cops they were hired by the Trump campaign to set up near a Florida early voting location — a claim that President Donald Trump's campaign denied through a spokesperson."

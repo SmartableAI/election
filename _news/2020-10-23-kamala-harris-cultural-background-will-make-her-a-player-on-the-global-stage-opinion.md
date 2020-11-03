@@ -654,6 +654,22 @@ related:
         width: 1300
         height: 900
         isCached: true
+  - title: "Kamala Harris makes final push for Michigan voters on Election Day"
+    excerpt: "Harris has stopped in Detroit twice previously since becoming Biden’s running mate in an attempt to motivate voters in Michigan’s largest city to prevent President Donald Trump from winning the state a second time."
+    publishedDateTime: 2020-11-03T22:34:00Z
+    webUrl: "https://www.mlive.com/politics/2020/11/kamala-harris-makes-final-push-for-michigan-voters-on-election-day.html"
+    ampWebUrl: "https://www.mlive.com/politics/2020/11/kamala-harris-makes-final-push-for-michigan-voters-on-election-day.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/11/kamala-harris-makes-final-push-for-michigan-voters-on-election-day.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3GYUSXPTTJHI5LPCCTGUYSW24I.jpg"
+        width: 5312
+        height: 3541
+        isCached: true
   - title: "Kamala Harris knocks Trump multiple times for questioning Obama's birthplace"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris knocked President Trump multiple times on Friday for questioning whether former President Barack Obama was born in the United States."
     publishedDateTime: 2020-10-23T22:53:00Z
@@ -1638,6 +1654,24 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 52
+  - title: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas"
+    excerpt: "Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Biden campaign event in Fort Worth, Texas."
+    publishedDateTime: 2020-11-03T22:57:00Z
+    webUrl: "https://www.c-span.org/video/?477547-1/senator-kamala-harris-speaks-biden-campaign-event-fort-worth-texas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 49
+  - title: "John Legend and Senator Kamala Harris at Biden Campaign Rally in Philadelphia"
+    excerpt: "Senator Kamala Harris (D-CA) and singer John Legend spoke at a drive-in Biden campaign drive-in in Philadelphia."
+    publishedDateTime: 2020-11-03T21:46:00Z
+    webUrl: "https://www.c-span.org/video/?477692-1/john-legend-senator-kamala-harris-biden-campaign-rally-philadelphia"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 47
   - title: "Democratic Vice President Candidate, US Senator Kamala Harris To Campaign In South Florida"
     excerpt: "Vice presidential candidate, US Senator Kamala Harris will campaign Saturday in Miami-Dade, Broward, and Palm Beach counties as Democrats try to boost early voting turnout in party strongholds."
     publishedDateTime: 2020-10-29T17:17:00Z

@@ -226,6 +226,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump supporters outside poll draw police attention"
+    excerpt: "Trump supporters screamed their devotion to the incumbent via bull horns across the street from a Houston voting center. Some Biden voters thought the cheering was a form of voter intimidation, so they started escorting people to the polling place."
+    publishedDateTime: 2020-11-03T22:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/trump-supporters-outside-poll-draw-police-attention/6149743002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2d765f1d-35e6-4a14-a864-8d62527bd69f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "7nlE9giBQdE6pEAPSCiCrWDyOim5QY/mkw3sqdBsTej0VdP3s3PtarbzmgJtaRS0DlVnjexKR7hvbjoPsAATf5RY/yHitL50xqcC40dAqeV3vKEGbJ0n8U2lak4a3iQLjDaNGY+dKGe0hhpG31V18UmcZCeCnmyddylSOYGILver1rjEa8a7fKKY/zcgzfrRx+r4DipbRCOV0a4KGwbSnscoA5/t4CMtlAVgEasG8beCCoeDqCRatyzJi8OqY0v3vnjJzwNYwnpfn8C/njCO6f3SJExW6G1hxESsObqMjuGnT5Iqj52TK4XG8Qv7Ziv7abqkCmhGsBbowBp1agxjfphTC4akYCrvlrKJQTITifI=;LQpHbj2I1WMrJ6iCEpLUWw=="
 ---

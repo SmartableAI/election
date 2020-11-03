@@ -570,6 +570,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden campaign says it can win White House without Florida or Pennsylvania"
+    excerpt: "Joe Biden’s campaign says the Democratic presidential nominee can defeat President Trump and win the White House even without carrying two crucial battlegrounds – Florida and Pennsylvania."
+    publishedDateTime: 2020-11-03T21:50:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1y_fCeQuEvA/biden-campaign-white-house-without-florida-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-white-house-without-florida-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-white-house-without-florida-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308714799900.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "McEnany: Joe Biden’s comments on oil, fracking will be ‘death knell’ of his campaign"
     excerpt: "Democratic presidential hopeful Joe Biden \"lost\" Pennsylvania in the election after his comments on banning the oil and fracking industry, White House press secretary Kayleigh McEnany said on Tuesday."
     publishedDateTime: 2020-10-27T18:16:06Z
@@ -648,6 +664,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Election 2020: Trump and Biden Make Final Push"
+    excerpt: "In the final hours of the 2020 election, President Trump and former Vice President Joe Biden made their case to voters. Biden highlighted his roots in the swing state of Pennsylvania, while Trump stayed close to the White House."
+    publishedDateTime: 2020-11-03T22:41:00Z
+    webUrl: "https://www.wsj.com/video/election-2020-trump-and-biden-make-final-push/955C48B9-6AE0-4E7B-BFD0-B11AEE120BFA.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 145
+    images:
+      - url: "http://m.wsj.net/video/20201103/trumpbidenfinalpushsplashv4/trumpbidenfinalpushsplashv4_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden campaign says it can win White House without Florida or Pennsylvania"
+    excerpt: "Joe Biden’s campaign says the Democratic presidential nominee can defeat President Trump and win the White House even without carrying two crucial battlegrounds – Florida and Pennsylvania."
+    publishedDateTime: 2020-11-03T21:54:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-campaign-white-house-without-florida-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-white-house-without-florida-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-white-house-without-florida-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308714799900.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris thinks she can laugh her way through serious questions: Pavlich"
     excerpt: "Editor Katie Pavlich called Democratic vice-presidential nominee Sen. Kamala Harris “the most far-left Democrat in Washington, D.C.,\" and said Joe Biden picked her to \"make sure that the left wing of the party felt comfortable\" that they would have a voice in his administration."
     publishedDateTime: 2020-10-26T19:13:00Z
@@ -722,6 +768,17 @@ related:
         width: 5490
         height: 3660
         isCached: true
+  - title: "Cities prepare for Election Day rioters after Democrats like Kamala Harris emboldened them"
+    excerpt: "Major cities across the country are preparing for riots if President Trump manages to win reelection. The rioters have now been incentivized by celebrities, Joe Biden’s staffers, and Kamala Harris."
+    publishedDateTime: 2020-11-03T18:34:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/cities-prepare-for-election-day-rioters-after-democrats-like-kamala-harris-emboldened-them"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/cities-prepare-for-election-day-rioters-after-democrats-like-kamala-harris-emboldened-them?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/cities-prepare-for-election-day-rioters-after-democrats-like-kamala-harris-emboldened-them?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 70
   - title: "Kamala Harris: Our Grandchildren Will Ask \"Where Were You\" And We'll Tell Them We Texted People To Vote"
     excerpt: "Democratic nominee for vice president Sen. Kamala Harris at a campaign event in Nevada on Tuesday said years from now, our grandchildren will ask what we did in the 2020 election and we will tell them we did all we can to get out the vote."
     publishedDateTime: 2020-10-27T00:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
 type: article
 quality: 140
-heat: 400
+heat: 420
 published: true
 
 provider:
@@ -225,6 +225,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QM4AMLQ54II6XLKTJQP5USMQPU.jpg&w=1440"
         width: 1296
         height: 790
+        isCached: true
+  - title: "Trump supporters outside poll draw police attention"
+    excerpt: "Trump supporters screamed their devotion to the incumbent via bull horns across the street from a Houston voting center. Some Biden voters thought the cheering was a form of voter intimidation, so they started escorting people to the polling place."
+    publishedDateTime: 2020-11-03T22:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/trump-supporters-outside-poll-draw-police-attention/6149743002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2d765f1d-35e6-4a14-a864-8d62527bd69f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "C3Jw+G379QAim8k6pRVznD9k+PctBPFCXQiFvwzNb161u40ASg9niYLTPIqex8oX+zNo7M3sUH7452qPheS2u3WugtDPNGE/ND9G7m4SaBNxSvbKw+MUYF0C0nkr1KriXt8FBBbF0qN1dm95EDIIwsqKGZOP5XJpsjytmrtHBpYU8DlxQTUoAlQqz+jma9MN2JzLeJQwbh0QWniLU98ZjYAvxrgi37qmIYLSmJ2MoLIk2dTX6Nbc7srKzIxBLDXMU1gJeDBIsQGlD12Tm0glWDH8YqyGt9+d9kaWVgYhz8EsrnYbktLkVgMiT7v/09Krk0aG15PwZRSGuoOWjx8MDE9LuXiVQts3v7opWYCZrvM=;mdcpgg+KBRlBS+vaq3nRFg=="

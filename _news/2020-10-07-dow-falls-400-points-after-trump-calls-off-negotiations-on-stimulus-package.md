@@ -880,6 +880,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Birx Issues Blunt Coronavirus Warning Starkly at Odds With Trump"
+    excerpt: "The White House coronavirus coordinator, who has avoided criticizing the president, warned in a private memo that the pandemic was entering a “deadly phase” that demands a more aggressive approach."
+    publishedDateTime: 2020-11-03T22:06:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/birx-trump-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/birx-trump-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/birx-trump-covid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02dc-virus-birx1/02dc-virus-birx1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump is getting increasingly desperate, sparking new fears for his health"
     excerpt: "(CNN)President Donald Trump's increasing political desperation is raising concerns about his judgment following his aggressive Covid-19 treatment and as suspicion mounts that the White House is ..."
     publishedDateTime: 2020-10-09T14:58:00Z

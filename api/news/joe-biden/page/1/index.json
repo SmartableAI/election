@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-04-in-the-minneapolis-neighborhood-where-george-floyd-died-voters-disagree-with-biden-on-policing-but-theyre-voting-for-him-anyway.md",
+      "title": "In the Minneapolis neighborhood where George Floyd died, voters disagree with Biden on policing. But they're voting for him anyway.",
+      "excerpt": "Voters in Powderhorn Park told Insider they think President Donald Trump is even worse, so they voted for Joe Biden despite their reservations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11",
+      "originalUrl": "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa1b6d169331a0011bc712d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11?amp",
+      "publishedDateTime": "2020-11-03T12:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-biden-signs-wall-of-childhood-home-from-this-house-to-the-white-house.md",
       "title": "Biden signs wall of childhood home: 'From this house to the White House'",
       "excerpt": "Democratic presidential nominee Joe Biden waves to onlookers from the steps of his childhood home on Nov. 3 in Scranton, Pa. | Drew Angerer/ Former Vice President Joe Biden signed one of the living room walls of his childhood home during a stop in Scranton,",
@@ -1517,58 +1569,6 @@
         "name": "The Arizona Republic",
         "domain": "azcentral.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-iran-says-its-not-interested-in-debate-after-biden-warns-it-will-pay-a-price.md",
-      "title": "Iran Says It's 'Not Interested' in Debate After Biden Warns It 'Will Pay A Price'",
-      "excerpt": "\"We have repeatedly stated that Iran does not interfere in other countries' elections,\" Iranian mission to the United Nations spokesperson Alireza Miryousefi told Newsweek.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791",
-      "originalUrl": "https://www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1657961/vice-president-joe-biden-debate-trump.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791?amp=1",
-      "publishedDateTime": "2020-10-23T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

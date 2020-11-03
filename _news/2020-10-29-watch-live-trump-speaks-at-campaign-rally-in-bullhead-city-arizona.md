@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e0eba4a9-c740-46cd-b451-c5a5115af8ab-AFP_AFP_8UF6ZT.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump mistakenly introduced the rapper Lil Pump as 'Little Pimp' at his final campaign rally"
+    excerpt: "One of the big superstars of the world, Little Pimp!' said President Trump as he introduced the rapper Lil Pump."
+    publishedDateTime: 2020-11-03T22:15:00Z
+    webUrl: "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fa14fc969331a0011bc6ea8?width=1200&format=jpeg"
+        width: 1200
+        height: 599
         isCached: true
   - title: "Livestream: Trump Holds Tuesday Rally In Michigan"
     excerpt: "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing."

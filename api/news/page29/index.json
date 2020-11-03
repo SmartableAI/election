@@ -2,6 +2,222 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-10-03-president-trump-leads-facebook-ad-spending-in-arizona.md",
+      "title": "President Trump leads Facebook ad spending in Arizona",
+      "excerpt": "President Trump has spent more money on Facebook advertising in Arizona and other parts of the Sun Belt than any other candidate, campaign or business. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u34Jr-tiLQA/president-trump-leads-facebook-ad-spending-in-arizona",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u34Jr-tiLQA/president-trump-leads-facebook-ad-spending-in-arizona",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Trump-Biden-THUMB-3.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp",
+      "publishedDateTime": "2020-10-03T09:51:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-dem-squad-accuses-twitter-of-shielding-trump-from-hate-tweets-after-dismissing-attacks-on-them.md",
+      "title": "Dem 'Squad' accuses Twitter of shielding Trump from hate-tweets after dismissing attacks on them",
+      "excerpt": "Democratic Reps. Rashida Tlaib and Alexandria Ocasio-Cortez are complaining that Twitter has gone the extra mile to shield President Trump from tweets wishing him harm or death after the platform failed to protect others. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8j34q_yq790/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8j34q_yq790/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp",
+      "publishedDateTime": "2020-10-03T08:29:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-president-trump-taken-to-walter-reed-medical-center.md",
+      "title": "President Trump taken to Walter Reed Medical Center",
+      "excerpt": "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+      "originalUrl": "https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 865,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-8-rt-er-201002_1601678432669_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+      "publishedDateTime": "2020-10-03T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-vp-pence-ordered-borders-closed-after-cdc-experts-refused.md",
+      "title": "VP Pence ordered borders closed after CDC experts refused",
+      "excerpt": "Two former U.S. health officials tell AP that Vice President Mike Pence in March directed the nation’s top disease control agency to use its emergency powers to effectively seal the borders against im",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/national-security/vp-pence-ordered-borders-closed-after-cdc-experts-refused/2020/10/03/4f4924b2-057b-11eb-b92e-029676f9ebec_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/national-security/vp-pence-ordered-borders-closed-after-cdc-experts-refused/2020/10/03/4f4924b2-057b-11eb-b92e-029676f9ebec_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/vp-pence-ordered-borders-closed-after-cdc-experts-refused/2020/10/03/4f4924b2-057b-11eb-b92e-029676f9ebec_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/vp-pence-ordered-borders-closed-after-cdc-experts-refused/2020/10/03/4f4924b2-057b-11eb-b92e-029676f9ebec_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-03T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-read-white-house-physician-says-trump-is-taking-remdesivir-and-doing-very-well.md",
       "title": "READ: White House physician says Trump is taking Remdesivir and 'doing very well'",
       "excerpt": "President Donald Trump is being treated at Walter Reed National Military Medical Center for Covid-19 and has begun receiving an anti-viral drug, his doctor announced Friday night.\n    \n",

@@ -128,6 +128,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The Trump campaign has set up two ‘war rooms’ in the White House complex"
+    excerpt: "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration."
+    publishedDateTime: 2020-11-03T22:05:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-trump-war-rooms/merlin_179500989_407a05bc-4770-455e-9b3a-43a7dc7f816b-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "qT7j7j6vCu949WapR2fWcAWGXd48mja2He3aBlcQVtOqvP4tf0AUsCcWtaaBCDUyotbWOjXPkO583toT/dyGg+oz0IS+JahQ0h16CxWsaS2lR1m/VkcJ7uQysHOEZDeXv4qPBbPmo/yZTl/JV8qfaiRCn6JovohJADGzP7fTOsPM7r/aURi8wgdXy/JMKC0BUSDv11uPGLsmro6Ca7DMMfSa8DIr5SLRWvLde7aENQN03aAErJnBJpC7pf0ptU6AMCBQFIN+rROi9oKEaIGM/e5txNvVI9YzO3UHgv2Kzqi0g0rkx4OOmt6oDg9kS1tBJ+Vv8rl39KqCyd7Y2XPmNBuL0u7Bu+geOdqrljExnl0=;rva1GFCfJt3eZuE3VRQkWQ=="
 ---

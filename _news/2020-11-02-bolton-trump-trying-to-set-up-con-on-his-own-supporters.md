@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ball
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/03/us/politics/03trafalgar-promo/03trafalgar-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The Trump campaign has set up two ‘war rooms’ in the White House complex"
+    excerpt: "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration."
+    publishedDateTime: 2020-11-03T22:05:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-trump-war-rooms/merlin_179500989_407a05bc-4770-455e-9b3a-43a7dc7f816b-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

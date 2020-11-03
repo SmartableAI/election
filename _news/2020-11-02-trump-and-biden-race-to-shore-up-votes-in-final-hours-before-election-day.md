@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 2684
+heat: 2704
 published: true
 
 provider:
@@ -476,6 +476,22 @@ related:
     quality: 183
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/160404193444-marco-rubio-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Donald Trump and Joe Biden await their fates as an unprecedented campaign comes to an end"
+    excerpt: "Millions of Americans lined up to add their votes to more than 100 million early ballots Tuesday as President Donald Trump and former Vice President Joe Biden awaited their fates after offering sharply divergent visions for the future amid a Covid-19 pandemic that shows no sign of abating.\n    \n"
+    publishedDateTime: 2020-11-03T22:21:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tRJNSBw7uME/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/presidential-election-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/presidential-election-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103125256-01-election-day-voters-louisville-ky-1103-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

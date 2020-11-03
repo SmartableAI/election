@@ -75,6 +75,20 @@ related:
         width: 998
         height: 499
         isCached: true
+  - title: "Florida remains central to Trump's path to victory"
+    excerpt: "Florida is a toss-up heading into Election Day. Nearly 64% of Florida voters cast their ballots early, and the Latino and Black vote will be crucial to win. Manuel Bojorquez reports from a voting site in Miami."
+    publishedDateTime: 2020-11-03T22:34:00Z
+    webUrl: "https://www.cbsnews.com/video/florida-remains-central-to-trump-path-to-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/03/3cc4cfdd-5f46-4dec-aa8a-8723511dead5/thumbnail/1200x630/b823f684a68a300c622ce0b5263adffc/florida-bojorquez-579447-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "WATCH: Thousands of Trump Fans Stranded in Freezing Cold Hours After Nebraska Rally, 7 Reportedly Hospitalized"
     excerpt: "Thousands of supporters were stranded in the freezing cold following President Donald Trump's rally in Nebraska due to a shortage of buses, including at least seven who were reportedly hospitaliz"
     publishedDateTime: 2020-10-28T11:12:00Z

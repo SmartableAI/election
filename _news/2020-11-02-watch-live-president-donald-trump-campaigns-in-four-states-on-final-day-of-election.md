@@ -842,6 +842,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump and Biden have opposing views on record GDP numbers"
+    excerpt: "The GDP data, released Thursday morning, was one of the last major economic indicators to come out ahead of Election Day on Tuesday."
+    publishedDateTime: 2020-11-03T22:06:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eAp1UnYQgiw/trump-biden-have-opposing-views-on-record-gdp-numbers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-have-opposing-views-on-record-gdp-numbers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-have-opposing-views-on-record-gdp-numbers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/perry_chiaramonte_aem-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says Biden will have 'a hard time' with the 'Squad' if he wins"
     excerpt: "President Trump warned on the morning of Election Day that his Democratic opponent Joe Biden will have a \"hard time\" dealing with four progressive congresswomen popularly known as \"the Squad\" if he's elected to the White House. "
     publishedDateTime: 2020-11-03T14:25:22Z

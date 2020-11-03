@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump mistakenly introduced the rapper Lil Pump as 'Little Pimp' at his final campaign rally"
+    excerpt: "One of the big superstars of the world, Little Pimp!' said President Trump as he introduced the rapper Lil Pump."
+    publishedDateTime: 2020-11-03T22:15:00Z
+    webUrl: "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fa14fc969331a0011bc6ea8?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Man arrested at Trump rally with South Dakota's Noem"
     excerpt: "Police in Maine on Wednesday arrested a man who displayed two weapons at a campaign rally for President Donald Trump where South Dakota Gov. Kristi Noem was appearing. Noem spokeswoman Maggie Seidel said Noem's security detail engaged a man who had two weapons."
     publishedDateTime: 2020-10-28T17:57:00Z

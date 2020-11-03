@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/index.html"
 type: article
 quality: 190
-heat: 1750
+heat: 1770
 published: true
 
 provider:
@@ -862,6 +862,22 @@ related:
       - url: "https://static.politico.com/1e/ff/c311c0024f02bbb41c101f806f36/ap20279704680423.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Birx Issues Blunt Coronavirus Warning Starkly at Odds With Trump"
+    excerpt: "The White House coronavirus coordinator, who has avoided criticizing the president, warned in a private memo that the pandemic was entering a “deadly phase” that demands a more aggressive approach."
+    publishedDateTime: 2020-11-03T22:06:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/birx-trump-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/birx-trump-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/birx-trump-covid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02dc-virus-birx1/02dc-virus-birx1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Dow falls 400 points after Trump calls off negotiations on stimulus package"
     excerpt: "Wall Street fell on Tuesday after President Donald Trump said he had would be halting all negotiations on a new round of coronavirus stimulus relief. The Dow Jones Industrial Average fell by almost 400 points,"

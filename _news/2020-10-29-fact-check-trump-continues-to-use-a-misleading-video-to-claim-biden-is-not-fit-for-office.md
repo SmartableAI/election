@@ -495,6 +495,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump and Joe Biden await their fates as an unprecedented campaign comes to an end"
+    excerpt: "Millions of Americans lined up to add their votes to more than 100 million early ballots Tuesday as President Donald Trump and former Vice President Joe Biden awaited their fates after offering sharply divergent visions for the future amid a Covid-19 pandemic that shows no sign of abating.\n    \n"
+    publishedDateTime: 2020-11-03T22:21:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tRJNSBw7uME/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/presidential-election-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/presidential-election-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103125256-01-election-day-voters-louisville-ky-1103-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Homeland Security officials echo Trump's campaign border wall rhetoric days before election"
     excerpt: "Acting Homeland Security Secretary Chad Wolf, flanked by several senior department officials, hyped the administration's efforts to construct hundreds of miles of wall along the US-Mexico border while lavishing praise on President Donald Trump less than a week before Election Day.\n    \n"
     publishedDateTime: 2020-10-29T19:48:57Z
