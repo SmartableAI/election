@@ -614,6 +614,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "We Exist, Kamala Harris"
+    excerpt: "I was born rejected and it’s a constant source of anguish for me. But it’s not just me. I’m not alone in surviving an abortion. I don’t know how many"
+    publishedDateTime: 2020-11-03T04:01:00Z
+    webUrl: "https://townhall.com/columnists/melissaohden/2020/11/03/untitled-n2579292"
+    ampWebUrl: "https://townhall.com/columnists/melissaohden/2020/11/03/untitled-n2579292?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/melissaohden/2020/11/03/untitled-n2579292?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/24/56375ecd-17dc-4396-92d5-627b49afe1ec.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Biden's Expanded-Map Strategy Carries Risk in Pennsylvania"
     excerpt: "Vice President Joe Biden this week told reporters he hopes to carry Pennsylvania by the “grace of God” and called it a “big deal to me personally as well as politically.” Each question Wallace asked of President Trump was framed upon faulty assertions of untruth and sometimes Wallace actually argued with Trump before Trump's allotted 2 minutes were used."
     publishedDateTime: 2020-10-29T14:24:00Z

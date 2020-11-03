@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
 type: article
 quality: 140
-heat: 340
+heat: 360
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump makes final bid for re-election in Michigan"
+    excerpt: "World Trump makes final bid for re-election in Michigan. Posted . Stretching into the early hours Tuesday, U.S. President Donald Trump made a final push for re-election in the cit"
+    publishedDateTime: 2020-11-03T10:37:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD30QUHR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QUHR&r=OVD30QUHR&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship"
     excerpt: "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain."

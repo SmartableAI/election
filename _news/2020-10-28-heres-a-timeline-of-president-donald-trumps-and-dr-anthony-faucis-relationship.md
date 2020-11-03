@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump makes final bid for re-election in Michigan"
+    excerpt: "World Trump makes final bid for re-election in Michigan. Posted . Stretching into the early hours Tuesday, U.S. President Donald Trump made a final push for re-election in the cit"
+    publishedDateTime: 2020-11-03T10:37:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD30QUHR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QUHR&r=OVD30QUHR&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "President Trump reportedly slammed Anthony Fauci as \"a disaster\" in a campaign phone call"
     excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said. \"People are saying whatever. Just leave us alone.\""
     publishedDateTime: 2020-10-19T16:25:00Z

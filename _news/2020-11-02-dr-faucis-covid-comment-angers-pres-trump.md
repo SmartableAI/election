@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump makes final bid for re-election in Michigan"
+    excerpt: "World Trump makes final bid for re-election in Michigan. Posted . Stretching into the early hours Tuesday, U.S. President Donald Trump made a final push for re-election in the cit"
+    publishedDateTime: 2020-11-03T10:37:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD30QUHR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QUHR&r=OVD30QUHR&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship"
     excerpt: "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain."
     publishedDateTime: 2020-10-28T09:14:00Z

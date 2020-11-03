@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 995
+heat: 1015
 published: true
 
 provider:
@@ -603,6 +603,22 @@ related:
       - url: "https://images.wsj.net/im-250629?size=1.5"
         width: 1280
         height: 853
+        isCached: true
+  - title: "We Exist, Kamala Harris"
+    excerpt: "I was born rejected and it’s a constant source of anguish for me. But it’s not just me. I’m not alone in surviving an abortion. I don’t know how many"
+    publishedDateTime: 2020-11-03T04:01:00Z
+    webUrl: "https://townhall.com/columnists/melissaohden/2020/11/03/untitled-n2579292"
+    ampWebUrl: "https://townhall.com/columnists/melissaohden/2020/11/03/untitled-n2579292?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/melissaohden/2020/11/03/untitled-n2579292?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/24/56375ecd-17dc-4396-92d5-627b49afe1ec.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Watch Live: Joe Biden Campaigns In Ohio, Western Pennsylvania Ahead Of Election Day"
     excerpt: "Former Vice President Joe Biden is scheduled to speak Monday afternoon at campaign stops in Cleveland, Ohio and Monaca, Pennsylvania on the final day of the 2020 campaign."

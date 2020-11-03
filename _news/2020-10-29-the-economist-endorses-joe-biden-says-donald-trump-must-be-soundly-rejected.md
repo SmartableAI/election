@@ -80,6 +80,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump, Biden cede stage to voters for Election Day verdict"
+    excerpt: "Americans are making their choice between President Donald Trump and Democrat Joe Biden, selecting a leader to steer a nation battered by a surging pandemic that has killed more than 230,000 people an"
+    publishedDateTime: 2020-11-03T09:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-cede-stage-voters-election-day-verdict-73986642"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-cede-stage-voters-election-day-verdict-73986642"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-cede-stage-voters-election-day-verdict-73986642"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_866425ae687544f2a69d5a8f55ede671_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Where Biden and Trump stand in the polls one day out from Election Day"
     excerpt: "President Trump and former Vice President Biden are neck and neck in the polls in crucial battleground states like Texas and Ohio."
     publishedDateTime: 2020-11-03T02:08:00Z
@@ -1279,6 +1295,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539677859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA10Z6"
         width: 873
         height: 545
+        isCached: true
+  - title: "Road to 270: Biden has options, Trump walks narrow path"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden each has a path to the 270 Electoral College votes needed to win the 2020 election"
+    publishedDateTime: 2020-11-03T10:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/road-270-biden-options-trump-walks-narrow-path-73940767"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/road-270-biden-options-trump-walks-narrow-path-73940767"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/road-270-biden-options-trump-walks-narrow-path-73940767"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8db05983c212416c965ee4959f3e76db_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump talks legal action, Biden on offense in 2020 finale"
     excerpt: "President Donald Trump and Democratic challenger Joe Biden are making their closing arguments in a final day of campaign events, a day before voters conclude the long, bitter 2020 presidential electio"

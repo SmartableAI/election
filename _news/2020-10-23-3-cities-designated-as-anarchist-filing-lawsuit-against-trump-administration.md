@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump calls Supreme Court voting decision 'horrendous'"
+    excerpt: "Rough Cuts Trump calls Supreme Court voting decision 'horrendous' Posted . U.S. President Donald Trump told reporters in Wisconsin on Monday that a recent Supreme Court decision o"
+    publishedDateTime: 2020-11-03T09:43:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD30QSWV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QSWV&r=OVD30QSWV&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Twitter flags Trump tweet questioning Supreme Court decision on voting in Pennsylvania"
     excerpt: "Twitter Inc late on Monday flagged a tweet by U.S. President Donald Trump in which he called a Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
     publishedDateTime: 2020-11-03T06:21:00Z

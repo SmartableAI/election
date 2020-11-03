@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's final campaign pitch is a false warning of 'cheating' in Pennsylvania"
+    excerpt: "President Donald Trump closed out his bid for a second term with a false warning that \"cheating\" in the key state of Pennsylvania could lead to violence in the streets. It was his latest attempt to tarnish the integrity of an election clash with Democrat Joe Biden that nearly 100 million Americans have"
+    publishedDateTime: 2020-11-03T09:33:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3Z-3KwMz-ew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/donald-trump-joe-biden-us-election-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/donald-trump-joe-biden-us-election-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102234405-donald-trump-1031-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Justice Department files complaint against Melania Trump's ex-friend over tell-all book"
     excerpt: "The Justice Department is suing Stephanie Winston Wolkoff, an ex-friend and former adviser to first lady Melania Trump, claiming she breached a confidentiality agreement by publishing a tell-all book, according to a lawsuit filed in the Washington, DC, District Court on Tuesday.\n    \n"
     publishedDateTime: 2020-10-13T22:56:34Z

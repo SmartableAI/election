@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Live updates: Donald Trump spends Election Day at the White House"
+    excerpt: "President Trump plans to spend the day making calls, giving interviews, monitoring events, and hoping for a come-from-behind victory over Joe Biden."
+    publishedDateTime: 2020-11-03T10:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/03/election-day-2020-donald-trump-mike-pence/6129648002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6129648002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6129648002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/9355561b-1453-4428-b22a-3ad04ad47d1a-GettyImages-1283588209.jpg?auto=webp&crop=3150,1772,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden Trounces Trump In Final Tally Of Major Newspaper Endorsements: 47 To 7"
     excerpt: "The former vice president even won the backing of several major publications that have never made a presidential endorsement."
     publishedDateTime: 2020-11-02T18:51:00Z

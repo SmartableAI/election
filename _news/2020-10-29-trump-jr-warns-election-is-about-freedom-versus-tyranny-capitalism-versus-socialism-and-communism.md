@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-2020-election-freed
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "'Very helpful of Kamala to publicly endorse socialism': Critics slam Harris for video they say pushes 'communism'"
+    excerpt: "Critics are slamming Democratic vice presidential candidate Kamala Harris over a video they say promotes communism."
+    publishedDateTime: 2020-11-02T17:36:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/very-helpful-of-kamala-to-publicly-endorse-socialism-critics-slam-harris-for-video-they-say-pushes-communism"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/very-helpful-of-kamala-to-publicly-endorse-socialism-critics-slam-harris-for-video-they-say-pushes-communism?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/very-helpful-of-kamala-to-publicly-endorse-socialism-critics-slam-harris-for-video-they-say-pushes-communism?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 44
 
 secured: "TnsDqCKMquIxi6r/P6xJFlXN5p1y9H2otOL7g1YW/Hh+tkGYzMz0j4r9wAmQjUtIcz7ku2r1KTbxZ4BsQaQ/3qlwAj1tgAO6iyuD/7qJiMcxcJYlZ2U9uqj1WgQ6pfF9DjDjC3970atxe4A1CDsy4uzvFYabXAEHiumSPmEAYeJvAUFoIRmgXVKZD9KTQUj/rl1EvUaTUDPQ5zgYMhO3wocSoW7f3y7TIhz2rTjt3vz5oi8gM/1P3mFENH6ol1WJJBmZp5SpYttj1dl6qLMbcmtFLqbnZF3snUpSdIOGqgrLkV3Cz1BJk/6AcKIkoDHg+7YIJqYW2ZM/vr/Ipbal/46ix+uj5AtUrvjthmTx3Ag=;RYC7QLy7jA/+Rs0NYIG2Xw=="
 ---
