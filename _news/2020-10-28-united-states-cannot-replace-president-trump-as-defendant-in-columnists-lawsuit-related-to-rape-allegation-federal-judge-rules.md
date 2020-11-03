@@ -157,6 +157,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Twitter flags Trump tweet questioning Supreme Court decision on voting in Pennsylvania"
+    excerpt: "Twitter Inc late on Monday flagged a tweet by U.S. President Donald Trump in which he called a Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
+    publishedDateTime: 2020-11-03T06:21:00Z
+    webUrl: "https://www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
   - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
     excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
     publishedDateTime: 2020-10-29T20:07:00Z

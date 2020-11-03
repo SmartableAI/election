@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-20-exxon-mobil-said-a-hypothetical-call-where-trump-got-its-ceo-to-donate-25-million-to-his-campaign-never-happened.md",
+      "title": "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened",
+      "excerpt": "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8eb486c21cfb0019468efc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp",
+      "publishedDateTime": "2020-10-20T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-trump-calls-fauci-a-disaster-and-seeks-to-reassure-his-team-he-can-win.md",
+      "title": "Trump calls Fauci a 'disaster' and seeks to reassure his team he can win",
+      "excerpt": "President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday, airing his frustration with the scientist during a call meant to reassure campaign staff he has a path to victory on Nov.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2742AD",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2742AD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538074915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I1MX",
+          "width": 799,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2742AD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742AD",
+      "publishedDateTime": "2020-10-20T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-trump-pushes-rosy-virus-message-i-look-fine.md",
       "title": "Trump pushes rosy virus message: 'I look fine'",
       "excerpt": "President Donald Trump was again downplaying the severity of the coronavirus on Monday during a rally in Arizona. \"The pandemic is rounding the turn. Vaccines are coming. And I look fine, don't I?\" Trump said,",
@@ -1423,115 +1527,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ex-facebook-and-oculus-exec-palmer-luckey-is-hosting-a-fundraiser-for-president-donald-trump-this-weekend.md",
-      "title": "Ex-Facebook and Oculus exec Palmer Luckey is hosting a fundraiser for President Donald Trump this weekend",
-      "excerpt": "Palmer Luckey reportedly donated thousands to Trump in 2016, and his company, Anduril, has been awarded a contract to build a \"virtual\" border wall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10",
-      "originalUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f89d7e5d260780019341e37?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10?amp",
-      "publishedDateTime": "2020-10-16T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-mcconnell-not-pelosi-balks-at-trumps-demands-on-economic-aid.md",
-      "title": "McConnell, not Pelosi, balks at Trump's demands on economic aid",
-      "excerpt": "Trump wants the public to believe that Nancy Pelosi is standing in the way of an economic aid package, but it's actually Mitch McConnell who's ignoring him",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcconnell-not-pelosi-balks-trump-s-demands-economic-aid-ncna1243726",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcconnell-not-pelosi-balks-trump-s-demands-economic-aid-ncna1243726",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2017_32/2116716/170811-trump-mcconnell-mn-1155_7675d005b66ad35c468bea532ccec283.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

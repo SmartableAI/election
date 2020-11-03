@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-20-trump-to-speak-to-fox-friends-two-weeks-from-election-day.md",
+      "title": "Trump to speak to 'Fox & Friends,' two weeks from Election Day",
+      "excerpt": "President Trump will join “Fox & Friends” for an exclusive interview Tuesday at 8 a.m. ET, two weeks out from Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f6djMKrte9k/trump-fox-friends-interview-two-weeks-election-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f6djMKrte9k/trump-fox-friends-interview-two-weeks-election-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 430,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-fox-friends-interview-two-weeks-election-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-friends-interview-two-weeks-election-day.amp",
+      "publishedDateTime": "2020-10-20T04:45:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-biden-backers-have-looming-sense-of-deja-vu.md",
       "title": "Biden backers have looming sense of deja vu",
       "excerpt": "With multiple polls predicting a clear Biden victory in the November Election, Democrats are getting an uncomfortable sense of déjà vu given that polls in the final weeks of the 2016 election overwhelmingly predicted a victory for Hillary Clinton.",
@@ -1565,62 +1621,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-denounces-white-supremacy-says-he-will-accept-a-peaceful-transfer-of-power-but-wants-to-win.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-denounces-white-supremacy-says-he-will-accept-a-peaceful-transfer-of-power-but-wants-to-win.amp",
       "publishedDateTime": "2020-10-15T17:37:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-defund-police-movement-drives-officers-toward-trump.md",
-      "title": "'Defund police' movement drives officers toward Trump",
-      "excerpt": "The progressive \"defund the police\" movement is driving members of law enforcement nationwide to back President Trump on Election Day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AdaXXxYQAw/defund-police-movement-drives-police-to-back-president-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AdaXXxYQAw/defund-police-movement-drives-police-to-back-president-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/12_AP20250357950305.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/defund-police-movement-drives-police-to-back-president-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/defund-police-movement-drives-police-to-back-president-trump.amp",
-      "publishedDateTime": "2020-10-15T13:21:34-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,144 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-17-barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo.md",
+      "title": "Barbra Streisand shades Donald Trump at event for Gov. Andrew Cuomo",
+      "excerpt": "Barbra Streisand got back to her New York roots while introducing Gov. Andrew Cuomo at a virtual event for his new book, “American Crisis: Leadership Lessons from the COVID-19 Pandemic,” on Thursday night.",
+      "sourceUrl": null,
+      "webUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/",
+      "originalUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pagesix.com/wp-content/uploads/sites/3/2020/10/barbra-streisand-donald-trump-andrew-cuomo.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/amp/",
+      "cdnAmpWebUrl": "https://pagesix-com.cdn.ampproject.org/c/s/pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/amp/",
+      "publishedDateTime": "2020-10-16T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Page Six",
+        "domain": "pagesix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-joe-bidens-animal-crossing-island-was-definitely-made-by-a-pro-gamer.md",
+      "title": "Joe Biden’s ‘Animal Crossing’ island was definitely made by a pro gamer",
+      "excerpt": "Whoever worked on Joe Biden’s “Animal Crossing” island is a real professional. That was probably the most surprising takeaway from the surreal 2020 presidential campaign promotion, which debuted Friday afternoon on KindaFunnyGames,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/",
+      "originalUrl": "https://www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6KP7ZZ3CARDYRM2XJMLBXRCAWU.jpg&w=1440",
+          "width": 975,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/?outputType=amp",
+      "publishedDateTime": "2020-10-16T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-donald-trump-to-campaign-wednesday-in-gastonia.md",
+      "title": "Donald Trump to campaign Wednesday in Gastonia",
+      "excerpt": "The president will be at the Gastonia Municipal Airport Wednesday to campaign for his 2020 reelection campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "originalUrl": "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wcnc.com/assets/WZZM/images/d11f7245-6d50-49bc-81d7-092cae6f06dd/d11f7245-6d50-49bc-81d7-092cae6f06dd_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "cdnAmpWebUrl": "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "publishedDateTime": "2020-10-16T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCNC",
+        "domain": "wcnc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-its-on-north-carolina-vice-president-pence-greets-supporters-in-selma.md",
       "title": "'It's on, North Carolina': Vice President Pence greets supporters in Selma",
       "excerpt": "Vice President Mike Pence traveled to Selma on Friday for a \"Make America Great Again\" event at The Farm at 95. Supporters were lined up well before the 2:30 p.m. event. \"I'm here for one reason and one reason only,",
@@ -1134,174 +1272,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-presses-nbc-anchor-to-ask-more-about-antifa-left-wing-violence.md",
-      "title": "Trump presses NBC anchor to ask more about Antifa, left-wing violence",
-      "excerpt": "President Trump and NBC anchor Savannah Guthrie had a testy exchange at Thursday's presidential town hall, with the former wondering she didn't ask him about left-wing actors like Antifa.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8fYBW1ZbqXI/trump-guthrie-nbc-antifa",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8fYBW1ZbqXI/trump-guthrie-nbc-antifa",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c32226e3-077e-4b0c-bece-647d2ac28283/d083186b-e89b-4dc9-8426-0900432df432/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp",
-      "publishedDateTime": "2020-10-15T19:06:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-washington-post-white-house-was-warned-that-giuliani-was-being-used-by-russians-to-feed-misinformation-to-trump.md",
-      "title": "Washington Post: White House was warned that Giuliani was being used by Russians to 'feed misinformation' to Trump",
-      "excerpt": "The White House was warned in 2019 that President Donald Trump's personal attorney Rudy Giuliani was \"was being used to feed Russian misinformation\" to the President, The Washington Post reported Thursday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SIP9r0KvtkU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SIP9r0KvtkU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/rudy-giuliani-russian-intelligence-misinformation-operation-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/rudy-giuliani-russian-intelligence-misinformation-operation-trump/index.html",
-      "publishedDateTime": "2020-10-15T18:48:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.md",
-      "title": "Trump says if he and Pelosi agree on stimulus package, Senate GOP will get on board",
-      "excerpt": "President Trump said Thursday that he is “ready to sign” a fourth coronavirus stimulus package, and said that if he and House Speaker Nancy Pelosi are able to come to an agreement, he believes Senate Republicans will get on board.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 329,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
-      "publishedDateTime": "2020-10-15T18:14:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

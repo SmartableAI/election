@@ -557,6 +557,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "GOP tries to save its Senate majority, with or without Trump"
+    excerpt: "Senate Republicans are fighting to save their majority and they're making a final election push against the onslaught of Democratic challengers"
+    publishedDateTime: 2020-11-03T06:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/correction-election-2020-senate-story-73972461"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/correction-election-2020-senate-story-73972461"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/correction-election-2020-senate-story-73972461"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_78c893d4ee094404b5c93cb543c61bd5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "These gay voters are backing Trump. Here’s why."
     excerpt: "Chad Felix Greene describes a similar experience of being embraced by conservatives as an openly gay person. Greene grew up in West Virginia and Ohio, with no openly gay peers in school. As he entered his teenage years,"
     publishedDateTime: 2020-11-02T16:31:00Z
@@ -1168,6 +1184,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Pres. Trump holds rally in Michigan"
+    excerpt: "Watch \"Pres. Trump holds rally in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-03T06:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201103045906-pres-trump-holds-rally-in-michigan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/03/story_07521699_1604381704.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ex-Homeland Security Official Outs Himself As 'Anonymous' Anti-Trump Author"
     excerpt: "Miles Taylor defended his decision to criticize the president anonymously, saying it forced him to address the merits of the claims, \"rather than creating distractions through petty insults.\""
     publishedDateTime: 2020-10-28T21:20:00Z
@@ -1292,6 +1322,22 @@ related:
         width: 1300
         height: 867
         isCached: true
+  - title: "Opinion: Vote for Donald Trump and Mike Pence"
+    excerpt: "Republican Party of Virginia Chairman Rich Anderson makes his party's closing argument on behalf of Donald Trump and Mike Pence."
+    publishedDateTime: 2020-10-31T06:05:00Z
+    webUrl: "https://www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html"
+    ampWebUrl: "https://www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 90
+    images:
+      - url: "https://www.dailypress.com/resizer/ViTXaWpsZsnPSk2_BYdQmIIprrM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7O5QYGEJYFLJRZ6GTUVFO5HLA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How a mid-size construction firm used political influence, litigation, and media stunts — and secured $2 billion in Trump border wall contracts"
     excerpt: "Fisher Sand & Gravel, led by CEO Tommy Fisher, made a sharp recovery after having its prototype personally rejected by President Trump in 2018."
     publishedDateTime: 2020-10-26T09:59:00Z
@@ -1339,6 +1385,20 @@ related:
       - url: "https://ktar.com/wp-content/uploads/2020/10/ap_2838d59a37064c5aa5590d683595b799-1-1.jpg"
         width: 620
         height: 370
+        isCached: true
+  - title: "Vote 2020: Kamala Harris, Mike Pence and President Trump to campaign in North Carolina just days before Election Day"
+    excerpt: "It's a busy day on the North Carolina campaign trail. Sen. Harris will campaign in Goldsboro and Fayetteville later today. Vice President Pence is in Boone this morning while President Trump will visit Hickory later."
+    publishedDateTime: 2020-11-01T14:56:00Z
+    webUrl: "https://abc11.com/kamala-harris-in-north-carolina-mike-pence-president-trump/7543719/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 87
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7562195_110120-wtvd-trump-hickory-10pm-vid.jpg?w=1600"
+        width: 1600
+        height: 900
         isCached: true
   - title: "President Trump, Mike Pence planning final campaign surge in Arizona next week"
     excerpt: "In the final days before the November 3 election, President Trump’s campaign is planning a final surge in Arizona."
@@ -1572,6 +1632,20 @@ related:
       - url: "https://stmedia.stimg.co/ows_9babe6fb-0a7f-420a-9f48-8d32d2cfad36.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
+        isCached: true
+  - title: "VP Mike Pence makes final push for President Trump in Latrobe"
+    excerpt: "Vice President Mike Pence and his wife spoke to supporters at the Arnold Palmer Regional Airport in Latrobe Monday for a final push ahead of the election."
+    publishedDateTime: 2020-11-03T01:29:00Z
+    webUrl: "https://www.wpxi.com/news/top-stories/vp-mike-pence-makes-final-push-president-trump-latrobe/5ZFU7EMLPNAU7EMIPL6P2MT7JU/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 70
+    images:
+      - url: "https://www.wpxi.com/resizer/HKRQ6QC1cd71yRnMuToZqgdhq1w=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/3X6XQNKCVA222X23EGOIZQQXQE.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Jennifer Lawrence Says President Donald Trump Completely Changed Her 'Political Views'"
     excerpt: "Oscar-winning actress Jennifer Lawrence recently revealed that the incumbent president of the United States, Donald Trump, made her rethink her political views. While making an appearance in the “ Absolutely Not ” podcast,"

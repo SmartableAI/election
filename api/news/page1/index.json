@@ -2,6 +2,157 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-03-trump-adviser-on-fbis-clinton-email-probe.md",
+      "title": "Trump adviser on FBI's Clinton email probe",
+      "excerpt": "News that the FBI has discovered new emails related to its investigation of Hillary Clinton's private email server has rocked the presidential race with only 11 days to go. Senior adviser to the Trump campaign AJ Delgado joins CBSN to discuss the latest developments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/donald-trump-adviser-on-fbi-clinton-email-probe/",
+      "originalUrl": "https://www.cbsnews.com/video/donald-trump-adviser-on-fbi-clinton-email-probe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/f56475a8-5a58-4f82-bc73-d23db539bc8e/thumbnail/1200x630/2cec8063b9dd7287ab3357bd89618942/cbsn-trump-clinton-1023-1164816-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-exclusive-tired-of-trump-deutsche-bank-wants-out-but-sees-no-good-options-sources.md",
+      "title": "EXCLUSIVE-Tired of Trump, Deutsche Bank wants out but sees no good options - sources",
+      "excerpt": "Deutsche Bank AG is looking for ways to end its relationship with President Donald Trump after the U.S. elections, as it tires of the negative publicity stemming from the ties, according to three senior bank officials with direct knowledge of the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-deutsche-bank-idUSL8N2HE2LQ",
+      "originalUrl": "https://www.reuters.com/article/usa-election-deutsche-bank-idUSL8N2HE2LQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27J0G0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0G0",
+      "publishedDateTime": "2020-11-02T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.md",
+      "title": "Trump says Supreme Court decision on Pennsylvania ballots is 'dangerous,' 'will 'induce violence'",
+      "excerpt": "President Trump Monday called a Supreme Court decision that said Pennsylvania could allow mail ballots through Friday “dangerous,” adding it would lead to “violence.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySMpc_U52AI/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySMpc_U52AI/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/271cf1eb-74b0-4238-8cc6-dd9c23ed7c2c/f9d2a304-3484-48d2-8f7d-116c5e2edfc6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp",
+      "publishedDateTime": "2020-11-02T21:22:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-trump-army-of-poll-watchers-led-by-veteran-of-fraud-claims.md",
       "title": "Trump 'army' of poll watchers led by veteran of fraud claims",
       "excerpt": "President Donald Trump’s campaign is poised to deploy an “army” of volunteers and paid staff on Tuesday to watch elections precincts in Democratic-leaning areas",
@@ -769,49 +920,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-03-lizzo-encourages-fans-to-vote-while-dressed-as-mike-pences-debate-fly-for-halloween.md",
-      "title": "Lizzo encourages fans to vote while dressed as Mike Pence's debate fly for Halloween",
-      "excerpt": "Leave it to Lizzo to win Halloween. The Houston-raised music star had a hilarious Halloween costume of choice just ahead of Tuesday's highly anticipated election. Remember the fly that generated all the buzz after making itself comfortable on top of Mike Pence's head at the vice presidential debate in October?",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/entertainment/article/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php",
-      "originalUrl": "https://www.chron.com/entertainment/article/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/entertainment/amp/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php",
-      "publishedDateTime": "2020-11-02T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-11-02-domenech-joe-biden-would-be-doing-much-better-with-amy-klobuchar-as-running-mate.md",
       "title": "Domenech: Joe Biden would be doing much better with Amy Klobuchar as running mate",
       "excerpt": "Democratic presidential hopeful Joe Biden should have picked Sen. Amy Klobuchar of Minnesota as an election running mate over Sen. Kamala Harris of California, The Federalist publisher Ben Domenech said on Monday.",
@@ -876,7 +984,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 753,
+      "heat": 773,
       "tags": null,
       "images": [
         {
@@ -1234,115 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-the-health-202-obamacare-marketplaces-survived-trumps-term-better-than-expected.md",
-      "title": "The Health 202: Obamacare marketplaces survived Trump's term better than expected",
-      "excerpt": "The Trump administration is presiding over what could be its final Obamacare enrollment season, which started yesterday. As Election Day approaches, it's clear the much-hyped changes the administration made to the health insurance marketplaces over the past four years had far less impact — either positive or negative — than expected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LMYV2VXGGEI6PK2QMIP6AWEDIA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/?outputType=amp",
-      "publishedDateTime": "2020-11-02T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-trump-threatens-senate-gop-now-and-in-the-future.md",
-      "title": "Trump threatens Senate GOP — now and in the future",
-      "excerpt": "A \"new kind of Republican.\" The only woman in Senate GOP leadership. And veteran lawmakers who’ve been in the mix on most every major bipartisan deal over the past decade. These are a few of the Republican senators President Donald Trump has put at risk this November,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/11/02/trump-threatens-senate-gop-433702",
-      "originalUrl": "https://www.politico.com/news/2020/11/02/trump-threatens-senate-gop-433702",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/8b/6d/6bcb94fe4487ad76970e0ff15b33/201030-trump-mcsally-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/11/02/trump-threatens-senate-gop-433702",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/02/trump-threatens-senate-gop-433702",
-      "publishedDateTime": "2020-11-02T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

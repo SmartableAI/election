@@ -301,6 +301,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch Live: Former Vice President Joe Biden speaks in Beaver County, Pa."
+    excerpt: "Democratic presidential nominee Joe Biden is holding a campaign event in Beaver County, Pa., on Monday afternoon.Watch the live video above."
+    publishedDateTime: 2020-11-02T21:16:00Z
+    webUrl: "https://thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania"
+    ampWebUrl: "https://thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102920getty_optimism.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
     excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
     publishedDateTime: 2020-11-02T22:53:00Z

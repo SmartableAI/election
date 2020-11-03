@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Vice President Mike Pence making two campaign stops in North Carolina this weekend"
-    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
-    publishedDateTime: 2020-10-30T06:18:00Z
-    webUrl: "https://abc11.com/politics/vp-pence-making-two-campaign-stops-in-north-carolina-this-weekend/7463634/"
-    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
-    type: article
-    provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 69
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7398556_102720-wtvd-Tim-5pm-Pence-in-Greensboro-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Vice President Mike Pence Campaigns in Mosinee"
     excerpt: "Vice President Mike Pence made a campaign stop at the Central Airport in Mosinee on Wednesday. The stop is just one of several in Badger State for the Trump administration this week alone. About 150 people attended the rally."
     publishedDateTime: 2020-10-29T01:09:00Z

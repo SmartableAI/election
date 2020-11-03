@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-03-lizzo-encourages-fans-to-vote-while-dressed-as-mike-pences-debate-fly-for-halloween.md",
-      "title": "Lizzo encourages fans to vote while dressed as Mike Pence's debate fly for Halloween",
-      "excerpt": "Leave it to Lizzo to win Halloween. The Houston-raised music star had a hilarious Halloween costume of choice just ahead of Tuesday's highly anticipated election. Remember the fly that generated all the buzz after making itself comfortable on top of Mike Pence's head at the vice presidential debate in October?",
+      "path": "_news/2020-10-31-vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc.md",
+      "title": "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC",
+      "excerpt": "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election.",
       "sourceUrl": null,
-      "webUrl": "https://www.chron.com/entertainment/article/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php",
-      "originalUrl": "https://www.chron.com/entertainment/article/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php",
+      "webUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/",
+      "originalUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 190,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
+          "url": "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chron.com/entertainment/amp/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php",
-      "publishedDateTime": "2020-11-02T09:27:00-08:00",
+      "ampWebUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp",
+      "publishedDateTime": "2020-10-31T08:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
+        "name": "WRAL",
+        "domain": "wral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -679,7 +679,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2510,
+      "heat": 2610,
       "tags": null,
       "images": [
         {

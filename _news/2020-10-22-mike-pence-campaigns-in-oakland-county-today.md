@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-campaigns-
 cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.amp.html"
 type: article
 quality: 75
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/8/e1/8e1dd228-1499-11eb-a6c0-1b7d3257600d/5f91d7fb31dc4.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Vice President Mike Pence making two campaign stops in North Carolina this weekend"
-    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
-    publishedDateTime: 2020-10-30T06:18:00Z
-    webUrl: "https://abc11.com/politics/vp-pence-making-two-campaign-stops-in-north-carolina-this-weekend/7463634/"
-    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
-    type: article
-    provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 69
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7398556_102720-wtvd-Tim-5pm-Pence-in-Greensboro-vid.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Vice President Mike Pence coming to Central Wisconsin Airport for campaign rally in Mosinee"
     excerpt: "The vice president's visit comes while Wisconsin sees record high cases of COVID-19 and while members of his staff have been infected."

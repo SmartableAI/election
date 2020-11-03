@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Businessman wagers $5M on Trump winning election: report"
+    excerpt: ""
+    publishedDateTime: 2020-11-03T04:56:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0GHIz86Ld8/businessman-wagers-5m-on-trump-winning-election-report"
+    ampWebUrl: "https://www.foxnews.com/politics/businessman-wagers-5m-on-trump-winning-election-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/businessman-wagers-5m-on-trump-winning-election-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pro-Trump boaters hold final San Diego Bay parade before Election Day"
     excerpt: "San Diego Bay had one last pro-Trump boat parade before Election Day over the weekend, with hundreds of vessels hitting the water to declare support for the president’s reelection, according to local reports."
     publishedDateTime: 2020-11-03T03:32:59Z
