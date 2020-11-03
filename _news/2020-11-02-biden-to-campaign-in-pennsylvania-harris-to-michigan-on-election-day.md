@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 975
+heat: 995
 published: true
 
 provider:
@@ -317,6 +317,22 @@ related:
     quality: 183
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20300737624986.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden takes all 5 votes in Dixville Notch, NH to notch first victory on Election Day"
+    excerpt: "Democratic presidential candidate Joe Biden has won win the midnight election in Dixville Notch, N.H., in a landslide."
+    publishedDateTime: 2020-11-03T08:02:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V2Nd4ZxAa8g/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308225730346.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

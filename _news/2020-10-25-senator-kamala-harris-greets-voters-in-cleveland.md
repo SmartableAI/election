@@ -516,6 +516,22 @@ related:
         width: 3000
         height: 2359
         isCached: true
+  - title: "Kamala Harris to spend part of Election Day in Detroit"
+    excerpt: "The last-minute swing through Michigan signifies the importance of the state in deciding the ultimate outcome of the presidential election."
+    publishedDateTime: 2020-11-03T08:16:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/02/kamala-harris-detroit-michigan-trump-biden-election-2020/6123547002/"
+    ampWebUrl: "https://amp.freep.com/amp/6123547002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6123547002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTF/d656bee0-365c-42ae-9042-506d473db88b-092220_kamala_flint_vis2.jpg?auto=webp&crop=2399,1350,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris to visit Detroit on Election Day"
     excerpt: "Democratic vice presidential candidate Kamala Harris will visit Detroit during a final campaign swing through Michigan on Election Day. Harris is returning to Michigan, a key battleground state, a day after President Donald Trump scheduled rallies in Traverse City and Grand Rapids."
     publishedDateTime: 2020-11-02T19:53:00Z

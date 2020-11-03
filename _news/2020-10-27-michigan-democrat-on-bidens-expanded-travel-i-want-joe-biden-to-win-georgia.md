@@ -334,6 +334,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden takes all 5 votes in Dixville Notch, NH to notch first victory on Election Day"
+    excerpt: "Democratic presidential candidate Joe Biden has won win the midnight election in Dixville Notch, N.H., in a landslide."
+    publishedDateTime: 2020-11-03T08:02:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V2Nd4ZxAa8g/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308225730346.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris thinks she can laugh her way through serious questions: Pavlich"
     excerpt: "Editor Katie Pavlich called Democratic vice-presidential nominee Sen. Kamala Harris “the most far-left Democrat in Washington, D.C.,\" and said Joe Biden picked her to \"make sure that the left wing of the party felt comfortable\" that they would have a voice in his administration."
     publishedDateTime: 2020-10-26T18:32:48Z

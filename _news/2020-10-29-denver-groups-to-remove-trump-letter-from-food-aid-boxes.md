@@ -1856,6 +1856,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 46
+  - title: "VP Mike Pence cites jobs, energy policy in push for Trump votes at Unity airport"
+    excerpt: "Vice President Mike Pence cited job creation and support for law enforcement and the military among strengths of the current White House administration in a last-minute plea Monday for Westmoreland County voters to help elect him and President Trump to second terms."
+    publishedDateTime: 2020-11-02T20:31:00Z
+    webUrl: "https://triblive.com/local/westmoreland/pence-cites-jobs-energy-policy-in-push-for-trump-votes-monday-at-unity-airport/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 45
 
 secured: "4PilVl/+/ywZbeyn9Uoe9RtH3wFkMYYxMcCI7bU8DNtQYYBvtcKxnVQJMGoRW16OR4W32aGwXj/2HpItMlP+By/Kx2+jmQpt78qZ//H2dlLn3G8aL6PutfoerLflNzNytE9D6bhLcnPqJ8zEHNvgKvYklXb14wPbPTVT+oLlFOnEI2uoEcsKfSzS23cwJ7aEW6Zp05YeF1qHs3XaGbJA9FgiApXwauFI1FCff08j/bQcXAsLVyBPCdSFV087O8IFzOqzPAl7XDc7x8xncoSwfwuao3iWdjoqT44PzmN0mlNVj+OwXNUNf45b4S10vmep1NTx/Fils5CgLRLpst8P8DC8poYlG5fgMVlrJ94G+Bk=;qY9tzH2yKYHFlO/o8L3DxQ=="
 ---

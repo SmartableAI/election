@@ -176,6 +176,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump says he'll win Michigan easily at final campaign rally"
+    excerpt: "President Trump remarked during his final campaign rally on Monday night that he will “so easily” win the state of Michigan. "
+    publishedDateTime: 2020-11-03T07:06:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hnomzx4VpVg/trump-says-hell-so-easily-win-michigan-during-final-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-hell-so-easily-win-michigan-during-final-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-hell-so-easily-win-michigan-during-final-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308232738133.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump’s comment at rally raises speculation about Fauci’s future at NIAID"
     excerpt: "President Trump suggested during a Florida rally early Monday that he may fire Dr. Anthony Fauci, the nation's top infectious disease expert, after the election."
     publishedDateTime: 2020-11-02T08:32:36Z

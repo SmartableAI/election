@@ -175,6 +175,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump says he'll win Michigan easily at final campaign rally"
+    excerpt: "President Trump remarked during his final campaign rally on Monday night that he will “so easily” win the state of Michigan. "
+    publishedDateTime: 2020-11-03T07:06:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hnomzx4VpVg/trump-says-hell-so-easily-win-michigan-during-final-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-hell-so-easily-win-michigan-during-final-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-hell-so-easily-win-michigan-during-final-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308232738133.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
     excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."
     publishedDateTime: 2020-10-25T20:30:55Z

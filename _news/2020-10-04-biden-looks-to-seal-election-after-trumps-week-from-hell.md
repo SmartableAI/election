@@ -1390,6 +1390,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "In midnight vote, Biden wins Dixville Notch. Trump takes other New Hampshire town."
+    excerpt: "In Dixville Notch, where a handful of masked residents voted shortly after midnight on Tuesday, all five votes for president went to Joseph R. Biden Jr., the Democratic nominee. He is the first presidential candidate to sweep the general election vote in Dixville Notch since the midnight voting tradition began there in 1960,"
+    publishedDateTime: 2020-11-03T08:44:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/in-midnight-vote-biden-wins-dixville-notch-trump-takes-other-new-hampshire-town.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/in-midnight-vote-biden-wins-dixville-notch-trump-takes-other-new-hampshire-town.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/in-midnight-vote-biden-wins-dixville-notch-trump-takes-other-new-hampshire-town.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 144
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/business/02election-day-briefing-dixville-notch-voting/02election-day-briefing-dixville-notch-voting-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump-Biden Electoral College tie could mean these House races determine the president"
     excerpt: "To win a House vote for president, Democrats' best targets are small-population states that send only a single member to the chamber — like Alaska and Montana."
     publishedDateTime: 2020-10-26T23:09:00Z
@@ -1421,6 +1437,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029001611-donald-trump-goodyear-arizona-1028-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "In midnight vote, Biden sweeps Dixville Notch. Trump takes another New Hampshire town."
+    excerpt: "In Dixville Notch, where a handful of masked residents voted shortly after midnight on Tuesday, all five votes for president went to Joseph R. Biden Jr., the Democratic nominee. He is the first presidential candidate to sweep the general election vote in Dixville Notch since the midnight voting tradition began there in 1960,"
+    publishedDateTime: 2020-11-03T08:47:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/in-midnight-vote-biden-sweeps-dixville-notch-trump-takes-another-new-hampshire-town.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/in-midnight-vote-biden-sweeps-dixville-notch-trump-takes-another-new-hampshire-town.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/in-midnight-vote-biden-sweeps-dixville-notch-trump-takes-another-new-hampshire-town.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 142
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/02/business/02election-day-briefing-dixville-notch-voting/02election-day-briefing-dixville-notch-voting-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "In dueling Florida rallies, Trump and Biden paint different pictures of Covid — and America"
     excerpt: "Joe Biden and Donald Trump held dueling rallies in Florida on Thursday, painting stark a contrast for their visions of the U.S. and the Covid-19 pandemic in the key battleground state just five days before Election Day."

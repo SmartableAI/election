@@ -336,6 +336,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden takes all 5 votes in Dixville Notch, NH to notch first victory on Election Day"
+    excerpt: "Democratic presidential candidate Joe Biden has won win the midnight election in Dixville Notch, N.H., in a landslide."
+    publishedDateTime: 2020-11-03T08:02:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V2Nd4ZxAa8g/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308225730346.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump hits Biden on NAFTA support in Michigan, says he is bringing back auto industry jobs"
     excerpt: "President Trump attacked Democratic nominee Joe Biden's record on the auto industry at a rally in Washington, Mich., hoping to win the state for a second time."
     publishedDateTime: 2020-11-01T17:59:51Z

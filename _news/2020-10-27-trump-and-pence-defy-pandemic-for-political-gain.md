@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-politi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932"
 type: article
 quality: 150
-heat: 2610
+heat: 2630
 published: true
 
 provider:
@@ -1849,6 +1849,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 46
+  - title: "VP Mike Pence cites jobs, energy policy in push for Trump votes at Unity airport"
+    excerpt: "Vice President Mike Pence cited job creation and support for law enforcement and the military among strengths of the current White House administration in a last-minute plea Monday for Westmoreland County voters to help elect him and President Trump to second terms."
+    publishedDateTime: 2020-11-02T20:31:00Z
+    webUrl: "https://triblive.com/local/westmoreland/pence-cites-jobs-energy-policy-in-push-for-trump-votes-monday-at-unity-airport/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 45
   - title: "Denver Groups to Remove Trump Letter From Food-Aid Boxes"
     excerpt: "A coalition of anti-hunger groups in Denver have been removing letters from President Donald Trump from inside federal food assistance boxes that address recipient families."
     publishedDateTime: 2020-10-29T15:51:00Z
