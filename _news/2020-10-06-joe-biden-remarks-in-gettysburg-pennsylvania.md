@@ -19,58 +19,76 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Joe Biden in Pennsylvania, to visit historic Gettysburg Tuesday"
-    excerpt: "Democratic presidential nominee Joe Biden will campaign in southern Pennsylvania on Tuesday, in a state viewed as a critical battleground for next month's election."
-    publishedDateTime: 2020-10-06T15:18:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
+  - title: "The Latest: Biden predicts 'big win' in Pennsylvania"
+    excerpt: "Joe Biden is predicting a victory in Pennsylvania on the eve of the election. Speaking at a drive-in rally in Pittsburgh, Biden encouraged the audience to vote and said, “I have a feeling we’re coming together for a big win tomorrow!"
+    publishedDateTime: 2020-11-03T03:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-trump-set-spend-election-night-white-house-73970437"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-trump-set-spend-election-night-white-house-73970437"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-trump-set-spend-election-night-white-house-73970437"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7071601988862/2020/1/14c8efc4ed0991ebe7040bd1d12e25bf/v1.5/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday.jpg"
-        width: 800
-        height: 533
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d7566d358bf846898dce240a04c50519_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Joe Biden quotes Sixers new head coach Doc Rivers while campaigning in Pennsylvania"
-    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
-    publishedDateTime: 2020-10-07T14:16:00Z
-    webUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html"
-    ampWebUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
+  - title: "Watch Live: Vice President Joe Biden speaks in Beaver County, Pennsylvania"
+    excerpt: "Democratic nominee Joe Biden is holding a campaign event in Beaver County, Pennsylvania on Monday afternoon.Watch the live video above."
+    publishedDateTime: 2020-11-02T21:16:00Z
+    webUrl: "https://thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania"
+    ampWebUrl: "https://thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania?amp"
     type: article
     provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 69
+      name: The Hill
+      domain: thehill.com
+    quality: 123
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GXOWXIVJL5AGHINVACOT7D2BLQ.jpg"
-        width: 5620
-        height: 3747
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102920getty_optimism.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Sixers’ Doc Rivers ‘honored’ to be quoted by Joe Biden during campaign speech in Gettysburg"
-    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
-    publishedDateTime: 2020-10-08T12:08:00Z
-    webUrl: "https://www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html"
-    ampWebUrl: "https://www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html?outputType=amp"
+  - title: "Biden has solid lead in Wisconsin, narrower edge in Pennsylvania: Reuters/Ipsos poll"
+    excerpt: "Democratic presidential challenger Joe Biden led President Donald Trump by a solid margin in Wisconsin and maintained a narrower advantage in Pennsylvania with just over a week until Election Day, Reuters/Ipsos opinion polls showed on Monday."
+    publishedDateTime: 2020-10-26T20:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27B2F8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B2F8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B2F8"
     type: article
     provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 65
+      name: Reuters
+      domain: reuters.com
+    quality: 118
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CI2PXOSQNBGHBJQEZBHJSFHWU.jpg"
-        width: 5654
-        height: 3769
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538891639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1KD"
+        width: 817
+        height: 545
         isCached: true
   - title: "Joe Biden Campaigns in Erie, Pennsylvania"
     excerpt: "Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. 2020 Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. Joe Biden, a 2020 Democratic presidential candidate,"
     publishedDateTime: 2020-10-10T13:05:00Z
     webUrl: "https://www.c-span.org/video/?476864-1/joe-biden-campaigns-erie-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Campaigns in Erie, Pennsylvania"
+    excerpt: "President Trump delivered remarks at a campaign rally in Erie, Pennsylvania, in support of his reelection. Vice President Pence made remarks at a Trump campaign rally in New Cumberland, Pennsylvania."
+    publishedDateTime: 2020-11-02T14:37:00Z
+    webUrl: "https://www.c-span.org/video/?477689-1/vice-president-pence-campaigns-erie-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Campaigns in Latrobe, Pennsylvania"
+    excerpt: "Vice President Pence spoke at a Trump campaign event in Mosinee, Wisconsin. Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice President Mike Pence delivered campaign remarks at a ..."
+    publishedDateTime: 2020-11-02T11:53:00Z
+    webUrl: "https://www.c-span.org/video/?477688-1/vice-president-pence-campaigns-latrobe-pennsylvania"
     type: article
     provider:
       name: C-SPAN

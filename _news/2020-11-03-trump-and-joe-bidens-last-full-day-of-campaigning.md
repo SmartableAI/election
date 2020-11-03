@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-02T23:32:00Z
 originalUrl: "https://www.cbsnews.com/video/trump-biden-enter-final-stretch-of-2020-campaign/"
 webUrl: "https://www.cbsnews.com/video/trump-biden-enter-final-stretch-of-2020-campaign/"
 type: article
-quality: 120
+quality: 130
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/02/38a755f7-8045-4b6d-affc-b3ba7e3a4dbe/thumbnail/1200x630/c1355b46a0272b215ce0de6cd2d56146/cbsn-fusion-president-trump-joe-biden-enter-final-stretch-of-campaign-thumbnail-579061-640x360.jpg"
@@ -5141,6 +5142,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Donald Trump Jr. Slammed For Misspellings, Inaccuracies In Anti-Biden Tweet"
+    excerpt: "Donald Trump Jr. tweeted out a quote supposedly from a working-class friend of his full of typos and incorrect claims; Social media quickly piled on the mistake, sayin"
+    publishedDateTime: 2020-11-02T23:03:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-jr-slammed-misspellings-inaccuracies-anti-biden-tweet-3075066"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-jr-slammed-misspellings-inaccuracies-anti-biden-tweet-3075066?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-jr-slammed-misspellings-inaccuracies-anti-biden-tweet-3075066?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 88
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/25/donald-trump-jr-delivered-a-keynote-address-at.jpg"
+        width: 1024
+        height: 707
+        isCached: true
   - title: "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'"
     excerpt: "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\""
     publishedDateTime: 2020-10-19T21:25:00Z
@@ -6732,6 +6749,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "ztEqQ26hjfNUGFLtJolwUjh1A0meZpN2POwht2HHW5SaOEJX1cJeKZWfc092pwNo5XToHmp632T0is/+aQPO7IpUswf+CPaXjFQq/sFc8s1d+3D5oJrFn32xnrOhngwHhY5bdgTP7xNq/hsTAnj9jckL/dYp2azrfQhGUXeaYEGwb7yd9yWBLqeMsaBes8vKhpJYLvoGtmzRlJTqUp9O7liN6eWrv7K+7YqCjDyikhGKwb/Y79JgqR1AH5q+LaHkJ57uJGfB60/pFYSBxQA8sKj+5oR5oZAEWJ49Ibe2rFjLu0peWojYyuDHW+/1BH9w5MIMYBVZC1hxbSWikqr7Ke1vrKX6aoEYeXdgyQdxqLw=;Y/NJz/HLWmTt5+56umq09A=="
+secured: "gjX05at8P61Ugeb/yMUkFTm3JSWJIFn2uuPSQMeiY4EfVwtp+JlXpr73UASmuNfjLaS4/lgbgmbm2a8f2K6BIGuiYxQHGkIdhJqnvSSjIsfR8zfcwn7QeENZHJKmp3UuzD2bWm/X3bEmvKtW9urnIZqOycJRFriX2LAdY0le1aIc5gzXlMcUk3/RR32ZLTu32ZOdG7RUcATj8dqlP+FoH4BFsI9pxgNZlsxdwXBRnM6RfdePfKj/qWFPbyDKWe7LZZOpShFxyVDmorlbdRzbW6SKMPpBfC1mgjlALBxPjHgWVrh0BVpKprS1CcMzHFbl5oVZMFiZWKZ86ufsbef6Veah7nyjuM98+DcxzX2uJU7cRW8qIa4H+Pu38wOCGdqpyWp7kLtdvuBiI7e7SaEZaNqR2dl6jeYWDxOgFmYMCFmR1ngbt3GxeUE08PvXTOkHKaCm+SpUQHSqB+SuR7OR3sYGcU5JjoFiGiRSrSUspe6ry4jVsM3pj7uAMXwYElPQV50upVPaAQM1tF6b7QmLqQ==;Czdp4FDKUpM3Ozx4/yQYkA=="
 ---
 

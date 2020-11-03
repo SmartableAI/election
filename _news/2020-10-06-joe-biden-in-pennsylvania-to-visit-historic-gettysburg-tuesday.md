@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylv
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
 type: article
 quality: 75
-heat: 155
+heat: 115
 published: true
 
 provider:
@@ -59,24 +59,6 @@ related:
         width: 5654
         height: 3769
         isCached: true
-  - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
-    publishedDateTime: 2020-10-06T16:33:00Z
-    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Campaigns in Erie, Pennsylvania"
-    excerpt: "Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. 2020 Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. Joe Biden, a 2020 Democratic presidential candidate,"
-    publishedDateTime: 2020-10-10T13:05:00Z
-    webUrl: "https://www.c-span.org/video/?476864-1/joe-biden-campaigns-erie-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "PM6uB2O21VyJiENDowl+GfH7FX8G1+3xVHn9VLzgOxJRuW23HgroZRyNFY0jJySuvNxOpdwbaZr1RZUhjFQhz32EMAwtVLQVfQAFpznpSdSsUZ97TMTMwHrhEcsAB6QrH4xyhJ6CY0TbQLopj7ATWx65lS8Z0y8xZI2dvFHnW1ykzqPGtK0KvcT9qHrNNZs81Wmx9/qT7cmMIyI17hGBGauBdUMpdHALk0lPO/6SNIjDUChR5OyejaeCtf/iWFAxtv8WFHtuclE8tmltdYPqLg6yLvRFywPqcFgpTdEhAuw+luk7oOSd43q1CqjhmgtjcEVp0WOUnTOT5Sre63FCNgCECWo//KzGiwYX5s/sqUWjiT1KLTzFmmYTlvhj0Xro3wIUAVZPwIPHWPreCLW9ut7dlSKXwuUZ+BE+npvsuE4sVGXp/18Q8HT8Wz7PNMqwc2Y3vhaUGiFo+KhWt8vkIr1wh4GEtFBLKHVSqaNKwxGeVdih3YX016QSyW4Zs/RVTjavF+r5lnqWzox0KtSW0Q==;p11sPas0eq67CErXIdYhrA=="
 ---

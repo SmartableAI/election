@@ -19,56 +19,49 @@ topics:
   - Mike Pence
 
 related:
-  - title: "Biden has solid lead in Wisconsin, narrower edge in Pennsylvania: Reuters/Ipsos poll"
-    excerpt: "Democratic presidential challenger Joe Biden led President Donald Trump by a solid margin in Wisconsin and maintained a narrower advantage in Pennsylvania with just over a week until Election Day, Reuters/Ipsos opinion polls showed on Monday."
-    publishedDateTime: 2020-10-26T20:19:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27B2F8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B2F8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B2F8"
+  - title: "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday"
+    excerpt: "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday."
+    publishedDateTime: 2020-10-26T23:30:00Z
+    webUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday"
+    ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
+      name: TMJ4
+      domain: tmj4.com
+    quality: 75
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538891639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1KD"
-        width: 817
-        height: 545
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Joe Biden visiting Wisconsin for 3rd time, a key swing state Hillary Clinton lost in 2016"
-    excerpt: "It's been over a month since Joe Biden has been to Wisconsin-- a key swing state that critics say Hillary Clinton lost because she didn't pour enough time or resources into it. But that will ..."
-    publishedDateTime: 2020-10-26T23:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601"
+  - title: "Vice President Mike Pence, second lady Karen Pence to make separate stops in North Carolina next week"
+    excerpt: "In the homestretch leading up to Election Day, the Trump/Pence campaign announced both Vice President Mike Pence and second lady Karen Pence will make stops in battleground North Carolina next week."
+    publishedDateTime: 2020-10-25T01:35:00Z
+    webUrl: "https://abc11.com/politics/mike-karen-pence-to-make-separate-stops-in-north-carolina-next-week/7314278/"
+    ampWebUrl: "https://abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 116
+      name: WTVD
+      domain: abc11.com
+    quality: 60
     images:
-      - url: "https://s.abcnews.com/images/Politics/biden-event-04-rt-jef-201026_1603746299117_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Vice President Pence Campaigns in Erie, Pennsylvania"
-    excerpt: "President Trump delivered remarks at a campaign rally in Erie, Pennsylvania, in support of his reelection. Vice President Pence made remarks at a Trump campaign rally in New Cumberland, Pennsylvania."
-    publishedDateTime: 2020-11-02T14:37:00Z
-    webUrl: "https://www.c-span.org/video/?477689-1/vice-president-pence-campaigns-erie-pennsylvania"
+  - title: "Vice President Mike Pence welcomed by crowd of 500 in Flint"
+    excerpt: "Tonight as the sun went down, Air Force Two touched down at Flint Bishop Airport. Pence hustled up to the podium, highlighting the importance of Michigan in this election."
+    publishedDateTime: 2020-10-29T04:28:00Z
+    webUrl: "https://www.fox2detroit.com/video/865403"
+    ampWebUrl: "https://www.fox2detroit.com/video/865403.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/video/865403.amp"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaigns in Latrobe, Pennsylvania"
-    excerpt: "Vice President Pence spoke at a Trump campaign event in Mosinee, Wisconsin. Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice President Mike Pence delivered campaign remarks at a ..."
-    publishedDateTime: 2020-11-02T11:53:00Z
-    webUrl: "https://www.c-span.org/video/?477688-1/vice-president-pence-campaigns-latrobe-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 55
 
 secured: "k4WDW4iWspFHSXSQNW44wuJhExgESlix4duW2JvtzHG3CLTsuQT2EDht3NwE+OzZ4y8oApj6sgzydMT/XQw2iTtSZM4xcO1+NibzlCjji+rwXdaPyFjyhaJyjN1HOgYAiaMvXaHU4DVyfan1i29IWlVZk/Vx5ypV46vzUgqERQRvJx7d1K/Z8N/vhbg4I6HFbV27yXXdMNJ0dE+pkFeAlKqFYN8HO0ERzu7KJKvEOQtw4JZsJ2xh8k2Z2+K47abaiQbk24FCa1PL4CexWec8E8/SPgQ9HsVKWzdEiYpOxjRTvq2DcNpkwui0lEJTZqJIUJg1QeNVtPlnvG4+IT+1Ld9r2TWRqMdXqDdi6d/BJAnrlhnl++jhge8u3dFXRAF44vueP58dRPtfSraWyPneTg94PoUjOwN3jsztCke9+AffLMF/tDJVDmxb2yaPNNKWn1V90yIWXjMVxoJ1MpTInlE6I2N5Ci2nKnFrntnlQ56ihUNfX/YaqyA/vpJJevqN89cilvEMFg1r1TlkWUpMsQ==;jBTqaOG4YXPrX2w/AdaXDw=="
 ---

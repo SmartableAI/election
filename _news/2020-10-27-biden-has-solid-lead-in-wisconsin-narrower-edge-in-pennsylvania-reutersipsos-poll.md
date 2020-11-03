@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B2F8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B2F8"
 type: article
 quality: 118
-heat: 198
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,26 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden visiting Wisconsin for 3rd time, a key swing state Hillary Clinton lost in 2016"
-    excerpt: "It's been over a month since Joe Biden has been to Wisconsin-- a key swing state that critics say Hillary Clinton lost because she didn't pour enough time or resources into it. But that will ..."
-    publishedDateTime: 2020-10-26T23:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601"
+  - title: "The Latest: Biden predicts 'big win' in Pennsylvania"
+    excerpt: "Joe Biden is predicting a victory in Pennsylvania on the eve of the election. Speaking at a drive-in rally in Pittsburgh, Biden encouraged the audience to vote and said, “I have a feeling we’re coming together for a big win tomorrow!"
+    publishedDateTime: 2020-11-03T03:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-trump-set-spend-election-night-white-house-73970437"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-trump-set-spend-election-night-white-house-73970437"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-trump-set-spend-election-night-white-house-73970437"
     type: article
     provider:
-      name: ABCNews
+      name: ABC
       domain: abcnews.go.com
-    quality: 116
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/biden-event-04-rt-jef-201026_1603746299117_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d7566d358bf846898dce240a04c50519_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Vice President Pence Holds Rally in Mosinee, Wisconsin"
-    excerpt: "Vice President Pence delivered campaign remarks at a “Make America Great Again” rally in Florida’s state capital of… Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice ..."
-    publishedDateTime: 2020-10-30T09:25:00Z
-    webUrl: "https://www.c-span.org/event/?477463/"
+  - title: "Watch Live: Vice President Joe Biden speaks in Beaver County, Pennsylvania"
+    excerpt: "Democratic nominee Joe Biden is holding a campaign event in Beaver County, Pennsylvania on Monday afternoon.Watch the live video above."
+    publishedDateTime: 2020-11-02T21:16:00Z
+    webUrl: "https://thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania"
+    ampWebUrl: "https://thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102920getty_optimism.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
+    publishedDateTime: 2020-10-06T16:33:00Z
+    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Campaigns in Erie, Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. 2020 Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. Joe Biden, a 2020 Democratic presidential candidate,"
+    publishedDateTime: 2020-10-10T13:05:00Z
+    webUrl: "https://www.c-span.org/video/?476864-1/joe-biden-campaigns-erie-pennsylvania"
     type: article
     provider:
       name: C-SPAN

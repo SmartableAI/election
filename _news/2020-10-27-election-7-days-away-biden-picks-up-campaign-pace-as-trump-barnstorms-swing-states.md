@@ -127,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris vows to get rid of Trump’s tax cuts if elected"
-    excerpt: "Democratic vice presidential nominee Kamala Harris on Monday said she and Joe Biden would “get rid of” President Trump’s tax cuts for the middle class if elected, erroneously claiming that only the nation’s wealthy had benefited."
-    publishedDateTime: 2020-11-03T01:05:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OyvuS9P80z4/kamala-harris-trumps-tax-cuts"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-trumps-tax-cuts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-trumps-tax-cuts.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 200
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/296cacad-a487-477c-a401-47d8cc5602b4/d77cb2b1-80b2-4176-941a-009d9b70a403/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Election 1 day away: Trump to blitz 4 key states as Biden hones in on Pennsylvania"
     excerpt: "As the presidential race draws to a close, President Trump is slated to make a last-minute appeal to voters in four battleground states with a dizzying number of campaign rallies while his Democratic rival, Joe Biden, focuses heavily on Pennsylvania.   "
     publishedDateTime: 2020-11-02T13:36:14Z
@@ -556,6 +540,22 @@ related:
       - url: "https://images.wsj.net/im-245155/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Kamala Harris vows to get rid of Trump’s tax cuts if elected"
+    excerpt: "Democratic vice presidential nominee Kamala Harris on Monday said she and Joe Biden would “get rid of” President Trump’s tax cuts for the middle class if elected, erroneously claiming that only the nation’s wealthy had benefited."
+    publishedDateTime: 2020-11-03T01:19:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-trumps-tax-cuts"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-trumps-tax-cuts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-trumps-tax-cuts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/296cacad-a487-477c-a401-47d8cc5602b4/d77cb2b1-80b2-4176-941a-009d9b70a403/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris thinks she can laugh her way through serious questions: Pavlich"
     excerpt: "Editor Katie Pavlich called Democratic vice-presidential nominee Sen. Kamala Harris “the most far-left Democrat in Washington, D.C.,\" and said Joe Biden picked her to \"make sure that the left wing of the party felt comfortable\" that they would have a voice in his administration."

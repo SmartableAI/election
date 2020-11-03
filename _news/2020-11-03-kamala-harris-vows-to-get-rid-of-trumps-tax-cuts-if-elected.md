@@ -2,13 +2,13 @@
 category: news
 title: "Kamala Harris vows to get rid of Trump’s tax cuts if elected"
 excerpt: "Democratic vice presidential nominee Kamala Harris on Monday said she and Joe Biden would “get rid of” President Trump’s tax cuts for the middle class if elected, erroneously claiming that only the nation’s wealthy had benefited."
-publishedDateTime: 2020-11-03T01:05:06Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OyvuS9P80z4/kamala-harris-trumps-tax-cuts"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OyvuS9P80z4/kamala-harris-trumps-tax-cuts"
+publishedDateTime: 2020-11-03T01:19:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-trumps-tax-cuts"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-trumps-tax-cuts"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-trumps-tax-cuts.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-trumps-tax-cuts.amp"
 type: article
-quality: 200
+quality: 150
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/296cacad-a487-477c-a401-47d8cc5602b4/d77cb2b1-80b2-4176-941a-009d9b70a403/1280x720/match/image.jpg"
@@ -631,6 +631,6 @@ related:
         height: 748
         isCached: true
 
-secured: "MTI4XyV76fH867tjlH/py3i9fVvHcirKy+s/Zn53L6OuJhucffqL+922qOcfN0P4h0qdPxLSesW94+aEBOS58hO9Nttajfv+g5V3suYRkL5V2LvTRRIShQv+GKNBmpp9gCGEkmb4HPgHa/N92N6Dqj4Ed+lcRfHzy2aYpA7E9mZ4yJWrVEbD1fx5b28s8ldih348nNruoewfQrORR9l4c6v4gn4tmIktmuxAy7nSzaIjlmLt+sUpq5fQQxN6zomEgiEDzAgPRJw7/JxPZfjfWWokrWeEpEH1OFI/aHMmI76fyfTOHBR2I/NZnIod/VY0T9BTcJVf8RHJp3Zp62/b55M7qKXGqn2nkPDBUPKl3E0=;e4l5E7tzWxjgeXX282qViQ=="
+secured: "UEZnBWJn6gagJcnr4K7fmWYjj5wE1kTuJPg9Wu8v8GsQ4Rh5Vn6Zyp9xGk56yhawOS5ngaQHNXW0OVdQCFCjl4oUyYq2tkYMeyFPd9hfQpg4GTsvkmgnoL5tsmpleVp02/1QNGEgJRCdNOwNjZ43GxGQxKpHGPtuSHXDpjtC/yHuxp7BGK+nOq+DHJF5SXAd2HSHgw8xK0wqVopw++APN8/6clLWBdAzSY+UGxgFqoEvaLvNFAEVQepPFmlD7n00RuJ2Dzxs7et7eFKjjnn17cxWXUIktsaBV7XFKNWxm+vK9kDK7bYjxATIcW49pocAGZz7HADc8r+S4aP3H0vFIMKYAxoFjIgSb4OW7/Pv3wo=;cs2OE4IUHFNn4dbOZ/qeKQ=="
 ---
 

@@ -144,6 +144,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "CNN fact-checks Biden's proposed mask mandate"
+    excerpt: "CNN's fact-checks of Joe Biden are few and far between, but the Democratic nominee's recent call for a mask mandate was apparently egregious enough that the anti-Trump outlet could not ignore."
+    publishedDateTime: 2020-11-03T03:25:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5284e193-460b-446f-83b3-021ccec35d0d/7cc4cb76-725a-4613-a702-6275c6ee1d67/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A Biden Family Special Prosecutor in 2021?"
     excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
     publishedDateTime: 2020-10-27T10:36:00Z

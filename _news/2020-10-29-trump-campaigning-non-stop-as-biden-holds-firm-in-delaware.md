@@ -2209,6 +2209,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump and Joe Biden's last full day of campaigning"
+    excerpt: "President Trump is hitting four different states on the final full day of campaigning, while Joe Biden is focusing on Pennsylvania. CBS News political contributor Lynda Tran and political analyst Leslie Sanchez join CBSN to break down what to look out for on the final stretch."
+    publishedDateTime: 2020-11-02T23:32:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-biden-enter-final-stretch-of-2020-campaign/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/02/38a755f7-8045-4b6d-affc-b3ba7e3a4dbe/thumbnail/1200x630/c1355b46a0272b215ce0de6cd2d56146/cbsn-fusion-president-trump-joe-biden-enter-final-stretch-of-campaign-thumbnail-579061-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Touts His Coronavirus 'China Ban' To Bash Biden And Fauci. Here’s Why That’s A Problem."
     excerpt: "President Trump has claimed repeatedly that the disease expert was against his decision to implement travel restrictions on China back in January and that Biden called the restrictions “xenophobic.”"
     publishedDateTime: 2020-10-22T15:20:00Z
@@ -3791,20 +3805,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump and Joe Biden's last full day of campaigning"
-    excerpt: "President Trump is hitting four different states on the final full day of campaigning, while Joe Biden is focusing on Pennsylvania. CBS News political contributor Lynda Tran and political analyst Leslie Sanchez join CBSN to break down what to look out for on the final stretch."
-    publishedDateTime: 2020-11-02T23:32:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-biden-enter-final-stretch-of-2020-campaign/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/02/38a755f7-8045-4b6d-affc-b3ba7e3a4dbe/thumbnail/1200x630/c1355b46a0272b215ce0de6cd2d56146/cbsn-fusion-president-trump-joe-biden-enter-final-stretch-of-campaign-thumbnail-579061-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump, Biden focus on battleground states in campaign's final sprint"
     excerpt: "With early voter turnout setting a record and U.S. business districts boarding up for fear of Election Day unrest, President Donald Trump and his rival Joe Biden stumped on the campaign's last day on Monday in states expected to decide who wins."
     publishedDateTime: 2020-11-02T16:56:00Z
@@ -5154,6 +5154,22 @@ related:
       - url: "https://www.thegazette.com/storyimage/GA/20201029/ARTICLE/201029661/AR/0/AR-201029661.jpg&MaxH=300&MaxW=500"
         width: 450
         height: 300
+        isCached: true
+  - title: "Donald Trump Jr. Slammed For Misspellings, Inaccuracies In Anti-Biden Tweet"
+    excerpt: "Donald Trump Jr. tweeted out a quote supposedly from a working-class friend of his full of typos and incorrect claims; Social media quickly piled on the mistake, sayin"
+    publishedDateTime: 2020-11-02T23:03:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-jr-slammed-misspellings-inaccuracies-anti-biden-tweet-3075066"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-jr-slammed-misspellings-inaccuracies-anti-biden-tweet-3075066?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-jr-slammed-misspellings-inaccuracies-anti-biden-tweet-3075066?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 88
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/25/donald-trump-jr-delivered-a-keynote-address-at.jpg"
+        width: 1024
+        height: 707
         isCached: true
   - title: "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'"
     excerpt: "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\""

@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Twitter, Facebook flag Trump post questioning Supreme Court voting decision"
+    excerpt: "Twitter <TWTR.N> and Facebook <FB.O> late on Monday both flagged a post by President Donald Trump that called a U.S. Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
+    publishedDateTime: 2020-11-03T04:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-trump-twitt/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-idUKKBN27J051"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27J051"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J051"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539740510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA202M"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
     excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
     publishedDateTime: 2020-10-24T22:53:00Z

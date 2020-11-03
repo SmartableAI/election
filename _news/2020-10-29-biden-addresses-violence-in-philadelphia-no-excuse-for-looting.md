@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/523190-biden-addresses-violenc
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d755a6e9-b225-4583-9bf5-7ccc84f0dfca_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Kamala Harris in Philadelphia: 'It ain't over 'til it's over'"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday at an election-eve rally in Philadelphia that Democrats need to run through the tape if they want to oust President Trump from office."
+    publishedDateTime: 2020-11-03T03:32:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/2/kamala-harris-philadelphia-it-aint-over-til-its-ov/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/2/kamala-harris-philadelphia-it-aint-over-til-its-ov/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/2/kamala-harris-philadelphia-it-aint-over-til-its-ov/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/02/Election_2020_Harris_27307.jpg-83cae_c0-311-3385-2285_s1200x700.jpg?fda56f92cdf41ac242222bbd669f3c2516cc89a7"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "QwCilPiw80wUQpSXKz5DHwdrd4oAFnTbQPb6aK5lj1sUAkGORAs2de67TvKomjfjN2yMVXARKRj8lJm1TDthrfZivVSSz7l+HJPMORpvNGckKP9xkml4vpvlMRgY5bUcOn80rKtQdPyx87LjsbTyl1iCaTf2ORI+W/excuOQoEqCmn3NVQam0ehruQz9zv0/rzpAVUMpgAjh85o10G+++iS1oCpJP/GCM2kxk2CJBG8Q2O82w8fW9mClZeWRztHBCg6GlkyO/vW+mr+tBwzYLBRo+BEPNcAaFKqTQbyd0qWR27ZM34DyvddTi2lhoKqtHmmOViwkmSrx2KxdMBZVTceWkwI5oIaYM2TBEkqOVWXsojZaVNMhYYDzeqXHXOkTl5cztT0qYCPs2sCTxlwwy23R8px7mp4nXILtXRMiutZPpJJzaJdPT17iiTZoERP94uwFimeBgg43U7pq3kp6ci0NDRekGe/d7W5d7l0WiMkatmsRm5+GR0VkO/RaXr0qC+ixN+Uk5JwVtZpwsN7GXw==;W0ALdWUxxVPeF7RY0I8ATA=="

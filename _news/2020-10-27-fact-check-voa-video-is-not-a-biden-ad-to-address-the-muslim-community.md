@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B22U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B22U"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Florida Deputies Punch, Elbow Biden Supporters Repeatedly in Rally Video"
+    excerpt: "Pinellas County, Florida deputies were captured on video allegedly punching and elbowing a supporter of Democratic presidential nominee Joe Biden during a political demonstration on Sunday."
+    publishedDateTime: 2020-11-03T02:49:00Z
+    webUrl: "https://www.newsweek.com/florida-deputies-punch-elbow-biden-supporters-repeatedly-rally-video-1544222"
+    ampWebUrl: "https://www.newsweek.com/florida-deputies-punch-elbow-biden-supporters-repeatedly-rally-video-1544222?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/florida-deputies-punch-elbow-biden-supporters-repeatedly-rally-video-1544222?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1663050/pinellas-county-police-car.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Fact check: Post claiming Joe Biden wants to put farms in 'land banks' is missing context"
     excerpt: "At a September town hall, Biden said he wants to put farms into \"land banks.\" Some have taken this to mean he wants a government takeover of farmland."
     publishedDateTime: 2020-10-23T23:03:00Z

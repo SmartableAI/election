@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pro-Trump boaters hold final San Diego Bay parade before Election Day"
+    excerpt: "San Diego Bay had one last pro-Trump boat parade before Election Day over the weekend, with hundreds of vessels hitting the water to declare support for the president’s reelection, according to local reports."
+    publishedDateTime: 2020-11-03T03:32:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ubUfQj5aiwM/san-diego-bay-pro-trump-boat-parade-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/san-diego-bay-pro-trump-boat-parade-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-diego-bay-pro-trump-boat-parade-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/boat1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump rips absentee ballot extensions, says election 'should end on November 3rd'"
     excerpt: "President Trump on Friday panned decisions made by some courts that are allowing mail-in or absentee ballots to be counted if they are received by election authorities after Nov. 3, calling the rulings \"CRAZY and so bad for our Country.\""
     publishedDateTime: 2020-10-30T17:03:37Z

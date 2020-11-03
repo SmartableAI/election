@@ -2,6 +2,118 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-30-facebook-manually-limited-new-york-post-hunter-biden-story-report.md",
+      "title": "Facebook manually limited New York Post Hunter Biden story: Report",
+      "excerpt": "Facebook fact-checkers manually flagged and restricted distribution of the New York Post's Hunter Biden story, documents obtained by The Guardian show.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/facebook-2-Reuters.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp",
+      "publishedDateTime": "2020-10-30T16:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-scott-walker-claims-trump-has-fighting-chance-in-wisconsin-touts-favre-endorsement-of-president.md",
+      "title": "Scott Walker claims Trump has 'fighting chance' in Wisconsin, touts Favre endorsement of president",
+      "excerpt": "President Trump has a \"fighting chance\" to pull off a surprise victory in Wisconsin, repeating his feat of four years ago, former Republican Gov. Scott Walker told \"Your World\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CeeYyid7Q7k/scott-walker-trump-fighting-chance-win-wisconsin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CeeYyid7Q7k/scott-walker-trump-fighting-chance-win-wisconsin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e99352a1-69c9-4e0d-abe1-25e33fffd835/fbb906d5-89fb-46f9-853f-24078e1a91a7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/scott-walker-trump-fighting-chance-win-wisconsin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scott-walker-trump-fighting-chance-win-wisconsin.amp",
+      "publishedDateTime": "2020-10-30T14:43:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-pence-returns-to-arizona-for-final-push-to-flip-liberal-leaning-cities.md",
       "title": "Pence returns to Arizona for final push to flip liberal-leaning cities ",
       "excerpt": "In an effort to pick up voters from more progressive counties that voted against the president in 2016, Vice President Mike Pence is returning to the key battleground state of Arizona on Friday.",
@@ -1211,110 +1323,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-chuck-todd-slammed-for-saying-joe-biden-takes-covid-19-too-seriously.md",
-      "title": "Chuck Todd Slammed For Saying Joe Biden Takes COVID-19 'Too Seriously'",
-      "excerpt": "The MSNBC host said that Biden was accepting a smaller footprint by not engaging in high-risk campaign acitivities",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708",
-      "originalUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/09/09/chucktoddbig.jpg",
-          "width": 1200,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708?amp=1",
-      "publishedDateTime": "2020-10-29T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-america-is-changing-joe-biden-can-help-us-through-the-transformation.md",
-      "title": "America is changing. Joe Biden can help us through the transformation.",
-      "excerpt": "Joe Biden is more than just the stop-the-madness alternative to an unhinged incumbent. He has the potential to be a transformational president who guides the nation through an inevitable period of wrenching change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html",
-      "originalUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WR5GVAZ5YI6XC62QFGKK3QTRM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-29T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

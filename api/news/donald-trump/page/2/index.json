@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-29-trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police.md",
+      "title": "Trump Administration Uses Philadelphia Protests To Illustrate ‘Liberal Democrats’ War Against The Police’",
+      "excerpt": "The Trump administration said the protests in Philadelphia are “the most recent consequence of the Liberal Democrats’ war against the police.” The administration said all incidents of lethal force must be investigated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/",
+      "originalUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99b9b73e35a3c43d4b6a93%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D35%26cropY2%3D2566",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/amp/",
+      "publishedDateTime": "2020-10-28T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-ricky-martin-says-its-super-sad-to-see-fellow-latinos-back-donald-trump.md",
       "title": "Ricky Martin says it's 'super sad' to see fellow Latinos back Donald Trump",
       "excerpt": "Ricky Martin discussed his support for Joe Biden and the “super sad” prospect of seeing fellow Latinos vote for Donald Trump.",
@@ -699,7 +751,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27A0BB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 9135,
+      "heat": 9155,
       "tags": null,
       "images": [
         {
@@ -1514,58 +1566,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-colberts-message-to-debate-viewers-who-wanted-even-less-trump-the-ultimate-mute-button-is-in-your-hands.md",
-      "title": "Colbert’s message to debate viewers who wanted even less Trump: ‘The ultimate mute button is in your hands’",
-      "excerpt": "The \"Late Show with Stephen Colbert\" host said the highlight of the night was that he would “never have to watch Donald Trump debate ever again.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-23-2020/t_4513567856534e928d248f5715c1d6bf_name_thumb.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/?outputType=amp",
-      "publishedDateTime": "2020-10-23T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

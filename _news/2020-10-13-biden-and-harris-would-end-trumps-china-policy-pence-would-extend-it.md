@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10680
+heat: 10700
 published: true
 
 provider:
@@ -2794,6 +2794,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "Kamala Harris fires back at President Trump and other Republicans who mockingly mispronounce her name"
+    excerpt: "Mispronouncing Harris' name has become one of President Trump's frequent jokes at his campaign rallies."
+    publishedDateTime: 2020-10-31T14:48:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f9d610969331a0011bc68dd?width=1200&format=jpeg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Kamala Harris is not a radical, but her rise may herald progressive change"
     excerpt: "Radical change is the work of ordinary people, and yet we only demand it when representation makes it thinkable."

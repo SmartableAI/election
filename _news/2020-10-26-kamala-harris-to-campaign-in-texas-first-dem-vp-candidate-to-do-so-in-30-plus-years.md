@@ -246,6 +246,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "How Kamala Harris' husband Doug stays fit and deals with stress on the campaign trail"
+    excerpt: "Since August, when Joe Biden chose Kamala Harris as his running mate in the presidential election, life for Harris' husband, Douglas Emhoff, has been nonstop."
+    publishedDateTime: 2020-11-02T21:19:00Z
+    webUrl: "https://www.cnbc.com/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106774227-1604328366950-gettyimages-1228019575-AFP_1WG92Q.jpeg?v=1604328414"
+        width: 4000
+        height: 2830
+        isCached: true
   - title: "Kamala Harris discusses future of Supreme Court"
     excerpt: "As Judge Amy Coney Barret is set to become the ninth justice of the Supreme Court, Democratic vice presidential nominee Kamala Harris discusses the future of the high court. Norah O'Donnell has more in this portion of their interview from \"60 Minutes."
     publishedDateTime: 2020-10-26T23:04:00Z
@@ -543,6 +559,22 @@ related:
       - url: "https://media.wtsp.com/assets/WBNS/images/c1538ad2-e519-4060-9427-02347bc7747f/c1538ad2-e519-4060-9427-02347bc7747f_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Beyoncé Endorses Joe Biden, Kamala Harris In New Video After Voting For Them"
+    excerpt: "Beyoncé made a last-minute endorsement video for the Democratic presidential candidate Joe Biden and vice-presidential candidate Kamala Harris on social media. Beyoncé joined the long list of celebrities endorsing Biden and Harris."
+    publishedDateTime: 2020-11-03T03:46:00Z
+    webUrl: "https://www.ibtimes.com/beyonce-endorses-joe-biden-kamala-harris-new-video-after-voting-them-3075282"
+    ampWebUrl: "https://www.ibtimes.com/beyonce-endorses-joe-biden-kamala-harris-new-video-after-voting-them-3075282?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/beyonce-endorses-joe-biden-kamala-harris-new-video-after-voting-them-3075282?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 87
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/29/beyonce.jpg"
+        width: 1200
+        height: 691
         isCached: true
   - title: "Kamala Harris in Michigan: Trump administration 'is admitting defeat' on COVID-19"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris said that the Trump administration \"is admitting defeat\" after White House Chief of Staff Mark Meadows said the United States \"is not going to control\" the virus."

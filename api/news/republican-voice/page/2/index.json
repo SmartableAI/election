@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-30-candace-owens-on-lil-waynes-trump-support-liberals-laughed-at-idea-of-black-exit-by-dems.md",
+      "title": "Candace Owens on Lil Wayne's Trump support: Liberals laughed at idea of 'Black Exit' by Dems",
+      "excerpt": "Black Americans leaving the Democratic Party shows they have done nothing for the Black community, according to author Candace Owens on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86M7oShwDNk/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86M7oShwDNk/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe.amp",
+      "publishedDateTime": "2020-10-30T05:54:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-lil-wayne-reveals-great-meeting-with-trump-prompting-twitter-users-to-respond.md",
       "title": "Lil Wayne reveals 'great meeting' with Trump, prompting Twitter users to respond",
       "excerpt": "Lil Wayne made a big splash on Twitter after he revealed that he met with Trump, sharing a friendly photo the two of them took together.",
@@ -1605,62 +1661,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp",
       "publishedDateTime": "2020-10-28T00:08:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-biden-makes-plea-to-unite-and-heal-the-country-during-stop-in-georgia.md",
-      "title": "Biden makes plea to ‘unite and heal’ the country during stop in Georgia",
-      "excerpt": "Joe Biden, playing offense in a long time red state turned crucial battleground this year, made a closing campaign pitch on Tuesday for national unity to rise above what he called the division President Trump’s sown during his four years in the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4K5BdjTl8Po/biden-plea-unite-and-heal-the-country-georgia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4K5BdjTl8Po/biden-plea-unite-and-heal-the-country-georgia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301662617518.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp",
-      "publishedDateTime": "2020-10-27T13:10:18-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

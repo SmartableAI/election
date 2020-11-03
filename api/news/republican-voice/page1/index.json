@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-03-sen-kennedy-calls-trump-an-insult-to-the-political-elite-who-never-talks-down-to-the-working-class.md",
+      "title": "Sen. Kennedy calls Trump 'an insult to the political elite' who never 'talks down' to the working class",
+      "excerpt": "The devotion of Donald Trump voters to their candidate stems from two factors, Sen. John Kennedy, R-La., told \"Tucker Carlson Tonight\" Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7jamlbG6Hw/sen-john-kennedy-trump-an-insult-to-the-political-elite",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7jamlbG6Hw/sen-john-kennedy-trump-an-insult-to-the-political-elite",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bee7c401-096b-4170-b016-408119f9f8fe/9b8497ea-e0bf-4985-8235-bbe6fdf7b1bb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-trump-an-insult-to-the-political-elite.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-trump-an-insult-to-the-political-elite.amp",
+      "publishedDateTime": "2020-11-02T18:56:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.md",
       "title": "Biden to campaign in Pennsylvania, Harris to Michigan on Election Day",
       "excerpt": "Democratic presidential nominee Joe Biden will travel to Pennsylvania Tuesday while his running mate Sen. Kamala Harris will campaign in Michigan, in their final push to get out the vote on Election Day.",
@@ -399,7 +455,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 450,
+      "heat": 470,
       "tags": null,
       "images": [
         {
@@ -511,7 +567,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 351,
+      "heat": 371,
       "tags": null,
       "images": [
         {
@@ -1593,62 +1649,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/michigan-senate-campaign-republican-gop-john-james-biden-obama.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-senate-campaign-republican-gop-john-james-biden-obama.amp",
       "publishedDateTime": "2020-10-30T07:09:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-candace-owens-on-lil-waynes-trump-support-liberals-laughed-at-idea-of-black-exit-by-dems.md",
-      "title": "Candace Owens on Lil Wayne's Trump support: Liberals laughed at idea of 'Black Exit' by Dems",
-      "excerpt": "Black Americans leaving the Democratic Party shows they have done nothing for the Black community, according to author Candace Owens on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86M7oShwDNk/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86M7oShwDNk/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe.amp",
-      "publishedDateTime": "2020-10-30T05:54:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

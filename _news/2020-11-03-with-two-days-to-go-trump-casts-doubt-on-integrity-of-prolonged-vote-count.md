@@ -2,11 +2,11 @@
 category: news
 title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
 excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
-publishedDateTime: 2020-11-03T02:33:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27H12Z"
-webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27H12Z"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27H12Z"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27H12Z"
+publishedDateTime: 2020-11-03T03:04:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election/in-michigan-trump-kicks-off-frenzy-of-campaigning-two-days-before-election-idUSKBN27H12Z"
+webUrl: "https://www.reuters.com/article/us-usa-election/in-michigan-trump-kicks-off-frenzy-of-campaigning-two-days-before-election-idUSKBN27H12Z"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27H12R"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27H12R"
 type: article
 quality: 123
 heat: -1
@@ -96,6 +96,6 @@ related:
         height: 600
         isCached: true
 
-secured: "rO1h7j0cJbeVxxOP6N6J4FfPqgmJ27lYEtVshgE2QI7+DeB8KapGoygJVWTgFnLmbYNfutbQUgNSWaZL3kVqlRS7Os4cVWAAoawzbALe4FfFTKjbREsNqv13wmhltJIrwQRmjNNyeqIrBM7pNbnTRGRalk1+vJemxvOCkIo1v0RqsZXUXejDOczSk7KqIlVDX9yhLfXrW+ME/PAmpNkQ2u2nSiXqTOu5IkPN+nQHiTM77Rd+BVUuTu2vFjYaz1SkY0m6JOKici8/DqQ7sfe1IsSUXh6pk7jnVUBcVTnvm5cF3ld9HoYa0gkliZgnmIE1ukkvZliwmiH/xiCx8zUzfKr7HZkNrkCMHTBZ7zomJTo=;ZWBmzI/MteME2tYXSJN4+g=="
+secured: "yswrdGLkhMcC6YpI25oRdQN9POVXLRKo+IkI7nuE96MJYURSYiT4JmVGgqS9g4CnWQC9gVCsWVotXC24obTmfwMAHLg9+SD1pJbFDzW09syhuiNhjtH6G5Hu2bK4v0d9orZkT7LRZCFbYQHmPDhtGHqcI6PIDEVpNpPHrEQrQV1+tvkaeky/36Jp3h7otGB6JqiS2qiJI3dxVKFwf9khp8/4gBrt6NKFKK0YUlBKh5KfcrXeyVFyf79Exlh12AS8B1BI1+i+1mYDAY4zJKIJJ/o5X74dDsq73tR6fvHWI6jjL1Q6FxJ6X1LDCCWW14EY2mwm1AUCyChSHEMkrE4PTbpIaWioCG+9Pg5IwVOtUVI=;+KQ4GpeoVE8v1zChLXRlmg=="
 ---
 

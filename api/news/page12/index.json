@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-22-biden-corruption-and-the-thursday-debate-opinion.md",
+      "title": "Biden Corruption and the Thursday Debate | Opinion",
+      "excerpt": "We have a scandal involving Vice President Joe Biden, his brothers and his son dealing with China, Russia, Ukraine, Romania, Kazakhstan, Oman and possibly other foreign influence buyers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101",
+      "originalUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1656418/bidens.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1",
+      "publishedDateTime": "2020-10-21T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.md",
+      "title": "Kamala Harris’ husband Doug Emhoff to campaign in West Michigan for Biden",
+      "excerpt": "Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris, is planning several campaign visits in Michigan Friday. Joe Biden’s presidential campaign announced Emhoff will visit Muskegon County,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html",
+      "originalUrl": "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F5TQJ5FGVZGYZBWBHISZKJ47FA.JPG",
+          "width": 1300,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp",
+      "publishedDateTime": "2020-10-21T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-panicked-sen-ron-johnson-touts-trump-to-wisconsin-leaders.md",
       "title": "'Panicked' Sen. Ron Johnson touts Trump to Wisconsin leaders",
       "excerpt": "A “panicked” Sen. Ron Johnson is urging members of the state chamber of commerce in battleground Wisconsin to vote for President Donald Trump",
@@ -1177,110 +1272,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-hosting-sinclair-town-hall-in-white-house-rose-garden.md",
-      "title": "Trump hosting Sinclair ‘town hall’ in White House Rose Garden",
-      "excerpt": "President Trump on Tuesday will tape a “town hall” event in the White House Rose Garden with Eric Bolling, the former Fox News host, for the Sinclair Broadcasting Network. The event",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
-      "originalUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201020-trump-sinclair-town-hall.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
-      "publishedDateTime": "2020-10-20T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-nc-governor-caught-on-hot-mic-telling-biden-theyll-drag-cal-cunningham-across-the-line-after-scandal.md",
-      "title": "NC governor caught on hot mic telling Biden they'll drag Cal Cunningham ‘across the line’ after scandal",
-      "excerpt": "\"I think Cal's going to get across the line, too,\" Gov. Roy Cooper appeared to say on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1tj-Snexq0/roy-cooper-joe-biden-hot-mic-cal-cunningham",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T1tj-Snexq0/roy-cooper-joe-biden-hot-mic-cal-cunningham",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282026845724.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/roy-cooper-joe-biden-hot-mic-cal-cunningham.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-cooper-joe-biden-hot-mic-cal-cunningham.amp",
-      "publishedDateTime": "2020-10-20T06:46:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

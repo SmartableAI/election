@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Kamala Harris in Philadelphia: 'It ain't over 'til it's over'"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday at an election-eve rally in Philadelphia that Democrats need to run through the tape if they want to oust President Trump from office."
+    publishedDateTime: 2020-11-03T03:32:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/2/kamala-harris-philadelphia-it-aint-over-til-its-ov/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/2/kamala-harris-philadelphia-it-aint-over-til-its-ov/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/2/kamala-harris-philadelphia-it-aint-over-til-its-ov/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/02/Election_2020_Harris_27307.jpg-83cae_c0-311-3385-2285_s1200x700.jpg?fda56f92cdf41ac242222bbd669f3c2516cc89a7"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "Fx3dG/ZD32Nt3u6lMOa/UIaSMkYHZbqjU7QhuRhqwkAXuqyk/okSalGTTG3PQzCcatpg+HfZEQSe86hyNOeQjG9E70y/rAjrDpZAu37DtLARyAx+YkK6hgoUS24QE1KJA71AOQUVW2l7OD5y8KA2VgwcZSeIw4uRLH2Sn8qo+PSdL6GefUExaAsRle/y/colXb5SFBC+AykeTF//zhxyqI7EMCGtYaxMxmGBnSzsm9gJeDuZn69uBkY+p6IZy7DE0LycJnNrN0psw/LnlZeFwz0ItRTkGKfV9feV7gz2t7seDHD5noMVjWdPT7LV6MAhEQniCKQ91tEx2qPnB2ue1lzxA++pyVP/n6mpDX/D4R4=;eyLXo0znywu5Q4aawO5O5g=="
 ---

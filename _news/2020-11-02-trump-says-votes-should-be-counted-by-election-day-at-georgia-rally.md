@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 450
+heat: 470
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pro-Trump boaters hold final San Diego Bay parade before Election Day"
+    excerpt: "San Diego Bay had one last pro-Trump boat parade before Election Day over the weekend, with hundreds of vessels hitting the water to declare support for the president’s reelection, according to local reports."
+    publishedDateTime: 2020-11-03T03:32:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ubUfQj5aiwM/san-diego-bay-pro-trump-boat-parade-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/san-diego-bay-pro-trump-boat-parade-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-diego-bay-pro-trump-boat-parade-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/boat1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Rand Paul: Trump's election performance likely to determine who holds Senate"
     excerpt: "Paul predicts Iowa, NC Senate races 'definitely go the way the president goes'"
     publishedDateTime: 2020-11-02T23:10:31Z

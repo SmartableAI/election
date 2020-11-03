@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-ka
 cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: WJBK
       domain: fox2detroit.com
     quality: 55
+  - title: "Vice President Pence Holds Rally in Mosinee, Wisconsin"
+    excerpt: "Vice President Pence delivered campaign remarks at a “Make America Great Again” rally in Florida’s state capital of… Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice ..."
+    publishedDateTime: 2020-10-30T09:25:00Z
+    webUrl: "https://www.c-span.org/event/?477463/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "tcfwOL1w15VDMGjw9FCHhmz0PLTIumLV1T6uDcpA+Q2xyxTvAh22lvQFAJnBH5bKxdAZguqoymyT2ZptkYvNG3YzaPO7wQOjYcMvTxFroiJmGJHUIm7tkeb1QRJxyXSw0K/eog+5POE/SSAEueTJnpu73N8mr7OL/WEGCynVina1DnxnPJodEuNNfJwCCsUWedvcwjbBlnp0IVBJGjFrXG3S+Iie9A6lXZgiuhakvZkGNJGZiZ4Gm+mdBcrMhbvHzg3LC4Zh3gjr6/twOvMnfPuS0DS/SOmot6MvoZbJei7kaqJ1DHLfCYRnXWRa3uEFQRJf1+1qPJEQ4SFzltz+TVRicB1T1uxM9m2KYKHTPP77gdEQ69DKrBb4c1CX4T2GJw7Cg4jS605U1lrBti3ourdQQayyRyRRBYpQ7DzynCv8aceorbFbqjGQ8q3q2zW4+aNNVMJqxwucAphbnAwDQpxKhHl8k4KbaqD6YVr0+ZCMLC53tXePHMo9b4RqPCUNUmFePaw2x4RMR0NVC2TPQQ==;w3W2yh4nSwcxdD6eB4JhSQ=="
 ---

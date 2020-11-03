@@ -2,6 +2,119 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-13-ivanka-trump-campaigns-in-wisconsin-georgia-3-weeks-before-election-day.md",
+      "title": "Ivanka Trump campaigns in Wisconsin, Georgia 3 weeks before Election Day",
+      "excerpt": "Advisor to the president Ivanka Trump visited Wisconsin ahead of a visit to Georgia on Tuesday for campaign events three weeks before the 2020 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 409,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ivanka-Trump.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp",
+      "publishedDateTime": "2020-10-13T12:01:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-trump-attorneys-ask-supreme-court-for-stay-in-manhattan-das-tax-case.md",
+      "title": "Trump attorneys ask Supreme Court for stay in Manhattan DA's tax case",
+      "excerpt": "The president’s attorneys argue that the DA’s subpoena for his tax documents is 'overbroad' and lacks 'good faith.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-attorneys-ask-supreme-court-stay-manhattan-da-s-tax-n1243207",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-attorneys-ask-supreme-court-stay-manhattan-da-s-tax-n1243207",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_42/3419820/201013-donald-trump-florida-jm-1413_ae797ea12ee1e8ec3d62f1ab8af6c82b.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243207",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243207",
+      "publishedDateTime": "2020-10-13T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-watch-live-joe-biden-delivers-remarks-on-vision-for-older-americans.md",
       "title": "Watch live: Joe Biden delivers remarks on vision for older Americans",
       "excerpt": "Watch live coverage as former Vice President Joe Biden delivers remarks on his vision for older Americans in Pembroke Pines, Fla.",
@@ -391,7 +504,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10680,
+      "heat": 10700,
       "tags": null,
       "images": [
         {
@@ -1166,115 +1279,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-columbus-day-trump-accuses-radical-activists-of-trying-to-undermine-explorers-legacy-in-holiday-proclamation.md",
-      "title": "Columbus Day: Trump accuses 'radical activists' of trying to undermine explorer's legacy in holiday proclamation",
-      "excerpt": "Trump used a typical White House holiday announcement to accuse \"radical activists\" of seeking to undercut Christopher Columbus' legacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/columbus-day-trump-says-radical-activists-attacking-legacy/5970125002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/columbus-day-trump-says-radical-activists-attacking-legacy/5970125002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/b1a48c71-0db5-472d-945f-c12c4f309ee1-GTY_1228998405.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5970125002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5970125002",
-      "publishedDateTime": "2020-10-12T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ex-ohio-state-qb-cardale-jones-says-pence-rally-appearance-had-no-political-or-social-attachment.md",
-      "title": "Ex-Ohio State QB Cardale Jones says Pence rally appearance had 'no political or social attachment'",
-      "excerpt": "In tweets after the event, Jones said he declined to be interviewed at the event because he was there to support a local business, not endorse a political candidate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sgX1C17DHlY/cardale-jones-pence-rally-appearance-ohio-state-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sgX1C17DHlY/cardale-jones-pence-rally-appearance-ohio-state-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Cardale-Jones-Getty.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T12:30:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

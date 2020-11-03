@@ -139,6 +139,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Election live updates: Donald Trump says he's not nervous: 'I've been here before'"
+    excerpt: "President Donald Trump and Democratic candidate Joe Biden are in the home stretch of this campaign with just hours to go before Election Day."
+    publishedDateTime: 2020-11-03T03:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/02/election-updates-biden-barnstorm-pa-trump-vows-send-lawyers/6117435002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6117435002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6117435002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NTFO/aa6e6952-e542-404a-91e1-c463528d6506-trump_25.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 live updates: Melania Trump delivers pointed political attack on trail"
     excerpt: "President Donald Trump has campaign rallies in Michigan, Wisconsin and Nebraska on Tuesday while former Vice President Joe Biden spends the day in Georgia."
     publishedDateTime: 2020-10-28T02:26:00Z

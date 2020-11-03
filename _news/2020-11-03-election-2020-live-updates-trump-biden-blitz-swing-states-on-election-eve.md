@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671"
 type: article
 quality: 153
-heat: 733
+heat: 753
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 137
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa054018dbc3a3e1bbb8b67%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3595%26cropY1%3D62%26cropY2%3D2084"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election live updates: Donald Trump says he's not nervous: 'I've been here before'"
+    excerpt: "President Donald Trump and Democratic candidate Joe Biden are in the home stretch of this campaign with just hours to go before Election Day."
+    publishedDateTime: 2020-11-03T03:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/02/election-updates-biden-barnstorm-pa-trump-vows-send-lawyers/6117435002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6117435002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6117435002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NTFO/aa6e6952-e542-404a-91e1-c463528d6506-trump_25.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

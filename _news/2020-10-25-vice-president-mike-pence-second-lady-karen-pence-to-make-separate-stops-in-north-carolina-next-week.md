@@ -54,6 +54,15 @@ related:
       name: WJBK
       domain: fox2detroit.com
     quality: 55
+  - title: "Vice President Pence Holds Rally in Mosinee, Wisconsin"
+    excerpt: "Vice President Pence delivered campaign remarks at a “Make America Great Again” rally in Florida’s state capital of… Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice ..."
+    publishedDateTime: 2020-10-30T09:25:00Z
+    webUrl: "https://www.c-span.org/event/?477463/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "HN6Ox5XZxKI75ziBBr9qYPuWl0u7wqVuk8KU/6HFT0PAboeGY2s00Yi9qdqU7iynoPhgSSVwEPHvxgT6tzHPEo0sesADBVKNnSvcDdMb5NETnW1PWaBSqo9ZvxKIXVj5xiIQoAYRxgjHb8M6QPX67piZpwtQVpzcaxdNPMDaTWkA43ZBT0D8uKe2LgXYEuCYs+Yb70jrTY9DuptKqsmp78/couHzS228UTYeYZBPYXI5LCU9x94YgeHfp2nOmIU7aA4rkE7QQyjfN0H9Q8Fc+YAYtmB3Z9k2/vEJU4DoELdDfPklnfvAjg/1hYLnkERepz6hPW3i+JCX9YccTMaZJbYd/4iIn56W8fEBXHL3WTY=;aVL09GKgNrGfJAA+WnIing=="
 ---

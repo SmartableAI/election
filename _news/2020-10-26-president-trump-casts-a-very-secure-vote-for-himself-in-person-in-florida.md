@@ -49,10 +49,10 @@ related:
         isCached: true
   - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
     excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
-    publishedDateTime: 2020-11-03T02:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27H12Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27H12Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27H12Z"
+    publishedDateTime: 2020-11-03T03:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/in-michigan-trump-kicks-off-frenzy-of-campaigning-two-days-before-election-idUSKBN27H12Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27H12R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27H12R"
     type: article
     provider:
       name: Reuters
