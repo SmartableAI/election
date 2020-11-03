@@ -293,6 +293,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Fact check: Photo does not show drunk Kamala Harris throwing up in bushes and staggering around"
+    excerpt: "Social media users have been sharing a photo of Democratic vice presidential candidate Kamala Harris, purporting to show her drunk, throwing up, staggering around and being confrontational. However, this is a misleading still image captured from a video Harris posted"
+    publishedDateTime: 2020-11-03T15:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-drunk-idUSKBN27J1V2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J1V2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J1V2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 113
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539811808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA213Y"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Kamala Harris discusses future of Supreme Court"
     excerpt: "As Judge Amy Coney Barret is set to become the ninth justice of the Supreme Court, Democratic vice presidential nominee Kamala Harris discusses the future of the high court. Norah O'Donnell has more in this portion of their interview from \"60 Minutes."
     publishedDateTime: 2020-10-26T23:04:00Z
@@ -1000,6 +1016,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/SJM-L-KAMALATEX-1101-1-e1604202014113.jpg?w=1024&h=555"
         width: 1024
         height: 555
+        isCached: true
+  - title: "Dozens gather for prayers in Kamala Harris' ancestral Indian village"
+    excerpt: "Dozens of people in Thulasendrapuram, India, on Tuesday held prayers for Democratic vice presidential candidate Kamala Harris as the world closely watches the results of the U.S. presidential election."
+    publishedDateTime: 2020-11-03T16:20:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/3/dozens-gather-prayers-kamala-harris-ancestral-indi/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/3/dozens-gather-prayers-kamala-harris-ancestral-indi/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/3/dozens-gather-prayers-kamala-harris-ancestral-indi/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/03/Election_2020_Harris_India_42332.jpg-dcc11_c0-233-4855-3065_s1200x700.jpg?516436a9f8cf5edce60f409902ef1436a3d87cf8"
+        width: 1200
+        height: 700
         isCached: true
   - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Charlotte Observer"
     excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."

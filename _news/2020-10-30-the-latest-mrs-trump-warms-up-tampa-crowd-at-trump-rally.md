@@ -162,6 +162,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Vice President Pence Campaign Rally in Flagstaff, Arizona"
+    excerpt: "Vice President Pence spoke at a Trump campaign rally in Flagstaff, Arizona. He criticized the Biden-Harris ticket and made the case for President Trump's re-election. The vice president was introduced by Senator Martha McSally (R-AZ)."
+    publishedDateTime: 2020-11-03T16:52:00Z
+    webUrl: "https://www.c-span.org/event/?477537/c2020-vice-president-pence-holds-rally-flagstaff-az"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "FX2qxS6PSstzZ158MoKH9TZD4mJNQoysBDH1cTT+QAyX1OtXmguV64jmShXvytp4N3QuLD/jDvzqyRbYqCVCuD8CWjb3dTv0Vqk2qGt0vUiRXdRDYjDTglfCawK9FKfN8rakgyIu9J3GucCLJo5iG4VGaEitZ/lqiafkhwCE2Q8HMBZg1LlmfxmjMF6HrZCSXvqpGk+in3dG5bPa8R3vKtexiMuwN6V8o7U5Q35n561g0H9i2vxvoxLyhMvaCTwTPkw/1pu0ZkK5RtdR5nA9vFJS06qURN/Ilg/1Qkz1PamK3ur4gUpttYge0JAYBCZB1Efy0kfteA6kpf8lt91HHFyMcvK7EZ+zcQzSsYqipR37yFP+hqc37cwYI492pxfFPqzGcI3yHNGUvejZfHUKo/pH2ppd9enHiB/wEerthqLaV3DqgfvxUZFPJoiy3M2LG2o9c1HOexVK+eAquuJ9bGMiTzom+FePyVniZvGbB5ZcOOpEXTJproualk8crELOpK9WRoEWQuhzrKeM8m5laQ==;QyOLD/LVQBO7dY+s3uW4rQ=="
 ---

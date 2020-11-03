@@ -5260,6 +5260,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 85
+  - title: "Joe Biden, Donald Trump on Election Day"
+    excerpt: "Democratic presidential candidate and former Vice President Joe Biden arrives at Wilkes-Barre Scranton International Airport, in Avoca, Pa. on Nov. 3, 2020, en route to Scranton, Pa., with his granddaughters Finnegan and Natalie."
+    publishedDateTime: 2020-11-03T16:07:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/ny-joe-biden-donald-trump-presidential-election-day-20201103-k6v4vw3burftbctvzznzotrvxi-photogallery.html"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 85
+    images:
+      - url: "https://www.nydailynews.com/resizer/eeo9aSqwm4oS3al3zZqyQLYhLcI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PMU242K4NJFZDK6HVZ335QKKVQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden TRIPLES His Wisconsin Lead Over Trump in ABC News/Washington Post Survey"
     excerpt: "Former Vice President Joe Biden has tripled his lead over President Donald Trump in Wisconsin since September, according to the latest ABC News/Washington Post poll."
     publishedDateTime: 2020-10-28T14:47:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html"
 type: article
 quality: 190
-heat: 350
+heat: 370
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Point: Donald Trump just admitted what everyone else already knows about the 2020 election"
+    excerpt: "What the last four years have proven is that if you listen closely enough to President Donald Trump, he often accidentally reveals a deeper truth about his time in the White House -- and his campaign for a second term, which, win or lose, ends today.\n    \n"
+    publishedDateTime: 2020-11-03T16:40:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/88mONQHKjPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/trump-kenosha-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/trump-kenosha-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102140345-03-trump-nc-1101-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump just keeps driving in the wrong direction"
     excerpt: "With just 23 days until the 2020 election, here's my latest roundup of the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
     publishedDateTime: 2020-10-11T20:05:32Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slamm
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "UFC's Jorge Masvidal takes issue with Kamala Harris' equality video"
+    excerpt: "UFC star Jorge Masvidal took issue with a video vice presidential candidate Sen. Kamala Harris, D-Calif., tweeted Sunday two days before Election Day."
+    publishedDateTime: 2020-11-03T16:39:00Z
+    webUrl: "https://www.foxnews.com/sports/ufc-jorge-masvidal-harris-equality-video"
+    ampWebUrl: "https://www.foxnews.com/sports/ufc-jorge-masvidal-harris-equality-video.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/ufc-jorge-masvidal-harris-equality-video.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/07/UFC-Jorge-Masvidal.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "T8R+llkM8DeT/3PpH5dWj7onFvWQCNc4C0wwhbmr8zihZvro9XojBWhGXskc992k3rm3xsnia27Tv8C6nlgW3W1LHa783bCfLUFLwYfA5e0fu/SKZwWMuM1Mi9eFbeuMLI9lg/VxD8vswVf19oGwooAqsNZ6Znf0fmVxZ/62LnN20ECleJrFDONfopkxpjfaUPCJ6R3dDuimx1e1AV+z2NeWjQEVohkhqTH1+mY1N2FMTMy3Jx8L2GagerAOM/vSXSjUpAxDxqqSE43Vefk/sKl2LAip7Og8ugklwFb1hF6e14oBFNusnUCaUUgc+PaPibTHZKf8Xtas6+cvGiVepT/ty0Lu3hkLUZyrKudXXd8=;jhqkJjhaRHIWN+dF7/XVtw=="
 ---

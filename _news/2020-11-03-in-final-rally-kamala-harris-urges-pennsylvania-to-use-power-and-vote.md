@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95196229930"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95196229930"
 type: article
 quality: 134
-heat: 194
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "As U.S. Votes, a Village in India Prays for Kamala Harris"
+    excerpt: "Those who live in the hometown of Ms. Harris’s grandfather see the Democratic vice-presidential nominee as one of their own. “She is the daughter of the village’s soil,” one woman said."
+    publishedDateTime: 2020-11-03T15:20:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/world/03india-harris/merlin_179495781_7f3f5702-1e96-4d12-8955-68e35603b9fc-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Kamala Harris’s ancestral village in India offers prayers for her victory."
     excerpt: "More than 8,000 miles from the White House, in a small Indian village ringed by lush green rice paddies, several dozen people flocked into a Hindu temple, carrying roses and strings of sweet-smelling jasmine,"
     publishedDateTime: 2020-11-03T14:01:00Z
@@ -80,6 +96,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris Shuts Down ‘Childish’ Men Who Mispronounce Her Name"
+    excerpt: "Why does it seem like it becomes harder to pronounce your name the more conservative a person is?” “Daily Show” host Trevor Noah asked the vice presidential candidate."
+    publishedDateTime: 2020-10-30T06:27:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-shuts-down-childish-men-who-mispronounce-her-name"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "MrAkVZcudYhYsOPB65yn+W6JFwM1VjJcxUrGYj/3ATfVrkBGEz6W6lPiblGZ7e38ixAgGlhAgwsUubzb2Wq6f0SqjAaXCXwm4hjAp7fOMQGamfI8tvilHJxZXO67ImjnbX4NjWHJFV/mzSWOxvoImL5NIDCUHqqqLKUjYNbmyxG2RNSh2KmSk3HgPqADnA4GmKD+YQQNEvwPq8scbmrjQ6JStbngg48/MAF6oiNqYdl7JG6Tei3koSt0B6E0DQDmnHW/jIo5RHOKqDB3CAEBDExfLdNPvtzbJ8oCLo26OMbAZBc2jcghscCDKhsbLTmqKzEpfR/2IiaAxi6KMGvzo7Fbx9PEyRULXUWZHv8OTBCeTyedWPcK3twurMc+Ps+1jrp2WUpLH6m4zODwpJkODUAaA9iMS9zvq6/KOtPWebhuiX+nVY3piinfbwkKoyGwpG9nXELqp77MiGPYyglVBM5aF3uFEoP+kSDnwqwtTO2TBTq/2dl/m0Q9IobrbKdXNWl+6IjxT0ZtnBNHBrtRtA==;KXfk//fQ+MY+lgR1eQ2/Fg=="
 ---

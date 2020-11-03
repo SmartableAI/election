@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump defends Texas drivers who swarmed Biden bus on highway; FBI investigating"
+    excerpt: "According to the Biden campaign, the vehicles surrounded the bus trying to slow it down in the middle of the highway or run it off the road."
+    publishedDateTime: 2020-11-03T15:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/31/trump-train-swarms-biden-bus-texas-event-canceled/6110370002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6110370002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6110370002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/USAT/b419930c-8f78-4492-bc29-4348d2ea5ade-AP_Election_2020_Texas.jpg?auto=webp&crop=3985,2241,x1068,y373&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 live updates: Melania Trump delivers pointed political attack on trail"
     excerpt: "President Donald Trump has campaign rallies in Michigan, Wisconsin and Nebraska on Tuesday while former Vice President Joe Biden spends the day in Georgia."
     publishedDateTime: 2020-10-28T02:26:00Z
@@ -394,17 +410,17 @@ related:
         isCached: true
   - title: "Live updates: How Joe Biden and Kamala Harris are spending Election Day"
     excerpt: "Former Vice President Joe Biden and Sen. Kamala Harris are focusing on swing states on the last day on the campaign trail."
-    publishedDateTime: 2020-11-03T10:05:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/03/election-day-2020-joe-biden-kamala-harris/6129459002/"
-    ampWebUrl: "https://amp.freep.com/amp/6129459002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6129459002"
+    publishedDateTime: 2020-11-03T11:05:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/03/election-day-2020-joe-biden-kamala-harris/6129459002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6129459002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6129459002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/0a5e35e0-b805-4808-9b9c-0aa8ef5ae2d4-AP_Election_2020_Biden_3.jpg?auto=webp&crop=2988,1681,x0,y152&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/a5086338-9724-4c43-b5bb-7ace6fa18917-biden.JPG?auto=webp&crop=5135,2888,x0,y261&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -421,6 +437,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/2ced17af-0948-4014-b28e-c7dc51e1161d/thumbnail/1200x630/2ef01a72c72bd26c6379f9dc01c33b46/1102-en-weijia-579242-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump begins Election Day with 'Fox & Friends' interview: Live updates on Trump, Pence"
+    excerpt: "President Trump plans to spend the day making calls, giving interviews, monitoring events from the White House."
+    publishedDateTime: 2020-11-03T16:55:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/03/election-day-2020-donald-trump-mike-pence/6129648002/"
+    ampWebUrl: "https://amp.freep.com/amp/6129648002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6129648002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/9355561b-1453-4428-b22a-3ad04ad47d1a-GettyImages-1283588209.jpg?auto=webp&crop=3150,1772,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
     excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."

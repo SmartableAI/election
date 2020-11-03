@@ -207,6 +207,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "It's Election Day: Biden makes final Pennsylvania appeal as Trump awaits results at White House"
+    excerpt: "At long last, Election Day is here. "
+    publishedDateTime: 2020-11-03T15:43:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JB5aYlDyr8M/election-day-biden-pennsylvania-trump-awaits-results-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/election-day-biden-pennsylvania-trump-awaits-results-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-day-biden-pennsylvania-trump-awaits-results-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 193
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ac7d006-9eb3-49b9-8507-dfd382a745ad/511cdb2c-64a7-4353-a433-00d915628ee5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'"
     excerpt: "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy."
     publishedDateTime: 2020-10-26T18:49:25Z
@@ -364,6 +380,22 @@ related:
     quality: 182
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden pledges to 'run through the tape' during Election Day stop in native Pennsylvania"
+    excerpt: "A confident but cautious Joe Biden says he \"feels good, but it ain’t over till it's over\" in his bid to defeat President Trump."
+    publishedDateTime: 2020-11-03T16:35:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXc2gyu1Ow8/biden-scranton-pennsylvania-election-morning-stop"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-scranton-pennsylvania-election-morning-stop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-scranton-pennsylvania-election-morning-stop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/patrick-ward.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

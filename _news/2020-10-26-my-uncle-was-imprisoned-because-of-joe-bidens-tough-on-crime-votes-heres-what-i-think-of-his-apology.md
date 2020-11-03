@@ -744,6 +744,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden takes all 5 votes in tiny township that is one of the first to announce results on Election Day"
+    excerpt: "Dixville Notch, a tiny New Hampshire township along the US-Canada border, is among the first places in the country to make its presidential preference known, casting ballots in the wee hours of Election Day.\n    \n"
+    publishedDateTime: 2020-11-03T12:03:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/75N3Rsh5J1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/dixville-notch-2020-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/dixville-notch-2020-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102093638-dixville-notch-midnight-voting-orig-00002219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump counting on final get-out-the-vote push to fuel narrow path to victory"
     excerpt: "President Donald Trump and other Republicans are arguing in the final days of the campaign that their superior ground game will make a critical difference on Election Day and allow them to turn out their voters in enough states to reach the 270 electoral votes needed to win.\n    \n"
     publishedDateTime: 2020-10-30T23:18:32Z
@@ -1063,6 +1079,22 @@ related:
       - url: "https://static.politico.com/43/d5/868095814055bfecc3a2a6b7073f/gettyimages-1228712999-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden campaign: ‘Under no scenario’ will Trump be declared a winner on election night."
+    excerpt: "Under no scenario will Donald Trump be declared a victor on election night,” said Jennifer O’Malley Dillon, Joseph R. Biden Jr.’s campaign manager, in a briefing on Monday. “When Donald Trump says that ballots counted after midnight should be invalidated,"
+    publishedDateTime: 2020-11-03T15:21:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/biden-campaign-under-no-scenario-will-trump-be-declared-a-winner-on-election-night.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/biden-campaign-under-no-scenario-will-trump-be-declared-a-winner-on-election-night.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/biden-campaign-under-no-scenario-will-trump-be-declared-a-winner-on-election-night.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 157
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02elections-briefing-biden/02elections-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "2020 Election Live Updates: Biden Agrees to Virtual Debate, Setting Up Standoff With Trump"
     excerpt: "Vice President Biden looks forward to speaking directly to the American people,” his campaign said after the debate commission announced the next debate would be remote. But President Trump said, “I’m not going to waste my time on a virtual debate."
@@ -1653,6 +1685,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Deceptively Edited Video of Biden Proliferates on Social Media"
+    excerpt: "Tech companies had a haphazard response to the post, which was shared on the feeds of President Trump and other conservative figures."
+    publishedDateTime: 2020-11-03T15:22:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/technology/biden-video-edited.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/technology/biden-video-edited.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/technology/biden-video-edited.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/02/business/02distortions-video/02distortions-video-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "2020 Election Live Updates: Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "RIGHT NOW ‘Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."

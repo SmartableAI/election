@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "As U.S. Votes, a Village in India Prays for Kamala Harris"
+    excerpt: "Those who live in the hometown of Ms. Harris’s grandfather see the Democratic vice-presidential nominee as one of their own. “She is the daughter of the village’s soil,” one woman said."
+    publishedDateTime: 2020-11-03T15:20:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/world/03india-harris/merlin_179495781_7f3f5702-1e96-4d12-8955-68e35603b9fc-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote"
     excerpt: "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”"
     publishedDateTime: 2020-11-03T02:30:00Z
@@ -80,6 +96,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris Shuts Down ‘Childish’ Men Who Mispronounce Her Name"
+    excerpt: "Why does it seem like it becomes harder to pronounce your name the more conservative a person is?” “Daily Show” host Trevor Noah asked the vice presidential candidate."
+    publishedDateTime: 2020-10-30T06:27:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-shuts-down-childish-men-who-mispronounce-her-name"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "iO9+hfIp0LrQwsrX7l63xtamkmiOLOmHTC1WN4nEmz5v0+puPQYiXz2Q8hasLXW5hpirrGq0pzzHx/2WaIF4K2lBpoGVza8Y3mIi78rTBeC4Kri93UgTl6RbmoSqse9A1HpO77Pz+Ieufnw51mOXO0/cHop9TDT3D/D6+GdjndxGfnx+vZHhSgzRtAUEbkpKXhmIuj5DqJPrJh7NfIEBAe6XNsSTMC+FZ+56V4fiGzozEMA5x1MsMF96iO/D4cvk2VTuHJ9gwC5G8UnSn6XpG0HXzJrbBzOO2nJNBSYbjItkGc8mlKxeRa3I/TJQp4bu4Aa6KQLJdLt+Gs1vfglpXLvH/xI4NEswaH+rci7pbSFmFy/BvvDJjTe/3FpOmVG+yT87j2QVZLTwqH8eDX4/4BaRaAyJ3SOy7sIH5yPt4ap3OckBJsLLSDq52VmmFbl6bbrXjwuHNVxASAdIbzeLNl1mrzKcn0L+hvO1Va/Kr3iFYYHoNFCJioRJX6xYeOcP04DiB1L04LftPuPqSJE93w==;FGdYbthEmEDkM0Sll03vrg=="
 ---

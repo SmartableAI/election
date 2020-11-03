@@ -1548,6 +1548,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "YouTuber flies to Arizona to vote for Donald Trump"
+    excerpt: "YouTuber Adam Crigler hopped a flight to Arizona on Monday after discovering that he wasn't registered to vote in his home state of Maryland, as he had thought."
+    publishedDateTime: 2020-11-03T16:14:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvS_L_xjmVQ/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20303171197718.jpg"
+        width: 3212
+        height: 2141
+        isCached: true
   - title: "Biden has multiple 'pathways to get to 270' while Trump does not, ex-Obama deputy campaign manager says"
     excerpt: "Democratic presidential nominee Joe Biden has more paths to win the 270 electoral votes required to become president than incumbent President Trump, former Obama deputy campaign manager Stephanie Cutter told \"The Daily Briefing\" Thursday."
     publishedDateTime: 2020-10-29T21:06:23Z
@@ -1627,22 +1643,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump-Biden highway incident in Texas may have been white SUV's fault, police say; more investigation planned"
-    excerpt: "A white SUV, not a black, pro-Trump vehicle, appeared to be at fault in a now-viral highway incident with a Biden bus that occurred in Texas on Friday, the San Marcos Police Department reportedly said."
-    publishedDateTime: 2020-11-03T02:30:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QxIus3etFI8/police-white-suv-trump-caravan-biden-bus"
-    ampWebUrl: "https://www.foxnews.com/politics/police-white-suv-trump-caravan-biden-bus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/police-white-suv-trump-caravan-biden-bus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59bbe749-e1d8-4de9-83a4-f2c83d346777/55281509-77bb-4cec-ab55-b33f3f7a3135/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Top pro-Trump super PAC takes aim at Biden in $10M final push"
     excerpt: "EXCLUSIVE: The leading outside group supporting President Trump's re-election bid is launching a final ad blitz starting Saturday that takes aim at Democratic presidential nominee Joe Biden in TV ads to run in some of the crucial battleground states that will decide the winner of the White House race."
@@ -2106,6 +2106,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "YouTuber flies to Arizona to vote for Donald Trump"
+    excerpt: "YouTuber Adam Crigler hopped a flight to Arizona on Monday after discovering that he wasn't registered to vote in his home state of Maryland, as he had thought."
+    publishedDateTime: 2020-11-03T16:50:00Z
+    webUrl: "https://www.foxnews.com/politics/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20303171197718.jpg"
+        width: 3212
+        height: 2141
+        isCached: true
   - title: "Liz Peek: Winners and losers at final presidential debate – What the Trump, Biden scorecard looks like now"
     excerpt: "At the final presidential debate, Trump came prepared to show the country that he could be civil, stay (mostly) on topic, and still beat Biden."
     publishedDateTime: 2020-10-23T15:38:00Z
@@ -2121,6 +2137,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/340/340/liz_peek_headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump-Biden highway incident in Texas may have been white SUV's fault, police say; more investigation planned"
+    excerpt: "Trump vehicle, appeared to be at fault in a now-viral highway incident with a Biden bus that occurred in Texas on Friday, the San Marcos Police Department reportedly said."
+    publishedDateTime: 2020-11-03T13:26:00Z
+    webUrl: "https://www.foxnews.com/politics/police-white-suv-trump-caravan-biden-bus"
+    ampWebUrl: "https://www.foxnews.com/politics/police-white-suv-trump-caravan-biden-bus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/police-white-suv-trump-caravan-biden-bus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59bbe749-e1d8-4de9-83a4-f2c83d346777/55281509-77bb-4cec-ab55-b33f3f7a3135/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Why Biden stays quiet as Trump slams Lesley Stahl and other targets"
     excerpt: "The Biden campaign declared a lid at 10:41 a.m. yesterday--telling reporters that no more news would be made that day. There have been a lot of early lids lately. The former VP has been off the trail for several days as he prepares for tonight’s second and final debate against President Trump,"

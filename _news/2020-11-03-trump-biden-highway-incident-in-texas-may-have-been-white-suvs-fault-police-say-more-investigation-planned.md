@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump-Biden highway incident in Texas may have been white SUV's fault, police say; more investigation planned"
-excerpt: "A white SUV, not a black, pro-Trump vehicle, appeared to be at fault in a now-viral highway incident with a Biden bus that occurred in Texas on Friday, the San Marcos Police Department reportedly said."
-publishedDateTime: 2020-11-03T02:30:26Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QxIus3etFI8/police-white-suv-trump-caravan-biden-bus"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QxIus3etFI8/police-white-suv-trump-caravan-biden-bus"
+excerpt: "Trump vehicle, appeared to be at fault in a now-viral highway incident with a Biden bus that occurred in Texas on Friday, the San Marcos Police Department reportedly said."
+publishedDateTime: 2020-11-03T13:26:00Z
+originalUrl: "https://www.foxnews.com/politics/police-white-suv-trump-caravan-biden-bus"
+webUrl: "https://www.foxnews.com/politics/police-white-suv-trump-caravan-biden-bus"
 ampWebUrl: "https://www.foxnews.com/politics/police-white-suv-trump-caravan-biden-bus.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/police-white-suv-trump-caravan-biden-bus.amp"
 type: article
-quality: 171
+quality: 131
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -1551,6 +1552,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "YouTuber flies to Arizona to vote for Donald Trump"
+    excerpt: "YouTuber Adam Crigler hopped a flight to Arizona on Monday after discovering that he wasn't registered to vote in his home state of Maryland, as he had thought."
+    publishedDateTime: 2020-11-03T16:14:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvS_L_xjmVQ/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20303171197718.jpg"
+        width: 3212
+        height: 2141
+        isCached: true
   - title: "Biden has multiple 'pathways to get to 270' while Trump does not, ex-Obama deputy campaign manager says"
     excerpt: "Democratic presidential nominee Joe Biden has more paths to win the 270 electoral votes required to become president than incumbent President Trump, former Obama deputy campaign manager Stephanie Cutter told \"The Daily Briefing\" Thursday."
     publishedDateTime: 2020-10-29T21:06:23Z
@@ -2093,6 +2110,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "YouTuber flies to Arizona to vote for Donald Trump"
+    excerpt: "YouTuber Adam Crigler hopped a flight to Arizona on Monday after discovering that he wasn't registered to vote in his home state of Maryland, as he had thought."
+    publishedDateTime: 2020-11-03T16:50:00Z
+    webUrl: "https://www.foxnews.com/politics/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/youtuber-son-mother-take-flight-to-arizona-to-vote-for-donald-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20303171197718.jpg"
+        width: 3212
+        height: 2141
+        isCached: true
   - title: "Liz Peek: Winners and losers at final presidential debate – What the Trump, Biden scorecard looks like now"
     excerpt: "At the final presidential debate, Trump came prepared to show the country that he could be civil, stay (mostly) on topic, and still beat Biden."
     publishedDateTime: 2020-10-23T15:38:00Z
@@ -2261,6 +2294,6 @@ related:
       domain: realclearpolitics.com
     quality: 60
 
-secured: "FiMBHpJR9XptRKr8HgL6EgyzATn9V8BJawL/3UXi8LoMaEFRfSI8ntZUZ2o0jIOtKIY2WK7MDRdUdSCnxJOzTlaCyU0dsO1YSjky+wq2VyzpBFyMR9YcKbXTZCVxOb9YcUdvb2u8ol+8AmdPY/H98SggyF59ZMedoJnW8iNXw1NMis7eDJmfeXEj7z+Lnj46vLyI896nmqPi5GyUOqu9S8erkDbe7ZGxvlF2206sUbbZkx1OE8s4sWwtW4s75u1Dj344FsvTTTGpPn45koFcojQkl22cfZs5dtAg6NM2MoVpyP1yXqwyFXAMj9Y/nuQ8EYiJz7Iv6HD3619Gk10+xDY4qcnH76/bP6mQQx8f47o=;YO7YBwnnG5Ubx3rGsxfDQw=="
+secured: "onfvQudLpphfRA1UTluWEPcWm70uB7FDsvvizoHHADq+nWvyrJqAWvLDxFZkOGRxTQb0dyQoqhW0bsD3We3VsGN5E1zcLKOWLlyqg+RSxDILIwL3sNEZFTE4LdSDompaK4RU4bTQUJIrlyfY15icdNtJNDzMrUsIu4cHWVvkelkXvRO4W+/H1sYA4MHyozr1jNBtBBlLMD7VD1Bi1KyFfKwu0UIk7DXnodyMxOzgsLia4dh/sIomTS9hWia3y2wyD1S3e5lZt4ZaAoEkod/8Cf+4PeO2DfNzivJSWDkK5KA1zxcbeW7ysiVDAIq7deNXZ7/uoGlzco1Agv38YiQcgPRRAwT8GGRNESctCL6mlNA=;FE9Q5I7lvH5MaG48UEzmug=="
 ---
 
