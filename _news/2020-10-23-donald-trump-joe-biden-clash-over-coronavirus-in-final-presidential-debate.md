@@ -2193,6 +2193,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Watch Live: President Donald Trump Campaigns In Four States On Final Day Of Election"
+    excerpt: "President Trump will host five rallies in four states on Monday, the final day of the 2020 election campaign, starting around noon in North Carolina and continuing on to Pennsylvania, Michigan, Kenosha,"
+    publishedDateTime: 2020-11-02T13:33:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/02/watch_live_president_donald_trump_campaigns_in_four_states_on_final_day_of_election.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
+    images:
+      - url: "https://assets.realclear.com/images/50/503594.jpg"
+        width: 2300
+        height: 1530
+        isCached: true
   - title: "Democrats Are Masking Biden's Frailty"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2020-11-02T20:12:00Z

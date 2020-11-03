@@ -175,6 +175,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's War Against the South"
+    excerpt: "Joe Biden has said he wants to be president of ALL the states and that he doesn't see red states and blue states. But his economic policies are a de facto war against the high-growth red states"
+    publishedDateTime: 2020-11-03T11:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/525922_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "58EGYdCIGkNrKD0QRqipuIu2NZSX27sl/dUkfwKyxlOOAju1uVMPfFgrrXo968pH3RYYJXLNS3W1B9WPuq8gaPipVHv/E9yAs4GP86hye8+oi9Y/weFSNbN7+YQXMyFfxmZKUieF+pYy8065IIjkDPSczo/FFjlp3rWcD4lKqgNwSX/nFRu+BALIibGXWHSVDekjbUMgFYw3B0yyi3C8QXhszkaNUBShCOxNZhVNNDPLDj6koCaCW6u1A87v8CNxrPoz+on3dijIDdr/OFY5gzmDgreYUprmcEoaPucckPta+dAwMkNlkmwJTUwA5zYHYP3oWvb5O+u2y3m4uD12gJtmuG6Dy0aA1EMS9hegyqo=;zf8mFBQYiuliKf/dCgUrAA=="
 ---

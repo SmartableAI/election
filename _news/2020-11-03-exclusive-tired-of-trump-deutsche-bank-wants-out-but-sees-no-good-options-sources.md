@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J0G0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0G0"
 type: article
 quality: 118
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 805
     height: 545
     isCached: true
+
+related:
+  - title: "Deutsche Bank eager to cut Trump ties - sources"
+    excerpt: "Posted . Deutsche Bank is tired of the negative publicity over its lending to Donald Trump, according to Reuters sourc"
+    publishedDateTime: 2020-11-03T12:37:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP7Dg?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa14547e4b04d4457630913-1604404551926?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "tAJRIrtam+d69YX9/ykaWztJCRgzTTzVuQulJvDW7LFWlZ5IvPOk7NzO0pygrdJbqTkqPZCI4Fi4g52IypxLTTqO7SZCMYfLSHp87nTiqNhLbhppnue9tJy0ZgR+yfQI3Qy0EFpvOGw859HoxII7rCT8nUYlIoo03FNaGUX+L4kbGe9/6h37vvLUdOsgL2v59a7qBP2d6fcs75AxiHMmpqQ5vBHSPLQ3xFWcC9PM3LWx8Hk8fRQnvX5hOimY99dqTX3M2Gikv0dxnXq11ymfIiPdZSOw/GirBDthHWavUZndCZO8v1uXTr8xkXs9u8hkOcMeTIk3kEgxLFvIfFsx+N7D4X2qPvsofQH96Dcu7oI=;wfVNwuDqOM5zzPnAOBYn4A=="
 ---

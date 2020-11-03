@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Severed deer heads found by Biden-Harris campaign sign, Black Lives Matter sign in Oregon"
+    excerpt: "Lake Oswego Police Sgt. Tom Hamann said he did not “want to make assumptions” about the intent, as no message was attached to either head."
+    publishedDateTime: 2020-11-03T12:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/biden-harris-campaign-sign-oregon-vandalized-severed-deer-head/6135914002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6135914002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6135914002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 141
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/540f9876-8bb8-4229-aef2-9105954df0f7-AP_Election_2020_Biden_Harris.jpg?auto=webp&crop=4575,2574,x0,y232&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris visit Friday marks latest sign of Biden’s commitment to Texas"
     excerpt: "Democratic vice presidential candidate Kamala Harris will visit Houston and two other Texas cities to round out the final day of early voting on Friday. The Houston leg of Harris’ trip will be her last of the day,"
     publishedDateTime: 2020-10-30T19:29:00Z
@@ -267,6 +283,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106774227-1604328366950-gettyimages-1228019575-AFP_1WG92Q.jpeg?v=1604328414"
         width: 4000
         height: 2830
+        isCached: true
+  - title: "In Kamala Harris' Ancestral Village, The U.S. Election Is Followed Closely"
+    excerpt: "Senator Kamala Harris is the first person of South Asian descent on a U.S. presidential ticket. In her ancestral village in India, Hindu faithful offer prayers for a Biden-Harris victory."
+    publishedDateTime: 2020-11-03T09:05:00Z
+    webUrl: "https://www.npr.org/2020/11/03/930722345/in-kamala-harris-ancestral-village-the-u-s-election-is-followed-closely"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 118
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Kamala Harris discusses future of Supreme Court"
     excerpt: "As Judge Amy Coney Barret is set to become the ninth justice of the Supreme Court, Democratic vice presidential nominee Kamala Harris discusses the future of the high court. Norah O'Donnell has more in this portion of their interview from \"60 Minutes."
