@@ -198,6 +198,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "The Real Reason Fox News Needs Trump to Win"
+    excerpt: "Fox News needs Donald Trump to win — but not for the reason you think. A press release landed in media reporters’ inboxes last week: “Fox News Channel Earns Highest-Rated Primetime Monthly Average in the History of Cable Led by Tucker Carlson Tonight."
+    publishedDateTime: 2020-11-03T14:37:00Z
+    webUrl: "https://www.washingtonpost.com/business/the-real-reason-fox-news-needs-trump-to-win/2020/11/03/909b6400-1de2-11eb-ad53-4c1fda49907d_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QM4AMLQ54II6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1296
+        height: 790
+        isCached: true
 
 secured: "hLH6vjOcNEq4imXJmxslfe1gpWRYaFCDOeGNuvM+XrgNE2sA8fAdwR4PI0PJFwbjFOIL2TkncpH9/mX7UmSBk2opyqciwFDfxIupYKaSSu0F/Bj3wUi3Cxk+nHeLC19rCM0zxm1vw1bdaI7OHtGoIlb31CLVKLZIEJjvBODK5bqeZl+LcT9cR/PJHM43ISjmW2846jV2oiJXElSUcF6SdBqyRKEw3awT4QPxaNCHTBg4RRyyxVEeXHYlg/X+2rnVwfnO/QghEuSr2uANABkOGnescfrYdC0pnFuHYgBSNUN99pURibk1lrjwIbRe31LR8mg6L0Napd+Djl0Lczh43Dunh/IvHySQ3O2nVM/anf5n9G2VxW6FzVMjnFyYqeOEDWgKF06P49gTq8cSj983H/+fzkaX+vZZ3zAFOyXjtdH8512sjworeQOPjE670uwUfUANTivp9Dpm3ariOzrOBR8T/QBCBr0MeVds/ds8Up6ON5J5GSSHRxFZYl63oK7uzgk9EKSdlURaHYBfyQUt8A==;s8t3xzoRPDu5dKZ8POD0uQ=="
 ---

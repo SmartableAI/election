@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 1015
+heat: 1035
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a10cb3c-05d2-416e-92ac-e79eb95f4bfe/bc85c181-f12c-4d77-b171-514a0ea44f22/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump hits Biden campaign manager for 'strange' election night claim"
+    excerpt: "President Trump downplayed Democratic presidential nominee Joe Biden's campaign manager Jen O’Malley Dillon's claim that “under no scenario” could Trump be declared a victor on election night."
+    publishedDateTime: 2020-11-03T13:36:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSv-89BfpGI/trump-biden-campaign-victory-declaration-scenario"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-campaign-victory-declaration-scenario.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-campaign-victory-declaration-scenario.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20307603827925-e1604403476773.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump, Biden ramp up personal attacks on campaign trail as Election Day looms"
     excerpt: "With less than two days until Election Day, President Trump and his Democratic opponent Joe Biden honed in on more pointed, personal attacks on each other in the lead-up to one of the most divisive elections in U.S. history."

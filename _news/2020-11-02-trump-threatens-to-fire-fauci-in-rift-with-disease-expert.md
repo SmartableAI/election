@@ -197,6 +197,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Real Reason Fox News Needs Trump to Win"
+    excerpt: "Fox News needs Donald Trump to win — but not for the reason you think. A press release landed in media reporters’ inboxes last week: “Fox News Channel Earns Highest-Rated Primetime Monthly Average in the History of Cable Led by Tucker Carlson Tonight."
+    publishedDateTime: 2020-11-03T14:37:00Z
+    webUrl: "https://www.washingtonpost.com/business/the-real-reason-fox-news-needs-trump-to-win/2020/11/03/909b6400-1de2-11eb-ad53-4c1fda49907d_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QM4AMLQ54II6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1296
+        height: 790
+        isCached: true
 
 secured: "yDQCfMPK4ZbV1B331YzG52PYc0fqhQwWnIlZW/3oy/zaZxZrfOLYCm6n3CR51S1toraks2ioi1zmZneyoUGThyl+aEj1ihkOndhG0+3q12ilID6r9KAvxgA3FGg/P3rQobxtU6NdDKOoW4DHDEBXy5Hl7G3qZEQQPEDD6XnMXM15oMOoaERUMpaTLmPfBNMYagTXXaAqgR4lWFjyD7oHZRLW8NrLlvszs771s6OH1v2WDbUY4Q9D9UvGRFy6REhEqln0KRMdX7+EXXEcSTQSWDdZW7yJY41YdoBjSubbavurdaFSpiPTJUR4AaUbETk08ov2sKPMAQk76lrQSF8NtOTb9/BPdf9NB6YMCwZb+YI=;ClJ3Fmtpx+DQpp17WX9BHQ=="
 ---

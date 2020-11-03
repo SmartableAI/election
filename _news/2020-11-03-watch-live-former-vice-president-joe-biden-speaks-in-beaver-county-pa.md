@@ -303,6 +303,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Wall Street set to jump on Biden victory bets, stimulus hopes"
+    excerpt: "Wall Street's main indexes were set to jump at the open on Tuesday as investors bet on a Joe Biden victory followed by a swift deal on more fiscal stimulus after one of the most divisive presidential races in U."
+    publishedDateTime: 2020-11-03T14:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-idUSKBN27J1RE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J1RE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J1RE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539806282&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA20TT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
     publishedDateTime: 2020-11-02T08:20:00Z
@@ -375,6 +391,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539674605&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-11-02T132510Z_37279_MRPRC2PUJ9WQPU5_RTRMADP_0_USA-ELECTION-TRUMP"
         width: 810
         height: 540
+        isCached: true
+  - title: "Live updates: How Joe Biden and Kamala Harris are spending Election Day"
+    excerpt: "Former Vice President Joe Biden and Sen. Kamala Harris are focusing on swing states on the last day on the campaign trail."
+    publishedDateTime: 2020-11-03T10:05:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/03/election-day-2020-joe-biden-kamala-harris/6129459002/"
+    ampWebUrl: "https://amp.freep.com/amp/6129459002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6129459002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/0a5e35e0-b805-4808-9b9c-0aa8ef5ae2d4-AP_Election_2020_Biden_3.jpg?auto=webp&crop=2988,1681,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump campaigns for swing state voters in battleground tour"
     excerpt: "President Trump is trailing behind Joe Biden in many battleground states on the eve of the election, but with mail-in ballots in Pennsylvania counted up to three days after Election Day, Mr. Trump is promising a legal fight."

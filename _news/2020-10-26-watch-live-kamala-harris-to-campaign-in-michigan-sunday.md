@@ -1752,9 +1752,9 @@ related:
       domain: c-span.org
     quality: 32
   - title: "John Legend Joins Senator Kamala Harris and Doug Emhoff at Philadelphia Rally"
-    excerpt: "Kamala Harris (D-CA) is joined by her husband, Doug Emhoff, and singer John Legend at a drive-in campaign rally in Philadelphia. It’s the third and final event on the eve of Election Day. 2020 Democratic vice presidential candidate Sen."
+    excerpt: "Vice Presidential candidate Sen. Kamala Harris (D-CA) was joined by singer John Legend at a drive-in campaign rally in Philadelphia. It was the third and final event on the eve of Election Day."
     publishedDateTime: 2020-11-02T18:26:00Z
-    webUrl: "https://www.c-span.org/video/?477692-1/john-legend-joins-senator-kamala-harris-doug-emhoff-philadelphia-rally"
+    webUrl: "https://www.c-span.org/video/?477692-1/john-legend-joins-senator-kamala-harris-doug-emhoff-philadelphia-rally&live"
     type: article
     provider:
       name: C-SPAN

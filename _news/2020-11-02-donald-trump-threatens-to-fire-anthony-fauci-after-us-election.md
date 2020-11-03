@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
 type: article
 quality: 140
-heat: 360
+heat: 380
 published: true
 
 provider:
@@ -198,6 +198,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "The Real Reason Fox News Needs Trump to Win"
+    excerpt: "Fox News needs Donald Trump to win — but not for the reason you think. A press release landed in media reporters’ inboxes last week: “Fox News Channel Earns Highest-Rated Primetime Monthly Average in the History of Cable Led by Tucker Carlson Tonight."
+    publishedDateTime: 2020-11-03T14:37:00Z
+    webUrl: "https://www.washingtonpost.com/business/the-real-reason-fox-news-needs-trump-to-win/2020/11/03/909b6400-1de2-11eb-ad53-4c1fda49907d_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QM4AMLQ54II6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1296
+        height: 790
+        isCached: true
 
 secured: "C3Jw+G379QAim8k6pRVznD9k+PctBPFCXQiFvwzNb161u40ASg9niYLTPIqex8oX+zNo7M3sUH7452qPheS2u3WugtDPNGE/ND9G7m4SaBNxSvbKw+MUYF0C0nkr1KriXt8FBBbF0qN1dm95EDIIwsqKGZOP5XJpsjytmrtHBpYU8DlxQTUoAlQqz+jma9MN2JzLeJQwbh0QWniLU98ZjYAvxrgi37qmIYLSmJ2MoLIk2dTX6Nbc7srKzIxBLDXMU1gJeDBIsQGlD12Tm0glWDH8YqyGt9+d9kaWVgYhz8EsrnYbktLkVgMiT7v/09Krk0aG15PwZRSGuoOWjx8MDE9LuXiVQts3v7opWYCZrvM=;mdcpgg+KBRlBS+vaq3nRFg=="
 ---

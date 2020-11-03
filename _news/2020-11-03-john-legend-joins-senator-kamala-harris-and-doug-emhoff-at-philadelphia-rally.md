@@ -1,10 +1,10 @@
 ---
 category: news
 title: "John Legend Joins Senator Kamala Harris and Doug Emhoff at Philadelphia Rally"
-excerpt: "Kamala Harris (D-CA) is joined by her husband, Doug Emhoff, and singer John Legend at a drive-in campaign rally in Philadelphia. It’s the third and final event on the eve of Election Day. 2020 Democratic vice presidential candidate Sen."
+excerpt: "Vice Presidential candidate Sen. Kamala Harris (D-CA) was joined by singer John Legend at a drive-in campaign rally in Philadelphia. It was the third and final event on the eve of Election Day."
 publishedDateTime: 2020-11-02T18:26:00Z
-originalUrl: "https://www.c-span.org/video/?477692-1/john-legend-joins-senator-kamala-harris-doug-emhoff-philadelphia-rally"
-webUrl: "https://www.c-span.org/video/?477692-1/john-legend-joins-senator-kamala-harris-doug-emhoff-philadelphia-rally"
+originalUrl: "https://www.c-span.org/video/?477692-1/john-legend-joins-senator-kamala-harris-doug-emhoff-philadelphia-rally&live"
+webUrl: "https://www.c-span.org/video/?477692-1/john-legend-joins-senator-kamala-harris-doug-emhoff-philadelphia-rally&live"
 type: article
 quality: 32
 heat: -1
@@ -1778,6 +1778,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "eE9CXGQFLQvn4Qgm7iBwYKzZ5iCWW4pvWypwPfXGXGqqAwwZTnLFeqHIPGC8voHej4zQ/jdKRawTn4blZck/uaqkZ5LWi/HwQ0WxYVhyr1coUxAL5NceCT5u9GwWNRVer8p6drmO/lC90qwZh2eBYOXNJhzaGfvgKuDqabGk0l+LEe0MUrxarsCqRtAjH0A4YKo7sMvgN9YFQNQhD6Wh6fdiLea9iVxBaTGgZXfVQMFm5YoSdcWlrDCyf0HQwCnz2ZZSJiJt6/4dIxpCHY0J1nH8BQ5cu8pjTBWaqk5SWSPrGGQIpa4IWolNoFWR+oVnsHVAlZhcVh3T7N0w9kQyGzkXJTtzErPuEZ5ayvSDuuWwlrKPNeB/nxuTf/ppbD0X3sslji5PlLanzOVdCYGyxVCKD6+s26QVVRZRUwJgfB+Fu2yRbXwxaNHMEE5WswDia+RClhCI8zqcv7oY8yb++ee9QhAFVyHXxAWKQ+QKdktxsQoxiUZ0hLC86W8hAJLXVIAY9CcKzg8KLV9U0LL0bw==;AayYGZoMX6KWwo1451zYow=="
+secured: "wD2oTy8NLHfueXeCUtPQUfTCNPODtp458D34sLxJFLaPqId+9DXzBqHbNwOQ2huZqUJ9ZbnhKtjJykGoZtJFrfMbokQ2nXJmvuAryUvJFY3oX6BlN/TkQg9jWcm52u0bOamMSfQb1Q+AFXyGcE6iOaOTV1WfhysvyCPsKRGQt3XdUtVcRbeEHLCxEuFwEX9/huxuB2bjuVPwigXFERte5u8ufP+Ks3HS1GvVx9kqdq2WEBmTps0Zns5shXlCIRr996tTbPy7gj0B0M//fiuMcnqt7gFv5lmsl4iOxDqYey3BQpG9xfEP+sdW9fUZqszyC2dcCGDuntFCrV9u7gGhnGbjggezsMsy2rSmrH43pjFu9mwr8T4pS1X4sKOEXgrudDbqF82szBFZxfn5Mcld2t1XF86jhLVS+FHECrKYvEKnEa2MLgM1cqLTFHLwZ/VPipgAC+XAi9SdfCTbq3llCTpmRSRid3pcGjYWxzxouConQOV3hFNCWyqKeykIKX/WNG7l5erkg/imif/y3WWYtg==;/qnF2pM+j+ECXRNLUcKysg=="
 ---
 

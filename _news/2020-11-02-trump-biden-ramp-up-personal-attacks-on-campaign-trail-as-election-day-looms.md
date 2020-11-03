@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump hits Biden campaign manager for 'strange' election night claim"
+    excerpt: "President Trump downplayed Democratic presidential nominee Joe Biden's campaign manager Jen O’Malley Dillon's claim that “under no scenario” could Trump be declared a victor on election night."
+    publishedDateTime: 2020-11-03T13:36:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSv-89BfpGI/trump-biden-campaign-victory-declaration-scenario"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-campaign-victory-declaration-scenario.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-campaign-victory-declaration-scenario.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20307603827925-e1604403476773.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump, Biden campaigns issue final Twitter salvos in hours before election day"
     excerpt: "President Trump and former Vice President Joe Biden are peppering each other with attacks in the hours before voters head to the polls and decide who will lead the nation."
     publishedDateTime: 2020-11-02T22:12:50Z

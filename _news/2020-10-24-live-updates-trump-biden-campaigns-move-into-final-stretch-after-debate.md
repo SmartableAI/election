@@ -831,6 +831,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump says Biden will have 'a hard time' with the 'Squad' if he wins"
+    excerpt: "President Trump warned on the morning of Election Day that his Democratic opponent Joe Biden will have a \"hard time\" dealing with four progressive congresswomen popularly known as \"the Squad\" if he's elected to the White House. "
+    publishedDateTime: 2020-11-03T14:25:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ueo6lqsa900/trump-says-biden-will-have-a-hard-time-with-the-squad-if-he-wins-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-biden-will-have-a-hard-time-with-the-squad-if-he-wins-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-biden-will-have-a-hard-time-with-the-squad-if-he-wins-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42a7b9ad-ab6c-42ae-876c-3f3b06faa0fd/f1c58e34-d9e0-4f4d-ae41-c6458e7eff9b/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "Trump, Biden traveling to Tennessee for final presidential debate showdown"
     excerpt: "President Trump and Democratic rival Joe Biden are preparing to face off for the second and final debate on Thursday night in Tennesee with the November election just 12 days away."
     publishedDateTime: 2020-10-22T11:48:45Z
@@ -1038,6 +1054,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9701e207-362a-44d6-a30b-2315401da182/0a35afb2-8e81-441a-b9fb-328b5794e272/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump predicts he will beat Joe Biden by larger margin than victory over Clinton"
+    excerpt: "President Trump, in an Election Day interview on \"Fox & Friends,\" predicted a greater 2020 victory over Joe Biden than his historic upset in 2016 over Hillary Clinton."
+    publishedDateTime: 2020-11-03T14:43:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WwoBcKlJZg/trump-electoral-college-2020-biden-victory-friends"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-electoral-college-2020-biden-victory-friends.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-electoral-college-2020-biden-victory-friends.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Hunter Biden revelations roil 2020 race hours before Trump, Biden take debate stage"
     excerpt: "President Trump and Democratic challenger Joe Biden are set to take the debate stage to discuss issues including coronavirus, national security, and climate change, but one subject looming over it is the latest details regarding Hunter Biden's business dealings and whether or not his father was involved."

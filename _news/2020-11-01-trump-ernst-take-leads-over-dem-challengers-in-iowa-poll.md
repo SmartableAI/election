@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-ernst-take-leads-over-dem-cha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump says 'weak leadership' in Dem cities could allow election unrest: 'The other side is radicalized'"
+    excerpt: "President Trump lamented the fact that areas across the country are bracing themselves for possible riots and looting on Election Day, blaming Democratic leaders for not keeping extremists in line."
+    publishedDateTime: 2020-11-03T14:50:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fI8hJ9-Aszk/trump-weak-leadership-democratic-cities-election-unrest-antifa"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-leadership-democratic-cities-election-unrest-antifa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-leadership-democratic-cities-election-unrest-antifa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a3b506a-5ced-44b1-b016-696a5a9d785d/8797cd7c-24a0-4cec-934e-a0733d9d16fe/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "sHwvP9RYQ0+vNB6KaQ2aAzXhe18Lf9IYpTk9pSWyqEuiPcJzblbEHm/wXHbg0+PxY9IToS8yoA/N+5IfiJxoWc+WFc/ZgDNlhz0eBVwG3cLhgNdFAcsQKqcrUmVumYNOX6BK+PQucOZn6Filiv3oCPT2iE8tlojD5mODnaPP7cV+swbVaQycaLaRh8DSNR9G54k4zb0+gAlbmrgpRrUFOWuY6ycR3YiVmJLlb5HZqWMjM8Y+T0kwrEWM9G2wHz8XuL/ZTGDsv3CxFJiJLgqstgAGOFApwcW681dgRsnjgHtuyX6WtBuJ1OEBJ1Ev9+eUt88myffyMAN5mJ4XTegolZGdjoeOAIGgBQkzCRrQtOg=;v6f+WHNsI8f/h3o6sDMiNA=="
 ---
