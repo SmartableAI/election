@@ -336,22 +336,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden visits son Beau's grave, attends church on Election Day"
-    excerpt: "Former Vice President Joe Biden attended church and visited his late son Beau's grave on Election Day."
-    publishedDateTime: 2020-11-04T00:20:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LBph-OP76QI/biden-visits-beau-attends-church-election-day"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pennsylvania energy workers feature heavily in Trump, Biden bid for votes"
     excerpt: "The two 2020 contenders have clashed over Biden’s stance on hydraulic fracturing."
     publishedDateTime: 2020-10-28T01:37:48Z
@@ -683,6 +667,22 @@ related:
     quality: 150
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/296cacad-a487-477c-a401-47d8cc5602b4/d77cb2b1-80b2-4176-941a-009d9b70a403/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden visits son Beau's grave, attends church on Election Day"
+    excerpt: "Former Vice President Joe Biden attended church and visited his late son Beau's grave on Election Day -- but had a bit of a slip-up when introducing his granddaughters to a crowd. Biden and his wife Jill made the visit in Wilmington,"
+    publishedDateTime: 2020-11-04T10:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-visits-beau-attends-church-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

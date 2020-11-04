@@ -221,6 +221,15 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Official Vote Count Continues Nationwide as Donald Trump Falsely Claims a Win From The White House"
+    excerpt: "The Associated Press has not yet projected a winner of the race and states will not complete their exhaustive counts for several days."
+    publishedDateTime: 2020-11-04T08:46:00Z
+    webUrl: "https://time.com/5906949/donald-trump-vote-count/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 71
   - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
     excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
     publishedDateTime: 2020-10-29T20:07:00Z

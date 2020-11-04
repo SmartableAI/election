@@ -1912,6 +1912,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The Remaining Vote in Pennsylvania Appears to Be Overwhelmingly for Biden"
+    excerpt: "President Trump leads by nearly 700,000 votes in Pennsylvania as of 5 a.m. on Wednesday, and Mr. Biden’s chances depend on whether he can win a large percentage of the more than"
+    publishedDateTime: 2020-11-04T11:57:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/-promo-1604491386708/-promo-1604491386708-facebookJumbo.png"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "These white women voted for Trump in 2016. They’re having second thoughts."
     excerpt: "The trend as we’ve gotten closer to the election has been just how many people aren’t voting for Trump again.”"
     publishedDateTime: 2020-10-28T22:32:00Z
@@ -2204,6 +2220,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "VDN/nuYEg5KzqKHE6P35LP9FELu/Dp9xH61DsDsGuXsoJwiSBgTZuufuKFtGNiPYqdr2uVwoU1AtHGRLFhzTSKUcKHToJQCcsKOgxZTIq/SOvb6JCLWNPoSWbNuwNIIU558XRFin+LsocUVKAHOaULCzPxgN9eDp4APK7wOyFYfTOnNSJFs+hPPcV2LipXcZe9RVEk0nu6bhn7lmOd006WETWaMA6NQfSlwtj6Q8ZLetdybSYB13aWwsmff4ad7OkcF8yf9+qa2Sd13D0qUzap6NRjbFw6WIkMRRFnWBC11j5+Bmft+KI9To2rIwpgqBQxmrmdEqS/w9ZyQViT+EwtBfrBbdJGpghLonSGTqOjY=;s+c/oirjgZpQIhXUfDV/Qg=="
+secured: "qoOn2LY3N+Mcoj9qalwzHdfeg2L0iUF9CoxATV3BS35eWaOIuJeT+9/Zbn4YMRyYtgv32LH7Cckcy4F+r2wyyxqVp+Zf5d2a7sV9H7fK7c+P9k+WuuvrX7NEUQOSJyC11ZDTGixXxANAX2sEDB2vxF8s2Y/c+kQp2+IlZrzrTuX7itH9zBjluq29qA0gaqxkiSFmG8Kre7dVfLYOrhFe9YUStQ5NHkcLHmyKrhZAuSgs5Ml7h6e4bwZeW1OjLeEKzAuQ9tGzFK0F6JQ5bW7sFmynuNOJ/KbP0R9ybdy6HHWJai/wTZMubnqcDAAFvnTHGzE6VRU2QV59nEba4RCtrVo3w2SimTJ5eHwrmqnI/TmJo9ri76sh2CEHUhTb5zXegVxSUiCzfWmlg0t7hvmgOcjnt7zjA149boWBgtMzec5B4kmnTf6HK2Za0TlTn7KM9RfF/nTPf6FrHV4BvJPcVFdRoY1GLxAwQs39tfvApnrb+yfJmY3k3zdVlNU0eYbEIz9XTpE8T6yPavWAoabXbA==;W+K/951PdQkwaSs7MbbolA=="
 ---
 

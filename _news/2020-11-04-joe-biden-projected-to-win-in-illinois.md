@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
 type: article
 quality: 125
-heat: 245
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,6 +31,70 @@ images:
     isCached: true
 
 related:
+  - title: "Biden back as favorite to win U.S. election: Smarkets"
+    excerpt: "Democratic presidential candidate Joe Biden was back as favorite to win U.S. elections in online betting markets, according to Britain-based Smarkets Exchange, a reversal of fortune for President Donald Trump who was favorite overnight."
+    publishedDateTime: 2020-11-04T11:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-odds/biden-back-as-favourite-to-win-us-election-smarkets-idUSL8N2HQ3GD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539963074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30TI"
+        width: 861
+        height: 545
+        isCached: true
+  - title: "Biden back as favourite to win U.S. election - Smarkets"
+    excerpt: "Democratic presidential candidate Joe Biden was back as favourite to win U.S. elections in online betting markets, according to Britain-based Smarkets Exchange, a reversal of fortune for President Donald Trump who was favourite overnight."
+    publishedDateTime: 2020-11-04T12:02:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-odds-idUKKBN27K1DR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27K1DR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27K1DR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539963177&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30TJ"
+        width: 882
+        height: 545
+        isCached: true
+  - title: "Joe Biden has won Connecticut"
+    excerpt: "Connecticut holds seven electoral votes and was not expected by experts to be competitive."
+    publishedDateTime: 2020-11-04T05:55:00Z
+    webUrl: "https://www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa2267269331a0011bc728f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden is projected to win New Mexico"
+    excerpt: "The state has five electoral votes and wasn't expected to be competitive. It has voted for a Democrat in six of the last seven presidential elections."
+    publishedDateTime: 2020-11-04T04:12:00Z
+    webUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa232441df1d50018218be6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden wins Maryland, with its 10 electoral votes"
     excerpt: "Democrat Joe Biden won Maryland’s 10 electoral votes on Tuesday, defeating President Donald Trump in a heavily Democratic state. Democrats outnumber Republicans 2-to-1 in Maryland. A Republican presidential candidate hasn’t won in Maryland since George H."
     publishedDateTime: 2020-11-04T08:54:00Z
@@ -47,83 +111,63 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week"
-    excerpt: "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won."
-    publishedDateTime: 2020-10-28T05:38:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3754115001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001"
+  - title: "Biden begins his Election Day at Delaware church"
+    excerpt: "Joe Biden is starting Election Day with a visit to church - and his son, Beau. (Nov. 3) AP Domestic. More Videos"
+    publishedDateTime: 2020-11-04T01:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-begins-his-election-day-delaware-church/6136623002/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 91
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3418,x0,y95&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/fc34688e-f71f-41ca-8466-c8d5269ea8d3-32d9e3ec-51a3-4cbf-8a55-913fddc572d5_thumbnail.png?quality=10"
+        width: 852
+        height: 480
         isCached: true
-  - title: "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC"
-    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
-    publishedDateTime: 2020-10-31T15:19:00Z
-    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/"
-    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
+  - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
+    excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
+    publishedDateTime: 2020-11-04T02:05:00Z
+    webUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/"
+    ampWebUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
-    quality: 90
+      name: People
+      domain: people.com
+    quality: 65
     images:
-      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B17600%2C3719%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-4-2000.jpg"
+        width: 2000
+        height: 1047
         isCached: true
-  - title: "VP Mike Pence, Stacey Abrams, Jill Biden to stop in NC today"
-    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
-    publishedDateTime: 2020-10-31T15:19:00Z
-    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/"
-    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
+  - title: "Joe Biden works to push Black turnout in campaign’s final days"
+    excerpt: "Joe Biden is spending the final days of the presidential campaign appealing to Black supporters to vote in-person during a pandemic that has disproportionally affected their communities, betting that a strong turnout will boost his chances in states that could decide the election."
+    publishedDateTime: 2020-11-02T08:45:00Z
+    webUrl: "https://floridapolitics.com/archives/379605-joe-biden-works-to-push-black-turnout-in-campaigns-final-days"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
-    quality: 90
-    images:
-      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden will return to Michigan on Halloween"
-    excerpt: "The trip marks the former vice president's fourth to Michigan in recent weeks, again signaling the importance of the state in the overall race."
-    publishedDateTime: 2020-10-29T02:15:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/26/joe-biden-return-michigan-halloween-election-2020/6049405002/"
-    ampWebUrl: "https://amp.freep.com/amp/6049405002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6049405002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/347b1fa3-f7b8-482f-8fb2-adcc72da78b5-biden_101620_kd125.jpg?auto=webp&crop=2399,1350,x0,y115&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Verbum Ultimum: Joe Biden for President"
-    excerpt: "Joe Biden is the only acceptable option on Nov. 3. by The Dartmouth Editorial Board \\| 28 minutes ago. With Election Day a mere four days"
-    publishedDateTime: 2020-10-30T06:33:00Z
-    webUrl: "https://www.thedartmouth.com/article/2020/10/verbum-ultimum-biden-for-president"
-    type: article
-    provider:
-      name: The Dartmouth
-      domain: thedartmouth.com
+      name: Florida Politics
+      domain: floridapolitics.com
     quality: 55
     images:
-      - url: "https://snworksceo.imgix.net/drt/f6e05d55-b92b-4d73-be17-06d62e8be61a.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 534
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/1000-46-1000x563.jpeg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Conservative group’s claim that Joe Biden backs sex changes for kids is False"
+    excerpt: "Biden has stated opposition to discrimination against transgender people, he has not said he supports sex changes for children. In a tweet promoting its new attack ad, a conservative super PAC claims: \"Joe Biden says he supports sex changes for kids."
+    publishedDateTime: 2020-10-29T03:27:00Z
+    webUrl: "https://www.politifact.com/factchecks/2020/oct/27/american-principles-project/conservative-groups-claim-joe-biden-backs-sex-chan/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 52
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
         isCached: true
 
 secured: "SQW/rrunqzdRGzSHR6wqX56iI8IRuBkBm6dqsl465x/eCm6SDN4E//rv4TquMA+q/+6BlLDIXHexHI2TkX5wXtt4sGcijNvW77cUaAZcqM93vTRMZjMnv3MLPT/2FBJDZXu94H6WNdRodWWFeKyQubvvU+UXcVHYQMNs8YUm0UiPVwPTrNvjuy6BV3QSkibR/yMnNRP6WKo+dh5jIuQc/2GwAsVroB/1WPK4SzM72ohN73Fwa6swnOJEEH9EAD1NtU3jv7i5i1wQDhzsrZTg8BvBT378SXmoPITXykAFowdt9l2uNj6gU8PBGemZrkPEFkG8DWPyleo6jauqUaiQF67iCsnG3qhmGTvVXXzOFUC3xs6dpSb0MaN2VBXa89p9aa4WvULL1FRZF6cfHDY35gYL5SbUMvmPZWvbGFa9x+8lNkN/tpQAqwmzSfODqJZgebYCBnrJj4oKENsARZWW2HpEiNJRCoBs6iJfwVyLM0OJL/wxd/50StrdEEoRAFYMh/5Qs/FZ4RabIH2yQCEAIQ==;gLBjCW4BRgufU2/N9Of64w=="

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Biden visits son Beau's grave, attends church on Election Day"
-excerpt: "Former Vice President Joe Biden attended church and visited his late son Beau's grave on Election Day."
-publishedDateTime: 2020-11-04T00:20:05Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LBph-OP76QI/biden-visits-beau-attends-church-election-day"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LBph-OP76QI/biden-visits-beau-attends-church-election-day"
+excerpt: "Former Vice President Joe Biden attended church and visited his late son Beau's grave on Election Day -- but had a bit of a slip-up when introducing his granddaughters to a crowd. Biden and his wife Jill made the visit in Wilmington,"
+publishedDateTime: 2020-11-04T10:25:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-visits-beau-attends-church-election-day"
+webUrl: "https://www.foxnews.com/politics/biden-visits-beau-attends-church-election-day"
 ampWebUrl: "https://www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
 type: article
-quality: 190
+quality: 150
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -827,6 +828,6 @@ related:
         height: 748
         isCached: true
 
-secured: "GuPk+wTSXLQ+ylE7wQxTA+JqjwiI3xPV1kCZ/bOYa06b3BqPEABz2/fVG9qm7fEXhcKNFEL7/2gmFHyz8vqqmxJV6qMokhTyhzsSTa7fy7LAdsCxLPoILQL/jaYM4BxXQcfNqKElqFNWef7r7SD6E5UZ4Goqzv3cRFwkTMWBStjGLjHtVdgav3roEyLZQ3/pFPyFe5E894UyTQXzdSNqrlCEpJpacFwF7LPwhmZKgvbp9lbpFPNKtsugaCsVd3Y57uXDokGM/4TZlhGGDf4IEnt1QaKZEgw3yo4wO+oZK98pgcPgauzJx2aZPRGQUvPyL9Qrbq4kbXZegIXmwZjJIa3NEiCg5v+3sDWA62uLrX8=;HYnwYYqZXhybqH1tWwFVvQ=="
+secured: "f43OFZW+gY5rONsRb8uJnxw0aSp4ftRLy4SAewA5zty8xhQnP6t9dnEhHuwfHwqCa6ZmoFINrlnjv6ZFoTZx1YUUA+ambKHTMGRonm8sEhNh00lP1X22nF/CPcGG9Kt9hXqbMPbLSuxethCENsR2O27ozgf9iyLB7iRQVsHl96TyNrhPUWscSyj2l3kVVwwZxsF3HHXw2+AY8lr6W8DHn1fO7P1FpTc6VprdfMKT6uGZ0CjM0Uz+VnrWe1zYdhS4x1nCGEyW+zWgy5A+nohjdWKZ3OWrzpRgYMCIehUQh73Dp/969NAC/wQZ8R1DKnkFL0ejCHYghlAriaRzeSg2V3daHJQ7sSeemg4f4Zgn5tQ=;Zp8VuGKtV2UZAfySqGD7Ng=="
 ---
 

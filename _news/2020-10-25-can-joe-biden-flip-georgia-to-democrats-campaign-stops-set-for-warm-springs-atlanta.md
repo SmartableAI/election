@@ -9,7 +9,7 @@ ampWebUrl: "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democr
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp"
 type: article
 quality: 68
-heat: 108
+heat: 88
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Democratic nominee Joe Biden to visit Minnesota on Friday"
-    excerpt: "Democratic presidential nominee Joe Biden will return to Minnesota for a drive-in event in St. Paul on Friday, the campaign told the. The planned visit, four days before the Nov. 3 election, will come as both campaigns launch their final push to capture Minnesota's 10 electoral votes,"
-    publishedDateTime: 2020-10-29T18:30:00Z
-    webUrl: "https://www.startribune.com/democratic-nominee-joe-biden-to-visit-minnesota-on-friday/572911991/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 55
-    images:
-      - url: "https://stmedia.stimg.co/1600457850_19098701+TRUMPBIDEN.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Senator Kamala Harris Remarks to HBCU Student Leaders at Spelman College in Atlanta, Georgia"
     excerpt: "T14:32:19-04:00 vice presidential candidate Senator Kamala Harris (D-CA) speaks to HBCU student leaders at Spelman College in Atlanta, Georgia. Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to HBCU student leaders at Spelman College in Atlanta,"
     publishedDateTime: 2020-10-23T20:32:00Z

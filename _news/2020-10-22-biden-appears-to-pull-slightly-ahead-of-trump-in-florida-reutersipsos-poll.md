@@ -1802,6 +1802,17 @@ related:
         width: 3680
         height: 2474
         isCached: true
+  - title: "Factbox: Trump, Biden's paths to victory in U.S. presidential election"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden on Wednesday each faced narrow paths to potential victory in a close-fought U.S. presidential election that will be determined by a razor-thin margin."
+    publishedDateTime: 2020-11-04T12:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-paths-factbox-int-idUSKBN27K1HM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1HM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1HM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
   - title: "Trump releases 'Promise to Indian Country' tribal policy on the heels of Biden plan"
     excerpt: "The Trump administration released its tribal policy proposals via conference call two weeks before the election."
     publishedDateTime: 2020-10-21T17:09:00Z

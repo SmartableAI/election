@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wxii12.com/amp/article/north-carolina-vice-president-mik
 cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
 type: article
 quality: 76
-heat: 116
+heat: 96
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "VP Mike Pence to make 2 campaign stops in North Carolina on Halloween"
-    excerpt: "Vice President Mike Pence is set to return to North Carolina on Saturday for two campaign stops, just three days before Election Day, WTVD reported."
-    publishedDateTime: 2020-10-30T06:04:00Z
-    webUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-make-2-campaign-stops-north-carolina-halloween/FGNHNKGYWNF6VFKP6HM42DXAHY/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
-    images:
-      - url: "https://www.wsoctv.com/resizer/pXusisgI-i7o4r9ZDOxKtDRJ0cQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/AV3ZLYO4QE6NNM2EBGO6L6GALM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Mike Pence making 2 more campaign stops in North Carolina | Charlotte Observer"
     excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump’s reelection bid."
     publishedDateTime: 2020-10-27T08:17:00Z

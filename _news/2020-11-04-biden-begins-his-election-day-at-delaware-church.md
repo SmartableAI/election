@@ -29,21 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "America is changing. Joe Biden can help us through the transformation."
-    excerpt: "Joe Biden is more than just the stop-the-madness alternative to an unhinged incumbent. He has the potential to be a transformational president who guides the nation through an inevitable period of wrenching change."
-    publishedDateTime: 2020-10-29T19:57:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
+  - title: "Biden back as favorite to win U.S. election: Smarkets"
+    excerpt: "Democratic presidential candidate Joe Biden was back as favorite to win U.S. elections in online betting markets, according to Britain-based Smarkets Exchange, a reversal of fortune for President Donald Trump who was favorite overnight."
+    publishedDateTime: 2020-11-04T11:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-odds/biden-back-as-favourite-to-win-us-election-smarkets-idUSL8N2HQ3GD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WR5GVAZ5YI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539963074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30TI"
+        width: 861
+        height: 545
+        isCached: true
+  - title: "Biden back as favourite to win U.S. election - Smarkets"
+    excerpt: "Democratic presidential candidate Joe Biden was back as favourite to win U.S. elections in online betting markets, according to Britain-based Smarkets Exchange, a reversal of fortune for President Donald Trump who was favourite overnight."
+    publishedDateTime: 2020-11-04T12:02:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-odds-idUKKBN27K1DR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27K1DR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27K1DR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539963177&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30TJ"
+        width: 882
+        height: 545
         isCached: true
   - title: "Joe Biden has won Connecticut"
     excerpt: "Connecticut holds seven electoral votes and was not expected by experts to be competitive."
@@ -77,166 +93,82 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Americans say they are better off under Trump, but is America? Trump by the numbers"
-    excerpt: "Gallup reports that 56% said they're better off than in 2016, but 56% also said President Donald Trump does not deserve to be reelected."
-    publishedDateTime: 2020-10-29T09:21:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/29/americans-say-better-off-but-not-america-trump-numbers-column/6046218002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6046218002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6046218002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/1790a9c3-a79f-4718-bee3-8c5d1e212277-AP_Election_2020_Trump_1.jpg?auto=webp&crop=2725,1533,x0,y138&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Iran is Hoping for Biden Return to Nuclear Deal—But Trust Will Be Hard to Rebuild | Analysis"
-    excerpt: "While the Trump administration has repeatedly said its door was open for talks, Iranian President Hassan Rouhani has insisted that the U.S. must first return to the nuclear deal and lift its unilateral sanctions."
-    publishedDateTime: 2020-11-03T19:29:00Z
-    webUrl: "https://www.newsweek.com/trump-rouhani-biden-iran-deal-1544522"
-    ampWebUrl: "https://www.newsweek.com/trump-rouhani-biden-iran-deal-1544522?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-rouhani-biden-iran-deal-1544522?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
-    images:
-      - url: "https://d.newsweek.com/en/full/1664166/rouhani-un.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Can Joe Biden's Campaign Message Carry Him Over The Finish Line?"
-    excerpt: "Joe Biden has had a remarkably consistent campaign message. He was running, he said, to restore the soul of the nation. His campaign was — in essence — about human decency and character."
-    publishedDateTime: 2020-11-02T11:16:00Z
-    webUrl: "https://www.npr.org/2020/11/02/930234714/can-joe-bidens-campaign-message-carry-him-over-the-finish-line"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Biden stops at childhood home, thanks voters in Scranton"
-    excerpt: "Democratic nominee Joe Biden stopped by his hometown of Scranton Tuesday, where he thanked voters before moving on to Philadelphia later in the day. Biden has made his working-class upbringing in Scranton a centerpiece of his campaign."
-    publishedDateTime: 2020-11-03T17:01:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-stops-childhood-home-thanks-voters-scranton/6140568002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aa76382f-3127-4dd7-b743-de7fc9046a94_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "FOREX-Dollar dips as investors bet on Biden victory"
-    excerpt: "By Karen Brettell NEW YORK, Nov 3 (Reuters) - The U.S. dollar dipped on Tuesday as risk appetite grew on bets that Democrat Joe Biden will win Tuesday’s U.S."
-    publishedDateTime: 2020-11-03T18:39:00Z
-    webUrl: "https://www.reuters.com/article/global-forex-idUKL1N2HP1DM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2HP1DM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2HP1DM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "What would a Biden win mean for Wall Street?"
-    excerpt: "Business What would a Biden win mean for Wall Street? Posted . Stocks have risen sharply in the final two days of the U.S. election season as investors bet on the likelihood of a"
-    publishedDateTime: 2020-11-03T23:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/what-would-a-biden-win-mean-for-wall-str-id721537402"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30R9FV&r=OVD30R9FV&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
-    excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
-    publishedDateTime: 2020-10-28T04:13:00Z
-    webUrl: "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp"
+  - title: "Joe Biden projected to win in Illinois"
+    excerpt: "Illinois has 20 electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-04T01:16:00Z
+    webUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 102
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f98a2b769331a0011bc59db?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa203e269331a0011bc7262?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Here’s What We Know About Joe Biden’s COVID-19 Plan"
-    excerpt: "Biden gave a speech on his COVID-19 plan on Oct. 23, and he and running mate Senator Kamala Harris have circulated a seven-point plan for “beat [ing] COVID-19 and get [ting] our country back on track."
-    publishedDateTime: 2020-10-30T18:25:00Z
-    webUrl: "https://time.com/5905502/biden-covid-19-plan/"
+  - title: "Joe Biden wins Maryland, with its 10 electoral votes"
+    excerpt: "Democrat Joe Biden won Maryland’s 10 electoral votes on Tuesday, defeating President Donald Trump in a heavily Democratic state. Democrats outnumber Republicans 2-to-1 in Maryland. A Republican presidential candidate hasn’t won in Maryland since George H."
+    publishedDateTime: 2020-11-04T08:54:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 85
-  - title: "Joe Biden: We can restore the soul of our nation | Raleigh News & Observer"
-    excerpt: "The Editorial Board invited both presidential candidates to make their case to voters."
-    publishedDateTime: 2020-10-29T08:00:00Z
-    webUrl: "https://www.newsobserver.com/opinion/article246778127.html"
-    ampWebUrl: "https://amp.newsobserver.com/opinion/article246778127.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article246778127.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 73
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/53fd7af8-cdff-4f51-9f62-2cf621c1da9f/913d99e9-deef-42dd-bbd0-15b9cd8cce1f/1280x720/match/image.jpg"
-        width: 1279
-        height: 720
+      - url: "https://s.hdnux.com/photos/01/15/05/14/20206393/9/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Kremlin Says Joe Biden Is Wrong That Russia Is Number One Threat"
-    excerpt: "Putin, who has praised Trump in the past for saying he wanted better ties with Moscow, has said Russia will work with any U.S. leader, while noting what he called Joe Biden's \"sha"
-    publishedDateTime: 2020-10-26T10:52:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-26/kremlin-says-joe-biden-is-wrong-that-russia-is-number-one-threat"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-26/kremlin-says-joe-biden-is-wrong-that-russia-is-number-one-threat?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-26/kremlin-says-joe-biden-is-wrong-that-russia-is-number-one-threat?context=amp"
+  - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
+    excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
+    publishedDateTime: 2020-11-04T02:05:00Z
+    webUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/"
+    ampWebUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Americans Must Render Judgment Against Joe Biden At The Polls"
-    excerpt: "The most recent bombshells were revealed by the NY Post, which detailed a web of emails and transactions allegedly involving Hunter Biden, Joe Biden, China, Ukraine, and others. Despite the serious nature of these alleged “transactions,” Joe Biden has ..."
-    publishedDateTime: 2020-11-01T14:01:00Z
-    webUrl: "https://www.theamericanconservative.com/articles/americans-must-render-judgment-against-joe-biden-at-the-polls/"
+      name: People
+      domain: people.com
+    quality: 65
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B17600%2C3719%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-4-2000.jpg"
+        width: 2000
+        height: 1047
+        isCached: true
+  - title: "Joe Biden works to push Black turnout in campaign’s final days"
+    excerpt: "Joe Biden is spending the final days of the presidential campaign appealing to Black supporters to vote in-person during a pandemic that has disproportionally affected their communities, betting that a strong turnout will boost his chances in states that could decide the election."
+    publishedDateTime: 2020-11-02T08:45:00Z
+    webUrl: "https://floridapolitics.com/archives/379605-joe-biden-works-to-push-black-turnout-in-campaigns-final-days"
     type: article
     provider:
-      name: The American Conservative
-      domain: theamericanconservative.com
+      name: Florida Politics
+      domain: floridapolitics.com
     quality: 55
     images:
-      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/10/GettyImages-520783510.jpg"
-        width: 1024
-        height: 683
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/1000-46-1000x563.jpeg"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "Joe Biden Holds Canvas Kick Off Event Near Pittsburgh"
-    excerpt: "T14:40:00-05:00 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh. 2020 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh."
-    publishedDateTime: 2020-11-02T18:48:00Z
-    webUrl: "https://www.c-span.org/video/?477703-1/joe-biden-holds-canvas-kick-event-pittsburgh"
+  - title: "Conservative group’s claim that Joe Biden backs sex changes for kids is False"
+    excerpt: "Biden has stated opposition to discrimination against transgender people, he has not said he supports sex changes for children. In a tweet promoting its new attack ad, a conservative super PAC claims: \"Joe Biden says he supports sex changes for kids."
+    publishedDateTime: 2020-10-29T03:27:00Z
+    webUrl: "https://www.politifact.com/factchecks/2020/oct/27/american-principles-project/conservative-groups-claim-joe-biden-backs-sex-chan/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Politifact
+      domain: politifact.com
+    quality: 52
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
 
 secured: "rOEmWvnSqi/EDDi8Gy8uqudT2sudbhJuI3iq7Bj+nrNHmnfFMFXqkLwO/d8YZuGdntI6FA6oI/Pxha9b137+TLsPF+kky69p+Z1lfiDJtiBu8jOZs7BJdeJ3hZy3C3wgeeLFiNg031RVGmm52aeMJGax+GtVgLiG7RYs0X9/BrECR8QVsDViN3kNuq9LRlqQ/jo6Zr1957u6x3gAapMlO/5eXump7IHLTUwBCQXAdP1do0xF+ndFU+q2tURS2S9qn4MOoD30mxgXp2ekwlZ/5aI0KbaGhaK+hqLIuwwYTm+jsnjEI52svTmaCC6NoRK5rGANSi3jjvJSg+IvGO9SPsXdxNmTo+GWIZrmVlc/mshVdh9s+uFoppmSKNX4jEEqSrj8THRiC9h4+nIdpfpwUqdoAadbIG2F7uSTfPiNiDcUf5kOXR1TCEjiaOiXmKx9iMCLzJdjttj6ORFgNaChdpYf7F9h0MtMvfj2tlpGiefmWjs2PkeegeygqyN0LoLCi3NklLb4gdcEFBOMrY/vAA==;kfoIpN1dLbF39r/POzTbXQ=="
 ---

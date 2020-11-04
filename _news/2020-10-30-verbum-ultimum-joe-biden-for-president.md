@@ -25,99 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden projected to win in Illinois"
-    excerpt: "Illinois has 20 electoral votes and was not expected by analysts to be competitive."
-    publishedDateTime: 2020-11-04T01:16:00Z
-    webUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
+  - title: "Kid Rock responds to Lady Gaga's Biden endorsement, shows 'what camo is really worn for'"
+    excerpt: "Kid Rock seemed to have a go at Lady Gaga on Tuesday, days after the pop star went viral with her own pro-Joe Biden video."
+    publishedDateTime: 2020-11-04T08:09:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/11/03/kid-rock-reacts-lady-gaga-biden-endorsement-hunting-picture/6148835002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6148835002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6148835002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://i.insider.com/5fa203e269331a0011bc7262?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden wins Maryland, with its 10 electoral votes"
-    excerpt: "Democrat Joe Biden won Maryland’s 10 electoral votes on Tuesday, defeating President Donald Trump in a heavily Democratic state. Democrats outnumber Republicans 2-to-1 in Maryland. A Republican presidential candidate hasn’t won in Maryland since George H."
-    publishedDateTime: 2020-11-04T08:54:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/05/14/20206393/9/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week"
-    excerpt: "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won."
-    publishedDateTime: 2020-10-28T05:38:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3754115001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 91
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3418,x0,y95&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC"
-    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
-    publishedDateTime: 2020-10-31T15:19:00Z
-    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/"
-    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 90
-    images:
-      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "VP Mike Pence, Stacey Abrams, Jill Biden to stop in NC today"
-    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
-    publishedDateTime: 2020-10-31T15:19:00Z
-    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/"
-    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 90
-    images:
-      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden will return to Michigan on Halloween"
-    excerpt: "The trip marks the former vice president's fourth to Michigan in recent weeks, again signaling the importance of the state in the overall race."
-    publishedDateTime: 2020-10-29T02:15:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/26/joe-biden-return-michigan-halloween-election-2020/6049405002/"
-    ampWebUrl: "https://amp.freep.com/amp/6049405002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6049405002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/347b1fa3-f7b8-482f-8fb2-adcc72da78b5-biden_101620_kd125.jpg?auto=webp&crop=2399,1350,x0,y115&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/91320599-eef8-433c-bd30-735bc2b79fec-trump_091420_kd2242.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

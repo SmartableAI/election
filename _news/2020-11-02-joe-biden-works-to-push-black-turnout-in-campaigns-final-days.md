@@ -25,53 +25,145 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden's dangerous, top secret 'foreign policy'"
-    excerpt: "Biden likely would have an unstable, factional coalition government and be unprepared to deal with any foreign hostilities."
-    publishedDateTime: 2020-10-26T14:00:00Z
-    webUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy"
-    ampWebUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
+  - title: "Biden back as favorite to win U.S. election: Smarkets"
+    excerpt: "Democratic presidential candidate Joe Biden was back as favorite to win U.S. elections in online betting markets, according to Britain-based Smarkets Exchange, a reversal of fortune for President Donald Trump who was favorite overnight."
+    publishedDateTime: 2020-11-04T11:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-odds/biden-back-as-favourite-to-win-us-election-smarkets-idUSL8N2HQ3GD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539963074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30TI"
+        width: 861
+        height: 545
         isCached: true
-  - title: "Police: Florida man stole bulldozer, ran down Biden signs"
-    excerpt: "Authorities and homeowners in central Florida have accused a 26-year-old man of stealing a bulldozer from a construction site and driving it into a neighborhood to knock down campaign signs promoting"
-    publishedDateTime: 2020-10-26T13:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
+  - title: "Biden back as favourite to win U.S. election - Smarkets"
+    excerpt: "Democratic presidential candidate Joe Biden was back as favourite to win U.S. elections in online betting markets, according to Britain-based Smarkets Exchange, a reversal of fortune for President Donald Trump who was favourite overnight."
+    publishedDateTime: 2020-11-04T12:02:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-odds-idUKKBN27K1DR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27K1DR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27K1DR"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539963177&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30TJ"
+        width: 882
+        height: 545
         isCached: true
-  - title: "Biden looks to restore, expand Obama administration policies"
-    excerpt: "Joe Biden is promising to take the country on a very different path from what it has seen over the past four years under President Donald Trump, on issues ranging from the coronavirus and health care to the environment,"
-    publishedDateTime: 2020-11-02T10:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
+  - title: "Joe Biden has won Connecticut"
+    excerpt: "Connecticut holds seven electoral votes and was not expected by experts to be competitive."
+    publishedDateTime: 2020-11-04T05:55:00Z
+    webUrl: "https://www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_59af13eb499d41eab166674d0c65dbae_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/5fa2267269331a0011bc728f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden is projected to win New Mexico"
+    excerpt: "The state has five electoral votes and wasn't expected to be competitive. It has voted for a Democrat in six of the last seven presidential elections."
+    publishedDateTime: 2020-11-04T04:12:00Z
+    webUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa232441df1d50018218be6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden projected to win in Illinois"
+    excerpt: "Illinois has 20 electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-04T01:16:00Z
+    webUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa203e269331a0011bc7262?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden wins Maryland, with its 10 electoral votes"
+    excerpt: "Democrat Joe Biden won Maryland’s 10 electoral votes on Tuesday, defeating President Donald Trump in a heavily Democratic state. Democrats outnumber Republicans 2-to-1 in Maryland. A Republican presidential candidate hasn’t won in Maryland since George H."
+    publishedDateTime: 2020-11-04T08:54:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/05/14/20206393/9/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Biden begins his Election Day at Delaware church"
+    excerpt: "Joe Biden is starting Election Day with a visit to church - and his son, Beau. (Nov. 3) AP Domestic. More Videos"
+    publishedDateTime: 2020-11-04T01:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-begins-his-election-day-delaware-church/6136623002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/fc34688e-f71f-41ca-8466-c8d5269ea8d3-32d9e3ec-51a3-4cbf-8a55-913fddc572d5_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
+  - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
+    excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
+    publishedDateTime: 2020-11-04T02:05:00Z
+    webUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/"
+    ampWebUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 65
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B17600%2C3719%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-4-2000.jpg"
+        width: 2000
+        height: 1047
+        isCached: true
+  - title: "Conservative group’s claim that Joe Biden backs sex changes for kids is False"
+    excerpt: "Biden has stated opposition to discrimination against transgender people, he has not said he supports sex changes for children. In a tweet promoting its new attack ad, a conservative super PAC claims: \"Joe Biden says he supports sex changes for kids."
+    publishedDateTime: 2020-10-29T03:27:00Z
+    webUrl: "https://www.politifact.com/factchecks/2020/oct/27/american-principles-project/conservative-groups-claim-joe-biden-backs-sex-chan/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 52
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
         isCached: true
 
 secured: "fgzm0FhzTuxMjL3clq1iIpsTO+cWRe6JcBeil1TGkIpIYzxiSyuimm/wJBywzS0jDPWPnFHmoL1IIvvGlt40/52bhhabLt9FqR70UPyx/DEUwbWdZ+WzxpdMEUM+Cz4m4rUGzDEdv4hIxXjHBHkct6FeCV7+KtDYFZWisPT/GeSU/H1fJtnA+BeEHxtvK+PIJS1to3dkHk0g18IM04FrO8s5RD8+rHLs8GRlG1toAJKuMhdt/awAYYKmSP+xEZRmL0P4wzh5G+oaov/ul2X0d+BNJGRQgzwDfVmi8GACDGjBqTD4e5maGwIrzPBJheqM5NEk8ZSeeAbQLYHJcq60QxWDmgdD5gY9sg0wKOv8k48=;UUvgTx50BVz8yA5eQ/PLgw=="

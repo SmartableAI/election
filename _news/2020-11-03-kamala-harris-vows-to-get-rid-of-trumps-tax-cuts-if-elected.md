@@ -336,22 +336,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden visits son Beau's grave, attends church on Election Day"
-    excerpt: "Former Vice President Joe Biden attended church and visited his late son Beau's grave on Election Day."
-    publishedDateTime: 2020-11-04T00:20:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LBph-OP76QI/biden-visits-beau-attends-church-election-day"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pennsylvania energy workers feature heavily in Trump, Biden bid for votes"
     excerpt: "The two 2020 contenders have clashed over Biden’s stance on hydraulic fracturing."
     publishedDateTime: 2020-10-28T01:37:48Z
@@ -669,6 +653,22 @@ related:
       - url: "https://images.wsj.net/im-245155/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Biden visits son Beau's grave, attends church on Election Day"
+    excerpt: "Former Vice President Joe Biden attended church and visited his late son Beau's grave on Election Day -- but had a bit of a slip-up when introducing his granddaughters to a crowd. Biden and his wife Jill made the visit in Wilmington,"
+    publishedDateTime: 2020-11-04T10:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-visits-beau-attends-church-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Election 2020: Trump and Biden Make Final Push"
     excerpt: "In the final hours of the 2020 election, President Trump and former Vice President Joe Biden made their case to voters. Biden highlighted his roots in the swing state of Pennsylvania, while Trump stayed close to the White House."

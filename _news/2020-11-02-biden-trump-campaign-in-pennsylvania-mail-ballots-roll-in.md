@@ -741,6 +741,17 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "President Donald Trump & Vice President Mike Pence Election Night Remarks"
+    excerpt: "This is a fraud on the American public. This is an embarrassment to our country. We were getting ready to win this election. Frankly, we did win this"
+    publishedDateTime: 2020-11-04T10:20:00Z
+    webUrl: "https://www.dailyitem.com/election/president-donald-trump-vice-president-mike-pence-election-night-remarks/video_bdfe8e38-1e8f-11eb-9ebf-fb125f378470.html"
+    ampWebUrl: "https://www.dailyitem.com/election/president-donald-trump-vice-president-mike-pence-election-night-remarks/video_bdfe8e38-1e8f-11eb-9ebf-fb125f378470.amp.html"
+    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/election/president-donald-trump-vice-president-mike-pence-election-night-remarks/video_bdfe8e38-1e8f-11eb-9ebf-fb125f378470.amp.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 84
   - title: "ALLAN WERNICK: A Joe Biden win means Trump’s anti-immigrant policies could be reversed"
     excerpt: "If Joe Biden wins the election, he can reverse many of President Trump’s anti-immigrant rules, procedures and policies. Trump and Stephen Miller have brought restrictionist regulations and policy changes without going through Congress."
     publishedDateTime: 2020-11-02T12:00:00Z
@@ -788,6 +799,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/31/USAT/0ce85bbb-a038-4cb3-81db-03efe11419d1-Biden_Trump_Campaign.jpg?auto=webp&crop=3999,2249,x1,y151&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "2020 Latest: Donald Trump wins Kansas"
+    excerpt: "President Donald Trump throws hats to supporters as he arrive to speak during a campaign rally at Wilkes-Barre Scranton International Airport, Monday, Nov. 2, 2020, in Avoca, Pa. President Donald Trump dances after a campaign rally at Gerald R."
+    publishedDateTime: 2020-11-04T02:00:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/2020-latest-donald-trump-wins-kansas/article_ef07d3df-2872-5143-b983-fe371f0856d7.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/2020-latest-donald-trump-wins-kansas/article_ef07d3df-2872-5143-b983-fe371f0856d7.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/2020-latest-donald-trump-wins-kansas/article_ef07d3df-2872-5143-b983-fe371f0856d7.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/b5/ab54aa0a-98d6-5e52-b54d-3f8d57dda9c8/5fa16339743d2.image.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Trump vs. Biden: Minnesota gets turn as presidential battleground"
     excerpt: "President Donald Trump has worked to flip state while Joe Biden tries to hold it for Democrats. Minnesota found itself in the unfamiliar position this year of being targeted by both presidential campaigns,"

@@ -1818,6 +1818,17 @@ related:
         width: 3680
         height: 2474
         isCached: true
+  - title: "Factbox: Trump, Biden's paths to victory in U.S. presidential election"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden on Wednesday each faced narrow paths to potential victory in a close-fought U.S. presidential election that will be determined by a razor-thin margin."
+    publishedDateTime: 2020-11-04T12:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-paths-factbox-int-idUSKBN27K1HM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1HM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1HM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
   - title: "The Cybersecurity 202: Biden condemned election interference while Trump continued to mislead during final debate"
     excerpt: "Joe Biden drew a firm line on Russian election interference during the final presidential debate, while President Trump continued to misstate and mislead about that threat. Support our journalism. Subscribe today."
     publishedDateTime: 2020-10-23T11:44:00Z

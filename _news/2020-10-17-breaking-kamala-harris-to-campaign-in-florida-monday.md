@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Joe Biden will return to Michigan on Halloween"
+    excerpt: "The trip marks the former vice president's fourth to Michigan in recent weeks, again signaling the importance of the state in the overall race."
+    publishedDateTime: 2020-10-29T02:15:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/26/joe-biden-return-michigan-halloween-election-2020/6049405002/"
+    ampWebUrl: "https://amp.freep.com/amp/6049405002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6049405002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/347b1fa3-f7b8-482f-8fb2-adcc72da78b5-biden_101620_kd125.jpg?auto=webp&crop=2399,1350,x0,y115&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bay Area political events: Kamala Harris’ chief of staff, Rep. Mark DeSaulnier"
     excerpt: "A conversation with Karine Jean-Pierre, chief of staff to Democratic vice presidential candidate Sen. Kamala Harris, and a town hall meeting with Democratic Rep. Mark DeSaulnier of Concord and Rep. Jamie Raskin,"
     publishedDateTime: 2020-10-28T15:29:00Z

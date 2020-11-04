@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence campaigns in Elm City, North Carolina on Saturday"
-    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
-    publishedDateTime: 2020-10-31T17:39:00Z
-    webUrl: "https://abc11.com/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
-    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
-    type: article
-    provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 73
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7516195_103120-wtvd-pence-open-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "With time short, Vice President Mike Pence returns in effort to keep Arizona red"
     excerpt: "Vice President Mike Pence will campaign in Flagstaff and Tucson as the presidential race in battleground Arizona goes down to the wire."
     publishedDateTime: 2020-10-30T13:14:00Z
@@ -104,22 +88,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Vice President Mike Pence making two campaign stops in North Carolina this weekend"
-    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
-    publishedDateTime: 2020-10-30T06:18:00Z
-    webUrl: "https://abc11.com/politics/vp-pence-making-two-campaign-stops-in-north-carolina-this-weekend/7463634/"
-    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
-    type: article
-    provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 69
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7398556_102720-wtvd-Tim-5pm-Pence-in-Greensboro-vid.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Vice President Mike Pence says GOP remains optimistic about reelection bid"
     excerpt: "With just hours left for voters to cast their ballot, our sister station WXII in North Carolina did a one-on-one interview with Vice President Mike Pence and former South Bend, Indiana, mayor and former Democratic presidential candidate Pete Buttigieg."

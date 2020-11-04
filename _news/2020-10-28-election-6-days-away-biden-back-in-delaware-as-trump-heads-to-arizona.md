@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp"
 type: article
 quality: 205
-heat: 3305
+heat: 3325
 published: true
 
 provider:
@@ -1004,6 +1004,22 @@ related:
     quality: 186
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cef5496-adc7-442b-aee1-a83c412ce1fc/df295ce4-852c-4198-b842-5abd727e5650/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden, Trump campaigns dig in for legal fight with key battlegrounds undeclared"
+    excerpt: "The outcome of the 2020 presidential election remains unclear the morning after Election Day, with several battleground states still too close to call and both campaigns ready to push forward with litigation over ballot counts."
+    publishedDateTime: 2020-11-04T12:22:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wpYh1x4Q9TA/biden-trump-campaigns-legal-fight-key-battlegrounds-undeclared"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-campaigns-legal-fight-key-battlegrounds-undeclared.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-campaigns-legal-fight-key-battlegrounds-undeclared.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 3004
+heat: 3024
 published: true
 
 provider:
@@ -1896,6 +1896,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/24/us/24elections-briefing-trump/24elections-briefing-trump-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The Remaining Vote in Pennsylvania Appears to Be Overwhelmingly for Biden"
+    excerpt: "President Trump leads by nearly 700,000 votes in Pennsylvania as of 5 a.m. on Wednesday, and Mr. Biden’s chances depend on whether he can win a large percentage of the more than"
+    publishedDateTime: 2020-11-04T11:57:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/-promo-1604491386708/-promo-1604491386708-facebookJumbo.png"
+        width: 1050
+        height: 549
         isCached: true
   - title: "These white women voted for Trump in 2016. They’re having second thoughts."
     excerpt: "The trend as we’ve gotten closer to the election has been just how many people aren’t voting for Trump again.”"

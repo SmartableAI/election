@@ -1007,6 +1007,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden, Trump campaigns dig in for legal fight with key battlegrounds undeclared"
+    excerpt: "The outcome of the 2020 presidential election remains unclear the morning after Election Day, with several battleground states still too close to call and both campaigns ready to push forward with litigation over ballot counts."
+    publishedDateTime: 2020-11-04T12:22:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wpYh1x4Q9TA/biden-trump-campaigns-legal-fight-key-battlegrounds-undeclared"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-campaigns-legal-fight-key-battlegrounds-undeclared.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-campaigns-legal-fight-key-battlegrounds-undeclared.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Woman who Trump helped free from Egyptian captivity announces support for Biden"
     excerpt: "A charity worker freed with help from the Trump administration from captivity in Egypt endorsed Joe Biden for president in a Monday social media post. "
     publishedDateTime: 2020-11-04T00:48:10Z

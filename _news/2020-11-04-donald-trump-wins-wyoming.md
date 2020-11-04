@@ -215,6 +215,15 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Official Vote Count Continues Nationwide as Donald Trump Falsely Claims a Win From The White House"
+    excerpt: "The Associated Press has not yet projected a winner of the race and states will not complete their exhaustive counts for several days."
+    publishedDateTime: 2020-11-04T08:46:00Z
+    webUrl: "https://time.com/5906949/donald-trump-vote-count/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 71
   - title: "Barbara Res helped build Trump Tower. She says she saw Donald Trump ignore experts and disrespect employees in her 18 years working with him."
     excerpt: "Donald Trump has long displayed certain behaviors, says Barbara Res, whose new book \"Tower of Lies\" recounts almost 2 decades of working with him."
     publishedDateTime: 2020-11-03T22:49:00Z

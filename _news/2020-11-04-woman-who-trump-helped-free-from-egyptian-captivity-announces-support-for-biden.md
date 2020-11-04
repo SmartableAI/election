@@ -1023,6 +1023,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden, Trump campaigns dig in for legal fight with key battlegrounds undeclared"
+    excerpt: "The outcome of the 2020 presidential election remains unclear the morning after Election Day, with several battleground states still too close to call and both campaigns ready to push forward with litigation over ballot counts."
+    publishedDateTime: 2020-11-04T12:22:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wpYh1x4Q9TA/biden-trump-campaigns-legal-fight-key-battlegrounds-undeclared"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-campaigns-legal-fight-key-battlegrounds-undeclared.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-campaigns-legal-fight-key-battlegrounds-undeclared.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump, Biden clash over reopening plans, former VP won't rule out more shutdowns"
     excerpt: "Democratic presidential nominee Joe Biden indicated on Thursday that he was open to implementing more economic shutdowns to combat the coronavirus pandemic."
     publishedDateTime: 2020-10-23T02:14:10Z

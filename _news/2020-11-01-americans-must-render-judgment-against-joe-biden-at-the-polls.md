@@ -41,52 +41,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Joe Biden has won Connecticut"
-    excerpt: "Connecticut holds seven electoral votes and was not expected by experts to be competitive."
-    publishedDateTime: 2020-11-04T05:55:00Z
-    webUrl: "https://www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa2267269331a0011bc728f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden is projected to win New Mexico"
-    excerpt: "The state has five electoral votes and wasn't expected to be competitive. It has voted for a Democrat in six of the last seven presidential elections."
-    publishedDateTime: 2020-11-04T04:12:00Z
-    webUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa232441df1d50018218be6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden begins his Election Day at Delaware church"
-    excerpt: "Joe Biden is starting Election Day with a visit to church - and his son, Beau. (Nov. 3) AP Domestic. More Videos"
-    publishedDateTime: 2020-11-04T01:29:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-begins-his-election-day-delaware-church/6136623002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/fc34688e-f71f-41ca-8466-c8d5269ea8d3-32d9e3ec-51a3-4cbf-8a55-913fddc572d5_thumbnail.png?quality=10"
-        width: 852
-        height: 480
-        isCached: true
   - title: "Americans say they are better off under Trump, but is America? Trump by the numbers"
     excerpt: "Gallup reports that 56% said they're better off than in 2016, but 56% also said President Donald Trump does not deserve to be reelected."
     publishedDateTime: 2020-10-29T09:21:00Z
