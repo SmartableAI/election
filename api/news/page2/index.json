@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-03-washington-post-birx-disputes-trump-in-calling-for-much-more-aggressive-action-to-combat-pandemic.md",
+      "title": "Washington Post: Birx disputes Trump in calling for 'much more aggressive action' to combat pandemic",
+      "excerpt": "Dr. Deborah Birx sounded an alarming note about the state of the coronavirus in an internal White House report, saying the US is entering its \"most deadly phase\" yet, one that requires \"much more aggressive action,\" according to The Washington Post.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Otf_bHUN5fc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Otf_bHUN5fc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201103083154-file-deborah-birx-0420-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/03/politics/deborah-birx-trump-covid-19/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/deborah-birx-trump-covid-19/index.html",
+      "publishedDateTime": "2020-11-03T06:38:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-trump-appeared-to-back-away-from-claims-that-he-will-declare-victory-in-the-election-as-soon-as-possible-no-reason-to-play-games.md",
+      "title": "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'",
+      "excerpt": "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
+      "originalUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
+      "publishedDateTime": "2020-11-03T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-indias-hindu-fringe-group-holds-prayers-for-trump.md",
       "title": "India's Hindu fringe group holds prayers for Trump",
       "excerpt": "World India's Hindu fringe group holds prayers for Trump. Posted . A Hindu right-wing group in New Delhi held special prayers for U.S. President Donald Trump's victory in the pres",
@@ -320,6 +428,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-twitter-facebook-flag-trump-post-questioning-supreme-court-voting-decision.md",
+      "title": "Twitter, Facebook flag Trump post questioning Supreme Court voting decision",
+      "excerpt": "Twitter <TWTR.N> and Facebook <FB.O> late on Monday both flagged a post by President Donald Trump that called a U.S. Supreme Court decision on voting in Pennsylvania \"very dangerous.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-trump-twitt/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-idUKKBN27J051",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-trump-twitt/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-idUKKBN27J051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539740510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA202M",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27J051",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J051",
+      "publishedDateTime": "2020-11-02T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1186,166 +1346,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-election-2020-live-updates-trump-biden-blitz-swing-states-on-election-eve.md",
-      "title": "Election 2020 live updates: Trump, Biden blitz swing states on election eve",
-      "excerpt": "With one day until Nov. 3, President Donald Trump and former Vice President Joe Biden are crisscrossing battleground states, with the contest overshadowed by COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/president-trump-04-ap-jef-201101_1604267207507_hpMain_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671",
-      "publishedDateTime": "2020-11-02T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-its-a-little-tough-out-here-trump-blitzes-must-win-states-with-perfected-rally-routine.md",
-      "title": "'It's a little tough out here': Trump blitzes must-win states with perfected rally routine",
-      "excerpt": "President Donald Trump was running late when he arrived here Sunday morning, wind howling and tiny drops of ice sticking to his face, to begin the second-to-last day of his final run for office.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027121426-donald-trump-1024-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html",
-      "publishedDateTime": "2020-11-02T06:53:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-inside-the-evolution-of-tiffany-trump-12-insiders-chart-her-life-from-upenn-to-rich-kids-of-instagram-to-the-white-house-era.md",
-      "title": "Inside the evolution of Tiffany Trump: 12 insiders chart her life from UPenn to 'Rich Kids of Instagram' to the White House era",
-      "excerpt": "While Tiffany kept a low profile in college, she fell into the public eye after she hit the NYC socialite scene and her father became president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11",
-      "originalUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f45be7942f43f001ddff0b5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11?amp",
-      "publishedDateTime": "2020-11-02T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

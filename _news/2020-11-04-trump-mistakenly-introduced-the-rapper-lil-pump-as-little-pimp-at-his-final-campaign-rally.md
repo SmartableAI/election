@@ -63,38 +63,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Donald Trump projected to win Arkansas"
-    excerpt: "The state holds six electoral votes and leans heavily Republican. Every member of Arkansas' Congressional delegation is a GOP member."
-    publishedDateTime: 2020-11-04T01:58:00Z
-    webUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f96e5e94743a3001216b98c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump projected to win South Carolina"
-    excerpt: "The state has nine electoral votes and was not expected by analysts to be particularly competitive."
-    publishedDateTime: 2020-11-04T02:47:00Z
-    webUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f9734c84743a3001216bc2a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
     excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
     publishedDateTime: 2020-10-21T17:09:00Z
@@ -110,22 +78,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Jewish cemetery in Michigan vandalized with 'Trump,' 'MAGA' before Trump's rally"
-    excerpt: "Tombstones at the Ahavas Israel Cemetery in Grand Rapids were vandalized with \"Trump\" and \"MAGA\" before Trump arrived for his final campaign rally."
-    publishedDateTime: 2020-11-03T14:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/03/michigan-jewish-cemetery-desecrated-maga-before-trumps-rally/6135923002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6135923002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6135923002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e0eba4a9-c740-46cd-b451-c5a5115af8ab-AFP_AFP_8UF6ZT.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Livestream: Trump Holds Tuesday Rally In Michigan"
     excerpt: "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing."
@@ -202,6 +154,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Vice President Pence Speaks at Trump Campaign Rally in Reno, Nevada"
+    excerpt: "Vice President Mike Pence spoke at a Trump campaign rally at the airport in Reno, Nevada."
+    publishedDateTime: 2020-11-04T06:21:00Z
+    webUrl: "https://www.c-span.org/video/?477488-1/vice-president-pence-speaks-trump-campaign-rally-reno-nevada"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
   - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
     publishedDateTime: 2020-10-30T13:55:00Z

@@ -63,20 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump gains in Florida polls despite Democrats lead in early voting"
-    excerpt: "President Trump is leading for the first time in Florida polling, according to Real Clear Politics on Tuesday, even as Democrats lead in early voting."
-    publishedDateTime: 2020-10-28T01:17:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/96MEjXZ5sOA/trump-gains-in-florida-polls-despite-democrats-lead-in-early-voting"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "EKQW9Di1/qAfG3Bm3b96peWlYJMn28tI6aOQ6syDwKa5vmL3lEFiOLzfaOL1G0hm8Xv2YRleTXn8pRxWmH+A3Q27mPiWS9b89xRwGkfDbkPKEzlXvLPKdFkZ1R0YXWOPEbj+GwnwQbyJxXiYLTWAe/0MvF2CivdzZ61cwqKhOXbKz9Q4pkcPSdNyKabTKjUnHc/VDXXAgAfx/YQP27tIoqNx8eY9xfB6F9gN0yZqrDPFEsgtWkbE/jO1rKSIpJRGwckU3hOr82AbCdB/gtog4i1pYbciL2MKZo/NIAZ07C7V7XfQ6EF0jgA6h3pO2JxAlL4JZAf7GLKbaUMVnrcF/qjLWErPF33v4r08TIyAWus=;d3V1t17nV61WGMd3WJR+Yw=="
 ---

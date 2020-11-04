@@ -1633,6 +1633,20 @@ related:
         width: 1200
         height: 786
         isCached: true
+  - title: "Enthusiasm for Kamala Harris is strong among Black women voters"
+    excerpt: "LesleyAnne Crosby of Minneapolis gathered with a small group of Black women in St. Paul to witness the possibility of Kamala Harris becoming the first Black woman to become vice president. Sondra Samuels raced out the morning of Election Day to buy Chuck Taylor shoes."
+    publishedDateTime: 2020-11-04T05:47:00Z
+    webUrl: "https://www.startribune.com/enthusiasm-for-kamala-harris-is-strong-among-black-women-voters/572965532/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/ows_a54acef6-13a8-42d5-b04b-3edc1705f668.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘Everything is at stake,’ Democratic VP candidate Kamala Harris tells supporters at Lehigh Valley drive-in rally"
     excerpt: "Democratic vice presidential nominee Kamala Harris vowed Monday in Northampton County that she and Joe Biden would unite a polarized country, expand healthcare access and invest in working families if Pennsylvania voters help oust Donald Trump on Tuesday."
     publishedDateTime: 2020-11-02T21:32:00Z
@@ -1978,6 +1992,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "G341QRBYE9Se45vI18y4NVrpXOd02IcdBw9BBhayIF8gNQesIPsIJO02Q+DYHgNYp0GvScfZ3EJwRLU2kHrde75Coc/623tVxOhv0/iH2uRGyHhuSAYH7OuROx7rhQUW2jKi5q0f5VTiT7PrYJikdRlP9gK2opdNRQAeh0lOB57ftTrfRVjYlzEfjqY13X+zhKlLbXwtc4WJbidRfBWh1oGbEk3alZ749In6R6E6z9Y48dVRc445pG+pr0Z2ZcFF8PvoeC9Pc0x+7jHTFJqxv/r7hqgGWZyQvF6ESykkt4pgmlxSAMRvrWvqmr6K4YoILb9kiLzG4OXiHaIFdXhluFkAear2a5QPzTwXjmsj10k=;wgchq1rvaP24b9IUUz+Dow=="
+secured: "H0GSvTcja2mJXMmQjFGqcVRrQ9rbOgtpwBdDT4s3mzmi0uKtwlLv2U3vQ7buMUrWO7JpNZUhuJ5TzgWrydxyuaFgkGOMVu6cRLkbLF/+pKMjeH3+KFxEHNJVYqrz9mFreldEJFCjowIMtocnVhwT9taDz5B9MHRB+3MWYORrgk/gDNbGWUt0/lJXLbgpJr2QgigSJA2UXKZuqRSvWU7OO3TMMHvS99Q7xYLlW4xHZng5gjTH9yhLT42l3LxCU1P39JTBPSnkLf1QbatPbQRFYo1G1ZOx80lqDFkdItje0zJ2ZBfjM1LnQXfJZtdHr4WKPicprTtCCokTC/ZSMQfcpiPOT4hBlQo9vtwHtzmkYU1rmQbxijJLZgLTVTABUfjFrqRRIsAAYaysp4aTOzqTEiLienWWeTaIViBoYCGBTr3CUahDCL5UfkAVP8M+MfX84tkepx/97Ee9O4Embj3WeaWFWlik/68blXVW70bs09V/zoarhRepMDiw0f+88u8e6kwxjrizqnYPROaDanmI6A==;sKdUh9zXuNe+/tKQtnGKBQ=="
 ---
 

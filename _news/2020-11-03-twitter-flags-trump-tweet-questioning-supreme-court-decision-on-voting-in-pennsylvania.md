@@ -25,200 +25,272 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
-    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
-    publishedDateTime: 2020-10-29T10:35:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump celebrates at White House as Supreme Court nominee confirmed"
-    excerpt: "President Donald Trump reveled in one of his signature achievements on Monday at a White House ceremony to celebrate U.S. Senate confirmation of his third Supreme Court nominee, Amy Coney Barrett, eight days before the election."
-    publishedDateTime: 2020-10-27T04:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-barrett-idINKBN27A0CX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A0CX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A0CX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538916881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q02G"
-        width: 777
-        height: 545
-        isCached: true
-  - title: "Trump remakes Supreme Court as Senate confirms Amy Coney Barrett"
-    excerpt: "The Republican-led U.S. Senate handed President Donald Trump a major pre-election political victory on Monday by confirming his Supreme Court nominee Amy Coney Barrett as he delivered a dramatic conservative overhaul of the nation's top judicial body."
-    publishedDateTime: 2020-10-27T00:30:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN27C00H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C00H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C00H"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538910364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q009"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Control of Senate at stake as Trump's allies face Democrats"
-    excerpt: "WASHINGTON -- Control of the Senate is a razor-close proposition in Tuesday's election, as Republicans fight to retain their majority against a surge of Democratic candidates confronting the president's allies across a vast political map."
-    publishedDateTime: 2020-11-03T12:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
+  - title: "Trump targets Pennsylvania women, but will do so without wife Melania"
+    excerpt: "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\""
+    publishedDateTime: 2020-10-20T21:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9f58d3900ad64f6a8d3d2804721a15e4_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-20-rt-er-190618_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump's appointee Barrett takes part in first Supreme Court arguments"
-    excerpt: "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is"
-    publishedDateTime: 2020-11-02T16:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27I24T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I24T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I24T"
+  - title: "Melania Trump says son Barron tested positive for COVID-19, had no symptoms"
+    excerpt: "Melania Trump said Wednesday that after an initial negative test, 14-year-old Barron Trump tested positive for COVID-19."
+    publishedDateTime: 2020-10-15T05:39:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/10/14/melania-trump-says-son-barron-trump-tested-positive-covid-19/3656978001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3656978001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656978001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539694713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA118G"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Twitter, Facebook flag Trump post questioning Supreme Court voting decision"
-    excerpt: "Twitter <TWTR.N> and Facebook <FB.O> late on Monday both flagged a post by President Donald Trump that called a U.S. Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
-    publishedDateTime: 2020-11-03T04:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-trump-twitt/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-idUKKBN27J051"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27J051"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J051"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
     quality: 123
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539740510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA202M"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
-    excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
-    publishedDateTime: 2020-10-24T22:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
+  - title: "Trump targets Pennsylvania women, but will need do so without wife Melania"
+    excerpt: "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\""
+    publishedDateTime: 2020-10-20T19:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
     images:
-      - url: "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/trump-20-rt-er-190618_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
-    excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
-    publishedDateTime: 2020-10-29T14:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/29/judge-brent-shore-florida-duval-county-vote-counting-head-trump-donations/6068234002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6068234002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6068234002"
+  - title: "Biden defends light campaign schedule during unscheduled Pennsylvania stop"
+    excerpt: "Democratic presidential nominee Joe Biden on Monday defended his light travel and campaign schedule, saying he’ll embark on a swing state blitz this week and that he regularly keeps 12 hour days even"
+    publishedDateTime: 2020-10-26T22:30:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522844-biden-defends-light-campaign-schedule-during-pennsylvania-stop"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522844-biden-defends-light-campaign-schedule-during-pennsylvania-stop?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522844-biden-defends-light-campaign-schedule-during-pennsylvania-stop?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102620getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden Has 74 Percent Chance of Winning Pennsylvania, According to Bookmakers"
+    excerpt: "Biden has a 74 percent implied chance of taking the must-win state, while Trump is trailing with an implied chance of 28 per cent."
+    publishedDateTime: 2020-10-14T16:22:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1651800/joe-biden-pennsylvania.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
+    excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
+    publishedDateTime: 2020-10-16T02:36:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5SYA7XHV4I6VP2EBUY4QWBYUU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Judge throws out Trump campaign lawsuit over Pennsylvania poll-watching law and mail-in ballots"
+    excerpt: "The Trump campaign had challenged the battleground state’s poll-watching law and how mail-in ballots are collected and counted."
+    publishedDateTime: 2020-10-10T21:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/10/judge-throws-out-trump-campaigns-pennsylvania-lawsuit/5956103002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5956103002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5956103002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NFTU/7cb2302c-7824-4bb4-8511-52dba15d3133-IMG_7191.jpg?auto=webp&crop=4031,2267,x1,y90&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/8bc0821d-3529-4ac9-921f-5c7197680059-AP_Election_2020_Lawsuits_Glance.jpg?auto=webp&crop=4855,2731,x0,y168&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump calls Supreme Court voting decision 'horrendous'"
-    excerpt: "Rough Cuts Trump calls Supreme Court voting decision 'horrendous' Posted . U.S. President Donald Trump told reporters in Wisconsin on Monday that a recent Supreme Court decision o"
-    publishedDateTime: 2020-11-03T09:43:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD30QSWV"
+  - title: "Trump pleas with suburban women: 'Please like me'"
+    excerpt: "President Donald Trump has anchored his second rally since contracting the coronavirus, telling voters in Pennsylvania that a vote for him is a vote to protect the suburbs. He also issued an appeal to suburban women: \"Will you please like me?"
+    publishedDateTime: 2020-10-14T02:04:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/14/trump-pleas-suburban-women-please-like-me/3647442001/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QSWV&r=OVD30QSWV&t=2"
-        width: 960
-        height: 540
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/999762f7-db8f-45b1-bb6f-e87ec522a0c5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "3 Cities Designated As 'Anarchist' Filing Lawsuit Against Trump Administration"
-    excerpt: "After months of street protests, President Trump described New York City, Portland and Seattle as lawless places and threatened to withhold federal aid. City officials say the law is on their side."
-    publishedDateTime: 2020-10-22T18:38:00Z
-    webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration"
+  - title: "Trump Pleads For Women Voters At Pennsylvania Rally"
+    excerpt: "An increasingly desperate President Trump called on suburban women to support him during a rally in Johnstown."
+    publishedDateTime: 2020-10-14T13:12:00Z
+    webUrl: "https://patch.com/pennsylvania/pittsburgh/trump-pleads-women-voters-pennsylvania-rally"
+    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 101
+      name: Patch
+      domain: patch.com
+    quality: 75
     images:
-      - url: "https://media.npr.org/assets/img/2020/10/22/ap_20133094368037_wide-0ecc215828e095c74a18670fb311744097545173.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://patch.com/img/cdn20/ap/22920172/20201014/090933/styles/patch_image/public/ap20288063475161___14084417630.jpg?width=984"
+        width: 984
+        height: 738
         isCached: true
-  - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
-    excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."
-    publishedDateTime: 2020-10-28T02:43:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
+  - title: "Donald and Melania Trump's son Barron had tested positive for Covid-19"
+    excerpt: "The first lady revealed that the 14-year-old had first tested negative for coronavirus but was found positive in a subsequent test."
+    publishedDateTime: 2020-10-15T09:42:00Z
+    webUrl: "https://www.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
+    ampWebUrl: "https://amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 96
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 75
     images:
-      - url: "https://www.chicagotribune.com/resizer/9T6xM9WwzncJC1U9YusfCXeCFF0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSWZ6OW4UASM2Y33DIGJOP55QE.aspx"
+      - url: "https://d.ibtimes.co.uk/en/full/1600176/barron-trump-melania-trump.jpg"
+        width: 1600
+        height: 1099
+        isCached: true
+  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
+    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
+    publishedDateTime: 2020-10-15T01:57:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Joe and Jill Biden to visit eastern Pennsylvania on Saturday (UPDATE)"
+    excerpt: "Biden campaigns in Bucks, Trump votes in Fla. and plans Pa. stop Monday. Democratic presidential candidate and former Vice President Joe Biden is scheduled Saturday to mak"
+    publishedDateTime: 2020-10-24T17:30:00Z
+    webUrl: "https://www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html"
+    ampWebUrl: "https://www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/joe-and-jill-biden-to-visit-eastern-pennsylvania-on-saturday.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OS3DKJ3AAJERDOVOB74RHT6NGI.JPG"
+        width: 7216
+        height: 4813
+        isCached: true
+  - title: "Pence tells Reading crowd the path to victory ‘runs through Pennsylvania’"
+    excerpt: "Vice President Mike Pence returned to the critical battleground state of Pennsylvania on Saturday, declaring President Donald Trump a champion of the “forgotten men and women of America” and blasting Joe Biden as a “Trojan Horse for the radical left."
+    publishedDateTime: 2020-10-17T19:32:00Z
+    webUrl: "https://www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html"
+    ampWebUrl: "https://www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 74
+    images:
+      - url: "https://www.mcall.com/resizer/b2hiFAaesVrzFrCtokD2xh0M_5M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RLJBBLSJDFRVOHOFAZPDRV7UW4.jpg"
+        width: 1200
+        height: 823
+        isCached: true
+  - title: "‘The road to victory runs right through Pennsylvania,’ VP Mike Pence tells Pa. crowd"
+    excerpt: "On a stage outside a hangar near Reading, Pence credited Trump for \"unleashing American energy,\" and having \"ended the war on coal.\""
+    publishedDateTime: 2020-10-17T21:41:00Z
+    webUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html"
+    ampWebUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RBM2JH3LDBC2HKB56RTAQ3HSEY.jpg"
+        width: 1024
+        height: 616
+        isCached: true
+  - title: "Joe Biden courts swing voters in Pennsylvania with a plea to ‘choose hope over fear’"
+    excerpt: "Biden entered the final 10 days before Election Day with a hopeful message not unlike the one that lifted Barack Obama to the White House."
+    publishedDateTime: 2020-10-24T21:14:00Z
+    webUrl: "https://www.inquirer.com/politics/election/joe-biden-pennsylvania-bucks-luzerne-counties-20201024.html"
+    ampWebUrl: "https://www.inquirer.com/politics/election/joe-biden-pennsylvania-bucks-luzerne-counties-20201024.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/joe-biden-pennsylvania-bucks-luzerne-counties-20201024.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 68
+    images:
+      - url: "https://www.inquirer.com/resizer/RwhEDTA6JTY5C9HGwEw89WjplfA=/1200x0/center/middle/www.inquirer.com/resizer/xpAGF81YnuyAt_DddLAhqTNQOFQ=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/URLTGFMVFZA5LLC2GC6V7NBOWQ.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
-    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
-    publishedDateTime: 2020-10-29T20:07:00Z
-    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 56
-    images:
-      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
-        width: 846
-        height: 571
-        isCached: true
-  - title: "President Donald Trump Wins West Virginia's Electoral Votes"
-    excerpt: "President Donald Trump eased to victory in West Virginia to take its five electoral votes. He had been widely expected to defeat Democrat Joe Biden in a state that backed him in 2016 with 68% of the vote."
-    publishedDateTime: 2020-11-04T00:40:00Z
-    webUrl: "https://www.usnews.com/news/best-states/west-virginia/articles/2020-11-03/president-donald-trump-wins-west-virginias-electoral-votes"
+  - title: "Trump Seeks Campaign Boost in Battleground Pennsylvania With Two Weeks to Go"
+    excerpt: "U.S. President Donald Trump heads to the battleground state of Pennsylvania on Tuesday with hopes of rekindling the 11th-hour surge of support that powered his surprise 2016 victory. But with more than 30 million early ballots already cast with two weeks to go before voting ends on Election Day Nov."
+    publishedDateTime: 2020-10-20T07:10:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 52
+  - title: "Joe and Jill Biden Campaign in Bucks County, Pennsylvania"
+    excerpt: "Democratic presidential nominee Joe Biden spoke at a campaign event in Erie, Pennsylvania. He talked about the economy,… 2020 Democratic presidential nominee Joe Biden and his wife Jill Biden toured eastern Ohio and western Pennsylvania by train the day after Mr."
+    publishedDateTime: 2020-10-24T08:02:00Z
+    webUrl: "https://www.c-span.org/video/?477335-1/joe-jill-biden-campaign-bucks-county-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "VP Mike Pence holds campaign event in Pennsylvania"
+    excerpt: "Vice President Mike Pence is making his last stops before the general election. Pence is holding a campaign event in West Mifflin, Pennsylvania. He will be addressing the crowd. This is the first major renovation the MLK Center has seen since it was built in 1968."
+    publishedDateTime: 2020-10-23T20:32:00Z
+    webUrl: "https://www.wilx.com/2020/10/23/vp-mike-pence-holds-campaign-event-in-pennsylvania/"
+    type: article
+    provider:
+      name: WILX-TV
+      domain: wilx.com
     quality: 35
 
 secured: "848lHIb4qEa2uu0nOkC47WcP6d/cBUSAhRXUaJtfnxrWg7Tnpuw9P5/Flf3rIInChGu8uYLm+gdYJHOWiiQGetRgDpGq1xyiQlrDYM7xluD3tyOsKGVRcDT6N6PtG7/JzO4xWPsIBUVz/bpWykGnA6gRjK+Xi0RPiiiIIIaC9IVRXOpDTtmmasvs/IGMc45MLoXKy60CMQENQ9IUcoUeI0EaGozfvNGpWAeQXab5Vy1Wvb0iBgj35P6TZE5ByVLRsTbUazj4m8g2F4n2CponcQIcFcC/ai4fZWtLdNsslKZXjtDLvnOdrrcDUcyrUTwCwK86aMZbwBW+kI+jBp0cYXVpM/jgKAFFQGxUUxgHk7Y=;MeuE2X0omj8O814PE+cagA=="

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-04-trump-says-he-will-score-a-big-win-accuses-democrats-of-trying-to-steal-election.md",
+      "title": "Trump says he will score a 'big win,' accuses Democrats of trying to steal election",
+      "excerpt": "Republican President Donald Trump, in a tweet early on Wednesday, predicted he will win a second four-year term and accused Democrats of attempting to \"steal\" the election from him, without citing any evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-trump-tweet-idINKBN27K0MF",
+      "originalUrl": "https://www.reuters.com/article/usa-election-trump-tweet-idINKBN27K0MF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 414,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539921175&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30DU",
+          "width": 921,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27K0MF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27K0MF",
+      "publishedDateTime": "2020-11-03T22:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-ex-espn-host-jemele-hill-says-its-on-white-people-if-trump-wins-reelection-no-one-else.md",
       "title": "Ex-ESPN host Jemele Hill says 'it's on White people' if Trump wins reelection: 'No one else'",
       "excerpt": "ESPN host Jemele Hill declared Tuesday that only White people are to blame if President Trump defeats Democratic nominee Joe Biden.",
@@ -113,58 +165,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-barbara-res-helped-build-trump-tower-she-says-she-saw-donald-trump-ignore-experts-and-disrespect-employees-in-her-18-years-working-with-him.md",
-      "title": "Barbara Res helped build Trump Tower. She says she saw Donald Trump ignore experts and disrespect employees in her 18 years working with him.",
-      "excerpt": "Donald Trump has long displayed certain behaviors, says Barbara Res, whose new book \"Tower of Lies\" recounts almost 2 decades of working with him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/barbara-res-donald-trump-real-estate-trump-tower-2020-11",
-      "originalUrl": "https://www.businessinsider.com/barbara-res-donald-trump-real-estate-trump-tower-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa0958969331a0011bc6e16?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -290,7 +290,7 @@
       "originalUrl": "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -651,6 +651,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-03-twitter-facebook-flag-trump-post-questioning-supreme-court-voting-decision.md",
+      "title": "Twitter, Facebook flag Trump post questioning Supreme Court voting decision",
+      "excerpt": "Twitter <TWTR.N> and Facebook <FB.O> late on Monday both flagged a post by President Donald Trump that called a U.S. Supreme Court decision on voting in Pennsylvania \"very dangerous.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-trump-twitt/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-idUKKBN27J051",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-trump-twitt/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-idUKKBN27J051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539740510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA202M",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27J051",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J051",
+      "publishedDateTime": "2020-11-02T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-trump-army-of-poll-watchers-led-by-veteran-of-fraud-claims.md",
       "title": "Trump 'army' of poll watchers led by veteran of fraud claims",
       "excerpt": "President Donald Trump’s campaign is poised to deploy an “army” of volunteers and paid staff on Tuesday to watch elections precincts in Democratic-leaning areas",
@@ -872,7 +924,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1133,
+      "heat": 1153,
       "tags": null,
       "images": [
         {
@@ -976,7 +1028,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/01/trump-well-send-lawyers-if-election-pennsylvania-unfair/6118358002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1189,7 +1241,7 @@
       "originalUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 440,
+      "heat": 460,
       "tags": null,
       "images": [
         {
@@ -1391,63 +1443,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-lil-wayne-reveals-great-meeting-with-trump-prompting-twitter-users-to-respond.md",
-      "title": "Lil Wayne reveals 'great meeting' with Trump, prompting Twitter users to respond",
-      "excerpt": "Lil Wayne made a big splash on Twitter after he revealed that he met with Trump, sharing a friendly photo the two of them took together.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/lil-wayne-trump-great-meeting",
-      "originalUrl": "https://www.foxnews.com/entertainment/lil-wayne-trump-great-meeting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb131da2-ad30-4f80-b7cc-59e3a62cff91/3574cae3-8849-4391-9d48-6cad4e4fa991/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/lil-wayne-trump-great-meeting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/lil-wayne-trump-great-meeting.amp",
-      "publishedDateTime": "2020-10-29T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {

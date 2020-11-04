@@ -253,6 +253,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump comes out on top in Montana, netting another three electoral votes"
+    excerpt: "Big Sky Country has delivered a big win for President Trump, as the incumbent has come out on top in Montana, according to NBC News. Trump will take home the state’s three electoral votes,"
+    publishedDateTime: 2020-11-04T06:28:00Z
+    webUrl: "https://nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/"
+    ampWebUrl: "https://nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/Election_2020_Trump_21.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
     excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
     publishedDateTime: 2020-10-27T12:18:00Z

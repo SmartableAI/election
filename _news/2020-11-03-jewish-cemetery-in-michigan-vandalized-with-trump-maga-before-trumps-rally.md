@@ -31,37 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH LIVE: Trump speaks at campaign rally in Bullhead City, Arizona"
-    excerpt: "Trump weighed in on two nights of clashes with Philadelphia police and store break-ins following the fatal shooting by police of Walter Wallace Jr."
-    publishedDateTime: 2020-10-28T18:57:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+  - title: "Trump says he will score a 'big win,' accuses Democrats of trying to steal election"
+    excerpt: "Republican President Donald Trump, in a tweet early on Wednesday, predicted he will win a second four-year term and accused Democrats of attempting to \"steal\" the election from him, without citing any evidence."
+    publishedDateTime: 2020-11-04T06:28:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-tweet-idINKBN27K0MF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27K0MF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27K0MF"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 134
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539921175&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30DU"
+        width: 921
+        height: 545
         isCached: true
-  - title: "WATCH: Trump speaks at campaign rally in Goodyear, Arizona"
-    excerpt: "Trump paused his campaign speech in Bullhead City, Arizona to admire what he identified as a fighter jet flying by."
-    publishedDateTime: 2020-10-28T23:17:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
+    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
+    publishedDateTime: 2020-10-29T10:35:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Control of Senate at stake as Trump's allies face Democrats"
+    excerpt: "WASHINGTON -- Control of the Senate is a razor-close proposition in Tuesday's election, as Republicans fight to retain their majority against a surge of Democratic candidates confronting the president's allies across a vast political map."
+    publishedDateTime: 2020-11-03T12:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9f58d3900ad64f6a8d3d2804721a15e4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump is projected to win Louisiana"
+    excerpt: "Louisiana has eight electoral votes and is not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
+    publishedDateTime: 2020-11-04T02:11:00Z
+    webUrl: "https://www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa210bb69331a0011bc7278?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump projected to win Arkansas"
     excerpt: "The state holds six electoral votes and leans heavily Republican. Every member of Arkansas' Congressional delegation is a GOP member."
@@ -95,130 +127,122 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
-    excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
-    publishedDateTime: 2020-10-21T17:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5996029002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002"
+  - title: "Trump wins Indiana in presidential race"
+    excerpt: "President Trump has been projected to win the state of Indiana, according to CNN and NBC News. The president will pick up the Hoosier State's 11 electoral votes."
+    publishedDateTime: 2020-11-04T00:03:00Z
+    webUrl: "https://thehill.com/homenews/campaign/524215-trump-wins-indiana-in-presidential-race"
+    ampWebUrl: "https://thehill.com/homenews/campaign/524215-trump-wins-indiana-in-presidential-race?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/524215-trump-wins-indiana-in-presidential-race?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trump3_110220getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
+    excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
+    publishedDateTime: 2020-11-03T03:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/in-michigan-trump-kicks-off-frenzy-of-campaigning-two-days-before-election-idUSKBN27H12Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27H12R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27H12R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201101&t=2&i=1539602176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA01B3"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Ahead of U.S. poll, Trump ends a U.S. restriction applying to Israeli settlements"
+    excerpt: "The Trump administration lifted a decades-old ban on Wednesday that had prohibited U.S. taxpayer funding for Israeli scientific research conducted in Jewish settlements in occupied territory, drawing Palestinian condemnation."
+    publishedDateTime: 2020-10-28T14:37:00Z
+    webUrl: "https://www.reuters.com/article/worldNews/idUSKBN27D23Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D23Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D23Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539130142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R186"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump mistakenly introduced the rapper Lil Pump as 'Little Pimp' at his final campaign rally"
-    excerpt: "One of the big superstars of the world, Little Pimp!' said President Trump as he introduced the rapper Lil Pump."
-    publishedDateTime: 2020-11-03T22:15:00Z
-    webUrl: "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp"
+  - title: "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process"
+    excerpt: "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters."
+    publishedDateTime: 2020-10-28T21:35:00Z
+    webUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 114
+    quality: 110
     images:
-      - url: "https://i.insider.com/5fa14fc969331a0011bc6ea8?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f99df9069331a0011bc5ed3?width=1200&format=jpeg"
         width: 1200
-        height: 599
+        height: 600
         isCached: true
-  - title: "Livestream: Trump Holds Tuesday Rally In Michigan"
-    excerpt: "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing."
-    publishedDateTime: 2020-10-27T22:39:00Z
-    webUrl: "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan"
-    ampWebUrl: "https://patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump"
+  - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
+    excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
+    publishedDateTime: 2020-10-29T21:58:00Z
+    webUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 90
     images:
-      - url: "https://patch.com/img/cdn20/getty/566479/20201027/013957/styles/patch_image/public/gettyimages-1229304833___27133938792.jpg?width=984"
-        width: 896
-        height: 672
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
+        width: 800
+        height: 430
         isCached: true
-  - title: "Man arrested at Trump rally with South Dakota's Noem"
-    excerpt: "Police in Maine on Wednesday arrested a man who displayed two weapons at a campaign rally for President Donald Trump where South Dakota Gov. Kristi Noem was appearing. Noem spokeswoman Maggie Seidel said Noem's security detail engaged a man who had two weapons."
-    publishedDateTime: 2020-10-28T17:57:00Z
-    webUrl: "https://www.chron.com/news/article/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
+  - title: "Barbara Res helped build Trump Tower. She says she saw Donald Trump ignore experts and disrespect employees in her 18 years working with him."
+    excerpt: "Donald Trump has long displayed certain behaviors, says Barbara Res, whose new book \"Tower of Lies\" recounts almost 2 decades of working with him."
+    publishedDateTime: 2020-11-03T22:49:00Z
+    webUrl: "https://www.businessinsider.com/barbara-res-donald-trump-real-estate-trump-tower-2020-11"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Vice President Mike Pence to speak at rallies in Arizona on Friday"
-    excerpt: "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson."
-    publishedDateTime: 2020-10-29T05:16:00Z
-    webUrl: "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 75
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "WATCH LIVE: Trump Holds Rally in Tampa on Thursday"
-    excerpt: "President Donald Trump is scheduled to speak to supporters on Thursday afternoon in Tampa, Florida, before heading to an evening rally in Fayetteville, North Carolina."
-    publishedDateTime: 2020-10-29T22:12:00Z
-    webUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/"
-    ampWebUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 75
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1272406110-1200x801.jpg"
+      - url: "https://i.insider.com/5fa0958969331a0011bc6e16?width=1200&format=jpeg"
         width: 1200
-        height: 801
+        height: 600
         isCached: true
-  - title: "The Latest: Mrs. Trump Warms up Tampa Crowd at Trump Rally"
-    excerpt: "First lady Melania Trump is making her first joint campaign appearance of the year with her husband. Mrs. Trump warmed up the large crowd outside Raymond James Stadium in Tampa for President Donald Trump."
-    publishedDateTime: 2020-10-29T19:04:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
+    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
+    publishedDateTime: 2020-10-29T20:07:00Z
+    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 56
+    images:
+      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
+        width: 846
+        height: 571
+        isCached: true
+  - title: "Donald Trump Wins Wyoming"
+    excerpt: "Donald Trump wins Wyoming."
+    publishedDateTime: 2020-11-04T02:54:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-03/joe-biden-wins-vermont"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
-  - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
-    publishedDateTime: 2020-10-30T13:55:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-arizona"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence spoke at a Trump campaign rally in Flagstaff, Arizona. He criticized the Biden-Harris ticket and made the case for President Trump's re-election. The vice president was introduced by Senator Martha McSally (R-AZ)."
-    publishedDateTime: 2020-11-03T16:52:00Z
-    webUrl: "https://www.c-span.org/event/?477537/c2020-vice-president-pence-holds-rally-flagstaff-az"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
     quality: 35
 
 secured: "n1kx/zmAlgipO3DdV5hPO8l7AzliO1Yap/vhdZFzEdswz8NdcOi6qYjg0lSoJJ/oQ7FqL8NzCqidh9pU8UG47Agb8h4rnUUq6E+9VBVk3IuPbVpIZsMxM5YuTWIfOMWcG3a2trMH0OIMZoOvkFEIcUg/jEVmefp4rnoB8c6lpJIyjQm8SBqGNSNZ3WpwnEmTp4tv8hwGxGw7Ykwy0zCS3YaAIUKJHSP+tjz97ABYlEbpRo5zdXwhsTj3o5LiQwz+8Pm8ZuxEkRzCIv8si2D1Cp2LiXettm/2fme0DyaQzxVmEUvbcigj0Ei5fWxPM4GmfyMFfx+Tf78nOzDld9T97wwzjWrz4uiLz/LmXWI5n50=;6/ocnJhYLb0z9bf4JU3aaQ=="

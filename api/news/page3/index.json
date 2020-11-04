@@ -2,6 +2,166 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-03-election-2020-live-updates-trump-biden-blitz-swing-states-on-election-eve.md",
+      "title": "Election 2020 live updates: Trump, Biden blitz swing states on election eve",
+      "excerpt": "With one day until Nov. 3, President Donald Trump and former Vice President Joe Biden are crisscrossing battleground states, with the contest overshadowed by COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
+      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/president-trump-04-ap-jef-201101_1604267207507_hpMain_16x9_1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671",
+      "publishedDateTime": "2020-11-02T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-its-a-little-tough-out-here-trump-blitzes-must-win-states-with-perfected-rally-routine.md",
+      "title": "'It's a little tough out here': Trump blitzes must-win states with perfected rally routine",
+      "excerpt": "President Donald Trump was running late when he arrived here Sunday morning, wind howling and tiny drops of ice sticking to his face, to begin the second-to-last day of his final run for office.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027121426-donald-trump-1024-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html",
+      "publishedDateTime": "2020-11-02T06:53:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-inside-the-evolution-of-tiffany-trump-12-insiders-chart-her-life-from-upenn-to-rich-kids-of-instagram-to-the-white-house-era.md",
+      "title": "Inside the evolution of Tiffany Trump: 12 insiders chart her life from UPenn to 'Rich Kids of Instagram' to the White House era",
+      "excerpt": "While Tiffany kept a low profile in college, she fell into the public eye after she hit the NYC socialite scene and her father became president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11",
+      "originalUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f45be7942f43f001ddff0b5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11?amp",
+      "publishedDateTime": "2020-11-02T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-kamala-harris-equality-of-outcome-video-slammed-as-communism-pitch.md",
       "title": "Kamala Harris’ ‘equality of outcome’ video slammed as communism pitch",
       "excerpt": "A video made and shared by Democratic vice presidential candidate Kamala Harris is causing a stir on Twitter — for arguing in favor of the communist principle of equality of outcome. The",
@@ -115,7 +275,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/01/trump-well-send-lawyers-if-election-pennsylvania-unfair/6118358002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -371,7 +531,7 @@
       "originalUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 440,
+      "heat": 460,
       "tags": null,
       "images": [
         {
@@ -427,7 +587,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2804,
+      "heat": 2864,
       "tags": null,
       "images": [
         {
@@ -595,7 +755,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 510,
+      "heat": 530,
       "tags": null,
       "images": [
         {
@@ -1168,174 +1328,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
       "publishedDateTime": "2020-11-01T08:10:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-trump-campaign-adviser-lewandowski-predicts-clear-election-winner-with-trump-victories-in-major-swing-states.md",
-      "title": "Trump campaign adviser Lewandowski predicts clear election winner with Trump victories in major swing states",
-      "excerpt": "President Trump has warned that Americans may not learn the results of the presidential election until well after Election Day due to certain battleground states extending the deadline for accepting mailed ballots, but Trump campaign senior adviser Corey Lewandowski predicted that Trump will win so decisively",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/muP_8kyz5sk/trump-campaign-adviser-lewandowski-election-predictions-swing-states",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/muP_8kyz5sk/trump-campaign-adviser-lewandowski-election-predictions-swing-states",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be367b42-5921-461d-b8a2-7cd1b5de3963/800d4d41-4d0a-4de7-bd12-e9bff97e3c9d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-adviser-lewandowski-election-predictions-swing-states.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-adviser-lewandowski-election-predictions-swing-states.amp",
-      "publishedDateTime": "2020-11-01T07:08:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.md",
-      "title": "Trump, Ernst take leads over Dem challengers in Iowa poll",
-      "excerpt": "Just days before Election Day, both President Trump and U.S. Sen. Joni Ernst have pulled ahead of their Democratic challengers in the assessment of Iowa voters, a new poll shows.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80259ac2-43eb-438e-a2d5-2bdface5d4b2/bcc4294e-9b2c-457a-98ce-4d1de4a56c36/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
-      "publishedDateTime": "2020-10-31T23:47:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.md",
-      "title": "Ivanka Trump breaks Obama record on way to $35M-plus fundraising haul: reports",
-      "excerpt": "Ivanka Trump, White House senior adviser and first daughter, has reportedly raised tens of millions of dollars for her father’s reelection and even broke former President Obama’s single-day fundraising record at a Texas stop in September.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aNPNr4onWZY/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aNPNr4onWZY/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20302653297420.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.amp",
-      "publishedDateTime": "2020-10-31T20:53:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

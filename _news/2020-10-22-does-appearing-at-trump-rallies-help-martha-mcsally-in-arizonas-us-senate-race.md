@@ -63,54 +63,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Donald Trump projected to win Arkansas"
-    excerpt: "The state holds six electoral votes and leans heavily Republican. Every member of Arkansas' Congressional delegation is a GOP member."
-    publishedDateTime: 2020-11-04T01:58:00Z
-    webUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f96e5e94743a3001216b98c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump projected to win South Carolina"
-    excerpt: "The state has nine electoral votes and was not expected by analysts to be particularly competitive."
-    publishedDateTime: 2020-11-04T02:47:00Z
-    webUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f9734c84743a3001216bc2a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Jewish cemetery in Michigan vandalized with 'Trump,' 'MAGA' before Trump's rally"
-    excerpt: "Tombstones at the Ahavas Israel Cemetery in Grand Rapids were vandalized with \"Trump\" and \"MAGA\" before Trump arrived for his final campaign rally."
-    publishedDateTime: 2020-11-03T14:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/03/michigan-jewish-cemetery-desecrated-maga-before-trumps-rally/6135923002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6135923002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6135923002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e0eba4a9-c740-46cd-b451-c5a5115af8ab-AFP_AFP_8UF6ZT.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump mistakenly introduced the rapper Lil Pump as 'Little Pimp' at his final campaign rally"
     excerpt: "One of the big superstars of the world, Little Pimp!' said President Trump as he introduced the rapper Lil Pump."
     publishedDateTime: 2020-11-03T22:15:00Z
@@ -202,6 +154,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Vice President Pence Speaks at Trump Campaign Rally in Reno, Nevada"
+    excerpt: "Vice President Mike Pence spoke at a Trump campaign rally at the airport in Reno, Nevada."
+    publishedDateTime: 2020-11-04T06:21:00Z
+    webUrl: "https://www.c-span.org/video/?477488-1/vice-president-pence-speaks-trump-campaign-rally-reno-nevada"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
   - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
     publishedDateTime: 2020-10-30T13:55:00Z

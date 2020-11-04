@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/trump-not-thinking-of-election
 webUrl: "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85"
 type: article
 quality: 120
-heat: 160
+heat: 140
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/9e10db91-8ed7-4e5b-8599-6d7acec09e91-VPC_TRUMP_ON_WINNING_LOSING_DESK_THUMB.00_01_49_28.Still003.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
-    excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
-    publishedDateTime: 2020-10-29T21:58:00Z
-    webUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 90
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
-        width: 800
-        height: 430
         isCached: true
 
 secured: "M407TPPLklCfPNgFwOF0TcQKmYPygnPvfulrzx7m23WCGvLksKN4ve1McSBFf0FyG5z8YHEDKsvZ0vuOdHd+BwRu5jBRalTFChuvtvKcB8ZnS9lMZ6uHsfFJTG92DXrIGSz0AkWSYtwEzVIQiu1/jh+sR9Qm86CHtnMBp/vgpf5VYncIdg0NPbNENlCXCWrKSYgD64hfAk6MmaJ1fafPFlOQmjdh3v3UBxwu30qjQKV0I/bTY7a8fjpBUbTqhG6BWhYjWCb6iRUAFVAq4cPgGrJS64njle0+Y+tWZCVVdeu2hm5l+uqaIsaM1nI7NOu6bbqUVphBTLbwrSz+pOL60iVAbza7yxcMlHvbU2zQZm0=;P8cgxfhQGpQ+L5385ef0YQ=="

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process"
-    excerpt: "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters."
-    publishedDateTime: 2020-10-28T21:35:00Z
-    webUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5f99df9069331a0011bc5ed3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "3Ixl7nl/A4ltmVa/CxHTDpyB3AlC2CHal75kuoZO+UVXTDUSYMF4Kb2yeFjJBZW673fmjM5FNCgx+1bsB2GnwkQMjhUtAOl5VNExYvfq7DRLKOkx1oeFZycpFLM1+X61UwsdyoAkE+RN4l74OQUCd/tZZdRqVMCCPIBKi2twW1udH9OsRIctYO2rEPIfZ9y99JKQDjUZoI6N/HNnR0yPB6LSFUlxkCA/8yKIvX8XLiExYgJOJdgxl0mXZkawg7EpHmm5K7qnz9oBkz1QFIp8IZe1WP3KE+38yewZBS3zqGnAbL6RSf9tjWJmpCe4WlcUw/sV2+667dQVo8K9w55hNiCYv8cREOn6gFhJNK2Po+Q=;r0MFz5375PburgHoOFsM8A=="
 ---

@@ -47,6 +47,54 @@ related:
         width: 780
         height: 390
         isCached: true
+  - title: "Trump celebrates at White House as Supreme Court nominee confirmed"
+    excerpt: "President Donald Trump reveled in one of his signature achievements on Monday at a White House ceremony to celebrate U.S. Senate confirmation of his third Supreme Court nominee, Amy Coney Barrett, eight days before the election."
+    publishedDateTime: 2020-10-27T04:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett-idINKBN27A0CX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A0CX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A0CX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538916881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q02G"
+        width: 777
+        height: 545
+        isCached: true
+  - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
+    excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
+    publishedDateTime: 2020-10-24T22:53:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
+    excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
+    publishedDateTime: 2020-10-29T14:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/29/judge-brent-shore-florida-duval-county-vote-counting-head-trump-donations/6068234002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6068234002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6068234002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NFTU/7cb2302c-7824-4bb4-8511-52dba15d3133-IMG_7191.jpg?auto=webp&crop=4031,2267,x1,y90&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "19abbJdudvEuL3PZj0nqS5HzQ08SZ/mEs04UwU5eaBFhWjL0OoAZva0Q8s+ZDLrOHCHE4w6f+zDTxcsg5bJCdqlmvg4AZANEhZXAX8BqJXSM1rsSImaEk2HOfU2yx6kedKEvgewIQz2CeUts937q+VcbnRcpur9lhJobFzTHrflWF6fmxGYhkRhvcasrQ2z15zctHXIabp87LZpXaa72G5ZF5RnorpTAE+MO3zxbdmmhpd2K0324R02LsOnZzF3MLp3YsLAeB/ebhySpS0k1CSEeJ7SYVwcWBAuhP9sC0ttCwhe5rTdRLtM3++nIxBR2fxayPTEhMSLGX/L9aQyEBG2bByJHlHQU7EQlsmKZJ3sJC5CmOV9Nb5XlQsAKyF5Z3UfDNvi7S5bv8aE7yE089a5TgwvmiLDe00lIBudLhFimS78GbhVEdbmuHbnxDivmzYsSPxmSHV9DpBy7urlx9hk6SEXlsDzQva2OjZ4SczAyCPpY1MxJ+5sAEv9Dz1GvIYw4I4OiY9K98X+DEIUxcg==;ilb8klMfORI3zVAYE4KVxw=="
 ---

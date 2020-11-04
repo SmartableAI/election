@@ -207,6 +207,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Watch live: Biden speaks from Delaware"
+    excerpt: "Democratic presidential nominee Joe Biden speaks on election night from Wilmington, Del.The event is scheduled to begin at 12:45 a.m. EST.Watch the live video above."
+    publishedDateTime: 2020-11-04T05:37:00Z
+    webUrl: "https://thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware"
+    ampWebUrl: "https://thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10282020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Watch Live: NBC News town hall with Democratic presidential nominee Joe Biden"
     excerpt: "NBC News’ Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami, Florida. The event is scheduled to begin at 8:00 p."
     publishedDateTime: 2020-10-05T23:00:00Z

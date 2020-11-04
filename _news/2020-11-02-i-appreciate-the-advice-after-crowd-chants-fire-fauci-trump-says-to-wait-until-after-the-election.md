@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump has won Iowa"
+    excerpt: "Iowa has six electoral votes and was expected to be particularly competitive."
+    publishedDateTime: 2020-11-04T06:50:00Z
+    webUrl: "https://www.businessinsider.com/iowa-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/iowa-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iowa-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa23c701df1d50018218bf7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump’s New Executive Order May Make It Easier To Fire Scientists Like Fauci"
     excerpt: "Trump recently signed an Executive Order creating a Schedule F class of government employee that could have lasting implications even if former Vice-President Joe Biden were to win the upcoming election."
     publishedDateTime: 2020-10-26T08:44:00Z

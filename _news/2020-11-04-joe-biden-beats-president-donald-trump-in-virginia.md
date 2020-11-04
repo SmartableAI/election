@@ -6343,6 +6343,17 @@ related:
         width: 1680
         height: 876
         isCached: true
+  - title: "Donald Trump Defeats Joe Biden in Florida"
+    excerpt: "Despite supporting the Republican nominee in eight of the last 12 presidential elections, Florida is one of the most competitive battleground states in the U.S."
+    publishedDateTime: 2020-11-04T05:55:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-11-04/donald-trump-defeats-joe-biden-in-florida"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-11-04/donald-trump-defeats-joe-biden-in-florida?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-11-04/donald-trump-defeats-joe-biden-in-florida?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "GOP voters know ‘this election is between a good man and a bad man’ — and they’ve backing Trump anyway: Morning Joe"
     excerpt: "Even his supporters agree that President Donald Trump is a bad man, according to MSNBC’s Joe Scarborough, and believe Joe Biden is basically a good man. So why are they voting for Trump, anyway, the “Morning Joe” host asked historian Jon Meacham."
     publishedDateTime: 2020-10-22T11:39:00Z

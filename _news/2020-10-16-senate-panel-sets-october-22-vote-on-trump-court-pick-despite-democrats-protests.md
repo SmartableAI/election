@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2701AT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2701AT"
 type: article
 quality: 120
-heat: 160
+heat: 140
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.insider.com/5f8ac006d260780019342001?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump boasts Amy Coney Barrett was ‘toying’ with ‘evil’ Democrats"
-    excerpt: "President Donald Trump is bragging that his nominee for the U.S. Supreme Court, the supposedly non-partisan and non-political branch of government, was “toying” with the Democratic U.S. Senators on the Judiciary Committee this week."
-    publishedDateTime: 2020-10-15T23:20:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/barrett.jpg"
-        width: 800
-        height: 430
         isCached: true
 
 secured: "vNWrSIufRUveg2emx30QgVO99dOMi5zaDL+v7fiJnVjmhxFkO5oyMKP3RglSAPWd4NjuMS1JAFwWmZkLx6gF8SYdBIrt1Zd1ckAd9DHyYoMRVetY4l2AYb2scBpIkBfHl1xQMfnJ2ecP6JTVwtQ6suojraWbTflkDzAL4ItC1mvl5Ga07zHco0zSfEwQkQC0gVKD0hVf4lvp8qh9OPKidJJ1wyoV4ILdt1kheKaF6HdqgXDpMBRD9J0leFHdtZooB2cFypPL67iaPoFTjZ9Sz7kqwRzkW743KdI5xxr9m1jV0O5d+4WRcJ9G4Q1bzhu8jSZdPcoRkmJxwnqvG+JuJGWlOE6Xn4xab4qsnnc+VGU=;Qz38f6WfhWFuL//WJ3V8WQ=="

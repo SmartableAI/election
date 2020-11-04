@@ -239,22 +239,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
-    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
-    publishedDateTime: 2020-10-13T12:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump's Hollywood star vandalized with a pickaxe hours after he tests positive for COVID-19"
     excerpt: "A person dressed in a Hulk costume smashed President Trump's Hollywood Walk of Fame star with a pickaxe on Friday."
     publishedDateTime: 2020-10-03T15:08:00Z
@@ -318,22 +302,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76d26c313d5c11f3e9d070%2F0x0.jpg%3FcropX1%3D51%26cropX2%3D831%26cropY1%3D0%26cropY2%3D439"
         width: 780
         height: 439
-        isCached: true
-  - title: "Sen. Mike Lee, who met with Trump Supreme Court pick Amy Coney Barrett, tests positive for COVID-19"
-    excerpt: "Utah, a member of the Senate Judiciary Committee, announced in a statement Friday he received a positive COVID-19 test."
-    publishedDateTime: 2020-10-02T17:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/covid-19-mike-lee-tests-positive-gop-seeks-barrett-confirmation/3590455001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3590455001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3590455001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/da1ee30e-b77d-42da-909d-b6d919492ddf-GTY_1228790928.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Your questions about Trump and COVID-19, answered: When did he test positive? Does he have symptoms?"
     excerpt: "Our readers from across the US are asking important questions about President Trump's positive COVID-19 test. We answer your questions."
@@ -574,22 +542,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/e509f056-849b-436d-aad7-f0614261ba9a-Amy_Coney_Barrett_05.JPG?auto=webp&crop=4766,2681,x0,y7&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump and Sen. Mike Lee's positive COVID-19 tests spark worries over Amy Coney Barrett confirmation, but GOP moving forward anyway"
-    excerpt: "Democrats say Supreme Court hearings are \"premature\" after GOP Sen. Mike Lee tested positive for COVID-19 following a meeting with Amy Coney Barrett."
-    publishedDateTime: 2020-10-02T23:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/amy-coney-barrett-covid-19-not-slowing-down-confirmation-process/3592280001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592280001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592280001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/da1ee30e-b77d-42da-909d-b6d919492ddf-GTY_1228790928.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
         isCached: true
   - title: "'I could be one of the diers': Trump recognized own mortality after COVID-19 diagnosis, according to a report from New York Magazine"
     excerpt: "\"This thing could go either way,\" Trump said, according to New York Magazine's Intelligencer. \"It's tricky. They told me it's tricky. You can tell it can go either way.\""

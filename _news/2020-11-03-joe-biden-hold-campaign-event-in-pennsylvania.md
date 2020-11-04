@@ -61,6 +61,22 @@ related:
         width: 1024
         height: 717
         isCached: true
+  - title: "Early reaction from Florida: Biden lost ground with crucial Cuban voters"
+    excerpt: "Dade, Florida's most populous county, show Democrat Biden underperforming when compared to Hillary Clinton's election totals in 2016. Political analysts on the ground saw signs of a new phenomenon: Some Hispanic voters,"
+    publishedDateTime: 2020-11-04T06:10:00Z
+    webUrl: "https://abcnews.go.com/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
+    ampWebUrl: "https://abcnews.go.com/amp/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/2020-election-14-miami-dade-florida-rtr-jc-201103_1604449607408_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Florida man says he was fired for revealing company warned of layoffs if Biden wins"
     excerpt: "A worker in central Florida was allegedly fired for revealing a letter from his boss to company employees warning of layoffs if Democratic presidential candidate Joe Biden wins the election."
     publishedDateTime: 2020-10-23T23:27:00Z

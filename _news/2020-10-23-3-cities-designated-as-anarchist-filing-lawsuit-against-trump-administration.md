@@ -29,198 +29,81 @@ images:
     isCached: true
 
 related:
-  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
-    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
-    publishedDateTime: 2020-10-29T10:35:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump celebrates at White House as Supreme Court nominee confirmed"
-    excerpt: "President Donald Trump reveled in one of his signature achievements on Monday at a White House ceremony to celebrate U.S. Senate confirmation of his third Supreme Court nominee, Amy Coney Barrett, eight days before the election."
-    publishedDateTime: 2020-10-27T04:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-barrett-idINKBN27A0CX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A0CX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A0CX"
+  - title: "Trump administration sets Gulf of Mexico drilling auction for Nov. 18"
+    excerpt: "The Trump administration on Thursday said it would offer all available areas in the Gulf of Mexico for auction to oil and gas drillers on Nov. 18, the first major test of the offshore sector's appetite for investment since early this year."
+    publishedDateTime: 2020-10-15T19:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN2702SX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702SX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702SX"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538916881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q02G"
-        width: 777
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537642428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1PZ"
+        width: 908
         height: 545
         isCached: true
-  - title: "Trump remakes Supreme Court as Senate confirms Amy Coney Barrett"
-    excerpt: "The Republican-led U.S. Senate handed President Donald Trump a major pre-election political victory on Monday by confirming his Supreme Court nominee Amy Coney Barrett as he delivered a dramatic conservative overhaul of the nation's top judicial body."
-    publishedDateTime: 2020-10-27T00:30:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN27C00H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C00H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C00H"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538910364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q009"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Control of Senate at stake as Trump's allies face Democrats"
-    excerpt: "WASHINGTON -- Control of the Senate is a razor-close proposition in Tuesday's election, as Republicans fight to retain their majority against a surge of Democratic candidates confronting the president's allies across a vast political map."
-    publishedDateTime: 2020-11-03T12:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
+  - title: "Trump administration rejects California's request for wildfire disaster assistance"
+    excerpt: "The federal government has denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
+    publishedDateTime: 2020-10-16T10:11:00Z
+    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 119
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9f58d3900ad64f6a8d3d2804721a15e4_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump's appointee Barrett takes part in first Supreme Court arguments"
-    excerpt: "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is"
-    publishedDateTime: 2020-11-02T16:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27I24T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I24T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I24T"
+  - title: "Trump administration reverses course on California's request for wildfire disaster assistance"
+    excerpt: "The federal government had denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
+    publishedDateTime: 2020-10-17T02:33:00Z
+    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 114
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539694713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA118G"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Twitter, Facebook flag Trump post questioning Supreme Court voting decision"
-    excerpt: "Twitter <TWTR.N> and Facebook <FB.O> late on Monday both flagged a post by President Donald Trump that called a U.S. Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
-    publishedDateTime: 2020-11-03T04:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-trump-twitt/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-idUKKBN27J051"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27J051"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J051"
+  - title: "Trump administration replaced 'pandemic playbook,' then ignored aspects of its own plans"
+    excerpt: "The White House and federal health officials said they did not throw out the pandemic playbook left to them by the Obama administration, but used more recent reports to guide them as they responded to COVID-19."
+    publishedDateTime: 2020-10-14T11:40:00Z
+    webUrl: "https://www.jsonline.com/story/news/2020/10/14/trump-ditched-obama-pandemic-plan-but-ignored-aspects-his-own/5953152002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5953152002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5953152002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 66
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539740510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA202M"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
-    excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
-    publishedDateTime: 2020-10-24T22:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
-    excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
-    publishedDateTime: 2020-10-29T14:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/29/judge-brent-shore-florida-duval-county-vote-counting-head-trump-donations/6068234002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6068234002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6068234002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NFTU/7cb2302c-7824-4bb4-8511-52dba15d3133-IMG_7191.jpg?auto=webp&crop=4031,2267,x1,y90&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/01/PMJS/25158114-05cc-4799-bb45-671f3fff94a7-MJS_trump_2_hoffman.jpg_trump.JPG?auto=webp&crop=2399,1349,x1,y13&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump calls Supreme Court voting decision 'horrendous'"
-    excerpt: "Rough Cuts Trump calls Supreme Court voting decision 'horrendous' Posted . U.S. President Donald Trump told reporters in Wisconsin on Monday that a recent Supreme Court decision o"
-    publishedDateTime: 2020-11-03T09:43:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD30QSWV"
+  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
+    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
+    publishedDateTime: 2020-10-14T13:00:00Z
+    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
+    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QSWV&r=OVD30QSWV&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Twitter flags Trump tweet questioning Supreme Court decision on voting in Pennsylvania"
-    excerpt: "Twitter Inc late on Monday flagged a tweet by U.S. President Donald Trump in which he called a Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
-    publishedDateTime: 2020-11-03T06:21:00Z
-    webUrl: "https://www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-  - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
-    excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."
-    publishedDateTime: 2020-10-28T02:43:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 96
-    images:
-      - url: "https://www.chicagotribune.com/resizer/9T6xM9WwzncJC1U9YusfCXeCFF0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSWZ6OW4UASM2Y33DIGJOP55QE.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
-    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
-    publishedDateTime: 2020-10-29T20:07:00Z
-    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 56
-    images:
-      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
-        width: 846
-        height: 571
-        isCached: true
-  - title: "President Donald Trump Wins West Virginia's Electoral Votes"
-    excerpt: "President Donald Trump eased to victory in West Virginia to take its five electoral votes. He had been widely expected to defeat Democrat Joe Biden in a state that backed him in 2016 with 68% of the vote."
-    publishedDateTime: 2020-11-04T00:40:00Z
-    webUrl: "https://www.usnews.com/news/best-states/west-virginia/articles/2020-11-03/president-donald-trump-wins-west-virginias-electoral-votes"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: AZFamily
+      domain: azfamily.com
+    quality: 22
 
 secured: "pIbKH8Clkd04X5yRQmA6pAMcyPWPcle8PZhV9FFmCmDOLdxEKuo8HwUGPyR3HIOrtPCrFs/TW054wY50gPh++VLjnvNpRLUu3Wwn+whIYSDooyIFEvCzm/6wmOoZZpMMJG8Iz70mBsBzaiLcP8B8hMmIxoLQYlu9PAwfE90x2j+Im2pg/nWWe5aj8V2y4toUHG0RljwHRxu8YW1yEhGfdVdC+LN4SVwNW4R12faIWrzCcxJqY2F3BoNYf7I4LytED71K+pwQuzHRYE1DJHk0vDOLHrTTUS+OcNqejbjUCTmZxHTTB94VTaLFi6iHvArcyMLJthGdXLrjJUp4KxphYYFOGN8fVMn7ebtwcKJ+uKE=;GAX+inonTWjOvKV/JAG/Bg=="
 ---

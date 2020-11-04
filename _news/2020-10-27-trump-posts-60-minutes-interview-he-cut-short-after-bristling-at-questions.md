@@ -1136,6 +1136,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "NBC News projects Trump will win Texas, Biden leads Minnesota"
+    excerpt: "NBC News has projected that President Trump will win the state of Texas. Joe Biden is leading in Minnesota and Arizona but still too early to call."
+    publishedDateTime: 2020-11-04T06:35:00Z
+    webUrl: "https://www.nbcnews.com/video/nbc-news-projects-trump-will-win-texas-biden-leads-minnesota-95284293985"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95284293985"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95284293985"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_mo_2020_trump_texas_201103_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden campaign: ‘Under no scenario’ will Trump be declared a winner on election night."
     excerpt: "Under no scenario will Donald Trump be declared a victor on election night,” said Jennifer O’Malley Dillon, Joseph R. Biden Jr.’s campaign manager, in a briefing on Monday. “When Donald Trump says that ballots counted after midnight should be invalidated,"
     publishedDateTime: 2020-11-03T15:21:00Z
@@ -1391,6 +1407,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "NBC News projects Trump will win Montana, Biden will win Rhode Island"
+    excerpt: "NBC News projects that President Trump will win Montana and Joe Biden will win Rhode Island in the 2020 presidential election."
+    publishedDateTime: 2020-11-04T06:43:00Z
+    webUrl: "https://www.nbcnews.com/video/nbc-news-projects-trump-will-win-montana-biden-will-win-rhode-island-95287365618"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95287365618"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95287365618"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_mo_2020_trump_montana_201103_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "NBC News projects Trump wins South Dakota, Biden wins Colorado"
     excerpt: "NBC News has projected that President Trump will win the state of South Dakota and Joe Biden will win the state of Colorado."
@@ -1771,6 +1803,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/02/business/02distortions-video/02distortions-video-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Which Battleground States Did Trump Win in 2016?"
+    excerpt: "As results of the United States presidential election began to roll in on Tuesday, many Americans were wondering how President Trump’s performance in key swing states compared with his performance in those states in the 2016 election."
+    publishedDateTime: 2020-11-04T06:07:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-2016-battleground-states.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-2016-battleground-states.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-2016-battleground-states.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04breakout-battleground-states-sub/merlin_179552880_8e1b93c1-650c-45a3-9c7b-ca42a25f515a-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

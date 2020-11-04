@@ -43,22 +43,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
-    excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
-    publishedDateTime: 2020-10-29T21:58:00Z
-    webUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 90
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
-        width: 800
-        height: 430
-        isCached: true
 
 secured: "zIQvom6sRsxlaGCbtJ1icALiIw7aeVOiZW02LcWj37xd6yPZFMXHfHYmgNeP+tGMVoRb0kYyc8oYHexaH4okcedav2cXWEp+PD8eclwd5kzBNV9ejo/tn9493xXR5l338N3kqDuxjkCbAhpU0CYjT1id/HsMmvU3RE5wjFkIhowsFO80kk2Z6S1sFT4AC5104Dd9WFanBvc6J8qSt7gISCTVKKtUhMp+DKWwufFJ4h7L0pihU+ea6r/sJtbCQNKdiRnVSy27dHNbLzr1cDR6vlOwMVtz8w4GS+6UwapYD6auy52BDXyd+SzzQQ99FDDRK2hK44jNugac98qwoG6VIr9RnhonmQ5FtTJRXZS/c6o=;u26/u3be3HuEyQQ41BqJAw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamal
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view?_amp=true"
 type: article
 quality: 149
-heat: 2949
+heat: 2969
 published: true
 
 provider:
@@ -1637,6 +1637,20 @@ related:
       - url: "https://www.mcall.com/resizer/mupEnwvY394hXCmSwUEJB6vK_sg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7AUWGFOTYURH54VAIFOMGR274.jpg"
         width: 1200
         height: 786
+        isCached: true
+  - title: "Enthusiasm for Kamala Harris is strong among Black women voters"
+    excerpt: "LesleyAnne Crosby of Minneapolis gathered with a small group of Black women in St. Paul to witness the possibility of Kamala Harris becoming the first Black woman to become vice president. Sondra Samuels raced out the morning of Election Day to buy Chuck Taylor shoes."
+    publishedDateTime: 2020-11-04T05:47:00Z
+    webUrl: "https://www.startribune.com/enthusiasm-for-kamala-harris-is-strong-among-black-women-voters/572965532/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/ows_a54acef6-13a8-42d5-b04b-3edc1705f668.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
   - title: "‘Everything is at stake,’ Democratic VP candidate Kamala Harris tells supporters at Lehigh Valley drive-in rally"
     excerpt: "Democratic vice presidential nominee Kamala Harris vowed Monday in Northampton County that she and Joe Biden would unite a polarized country, expand healthcare access and invest in working families if Pennsylvania voters help oust Donald Trump on Tuesday."

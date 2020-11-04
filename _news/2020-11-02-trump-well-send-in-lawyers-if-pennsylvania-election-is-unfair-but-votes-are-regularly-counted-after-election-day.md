@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6118358002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6118358002"
 type: article
 quality: 118
-heat: 158
+heat: 138
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process"
-    excerpt: "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters."
-    publishedDateTime: 2020-10-28T21:35:00Z
-    webUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5f99df9069331a0011bc5ed3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "To some Pennsylvania voters, Donald Trump is a threat to democracy. To others, he’s a regular guy for the regular people"
     excerpt: "“One thing, they’re really reviving venues,” one guy said. “When Donald Trump Jr. was here last week at the bandshell — when’s the last time anyone saw anything at the bandshel"
     publishedDateTime: 2020-10-11T16:20:00Z

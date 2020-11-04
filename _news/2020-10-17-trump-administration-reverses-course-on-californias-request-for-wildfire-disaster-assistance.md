@@ -63,6 +63,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "3 Cities Designated As 'Anarchist' Filing Lawsuit Against Trump Administration"
+    excerpt: "After months of street protests, President Trump described New York City, Portland and Seattle as lawless places and threatened to withhold federal aid. City officials say the law is on their side."
+    publishedDateTime: 2020-10-22T18:38:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 101
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/22/ap_20133094368037_wide-0ecc215828e095c74a18670fb311744097545173.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump administration replaced 'pandemic playbook,' then ignored aspects of its own plans"
     excerpt: "The White House and federal health officials said they did not throw out the pandemic playbook left to them by the Obama administration, but used more recent reports to guide them as they responded to COVID-19."
     publishedDateTime: 2020-10-14T11:40:00Z

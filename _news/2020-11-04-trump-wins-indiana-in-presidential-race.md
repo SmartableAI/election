@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lifts tariffs on Canadian aluminum, warns he may resume them"
-    excerpt: "U.S. President Donald Trump issued a proclamation on Tuesday formally removing tariffs on raw aluminum imports from Canada but threatening to reinstate them if there was a surge in imports of the metal across the northern U."
-    publishedDateTime: 2020-10-28T00:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-canada-aluminum-idINKBN27C2TA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27C2TA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27C2TA"
+  - title: "Trump says he will score a 'big win,' accuses Democrats of trying to steal election"
+    excerpt: "Republican President Donald Trump, in a tweet early on Wednesday, predicted he will win a second four-year term and accused Democrats of attempting to \"steal\" the election from him, without citing any evidence."
+    publishedDateTime: 2020-11-04T06:28:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-tweet-idINKBN27K0MF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27K0MF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27K0MF"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 134
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539024638&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1SE"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539921175&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30DU"
+        width: 921
+        height: 545
+        isCached: true
+  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
+    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
+    publishedDateTime: 2020-10-29T10:35:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
         width: 817
         height: 545
+        isCached: true
+  - title: "Control of Senate at stake as Trump's allies face Democrats"
+    excerpt: "WASHINGTON -- Control of the Senate is a razor-close proposition in Tuesday's election, as Republicans fight to retain their majority against a surge of Democratic candidates confronting the president's allies across a vast political map."
+    publishedDateTime: 2020-11-03T12:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9f58d3900ad64f6a8d3d2804721a15e4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Donald Trump is projected to win Louisiana"
     excerpt: "Louisiana has eight electoral votes and is not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
@@ -63,51 +95,145 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Scorned by Trump, many Nigerians love him all the same"
-    excerpt: "Hundreds of men and women marched, clad in T-shirts supporting U.S. President Donald Trump or pink fabric dresses bearing the image of Jesus, as they waved American flags, Republican presidential campaign signs,"
-    publishedDateTime: 2020-11-04T00:09:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-nigeria-idUSKBN27J0S2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J0S2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0S2"
+  - title: "Donald Trump projected to win Arkansas"
+    excerpt: "The state holds six electoral votes and leans heavily Republican. Every member of Arkansas' Congressional delegation is a GOP member."
+    publishedDateTime: 2020-11-04T01:58:00Z
+    webUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f96e5e94743a3001216b98c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump projected to win South Carolina"
+    excerpt: "The state has nine electoral votes and was not expected by analysts to be particularly competitive."
+    publishedDateTime: 2020-11-04T02:47:00Z
+    webUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f9734c84743a3001216bc2a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
+    excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
+    publishedDateTime: 2020-11-03T03:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/in-michigan-trump-kicks-off-frenzy-of-campaigning-two-days-before-election-idUSKBN27H12Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27H12R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27H12R"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539778529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA20KE"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201101&t=2&i=1539602176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA01B3"
         width: 817
         height: 545
         isCached: true
-  - title: "Ex-Trump aide Manafort beats Manhattan prosecutor's bid to revive NY fraud charges"
-    excerpt: "A New York appeals court on Thursday upheld the dismissal of state fraud charges against Paul Manafort, saying that reviving the case against U.S. President Donald Trump's former campaign chairman would violate double jeopardy rules."
-    publishedDateTime: 2020-10-22T19:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-manafort-idUSKBN2772UT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2772UT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2772UT"
+  - title: "Ahead of U.S. poll, Trump ends a U.S. restriction applying to Israeli settlements"
+    excerpt: "The Trump administration lifted a decades-old ban on Wednesday that had prohibited U.S. taxpayer funding for Israeli scientific research conducted in Jewish settlements in occupied territory, drawing Palestinian condemnation."
+    publishedDateTime: 2020-10-28T14:37:00Z
+    webUrl: "https://www.reuters.com/article/worldNews/idUSKBN27D23Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D23Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D23Z"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 119
+    quality: 120
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538504910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1LU"
-        width: 837
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539130142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R186"
+        width: 817
         height: 545
         isCached: true
-  - title: "CBS News projects Pres. Trump wins Indiana"
-    excerpt: "Watch \"CBS News projects Pres. Trump wins Indiana\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-04T02:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201104014307-cbs-news-projects-pres-trump-wins-indiana/"
+  - title: "Jewish cemetery in Michigan vandalized with 'Trump,' 'MAGA' before Trump's rally"
+    excerpt: "Tombstones at the Ahavas Israel Cemetery in Grand Rapids were vandalized with \"Trump\" and \"MAGA\" before Trump arrived for his final campaign rally."
+    publishedDateTime: 2020-11-03T14:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/03/michigan-jewish-cemetery-desecrated-maga-before-trumps-rally/6135923002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6135923002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6135923002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07533968_1604454424.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e0eba4a9-c740-46cd-b451-c5a5115af8ab-AFP_AFP_8UF6ZT.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process"
+    excerpt: "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters."
+    publishedDateTime: 2020-10-28T21:35:00Z
+    webUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5f99df9069331a0011bc5ed3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
+    excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
+    publishedDateTime: 2020-10-29T21:58:00Z
+    webUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 90
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Barbara Res helped build Trump Tower. She says she saw Donald Trump ignore experts and disrespect employees in her 18 years working with him."
+    excerpt: "Donald Trump has long displayed certain behaviors, says Barbara Res, whose new book \"Tower of Lies\" recounts almost 2 decades of working with him."
+    publishedDateTime: 2020-11-03T22:49:00Z
+    webUrl: "https://www.businessinsider.com/barbara-res-donald-trump-real-estate-trump-tower-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/5fa0958969331a0011bc6e16?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
+    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
+    publishedDateTime: 2020-10-29T20:07:00Z
+    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 56
+    images:
+      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
+        width: 846
+        height: 571
         isCached: true
   - title: "Donald Trump Wins Wyoming"
     excerpt: "Donald Trump wins Wyoming."

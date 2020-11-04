@@ -73,6 +73,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump has won Iowa"
+    excerpt: "Iowa has six electoral votes and was expected to be particularly competitive."
+    publishedDateTime: 2020-11-04T06:50:00Z
+    webUrl: "https://www.businessinsider.com/iowa-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/iowa-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iowa-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa23c701df1d50018218bf7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'I appreciate the advice': After crowd chants 'Fire Fauci!' Trump says to wait until after the election"
     excerpt: "\"Let me wait 'til a little bit after the election, please,\" Trump told the crowd, which had started a resounding chant of \"fire Fauci!\""
     publishedDateTime: 2020-11-02T13:46:00Z

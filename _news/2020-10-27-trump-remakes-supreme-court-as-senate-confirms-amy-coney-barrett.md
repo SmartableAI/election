@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C00H"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C00H"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 325
+published: true
 
 provider:
   name: Reuters
@@ -31,54 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
-    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
-    publishedDateTime: 2020-10-29T10:35:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump celebrates at White House as Supreme Court nominee confirmed"
-    excerpt: "President Donald Trump reveled in one of his signature achievements on Monday at a White House ceremony to celebrate U.S. Senate confirmation of his third Supreme Court nominee, Amy Coney Barrett, eight days before the election."
-    publishedDateTime: 2020-10-27T04:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-barrett-idINKBN27A0CX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A0CX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A0CX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538916881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q02G"
-        width: 777
-        height: 545
-        isCached: true
-  - title: "Control of Senate at stake as Trump's allies face Democrats"
-    excerpt: "WASHINGTON -- Control of the Senate is a razor-close proposition in Tuesday's election, as Republicans fight to retain their majority against a surge of Democratic candidates confronting the president's allies across a vast political map."
-    publishedDateTime: 2020-11-03T12:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9f58d3900ad64f6a8d3d2804721a15e4_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump's appointee Barrett takes part in first Supreme Court arguments"
     excerpt: "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is"
     publishedDateTime: 2020-11-02T16:53:00Z
@@ -95,132 +47,148 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Twitter, Facebook flag Trump post questioning Supreme Court voting decision"
-    excerpt: "Twitter <TWTR.N> and Facebook <FB.O> late on Monday both flagged a post by President Donald Trump that called a U.S. Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
-    publishedDateTime: 2020-11-03T04:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-trump-twitt/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-idUKKBN27J051"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27J051"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J051"
+  - title: "Trump plans second White House event for Barrett as Senate takes up nomination"
+    excerpt: "The White House on Monday planned a celebration to celebrate the Republican Senate's expected confirmation of President Donald Trump's conservative nominee Amy Coney Barrett to the Supreme Court, one a month after a similar event was linked to a COVID-19 outbreak that"
+    publishedDateTime: 2020-10-26T15:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett/update-1-trump-plans-second-white-house-event-for-barrett-as-senate-takes-up-nomination-idUSL1N2HH17E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B143"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B143"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 123
+    quality: 121
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539740510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA202M"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538830036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P0RV"
         width: 817
         height: 545
         isCached: true
-  - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
-    excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
-    publishedDateTime: 2020-10-24T22:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
-    excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
-    publishedDateTime: 2020-10-29T14:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/29/judge-brent-shore-florida-duval-county-vote-counting-head-trump-donations/6068234002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6068234002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6068234002"
+  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
+    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 113
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NFTU/7cb2302c-7824-4bb4-8511-52dba15d3133-IMG_7191.jpg?auto=webp&crop=4031,2267,x1,y90&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump calls Supreme Court voting decision 'horrendous'"
-    excerpt: "Rough Cuts Trump calls Supreme Court voting decision 'horrendous' Posted . U.S. President Donald Trump told reporters in Wisconsin on Monday that a recent Supreme Court decision o"
-    publishedDateTime: 2020-11-03T09:43:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD30QSWV"
+  - title: "Sen. Mike Lee, who met with Trump Supreme Court pick Amy Coney Barrett, tests positive for COVID-19"
+    excerpt: "Utah, a member of the Senate Judiciary Committee, announced in a statement Friday he received a positive COVID-19 test."
+    publishedDateTime: 2020-10-02T17:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/covid-19-mike-lee-tests-positive-gop-seeks-barrett-confirmation/3590455001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3590455001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3590455001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/da1ee30e-b77d-42da-909d-b6d919492ddf-GTY_1228790928.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Fact check: Senate Republicans moving to confirm Trump's Supreme Court nominee but blocked Obama's"
+    excerpt: "A claim addressing the double standard for consideration of the two presidents' Supreme Court nominees was correct on substance, off on timing."
+    publishedDateTime: 2020-10-20T23:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-gop-senators-blocked-nomination-merrick-garland-2016/5916555002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5916555002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5916555002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/17/USAT/304f1850-0bf1-4dd3-8a14-837260789dff-AP_17128533809612.jpg?auto=webp&crop=1701,957,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump rejoices as Senate panel approves Barrett while Democrats boycott"
+    excerpt: "U.S. Senator Mike Lee (R-UT) speaks with Senate Judiciary Committee Chairman Lindsey Graham (R-SC) at a Senate Judiciary Committee meeting on the nomination of Judge Amy Coney Barrett to be an associ"
+    publishedDateTime: 2020-10-22T18:15:00Z
+    webUrl: "https://www.reuters.com/news/picture/trump-rejoices-as-senate-panel-approves-idUSKBN2771B6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QSWV&r=OVD30QSWV&t=2"
-        width: 960
-        height: 540
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538471929&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L17U"
+        width: 810
+        height: 521
         isCached: true
-  - title: "3 Cities Designated As 'Anarchist' Filing Lawsuit Against Trump Administration"
-    excerpt: "After months of street protests, President Trump described New York City, Portland and Seattle as lawless places and threatened to withhold federal aid. City officials say the law is on their side."
-    publishedDateTime: 2020-10-22T18:38:00Z
-    webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 101
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/22/ap_20133094368037_wide-0ecc215828e095c74a18670fb311744097545173.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Twitter flags Trump tweet questioning Supreme Court decision on voting in Pennsylvania"
-    excerpt: "Twitter Inc late on Monday flagged a tweet by U.S. President Donald Trump in which he called a Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
-    publishedDateTime: 2020-11-03T06:21:00Z
-    webUrl: "https://www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11?amp"
+  - title: "Trump will host another White House gathering for Amy Coney Barrett even though the 1st one became a COVID-19 superspreader event"
+    excerpt: "White House chief of staff Mark Meadows said the event will be held outdoors and that the White House would urge people to maintain social distance."
+    publishedDateTime: 2020-10-26T16:39:00Z
+    webUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 97
-  - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
-    excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."
-    publishedDateTime: 2020-10-28T02:43:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
     quality: 96
     images:
-      - url: "https://www.chicagotribune.com/resizer/9T6xM9WwzncJC1U9YusfCXeCFF0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSWZ6OW4UASM2Y33DIGJOP55QE.aspx"
+      - url: "https://i.insider.com/5f96d54b4743a3001216b920?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
-    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
-    publishedDateTime: 2020-10-29T20:07:00Z
-    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
+  - title: "Trump and Sen. Mike Lee's positive COVID-19 tests spark worries over Amy Coney Barrett confirmation, but GOP moving forward anyway"
+    excerpt: "Democrats say Supreme Court hearings are \"premature\" after GOP Sen. Mike Lee tested positive for COVID-19 following a meeting with Amy Coney Barrett."
+    publishedDateTime: 2020-10-02T23:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/amy-coney-barrett-covid-19-not-slowing-down-confirmation-process/3592280001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592280001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592280001"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 56
+      name: USA Today
+      domain: usatoday.com
+    quality: 95
     images:
-      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
-        width: 846
-        height: 571
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/da1ee30e-b77d-42da-909d-b6d919492ddf-GTY_1228790928.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "President Donald Trump Wins West Virginia's Electoral Votes"
-    excerpt: "President Donald Trump eased to victory in West Virginia to take its five electoral votes. He had been widely expected to defeat Democrat Joe Biden in a state that backed him in 2016 with 68% of the vote."
-    publishedDateTime: 2020-11-04T00:40:00Z
-    webUrl: "https://www.usnews.com/news/best-states/west-virginia/articles/2020-11-03/president-donald-trump-wins-west-virginias-electoral-votes"
+  - title: "Trump boasts Amy Coney Barrett was ‘toying’ with ‘evil’ Democrats"
+    excerpt: "President Donald Trump is bragging that his nominee for the U.S. Supreme Court, the supposedly non-partisan and non-political branch of government, was “toying” with the Democratic U.S. Senators on the Judiciary Committee this week."
+    publishedDateTime: 2020-10-15T23:20:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/barrett.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Amy Coney Barrett, Mike Pence, Tropical Storm Zeta: 5 things to know Monday"
+    excerpt: "Amy Coney Barrett is poised to become the ninth Supreme Court justice, Tropical Storm Zeta expected to develop into a hurricane and more things to start your Monday."
+    publishedDateTime: 2020-10-26T08:19:00Z
+    webUrl: "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/"
+    ampWebUrl: "https://amp.freep.com/amp/6031654002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6031654002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "5Qz611r2RuGfh9kOdZHZ4nJw7Yfn+BM9XT4liuWCBStsQVGA6QPRLuNwk3eNkohPeh+OLDVmlDt8pxHo+5Mk6Pz9zqjfihm2o8riutfYlBg9fNMkpGRD2PU1UGT715fu9tSCodjDq+AMS3blEnKSdRxPh5c64bbjZCIB8Es1FTmts2C9/EuMEM4s1VHpAfjDnXgkikoikuZldRJRc1mDFWZJmjX812dcVPDu6tVFtRnufM91OYg3fC7jf+RMmlwOl2XehP75xLXEyj9rH6WXc+lNsyD9rcsaEfyCUvXZUYEhf4SCheciX8AlWXkhmcfUfh+AzPssqi8nK3oJuDeTLi56BD2dvPxbCwFFiPN5/Ds=;LW5zkuK4OP+DaJGMEm5dAw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-florida-high-school-district-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3706f679-6725-4e41-8b0b-4117586db841/b2fef4ae-3f28-4dc1-bcf7-a4111b0ab125/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump gains in Florida polls despite Democrats lead in early voting"
-    excerpt: "President Trump is leading for the first time in Florida polling, according to Real Clear Politics on Tuesday, even as Democrats lead in early voting."
-    publishedDateTime: 2020-10-28T01:17:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/96MEjXZ5sOA/trump-gains-in-florida-polls-despite-democrats-lead-in-early-voting"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split.jpg"
         width: 1280
         height: 720
         isCached: true

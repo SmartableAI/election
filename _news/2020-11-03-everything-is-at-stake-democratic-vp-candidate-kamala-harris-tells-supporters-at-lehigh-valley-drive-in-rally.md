@@ -1649,6 +1649,20 @@ related:
         width: 1200
         height: 786
         isCached: true
+  - title: "Enthusiasm for Kamala Harris is strong among Black women voters"
+    excerpt: "LesleyAnne Crosby of Minneapolis gathered with a small group of Black women in St. Paul to witness the possibility of Kamala Harris becoming the first Black woman to become vice president. Sondra Samuels raced out the morning of Election Day to buy Chuck Taylor shoes."
+    publishedDateTime: 2020-11-04T05:47:00Z
+    webUrl: "https://www.startribune.com/enthusiasm-for-kamala-harris-is-strong-among-black-women-voters/572965532/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/ows_a54acef6-13a8-42d5-b04b-3edc1705f668.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
     excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
     publishedDateTime: 2020-10-20T09:49:00Z

@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
-    excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
-    publishedDateTime: 2020-11-03T03:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/in-michigan-trump-kicks-off-frenzy-of-campaigning-two-days-before-election-idUSKBN27H12Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27H12R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27H12R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201101&t=2&i=1539602176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA01B3"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out."
     excerpt: "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump."
     publishedDateTime: 2020-10-22T17:39:00Z
@@ -95,6 +79,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President Donald Trump Wins West Virginia's Electoral Votes"
+    excerpt: "President Donald Trump eased to victory in West Virginia to take its five electoral votes. He had been widely expected to defeat Democrat Joe Biden in a state that backed him in 2016 with 68% of the vote."
+    publishedDateTime: 2020-11-04T00:40:00Z
+    webUrl: "https://www.usnews.com/news/best-states/west-virginia/articles/2020-11-03/president-donald-trump-wins-west-virginias-electoral-votes"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "z1qB36Ar2RfXDUKfivl+2fLFnRHBoMaMrJSObOOvsynMMQAg8WD8swmUEIqCowcLfL16QDixMUOjGqJoOjbYSq2Tlki9G8z+RDchVr7DvxRC3cVOiehgBpkts9KWQLM/w33uZLcJALZB548JEl+NtdciAO/mTaSdNYMj/jU45JEvk4QjFq+VrVNsNAVHRLnMF0EzcHBRtazHxr0ofefgj8+ZwXM9p/9nJ8rf/clVM4iUKK6FxEyZjy1MWenCyQdcEOVFLbTUGz9Z9QQ4JlGcQ5J+01F8k2i8iBq2Is0ZuDhgZwWdYHHr7QvkWDJ+jC3HgQXfDTRqHS7crRv7BHgdUovlICFoYMSUNqqOT9V6HIY=;CHakCOvBHw4TyW3IC+370A=="
 ---

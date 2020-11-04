@@ -151,6 +151,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Twitter flags Trump tweet questioning Supreme Court decision on voting in Pennsylvania"
+    excerpt: "Twitter Inc late on Monday flagged a tweet by U.S. President Donald Trump in which he called a Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
+    publishedDateTime: 2020-11-03T06:21:00Z
+    webUrl: "https://www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
   - title: "Trump Pleads For Women Voters At Pennsylvania Rally"
     excerpt: "An increasingly desperate President Trump called on suburban women to support him during a rally in Johnstown."
     publishedDateTime: 2020-10-14T13:12:00Z

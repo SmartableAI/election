@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden has won Connecticut"
+    excerpt: "Connecticut holds seven electoral votes and was not expected by experts to be competitive."
+    publishedDateTime: 2020-11-04T05:55:00Z
+    webUrl: "https://www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa2267269331a0011bc728f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden is projected to win New Mexico"
     excerpt: "The state has five electoral votes and wasn't expected to be competitive. It has voted for a Democrat in six of the last seven presidential elections."
     publishedDateTime: 2020-11-04T04:12:00Z
@@ -222,6 +238,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "fbcJhzsiKDa565PFSAKNYf9Ixbm6FIZHw+XgRPqz3KPyQKO0xzA+vqRj7Tv0yTQ1TMzKOwOV69jqrFzYqEfYLjybKXz5BisaNmMVKcBXjNcDlFDbWngT/G5LCDqYHzoqa6/OsCAvdrYZXCrfFqPGpRSvAku8JXRoBGdhBadnP5I5I8ox4KvqBFo70b9ZM0yv7BgxFz1Wd1bZpbmE1erUCI1AM9vpFw6A2VaZTdrPFwxxs2N+RYs4ZRUXL4t61TRlHJr0FJvfFm3x5hiFBFGsQjSgr16HNK+CeYzV9ncgSUxJJU06467Gt5iec8/a16USgIsVKF5cNll6dCNrvlq0gpP5ygr0tuc3V0a2ityzPMk=;YlnEq2dcIMqxxpQkF0H21A=="
+secured: "rOEmWvnSqi/EDDi8Gy8uqudT2sudbhJuI3iq7Bj+nrNHmnfFMFXqkLwO/d8YZuGdntI6FA6oI/Pxha9b137+TLsPF+kky69p+Z1lfiDJtiBu8jOZs7BJdeJ3hZy3C3wgeeLFiNg031RVGmm52aeMJGax+GtVgLiG7RYs0X9/BrECR8QVsDViN3kNuq9LRlqQ/jo6Zr1957u6x3gAapMlO/5eXump7IHLTUwBCQXAdP1do0xF+ndFU+q2tURS2S9qn4MOoD30mxgXp2ekwlZ/5aI0KbaGhaK+hqLIuwwYTm+jsnjEI52svTmaCC6NoRK5rGANSi3jjvJSg+IvGO9SPsXdxNmTo+GWIZrmVlc/mshVdh9s+uFoppmSKNX4jEEqSrj8THRiC9h4+nIdpfpwUqdoAadbIG2F7uSTfPiNiDcUf5kOXR1TCEjiaOiXmKx9iMCLzJdjttj6ORFgNaChdpYf7F9h0MtMvfj2tlpGiefmWjs2PkeegeygqyN0LoLCi3NklLb4gdcEFBOMrY/vAA==;kfoIpN1dLbF39r/POzTbXQ=="
 ---
 

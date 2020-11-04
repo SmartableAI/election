@@ -6334,6 +6334,17 @@ related:
         width: 1680
         height: 876
         isCached: true
+  - title: "Donald Trump Defeats Joe Biden in Florida"
+    excerpt: "Despite supporting the Republican nominee in eight of the last 12 presidential elections, Florida is one of the most competitive battleground states in the U.S."
+    publishedDateTime: 2020-11-04T05:55:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-11-04/donald-trump-defeats-joe-biden-in-florida"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-11-04/donald-trump-defeats-joe-biden-in-florida?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-11-04/donald-trump-defeats-joe-biden-in-florida?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Joe Biden Beats President Donald Trump in Virginia"
     excerpt: "Democrat Joe Biden defeated Republican President Donald Trump in the race for president in Virginia on Tuesday. The state contributes 13 votes to the Electoral College; it takes 270 votes to win the presidency."
     publishedDateTime: 2020-11-04T01:12:00Z

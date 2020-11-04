@@ -47,38 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Donald Trump is projected to win Louisiana"
-    excerpt: "Louisiana has eight electoral votes and is not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
-    publishedDateTime: 2020-11-04T02:11:00Z
-    webUrl: "https://www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa210bb69331a0011bc7278?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump wins Indiana in presidential race"
-    excerpt: "President Trump has been projected to win the state of Indiana, according to CNN and NBC News. The president will pick up the Hoosier State's 11 electoral votes."
-    publishedDateTime: 2020-11-04T00:03:00Z
-    webUrl: "https://thehill.com/homenews/campaign/524215-trump-wins-indiana-in-presidential-race"
-    ampWebUrl: "https://thehill.com/homenews/campaign/524215-trump-wins-indiana-in-presidential-race?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/524215-trump-wins-indiana-in-presidential-race?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trump3_110220getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Ex-Trump aide Manafort beats Manhattan prosecutor's bid to revive NY fraud charges"
     excerpt: "A New York appeals court on Thursday upheld the dismissal of state fraud charges against Paul Manafort, saying that reviving the case against U.S. President Donald Trump's former campaign chairman would violate double jeopardy rules."
     publishedDateTime: 2020-10-22T19:42:00Z
@@ -109,15 +77,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Donald Trump Wins Wyoming"
-    excerpt: "Donald Trump wins Wyoming."
-    publishedDateTime: 2020-11-04T02:54:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-03/joe-biden-wins-vermont"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "MQIMe5jmhHHkdGIK1jVoDvIAVo9xTYZoRNJRKUGQnb/8KNVaHZMIfHGHYv835mXzp+I4UtkFRCBy0oh2Ifik6PJfcW2/4+Zp4Uvd2WtIQ7LTM8sCdXwLSIFmdcwFpcoEmj7vD92DAhgnSNNmV9OtYIu7SoBuDO56oM8x7WfHAnqv1q12ONS4H/cE0yGY/WdL1cDiyfmc3yB9G+CUP3bA00UN/WzJR74ILdU8cokX4Uj/e3H3K73qy+Y20apWYlR6HPISHVyl/CZjzAlXprMoW7gWi/zpIsusjadvNGMXg4ctU20rgMApGlRHq//30v3bzMdu9uD9raEZIVbZFLmGNHE+BA86gEZpp58cE/7XrYg=;3E5qJX5neyiT5qenlll3yQ=="
 ---

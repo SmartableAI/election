@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-04-twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading.md",
+      "title": "Twitter flags Trump tweet warning Democrats 'trying to steal' the election as 'misleading'",
+      "excerpt": "President Trump tweeted that Democrats are “trying to STEAL the Election,” while claiming a “big win”—a post that Twitter flagged as “misleading” content.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Kufij6pdQQ/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Kufij6pdQQ/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 240,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading.amp",
+      "publishedDateTime": "2020-11-03T22:28:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-rnc-speaker-kim-klacik-falls-short-in-house-bid-despite-viral-campaign-ad-trump-support.md",
+      "title": "RNC speaker Kim Klacik falls short in House bid despite viral campaign ad, Trump support",
+      "excerpt": "Republican newcomer Kim Klacik fell short on Election Day in her bid to win a U.S. House seat in a Maryland district that includes inner-city Baltimore.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAtCWORKoZA/baltimore-kim-klacik-kweisi-mfume-maryland-7-district",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAtCWORKoZA/baltimore-kim-klacik-kweisi-mfume-maryland-7-district",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/baltimore-kim-klacik-kweisi-mfume-maryland-7-district.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/baltimore-kim-klacik-kweisi-mfume-maryland-7-district.amp",
+      "publishedDateTime": "2020-11-03T22:28:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-ex-espn-host-jemele-hill-says-its-on-white-people-if-trump-wins-reelection-no-one-else.md",
       "title": "Ex-ESPN host Jemele Hill says 'it's on White people' if Trump wins reelection: 'No one else'",
       "excerpt": "ESPN host Jemele Hill declared Tuesday that only White people are to blame if President Trump defeats Democratic nominee Joe Biden.",
@@ -1132,7 +1244,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 510,
+      "heat": 530,
       "tags": null,
       "images": [
         {
@@ -1541,118 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-last-shot-dem-establishment-lawrence-jones.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-last-shot-dem-establishment-lawrence-jones.amp",
       "publishedDateTime": "2020-11-01T09:24:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-hunter-bidens-business-was-industrial-scale-corruption-graham.md",
-      "title": "Hunter Biden's business was 'industrial-scale' corruption: Graham",
-      "excerpt": "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., said Sunday that he plans on holding a hearing where he will ask the FBI why they sat on the laptop believed to have belonged to Hunter Biden for almost a year without taking action.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7oB-3AQtPvE/graham-hunter-biden-business-industrial-scale-corruption",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7oB-3AQtPvE/graham-hunter-biden-business-industrial-scale-corruption",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff940e5b-abfd-4f83-a643-516042790627/644bed36-8304-4ae7-92cf-2c5809b22a97/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/graham-hunter-biden-business-industrial-scale-corruption.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-hunter-biden-business-industrial-scale-corruption.amp",
-      "publishedDateTime": "2020-11-01T09:07:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-gov-huckabee-believes-president-trump-will-get-reelected-by-a-substantial-margin.md",
-      "title": "Gov. Huckabee believes President Trump will get reelected by a 'substantial' margin",
-      "excerpt": "Former Arkansas Gov. Mike Huckabee believes President Trump will win the 2020 election by a “substantial” margin, telling “Fox & Friends” on Sunday that “it will cause people's heads to explode because they just can’t see it coming.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bNi9PkWNQb4/mike-huckabee-trump-reelected-substantial-margin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bNi9PkWNQb4/mike-huckabee-trump-reelected-substantial-margin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
-      "publishedDateTime": "2020-11-01T08:10:21-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

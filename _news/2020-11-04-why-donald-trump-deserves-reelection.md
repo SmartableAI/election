@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-03T19:43:00Z
 originalUrl: "https://www.realclearpolitics.com/2020/11/03/why_donald_trump_deserves_reelection_528432.html"
 webUrl: "https://www.realclearpolitics.com/2020/11/03/why_donald_trump_deserves_reelection_528432.html"
 type: article
-quality: 60
+quality: 80
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Donald Trump
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/52/526085_5_.jpg"
+    width: 750
+    height: 501
+    isCached: true
 
 related:
   - title: "Election 6 days away: Biden back in Delaware as Trump heads to Arizona"
@@ -1636,6 +1642,22 @@ related:
         width: 3212
         height: 2141
         isCached: true
+  - title: "Voter Analysis: Why President Trump lost Arizona"
+    excerpt: "The Fox News’ Decision Desk called Arizona early Tuesday night despite frustration from the Trump 2020 Campaign, which alleged the call was made too early."
+    publishedDateTime: 2020-11-04T06:02:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_00YRlIKXRw/why-president-trump-lost-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/why-president-trump-lost-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/why-president-trump-lost-arizona.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden has multiple 'pathways to get to 270' while Trump does not, ex-Obama deputy campaign manager says"
     excerpt: "Democratic presidential nominee Joe Biden has more paths to win the 270 electoral votes required to become president than incumbent President Trump, former Obama deputy campaign manager Stephanie Cutter told \"The Daily Briefing\" Thursday."
     publishedDateTime: 2020-10-29T21:06:23Z
@@ -2358,8 +2380,8 @@ related:
         isCached: true
   - title: "Replay: President Donald Trump Campaigns In Four States On Final Day Of Election"
     excerpt: "President Trump will host five rallies in four states on Monday, the final day of the 2020 election campaign, starting around noon in North Carolina and continuing on to Pennsylvania, Michigan, Kenosha,"
-    publishedDateTime: 2020-11-04T03:34:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/02/watch_live_president_donald_trump_campaigns_in_four_states_on_final_day_of_election.html"
+    publishedDateTime: 2020-11-04T06:33:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/02/watch_live_president_donald_trump_campaigns_in_four_states_on_final_day_of_election.html#!"
     type: article
     provider:
       name: RealClearPolitics
@@ -2422,6 +2444,6 @@ related:
       domain: realclearpolitics.com
     quality: 60
 
-secured: "1x8OVqP6cshJE2UK9rWCLH9Zjm/FiOyVtJ4IlaRUsNWjUPIEyACCDWNR3b49eVQoyv921BE6GEkdxC0uuVlxdlF5QMHVnjS28sRiPNQJh2cNuO5dKwe8je4l7xUfnZZXe0dbajGdI6ZTpz0BGnph/orzzl3LSLlTkvMc4KbuX+vw2qiJrvFj2OeysrPPIClhosFL+nyNRtNPxxc3XW8+stHGlGw7sb5WE6KkfzlrkvKc+azoCuiErIXpE+X0bKPYa3DIqK2Sl8bSjXWrNmI7oM53j+5wHGdBaM8T4ICwlLtDyKkawt7CyCtWXoFKMX6W3PCVC7dUBK3LsIpb7E6CQhvRDydYWxvQ7W5Uac2gZt0=;sSOvi5hcvnwfm1vpLwCXGQ=="
+secured: "pPgpsbNe2eMtJKJLxwBCif1+cPA9THB23TFnprjzdPbTlbNT76rKTE0Pf6A8Q8OLbz2g4Hdd40djxB6xaGhcMw46Vjii0LzuZL17K6NAPkKhfJEsK6reMTyBGJq9nGIHHsltWsqaRr9kWY5my1VxZ2xFeyY3mOXptUrzFEze/H798MxYQjQPayTCj+H6ENdhcr2KFBL0ezyA8Bs8TQEBHqGqxdg44eC/7eli2B0+Lsq90xBLgmcQ7xas71dxH1OnvHLeSqCRu1N/9fk+j2yVofra81M4T8BnfJy1wocd2Zbh91XwkaC9huSx6aUzNXpLC3OqJemBS+OxrSycK675NNpYcESHXejaAkkXN3dfeDY=;fRf90Ox6TGzuESrqz6cR9Q=="
 ---
 

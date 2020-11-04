@@ -1649,6 +1649,22 @@ related:
         width: 3212
         height: 2141
         isCached: true
+  - title: "Voter Analysis: Why President Trump lost Arizona"
+    excerpt: "The Fox News’ Decision Desk called Arizona early Tuesday night despite frustration from the Trump 2020 Campaign, which alleged the call was made too early."
+    publishedDateTime: 2020-11-04T06:02:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_00YRlIKXRw/why-president-trump-lost-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/why-president-trump-lost-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/why-president-trump-lost-arizona.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden has multiple 'pathways to get to 270' while Trump does not, ex-Obama deputy campaign manager says"
     excerpt: "Democratic presidential nominee Joe Biden has more paths to win the 270 electoral votes required to become president than incumbent President Trump, former Obama deputy campaign manager Stephanie Cutter told \"The Daily Briefing\" Thursday."
     publishedDateTime: 2020-10-29T21:06:23Z
@@ -2339,6 +2355,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Why Donald Trump Deserves Reelection"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-03T19:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/03/why_donald_trump_deserves_reelection_528432.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/526085_5_.jpg"
+        width: 750
+        height: 501
+        isCached: true
   - title: "Full Replay: Trump And Biden Go Head-To-Head In Final 2020 Presidential Debate"
     excerpt: "President Donald Trump and his Democratic challenger, Joe Biden, meet Thursday night for the final presidential debate of the 2020 election. Thursday's debate, starting at 9 p.m. EDT, from Nashville,"
     publishedDateTime: 2020-10-23T20:11:00Z
@@ -2355,8 +2385,8 @@ related:
         isCached: true
   - title: "Replay: President Donald Trump Campaigns In Four States On Final Day Of Election"
     excerpt: "President Trump will host five rallies in four states on Monday, the final day of the 2020 election campaign, starting around noon in North Carolina and continuing on to Pennsylvania, Michigan, Kenosha,"
-    publishedDateTime: 2020-11-04T03:34:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/02/watch_live_president_donald_trump_campaigns_in_four_states_on_final_day_of_election.html"
+    publishedDateTime: 2020-11-04T06:33:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/02/watch_live_president_donald_trump_campaigns_in_four_states_on_final_day_of_election.html#!"
     type: article
     provider:
       name: RealClearPolitics
@@ -2413,15 +2443,6 @@ related:
     excerpt: "RealClearPolitics"
     publishedDateTime: 2020-10-29T11:37:00Z
     webUrl: "https://www.realclearpolitics.com/2020/10/28/how_arizona_complicates_trumps_reelection_bid_527801.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
-  - title: "Why Donald Trump Deserves Reelection"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-11-03T19:43:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/03/why_donald_trump_deserves_reelection_528432.html"
     type: article
     provider:
       name: RealClearPolitics

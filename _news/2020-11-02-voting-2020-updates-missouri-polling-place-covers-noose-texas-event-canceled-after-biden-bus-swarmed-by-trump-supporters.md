@@ -288,6 +288,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Trump leads in Florida and other battlegrounds, Biden counts on Rust Belt 'blue wall'"
+    excerpt: "President Donald Trump took the lead over Democratic rival Joe Biden in the vital battleground of Florida and other U.S. swing states on Tuesday, but Biden pinned his White House hopes on Arizona and a \"blue wall\" of three Rust Belt states that could take days to count"
+    publishedDateTime: 2020-11-04T06:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/trump-leads-in-florida-and-other-vital-battlegrounds-biden-pins-hopes-on-blue-wall-idUSKBN27J0FZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J0FZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0FZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539924280&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30EZ"
+        width: 866
+        height: 545
+        isCached: true
   - title: "Election 2020 live updates: Trump makes false statement about Election Day ballot counts"
     excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
     publishedDateTime: 2020-10-27T19:26:00Z
