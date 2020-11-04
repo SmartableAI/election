@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
 type: article
 quality: 140
-heat: 460
+heat: 480
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/8180f174-a565-4c3d-b9d2-788be32f5164/thumbnail/1200x630/4cf0bb67e8323ce21d5569410f9a527d/gettyimages-1229411509.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "'I appreciate the advice': Trump tells crowd chanting, 'Fire Fauci!' to wait until after election"
+    excerpt: "President Trump hinted he might fire Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, during a rally in Florida."
+    publishedDateTime: 2020-11-04T10:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/02/trump-fire-fauci-after-election/6120265002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6120265002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6120265002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/14/USAT/141e651b-459d-436d-a7d2-7378647509ea-fauci.jpg?auto=webp&crop=4573,2572,x0,y232&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Can Trump 'Fire Fauci'? Not easily, but he could make it messy"
     excerpt: "Can President Trump fire Dr. Anthony Fauci as he suggested he might do after the election? Not easily, but he could make it messy."

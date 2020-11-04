@@ -533,6 +533,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump falsely claims victory in U.S. election"
+    excerpt: "Posted [NFA] U.S. President Donald Trump took the lead over Democratic rival Joe Biden in the vital battleground of Flor"
+    publishedDateTime: 2020-11-04T10:38:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP79F?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa2554fe4b04f7ff7c2bf74-1604477974987?location=LANDSCAPE"
+        width: 7392
+        height: 4631
+        isCached: true
   - title: "Facebook labeled President Trump's late-night election posts about Democrats stealing the election as misinformation"
     excerpt: "President Trump's false claims about the election being stolen are being flagged by Facebook. Every one of his false election claims are now flagged."
     publishedDateTime: 2020-11-04T08:52:00Z

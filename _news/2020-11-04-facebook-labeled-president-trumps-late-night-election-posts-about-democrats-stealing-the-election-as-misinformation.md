@@ -533,6 +533,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump falsely claims victory in U.S. election"
+    excerpt: "Posted [NFA] U.S. President Donald Trump took the lead over Democratic rival Joe Biden in the vital battleground of Flor"
+    publishedDateTime: 2020-11-04T10:38:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP79F?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa2554fe4b04f7ff7c2bf74-1604477974987?location=LANDSCAPE"
+        width: 7392
+        height: 4631
+        isCached: true
   - title: "Trump holds 5 rallies in 4 swing states in bid to woo last-minute Election Day votes"
     excerpt: "With Election Day finally here, President Trump spent Monday in a final attempt to win over swing state voters. The president says he's confident, but he is also threatening legal action in some states if results are not announced on Election Day."
     publishedDateTime: 2020-11-03T22:33:00Z

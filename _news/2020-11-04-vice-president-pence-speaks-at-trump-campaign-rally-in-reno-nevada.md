@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "PM of Melania's homeland congratulates Trump on victory"
+    excerpt: "Slovenian Prime Minister Janez Jansa congratulated Donald Trump on what he described in a tweet as a clear victory in the U.S. presidential election, becoming the first European Union leader to do so."
+    publishedDateTime: 2020-11-04T10:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-slovenia/pm-of-melanias-homeland-congratulates-trump-on-victory-idUSKBN27K19R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K19R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K19R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539958032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30RF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump gains with Latinos, loses some white voters: exit polls"
     excerpt: "As the U.S. presidential race remained undecided, President Donald Trump showed some surprising gains with Latino and other nonwhite voters, but they may have been offset by losses among those who supported him four years ago,"
     publishedDateTime: 2020-11-04T08:18:00Z

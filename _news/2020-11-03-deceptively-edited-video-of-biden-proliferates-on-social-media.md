@@ -432,6 +432,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump makes series of egregious false claims in Election Night address"
+    excerpt: "President Donald Trump made a series of egregious false claims in his Election Night address at the White House -- falsely claiming he had already won re-election, that he had already won states that were actually still up in the air at the time, and that his opponents were perpetuating a fraud.\n   "
+    publishedDateTime: 2020-11-04T09:33:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6s1X3FJxFn4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-night-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-night-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104025939-04-donald-trump-speech-election-night-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden makes play for red states in final days of campaign as Trump narrows his focus"
     excerpt: "Democratic presidential nominee Joe Biden's campaign is making a late push into deeper-red states in the final week before the 2020 election, chasing a number of possible paths to 270 electoral votes while President Donald Trump focuses on defending a narrower set of states that he won four years ago"
     publishedDateTime: 2020-10-27T15:23:49Z
@@ -944,6 +960,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's call to halt vote counts is his most brazen swipe at democracy yet"
+    excerpt: "President Donald Trump's demand for vote counting to stop in an election that is still undecided may have been his most extreme and dangerous assault on the institutions of democracy yet in a presidency replete with them.\n    \n"
+    publishedDateTime: 2020-11-04T09:42:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TOgnB3K3Q8c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/04/politics/election-2020-donald-trump-joe-biden-voting-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/election-2020-donald-trump-joe-biden-voting-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104025939-04-donald-trump-speech-election-night-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's unhappy warrior pitch to voters includes insults and highly specific grievances"
     excerpt: "President Donald Trump is ending his reelection bid in a frenzied cross-country push for votes in states he won -- some handily -- four years ago. But he is not pretending to be happy about it.\n    \n"
     publishedDateTime: 2020-10-28T15:32:58Z
@@ -1408,6 +1440,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "How Joe Biden and Donald Trump Can Each Still Win the Presidency"
+    excerpt: "The president was able to close off several avenues to an early Biden win, but the former vice president still has a number of options."
+    publishedDateTime: 2020-11-04T10:46:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/how-biden-and-trump-can-win.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/how-biden-and-trump-can-win.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/how-biden-and-trump-can-win.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04paths-270-1/merlin_179554470_6c49631c-cd29-454a-ae7c-d39b0199ce2e-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "NBC News projects Trump will win Montana, Biden will win Rhode Island"
     excerpt: "NBC News projects that President Trump will win Montana and Joe Biden will win Rhode Island in the 2020 presidential election."
     publishedDateTime: 2020-11-04T06:43:00Z
@@ -1517,6 +1565,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/24/us/24elections-briefing-obama2/merlin_179011449_c82eab33-d1ca-4df1-ae0c-1fae2562c6f7-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Election Live Updates: The Latest on Trump, Biden Vote Count"
+    excerpt: "Joe Biden expressed confidence to supporters, and President Trump falsely claimed victory. In Senate races, Democrats faced an uphill battle to claim a majority."
+    publishedDateTime: 2020-11-04T10:40:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/04/us/trump-biden-election"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/world/04elections-briefing-lede-all-morning/04elections-briefing-lede-all-morning-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump Tires of Economic Message and Returns to Attacks Amid Florida Duel With Biden"
     excerpt: "Both candidates stumped in Florida, where Joe Biden has a narrow edge over President Trump in new polls. Mr. Trump abruptly canceled his North Carolina rally, citing bad weather. Senator David Perdue of Georgia dropped out of a third debate with his Democratic challenger,"
@@ -1790,6 +1852,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Joe Biden won in Minnesota."
+    excerpt: "Minnesota election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T10:19:00Z
+    webUrl: "https://www.politico.com/2020-election/results/minnesota/"
+    ampWebUrl: "https://www.politico.com/2020-election/results/minnesota/amp/"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/2020-election/results/minnesota/amp/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/27.jpg"
+        width: 600
+        height: 325
+        isCached: true
   - title: "Which Battleground States Did Trump Win in 2016?"
     excerpt: "As results of the United States presidential election began to roll in on Tuesday, many Americans were wondering how President Trump’s performance in key swing states compared with his performance in those states in the 2016 election."
     publishedDateTime: 2020-11-04T06:07:00Z
@@ -2031,6 +2109,20 @@ related:
     quality: 115
     images:
       - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/18.jpg"
+        width: 600
+        height: 325
+        isCached: true
+  - title: "Donald Trump won in Kansas."
+    excerpt: "Kansas election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T10:05:00Z
+    webUrl: "https://www.politico.com/2020-election/results/kansas/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/20.jpg"
         width: 600
         height: 325
         isCached: true

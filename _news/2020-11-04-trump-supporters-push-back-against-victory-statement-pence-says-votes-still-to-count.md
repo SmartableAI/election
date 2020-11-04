@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-vote
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
 type: article
 quality: 133
-heat: 433
+heat: 453
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/6a33c244-a478-4fed-b541-415acb9f76f2-LadyMaga1.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "PM of Melania's homeland congratulates Trump on victory"
+    excerpt: "Slovenian Prime Minister Janez Jansa congratulated Donald Trump on what he described in a tweet as a clear victory in the U.S. presidential election, becoming the first European Union leader to do so."
+    publishedDateTime: 2020-11-04T10:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-slovenia/pm-of-melanias-homeland-congratulates-trump-on-victory-idUSKBN27K19R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K19R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K19R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539958032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30RF"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump gains with Latinos, loses some white voters: exit polls"
     excerpt: "As the U.S. presidential race remained undecided, President Donald Trump showed some surprising gains with Latino and other nonwhite voters, but they may have been offset by losses among those who supported him four years ago,"
@@ -247,6 +263,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "d7OCZekXZ3IM0h2+XCwfOEYLjbRQfX1bLkuTrlLg43ouwPCd7siFF68VfnubjpXnnLpqfCFkdzgGsJ6YL7d4qL19fmkRgoT6vR9Tm95nelTllVmtxbx1vAdrFx4wvwPMMBx5gjXaA93f/bYvc+3YoHSjnjDviAwsruUoMq6Sn7W/NiA1OYvlU+U66oN53iu/D2+73VAzLSDqQAyFVNpk9LgGw3BbmkLhaGZBqa1r3EZIUptKyQPQn/1D4ez/g6B4wePAg+Jb4/Fcc1uDx5y78kOZlJiXdFpZTD79mhM3DL3wOP93ijE0VMDiBrXD8IXLtfoMQnsjzOrGEuoV2L3A7qF9UJdaGh+eO5yYgKVwVrA=;XEkQe3vX7pNY07lJ0NvQkQ=="
+secured: "yhpfqhQMQ7bAFCAG78u9uGbwBMvvKOYl326RXS72obvG5gKvypvIqsQDUtyWufA3FnZDJKBih+IASrcShNyehQyH+NaactC9oZaGK75NZrie6XZCO34L2Ogzhrr0Yii4/NXX0RXFQh6dLHNZ1FdIiH4PqLkmqxY0RPUhr0HClYotdjHkgvCxuTqrYKNgUBJjBiAxPWV3Nc+DOjCs4H69IDExsVw0ITtd4FE/NP08Hb1jZOzVYvuVHtIZgN3V9/0+6peB+1BDJHIoFpxILdc3bjcCQmh5Dvw5WTb5kp3wJe/4daVnoVEu6uC1Ljx6SD/cppkyxwOfZgL/Y+fJaYL2DzFpME3u//NJ4rpY4qt2rAh4BQJipDg8YBTPvMsfIa6wBN/NS8AuK56a6NTB86TPaNSL3ctJYPsuTreY2jIUk899XyjXj9m5ctAiLwqy89KtD8uuC4aYAxeatId27sLLm1FxqJbYBvmf2r+RNdOCfpBFxmPSLjenHdncmAvxiMvjTmsfdAJLPQPxqhyrf9kCow==;n8x4L7P39U9epjn4h+W/VA=="
 ---
 

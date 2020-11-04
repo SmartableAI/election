@@ -1263,6 +1263,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Fox News Voter Analysis: Trump sees strong support from base as moderates back Biden"
+    excerpt: "The presidential contest stretched into the early hours of the morning without a clear winner, as a deeply divided nation watched anxiously for ballots to be counted in several battleground states. "
+    publishedDateTime: 2020-11-04T09:32:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YCMa9vmkaNc/fox-news-voter-analysis-trump-sees-strong-support-from-base-as-moderates-back-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-voter-analysis-trump-sees-strong-support-from-base-as-moderates-back-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-voter-analysis-trump-sees-strong-support-from-base-as-moderates-back-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peggy.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden vs. Trump: ObamaCare, access to health care in rural US impacts voters' decisions"
     excerpt: "With only days until the 2020 presidential election, the topic of health care access, insurance and affordability is front and center in the minds of millions of Americans."
     publishedDateTime: 2020-10-22T17:50:44Z

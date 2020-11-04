@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'I appreciate the advice': Trump tells crowd chanting, 'Fire Fauci!' to wait until after election"
+    excerpt: "President Trump hinted he might fire Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, during a rally in Florida."
+    publishedDateTime: 2020-11-04T10:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/02/trump-fire-fauci-after-election/6120265002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6120265002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6120265002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/14/USAT/141e651b-459d-436d-a7d2-7378647509ea-fauci.jpg?auto=webp&crop=4573,2572,x0,y232&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Can Trump 'Fire Fauci'? Not easily, but he could make it messy"
     excerpt: "Can President Trump fire Dr. Anthony Fauci as he suggested he might do after the election? Not easily, but he could make it messy."
     publishedDateTime: 2020-11-02T22:49:00Z
@@ -271,6 +287,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "5MR+A70XXyurmDkQD1BuODNbzJuOohpg+n0hxPwqCicCToJrEbTM8q3+yOT1nq585QKqD4hFniRpbXNfY47Tgeq9iUc7x9OrE6hqlzOmRQUysXUhyY2lvp5WH9TVApC+kn35KBzR2mRqPx12T2JY7TW84RjeuXkCmyIbAgpUkvnNMRh1c4PvU2I4kRkXqtrlSbLvStRP1jSdyCw8oSgatfhbU7HplLfEUTILvlP5XpgZMmQyphSA881eCETZ9hzOVjquizmzYWWMP7a3e3qL9mqbDl/7NkFSlAWyZGD0DFkwjsGOLX4in/1QKJmCb3D8XzR2fchHcgDa0uxuO5KOhkxQBpI/y8jxy7jVu/znwuE=;XhXJHLe7Nm8MQOmUzndEQA=="
+secured: "mx8TrnkI4wFzzS2kxPOxiNiuld9veXrGz3HErRaMPrnUqFE98C0TDOJoT+44wf6dw3Yi9d/ndEEP3RUEqRzmtxTmcDwEEVtmaDu1cZTJWSdzrVVZFjIFwE8AML2cDmgQAlIsxUKORMjDxJtzfVYKg77U1kCzXYfCkL2bRX+1M/xnyCgL+XOAsjatrMRWseEW0T/GA4/qIsbj7uff4yVtR9fAUkh3oYIyr/j9oDhZMT46Zw7ocFP/OKwvq+fxL7lFQvqV7BLMx0lywkw1hTPJvrAK6C/flR0vmMo5TawVZwpCtWYM37+fYhdgT+fTOQJnDzOMC+oQmTS3jWHM002NbNTj95xKUBJvvhUb50frsEkAwcOXfMO3WpksiWNRRGJNo+XYIXNdU3lv25TTHbym8A5CuB+bBOEPiM3yVPZJtx9jbamPaM4x/k5PxDCdGXWoZKQqcApKLtZ3ohWFwzhAwyLIKoWeW68dxFyQaURU1nkcPtcT854v0z4eJoxejEH8uqTHbjI9aai2VpgbOXkPxA==;i/dBLQOgJ0iCt3sJHg57ng=="
 ---
 
