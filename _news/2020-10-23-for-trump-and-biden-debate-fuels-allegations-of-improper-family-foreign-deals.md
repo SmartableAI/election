@@ -1679,6 +1679,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden's Chances of Winning Election Are Slipping as Bookmakers Increasingly Favor Donald Trump Victory"
+    excerpt: "Biden reached his nadir in the betting markets with odds of 4-1 (20 percent chance), but his odds rallied with swing state Arizona being declared in his favor."
+    publishedDateTime: 2020-11-04T08:38:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-chances-winning-election-bookmakers-donald-trump-victory-1544704"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-chances-winning-election-bookmakers-donald-trump-victory-1544704?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-chances-winning-election-bookmakers-donald-trump-victory-1544704?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 137
+    images:
+      - url: "https://d.newsweek.com/en/full/1664411/donald-trump-melania.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Snap polls give Joe Biden edge over Trump in final TV debate – US politics live"
     excerpt: "Biden accused Trump of pouring fuel ‘on every single racist fire’ as pair clashed over coronavirus, Obamacare and fossil fuels"
     publishedDateTime: 2020-10-23T13:22:00Z

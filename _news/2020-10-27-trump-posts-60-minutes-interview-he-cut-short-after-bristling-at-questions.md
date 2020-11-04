@@ -1440,6 +1440,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Biden and Trump Are Locked in Tight Race as Uncounted Votes Remain"
+    excerpt: "Joe Biden expressed confidence to supporters as President Trump falsely claimed victory. In the Senate races, Democrats faced an uphill battle to claim a majority."
+    publishedDateTime: 2020-11-04T14:19:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/03/us/trump-biden-election"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/03/us/trump-biden-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/03/us/trump-biden-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/world/04election-night-briefing-trump-biden-speeches-sub/04election-night-briefing-trump-biden-speeches-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "How Joe Biden and Donald Trump Can Each Still Win the Presidency"
     excerpt: "The president was able to close off several avenues to an early Biden win, but the former vice president still has a number of options."
     publishedDateTime: 2020-11-04T10:46:00Z
@@ -1868,6 +1884,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden tells supporters, 'We're on track to win'"
+    excerpt: "Joe Biden speaks to supporters in Delaware as votes are still being counted and says they \"feel very good about where we are.\""
+    publishedDateTime: 2020-11-04T07:34:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-tells-supporters-we-re-on-track-to-win-95284805763"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95284805763"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95284805763"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_full_2020_biden_speech_201103_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden won in Minnesota."
     excerpt: "Minnesota election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
     publishedDateTime: 2020-11-04T10:19:00Z
@@ -1917,9 +1949,9 @@ related:
   - title: "The Remaining Vote in Pennsylvania Appears to Be Overwhelmingly for Biden"
     excerpt: "President Trump leads by nearly 700,000 votes in Pennsylvania as of 5 a.m. on Wednesday, and Mr. Biden’s chances depend on whether he can win a large percentage of the more than"
     publishedDateTime: 2020-11-04T11:57:00Z
-    webUrl: "https://www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.amp.html"
+    webUrl: "https://www.nytimes.com/2020/11/04/upshot/pennsylvania-election-results-ballots.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/upshot/pennsylvania-election-results-ballots.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/upshot/pennsylvania-election-results-ballots.amp.html"
     type: article
     provider:
       name: New York Times

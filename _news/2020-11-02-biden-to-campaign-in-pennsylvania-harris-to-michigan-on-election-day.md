@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 1235
+heat: 1255
 published: true
 
 provider:
@@ -317,6 +317,22 @@ related:
     quality: 190
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bcccf79-a1da-4d9e-a796-0ce65d04a080/8ae9c3fd-11ec-4eb4-a5a1-6ed0d9cbeae7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden: 'We believe we are on track to win this election'"
+    excerpt: "Democratic presidential nominee Joe Biden said overnight that despite several states still being too close to call, his campaign is confident that he will be the next president of the United States. "
+    publishedDateTime: 2020-11-04T13:13:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5gm5Wzw99Mw/biden-on-track-to-win-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-on-track-to-win-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-track-to-win-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

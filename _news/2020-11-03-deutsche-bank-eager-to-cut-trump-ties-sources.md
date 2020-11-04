@@ -29,37 +29,65 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: Tired of Trump, Deutsche Bank wants out but sees no good options - sources"
-    excerpt: "Deutsche Bank AG is looking for ways to end its relationship with President Donald Trump after the U.S. elections, as it tires of the negative publicity stemming from the ties, according to three senior bank officials with direct knowledge of the matter."
-    publishedDateTime: 2020-11-03T07:07:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J0G0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0G0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539756536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA208L"
-        width: 805
-        height: 545
-        isCached: true
-  - title: "Deutsche Bank plans to cut ties with Trump after the election and could seize his assets if he can't pay back his debts, Reuters reports"
-    excerpt: "The German lender is seeking to dump millions of dollars of Trump debt and sees a Trump loss as its best exit strategy, officials told Reuters."
-    publishedDateTime: 2020-11-03T20:12:00Z
-    webUrl: "https://www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11?amp"
+  - title: "Donald Trump has won North Dakota"
+    excerpt: "The state has three electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-04T00:16:00Z
+    webUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 107
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fa12e611df1d500182187c3?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa2201b69331a0011bc7288?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump's last-ditch effort to recruit LGBTQ voters continues in Minnesota"
+    excerpt: "Supporters say the administration has made gay rights a \"non-issue\" and argue that Trump's early friendships with gay men — such as Roy Cohn — show he's always been an ally."
+    publishedDateTime: 2020-11-02T01:14:00Z
+    webUrl: "https://www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5f9f5a7e6f5b310011724b4a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump adviser on FBI's Clinton email probe"
+    excerpt: "News that the FBI has discovered new emails related to its investigation of Hillary Clinton's private email server has rocked the presidential race with only 11 days to go. Senior adviser to the Trump campaign AJ Delgado joins CBSN to discuss the latest developments."
+    publishedDateTime: 2020-11-03T06:52:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-adviser-on-fbi-clinton-email-probe/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/f56475a8-5a58-4f82-bc73-d23db539bc8e/thumbnail/1200x630/2cec8063b9dd7287ab3357bd89618942/cbsn-trump-clinton-1023-1164816-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump to return to Minnesota for Rochester rally on Friday"
+    excerpt: "As Election Day looms, President Donald Trump is returning to Minnesota for a rally Friday in Rochester that will mark his fourth trip to the state in recent weeks, his campaign announced Wednesday."
+    publishedDateTime: 2020-10-28T21:15:00Z
+    webUrl: "https://www.startribune.com/trump-to-return-to-minnesota-for-rochester-rally-on-friday/572901371/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1603745573"
+        width: 1680
+        height: 876
         isCached: true
 
 secured: "qdeB5Vn93oqnV2t5Mam50WCWZko6AZJAZQ8No+eEP/AsLqnMGOYi5O+ihPNpumHMaschdoMBcI9G46p5Sa3xjvSBgPZCZ6nPEB69jbQVpM9AkFMXfYjJk44YyrEusiUY9NLJizjvL763UrKTjCMfPtBwKHA9cm+t8S+gce40L3fv1388+BiMyE5lflSDEx6ydwewNJe/XKC04L3FxAfyW54oK7Lpb+VusSyV/mYPnyjfacZVbX/O2dYFWjQXS2ZQl7Z3AFA0Ysii5RwRRYW2gMuiXk+tokfkdYeCUyMKHE/NCmXo4EtTQqG2J457Ysuh3QjOZH8Vr8xBGy/eMX3ndw00oa75zx7JrVK28bOabvE=;u21Fp/i+E9GXT83G05tqkw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671"
 type: article
 quality: 153
-heat: 1253
+heat: 1293
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Donald Trump Says He Already Won Election, Taking Case to Supreme Court"
+    excerpt: "\"We don't want them to find any ballots at four o'clock in the morning and add them to the list,\" President Donald Trump said Wednesday as he claimed that the Democrats were attempting to steal the election."
+    publishedDateTime: 2020-11-04T06:55:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-says-he-already-won-election-taking-case-supreme-court-1544670"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-says-he-already-won-election-taking-case-supreme-court-1544670?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-he-already-won-election-taking-case-supreme-court-1544670?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1664339/donald-trump-election-speech.jpg"
+        width: 2500
+        height: 1584
+        isCached: true
   - title: "Latest Election Day updates: Trump has a commanding lead in Florida"
     excerpt: "Our live coverage of Election Day includes updates on voter turnout, the latest on Trump and Biden, and news from polling places around Florida."
     publishedDateTime: 2020-11-04T04:19:00Z
@@ -238,6 +254,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/01/USAT/b419930c-8f78-4492-bc29-4348d2ea5ade-AP_Election_2020_Texas.jpg?auto=webp&crop=3985,2241,x1068,y373&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "NYT needle shows election tipping for Biden in Georgia before moving to toss-up"
+    excerpt: "Former Vice President Joe Biden (D) holds an advantage over President Trump for control of Georgia's 16 Electoral College votes, with just over 80 percent of precincts reporting, according to a New York Times projection Tuesday evening."
+    publishedDateTime: 2020-11-04T06:26:00Z
+    webUrl: "https://thehill.com/homenews/campaign/524397-nyt-needle-shows-election-tipping-for-biden-in-georgia-before-moving-to"
+    ampWebUrl: "https://thehill.com/homenews/campaign/524397-nyt-needle-shows-election-tipping-for-biden-in-georgia-before-moving-to?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/524397-nyt-needle-shows-election-tipping-for-biden-in-georgia-before-moving-to?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 136
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10312020_gettyimages_1.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Election live updates: Donald Trump says he's not nervous: 'I've been here before'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden are in the home stretch of this campaign with just hours to go before Election Day."

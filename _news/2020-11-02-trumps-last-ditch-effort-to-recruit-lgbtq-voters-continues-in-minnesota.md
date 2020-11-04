@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/lgbtq-trump-supporters-rally-in-minn
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11?amp"
 type: article
 quality: 124
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,21 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign tells Minnesota police union to get retired cops to be ‘Poll Challengers’"
-    excerpt: "President Donald Trump’s ongoing efforts to suppress voters are taking things to the next level in Minnesota, where his campaign is demanding the police union gather retired cops who will be “poll challengers."
-    publishedDateTime: 2020-10-29T15:58:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-campaign-tells-minnesota-police-union-to-get-retired-cops-to-be-poll-challengers/amp/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-campaign-tells-minnesota-police-union-to-get-retired-cops-to-be-poll-challengers/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-campaign-tells-minnesota-police-union-to-get-retired-cops-to-be-poll-challengers/amp/"
+  - title: "Donald Trump has won North Dakota"
+    excerpt: "The state has three electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-04T00:16:00Z
+    webUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 66
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/11/shutterstock_498487594.jpg"
-        width: 786
-        height: 418
+      - url: "https://i.insider.com/5fa2201b69331a0011bc7288?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Deutsche Bank eager to cut Trump ties - sources"
+    excerpt: "Posted . Deutsche Bank is tired of the negative publicity over its lending to Donald Trump, according to Reuters sourc"
+    publishedDateTime: 2020-11-03T12:37:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP7Dg?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa14547e4b04d4457630913-1604404551926?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump adviser on FBI's Clinton email probe"
+    excerpt: "News that the FBI has discovered new emails related to its investigation of Hillary Clinton's private email server has rocked the presidential race with only 11 days to go. Senior adviser to the Trump campaign AJ Delgado joins CBSN to discuss the latest developments."
+    publishedDateTime: 2020-11-03T06:52:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-adviser-on-fbi-clinton-email-probe/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/f56475a8-5a58-4f82-bc73-d23db539bc8e/thumbnail/1200x630/2cec8063b9dd7287ab3357bd89618942/cbsn-trump-clinton-1023-1164816-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump to return to Minnesota for Rochester rally on Friday"
     excerpt: "As Election Day looms, President Donald Trump is returning to Minnesota for a rally Friday in Rochester that will mark his fourth trip to the state in recent weeks, his campaign announced Wednesday."

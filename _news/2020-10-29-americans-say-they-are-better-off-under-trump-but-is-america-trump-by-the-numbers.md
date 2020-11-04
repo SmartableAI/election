@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden has won Virginia"
+    excerpt: "The state has 13 electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-04T00:31:00Z
+    webUrl: "https://www.businessinsider.com/virginia-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/virginia-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa203881df1d50018218bb6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Iran is Hoping for Biden Return to Nuclear Deal—But Trust Will Be Hard to Rebuild | Analysis"
     excerpt: "While the Trump administration has repeatedly said its door was open for talks, Iranian President Hassan Rouhani has insisted that the U.S. must first return to the nuclear deal and lift its unilateral sanctions."
     publishedDateTime: 2020-11-03T19:29:00Z

@@ -3,10 +3,10 @@ category: news
 title: "The Remaining Vote in Pennsylvania Appears to Be Overwhelmingly for Biden"
 excerpt: "President Trump leads by nearly 700,000 votes in Pennsylvania as of 5 a.m. on Wednesday, and Mr. Biden’s chances depend on whether he can win a large percentage of the more than"
 publishedDateTime: 2020-11-04T11:57:00Z
-originalUrl: "https://www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.html"
-webUrl: "https://www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.html"
-ampWebUrl: "https://www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/upshot/biden-pennsylvania-election-ballots.amp.html"
+originalUrl: "https://www.nytimes.com/2020/11/04/upshot/pennsylvania-election-results-ballots.html"
+webUrl: "https://www.nytimes.com/2020/11/04/upshot/pennsylvania-election-results-ballots.html"
+ampWebUrl: "https://www.nytimes.com/2020/11/04/upshot/pennsylvania-election-results-ballots.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/upshot/pennsylvania-election-results-ballots.amp.html"
 type: article
 quality: 134
 heat: -1
@@ -1440,6 +1440,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Biden and Trump Are Locked in Tight Race as Uncounted Votes Remain"
+    excerpt: "Joe Biden expressed confidence to supporters as President Trump falsely claimed victory. In the Senate races, Democrats faced an uphill battle to claim a majority."
+    publishedDateTime: 2020-11-04T14:19:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/03/us/trump-biden-election"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/03/us/trump-biden-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/03/us/trump-biden-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/world/04election-night-briefing-trump-biden-speeches-sub/04election-night-briefing-trump-biden-speeches-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "How Joe Biden and Donald Trump Can Each Still Win the Presidency"
     excerpt: "The president was able to close off several avenues to an early Biden win, but the former vice president still has a number of options."
     publishedDateTime: 2020-11-04T10:46:00Z
@@ -1868,6 +1884,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden tells supporters, 'We're on track to win'"
+    excerpt: "Joe Biden speaks to supporters in Delaware as votes are still being counted and says they \"feel very good about where we are.\""
+    publishedDateTime: 2020-11-04T07:34:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-tells-supporters-we-re-on-track-to-win-95284805763"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95284805763"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95284805763"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_full_2020_biden_speech_201103_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden won in Minnesota."
     excerpt: "Minnesota election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
     publishedDateTime: 2020-11-04T10:19:00Z
@@ -2220,6 +2252,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "4xmKrTtiMlc3FRiOqal3GOkD0h+QjhNsyf9dhehbqdQpKgk1LA6bSZ4z6MIZlUEEgqgBQUOip887N4mEcEaHFfd7zFYlNlWcTKH8JKOOahfiPUmv/WpSymhNTdwztnKC5dCjiQk+GJAZe01P8O2hZ7cg7jnwZAbsWI26J/j4vFVET+clYJqI5Vk77DeHCZAFBwbo98ERXptq4TpV5ZoP0H38JwpEqeAJpo9dQgVvJFnwnmanhx7Y8uZyaY0Q4ZedzrUIKK0EtCxuTLB4KqSrzzSr4PJYKflHaG8xQALlxN5RbfQ888meSVuku4+4OXf7DeAU4j5A1sy1E4ga+LgTAt1Oleh45nuG/f4kJ5AXJmk=;LncCRCsurwTI6rpPPEEwmQ=="
+secured: "6frx+ZZ7w213CGA11i2mSmuM+ep4Q4RHvnNPIdjiGsXownCwNmnh54ESlm0oRm19cu4m/wseuw2GLTQ1QHT8vmJjl7NWemrGNAl+w5RHQp0007G/gxDY4aegNYYj2yFe+PqNRpowmeepdznPv0yF4VNd4E3lCX4ioPU20iCiplsV99JDuYOTk8FimTLwbJddL13LVpUKLb3qZxKVxRWAMS6DOjurPOLgdjqZOouyButwXkNU4pQBwkY7fKvE7rGW9v0NcNAtSdeFv2RBrBJM4/fcoi5SkADa0SsJOJf9ngUO8ab9kmzYSCyZPy5228AmNMm02Fvm+Wmo/VD+d7oleCc3xjD0Zh8L+gKRTVMfk9s=;ZySq5qVQNLopLF7PQinyXA=="
 ---
 

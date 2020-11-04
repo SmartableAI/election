@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden has won Virginia"
+    excerpt: "The state has 13 electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-04T00:31:00Z
+    webUrl: "https://www.businessinsider.com/virginia-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/virginia-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa203881df1d50018218bb6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Americans say they are better off under Trump, but is America? Trump by the numbers"
     excerpt: "Gallup reports that 56% said they're better off than in 2016, but 56% also said President Donald Trump does not deserve to be reelected."
     publishedDateTime: 2020-10-29T09:21:00Z
