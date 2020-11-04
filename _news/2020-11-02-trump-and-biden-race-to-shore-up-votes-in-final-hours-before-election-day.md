@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 2784
+heat: 2804
 published: true
 
 provider:
@@ -1954,6 +1954,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/01/us/01elections-briefing-trump-blockade/merlin_179418138_1d29c06b-dc34-4fe2-9751-7a15b5b8451d-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Donald Trump won in Indiana."
+    excerpt: "Indiana election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T01:58:00Z
+    webUrl: "https://www.politico.com/2020-election/results/indiana/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/18.jpg"
+        width: 600
+        height: 325
         isCached: true
   - title: "Donald Trump won in South Dakota."
     excerpt: "South Dakota election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."

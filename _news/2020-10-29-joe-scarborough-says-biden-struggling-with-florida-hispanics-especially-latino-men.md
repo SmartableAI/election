@@ -89,6 +89,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lady Gaga Reflects on Taylor Kinney Engagement at Joe Biden Rally"
+    excerpt: "Lady Gaga has a \"new Pennsylvania guy,\" but that doesn't mean she's forgotten about the old one. The \"Shallow\" singer reflected on her relationship with ex-fiance Taylor Kinney while performing at Joe Biden 's final drive-in campaign rally in Pittsburgh,"
+    publishedDateTime: 2020-11-04T01:07:00Z
+    webUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810"
+    ampWebUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 75
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/gettyimages-1229426493.jpg?itok=7LDzhd6p"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lady Gaga Joins Joe & Jill Biden at Final Drive-In Rally in Pittsburgh"
     excerpt: "Democratic presidential candidate Joe Biden and his wife Jill speak at a drive-in rally in Pittsburgh, their final campaign event on the eve of Election Day. Also featured is singer Lady Gaga. 2020 Democratic presidential candidate Joe Biden and his wife Jill speak at a drive-in rally in Pittsburgh,"
     publishedDateTime: 2020-11-02T10:21:00Z

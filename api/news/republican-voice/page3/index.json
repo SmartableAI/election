@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-28-white-houses-stephen-miller-warns-of-nationwide-catch-and-release-if-biden-is-elected.md",
+      "title": "White House’s Stephen Miller warns of ‘nationwide catch and release’ if Biden is elected",
+      "excerpt": "White House adviser Stephen Miller on Wednesday warned of a policy of “nationwide catch and release” if Democratic nominee Joe Biden is elected to the White House -- painting a stark contrast with the Trump administration’s stance on immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b530d401-035d-4417-afe9-6328f16ac9d0/c7bd7582-9739-4393-9db4-069bf0b51ebb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
+      "publishedDateTime": "2020-10-28T14:46:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-ben-shapiro-calls-biden-a-gateway-drug-to-radicalism-not-a-return-to-normalcy.md",
       "title": "Ben Shapiro calls Biden a 'gateway drug to radicalism', not a return to normalcy",
       "excerpt": "Joe Biden has based his presidential campaign on a promise to restore \"normalcy\" if he unseats President Trump, but the former vice president will act as nothing more than \"a gateway drug to radicalism,",
@@ -521,7 +577,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3185,
+      "heat": 3245,
       "tags": null,
       "images": [
         {
@@ -1609,62 +1665,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing.amp",
       "publishedDateTime": "2020-10-24T22:21:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-trump-told-donors-holding-republican-senate-would-be-very-tough-report.md",
-      "title": "Trump told donors holding Republican Senate would be 'very tough': report",
-      "excerpt": "President Trump privately told donors it would be “very tough” for Republicans to maintain control of the Senate come November because he cannot support all of the party’s candidates, according to a report. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U3V2jQYz-_M/trump-donors-republican-senate-very-tough",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U3V2jQYz-_M/trump-donors-republican-senate-very-tough",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-BT-1.jpg",
-          "width": 1280,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-donors-republican-senate-very-tough.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-donors-republican-senate-very-tough.amp",
-      "publishedDateTime": "2020-10-24T17:37:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

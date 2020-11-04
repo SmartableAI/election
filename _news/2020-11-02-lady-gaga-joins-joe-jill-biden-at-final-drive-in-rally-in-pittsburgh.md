@@ -81,6 +81,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lady Gaga Reflects on Taylor Kinney Engagement at Joe Biden Rally"
+    excerpt: "Lady Gaga has a \"new Pennsylvania guy,\" but that doesn't mean she's forgotten about the old one. The \"Shallow\" singer reflected on her relationship with ex-fiance Taylor Kinney while performing at Joe Biden 's final drive-in campaign rally in Pittsburgh,"
+    publishedDateTime: 2020-11-04T01:07:00Z
+    webUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810"
+    ampWebUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 75
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/gettyimages-1229426493.jpg?itok=7LDzhd6p"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Scarborough Says Biden Struggling with Florida Hispanics: ‘Especially Latino Men’"
     excerpt: "MSNBC host and former Congressman Joe Scarborough said Democratic presidential nominee Joe Biden needs to improve his share of the vote among Florida Hispanics in order to win the state."
     publishedDateTime: 2020-10-29T15:07:00Z

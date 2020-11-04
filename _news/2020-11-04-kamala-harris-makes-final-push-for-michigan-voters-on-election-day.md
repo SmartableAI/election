@@ -676,6 +676,22 @@ related:
         width: 1300
         height: 900
         isCached: true
+  - title: "Kamala Harris makes Election Day appeal to voters in Detroit"
+    excerpt: "The Democratic vice presidential candidate spent part of her Election Day in the Motor City, talking to voters"
+    publishedDateTime: 2020-11-04T04:09:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/11/03/kamala-harris-detroit-michigan-election-day/6130995002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/6130995002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6130995002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDTN/5c5347ad-0006-4a02-b44d-e7ce0bc00ad9-kamala-detroit.jpg?auto=webp&crop=1619,911,x0,y82&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris knocks Trump multiple times for questioning Obama's birthplace"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris knocked President Trump multiple times on Friday for questioning whether former President Barack Obama was born in the United States."
     publishedDateTime: 2020-10-23T22:53:00Z

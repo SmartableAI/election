@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-22-trump-grants-clemency-to-alice-marie-johnson-associate-4-other-nonviolent-criminals.md",
+      "title": "Trump grants clemency to Alice Marie Johnson associate, 4 other nonviolent criminals",
+      "excerpt": "President Trump granted clemency on Wednesday to five prisoners-- including one who was an associate of Alice Marie Johnson-- who were each serving time in prison for non-violent offenses. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J6z_-zdnn78/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J6z_-zdnn78/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ef2b296-8a08-4701-b0a4-a158c458d0f1/8bc4c25e-c990-4d71-8e66-cf2615c72ff4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals.amp",
+      "publishedDateTime": "2020-10-21T17:17:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-blackburn-trump-should-focus-on-his-incredible-record-at-presidential-debate-not-biden-inc.md",
       "title": "Blackburn: Trump should focus on his 'incredible record' at presidential debate, not 'Biden Inc.'",
       "excerpt": "President Trump should focus on his own accomplishments during Thursday night's second and final presidential debate against Joe Biden, Sen. Marsha Blackburn, R-Tenn., told \"Special Report\" Wednesday.",
@@ -1577,63 +1633,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-laura-ingraham-president-joe-biden-would-be-surrounded-by-lapdogs-in-mainstream-media.md",
-      "title": "Laura Ingraham: President Joe Biden would be 'surrounded by lapdogs' in mainstream media",
-      "excerpt": "Events this week have made it more clear than ever that the mainstream media is Joe Biden's primary campaign communications team, Laura Ingraham claimed Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs",
-      "originalUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3c39a6d-e37a-439e-84b0-f844b788d6a4/3a53338a-e0c8-4d63-bbce-705d0589afc6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs.amp",
-      "publishedDateTime": "2020-10-16T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

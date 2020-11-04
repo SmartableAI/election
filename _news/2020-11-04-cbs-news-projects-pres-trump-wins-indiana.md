@@ -45,6 +45,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Donald Trump is projected to win Louisiana"
+    excerpt: "Louisiana has eight electoral votes and is not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
+    publishedDateTime: 2020-11-04T02:11:00Z
+    webUrl: "https://www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa210bb69331a0011bc7278?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Scorned by Trump, many Nigerians love him all the same"
     excerpt: "Hundreds of men and women marched, clad in T-shirts supporting U.S. President Donald Trump or pink fabric dresses bearing the image of Jesus, as they waved American flags, Republican presidential campaign signs,"
     publishedDateTime: 2020-11-04T00:09:00Z

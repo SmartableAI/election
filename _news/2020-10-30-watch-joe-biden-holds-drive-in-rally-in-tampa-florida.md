@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
     quality: 105
     images:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/11/03/story_07518181_1604367844.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lady Gaga Reflects on Taylor Kinney Engagement at Joe Biden Rally"
+    excerpt: "Lady Gaga has a \"new Pennsylvania guy,\" but that doesn't mean she's forgotten about the old one. The \"Shallow\" singer reflected on her relationship with ex-fiance Taylor Kinney while performing at Joe Biden 's final drive-in campaign rally in Pittsburgh,"
+    publishedDateTime: 2020-11-04T01:07:00Z
+    webUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810"
+    ampWebUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 75
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/gettyimages-1229426493.jpg?itok=7LDzhd6p"
         width: 1280
         height: 720
         isCached: true

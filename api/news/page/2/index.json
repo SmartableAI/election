@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-03-indias-hindu-fringe-group-holds-prayers-for-trump.md",
+      "title": "India's Hindu fringe group holds prayers for Trump",
+      "excerpt": "World India's Hindu fringe group holds prayers for Trump. Posted . A Hindu right-wing group in New Delhi held special prayers for U.S. President Donald Trump's victory in the pres",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/indias-hindu-fringe-group-holds-prayers-id721520944?chan=8gwsyvzx",
+      "originalUrl": "https://www.reuters.com/video/watch/indias-hindu-fringe-group-holds-prayers-id721520944?chan=8gwsyvzx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20201103&i=OVD30R7XB&r=OVD30R7XB&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-trumps-campaign-booked-out-youtubes-homepage-for-election-day-youtube-wont-let-that-happen-again-but-insists-its-nothing-to-do-with-trump.md",
       "title": "Trump's campaign booked out YouTube's homepage for Election Day. YouTube won't let that happen again — but insists it's nothing to do with Trump.",
       "excerpt": "YouTube will no longer allow advertisers to book out its main homepage slots for days at a time. The change had nothing to do with Trump, Google said.",
@@ -1145,7 +1197,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1053,
+      "heat": 1133,
       "tags": null,
       "images": [
         {
@@ -1294,54 +1346,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-kamala-harris-equality-of-outcome-video-slammed-as-communism-pitch.md",
-      "title": "Kamala Harris’ ‘equality of outcome’ video slammed as communism pitch",
-      "excerpt": "A video made and shared by Democratic vice presidential candidate Kamala Harris is causing a stir on Twitter — for arguing in favor of the communist principle of equality of outcome. The",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/",
-      "originalUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/kamala-harris-communist-pitch.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/",
-      "publishedDateTime": "2020-11-02T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

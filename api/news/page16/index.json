@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-18-donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things.md",
+      "title": "Donald Trump Jr. says dad’s ‘next move’ is to ‘break up’ FBI: ‘He has to get rid of these things’",
+      "excerpt": "Donald Trump Jr. on Sunday called on his father to “break up” the FBI if he wins a second term. During an interview on Fox News, host Maria Bartiromo asked the president’s son what his father would do if the FBI does not do his bidding by smearing the son of Democratic nominee Joe Biden",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/",
+      "originalUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/VID_20201018_10.52.09-0001-794x430.jpg",
+          "width": 794,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/donald-trump-jr-says-dads-next-move-is-to-break-up-fbi-he-has-to-get-rid-of-these-things/amp/",
+      "publishedDateTime": "2020-10-18T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-it-needs-to-stop-whitmer-slams-donald-trump-for-rally-attack.md",
       "title": "‘It needs to stop’: Whitmer slams Donald Trump for rally attack",
       "excerpt": "Trump’s barbs at Michigan Governor Gretchen Whitmer, the target of a kidnapping plot, prompted chants of ‘lock her up’.",
@@ -1254,62 +1306,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-biden-blames-trumps-liberate-michigan-tweet-for-plot-to-kidnap-michigan-governor.md",
-      "title": "Biden blames Trump's 'liberate Michigan' tweet for plot to kidnap Michigan governor",
-      "excerpt": "Joe Biden said President Donald Trump bears blame for the alleged domestic terrorist plot to kidnap Michigan Gov. Gretchen Whitmer, pointing in a speech Friday to Trump's calls on Twitter to \"liberate Michigan\" in the wake of the Democratic governor's coronavirus-related restrictions.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YTlAkqNP1IE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YTlAkqNP1IE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015213641-joe-biden-abc-town-hall-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html",
-      "publishedDateTime": "2020-10-16T15:53:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

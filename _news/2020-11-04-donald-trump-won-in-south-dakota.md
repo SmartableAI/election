@@ -1970,6 +1970,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Donald Trump won in Indiana."
+    excerpt: "Indiana election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T01:58:00Z
+    webUrl: "https://www.politico.com/2020-election/results/indiana/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/18.jpg"
+        width: 600
+        height: 325
+        isCached: true
   - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
     excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
     publishedDateTime: 2020-10-25T04:00:00Z
@@ -2034,6 +2048,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "hZ//Zw9pWl9AFPgi0ZwlhyQgn8x2z6MeW9UGsJbXHINuFGiDVr0GtNSkhqR83erSc2laqk/Io9G+xyR5mN2Ofei6vnNGB3RfUsKOpyKGvKK2k61up6P/agBu2KnYx4yPb4lC8z0lNAglBHfUL0PGgv8bB9PGe4KoKN8X32KIsgxbIbTXL87jrtlrJpDe4qEF2I+oScR1WowcnbVNMvQoBYojYz2gwPqxEXv0/nBzANSLTbIgu/0I3Cchr5HfaFXB12WfpBxtfPKqslmz4PeCUt6eQ+n5Jlu5cSVebSWPQ/K/y4/goCNoonGMTPx3enG+LJWAqtVioGDZHdwVL5Nf6sqKfIeFY0PsXBoW4TPeeMA=;MDYHIPhTuKi8F4/WLkWS4w=="
+secured: "+ot3i2DQKxx0/tr2PDCiXl5mv7VR2OP7kjGrqHikmjcGCiYyObL05hatbBYmEWqtQDOvom37WBUZ4Epu+z7yKDAKhviZvGxSoZhMJAc5aCFYvY2Lh4AGEygRgz2jnmyWwx42XvPrVbphNKfYpp7sREstdZhYBDUC/VnIE0CAVsZClwiErFJZxjtzzqqGHRt9qYBqZxHKq8RNTU1Wz++fBDrG8aJXwoIndw1LkMXRlLp6KL7slQxKk1+6NkGBHJculdGEOAz33aPBIORfcRBI3V6d4zyYIn3OHbOI7MsmTu9hG34A4k43XSX0Q4Nrfg2/dAXzYsUufSJ4/q6VyW+M4toRnI0KCrN7FZH+oC8jtgYU6CfFAoptUKRJdouWearVisiUc+z2p1VPo1+xWflKWFDuAhrJpuJndH5uPdkBIaLC4Q7YvKlpgTcQ3vtysGsML2/taFdAlkyBcnzUa1HyMZEPx+uOWGhKUPcU29/T7PUjm082SCk8RQchKXA1S4f7A4K+k0awHr4UIfWxocJ9ng==;QP5QUZ6WWQXJdmdVDvaP3w=="
 ---
 

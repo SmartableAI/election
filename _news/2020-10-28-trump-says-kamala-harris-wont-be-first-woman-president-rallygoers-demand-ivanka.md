@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-p
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1"
 type: article
 quality: 144
-heat: 344
+heat: 364
 published: true
 
 provider:
@@ -178,6 +178,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 45
+  - title: "President Trump and Vice President Pence Speak at Campaign Rally in Traverse City, Michigan"
+    excerpt: "President Trump and Vice President Mike Pence spoke at a campaign rally in Traverse City, Michigan. There are about 16 minutes between the vice president and president's remarks."
+    publishedDateTime: 2020-11-04T03:22:00Z
+    webUrl: "https://www.c-span.org/event/?477685/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 40
 
 secured: "Wq2vNnHuk9fRTfg1QiJgNTF571UuLSIjNHs3BEqsLxlRO9MUVSfOb313fE7IU4wWwHMihmVkP5CVMdUHHUQ3GBmsXeCpJFOoFeC0jrVYVQYo0kguzQDIqVhlGpVfXbjmxoRE1k6vJSRcVjP0Ijxw2El4BKtOLYVxUR4U+XGF63vfSSaBgtB6W5ouvA2lAxwMh4a1fZHHLuF0+sC1QZFqd+E5Cp+qf7vboQEc4zx8Nu824kuC/CrqbEfKNxN3Y+d5cBuZ0HXWZlxj9FUB38sLj3cxsHr7rbAW+NmUMbp2PIHcAjX2CVUq+Ycg4SWBJcsyX1r3JZCJefvTEgKUcHe//uPG7u/7lQZZR63PPSQktW/ix9Z0xTJUAq8RoQou2IVfdpvdSKIyXYmlc2m8jZxWqFLXqW2XE1GutveNMpfOsrltxtDV+34lKIStUnq0Z6CABS72gLWMxsRiXn4DJxAG8SW7yyKPJ7dWvNWWqjzK/b/F2NtxCR8Dj9LQ5M6J49Ae9OMcMLHcAejwNw1SYDZZAQ==;vzhx9ENEvWMRSau/vCNAmA=="
 ---

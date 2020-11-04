@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Donald Trump projected to win Arkansas"
+    excerpt: "The state holds six electoral votes and leans heavily Republican. Every member of Arkansas' Congressional delegation is a GOP member."
+    publishedDateTime: 2020-11-04T01:58:00Z
+    webUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f96e5e94743a3001216b98c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump projected to win South Carolina"
     excerpt: "The state has nine electoral votes and was not expected by analysts to be particularly competitive."

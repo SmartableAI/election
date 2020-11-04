@@ -2,6 +2,63 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-05-russians-have-committed-to-not-interfering-in-elections-trump-aide-insists.md",
+      "title": "Russians ‘Have Committed’ to Not Interfering in Elections, Trump Aide Insists",
+      "excerpt": "Robert C. O’Brien, the national security adviser, said he warned his Russian counterpart there would be “no tolerance” for interference, but didn’t mention evidence of Moscow’s influence operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/04dc-russia-foto/04dc-russia-foto-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html",
+      "publishedDateTime": "2020-10-04T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden.md",
       "title": "Will new Florida voters tip the election in favor of Joe Biden?",
       "excerpt": "Are we there yet? After the first debate, and the news about Donald Trump, many Americans are wondering when the election will end.",
@@ -1261,62 +1318,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bernie-sanders-trump-first-lady-recovery.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-trump-first-lady-recovery.amp",
       "publishedDateTime": "2020-10-03T13:04:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-trump-campaign-keeping-at-full-speed-with-operation-maga-as-trump-fights-covid-19.md",
-      "title": "Trump campaign keeping at ‘full speed’ with 'Operation MAGA' as Trump fights COVID-19",
-      "excerpt": "The campaign is launching \"Operation MAGA,\" which features virtual events ahead of the VP debate, and resumes in-person events with Pence, members of Trump family.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DNiMs_Ma3S8/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DNiMs_Ma3S8/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp",
-      "publishedDateTime": "2020-10-03T12:41:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

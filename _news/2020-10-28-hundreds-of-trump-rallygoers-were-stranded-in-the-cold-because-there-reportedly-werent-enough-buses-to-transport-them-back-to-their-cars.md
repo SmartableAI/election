@@ -177,6 +177,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 45
+  - title: "President Trump and Vice President Pence Speak at Campaign Rally in Traverse City, Michigan"
+    excerpt: "President Trump and Vice President Mike Pence spoke at a campaign rally in Traverse City, Michigan. There are about 16 minutes between the vice president and president's remarks."
+    publishedDateTime: 2020-11-04T03:22:00Z
+    webUrl: "https://www.c-span.org/event/?477685/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 40
 
 secured: "IKXwl4iUV9ChtSbJK2SvhHtrJBPF58w74OmjnL9sOesoiQsbZLGgGJJgGtRnD9yy1ptUhpN9LUsmivSsKslAqY9VYdQS/RJYnCV0RmhznNix5VkDsNkbjtOLqf3ThO24HGoiDVUVMQvZDQCSc5FI2S0MWCgRmIPsxo7cdKCQDijM49enk410UCTTlgJZe28tEm9cB+4pyPWL4rBG9yncxYTb9PUQifcE6n+XF4tnsMlyNbByvQlQ/GuVsDUmYxF84/9adSzbit6Ko1tpYgmkZF/9PW8UcD47riAF9PIPJ/Ln6VzuKxhN13P5a4qTqiMITFsADy42M7lqrXIkFvpvct+2RmJTegiug1JSzpDjSP0=;/AkJyJxuZoV8vox2t2boIw=="
 ---

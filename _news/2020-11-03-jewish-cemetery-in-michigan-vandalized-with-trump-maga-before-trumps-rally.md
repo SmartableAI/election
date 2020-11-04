@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump projected to win Arkansas"
+    excerpt: "The state holds six electoral votes and leans heavily Republican. Every member of Arkansas' Congressional delegation is a GOP member."
+    publishedDateTime: 2020-11-04T01:58:00Z
+    webUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f96e5e94743a3001216b98c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump projected to win South Carolina"
     excerpt: "The state has nine electoral votes and was not expected by analysts to be particularly competitive."
     publishedDateTime: 2020-11-04T02:47:00Z

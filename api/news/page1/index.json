@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-04-ex-espn-host-jemele-hill-says-its-on-white-people-if-trump-wins-reelection-no-one-else.md",
+      "title": "Ex-ESPN host Jemele Hill says 'it's on White people' if Trump wins reelection: 'No one else'",
+      "excerpt": "ESPN host Jemele Hill declared Tuesday that only White people are to blame if President Trump defeats Democratic nominee Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection",
+      "originalUrl": "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Jemele-Hill-TWEET.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection.amp",
+      "publishedDateTime": "2020-11-03T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.md",
       "title": "Nevada county judge keeps some polls open later after Trump campaign sues",
       "excerpt": "Some polling locations in Nevada’s Clark County will stay open until 8 p.m. after a GOP lawsuit. ",
@@ -1271,58 +1328,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-indias-hindu-fringe-group-holds-prayers-for-trump.md",
-      "title": "India's Hindu fringe group holds prayers for Trump",
-      "excerpt": "World India's Hindu fringe group holds prayers for Trump. Posted . A Hindu right-wing group in New Delhi held special prayers for U.S. President Donald Trump's victory in the pres",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/indias-hindu-fringe-group-holds-prayers-id721520944?chan=8gwsyvzx",
-      "originalUrl": "https://www.reuters.com/video/watch/indias-hindu-fringe-group-holds-prayers-id721520944?chan=8gwsyvzx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20201103&i=OVD30R7XB&r=OVD30R7XB&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

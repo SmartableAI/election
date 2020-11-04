@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden is projected to win New Mexico"
+    excerpt: "The state has five electoral votes and wasn't expected to be competitive. It has voted for a Democrat in six of the last seven presidential elections."
+    publishedDateTime: 2020-11-04T04:12:00Z
+    webUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa232441df1d50018218be6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden begins his Election Day at Delaware church"
     excerpt: "Joe Biden is starting Election Day with a visit to church - and his son, Beau. (Nov. 3) AP Domestic. More Videos"
     publishedDateTime: 2020-11-04T01:29:00Z

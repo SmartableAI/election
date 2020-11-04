@@ -479,6 +479,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Joe Biden’s Non-Radical 1960s"
+    excerpt: "“They’ve got you wrapped around their finger, Joe,” Mr. Trump taunted at their first debate. Mr. Biden, a 77-year-old moderate who cites John Wayne movies and long-dead Senate ..."
+    publishedDateTime: 2020-10-19T12:26:00Z
+    webUrl: "https://www.nytimes.com/2020/10/17/us/politics/joe-biden-college-1960s.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/17/us/politics/joe-biden-college-1960s.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/17/us/politics/joe-biden-college-1960s.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/18/us/politics/00young-biden/00young-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden says he will be a president for all Americans in debate closer"
     excerpt: "In his closing address at the final presidential debate, Joe Biden says he would be an American president, “I represent all of you whether you voted for me or against me.”"
     publishedDateTime: 2020-10-23T03:00:00Z
@@ -664,6 +680,20 @@ related:
       - url: "https://static.politico.com/66/98/f23ff2784f79af4dd34c32deaa88/gettyimages-1228187785-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "The race to be Biden’s secretary of State is already underway"
+    excerpt: "The race to serve as Joe Biden’s secretary of State has already begun, and the signs are surprisingly obvious if you know where to look. Another Democratic senator, Connecticut’s Chris Murphy ..."
+    publishedDateTime: 2020-10-19T10:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/joe-biden-secretary-of-state-430089"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/0c/d5/1a829b3b49d49298d52eae8929a4/ap20292786505155.jpg"
+        width: 4245
+        height: 2828
         isCached: true
   - title: "Admiral from bin Laden raid endorses Biden in dramatic fashion"
     excerpt: "\"I am a pro-life, pro-Second Amendment, small-government, strong-defense and a national-anthem-standing conservative,\" William McRaven wrote. \"But...\""

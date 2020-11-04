@@ -8,7 +8,7 @@ webUrl: "https://www.politico.com/news/2020/10/21/biden-braces-for-trumps-attack
 ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/biden-braces-for-trumps-attacks-on-hunter-debate-430441"
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/biden-braces-for-trumps-attacks-on-hunter-debate-430441"
 type: article
-quality: 150
+quality: 160
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://static.politico.com/24/fd/2171cd4849f09d1e7e82d029056b/202120-biden-ap-773.jpg"

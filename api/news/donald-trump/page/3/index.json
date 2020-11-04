@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-24-video-shows-a-man-holding-up-a-hand-gesture-tied-to-white-supremacy-behind-trump-at-his-florida-rally.md",
+      "title": "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally",
+      "excerpt": "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10",
+      "originalUrl": "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp",
+      "publishedDateTime": "2020-10-24T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-if-trump-loses-the-election-qanon-will-also-lose-support-and-eventually-disintegrate.md",
       "title": "If Trump loses the election, QAnon will also lose support — and eventually disintegrate",
       "excerpt": "When cult adherents get confused, then ashamed, then realize they’ve been scammed, they get angry and exit. People are not permanently programmed.",
@@ -1515,58 +1567,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-early-votes-in-texas-have-already-surpassed-all-the-statewide-ballots-cast-for-trump-in-2016.md",
-      "title": "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016",
-      "excerpt": "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10",
-      "originalUrl": "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg",
-          "width": 911,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp",
-      "publishedDateTime": "2020-10-20T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

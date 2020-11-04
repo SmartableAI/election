@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-30-the-latest-trump-meets-troops-involved-in-al-baghdadi-raid.md",
+      "title": "The Latest: Trump meets troops involved in al-Baghdadi raid",
+      "excerpt": "President Donald Trump quietly met with U.S. Special Forces troops involved in last year’s raid to kill Islamic State leader Abu Bakr al-Baghdadi",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-29T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-schumer-calls-trump-a-moron-over-coronavirus-response.md",
       "title": "Schumer calls Trump 'a moron' over coronavirus response",
       "excerpt": "Senate Minority Leader Charles Schumer (D-N.Y.) on Thursday said the federal government is failing to react appropriately to surging coronavirus cases around the country because President Trump is “a moron.",
@@ -326,7 +378,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -652,7 +704,7 @@
       "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1267,62 +1319,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-trump-jr-warns-election-is-about-freedom-versus-tyranny-capitalism-versus-socialism-and-communism.md",
-      "title": "Trump Jr. warns election is 'about freedom versus tyranny, capitalism versus socialism and Communism'",
-      "excerpt": "The Democrats' \"endgame\" is to transform America into a far-left, Marxist state where dissent is not permitted, Donald Trump Jr. told \"Hannity\" Wednesday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l7dRPBdl3yI/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l7dRPBdl3yI/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9942e7b-6b0a-44f9-adb5-f4160494c7c8/af75e25c-e3e2-4766-a781-cbdb39525ebe/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-2020-election-freedom-tyranny-capitalism-socialism.amp",
-      "publishedDateTime": "2020-10-28T20:19:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -2443,6 +2443,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Lobbyists begin to prepare for a potential Biden presidency"
+    excerpt: "Lobbyists are beginning to prepare for a potential Joe Biden presidency as he leads President Donald Trump in national and several swing state polls. In recent weeks, some lobbyists have started ..."
+    publishedDateTime: 2020-10-19T19:57:00Z
+    webUrl: "https://www.cnbc.com/2020/10/19/lobbyists-begin-to-prepare-for-a-potential-joe-biden-presidency-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/19/lobbyists-begin-to-prepare-for-a-potential-joe-biden-presidency-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/19/lobbyists-begin-to-prepare-for-a-potential-joe-biden-presidency-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106750420-1603112614611-gettyimages-1229154705-775578343.jpeg?v=1603112652"
+        width: 5480
+        height: 3653
+        isCached: true
+  - title: "Nearly 600 Prominent Republicans Voting for Joe Biden"
+    excerpt: "With two weeks until Election Day, former Republican National Committee Chairman Michael Steele has endorsed Democratic nominee Joe Biden for president, joining 593 other prominent Republicans who ..."
+    publishedDateTime: 2020-10-20T16:34:00Z
+    webUrl: "https://www.newsweek.com/nearly-350-prominent-republicans-voting-joe-biden-1540611"
+    ampWebUrl: "https://www.newsweek.com/nearly-350-prominent-republicans-voting-joe-biden-1540611?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-350-prominent-republicans-voting-joe-biden-1540611?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1655646/joe-biden.jpg"
+        width: 594
+        height: 395
+        isCached: true
   - title: "Retired Navy admiral behind bin Laden raid says he voted for Biden"
     excerpt: "William McRaven, the retired Navy admiral who oversaw the raid that killed Osama bin Laden, endorsed Democratic presidential nominee Joe Biden in an op-ed fo"
     publishedDateTime: 2020-10-20T15:12:00Z
@@ -3130,6 +3162,22 @@ related:
       - url: "https://thehill.com/sites/default/files/warrenelizabeth_bidenjoe_020120gn_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Get Ready For President Biden To Throw U.S. Security Policies Into Reverse"
+    excerpt: "Joe Biden thus is likely to be elected president in November. If that occurs, U.S. security policies will change. The Trump approach to national security is not unlike the stance of the Republican ..."
+    publishedDateTime: 2020-10-20T16:09:00Z
+    webUrl: "https://www.forbes.com/sites/lorenthompson/2020/10/20/get-ready-for-president-biden-to-throw-us-security-policies-into-reverse/"
+    ampWebUrl: "https://www.forbes.com/sites/lorenthompson/2020/10/20/get-ready-for-president-biden-to-throw-us-security-policies-into-reverse/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2020/10/20/get-ready-for-president-biden-to-throw-us-security-policies-into-reverse/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 123
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8f0ad66fa3e1970b8771d8%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Nearly 300 former national security officials sign Biden endorsement letter"
     excerpt: "Nearly 300 more former national security officials have signed onto a letter endorsing Democratic candidate Joe Biden for president."
@@ -3910,6 +3958,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Yuan weakens to 3-week low as Trump leads Biden in battlegrounds"
+    excerpt: "The yuan weakened to a more than three-week low against a rising dollar on Wednesday, as some preliminary results suggested President Donald Trump led Democratic challenger Joe Biden in battleground states Florida and Texas."
+    publishedDateTime: 2020-11-04T04:58:00Z
+    webUrl: "https://www.reuters.com/article/china-yuan-midday-idUSL1N2HQ0OV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HQ0OV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HQ0OV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z
@@ -5584,6 +5643,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-19-at-9.51.46-AM-1200x676.jpg"
         width: 1200
         height: 676
+        isCached: true
+  - title: "A Biden presidency may seem normal, but it won't be boring"
+    excerpt: "In a little more than two weeks, Joe Biden may be president-elect. If the polls are correct, most voters are ready for a change from the wrecking-ball presidency of Donald Trump. What kind of ..."
+    publishedDateTime: 2020-10-19T18:07:00Z
+    webUrl: "https://www.newsday.com/opinion/commentary/joe-biden-presidency-2020-presidential-election-donald-trump-1.50041184"
+    ampWebUrl: "https://www.newsday.com/amp/opinion/commentary/joe-biden-presidency-2020-presidential-election-donald-trump-1.50041184"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/commentary/joe-biden-presidency-2020-presidential-election-donald-trump-1.50041184"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 75
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50041185.1603121302!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
   - title: "Gov. Doug Ducey did not mock Joe Biden, he mocked Doug Ducey"
     excerpt: "How can Arizona Gov. Doug Ducey proclaim his decency while promoting the election of a man who engages in ugly, insolent, disrespectful diatribes?"

@@ -139,6 +139,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Latest Election Day updates: Trump has a commanding lead in Florida"
+    excerpt: "Our live coverage of Election Day includes updates on voter turnout, the latest on Trump and Biden, and news from polling places around Florida."
+    publishedDateTime: 2020-11-04T04:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/live-updates-florida-election-day-voting-turnout-ballots-trump-biden/6038318002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6038318002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038318002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NPPP/5c24e614-5e1a-445b-94a7-cad671b83233-Early_Voting_2020_41.jpg?auto=webp&crop=3617,2035,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Virginia was called for Biden early despite Trump leading. Here's why."
+    excerpt: "Virginia was called early for Democratic presidential nominee Joe Biden, even through he trailed President Donald Trump. Here is why."
+    publishedDateTime: 2020-11-04T04:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/why-virginia-called-early-joe-biden-donald-trump-early-lead/6154834002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6154834002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6154834002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/14c2d686-0f33-4ee0-a0df-6de8e483eed2-USP_News__Election_Day_2020.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "After acrimonious campaign, uneasy Americans choose between Biden, Trump"
     excerpt: "After a rancorous presidential campaign that exposed the depth of the political divisions in the United States, Americans streamed to the polls on Tuesday to choose either incumbent Donald Trump or challenger Joe Biden to lead a pandemic-battered nation for the next"
     publishedDateTime: 2020-11-03T20:29:00Z
@@ -152,6 +184,22 @@ related:
     quality: 139
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539862843&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21OZ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump leads Biden in must-win Florida, race close in other battlegrounds"
+    excerpt: "President Donald Trump was leading Democratic rival Joe Biden in the vital battleground state of Florida on Tuesday, while other competitive swing states that will help decide the election, including North Carolina,"
+    publishedDateTime: 2020-11-04T04:18:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/trump-leads-biden-in-must-win-florida-race-close-in-other-battlegrounds-idUSKBN27J0FZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J0J2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0J2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539887119&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA303G"
         width: 817
         height: 545
         isCached: true
@@ -602,6 +650,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/30/americans-such-as-this-voter-in-pennsylvania-have.jpg"
         width: 1024
         height: 724
+        isCached: true
+  - title: "Harmony: Opposing Trump and Biden groups make music together"
+    excerpt: "A group of Donald Trump supporters and backers of Joe Biden started shouting at each other through bullhorns Tuesday night near a voting precinct in the Detroit suburb of Warren, and as tensions escalated,"
+    publishedDateTime: 2020-11-04T04:32:00Z
+    webUrl: "https://www.chron.com/news/article/Harmony-Opposing-Trump-and-Biden-groups-make-15699675.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Harmony-Opposing-Trump-and-Biden-groups-make-15699675.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Harmony-Opposing-Trump-and-Biden-groups-make-15699675.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Arthur Blank donated thousands to Biden while his Home Depot cofounder was a major Trump donor, but Blank says it never came between them"
     excerpt: "Joe Biden supporter Arthur Blank says business isn't \"a red issue or a blue issue\" and politics never challenged his rapport with Home Depot partners."

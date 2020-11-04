@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden is projected to win New Mexico"
+    excerpt: "The state has five electoral votes and wasn't expected to be competitive. It has voted for a Democrat in six of the last seven presidential elections."
+    publishedDateTime: 2020-11-04T04:12:00Z
+    webUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa232441df1d50018218be6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Americans say they are better off under Trump, but is America? Trump by the numbers"
     excerpt: "Gallup reports that 56% said they're better off than in 2016, but 56% also said President Donald Trump does not deserve to be reelected."
     publishedDateTime: 2020-10-29T09:21:00Z

@@ -2,6 +2,54 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-02-kamala-harris-equality-of-outcome-video-slammed-as-communism-pitch.md",
+      "title": "Kamala Harris’ ‘equality of outcome’ video slammed as communism pitch",
+      "excerpt": "A video made and shared by Democratic vice presidential candidate Kamala Harris is causing a stir on Twitter — for arguing in favor of the communist principle of equality of outcome. The",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/",
+      "originalUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/kamala-harris-communist-pitch.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/",
+      "publishedDateTime": "2020-11-02T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-newsom-harris-hit-trail-for-final-weekend-google-ballot-search-issues-edd-head-hilliard-departing-khanna-backs-bobulinski.md",
       "title": "NEWSOM, HARRIS hit trail for final weekend — GOOGLE ballot search issues — EDD head HILLIARD departing — KHANNA backs BOBULINSKI",
       "excerpt": "Trump conflict that spawned scores of lawsuits; after ballot initiative campaigns breaking records as they spent hu",
@@ -379,7 +427,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2784,
+      "heat": 2804,
       "tags": null,
       "images": [
         {
@@ -1312,62 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-shoot-your-shot-obama-nails-three-pointer-while-campaigning-with-biden-in-michigan.md",
-      "title": "'Shoot your shot': Obama nails three-pointer while campaigning with Biden in Michigan",
-      "excerpt": "Barack Obama called game.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pp3f09Ilw9s/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pp3f09Ilw9s/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201031163509-obama-flint-michigan-1031-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/31/politics/obama-basketball-video-michigan-campaign/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/obama-basketball-video-michigan-campaign/index.html",
-      "publishedDateTime": "2020-10-31T20:02:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

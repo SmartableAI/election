@@ -512,6 +512,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden braces for Trump's attacks on Hunter at debate"
+    excerpt: "Donald Trump has made clear he’s coming after Hunter Biden at Thursday’s debate for allegedly profiting off his father’s position. And Joe Biden would seem to have an easy comeback: Look at what your own kids have done since you became president."
+    publishedDateTime: 2020-10-21T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/biden-braces-for-trumps-attacks-on-hunter-debate-430441"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/biden-braces-for-trumps-attacks-on-hunter-debate-430441"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/biden-braces-for-trumps-attacks-on-hunter-debate-430441"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 160
+    images:
+      - url: "https://static.politico.com/24/fd/2171cd4849f09d1e7e82d029056b/202120-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "I'm a Republican voting for Joe Biden over Trump. Because I'm an American first."
     excerpt: "America has watched as the Republican Party stopped pursuing its animating principles of freedom and opportunity and instead gave up its voice on things that mattered."
     publishedDateTime: 2020-10-20T08:43:00Z
@@ -749,22 +765,6 @@ related:
     quality: 150
     images:
       - url: "https://static.politico.com/60/5d/07a88c7b468f8bb48b6353a2aa86/ap20266752991184-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden braces for Trump's attacks on Hunter at debate"
-    excerpt: "Donald Trump has made clear he’s coming after Hunter Biden at Thursday’s debate for allegedly profiting off his father’s position. And Joe Biden would seem to have an easy comeback: Look at what your own kids have done since you became president."
-    publishedDateTime: 2020-10-21T09:30:00Z
-    webUrl: "https://www.politico.com/news/2020/10/21/biden-braces-for-trumps-attacks-on-hunter-debate-430441"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/biden-braces-for-trumps-attacks-on-hunter-debate-430441"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/biden-braces-for-trumps-attacks-on-hunter-debate-430441"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/24/fd/2171cd4849f09d1e7e82d029056b/202120-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

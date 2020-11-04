@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-24-hear-trump-speak-after-voting-in-person-in-florida.md",
+      "title": "Hear Trump speak after voting in person in Florida",
+      "excerpt": "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn",
+      "publishedDateTime": "2020-10-24T08:11:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-video-shows-a-man-holding-up-a-hand-gesture-tied-to-white-supremacy-behind-trump-at-his-florida-rally.md",
       "title": "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally",
       "excerpt": "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday.",
@@ -1244,62 +1300,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/trump-executive-order-federal-employees/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-executive-order-federal-employees/index.html",
       "publishedDateTime": "2020-10-23T08:16:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-analysis-trumps-least-racist-claim-falls-flat-for-many-yet-his-campaign-still-holds-appeal-for-some-black-men.md",
-      "title": "Analysis: Trump's 'least racist' claim falls flat for many. Yet his campaign still holds appeal for some Black men.",
-      "excerpt": "It's one of those seemingly hard-to-explain things: President Donald Trump holds an allure for some Black men, despite his history of denigrating Black Americans and his refusal to explicitly acknowledge systemic racism.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgEVN-aRUNM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgEVN-aRUNM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200715164410-01-trump-atlanta-0715-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/trump-least-racist-black-men/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-least-racist-black-men/index.html",
-      "publishedDateTime": "2020-10-23T06:34:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -1955,6 +1955,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Donald Trump won in Indiana."
+    excerpt: "Indiana election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T01:58:00Z
+    webUrl: "https://www.politico.com/2020-election/results/indiana/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/18.jpg"
+        width: 600
+        height: 325
+        isCached: true
   - title: "Donald Trump won in South Dakota."
     excerpt: "South Dakota election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
     publishedDateTime: 2020-11-04T02:28:00Z

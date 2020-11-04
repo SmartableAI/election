@@ -879,6 +879,22 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Election betting odds have flipped to favor Trump, expert says"
+    excerpt: "President Donald Trump is now favored to win the election based on an average of betting websites, an expert told Fox News Tuesday."
+    publishedDateTime: 2020-11-04T04:25:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dND2V1nKCqM/betting-odds-have-flipped-to-favor-trump-expert-says"
+    ampWebUrl: "https://www.foxnews.com/politics/betting-odds-have-flipped-to-favor-trump-expert-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betting-odds-have-flipped-to-favor-trump-expert-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309084490641.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Live updates: Trump, Biden campaigns move into final stretch after debate"
     excerpt: "Following a slightly more subdued final presidential debate in Nashville, Tenn., on Thursday evening, President Trump traveled to Florida on Friday to rally support in the crucial swing state. "
     publishedDateTime: 2020-10-24T07:12:54Z
@@ -2075,6 +2091,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lady Gaga’s father endorses Trump after President slams singer for Biden campaign performance"
+    excerpt: "Lade Gaga ’s father Joe Germanotta is giving Donald Trump a vote of confidence just hours after Trump shaded the restauranteur’s daughter ahead of the 2020 presidential election. On Tuesday evening, Germanotta,"
+    publishedDateTime: 2020-11-04T04:49:00Z
+    webUrl: "https://www.foxnews.com/entertainment/lady-gaga-father-endorses-trump"
+    ampWebUrl: "https://www.foxnews.com/entertainment/lady-gaga-father-endorses-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/lady-gaga-father-endorses-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Joe-Germanotta-Lady-Gaga-Getty-Grammy-2018.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lil Pump endorses Donald Trump for president, prompts record label to declare pro-Biden stance"
     excerpt: "Rapper Lil Pump declared that he’s backing Donald Trump in the upcoming election, prompting his label to clarify its pro-Joe Biden position.  The “Gucci Gang” rapper took to Instagram on Monday to share a photoshopped image of himself shaking hands with the president."
     publishedDateTime: 2020-10-27T15:54:00Z
@@ -2318,6 +2350,20 @@ related:
       - url: "https://assets.realclear.com/images/52/524939.jpg"
         width: 1476
         height: 1106
+        isCached: true
+  - title: "Replay: President Donald Trump Campaigns In Four States On Final Day Of Election"
+    excerpt: "President Trump will host five rallies in four states on Monday, the final day of the 2020 election campaign, starting around noon in North Carolina and continuing on to Pennsylvania, Michigan, Kenosha,"
+    publishedDateTime: 2020-11-04T03:34:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/02/watch_live_president_donald_trump_campaigns_in_four_states_on_final_day_of_election.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 75
+    images:
+      - url: "https://assets.realclear.com/images/50/503594.jpg"
+        width: 2300
+        height: 1530
         isCached: true
   - title: "Trump Ad Mocks \"Sleepy Joe\": \"It's 10 PM! Does Joe Biden Know Where Joe Biden Is?\""
     excerpt: "The Trump campaign mocked Joe Biden Tuesday with this new ad portraying him as an old fool. Related Topics: Joe Biden, Trump Campaign, Election 2020"
