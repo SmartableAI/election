@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ball
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/40.jpg"
         width: 600
         height: 325
+        isCached: true
+  - title: "Trump and the Paris Climate Accord"
+    excerpt: "A reader says that by withdrawing from the agreement, the president “added one more reckless decision to his extensive record.”"
+    publishedDateTime: 2020-11-04T18:34:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/opinion/letters/trump-climate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/opinion/letters/trump-climate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/opinion/letters/trump-climate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/climate/04CLI-PARISFAQ1/04CLI-PARISFAQ1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "The Trump campaign has set up two ‘war rooms’ in the White House complex"
     excerpt: "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration."

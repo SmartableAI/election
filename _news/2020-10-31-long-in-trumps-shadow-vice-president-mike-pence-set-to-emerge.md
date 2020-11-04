@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Long in Trump's shadow, Vice President Mike Pence set to emerge"
-excerpt: "U.S. Vice President Mike Pence speaks at a rally in Kinston, North Carolina, U.S., October 25, 2020. REUTERS/Jonathan Drake"
-publishedDateTime: 2020-10-31T15:40:00Z
-originalUrl: "https://www.reuters.com/news/picture/long-in-trumps-shadow-vice-president-mik-idUSKBN27G0F3"
-webUrl: "https://www.reuters.com/news/picture/long-in-trumps-shadow-vice-president-mik-idUSKBN27G0F3"
+title: "Long in Trump's Shadow, Vice President Mike Pence Set to Emerge"
+excerpt: "Vice President Mike Pence, a Christian conservative and one of the few constants in Donald Trump's tumultuous White House, has kept his boss's confidence by being careful never to step out of the president's shadow."
+publishedDateTime: 2020-10-31T10:23:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge"
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge?context=amp"
 type: article
-quality: 120
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09G"
-    width: 810
-    height: 540
-    isCached: true
 
 related:
   - title: "Four in ten supporters of Biden, Trump would not accept election defeat"
@@ -5367,6 +5363,22 @@ related:
         width: 1024
         height: 707
         isCached: true
+  - title: "Online gambling sites swing to make Donald Trump favorite to beat Joe Biden"
+    excerpt: "As election results rolled in throughout the night Tuesday, the presidential race between Donald Trump and Joe Biden appeared too close to call. The online sportsbooks with live wagering are telling a different story."
+    publishedDateTime: 2020-11-04T03:04:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/Online-gambling-Donald-Trump-betting-favorite-2020-15699332.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/Online-gambling-Donald-Trump-betting-favorite-2020-15699332.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/Online-gambling-Donald-Trump-betting-favorite-2020-15699332.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 88
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'"
     excerpt: "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\""
     publishedDateTime: 2020-10-19T21:25:00Z
@@ -7024,6 +7036,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "15n3QpDOSF67CTb+k/VT0z1M5XbGhsUCFGWXl4sYzJEg6Qwp0QkadNmCcAadOz21CtE0F7ATJrnFLKFvQSVAppfo4dV7ySCt0cqUsXDDXaVmIxYekGmPJ2fkbfzSlCkpI0OUHmFMIKOLlm37UhjQ7T3i/MzXmvZaCkb8nOtkWorBeNfjqtoMVBxD5BbONs+WPEHGk3pececRywvcjKeU8d/HnJ0+GnRtKB+gsYuaK57IVVmCuQtikTQ2pA6LjV38EN7vAQnPom2wozMW2bviGDym7Ru1S1gUOtAVaXUnpdASvabzh3infeEcDfe7zEIMywg+2a+/L9MPqxaYuAz4WNuml3a6lb7A62aVbhwifoDiOTB+k5nG4DIM5iCOo2pEda3cvVptZU+Gg5qkHL2ze/Pl5ygj5WMAF4hm0j8T6fA/rgQfs3OxcMpCuI9qr1a0w0NvxJFDepUE0iLSK84K3DQng0/co9SNNmdwXbevttnMOL5WCCSw4P80dTPYe2lk0BHt+YdIAYR1aL2EcDglmw==;Bg8/SP1h61f6GETiWt1Www=="
+secured: "hXlr9Of9op6nvo4zYhghyngOG4NlHPXYJr0gUbANJwSOMcykaerq73NaXWsOcQQv31MB04IbIzUo7YjQoHPobLyxZfg44vrxixzeWCgu7HGwrbh5eyXneVZ59nuqZQcangfOQqqkNDRIDi1c0JIz5kmqT7AL1QimM+IyLLndz7uzg7HF+iORwJ8n5vKb0y5O/1iB5cOQ55BdrV6ChADlKrmHdXylptaon5P8bVQ5hynPI/2PIC60rRevaN6EQ6OdO4Ti51OE+2p/YUXpumPg1BE6c9q+0FwB60NHDx6wOcYZ2LmLUJEZc9Qa8jWfb6nIU5VXngu8lOKr5+qN3HkAsYZwEi+L5l26cf5tNepq20zO3i89+axdmM/MZoUC2DsZY3X8FBYuliIk8ZhsdI+zOQgTb3KxI8gnwy+DAN/wvoizxBO9XjIL9gXRhMV0UjOfb/OWiyw8IWiniNdwdAJZnrFWg01N9doLH+5sDrHmixNJgnF9Y4fxPZ4jzjz7O6e/f/qV8ndHfiZBdND0cL8bZw==;H9rIxU5nhHrWZOgVCMRdFA=="
 ---
 

@@ -799,6 +799,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Prayers held in India for Kamala Harris victory, and for Donald Trump"
+    excerpt: "Residents of Thulasenthirapuram, Harris’ ancestral village in Tamil Nadu, set up banners and prayed for her success. Meanwhile, in New Delhi, activists from the right-wing Hindu Sena organization performed a fire ritual “so that all these obstacles in the way of a victory for Donald Trump will go away."
+    publishedDateTime: 2020-11-03T22:41:00Z
+    webUrl: "https://www.nbcnews.com/video/prayers-held-in-india-for-kamala-harris-victory-and-for-donald-trump-95259717528"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95259717528"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95259717528"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/f_mo_lon_prayers_201103.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Watch live: 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Watch the 2020 vice presidential debate livestream and see Vice President Mike Pence and Senator Kamala Harris face off live. Coverage starts at 8pmET."
     publishedDateTime: 2020-10-02T00:08:00Z
@@ -926,22 +942,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/08/multimedia/08elections-briefing-kamala/08elections-briefing-kamala-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Prayers held in India for Kamala Harris victory, and for Donald Trump"
-    excerpt: "Residents of Thulasenthirapuram, Harris’ ancestral village in Tamil Nadu, set up banners and prayed for her success. Meanwhile, in New Delhi, activists from the right-wing Hindu Sena organization performed a fire ritual “so that all these obstacles in the way of a victory for Donald Trump will go away."
-    publishedDateTime: 2020-11-03T22:41:00Z
-    webUrl: "https://www.nbcnews.com/video/prayers-held-in-india-for-kamala-harris-victory-and-for-donald-trump-95259717528"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95259717528"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95259717528"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/f_mo_lon_prayers_201103.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Pence's tough debate task is to defend Trump's actions over the past week"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."

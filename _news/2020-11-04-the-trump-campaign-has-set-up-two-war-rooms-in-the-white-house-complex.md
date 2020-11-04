@@ -160,6 +160,22 @@ related:
         width: 600
         height: 325
         isCached: true
+  - title: "Trump and the Paris Climate Accord"
+    excerpt: "A reader says that by withdrawing from the agreement, the president “added one more reckless decision to his extensive record.”"
+    publishedDateTime: 2020-11-04T18:34:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/opinion/letters/trump-climate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/opinion/letters/trump-climate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/opinion/letters/trump-climate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/climate/04CLI-PARISFAQ1/04CLI-PARISFAQ1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "C5lLRe602eOFHsaoZYs4ABqTDfj0i+URAOb4LXz1I5gaoG9V/XBrKrkx6dRXuvCAOpF6rVaEx3X2pMMKoTO7Wsq9Nbd7zVu06MyUp5mavtlqJpxoN9LAe0Wq+lpBzk5TiMxr0FuXOiF3oG6HjZqgFRsdtszsQlahR6PsVV3gXLY6XIqm05XWkj2fRoH8mLIGmozs64PXBa0OCfhiJpHoCobwUHQETNgHLo/07QKnGNrcwwKIynNK2CmbGQs6VY3LA3jI2ZHiyOsb3JD08vYWA1ADY0bAPom5OmiOPGbhWiqZv0jKj5TEBCtJHNhRXVQ0NNPGSglUfGglU45RITyqMqgUsFujB7mw8Ryed2SKSfU=;5jF23HityDVBcsUqZvVZ3Q=="
 ---

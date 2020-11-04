@@ -910,6 +910,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump seeks to delegitimize vote even as his campaign says math will turn his way"
+    excerpt: "The morning after he declared from the White House East Room that \"all voting must stop,\" President Donald Trump's strategy of undermining the Democratic process was coming into sharper focus, even as it failed to gain widespread traction among Republicans or even his own campaign.\n    \n"
+    publishedDateTime: 2020-11-04T18:19:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pZTINXlTw_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/04/politics/trump-election-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/trump-election-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104023109-02-donald-trump-speech-election-night-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "AOC isn't concerned Biden's opposition to fracking ban will hurt young voter turnout"
     excerpt: "Democratic Rep. Alexandria Ocasio-Cortez said Sunday that she isn't concerned that Joe Biden's opposition to a nationwide ban on fracking will hurt young voter turnout, arguing that they will support the Democratic presidential nominee because they are \"realistic and pragmatic in their vote.\"\n    \n"
     publishedDateTime: 2020-10-25T18:01:26Z
@@ -1502,6 +1518,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Fox News Made a Big Call in Arizona, Buoying Biden and Angering Trump"
+    excerpt: "The data cruncher Arnon Mishkin made projections for key states on a night when other news networks played it safe."
+    publishedDateTime: 2020-11-04T18:28:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/business/media/fox-news-arizona-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/business/media/fox-news-arizona-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/business/media/fox-news-arizona-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/business/media/oakImage-1604473437766/oakImage-1604473437766-facebookJumbo.png"
+        width: 958
+        height: 502
+        isCached: true
   - title: "Sick of getting texts from the Biden or Trump campaigns? You're not alone"
     excerpt: "The campaigns of President Donald Trump and the Democratic presidential nominee Joe Biden didn’t respond to requests for comment on their texting strategies or on consumer complaints, which in recent days have been common on social media. Lindsay said ..."
     publishedDateTime: 2020-10-30T15:11:00Z
@@ -1883,6 +1915,22 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_full_2020_biden_speech_201103_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "How Donald Trump broke politics"
+    excerpt: "Whether President Donald Trump ultimately wins or loses a second term, Tuesday's election proved something beyond the shadow of a doubt: He has broken modern politics. Or, to put a finer point on it: Trump has exposed the way we poll,"
+    publishedDateTime: 2020-11-04T15:50:00Z
+    webUrl: "https://www.cnn.com/2020/11/04/politics/donald-trump-2020-election-polling/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/04/politics/donald-trump-2020-election-polling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/donald-trump-2020-election-polling/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104113313-02-trump-watch-party-1103-las-vegas-nv-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Joe Biden won in Minnesota."
     excerpt: "Minnesota election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."

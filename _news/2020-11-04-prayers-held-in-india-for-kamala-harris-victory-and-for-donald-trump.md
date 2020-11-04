@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/video/prayers-held-in-india-for-kamala-harris-v
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95259717528"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95259717528"
 type: article
-quality: 150
+quality: 160
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Kamala Harris
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/f_mo_lon_prayers_201103.jpg"

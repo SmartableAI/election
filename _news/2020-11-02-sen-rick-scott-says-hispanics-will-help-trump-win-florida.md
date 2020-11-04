@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "How Trump clinched Florida victory with help of Hispanics in Miami-Dade County"
+    excerpt: "President Trump is projected to win Florida's 29 electoral votes thanks in part to Cuban American voters in the traditionally Democratic stronghold Miami-Dade County, which has a heavily Hispanic population."
+    publishedDateTime: 2020-11-04T18:47:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uT4aV8w6CY/trump-miami-florida-victory-cuban-american-latino-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309243472662.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Cuban Americans, senior citizens lean toward Trump in Florida: Fox News Voter Analysis"
     excerpt: "President Trump may have support from senior citizens and Cuban-American voters to thank for his projected win in Florida and for its 29 Electoral College votes, according to polling from the Fox News Voter Analysis."

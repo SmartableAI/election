@@ -1871,6 +1871,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Joe Biden, Donald Trump could each still win the election"
+    excerpt: "With just five swing states left that have not yet declared a winner to the presidential race, both President Trump and former Vice President Joe Biden have far fewer paths to victory than they"
+    publishedDateTime: 2020-11-04T17:36:00Z
+    webUrl: "https://nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/"
+    ampWebUrl: "https://nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 165
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-biden-election.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Celebrities' most outrageous tweets about Trump and Biden ahead of the 2020 presidential election"
     excerpt: "Fox News has rounded up the most outrageous tweets by Hollywood's biggest stars about President Donald Trump and Democratic nominee Joe Biden ahead of the 2020 presidential election."
     publishedDateTime: 2020-10-24T14:16:00Z

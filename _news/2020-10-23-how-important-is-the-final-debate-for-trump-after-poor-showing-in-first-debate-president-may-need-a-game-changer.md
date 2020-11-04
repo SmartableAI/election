@@ -3895,20 +3895,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
-  - title: "Long in Trump's shadow, Vice President Mike Pence set to emerge"
-    excerpt: "U.S. Vice President Mike Pence speaks at a rally in Kinston, North Carolina, U.S., October 25, 2020. REUTERS/Jonathan Drake"
-    publishedDateTime: 2020-10-31T15:40:00Z
-    webUrl: "https://www.reuters.com/news/picture/long-in-trumps-shadow-vice-president-mik-idUSKBN27G0F3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09G"
-        width: 810
-        height: 540
-        isCached: true
   - title: "Politics Chat: Trump, Biden Make Final Campaign Appearances"
     excerpt: "President Barack Obama joins Joe Biden in Michigan, meanwhile President Trump ticks thru some familiar complaints in Pennsylvania."
     publishedDateTime: 2020-11-01T11:53:00Z
@@ -5383,6 +5369,22 @@ related:
         width: 1024
         height: 707
         isCached: true
+  - title: "Online gambling sites swing to make Donald Trump favorite to beat Joe Biden"
+    excerpt: "As election results rolled in throughout the night Tuesday, the presidential race between Donald Trump and Joe Biden appeared too close to call. The online sportsbooks with live wagering are telling a different story."
+    publishedDateTime: 2020-11-04T03:04:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/Online-gambling-Donald-Trump-betting-favorite-2020-15699332.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/Online-gambling-Donald-Trump-betting-favorite-2020-15699332.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/Online-gambling-Donald-Trump-betting-favorite-2020-15699332.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 88
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'"
     excerpt: "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\""
     publishedDateTime: 2020-10-19T21:25:00Z
@@ -6422,6 +6424,17 @@ related:
         width: 1680
         height: 876
         isCached: true
+  - title: "Long in Trump's Shadow, Vice President Mike Pence Set to Emerge"
+    excerpt: "Vice President Mike Pence, a Christian conservative and one of the few constants in Donald Trump's tumultuous White House, has kept his boss's confidence by being careful never to step out of the president's shadow."
+    publishedDateTime: 2020-10-31T10:23:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Donald Trump Defeats Joe Biden in Florida"
     excerpt: "Despite supporting the Republican nominee in eight of the last 12 presidential elections, Florida is one of the most competitive battleground states in the U.S."
     publishedDateTime: 2020-11-04T05:55:00Z

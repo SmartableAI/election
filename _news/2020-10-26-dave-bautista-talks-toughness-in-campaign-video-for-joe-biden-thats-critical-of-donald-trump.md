@@ -1871,6 +1871,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Joe Biden, Donald Trump could each still win the election"
+    excerpt: "With just five swing states left that have not yet declared a winner to the presidential race, both President Trump and former Vice President Joe Biden have far fewer paths to victory than they"
+    publishedDateTime: 2020-11-04T17:36:00Z
+    webUrl: "https://nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/"
+    ampWebUrl: "https://nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 165
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-biden-election.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump, Joe Biden Clash Over Coronavirus in Final Presidential Debate"
     excerpt: "The debate presents President Trump and Democrat Joe Biden with a final chance to lay out competing arguments side by side before a huge audience."
     publishedDateTime: 2020-10-22T17:19:00Z

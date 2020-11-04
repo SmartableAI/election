@@ -283,6 +283,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Republicans have condemned Trump's false claim to have already won the election"
+    excerpt: "The Republican former Sen. Rick Santorum said he was \"very distressed by what I heard the president say.\""
+    publishedDateTime: 2020-11-04T18:22:00Z
+    webUrl: "https://www.businessinsider.com/republicans-condemn-donald-trump-false-claim-win-election-supreme-court-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/republicans-condemn-donald-trump-false-claim-win-election-supreme-court-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-condemn-donald-trump-false-claim-win-election-supreme-court-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 136
+    images:
+      - url: "https://i.insider.com/5fa2770d1df1d50018218c2d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Election live updates: Donald Trump says he's not nervous: 'I've been here before'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden are in the home stretch of this campaign with just hours to go before Election Day."
     publishedDateTime: 2020-11-03T03:13:00Z
@@ -575,6 +591,20 @@ related:
         width: 7392
         height: 4631
         isCached: true
+  - title: "How are Trump & Biden's campaign reacting?"
+    excerpt: "Watch \"How are President Trump & Joe Biden's campaign reacting to close race\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-04T18:17:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201104180602-how-are-president-trump-joe-bidens-campaign-reacting-to-close-race/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07545754_1604513524.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facebook labeled President Trump's late-night election posts about Democrats stealing the election as misinformation"
     excerpt: "President Trump's false claims about the election being stolen are being flagged by Facebook. Every one of his false election claims are now flagged."
     publishedDateTime: 2020-11-04T08:52:00Z
@@ -591,6 +621,38 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Watch Live: Joe Biden expected to speak as presidential race remains too close to call"
+    excerpt: "All eyes are on a handful of battleground states where Biden appears to be making gains against President Trump."
+    publishedDateTime: 2020-11-04T18:16:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-presidential-election-watch-live-stream-today-2020-11-04/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-presidential-election-watch-live-stream-today-2020-11-04/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-presidential-election-watch-live-stream-today-2020-11-04/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/04/c22044f5-77bd-440c-8b4a-40da94e28206/thumbnail/1200x630/9204852e7856f3a4e0c1a80ca1d67544/1604468771066.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden breaks Obama's record for most votes ever cast for a U.S. presidential candidate"
+    excerpt: "Barack Obama earned 69,498,516 votes in the presidential election, the most ever. Now, Mr. Obama's former vice president, Democratic nominee Joe Biden, has surpassed that tally, with a record 69,589,840 votes (50."
+    publishedDateTime: 2020-11-04T18:01:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-popular-vote-record-barack-obama-us-presidential-election-donald-trump/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-popular-vote-record-barack-obama-us-presidential-election-donald-trump/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-popular-vote-record-barack-obama-us-presidential-election-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/04/427e12e5-5407-4df4-ab6e-3d1630896e76/thumbnail/1200x630/c85f5dd80b0462745553b8dd08552455/gettyimages-1283807403.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump holds 5 rallies in 4 swing states in bid to woo last-minute Election Day votes"
     excerpt: "With Election Day finally here, President Trump spent Monday in a final attempt to win over swing state voters. The president says he's confident, but he is also threatening legal action in some states if results are not announced on Election Day."
     publishedDateTime: 2020-11-03T22:33:00Z
@@ -604,6 +666,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/1a6d47b2-2e31-4493-9e4e-18a6d4dffc48/thumbnail/1200x630/23814d88feb99b83cfef95ef27085d45/trump-tracy-579436-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The US's top cybersecurity agency just threw cold water on Trump's claim that election results in battleground states are fraudulent"
+    excerpt: "CISA quickly debunked Trump's latest claims that the election results in key battleground states are rigged against him as Biden takes the lead."
+    publishedDateTime: 2020-11-04T18:32:00Z
+    webUrl: "https://www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f8f521ab0526700185cc7a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Inside Trump's crowded campaign rallies"
     excerpt: "Two days before Election Day, President Donald Trump launched a campaign sprint across battleground states starting with Michigan that will be crucial to"

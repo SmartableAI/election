@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "How Trump clinched Florida victory with help of Hispanics in Miami-Dade County"
+    excerpt: "President Trump is projected to win Florida's 29 electoral votes thanks in part to Cuban American voters in the traditionally Democratic stronghold Miami-Dade County, which has a heavily Hispanic population."
+    publishedDateTime: 2020-11-04T18:47:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uT4aV8w6CY/trump-miami-florida-victory-cuban-american-latino-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309243472662.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Melania Trump votes in Florida wearing Gucci dress, no mask"
     excerpt: "First Lady Melania Trump was dressed to the nines while voting in person on Election Day, wearing an equestrian-print white dress among other high-fashion accessories. Trump cast her ballot at a voting center in Palm Beach,"
     publishedDateTime: 2020-11-03T20:23:00Z

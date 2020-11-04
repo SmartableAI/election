@@ -1864,6 +1864,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Joe Biden, Donald Trump could each still win the election"
+    excerpt: "With just five swing states left that have not yet declared a winner to the presidential race, both President Trump and former Vice President Joe Biden have far fewer paths to victory than they"
+    publishedDateTime: 2020-11-04T17:36:00Z
+    webUrl: "https://nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/"
+    ampWebUrl: "https://nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 165
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-biden-election.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump, Joe Biden Clash Over Coronavirus in Final Presidential Debate"
     excerpt: "The debate presents President Trump and Democrat Joe Biden with a final chance to lay out competing arguments side by side before a huge audience."
     publishedDateTime: 2020-10-22T17:19:00Z
@@ -2522,6 +2538,6 @@ related:
       domain: realclearpolitics.com
     quality: 60
 
-secured: "pPgpsbNe2eMtJKJLxwBCif1+cPA9THB23TFnprjzdPbTlbNT76rKTE0Pf6A8Q8OLbz2g4Hdd40djxB6xaGhcMw46Vjii0LzuZL17K6NAPkKhfJEsK6reMTyBGJq9nGIHHsltWsqaRr9kWY5my1VxZ2xFeyY3mOXptUrzFEze/H798MxYQjQPayTCj+H6ENdhcr2KFBL0ezyA8Bs8TQEBHqGqxdg44eC/7eli2B0+Lsq90xBLgmcQ7xas71dxH1OnvHLeSqCRu1N/9fk+j2yVofra81M4T8BnfJy1wocd2Zbh91XwkaC9huSx6aUzNXpLC3OqJemBS+OxrSycK675NNpYcESHXejaAkkXN3dfeDY=;fRf90Ox6TGzuESrqz6cR9Q=="
+secured: "kwVsoqZipZJ/5SHruYjNawO7j3SXkmXY9/nyvLiXRjP0n+5GPqnObJw9MKBBFTE7iN4pUZSRy6ysMdy5GvsgtRnVoITA/KOKkmEzRcSRXU3xKANycMkuDMk21LnBmQYz7flBQ3LTJfUjZC72a+fXxmNYgh5sOWlRQUXgUMnbS9RKm1rXwhd8WHS/P0fMtPadt6d9B4O/2rw5w6D9epazye6oSdBeFKuIlzzYawqls88T0NypeahNZorEvQP7AnIDHrTtw0U9+gETAHJbNYT7mo0a320mnexjDO7JLTao0r1oOhypSJLL2BL+dKJzuT5mxvCjvcZU8NoU7UCxxwzdsN6V2P3M0hiF3Xxe/K6XFWi1UB9DZU/xH1YqNHY7JS0adxrHD5z3snosVG4jn5M9OtPzPuIH83kN67XP5p5m66fmp2QUxzr/9frpTlYcRWJqWJ826pd7aECy1yR7nHdMCTZKtYIiEWnfiY1T5TTxRYXifHzjH/31oYCIIKDed9yGk93VivFuAwD4sy0HaCA40A==;MXLs362DAzni8KmMch2RmA=="
 ---
 

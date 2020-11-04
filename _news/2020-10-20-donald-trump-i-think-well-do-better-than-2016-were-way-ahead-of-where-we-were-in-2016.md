@@ -164,6 +164,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Campaign to Request a Recount in Wisconsin"
+    excerpt: "Trump campaign manager Bill Stepien said Wednesday afternoon the campaign would request a recount in Wisconsin, calling it a “razor thin race.” The margin to request a recount in the state is 1% or less and President Trump is currently within that margin,"
+    publishedDateTime: 2020-11-04T18:30:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/gkQ7ufOZiV7oNv7vHdLG"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-254760/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Replay: Trump Holds A \"Make America Great Again\" Rally In Janesville, Wisconsin"
     excerpt: "President Donald Trump addresses supporters at a nighttime rally in Janesville, Wisconsin at the Southern Wisconsin Regional Airport, the second one today following a stop in Muskegon, Michigan only hours prior."
     publishedDateTime: 2020-10-18T09:32:00Z

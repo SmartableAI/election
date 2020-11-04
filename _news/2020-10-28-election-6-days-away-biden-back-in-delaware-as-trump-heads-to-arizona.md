@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp"
 type: article
 quality: 205
-heat: 3365
+heat: 3385
 published: true
 
 provider:
@@ -1852,6 +1852,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a990f151-f69e-45e0-b041-46b709e86db7/0ebbd0e4-f814-4e51-9b22-dc84899a6da0/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How Joe Biden, Donald Trump could each still win the election"
+    excerpt: "With just five swing states left that have not yet declared a winner to the presidential race, both President Trump and former Vice President Joe Biden have far fewer paths to victory than they"
+    publishedDateTime: 2020-11-04T17:36:00Z
+    webUrl: "https://nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/"
+    ampWebUrl: "https://nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/how-joe-biden-donald-trump-could-each-still-win-the-election/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 165
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-biden-election.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Donald Trump, Joe Biden Clash Over Coronavirus in Final Presidential Debate"
     excerpt: "The debate presents President Trump and Democrat Joe Biden with a final chance to lay out competing arguments side by side before a huge audience."
