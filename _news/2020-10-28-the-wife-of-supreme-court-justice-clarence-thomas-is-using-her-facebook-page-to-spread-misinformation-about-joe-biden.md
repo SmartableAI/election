@@ -148,6 +148,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Impact of Wisconsin flipping for Biden"
+    excerpt: "Watch \"Impact of Wisconsin flipping for Biden\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-04T21:47:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201104213024-impact-of-wisconsin-flipping-for-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07548748_1604525947.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Here’s What We Know About Joe Biden’s COVID-19 Plan"
     excerpt: "Biden gave a speech on his COVID-19 plan on Oct. 23, and he and running mate Senator Kamala Harris have circulated a seven-point plan for “beat [ing] COVID-19 and get [ting] our country back on track."
     publishedDateTime: 2020-10-30T18:25:00Z

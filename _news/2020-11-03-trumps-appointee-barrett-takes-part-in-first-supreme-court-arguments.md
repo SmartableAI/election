@@ -187,6 +187,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump campaign suing to halt counting in Pennsylvania"
+    excerpt: "The campaign for President Donald Trump said on Wednesday it was suing to temporarily halt vote counting in Pennsylvania and also asked to intervene in a U.S. Supreme Court case over mail-in ballots in the state,"
+    publishedDateTime: 2020-11-04T22:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-lawsuit-idUSKBN27K2SQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K2SQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K2SQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "The latest: Absentee voters urged to check ballots before it's too late; 'Trump trains' respect voter boundaries, officials say"
     excerpt: "Republicans and Democrats alike gathered at polling places to vote in hard-fought local, state and federal races — including for the presidency."
     publishedDateTime: 2020-11-04T02:58:00Z
@@ -239,6 +250,15 @@ related:
     excerpt: "Vice President Mike Pence spoke at a Trump campaign rally at the airport in Reno, Nevada."
     publishedDateTime: 2020-11-04T06:21:00Z
     webUrl: "https://www.c-span.org/video/?477488-1/vice-president-pence-speaks-trump-campaign-rally-reno-nevada"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
+  - title: "Vice President Pence Trump Campaign Rally in Elm City, North Carolina"
+    excerpt: "Vice President Pence spoke at a Trump campaign rally in Elm City, North Carolina. He touted the administration's achievements and spoke about its efforts to rebuild the military, support law enforcement,"
+    publishedDateTime: 2020-11-04T18:59:00Z
+    webUrl: "https://www.c-span.org/event/?477602/c2020-vice-president-pence-holds-rally-elm-city-nc"
     type: article
     provider:
       name: C-SPAN

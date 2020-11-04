@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Giuliani ‘en route’ to Philadelphia with Trump legal team as ballot battle ramps up"
+    excerpt: "Rudy Giuliani, the personal attorney to President Trump, said he is \"en route\" to Phildelphia with the Trump campaign legal team, vowing to protect the vote and \"not let\" Democrats \"steal\" Pennsylvania in the 2020 presidential race as the ballot battle intensifies Wednesday. "
+    publishedDateTime: 2020-11-04T19:39:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8LrYUedURtg/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Philadelphia DA threatens Trump over president's call for poll watchers: 'I've got something for you'"
     excerpt: "Philadelphia’s district attorney on Wednesday threatened President Donald Trump if he sent “uncertified” poll watchers to the city, telling him in a statement, “I’ve got something for you” if any attempts are made to interfere with Election Day activities."
     publishedDateTime: 2020-10-28T21:40:35Z

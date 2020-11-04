@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump campaign held press conference in Philadelphia"
+    excerpt: "The Trump campaign hosted a press conference in Pennsylvania on Wednesday afternoon, with Eric Trump, Trump 2020 senior advisor Lara Trump, Rudy Giuliani, former Florida Attorney General Pam Bondi, and campaign senior advisor Corey Lewandowski."
+    publishedDateTime: 2020-11-04T22:19:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-campaign-2020-election-philadelphia-press-conference-live-stream-2020-11-04/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-campaign-2020-election-philadelphia-press-conference-live-stream-2020-11-04/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-campaign-2020-election-philadelphia-press-conference-live-stream-2020-11-04/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/04/24e372be-2de9-486d-b45c-f427ca3590da/thumbnail/1200x630g2/f24c4ccb2134dc4fffe94368fd7dbf4f/gettyimages-1229449694.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris in Philadelphia: 'It ain't over 'til it's over'"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday at an election-eve rally in Philadelphia that Democrats need to run through the tape if they want to oust President Trump from office."
     publishedDateTime: 2020-11-03T03:32:00Z

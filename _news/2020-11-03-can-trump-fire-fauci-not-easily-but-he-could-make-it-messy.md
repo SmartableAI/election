@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump declarations of victory and accusations of stealing the election test Facebook and Twitter"
+    excerpt: "Donald Trump's premature declarations of victory and his allegations of voter fraud are testing social media companies the day after the election."
+    publishedDateTime: 2020-11-04T18:47:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/11/04/trump-tweets-declaration-victory-voter-fraud-facebook-twitter-election-test/6161379002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6161379002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6161379002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/c7f24c8e-9106-4a61-bc4e-fc1bab2d3991-AFP_AFP_8UK46H.jpg?auto=webp&crop=3598,2024,x0,y136&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump’s New Executive Order May Make It Easier To Fire Scientists Like Fauci"
     excerpt: "Trump recently signed an Executive Order creating a Schedule F class of government employee that could have lasting implications even if former Vice-President Joe Biden were to win the upcoming election."
     publishedDateTime: 2020-10-26T08:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/nevada-county-judge-keeps-some-poll
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
 type: article
 quality: 174
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
     quality: 115
     images:
       - url: "https://images.wsj.net/im-254027?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Trump Campaign's Lawsuit in Michigan Seeks to Halt Counting of Absentee Ballots"
+    excerpt: "The Trump campaign filed a lawsuit Wednesday in Michigan’s court of claims seeking to halt the counting of absentee ballots, alleging that state counting boards were violating state law by counting absentee ballots without election inspectors present from both parties."
+    publishedDateTime: 2020-11-04T22:49:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/Fbw6qWaPRwgqzRfWHC2r"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 111
+    images:
+      - url: "https://images.wsj.net/im-255152?size=1.5"
         width: 1280
         height: 853
         isCached: true

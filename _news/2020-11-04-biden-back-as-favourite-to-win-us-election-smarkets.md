@@ -33,8 +33,8 @@ images:
 related:
   - title: "Biden back as favorite to win U.S. election: Smarkets"
     excerpt: "Democratic presidential candidate Joe Biden was back as favorite to win U.S. elections in online betting markets, according to Britain-based Smarkets Exchange, a reversal of fortune for President Donald Trump who was favorite overnight."
-    publishedDateTime: 2020-11-04T11:23:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-odds-biden/biden-back-as-favorite-to-win-u-s-election-smarkets-idUSKBN27K1DJ"
+    publishedDateTime: 2020-11-04T15:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-odds-biden-idUSKBN27K1DJ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ"
     type: article

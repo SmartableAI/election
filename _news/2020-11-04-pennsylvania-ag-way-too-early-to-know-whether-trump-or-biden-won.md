@@ -620,6 +620,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Joe Biden wins key battleground of Michigan, Fox News decision desk predicts"
+    excerpt: "Fox News is projecting that former Vice President Joe Biden will win the state of Michigan, leaving him with just one major swing state to win before he obtains the necessary 270 votes for taking the White House."
+    publishedDateTime: 2020-11-04T22:30:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JvcCsZIb7H4/joe-biden-wins-michigan"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-wins-michigan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-wins-michigan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e58e14de-8e19-4fa6-8f5b-d692ff0b12d1/8cb867ae-10dd-4773-9a51-00f0218d561f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McEnany: Joe Biden’s comments on oil, fracking will be ‘death knell’ of his campaign"
     excerpt: "Democratic presidential hopeful Joe Biden \"lost\" Pennsylvania in the election after his comments on banning the oil and fracking industry, White House press secretary Kayleigh McEnany said on Tuesday."
     publishedDateTime: 2020-10-27T18:16:06Z
@@ -651,6 +667,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230f52b5-e037-423b-befd-decdc0aec4bb/fb87aa77-b8d5-474e-8b02-5f88d81f5529/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "2020 election: Joe Biden has slight edge over Donald Trump in Wisconsin and Michigan"
+    excerpt: "President Trump and Joe Biden are neck-and-neck in Michigan and Wisconsin — key swing states that President Trump narrowly won in 2016, early results on Wednesday morning show. Early vote counts"
+    publishedDateTime: 2020-11-04T15:15:00Z
+    webUrl: "https://nypost.com/2020/11/04/biden-has-slight-edge-over-trump-in-wisconsin-michigan/"
+    ampWebUrl: "https://nypost.com/2020/11/04/biden-has-slight-edge-over-trump-in-wisconsin-michigan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/biden-has-slight-edge-over-trump-in-wisconsin-michigan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 158
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Election_2020_Trump-Biden-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden defends low-key campaign travel schedule, says he's 'not overconfident'"
     excerpt: "Democratic presidential nominee Joe Biden on Monday defended his light campaign travel schedule, maintaining that he's not overconfident about his odds of defeating incumbent President Trump with one week to go until the November election."

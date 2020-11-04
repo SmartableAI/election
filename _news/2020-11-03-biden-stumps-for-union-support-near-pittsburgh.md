@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2020/11/02/biden-stump
 webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/02/biden-stumps-union-support-near-pittsburgh/6130843002/"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Special Report:Michigan projected for Biden"
+    excerpt: "Michigan projected for Biden\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-04T21:52:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201104214502-special-reportmichigan-projected-for-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07550336_1604526423.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "8O9G1qDdof8CVvqhQqmFq0YAU7O0K4Eidbj2Vr2HW0bomDq1F4mFxSEbEvXnmMhGvqFeGhxguYiTguCy9oF9+WqtVIOBjJq6LDXOFiwQcbJvmC1+tuFRwTad800gmjDGcoDmh/vqZR+QDNKLoCzBsxRQwWV89wkPMnYRvPO/XBezZpWGCGfergCl3VALZEjXFXK8URdm8CtXZRhpcYfCfBDjVaAlC4g+6LV/T9zOxmKn2vfPxMTD/6BClBBh/e2E+GcoLV3NGVrG8gWQJtFN290GqQkq0K7N0Ci2r7bCgXbkmd0pvzWpjthNHELrMuga+zz8bTFvd11UVEXY9n0n40L6IJYbttP2fggMwCliOx0=;vxjm0PXOwqhNKBiH2rT5CA=="
 ---

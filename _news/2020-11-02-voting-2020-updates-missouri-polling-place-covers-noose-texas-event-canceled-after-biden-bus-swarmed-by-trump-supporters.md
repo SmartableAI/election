@@ -192,6 +192,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden leads in pivotal Wisconsin; Trump campaign sues in Michigan"
+    excerpt: "Democrat Joe Biden held a narrow lead in Wisconsin on Wednesday after officials completed their vote count in the pivotal state, a major boost in his quest to win the U.S. presidency from Donald Trump despite the Republican incumbent's false claim of victory and"
+    publishedDateTime: 2020-11-04T20:53:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27K0OY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K0OY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0OY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1540018907&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA31KF"
+        width: 847
+        height: 545
+        isCached: true
+  - title: "Biden winning pivotal Wisconsin; Trump sues to halt Michigan count"
+    excerpt: "Democrat Joe Biden held a narrow lead over President Donald Trump in Wisconsin after officials completed their vote count and pulled further ahead in Michigan, even as the Republican incumbent's campaign vowed to pursue a recount and a lawsuit to challenge the results"
+    publishedDateTime: 2020-11-04T22:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27J0FZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J0FZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0FZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1540033854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA31R5"
+        width: 848
+        height: 545
+        isCached: true
   - title: "After acrimonious campaign, uneasy Americans choose between Biden, Trump"
     excerpt: "After a rancorous presidential campaign that exposed the depth of the political divisions in the United States, Americans streamed to the polls on Tuesday to choose either incumbent Donald Trump or challenger Joe Biden to lead a pandemic-battered nation for the next"
     publishedDateTime: 2020-11-03T20:29:00Z
@@ -223,6 +255,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539887119&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA303G"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump, Biden campaigns fundraise in anticipation of pricey legal battles"
+    excerpt: "The Trump and Biden campaigns on Wednesday blitzed supporters with fundraising requests in anticipation of drawn out legal fights around the closely contested presidential election."
+    publishedDateTime: 2020-11-04T20:09:00Z
+    webUrl: "https://thehill.com/homenews/administration/524517-trump-biden-campaigns-fundraise-in-anticipation-of-pricey-legal"
+    ampWebUrl: "https://thehill.com/homenews/administration/524517-trump-biden-campaigns-fundraise-in-anticipation-of-pricey-legal?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/524517-trump-biden-campaigns-fundraise-in-anticipation-of-pricey-legal?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 139
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_110420getty_0.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
     excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
@@ -383,6 +431,22 @@ related:
       - url: "https://i.insider.com/5f9fdf8b69331a0011bc69df?width=1200&format=jpeg"
         width: 1085
         height: 542
+        isCached: true
+  - title: "Biden rebuilds 'blue wall' in Wisconsin, narrowing Trump's path to an Electoral College victory"
+    excerpt: "Democratic presidential nominee Joe Biden edged ahead on Wednesday afternoon after clinching the key \"blue wall\" state of Wisconsin. The win marks a major shift in what has been a tightening presidential race with President Donald Trump."
+    publishedDateTime: 2020-11-04T20:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/presidential-election-results-too-close-call-ballots-counted/6158098002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6158098002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158098002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/31/USAT/ecb06641-5fd5-4c5e-b5b1-fdf886724e7c-split_1.jpg?auto=webp&crop=799,449,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Biden and Trump disagree on nearly everything — but here are three things they actually agree on"
     excerpt: "On Section 230, the promise of a large stimulus package, and a certain approach for lowering drug prices, Trump and Biden (mostly) see eye-to-eye."
@@ -716,6 +780,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden projects optimism as votes are counted"
+    excerpt: "Joe Biden says he's not ready to declare victory as vote counting continues in the presidential election, but he says, \"When the count is finished, we believe we will be the winners.\""
+    publishedDateTime: 2020-11-04T22:36:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/04/biden-projects-optimism-votes-counted/6167334002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/18e7c8ee-ac3a-49a5-9438-584a06ad7692_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Iowa live election results for president in Iowa: Donald Trump vs. Joe Biden"
     excerpt: "Find live reporting of election results by county in Iowa for the race for president between Donald Trump and Joe Biden."
     publishedDateTime: 2020-11-04T08:17:00Z
@@ -957,6 +1035,20 @@ related:
       - url: "https://stmedia.stimg.co/trumpbiden.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Democratic Presidential Nominee Joe Biden Holds Election Night Rally"
+    excerpt: "Presidential nominee Joe Biden and wife Jill Biden greet the crowd during an election night rally in Wilmington, Delaware in the early morning hours on Wednesday, November 4, 2020. Biden and President Donald Trump remained locked in close race that may take days to sort out."
+    publishedDateTime: 2020-11-04T20:40:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/0ece1f7a8e1d73fbb71c986cbe375f89/Democratic-Presidential-Nominee-Joe-Biden-Holds-Election-Night-Rally/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 70
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/0ece1f7a8e1d73fbb71c986cbe375f89/2020-PRESIDENTIAL-ELECTION.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Election Day Live Updates: Donald Trump, Joe Biden Square Off For President, Latest Senate And House Results"
     excerpt: "Early voting shatters record as Americans anxiously await the outcome of a presidential election during a pandemic."

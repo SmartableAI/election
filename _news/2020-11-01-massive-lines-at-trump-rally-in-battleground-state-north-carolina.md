@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
 type: article
 quality: 175
-heat: 275
+heat: 255
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a6dfdd4-d81f-4363-93de-7d261a7f9c73/2721936a-8943-4360-804a-30ba90618f18/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump in 'stronger position than he was in 2016' in battleground states: Rep. McCarthy"
-    excerpt: "President Trump is in a \"stronger position than he was in 2016\" in battleground states Arizona, Wisconsin, Ohio and Georgia, House Minority Leader Kevin McCarthy said on Sunday."
-    publishedDateTime: 2020-11-01T18:33:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5sY1CudaMM/trump-2016-2020-battleground-states-kevin-mccarthy"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306646863849.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
     excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"

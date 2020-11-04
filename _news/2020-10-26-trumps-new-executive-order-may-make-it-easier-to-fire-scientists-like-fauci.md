@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump declarations of victory and accusations of stealing the election test Facebook and Twitter"
+    excerpt: "Donald Trump's premature declarations of victory and his allegations of voter fraud are testing social media companies the day after the election."
+    publishedDateTime: 2020-11-04T18:47:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/11/04/trump-tweets-declaration-victory-voter-fraud-facebook-twitter-election-test/6161379002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6161379002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6161379002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/c7f24c8e-9106-4a61-bc4e-fc1bab2d3991-AFP_AFP_8UK46H.jpg?auto=webp&crop=3598,2024,x0,y136&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump reportedly slammed Anthony Fauci as 'a disaster' on a campaign phone call"
     excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said on a call, CNN reported. \"People are tired of hearing Fauci and all these idiots.\""
     publishedDateTime: 2020-10-20T00:34:00Z

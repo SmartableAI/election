@@ -2372,6 +2372,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "'Ray Donovan' star Eddie Marsan seemingly mocks Jon Voight over his support of Donald Trump in pro-Biden tweet"
+    excerpt: "Ray Donovan” actor Eddie Marsan seemingly took a jab at his co-star Jon Voight over his staunch support of President Donald Trump."
+    publishedDateTime: 2020-11-04T20:12:00Z
+    webUrl: "https://www.foxnews.com/entertainment/ray-donovan-eddie-marsan-mocks-jon-voight-support-donald-trump-pro-biden-tweet"
+    ampWebUrl: "https://www.foxnews.com/entertainment/ray-donovan-eddie-marsan-mocks-jon-voight-support-donald-trump-pro-biden-tweet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ray-donovan-eddie-marsan-mocks-jon-voight-support-donald-trump-pro-biden-tweet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RayDonovanSplit1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "FBI Probing Allegations That Trump Backers Put Biden Campaign Bus in Peril"
     excerpt: "The Federal Bureau of Investigation is looking into allegations that Trump supporters endangered a Biden campaign bus on a Texas highway Friday, according to people familiar with the matter. Several dozen trucks,"
     publishedDateTime: 2020-11-02T10:03:00Z
@@ -2538,6 +2554,6 @@ related:
       domain: realclearpolitics.com
     quality: 60
 
-secured: "/b6JaerrjMSUs0woFgh43zAPvqvPIovYHBvSHe5AjiFrKWMpvXpZoIMHG70JOd5rxoRkZ3lxRusnhqbGsg76+hLB5h7/VblyyYih6VlekvVX+VZ1+25ZeNZgqekhCIaKyWNifV7W+ONMXhuCDg9BCS7f46sLOujtF/GeYRdDONriJpzwHZzBUA2E4lWft/vBFNi/GfY1faERs5rOtdd15PvtGFoOWGQchHZfwvP7SGQa95sOWT3A0lUgmm77N2nbBtmS04Wc0WRFog5SKvyJEEbjXeZJJPtBuKAFG9lByle4TwYARK5jo7QIOu0UVK8/H07AFrRTLGMjCzBoZ4WxredG4cTyMhrJwG6aicikT3g=;lRW/kwbCR+0dsrPBeXiTUQ=="
+secured: "w6v4M4feyJS7iCL0Ahw8xEugpXyS5/LIs1+p5CJxt8/lf/Bpt+63qU/r/Y9c3BaqEibvv5IcgZC4UaCOJ10tiWZc4T9mKS1A40c6nf0+hpSBxwmA5exAuQCgyEU9a9TfNXdWoP/scahTiYgYNJxJ24qr+R2iBsoKVa9VPs1w389xDXvLzCTKTnapOvt6FkJyiF74DipOGj9DyYJQia2McaOjFj+KW3FR05v08DJC7EBbGTgeTuaSn+K8i7j4jaHo+/2Ggwa1u4QX6Z/+eCCRcrgN3SF9Whoyiv8+8k09Gbf6vUhYKDD5v0lHc6WYI8omtPGYFWY6kHQWJ3hbnPQrWs1I1S/uKdI0JQ9dPHRoLABDY2u2b3qFSOdvJuaV4gEY9/Kjto8ro8EfCySgyiX3kji/dj2QbS7qm8WI9Lkg+gFhGeiIeBhxcbL1ges/uXgzm462YM5VoxP0v/xs8jPUlu+TOYZig2G7zN3wD0f1KGj+Md6hghH64ugIsXQNrL/idsur7IDxdO4HZlWaKE9o1g==;RoKuee1xaD0i865KY43VCw=="
 ---
 

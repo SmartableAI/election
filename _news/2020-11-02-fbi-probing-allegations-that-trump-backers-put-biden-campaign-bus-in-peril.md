@@ -2390,6 +2390,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "'Ray Donovan' star Eddie Marsan seemingly mocks Jon Voight over his support of Donald Trump in pro-Biden tweet"
+    excerpt: "Ray Donovan” actor Eddie Marsan seemingly took a jab at his co-star Jon Voight over his staunch support of President Donald Trump."
+    publishedDateTime: 2020-11-04T20:12:00Z
+    webUrl: "https://www.foxnews.com/entertainment/ray-donovan-eddie-marsan-mocks-jon-voight-support-donald-trump-pro-biden-tweet"
+    ampWebUrl: "https://www.foxnews.com/entertainment/ray-donovan-eddie-marsan-mocks-jon-voight-support-donald-trump-pro-biden-tweet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ray-donovan-eddie-marsan-mocks-jon-voight-support-donald-trump-pro-biden-tweet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RayDonovanSplit1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Cyber Daily: Trump vs. Biden on Key Security, Privacy Issues | Fraud-Detection Startup NS8 Heads to Bankruptcy Court"
     excerpt: "Although cybersecurity and privacy issues get relatively little attention on a presidential campaign trail dominated by the coronavirus pandemic, several such matters could play an outsize role in the next four years of economic and foreign policy from the White House."
     publishedDateTime: 2020-10-28T15:49:00Z

@@ -77,6 +77,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Trump Campaign's Lawsuit in Michigan Seeks to Halt Counting of Absentee Ballots"
+    excerpt: "The Trump campaign filed a lawsuit Wednesday in Michigan’s court of claims seeking to halt the counting of absentee ballots, alleging that state counting boards were violating state law by counting absentee ballots without election inspectors present from both parties."
+    publishedDateTime: 2020-11-04T22:49:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/Fbw6qWaPRwgqzRfWHC2r"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 111
+    images:
+      - url: "https://images.wsj.net/im-255152?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "iy9N5FgbFfKoOCZFd4KWaDfJ/NGqw/Y403iATZNh3yd2pKVLOfi3vE2i673lFbj75uCDWxy1JvaFpVzJKBGxfsqNoKKQDAYxEgXdSxI1ycMr+q0/E8dEPJC5UvISJW+zxwXueI8GH5nGC3H0npdWFLPDJ2JediQgIZanM1PdHEf5tkBVUQg6BalXEAI+y8sthPgndRYetPkJrCMg6WpiwTpGJzpbIhhqJYMk6NMhk8rM6U9cU8SCLUWltzUSJZu/DmDPQWdfKo+qqlhiCpQw46l2Ryb/mUJfYrMiet/DXmsqEn/n/nx4ITwNIvMPXFR69DQRDxcpaWdB0/jAHbC+QOP5t+nBh5hSEZFHyGUQy58=;HSojHUryWfVbKqyR5qIIxA=="
 ---

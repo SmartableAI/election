@@ -49,6 +49,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden predicts victory, says he will govern as an 'American president'"
+    excerpt: "Democratic presidential nominee Joe Biden struck an optimistic tone Wednesday afternoon, saying he anticipates he will win the 2020 presidential election and that he will govern as an “American president.”"
+    publishedDateTime: 2020-11-04T21:52:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LwnyFLDNDss/biden-predicts-victory-says-he-will-govern-as-an-american-president"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-predicts-victory-says-he-will-govern-as-an-american-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-predicts-victory-says-he-will-govern-as-an-american-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Joe Biden announces 'fight fund' for vote count battle"
+    excerpt: "Democratic presidential nominee Joe Biden on Wednesday announced the formation of what he's calling the “Biden Fight Fund,” touting it as the “largest election protection effort ever assembled” as he and President Trump compete for key battleground states in the 2020 presidential race."
+    publishedDateTime: 2020-11-04T19:40:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H4b_EzRtBy4/joe-biden-announces-fight-fund-for-vote-count-battle"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Progressive PAC touts Biden's 'ambitious' policies if he wins presidency"
     excerpt: "Known for its support for progressive initiatives such as the Green New Deal and Medicare For All, the PCCC originally endorsed Sen. Elizabeth Warren for president."
     publishedDateTime: 2020-11-03T23:25:00Z

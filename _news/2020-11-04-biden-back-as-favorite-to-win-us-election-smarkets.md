@@ -2,9 +2,9 @@
 category: news
 title: "Biden back as favorite to win U.S. election: Smarkets"
 excerpt: "Democratic presidential candidate Joe Biden was back as favorite to win U.S. elections in online betting markets, according to Britain-based Smarkets Exchange, a reversal of fortune for President Donald Trump who was favorite overnight."
-publishedDateTime: 2020-11-04T11:23:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-odds-biden/biden-back-as-favorite-to-win-u-s-election-smarkets-idUSKBN27K1DJ"
-webUrl: "https://www.reuters.com/article/us-usa-election-odds-biden/biden-back-as-favorite-to-win-u-s-election-smarkets-idUSKBN27K1DJ"
+publishedDateTime: 2020-11-04T15:45:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-odds-biden-idUSKBN27K1DJ"
+webUrl: "https://www.reuters.com/article/us-usa-election-odds-biden-idUSKBN27K1DJ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 type: article
@@ -186,6 +186,6 @@ related:
         height: 392
         isCached: true
 
-secured: "mAbZP3u4XI8ZmBTw4DMROcYa9Cobe91JWO8S7CQ2qF7WTD+Zzi0oP4N1zmvb1Cvxt9cu4Lrr+JSk25+33Zn4TF3dbcWcoTCqwuuA3EsJzjOe/gk8itsQWrmcQkLZPK0KU10W3cd0z26c2Fe5ya0pWowDeJI/T4fcqD0LacAecwB5rrkA1RZr5k7n50gMaIur5hmDdgmel/XQ6BAnX4sTeAjkhuLz4dtV/WxVfjUZvxSadGOXtZBI+sRB7V8NEPxNNBfr6nkIMwKEMPx6Vsctq99hFQbVIDq7N6KBM53b5PLyIJg0rMwYfRNOSU9qu6EWfwd1RSCSbExbX2OWmq1zWK5r+beUiXsooul5gTbW4io=;4B2Y9VqJdnCRIuaTot94HQ=="
+secured: "hg+spSfHxAkSpDDdUHTfJl+CG5P5hyD1Dx4NIPLVv4KBBlsqUW1wVfIQsrDtSRAp6Ezz58JRU8YvwYjYmBtIoBEBNdhMEQsHskdNH+7hNPv070+RzgQ98g3rNhLDw597K0Wti9gJTxavVrOIauBiR1RYQu4fYTcygshS+NSPtCfpPaiWJvcZwUcFsaNH5dFEDK54JYMkgZ5OyIPx03JGbtImdjpiC82hmdklom5elC4L98ZdBhwW4sz2feU+oucCG+ukYyjC9juM8XUfNml2e55RoI3d+j9lA9lk1xEEWuTV0fo9cFghdpUeizscl1MvztaUSwMMhzLPfj7IiSB7AXowZ1L02wwUnJLMenT/xmIsFTn+in94lqflKGC7A5VU18wqd1lFc46e62eGeupIBek5RTgAs23x4gYLOlsP/zeTa6nxID2ne9gTD68ZHtakSMlMfmI2sR439J2DoGIQCcw279X9v1SnjlGcC2m0fYikyaABC/53HrFeMI+dNyNtmnmxEJm91tFAfxmsg4QXxQ==;jQtWYP+XVehOdUQtZIfuQg=="
 ---
 

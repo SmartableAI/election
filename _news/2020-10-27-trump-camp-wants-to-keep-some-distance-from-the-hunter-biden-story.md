@@ -216,6 +216,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden campaign manager says he is 'on track to win this election' "
+    excerpt: "Joe Biden's campaign projected confidence Wednesday that he will maintain his narrow leads in several key states -- which are enough to hand him the presidency -- and could also overtake President Donald Trump in Pennsylvania and Georgia.\n    \n"
+    publishedDateTime: 2020-11-04T18:54:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l8nNUh2nuqE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/04/politics/biden-campaign-projects-confidence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/biden-campaign-projects-confidence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104012338-07-joe-biden-speech-election-night-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden moves closer to the presidency as Trump launches legal challenges"
+    excerpt: "The election duel between President Donald Trump and Democrat Joe Biden is coming down to counts of hundreds of thousands of legal votes in a handful of key battlegrounds after a night of dramatically shifting fortunes that left a deeply divided America's political fate on a knife edge.\n    \n"
+    publishedDateTime: 2020-11-04T22:42:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/liKExCVZyUI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/04/politics/presidential-election-2020-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/presidential-election-2020-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026140712-01-biden-trump-election-night-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact Check: Misleading new Trump ad claims Biden plans to 'end fracking'"
     excerpt: "Less than two weeks before Election Day, a new Trump campaign ad scheduled to air in Pennsylvania misleadingly portrays former Vice President Joe Biden's stance on fracking, a drilling method used to extract oil or natural gas.\n    \n"
     publishedDateTime: 2020-10-26T19:37:01Z
@@ -2135,6 +2167,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04paths-270-1/merlin_179554470_6c49631c-cd29-454a-ae7c-d39b0199ce2e-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Explore Trump and Biden’s Paths to Victory"
+    excerpt: "The interactive diagram below illustrates both candidates’ paths to the presidency. Here, we let you control the outcomes of the remaining competitive contests. Select a winner in the states below to see either candidate’s paths to victory."
+    publishedDateTime: 2020-11-04T22:33:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/04/us/elections/paths-to-victory-biden-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/paths-to-victory-biden-trump-promo-1604528510515/paths-to-victory-biden-trump-promo-1604528510515-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "With no winner in the presidential race, Trump falsely asserts that he has prevailed."
     excerpt: "With no winner in the 2020 race and votes still being counted in several battleground states, President Trump entered the East Room of the White House at 2:21 a.m. on Wednesday and asserted without evidence that the election was being taken from him by “a very sad group of people."
