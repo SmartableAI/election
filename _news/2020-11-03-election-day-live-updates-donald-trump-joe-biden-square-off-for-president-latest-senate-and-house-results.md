@@ -456,6 +456,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "The Latest: Biden begins Election Day visiting son's grave"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-11-04T00:17:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-begins-election-day-visiting-sons-grave-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-begins-election-day-visiting-sons-grave-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-begins-election-day-visiting-sons-grave-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Trump holds 5 rallies in 4 swing states in bid to woo last-minute Election Day votes"
     excerpt: "With Election Day finally here, President Trump spent Monday in a final attempt to win over swing state voters. The president says he's confident, but he is also threatening legal action in some states if results are not announced on Election Day."
     publishedDateTime: 2020-11-03T22:33:00Z
@@ -594,6 +605,20 @@ related:
         width: 1024
         height: 724
         isCached: true
+  - title: "Arthur Blank donated thousands to Biden while his Home Depot cofounder was a major Trump donor, but Blank says it never came between them"
+    excerpt: "Joe Biden supporter Arthur Blank says business isn't \"a red issue or a blue issue\" and politics never challenged his rapport with Home Depot partners."
+    publishedDateTime: 2020-11-04T00:21:00Z
+    webUrl: "https://www.businessinsider.com/home-depot-cofounder-arthur-blank-on-politics-supporting-biden-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5f49491960bf1f0028079416?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "ALLAN WERNICK: A Joe Biden win means Trump’s anti-immigrant policies could be reversed"
     excerpt: "If Joe Biden wins the election, he can reverse many of President Trump’s anti-immigrant rules, procedures and policies. Trump and Stephen Miller have brought restrictionist regulations and policy changes without going through Congress."
     publishedDateTime: 2020-11-02T12:00:00Z
@@ -696,6 +721,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uSBo+7bTFDxErDs++6DGD3w2sUngkrAmzqVuxmzZednqAsCWeV8ch7bhOaw7z1rYIbHE64S4sk1/CKA1OiEg+iw/KHgKR2staveGxmtJM7BIMPolUDuVQ+jeapfKmVaXL/tmlJyh42bXi/6L9SpmVClh38/APAaPE3dkiIjT36TbZqylVOtRRWqJEGmtedaVI8eShEHIJV4NzToxU2HyS9vO99VNqK9C62TAgjlcuBvXc6Jo9dgU+u7v6ymjCMAY9/L3Y8OIg6x898FbBSh3QqKbLcmLoQOdJPFQE28D/mvqm8gmBNd1amdcPd4Nvbee89KO0V/JAn3dN9B4GvcDrN2irOal9Zkwj5xOiavDhFs=;Pzmb2+5GCetPB+4IeJsKZg=="
+secured: "B7YODCX5dHtUFhTQZcJx0PltfMCfxeKKZ1djzA44uEqOtsTzomqspQ7ARXZR++DXc/y20eBmqr8dd2g7PV/bhSmuCAtoczueBHtDVmNh3MpygohCFMXai7DV3F3rzW2VWU6036BVgsKziEePxDeyIm9UTmdEzvmyFhl+qomVgNzcctMCABpkLdblTChAtikEqKRtJtLrAhOsovIjY2LY5jJZP43d0fssRcAybcf/06jmiaky8pXu5uUfZX72AEXY/Db/5EQtXZSWnm+naT3uhsflBuiloq2d6onpveXwMmdZC0hBJFixZbdphg7XC036X1PfFqqjqYFJEOeoW5Zos42BiCFhh5IfvuCsDFrtDL8C9GSx7cYi9YYDqj0VvHhH8pL26OnmROqkuVAhZ4wnnqTb4XhR4gf4UVUpwIeroEo6b461lOrOyaJE7WEnvjZlGqkeXw5p2GZzm546ny1LwDPppisKwolfRyUaLPW7k3Gov3b72PEifOfrFyOJWaUUcjZcLZzfcHfdJP3qMIiDdg==;QgfPWYmFZWrxY/XULn9kwg=="
 ---
 

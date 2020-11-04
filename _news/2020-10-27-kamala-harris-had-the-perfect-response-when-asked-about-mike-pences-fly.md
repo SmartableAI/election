@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamal
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view?_amp=true"
 type: article
 quality: 149
-heat: 2889
+heat: 2929
 published: true
 
 provider:
@@ -230,6 +230,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/faeDrPsPezhEa-8HTVnvVeOYX1U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/T5BRY7M2WQ3NE2YMZTFSQVZ3MI.aspx"
         width: 1200
         height: 855
+        isCached: true
+  - title: "Prayers ring out in Kamala Harris's ancestral village"
+    excerpt: "Prayers were held in Thulasendrapuram, India, the village where the Democratic vice presidential candidate’s maternal grandfather was born."
+    publishedDateTime: 2020-11-03T22:01:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gettyimages-1229432578_1.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "The Countdown: Avengers stars quiz Kamala Harris and what to wear to vote"
     excerpt: "Thirteen days left and we look at what you can wear when you go vote and who gets to question Kamala Harris. It was Democrat vice-presidential pick Kamala Harris's birthday yesterday and the cast of the Avengers held a fundraiser over Zoom where they got to question her."
@@ -1873,6 +1889,15 @@ related:
     excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to reporters as she arrives in Detroit to help get out the vote for the Biden-Harris ticket. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to reporters as she arrives in Detroit to help get out the vote for the Biden-Harris ticket."
     publishedDateTime: 2020-11-03T19:09:00Z
     webUrl: "https://www.c-span.org/event/?477774/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Miami"
+    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) addresses supporters at a campaign rally in Miami-Dade County, Florida. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) addresses supporters at a campaign rally in Miami-Dade County,"
+    publishedDateTime: 2020-11-04T00:58:00Z
+    webUrl: "https://www.c-span.org/event/?477610/"
     type: article
     provider:
       name: C-SPAN

@@ -141,6 +141,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Trump returns to the White House ahead of election night"
+    excerpt: "President Trump is back at the White House, where he plans to spend the evening watching returns. After Democrats maintained a lead in early voting across several states, the Trump campaign is counting on an enormous in-person turnout by Republicans on Election Day."
+    publishedDateTime: 2020-11-04T00:03:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-returns-to-the-white-house-ahead-of-election-night/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/03/b06ca1e2-8b48-4d22-9bab-dd8d8e92ed91/thumbnail/1200x630/3cf3d940eddafa3cd78d9f642858b37b/1103-en-reid-580138-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Ultimate Donald Trump Mystery That Couldn’t Be Solved Before Election Day"
     excerpt: "A s Americans vote today, they do so with a limited view of Donald Trump’s finances—especially at one project, the Trump International Hotel & Tower in Chicago, which offers the prospect of shedding light on many questions: who the president owes money to,"
     publishedDateTime: 2020-11-03T13:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/biden-pennsylvania-closi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/biden-pennsylvania-closing-rally/index.html"
 type: article
 quality: 167
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Joe Biden is leading in Virginia."
+    excerpt: "Virginia election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T00:52:00Z
+    webUrl: "https://www.politico.com/2020-election/results/virginia/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/51.jpg"
+        width: 600
+        height: 325
         isCached: true
 
 secured: "HgWBNk3Zur63tSy59X1QBwHXpWcnBuq2eZQi82DlaGLAKLWTPL7V7gbAdsKk5DR+eh5UF9ArZqHQWC0JE3jSRpSLjsnZmPp5Ae0cmelLrublQMkle2ru9FsTi3KK1eJfO5FvzbdbzDVThEx4BU3YoNlmHuw7lA2yJaXyjatHYvMIhOrkOl5Q4A7mDu6AjosYJfGdp4WJaCcu960HQmeqLpU0ElUF6f2QyXs0eAPfaQDIkUTLr0M2/OUihnpBJY5vaVWyU3lhCW9LtWJI/8yS0JGyNj/0XMpmc7onfpdKeTHOML8fHROJ2Y5t9QmwpST2z2saGwhk9+TmTaHkx7h0EfhEXNIUXmyv5cJOIzBWbFQ=;yowJly0INCw0StlJcm2Xzw=="

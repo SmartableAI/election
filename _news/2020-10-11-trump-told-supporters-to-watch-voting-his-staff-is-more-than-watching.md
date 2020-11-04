@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Ally Tweets Misleading Images of Philadelphia Voting"
+    excerpt: "Early Tuesday, a Trump campaign official posted an unfounded suggestion on Twitter that Democrats were illegally campaigning at a voting site in Philadelphia. Twitter labeled the tweet “misleading” and later “manipulated,"
+    publishedDateTime: 2020-11-04T00:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/business/03distortions-photo-ogtweet/03distortions-photo-ogtweet-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "yrrnz3RruBsT4yDDyqbgRavRE1a6TFYqVUSJv0qJFScU4GaBpB1EDgF+ObrlSKAumbgpw0WfzJa6kI6rlIuB04/TnMhr4En3uJFMNdP6xjINdod5A0lbRp52rQzXwYClEa7kT+dAWb38i4MGTnrJwEOLPfRzHFwbom9pK00zcGoiakl2+P2J/ubcXF0zscnJDv48co348Zy4BKUUBpu+8JN9qfO2ORUZok2PrrvTlyXdcgO4U3uo9Q9c8IDay6OVH4cz4haWyFeq662kPcJSAbEmWWjcltt1NkIU+qcLzbSFJ+QfGdHPMqedR8TIqd0vlE4h04o0SlJ6MWV+DnOAzdBKi+T+BIQfOY58fYNdWJbz2sEAGsb7fQIITdetOxIhJII6eFUpKDgYGWc4mIcQtlaZ2rVvv6tXNRKOb5YKQnRUwIXP16sTSRhEgc208ciFb+kHZdlLBU+entFocomHc116SL6AqlLD2C1+ntztOPXMqA00fdfzU+Spjtp3v+/+YiD+Bb2AyxAMGFMoXHBtJA==;7wXoL/oyr1tFFaNpO8AKMg=="
 ---

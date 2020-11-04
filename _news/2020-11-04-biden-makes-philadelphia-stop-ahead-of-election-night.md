@@ -1,0 +1,54 @@
+---
+category: news
+title: "Biden makes Philadelphia stop ahead of election night"
+excerpt: "Joe Biden struck a note of confidence during a campaign stop in Philadelphia, saying, “I am confident that the people who didn’t show up to vote last time are showing up to vote, and I feel good about Pennsylvania."
+publishedDateTime: 2020-11-03T23:49:00Z
+originalUrl: "https://www.nbcnews.com/nightly-news/video/biden-makes-philadelphia-stop-ahead-of-election-night-95263813939"
+webUrl: "https://www.nbcnews.com/nightly-news/video/biden-makes-philadelphia-stop-ahead-of-election-night-95263813939"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95263813939"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95263813939"
+type: article
+quality: 150
+heat: 170
+published: true
+
+provider:
+  name: NBC News
+  domain: nbcnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+  - Democratic Voice
+
+images:
+  - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_kwe_biden_final_hours_201103_1920x1080.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "‘Vote like our lives depend on it because they do,’ Kamala Harris says in Philadelphia."
+    excerpt: "Senator Kamala Harris on Monday evening made an impassioned final pitch before Election Day, casting the race as “the most consequential election of our lifetimes” as she urged Americans to turn out to the polls."
+    publishedDateTime: 2020-11-03T07:54:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02elections-briefing-harris/02elections-briefing-harris-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "QZ+fRoT5JCeEjGOK2U0BWr3nUfK8sSSRJBVcHfUBv9XMWY59qP++eYJUVIBytWoUN6mC8wNtP95M2Ms4Yej+xv1oWMB+Y3Bop/JehsIqNbLaPvCvwTZAPYE/4WOKZHEa1RJ8kjSimmwkmAsf/87z4LJ1YOnpJ/QIMtEZ/upH0e8T22IokRMQLhZVtpEjFAnDkMdnIDgbMWACj3gPP29cLVJJLw01a4lOi+2D5X54+vdS/guHiOJxhUYrDT/0uLA1W8s2msrnzbOG9sMt0LBVc+sNnuQp+5rFXh2j1+4xlFMhP6Jh0o3iyPVkSa2snPMuzDwYCEpHVzFJx5XeAJrHR+6nWRPmFe7i+oUog8jf2ck=;a/4/Su0zTMhEu4QnGgKWJQ=="
+---
+

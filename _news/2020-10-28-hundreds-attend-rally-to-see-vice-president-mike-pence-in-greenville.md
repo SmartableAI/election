@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-
 cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
 type: article
 quality: 75
-heat: 155
+heat: 135
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
-    excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally. HIBBING, Minn. – A brisk wind blew across the runway and light snow greeted Vice President Mike Pence as he made his closing arguments to Iron ..."
-    publishedDateTime: 2020-10-26T21:20:00Z
-    webUrl: "https://www.startribune.com/pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 52
-    images:
-      - url: "https://stmedia.stimg.co/pence+kormann+012.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Watch Now: 'I need you to be sure to vote,' Vice President Mike Pence tells 200 supporters at Greensboro rally on Tuesday"
     excerpt: "A crowd of about 200 people chanted for “four more years” of President Donald Trump on Tuesday afternoon during a campaign rally featuring Vice President Mike Pence."
     publishedDateTime: 2020-10-28T08:19:00Z

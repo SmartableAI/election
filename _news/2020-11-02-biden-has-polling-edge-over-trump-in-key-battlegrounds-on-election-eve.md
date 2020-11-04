@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hannity on President Trump’s reelection chances: Biden 'doesn’t have enthusiasm'"
+    excerpt: "President Trump “has something on his side that Joe Biden does not have, he has enthusiasm,” Fox News’ Sean Hannity told “The Daily Briefing” on Election Day as he weighed Trump’s reelection chances."
+    publishedDateTime: 2020-11-04T00:17:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-wMwVFexeJ4/hannity-on-president-trumps-reelection-chances"
+    ampWebUrl: "https://www.foxnews.com/politics/hannity-on-president-trumps-reelection-chances.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hannity-on-president-trumps-reelection-chances.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Election 5 days away: Trump, Biden to hold dueling rallies in Florida battleground"
     excerpt: "President Trump and his Democratic rival Joe Biden are set to hold dueling campaign rallies in Florida — a crucial battleground state vital to winning the White House — with just five days left in the presidential race.  "
     publishedDateTime: 2020-10-29T13:14:06Z
@@ -988,6 +1004,22 @@ related:
     quality: 186
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cef5496-adc7-442b-aee1-a83c412ce1fc/df295ce4-852c-4198-b842-5abd727e5650/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Woman who Trump helped free from Egyptian captivity announces support for Biden"
+    excerpt: "A charity worker freed with help from the Trump administration from captivity in Egypt endorsed Joe Biden for president in a Monday social media post. "
+    publishedDateTime: 2020-11-04T00:48:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vrJdmeVxpEc/woman-trump-egyptian-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/woman-trump-egyptian-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/woman-trump-egyptian-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1946,6 +1978,20 @@ related:
     quality: 145
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/500ff96e-0762-4e60-bff0-2d2c387eef19/6060f3c0-29b9-46db-ac4e-17d3e61de624/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Election 2020: Trump, Biden Make Final Pitch as Americans Cast Votes"
+    excerpt: "Millions of Americans turned out on Election Day against the backdrop of a global pandemic as President Donald Trump and former Vice President Joe Biden made their final pitches. WSJ’s Shelby Holliday reports."
+    publishedDateTime: 2020-11-04T00:22:00Z
+    webUrl: "https://www.wsj.com/video/election-2020-trump-biden-make-final-pitch-as-americans-cast-votes/365336EA-508B-4236-A44C-5FEE83112CBA.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 145
+    images:
+      - url: "http://m.wsj.net/video/20201103/110320election.newsofday1/110320election.newsofday1_1280x720.jpg"
         width: 1280
         height: 720
         isCached: true

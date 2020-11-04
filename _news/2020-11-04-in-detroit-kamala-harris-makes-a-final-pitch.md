@@ -96,22 +96,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "‘Vote like our lives depend on it because they do,’ Kamala Harris says in Philadelphia."
-    excerpt: "Senator Kamala Harris on Monday evening made an impassioned final pitch before Election Day, casting the race as “the most consequential election of our lifetimes” as she urged Americans to turn out to the polls."
-    publishedDateTime: 2020-11-03T07:54:00Z
-    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 127
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02elections-briefing-harris/02elections-briefing-harris-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Kamala Harris Shuts Down ‘Childish’ Men Who Mispronounce Her Name"
     excerpt: "Why does it seem like it becomes harder to pronounce your name the more conservative a person is?” “Daily Show” host Trevor Noah asked the vice presidential candidate."
     publishedDateTime: 2020-10-30T06:27:00Z
@@ -122,6 +106,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "BfqBjGWjPxhysEq+zHNxE2ZprvH2rSFEMEdXyCAl9bTw+qW9d9aagY5YW2oXuhPMHJQIFeytkIJaLmDNlW5Uppgz7ZKm8XHE71i4Q0ngBvUQa6YwHwukETywoIJMnlVn6N/AwQExomzRXimwTOpVAU2w7kvXpIKMMxUyrAbEXSjC4BMNvNCtbYe8W1ooAicv0Tp4lyp+bCIUeHmz9gdLkt4WvK0astNWjAsdBR8RNM4vTNbwshmGEBZP6uoZaVWgBSRnSZ8sA74oVKe53pE7FEgF9QcqX0+HcaQrZG1WSFPgOo8AhHFWHw4S+yQkh8pWyIlHk3rKq2JL+K2/SuFspejWyRxemn+CBZNH49awb34=;4ejswpGO0SpJPWnROhzvxA=="
+secured: "as5sk7KJF/1C1UWJ4sTDtelrTCldFvtl9s1ROFnzwpqnJtWuYz2/sZAcucH9rUZ7gg7cgp3Z4nN/WvxnIPoTkGCsOHYoiIlRGJiFOJwqDNrWt2TahwTEt85NM4BdEN8C7YrwIThS76Auom2B7N1JmUTuKhJviAzBlvKQI8i+hKseBf3ywopO5adrp4Mg7oxzIa67u7mB8Io5btkDdR5+bLfjKWn2D/CKAu2uxACUFcGbqxb3/cVtVT0z3A2NN/rfCqHkMbjBB/a4v5awmM/RUx5giUTmruvUH9HaamAdHkdwg0tvmGjLs4qgPDBsYEFmOjQAAgSUm1yGLLyrcmPO61Y5Dh1dp6hJ9eim3xlg+L9XpM6O+iEF4wLFUX1LIG3iuGFNUck0YspdLbfrXWID475hVyw2Eh6xd3GguFsK5c8Hyo2hbCdS6KuDmRhpS7Wav4bZ31tzaG6PAXkKskg/Jp/ZmrQqwnpi+mQMPY1hzgxZ7s2nyQ+od/FXwsZsq54zAZl+eueGm4Jm1mX2LfDatQ==;vtYajC8vAeIWjOuY3pcKFQ=="
 ---
 

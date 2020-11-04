@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.azcentral.com/amp/3754115001"
 cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001"
 type: article
 quality: 91
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Arizona Republic
@@ -28,21 +28,83 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence headed to Waterford this week"
-    excerpt: "The vice president is returning to Michigan less than a week after President Trump was in west Michigan for a rally."
-    publishedDateTime: 2020-10-20T21:48:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/20/vice-president-mike-pence-waterford/5997631002/"
-    ampWebUrl: "https://amp.freep.com/amp/5997631002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5997631002"
+  - title: "Joe Biden projected to win in Illinois"
+    excerpt: "Illinois has 20 electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-04T01:16:00Z
+    webUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa203e269331a0011bc7262?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC"
+    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
+    publishedDateTime: 2020-10-31T15:19:00Z
+    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/"
+    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 90
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP Mike Pence, Stacey Abrams, Jill Biden to stop in NC today"
+    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
+    publishedDateTime: 2020-10-31T15:19:00Z
+    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/"
+    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 90
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden will return to Michigan on Halloween"
+    excerpt: "The trip marks the former vice president's fourth to Michigan in recent weeks, again signaling the importance of the state in the overall race."
+    publishedDateTime: 2020-10-29T02:15:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/26/joe-biden-return-michigan-halloween-election-2020/6049405002/"
+    ampWebUrl: "https://amp.freep.com/amp/6049405002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6049405002"
     type: article
     provider:
       name: Detroit Free Press
       domain: freep.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/14/PDTF/34e1604a-563f-45aa-a360-81bafe7830f3-1014Pence_GR_Visit_26.jpg?auto=webp&crop=1984,1116,x0,y137&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/347b1fa3-f7b8-482f-8fb2-adcc72da78b5-biden_101620_kd125.jpg?auto=webp&crop=2399,1350,x0,y115&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Verbum Ultimum: Joe Biden for President"
+    excerpt: "Joe Biden is the only acceptable option on Nov. 3. by The Dartmouth Editorial Board \\| 28 minutes ago. With Election Day a mere four days"
+    publishedDateTime: 2020-10-30T06:33:00Z
+    webUrl: "https://www.thedartmouth.com/article/2020/10/verbum-ultimum-biden-for-president"
+    type: article
+    provider:
+      name: The Dartmouth
+      domain: thedartmouth.com
+    quality: 55
+    images:
+      - url: "https://snworksceo.imgix.net/drt/f6e05d55-b92b-4d73-be17-06d62e8be61a.sized-1000x1000.jpg?w=800"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "umqH07rN8ucbsBWlX8HTRVNFOiMbV4rBvJGj/cISCfm4TF/5tCElJW0q7yAgAWAC1e7ee3BZqkRXY9VsS/Cbpi9L0DFCf6pXvm7zNY42OG3X3kwEAzJ4f78uA4tf1FZDapA54lKtiNuc2E/QS/N8i5leIvtUiA5L99arJxkwcgDoMZ2idOUlS4UN5W1ZgbiCMnkw0IDclFWQR2nb/sSbiDVusiVKIpYVYWtcO8PvlOksGd4st4Wt6hM+WAywZkx+ssfUrQGeyXLapsq1VaqMYgBhd11Dmz46mbvFsDWHmecggKMeTGOZ2jszn9t3bq8NMUqnZtk+/o5Xr6zck2nAFlMkSMj6PadJibFitsjEqhNMtvFdoRlfg53/LNmywEjuIH9qSbmnoMOGtFk6kWNFkqunvEVtHjyfQdCrCj4bGsus3QtT9SoEpiNrLe6xcO6bgkk4EABVWyNNEcNjbo8UyhYszp0lomhBrIx8pcnP61qKiRao5wxC9Z/40+OwToYsQVyaBLam+gRYbHM3I1rpVg==;wrisnajemfpiuQ5vHKe0sA=="

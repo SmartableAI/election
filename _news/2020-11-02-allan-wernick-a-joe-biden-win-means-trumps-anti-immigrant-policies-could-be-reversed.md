@@ -454,6 +454,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "The Latest: Biden begins Election Day visiting son's grave"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-11-04T00:17:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-begins-election-day-visiting-sons-grave-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-begins-election-day-visiting-sons-grave-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-begins-election-day-visiting-sons-grave-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Trump holds 5 rallies in 4 swing states in bid to woo last-minute Election Day votes"
     excerpt: "With Election Day finally here, President Trump spent Monday in a final attempt to win over swing state voters. The president says he's confident, but he is also threatening legal action in some states if results are not announced on Election Day."
     publishedDateTime: 2020-11-03T22:33:00Z
@@ -591,6 +602,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/30/americans-such-as-this-voter-in-pennsylvania-have.jpg"
         width: 1024
         height: 724
+        isCached: true
+  - title: "Arthur Blank donated thousands to Biden while his Home Depot cofounder was a major Trump donor, but Blank says it never came between them"
+    excerpt: "Joe Biden supporter Arthur Blank says business isn't \"a red issue or a blue issue\" and politics never challenged his rapport with Home Depot partners."
+    publishedDateTime: 2020-11-04T00:21:00Z
+    webUrl: "https://www.businessinsider.com/home-depot-cofounder-arthur-blank-on-politics-supporting-biden-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5f49491960bf1f0028079416?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Joe Biden in Ohio: 'I'm going to hire Dr. Fauci, and we're going to fire Donald Trump'"
     excerpt: "Democrat Joseph R. Biden on Monday dinged President Trump for suggesting that he might fire Dr. Anthony Fauci, the federal government’s top infectious diseases expert, and said he plans to oust Mr. Trump himself from his current job on Tuesday."

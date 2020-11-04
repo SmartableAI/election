@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306646863849.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Tucker Carlson: Media misjudged Trump support among non-White voters"
+    excerpt: "Tucker Carlson criticized the mainstream media on Tuesday for painting President Trump as a racist who would struggle to attract non-White voters after the president delivered a strong showing in Miam"
+    publishedDateTime: 2020-11-04T02:58:00Z
+    webUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters"
+    ampWebUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "i/0ezgNC46N6dV883zOMKFUXxAZy3SgnDft8eCsQ7arNqjg/0opCSh1HvxzIdie4Op/NEA1jv7cpfM/ZSnsLmA3h3rgRRyudFpqwqmVnPdzZnADuDPyvWe+pB/ZuCm4Sdnm9/22Th9laTgFrsllJ0o2/FxB+CcjRJc+RL9RUX/JEy5m32OjbEDd1hRKs/UdmAW9lZ1yJW0P6Q8Zx8P3IVFl6fGB/hi57vphwUO6le+FYGox4jHF0yKcC1Alt1J/+c3wIKzjNMULW8o1QW7Qhvvsa+Igiv0FmQlDBl+BhIJQ+fCucTtGWhMASirGLjLS+q8XpUNfayR/cdlLEK81QlE7Uqym6PH9svGIAePqhQLM=;4tsDJRc3AAcQPxvYtsxuVg=="

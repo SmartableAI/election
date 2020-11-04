@@ -128,6 +128,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Donald Trump won in Oklahoma."
+    excerpt: "Oklahoma election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T01:39:00Z
+    webUrl: "https://www.politico.com/2020-election/results/oklahoma/"
+    ampWebUrl: "https://www.politico.com/2020-election/results/oklahoma/amp/"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/2020-election/results/oklahoma/amp/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/40.jpg"
+        width: 600
+        height: 325
+        isCached: true
   - title: "The Trump campaign has set up two ‘war rooms’ in the White House complex"
     excerpt: "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration."
     publishedDateTime: 2020-11-03T22:05:00Z

@@ -336,6 +336,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden visits son Beau's grave, attends church on Election Day"
+    excerpt: "Former Vice President Joe Biden attended church and visited his late son Beau's grave on Election Day."
+    publishedDateTime: 2020-11-04T00:20:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LBph-OP76QI/biden-visits-beau-attends-church-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-beau-attends-church-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pennsylvania energy workers feature heavily in Trump, Biden bid for votes"
     excerpt: "The two 2020 contenders have clashed over Biden’s stance on hydraulic fracturing."
     publishedDateTime: 2020-10-28T01:37:48Z
@@ -744,6 +760,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Watch: Joe Biden Campaigns In Ohio, Western Pennsylvania Ahead Of Election Day"
+    excerpt: "Former Vice President Joe Biden is scheduled to speak Monday afternoon at campaign stops in Cleveland, Ohio and Monaca, Pennsylvania on the final day of the 2020 campaign."
+    publishedDateTime: 2020-11-04T02:47:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/02/watch_live_joe_biden_campaigns_in_monaca_pennsylvania.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 76
+    images:
+      - url: "https://assets.realclear.com/images/52/525497.jpg"
+        width: 5490
+        height: 3660
+        isCached: true
   - title: "Watch Live: Joe Biden Campaigns In Ohio, Western Pennsylvania Ahead Of Election Day"
     excerpt: "Former Vice President Joe Biden is scheduled to speak Monday afternoon at campaign stops in Cleveland, Ohio and Monaca, Pennsylvania on the final day of the 2020 campaign."
     publishedDateTime: 2020-11-02T20:15:00Z
@@ -798,6 +828,6 @@ related:
         height: 748
         isCached: true
 
-secured: "wqi50jYDP7G6L2x8HQFhHsKRAH2ZzJV4jyaxGYreqCaDfa18K58YJ4Cah1phm07ZbOTxBDvy3ttJnuPP1FCNtugWvNlnoQCLINpkR15GK/mHvqnJL9ULLChPhgQwd/tyytImb0JwcPXjQFCbVTKNn/M/AqkDsArOKqt0Eu5/BFnmQLBlNmjimA2nSYiZmUZzYiIJJG/TivKBHXqb//o158aBNo4ix+ZMCSGQQPE7/Iq3eN1X+nb4sTqkqdJrKGTeLczjlQy2GlGk8bQEf5DC34DaxLEFWgBG937tFTzL3VwXXxwVkEQaEWbxI7X5/8G7e08CzjS9qm8KMynFPlOAVaZF2fUX828YyUA+3+UiMqQ=;ctz3yVTd2wnU/3oENKzDFw=="
+secured: "14I/TlmhZuwof4H4kFnkg4fA9JkjlLqVZoVsxRHuci+UNNLm6eNZWgf4d3RwBl2nuHpJ/Inw86dmYabYxbUjGyQDpnDX+VlUBRwnKz0kcciwAxdQitPdPK25qYv3ZzfQs4TlMRiDMyV3Y+jUSCO8BDaCqKdqX0UN1gfnLUyqGUXfO4gKMxOIA7b9MjtlPrXPT/RSeW6dbDmQTVRRdPKK5B8EIkbmB+N0sh7+4LIF1sKhvLhetpORE4h4yz7hGLI2NWN8VOAAnUDon36ap2/kFm4Hzw9VdYmViq5dqyT+ImQs+FQOzWe0oLtzTLfle31wfIhkZW6vu9yeRkCiZtDC8ZTta2HXghmFF/Wm6A9AXdXS7M2tNn1Tcd2UBaWsAAGH2xm1Ty5p4g2xhUom18FfRb6K/Bkj67t1HZZitg7eN2DuclVvoRUOLzCr9MaCocF+iC+WkTQYexGjhqYuwgt6fjldhbFdvCxghxdesru1KelF2ZbT/Cj4JSJHje/F0tqFYvjjEfHHPcDXXf1sq6deHA==;AWq/JdHk79iV3Y83ODeHSw=="
 ---
 

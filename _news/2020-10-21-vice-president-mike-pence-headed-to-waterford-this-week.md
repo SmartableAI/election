@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.freep.com/amp/5997631002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5997631002"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: Detroit Free Press
@@ -27,22 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week"
-    excerpt: "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won."
-    publishedDateTime: 2020-10-28T05:38:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3754115001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001"
+  - title: "Mike Pence rallies supporters in N.H., voters say presidential race is ‘tighter’ than polls show"
+    excerpt: "Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13"
+    publishedDateTime: 2020-10-21T23:56:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 91
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 62
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3418,x0,y95&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems01.jpg?w=1024&h=755"
+        width: 1024
+        height: 755
         isCached: true
+  - title: "Vice President Mike Pence, second lady Karen Pence to make separate stops in North Carolina next week"
+    excerpt: "In the homestretch leading up to Election Day, the Trump/Pence campaign announced both Vice President Mike Pence and second lady Karen Pence will make stops in battleground North Carolina next week."
+    publishedDateTime: 2020-10-25T01:35:00Z
+    webUrl: "https://abc11.com/politics/mike-karen-pence-to-make-separate-stops-in-north-carolina-next-week/7314278/"
+    ampWebUrl: "https://abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 60
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
+    excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally. HIBBING, Minn. – A brisk wind blew across the runway and light snow greeted Vice President Mike Pence as he made his closing arguments to Iron ..."
+    publishedDateTime: 2020-10-26T21:20:00Z
+    webUrl: "https://www.startribune.com/pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 52
+    images:
+      - url: "https://stmedia.stimg.co/pence+kormann+012.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Pence Delivers Remarks in Selma, North Carolina"
+    excerpt: "Vice President Pence delivers remarks at a campaign rally in Selma, North Carolina. President Trump delivered remarks at a campaign rally in Greenville, NC, less than three weeks before Election Day and on the first"
+    publishedDateTime: 2020-10-16T13:32:00Z
+    webUrl: "https://www.c-span.org/video/?477055-1/vice-president-pence-delivers-remarks-selma-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "w8jPrzpb75iV9q8rkIg/Gmd0HENxYn4YY7iitplEhxzEdT9bYGpVPr86mxXDVNmj0ThEX847ez+/LLd4rzyRYi0Jyf+zqWYffMLXE3zmJkrn3ArYS8GIFeO/4fcodRwlfUHpIogITyJiGlqzrkEo9S8SOLQHou66icMQUqSktVkYbQNaeLWZ3UhEK0Re3VlbO4U5i+5VxuZCLDxcPCVJSgLyboCSb58/YO5OaABhI3SB5efyggDMpw66qVj7Hu4PZjKio29y6RTt9M8zVFUQC8zGltDoI81BD8CM5IjdPQrZLDpUpO6S2DOsJV+mZzmSHtIhgUVUAbMKCUx8Wita6sPCBVNvNmI+brFfMBR2ROf1LTGfj9SopmZSQReBC5s0DVM7FxBajbImreK2fvrcbxHvc1KZ2naiZRFICarovKnn3ZVKCW3HAd7M89K0O3kb3D6HHUxmOfqhiH20Ci3JRiHDGoGwNN0Bwunhq6bor3g5HNglwmkp/sURByqC9vl5TfLyzKcr6awFzHY2vcLNPg==;WIDEYcVHG0hv8HEG0Pi9MA=="
 ---

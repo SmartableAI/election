@@ -49,6 +49,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Progressive PAC touts Biden's 'ambitious' policies if he wins presidency"
+    excerpt: "Known for its support for progressive initiatives such as the Green New Deal and Medicare For All, the PCCC originally endorsed Sen. Elizabeth Warren for president."
+    publishedDateTime: 2020-11-03T23:25:00Z
+    webUrl: "https://www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b9f7b35-9c4c-4a96-9f4a-6ae787d28f60/ff0296af-0333-4f3c-842f-95a9656028a0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "NA0stZMxpbIuPixHT21OmGlGZ/67sqSK/eG+hAdvlSbMegioq/EN6iyD5uK5S3l8WbDtNx4vBlUFR178aOyR3ryqFyDN+s6hIL+7alUVriwBrp3LXa7uHkhyA+lBSniU+/aBnoDfR2UfueAwdcVSI6f+IfXVHNoWIDRhFUPYI/83vNI8goiIMh387kyDibhO6E5ngpVYuWT/GoH9vwIPl9/Uhmskb1FksvLRUY+AACLuLLPKrO7tVAOJZ1NWyq/va3cmp7G+8o43Jcgo0n/0LQHhim/dCHS3xtb6IGL+utmOpsvWU7RSExF3ZpcwTMv58hTYsZRpO74UsmdRzWWDhscezprYoHLY0cIh4tcMQ6O/dKUtsHodj6v8h5frd860gJs63M227R0kcKUhOuLbGz/MwPZCjPGx9BehL3VC9cUSTp3ynvm2r+67ao4th4um31RbK4JJfJNYiiKaL+JgyZMY2dJG37OmYiDAUAfXoEQXUsn8FlDbEROzFEbefa+/JeYxvDWqvZmJccU2MjOp7g==;UzNbmg++tilDBcfcL7GBrg=="
 ---

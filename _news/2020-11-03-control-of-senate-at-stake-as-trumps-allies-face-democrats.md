@@ -212,6 +212,15 @@ related:
         width: 846
         height: 571
         isCached: true
+  - title: "President Donald Trump Wins West Virginia's Electoral Votes"
+    excerpt: "President Donald Trump eased to victory in West Virginia to take its five electoral votes. He had been widely expected to defeat Democrat Joe Biden in a state that backed him in 2016 with 68% of the vote."
+    publishedDateTime: 2020-11-04T00:40:00Z
+    webUrl: "https://www.usnews.com/news/best-states/west-virginia/articles/2020-11-03/president-donald-trump-wins-west-virginias-electoral-votes"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "bXcXrvyG0Eu8pUujFK3c4tzcWblgmdHnp5LimZWYIt5/HfmW0LoCe5fRcjldnJZ7bTLej22EGh0tw15LAHQdsWgbWkLPOv8reTxj+Q9KmYnerS6yaMklbD0n4HpMVHGoDYpoxgf3IQC/OIjvulklTkZachTAsXGDDJ20iAwDA6WwC1nJ07VLo6FZuUwpPJiZdAcZwq3ErwcViqPmidtV29hBvoVIl66O7KEPbBhgilmvxMimvQ7oi6+PPIl92tlXQCC2f3vn3zEYmrTkBP4SPco3oyCw89AXGQNVWxQfvKO1CJQRQnCV1zCxxChWVC1XIvY3VnwmpzRmOc1WW3g14TUR8jaYmD7AS+m6R/dBSDk=;A4vk1non9b5ZxmH/cJjLkA=="
 ---

@@ -42,6 +42,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The latest: Absentee voters urged to check ballots before it's too late; 'Trump trains' respect voter boundaries, officials say"
+    excerpt: "Republicans and Democrats alike gathered at polling places to vote in hard-fought local, state and federal races — including for the presidency."
+    publishedDateTime: 2020-11-04T02:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/11/03/latest-iowa-election-2020-election-day-live-updates-voting-issues-problems-president-congress-state/6125064002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6125064002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6125064002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDEM/00e3dcb0-255d-409a-9ce9-d0162799a46f-20201103_002_election_bp.JPG?auto=webp&crop=3499,1969,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "f57eDw179FOZ2El4Uw2cF6IqQJvMuU63PFMJzRUcmRhYiXdFNIQ6Zagzyuu8Nx0dCgZDpMmGgYTUkZGoZFDn52zGpZqFvWqdcC0pDM+5WtnnI3u0Muu+h2WsT/+c/OQMLVXPZ8X+joWrQv6mRAi/iM9qRrkujYJnWBaSsKdtKdHoxdegyQzk+N4VZcfnfS8PgIOwytufnJUVjeWrLHpjbjlbBE4ToVFQOcN2l7/WWQQK4CmQl+ROoQH+UX0KFf5KU+MWq9oPQchKIPYdQ2HpK528Ps7A83hr//2phBBmgxfrjex+cV3nKUJegS4tRVrZ5WqrKZiV5c0IE6AOhp8L1PwdG7Sj8z1dnzL9pqtlFYypg0+WukrvYP0Ky9qOk3jiUdmICNO3Bbz/keiys4pybRcs96G1VzpwRWxFxz9h39pyU+EsnJDLQ+uKk3VX3x7UrPUMzZgrYVunXsmF+PfCjs0UHAwg9h/1aum8vKUW7ZuCpkMTMkclepERN09woh/M59pYBOiIsEcajclRCRkLZQ==;VdgBojoTuo+ZVB9ZCLChEA=="
 ---

@@ -25,84 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC"
-    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
-    publishedDateTime: 2020-10-31T15:19:00Z
-    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/"
-    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
+  - title: "Can Joe Biden flip Georgia to Democrats? Campaign stops set for Warm Springs, Atlanta"
+    excerpt: "Joe Biden will travel to Georgia next week, making a late push in a state that Republicans have won every presidential election since 1996. Biden’s campaign says he will deliver remarks in Warm Springs,"
+    publishedDateTime: 2020-10-25T06:41:00Z
+    webUrl: "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html"
+    ampWebUrl: "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
-    quality: 90
+      name: al.com
+      domain: al.com
+    quality: 68
     images:
-      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VZT67ZTTZNERHL4YLTGMZVJASY.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "VP Mike Pence, Stacey Abrams, Jill Biden to stop in NC today"
-    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
-    publishedDateTime: 2020-10-31T15:19:00Z
-    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/"
-    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
+  - title: "Senator Kamala Harris Remarks to HBCU Student Leaders at Spelman College in Atlanta, Georgia"
+    excerpt: "T14:32:19-04:00 vice presidential candidate Senator Kamala Harris (D-CA) speaks to HBCU student leaders at Spelman College in Atlanta, Georgia. Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to HBCU student leaders at Spelman College in Atlanta,"
+    publishedDateTime: 2020-10-23T20:32:00Z
+    webUrl: "https://www.c-span.org/video/?477326-1/senator-kamala-harris-remarks-hbcu-student-leaders-spelman-college-atlanta-georgia"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
-    quality: 90
-    images:
-      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vice President Mike Pence campaigns in Elm City, North Carolina on Saturday"
-    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
-    publishedDateTime: 2020-10-31T17:39:00Z
-    webUrl: "https://abc11.com/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
-    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
-    type: article
-    provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 73
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7516195_103120-wtvd-pence-open-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vice President Mike Pence making two campaign stops in North Carolina this weekend"
-    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
-    publishedDateTime: 2020-10-30T06:18:00Z
-    webUrl: "https://abc11.com/politics/vp-pence-making-two-campaign-stops-in-north-carolina-this-weekend/7463634/"
-    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
-    type: article
-    provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 69
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7398556_102720-wtvd-Tim-5pm-Pence-in-Greensboro-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "VP Mike Pence to make 2 campaign stops in North Carolina on Halloween"
-    excerpt: "Vice President Mike Pence is set to return to North Carolina on Saturday for two campaign stops, just three days before Election Day, WTVD reported."
-    publishedDateTime: 2020-10-30T06:04:00Z
-    webUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-make-2-campaign-stops-north-carolina-halloween/FGNHNKGYWNF6VFKP6HM42DXAHY/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
-    images:
-      - url: "https://www.wsoctv.com/resizer/pXusisgI-i7o4r9ZDOxKtDRJ0cQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/AV3ZLYO4QE6NNM2EBGO6L6GALM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 24
 
 secured: "ILKrVi1qMFs0cnGwwedKXHVE6DlwyEoFJwB/VVnjgivtw+cbwIMChCgeFRduisxyfWshsNiH7pPFitbdZ60Y4OzyowPYc+lLP0Qk50JYIHbrpe42gKYHCqmiHd/ZEHFEjwPEaYzOhvBFR5t4spdrn6PZamxZL/Mj8M0yBFBPMRJWnRXrE7oxGUZIE9ryJn6lEl8D0DLjXkgHipLYPtnNryS2qP0igoRbMutJNZd3vOGtZm9jKC23nmNpUtFL8ZgZVfAH57rMMfAcBY1Ek/RZ2ea58tIimSBmqlWDG/we4UvSBy2CJ/vdjVJFkTYKy5/7teGDvhuDhE2Sg0lIiHoBG5I3msz55ifxoW9K2UMIE6LhPSKoanhwlS4Q5g2ZnwEmN5H2pTzvXTH9GNbmv030dbmVGsZvcCEHxZyqnSd7cLq96tgP8FY6aK+VgzVCsh8NUfF0WrwnGIkdqTBSmU/kbMbs4x9OBcmfzsAdLPbGIekat0+ibRZr+Iqc2leFe1H8VzvBeksJErEnBsXXSHZdsQ==;zaFnAhieb/CslAnl6wSWng=="
 ---

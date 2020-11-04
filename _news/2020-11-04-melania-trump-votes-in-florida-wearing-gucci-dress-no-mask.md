@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump campaign claims historic GOP turnout in Florida"
+    excerpt: "The Trump campaign on Tuesday claimed historic Republican turnout in Florida, touting their ground game—specifically their efforts in Black and Hispanic communities—and saying the race in the Sunshine State is in “nearly a dead heat.”"
+    publishedDateTime: 2020-11-03T23:59:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPx0z_M4kUs/trump-campaign-claims-historic-gop-turnout-in-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "RrUIzd8buc7UbURCcqPF2VHWuj5vxCsTUxx4rRDpfVGSBBX/ddkKStZJPAJpYc+CTtwbpQT2+yhMkn6qAbq0gDqH9xhEp3pTj//rEGzYaZh4dKLP6ISdsW7TJHlkHIeMCS9SGIEc5se45U1Bcm3PThxTv/Ak0EP9btSnJ65xM44mD3lPVz051+v/89TZ9mFNKxAnjkFxFJlP7AZ7AsEZDC5swKnefyO4YSmlPWuwBgvgDG5TCFv6WDmjq4zFkMXUvmcALidfG/L3GviuBqYC/ll9XhYHOPS9l6LM4T7UfjLSKb0rMvVZAPTbznfzJ3k6mi22JM4mkNLgSpyGah/8e0nWE79xLXnvv7x/Uvg+N4I=;v60mpbZBGcOCta5kDYGzqg=="
 ---

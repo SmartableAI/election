@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
 type: article
 quality: 140
-heat: 420
+heat: 440
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QUHR&r=OVD30QUHR&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Trump returns to the White House ahead of election night"
+    excerpt: "President Trump is back at the White House, where he plans to spend the evening watching returns. After Democrats maintained a lead in early voting across several states, the Trump campaign is counting on an enormous in-person turnout by Republicans on Election Day."
+    publishedDateTime: 2020-11-04T00:03:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-returns-to-the-white-house-ahead-of-election-night/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/03/b06ca1e2-8b48-4d22-9bab-dd8d8e92ed91/thumbnail/1200x630/3cf3d940eddafa3cd78d9f642858b37b/1103-en-reid-580138-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship"
     excerpt: "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain."

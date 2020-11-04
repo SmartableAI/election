@@ -25,21 +25,85 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
-    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
-    publishedDateTime: 2020-11-03T20:31:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
+  - title: "Joe Biden projected to win in Illinois"
+    excerpt: "Illinois has 20 electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-04T01:16:00Z
+    webUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 108
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
-        width: 818
-        height: 545
+      - url: "https://i.insider.com/5fa203e269331a0011bc7262?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week"
+    excerpt: "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won."
+    publishedDateTime: 2020-10-28T05:38:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3754115001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3418,x0,y95&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC"
+    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
+    publishedDateTime: 2020-10-31T15:19:00Z
+    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/"
+    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 90
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP Mike Pence, Stacey Abrams, Jill Biden to stop in NC today"
+    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
+    publishedDateTime: 2020-10-31T15:19:00Z
+    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/"
+    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 90
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden will return to Michigan on Halloween"
+    excerpt: "The trip marks the former vice president's fourth to Michigan in recent weeks, again signaling the importance of the state in the overall race."
+    publishedDateTime: 2020-10-29T02:15:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/26/joe-biden-return-michigan-halloween-election-2020/6049405002/"
+    ampWebUrl: "https://amp.freep.com/amp/6049405002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6049405002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/347b1fa3-f7b8-482f-8fb2-adcc72da78b5-biden_101620_kd125.jpg?auto=webp&crop=2399,1350,x0,y115&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "iIixoOGHimjcqkEYcsa2iXISEKWxWpCn7rfQLseN5qbEVXhIwdLWtTY88wReKaZZ+UC6t+pioHtKe+gDNX3WiPwQ9CLHDp1s95c7NWa4pSQQAq3vkhMKYCk9J9E52flqt1ioWlXl9kObOwVXQLbdeCaixIBmm2Su0AvkJ9sPi2LIimqumWPJeDwLfTc0u64308rITpIHjoWn69VnlM7rvdkF/bPhVrHO81Q9qJ9Y3qDCmNSF6vbq/wxfYZLSXVMCdJKBAyl/lqZ8pgZ8OLPXuDhyaKYDa0YufUOwKNzaabYOAH4LFyD9FUkKWp5A28qZzVVu0SHOTJkrRMbA4L8/ONHfqyNpuaeRyHO3JKQJQB8=;y7k6pwfVZJMA0debW0SUFw=="

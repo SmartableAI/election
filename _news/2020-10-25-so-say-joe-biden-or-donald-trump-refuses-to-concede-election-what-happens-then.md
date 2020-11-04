@@ -2309,6 +2309,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden is planning to declare victory if news organizations say he won the presidential election — even if Trump won't concede"
+    excerpt: "The Democrat is planning to address the nation on Tuesday night, regardless of what the results show."
+    publishedDateTime: 2020-11-04T02:23:00Z
+    webUrl: "https://www.businessinsider.com/biden-plans-to-declare-victory-even-if-trump-contests-election-results-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-plans-to-declare-victory-even-if-trump-contests-election-results-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-to-declare-victory-even-if-trump-contests-election-results-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/5f91858eabcd0c0018d68fed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Poll: Susan Collins trails challenger Sara Gideon by small margin; Biden leading Trump statewide"
     excerpt: "\"If (Collins) doesn't get a lot of split ticket voters ... she's going to return to private life,\" the lead researcher told USA TODAY."
     publishedDateTime: 2020-10-28T09:16:00Z
@@ -3884,6 +3900,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/11/02/story_07510774_1604344264.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "What it was like covering the Trump and Biden campaigns"
+    excerpt: "CBS News campaign reporters Nicole Sganga and Bo Erickson joined \"Red and Blue\" to discuss what it's been likely covering the Trump and Biden campaigns this year."
+    publishedDateTime: 2020-11-04T00:37:00Z
+    webUrl: "https://www.cbsnews.com/video/what-it-was-like-covering-the-trump-and-biden-campaigns/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/04/64390db6-8855-455d-b028-5b7053f0dc72/thumbnail/1200x630/5462703eb54eb0886f471a5b4da5b0be/cbsn-fusion-what-it-was-like-covering-the-trump-and-biden-campaigns-thumbnail-580216-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
@@ -6232,6 +6262,17 @@ related:
         width: 1680
         height: 876
         isCached: true
+  - title: "Joe Biden Beats President Donald Trump in Virginia"
+    excerpt: "Democrat Joe Biden defeated Republican President Donald Trump in the race for president in Virginia on Tuesday. The state contributes 13 votes to the Electoral College; it takes 270 votes to win the presidency."
+    publishedDateTime: 2020-11-04T01:12:00Z
+    webUrl: "https://www.usnews.com/news/best-states/virginia/articles/2020-11-03/joe-biden-beats-president-donald-trump-in-virginia"
+    ampWebUrl: "https://www.usnews.com/news/best-states/virginia/articles/2020-11-03/joe-biden-beats-president-donald-trump-in-virginia?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/virginia/articles/2020-11-03/joe-biden-beats-president-donald-trump-in-virginia?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "GOP voters know ‘this election is between a good man and a bad man’ — and they’ve backing Trump anyway: Morning Joe"
     excerpt: "Even his supporters agree that President Donald Trump is a bad man, according to MSNBC’s Joe Scarborough, and believe Joe Biden is basically a good man. So why are they voting for Trump, anyway, the “Morning Joe” host asked historian Jon Meacham."
     publishedDateTime: 2020-10-22T11:39:00Z

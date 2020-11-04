@@ -242,6 +242,22 @@ related:
         width: 1200
         height: 855
         isCached: true
+  - title: "Prayers ring out in Kamala Harris's ancestral village"
+    excerpt: "Prayers were held in Thulasendrapuram, India, the village where the Democratic vice presidential candidate’s maternal grandfather was born."
+    publishedDateTime: 2020-11-03T22:01:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gettyimages-1229432578_1.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "The Countdown: Avengers stars quiz Kamala Harris and what to wear to vote"
     excerpt: "Thirteen days left and we look at what you can wear when you go vote and who gets to question Kamala Harris. It was Democrat vice-presidential pick Kamala Harris's birthday yesterday and the cast of the Avengers held a fundraiser over Zoom where they got to question her."
     publishedDateTime: 2020-10-21T17:26:00Z
@@ -1873,6 +1889,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Campaigns in Miami"
+    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) addresses supporters at a campaign rally in Miami-Dade County, Florida. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) addresses supporters at a campaign rally in Miami-Dade County,"
+    publishedDateTime: 2020-11-04T00:58:00Z
+    webUrl: "https://www.c-span.org/event/?477610/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Senator Kamala Harris (D-CA) Campaigns in Detroit"
     excerpt: "T14:07:12-05:00 Kamala Harris (D-CA) urges voters in Detroit to get to the polls and vote. Senator Kamala Harris (D-CA) urges voters in Detroit to get to the polls and vote. Javascript must be enabled in order to access C-SPAN videos."
     publishedDateTime: 2020-11-03T19:15:00Z
@@ -1937,6 +1962,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "NDZw8J8ZCsI8jz9ujKX9SzqgD7cYSr3kDBDysDH1WWw49A2w2/v951cGez3at7hpcZsSiEyQ2TsTWunQvfEW7GbtFvqGVUdP92m9DSVdf/goKyWXeRjq6ev/ZN352z2uYlTlwG2jSMUGB6gv7CfTG9O2B/1fea5dMR65g4IdgytbHRKhj5jZJQTh0FAg1P5llHl6174vZUsugoN5eeFjvJPajlNCgwyyjDdMVRUr0XhRm5JQHuz/fnlntuCJTYMLMf8XTlWj7yVJLJ9vq7EolH8q25JAFyvT/GMs168pjb2Y6CjFdt++u4s5tpdR/bpQa627W5eDXim5js9gpxDLCm5r/wruHVtmp474Ur+qP6o=;6AGy3vxonf643xS65VJfFQ=="
+secured: "7Omaw4D4NUKF/Ku7Jvss4FvmIFk55sDjZNc3xXSHyTql1Zlk1jV7IPd8+QYGrp0piwNOncSISymzzav9EDiUYtfqHwSk44j34QFX9qAMpawFAbdn063yEpHl+gLpEjY6Z/bmdRpgJ198HollqQtRwUkoc5CX8bfpOWy1aJ8ah4wwlfoCjiosf/d/ZKdSrVM+oYqiRe+Dm7nw7OKKgbNdXY+PXzq0EotfUUjg1h1jzlG1HSB/EhxKetgcd7RLEHrv6QIlwGZqI0iduBO7snnuCylE5EYBO588yRl4LmegcOCltLdPVPh4BAsHPF1/ivcQJK0RvhKNY/vmsIPIF28rwTVMiE77P9ziMA1oTCrXOXQh9XScVxrsh4xPVnxwLtJGiBpRWXhqfVWJb3Qx0350EvWnmLSYP2aUgLWWRPxTBKgR1govxLCWyPwabOSOQSI6coqPGz4jNi6HEa/GAMgmvLlF+3MdUE2I/0Q2k0DAp3Ci/qcNVQXurRxYdj70FVfZ4vcotfB5kOR5Ns4ku3lWQg==;gNmuU+4hkj2uoUWNp2rJRA=="
 ---
 

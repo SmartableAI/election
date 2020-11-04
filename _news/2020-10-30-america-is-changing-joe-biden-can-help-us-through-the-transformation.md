@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 385
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden begins his Election Day at Delaware church"
+    excerpt: "Joe Biden is starting Election Day with a visit to church - and his son, Beau. (Nov. 3) AP Domestic. More Videos"
+    publishedDateTime: 2020-11-04T01:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-begins-his-election-day-delaware-church/6136623002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/fc34688e-f71f-41ca-8466-c8d5269ea8d3-32d9e3ec-51a3-4cbf-8a55-913fddc572d5_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "Americans say they are better off under Trump, but is America? Trump by the numbers"
     excerpt: "Gallup reports that 56% said they're better off than in 2016, but 56% also said President Donald Trump does not deserve to be reelected."
     publishedDateTime: 2020-10-29T09:21:00Z
@@ -102,6 +116,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "What would a Biden win mean for Wall Street?"
+    excerpt: "Business What would a Biden win mean for Wall Street? Posted . Stocks have risen sharply in the final two days of the U.S. election season as investors bet on the likelihood of a"
+    publishedDateTime: 2020-11-03T23:12:00Z
+    webUrl: "https://www.reuters.com/video/watch/what-would-a-biden-win-mean-for-wall-str-id721537402"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30R9FV&r=OVD30R9FV&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
     excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
     publishedDateTime: 2020-10-28T04:13:00Z

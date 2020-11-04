@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-biden-underdog-without-pennsylv
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 149
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0593634-1bea-4ded-a92c-f3546eca0606/67309192-93de-4dbb-93c4-3310dba3a2b3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Progressive PAC touts Biden's 'ambitious' policies if he wins presidency"
+    excerpt: "Known for its support for progressive initiatives such as the Green New Deal and Medicare For All, the PCCC originally endorsed Sen. Elizabeth Warren for president."
+    publishedDateTime: 2020-11-03T23:25:00Z
+    webUrl: "https://www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b9f7b35-9c4c-4a96-9f4a-6ae787d28f60/ff0296af-0333-4f3c-842f-95a9656028a0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

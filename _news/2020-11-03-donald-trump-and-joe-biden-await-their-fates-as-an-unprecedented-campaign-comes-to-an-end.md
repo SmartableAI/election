@@ -495,6 +495,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Trump duking it out in battleground states as polls close across the country"
+    excerpt: "Millions of Americans lined up to add their votes to more than 100 million early ballots Tuesday as President Donald Trump and former Vice President Joe Biden awaited their fates after offering sharply divergent visions for the future amid a Covid-19 pandemic that shows no sign of abating.\n    \n"
+    publishedDateTime: 2020-11-04T02:50:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tRJNSBw7uME/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/presidential-election-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/presidential-election-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103125256-01-election-day-voters-louisville-ky-1103-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump continues to use a misleading video to claim Biden is not fit for office "
     excerpt: "President Donald Trump and his campaign have leaned in heavily on a video that misleadingly suggests Democratic nominee Joe Biden doesn't know who he is running against.\n    \n"
     publishedDateTime: 2020-10-29T23:27:42Z
@@ -844,6 +860,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031141838-01-obama-flint-michigan-1031-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "More Latino voters support Trump in 2020 than 2016, but young Americans favor Biden, early CNN exit polls show"
+    excerpt: "Voters are divided over the top issues in their vote for president, according to the preliminary results of a nationwide CNN exit poll.\n    \n"
+    publishedDateTime: 2020-11-04T02:45:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-wNz4VKHaHY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/exit-polls-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/exit-polls-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103174159-29-america-votes-1103-denver-colorado-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1342,6 +1374,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "NBC News projects Trump wins South Dakota, Biden wins Colorado"
+    excerpt: "NBC News has projected that President Trump will win the state of South Dakota and Joe Biden will win the state of Colorado."
+    publishedDateTime: 2020-11-04T02:38:00Z
+    webUrl: "https://www.nbcnews.com/video/nbc-news-projects-trump-wins-south-dakota-biden-wins-colorado-95274565588"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95274565588"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95274565588"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_mo_2020_bidencolo_trumpsouthd_win_201103_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Sick of getting texts from the Biden or Trump campaigns? You're not alone"
     excerpt: "The campaigns of President Donald Trump and the Democratic presidential nominee Joe Biden didn’t respond to requests for comment on their texting strategies or on consumer complaints, which in recent days have been common on social media. Lindsay said ..."
@@ -1906,6 +1954,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/01/us/01elections-briefing-trump-blockade/merlin_179418138_1d29c06b-dc34-4fe2-9751-7a15b5b8451d-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Donald Trump won in South Dakota."
+    excerpt: "South Dakota election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T02:28:00Z
+    webUrl: "https://www.politico.com/2020-election/results/south-dakota/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/46.jpg"
+        width: 600
+        height: 325
         isCached: true
   - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
     excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
