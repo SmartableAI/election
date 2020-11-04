@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-pr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
 type: article
 quality: 123
-heat: -1
-published: false
+heat: 203
+published: true
 
 provider:
   name: Business Insider
@@ -31,63 +31,70 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That"
-    excerpt: "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate."
-    publishedDateTime: 2020-10-28T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
+  - title: "Golf legend Jack Nicklaus endorses Trump for reelection, calls him \"more diverse\" than any president he's seen"
+    excerpt: "Golf legend Jack Nicklaus said Wednesday that he voted for President Donald Trump, heaping praise on the commander chief while urging Americans to cast their ballots for the president. The18-time major champion posted his endorsement on Twitter,"
+    publishedDateTime: 2020-10-29T19:27:00Z
+    webUrl: "https://www.cbsnews.com/news/jack-nicklaus-endorses-president-trump-for-re-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 124
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9890ed25a04196a125a749%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3202%26cropY1%3D0%26cropY2%3D1802"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "Trump's EPA rewrote the rules on air, water energy. Now voters face a choice on climate change issues"
-    excerpt: "Election Day will be a decision between deregulation or re-regulation. A look at Trump's rollbacks and their long term effects nationwide."
-    publishedDateTime: 2020-10-29T07:14:00Z
-    webUrl: "https://www.usatoday.com/in-depth/news/investigations/2020/10/29/climate-change-escalates-voters-face-choice-deregulate-re-regulate/3668667001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3668667001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3668667001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/NCOD/292b255e-c6f8-4fde-80dd-72114e11db3c-04_Environment_Election_CLH.jpg?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/29/d729524b-cd24-44f4-9dd1-182757438ac8/thumbnail/1200x630/ccabf10bc005548b9ebac519a087d98b/gettyimages-1128321909.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out."
-    excerpt: "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump."
-    publishedDateTime: 2020-10-22T17:39:00Z
-    webUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
+  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
+    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
+    publishedDateTime: 2020-10-21T05:26:00Z
+    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 109
+    quality: 114
     images:
-      - url: "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
+        width: 911
+        height: 455
+        isCached: true
+  - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
+    excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
+    publishedDateTime: 2020-10-24T09:12:00Z
+    webUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "President Donald Trump Wins West Virginia's Electoral Votes"
-    excerpt: "President Donald Trump eased to victory in West Virginia to take its five electoral votes. He had been widely expected to defeat Democrat Joe Biden in a state that backed him in 2016 with 68% of the vote."
-    publishedDateTime: 2020-11-04T00:40:00Z
-    webUrl: "https://www.usnews.com/news/best-states/west-virginia/articles/2020-11-03/president-donald-trump-wins-west-virginias-electoral-votes"
+  - title: "Gun-Toting ‘Guards’ at Florida Polls Claim They Were Hired By Trump Campaign — Trump Campaign Denies"
+    excerpt: "Two armed men dressed as security guards told cops they were hired by the Trump campaign to set up near a Florida early voting location — a claim that President Donald Trump's campaign denied through a spokesperson."
+    publishedDateTime: 2020-10-22T13:24:00Z
+    webUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/"
+    ampWebUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Mediaite
+      domain: mediaite.com
+    quality: 60
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Florida-Early-Voting.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/sUiX6TdOJIgG/MnQbnHve7Rg44/J02FYmMwaKBdhqN24tKcmmlfssx0SiegUtWDPO9OIkoJcfcCB9sVP9hSuzeL+YRJJ97x0yBAr5ewllgKtXXW5FtlLQGLlkcPIsNLLpqBBprrEv/LTz+0jSAXi69GApEZln0j/P8CyER3qMTZB0hzPky8nUtNtL4+nr7jrZh7Kz4/0DTwG6+wd2lPmYMrs3WSiO+FNVvB9oElbRW+h9AvXfxGXfFQPkq7BAyHJK/5MqLrEwQFRFeke2hcTlrM6D0cgJYfCrBm0AF7FnPmQixhuH7mahddzBsHX2+00xm8mN2ydkdNaaW414ZvPBOOV+psQ5sN4qCyUgtnUIo=;iDlZvmqasCpjJqWcBY875g=="
 ---

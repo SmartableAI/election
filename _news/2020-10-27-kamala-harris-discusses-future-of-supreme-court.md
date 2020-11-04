@@ -368,6 +368,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Kamala Harris, Mike Pence make final push to get Michigan votes on Election Day"
+    excerpt: "Election Day is here. As voters hit the polls, both candidates in the race for president made stops on the campaign trail."
+    publishedDateTime: 2020-11-04T03:01:00Z
+    webUrl: "https://www.clickondetroit.com/news/local/2020/11/03/kamala-harris-mike-pence-make-final-push-to-get-michigan-votes-on-election-day/"
+    ampWebUrl: "https://www.clickondetroit.com/news/local/2020/11/03/kamala-harris-mike-pence-make-final-push-to-get-michigan-votes-on-election-day/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/local/2020/11/03/kamala-harris-mike-pence-make-final-push-to-get-michigan-votes-on-election-day/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 111
+    images:
+      - url: "https://www.clickondetroit.com/resizer/l_THu-vQ82W2qIwAqjP56CJZLY4=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/11-03-2020/t_de3864f9888e45f1bf136899229b8136_name_image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Election Countdown: Kamala Harris stumping Saturday. What about Trump?"
     excerpt: "With four days to go until Nov. 3, polls seem to say one thing but do voter turnout numbers point to a different result?"
     publishedDateTime: 2020-10-30T15:43:00Z

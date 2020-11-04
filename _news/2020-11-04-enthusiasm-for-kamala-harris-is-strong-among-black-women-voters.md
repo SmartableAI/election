@@ -364,6 +364,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Kamala Harris, Mike Pence make final push to get Michigan votes on Election Day"
+    excerpt: "Election Day is here. As voters hit the polls, both candidates in the race for president made stops on the campaign trail."
+    publishedDateTime: 2020-11-04T03:01:00Z
+    webUrl: "https://www.clickondetroit.com/news/local/2020/11/03/kamala-harris-mike-pence-make-final-push-to-get-michigan-votes-on-election-day/"
+    ampWebUrl: "https://www.clickondetroit.com/news/local/2020/11/03/kamala-harris-mike-pence-make-final-push-to-get-michigan-votes-on-election-day/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/local/2020/11/03/kamala-harris-mike-pence-make-final-push-to-get-michigan-votes-on-election-day/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 111
+    images:
+      - url: "https://www.clickondetroit.com/resizer/l_THu-vQ82W2qIwAqjP56CJZLY4=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/11-03-2020/t_de3864f9888e45f1bf136899229b8136_name_image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris discusses future of Supreme Court"
     excerpt: "As Judge Amy Coney Barret is set to become the ninth justice of the Supreme Court, Democratic vice presidential nominee Kamala Harris discusses the future of the high court. Norah O'Donnell has more in this portion of their interview from \"60 Minutes."
     publishedDateTime: 2020-10-26T23:04:00Z
@@ -1992,6 +2008,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "J3141BiFT9BoFQwECD2wfRFiM9tNFMgvUUu68uOZwlLNtS5Ji8CTMw5dGFASKqjLM6NRw+Zy01il3nw0CNLEIq9lgxKnGcMQvuj3WzXg1sjkJHj3YAuNWcfKJWiY5FFQ8O2Rjmth2/hCdmxsEvqcdqFWi0V2AuK/+sUbTHZ36Fb7mb8ykGgUl5tQUsL+bXmOFaJnJ0dzh2mNA3YoPGuVU2Bitdp/NiH0aVIoHWKDs1cZKwptilTdZbP/4fiTjBeOXSMeUH1q0wVRahIyVTKHkSqU1fT2hAYbwKMGTprYUEbQ7Xv1IOB24pffDwevvd+AtjeQ3l4xYYpSb/rvrWdeT1ZVVcMP9V+8j2wTiTNNaUY=;imBUaEG4DuqVSGpE7Lbabg=="
+secured: "RiKxbUOEecyrcX7yxkWdioXUXoQUplfbe4sSiOVyGC+G9kUlG1DE1Y9B/T0yf5jjATtcd985WqFbtQ5mYjlLHxE9tZsVVKG58BscYzX/2uEGA/FBHf345Tjaw0iHbQINJPTAkgIiwdXkZHO5vyqkJrczoEFbZJmks3RmlRY4NQsY9aLNcoxFaQyhT/XJh/zNwtxOq+iY5thqZl11bUlhStoIxrE17tUuwtC8zIixqy6tmhEsncMbRETtKkuCFa+h+3DL4eMjocFn6s2VNE62TaZfGj46dQwOWu9GN/WRKfVHQjWGQRvErLSjP+QwWp/8tMl2+YNzKrfaDV5OzKuLQAadxzs++1ZsL75s1Yr7zr1Xyq5Hksiz9JO2tjhdAAYuPiLE9yYp1ZtJDAIT5THAxn57q12O6tG6f8MOpoH6kcdIrDVkaVL+8pKXxpz7r58MSA+/x2pkRkoC3qn6/l0Dz4muYGQuIo26VMSDBr0Ex8NpR6XJmnHkbT5YJzrliCJetniW4i661Ld4KSsFGdDYPw==;GcxdATWwf5qC2Y4/deoLlw=="
 ---
 

@@ -1941,6 +1941,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "With no winner in the presidential race, Trump falsely asserts that he has prevailed."
+    excerpt: "With no winner in the 2020 race and votes still being counted in several battleground states, President Trump entered the East Room of the White House at 2:21 a.m. on Wednesday and asserted without evidence that the election was being taken from him by “a very sad group of people."
+    publishedDateTime: 2020-11-04T08:56:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/with-no-winner-in-the-presidential-race-trump-falsely-asserts-that-he-has-prevailed.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/with-no-winner-in-the-presidential-race-trump-falsely-asserts-that-he-has-prevailed.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/with-no-winner-in-the-presidential-race-trump-falsely-asserts-that-he-has-prevailed.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04election-day-live-blog-trumpspeaks/04election-day-live-blog-trumpspeaks-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump travel anticipates a race potentially decided by a single Electoral College vote"
     excerpt: "The president heads to Maine and Nebraska this week, with the Trump team citing several possible scenarios where the election could come down to one or two Electoral College votes."
     publishedDateTime: 2020-10-25T19:46:00Z
@@ -2097,6 +2113,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "On1gIC0/cMW8Y0Qsch4R4ZKvAxydpcAYeqfwhb1Pu6p/HlSMNOELyiaBSEAVY7enay/CjznJbde+4cVgtAftoA40rdAfx/jZQl+oX4wKw4/rcM7+RgH1mdc7pyEJ94OGVHX6PTd99wYSsk7CbOZmunR8ZdU7nfOHG4W+aNxr3J0Ds8Yuw9Uq2FkxIgLULPdG380xz0DR06Ou/z6KgW8jj0KMPHs8S3rLYfi3PzDMhu3nVqtfiDpbFSe/cBeLHv5dfTiOaH38lcj0KhCgv1OWQdmjbfLmPdsOgOV1sPr6Zc52A8N4aa4xSYgFMNT3mrPOwG+KzvNCXdq5bRDfL3PHa994Xt+83IfFSc5K90whO9w=;ha0IcNGYqcfV8Q9ELyqP9g=="
+secured: "Hzk4fN8E8AzLum74QLgwVsf4p4Mulf43jtJQY2BTlad4vaS0h9hSFxQts6cHH595rKfro9Ep/USmKkOAe2K3p6W9mRdvJ1laMmXMRcm+afeC8NVKatXlkE4fFtJaght/eFqU3y6O2oUn0QxViVg7W7lIKZ6BqjdJsxx7uT92g+hNETPiCMC/MmgJmUoXKI0cJOFyekfJ/0dssjiL8H/oNrdfbdr7sJrDj+YJYDT7CgohWUqiC/RbIla6Q5c2cilQO2mQEGnyBmKylzImY6wCXQ6Z2cvfCLgnLQ3mznmOhwsg8FR1tJhZwLyomME4LmyDSuFgG/Y5K6OIosX2VdIyY9GzObUZb6SU+dqAxjYoXdZZf6l1B7rL1Snaag+a+L9e7RIoP3wpi3CRe6nu7CYK5mWGLUvU0PdXwek+8Kuz5z5/uKDJvCyWxryple4kujTi0QCBGoW9kkH4D/F4nhcV38DPONEYzyu5pD2JvidPYUrrx89cLvvl3QnXoeS2iAgbVOeJ3GhC5JzFeeb5QFEtjQ==;ueZid/QFLTz8rlBYwCxYjw=="
 ---
 

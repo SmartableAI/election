@@ -971,6 +971,22 @@ related:
         width: 2500
         height: 1619
         isCached: true
+  - title: "Voters who saw containing the coronavirus as the most important issue favored Biden"
+    excerpt: "Voters’ opinion of which was more important — containing the coronavirus or hustling to rebuild the economy — fell along starkly partisan lines, according to early exit polls released Tuesday. Those who viewed the pandemic as the most pressing issue favored Joseph R."
+    publishedDateTime: 2020-11-04T02:27:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/world/voters-who-saw-containing-the-coronavirus-as-the-most-important-issue-favored-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/world/voters-who-saw-containing-the-coronavirus-as-the-most-important-issue-favored-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/world/voters-who-saw-containing-the-coronavirus-as-the-most-important-issue-favored-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/us/03virus-briefing-exitpolls-pandemic/03virus-briefing-exitpolls-pandemic-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump takes Supreme Court victory lap while deceiving nation over worsening pandemic"
     excerpt: "President Donald Trump claimed a place in history Monday when Amy Coney Barrett's confirmation secured a dominant conservative majority on the Supreme Court, but the pomp of his victory lap could not disguise the reality of a pandemic that has placed his presidency in deep peril a week before the election."
     publishedDateTime: 2020-10-27T04:00:00Z

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump: We'll send in lawyers if Pennsylvania election is unfair. But votes are regularly counted after Election Day"
-    excerpt: "States never count all the votes by Election Day. Absentee and military ballots, especially, are counted for days afterward."
-    publishedDateTime: 2020-11-02T13:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/01/trump-well-send-lawyers-if-election-pennsylvania-unfair/6118358002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6118358002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6118358002"
+  - title: "Donald Trump Jr. Among Names Floated for Open Pennsylvania Senate Seat [REPORT]"
+    excerpt: "Media reports are conflicting about whether or not Donald Trump Jr.'s name is being considered for a 2022 Pennsylvania run."
+    publishedDateTime: 2020-10-04T22:47:00Z
+    webUrl: "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/"
+    ampWebUrl: "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: Heavy.com
+      domain: heavy.com
+    quality: 71
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/01/USAT/2fae7537-8cea-459b-8312-1db8c209b113-AFP_AFP_8UD47V.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228190343-e1601850280332.jpg?quality=65&strip=all"
+        width: 3970
+        height: 2240
         isCached: true
 
 secured: "3Ixl7nl/A4ltmVa/CxHTDpyB3AlC2CHal75kuoZO+UVXTDUSYMF4Kb2yeFjJBZW673fmjM5FNCgx+1bsB2GnwkQMjhUtAOl5VNExYvfq7DRLKOkx1oeFZycpFLM1+X61UwsdyoAkE+RN4l74OQUCd/tZZdRqVMCCPIBKi2twW1udH9OsRIctYO2rEPIfZ9y99JKQDjUZoI6N/HNnR0yPB6LSFUlxkCA/8yKIvX8XLiExYgJOJdgxl0mXZkawg7EpHmm5K7qnz9oBkz1QFIp8IZe1WP3KE+38yewZBS3zqGnAbL6RSf9tjWJmpCe4WlcUw/sV2+667dQVo8K9w55hNiCYv8cREOn6gFhJNK2Po+Q=;r0MFz5375PburgHoOFsM8A=="

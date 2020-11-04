@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 2864
+heat: 2884
 published: true
 
 provider:
@@ -1936,6 +1936,22 @@ related:
     quality: 130
     images:
       - url: "https://static01.nyt.com/images/2020/11/03/multimedia/03elections-briefing-trumpVA/03elections-briefing-trumpVA-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "With no winner in the presidential race, Trump falsely asserts that he has prevailed."
+    excerpt: "With no winner in the 2020 race and votes still being counted in several battleground states, President Trump entered the East Room of the White House at 2:21 a.m. on Wednesday and asserted without evidence that the election was being taken from him by “a very sad group of people."
+    publishedDateTime: 2020-11-04T08:56:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/with-no-winner-in-the-presidential-race-trump-falsely-asserts-that-he-has-prevailed.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/with-no-winner-in-the-presidential-race-trump-falsely-asserts-that-he-has-prevailed.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/with-no-winner-in-the-presidential-race-trump-falsely-asserts-that-he-has-prevailed.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04election-day-live-blog-trumpspeaks/04election-day-live-blog-trumpspeaks-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true

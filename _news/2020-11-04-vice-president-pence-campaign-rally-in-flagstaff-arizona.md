@@ -158,15 +158,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Vice President Pence Speaks at Trump Campaign Rally in Reno, Nevada"
-    excerpt: "Vice President Mike Pence spoke at a Trump campaign rally at the airport in Reno, Nevada."
-    publishedDateTime: 2020-11-04T06:21:00Z
-    webUrl: "https://www.c-span.org/video/?477488-1/vice-president-pence-speaks-trump-campaign-rally-reno-nevada"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
   - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
     publishedDateTime: 2020-10-30T13:55:00Z

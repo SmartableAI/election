@@ -31,38 +31,95 @@ images:
     isCached: true
 
 related:
-  - title: "Bill McGurn slams 'outrageous behavior' from media suppressing Hunter Biden allegations"
-    excerpt: "After Hunter Biden’s former business associate Tony Bobulinsky gave an interview on Fox News’ “Tucker Carlson Tonight” Tuesday, Wall Street Journal columnist Bill McGurn reacted to the interview pointing out that the story has been covered up by the media and social media companies."
-    publishedDateTime: 2020-10-28T17:38:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zilQIo16iUo/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski"
-    ampWebUrl: "https://www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp"
+  - title: "AOC sounds alarm over Latino turnout for Biden"
+    excerpt: "Democratic U.S. Rep. Alexandria Ocasio-Cortez vented her frustrations over lackluster Democratic turnout among Latinos Tuesday evening."
+    publishedDateTime: 2020-11-04T08:47:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-o4OvNsoSDY/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Media needs to ask Joe Biden these three questions amid son's allegations: Gowdy"
-    excerpt: "Joe Biden and his son, Hunter, should be asked by the mainstream media the same questions President Trump and his children were asked in 2016 about business dealings, former House Oversight Committee Chair Trey Gowdy argued Thursday."
-    publishedDateTime: 2020-10-29T17:08:00Z
-    webUrl: "https://www.foxnews.com/media/biden-joe-hunter-tony-bobulinski-question-answer-trey-gowdy"
-    ampWebUrl: "https://www.foxnews.com/media/biden-joe-hunter-tony-bobulinski-question-answer-trey-gowdy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-joe-hunter-tony-bobulinski-question-answer-trey-gowdy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a838606-a658-4f83-a78b-1c04e4ac7325/38976114-6a10-4ddc-9172-4ccc577f45b9/1280x720/match/image.jpg"
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
+  - title: "If elected, Biden plans task force to reunite 545 children separated from parents at border"
+    excerpt: "Democratic nominee Joe Biden pledges that his campaign will create a task force to reunite 545 migrant children who were separated from their parents at the border if he is elected president. "
+    publishedDateTime: 2020-10-30T00:04:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L029DB7Jg1Y/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20841433-8cf5-42b2-bc68-6f0c39c9878d/c038f8ba-c56a-45ec-b60d-97c6353aae15/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hunter Biden allegations likely why Obama didn’t encourage Biden to run for president: Sen. Johnson"
+    excerpt: "The allegations against Hunter Biden are likely the reason why former President Obama “did not encourage the vice president to run” for president, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Sunday Morning Futures” in an exclusive interview."
+    publishedDateTime: 2020-11-01T18:36:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RGQX0Dg_BaQ/hunter-biden-why-obama-didnt-encourage-biden-run-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-why-obama-didnt-encourage-biden-run-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-why-obama-didnt-encourage-biden-run-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Vote for Joe Biden? Seriously?"
+    excerpt: "Biden is Bernie Sanders’s grim party in sheep's clothing."
+    publishedDateTime: 2020-10-29T04:14:00Z
+    webUrl: "https://www.wsj.com/articles/vote-for-joe-biden-seriously-11603926854"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-251110/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden's Antifa Dismissal Alarms This Suburban Mom"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-03T19:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/03/bidens_antifa_dismissal_alarms_this_suburban_mom_528339.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/511648_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "UPS found Tucker Carlson's documents relating to Biden that vanished in system"
+    excerpt: "After an 'urgent investigation,' UPS located a previously missing package sent to Tucker Carlson he said contained confidential documents about the Biden family."
+    publishedDateTime: 2020-10-29T16:54:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 61
 
 secured: "LidUTPCLhSqejACUnjoKaCuc1e3j5EwGyAX8ROWUQOFilbtIVH2ixMjU2gwC9chRlm0vDY7u5vmsX9rJWwaXmrTq9WhKjGFf7Dnr2cINOnyycc9ZQb0JERk7JELy4SOWOJxLa+S2IIE0tzxvB/f/tIGQoORi/JNWQkSZrbqS7HdEG4UyjM0r9Gel7+HMNrQd5SZjVzpLNuvY8Uvox8v8BcLucXM1pkV9s4wp4coLhWHBGlgV1rzgO4V+UBfHBFxC1NYKSLqN66+z00EEoyX8x3RLISfkR15xIV77+sjPD0SBdM/JlEzDnOWwOML40Nrq71ishLAQDVvoayLKqZV0Gjqh3EPmAKwz5U+trArYdn4=;kd2RJ7QEZt7gCgLcShw9fg=="
 ---

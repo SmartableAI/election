@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6101540002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6101540002"
 type: article
 quality: 115
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Twitter Reacts To Melania Trump Voting With No Mask After Contracting COVID-19: ‘Disrespectful'"
+    excerpt: "Melania Trump voted in Florida without a mask on Tuesday, and Twitter is not happy. Some netizens pointed out that it was \"disrespectful\" of her to ditch a face covering after having contracted COVID-19 herself."
+    publishedDateTime: 2020-11-04T08:06:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-voting-no-mask-after-contracting-covid-19-disrespectful-3076064"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-voting-no-mask-after-contracting-covid-19-disrespectful-3076064?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-voting-no-mask-after-contracting-covid-19-disrespectful-3076064?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "jPm4dFMHac15bCIbcnNqExZ6ra1fnyLIp0//qyay3N7ZB7GK6fKupbV2hAe7URfuAc9oXsT+88CS26Nd70k9mrYngGnnUZdh68zvRQpYgFqeWu2wBhFlyKqP21V3fJ9uWVxLSTcn2Mvj3xbxhorm+e/VV2YfGnS029WAMyTIuwc3jbjbfPCI15/kZsEKtGhDabnnMIgyab1srphKIwmU+dXmqqoxxo3aJoHbog3dDCVJ9Ct1SfwxXIbPel8X7HaxLVTKG1aHVjJ3C4DNmAf39eLdekqz6Li2WmjVFV6yAAojJ94tds3tHMRh6mnn/YXoA20YC/wHvCTbHixpT2XkJeoZIHBgyayMa6aotOP3CXI=;A3beoEKthJ7UP4EvO4+CIg=="
 ---

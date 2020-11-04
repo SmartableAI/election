@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-d
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
 type: article
 quality: 109
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Business Insider
@@ -31,63 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That"
-    excerpt: "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate."
-    publishedDateTime: 2020-10-28T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
+  - title: "Conservative news sites are misleading millions of readers about voter fraud, pushing debunked conspiracy theories amplified by President Trump"
+    excerpt: "Right-leaning news sites with millions of readers have published dozens of false or misleading headlines and articles that back unsubstantiated claims by President Donald Trump on voter fraud."
+    publishedDateTime: 2020-10-25T18:18:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 124
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9890ed25a04196a125a749%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3202%26cropY1%3D0%26cropY2%3D1802"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "President Trump casts a 'very secure vote' for himself in-person in Florida"
-    excerpt: "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida."
-    publishedDateTime: 2020-10-26T01:29:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 123
-    images:
-      - url: "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump's EPA rewrote the rules on air, water energy. Now voters face a choice on climate change issues"
-    excerpt: "Election Day will be a decision between deregulation or re-regulation. A look at Trump's rollbacks and their long term effects nationwide."
-    publishedDateTime: 2020-10-29T07:14:00Z
-    webUrl: "https://www.usatoday.com/in-depth/news/investigations/2020/10/29/climate-change-escalates-voters-face-choice-deregulate-re-regulate/3668667001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3668667001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3668667001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/NCOD/292b255e-c6f8-4fde-80dd-72114e11db3c-04_Environment_Election_CLH.jpg?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/i9c1o9nbm-hxcciyCgULDOsWMnM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ONYTZMGAMNHETHSZOHDVVCXTKU.aspx"
         width: 1200
         height: 675
         isCached: true
-  - title: "President Donald Trump Wins West Virginia's Electoral Votes"
-    excerpt: "President Donald Trump eased to victory in West Virginia to take its five electoral votes. He had been widely expected to defeat Democrat Joe Biden in a state that backed him in 2016 with 68% of the vote."
-    publishedDateTime: 2020-11-04T00:40:00Z
-    webUrl: "https://www.usnews.com/news/best-states/west-virginia/articles/2020-11-03/president-donald-trump-wins-west-virginias-electoral-votes"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "AlIY5jlnNG0ukmcYhNSZGh3NnCIjbbdfleF+VSDXCw6pxgalI0FfmnuZLJMJTcbEobo5QxLNYYKGBq/iCKdK4lbvPpTFMkYcQ3TmbavGiQSEQnN2skHq9qsQxclaJspw7SgHrAmcNf61uQdSjX0h3SqDNMG1tAiizIyP3O/v53kWaSwIeoPGs6ft4TJ5fi5Sams+nhPziA8Rh2nCJJttzSM8GrbXRK/GJVVJFpb2j+TNPe7s8WJcxtWk0t0vmrcvyTIhW1lHj/hn1PvOOq439AlnGe8IS+5hzq2HyLssYPVlF/wgfjoJIll6B9xfaM9coUFqvORhvAoHlnwubJN8pp4B5G2U52ROtngl/tEG3QE=;JryjU4wRA5lk9xoBe0nPFQ=="
 ---

@@ -890,22 +890,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Election betting odds have flipped to favor Trump, expert says"
-    excerpt: "President Donald Trump is now favored to win the election based on an average of betting websites, an expert told Fox News Tuesday."
-    publishedDateTime: 2020-11-04T04:25:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dND2V1nKCqM/betting-odds-have-flipped-to-favor-trump-expert-says"
-    ampWebUrl: "https://www.foxnews.com/politics/betting-odds-have-flipped-to-favor-trump-expert-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betting-odds-have-flipped-to-favor-trump-expert-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309084490641.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Live updates: Trump, Biden campaigns move into final stretch after debate"
     excerpt: "Following a slightly more subdued final presidential debate in Nashville, Tenn., on Thursday evening, President Trump traveled to Florida on Friday to rally support in the crucial swing state. "
     publishedDateTime: 2020-10-24T07:12:54Z
@@ -1960,6 +1944,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Election betting odds have flipped to favor Trump, expert says"
+    excerpt: "President Donald Trump is now favored to win the election based on an average of betting websites, an expert told Fox News Tuesday."
+    publishedDateTime: 2020-11-04T08:50:00Z
+    webUrl: "https://www.foxnews.com/politics/betting-odds-have-flipped-to-favor-trump-expert-says"
+    ampWebUrl: "https://www.foxnews.com/politics/betting-odds-have-flipped-to-favor-trump-expert-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betting-odds-have-flipped-to-favor-trump-expert-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309084490641.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Dave Bautista talks 'toughness' in campaign video for Joe Biden that's critical of Donald Trump"
     excerpt: "Former WWE star Dave Bautista is the latest celebrity to endorse Joe Biden for president by appearing in a campaign ad that’s critical of Donald Trump."
     publishedDateTime: 2020-10-26T13:36:00Z
@@ -2420,6 +2420,20 @@ related:
         width: 2300
         height: 1530
         isCached: true
+  - title: "Biden: It's Not My Place Or Trump's Place To Declare Victory, It Is The American People's Decision"
+    excerpt: "Joe Biden made a statement after midnight Wednesday in Wilmington that he is \"on track\" to win the election. Biden made the speech shortly after FOX News projected he would win the state of Arizona. \"I'm here to tell you tonight we believe we are on track to win this election,"
+    publishedDateTime: 2020-11-04T08:32:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/03/biden_we_believe_we_are_on_track_to_win_this_election.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 66
+    images:
+      - url: "https://assets.realclear.com/images/52/526122.jpg"
+        width: 1142
+        height: 856
+        isCached: true
   - title: "Democrats Are Masking Biden's Frailty"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2020-11-02T20:12:00Z
@@ -2444,6 +2458,6 @@ related:
       domain: realclearpolitics.com
     quality: 60
 
-secured: "UF+wltz3X6yZmoNM/ENTI/xOs8dOrjP0P6J6FE085zOcMklqAL/xqQrTa6Vy+Qiq8ntFfb2mLvxXI9LisSVFC/OAvVXDg1BmWLsOdySZTWrk2zOXhnuiNtyZ9rwvBiUp6wpUNx50Y1OC2NiFbJrphD+RDYIP3Ut6AwsAfNAh0INj1ZKcQkxFzUR62ym6sn40lFyaoj5mKGotgBzoOeNinxAW/HWYC1Klc6HPvHph95NOFHblelMRc+EynzWogtGEYlGkwSrzdxjGFSfAF6VB7BB0zXkoz0ReZhdsEvQp+gHvDqY7KjYW7r+8J8FiK6CMzidUtr7W5oQd43HzcwrejQZ7u/nw9j02XtoHyMT/f50=;rAhNPGHpLswvnHtq/7NZDg=="
+secured: "jX3bq417LET9G2v9237Izux/XiNsKDiOnniHt7rvtHMGEj0EFaCAD5XISV5VZor9EmxEHdM3qFKyVvcKxQ19pRZxRMV7reJEf0tUn5L24EL8bJDgEHFGMOq44x16dz1Ey1K7ExhxItoBbhhV9MbBsNdAoMY+sMjwrVd9ZdHYI0Hiv1M8Aj+t5fibuv8BPfoT9J9aamvq9XhBcqmoiDdkPBmyeXecfaMAi6OLLCNPfFpL0R045QNmVdM89fWXDjatlwoyaLIS+kJRh7oOEic5aM2jDGz2xnVOYsd5CD2SRWRqyZyMtoW4P4T1dZAYk2B+mtP+XcN1b41icHntWGatzheSW/XR6rzVeBsy37WJly9GqkMomo8D5bLm/Truy05Lc1TRWqauv3RKL+IWWR45ftQW9/EL4uxXnTEc9Ml9Vy4SG94ac6o3DBuWnsqeShAV5f/+7VXf9elV/mN8gUdkHjCPYMLTCiIKx/rcxHBeaxwj8vQ/a8uVxZxt5KqKHvnjyFl2/+Ah1m5Htb8+64uw5w==;YlJmZHdVo6N5kkEFpz30Pw=="
 ---
 

@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Jim Jordan on reviewing and authenticating purported Hunter Biden emails"
-    excerpt: "Rep. Jim Jordan, R-Ohio, who said his staff reviewed and independently authenticated the purported emails from Hunter Biden’s laptop, told “Sunday Morning Futures” that “they’re as real as real can be.”"
-    publishedDateTime: 2020-10-25T19:58:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
+  - title: "AOC sounds alarm over Latino turnout for Biden"
+    excerpt: "Democratic U.S. Rep. Alexandria Ocasio-Cortez vented her frustrations over lackluster Democratic turnout among Latinos Tuesday evening."
+    publishedDateTime: 2020-11-04T08:47:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-o4OvNsoSDY/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Former Michigan Gov. Rick Snyder on being a 'proud Republican' who voted for Biden"
-    excerpt: "Snyder served eight years as governor and was replaced by Democrat Gretchen Whitmer in 2019."
-    publishedDateTime: 2020-10-29T21:54:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Up38R7dsQKg/rick-snyder-michigan-proud-republican-vote-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/rick-snyder-michigan-proud-republican-vote-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-snyder-michigan-proud-republican-vote-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a257808-e5f9-45ef-ad5e-450f5bcf961e/cae4a195-e800-4d6e-821c-691ed6d2aebc/1280x720/match/image.jpg"
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -79,37 +63,51 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Lara Logan slams Biden for playing ‘Russia card’ in response to Hunter Biden email allegations"
-    excerpt: "2020 Democratic presidential candidate Joe Biden played the \"Russian information warfare\" card to dodge questions pertaining to his son Hunter Biden's foreign dealings, Fox Nation host Lara Logan said on Friday."
-    publishedDateTime: 2020-10-23T18:16:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/21iBRaLM3ns/lara-logan-biden-playing-russia-card-hunter-biden-emails"
-    ampWebUrl: "https://www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
+  - title: "McEnany: Biden still has not denied substance of allegations about family's business ventures"
+    excerpt: "White House press secretary Kayleigh McEnany emphasized the seriousness of emails provided by former Hunter Biden business partner Tony Bobulinski, noting that Joe Biden has yet to clearly refute their validity."
+    publishedDateTime: 2020-10-29T14:07:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3yXagjFAAQ/mcenany-biden-not-denied-family-business-venture-allegations"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-biden-not-denied-family-business-venture-allegations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-biden-not-denied-family-business-venture-allegations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1007850e-cc8b-4cc6-8339-50eda9a4041a/a8864c36-fcdf-4412-a2e3-2e6356478ae5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "2020 Hindsight on Impeachment Trial and Unravelling Biden Family Business Deals"
-    excerpt: "Failing to get ahead of what has become the drip, drip of new details on Hunter Biden’s business dealings – and the potential ties to his father – could prove"
-    publishedDateTime: 2020-10-28T17:30:00Z
-    webUrl: "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952"
-    ampWebUrl: "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true"
+  - title: "Vote for Joe Biden? Seriously?"
+    excerpt: "Biden is Bernie Sanders’s grim party in sheep's clothing."
+    publishedDateTime: 2020-10-29T04:14:00Z
+    webUrl: "https://www.wsj.com/articles/vote-for-joe-biden-seriously-11603926854"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 81
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg"
-        width: 650
-        height: 340
+      - url: "https://images.wsj.net/im-251110/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden's Antifa Dismissal Alarms This Suburban Mom"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-03T19:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/03/bidens_antifa_dismissal_alarms_this_suburban_mom_528339.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/511648_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "UPS found Tucker Carlson's documents relating to Biden that vanished in system"
     excerpt: "After an 'urgent investigation,' UPS located a previously missing package sent to Tucker Carlson he said contained confidential documents about the Biden family."
@@ -122,17 +120,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 61
-  - title: "Hunter Biden messages 'independently confirmed' to be authentic, GOP lawmaker says"
-    excerpt: "A top House Republican said his staff independently authenticated materials from a laptop that purportedly belonged to Hunter Biden."
-    publishedDateTime: 2020-10-25T19:41:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 59
 
 secured: "V+lk8aEi0o0VcfHdI59sAhTzP4LmIkIpRD0UD3xQRZ3lDY+Yr5WAIMxUQYSpWNccLLXD7g7Sfk7PPt9fv8rTVk3Q3WdKj3bylh5NO6FSDLO2ceGopSRBj6AcakVezPM45jpc2WFsC9jdCEGOMvxJmpajPhOC4883MhIy28p81pFA1lICFOuBaMWZDqi0MR4MqNCP1jYRZ80E5oZLa2yUTvz7DSdVKe/emd9bs9UeDvhyl4KgdGN3/vTZzo33hDmOc6d+bvX5e2X45/o+N39c7KZup3ALruVYsx/bEkduI7iapC7tVFKMSQT3WO/f9/fHk97fd61cFav6SRUJEBpNhluSX3U1S70viHUx/Wymw9g=;U/lO7Z6ljESO7uBCH7GNIg=="
 ---

@@ -80,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cuban Americans, senior citizens lean toward Trump in Florida: Fox News Voter Analysis"
+    excerpt: "President Trump may have support from senior citizens and Cuban-American voters to thank for his projected win in Florida and for its 29 Electoral College votes, according to polling from the Fox News Voter Analysis."
+    publishedDateTime: 2020-11-04T07:06:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wa6z-URpjV8/cuban-americans-senior-citizens-trump-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "RrUIzd8buc7UbURCcqPF2VHWuj5vxCsTUxx4rRDpfVGSBBX/ddkKStZJPAJpYc+CTtwbpQT2+yhMkn6qAbq0gDqH9xhEp3pTj//rEGzYaZh4dKLP6ISdsW7TJHlkHIeMCS9SGIEc5se45U1Bcm3PThxTv/Ak0EP9btSnJ65xM44mD3lPVz051+v/89TZ9mFNKxAnjkFxFJlP7AZ7AsEZDC5swKnefyO4YSmlPWuwBgvgDG5TCFv6WDmjq4zFkMXUvmcALidfG/L3GviuBqYC/ll9XhYHOPS9l6LM4T7UfjLSKb0rMvVZAPTbznfzJ3k6mi22JM4mkNLgSpyGah/8e0nWE79xLXnvv7x/Uvg+N4I=;v60mpbZBGcOCta5kDYGzqg=="
 ---

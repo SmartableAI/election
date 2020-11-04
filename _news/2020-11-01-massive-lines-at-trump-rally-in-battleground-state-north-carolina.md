@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306646863849.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
+    excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
+    publishedDateTime: 2020-11-04T07:51:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woEU1fA0WWw/trump-claims-victory-states-undecided-supreme-court-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Tucker Carlson: Media misjudged Trump support among non-White voters"
     excerpt: "Tucker Carlson criticized the mainstream media on Tuesday for painting President Trump as a racist who would struggle to attract non-White voters after the president delivered a strong showing in Miam"

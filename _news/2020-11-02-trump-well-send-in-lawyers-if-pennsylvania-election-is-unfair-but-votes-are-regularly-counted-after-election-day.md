@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6118358002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6118358002"
 type: article
 quality: 118
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "To some Pennsylvania voters, Donald Trump is a threat to democracy. To others, he’s a regular guy for the regular people"
-    excerpt: "“One thing, they’re really reviving venues,” one guy said. “When Donald Trump Jr. was here last week at the bandshell — when’s the last time anyone saw anything at the bandshel"
-    publishedDateTime: 2020-10-11T16:20:00Z
-    webUrl: "https://www.thestar.com/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people.html"
-    ampWebUrl: "https://www.thestar.com/amp/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people.html"
+  - title: "Pennsylvania's Democratic governor calls Trump remarks 'partisan attack'"
+    excerpt: "Pennsylvania's Democratic Governor Tom Wolf on Wednesday called President Donald Trump's unsubstantiated claim about fraud in the U.S. presidential election a \"partisan attack\", and said his state was working hard to count more than 1 million mail-in ballots."
+    publishedDateTime: 2020-11-04T08:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K0YU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com
-    quality: 50
+      name: Reuters
+      domain: reuters.com
+    quality: 124
     images:
-      - url: "https://images.thestar.com/MgAz5co6DApdGYXA3KsO0uMu8IA=/1200x1071/smart/filters:cb(1602622737940)/https://www.thestar.com/content/dam/thestar/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people/keenan1.jpg"
-        width: 1200
-        height: 1071
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539943636&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30M5"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "kE+hMtOC/wmkHJGYA13A1BwZbnMvBiY0bGuMhde18dz6lGoRmp2nT4c4CmtvB/oPFIVNtKwraiEV7hp4gUUje/AAgCvQf9FvkTa6R0p4pi5uhlHMQmO4xUHR+2o3UKqCBqZR3rLE2AtCCBIn9PlaDh4e+dQKru9yVWDEftu3D591Orwq4N75+IxcK2XS3BchMLsIe8WASVhlE3vPZWnhNXCj4IhBNcnLGtcSx4H9zmc7aSg5lmVh93U6w+VnGSpGxMcil/e0o/pzlJwTcFlNGmyTDks4t5C2DgkTpc/XHVDMAdgy59jNLLQMRoPicb9gxGyAdT4zyKZ7xwsy9Ies+HY5TXhjxSZU3OHBdE3rv8rbhvwgdrwxWI8YRjnK/wvvSfzs4hIVFuO5Co0MvOaMPzsSw9b2zIVny7dDMVCn7/tjLI8V+JJ3WtyqZoddWywl7rfrjq3H8rUr1BDDSrMJeSOB+7qx8aOzrC87zPm7LJWg3xMbT6miJmtbxbCkGG98SvIKtVkKwziXvsxh2j2QCg==;XzUvZp2w71amLjsHGwb68w=="

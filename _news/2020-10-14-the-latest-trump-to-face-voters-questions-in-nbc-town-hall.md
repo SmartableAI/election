@@ -25,53 +25,69 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
-    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
-    publishedDateTime: 2020-10-21T05:26:00Z
-    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+  - title: "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall"
+    excerpt: "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question."
+    publishedDateTime: 2020-10-16T04:42:00Z
+    webUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 114
+    quality: 113
     images:
-      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
-        width: 911
-        height: 455
+      - url: "https://i.insider.com/5f8909c09e9fe40019009ab8?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Trump promised massive middle-class tax cuts in 2016. He delivered cuts, not as much on the middle class part"
-    excerpt: "The GOP tax bill in 2017 gave households an average $1,600 cut but the richest Americans, especially those making over $300,000, got the most relief."
-    publishedDateTime: 2020-10-27T21:05:00Z
-    webUrl: "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-mostly-delivered-2016-campaign-pledge-cut-taxes/3685282001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3685282001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3685282001"
+  - title: "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall"
+    excerpt: "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said."
+    publishedDateTime: 2020-10-16T06:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/58bcbd7626012765178f61ecb84b86080363f1ac/c=0-77-2631-1564/local/-/media/2016/09/15/USATODAY/USATODAY/636095412520377554-AP-Campaign-2016-Trump.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg"
         width: 1200
-        height: 678
+        height: 600
         isCached: true
-  - title: "‘Where are the surrogates?’ Fox News corners White House aide on GOP lawmakers refusing to campaign for Trump"
-    excerpt: "White House Communications Director Alyssa Farah on Wednesday faced questions from Fox News about why Republican lawmakers have been absent from President Donald Trump’s re-election campaign. “If you look at the polls,"
-    publishedDateTime: 2020-10-14T16:00:00Z
-    webUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
+  - title: "WATCH: Trump Fan Outside Rally Laughs As Another Tells ABC News Reporter ‘Put A Bullet In Your Head, Buddy’"
+    excerpt: "ABC News reporter Will Steakin was shocked when a Trump supporter outside President Donald Trump's Ocala, Florida rally told him \"Put a bullet in your head, buddy. I got one,\" drawing laughter from the woman he was interviewing."
+    publishedDateTime: 2020-10-17T12:59:00Z
+    webUrl: "https://www.mediaite.com/news/watch-trump-fan-outside-rally-laughs-as-another-tells-abc-news-reporter-put-a-bullet-in-your-head-buddy/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-trump-fan-outside-rally-laughs-as-another-tells-abc-news-reporter-put-a-bullet-in-your-head-buddy/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-trump-fan-outside-rally-laughs-as-another-tells-abc-news-reporter-put-a-bullet-in-your-head-buddy/amp/"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
+      name: Mediaite
+      domain: mediaite.com
+    quality: 57
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Steakin-Trump-fan-10-16-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type” WATCH"
+    excerpt: "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role"
+    publishedDateTime: 2020-10-18T05:52:00Z
+    webUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/"
+    ampWebUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
     quality: 56
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Kilmeade-Farah-2-787x430.jpg"
-        width: 787
-        height: 430
+      - url: "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "ZmaagPekFMafMKy6o6ecNO7QCEEK+RVT+qoHgKi4yNDmMCes4S+MY15i/aU/f5w6vFWYeltfFbI7TB9g1WqRBJ1dXh03Yhj9njn7m1wY3Abcaq+OmjEAhKUVVDEOe4mrkXmBRKqpSFjkHhloAYR+iH9gn20Xo3iA9Zo1YsK1t+G6eovBlFWhERtTgiXcONrB3tHeiX4JIxdUAWSgF9rj4mfTwXKAO2fGdVJLggetznq601Q+pmATyBT3sa+UlPtEHFdK0xNV2VPsQIZo+m28spVQ9b4YZapS0NJQ+f4awT1SYX/iY/tLabgGPMB3J/q/4Vt4xIQsI6PGbUPusvTlesEFWJeRK60E8YU4pem0sBwPkqGxkJRmpe78hLIZsEkaHR7SINiICYE9s9onebUDEmXph4+Bz0QYX9F7zslkgU0/PCqJJVDtwj+cwPuXbIOHRfQjROKZohjis4ChVZGke2dTysbe9hdWVdq8RLKgFQWV9rZ2xB4VF5HjGGpdRImsmtKQmVIglylglXlEel6JHg==;WgzyEZHglNQY77DDBwljIw=="

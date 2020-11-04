@@ -360,6 +360,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Kamala Harris, Mike Pence make final push to get Michigan votes on Election Day"
+    excerpt: "Election Day is here. As voters hit the polls, both candidates in the race for president made stops on the campaign trail."
+    publishedDateTime: 2020-11-04T03:01:00Z
+    webUrl: "https://www.clickondetroit.com/news/local/2020/11/03/kamala-harris-mike-pence-make-final-push-to-get-michigan-votes-on-election-day/"
+    ampWebUrl: "https://www.clickondetroit.com/news/local/2020/11/03/kamala-harris-mike-pence-make-final-push-to-get-michigan-votes-on-election-day/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/local/2020/11/03/kamala-harris-mike-pence-make-final-push-to-get-michigan-votes-on-election-day/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 111
+    images:
+      - url: "https://www.clickondetroit.com/resizer/l_THu-vQ82W2qIwAqjP56CJZLY4=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/11-03-2020/t_de3864f9888e45f1bf136899229b8136_name_image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris discusses future of Supreme Court"
     excerpt: "As Judge Amy Coney Barret is set to become the ninth justice of the Supreme Court, Democratic vice presidential nominee Kamala Harris discusses the future of the high court. Norah O'Donnell has more in this portion of their interview from \"60 Minutes."
     publishedDateTime: 2020-10-26T23:04:00Z

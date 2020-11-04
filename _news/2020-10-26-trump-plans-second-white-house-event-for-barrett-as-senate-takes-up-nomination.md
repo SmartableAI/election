@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump's appointee Barrett takes part in first Supreme Court arguments"
-    excerpt: "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is"
-    publishedDateTime: 2020-11-02T16:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27I24T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I24T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I24T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539694713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA118G"
-        width: 817
-        height: 545
-        isCached: true
   - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
     excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
     publishedDateTime: 2020-10-13T12:08:00Z

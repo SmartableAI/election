@@ -2,13 +2,13 @@
 category: news
 title: "Election betting odds have flipped to favor Trump, expert says"
 excerpt: "President Donald Trump is now favored to win the election based on an average of betting websites, an expert told Fox News Tuesday."
-publishedDateTime: 2020-11-04T04:25:29Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dND2V1nKCqM/betting-odds-have-flipped-to-favor-trump-expert-says"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dND2V1nKCqM/betting-odds-have-flipped-to-favor-trump-expert-says"
+publishedDateTime: 2020-11-04T08:50:00Z
+originalUrl: "https://www.foxnews.com/politics/betting-odds-have-flipped-to-favor-trump-expert-says"
+webUrl: "https://www.foxnews.com/politics/betting-odds-have-flipped-to-favor-trump-expert-says"
 ampWebUrl: "https://www.foxnews.com/politics/betting-odds-have-flipped-to-favor-trump-expert-says.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/betting-odds-have-flipped-to-favor-trump-expert-says.amp"
 type: article
-quality: 190
+quality: 150
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -2423,6 +2424,20 @@ related:
         width: 2300
         height: 1530
         isCached: true
+  - title: "Biden: It's Not My Place Or Trump's Place To Declare Victory, It Is The American People's Decision"
+    excerpt: "Joe Biden made a statement after midnight Wednesday in Wilmington that he is \"on track\" to win the election. Biden made the speech shortly after FOX News projected he would win the state of Arizona. \"I'm here to tell you tonight we believe we are on track to win this election,"
+    publishedDateTime: 2020-11-04T08:32:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/03/biden_we_believe_we_are_on_track_to_win_this_election.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 66
+    images:
+      - url: "https://assets.realclear.com/images/52/526122.jpg"
+        width: 1142
+        height: 856
+        isCached: true
   - title: "Democrats Are Masking Biden's Frailty"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2020-11-02T20:12:00Z
@@ -2447,6 +2462,6 @@ related:
       domain: realclearpolitics.com
     quality: 60
 
-secured: "v6qkOnMk0nbvs7LWFwyWQ0QR+6TVqjSZl/VDESNU/6+SJ2N/Fb6jXbZjrQckspn7LaQN1AIPLraXrhMebuUkgBUGgLWaUvn2uiP+d7mF7/ITCmyj6wOgotXvVLqQRcpbvGXk/y+sGkkE0Bh0K/uwi2ThtOmlEdXeLDRqnW9mW27R9eBhBgCEFzdyKrUowO3kFtaY6yCEzLFrE9Xf+58rbEvmoHXLUYjk/zp5EoHTHH05XlBQF2JVZJlBJH7x4dUvlyHR3zkisrgt0XDQvvif7xNurmUQe7m+SLEYH38JYHmkfyFFcP5jm4wWZ34CoSgtI6jCqDpaRWEfgsOhPXtLTeZPut+vbAr7J2JE4ohw3rY=;ywyKuZcc5R34fcPhjurfRw=="
+secured: "RGQS59lP4Y99xLtK/qD2RwKfFaccNZa20E7RAb0Rq9mIFynAefSmZBJcEp3Fw5E3b/JKADwWb4iNF7YAHrHr/EN8Wvo0OSGd/6e30JlEJpQvAESjQqwsqmmP+w9K7iXZXmy1VAx7hUtVgrLAn7KE04I1kgyHQ9+oEeVkDbgFBQiI96fpkXH1SfZO3WP5gF/KYc4of1wW96yFHxb9QuCdoIrnA1gv3gOfUWUyAYur45mqx6m5IzhN97JITH1zhJaE1x7ur1/8QPLtaCteNSoCQ/HoeR63HGJtXEBWWncmfVK69KRXcQQDbnFcjCqvCW+NrxfN51PcNdm6ASatAAVljqVMTUjbvEIuFQPAIcruN3U=;Gvt8hBNYk5oOdPPCqpO1vQ=="
 ---
 

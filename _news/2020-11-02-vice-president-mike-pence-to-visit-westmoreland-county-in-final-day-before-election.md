@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtae.com/amp/article/vice-president-mike-pence-to-visit-
 cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220"
 type: article
 quality: 84
-heat: 324
+heat: 344
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice President Mike Pence rallies in Latrobe on final day of campaigning"
+    excerpt: "BUT FOR THOSE WHO WERE HERE, THEY WERE VERY ENTHUSIASTIC. CHANTS OF \"FOUR MORE YEARS \" AND \"USA\" FILLING THE AIR DURING VICE PRESIDENT MIKE PENCE’S VISIT TO LATROBE. THE VICE PRESIDENT, INTRODUCED BY HIS WIFE, KAREN PENCE, ADDRESSING THE CROWD OF A ..."
+    publishedDateTime: 2020-11-02T22:32:00Z
+    webUrl: "https://www.wtae.com/article/vice-president-mike-pence-latrobe-erie-pennsylvania-rallies-monday/34540406"
+    ampWebUrl: "https://www.wtae.com/amp/article/vice-president-mike-pence-latrobe-erie-pennsylvania-rallies-monday/34540406"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/vice-president-mike-pence-latrobe-erie-pennsylvania-rallies-monday/34540406"
+    type: article
+    provider:
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 74
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-1604359887.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Mike Pence campaigns in Elm City, North Carolina on Saturday"
     excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."

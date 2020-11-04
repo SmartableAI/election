@@ -25,22 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Lizzo encourages fans to vote while dressed as Mike Pence's debate fly for Halloween"
-    excerpt: "Leave it to Lizzo to win Halloween. The Houston-raised music star had a hilarious Halloween costume of choice just ahead of Tuesday's highly anticipated election. Remember the fly that generated all the buzz after making itself comfortable on top of Mike Pence's head at the vice presidential debate in October?"
-    publishedDateTime: 2020-11-02T17:27:00Z
-    webUrl: "https://www.chron.com/entertainment/article/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php"
-    ampWebUrl: "https://www.chron.com/entertainment/amp/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php"
+  - title: "North Carolina: Vice President Mike Pence says GOP remains optimistic about winning reelection bid"
+    excerpt: "With just hours left for voters to cast their ballot, WXII 12 News anchor Kenny Beck did a one-on-one interview with Vice President Mike Pence and former Democratic presidential candidate Pete Buttigieg."
+    publishedDateTime: 2020-11-03T22:57:00Z
+    webUrl: "https://www.wxii12.com/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
+    ampWebUrl: "https://www.wxii12.com/amp/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
+    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 68
+      name: WXII12
+      domain: wxii12.com
+    quality: 76
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-buttigieg-0124-1604439289.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Mike Pence making 2 more campaign stops in North Carolina | Charlotte Observer"
+    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump’s reelection bid."
+    publishedDateTime: 2020-10-27T08:17:00Z
+    webUrl: "https://www.charlotteobserver.com/news/article246741486.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/article246741486.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article246741486.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
 
 secured: "N4+9MoFxLJFBotJVtwrlF8F8zI8VGhaMKCDFOvNhJNIwRYrBKCMuk7oyak/m0Clj8Qlt2uKAaDA5SaXqn18HYdNryT42rkfICAh4pqKaVoOt3Hg8uBOfVHfL+fcGQEhgaDBhh/ihVfM1cWwx6aM8wt+jY7QBvkatC85gUV8ZPZsVM7w8LejN0s19qW9dFRHbQE1GNtOAwb7s+b1PbUj49ypwwl3Vftr8SVew6dYE7WI+xeBWyCeX6NZGycEFerHqxNzoJYVnKcK5X9eoTd4i2DDGSS4Jz1SRF6hHAvQ9jnRyNF/FfboBM1xgh//os5lbzCWyAuUCdzJG1KPFZ2CsBk+8gwigXDqSRyvelHt3KzM/ftOv//kTbXRJ84+3eFEP9HjMsSyiwp6M6E7yZR6wWBPG54HBfWJ7EavuCsTa8Ra06N28rhC3Ty7HtV516a/VhRtIy0tm2kpMU/SDsZlscw/P10xux8ukXjyxq6g7vJERyyBIROEHbZUZe6YsE2tFdqK2vE8JI05LLkQNMKXYVw==;7ar735PiXIFcw0IqJSVgIA=="
 ---

@@ -1956,6 +1956,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "With no winner in the presidential race, Trump falsely asserts that he has prevailed."
+    excerpt: "With no winner in the 2020 race and votes still being counted in several battleground states, President Trump entered the East Room of the White House at 2:21 a.m. on Wednesday and asserted without evidence that the election was being taken from him by “a very sad group of people."
+    publishedDateTime: 2020-11-04T08:56:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/with-no-winner-in-the-presidential-race-trump-falsely-asserts-that-he-has-prevailed.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/with-no-winner-in-the-presidential-race-trump-falsely-asserts-that-he-has-prevailed.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/with-no-winner-in-the-presidential-race-trump-falsely-asserts-that-he-has-prevailed.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04election-day-live-blog-trumpspeaks/04election-day-live-blog-trumpspeaks-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Young voters in swing states are a big part of the early surge. That could boost Biden."
     excerpt: "The 20 to 29 years olds are making their presence felt in places like Florida, Texas, Michigan and elsewhere. Younger Americans are voting early in droves this cycle, far outpacing their pre-Election Day turnout in several key swing states at this time in 2016."
     publishedDateTime: 2020-10-28T11:23:00Z

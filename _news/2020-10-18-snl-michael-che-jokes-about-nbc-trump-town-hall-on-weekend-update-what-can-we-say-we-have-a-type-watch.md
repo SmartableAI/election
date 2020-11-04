@@ -75,6 +75,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
+    excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
+    publishedDateTime: 2020-10-14T12:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "2KwOMtz25SPYfsWTecm/rFyQjHP1DiA1OJwX7oJqGWhLPWV6iniyX00g+pUc3nRJULv5ImKbqoIpKzKeLczZ0pM3Lh0tOjtEJA5GkNp87ILmuUd0ngyGPht4/QSTpQhjw0YFyWfZ1A4j9rm8A6X65g0yynKHZPhYv4umKNM7e74Bi+tYX8tsgdRXrGyF2m9lSvlLetVo63mNhR3XnZqjv1yaZYrzkKBvN81n3kF/4KC+nje2lPlI3Wd8lAvERyKTz46QB6KCd/c5owTA9uESpBzuNM/6RMpsKi0a0peXxIeMDxLbxI50x/EyW/MbFZqXb2tX9HcxnhyV5sfRvLH7l9brYDn3Qx5DDh4N9Y8Xpoo=;ZZAjQ7G3BgbIxQkVgPa4Ow=="
 ---

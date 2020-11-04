@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cuban Americans, senior citizens lean toward Trump in Florida: Fox News Voter Analysis"
+    excerpt: "President Trump may have support from senior citizens and Cuban-American voters to thank for his projected win in Florida and for its 29 Electoral College votes, according to polling from the Fox News Voter Analysis."
+    publishedDateTime: 2020-11-04T07:06:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wa6z-URpjV8/cuban-americans-senior-citizens-trump-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

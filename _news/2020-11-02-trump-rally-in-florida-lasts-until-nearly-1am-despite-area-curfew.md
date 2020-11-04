@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cuban Americans, senior citizens lean toward Trump in Florida: Fox News Voter Analysis"
+    excerpt: "President Trump may have support from senior citizens and Cuban-American voters to thank for his projected win in Florida and for its 29 Electoral College votes, according to polling from the Fox News Voter Analysis."
+    publishedDateTime: 2020-11-04T07:06:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wa6z-URpjV8/cuban-americans-senior-citizens-trump-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Melania Trump votes in Florida wearing Gucci dress, no mask"
     excerpt: "First Lady Melania Trump was dressed to the nines while voting in person on Election Day, wearing an equestrian-print white dress among other high-fashion accessories. Trump cast her ballot at a voting center in Palm Beach,"
     publishedDateTime: 2020-11-03T20:23:00Z

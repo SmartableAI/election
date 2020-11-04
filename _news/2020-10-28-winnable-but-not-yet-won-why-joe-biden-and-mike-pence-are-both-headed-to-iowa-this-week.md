@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden wins Maryland, with its 10 electoral votes"
+    excerpt: "Democrat Joe Biden won Maryland’s 10 electoral votes on Tuesday, defeating President Donald Trump in a heavily Democratic state. Democrats outnumber Republicans 2-to-1 in Maryland. A Republican presidential candidate hasn’t won in Maryland since George H."
+    publishedDateTime: 2020-11-04T08:54:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/05/14/20206393/9/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC"
     excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
     publishedDateTime: 2020-10-31T15:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp"
 type: article
 quality: 167
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "McEnany: Biden still has not denied substance of allegations about family's business ventures"
-    excerpt: "White House press secretary Kayleigh McEnany emphasized the seriousness of emails provided by former Hunter Biden business partner Tony Bobulinski, noting that Joe Biden has yet to clearly refute their validity."
-    publishedDateTime: 2020-10-29T14:07:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3yXagjFAAQ/mcenany-biden-not-denied-family-business-venture-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/mcenany-biden-not-denied-family-business-venture-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-biden-not-denied-family-business-venture-allegations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1007850e-cc8b-4cc6-8339-50eda9a4041a/a8864c36-fcdf-4412-a2e3-2e6356478ae5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Media needs to ask Joe Biden these three questions amid son's allegations: Gowdy"
     excerpt: "Joe Biden and his son, Hunter, should be asked by the mainstream media the same questions President Trump and his children were asked in 2016 about business dealings, former House Oversight Committee Chair Trey Gowdy argued Thursday."
     publishedDateTime: 2020-10-29T17:08:00Z

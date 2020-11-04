@@ -27,6 +27,54 @@ images:
     isCached: true
 
 related:
+  - title: "President Trump casts a 'very secure vote' for himself in-person in Florida"
+    excerpt: "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida."
+    publishedDateTime: 2020-10-26T01:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Golf legend Jack Nicklaus endorses Trump for reelection, calls him \"more diverse\" than any president he's seen"
+    excerpt: "Golf legend Jack Nicklaus said Wednesday that he voted for President Donald Trump, heaping praise on the commander chief while urging Americans to cast their ballots for the president. The18-time major champion posted his endorsement on Twitter,"
+    publishedDateTime: 2020-10-29T19:27:00Z
+    webUrl: "https://www.cbsnews.com/news/jack-nicklaus-endorses-president-trump-for-re-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jack-nicklaus-endorses-president-trump-for-re-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/29/d729524b-cd24-44f4-9dd1-182757438ac8/thumbnail/1200x630/ccabf10bc005548b9ebac519a087d98b/gettyimages-1128321909.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
+    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
+    publishedDateTime: 2020-10-21T05:26:00Z
+    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
+        width: 911
+        height: 455
+        isCached: true
   - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
     excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
     publishedDateTime: 2020-10-24T09:12:00Z
@@ -42,68 +90,6 @@ related:
       - url: "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump joked that he'll 'find a way' to fire Florida Gov. Ron DeSantis if he loses the state in November"
-    excerpt: "The president sees Florida as a must-win state in his electoral coalition if he is to be reelected to a second term."
-    publishedDateTime: 2020-10-17T14:38:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f8afa23c21cfb00194689f7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "US Air Force F-16s intercepted an unauthorized aircraft flying in a restricted area over a Trump rally"
-    excerpt: "When President Donald Trump saw the F-16 deploy signal flares, he told a crowd that they were putting on a display for him."
-    publishedDateTime: 2020-10-29T06:21:00Z
-    webUrl: "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f99e8aa69331a0011bc5f19?width=1200&format=jpeg"
-        width: 998
-        height: 499
-        isCached: true
-  - title: "Florida remains central to Trump's path to victory"
-    excerpt: "Florida is a toss-up heading into Election Day. Nearly 64% of Florida voters cast their ballots early, and the Latino and Black vote will be crucial to win. Manuel Bojorquez reports from a voting site in Miami."
-    publishedDateTime: 2020-11-03T22:34:00Z
-    webUrl: "https://www.cbsnews.com/video/florida-remains-central-to-trump-path-to-victory/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/03/3cc4cfdd-5f46-4dec-aa8a-8723511dead5/thumbnail/1200x630/b823f684a68a300c622ce0b5263adffc/florida-bojorquez-579447-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "WATCH: Thousands of Trump Fans Stranded in Freezing Cold Hours After Nebraska Rally, 7 Reportedly Hospitalized"
-    excerpt: "Thousands of supporters were stranded in the freezing cold following President Donald Trump's rally in Nebraska due to a shortage of buses, including at least seven who were reportedly hospitaliz"
-    publishedDateTime: 2020-10-28T11:12:00Z
-    webUrl: "https://www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/"
-    ampWebUrl: "https://www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 55
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Trump-Omaha-stranded.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "4v0dW2mMnbeifYBgFlGYEgLEBY+VTiugobowK2LmSlJFcx+nkL9qu8RyTJzDaLLpjrQDIZKGCi3vA1KlRKkpTa/frbuZ/mCE31CypVlTaUKEqixIL+NmYi6Nb65V+TiRwhRFi2J4t1lRqHK/8q0GtIo8ck8TZura6bM2HP9C+jqusiBwMdiX2u8O7i1yUBcM0gIiN2fFor2qpQj4l2bk6hsQszPYc7tE02TdEJj/c+hZOBMsohqdqiX+h5GTgHCBgfpxtl86qaUsr2wtjAJQeHL6cmlWMpyiF3tHi9OvA95XpWd0GkavhHf0fszt6Waz+CLoBUTuQfas92cAHMPn1Bt2m8bYxziIjQ/mE/ih1jA=;90ZBL3QGBCDPvH/WWik2GA=="

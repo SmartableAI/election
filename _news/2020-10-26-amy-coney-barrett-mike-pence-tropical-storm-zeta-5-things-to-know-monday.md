@@ -43,22 +43,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump's appointee Barrett takes part in first Supreme Court arguments"
-    excerpt: "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is"
-    publishedDateTime: 2020-11-02T16:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27I24T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I24T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I24T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539694713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA118G"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump plans second White House event for Barrett as Senate takes up nomination"
     excerpt: "The White House on Monday planned a celebration to celebrate the Republican Senate's expected confirmation of President Donald Trump's conservative nominee Amy Coney Barrett to the Supreme Court, one a month after a similar event was linked to a COVID-19 outbreak that"
     publishedDateTime: 2020-10-26T15:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-order-federal-civil-se
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html?outputType=amp"
 type: article
 quality: 114
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1440
     height: 960
     isCached: true
+
+related:
+  - title: "Trump's EPA rewrote the rules on air, water energy. Now voters face a choice on climate change issues"
+    excerpt: "Election Day will be a decision between deregulation or re-regulation. A look at Trump's rollbacks and their long term effects nationwide."
+    publishedDateTime: 2020-10-29T07:14:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/investigations/2020/10/29/climate-change-escalates-voters-face-choice-deregulate-re-regulate/3668667001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3668667001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3668667001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/NCOD/292b255e-c6f8-4fde-80dd-72114e11db3c-04_Environment_Election_CLH.jpg?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qtrXu8430N7K14B1lgDw8hRZM0V1M2cNoB+b7ULkKTG5YK/pQg9vHZzPW+VBoKm18vDzPqqwv+aVSr7NjnPdCpW8VRUeFyYyueYOMj0lKjKNCAzfGa42CxzM2THcUQmkXzn5TqKMqGHWMf8i38FeQxcYHq+Inx+84K2+RCEpPijCsJvjEsrhPrxLU40P/tpTm8wdcH498O5OKNtTHoJo4bT2MdpxUgqRIEK513KXaJuhE+BmXLne2GxPM52Fbm717wwGg/EaHpzfEhwWwcOW2Ofmbz7I2EUPho3BAR1qQNzSUXh44obwtVbeyHd7+NeveAIQ258dOzDFocBESnIwzoQqW4JeU1pskp81cYkx30I=;YSM4yitrU3zkpHeHzMc61A=="
 ---

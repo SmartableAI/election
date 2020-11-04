@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27C2TA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27C2TA"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump has won Alabama"
+    excerpt: "The state holds nine electoral votes and was not expected to be competitive. It has voted for a Republican president in every election since 1980."
+    publishedDateTime: 2020-11-04T07:16:00Z
+    webUrl: "https://www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa2032e69331a0011bc725e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Scorned by Trump, many Nigerians love him all the same"
     excerpt: "Hundreds of men and women marched, clad in T-shirts supporting U.S. President Donald Trump or pink fabric dresses bearing the image of Jesus, as they waved American flags, Republican presidential campaign signs,"
     publishedDateTime: 2020-11-04T00:09:00Z

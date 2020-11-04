@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27J051"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J051"
 type: article
 quality: 123
-heat: 143
+heat: 123
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 817
     height: 545
     isCached: true
-
-related:
-  - title: "Trump calls Supreme Court voting decision 'horrendous'"
-    excerpt: "Rough Cuts Trump calls Supreme Court voting decision 'horrendous' Posted . U.S. President Donald Trump told reporters in Wisconsin on Monday that a recent Supreme Court decision o"
-    publishedDateTime: 2020-11-03T09:43:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD30QSWV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QSWV&r=OVD30QSWV&t=2"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "5w6vseQw1CSGqDMehxWRX3pBq2miiAxt2usKi3D6ALJ1giqLB0LSBFKhlfoLtmhIrgvMz1v578OuUOfnAVQYsr3jtwIDIMzGD4dV9dc5vpRHBd3sJK3+RZhrjsbGL959A2hGGGUz8cPXSp0rl3K5D0LwIG/+CnAfTfi4oMFxsUw7oZ5zYq8mJ6JXC98fRRXrPNlqgJqAMkWa4dm3GayIbY5/jt87HWTLzxJcD76g8G/UI8GVmV/B6LXTaPjRsJeDYUg8K/pSZOezpGt+ojQI1zfRpoqLhNRxs3Rj1yYEyCWMg7zHXZDTob2s8jxf64IKYQP+MYR/26ou44ouoNRXmqKanU3KTTeFccE41AQq4Gk=;GHVYkFIcpHqO204UQVg+ww=="
 ---

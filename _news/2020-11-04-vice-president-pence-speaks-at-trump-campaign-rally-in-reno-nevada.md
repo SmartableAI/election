@@ -19,162 +19,227 @@ topics:
   - Mike Pence
 
 related:
-  - title: "WATCH LIVE: Trump speaks at campaign rally in Bullhead City, Arizona"
-    excerpt: "Trump weighed in on two nights of clashes with Philadelphia police and store break-ins following the fatal shooting by police of Walter Wallace Jr."
-    publishedDateTime: 2020-10-28T18:57:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+  - title: "Trump Supporters Push Back Against Victory Statement, Pence Says Votes Still to Count"
+    excerpt: "The president said that he already feels victory is sealed despite ongoing vote counts, vowing legal action to secure his position."
+    publishedDateTime: 2020-11-04T07:37:00Z
+    webUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686"
+    ampWebUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://d.newsweek.com/en/full/1664385/trump.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "WATCH: Trump speaks at campaign rally in Goodyear, Arizona"
-    excerpt: "Trump paused his campaign speech in Bullhead City, Arizona to admire what he identified as a fighter jet flying by."
-    publishedDateTime: 2020-10-28T23:17:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+  - title: "Trump's appointee Barrett takes part in first Supreme Court arguments"
+    excerpt: "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is"
+    publishedDateTime: 2020-11-02T16:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27I24T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I24T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I24T"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539694713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA118G"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
-    excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
-    publishedDateTime: 2020-10-21T17:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5996029002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002"
+  - title: "Gay voters share why they are voting for President Trump"
+    excerpt: "LGBTQ Republicans make up a small percentage of party membership. Three voters share their stories and say they've been embraced by conservatives."
+    publishedDateTime: 2020-11-04T02:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/02/gay-voters-trump-share-reasons-support-election/6116276002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6116276002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6116276002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/6a33c244-a478-4fed-b541-415acb9f76f2-LadyMaga1.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
         width: 1200
-        height: 676
+        height: 675
         isCached: true
-  - title: "Trump mistakenly introduced the rapper Lil Pump as 'Little Pimp' at his final campaign rally"
-    excerpt: "One of the big superstars of the world, Little Pimp!' said President Trump as he introduced the rapper Lil Pump."
-    publishedDateTime: 2020-11-03T22:15:00Z
-    webUrl: "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp"
+  - title: "Trump gains with Latinos, loses some white voters: exit polls"
+    excerpt: "As the U.S. presidential race remained undecided, President Donald Trump showed some surprising gains with Latino and other nonwhite voters, but they may have been offset by losses among those who supported him four years ago,"
+    publishedDateTime: 2020-11-04T08:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-exitpoll-idUSKBN27J2T9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2T9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2T9"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fa14fc969331a0011bc6ea8?width=1200&format=jpeg"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539910011&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30AE"
+        width: 838
+        height: 545
+        isCached: true
+  - title: "Trump support eroding among older voters and white men - exit polls"
+    excerpt: "President Donald Trump appears to have lost some support among white men and older people in Georgia and Virginia, key parts of his voter base, according to Edison Research polls on Tuesday."
+    publishedDateTime: 2020-11-04T02:20:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-exitpoll/trump-support-eroding-among-older-voters-and-white-men-exit-polls-idUSKBN27K07I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K07I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K07I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539899255&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA3049"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That"
+    excerpt: "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate."
+    publishedDateTime: 2020-10-28T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/"
+    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 124
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9890ed25a04196a125a749%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3202%26cropY1%3D0%26cropY2%3D1802"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
+    excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
+    publishedDateTime: 2020-10-29T14:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/29/judge-brent-shore-florida-duval-county-vote-counting-head-trump-donations/6068234002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6068234002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6068234002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NFTU/7cb2302c-7824-4bb4-8511-52dba15d3133-IMG_7191.jpg?auto=webp&crop=4031,2267,x1,y90&format=pjpg&width=1200"
         width: 1200
-        height: 599
+        height: 675
         isCached: true
-  - title: "Livestream: Trump Holds Tuesday Rally In Michigan"
-    excerpt: "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing."
-    publishedDateTime: 2020-10-27T22:39:00Z
-    webUrl: "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan"
-    ampWebUrl: "https://patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump"
+  - title: "Midwest Dems urge party to focus on infrequent Black voters rather than White voters who backed Trump"
+    excerpt: "Some local leaders say Democrats may be focusing too much on White working class voters who backed Trump and not enough on voters who didn't turn out at all."
+    publishedDateTime: 2020-10-30T02:03:00Z
+    webUrl: "https://www.cbsnews.com/news/midwest-dems-urge-party-to-focus-on-infrequent-black-voters-rather-than-white-voters-who-backed-trump/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/midwest-dems-urge-party-to-focus-on-infrequent-black-voters-rather-than-white-voters-who-backed-trump/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/midwest-dems-urge-party-to-focus-on-infrequent-black-voters-rather-than-white-voters-who-backed-trump/"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
     images:
-      - url: "https://patch.com/img/cdn20/getty/566479/20201027/013957/styles/patch_image/public/gettyimages-1229304833___27133938792.jpg?width=984"
-        width: 896
-        height: 672
-        isCached: true
-  - title: "Man arrested at Trump rally with South Dakota's Noem"
-    excerpt: "Police in Maine on Wednesday arrested a man who displayed two weapons at a campaign rally for President Donald Trump where South Dakota Gov. Kristi Noem was appearing. Noem spokeswoman Maggie Seidel said Noem's security detail engaged a man who had two weapons."
-    publishedDateTime: 2020-10-28T17:57:00Z
-    webUrl: "https://www.chron.com/news/article/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Vice President Mike Pence to speak at rallies in Arizona on Friday"
-    excerpt: "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson."
-    publishedDateTime: 2020-10-29T05:16:00Z
-    webUrl: "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 75
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "WATCH LIVE: Trump Holds Rally in Tampa on Thursday"
-    excerpt: "President Donald Trump is scheduled to speak to supporters on Thursday afternoon in Tampa, Florida, before heading to an evening rally in Fayetteville, North Carolina."
-    publishedDateTime: 2020-10-29T22:12:00Z
-    webUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/"
-    ampWebUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 75
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1272406110-1200x801.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/29/71867082-7188-46af-ab8e-9da023086a66/thumbnail/1200x630/118722f2dcdb2177c2ae1717de52f6b2/gettyimages-1229097289.jpg"
         width: 1200
-        height: 801
+        height: 630
         isCached: true
-  - title: "The Latest: Mrs. Trump Warms up Tampa Crowd at Trump Rally"
-    excerpt: "First lady Melania Trump is making her first joint campaign appearance of the year with her husband. Mrs. Trump warmed up the large crowd outside Raymond James Stadium in Tampa for President Donald Trump."
-    publishedDateTime: 2020-10-29T19:04:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+  - title: "Trump calls Supreme Court voting decision 'horrendous'"
+    excerpt: "Rough Cuts Trump calls Supreme Court voting decision 'horrendous' Posted . U.S. President Donald Trump told reporters in Wisconsin on Monday that a recent Supreme Court decision o"
+    publishedDateTime: 2020-11-03T09:43:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD30QSWV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QSWV&r=OVD30QSWV&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Florida remains central to Trump's path to victory"
+    excerpt: "Florida is a toss-up heading into Election Day. Nearly 64% of Florida voters cast their ballots early, and the Latino and Black vote will be crucial to win. Manuel Bojorquez reports from a voting site in Miami."
+    publishedDateTime: 2020-11-03T22:34:00Z
+    webUrl: "https://www.cbsnews.com/video/florida-remains-central-to-trump-path-to-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/03/3cc4cfdd-5f46-4dec-aa8a-8723511dead5/thumbnail/1200x630/b823f684a68a300c622ce0b5263adffc/florida-bojorquez-579447-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The latest: Absentee voters urged to check ballots before it's too late; 'Trump trains' respect voter boundaries, officials say"
+    excerpt: "Republicans and Democrats alike gathered at polling places to vote in hard-fought local, state and federal races — including for the presidency."
+    publishedDateTime: 2020-11-04T02:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/11/03/latest-iowa-election-2020-election-day-live-updates-voting-issues-problems-president-congress-state/6125064002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6125064002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6125064002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDEM/00e3dcb0-255d-409a-9ce9-d0162799a46f-20201103_002_election_bp.JPG?auto=webp&crop=3499,1969,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
+    excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."
+    publishedDateTime: 2020-10-28T02:43:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 96
+    images:
+      - url: "https://www.chicagotribune.com/resizer/9T6xM9WwzncJC1U9YusfCXeCFF0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSWZ6OW4UASM2Y33DIGJOP55QE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Dump Donald Trump: American voters' imperative"
+    excerpt: "Monday, we concluded a daily series begun 14 weeks ago. In 26,306 words spread out over 99 days, we detailed the case for why Donald Trump — his character, his corruption, his policies, his appointees,"
+    publishedDateTime: 2020-11-03T09:10:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/Enk164ZLvg71BWottnQ-c_T5_zs=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/MW6QQHIPYFCZ7NLZ3VV6LOCR4I.jpg"
+        width: 1200
+        height: 832
+        isCached: true
+  - title: "Donald Trump Wins Kentucky"
+    excerpt: "Donald Trump wins Kentucky."
+    publishedDateTime: 2020-11-04T00:10:00Z
+    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-11-03/republican-eric-holcomb-wins-reelection-for-governor-in-indiana"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
-  - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
-    publishedDateTime: 2020-10-30T13:55:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-arizona"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
     quality: 35
-  - title: "Vice President Pence Campaign Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence spoke at a Trump campaign rally in Flagstaff, Arizona. He criticized the Biden-Harris ticket and made the case for President Trump's re-election. The vice president was introduced by Senator Martha McSally (R-AZ)."
-    publishedDateTime: 2020-11-03T16:52:00Z
-    webUrl: "https://www.c-span.org/event/?477537/c2020-vice-president-pence-holds-rally-flagstaff-az"
+  - title: "President Donald Trump Wins West Virginia's Electoral Votes"
+    excerpt: "President Donald Trump eased to victory in West Virginia to take its five electoral votes. He had been widely expected to defeat Democrat Joe Biden in a state that backed him in 2016 with 68% of the vote."
+    publishedDateTime: 2020-11-04T00:40:00Z
+    webUrl: "https://www.usnews.com/news/best-states/west-virginia/articles/2020-11-03/president-donald-trump-wins-west-virginias-electoral-votes"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
 
 secured: "sUQIaOru8BJQ3r0ypOx7pLJAFkdQAOueNFgSBZgCK1qNq3eeG23OZZNx7un9wqOv+RYpSfdD8E7qXFxEBrDYil/B1sh/6eGzThuJeamR1dLNHaGSkwakhVrDcwH/TpjP6Be103m97qx1t0twM1cs6sZNMWQD0WWBPfhOTOJ8r0cXNGZPQMB+W1E0jBtZtD93nokfcYZqaEVdT42J2GhksJ8NCZaMKVmCUdlBF+4DxwLKk/a2bER16tKgI7/PLkQRhGEcw0GnfpvNAnRuEr7nikoQPBU8MX1vgtIPg0DGPaj1b54JtkR7Zthpi45s538UqCtbodZMbe/DMsHazDziWfHg93aNtB9ZtwEOr0mo9b0Eb48ahmI//x0Zgz/eXJHsGcggXVx4Fb7cwEZqG0Mmyw19bJW2giDTlF73OKoAYgU4OhyI8rJ+CdxBzmEd+R0GpiH3s1hidoEbERFVvMZZCdsX6b5TTr+rDMksVFZr6HvmwmYsRnx3hExwt7ZASBQV+hGLFhQEZczhYXho1jOxmg==;jdGlII16EDWS1M3kBM0XQg=="

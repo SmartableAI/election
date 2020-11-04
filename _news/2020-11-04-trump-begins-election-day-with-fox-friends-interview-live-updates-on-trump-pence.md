@@ -529,6 +529,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Facebook labeled President Trump's late-night election posts about Democrats stealing the election as misinformation"
+    excerpt: "President Trump's false claims about the election being stolen are being flagged by Facebook. Every one of his false election claims are now flagged."
+    publishedDateTime: 2020-11-04T08:52:00Z
+    webUrl: "https://www.businessinsider.com/trump-facebook-posts-labeled-as-misinformation-about-vote-count-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-facebook-posts-labeled-as-misinformation-about-vote-count-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-facebook-posts-labeled-as-misinformation-about-vote-count-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f53c6cf7ed0ee001e25db93?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Trump holds 5 rallies in 4 swing states in bid to woo last-minute Election Day votes"
     excerpt: "With Election Day finally here, President Trump spent Monday in a final attempt to win over swing state voters. The president says he's confident, but he is also threatening legal action in some states if results are not announced on Election Day."
     publishedDateTime: 2020-11-03T22:33:00Z
@@ -586,6 +602,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/2ced17af-0948-4014-b28e-c7dc51e1161d/thumbnail/1200x630/2ef01a72c72bd26c6379f9dc01c33b46/1102-en-weijia-579242-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Iowa live election results for president in Iowa: Donald Trump vs. Joe Biden"
+    excerpt: "Find live reporting of election results by county in Iowa for the race for president between Donald Trump and Joe Biden."
+    publishedDateTime: 2020-11-04T08:17:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/11/03/live-election-results-president-iowa-donald-trump-vs-joe-biden/6120598002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6120598002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6120598002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/PDEM/223ede5e-57ce-46f2-8dcb-15e7c634403a-BIDEN_AFP_TRUMP_AP.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
     excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
 type: article
 quality: 113
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -79,6 +79,17 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
+    excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
+    publishedDateTime: 2020-10-14T12:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "FXGASnaobo/gbrFc3M6WVvEtUIPcpWdVnb7HVcE0qzFW6Yb1ALXsOsB9fA3PyhZELbUuDII+bkt46Iwguuw1qSn7C/vRWYmuPmk878lf3CYJqoGBMiZEoqyXkSjQ6EkwvtgsfdywXsj8bzQF4+xm2R0L7NXkwQmFMoC2kTGWwYnEJ5iZCIbEVlt1aI8nelpyqiL7vvt4iuStjJx5prwmhnYuEzVtRLElfBMiphNzumXiY/J8WOAQJ0hL/X4cr1AyfOV25LoRug37VVrkh2HC88cAwvb48s8pWQRksZ3KP2juX8rY5YjCe6M7em6z5acTDpUUoIDPGrb4o0Q54IDtWIA4Hvdzv855z5v/9AmWSmM=;O0zfSfzWNa6q35twwsII9g=="
 ---

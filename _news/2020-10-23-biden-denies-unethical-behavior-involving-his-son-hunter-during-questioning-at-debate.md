@@ -3961,6 +3961,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump locked in tight races with Biden"
+    excerpt: "President Donald Trump carried Florida, the nation's most prized battleground state, and he and Democrat Joe Biden were increasingly focused early Wednesday on the three crucial states - Wisconsin, Michigan and Pennsylvania."
+    publishedDateTime: 2020-11-04T08:08:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/04/trump-locked-tight-races-biden/6157981002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3a5804d9-0299-4852-91f5-db861e55861f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "What it was like covering the Trump and Biden campaigns"
     excerpt: "CBS News campaign reporters Nicole Sganga and Bo Erickson joined \"Red and Blue\" to discuss what it's been likely covering the Trump and Biden campaigns this year."
     publishedDateTime: 2020-11-04T00:37:00Z
@@ -5229,6 +5243,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/62/6627b57c-d6bc-53d5-bdbd-d41ae599d8ab/5f9b3d433bf67.image.jpg"
         width: 512
         height: 341
+        isCached: true
+  - title: "Joe Biden defeats Donald Trump in Colorado, AP projects"
+    excerpt: "Colorado voters have again rejected President Donald Trump, throwing the state’s nine electoral votes to Democratic challenger and former Vice President Joe Biden, the Associated Press"
+    publishedDateTime: 2020-11-04T08:40:00Z
+    webUrl: "https://www.denverpost.com/2020/11/03/colorado-presidential-election-results-trump-biden/"
+    ampWebUrl: "https://www.denverpost.com/2020/11/03/colorado-presidential-election-results-trump-biden/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/11/03/colorado-presidential-election-results-trump-biden/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/08/AP20233145859232.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump Plays Rally Video Montage Featuring Sean Hannity Bashing Joe Biden"
     excerpt: "If you've been following the last few weeks of the presidential candidates on the campaign trail, you know that President Donald Trump has been working video montages into his campaign events."

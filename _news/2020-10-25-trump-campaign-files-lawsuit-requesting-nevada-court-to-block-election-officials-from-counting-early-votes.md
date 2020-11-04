@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
-    excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
-    publishedDateTime: 2020-10-29T14:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/29/judge-brent-shore-florida-duval-county-vote-counting-head-trump-donations/6068234002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6068234002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6068234002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NFTU/7cb2302c-7824-4bb4-8511-52dba15d3133-IMG_7191.jpg?auto=webp&crop=4031,2267,x1,y90&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Ig/18ZtAfINCHWTFfcIUfg65A8TbZqqz8oO9wG6pCPWgrmnC7Q64NAx2qFr7UkZJBZHFYXFe1H0eVbqfDdbH0Z2P1IQRYAsUp/oDp030du/z5UtoJB0v9Yfz4IFpcKzsCApw3QNlavFGGdi9mrNi2yiJNewOmky1fHbkQGKflrN/QhG4/dMX3QhQ4lpr/wmdShKsmfrChtVK25uHnXQt6XZTqT5dClPaZiPDNnFHinTL6aTQ8x9hUuHmTuzIewNTZ4vo3brS+1iImHrtBFVu9E5BsU5R4Ti9vm3gGiSLFwjp9Y4YbEwGwYRXjpHhnIxQ0aBsMeGpjnBjOJRKHanfH5xKe4zF9PO4Ufww6R3o45vkAQpZ9bkPTshT2WH3sMfm9iJTl+JgyRK/Y5PucFMSZZochwUleMbBCccTAc8wFSN+DWNw3ifNiWhCnGfz7rBx1mBYVdJFaCTvVeoi2wlmVbnD4GKHW/7tToa+WWT1FXhSjTXlRokxxbbmR3Kdl1d//1seQzZvhNIfICW3C6JqAw==;0n62xajbQIxJnbsHLz0caA=="
 ---

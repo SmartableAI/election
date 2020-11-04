@@ -988,6 +988,22 @@ related:
         width: 2500
         height: 1619
         isCached: true
+  - title: "Voters who saw containing the coronavirus as the most important issue favored Biden"
+    excerpt: "Voters’ opinion of which was more important — containing the coronavirus or hustling to rebuild the economy — fell along starkly partisan lines, according to early exit polls released Tuesday. Those who viewed the pandemic as the most pressing issue favored Joseph R."
+    publishedDateTime: 2020-11-04T02:27:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/world/voters-who-saw-containing-the-coronavirus-as-the-most-important-issue-favored-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/world/voters-who-saw-containing-the-coronavirus-as-the-most-important-issue-favored-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/world/voters-who-saw-containing-the-coronavirus-as-the-most-important-issue-favored-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/us/03virus-briefing-exitpolls-pandemic/03virus-briefing-exitpolls-pandemic-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "‘It’s clear Donald Trump’s campaign is desperate’: President Trump campaigns in traditional"
     excerpt: "With a little over two weeks until the election, President Donald Trump is spending a considerable amount of time campaigning in traditionally red states as he continues to trail Democratic presidential nominee former Vice President Joe Biden in the polls."
     publishedDateTime: 2020-10-19T01:23:00Z

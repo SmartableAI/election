@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Mike Pence rallies in Latrobe on final day of campaigning"
+    excerpt: "BUT FOR THOSE WHO WERE HERE, THEY WERE VERY ENTHUSIASTIC. CHANTS OF \"FOUR MORE YEARS \" AND \"USA\" FILLING THE AIR DURING VICE PRESIDENT MIKE PENCE’S VISIT TO LATROBE. THE VICE PRESIDENT, INTRODUCED BY HIS WIFE, KAREN PENCE, ADDRESSING THE CROWD OF A ..."
+    publishedDateTime: 2020-11-02T22:32:00Z
+    webUrl: "https://www.wtae.com/article/vice-president-mike-pence-latrobe-erie-pennsylvania-rallies-monday/34540406"
+    ampWebUrl: "https://www.wtae.com/amp/article/vice-president-mike-pence-latrobe-erie-pennsylvania-rallies-monday/34540406"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/vice-president-mike-pence-latrobe-erie-pennsylvania-rallies-monday/34540406"
+    type: article
+    provider:
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 74
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-1604359887.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence campaigns in Elm City, North Carolina on Saturday"
     excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
     publishedDateTime: 2020-10-31T17:39:00Z

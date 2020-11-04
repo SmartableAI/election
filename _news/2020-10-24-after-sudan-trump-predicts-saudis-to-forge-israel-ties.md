@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
-    excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."
-    publishedDateTime: 2020-10-28T02:43:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-e-jean-carroll-lawsuit-20201027-oiknant4pjdz3g2wzu42ojvfha-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 96
-    images:
-      - url: "https://www.chicagotribune.com/resizer/9T6xM9WwzncJC1U9YusfCXeCFF0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSWZ6OW4UASM2Y33DIGJOP55QE.aspx"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "UtguvbQJCHwrL1mjrSx5t3PUcuuF25xBp0ZA6HMHGS55K8KZpyFTowXQl1shZYSy7VgPEmBZddwN/xu6tKMgbKUChWV5ViR5V8/fHfkKe82dZG04mvpnmu/Xd9wHsVwq4EnfoA0O6lyOEiX5qQRzZmWgIQbhzP5mEwq899ZZNVnKn2BVCUcYWSZI5L5X1jP83WrMEIKi/3eAxjJ/UIE7ifcQEqhCsJQj4vw2dVQBvM8383S3xQ22IZHqhur2y6cLaK2L631LneA4b/05q7UeGrIniu22N6OZC3Y+tBHDvTwKTdwyHSSg4faqMTy0GVHa0LgeuezomUrBLHdgYmYGend1tubvW7iCkcmbPO4j/UI=;ftwAZn2JuYf3E0hyOtefMQ=="
 ---
