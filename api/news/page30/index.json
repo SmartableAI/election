@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-10-03-trump-has-more-in-common-with-lincoln-than-you-might-think.md",
+      "title": "Trump has more in common with Lincoln than you might think",
+      "excerpt": "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
+      "originalUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trump_lincoln_08042020_1.jpg",
+          "width": 980,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
+      "publishedDateTime": "2020-10-02T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-pelosi-upbeat-on-relief-says-trump-illness-could-lift-roadblock.md",
       "title": "Pelosi Upbeat on Relief, Says Trump Illness Could Lift Roadblock",
       "excerpt": "U.S. House Speaker Nancy Pelosi said negotiations with the White House on a new stimulus will press ahead and President Donald Trump’s Covid-19 diagnosis might change the tenor of the talks by emphasizing the seriousness of the pandemic.",

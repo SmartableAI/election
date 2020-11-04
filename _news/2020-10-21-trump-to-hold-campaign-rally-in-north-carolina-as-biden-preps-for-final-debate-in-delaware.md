@@ -1407,6 +1407,22 @@ related:
         width: 375
         height: 815
         isCached: true
+  - title: "Jonathan Turley: Negative media coverage will be responsible if Trump prevails over Biden"
+    excerpt: "If President Trump wins the 2020 presidential election, the media’s “unrelenting negative coverage” of the commander-in-chief will be to blame, constitutional law expert Jonathan Turley said on Wednesday."
+    publishedDateTime: 2020-11-04T16:45:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CPgltXhpiSU/jonathan-turley-trump-negative-media-coverage"
+    ampWebUrl: "https://www.foxnews.com/politics/jonathan-turley-trump-negative-media-coverage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jonathan-turley-trump-negative-media-coverage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Eric Trump: Father's closing message very different than Joe Biden's 'dark winter' warning"
     excerpt: "Peace and prosperity is the message of President Trump’s campaign, said the commander-in-chief’s son Eric Trump on Friday."
     publishedDateTime: 2020-10-30T19:27:34Z
@@ -1454,6 +1470,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/948565b5-fec4-48a4-9ff6-cf0c6c6d3e20/78478623-b6db-4be8-846f-749ed364db01/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump, Biden camps both claim pathway to victory as remaining ballots counted in key states"
+    excerpt: "Both President Trump's and Joe Biden's campaigns on Wednesday insisted they have a pathway to victory as remaining ballots continue to be counted in key battleground states that will determine the winner of the 2020 presidential election."
+    publishedDateTime: 2020-11-04T16:25:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SjHuU55Yk0U/trump-biden-camps-claim-pathway-victory-remaining-ballots-counted-key-states"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-camps-claim-pathway-victory-remaining-ballots-counted-key-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-camps-claim-pathway-victory-remaining-ballots-counted-key-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump says 'good chance' coronavirus vaccine ready in weeks, as Biden predicts 'dark winter'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden met for their second and final presidential debate before the Nov. 3 election, immediately jumping into the impact of the coronavirus."

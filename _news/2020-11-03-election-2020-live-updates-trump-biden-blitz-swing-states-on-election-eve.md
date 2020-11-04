@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671"
 type: article
 quality: 153
-heat: 1293
+heat: 1313
 published: true
 
 provider:
@@ -739,6 +739,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Harmony-Opposing-Trump-and-Biden-groups-make-15699675.php"
     ampWebUrl: "https://www.chron.com/news/amp/Harmony-Opposing-Trump-and-Biden-groups-make-15699675.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Harmony-Opposing-Trump-and-Biden-groups-make-15699675.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Too close to call: Here are the paths to victory for Biden, Trump"
+    excerpt: "Both President Trump and Vice President Joe Biden have separate p. The high-stake states which are too close to call include Georgia, Pennsylvania, Michigan, North Carolina, Nevada, and Arizona, according to the Associated Press."
+    publishedDateTime: 2020-11-04T16:32:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/Too-close-to-call-Here-are-the-paths-to-victory-15701137.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/Too-close-to-call-Here-are-the-paths-to-victory-15701137.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/Too-close-to-call-Here-are-the-paths-to-victory-15701137.php"
     type: article
     provider:
       name: Houston Chronicle

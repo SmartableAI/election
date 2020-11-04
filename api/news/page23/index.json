@@ -2,6 +2,63 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-10-10-state-dept-slams-china-for-censoring-pence-debate-answer-critical-of-chinese-communist-party.md",
+      "title": "State Dept. slams China for censoring Pence debate answer critical of Chinese Communist Party",
+      "excerpt": "China censors \"any sort of criticism\" of the Chinese Community Party fearing it is bad news if their citizens see \"what actually happens,\" State Department spokesperson Morgan Ortagus told \"Fox & Friends\" Saturday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g4EdopySh4k/china-censorship-debate-pence-communist-party-state-dept",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g4EdopySh4k/china-censorship-debate-pence-communist-party-state-dept",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77268e3d-4d5b-4ef5-b09f-a292d7986a5f/2e16936f-4f00-4966-b51e-78b1e333d164/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T11:50:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-biden-campaign-launches-first-ad-featuring-cindy-mccain.md",
       "title": "Biden campaign launches first ad featuring Cindy McCain ",
       "excerpt": "Joe Biden's presidential campaign is unveiling its first television ad featuring Cindy McCain, the widow of Republican Sen. John McCain of Arizona, as the Democratic nominee seeks to gain ground with independents and disaffected Republicans in the battleground state.\n    \n",
@@ -1264,62 +1321,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-debate-commission-co-chair-defends-virtual-move-after-trump-pulls-out-we-will-be-guided-by-the-medicine.md",
-      "title": "Debate commission co-chair defends virtual move after Trump pulls out: 'We will be guided by the medicine'",
-      "excerpt": "Commission on Presidential Debates (CPD) co-chair Frank Fahrenkopf has defended the organization's decision to move the second presidential debate, slated for Oct. 15, to a virtual setting after President Trump dismissed the idea as a \"waste\" of time. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WaohQlSRuas/virtual-debate-trump-biden-frank-fahrenkorpf",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WaohQlSRuas/virtual-debate-trump-biden-frank-fahrenkorpf",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9f4375-e6af-4667-81a1-d8564e2cd2f6/7133e21f-a8e0-418b-b911-a6323c249384/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/virtual-debate-trump-biden-frank-fahrenkorpf.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virtual-debate-trump-biden-frank-fahrenkorpf.amp",
-      "publishedDateTime": "2020-10-08T19:28:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

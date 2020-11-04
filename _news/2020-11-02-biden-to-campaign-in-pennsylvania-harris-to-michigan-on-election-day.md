@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 1255
+heat: 1295
 published: true
 
 provider:
@@ -576,6 +576,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden campaign says Democratic nominee will be nation's 'next president'"
+    excerpt: "Democratic presidential nominee Joe Biden's campaign said on Wednesday morning that the former vice president is “on track to win this election” over President Trump."
+    publishedDateTime: 2020-11-04T16:11:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b9yPrpPtO_4/biden-campaign-democratic-nominee-next-president"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-democratic-nominee-next-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-democratic-nominee-next-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden campaign says it can win White House without Florida or Pennsylvania"
     excerpt: "Joe Biden’s campaign says the Democratic presidential nominee can defeat President Trump and win the White House even without carrying two crucial battlegrounds – Florida and Pennsylvania."
     publishedDateTime: 2020-11-03T21:50:22Z
@@ -685,6 +701,22 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Pennsylvania AG: ‘Way too early’ to know whether Trump or Biden won"
+    excerpt: "Pennsylvania’s attorney general on Wednesday said it’s “way too early” to know whether President Trump or his Democratic challenger Joe Biden won the Keystone State as"
+    publishedDateTime: 2020-11-04T15:39:00Z
+    webUrl: "https://nypost.com/2020/11/04/pa-ag-way-too-early-to-know-whether-trump-or-biden-won-the-state/"
+    ampWebUrl: "https://nypost.com/2020/11/04/pa-ag-way-too-early-to-know-whether-trump-or-biden-won-the-state/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/pa-ag-way-too-early-to-know-whether-trump-or-biden-won-the-state/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/Josh-Shapiro-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Election 2020: Trump and Biden Make Final Push"
     excerpt: "In the final hours of the 2020 election, President Trump and former Vice President Joe Biden made their case to voters. Biden highlighted his roots in the swing state of Pennsylvania, while Trump stayed close to the White House."

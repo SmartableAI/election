@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-21-trump-targets-pennsylvania-women-but-will-do-so-without-wife-melania.md",
+      "title": "Trump targets Pennsylvania women, but will do so without wife Melania",
+      "excerpt": "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\"",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 485,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-20-rt-er-190618_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
+      "publishedDateTime": "2020-10-20T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-trump-abruptly-ends-60-minutes-interview-before-taping-joint-appearance-with-pence.md",
       "title": "Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence",
       "excerpt": "President Donald Trump abruptly ended a solo interview with CBS News' \"60 Minutes\" Tuesday and did not return for an appearance he was supposed to tape with Vice President Mike Pence, according to multiple sources familiar with what happened.\n    \n",
@@ -1262,63 +1314,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-harris-spotlights-trumps-weird-obsession-with-obamas-legacy.md",
-      "title": "Harris spotlights Trump’s ‘weird obsession’ with Obama's legacy",
-      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris – campaigning in Florida on the first day of in-person early voting in the largest of the traditional general election battleground states – is taking aim once again at President Trump over his repeated moves to repeal the national health care law",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 680,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293628165220.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
-      "publishedDateTime": "2020-10-19T12:21:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

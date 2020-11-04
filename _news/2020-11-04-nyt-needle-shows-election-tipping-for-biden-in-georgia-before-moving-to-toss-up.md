@@ -749,6 +749,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Too close to call: Here are the paths to victory for Biden, Trump"
+    excerpt: "Both President Trump and Vice President Joe Biden have separate p. The high-stake states which are too close to call include Georgia, Pennsylvania, Michigan, North Carolina, Nevada, and Arizona, according to the Associated Press."
+    publishedDateTime: 2020-11-04T16:32:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/Too-close-to-call-Here-are-the-paths-to-victory-15701137.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/Too-close-to-call-Here-are-the-paths-to-victory-15701137.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/Too-close-to-call-Here-are-the-paths-to-victory-15701137.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Arthur Blank donated thousands to Biden while his Home Depot cofounder was a major Trump donor, but Blank says it never came between them"
     excerpt: "Joe Biden supporter Arthur Blank says business isn't \"a red issue or a blue issue\" and politics never challenged his rapport with Home Depot partners."
     publishedDateTime: 2020-11-04T00:21:00Z
@@ -906,6 +922,6 @@ related:
         height: 630
         isCached: true
 
-secured: "y1Ab10yfmi2nkLPHqA0M2gomAw90pCXTKWMkEPOHK+Wm/jRl63dW9IKqnTicHV9q8i9C7DCbulmkqmF16vvmbK50ziCnYmHgwMf7gfPmyKN3xKl+jL5Ov68pkDDetXY7xbky3kCBoWYa25C75DYN3IYtmbu9JfUD6JvkOc6ft/I5EtQeb5Lork2ZZ7l3F2segPHYIN12JgzKJSR5dglCRTJK5YOnxZ0/4C2dtqI6/pGscJnXN8vnVncx8OtU+BqDmbWtym4n94N+daSFjsDa+lJHcPdDDjiqhfNz4ZagJf4vb6UoOQxE5SzHsfpVGXV04E33RSbS7c+nUWS1OvXtwWVwb8VQxCPcrSoMhXGQ9Mo=;/4x8PzFoBnAgoIQt2Yv35Q=="
+secured: "WZ0Skjq9e5VOpP8OfERmUSLSD/5iq2IDOfCiTjl/xUXaIBD3zE+euyDczLeqK+VprEmyqf+lHrlkOuQXOG0K1Ob2MurrzKItV3ilovE3rmej7qs1VKT36nV28DzNKYoPtaY+HryNDWb6r8ZGkLETzC3SaYpqNMeqDDqh948YETm3QfWgP50wjgSjO5xWCuPIipD/9F/6BNgCoDi+y7a9L5NmHfhbHbN+HirAAtZMZhUH8KozPeMN8nR2iuxeE7HYN3566FD+8pDa0SQ4P/cI1vf4Uk+fSJqrtOpZnyPtxUqKWrqGTMklN8OG3e2932Bjhy9nGyLweqwqhUZEdSxLdXLKF0z+H3kUGfJha4m6ScBQLpg10hovS2TH8kYnlyLhT+ToEukIBuoEkGbLwXeedfVelCbe0ZUg4B0o3ijRUl16QqFLQ3khv7BN0mH8+nEw2ZQeAJvsEihpztKWPleUq3kwKVKrUtYwun4W/xBH2ul3knh1vfVR1IyYbLFcGwYyhpvV1hzo2o1/dXoaXd0X8g==;gc9ftFvvvBNkIJVZagHHWA=="
 ---
 

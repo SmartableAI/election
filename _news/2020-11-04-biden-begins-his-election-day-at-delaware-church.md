@@ -125,6 +125,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Team Biden's move changes dramatically as vote counts shift"
+    excerpt: "Joe Biden's campaign breathed a sigh of relief Wednesday morning, as the Democratic nominee, in a dramatic turnabout, was able to overtake President Trump in key battleground states that will deliver him the White House."
+    publishedDateTime: 2020-11-04T16:15:00Z
+    webUrl: "https://thehill.com/homenews/campaign/524459-team-bidens-move-changes-dramatically-as-vote-counts-shift"
+    ampWebUrl: "https://thehill.com/homenews/campaign/524459-team-bidens-move-changes-dramatically-as-vote-counts-shift?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/524459-team-bidens-move-changes-dramatically-as-vote-counts-shift?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_11042020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
     excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
     publishedDateTime: 2020-11-04T02:05:00Z

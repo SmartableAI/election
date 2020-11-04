@@ -2066,6 +2066,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "‘We Believe We’re on Track to Win,’ Biden Says Amid Tight Election"
+    excerpt: "Biden, speaking on Tuesday to a crowd of his supporters in Wilmington, Delaware, said he felt confident about the election results and projections thus far and stressed the importance of counting every vote."
+    publishedDateTime: 2020-11-04T15:07:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007434742/biden-2020-election-presidential-race.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04paths-270-1/merlin_179554470_6c49631c-cd29-454a-ae7c-d39b0199ce2e-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "With no winner in the presidential race, Trump falsely asserts that he has prevailed."
     excerpt: "With no winner in the 2020 race and votes still being counted in several battleground states, President Trump entered the East Room of the White House at 2:21 a.m. on Wednesday and asserted without evidence that the election was being taken from him by “a very sad group of people."
     publishedDateTime: 2020-11-04T08:56:00Z
@@ -2174,6 +2188,20 @@ related:
         width: 600
         height: 325
         isCached: true
+  - title: "Donald Trump won in Missouri."
+    excerpt: "Missouri election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T10:08:00Z
+    webUrl: "https://www.politico.com/2020-election/results/missouri/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/29.jpg"
+        width: 600
+        height: 325
+        isCached: true
   - title: "Donald Trump won in South Dakota."
     excerpt: "South Dakota election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
     publishedDateTime: 2020-11-04T02:28:00Z
@@ -2252,6 +2280,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "6frx+ZZ7w213CGA11i2mSmuM+ep4Q4RHvnNPIdjiGsXownCwNmnh54ESlm0oRm19cu4m/wseuw2GLTQ1QHT8vmJjl7NWemrGNAl+w5RHQp0007G/gxDY4aegNYYj2yFe+PqNRpowmeepdznPv0yF4VNd4E3lCX4ioPU20iCiplsV99JDuYOTk8FimTLwbJddL13LVpUKLb3qZxKVxRWAMS6DOjurPOLgdjqZOouyButwXkNU4pQBwkY7fKvE7rGW9v0NcNAtSdeFv2RBrBJM4/fcoi5SkADa0SsJOJf9ngUO8ab9kmzYSCyZPy5228AmNMm02Fvm+Wmo/VD+d7oleCc3xjD0Zh8L+gKRTVMfk9s=;ZySq5qVQNLopLF7PQinyXA=="
+secured: "n0HyiTZyRU6yrfqX1RAVoS53X646ek55RMwyyJlIaHIup44gYlHKQFEIor/OhY+2gzc42looaKbvVLSBXSPOkXRMU1JLGR6ihA4RqWTqMeX6n6HNQXhQdqMRwr7wYuidcR/CwMdbOsWb0Kuo6bXxdEihAL2mXJlSHeUKXAnul/++1E4PhlISFVYaTnGQMmHQ/bD8IMT62CmZCmeKXmy1leR8qIPrhsoM4WG2TlWsW2/9wk4CUXsysYjWK+lo8Vm40CsWj4oL2LXacht8NXrscl23rkJLv2U/mBtIYcLx2yKAMCDepy9vyH1nbmfLslPIahdTCNm0ajMNS+ozSZYqFrw9PJXW83aaf0eaKcJH13YIBfNM1jlcBX1zgFQHlsqvm9Vcmy7Q5Kom5j+7QYKlXtHj+POyL5ar3TAkXGOvPRGTG7AxjYTxFcE4CXfod5AjP9EY16gTKxe8IDAh8AZTeRxjHI3AMuhVfvThLEDOZcVlNbC4oPkmvK/99xzeZbndxmOWsZfXIGGUfRbkXI46hg==;1XcXJZgmSt5wTsFYDyy7Zw=="
 ---
 

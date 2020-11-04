@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-flags-trump-tweet-warning-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading.amp"
 type: article
 quality: 180
-heat: 240
+heat: 260
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Twitter flags Trump tweets complaining of 'ballot dumps'"
+    excerpt: "President Trump on Wednesday hit out at what he described as “surprise ballot dumps” as ballot counts in the Rust Belt show his lead shrinking in those states -- a claim that was swiftly labeled as \"misleading\" by Twitter."
+    publishedDateTime: 2020-11-04T16:32:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eu2TClGBiEA/trump-misleading-ballot-dumps-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says 'weak leadership' in Dem cities could allow election unrest: 'The other side is radicalized'"
     excerpt: "President Trump lamented the fact that areas across the country are bracing themselves for possible riots and looting on Election Day, blaming Democratic leaders for not keeping extremists in line."
     publishedDateTime: 2020-11-03T14:50:24Z

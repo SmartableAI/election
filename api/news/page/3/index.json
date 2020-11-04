@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-02-bolton-trump-trying-to-set-up-con-on-his-own-supporters.md",
+      "title": "Bolton: Trump trying to set up con on his own supporters",
+      "excerpt": "CNN's Jake Tapper speaks with former national security adviser John Bolton about President Donald Trump's rhetoric around when mail-in ballots should be counted and Trump's threats of legal action after polls close on Election Day.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tHrXL4FJL0/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tHrXL4FJL0/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201102171610-bolton-tapper-split-for-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn",
+      "publishedDateTime": "2020-11-02T14:49:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.md",
       "title": "Biden to campaign in Pennsylvania, Harris to Michigan on Election Day",
       "excerpt": "Democratic presidential nominee Joe Biden will travel to Pennsylvania Tuesday while his running mate Sen. Kamala Harris will campaign in Michigan, in their final push to get out the vote on Election Day.",
@@ -14,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1255,
+      "heat": 1295,
       "tags": null,
       "images": [
         {
@@ -396,7 +452,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1293,
+      "heat": 1313,
       "tags": null,
       "images": [
         {
@@ -921,7 +977,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 3064,
+      "heat": 3104,
       "tags": null,
       "images": [
         {
@@ -1274,62 +1330,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp",
       "publishedDateTime": "2020-11-01T13:04:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-massive-lines-at-trump-rally-in-battleground-state-north-carolina.md",
-      "title": "Massive lines at Trump rally in battleground state North Carolina",
-      "excerpt": "Supporters reportedly lined up hours in advance for President Trump's rally in Hickory, North Carolina on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-NC-Lines-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp",
-      "publishedDateTime": "2020-11-01T12:56:15-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -759,6 +759,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Too close to call: Here are the paths to victory for Biden, Trump"
+    excerpt: "Both President Trump and Vice President Joe Biden have separate p. The high-stake states which are too close to call include Georgia, Pennsylvania, Michigan, North Carolina, Nevada, and Arizona, according to the Associated Press."
+    publishedDateTime: 2020-11-04T16:32:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/Too-close-to-call-Here-are-the-paths-to-victory-15701137.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/Too-close-to-call-Here-are-the-paths-to-victory-15701137.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/Too-close-to-call-Here-are-the-paths-to-victory-15701137.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Arthur Blank donated thousands to Biden while his Home Depot cofounder was a major Trump donor, but Blank says it never came between them"
     excerpt: "Joe Biden supporter Arthur Blank says business isn't \"a red issue or a blue issue\" and politics never challenged his rapport with Home Depot partners."
     publishedDateTime: 2020-11-04T00:21:00Z

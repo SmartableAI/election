@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-30-west-wing-star-martin-sheen-donald-trump-gets-away-with-more-than-any-tv-president-could.md",
+      "title": "'West Wing' star Martin Sheen: Donald Trump gets away with more than any TV president could",
+      "excerpt": "West Wing' is my escape from the Trump era. Its TV public servants know what the right thing is and they're on speaking terms with their better angels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/voices/2020/10/28/west-wing-escapism-martin-sheen-interview-donald-trump-column/3746508001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/voices/2020/10/28/west-wing-escapism-martin-sheen-interview-donald-trump-column/3746508001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/27/USAT/55afa79f-4713-404f-84ab-457a4f87edaf-AP_TV-West_Wing-Voting_Special.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3746508001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3746508001",
+      "publishedDateTime": "2020-10-29T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-trump-is-touting-the-record-shattering-gdp-report-as-evidence-of-a-full-economic-rebound-heres-why-the-recovery-actually-has-much-further-to.md",
       "title": "Trump is touting the record-shattering GDP report as evidence of a full economic rebound. Here's why the recovery actually has much further to go.",
       "excerpt": "The US economy grew 7.4% in Q3, or 33.1% at an annualized rate. Many economists say growth is slowing down without another stimulus package.",
@@ -474,7 +526,7 @@
       "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1319,7 +1371,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27A0BB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 9515,
+      "heat": 9535,
       "tags": null,
       "images": [
         {
@@ -1517,63 +1569,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-if-trump-loses-the-election-qanon-will-also-lose-support-and-eventually-disintegrate.md",
-      "title": "If Trump loses the election, QAnon will also lose support — and eventually disintegrate",
-      "excerpt": "When cult adherents get confused, then ashamed, then realize they’ve been scammed, they get angry and exit. People are not permanently programmed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/if-trump-loses-election-qanon-will-also-lose-support-eventually-ncna1244563",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/if-trump-loses-election-qanon-will-also-lose-support-eventually-ncna1244563",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3422199/201022-think-qanon-main-cover-cs_db7621aa3719c3f5f6543624f46421d8.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1244563",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244563",
-      "publishedDateTime": "2020-10-24T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

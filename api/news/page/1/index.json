@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-05-trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps.md",
+      "title": "Trump claims he lost lead in several states due to ‘ballot dumps’",
+      "excerpt": "President Trump on Wednesday claimed that “ballot dumps” were tallied in some Democrat-run states costing him his advantage over Joe Biden. “Last night I was leading, often",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/",
+      "originalUrl": "https://nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-ballot-dumps.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/amp/",
+      "publishedDateTime": "2020-11-04T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-media-and-polls-hyper-judgmental-of-trump-supporters-candace-owens.md",
       "title": "Media and polls 'hyper-judgmental' of Trump supporters: Candace Owens",
       "excerpt": "Conservative activist Candace Owens slammed the media and pollsters for once again failing to accurately predict the presidential election.",
@@ -118,7 +166,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-odds-biden/biden-back-as-favorite-to-win-u-s-election-smarkets-idUSKBN27K1DJ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 340,
       "tags": null,
       "images": [
         {
@@ -442,7 +490,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 240,
+      "heat": 260,
       "tags": null,
       "images": [
         {
@@ -1295,58 +1343,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-in-the-minneapolis-neighborhood-where-george-floyd-died-voters-disagree-with-biden-on-policing-but-theyre-voting-for-him-anyway.md",
-      "title": "In the Minneapolis neighborhood where George Floyd died, voters disagree with Biden on policing. But they're voting for him anyway.",
-      "excerpt": "Voters in Powderhorn Park told Insider they think President Donald Trump is even worse, so they voted for Joe Biden despite their reservations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11",
-      "originalUrl": "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa1b6d169331a0011bc712d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11?amp",
-      "publishedDateTime": "2020-11-03T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

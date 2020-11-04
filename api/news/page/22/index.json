@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-10-12-trump-claims-he-is-now-immune-to-the-coronavirus-and-has-a-protective-glow-but-the-science-is-not-that-simple.md",
+      "title": "Trump claims he is now immune to the coronavirus and has 'a protective glow' — but the science is not that simple",
+      "excerpt": "The president said on Sunday he now has \"a protective glow\" — a concept which does not appear in medical or scientific research about the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f83204cbab422001979aa7c?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp",
+      "publishedDateTime": "2020-10-11T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-democrat-jaime-harrison-shatters-senate-fundraising-record-in-bid-to-oust-south-carolina-sen-lindsey-graham.md",
       "title": "Democrat Jaime Harrison shatters Senate fundraising record in bid to oust South Carolina Sen. Lindsey Graham",
       "excerpt": "Democratic Senate candidate Jaime Harrison, running to unseat Sen. Lindsey Graham in South Carolina, raised $57 million during the final full quarter of the campaign, shattering Senate fundraising records as his party seeks to wrest control of the chamber from Republicans.\n    \n",
@@ -1260,63 +1312,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-state-dept-slams-china-for-censoring-pence-debate-answer-critical-of-chinese-communist-party.md",
-      "title": "State Dept. slams China for censoring Pence debate answer critical of Chinese Communist Party",
-      "excerpt": "China censors \"any sort of criticism\" of the Chinese Community Party fearing it is bad news if their citizens see \"what actually happens,\" State Department spokesperson Morgan Ortagus told \"Fox & Friends\" Saturday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g4EdopySh4k/china-censorship-debate-pence-communist-party-state-dept",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g4EdopySh4k/china-censorship-debate-pence-communist-party-state-dept",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77268e3d-4d5b-4ef5-b09f-a292d7986a5f/2e16936f-4f00-4966-b51e-78b1e333d164/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-10T11:50:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

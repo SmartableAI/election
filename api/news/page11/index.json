@@ -2,6 +2,63 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-24-gregg-jarrett-hunter-biden-laptop-scandal-even-if-joe-biden-wins-theres-no-way-out-now.md",
+      "title": "Gregg Jarrett: Hunter Biden laptop scandal — Even if Joe Biden wins, there's no way out now",
+      "excerpt": "In the Hunter Biden laptop scandal, the unresolved and trenchant questions are: how much did Joe Biden know and to what extent was he involved",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
+      "originalUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-joy-behar-says-trump-should-be-charged-with-crimes-against-humanity-over-immigration-policy.md",
       "title": "Joy Behar says Trump should be charged with ‘crimes against humanity’ over immigration policy",
       "excerpt": "The View” co-host Joy Behar said on Friday that President Trump and members of his administration should be charged with “crimes against humanity” because of its immigration policy and vowed to not “be a part of a country” that separates children from their parents.",
@@ -1293,62 +1350,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trumps-mission-burn-it-down.md",
-      "title": "Trump’s Mission: Burn it down",
-      "excerpt": "Trump can’t beat Biden as Biden is currently defined.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks2EwAeq9BE/trumps-mission-burn-it-down",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks2EwAeq9BE/trumps-mission-burn-it-down",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 535,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9375a979-3951-45a7-b621-8a930ac310b9/81b3d6f4-fac0-49c0-867d-5701e2cd8c63/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-mission-burn-it-down.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-mission-burn-it-down.amp",
-      "publishedDateTime": "2020-10-22T12:39:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

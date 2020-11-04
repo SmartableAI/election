@@ -2,6 +2,62 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-10-07-puerto-rico-gov-wanda-vazquez-garced-endorses-trump-re-election-bid.md",
+      "title": "Puerto Rico Gov. Wanda Vázquez Garced endorses Trump re-election bid",
+      "excerpt": "Last month, the Trump administration unveiled a $13 billion aid package to help Puerto Rico in its ongoing recovery from Hurricane Maria.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v6mGOvttnfc/puerto-rico-gov-wanda-vazquez-garced-endorses-trump-re-election-bid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v6mGOvttnfc/puerto-rico-gov-wanda-vazquez-garced-endorses-trump-re-election-bid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Wanda-Vazquez-REUTERS.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T17:26:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-biden-downplays-ties-to-bernie-sanders-policies-in-general-election-despite-unity-platform.md",
       "title": "Biden downplays ties to Bernie Sanders policies in general election despite unity platform",
       "excerpt": "With November's presidential election only weeks away, Democratic presidential nominee Joe Biden has begun to pivot toward the more moderate wing of his party while steadily downplaying his ties to Sen. Bernie Sanders and the Vermont independent's policies despite the “unity platform” the Democratic",
@@ -1310,58 +1366,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-pence-faces-tall-task-in-vp-debate.md",
-      "title": "Pence faces tall task in VP debate",
-      "excerpt": "Vice President Mike Pence faces a challenging environment in the first vice presidential debate on Wednesday, which will take place against an unprecedented backdrop of events.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate",
-      "originalUrl": "https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike_cipollonepat_meadowsmark_092920pool_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp",
-      "publishedDateTime": "2020-10-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

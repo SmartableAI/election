@@ -2082,6 +2082,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "‘We Believe We’re on Track to Win,’ Biden Says Amid Tight Election"
+    excerpt: "Biden, speaking on Tuesday to a crowd of his supporters in Wilmington, Delaware, said he felt confident about the election results and projections thus far and stressed the importance of counting every vote."
+    publishedDateTime: 2020-11-04T15:07:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007434742/biden-2020-election-presidential-race.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04paths-270-1/merlin_179554470_6c49631c-cd29-454a-ae7c-d39b0199ce2e-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump travel anticipates a race potentially decided by a single Electoral College vote"
     excerpt: "The president heads to Maine and Nebraska this week, with the Trump team citing several possible scenarios where the election could come down to one or two Electoral College votes."
     publishedDateTime: 2020-10-25T19:46:00Z
@@ -2171,6 +2185,20 @@ related:
     quality: 115
     images:
       - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/20.jpg"
+        width: 600
+        height: 325
+        isCached: true
+  - title: "Donald Trump won in Missouri."
+    excerpt: "Missouri election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T10:08:00Z
+    webUrl: "https://www.politico.com/2020-election/results/missouri/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/29.jpg"
         width: 600
         height: 325
         isCached: true

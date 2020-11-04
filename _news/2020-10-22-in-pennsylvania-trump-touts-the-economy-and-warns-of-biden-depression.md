@@ -1359,6 +1359,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden or Trump? Celebrities urge patience"
+    excerpt: "Politically active celebrities are urging patience as election results continue to come in, and the winner of the White House race remains up in the air on Wednesday."
+    publishedDateTime: 2020-11-04T16:27:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/524463-biden-or-trump-celebrities-urge-patience"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/524463-biden-or-trump-celebrities-urge-patience?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/524463-biden-or-trump-celebrities-urge-patience?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_bidenjoe_083120getty_wisconsin.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z

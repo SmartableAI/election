@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 type: article
 quality: 140
-heat: 320
+heat: 340
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/05/14/20206393/9/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Team Biden's move changes dramatically as vote counts shift"
+    excerpt: "Joe Biden's campaign breathed a sigh of relief Wednesday morning, as the Democratic nominee, in a dramatic turnabout, was able to overtake President Trump in key battleground states that will deliver him the White House."
+    publishedDateTime: 2020-11-04T16:15:00Z
+    webUrl: "https://thehill.com/homenews/campaign/524459-team-bidens-move-changes-dramatically-as-vote-counts-shift"
+    ampWebUrl: "https://thehill.com/homenews/campaign/524459-team-bidens-move-changes-dramatically-as-vote-counts-shift?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/524459-team-bidens-move-changes-dramatically-as-vote-counts-shift?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_11042020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden begins his Election Day at Delaware church"
     excerpt: "Joe Biden is starting Election Day with a visit to church - and his son, Beau. (Nov. 3) AP Domestic. More Videos"
