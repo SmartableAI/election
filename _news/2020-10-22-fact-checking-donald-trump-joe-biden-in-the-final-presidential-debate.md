@@ -282,6 +282,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "US election 2020: Joe Biden holds lead over Donald Trump in tense wait for results – live"
+    excerpt: "Battle for White House now down to handful of states including Nevada, Georgia and Pennsylvania"
+    publishedDateTime: 2020-11-05T20:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa429b08f08f536f6a5fbc4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 146
+    images:
+      - url: "https://i.guim.co.uk/img/media/e63d1a1ee2ff944de7b2aaddd05f2c2c55377490/0_0_3360_2240/master/3360.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=62bcdc96929fb317a567c123377b82de"
+        width: 600
+        height: 400
+        isCached: true
   - title: "4-year-old twin girls dress as presidential candidates Donald Trump and Joe Biden"
     excerpt: "Footage showing Koti and Haven dressed as President Donald Trump and former Vice President Joe Biden has garnered millions of view on TikTok."
     publishedDateTime: 2020-10-29T19:42:00Z
@@ -2471,17 +2487,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "US election 2020: Joe Biden holds lead over Donald Trump in tense wait for results – live"
-    excerpt: "Battle for White House now down to handful of states including Nevada, Georgia and Pennsylvania"
-    publishedDateTime: 2020-11-05T18:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa441dd8f08578732a63ccc"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 126
   - title: "Every Celebrity to Speak Out in Support of Donald Trump"
     excerpt: "This week actress Kirstie Alley faced intense backlash when she voiced her support for Trump and tweeted about her intentions to vote for the Republican on November 3. Here are the president's other famous supporters."
     publishedDateTime: 2020-10-19T16:29:00Z

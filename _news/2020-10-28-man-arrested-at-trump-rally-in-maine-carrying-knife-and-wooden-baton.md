@@ -328,6 +328,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 115
+  - title: "Michigan Judge Denies Trump Campaign's Bid to Halt Absentee-Vote Count"
+    excerpt: "A Michigan judge on Thursday denied a legal effort by the Trump campaign to halt the counting of absentee ballots in the state, in part on the grounds that the lawsuit was brought against the wrong defendant and was filed too late since all the state’s votes have been counted."
+    publishedDateTime: 2020-11-05T20:04:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/b2IFHDnEov6wNmo1WK2W"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-255660?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "3Dw/DvwGqYvfpcee25T0YJKa7U7TZ+qXE770G2nZPrxHYZCOZ4pYz1sj8LDUwjeBXYq+9bhTjlJ5h/kdEPuKPj5vRZ3awVUNME4pVnqL4Tq+FU9Yrv8+b+zjjddHBy6dLHn5ss245AIO6ejPRmDTovgqCcRkTOJ9m/BM0tN6uWSDKwTcDrqmNdiV0leH7xIQA3rODJwWWbTGAxz6cOZlm6gsTuk70WBZE9zD3gMuYvoO926Ey4pMvLKTt+XDXSnDmYMFVKmBCTSbXwbUdjNq53OpF1vjPdxgd3vs0ocboguHPf3gUGi0y9Mlj4Hb7XXbCkSEcSh3+KascT24VV5k2FanM7ED+GVruWUclSZz2Rw=;tJJWjs5yBbbRkbac/FzOsg=="
 ---

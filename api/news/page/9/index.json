@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-27-trump-and-pence-defy-pandemic-for-political-gain.md",
+      "title": "Trump and Pence defy pandemic for political gain",
+      "excerpt": "President Trump and Vice President Pence are holding events in battleground states, defiant about the pandemic, a White House outbreak and a climbing national case count.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2630,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-lititz-rally-04-gty-jef-201026_1603739248715_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-pence-defy-pandemic-political-gain/story?id=73833932",
+      "publishedDateTime": "2020-10-26T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-pence-skips-public-health-recommended-self-quarantine-but-does-change-plans-after-staff-outbreak.md",
       "title": "Pence skips public health recommended self-quarantine but does change plans after staff outbreak",
       "excerpt": "Vice President Mike Pence, despite flouting public health guidelines by still campaigning after being exposed to people testing positive with coronavirus, is taking some precautions on the road.\n    \n",
@@ -1313,62 +1366,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.md",
-      "title": "Rep. Jim Jordan on reviewing and authenticating purported Hunter Biden emails",
-      "excerpt": "Rep. Jim Jordan, R-Ohio, who said his staff reviewed and independently authenticated the purported emails from Hunter Biden’s laptop, told “Sunday Morning Futures” that “they’re as real as real can be.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 252,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp",
-      "publishedDateTime": "2020-10-25T12:58:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

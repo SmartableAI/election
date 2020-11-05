@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Viral video does not show Trump ballots being burned"
+    excerpt: "A video that purports to show a bag of ballots for U.S. President Donald Trump being burned is fake, officials have confirmed."
+    publishedDateTime: 2020-11-05T20:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-ballots-video-idUSKBN27L241"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L241"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L241"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540132140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA418P"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Fact check: Satirical post falsely claims Trump would be fine if he hadn't gotten tested"
     excerpt: "A liberal commentator's Facebook post claims Trump would be fine if he didn't get tested, satirically referencing debunked claim about coronavirus."
     publishedDateTime: 2020-10-06T22:53:00Z

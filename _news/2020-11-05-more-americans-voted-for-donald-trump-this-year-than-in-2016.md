@@ -80,6 +80,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump 'turning up the heat' with rhetoric does not help his legal case over ballots, says Andrew McCarthy"
+    excerpt: "President Trump’s ‘provocative’ comments could dissuade the Supreme Court from taking on his case, former federal prosecutor Andrew McCarthy told “America’s Newsroom” on Thursday as the Trump campaign has been filing lawsuits over election results in battleground states."
+    publishedDateTime: 2020-11-05T19:36:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LDnrwIESFDE/trumps-claiming-victory-rhetoric-legal-blunder-andy-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-claiming-victory-rhetoric-legal-blunder-andy-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-claiming-victory-rhetoric-legal-blunder-andy-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "yLUNI1lJ+brRUGx13PD4X6MQeGSCKemGSAS1T7IYbhMfqww5/ZLXCEVvFW1T7MI0g6aWWL00ehQej7KSjOaXDkTWTvPE7UxHPWK6Lukvk/8COxRSxTI8qvgklUitFiwCzKlYGc43o3/05yhkoq9WuWzlVo1tj8Pj/YLatzE4vAq6TYgeE+DdC6l37OajxLpGtUwJ1YNaucR/+GLLflrnXLrHTKB+8b0SFSgJ2VynATb6ping8AQuTRFdwZQWLNIpVpAPoPsLprM4Wikq/vnJHzOaw16A6tnkXh620jq7zPCnqMZmxUHjIU3t5ZFLvKUhHHtSm1ZkXAYne6oSqOKJ9A2HGfIpwNKDAI5j0B6vadw=;ramX2qgfGJKLmgX3WO57Yw=="
 ---

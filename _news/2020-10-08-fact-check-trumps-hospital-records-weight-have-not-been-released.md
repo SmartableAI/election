@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5913031002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913031002"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/7978c3d8-a7cc-4264-8321-eeb1886ea47c-AFP_AFP_8QT6KT.jpg?auto=webp&crop=4479,2519,x1,y24&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Fact check: Viral video does not show Trump ballots being burned"
+    excerpt: "A video that purports to show a bag of ballots for U.S. President Donald Trump being burned is fake, officials have confirmed."
+    publishedDateTime: 2020-11-05T20:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-ballots-video-idUSKBN27L241"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L241"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L241"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540132140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA418P"
+        width: 818
+        height: 545
         isCached: true
   - title: "Fact-check: Did Trump's 'Liberate Michigan' Tweet Inspire Plot to Kidnap Gov. Whitmer?"
     excerpt: "The governor of Michigan has linked the plot to kidnap her to President Donald Trump's rhetoric during the pandemic."

@@ -2,13 +2,13 @@
 category: news
 title: "US election 2020: Joe Biden holds lead over Donald Trump in tense wait for results – live"
 excerpt: "Battle for White House now down to handful of states including Nevada, Georgia and Pennsylvania"
-publishedDateTime: 2020-11-05T18:48:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa441dd8f08578732a63ccc"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa441dd8f08578732a63ccc"
+publishedDateTime: 2020-11-05T20:08:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa429b08f08f536f6a5fbc4"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa429b08f08f536f6a5fbc4"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
 type: article
-quality: 126
+quality: 146
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://i.guim.co.uk/img/media/e63d1a1ee2ff944de7b2aaddd05f2c2c55377490/0_0_3360_2240/master/3360.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=62bcdc96929fb317a567c123377b82de"
+    width: 600
+    height: 400
+    isCached: true
 
 related:
   - title: "Four in ten supporters of Biden, Trump would not accept election defeat"
@@ -7174,6 +7180,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "eB3Ah+p47BjaHb/qHlYM/pioYtSSFyFruh3AYNyZ3dA3cg0jWyJmEyyXqjhAcmANDQ4tYIAPxiqM8C+5mUMtb5pQty008v7ty+1ydWmY2zcAgRDQttivG9/6sZGI2OTi1AHYSdaJ8H1KRBKqQRyaoZLrdqiqSiYTB78/q4VExLwNM3OhdVhJc4dFUMky9CdtQ+EnAtXZQLWpfOpkBt1HVn+qh+/xzI5QTqvOj5r+mznoPou7MD6eALwZ1pag1yvARL8FR6XzxiaWnxKimlD5e52IvEFMtZXAV581ojzIoND1iMf85weS4vS6B4jvdEi0TtQT3kPWZW4/AhiHucBDeIW4Mjra4/90Z4x/yGx6l3E2+zONWk8zPBAd4UEyiGUWFjUKj+VHg5iPKxoZvib0EBa7fn02Q+GP5N7SmG6h5kdM5Uk8FqWxMCsjjjlKsyStm9SsPsmhOr4+eP6ARH3G28nhwKP5K5bifI77lhw6DmC0iGuCY/H+iu1p5+zvjwyd6/n53qPctgSEDh+EXu5IAg==;vOQRKdBqDmaOx83YFwAoLQ=="
+secured: "vvyTlbo+YkaVZ7aMB78wqTGXueYYpdv9Y7CJmaaQWhwG9qOwADYTUzmOwtRW4Vz/29Jbe20NRLBpWlKAWZR7ylZBHjvRpGkkVwgkJe01EWPSakj/u5rmuTBs6uD0PeDMr61F5BOC8LUS5v/zBAB9JqybFlQm3RAX8ozVpo0wyUxOSeDp8/zz3GPxhU99F+vPv0dlgCb1YyvUuvix+nIx93zgzow5AMpsHwx/qric8/eLZOHp/M2dHVKuFU/WzH6EVvnW8bfvnuBOUVbNrkrtqPUfdNOSMliZFdl0N7J8UaoIRiCCocX3pGT/80z/iKvochQH9jGVl7kcei1x4ClnQIs6E1HCdnfIPqAQQgp2Q7A=;A5CB0XIdfAaVINDKa/tNAg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 570
+heat: 590
 published: true
 
 provider:
@@ -328,6 +328,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 115
+  - title: "Michigan Judge Denies Trump Campaign's Bid to Halt Absentee-Vote Count"
+    excerpt: "A Michigan judge on Thursday denied a legal effort by the Trump campaign to halt the counting of absentee ballots in the state, in part on the grounds that the lawsuit was brought against the wrong defendant and was filed too late since all the state’s votes have been counted."
+    publishedDateTime: 2020-11-05T20:04:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/b2IFHDnEov6wNmo1WK2W"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-255660?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "0aNhHvk+5KoBdDw0ICNT02a3Zhr+wKeV+m4362moNBC/F0IX4tUFbviq7pUcNnS6h8FAYPkLtW8MWZbzI+yZqaH/SnJokK4ZbynF3Wil+ToZp8OiRc1i0EfnEnDs7m7KGKFkzEWx87fHY5cbWeGJe2N6UJH7hGZ1zykO/Y4/HdpT5bGcLXaMqhnq1k4mfzhQnziWW4lQGSQmdQBzOB26d4XtfyLrvC7NQR4Ib+TdTr79B4+2I0ZoDVa1VWQWoH35IWYpeQo9PgV788rwWDRo5/OpksVsO8agBUBk0S8A+wFN/bIFK76DkicdWRlqUesLgmanJ0jMekN3mmYNiNma57vltWN2ccdo2V74Mvf9vyM=;DY8G8DWjijZUywwBP+bDXQ=="
 ---

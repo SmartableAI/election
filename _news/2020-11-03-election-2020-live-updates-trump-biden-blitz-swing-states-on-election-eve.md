@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671"
 type: article
 quality: 153
-heat: 1813
+heat: 1833
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/17/PTAL/f50a7dba-7c64-43c2-8c75-44d3fc817764-Jo_Jorgenson101.JPG?auto=webp&crop=4466,2513,x0,y306&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump campaign attacks Fox News polling expert who called Arizona for Biden"
+    excerpt: "U.S. President Donald Trump’s campaign on Thursday attacked the person at Fox News responsible for the network's projection calling Arizona for Democratic presidential candidate Joe Biden as a \"Clinton-voting,"
+    publishedDateTime: 2020-11-05T20:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-fox-news-idUSKBN27L2RK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L2RK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L2RK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540168467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41PX"
+        width: 740
+        height: 545
         isCached: true
   - title: "Biden Trounces Trump In Final Tally Of Major Newspaper Endorsements: 47 To 7"
     excerpt: "The former vice president even won the backing of several major publications that have never made a presidential endorsement."
