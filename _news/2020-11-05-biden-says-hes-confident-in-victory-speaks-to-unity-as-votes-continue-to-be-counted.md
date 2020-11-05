@@ -45,6 +45,17 @@ related:
         width: 745
         height: 545
         isCached: true
+  - title: "Biden rebuilding 'blue wall' in race for the White House"
+    excerpt: "Democrat Joe Biden was pushing closer to the 270 Electoral College votes needed to carry the White House, securing victories in the “blue wall” battlegrounds of Wisconsin and Michigan, and narrowing President Donald Trump's path."
+    publishedDateTime: 2020-11-05T07:46:00Z
+    webUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Verbum Ultimum: Joe Biden for President"
     excerpt: "Joe Biden is the only acceptable option on Nov. 3. by The Dartmouth Editorial Board \\| 28 minutes ago. With Election Day a mere four days"
     publishedDateTime: 2020-10-30T06:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-biden-underdog-without-pennsylv
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 149
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0593634-1bea-4ded-a92c-f3546eca0606/67309192-93de-4dbb-93c4-3310dba3a2b3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden announces 'fight fund' for vote count battle"
+    excerpt: "Democratic presidential nominee Joe Biden on Wednesday announced the formation of what he's calling the “Biden Fight Fund,” touting it as the “largest election protection effort ever assembled” as he and President Trump compete for key battleground states in the 2020 presidential race."
+    publishedDateTime: 2020-11-04T19:47:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/824d9870-396a-400f-9f76-99cebd547a7d/08b76cfc-6765-4dae-bfb2-c32b6002e47c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

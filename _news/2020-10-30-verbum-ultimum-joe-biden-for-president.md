@@ -41,6 +41,17 @@ related:
         width: 745
         height: 545
         isCached: true
+  - title: "Biden rebuilding 'blue wall' in race for the White House"
+    excerpt: "Democrat Joe Biden was pushing closer to the 270 Electoral College votes needed to carry the White House, securing victories in the “blue wall” battlegrounds of Wisconsin and Michigan, and narrowing President Donald Trump's path."
+    publishedDateTime: 2020-11-05T07:46:00Z
+    webUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
     excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
     publishedDateTime: 2020-11-04T22:17:00Z

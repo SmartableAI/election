@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden announces 'fight fund' for vote count battle"
+    excerpt: "Democratic presidential nominee Joe Biden on Wednesday announced the formation of what he's calling the “Biden Fight Fund,” touting it as the “largest election protection effort ever assembled” as he and President Trump compete for key battleground states in the 2020 presidential race."
+    publishedDateTime: 2020-11-04T19:47:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/824d9870-396a-400f-9f76-99cebd547a7d/08b76cfc-6765-4dae-bfb2-c32b6002e47c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "/zElzNYXiUyzhl8KrXjFD9GmrSjWegFvMwR7cb2FUeCc+lDeFykpJ0l12OSdFFRRrwEms95VTQM9OcxRmCdr4KmiLzDcugeLa1gPjoZEQlkDKk7SkSiJlkJVUMNh+m1HkTPR2v9sT/zgYJZvDlUcJC5uZoXZyS2fcAXPL0kdQr+/2gr1y1of+5hOV5v3NFW/3dnVAnbwt1gp8znftVW7At+wqh38R6UPl6WHxY/UJ3x2jSzzOCwpZXnnJJdmZKbEG+R0r6olMEYIhfIINyJ9mirRU++LWUQIcglv20zfX7aAF8MorhTwhG7EcnN4bWFZtcYxMcmUYrT0bjuVie3OTHdmy+5IfXq+AgxTvrq/Y0k=;0uyXYRTviIMRF+A/HJYU4Q=="
 ---

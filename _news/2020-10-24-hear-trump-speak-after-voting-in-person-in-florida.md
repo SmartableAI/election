@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-fl
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -151,6 +151,15 @@ related:
         width: 3000
         height: 1999
         isCached: true
+  - title: "Jim Crow Wins Florida for Donald Trump"
+    excerpt: "More than anything else, it was the Florida legislature’s naked voter suppression that tilted the state for the Republicans."
+    publishedDateTime: 2020-11-04T09:37:00Z
+    webUrl: "https://www.thedailybeast.com/jim-crow-wins-florida-for-donald-trump"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "bZljEecdWsKT2R+kvHShoVtvKqFnBd8kRe1zYFdUKch4FVrSH8rTo6ro5KGCd6erB0VBCkMDSZo/uAWpQQTMKnf4vYWoOfQ9AoP45SBZa4hZ6lSABprXA5s5SEFnEm633pwh8/VzjfTiMTLcmi4RCVnSV3KW6B12f6pAOWK1qKvloHeAvpTjKvfrYsRluC1WnGz+l1q+DIVAU2zSbwpn9TR8gK/lTStnmptHKvt7m1ZlLfa3SVEVtXmG8mHMyRYu/H7hkNWLFSAyTW0GHQMnCeDJuOCrarl0vL5SsYBIerqud2fSsFa5jN1F861SBt0EvwDnJNeBNYXWfGCZWI9sWKfMqGTKBJens9ng0fY6y/o=;ytrFaor+NQPDql8U8miPug=="
 ---

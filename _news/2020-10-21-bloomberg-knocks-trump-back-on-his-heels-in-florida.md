@@ -152,6 +152,15 @@ related:
         width: 3000
         height: 1999
         isCached: true
+  - title: "Jim Crow Wins Florida for Donald Trump"
+    excerpt: "More than anything else, it was the Florida legislature’s naked voter suppression that tilted the state for the Republicans."
+    publishedDateTime: 2020-11-04T09:37:00Z
+    webUrl: "https://www.thedailybeast.com/jim-crow-wins-florida-for-donald-trump"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "4ccdq9w8HLtXS5CZNb5xUzoWUGXPLgven8KbbO68H36syAmAthkpiZ8DBOv5YF08rGt5OsAQb2lTOi7SxLWUozmtutxC6rFj53AXNDba6Nmri+UJD1gLB2tFD5lx26CEr8VuakHi0uaY7MqjscZuchATwgCbBDUvFHHKFWyuyr08845V3h+BJG6zvV0iH2FaNMtpLXLsDCVzO3Rx/8O6tUsoJyXXQAhIv4Qu0lERmwtoAhgd/e7rcY6/I0oLux8jRjvFZ2qOd5MYGbYewNZFUgqHDTwzvna1NKVQP3qUaXm4a9rfksphPD9mkd/h3Jcsv7fvxPs1+O8pGwajrg3MdkMkPDlMHyP762kXYqScXyI=;GNUqh5SmrN8nORRoAqArYQ=="
 ---

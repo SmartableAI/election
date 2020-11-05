@@ -1560,6 +1560,22 @@ related:
         width: 958
         height: 502
         isCached: true
+  - title: "Fox’s Arizona Call for Biden Flipped the Mood at Trump Headquarters"
+    excerpt: "The Fox News decision left the president fuming, and his team complaining. Then he began casting aspersions on other states’ vote counts."
+    publishedDateTime: 2020-11-05T08:08:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-fox-news-arizona.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-fox-news-arizona.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-fox-news-arizona.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04TRUMP-ELECTION-1/merlin_179558625_6097a3f4-c4fd-475d-9ac2-e19c7e1323a9-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "With His Path to Re-election Narrowing, Trump Turns to the Courts"
     excerpt: "The president pursued lawsuits in Pennsylvania and Michigan, and his campaign said it would demand a recount in Wisconsin."
     publishedDateTime: 2020-11-05T00:29:00Z

@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The US is out of the Paris climate change agreement; if Biden wins, that could change"
+    excerpt: "The U.S. formally dropped out of the Paris climate accord, fulfilling a vow President Trump made years ago. A Joe Biden win could change that."
+    publishedDateTime: 2020-11-04T23:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/04/paris-agreement-trump-us-officially-leaves-climate-change-accord/6158177002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6158177002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158177002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/78dbb2b2-1498-479d-b608-382e2b11e905-AFP_AFP_8QQ2XP.jpg?auto=webp&crop=3972,2235,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Iran is Hoping for Biden Return to Nuclear Deal—But Trust Will Be Hard to Rebuild | Analysis"
     excerpt: "While the Trump administration has repeatedly said its door was open for talks, Iranian President Hassan Rouhani has insisted that the U.S. must first return to the nuclear deal and lift its unilateral sanctions."
     publishedDateTime: 2020-11-03T19:29:00Z

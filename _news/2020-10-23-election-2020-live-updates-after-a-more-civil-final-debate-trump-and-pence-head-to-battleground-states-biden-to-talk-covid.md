@@ -1360,6 +1360,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden predicts a win, promises to unite as Trump goes to court"
+    excerpt: "Democrat Joe Biden on Wednesday predicted victory over President Donald Trump after winning two critical U.S. states, while the Republican incumbent alleged fraud, filed lawsuits and demanded recounts in a race yet to be decided a day after polls closed."
+    publishedDateTime: 2020-11-05T08:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27J0GK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J0GK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0GK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1540033854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA31R5"
+        width: 848
+        height: 545
+        isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
     publishedDateTime: 2020-10-22T06:50:00Z
@@ -5594,6 +5610,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact-checking Donald Trump, Joe Biden in the final presidential debate"
+    excerpt: "The final presidential debate between former Vice President Joe Biden and President Donald Trump may have had fewer interruptions, but it wasn’t any more truthful. It was similar to the first ..."
+    publishedDateTime: 2020-10-22T00:00:00Z
+    webUrl: "https://www.politifact.com/article/2020/oct/23/fact-checking-donald-trump-joe-biden-final-preside/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 80
+    images:
+      - url: "https://static.politifact.com/img/meter-true.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "Russia's Putin Defends Hunter Biden Against Trump's Claims: 'I Don’t See Anything Criminal'"
     excerpt: "Russian President Vladimir Putin defended Hunter Biden against President Trump's accusations, claiming he sees nothing wrong with the son's business dealings with Ukrainian firms."
     publishedDateTime: 2020-10-26T02:04:00Z
@@ -6162,20 +6192,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "Fact-checking Donald Trump, Joe Biden in the final presidential debate"
-    excerpt: "The final presidential debate between former Vice President Joe Biden and President Donald Trump may have had fewer interruptions, but it wasn’t any more truthful. It was similar to the first ..."
-    publishedDateTime: 2020-10-22T00:00:00Z
-    webUrl: "https://www.politifact.com/article/2020/oct/23/fact-checking-donald-trump-joe-biden-final-preside/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 70
-    images:
-      - url: "https://static.politifact.com/img/meter-true.jpg"
-        width: 438
-        height: 392
-        isCached: true
   - title: "In Rebuke of Trump, Obama Urges Voters to Show up for Biden"
     excerpt: "Former President Barack Obama is blasting President Donald Trump’s handling of the coronavirus pandemic, his response to racial unrest and his fundamental unfitness for the job in his first in-person campaign pitch for Joe Biden."
     publishedDateTime: 2020-10-22T01:07:00Z

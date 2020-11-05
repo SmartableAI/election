@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/346b070f-76c9-4569-b40a-f597dfbb7b78-XXX_USATODAY_437189_jmg_17861.JPG?auto=webp&crop=4875,2743,x0,y265&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The US is out of the Paris climate change agreement; if Biden wins, that could change"
+    excerpt: "The U.S. formally dropped out of the Paris climate accord, fulfilling a vow President Trump made years ago. A Joe Biden win could change that."
+    publishedDateTime: 2020-11-04T23:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/04/paris-agreement-trump-us-officially-leaves-climate-change-accord/6158177002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6158177002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158177002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/78dbb2b2-1498-479d-b608-382e2b11e905-AFP_AFP_8QQ2XP.jpg?auto=webp&crop=3972,2235,x0,y200&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

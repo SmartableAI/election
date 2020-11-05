@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L037"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L037"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Biden rebuilding 'blue wall' in race for the White House"
+    excerpt: "Democrat Joe Biden was pushing closer to the 270 Electoral College votes needed to carry the White House, securing victories in the “blue wall” battlegrounds of Wisconsin and Michigan, and narrowing President Donald Trump's path."
+    publishedDateTime: 2020-11-05T07:46:00Z
+    webUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
     excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
     publishedDateTime: 2020-11-04T22:17:00Z
@@ -60,6 +71,6 @@ related:
         height: 534
         isCached: true
 
-secured: "3n9ziff6XiILvC0fOocNwPlKRVtzThVM0ealcWZaekf1/eUcUU2sHf9HW/hcC35UR6L9A5B9+j+2YqjUeDT/xLq5ozs3Xh6F1U4qqrfGvE9P3qxq8NJOzQYsh7RvGtT8FUvrlEobl2PPKTd6E63gF3FktTaJTwcgCVcGGA8hwC4fhT6++ruiFuIr/oj+VzOLbm6P5u5U+HkqHCLo+OvmmAvQLW5rm9MC1c726XqtUHAWLt8ds2z8KNCvvW0hoOVBjxjuMEkTHXRqxH9yDaT/Zh5ReW6bbpkyV5f68W6bZFIjVS71ii9umaI3US8Dcmmiv7ihEZhTe8BTq7568z3Y77Os8Vemh6Ni2BIa/iMrpRg=;7vw6mzc/gJ1M+ptM5OisrQ=="
+secured: "y8VBO4Zb23QEPvAMikswZ0UcoLQsTMhOcua8U8myiTfMpDdugL1vunIlm4c6QfLRu5BNMd5lHMtkZA4f9u4cFV2GxtFhaojT35tuvIwW3qhajNPOMK0rbVvejYaWyWwO87Zy/5skl55RadGfQwHxQ7uUPvonuvQpF69Oa1HK6GvhktSFfku1fr0Q4JN93NoCvYywsVIzX3OTsN6hnF2186wFNHJuF8zL3/Do+KfsUIvOaaeWWqqTjbvRzdCt8qGbAP9DuYQNgqtIQzPf7dxOnNZFHzrd4xneVfk4NEIzi9Q0QXqtHWnVyyBGV/nRrjN9EanxVcP1G3ZaP0CBQiYCPYkhCn4SGM4CZcdzF3Mktu4=;5V/v+NH9n3fUOQjDPAphDg=="
 ---
 

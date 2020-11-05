@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-22T00:00:00Z
 originalUrl: "https://www.politifact.com/article/2020/oct/23/fact-checking-donald-trump-joe-biden-final-preside/"
 webUrl: "https://www.politifact.com/article/2020/oct/23/fact-checking-donald-trump-joe-biden-final-preside/"
 type: article
-quality: 70
+quality: 80
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://static.politifact.com/img/meter-true.jpg"
@@ -1368,6 +1369,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_bidenjoe_083120getty_wisconsin.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden predicts a win, promises to unite as Trump goes to court"
+    excerpt: "Democrat Joe Biden on Wednesday predicted victory over President Donald Trump after winning two critical U.S. states, while the Republican incumbent alleged fraud, filed lawsuits and demanded recounts in a race yet to be decided a day after polls closed."
+    publishedDateTime: 2020-11-05T08:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27J0GK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J0GK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0GK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1540033854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA31R5"
+        width: 848
+        height: 545
         isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."

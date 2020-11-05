@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden edges closer to White House win as Trump mounts legal challenge"
+    excerpt: "Democrat Joe Biden moved closer to victory in the U.S. presidential race on Thursday as election officials tallied votes in the handful of states that will determine the outcome and protesters took to the streets."
+    publishedDateTime: 2020-11-05T08:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27L0W2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27L0W2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27L0W2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540084345&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA40IX"
+        width: 833
+        height: 545
+        isCached: true
   - title: "Biden winning pivotal Wisconsin; Trump sues to halt Michigan count"
     excerpt: "Democrat Joe Biden held a narrow lead over President Donald Trump in Wisconsin after officials completed their vote count and pulled further ahead in Michigan, even as the Republican incumbent's campaign vowed to pursue a recount and a lawsuit to challenge the results"
     publishedDateTime: 2020-11-04T22:33:00Z
