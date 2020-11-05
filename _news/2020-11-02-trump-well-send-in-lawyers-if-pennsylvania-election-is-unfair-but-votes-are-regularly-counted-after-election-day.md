@@ -47,6 +47,36 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "The Trump campaign is trying to stop ballot counting in Pennsylvania, Michigan, and Georgia"
+    excerpt: "The effort is part of a mounting strategy from the Trump campaign to secure an Electoral College victory through the courts."
+    publishedDateTime: 2020-11-05T00:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5fa307d869331a0011bc752d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "PA Governor calls Trump move 'simply disgraceful'"
+    excerpt: "Pennsylvania Gov. Tom Wolf says a lawsuit filed by the President Trump's campaign to stop the counting of ballots in the state is \"simply wrong.\" (Nov. 4)"
+    publishedDateTime: 2020-11-05T00:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/05/pa-governor-calls-trump-move-simply-disgraceful/6168743002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/84fa3d77-74ca-42d2-94e5-34c372963c12_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "kE+hMtOC/wmkHJGYA13A1BwZbnMvBiY0bGuMhde18dz6lGoRmp2nT4c4CmtvB/oPFIVNtKwraiEV7hp4gUUje/AAgCvQf9FvkTa6R0p4pi5uhlHMQmO4xUHR+2o3UKqCBqZR3rLE2AtCCBIn9PlaDh4e+dQKru9yVWDEftu3D591Orwq4N75+IxcK2XS3BchMLsIe8WASVhlE3vPZWnhNXCj4IhBNcnLGtcSx4H9zmc7aSg5lmVh93U6w+VnGSpGxMcil/e0o/pzlJwTcFlNGmyTDks4t5C2DgkTpc/XHVDMAdgy59jNLLQMRoPicb9gxGyAdT4zyKZ7xwsy9Ies+HY5TXhjxSZU3OHBdE3rv8rbhvwgdrwxWI8YRjnK/wvvSfzs4hIVFuO5Co0MvOaMPzsSw9b2zIVny7dDMVCn7/tjLI8V+JJ3WtyqZoddWywl7rfrjq3H8rUr1BDDSrMJeSOB+7qx8aOzrC87zPm7LJWg3xMbT6miJmtbxbCkGG98SvIKtVkKwziXvsxh2j2QCg==;XzUvZp2w71amLjsHGwb68w=="
 ---

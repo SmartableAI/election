@@ -2,6 +2,105 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-22-mike-pence-campaigns-in-oakland-county-today.md",
+      "title": "Mike Pence campaigns in Oakland County today",
+      "excerpt": "Vice President Mike Pence will host a campaign rally in Waterford Township this afternoon with a focus on fracking, trade, the economy, and contrasting Joe Biden's record on China vs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.html",
+      "originalUrl": "https://www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/a/aa/aaa9c977-c5bd-5d7c-af59-639076a70f9c/5b56809739ced.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.amp.html",
+      "cdnAmpWebUrl": "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-campaigns-in-oakland-county-today/article_7750f1c0-1402-11eb-bdf9-0bcd6cdfb93e.amp.html",
+      "publishedDateTime": "2020-10-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Oakland Press",
+        "domain": "theoaklandpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.md",
+      "title": "Biden faces backlash for saying 'America was an idea' that 'we've never lived up to'",
+      "excerpt": "Joe Biden was facing intense backlash Wednesday night for referring to America as an \"idea\" that \"we've never lived up to.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f93da98f-cf85-410a-865f-986bff199415/14f02d01-20fb-42ab-be54-7fb6e3dfe8d7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
+      "publishedDateTime": "2020-10-21T23:52:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-gallery-pence-visits-the-granite-state.md",
       "title": "Gallery: Pence visits the Granite State",
       "excerpt": "Visit the post for more.",
@@ -1199,97 +1298,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-replay-trump-make-america-great-again-rally-in-erie-pa.md",
-      "title": "Replay: Trump \"Make America Great Again\" Rally In Erie, PA",
-      "excerpt": "President Trump holds a Make America Great Again rally Monday night at the Erie International Airport in Erie, PA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/10/20/watch_live_trump_holds_a_make_america_great_again_rally_in_erie_pa.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/20/watch_live_trump_holds_a_make_america_great_again_rally_in_erie_pa.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521717.jpg",
-          "width": 1136,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-alleged-china-fighter-donald-trump-has-secret-chinese-bank-account.md",
-      "title": "Alleged China-Fighter Donald Trump Has Secret Chinese Bank Account",
-      "excerpt": "Another big scandal — and huge conflict of interest — has surfaced from the tax returns obtained by the New York Times.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html",
-      "originalUrl": "https://nymag.com/intelligencer/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/a51/9c0/644d15d0ac07c959530778ef6a92348a81-president-trump-in-China.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html",
-      "publishedDateTime": "2020-10-20T20:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

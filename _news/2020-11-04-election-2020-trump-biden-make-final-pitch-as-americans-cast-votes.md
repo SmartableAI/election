@@ -894,6 +894,22 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Trump, Biden campaigns mobilize legal teams"
+    excerpt: "It became clear in the morning after the election that the winner might be decided after a long battle involving lawsuits and other demands by both presidential campaigns."
+    publishedDateTime: 2020-11-04T23:47:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xw5Pm5E5CAc/trump-biden-campaigns-legal-challenges"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-campaigns-legal-challenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-campaigns-legal-challenges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f628e30-d557-400c-91dc-c4fcb65a812d/32b0a9c3-48e3-441a-b082-dfc4e2938236/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live updates: Trump, Biden campaigns move into final stretch after debate"
     excerpt: "Following a slightly more subdued final presidential debate in Nashville, Tenn., on Thursday evening, President Trump traveled to Florida on Friday to rally support in the crucial swing state. "
     publishedDateTime: 2020-10-24T07:12:54Z

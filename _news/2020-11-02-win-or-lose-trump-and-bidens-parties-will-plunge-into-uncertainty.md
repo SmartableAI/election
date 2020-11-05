@@ -1552,6 +1552,22 @@ related:
         width: 958
         height: 502
         isCached: true
+  - title: "With His Path to Re-election Narrowing, Trump Turns to the Courts"
+    excerpt: "The president pursued lawsuits in Pennsylvania and Michigan, and his campaign said it would demand a recount in Wisconsin."
+    publishedDateTime: 2020-11-05T00:29:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-election-courts.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-election-courts.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-election-courts.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04election-legal-1/04election-legal-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Sick of getting texts from the Biden or Trump campaigns? You're not alone"
     excerpt: "The campaigns of President Donald Trump and the Democratic presidential nominee Joe Biden didn’t respond to requests for comment on their texting strategies or on consumer complaints, which in recent days have been common on social media. Lindsay said ..."
     publishedDateTime: 2020-10-30T15:11:00Z

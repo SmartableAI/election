@@ -245,6 +245,22 @@ related:
         width: 3000
         height: 2187
         isCached: true
+  - title: "Who Is Ashley Biden? Here’s Everything You Need to Know About Joe Biden’s Youngest Daughter"
+    excerpt: "Ashley Biden was born on June 8, 1981. Ashley's older brothers—Beau and Hunter Biden—were born to Joe and his first wife, Neilia. The couple also had a daughter, named Naomi. In 1972 ..."
+    publishedDateTime: 2020-10-21T17:15:00Z
+    webUrl: "https://www.glamour.com/story/who-is-ashley-biden-joe-biden-daughter"
+    ampWebUrl: "https://www.glamour.com/story/who-is-ashley-biden-joe-biden-daughter/amp"
+    cdnAmpWebUrl: "https://www-glamour-com.cdn.ampproject.org/c/s/www.glamour.com/story/who-is-ashley-biden-joe-biden-daughter/amp"
+    type: article
+    provider:
+      name: Glamour
+      domain: glamour.com
+    quality: 65
+    images:
+      - url: "https://media.glamour.com/photos/5f906c0f19d32117ccce71f2/master/pass/l_s.jpg"
+        width: 3200
+        height: 1800
+        isCached: true
   - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
     excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
     publishedDateTime: 2020-10-16T13:52:00Z

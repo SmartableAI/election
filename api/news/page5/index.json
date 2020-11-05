@@ -2,6 +2,118 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-30-top-two-pro-trump-super-pacs-make-final-20-million-ad-push.md",
+      "title": "Top two pro-Trump super PACs make final $20 million ad push",
+      "excerpt": "The two leading super PACs that are supporting President Trump's re-election bid are teaming up to shell out $20 million to run ads on TV and digital in seven crucial general election battleground in the closing stretch leading up to Election Day on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zUgV0XwX-Xk/top-two-pro-trump-super-pacs-make-final-20-million-ad-push",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zUgV0XwX-Xk/top-two-pro-trump-super-pacs-make-final-20-million-ad-push",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split-10.29.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T16:11:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-facebook-manually-limited-new-york-post-hunter-biden-story-report.md",
+      "title": "Facebook manually limited New York Post Hunter Biden story: Report",
+      "excerpt": "Facebook fact-checkers manually flagged and restricted distribution of the New York Post's Hunter Biden story, documents obtained by The Guardian show.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/facebook-2-Reuters.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp",
+      "publishedDateTime": "2020-10-30T16:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-scott-walker-claims-trump-has-fighting-chance-in-wisconsin-touts-favre-endorsement-of-president.md",
       "title": "Scott Walker claims Trump has 'fighting chance' in Wisconsin, touts Favre endorsement of president",
       "excerpt": "President Trump has a \"fighting chance\" to pull off a surprise victory in Wisconsin, repeating his feat of four years ago, former Republican Gov. Scott Walker told \"Your World\" Friday.",
@@ -1215,120 +1327,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-pence-stumps-for-vulnerable-gop-senators-resisting-democrat-takeover.md",
-      "title": "Pence stumps for vulnerable GOP senators resisting Democrat takeover",
-      "excerpt": "Vice President Mike Pence is campaigning with four GOP senators this week in an effort to boost their precarious standing in races that will help determine which party controls the upper chamber of Congress.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ikrZ2JjQoR0/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ikrZ2JjQoR0/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/257344f4-Pence.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate.amp",
-      "publishedDateTime": "2020-10-29T11:38:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-biden-and-cunningham-hold-slim-leads-in-north-carolina-poll-finds.md",
-      "title": "Biden and Cunningham Hold Slim Leads in North Carolina, Poll Finds",
-      "excerpt": "Joe Biden and Cal Cunningham both led their Republican rivals by three points, a Times/Siena College survey found. Perhaps most notably, 64 percent of respondents said they had already voted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/28/us/-promo-1603923638541/-promo-1603923638541-facebookJumbo.png",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html",
-      "publishedDateTime": "2020-10-29T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

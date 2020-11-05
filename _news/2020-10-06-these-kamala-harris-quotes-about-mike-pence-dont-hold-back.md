@@ -273,6 +273,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Indian village where Kamala Harris' grandfather was born prays for her win"
+    excerpt: "People gathered Tuesday in a village in India that was once home to the forebears of D Kamala Harris to pray for her ticket's victory in the U.S. presidential election, Reuters news agency reported ."
+    publishedDateTime: 2020-11-03T23:10:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-india-village-pray-thulasendrapuram/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/9a2dcf7c-b38e-4b38-8498-1312f8920fdb/thumbnail/1200x630/fa3363ef12a674571be1f09b90bea2fe/ap-20308325491643.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "WATCH LIVE: Sen. Kamala Harris attends meeting with Black leaders in Phoenix"
     excerpt: "Vice Presidential nominee Kamala Harris is expected to hold multiple events in Phoenix, Arizona starting with a meeting with Black leaders in the state, followed up by a drive-in rally."
     publishedDateTime: 2020-10-28T20:07:00Z

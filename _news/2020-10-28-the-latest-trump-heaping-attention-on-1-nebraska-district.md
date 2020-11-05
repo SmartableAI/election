@@ -1087,6 +1087,22 @@ related:
         width: 4000
         height: 2661
         isCached: true
+  - title: "Trump campaign claims ‘irregularities’ in Wisconsin without evidence — demands ‘immediate’ recount as state tilts towards Biden"
+    excerpt: "As Wisconsin increasingly looks like it’s going to be called for Joe Biden, the Trump campaign released a statement claiming the state’s voting process is experiencing “irregularities.” “There have been reports of irregularities in several Wisconsin counties which raise serious doubts about the validity of the results,"
+    publishedDateTime: 2020-11-04T18:37:00Z
+    webUrl: "https://www.rawstory.com/2020/11/trump-campaign-claims-irregularities-in-wisconsin-without-evidence-demands-immediate-recount-as-state-tilts-towards-biden/"
+    ampWebUrl: "https://www.rawstory.com/2020/11/trump-campaign-claims-irregularities-in-wisconsin-without-evidence-demands-immediate-recount-as-state-tilts-towards-biden/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/11/trump-campaign-claims-irregularities-in-wisconsin-without-evidence-demands-immediate-recount-as-state-tilts-towards-biden/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/10/trump-frown-afp.jpg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "BMtvq9cu9lRBviXdWZAKyUZ36t5wW4cyWDmVhdl1PafJFQnGqcREgxozq+vBW/LOQplE5kPJxV6kV3+T0w/4S3hhVu9sMmItTRbKINJmGwvPad4tSs/IgPod5mEzFsoMnuP+zRfKpWKro02zdUP7ERFjHIz5LFeFoMwwakdKRPjHUmJtRL3CMv7oyLO9eWIsTfV0+VBcLNU9ApywTQFQ0G6kuQal68Q4q7n9l5aQZn4ZiQA0vCeaHvcZdYt+NUyfv07v8zs//V0PPDKAKA5uhKbR7/hukboVsAnPUcIGOYzzJQP22QDLqVZFLev4uJJt9QXgqpq3daXtBC/JN74SlZaa1E/89EbG+GacydGHBvE=;CWA2AtZ0uYdAw+PwKb6jRQ=="
 ---

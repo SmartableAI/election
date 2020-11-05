@@ -143,6 +143,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump campaign files lawsuit in Georgia seeking to pause vote count"
+    excerpt: "U.S. President Donald Trump's reelection campaign has filed a lawsuit in Georgia seeking to pause the state's count for the presidential election, the Associated Press reported on Wednesday."
+    publishedDateTime: 2020-11-05T00:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN27L012"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L012"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L012"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540051974&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA402J"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Ahead of U.S. poll, Trump ends a U.S. restriction applying to Israeli settlements"
     excerpt: "The Trump administration lifted a decades-old ban on Wednesday that had prohibited U.S. taxpayer funding for Israeli scientific research conducted in Jewish settlements in occupied territory, drawing Palestinian condemnation."
     publishedDateTime: 2020-10-28T14:37:00Z

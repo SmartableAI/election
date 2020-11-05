@@ -1077,6 +1077,22 @@ related:
         width: 4000
         height: 2661
         isCached: true
+  - title: "Trump campaign claims ‘irregularities’ in Wisconsin without evidence — demands ‘immediate’ recount as state tilts towards Biden"
+    excerpt: "As Wisconsin increasingly looks like it’s going to be called for Joe Biden, the Trump campaign released a statement claiming the state’s voting process is experiencing “irregularities.” “There have been reports of irregularities in several Wisconsin counties which raise serious doubts about the validity of the results,"
+    publishedDateTime: 2020-11-04T18:37:00Z
+    webUrl: "https://www.rawstory.com/2020/11/trump-campaign-claims-irregularities-in-wisconsin-without-evidence-demands-immediate-recount-as-state-tilts-towards-biden/"
+    ampWebUrl: "https://www.rawstory.com/2020/11/trump-campaign-claims-irregularities-in-wisconsin-without-evidence-demands-immediate-recount-as-state-tilts-towards-biden/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/11/trump-campaign-claims-irregularities-in-wisconsin-without-evidence-demands-immediate-recount-as-state-tilts-towards-biden/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/10/trump-frown-afp.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "The Latest: Trump heaping attention on 1 Nebraska district"
     excerpt: "President Donald Trump talks with the traveling press as first lady Melania Trump waits near Air Force One at Andrews Air Force Base, Md., Tuesday, Oct. 27, 2020. They flew"
     publishedDateTime: 2020-10-28T01:26:00Z

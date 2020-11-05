@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/pennyslvania-trump-biden-ballots-re
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennyslvania-trump-biden-ballots-results-election-gop-chair-lawrence-tabas.amp"
 type: article
 quality: 164
-heat: 204
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Squad' member Ilhan Omar rejects Trump's Pennsylvania victory claim: 'Sit down'"
+    excerpt: "Rep. Ilhan Omar, D-Minn., on Wednesday criticized Eric Trump for claiming victory in Pennsylvania."
+    publishedDateTime: 2020-11-05T00:19:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zjPygKKIcW4/ilhan-omar-eric-trumps-pennsylvania-victory-claim"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania-victory-claim.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania-victory-claim.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/philly-voting.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump tells supporters in Pennsylvania they can 'save the American Dream' from 'corrupt forces'"
     excerpt: "President Trump on Saturday told supporters in Pennsylvania that they have the chance to “save the American dream” by reelecting him to office on Tuesday -- while warning of “corrupt forces” who are seeking to replace him with Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-31T16:30:02Z
@@ -44,22 +60,6 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1c28aa3-8f61-431d-b3c4-c43a2bf5827d/ce54a741-f833-4cf7-8887-2ace3de5a30b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump says Supreme Court decision on Pennsylvania ballots is 'dangerous,' 'will 'induce violence'"
-    excerpt: "President Trump Monday called a Supreme Court decision that said Pennsylvania could allow mail ballots through Friday “dangerous,” adding it would lead to “violence.”"
-    publishedDateTime: 2020-11-03T05:22:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySMpc_U52AI/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/271cf1eb-74b0-4238-8cc6-dd9c23ed7c2c/f9d2a304-3484-48d2-8f7d-116c5e2edfc6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

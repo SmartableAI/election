@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 1618
+heat: 1638
 published: true
 
 provider:
@@ -1141,6 +1141,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 58
+  - title: "How Biden Is Closing the Deal With Republican Apostates"
+    excerpt: "When Democratic presidential nominee Joe Biden helped orchestrate an endorsement from former Sen. Jeff Flake (R-AZ) over the summer, he welcomed one of the most loyal and prominent anti-Trump ..."
+    publishedDateTime: 2020-10-21T14:41:00Z
+    webUrl: "https://www.thedailybeast.com/how-biden-is-encouraging-great-migration-of-republicans-in-campaigns-final-days"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "4m3JVZve541xF+98+8NNcHpj9vtoQ3zc5c6hYd33kjSCOE1tJwjI+6xXmMWy6tOBB3T9fpa2ihzUdcedRgIpX+CRh39y3btzYf7LR4BYzRpIWQtctTvkCyJ/HkMkCKj2Datg9q+PG4w+Vubqw9OimqHZd3FfQIS3EUFfWgBDvY415SOEMVyGgEb48eQjZLSg4CkDZ5nP5dokoFsF/YVPSCpfuXqQCNLdYKoGCKgn3WvFa6x4OGhe57BsRgx7Pe0ebVmB3Bj+rzxS56MYUsa0h9skr0hg9P429ZAjCEe+Ki+v/kRIBsWrLj/HrBi7BU5MjjSM6eDUYe2AtFPiDRN3KZv1RhMQtgICB7eVNxQBW2U=;YMr0FpBjALiv8Ky5QuirBw=="
 ---

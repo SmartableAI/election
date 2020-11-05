@@ -259,6 +259,22 @@ related:
         width: 3000
         height: 2187
         isCached: true
+  - title: "Who Is Ashley Biden? Here’s Everything You Need to Know About Joe Biden’s Youngest Daughter"
+    excerpt: "Ashley Biden was born on June 8, 1981. Ashley's older brothers—Beau and Hunter Biden—were born to Joe and his first wife, Neilia. The couple also had a daughter, named Naomi. In 1972 ..."
+    publishedDateTime: 2020-10-21T17:15:00Z
+    webUrl: "https://www.glamour.com/story/who-is-ashley-biden-joe-biden-daughter"
+    ampWebUrl: "https://www.glamour.com/story/who-is-ashley-biden-joe-biden-daughter/amp"
+    cdnAmpWebUrl: "https://www-glamour-com.cdn.ampproject.org/c/s/www.glamour.com/story/who-is-ashley-biden-joe-biden-daughter/amp"
+    type: article
+    provider:
+      name: Glamour
+      domain: glamour.com
+    quality: 65
+    images:
+      - url: "https://media.glamour.com/photos/5f906c0f19d32117ccce71f2/master/pass/l_s.jpg"
+        width: 3200
+        height: 1800
+        isCached: true
   - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
     excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
     publishedDateTime: 2020-10-20T00:32:00Z

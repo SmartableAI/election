@@ -135,6 +135,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Twitter, Facebook fail to corral Trump's misinformation about U.S. vote count"
+    excerpt: "As U.S. President Donald Trump and his allies flooded social media on Wednesday with false claims of victory and unsupported allegations of voter fraud, social media companies warned users that the presidential election had yet to be decided."
+    publishedDateTime: 2020-11-05T00:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-tweet-claim-int-idUSKBN27L00I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L00I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L00I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540047484&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4007"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
     excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
     publishedDateTime: 2020-10-29T14:50:00Z

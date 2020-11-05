@@ -1141,6 +1141,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 58
+  - title: "How Biden Is Closing the Deal With Republican Apostates"
+    excerpt: "When Democratic presidential nominee Joe Biden helped orchestrate an endorsement from former Sen. Jeff Flake (R-AZ) over the summer, he welcomed one of the most loyal and prominent anti-Trump ..."
+    publishedDateTime: 2020-10-21T14:41:00Z
+    webUrl: "https://www.thedailybeast.com/how-biden-is-encouraging-great-migration-of-republicans-in-campaigns-final-days"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "llqpMFa49VdH68kF7YVvYECjryv7Laxwhz3yEjmxpg3CIn9YT3sAs20FbC6vwarDcm9RyBy2KmoIL9M8E57Z2CPXWPpdoc0/wQxj1ogVMO1u5XXzaGxb21bsdrk0WfwdA2Az9Hz7wBOa1ajMYbbz+O4Nh5E3Y//hL3BtfLA8iIWUUUta5dI4YW4L9fWXaCRchZ+/xkH1IOG6uWMoULfXHvdT+tJsO4i8WF1ey1cSDb0CmvHbKKqeGEnDUH3ej8vW+pFd2diUX5E4JkbBuO3pilyQEqssAN9uHGvuTzdxu1qshoHWSEr7j9UI0P8EkNJFN0iq1U736K/3aar7jC6J/5wpqB8LE1Zr2kJaDSXvwkMCNaa44WM+TWZNxkXTAbICctwi2jy5FniwC6NhA9eE4b/g8NogSGM775VAgZSTjkVyDM+tEdXCZZvNGeM30doS7gPkwJVeeJqS+BzCQvswH4xgNVcV1P+cyuNI1H0BSp4aj0e1MrfP1bhSSZaP87pzk3qxYg9AwyGqCinus4of5Q==;aFLIKfewLaknn9eCzT943A=="
 ---

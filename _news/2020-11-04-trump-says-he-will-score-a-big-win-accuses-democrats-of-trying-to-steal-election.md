@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27K0MF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27K0MF"
 type: article
 quality: 134
-heat: 434
+heat: 454
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trump3_110220getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump campaign files lawsuit in Georgia seeking to pause vote count"
+    excerpt: "U.S. President Donald Trump's reelection campaign has filed a lawsuit in Georgia seeking to pause the state's count for the presidential election, the Associated Press reported on Wednesday."
+    publishedDateTime: 2020-11-05T00:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN27L012"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L012"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L012"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540051974&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA402J"
+        width: 817
+        height: 545
         isCached: true
   - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
     excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."

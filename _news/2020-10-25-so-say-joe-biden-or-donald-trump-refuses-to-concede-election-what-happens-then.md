@@ -4017,6 +4017,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
+  - title: "Biden projected to win swing states as Trump's chances narrow"
+    excerpt: "Democratic presidential candidate Joe Biden is inching closer to the presidency — a dramatic swing after early returns in the last 24 hours appeared to favor President Trump. Major Garrett has the latest."
+    publishedDateTime: 2020-11-05T00:28:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-projected-to-win-swing-states-as-trumps-chances-narrow/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/04/5467c222-a464-44b7-af87-9aa8d40e2347/thumbnail/1200x630/9d6d429fed93680037a82424c2130ea8/1104-en-major-581115-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z
@@ -6137,6 +6151,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Fact-checking Donald Trump, Joe Biden in the final presidential debate"
+    excerpt: "The final presidential debate between former Vice President Joe Biden and President Donald Trump may have had fewer interruptions, but it wasn’t any more truthful. It was similar to the first ..."
+    publishedDateTime: 2020-10-22T00:00:00Z
+    webUrl: "https://www.politifact.com/article/2020/oct/23/fact-checking-donald-trump-joe-biden-final-preside/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 70
+    images:
+      - url: "https://static.politifact.com/img/meter-true.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "In Rebuke of Trump, Obama Urges Voters to Show up for Biden"
     excerpt: "Former President Barack Obama is blasting President Donald Trump’s handling of the coronavirus pandemic, his response to racial unrest and his fundamental unfitness for the job in his first in-person campaign pitch for Joe Biden."
     publishedDateTime: 2020-10-22T01:07:00Z
@@ -6941,6 +6969,20 @@ related:
       name: CBS Boston
       domain: cbslocal.com
     quality: 48
+  - title: "That should make him president: Joe Biden shows up — and shows he's learned the lesson of 2016"
+    excerpt: "In his final debate performance of the 2020 campaign (and with any luck, his last one ever), the president fumbled the one attack line that his campaign had prepared against Joe Biden for years."
+    publishedDateTime: 2020-10-22T00:00:00Z
+    webUrl: "https://www.salon.com/2020/10/23/that-should-make-him-president-joe-biden-shows-up--and-shows-hes-learned-the-lesson-of-2016/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 43
+    images:
+      - url: "https://media.salon.com/2020/10/joe-biden-debate-1022204.jpg"
+        width: 1692
+        height: 1142
+        isCached: true
   - title: "Joe Biden Remarks in Michigan on Health Care"
     excerpt: "Democratic presidential nominee Joe Biden delivered remarks on health care and the economy at a campaign event in Southfield, Michigan, a suburb of Detroit."
     publishedDateTime: 2020-10-19T06:17:00Z

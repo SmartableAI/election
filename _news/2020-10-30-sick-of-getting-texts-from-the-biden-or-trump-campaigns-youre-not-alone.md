@@ -1568,6 +1568,22 @@ related:
         width: 958
         height: 502
         isCached: true
+  - title: "With His Path to Re-election Narrowing, Trump Turns to the Courts"
+    excerpt: "The president pursued lawsuits in Pennsylvania and Michigan, and his campaign said it would demand a recount in Wisconsin."
+    publishedDateTime: 2020-11-05T00:29:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-election-courts.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-election-courts.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-election-courts.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04election-legal-1/04election-legal-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump and Biden Converge in Florida, an Elusive Prize Still Up for Grabs"
     excerpt: "The presidential rivals both appeared in Tampa, confronting their vulnerabilities and courting a range of voters, a clear sign that both see their political fortunes tied to the state."
     publishedDateTime: 2020-10-30T00:56:00Z

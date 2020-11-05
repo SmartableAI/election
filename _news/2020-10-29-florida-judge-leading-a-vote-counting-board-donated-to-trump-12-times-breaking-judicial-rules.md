@@ -143,6 +143,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Twitter, Facebook fail to corral Trump's misinformation about U.S. vote count"
+    excerpt: "As U.S. President Donald Trump and his allies flooded social media on Wednesday with false claims of victory and unsupported allegations of voter fraud, social media companies warned users that the presidential election had yet to be decided."
+    publishedDateTime: 2020-11-05T00:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-tweet-claim-int-idUSKBN27L00I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L00I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L00I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540047484&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4007"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Midwest Dems urge party to focus on infrequent Black voters rather than White voters who backed Trump"
     excerpt: "Some local leaders say Democrats may be focusing too much on White working class voters who backed Trump and not enough on voters who didn't turn out at all."
     publishedDateTime: 2020-10-30T02:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watche
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "Trump's Election Day surge powered by small-town America"
+    excerpt: "President Donald Trump's reelection campaign long maintained there were thousands of new supporters tucked into rural, red pockets of the country who would come out and vote for the president when asked."
+    publishedDateTime: 2020-11-05T00:57:00Z
+    webUrl: "https://www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
 
 secured: "BGLmxeE5g5Za/HnyHz3Uk5EGJNylcp/FnOij7XQ2rItJQiSIjUjvOo7DCqmWnHPUyRsGAT95z36cgLwgLbvgHFuIQ4VKObBdD65OsLcutsjTi2cZwD4O/Ri64VThEUM5nMr07yKMJn4pMiExrXU3GJnpNRQ4tlf/Pt9N7PVoDTHfodW/UsKrYMEuRWLP1jng8t+i44EcW+eQ8C+Xvqs+kp4oXpk6VkYXOTk5RYquzJqSQowW0/3WvM5e97ovUO0YSlmjUueQrEWwxVWBA1JTjJvp7bmBpwh003nnPPuOOOxC6ls0dyL8xg2aH3+bFzIUT1zmCnt2WifgMALkvbDIAF/qgfhCFKErc/MJuRkQBts=;lxfX4pnIh6ZFKLEs7YpACg=="
 ---
