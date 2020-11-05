@@ -35,22 +35,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Joe Biden has won Virginia"
-    excerpt: "The state has 13 electoral votes and was not expected by analysts to be competitive."
-    publishedDateTime: 2020-11-04T00:31:00Z
-    webUrl: "https://www.businessinsider.com/virginia-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/virginia-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/virginia-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa203881df1d50018218bb6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Americans say they are better off under Trump, but is America? Trump by the numbers"
     excerpt: "Gallup reports that 56% said they're better off than in 2016, but 56% also said President Donald Trump does not deserve to be reelected."
     publishedDateTime: 2020-10-29T09:21:00Z
@@ -80,22 +64,6 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/346b070f-76c9-4569-b40a-f597dfbb7b78-XXX_USATODAY_437189_jmg_17861.JPG?auto=webp&crop=4875,2743,x0,y265&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The US is out of the Paris climate change agreement; if Biden wins, that could change"
-    excerpt: "The U.S. formally dropped out of the Paris climate accord, fulfilling a vow President Trump made years ago. A Joe Biden win could change that."
-    publishedDateTime: 2020-11-04T23:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/04/paris-agreement-trump-us-officially-leaves-climate-change-accord/6158177002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6158177002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158177002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/78dbb2b2-1498-479d-b608-382e2b11e905-AFP_AFP_8QQ2XP.jpg?auto=webp&crop=3972,2235,x0,y200&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -143,17 +111,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "FOREX-Dollar dips as investors bet on Biden victory"
-    excerpt: "By Karen Brettell NEW YORK, Nov 3 (Reuters) - The U.S. dollar dipped on Tuesday as risk appetite grew on bets that Democrat Joe Biden will win Tuesday’s U.S."
-    publishedDateTime: 2020-11-03T18:39:00Z
-    webUrl: "https://www.reuters.com/article/global-forex-idUKL1N2HP1DM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2HP1DM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2HP1DM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "What would a Biden win mean for Wall Street?"
     excerpt: "Business What would a Biden win mean for Wall Street? Posted . Stocks have risen sharply in the final two days of the U.S. election season as investors bet on the likelihood of a"
     publishedDateTime: 2020-11-03T23:12:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 530
+heat: 550
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308232738133.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump campaign files vote-counting lawsuit in Georgia as margin narrows"
+    excerpt: "The Trump 2020 Campaign and the Republican Party of Georgia filed a lawsuit in the state Wednesday, alleging that officials in a Democrat-leaning county were counting ballots for the presidential race that were received after polls closed Tuesday. "
+    publishedDateTime: 2020-11-05T10:04:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/McPRSKX9zS8/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump’s comment at rally raises speculation about Fauci’s future at NIAID"
     excerpt: "President Trump suggested during a Florida rally early Monday that he may fire Dr. Anthony Fauci, the nation's top infectious disease expert, after the election."

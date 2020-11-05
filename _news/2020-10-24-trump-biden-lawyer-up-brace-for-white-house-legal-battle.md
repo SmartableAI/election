@@ -4868,6 +4868,15 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Here Are the States Joe Biden or Donald Trump Need to Win"
+    excerpt: "As states continue counting their votes, here are the potential pathways to victory for Joe Biden or President Donald Trump."
+    publishedDateTime: 2020-11-04T13:59:00Z
+    webUrl: "https://time.com/5907245/states-needed-to-win-2020-election/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 100
   - title: "How Trump And The GOP Moved $8.1 Million Of Donor Money Into The President’s Business"
     excerpt: "Donald Trump hasn’t donated a dollar to his own reelection effort, but his businesses have managed to take in millions from others."
     publishedDateTime: 2020-10-21T14:39:00Z

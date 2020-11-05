@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AP VoteCast: Trump makes inroads with Latinos in key states"
+    excerpt: "The U.S. presidential election highlighted sharply different views on the ongoing public health crisis, a stubborn economic downturn and racial inequality, while showing that candidates can’t always t"
+    publishedDateTime: 2020-11-05T09:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_519142f97e0b49c58f372a548550a06a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Latest: Trump Says Final Debate Went 'Really Well'"
     excerpt: "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”."
     publishedDateTime: 2020-10-23T19:33:00Z

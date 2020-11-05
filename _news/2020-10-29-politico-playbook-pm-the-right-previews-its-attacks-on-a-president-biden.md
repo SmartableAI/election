@@ -62,6 +62,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden Flips Wisconsin, Fueled by Support From Cities and Suburbs"
+    excerpt: "Rural voters continued to support President Trump, but some counties that swung far to the right in 2016 moved left in 2020."
+    publishedDateTime: 2020-11-05T06:31:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/05/us/wisconsin-election-battleground-state-counties.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/us/wisconsin-election-battleground-state-counties-promo-1604552575062/wisconsin-election-battleground-state-counties-promo-1604552575062-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "YI7zdkLzCcYSEX2gszt8Y1bLNL14+3Lsgh0jyvHkXT5YxFG5HTrV6jt+8adihHcxrNPlrKwejAIRcdm3t6APsTB5inHvvAyecFFJaPIbI81vc0Sh8MNT9jXrpItLhspRPe9woxSo6uXWsxOdydK4klOOM74E+aen3vCzThsk3p/3CJsC3OW7bzco1d/8vW1eOZhVHkhoWkJTdJSSPk65g/xI62ciC7w7hylIVCJ9IOq5bo1qGPeJgEFserQ58LRjcB9IDATvsbRwE3yI4EGEd7bcUovM8lpKZJrJZOAVBfh06S5Fzv4ut/gkaDWjt1j48g0S262uBCuijaHhF+BsEw5Tz7MQRGgXVVIDkRvnxU0mnSojeBCqHmZ1IXfxTU485pCO7I9xLLbsFzPgKouriHJ5BVeRRMD+spz6BueUIYQ4LxE6jJU8Dd00vpYi/liRwI4oCfo9Heb+HaOHoDS5nw13BTrp/P5XLTXzNf+EcIN1bEzLVQnBCwG3mlBkbFuAOFtaBINZqTT3ua7evEN+YQ==;InM3MWRDKVy3XPkvVgPnsA=="
 ---

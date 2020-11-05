@@ -48,6 +48,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Flips Wisconsin, Fueled by Support From Cities and Suburbs"
+    excerpt: "Rural voters continued to support President Trump, but some counties that swung far to the right in 2016 moved left in 2020."
+    publishedDateTime: 2020-11-05T06:31:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/05/us/wisconsin-election-battleground-state-counties.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/us/wisconsin-election-battleground-state-counties-promo-1604552575062/wisconsin-election-battleground-state-counties-promo-1604552575062-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "POLITICO Playbook PM: The right previews its attacks on a President Biden"
     excerpt: "THE RIGHT HAS AMPLIFIED the story, but the mainstream press has shot down BOBULINSKI’S claims at every turn. For example, the news pages of The Wall Street Journal reported they couldn’t establish that BIDEN was involved or received money as part of the defunct arrangement."
     publishedDateTime: 2020-10-28T17:02:00Z

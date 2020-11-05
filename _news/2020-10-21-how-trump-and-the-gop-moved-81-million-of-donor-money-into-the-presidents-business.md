@@ -4883,6 +4883,15 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Here Are the States Joe Biden or Donald Trump Need to Win"
+    excerpt: "As states continue counting their votes, here are the potential pathways to victory for Joe Biden or President Donald Trump."
+    publishedDateTime: 2020-11-04T13:59:00Z
+    webUrl: "https://time.com/5907245/states-needed-to-win-2020-election/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 100
   - title: "How Joe Biden May Have Outmaneuvered Donald Trump On Energy, Climate, and the Economic Recovery"
     excerpt: "As the politics of climate change rapidly shifted, Biden built a campaign centered on addressing it by creating new jobs"
     publishedDateTime: 2020-10-30T19:48:00Z

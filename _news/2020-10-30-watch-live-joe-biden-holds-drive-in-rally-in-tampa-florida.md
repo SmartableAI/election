@@ -125,15 +125,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Lady Gaga Joins Joe & Jill Biden at Final Drive-In Rally in Pittsburgh"
-    excerpt: "Democratic presidential candidate Joe Biden and his wife Jill speak at a drive-in rally in Pittsburgh, their final campaign event on the eve of Election Day. Also featured is singer Lady Gaga. 2020 Democratic presidential candidate Joe Biden and his wife Jill speak at a drive-in rally in Pittsburgh,"
-    publishedDateTime: 2020-11-02T10:21:00Z
-    webUrl: "https://www.c-span.org/video/?477700-1/lady-gaga-joins-joe-jill-biden-final-drive-rally-pittsburgh"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "IUe3z5eDP5wIF8WNZk87xTpOPiMF11X9Omq7ToBOTttbx1/izlNm+g+rxWUKdTNWlfPcc/r8S0nn3FctVfuxKkZk7vybAxWekI6iMkkWcQZs6PJGLrDw8ETh8xnGZI8MLGsEZsqAeUN019vSeMP17C74Eza17BHziTisALuWVOLz6VknqcJV7dGJmadyEZ6W5+bNDZVJRDPlNbruTWphmXLY7w7kPt4E/V1fNgDOAd+r2uR27PKqAzuMzwPh0xBZ7mWovRWol7xG1ue1sSAycg29E9AE4oOksLPSK6iqKzceB02F2in1irbquchqDYbFECPoirEdSEG8HitIGGwjgI95CI35h63vLR+QIizLDT/py+JUfXWpInyYWEToqtGnVlXN2/RTdJsclg5b+C4oyMUpxaSLUNScUYtoPqTHs3mZNXM46aP4zRuXOvtyNzi41lWpzs6+GNfxxadEUZtscnlLX/jc69w6M13u5kKmdqfPsEhOhRMHreP635pidcHaIqiFO92rQIFz462NmkO+KQ==;kHYaSB+c0vk/z731omOsQg=="
 ---

@@ -2042,6 +2042,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Win or Lose, Trump Will Remain a Powerful and Disruptive Force"
+    excerpt: "If President Trump loses his bid for re-election, as looked increasingly likely on Wednesday, it would be the first defeat of an incumbent president in 28 years. But one thing seemed certain: Win or lose,"
+    publishedDateTime: 2020-11-05T10:29:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04dc-trump-1/04dc-trump-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The Remaining Vote in Pennsylvania Appears to Be Overwhelmingly for Biden"
     excerpt: "President Trump leads by nearly 700,000 votes in Pennsylvania as of 5 a.m. on Wednesday, and Mr. Biden’s chances depend on whether he can win a large percentage of the more than"
     publishedDateTime: 2020-11-04T11:57:00Z

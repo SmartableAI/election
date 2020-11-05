@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
 type: article
 quality: 140
-heat: 520
+heat: 540
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 125
     images:
       - url: "https://i.insider.com/5fa23c701df1d50018218bf7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump has won Texas"
+    excerpt: "The state has 38 electoral votes and was expected by analysts to be particularly competitive."
+    publishedDateTime: 2020-11-05T03:13:00Z
+    webUrl: "https://www.businessinsider.com/texas-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/texas-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa238771df1d50018218bf0?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

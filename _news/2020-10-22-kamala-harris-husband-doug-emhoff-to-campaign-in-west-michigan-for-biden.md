@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp"
 type: article
 quality: 89
-heat: 269
+heat: 289
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/73/16/20165545/5/rawImage.jpg"
         width: 2048
         height: 1294
+        isCached: true
+  - title: "Dem VP nominee Kamala Harris’ Texas visit will include stops in Houston, Fort Worth and McAllen"
+    excerpt: "Kamala Harris, the Democratic nominee for vice president, will make campaign stops in Fort Worth, McAllen, and Houston on Friday. Harris’ visit is a major statement as her swing through Texas will come just four days before Election Day."
+    publishedDateTime: 2020-10-28T15:21:00Z
+    webUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/"
+    ampWebUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 63
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/bd9ebfe10da443d2822a2f2d9dede8b4.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Kamala Harris to visit Rio Grande Valley, Fort Worth and Houston during Texas campaign swing Friday"
     excerpt: "The vice presidential nominee and U.S. senator from California will swing through the state on the final day of early voting before Tuesday's election."

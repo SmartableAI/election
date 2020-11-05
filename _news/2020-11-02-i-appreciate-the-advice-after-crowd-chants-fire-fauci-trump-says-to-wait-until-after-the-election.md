@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump has won Texas"
+    excerpt: "The state has 38 electoral votes and was expected by analysts to be particularly competitive."
+    publishedDateTime: 2020-11-05T03:13:00Z
+    webUrl: "https://www.businessinsider.com/texas-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/texas-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa238771df1d50018218bf0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump declarations of victory and accusations of stealing the election test Facebook and Twitter"
     excerpt: "Donald Trump's premature declarations of victory and his allegations of voter fraud are testing social media companies the day after the election."
     publishedDateTime: 2020-11-04T18:47:00Z

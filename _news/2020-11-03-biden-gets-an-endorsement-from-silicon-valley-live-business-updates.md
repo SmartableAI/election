@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavi
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
 type: article
 quality: 135
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/nc_vosot_deerheads_201102-00_00_14_14-Still001.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden Flips Wisconsin, Fueled by Support From Cities and Suburbs"
+    excerpt: "Rural voters continued to support President Trump, but some counties that swung far to the right in 2016 moved left in 2020."
+    publishedDateTime: 2020-11-05T06:31:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/05/us/wisconsin-election-battleground-state-counties.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/us/wisconsin-election-battleground-state-counties-promo-1604552575062/wisconsin-election-battleground-state-counties-promo-1604552575062-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "POLITICO Playbook PM: The right previews its attacks on a President Biden"
     excerpt: "THE RIGHT HAS AMPLIFIED the story, but the mainstream press has shot down BOBULINSKI’S claims at every turn. For example, the news pages of The Wall Street Journal reported they couldn’t establish that BIDEN was involved or received money as part of the defunct arrangement."

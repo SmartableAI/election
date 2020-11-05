@@ -63,38 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Severed deer heads found by Biden-Harris campaign sign, Black Lives Matter sign in Oregon"
-    excerpt: "Lake Oswego Police Sgt. Tom Hamann said he did not “want to make assumptions” about the intent, as no message was attached to either head."
-    publishedDateTime: 2020-11-03T12:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/biden-harris-campaign-sign-oregon-vandalized-severed-deer-head/6135914002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6135914002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6135914002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 141
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/540f9876-8bb8-4229-aef2-9105954df0f7-AP_Election_2020_Biden_Harris.jpg?auto=webp&crop=4575,2574,x0,y232&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris visit Friday marks latest sign of Biden’s commitment to Texas"
-    excerpt: "Democratic vice presidential candidate Kamala Harris will visit Houston and two other Texas cities to round out the final day of early voting on Friday. The Houston leg of Harris’ trip will be her last of the day,"
-    publishedDateTime: 2020-10-30T19:29:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-visit-Friday-marks-latest-sign-of-15689120.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/election2020/amp/Kamala-Harris-visit-Friday-marks-latest-sign-of-15689120.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/election2020/amp/Kamala-Harris-visit-Friday-marks-latest-sign-of-15689120.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 138
-    images:
-      - url: "https://s.hdnux.com/photos/01/01/71/44/17275191/34/rawImage.jpg"
-        width: 2048
-        height: 1607
-        isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
     excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
     publishedDateTime: 2020-10-03T00:08:00Z
@@ -123,17 +91,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The Latest: Harris insists Biden won't ban fracking"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-10-25T06:33:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-harris-insists-biden-wont-ban-fracking-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 130
   - title: "How Kamala Harris highlights what women in politics face"
     excerpt: "With Senator Kamala Harris as a historic vice-presidential running mate, it's impossible to avoid the topic of gender this election cycle - but are the rules of the race really different for women? Here's how her nomination highlights the issues women in politics have faced for decades - and how things are changing - with analysis from Debbie Walsh,"
     publishedDateTime: 2020-10-21T13:26:00Z
@@ -166,22 +123,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Banners and prayers for Kamala Harris in her ancestral Indian village"
-    excerpt: "A big banner of U.S. vice presidential candidate Kamala Harris welcomes visitors to Thulasendrapuram, a lush, green south Indian village that is praying for her Democratic Party's victory in the Nov."
-    publishedDateTime: 2020-10-27T12:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-harris-india/banners-and-prayers-for-kamala-harris-in-her-ancestral-indian-village-idUSKBN27C0V7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C0VJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C0VJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538943099&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0MB"
-        width: 804
-        height: 545
-        isCached: true
   - title: "Kamala Harris to visit Fort Worth, McAllen and Houston on Friday"
     excerpt: "Harris’s visit marks the first time in 30 years a Democratic presidential ticket has been campaigning in Texas this close to Election Day."
     publishedDateTime: 2020-10-28T16:56:00Z
@@ -197,54 +138,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/75/62/20176012/3/rawImage.jpg"
         width: 2048
         height: 1427
-        isCached: true
-  - title: "Fact check: False Kamala Harris claim uses image from 2019 trip to Iowa"
-    excerpt: "A viral image purporting to show Kamala Harris intoxicated in Ohio is actually from a trip to Iowa in 2019, and she isn't drunk there, either."
-    publishedDateTime: 2020-11-02T12:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/31/fact-check-false-kamala-harris-claim-uses-image-2019/6102428002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6102428002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6102428002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/24/NABJ/0aef82de-87d2-420a-bcf2-e0f952eb84bd-harris_15.JPG?auto=webp&crop=1509,849,x0,y200&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "As U.S. votes, a village in India prays for Kamala Harris"
-    excerpt: "Thulasendrapuram, which is about eight hours' drive from the southern city of Chennai, pulled together in a special ceremony at the main temple to wish Kamala Harris good luck on Election Day."
-    publishedDateTime: 2020-11-03T16:16:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-harris-ancestral-village-prays-election-day-20201103-xsxssgsezvaollomckldm7vkfy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-harris-ancestral-village-prays-election-day-20201103-xsxssgsezvaollomckldm7vkfy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-harris-ancestral-village-prays-election-day-20201103-xsxssgsezvaollomckldm7vkfy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/faeDrPsPezhEa-8HTVnvVeOYX1U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/T5BRY7M2WQ3NE2YMZTFSQVZ3MI.aspx"
-        width: 1200
-        height: 855
-        isCached: true
-  - title: "Prayers ring out in Kamala Harris's ancestral village"
-    excerpt: "Prayers were held in Thulasendrapuram, India, the village where the Democratic vice presidential candidate’s maternal grandfather was born."
-    publishedDateTime: 2020-11-03T22:01:00Z
-    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral"
-    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/gettyimages-1229432578_1.jpg"
-        width: 1440
-        height: 880
         isCached: true
   - title: "The Countdown: Avengers stars quiz Kamala Harris and what to wear to vote"
     excerpt: "Thirteen days left and we look at what you can wear when you go vote and who gets to question Kamala Harris. It was Democrat vice-presidential pick Kamala Harris's birthday yesterday and the cast of the Avengers held a fundraiser over Zoom where they got to question her."
@@ -262,22 +155,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Indian village where Kamala Harris' grandfather was born prays for her win"
-    excerpt: "People gathered Tuesday in a village in India that was once home to the forebears of D Kamala Harris to pray for her ticket's victory in the U.S. presidential election, Reuters news agency reported ."
-    publishedDateTime: 2020-11-03T23:10:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-india-village-pray-thulasendrapuram/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 123
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/9a2dcf7c-b38e-4b38-8498-1312f8920fdb/thumbnail/1200x630/fa3363ef12a674571be1f09b90bea2fe/ap-20308325491643.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "WATCH LIVE: Sen. Kamala Harris attends meeting with Black leaders in Phoenix"
     excerpt: "Vice Presidential nominee Kamala Harris is expected to hold multiple events in Phoenix, Arizona starting with a meeting with Black leaders in the state, followed up by a drive-in rally."
     publishedDateTime: 2020-10-28T20:07:00Z
@@ -293,20 +170,6 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-28T014859Z_473603595_RC2DRJ9IJCP1_RTRMADP_3_USA-ELECTION-HARRIS-1024x681.jpg"
         width: 1024
         height: 681
-        isCached: true
-  - title: "Where is California native Kamala Harris spending Election Day?"
-    excerpt: "Kamala Harris is spending part of her last day on the campaign trail in Detroit. She'll be touring the Motor City on Election Day, encouraging supporters to go to the polls, according to reports. The California native's last-minute visit in Michigan signals the importance of this state."
-    publishedDateTime: 2020-11-03T19:17:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-Election-Day-where-watching-returns-15697222.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 120
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/02/44/20195619/81/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Kamala Harris to Campaign in Texas, First Dem VP Candidate to Do So in 30-Plus Years"
     excerpt: "\"Texas is not a battleground state. It's that simple,\" former Texas Gov. Rick Perry said of Trump not campaigning in Texas prior to the election. Polls show the race as very tight."
@@ -339,52 +202,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106774227-1604328366950-gettyimages-1228019575-AFP_1WG92Q.jpeg?v=1604328414"
         width: 4000
         height: 2830
-        isCached: true
-  - title: "In Kamala Harris' Ancestral Village, The U.S. Election Is Followed Closely"
-    excerpt: "Senator Kamala Harris is the first person of South Asian descent on a U.S. presidential ticket. In her ancestral village in India, Hindu faithful offer prayers for a Biden-Harris victory."
-    publishedDateTime: 2020-11-03T09:05:00Z
-    webUrl: "https://www.npr.org/2020/11/03/930722345/in-kamala-harris-ancestral-village-the-u-s-election-is-followed-closely"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 118
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Fact check: Photo does not show drunk Kamala Harris throwing up in bushes and staggering around"
-    excerpt: "Social media users have been sharing a photo of Democratic vice presidential candidate Kamala Harris, purporting to show her drunk, throwing up, staggering around and being confrontational. However, this is a misleading still image captured from a video Harris posted"
-    publishedDateTime: 2020-11-03T15:32:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-drunk-idUSKBN27J1V2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J1V2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J1V2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 113
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539811808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA213Y"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Fact check: Photo does not show drunk Kamala Harris throwing up in bushes and staggering around"
-    excerpt: "Social media users have been sharing a photo of Democratic vice presidential candidate Kamala Harris, purporting to show her drunk, throwing up, staggering around and being confrontational. However, this is a misleading still image captured from a video Harris posted"
-    publishedDateTime: 2020-11-03T19:35:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-drunk/fact-check-photo-does-not-show-drunk-kamala-harris-throwing-up-in-bushes-and-staggering-around-idUSKBN27J1V2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J1V2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J1V2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 113
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539811808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA213Y"
-        width: 818
-        height: 545
         isCached: true
   - title: "Kamala Harris, Mike Pence make final push to get Michigan votes on Election Day"
     excerpt: "Election Day is here. As voters hit the polls, both candidates in the race for president made stops on the campaign trail."
@@ -432,34 +249,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris speaks to reporters"
-    excerpt: "Watch \"Kamala Harris speaks to reporters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-03T20:28:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201103201045-kamala-harris-speaks-to-reporters/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/03/story_07531918_1604434564.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Village in India prays Kamala Harris' victory"
-    excerpt: "A village in India that was home to the grandparents of Democratic vice presidential candidate Kamala Harris gathered Tuesday to pray for her ticket's win in the U.S. presidential election."
-    publishedDateTime: 2020-11-03T20:50:00Z
-    webUrl: "https://www.cbsnews.com/video/village-in-india-prays-kamala-harris-victory/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/8240f33f-3ec3-4309-984b-1e6cdbc16292/thumbnail/1200x630/ec69a3072b588fc813763eefe160d1ee/social-indianvillagepraysforharris-579935-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vice President Pence, Harris prep for debate with higher stakes"
     excerpt: "NBC NEWS – Vice President Mike Pence and Senator Kamala Harris are expected to face off in a debate on Wednesday night against an extraordinary backdrop that has raised the stakes of the event."
     publishedDateTime: 2020-10-05T13:43:00Z
@@ -475,70 +264,6 @@ related:
       - url: "https://nbc-2.com/wp-content/uploads/2020/10/kamala-and-pence.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Harris target of more misinformation than Pence, data shows"
-    excerpt: "The report identified more than 1 million mentions since June on Twitter of Kamala Harris with hashtags or terms associated with misinformation about her."
-    publishedDateTime: 2020-10-30T14:52:00Z
-    webUrl: "https://www.fox43.com/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
-    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
-    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
-    type: article
-    provider:
-      name: FOX43
-      domain: fox43.com
-    quality: 100
-    images:
-      - url: "https://media.tegna-media.com/assets/WLTX/images/e5a56073-3a52-4460-a3b0-0f7c7b093733/e5a56073-3a52-4460-a3b0-0f7c7b093733_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Kamala Harris, Mike Pence coming back to NC as candidates trade visits"
-    excerpt: "Kamala Harris will return to North Carolina on Sunday as the pace of visits from vice-presidential candidates accelerates ahead of Tuesday’s election. The Democratic vice-presidential nominee announced plans to appear in Goldsboro and Fayetteville,"
-    publishedDateTime: 2020-10-30T16:09:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/state/north-carolina/article246833557.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/state/north-carolina/article246833557.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/state/north-carolina/article246833557.html"
-    type: article
-    provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
-    quality: 100
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/d085c4d8-a702-4a98-b438-17c39bc87d94/1a9f19a3-c8a5-4459-b22b-18ee19a9344e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris target of more misinformation than Mike Pence, data shows"
-    excerpt: "From July to October, Harris and Republican Vice President Mike Pence have been mentioned almost 48 million times combined on Twitter, compared to only 12 million total mentions of Pence or Virginia Sen. Tim Kaine, who was the Democratic vice presidential ..."
-    publishedDateTime: 2020-10-30T04:57:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/"
-    ampWebUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/amp/"
-    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/amp/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 100
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=15e44150-d440-549d-97b0-6e61bc69267e&type=primary&q=72&width=1200"
-        width: 1199
-        height: 799
-        isCached: true
-  - title: "More misinformation directed at Harris than Pence"
-    excerpt: "Since being named to the presidential ticket, Harris has been at the center of online misinformation campaigns far more often — four times as much — than the white men who campaigned for the same"
-    publishedDateTime: 2020-10-29T23:24:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 100
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-20-Debate_77097129.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Joshua Harris-Till: Joe Biden is the right choice for the next generation"
     excerpt: "For the next generation, I believe the only choice for president is Joe Biden. This isn’t about politics; this isn’t about lifelong politicians; this isn’t even about a political party. This election is about common sense."
@@ -602,22 +327,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Kamala Harris target of more misinformation on social media than VP Pence, data shows"
-    excerpt: "Long before Democratic presidential nominee Joe Biden announced her as his running mate, Kamala Harris was the target of widespread online misinformation."
-    publishedDateTime: 2020-10-30T01:58:00Z
-    webUrl: "https://www.wesh.com/article/harris-target-of-more-misinformation-on-social-media-than-pence/34525320"
-    ampWebUrl: "https://www.wesh.com/amp/article/harris-target-of-more-misinformation-on-social-media-than-pence/34525320"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/harris-target-of-more-misinformation-on-social-media-than-pence/34525320"
-    type: article
-    provider:
-      name: WESH
-      domain: wesh.com
-    quality: 93
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kamala-harris-ap-1604022761.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "California’s Democratic base to Newsom: Pick a filibuster foe to replace Kamala Harris if she wins"
     excerpt: "California progressive and labor leaders have a demand of Gov. Gavin Newsom should Sen. Kamala Harris be elected vice president: Pick a replacement who will help get rid of the Senate filibuster to improve Democrats’ chances of passing bills."
     publishedDateTime: 2020-10-20T11:00:00Z
@@ -631,22 +340,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/63/21/20132942/5/rawImage.jpg"
         width: 2048
         height: 1377
-        isCached: true
-  - title: "Kamala Harris to campaign in Detroit for Biden Sunday"
-    excerpt: "Democratic vice presidential nominee Kamala Harris is coming back to Detroit Sunday, Oct. 25. Harris, a Senator representing Califorina, last visited Michigan on Sept. 22, when she held events in Flint and Detroit."
-    publishedDateTime: 2020-10-23T14:02:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-to-campaign-in-detroit-for-biden-sunday.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-to-campaign-in-detroit-for-biden-sunday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-to-campaign-in-detroit-for-biden-sunday.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZGTDFLUUNFFR5IUKOA55HRRVKU.JPG"
-        width: 1300
-        height: 853
         isCached: true
   - title: "Rick Scott to run Florida TV ad attacking Joe Biden and Kamala Harris"
     excerpt: "Florida Republican Sen. Rick Scott isn’t on the 2020 ballot, but voters in Florida will get a glimpse of the senator on their TV screens this weekend."
@@ -664,86 +357,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris brings Biden campaign to Texas"
-    excerpt: "Democratic vice presidential nominee Kamala Harris kicks off a three-city campaign swing through Texas on Friday, signaling that for"
-    publishedDateTime: 2020-10-30T16:58:00Z
-    webUrl: "https://www.statesman.com/news/20201030/kamala-harris-brings-biden-campaign-to-texas"
-    ampWebUrl: "https://www.statesman.com/news/20201030/kamala-harris-brings-biden-campaign-to-texas?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201030/kamala-harris-brings-biden-campaign-to-texas?template=ampart"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 90
-    images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201030&Category=NEWS&ArtNo=201039965&Ref=AR"
-        width: 3000
-        height: 2359
-        isCached: true
-  - title: "Kamala Harris to spend part of Election Day in Detroit"
-    excerpt: "The last-minute swing through Michigan signifies the importance of the state in deciding the ultimate outcome of the presidential election."
-    publishedDateTime: 2020-11-03T08:16:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/02/kamala-harris-detroit-michigan-trump-biden-election-2020/6123547002/"
-    ampWebUrl: "https://amp.freep.com/amp/6123547002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6123547002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 90
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTF/d656bee0-365c-42ae-9042-506d473db88b-092220_kamala_flint_vis2.jpg?auto=webp&crop=2399,1350,x0,y122&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris to visit Detroit on Election Day"
-    excerpt: "Democratic vice presidential candidate Kamala Harris will visit Detroit during a final campaign swing through Michigan on Election Day. Harris is returning to Michigan, a key battleground state, a day after President Donald Trump scheduled rallies in Traverse City and Grand Rapids."
-    publishedDateTime: 2020-11-02T19:53:00Z
-    webUrl: "https://www.mlive.com/politics/2020/11/kamala-harris-to-visit-detroit-on-election-day.html"
-    ampWebUrl: "https://www.mlive.com/politics/2020/11/kamala-harris-to-visit-detroit-on-election-day.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/11/kamala-harris-to-visit-detroit-on-election-day.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AL5A4GXEBBGFZMPEYLQBHCESRU.JPG"
-        width: 1300
-        height: 900
-        isCached: true
-  - title: "Kamala Harris makes Election Day appeal to voters in Detroit"
-    excerpt: "The Democratic vice presidential candidate spent part of her Election Day in the Motor City, talking to voters"
-    publishedDateTime: 2020-11-04T04:09:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2020/11/03/kamala-harris-detroit-michigan-election-day/6130995002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/6130995002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6130995002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 90
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDTN/5c5347ad-0006-4a02-b44d-e7ce0bc00ad9-kamala-detroit.jpg?auto=webp&crop=1619,911,x0,y82&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris makes final push for Michigan voters on Election Day"
-    excerpt: "Harris has stopped in Detroit twice previously since becoming Biden’s running mate in an attempt to motivate voters in Michigan’s largest city to prevent President Donald Trump from winning the state a second time."
-    publishedDateTime: 2020-11-03T22:34:00Z
-    webUrl: "https://www.mlive.com/politics/2020/11/kamala-harris-makes-final-push-for-michigan-voters-on-election-day.html"
-    ampWebUrl: "https://www.mlive.com/politics/2020/11/kamala-harris-makes-final-push-for-michigan-voters-on-election-day.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/11/kamala-harris-makes-final-push-for-michigan-voters-on-election-day.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3GYUSXPTTJHI5LPCCTGUYSW24I.jpg"
-        width: 5312
-        height: 3541
-        isCached: true
   - title: "Kamala Harris knocks Trump multiple times for questioning Obama's birthplace"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris knocked President Trump multiple times on Friday for questioning whether former President Barack Obama was born in the United States."
     publishedDateTime: 2020-10-23T22:53:00Z
@@ -759,38 +372,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/23/Election_2020_Harris_67523.jpg-ffc7d_c0-75-1792-1120_s1200x700.jpg?8157d32486336fcd9b727fe5d5751534d97aa3fc"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Sen. Kamala Harris will travel to Florida on Halloween to campaign for Biden"
-    excerpt: "Democratic vice presidential nominee Kamala Harris will travel to Florida on Halloween in a last-minute push to earn votes in the crucial battleground state. While a handful of the latest polls show Democratic presidential nominee Joe Biden with a narrow lead over incumbent Republican President Donald Trump,"
-    publishedDateTime: 2020-10-29T16:11:00Z
-    webUrl: "https://www.wtsp.com/article/news/politics/kamala-harris-florida-halloween-campaign/67-1b6b33d6-57bd-4c04-aabc-17f1cdb9b379"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/kamala-harris-florida-halloween-campaign/67-1b6b33d6-57bd-4c04-aabc-17f1cdb9b379"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/kamala-harris-florida-halloween-campaign/67-1b6b33d6-57bd-4c04-aabc-17f1cdb9b379"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 87
-    images:
-      - url: "https://media.wtsp.com/assets/WBNS/images/c1538ad2-e519-4060-9427-02347bc7747f/c1538ad2-e519-4060-9427-02347bc7747f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Beyoncé Endorses Joe Biden, Kamala Harris In New Video After Voting For Them"
-    excerpt: "Beyoncé made a last-minute endorsement video for the Democratic presidential candidate Joe Biden and vice-presidential candidate Kamala Harris on social media. Beyoncé joined the long list of celebrities endorsing Biden and Harris."
-    publishedDateTime: 2020-11-03T03:46:00Z
-    webUrl: "https://www.ibtimes.com/beyonce-endorses-joe-biden-kamala-harris-new-video-after-voting-them-3075282"
-    ampWebUrl: "https://www.ibtimes.com/beyonce-endorses-joe-biden-kamala-harris-new-video-after-voting-them-3075282?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/beyonce-endorses-joe-biden-kamala-harris-new-video-after-voting-them-3075282?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 87
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/29/beyonce.jpg"
-        width: 1200
-        height: 691
         isCached: true
   - title: "Kamala Harris in Michigan: Trump administration 'is admitting defeat' on COVID-19"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris said that the Trump administration \"is admitting defeat\" after White House Chief of Staff Mark Meadows said the United States \"is not going to control\" the virus."
@@ -839,22 +420,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Mel Brooks Praised For First Ever Political Video Endorsing Joe Biden, Kamala Harris"
-    excerpt: "Brooks’ name began to trend on Twitter as fans praised the star for making his first-ever political video. In the clip, Brooks reveals that he is voting for Democratic presidential nominee Joe Biden in the upcoming election."
-    publishedDateTime: 2020-10-21T19:26:00Z
-    webUrl: "https://www.ibtimes.com/mel-brooks-praised-first-ever-political-video-endorsing-joe-biden-kamala-harris-3066228"
-    ampWebUrl: "https://www.ibtimes.com/mel-brooks-praised-first-ever-political-video-endorsing-joe-biden-kamala-harris-3066228?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/mel-brooks-praised-first-ever-political-video-endorsing-joe-biden-kamala-harris-3066228?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 83
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/people-stand-in-line-on-the-first-day-AFP_8RX84X-7.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say | Charlotte Observer"
     excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
@@ -917,20 +482,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDTF/f6c9f117-74cf-4558-a513-e8dc14dfdc70-AP20308672071807.jpg?auto=webp&crop=4361,2454,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Seattle Storm endorse Joe Biden-Kamala Harris ticket in 2020 presidential election"
-    excerpt: "In a rare move for a U.S. professional sports team, the Seattle Storm on Wednesday endorsed the Democratic ticket of former Vice President Joe Biden and U.S. Senator Kamala Harris for the 2020 presidential election."
-    publishedDateTime: 2020-10-22T20:47:00Z
-    webUrl: "https://www.chron.com/sports/storm/article/seattle-storm-endorse-joe-biden-kamala-harris-15668155.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 79
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/67/21/20149336/3/rawImage.jpg"
-        width: 2048
-        height: 1395
         isCached: true
   - title: "VP Mike Pence in Fort Wayne, Sen. Kamala Harris in virtual event Thursday"
     excerpt: "Pence on Thursday night arrived at Indianapolis International Airport in preparation for voting Friday morning at the City-County Building in Indianapolis."
@@ -1090,38 +641,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Doug Emhoff Reveals How He and Kamala Harris Stay in Fighting Shape"
-    excerpt: "LIKE THE REST of us, the future maybe first second gentleman of the United States is counting the days until November 3rd, when the fate of the country will be decided and Kamala Harris’s husband, Doug Emhoff, can either return to his home gym in ..."
-    publishedDateTime: 2020-10-29T15:13:00Z
-    webUrl: "https://www.menshealth.com/fitness/a34485835/doug-emhoff-fitness-diet-interview/"
-    ampWebUrl: "https://www.menshealth.com/fitness/amp34485835/doug-emhoff-fitness-diet-interview/"
-    cdnAmpWebUrl: "https://www-menshealth-com.cdn.ampproject.org/c/s/www.menshealth.com/fitness/amp34485835/doug-emhoff-fitness-diet-interview/"
-    type: article
-    provider:
-      name: Men's Health
-      domain: menshealth.com
-    quality: 75
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mh-10-29-emhoff-1603910726.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Kamala Harris to campaign Saturday in South Florida"
-    excerpt: "Democratic vice presidential candidate Kamala Harris will spend Halloween in South Florida, where she will fire up supporters on the final weekend of early voting. Campaign stops are planned for Broward, Miami-Dade and Palm Beach counties on Saturday."
-    publishedDateTime: 2020-10-29T16:14:00Z
-    webUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-kamala-harris-events-20201029-mlotea5mtnfpxi7o3yjoekdmca-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-kamala-harris-events-20201029-mlotea5mtnfpxi7o3yjoekdmca-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/elections/fl-ne-kamala-harris-events-20201029-mlotea5mtnfpxi7o3yjoekdmca-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 75
-    images:
-      - url: "https://www.sun-sentinel.com/resizer/taj9tQzIEZoA-Jnd5gjM6YuLe3w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/67IJXIL6AXFJQHESZWLNCJZGEY.jpg"
-        width: 1200
-        height: 785
-        isCached: true
   - title: "Kamala Harris will campaign in Houston, Fort Worth, McAllen Friday"
     excerpt: "The campaign’s increased attention on Texas comes as polls continue to show a close race in the traditionally red state."
     publishedDateTime: 2020-10-28T21:42:00Z
@@ -1137,70 +656,6 @@ related:
       - url: "https://media.khou.com/assets/WOI/images/d1c3a6be-1210-459d-b261-22521a01b9b1/d1c3a6be-1210-459d-b261-22521a01b9b1_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Kamala Harris Campaigns In South Florida Saturday"
-    excerpt: "As Election Day approaches, the Democratic VP candidate will speak to voters in Palm Beach, Broward and Miami-Dade counties."
-    publishedDateTime: 2020-10-30T02:30:00Z
-    webUrl: "https://patch.com/florida/miami/kamala-harris-campaigns-south-florida-saturday"
-    ampWebUrl: "https://patch.com/florida/miami/amp/29050211/kamala-harris-campaigns-in-south-florida-saturday"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/florida/miami/amp/29050211/kamala-harris-campaigns-in-south-florida-saturday"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
-    images:
-      - url: "https://patch.com/img/cdn20/getty/24559556/20201029/053053/styles/patch_image/public/gettyimages-1229244174___29172917408.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
-  - title: "Kamala Harris visits Texas border in final push to boost turnout"
-    excerpt: "While past presidential campaigns have visited the Texas border, it has been decades since either candidate on a Democratic ticket spent time in the area this close to a presidential election."
-    publishedDateTime: 2020-10-30T05:00:00Z
-    webUrl: "https://www.expressnews.com/news/politics/texas_legislature/article/Kamala-Harris-visits-Texas-border-in-final-push-15690035.php"
-    ampWebUrl: "https://www.expressnews.com/news/politics/texas_legislature/amp/Kamala-Harris-visits-Texas-border-in-final-push-15690035.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/politics/texas_legislature/amp/Kamala-Harris-visits-Texas-border-in-final-push-15690035.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/01/21/20190335/3/rawImage.jpg"
-        width: 2048
-        height: 1293
-        isCached: true
-  - title: "Can Kamala Harris and the Democrats really turn Texas blue?"
-    excerpt: "Why was a Bay Area-born vice presidential candidate stumping in the Lone Star State days before the election? No Democrat has won Texas since Jimmy Carter 44 years ago."
-    publishedDateTime: 2020-11-02T09:30:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/31/can-kamala-harris-and-the-democrats-really-turn-texas-blue/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/31/can-kamala-harris-and-the-democrats-really-turn-texas-blue/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/31/can-kamala-harris-and-the-democrats-really-turn-texas-blue/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/SJM-L-KAMALATEX-1101-1-e1604202014113.jpg?w=1024&h=555"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "Dozens gather for prayers in Kamala Harris' ancestral Indian village"
-    excerpt: "Dozens of people in Thulasendrapuram, India, on Tuesday held prayers for Democratic vice presidential candidate Kamala Harris as the world closely watches the results of the U.S. presidential election."
-    publishedDateTime: 2020-11-03T16:20:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/nov/3/dozens-gather-prayers-kamala-harris-ancestral-indi/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/3/dozens-gather-prayers-kamala-harris-ancestral-indi/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/3/dozens-gather-prayers-kamala-harris-ancestral-indi/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/03/Election_2020_Harris_India_42332.jpg-dcc11_c0-233-4855-3065_s1200x700.jpg?516436a9f8cf5edce60f409902ef1436a3d87cf8"
-        width: 1200
-        height: 700
         isCached: true
   - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Charlotte Observer"
     excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."
@@ -1394,17 +849,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "If Joe Biden wins, history’s light will shine brightest on Kamala Harris"
-    excerpt: "With a straight face, O’Donnell, the “CBS Evening News” anchor, asked Harris whether she would bring a “socialist or progressive perspective” to the White House if Joe Biden is elected president. For months,"
-    publishedDateTime: 2020-10-27T19:01:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/27/opinion/if-joe-biden-wins-historys-light-will-shine-brightest-kamala-harris/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/27/opinion/if-joe-biden-wins-historys-light-will-shine-brightest-kamala-harris/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/27/opinion/if-joe-biden-wins-historys-light-will-shine-brightest-kamala-harris/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 69
   - title: "Gavin Newsom jokes about picking Kamala Harris’ successor as he votes in Sacramento"
     excerpt: "Gavin Newsom says Sacramento Kings player Harrison Barnes is just about the only person he’s talked with recently who hasn’t tried to influence his pick to replace Kamala Harris in the Senate if she’s elected vice president."
     publishedDateTime: 2020-10-29T21:55:00Z
@@ -1542,22 +986,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Cookies, bacon fried apples and tuna sandwiches: Kamala Harris turns to food videos to soften image"
-    excerpt: "Her videos showing how to make Masala Dosa and tuna sandwiches have been watched by millions “Usually I stuff under the skin and then let it sit in the fridge for a day or two with a lot of salt outside,"
-    publishedDateTime: 2020-11-02T12:03:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/11/02/cookies-bacon-fried-apples-tuna-sandwiches-kamala-harris-turns/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/11/02/cookies-bacon-fried-apples-tuna-sandwiches-kamala-harris-turns/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/11/02/cookies-bacon-fried-apples-tuna-sandwiches-kamala-harris-turns/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 61
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/fashion/2020/08/13/GettyImages-465444190_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7COF0Dbvfss_X7FTt_FGsK8.jpg"
-        width: 1838
-        height: 1148
-        isCached: true
   - title: "Joe Biden, Kamala Harris and Theresa Greenfield are silent about proposals to pack the Supreme Court. Why won't they share their views?"
     excerpt: "Greenfield could enable a President Joe Biden to quickly fill new Supreme Court seats with agenda-driven liberals set on eviscerating the rule of law."
     publishedDateTime: 2020-10-27T10:48:00Z
@@ -1671,50 +1099,6 @@ related:
       name: Arizona Daily Star
       domain: tucson.com
     quality: 55
-  - title: "Live Updates: Kamala Harris campaign visit to Lehigh Valley"
-    excerpt: "Democratic vice presidential candidate Kamala Harris is visiting the Lehigh Valley Monday for a Latino Get Out the Vote drive-in event, a day before the presidential election."
-    publishedDateTime: 2020-11-02T15:08:00Z
-    webUrl: "https://www.mcall.com/news/elections/mc-nws-kamala-harris-lehigh-valley-20201102-r4vo6lpmyngrbg7mdh2zqosd5m-htmlstory.html"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 55
-    images:
-      - url: "https://www.mcall.com/resizer/mupEnwvY394hXCmSwUEJB6vK_sg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7AUWGFOTYURH54VAIFOMGR274.jpg"
-        width: 1200
-        height: 786
-        isCached: true
-  - title: "Enthusiasm for Kamala Harris is strong among Black women voters"
-    excerpt: "LesleyAnne Crosby of Minneapolis gathered with a small group of Black women in St. Paul to witness the possibility of Kamala Harris becoming the first Black woman to become vice president. Sondra Samuels raced out the morning of Election Day to buy Chuck Taylor shoes."
-    publishedDateTime: 2020-11-04T05:47:00Z
-    webUrl: "https://www.startribune.com/enthusiasm-for-kamala-harris-is-strong-among-black-women-voters/572965532/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 55
-    images:
-      - url: "https://stmedia.stimg.co/ows_a54acef6-13a8-42d5-b04b-3edc1705f668.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "‘Everything is at stake,’ Democratic VP candidate Kamala Harris tells supporters at Lehigh Valley drive-in rally"
-    excerpt: "Democratic vice presidential nominee Kamala Harris vowed Monday in Northampton County that she and Joe Biden would unite a polarized country, expand healthcare access and invest in working families if Pennsylvania voters help oust Donald Trump on Tuesday."
-    publishedDateTime: 2020-11-02T21:32:00Z
-    webUrl: "https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html"
-    ampWebUrl: "https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 54
-    images:
-      - url: "https://www.mcall.com/resizer/ACiznIAwCTe5XlglrC6t_OWTMPs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q2NPYQZO6NBWNNODONLOG3ZS5Y.JPG"
-        width: 1200
-        height: 836
-        isCached: true
   - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
     excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
     publishedDateTime: 2020-10-20T09:49:00Z
@@ -1742,15 +1126,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 52
-  - title: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas"
-    excerpt: "Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Biden campaign event in Fort Worth, Texas."
-    publishedDateTime: 2020-11-03T22:57:00Z
-    webUrl: "https://www.c-span.org/video/?477547-1/senator-kamala-harris-speaks-biden-campaign-event-fort-worth-texas"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 49
   - title: "Kamala Harris’ cultural background will make her a player on the global stage | Opinion"
     excerpt: "California is waiting to be welcomed back into the national conversation after four years of disrespect and neglect from the White House. In a Joe Biden-Kamala Harris administration, not only will California’s favorite daughter bridge the widened — and widening — federal-state divide,"
     publishedDateTime: 2020-10-22T20:02:00Z
@@ -1762,26 +1137,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 47
-  - title: "John Legend and Senator Kamala Harris at Biden Campaign Rally in Philadelphia"
-    excerpt: "Senator Kamala Harris (D-CA) and singer John Legend spoke at a drive-in Biden campaign drive-in in Philadelphia."
-    publishedDateTime: 2020-11-03T21:46:00Z
-    webUrl: "https://www.c-span.org/video/?477692-1/john-legend-senator-kamala-harris-biden-campaign-rally-philadelphia"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 47
-  - title: "Democratic Vice President Candidate, US Senator Kamala Harris To Campaign In South Florida"
-    excerpt: "Vice presidential candidate, US Senator Kamala Harris will campaign Saturday in Miami-Dade, Broward, and Palm Beach counties as Democrats try to boost early voting turnout in party strongholds."
-    publishedDateTime: 2020-10-29T17:17:00Z
-    webUrl: "https://miami.cbslocal.com/2020/10/29/democratic-vice-president-candidate-us-senator-kamala-harris-to-campaign-in-south-florida/"
-    ampWebUrl: "https://miami.cbslocal.com/2020/10/29/democratic-vice-president-candidate-us-senator-kamala-harris-to-campaign-in-south-florida/amp/"
-    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2020/10/29/democratic-vice-president-candidate-us-senator-kamala-harris-to-campaign-in-south-florida/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 45
   - title: "Sens. Kamala Harris (D-CA) & Bernie Sanders (I-VT) Speak At Virtual Rally for Joe Biden"
     excerpt: "Kamala Harris (D-CA) speaks a virutal rally in support of her running mate Joe Biden’s presidential campaign, hosted by Sen. Bernie Sanders (I-VT). Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
     publishedDateTime: 2020-10-28T20:23:00Z
@@ -1908,105 +1263,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Sen. Kamala Harris (D-CA) Campaigns in Houston"
-    excerpt: "T20:35:00-04:00  2020 vice preisdential candidate Sen. Kamala Harris (D-CA) campaigns in Houston. President Trump won T"
-    publishedDateTime: 2020-10-30T07:22:00Z
-    webUrl: "https://www.c-span.org/video/?477548-1/sen-kamala-harris-d-ca-campaigns-houston"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Campaigns in Fort Worth, Texas"
-    excerpt: "T13:45:00-04:00 Kamala Harris (D-CA) delivers campaign remarks in Fort Worth, Texas. Senator Kamala Harris (D-CA) delivers campaign remarks in Fort Worth, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
-    publishedDateTime: 2020-10-30T13:11:00Z
-    webUrl: "https://www.c-span.org/video/?477547-1/senator-kamala-harris-campaigns-fort-worth-texas"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Campaigns in Houston, Texas"
-    excerpt: "Kamala Harris (D-CA) campaigns in Houston. President Trump won Texas by more than 9 points in 2016, but the latest RealClearPolitics polling average shows him with a smaller lead in the final week. 2020 vice preisdential candidate Sen."
-    publishedDateTime: 2020-10-30T13:15:00Z
-    webUrl: "https://www.c-span.org/video/?477548-1/senator-kamala-harris-campaigns-houston-texas"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Campaigns in McAllen, Texas"
-    excerpt: "Senator Kamala Harris (D-CA) delivers campaign remarks in McAllen, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Biden campaign event in… 2020 vice presidential candidate Senator Kamala Harris (D-CA) campaigned in Reno,"
-    publishedDateTime: 2020-10-30T14:13:00Z
-    webUrl: "https://www.c-span.org/video/?477546-1/senator-kamala-harris-campaigns-mcallen-texas"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Kamala Harris rallies Miami Dems in final early voting weekend"
-    excerpt: "Dade waited for Sen. Kamala Harris to speak at Florida International University’s South Campus in west Miami-Dade Saturday and rally voters."
-    publishedDateTime: 2020-10-31T21:01:00Z
-    webUrl: "https://www.miamiherald.com/news/local/article246865672.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 35
-  - title: "Senator Kamala Harris Remarks to Reporters in Pennsylvania"
-    excerpt: "Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign. Democratic Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign."
-    publishedDateTime: 2020-11-02T18:30:00Z
-    webUrl: "https://www.c-span.org/event/?477707/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Arrives in Detroit"
-    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to reporters as she arrives in Detroit to help get out the vote for the Biden-Harris ticket. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to reporters as she arrives in Detroit to help get out the vote for the Biden-Harris ticket."
-    publishedDateTime: 2020-11-03T19:09:00Z
-    webUrl: "https://www.c-span.org/event/?477774/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Campaigns in Miami"
-    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) addresses supporters at a campaign rally in Miami-Dade County, Florida. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) addresses supporters at a campaign rally in Miami-Dade County,"
-    publishedDateTime: 2020-11-04T00:58:00Z
-    webUrl: "https://www.c-span.org/event/?477610/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris (D-CA) Campaigns in Detroit"
-    excerpt: "T14:07:12-05:00 Kamala Harris (D-CA) urges voters in Detroit to get to the polls and vote. Senator Kamala Harris (D-CA) urges voters in Detroit to get to the polls and vote. Javascript must be enabled in order to access C-SPAN videos."
-    publishedDateTime: 2020-11-03T19:15:00Z
-    webUrl: "https://www.c-span.org/video/?477751-1/senator-kamala-harris-d-ca-campaigns-detroit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris and Doug Emhoff Hold Drive-In Rally in Philadelphia"
-    excerpt: "Kamala Harris (D-CA) is joined by her husband, Doug Emhoff, and singer John Legend at a drive-in campaign rally in Philadelphia. It’s the third and final event on the eve of Election Day. 2020 vice presidential candidate Sen."
-    publishedDateTime: 2020-11-02T11:28:00Z
-    webUrl: "https://www.c-span.org/video/?477692-1/senator-kamala-harris-doug-emhoff-hold-drive-rally-philadelphia"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 34
-  - title: "Senator Kamala Harris Holds Drive-In Rally in Pennsylvania's Lehigh Valley"
-    excerpt: "T13:05:00-05:00 Democratic vice presidential candidate Senator Kamala Harris (D-CA) holds a drive-in rally in Pennsylvania’s Lehigh Valley. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) holds a drive-in rally in Pennsylvania’s Lehigh Valley."
-    publishedDateTime: 2020-11-02T14:31:00Z
-    webUrl: "https://www.c-span.org/video/?477691-1/senator-kamala-harris-holds-drive-rally-pennsylvanias-lehigh-valley"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 33
   - title: "Senator Kamala Harris Remarks to Spelman College Students in Atlanta, Georgia"
     excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to students at Spelman College in Atlanta, Georgia. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
     publishedDateTime: 2020-10-23T19:04:00Z
@@ -2025,24 +1281,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 32
-  - title: "Senator Kamala Harris Holds Canvas Kick Off Event in Luzerne County, Pennsylvania"
-    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County, Pennsylvania. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County,"
-    publishedDateTime: 2020-11-02T17:36:00Z
-    webUrl: "https://www.c-span.org/video/?477690-1/senator-kamala-harris-holds-canvas-kick-event-luzerne-county-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 30
-  - title: "Senator Kamala Harris Holds Canvass Kick Off Event in Luzerne County, Pennsylvania"
-    excerpt: "Senator Kamala Harris (D-CA) campaigned in Reno, Nevada, one week ahead of Election… Democratic vice presidential nominee Senator Kamala Harris (D-CA) spoke at a Biden campaign event in Las Vegas, Nevada."
-    publishedDateTime: 2020-11-02T14:49:00Z
-    webUrl: "https://www.c-span.org/video/?477690-1/senator-kamala-harris-holds-canvass-kick-event-luzerne-county-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 29
 
 secured: "9nvqaDM+AojIuEKZaGs0hXjjrdXlglvIdktavFPN3YN7K7SXr9dn6th8enVOtmTgmYeE9jYL9gB0EMQMyA6hx5Bk0BhZAFuf1RQeg80ImzKonb/+If+dp1AUfszQlQFI6ws7i5wwLYhm2w5WlOTCQzhfzrwKpEnVwgGlLs4UEbcy4sO0dfux9PaMEJyKGhrczQ51SeIBve2gBFriHloFTeAT4qJk/QWUgZx7wTXo40aWErWnlvfxx3u6ud7EPfBYcHAS4uRwj8Ap2md72kNbgXw+aStMXwzVREs/P28MamWeNpjXud+W51f14eQcrujOMK/HeJUNOvFx4rQ/RRsfIVOw2/8s4xfm4Kbm3BO7f6M=;01S2VYi78UEN9oINp0oVyg=="
 ---

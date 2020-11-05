@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 type: article
 quality: 140
-heat: 340
+heat: 280
 published: true
 
 provider:
@@ -63,38 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden is projected to win New Mexico"
-    excerpt: "The state has five electoral votes and wasn't expected to be competitive. It has voted for a Democrat in six of the last seven presidential elections."
-    publishedDateTime: 2020-11-04T04:12:00Z
-    webUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-mexico-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa232441df1d50018218be6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden projected to win in Illinois"
-    excerpt: "Illinois has 20 electoral votes and was not expected by analysts to be competitive."
-    publishedDateTime: 2020-11-04T01:16:00Z
-    webUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/illinois-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa203e269331a0011bc7262?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Joe Biden wins Maryland, with its 10 electoral votes"
     excerpt: "Democrat Joe Biden won Maryland’s 10 electoral votes on Tuesday, defeating President Donald Trump in a heavily Democratic state. Democrats outnumber Republicans 2-to-1 in Maryland. A Republican presidential candidate hasn’t won in Maryland since George H."
     publishedDateTime: 2020-11-04T08:54:00Z
@@ -110,22 +78,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/05/14/20206393/9/rawImage.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "Team Biden's move changes dramatically as vote counts shift"
-    excerpt: "Joe Biden's campaign breathed a sigh of relief Wednesday morning, as the Democratic nominee, in a dramatic turnabout, was able to overtake President Trump in key battleground states that will deliver him the White House."
-    publishedDateTime: 2020-11-04T16:15:00Z
-    webUrl: "https://thehill.com/homenews/campaign/524459-team-bidens-move-changes-dramatically-as-vote-counts-shift"
-    ampWebUrl: "https://thehill.com/homenews/campaign/524459-team-bidens-move-changes-dramatically-as-vote-counts-shift?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/524459-team-bidens-move-changes-dramatically-as-vote-counts-shift?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_11042020getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Biden begins his Election Day at Delaware church"
     excerpt: "Joe Biden is starting Election Day with a visit to church - and his son, Beau. (Nov. 3) AP Domestic. More Videos"

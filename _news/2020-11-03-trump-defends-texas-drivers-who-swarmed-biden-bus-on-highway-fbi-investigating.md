@@ -194,9 +194,9 @@ related:
   - title: "Biden edges closer to White House win as Trump mounts legal challenge"
     excerpt: "Democrat Joe Biden moved closer to victory in the U.S. presidential race on Thursday as election officials tallied votes in the handful of states that will determine the outcome and protesters took to the streets."
     publishedDateTime: 2020-11-05T08:37:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27L0W2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27L0W2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27L0W2"
+    webUrl: "https://www.reuters.com/article/us-usa-election/biden-edges-closer-to-white-house-win-as-trump-mounts-legal-challenge-idUSKBN27L0VI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0VI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0VI"
     type: article
     provider:
       name: Reuters
@@ -238,6 +238,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1540033854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA31R5"
         width: 848
         height: 545
+        isCached: true
+  - title: "Latest Election Day updates: Trump wins Florida"
+    excerpt: "Our live coverage of Election Day includes updates on voter turnout, the latest on Trump and Biden, and news from polling places around Florida."
+    publishedDateTime: 2020-11-05T10:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/live-updates-florida-election-day-voting-turnout-ballots-trump-biden/6038318002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6038318002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038318002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NPPP/5c24e614-5e1a-445b-94a7-cad671b83233-Early_Voting_2020_41.jpg?auto=webp&crop=3617,2035,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "After acrimonious campaign, uneasy Americans choose between Biden, Trump"
     excerpt: "After a rancorous presidential campaign that exposed the depth of the political divisions in the United States, Americans streamed to the polls on Tuesday to choose either incumbent Donald Trump or challenger Joe Biden to lead a pandemic-battered nation for the next"
@@ -398,6 +414,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539924280&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30EZ"
         width: 866
         height: 545
+        isCached: true
+  - title: "Election results updates: Biden is poised to win but it isn't over yet. What we know"
+    excerpt: "Joe Biden is just six electoral votes away from reaching 270 in the presidential race. Here is what we know as we turn to Thursday."
+    publishedDateTime: 2020-11-05T10:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-biden-trump-battleground-states-lawsuits/6167859002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6167859002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6167859002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/05/USAT/f1a0fffe-a198-487a-940a-aacfa19f03c1-AP_Election_2020_Protests_Detroit.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Election 2020 live updates: Trump makes false statement about Election Day ballot counts"
     excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
@@ -572,6 +604,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539806282&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA20TT"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump sues in 3 states, laying ground for contesting outcome"
+    excerpt: "The Trump campaign says it has filed lawsuits in Pennsylvania, Michigan and Georgia, laying the groundwork for contesting battleground states"
+    publishedDateTime: 2020-11-05T09:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-sues-michigan-ballot-access-asks-wis-recount-74024044"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-sues-michigan-ballot-access-asks-wis-recount-74024044"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-sues-michigan-ballot-access-asks-wis-recount-74024044"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ab9a888be0e14ec3a06935e365df78a8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."

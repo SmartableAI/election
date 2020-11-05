@@ -191,6 +191,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump campaign files vote-counting lawsuit in Georgia as margin narrows"
+    excerpt: "The Trump 2020 Campaign and the Republican Party of Georgia filed a lawsuit in the state Wednesday, alleging that officials in a Democrat-leaning county were counting ballots for the presidential race that were received after polls closed Tuesday. "
+    publishedDateTime: 2020-11-05T10:04:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/McPRSKX9zS8/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-vote-counting-lawsuit-in-georgia-as-margin-narrows.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
     excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."
     publishedDateTime: 2020-10-25T20:30:55Z
