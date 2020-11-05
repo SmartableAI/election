@@ -2,6 +2,59 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-10-08-rick-santorum-cut-off-female-co-panelist-gloria-borger-while-she-was-talking-about-mike-pence-interrupting-kamala-harris-at-the-vp-debate.md",
+      "title": "Rick Santorum cut off female co-panelist Gloria Borger while she was talking about Mike Pence interrupting Kamala Harris at the VP debate",
+      "excerpt": "Pence interrupted Harris twice as often during Wednesday night's vice-presidential debate, prompting criticism from the CNN analyst Borger.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10",
+      "originalUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7ed3e0c655f6001969ed92?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp",
+      "publishedDateTime": "2020-10-08T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-kanye-west-tweets-video-with-vote-kanye-hat-on-kamala-harris-head-during-vp-debate.md",
       "title": "Kanye West Tweets Video With 'Vote Kanye' Hat on Kamala Harris' Head During VP Debate",
       "excerpt": "Kanye West's name will appear on ballots in 11 states, but people have wondered whether his presidential campaign is sincere, a spoiler attempt or just a publicity stunt.",
@@ -1332,58 +1385,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-a-look-at-how-the-atlantic-city-disaster-may-have-set-trump-up-to-pay-nothing-in-taxes-for-years.md",
-      "title": "A look at how the Atlantic City disaster may have set Trump up to pay nothing in taxes for years",
-      "excerpt": "A key provision under US tax law known as \"abandonment\" may have been Trump's ticket to a $72.9 million tax refund after leaving his casino business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-atlantic-city-disaster-casinos-hotels-trump-pay-no-taxes-2020-10",
-      "originalUrl": "https://www.businessinsider.com/how-atlantic-city-disaster-casinos-hotels-trump-pay-no-taxes-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7cdca294fce90018f7b82b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

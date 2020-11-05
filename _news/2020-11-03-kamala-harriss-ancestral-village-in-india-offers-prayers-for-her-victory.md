@@ -96,6 +96,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NBC News Exit Poll: Kamala Harris viewed favorably by just over half of voters"
+    excerpt: "If elected vice president, Sen. Kamala Harris would be the first woman and the first person of color to serve in that role."
+    publishedDateTime: 2020-11-04T05:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-day-2020-live-updates-n1245892/ncrd1246258"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245892"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245892"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_45/3423670/201028-election-live-blog-main-cover-cs_97cae1cf7f77d887bed724aee9ec97c6.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Kamala Harris to Pennsylvania voters: ‘We will not be silenced, we know our power’"
     excerpt: "Democratic vice presidential candidate Kamala Harris spoke at a drive-in rally in Bethlehem, Pa., on the day before the 2020 election."
     publishedDateTime: 2020-11-02T20:36:00Z

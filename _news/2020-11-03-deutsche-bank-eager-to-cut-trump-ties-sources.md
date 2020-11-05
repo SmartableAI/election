@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Trump campaign has requested a recount in Wisconsin. Here's how that would happen."
+    excerpt: "Because the state's counties have not certified their vote totals, Mr. Trump cannot yet ask for a recount. But if Mr. Trump does eventually request one, here's how it would work: When the polls close on Election Day and all the ballots have been fed into the voting equipment,"
+    publishedDateTime: 2020-11-05T12:43:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-campaign-demands-recount-wisconsin-2020-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-campaign-demands-recount-wisconsin-2020-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-campaign-demands-recount-wisconsin-2020-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/04/2df5e294-3953-4ef1-9e9f-c5d519209e98/thumbnail/1200x630/03f5e944c70ea45f2456f5707d12bb6b/2020-11-04t011804z-395237983-rc21wj9tgplu-rtrmadp-3-usa-election.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
     excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
     publishedDateTime: 2020-11-05T08:09:00Z

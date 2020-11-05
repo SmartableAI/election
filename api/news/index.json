@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-05-latino-vote-cant-be-ignored-anymore-after-trumps-projected-win-in-florida.md",
+      "title": "Latino vote \"can't be ignored anymore\" after Trump's projected win in Florida",
+      "excerpt": "Among the biggest factors in his Sunshine State victory were Latinos — not just Cuban Americans — who came out in support of the president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/latino-vote-2020-election/",
+      "originalUrl": "https://www.cbsnews.com/news/latino-vote-2020-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/04/76caa4c1-baa7-41ba-9e2f-3da5bce3eb1a/thumbnail/1200x630/2c0cbc94497a46f4109563aaf7b93469/gettyimages-1229449766.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/latino-vote-2020-election/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/latino-vote-2020-election/",
+      "publishedDateTime": "2020-11-05T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-harriss-ancestral-village-in-india-gets-festive-as-biden-leads-count.md",
       "title": "Harris’s ancestral village in India gets festive as Biden leads count",
       "excerpt": "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House.",
@@ -1257,62 +1309,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60.amp",
       "publishedDateTime": "2020-11-03T22:56:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading.md",
-      "title": "Twitter flags Trump tweet warning Democrats 'trying to steal' the election as 'misleading'",
-      "excerpt": "President Trump tweeted that Democrats are “trying to STEAL the Election,” while claiming a “big win”—a post that Twitter flagged as “misleading” content.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Kufij6pdQQ/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Kufij6pdQQ/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading.amp",
-      "publishedDateTime": "2020-11-03T22:28:56-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

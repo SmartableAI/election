@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 3324
+heat: 3364
 published: true
 
 provider:
@@ -1151,6 +1151,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "As mail-in votes are still being counted, Trump's lead in Pennsylvania has shrunk dramatically"
+    excerpt: "The race for the White House is still close to call, with tightening races in Georgia, Arizona and Pennsylvania as former Vice President Joe Biden edged close to the 270-electoral-vote threshold needed to win and President Donald Trump's hopes of clinching reelection appeared to be slipping away.\n  "
+    publishedDateTime: 2020-11-05T12:02:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CjxcQDS8Z_g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/presidential-election-2020-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/presidential-election-2020-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104194549-georgia-fulton-county-vote-counting-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Election live updates: Trump, Biden hit battleground states with one week to go"
     excerpt: "With one week remaining until Election Day, Tuesday begins the final countdown of the campaign for President Donald Trump and Joe Biden. Trump is holding afternoon events in the key battleground states of Michigan and Wisconsin,"
     publishedDateTime: 2020-10-27T10:55:00Z
@@ -2024,6 +2040,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04breakout-battleground-states-sub/merlin_179552880_8e1b93c1-650c-45a3-9c7b-ca42a25f515a-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Edges Close to 270"
+    excerpt: "Joe Biden has now won 253 electoral votes and has multiple routes to the White House, with five swing states still undecided and uncounted votes in several likely to favor him. While Trump has not indicated that he has any plans to concede,"
+    publishedDateTime: 2020-11-05T12:05:00Z
+    webUrl: "https://www.nytimes.com/2020/11/05/us/politics/biden-270-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/05/us/politics/biden-270-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/us/politics/biden-270-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/04/22/us/onpolitics-flag/onpolitics-flag-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

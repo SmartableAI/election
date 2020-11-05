@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-10-07-a-look-at-how-the-atlantic-city-disaster-may-have-set-trump-up-to-pay-nothing-in-taxes-for-years.md",
+      "title": "A look at how the Atlantic City disaster may have set Trump up to pay nothing in taxes for years",
+      "excerpt": "A key provision under US tax law known as \"abandonment\" may have been Trump's ticket to a $72.9 million tax refund after leaving his casino business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-atlantic-city-disaster-casinos-hotels-trump-pay-no-taxes-2020-10",
+      "originalUrl": "https://www.businessinsider.com/how-atlantic-city-disaster-casinos-hotels-trump-pay-no-taxes-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7cdca294fce90018f7b82b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-fact-check-robert-byrd-eulogized-by-joe-biden-at-funeral-was-not-kkk-grand-wizard.md",
       "title": "Fact check: Robert Byrd, eulogized by Joe Biden at funeral, was not KKK Grand Wizard",
       "excerpt": "Social media users have been sharing content online that claims Democratic Presidential nominee Joe Biden eulogized Robert Byrd, asserting he was the grand wizard of the Ku Klux Klan (KKK). This claim is partly false.",
@@ -1325,62 +1377,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-hollywood-inspired-trump-sign-pops-up-on-mountainside-above-california-freeway.md",
-      "title": "Hollywood-inspired ‘Trump’ sign pops up on mountainside above California freeway",
-      "excerpt": "A towering, Hollywood-esque Trump sign briefly appeared above California’s 405 Freeway near Sepulveda Pass, just to the west of Los Angeles, before workers took it down Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StaBn90dEgM/hollywood-trump-sign-california-freeway",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/StaBn90dEgM/hollywood-trump-sign-california-freeway",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hollywood-Sign-iStock.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hollywood-trump-sign-california-freeway.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hollywood-trump-sign-california-freeway.amp",
-      "publishedDateTime": "2020-10-06T12:54:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

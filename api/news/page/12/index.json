@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-23-north-carolina-man-with-van-full-of-guns-asked-should-i-kill-joe-biden-online-authorities-say.md",
+      "title": "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say",
+      "excerpt": "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3740228001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001",
+      "publishedDateTime": "2020-10-23T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-president-trump-weighing-firing-of-fbi-director-christopher-wray-after-election.md",
       "title": "President Trump weighing firing of FBI Director Christopher Wray after election",
       "excerpt": "President Trump regards FBI Director Christopher Wray as having gone out of his way to separate himself from the president on multiple occasions.",
@@ -1295,58 +1347,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-biden-proposes-panel-to-study-reforming-out-of-whack-us-judiciary.md",
-      "title": "Biden proposes panel to study reforming 'out of whack' U.S. judiciary",
-      "excerpt": "U.S. Democratic presidential candidate Joe Biden delivers remarks during a voter mobilization event, at Miramar Regional Park in Miramar, Florida, U.S., October 13, 2020. REUTERS/Tom Bren",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/biden-proposes-panel-to-study-reforming-idUSKBN277238",
-      "originalUrl": "https://www.reuters.com/news/picture/biden-proposes-panel-to-study-reforming-idUSKBN277238",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538470114&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L175",
-          "width": 810,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

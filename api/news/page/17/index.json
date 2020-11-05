@@ -2,6 +2,63 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-10-17-ossoff-raises-1-million-in-senate-race-after-perdue-mispronounces-kamala-harriss-name.md",
+      "title": "Ossoff raises $1 million in Senate race after Perdue mispronounces Kamala Harris's name",
+      "excerpt": "Democratic Georgia Senate candidate Jon Ossoff announced Saturday that his campaign raised $1 million after Sen. David Perdue, R-Ga., appeared to mock the name of democratic vice presidential candidate Kamala Harris at a rally Friday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IR7NliYNX3s/ossoff-raises",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IR7NliYNX3s/ossoff-raises",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/081a6c40-dd52-414e-8d63-9ca720cac7f7/518c3dc2-a2a5-402c-ae4b-77e7c7f5058e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ossoff-raises.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ossoff-raises.amp",
+      "publishedDateTime": "2020-10-17T15:17:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-trump-slams-republican-critic-who-warned-of-november-bloodbath.md",
       "title": "Trump slams Republican critic who warned of November 'bloodbath'",
       "excerpt": "U.S. President Donald Trump on Saturday attacked a longtime congressional critic who warned this week that his handling of the coronavirus pandemic and authoritarian leaders could cause a \"Republican bloodbath in the Senate\" in the Nov.",
@@ -1224,58 +1281,6 @@
         "name": "WTVD",
         "domain": "abc11.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-opponent-of-pences-brother-alleges-racist-threats-gunfire.md",
-      "title": "Opponent of Pence's brother alleges racist threats, gunfire",
-      "excerpt": "A Black woman running for Congress in Indiana against Vice President Mike Pence's brother says she has received numerous racist and threatening messages and thinks she heard gunfire before a campaign",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_dd8ad0e12c23463da4021f5640723e72_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
-      "publishedDateTime": "2020-10-16T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

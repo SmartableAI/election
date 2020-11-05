@@ -333,6 +333,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden gains ground in White House vote count as Trump mounts legal challenges"
+    excerpt: "Democrat Joe Biden edged closer to victory in the U.S. presidential race on Thursday as election officials tallied votes in the handful of states that will determine the outcome and protesters took to the streets."
+    publishedDateTime: 2020-11-05T12:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/us-vote-count-edges-biden-closer-to-win-as-trump-mounts-legal-challenges-idUSKBN27J0FZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0VI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0VI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540103921&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA40IX"
+        width: 833
+        height: 545
+        isCached: true
   - title: "Trump defends Texas drivers who swarmed Biden bus on highway; FBI investigating"
     excerpt: "According to the Biden campaign, the vehicles surrounded the bus trying to slow it down in the middle of the highway or run it off the road."
     publishedDateTime: 2020-11-03T15:11:00Z
@@ -634,6 +650,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_ab9a888be0e14ec3a06935e365df78a8_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump supporters protest outside Arizona vote center"
+    excerpt: "A crowd of Donald Trump supporters, some armed with rifles and handguns, gathered outside an election center in Arizona on Wednesday night after unsubstantiated rumors that votes for the Republican president were deliberately not being counted."
+    publishedDateTime: 2020-11-05T12:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-protests-arizona-idUSKBN27L0PC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0PC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0PC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540103709&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA40HP"
+        width: 817
+        height: 545
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."

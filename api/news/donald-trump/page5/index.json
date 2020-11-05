@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-18-he-was-having-fun-lara-trump-defends-presidents-attack-on-whitmer.md",
+      "title": "‘He was having fun’: Lara Trump defends president’s attack on Whitmer",
+      "excerpt": "Privacy Policy She also said the president’s attack on Whitmer “has nothing to do with” her attempted kidnapping. | Samuel Corum/ Lara Trump, a senior adviser to President Donald Trump’s reelection campaign,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/18/lara-trump-attack-whitmer-430060",
+      "originalUrl": "https://www.politico.com/news/2020/10/18/lara-trump-attack-whitmer-430060",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/57/8a/fcf09f5549d5aab4dfae0eb155d5/20201018-laratrump-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/18/lara-trump-attack-whitmer-430060",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/18/lara-trump-attack-whitmer-430060",
+      "publishedDateTime": "2020-10-18T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-stimulus-bill-2-trump-says-mnuchin-hasnt-come-home-with-the-bacon.md",
       "title": "Stimulus Bill 2: Trump Says Mnuchin Hasn’t ‘Come Home With the Bacon’",
       "excerpt": "As stimulus talks for more coronavirus relief remain halted, President Donald Trump is throwing Treasury Secretary Steven Mnuchin under the bus.",
@@ -1439,58 +1496,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-trump-tries-to-shore-up-support-from-big-business-iowans.md",
-      "title": "Trump tries to shore up support from big business, Iowans",
-      "excerpt": "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_d47b702268724e7b9f1ab4a4522bab57_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
-      "publishedDateTime": "2020-10-14T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

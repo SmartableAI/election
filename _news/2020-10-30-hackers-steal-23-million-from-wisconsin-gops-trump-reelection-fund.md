@@ -223,6 +223,22 @@ related:
         width: 975
         height: 487
         isCached: true
+  - title: "The Health 202: Trump's pandemic response didn't hurt him as much as Democrats expected"
+    excerpt: "Democrats expected the 2020 presidential election would be a referendum on President Trump’s handling of the coronavirus pandemic. But it may not have hurt Trump so much — even as his opponent Joe Biden appears closer to victory this morning after winning key states of Wisconsin and Michigan."
+    publishedDateTime: 2020-11-05T12:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GRHKMRQZ7UI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process"
     excerpt: "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters."
     publishedDateTime: 2020-10-28T21:35:00Z
