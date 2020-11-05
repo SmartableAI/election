@@ -267,6 +267,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump campaign says more legal action coming, predicts victory as early as Friday"
+    excerpt: "President Donald Trump's campaign said on Thursday it expected to launch additional legal action in Pennsylvania and Nevada and predicted that the Republican incumbent would emerge victorious in the U."
+    publishedDateTime: 2020-11-05T16:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-star/trump-campaign-says-more-legal-action-coming-predicts-victory-as-early-as-friday-idUSKBN27L26X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L26X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L26X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
   - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
     excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
     publishedDateTime: 2020-10-29T21:58:00Z

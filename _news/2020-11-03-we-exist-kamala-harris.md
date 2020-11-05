@@ -872,6 +872,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Trump Campaign Gets Positive Ruling in Challenge to Pennsylvania Vote-Count Process"
+    excerpt: "In a win for one of the Trump campaign's recent legal challenges, a Pennsylvania appeals court ruled Thursday that poll observers must be allowed to closely observe the vote-counting process. The Trum"
+    publishedDateTime: 2020-11-05T16:21:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/ZhdOMn7amAYher9H1Hgp"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 109
+    images:
+      - url: "https://images.wsj.net/im-255469?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Watch: Joe Biden Campaigns In Ohio, Western Pennsylvania Ahead Of Election Day"
     excerpt: "Former Vice President Joe Biden is scheduled to speak Monday afternoon at campaign stops in Cleveland, Ohio and Monaca, Pennsylvania on the final day of the 2020 campaign."
     publishedDateTime: 2020-11-04T02:47:00Z

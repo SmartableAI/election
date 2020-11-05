@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign to announce Nevada lawsuit alleging nonresidents voted there"
+    excerpt: "The Trump campaign is filing a federal lawsuit in Las Vegas Thursday, suing to stop the counting of what it calls “illegal votes” in Nevada, claiming to have evidence that people who are deceased and nonresidents have cast ballots in the 2020 election."
+    publishedDateTime: 2020-11-05T15:46:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RXTFQK0ilWk/trump-campaign-nevada-election-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-nevada-election-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-nevada-election-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Giuliani ‘en route’ to Philadelphia with Trump legal team as ballot battle ramps up"
     excerpt: "Rudy Giuliani, the personal attorney to President Trump, said he is \"en route\" to Phildelphia with the Trump campaign legal team, vowing to protect the vote and \"not let\" Democrats \"steal\" Pennsylvania in the 2020 presidential race as the ballot battle intensifies Wednesday. "
     publishedDateTime: 2020-11-04T19:39:04Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1664377/trump-arizona-2016.jpg"
         width: 2500
         height: 1614
+        isCached: true
+  - title: "Donald Trump has won Indiana"
+    excerpt: "Indiana has 11 electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-05T06:37:00Z
+    webUrl: "https://www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa2aaec1df1d50018218c81?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump campaign files lawsuit over Georgia county ballot sorting"
     excerpt: "U.S. President Donald Trump's reelection campaign on Wednesday said it had filed a lawsuit in Georgia to require that Chatham County separate and secure late-arriving ballots to ensure they are not counted."

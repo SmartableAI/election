@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump accused of undermining US democracy by international elections watchdog"
+    excerpt: "The OSCE criticised Trump's bid to undermine postal ballots, and the president's use of \"discriminatory and pejorative statements\""
+    publishedDateTime: 2020-11-05T16:10:00Z
+    webUrl: "https://www.businessinsider.com/trump-accused-of-undermining-democracy-by-osce-observers-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-accused-of-undermining-democracy-by-osce-observers-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-accused-of-undermining-democracy-by-osce-observers-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 137
+    images:
+      - url: "https://i.insider.com/5fa411bff7d1cb0019e39f31?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "After \"Fire Fauci\" chants, Trump tells crowd: \"Let me wait till a little bit after the election\""
     excerpt: "Speaking at a big campaign rally in Opa-locka, Florida, Mr. Trump voiced frustration that the pandemic which has killed more than 231,000 Americans continues to dominate the news, sparking chants of \"Fire Fauci\" from the crowd."
     publishedDateTime: 2020-11-02T16:34:00Z

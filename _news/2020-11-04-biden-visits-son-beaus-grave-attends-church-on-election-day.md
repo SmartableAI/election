@@ -856,6 +856,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Trump Campaign Gets Positive Ruling in Challenge to Pennsylvania Vote-Count Process"
+    excerpt: "In a win for one of the Trump campaign's recent legal challenges, a Pennsylvania appeals court ruled Thursday that poll observers must be allowed to closely observe the vote-counting process. The Trum"
+    publishedDateTime: 2020-11-05T16:21:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/ZhdOMn7amAYher9H1Hgp"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 109
+    images:
+      - url: "https://images.wsj.net/im-255469?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "We Exist, Kamala Harris"
     excerpt: "I was born rejected and it’s a constant source of anguish for me. But it’s not just me. I’m not alone in surviving an abortion. I don’t know how many"
     publishedDateTime: 2020-11-03T04:01:00Z

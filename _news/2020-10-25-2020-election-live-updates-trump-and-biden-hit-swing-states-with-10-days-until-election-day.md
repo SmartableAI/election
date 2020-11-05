@@ -2058,6 +2058,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Appears to Hold Edge in the Key Votes Left to Be Counted"
+    excerpt: "Joe Biden looks to be on the cusp of winning the election. Here’s a look at where the vote count stands in the key states. President Trump’s lead in Pennsylvania has plummeted to two percentage points as of Thursday morning,"
+    publishedDateTime: 2020-11-05T15:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/05/upshot/biden-election-results-votes.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/05/upshot/biden-election-results-votes.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/upshot/biden-election-results-votes.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/upshot/05up-whats-left/05up-whats-left-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden Edges Close to 270"
     excerpt: "Joe Biden has now won 253 electoral votes and has multiple routes to the White House, with five swing states still undecided and uncounted votes in several likely to favor him. While Trump has not indicated that he has any plans to concede,"
     publishedDateTime: 2020-11-05T12:05:00Z
@@ -2153,6 +2169,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/22/us/politics/live-blog-20201022-promo5/live-blog-20201022-promo5-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump’s defiant campaign manager declares, ‘Donald Trump is alive and well.’"
+    excerpt: "President Trump’s campaign team, facing a narrowing path to victory, on Thursday held firm to its predictions that the race will be called for the incumbent as soon as Friday, and said it will likely be filing additional legal actions."
+    publishedDateTime: 2020-11-05T16:24:00Z
+    webUrl: "https://www.nytimes.com/2020/11/05/us/politics/trumps-defiant-campaign-manager-declares-donald-trump-is-alive-and-well.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/05/us/politics/trumps-defiant-campaign-manager-declares-donald-trump-is-alive-and-well.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/us/politics/trumps-defiant-campaign-manager-declares-donald-trump-is-alive-and-well.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/us/politics/05elex-blog-trump-stepien/05elex-blog-trump-stepien-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden leads Trump by 5 points in Iowa poll"
     excerpt: "Theresa Greenfield, the Democratic challenger in the state’s Senate contest, leads incumbent Sen. Joni Ernst by the identical margin in the Quinnipiac survey."

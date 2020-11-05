@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign to announce Nevada lawsuit alleging nonresidents voted there"
+    excerpt: "The Trump campaign is filing a federal lawsuit in Las Vegas Thursday, suing to stop the counting of what it calls “illegal votes” in Nevada, claiming to have evidence that people who are deceased and nonresidents have cast ballots in the 2020 election."
+    publishedDateTime: 2020-11-05T15:46:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RXTFQK0ilWk/trump-campaign-nevada-election-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-nevada-election-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-nevada-election-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump campaign adviser Lewandowski predicts clear election winner with Trump victories in major swing states"
     excerpt: "President Trump has warned that Americans may not learn the results of the presidential election until well after Election Day due to certain battleground states extending the deadline for accepting mailed ballots, but Trump campaign senior adviser Corey Lewandowski predicted that Trump will win so decisively"
     publishedDateTime: 2020-11-01T15:08:25Z

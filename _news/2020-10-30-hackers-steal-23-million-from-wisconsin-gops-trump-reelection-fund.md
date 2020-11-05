@@ -269,6 +269,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump campaign says more legal action coming, predicts victory as early as Friday"
+    excerpt: "President Donald Trump's campaign said on Thursday it expected to launch additional legal action in Pennsylvania and Nevada and predicted that the Republican incumbent would emerge victorious in the U."
+    publishedDateTime: 2020-11-05T16:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-star/trump-campaign-says-more-legal-action-coming-predicts-victory-as-early-as-friday-idUSKBN27L26X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L26X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L26X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
   - title: "Official Vote Count Continues Nationwide as Donald Trump Falsely Claims a Win From The White House"
     excerpt: "The Associated Press has not yet projected a winner of the race and states will not complete their exhaustive counts for several days."
     publishedDateTime: 2020-11-04T08:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-electio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html"
 type: article
 quality: 189
-heat: 349
+heat: 369
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 156
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028173703-02-trump-arizona-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
+    excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
+    publishedDateTime: 2020-11-05T15:37:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FE56q_IDSxo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104001833-pensilvania-philadelphia-voting-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

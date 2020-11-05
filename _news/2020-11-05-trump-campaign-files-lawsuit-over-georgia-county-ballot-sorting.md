@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1614
         isCached: true
+  - title: "Donald Trump has won Indiana"
+    excerpt: "Indiana has 11 electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-05T06:37:00Z
+    webUrl: "https://www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa2aaec1df1d50018218c81?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
     excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
     publishedDateTime: 2020-10-21T17:09:00Z

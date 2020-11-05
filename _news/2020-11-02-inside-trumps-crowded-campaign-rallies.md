@@ -317,6 +317,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Libertarian candidate Jo Jorgensen pulls some votes from Biden and Trump, calls election a 'wake-up call'"
+    excerpt: "Libertarian presidential candidate Jo Jorgensen was back on Clemson University's campus to teach her in-person class."
+    publishedDateTime: 2020-11-05T16:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/jo-jorgensen-libertarian-presidential-candidate-gets-votes-in-wisconsin/6173100002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6173100002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6173100002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 138
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PTAL/f50a7dba-7c64-43c2-8c75-44d3fc817764-Jo_Jorgenson101.JPG?auto=webp&crop=4466,2513,x0,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden Trounces Trump In Final Tally Of Major Newspaper Endorsements: 47 To 7"
     excerpt: "The former vice president even won the backing of several major publications that have never made a presidential endorsement."
     publishedDateTime: 2020-11-02T18:51:00Z
@@ -888,6 +904,22 @@ related:
       - url: "https://i.insider.com/5f8f521ab0526700185cc7a2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Election challenges live updates: Trump announces lawsuit in Nevada; claims over vote counting in Michigan, Pennsylvania, Georgia pending"
+    excerpt: "As the race between Donald Trump and Joe Biden continues to narrow, the next battleground looks to be the courtroom. Latest news."
+    publishedDateTime: 2020-11-05T16:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-election-lawsuits-recounts-pennsylvania-michigan-nevada-georgia/6172803002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6172803002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6172803002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/8bc0821d-3529-4ac9-921f-5c7197680059-AP_Election_2020_Lawsuits_Glance.jpg?auto=webp&crop=4855,2731,x0,y168&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Live updates: How Joe Biden and Kamala Harris are spending Election Day"
     excerpt: "Former Vice President Joe Biden and Sen. Kamala Harris are focusing on swing states on the last day on the campaign trail."

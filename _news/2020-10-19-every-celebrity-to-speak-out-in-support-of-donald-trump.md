@@ -1727,6 +1727,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "In a divided U.S., Biden inches nearer to victory as Trump pursues litigation"
+    excerpt: "Democrat Joe Biden edged closer to victory over Donald Trump for the U.S. presidency on Thursday as election officials tallied votes in the handful of states that will decide the outcome and the Republican president pursued a litigation strategy."
+    publishedDateTime: 2020-11-05T16:53:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/biden-edges-closer-to-us-election-win-as-trump-mounts-legal-challenges-idUSKBN27L0VM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0VI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0VI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540103921&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA40IX"
+        width: 833
+        height: 545
+        isCached: true
   - title: "For Trump and Biden, debate fuels allegations of improper family foreign deals"
     excerpt: "President Donald Trump leveled new attacks at the son of former Vice President Joe Biden at Thursday night’s debate."
     publishedDateTime: 2020-10-23T03:34:00Z
@@ -2444,6 +2460,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US election 2020: Joe Biden holds lead over Donald Trump in tense wait for results – live"
+    excerpt: "Battle for White House now down to handful of states including Nevada, Georgia and Pennsylvania"
+    publishedDateTime: 2020-11-05T16:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa423318f08578732a63a91"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 126
   - title: "Supreme Court To Decide Trump Border Wall Funding Case"
     excerpt: "The U.S. Supreme Court will hear a case this term regarding whether President Donald Trump can build his border wall using diverted military funds that were not appropriated by Congress, the court announced Monday,"
     publishedDateTime: 2020-10-19T15:33:00Z
@@ -4056,6 +4083,20 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/11/peter-van-agtmael-election-2020-grand-rapids.jpg"
         width: 2400
         height: 1601
+        isCached: true
+  - title: "Even If Joe Biden Wins, He Will Govern in Donald Trump’s America"
+    excerpt: "The car horns blared as Joe Biden took the stage just before 1 a.m.—not to proclaim victory, but to urge his supporters not to lose hope, no matter what President Donald Trump might say. “We believe we are on track to win this election,"
+    publishedDateTime: 2020-11-05T16:20:00Z
+    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR0OhWIplKoGzoYXNqWUj8_sDm_Umxelq-r4h4QC6ylD_v6uDiDsBmbCao4page%2F4page%2F7page%2F7page%2F4page%2F8page%2F28page/2"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/peter-van-agtmael-election-2020-grand-rapids.jpg?quality=85&w=550"
+        width: 550
+        height: 367
         isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
