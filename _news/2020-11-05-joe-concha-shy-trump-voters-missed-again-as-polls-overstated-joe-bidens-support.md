@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says he has ‘no doubt’ he will defeat Trump when vote count is finished"
+    excerpt: "Joe Biden says he has “no doubt” that once the vote count is complete, he’ll defeat President Trump to win the White House."
+    publishedDateTime: 2020-11-05T22:38:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_A8SqgrSOfw/biden-no-doubt-defeat-trump-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-doubt-defeat-trump-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-doubt-defeat-trump-votes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310779175857.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Election 2020 legal battles take shape as Trump campaign files lawsuits in key battleground states"
     excerpt: "As expected, the 2020 presidential campaign season has evolved into a post-election battle consisting of legal challenges in crucial battleground states as President Trump's campaign attempts to prevent the counting of ballots they allege are or could be invalid."
     publishedDateTime: 2020-11-05T14:46:50Z

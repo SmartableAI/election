@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671"
 type: article
 quality: 153
-heat: 1833
+heat: 1853
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/02/NPPP/5c24e614-5e1a-445b-94a7-cad671b83233-Early_Voting_2020_41.jpg?auto=webp&crop=3617,2035,x0,y289&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump says campaign will legally challenge 'Biden claimed states'"
+    excerpt: "President Donald Trump threatened more legal challenges on Thursday over results from Tuesday's presidential election in a handful of states, claiming without any evidence that voter fraud has been committed in places where Democrat Joe Biden appears to have won."
+    publishedDateTime: 2020-11-05T22:11:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-challenges-idUKKBN27L29A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27L29A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27L29A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540140995&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41CG"
+        width: 816
+        height: 545
         isCached: true
   - title: "After acrimonious campaign, uneasy Americans choose between Biden, Trump"
     excerpt: "After a rancorous presidential campaign that exposed the depth of the political divisions in the United States, Americans streamed to the polls on Tuesday to choose either incumbent Donald Trump or challenger Joe Biden to lead a pandemic-battered nation for the next"

@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-03-biden-gets-an-endorsement-from-silicon-valley-live-business-updates.md",
+      "title": "Biden Gets an Endorsement From Silicon Valley: Live Business Updates",
+      "excerpt": "A group of 11 founders, investors and business leaders from the technology industry endorsed Democratic presidential nominee Joseph R. Biden Jr. in a letter published on Monday, s",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
+      "originalUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/30/business/30markets-brf-markets/merlin_179245557_12422739-1663-479d-9813-613dc9789fb3-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
+      "publishedDateTime": "2020-11-02T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-trump-supporters-at-rallies-continue-to-get-stranded-in-chilly-temperatures.md",
       "title": "Trump supporters at rallies continue to get stranded in chilly temperatures",
       "excerpt": "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n",
@@ -122,7 +179,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1833,
+      "heat": 1853,
       "tags": null,
       "images": [
         {
@@ -591,7 +648,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 3464,
+      "heat": 3484,
       "tags": null,
       "images": [
         {
@@ -871,7 +928,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 390,
+      "heat": 410,
       "tags": null,
       "images": [
         {
@@ -1280,62 +1337,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
       "publishedDateTime": "2020-11-01T08:10:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.md",
-      "title": "Trump, Ernst take leads over Dem challengers in Iowa poll",
-      "excerpt": "Just days before Election Day, both President Trump and U.S. Sen. Joni Ernst have pulled ahead of their Democratic challengers in the assessment of Iowa voters, a new poll shows.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80259ac2-43eb-438e-a2d5-2bdface5d4b2/bcc4294e-9b2c-457a-98ce-4d1de4a56c36/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
-      "publishedDateTime": "2020-10-31T23:47:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

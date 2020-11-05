@@ -1749,18 +1749,18 @@ related:
         isCached: true
   - title: "In a divided U.S., Biden inches nearer to victory as Trump pursues litigation"
     excerpt: "Democrat Joe Biden edged closer to victory over Donald Trump for the U.S. presidency on Thursday as election officials tallied votes in the handful of states that will decide the outcome and the Republican president pursued a litigation strategy."
-    publishedDateTime: 2020-11-05T16:53:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int/biden-edges-closer-to-us-election-win-as-trump-mounts-legal-challenges-idUSKBN27L0VM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0VI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0VI"
+    publishedDateTime: 2020-11-05T22:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idCAKBN27L0VI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27L0VI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27L0VI"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 137
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540103921&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA40IX"
-        width: 833
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540174838&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41SF"
+        width: 817
         height: 545
         isCached: true
   - title: "For Trump and Biden, debate fuels allegations of improper family foreign deals"
@@ -3344,6 +3344,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "US election 2020: Joe Biden urges calm as he holds lead over Donald Trump in tense wait – live"
+    excerpt: "Battle for White House down to handful of states including Nevada, Georgia and Pennsylvania"
+    publishedDateTime: 2020-11-05T22:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa4722a8f08f536f6a6002e"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/a1315ed5653ad683535b56900cfc19fed680d720/0_18_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6717401766ea3d11aa20d64d2b11a73a"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Presidential-debate commission allows for muting microphones so Trump and Biden can have uninterrupted time"
     excerpt: "The panel said the new rules \"strike the right balance and that they are in the interest of the American people, for whom these debates are held.\""
     publishedDateTime: 2020-10-21T14:43:00Z
@@ -4111,8 +4125,8 @@ related:
         isCached: true
   - title: "Even If Joe Biden Wins, He Will Govern in Donald Trump’s America"
     excerpt: "The car horns blared as Joe Biden took the stage just before 1 a.m.—not to proclaim victory, but to urge his supporters not to lose hope, no matter what President Donald Trump might say. “We believe we are on track to win this election,"
-    publishedDateTime: 2020-11-05T16:20:00Z
-    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR0OhWIplKoGzoYXNqWUj8_sDm_Umxelq-r4h4QC6ylD_v6uDiDsBmbCao4page%2F4page%2F7page%2F7page%2F4page%2F8page%2F28page/2"
+    publishedDateTime: 2020-11-05T22:52:00Z
+    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR1dlasOqxnB6IL1FesnBCBQTQzsTJ6hWSf32b4iwwRwcg-V5_cN-U3R1I8page%2F6page%2F7page%2F5page%2F4page%2F5page%2F26page%2F2page%2F3page%2F2page%2F28page/2"
     type: article
     provider:
       name: Time

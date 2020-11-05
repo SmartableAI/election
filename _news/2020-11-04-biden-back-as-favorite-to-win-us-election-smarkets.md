@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 type: article
 quality: 140
-heat: 280
+heat: 300
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/fc34688e-f71f-41ca-8466-c8d5269ea8d3-32d9e3ec-51a3-4cbf-8a55-913fddc572d5_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "US election: Joe Biden - 'Each ballot must be counted'"
+    excerpt: "The Democratic presidential candidate calls on people to be patient with the US election result."
+    publishedDateTime: 2020-11-05T22:03:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54834570"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 70
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08xjmql.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
     excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"

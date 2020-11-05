@@ -93,6 +93,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "US election: Joe Biden - 'Each ballot must be counted'"
+    excerpt: "The Democratic presidential candidate calls on people to be patient with the US election result."
+    publishedDateTime: 2020-11-05T22:03:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54834570"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 70
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08xjmql.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
     excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
     publishedDateTime: 2020-11-04T02:05:00Z

@@ -105,6 +105,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "US election: Joe Biden - 'Each ballot must be counted'"
+    excerpt: "The Democratic presidential candidate calls on people to be patient with the US election result."
+    publishedDateTime: 2020-11-05T22:03:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54834570"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 70
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08xjmql.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Joe Biden works to push Black turnout in campaign’s final days"
     excerpt: "Joe Biden is spending the final days of the presidential campaign appealing to Black supporters to vote in-person during a pandemic that has disproportionally affected their communities, betting that a strong turnout will boost his chances in states that could decide the election."
     publishedDateTime: 2020-11-02T08:45:00Z

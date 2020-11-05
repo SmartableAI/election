@@ -264,6 +264,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 100
+  - title: "Facebook Shuts Down Large Pro-Trump 'Stop the Steal' Group for Spreading Election Misinformation and Calling for Violence"
+    excerpt: "Trump group which had amassed over 364,000 members in less than 48 hours, for promoting election misinformation regarding ongoing vote counts. With protests over the ongoing tally of votes sweeping through a number of U."
+    publishedDateTime: 2020-11-05T22:24:00Z
+    webUrl: "https://time.com/5907902/stop-the-steal-facebook-group-trump-election/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 95
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/TIME_Reddit_Doom.gif?w&#x3D;600"
+        width: 1500
+        height: 966
+        isCached: true
   - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
     excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
     publishedDateTime: 2020-10-29T21:58:00Z

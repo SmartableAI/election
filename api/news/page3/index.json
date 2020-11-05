@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-03-vp-mike-pences-daughter-delivers-message-for-those-nervous-on-election-day.md",
+      "title": "VP Mike Pence’s daughter delivers message for those ‘nervous’ on Election Day",
+      "excerpt": "Charlotte Pence Bond, author and daughter of Vice President Mike Pence and second lady Karen Pence, delivered a powerful message on Tuesday about the 2020 presidential election and the importance of following God amid political and social unrest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-delivers-election-day-message.html",
+      "originalUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-delivers-election-day-message.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.christianpost.com/files/cache/image/13/32/133278_w_450_300.jpg",
+          "width": 450,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.christianpost.com/amp/vp-mike-pences-daughter-delivers-election-day-message.html",
+      "cdnAmpWebUrl": "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/vp-mike-pences-daughter-delivers-election-day-message.html",
+      "publishedDateTime": "2020-11-03T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Christian Post",
+        "domain": "christianpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-as-us-votes-a-village-in-india-prays-for-kamala-harris.md",
       "title": "As U.S. Votes, a Village in India Prays for Kamala Harris",
       "excerpt": "Those who live in the hometown of Ms. Harris’s grandfather see the Democratic vice-presidential nominee as one of their own. “She is the daughter of the village’s soil,” one woman said.",
@@ -14,7 +57,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1296,63 +1339,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-biden-gets-an-endorsement-from-silicon-valley-live-business-updates.md",
-      "title": "Biden Gets an Endorsement From Silicon Valley: Live Business Updates",
-      "excerpt": "A group of 11 founders, investors and business leaders from the technology industry endorsed Democratic presidential nominee Joseph R. Biden Jr. in a letter published on Monday, s",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
-      "originalUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/30/business/30markets-brf-markets/merlin_179245557_12422739-1663-479d-9813-613dc9789fb3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
-      "publishedDateTime": "2020-11-02T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

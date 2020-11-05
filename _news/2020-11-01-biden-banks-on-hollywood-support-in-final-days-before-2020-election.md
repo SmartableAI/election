@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
 type: article
 quality: 190
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
     quality: 133
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77982519-0b80-4d5e-88e5-ef13e983e2a2/77bf9357-3466-4f1c-9e36-660714f9e3bf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden Speaks as Vote Count Continues in Presidential Race"
+    excerpt: "Former Vice President Joe Biden said Thursday “each ballot must be counted,” as vote counting continued in key battleground states. Biden was six electoral votes away from the 270 needed to win the race,"
+    publishedDateTime: 2020-11-05T22:13:00Z
+    webUrl: "https://www.wsj.com/video/joe-biden-speaks-as-vote-count-continues-in-presidential-race/9609910B-249A-4FC3-9200-71370B1636CA.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20201105/110520.biden.speech.vid1/110520.biden.speech.vid1_1280x720.jpg"
         width: 1280
         height: 720
         isCached: true

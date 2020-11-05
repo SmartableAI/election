@@ -2444,6 +2444,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "James Baker, a veteran of the 2000 Florida recount, says Trump should not try to stop vote counting."
+    excerpt: "Mr. Baker, the former secretary of state who led the legal and political team during the Florida recount battle in 2000 that secured the presidency for George W. Bush, said in an interview on Thursday that President Trump may have legitimate issues to pursue but they should not be used to justify a halt to the initial tabulation of ballots."
+    publishedDateTime: 2020-11-05T22:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 120
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/multimedia/05elections-briefing-Baker/05elections-briefing-Baker-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Donald Trump won in Indiana."
     excerpt: "Indiana election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
     publishedDateTime: 2020-11-04T01:58:00Z

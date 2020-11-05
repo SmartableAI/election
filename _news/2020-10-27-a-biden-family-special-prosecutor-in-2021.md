@@ -172,6 +172,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden Speaks as Vote Count Continues in Presidential Race"
+    excerpt: "Former Vice President Joe Biden said Thursday “each ballot must be counted,” as vote counting continued in key battleground states. Biden was six electoral votes away from the 270 needed to win the race,"
+    publishedDateTime: 2020-11-05T22:13:00Z
+    webUrl: "https://www.wsj.com/video/joe-biden-speaks-as-vote-count-continues-in-presidential-race/9609910B-249A-4FC3-9200-71370B1636CA.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20201105/110520.biden.speech.vid1/110520.biden.speech.vid1_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's War Against the South"
     excerpt: "Joe Biden has said he wants to be president of ALL the states and that he doesn't see red states and blue states. But his economic policies are a de facto war against the high-growth red states"
     publishedDateTime: 2020-11-03T11:32:00Z

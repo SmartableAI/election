@@ -255,6 +255,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says campaign will legally challenge 'Biden claimed states'"
+    excerpt: "President Donald Trump threatened more legal challenges on Thursday over results from Tuesday's presidential election in a handful of states, claiming without any evidence that voter fraud has been committed in places where Democrat Joe Biden appears to have won."
+    publishedDateTime: 2020-11-05T22:11:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-challenges-idUKKBN27L29A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27L29A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27L29A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540140995&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41CG"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Trump leads Biden in must-win Florida, race close in other battlegrounds"
     excerpt: "President Donald Trump was leading Democratic rival Joe Biden in the vital battleground state of Florida on Tuesday, while other competitive swing states that will help decide the election, including North Carolina,"
     publishedDateTime: 2020-11-04T04:18:00Z

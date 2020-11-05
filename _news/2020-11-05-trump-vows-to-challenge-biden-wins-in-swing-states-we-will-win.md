@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-vows-to-challenge-biden-wins-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vows-to-challenge-biden-wins-in-swing-states-we-will-win.amp"
 type: article
 quality: 190
-heat: 430
+heat: 451
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says he has ‘no doubt’ he will defeat Trump when vote count is finished"
+    excerpt: "Joe Biden says he has “no doubt” that once the vote count is complete, he’ll defeat President Trump to win the White House."
+    publishedDateTime: 2020-11-05T22:38:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_A8SqgrSOfw/biden-no-doubt-defeat-trump-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-doubt-defeat-trump-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-doubt-defeat-trump-votes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310779175857.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Joe Concha: 'Shy Trump voters' missed again as polls overstated Joe Biden's support"
     excerpt: "The \"shy Trump voter\" emerged for a second straight presidential election, The Hill media reporter Joe Concha said on Thursday, as many polls ended up overstating the support for Democrat Joe Biden."
     publishedDateTime: 2020-11-05T14:44:38Z
