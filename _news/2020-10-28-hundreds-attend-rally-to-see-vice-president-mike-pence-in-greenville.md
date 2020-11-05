@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-
 cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
 type: article
 quality: 75
-heat: 155
+heat: 135
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
     excerpt: "President Pence delivers remarks at a campaign rally in Swanton, Ohio. Vice President Pence delivers remarks at a campaign rally in Swanton, Ohio. Vice President Pence delivered remarks at a campaign rally in support of his and President Trump’s reelection on"
     publishedDateTime: 2020-10-24T11:47:00Z
     webUrl: "https://www.c-span.org/video/?477288-1/vice-president-pence-holds-rally-swanton-ohio"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Holds Rally in Mosinee, Wisconsin"
-    excerpt: "Vice President Pence delivered campaign remarks at a “Make America Great Again” rally in Florida’s state capital of… Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice ..."
-    publishedDateTime: 2020-10-30T09:25:00Z
-    webUrl: "https://www.c-span.org/event/?477463/"
     type: article
     provider:
       name: C-SPAN

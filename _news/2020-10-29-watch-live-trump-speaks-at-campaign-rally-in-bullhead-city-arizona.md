@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
 type: article
 quality: 125
-heat: 385
+heat: 425
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1664377/trump-arizona-2016.jpg"
         width: 2500
         height: 1614
+        isCached: true
+  - title: "Trump campaign files lawsuit over Georgia county ballot sorting"
+    excerpt: "U.S. President Donald Trump's reelection campaign on Wednesday said it had filed a lawsuit in Georgia to require that Chatham County separate and secure late-arriving ballots to ensure they are not counted."
+    publishedDateTime: 2020-11-05T03:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN27L077"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L077"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L077"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540058520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4045"
+        width: 641
+        height: 545
         isCached: true
   - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
     excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
@@ -122,6 +138,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "What are the recount rules? We break them down and how they could help Donald Trump win Wisconsin, Arizona or Pennsylvania"
+    excerpt: "Wisconsin is one of several states that could be ripe for recounts as the country awaits final results in the presidential election."
+    publishedDateTime: 2020-11-05T01:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-recount-wisconsin-arizona-michigan-could-help-trump-win/6163544002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6163544002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6163544002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/30/USAT/22b34afe-9577-45c3-9d0b-6c34cfb6fbdf-Abril_first_time_voter.JPG?auto=webp&crop=2315,1303,x0,y617&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Livestream: Trump Holds Tuesday Rally In Michigan"
     excerpt: "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing."
     publishedDateTime: 2020-10-27T22:39:00Z

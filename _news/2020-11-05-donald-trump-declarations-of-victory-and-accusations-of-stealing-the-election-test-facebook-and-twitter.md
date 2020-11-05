@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Why Trump's fake victory speech was the worst and most dangerous TV of election night 2020"
+    excerpt: "President Donald Trump's lies claiming premature victory over Joe Biden in the presidential election were his worst. Media rightly called him out."
+    publishedDateTime: 2020-11-05T04:56:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/media/2020/11/04/election-2020-trump-speech/6159975002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6159975002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6159975002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/PDTF/f091d62a-2fe0-48c7-b465-baefdb94fd66-AP20309302971075.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "After \"Fire Fauci\" chants, Trump tells crowd: \"Let me wait till a little bit after the election\""
     excerpt: "Speaking at a big campaign rally in Opa-locka, Florida, Mr. Trump voiced frustration that the pandemic which has killed more than 231,000 Americans continues to dominate the news, sparking chants of \"Fire Fauci\" from the crowd."
     publishedDateTime: 2020-11-02T16:34:00Z
@@ -303,6 +319,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "ptcW0WmfhVreq7wosbA0dYGWd/LnWxKgwKtaZ/u6O6j/uY0eczakGkPZbYRE2vmfm3++bCZyLFUiOz0dWoG5W0Iqkz6Chm5dv66moTx0s7hBrlccifqUlynvAb4W4+WsKYMP8cH0qQt5Ig7Sr91tgBsk1RkXVPLfhqzAqSzydli63WniixC1kCitB75/xItvdYKssK5I/mDQf/57ynf7kl2AVYJ01WamyfP4dRrpQ58za0+KlBp0L1kYo8tlEoj9i1eaL2d7qHa54TOhwY36JGPua5qLzOwVRU2L8AXyA4BIKr9etlwIBWOW7U78yA/LsVHRCib8Q1ONALJQgiSUldVpmrsQx7G71QWs4Q51tmc=;IKBKnHe7o824RnKZga3wqw=="
+secured: "MC6AGVmNjTbCmt8DNnxdz8RcdkE/0HWoCVJGwotV0H7kEshiECbc6JxjmbDUFV1t0Sv2S3XjCdaMlzsQr8pBq1z48Iz4BEWgWf8UucGhG12I77BLOPw006i4JyITgiWzKLEkKQ/GupoLclBrRhAzXOezsyEWlglVMNZrRBo2iK16d3pOplkDeDFEmlzQQhp0RRQdFthHYhkqhepT48fPTeQN3V9M3v+hfxDVTspGeAnEWxbpRkancKvyg7K1jrZn4YWs8QkeTDWMBAvYjXE4hd8Blas+ZcYRswgqk5IBc9tnnzFfP9yIy2vQcVXgIy74P/sg5TOQX8EPhR5PfYMsR37h5DpIIUhnUSeYRrntOgbkSK0xTiVh5NBC7YdqCRrGWOTKDy8+nWyVarXpCIwPYWltccAfKX8n73eTT3vZkM62dPafmrJ4Z/1gkV5FeNg6Un6y4I6T1ebmqsiEptY3WQAnkchc4lgWYeYLS1buhLRg0GSPAiV9Ak0J2aMg3Az6lOhZuF+c6lUNydfAYYTb7w==;iPI2QlvNV1qv6m3lBcraUQ=="
 ---
 

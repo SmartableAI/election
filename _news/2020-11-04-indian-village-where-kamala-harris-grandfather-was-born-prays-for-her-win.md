@@ -370,6 +370,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Fact check: Photo does not show drunk Kamala Harris throwing up in bushes and staggering around"
+    excerpt: "Social media users have been sharing a photo of Democratic vice presidential candidate Kamala Harris, purporting to show her drunk, throwing up, staggering around and being confrontational. However, this is a misleading still image captured from a video Harris posted"
+    publishedDateTime: 2020-11-03T19:35:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-drunk/fact-check-photo-does-not-show-drunk-kamala-harris-throwing-up-in-bushes-and-staggering-around-idUSKBN27J1V2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J1V2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J1V2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 113
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539811808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA213Y"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Kamala Harris, Mike Pence make final push to get Michigan votes on Election Day"
     excerpt: "Election Day is here. As voters hit the polls, both candidates in the race for president made stops on the campaign trail."
     publishedDateTime: 2020-11-04T03:01:00Z
@@ -2028,6 +2044,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "RKrak2rgiM8XvtwoYxQG4bvY1SV9/hFMCy2dWeIWaztXquBgcDZlo/e5046koraMPanWlkQic+i90Z0ICLWX5H1vtkVG6ZDeG+eWlnjsihmDw4dmGX1D6dqcahahXCfBIQWkbqrZOL8IozoX0XOJjtaUIC5q/YZoN1TQ5iSRtkybjdWAFyNIwuOv45DIVjlhPup38jmAFpZ5WZbnLHYybXvPUZr3nslYbGi3ximuvpeZRFMpQkawGuhWKlQJ92igTHT44XPpj9I/U4Vhc12ujNXIIoveWOiRS4aKncYzjn1l+2pKhFtL3KJ66kC0cRs4K+viLIFlHu77Z5UmWYn7nsnqZUlgv/qdkr5ozva6hYM=;jHRK6AOhPxdyh32WXX7lAA=="
+secured: "JIefEEAOaWcs1HfZv40IuZH2O3/AUqUfJhpWB3Ytvv9Q6kCcu7f5CSaxLJ44TuiuAXR6VKparfGXDBB6DDwjq/tUaDEq4LduDNv/ERO6rNGpC6JovSXjQ7ejHOv3CrQ+TknSvOhxeW1C9VwYK9/LelH7tpOscFdTkjNTSawDm1OaIYyhFcGSV6JcPsUyLlwz9Mya0DzGiebvSn7ga9GkpNf+IG5hlcQ+R/IvulodM2pkRt+77DIJ8t7ozKxwIQ8qgMouAe7cDcHBp9iMvziwGHjJ8DjcQwWQG4WAZtQJllpY2C5Wq0xsLUbrGxkS2lSJweVANZs+6sgd0Q0QlZQPcUS6sm0lcrui2TfMZ+1F4QwKraxGPhFqMOmMZOwVZ0gJ6U8LI30KIDI6tMoMr9b1NYdkLK/JfBOHSQpwWKUEEzKAyypA1OX5MqNz1iJST60F6+fVc7ulWlCo89xk6gk7kVZMwwnPN6yE6mH4+uvn/cFSdKPqudzwinYk2qZHqPt9kCsw6OvTzznZKizaNKWkgw==;VfzcSy5mBprIXxUQd/EKeg=="
 ---
 

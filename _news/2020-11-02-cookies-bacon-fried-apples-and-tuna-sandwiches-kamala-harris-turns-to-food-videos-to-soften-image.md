@@ -382,6 +382,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Fact check: Photo does not show drunk Kamala Harris throwing up in bushes and staggering around"
+    excerpt: "Social media users have been sharing a photo of Democratic vice presidential candidate Kamala Harris, purporting to show her drunk, throwing up, staggering around and being confrontational. However, this is a misleading still image captured from a video Harris posted"
+    publishedDateTime: 2020-11-03T19:35:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-drunk/fact-check-photo-does-not-show-drunk-kamala-harris-throwing-up-in-bushes-and-staggering-around-idUSKBN27J1V2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J1V2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J1V2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 113
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539811808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA213Y"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Kamala Harris, Mike Pence make final push to get Michigan votes on Election Day"
     excerpt: "Election Day is here. As voters hit the polls, both candidates in the race for president made stops on the campaign trail."
     publishedDateTime: 2020-11-04T03:01:00Z

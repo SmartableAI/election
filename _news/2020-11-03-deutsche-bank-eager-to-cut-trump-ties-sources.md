@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump has won Missouri"
+    excerpt: "The state has 10 electoral votes and was not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
+    publishedDateTime: 2020-11-05T02:33:00Z
+    webUrl: "https://www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa2ab8369331a0011bc7341?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump's last-ditch effort to recruit LGBTQ voters continues in Minnesota"
     excerpt: "Supporters say the administration has made gay rights a \"non-issue\" and argue that Trump's early friendships with gay men — such as Roy Cohn — show he's always been an ally."
     publishedDateTime: 2020-11-02T01:14:00Z

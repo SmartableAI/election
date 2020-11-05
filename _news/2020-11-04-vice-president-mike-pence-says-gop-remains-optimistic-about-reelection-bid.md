@@ -2,17 +2,17 @@
 category: news
 title: "Vice President Mike Pence says GOP remains optimistic about reelection bid"
 excerpt: "With just hours left for voters to cast their ballot, our sister station WXII in North Carolina did a one-on-one interview with Vice President Mike Pence and former South Bend, Indiana, mayor and former Democratic presidential candidate Pete Buttigieg."
-publishedDateTime: 2020-11-03T22:37:00Z
-originalUrl: "https://www.lmtonline.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
-webUrl: "https://www.lmtonline.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
+publishedDateTime: 2020-11-03T22:50:00Z
+originalUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
+webUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Laredo Morning Times
-  domain: lmtonline.com
+  name: The Telegraph
+  domain: thetelegraph.com
 
 topics:
   - Election
@@ -169,6 +169,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "iYZC1H44jitkWG2vrWhADVf9iuA1RfHTcTY2z3ZgsZj5t578CT5NuUC1vUjYYjFEXhqVeXe7he/ftOfLEyPJmWoPjfpMNxnkiwlci0AEeAgHEUfnDo26tGy/g3oAK5sSgIiaGzJ+gGdEvizxsCFKbUL09NMmGybsn5T7w93tMF+Tt/cPKKwMmsf/bD5NcNF81Nl01jVJhp56Rzm/zAtAu8a3EzVncdpck1gsDqvRfXcTQlbdJyT0av7qcU2pXOtp0sRh21nUHfevPJzLvm8QNyME8hgNSDETEXQv5oe5A4jWXrB5JQ8BPntksRP/NUVdFS9xk8vNoiP9kg1nYRtHqYTQYl+j2Hh53y06b4lxEyAnnTrINlJm6Zb/DP0lg6p6jOLBwE64sdlMR8MDWsZrHlANnCkT0pPlyOxwDNULFFbsfile8x+CdCi38ilL4WuyWXod79sebOzoyW7C3357TgSUgNlc+6EcVVoYXBnNLgonUyY5NPxFLtk23MrIZMZOPl4WqTED0UKoSGmQFvd0Aw==;ZzM3GmZfezD5Y95zGJJpQg=="
+secured: "onzEVADE7Nf/PKF7RGE8RC21oAw9ES7Vx+LKIGO4qlD76jA0Q3oBru2i1IxdVrRoEmukH4l4RNjv+diHlyNZlz1r4zqiViiAtM7QZta5zu4jXoJmmzEtvaqSU6lYI+yRrHMPdI8uGFjboIlYha8xE1KUjbLMxZhDipBIwaaGuDN1TK4/a23UW8YFE22Iwob3uMKYLOLVOgMinIaNv8RXElV7S+XfTNFZ5FzAEFpZ5ZucrQkp9Byk9yd7KwWNgk30qPa8rfHaa6WgYe6JocICURLvqRD6OzI+GIO4M/YjnA793wV0cG1FiEOfzCdyKlsuETVwLTZ9ejkdPWXuGp+KvIV284jOfgXWgd7HU+qDB2r0tR5s3asKYoXa9q1BtkQrsEtZizwz14U26L3f9TQPMEPfHyp+AYJsBWXq4dsIlEYUAzSbiaM/0lACdtVx/85Cf2BGniqwdPR2DfSoLyreDMtI2XAX3Ivlpe4bNhtEp9CNp2VjycOVUF8rZa9ZhR1bA6yQEanC59ktuVCnjzKmBQ==;PgyUc7YwLN21RMnZTd7GUg=="
 ---
 

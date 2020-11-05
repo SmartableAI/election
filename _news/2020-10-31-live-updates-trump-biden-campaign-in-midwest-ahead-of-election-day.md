@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden-Harris transition team website goes live even as election remains undecided"
+    excerpt: "The Biden-Harris campaign have launched their transition website Wednesday, even as voters across the nation wait to for ballots to be totaled."
+    publishedDateTime: 2020-11-05T02:13:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7Mar3TGllHc/biden-harris-transition-team-website-goes-live"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-transition-team-website-goes-live.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-transition-team-website-goes-live.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 210
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Organized labor split between Biden, Trump heading into Election Day"
     excerpt: "The typically Democratic constituency of organized labor is expected to see many of its members backing President Trump on election day."
     publishedDateTime: 2020-11-01T20:19:24Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-strande
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
 type: article
 quality: 173
-heat: -1
-published: false
+heat: 353
+published: true
 
 provider:
   name: CNN
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bolton: Trump trying to set up con on his own supporters"
-    excerpt: "CNN's Jake Tapper speaks with former national security adviser John Bolton about President Donald Trump's rhetoric around when mail-in ballots should be counted and Trump's threats of legal action after polls close on Election Day.\n    \n"
-    publishedDateTime: 2020-11-02T22:49:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tHrXL4FJL0/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102171610-bolton-tapper-split-for-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump supporters seen blocking traffic on a New Jersey highway and a New York City bridge"
     excerpt: "Hundreds of vehicles flying Trump, MAGA and American flags caused delays around the New York metropolitan area on Sunday after they were seen stopping traffic to cheer and chant.\n    \n"
     publishedDateTime: 2020-11-02T02:32:08Z
@@ -79,37 +63,53 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Washington Post: Trump administration to roll back federal protections from Alaska's Tongass National Forest"
-    excerpt: "Federal protections for Alaska's Tongass National Forest will be lifted this week by the Trump administration, allowing \"logging and other forms of development\" to occur in the world's largest intact temperate rainforest known as America's Amazon, The Washington Post reported Wednesday.\n    \n"
-    publishedDateTime: 2020-10-28T16:22:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aHbswDwT7dw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
+  - title: "'It's a little tough out here': Trump blitzes must-win states with perfected rally routine"
+    excerpt: "President Donald Trump was running late when he arrived here Sunday morning, wind howling and tiny drops of ice sticking to his face, to begin the second-to-last day of his final run for office.\n    \n"
+    publishedDateTime: 2020-11-02T14:53:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 156
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190913160012-tongass-forest-3-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027121426-donald-trump-1024-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "What Trump Needs to Win: A Polling Error Much Bigger Than 2016’s"
-    excerpt: "That’s a big “if.” The indelible memory of 2016’s polling misfire, when Donald J. Trump trailed in virtually every pre-election poll and yet swept the battleground states and won the Electoral College,"
-    publishedDateTime: 2020-11-02T10:04:00Z
-    webUrl: "https://www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.amp.html"
+  - title: "Despite the Trump administration's new policy, many pharmacies still won't vaccinate children against flu "
+    excerpt: "As a dark winter approaches with \"twindemics\" of Covid-19 and the flu, an effort by the Trump administration to increase the number of children receiving flu shots is not working, according to a CNN investigation.\n    \n"
+    publishedDateTime: 2020-10-26T14:58:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXUl-9swsd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025074215-kid-flu-shot-stock-3-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump threatens Senate GOP — now and in the future"
+    excerpt: "A \"new kind of Republican.\" The only woman in Senate GOP leadership. And veteran lawmakers who’ve been in the mix on most every major bipartisan deal over the past decade. These are a few of the Republican senators President Donald Trump has put at risk this November,"
+    publishedDateTime: 2020-11-02T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/11/02/trump-threatens-senate-gop-433702"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/02/trump-threatens-senate-gop-433702"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/02/trump-threatens-senate-gop-433702"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/02/upshot/02up-what-trump-needs-sub/02up-what-trump-needs-sub-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/8b/6d/6bcb94fe4487ad76970e0ff15b33/201030-trump-mcsally-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "The One Pollster in America Who Is Sure Trump Is Going to Win"
     excerpt: "Robert Cahaly’s polls have Arizona, Michigan and Florida in the president’s column. It’s hard to find another pollster who agrees with him. But they didn’t believe him in 2016 either."
@@ -159,21 +159,21 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "The Trump campaign has set up two ‘war rooms’ in the White House complex"
-    excerpt: "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration."
-    publishedDateTime: 2020-11-03T22:05:00Z
-    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
+  - title: "In a historically Republican suburb of Pittsburgh, voters debate whether to give Trump a second term."
+    excerpt: "Long lines of voters moved steadily in the first hour of voting at the Municipal Center in this town of about 30,000 people in Butler County, a historically Republican county. Cranberry Township, home to the headquarters of Westinghouse Electric and many engineers,"
+    publishedDateTime: 2020-11-03T16:48:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 134
+    quality: 120
     images:
-      - url: "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-trump-war-rooms/merlin_179500989_407a05bc-4770-455e-9b3a-43a7dc7f816b-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "gWk83NyhkgL6oq3ivce1GGqtRKNl8cbdlVdoSBVVTXbZUT2qYpZV1SFIKcqPI23SgM3Q3ZhwuZmWovZ7PvFnyrHqJH24eyhqcBc/Av9A4QF3fINWEqzABQHhlNPHQvqwxjDGVSu1E3y1c7rAGbvsaX5FGUW825VfQ9xyZR1Hlu6GcIies149ppzuo0yWSicLnDMnBsRR1XdcpmQTZa//fOLeRKndrjYVl2P25fWrE37UlbxyNqpisCrMMADW9paP854zYN91BQuxxQoAIPuBXen0mvtoCkDV9xZC1HicpFbWXKEQlHXDUF2xIUDRLKGubCOs//qvoEcOopSE8YMXchc6XLk3JRvGiz2p/UXBZ8Q=;66HUJFfTWiYrQ0WzRj5EIg=="

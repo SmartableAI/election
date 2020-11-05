@@ -2189,6 +2189,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "The view in Wisconsin: Biden holds a slim lead after nearly all votes are counted."
+    excerpt: "Wisconsin’s municipal clerks are nearly finished counting the state’s ballots, and former Vice President Joseph R. Biden Jr. has a lead of slightly more than 20,000 votes over President Trump, said Ann Jacobs,"
+    publishedDateTime: 2020-11-04T21:27:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/reader-center/04blog-wisco-graphic/04blog-wisco-graphic-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "With no winner in the presidential race, Trump falsely asserts that he has prevailed."
     excerpt: "With no winner in the 2020 race and votes still being counted in several battleground states, President Trump entered the East Room of the White House at 2:21 a.m. on Wednesday and asserted without evidence that the election was being taken from him by “a very sad group of people."
     publishedDateTime: 2020-11-04T08:56:00Z

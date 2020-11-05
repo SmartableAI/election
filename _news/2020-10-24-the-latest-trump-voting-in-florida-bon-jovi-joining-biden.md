@@ -4037,6 +4037,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Even If Joe Biden Wins, He Will Govern in Donald Trump's America"
+    excerpt: "T he car horns blared as Joe Biden took the stage just before 1 a.m.—not to proclaim victory, but to urge his supporters not to lose hope, no matter what President Donald Trump might say. “We believe we are on track to win this election,"
+    publishedDateTime: 2020-11-05T00:58:00Z
+    webUrl: "https://time.com/5907546/america-divided-2020-election/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/peter-van-agtmael-election-2020-grand-rapids.jpg"
+        width: 2400
+        height: 1601
+        isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z

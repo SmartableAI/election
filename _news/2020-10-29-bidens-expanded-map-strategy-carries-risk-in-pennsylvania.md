@@ -42,6 +42,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden-Harris transition team website goes live even as election remains undecided"
+    excerpt: "The Biden-Harris campaign have launched their transition website Wednesday, even as voters across the nation wait to for ballots to be totaled."
+    publishedDateTime: 2020-11-05T02:13:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7Mar3TGllHc/biden-harris-transition-team-website-goes-live"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-transition-team-website-goes-live.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-transition-team-website-goes-live.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 210
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live updates: Trump, Biden campaign in Midwest ahead of Election Day"
     excerpt: "With just days remaining until Election Day, both President Trump and Democratic nominee Joe Biden crisscrossed Midwestern states Friday, hoping to pick up last-minute votes. "
     publishedDateTime: 2020-10-31T05:13:20Z

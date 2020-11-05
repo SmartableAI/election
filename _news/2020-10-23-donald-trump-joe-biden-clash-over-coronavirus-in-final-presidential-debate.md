@@ -1903,6 +1903,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "McEnany: Trump 'path' to 270 electoral votes runs through Pennsylvania, Arizona and Georgia"
+    excerpt: "White House press secretary Kayleigh McEnany predicted Wednesday that President Trump will defeat Joe Biden by roughly 40,000 votes in Pennsylvania as the campaign launched a legal battle challenging the handling of ballots in the hotly contested state."
+    publishedDateTime: 2020-11-05T02:54:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R7LLbv02XIU/mcenany-trump-path-270-electoral-votes-pennsylvania-georgia-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-trump-path-270-electoral-votes-pennsylvania-georgia-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-trump-path-270-electoral-votes-pennsylvania-georgia-arizona.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Celebrities' most outrageous tweets about Trump and Biden ahead of the 2020 presidential election"
     excerpt: "Fox News has rounded up the most outrageous tweets by Hollywood's biggest stars about President Donald Trump and Democratic nominee Joe Biden ahead of the 2020 presidential election."
     publishedDateTime: 2020-10-24T14:16:00Z

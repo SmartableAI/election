@@ -4043,6 +4043,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Even If Joe Biden Wins, He Will Govern in Donald Trump's America"
+    excerpt: "T he car horns blared as Joe Biden took the stage just before 1 a.m.—not to proclaim victory, but to urge his supporters not to lose hope, no matter what President Donald Trump might say. “We believe we are on track to win this election,"
+    publishedDateTime: 2020-11-05T00:58:00Z
+    webUrl: "https://time.com/5907546/america-divided-2020-election/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/peter-van-agtmael-election-2020-grand-rapids.jpg"
+        width: 2400
+        height: 1601
+        isCached: true
   - title: "Pollster Frank Luntz: If Trump defies polls again in 2020, 'my profession is done'"
     excerpt: "Pollster Frank Luntz told Fox News on Thursday night that poll predictions are wrong about the 2020 election between President Trump and former Vice President Joe Biden, his \"profession is done\" in terms of faith and confidence from the public."
     publishedDateTime: 2020-10-23T13:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp"
 type: article
 quality: 205
-heat: 3425
+heat: 3445
 published: true
 
 provider:
@@ -1884,6 +1884,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-biden-election.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "McEnany: Trump 'path' to 270 electoral votes runs through Pennsylvania, Arizona and Georgia"
+    excerpt: "White House press secretary Kayleigh McEnany predicted Wednesday that President Trump will defeat Joe Biden by roughly 40,000 votes in Pennsylvania as the campaign launched a legal battle challenging the handling of ballots in the hotly contested state."
+    publishedDateTime: 2020-11-05T02:54:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R7LLbv02XIU/mcenany-trump-path-270-electoral-votes-pennsylvania-georgia-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-trump-path-270-electoral-votes-pennsylvania-georgia-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-trump-path-270-electoral-votes-pennsylvania-georgia-arizona.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Donald Trump, Joe Biden Clash Over Coronavirus in Final Presidential Debate"
     excerpt: "The debate presents President Trump and Democrat Joe Biden with a final chance to lay out competing arguments side by side before a huge audience."

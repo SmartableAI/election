@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Trump campaign is trying to stop ballot counting in Pennsylvania, Michigan, and Georgia"
-    excerpt: "The effort is part of a mounting strategy from the Trump campaign to secure an Electoral College victory through the courts."
-    publishedDateTime: 2020-11-05T00:24:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/5fa307d869331a0011bc752d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "YNv738XyZbJAXLDabbT20iTsdDWRLOnLsNx1NItQ+cAaAWOivYJbUiPimEbpMqHBGS4d4UvsmUNSmitRccumkgVhm0+61dRbDTYtx2sdzYpUmA7kiSWypGFXL65Cv/6/XcUMj/YeCeDjdOWiovzgSuwBelZLpOwm0pIHxiZNvu7TvfLu4amyF2HDyoMtJgyOT0lOO5+arSeAoUQRKxSdvt6ZdISFEp+e62ENnZR/9koPpQ42N4guUnF8w7swjDJKyYM3gDfPcDtcaOOG+ol2YtrvCiWtNdzOw/YfThv4Wu4Jrq2Dh98aDipDJBETRwhs5XeLDvr6D+eeeTFMc2dCp5PoZhhjhuHiyfYPDVuGnxs=;Mq+JqRQ7GyMUYBJXOEXT4w=="
 ---

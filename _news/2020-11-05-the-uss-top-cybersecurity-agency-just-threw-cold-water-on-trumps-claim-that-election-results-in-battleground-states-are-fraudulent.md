@@ -415,6 +415,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden projected to win Michigan after Trump falsely claims 2020 victory"
+    excerpt: "CBS News projects that Joe Biden will win the state of Michigan, bringing him closer to the 270 electoral votes needed to win the presidency. CBSN political reporter Caitlin Huey-Burns, CBS News correspondent Nikole Killion and Washington Post political reporter Eugene Scott join CBSN's \"Red & Blue\" host Elaine Quijano to discuss the state of the race so far."
+    publishedDateTime: 2020-11-05T02:43:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-projected-to-win-michigan-after-trump-falsely-claims-2020-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/05/94847ff4-a4d0-4576-8b62-3f95e852e97f/thumbnail/1200x630/be3eb438cfdd04f75d63168050b98c0f/1104-rb-bgm-bgn-581253-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump says he wants to have a physical fight with Biden as 'those legs have gotten very thin'"
     excerpt: "\"Of all the people in the world I can fight, that's probably the one I'd like to most fight,\" Trump said of Joe Biden, the Democratic nominee."
     publishedDateTime: 2020-11-02T22:40:00Z
@@ -659,6 +673,20 @@ related:
         width: 7392
         height: 4631
         isCached: true
+  - title: "Biden projected to win Michigan as Trump calls for recount in Wisconsin"
+    excerpt: "CBS News projects that Joe Biden will win the state of Michigan and its 16 electoral college votes. This comes as the Trump campaign is calling for a recount in the state of Wisconsin, which Biden is also presumed to win."
+    publishedDateTime: 2020-11-05T02:20:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-projected-to-win-michigan-as-trump-calls-for-recount-in-wisconsin/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/05/f30fa962-460f-4036-b459-cb1f269b9829/thumbnail/1200x630/e6709086653d92e4f231c4aa3ca55925/1104-rb-bgz-bha-581263-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How are Trump & Biden's campaign reacting?"
     excerpt: "Watch \"How are President Trump & Joe Biden's campaign reacting to close race\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-04T18:17:00Z
@@ -735,6 +763,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump has won Nebraska, but Joe Biden will pick up a single electoral vote from the state's 2nd Congressional District"
+    excerpt: "The state has five electoral votes and was not expected to be competitive."
+    publishedDateTime: 2020-11-05T02:29:00Z
+    webUrl: "https://www.businessinsider.com/nebraska-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/nebraska-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nebraska-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5fa2167f69331a0011bc727d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Inside Trump's crowded campaign rallies"
     excerpt: "Two days before Election Day, President Donald Trump launched a campaign sprint across battleground states starting with Michigan that will be crucial to"
     publishedDateTime: 2020-11-02T13:25:00Z
@@ -790,6 +834,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/18e7c8ee-ac3a-49a5-9438-584a06ad7692_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "'Confident' Biden urges unity as votes are counted"
+    excerpt: "Democratic presidential nominee Joe Biden said Wednesday he feels \"confident\" he will \"emerge victorious\" after all states finish their ballot counting, and he urged the nation to come together and unify once the election is finalized."
+    publishedDateTime: 2020-11-04T23:26:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/04/confident-biden-urges-unity-votes-counted/6168044002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/cc0b7be4-8e84-4a89-b911-83ac18df8750_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

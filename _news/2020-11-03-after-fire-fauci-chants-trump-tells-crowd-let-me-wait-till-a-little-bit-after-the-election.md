@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Why Trump's fake victory speech was the worst and most dangerous TV of election night 2020"
+    excerpt: "President Donald Trump's lies claiming premature victory over Joe Biden in the presidential election were his worst. Media rightly called him out."
+    publishedDateTime: 2020-11-05T04:56:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/media/2020/11/04/election-2020-trump-speech/6159975002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6159975002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6159975002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/PDTF/f091d62a-2fe0-48c7-b465-baefdb94fd66-AP20309302971075.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'I appreciate the advice': Trump tells crowd chanting, 'Fire Fauci!' to wait until after election"
     excerpt: "President Trump hinted he might fire Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, during a rally in Florida."
     publishedDateTime: 2020-11-04T10:24:00Z

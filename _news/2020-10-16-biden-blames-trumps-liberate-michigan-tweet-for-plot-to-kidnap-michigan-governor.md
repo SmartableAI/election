@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html"
 type: article
 quality: 184
-heat: 284
+heat: 304
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/8be22.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "How Joe Biden reclaimed Michigan for the Democrats"
+    excerpt: "President Trump lost the support of seniors and white college graduates in Michigan this year — clearing a path for Biden's projected win."
+    publishedDateTime: 2020-11-05T02:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/how-joe-biden-reclaimed-michigan-democrats-n1246483"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1246483"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246483"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_45/3425999/201104-michigan-voting-mn-1800_2680953394172176d909cda24221d85f.jpg"
+        width: 6000
+        height: 3552
         isCached: true
   - title: "Trump steel tariffs raised prices, shriveled up demand, led to job losses, some Michigan workers say"
     excerpt: "\"I don't see any policy that helped us. We are losing our damn jobs here,\" said the head of a steelworker union."

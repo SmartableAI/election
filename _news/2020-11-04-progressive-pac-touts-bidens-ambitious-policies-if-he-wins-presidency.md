@@ -80,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Did Biden get an edge from Libertarian vote in critical swing states?"
+    excerpt: "As Americans awaited the final ballot results and Joe Biden held a slim lead over President Trump on Wednesday night, some analysts were zeroing in on the Libertarian vote in critical states as a potential help to the Democratic nominee."
+    publishedDateTime: 2020-11-05T03:22:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3AFPVzkw8q4/libertarian-vote-swing-states-biden-edge"
+    ampWebUrl: "https://www.foxnews.com/politics/libertarian-vote-swing-states-biden-edge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/libertarian-vote-swing-states-biden-edge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pence hits Biden for 'undermining' law enforcement, tells Levin 'all my heroes wear uniforms'"
     excerpt: "Vice President Mike Pence contrasted the Trump administration's support of law enforcement to that of Joe Biden's on Sunday, telling \"Life, Liberty & Levin\" that unlike his Democratic challenger, his support for the thin blue line dates back to his childhood."
     publishedDateTime: 2020-10-26T02:42:00Z

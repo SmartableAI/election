@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ball
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
 type: article
 quality: 175
-heat: 355
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,149 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Trump supporters at rallies continue to get stranded in chilly temperatures"
-    excerpt: "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n"
-    publishedDateTime: 2020-11-02T18:16:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A6aP7hMdzj8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
+  - title: "Fact check: Almost everything Trump has said after Election Day is wrong"
+    excerpt: "President Donald Trump spent much of the year laying the groundwork for the strategy of concerted dishonesty he has deployed in the hours after Election Day.\n    \n"
+    publishedDateTime: 2020-11-05T02:31:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H4sNQISktN0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104114255-02-election-1103-philadelphia-pa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: 7 kinds of dishonesty to expect at a late-campaign Trump rally"
+    excerpt: "President Donald Trump is closing his campaign with a torrent of lies. His October rally speeches have been notably dishonest even by Trump standards.\n    \n"
+    publishedDateTime: 2020-10-31T13:56:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwfBGrEPbJY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029162343-trump-arizona-1028-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump supporters seen blocking traffic on a New Jersey highway and a New York City bridge"
-    excerpt: "Hundreds of vehicles flying Trump, MAGA and American flags caused delays around the New York metropolitan area on Sunday after they were seen stopping traffic to cheer and chant.\n    \n"
-    publishedDateTime: 2020-11-02T02:32:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hRLcTpDxGQ0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/us/trump-caravan-new-jersey-highway-new-york/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/us/trump-caravan-new-jersey-highway-new-york/index.html"
+  - title: "US fighter jet intercepts aircraft near Trump rally, deploying signal flares"
+    excerpt: "An aircraft entered restricted air space over President Donald Trump's rally in Bullhead City, Arizona on Wednesday, leading to a fighter jet being scrambled to intercept it.\n    \n"
+    publishedDateTime: 2020-10-28T22:24:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XAYx3afv504/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/trump-rally-fighter-jet-arizona/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/trump-rally-fighter-jet-arizona/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201101180345-trump-car-rally-stops-traffic-in-nj-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028171447-02-jet-flying-arizona-1028-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "New Jersey congressman's pledge of 'undying support' for Trump hangs over close House race"
-    excerpt: "The congressman who represents Atlantic City made a risky political gamble last year. Now he's waiting to see whether it will pay off -- or if he's going home broke.\n    \n"
-    publishedDateTime: 2020-10-28T14:47:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JJitFMueHGk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html"
+  - title: "Fact check: In bid to win Michigan, Trump makes false claims about the state's auto industry"
+    excerpt: "Trying to win the critical swing state of Michigan, President Donald Trump is closing his campaign with a series of false claims about the state's famed auto industry.\n    \n"
+    publishedDateTime: 2020-11-02T22:11:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0f5ghFdA4x0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/fact-check-michigan-auto-jobs-trump-obama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/fact-check-michigan-auto-jobs-trump-obama/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191219162951-trump-jeff-van-drew-12192019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031012444-trump-michigan-rally-1030-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Washington Post: Trump administration to roll back federal protections from Alaska's Tongass National Forest"
-    excerpt: "Federal protections for Alaska's Tongass National Forest will be lifted this week by the Trump administration, allowing \"logging and other forms of development\" to occur in the world's largest intact temperate rainforest known as America's Amazon, The Washington Post reported Wednesday.\n    \n"
-    publishedDateTime: 2020-10-28T16:22:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aHbswDwT7dw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
+  - title: "Fact check: CNN breaks down the 7 kinds of dishonesty to expect in a late-campaign Trump rally"
+    excerpt: "President Donald Trump is closing his campaign with a torrent of lies. His October rally speeches have been notably dishonest even by Trump standards.\n    \n"
+    publishedDateTime: 2020-11-01T00:31:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwfBGrEPbJY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029162343-trump-arizona-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Trump falsely claims California requires people to wear 'special' and 'complex' mask at all times"
+    excerpt: "President Donald Trump has repeatedly mocked former Vice President Joe Biden and others for wearing masks.\n    \n"
+    publishedDateTime: 2020-10-29T00:45:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pgr1GG4bDqM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/fact-check-california-masks-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/fact-check-california-masks-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 156
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190913160012-tongass-forest-3-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028173703-02-trump-arizona-1028-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "What Trump Needs to Win: A Polling Error Much Bigger Than 2016’s"
-    excerpt: "That’s a big “if.” The indelible memory of 2016’s polling misfire, when Donald J. Trump trailed in virtually every pre-election poll and yet swept the battleground states and won the Electoral College,"
-    publishedDateTime: 2020-11-02T10:04:00Z
-    webUrl: "https://www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/upshot/polling-what-trump-needs-to-win.amp.html"
+  - title: "Hundreds of Trump supporters stuck on freezing cold Omaha airfield after rally, 7 taken to hospitals"
+    excerpt: "Hundreds of President Donald Trump's supporters were left in the freezing cold for hours after a rally at an airfield in Omaha, Nebraska, on Tuesday night, with some walking around 3 miles to waiting buses and others being taken away in ambulances."
+    publishedDateTime: 2020-10-28T21:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/hundreds-trump-supporters-stuck-freezing-cold-omaha-airfield-after-rally-n1245065"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245065"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245065"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
     images:
-      - url: "https://static01.nyt.com/images/2020/11/02/upshot/02up-what-trump-needs-sub/02up-what-trump-needs-sub-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_44/3423587/201028-trump-rally-omaha-al-0753_434680b2dcf217da03d11a54f44c659d.jpg"
+        width: 2500
+        height: 1668
         isCached: true
-  - title: "The One Pollster in America Who Is Sure Trump Is Going to Win"
-    excerpt: "Robert Cahaly’s polls have Arizona, Michigan and Florida in the president’s column. It’s hard to find another pollster who agrees with him. But they didn’t believe him in 2016 either."
-    publishedDateTime: 2020-11-03T02:21:00Z
-    webUrl: "https://www.nytimes.com/article/trump-polls-trafalgar-group.html?pageType=LegacyCollection&collectionName=Polls+and+Voters&label=Polls+and+Voters&template=storyline_band_recirc"
-    ampWebUrl: "https://www.nytimes.com/article/trump-polls-trafalgar-group.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-polls-trafalgar-group.amp.html"
+  - title: "Donald Trump Jr. says Covid numbers are 'almost nothing' on day reporting 90,000 infected, 1,000 dead"
+    excerpt: "Donald Trump Jr. falsely claimed Thursday that Covid-19 infection numbers have dwindled to \"almost nothing,\" despite there being around 1,000 deaths reported in the U.S. the same day. In an interview on Fox News' “The Ingraham Angle,"
+    publishedDateTime: 2020-10-30T11:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-says-covid-numbers-are-almost-nothing-day-n1245449"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245449"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245449"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
     images:
-      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/03trafalgar-promo/03trafalgar-promo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Donald Trump won in Oklahoma."
-    excerpt: "Oklahoma election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
-    publishedDateTime: 2020-11-04T01:39:00Z
-    webUrl: "https://www.politico.com/2020-election/results/oklahoma/"
-    ampWebUrl: "https://www.politico.com/2020-election/results/oklahoma/amp/"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/2020-election/results/oklahoma/amp/"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/40.jpg"
-        width: 600
-        height: 325
-        isCached: true
-  - title: "Trump and the Paris Climate Accord"
-    excerpt: "A reader says that by withdrawing from the agreement, the president “added one more reckless decision to his extensive record.”"
-    publishedDateTime: 2020-11-04T18:34:00Z
-    webUrl: "https://www.nytimes.com/2020/11/04/opinion/letters/trump-climate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/04/opinion/letters/trump-climate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/opinion/letters/trump-climate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/04/climate/04CLI-PARISFAQ1/04CLI-PARISFAQ1-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "The Trump campaign has set up two ‘war rooms’ in the White House complex"
-    excerpt: "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration."
-    publishedDateTime: 2020-11-03T22:05:00Z
-    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-trump-war-rooms/merlin_179500989_407a05bc-4770-455e-9b3a-43a7dc7f816b-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/nn_ggu_exclusive_inside_covid_icu_201029_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "JGyFTnrBWUz/6MER8SFbzw7X7ChdjGrxpmiXWc1nOh0/CbCAFMaQwTy6UMnFj9v9xkmZPS+amMH+uaFDp7ZbBamWEqgF6LtIZILqSzoXgphQV8mzGPDKL3/AuvdnOH1XkgpR7S3j3kaqQSvlyEBcmIidnFvgYazOiUhhnnE7w3IyIhMACCcI4a8mjXCmgi6xOSajdau+kqQ8L2DyAfMjN/ix1otkTD1bjPFs7ghaTAV/ygGw9BPH084+glFNA5xM56LeIEKO6Wl0t68Vmkfr/jURJek2oU97AeuinRKTR9PRscudflv4RIcmnuNairF2JdpQe95gRQfh8EAgdKc3khZMnqGxlACzN4fq8ddk30Q=;xDpc6sKSfOENXvPqAwH2NA=="

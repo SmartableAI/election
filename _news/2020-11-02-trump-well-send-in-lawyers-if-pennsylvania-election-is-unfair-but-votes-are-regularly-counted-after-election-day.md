@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "The Trump campaign is trying to stop ballot counting in Pennsylvania, Michigan, and Georgia"
-    excerpt: "The effort is part of a mounting strategy from the Trump campaign to secure an Electoral College victory through the courts."
-    publishedDateTime: 2020-11-05T00:24:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/5fa307d869331a0011bc752d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "PA Governor calls Trump move 'simply disgraceful'"
     excerpt: "Pennsylvania Gov. Tom Wolf says a lawsuit filed by the President Trump's campaign to stop the counting of ballots in the state is \"simply wrong.\" (Nov. 4)"
     publishedDateTime: 2020-11-05T00:37:00Z

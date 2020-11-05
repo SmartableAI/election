@@ -41,6 +41,22 @@ related:
         width: 1935
         height: 1290
         isCached: true
+  - title: "Why Kamala Harris may already have reshaped U.S. political future"
+    excerpt: "After months on the campaign trail wearing pearls and Converse high-tops — a look little girls replicated in homemade Halloween costumes across the country — Harris is already seen as"
+    publishedDateTime: 2020-11-04T13:30:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/03/why-kamala-harris-may-already-have-reshaped-u-s-political-future/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/03/why-kamala-harris-may-already-have-reshaped-u-s-political-future/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/03/why-kamala-harris-may-already-have-reshaped-u-s-political-future/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
+        width: 1024
+        height: 715
+        isCached: true
 
 secured: "fE8rd/WiyHYiNfwXWHgf2juEug/VvUXvJZU7H6UdXpX8DWijsjZoGunFkrPz5Vs+0Bg7oE3EyxIicuT6n2bozBMLqbl7I+XMofnbV/ygxZLfaWphf99rTnzxL/7Ux3TTlmlTd/PntDGOgBS8u3UJnEd3Lswp0nHRcd16dieT6nB7wMrmioR9bgj+vRIdVhIxHGXPq4PtfIYHwlkG2XsG0X2lN1UcOcn6Jq7mQKQLl472rUnxYWtH9o4fR/FojDJSTgLQqwcAoF1IiFplJx04MxJaUspHOSMPEUkSS6zlgWMUnNQCMxWVENqas5gtja59+0GsNQtxqFzIQH1JaOA7KBfTYxYAciv3Nj5Gy2HnaIk=;invKPmC9Bhxfl7mGPj1JIw=="
 ---

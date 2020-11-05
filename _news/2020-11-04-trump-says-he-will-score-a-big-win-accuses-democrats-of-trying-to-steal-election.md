@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27K0MF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27K0MF"
 type: article
 quality: 134
-heat: 454
+heat: 474
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e0eba4a9-c740-46cd-b451-c5a5115af8ab-AFP_AFP_8UF6ZT.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
+    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
+    publishedDateTime: 2020-11-05T02:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-michigan-idUSKBN27K2AQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K2AQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K2AQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540054612&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA401W"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process"
     excerpt: "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters."

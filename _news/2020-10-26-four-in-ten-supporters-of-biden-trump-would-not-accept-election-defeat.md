@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A0BB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A0BB"
 type: article
 quality: 155
-heat: 9615
+heat: 9635
 published: true
 
 provider:
@@ -4026,6 +4026,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/04/5467c222-a464-44b7-af87-9aa8d40e2347/thumbnail/1200x630/9d6d429fed93680037a82424c2130ea8/1104-en-major-581115-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Even If Joe Biden Wins, He Will Govern in Donald Trump's America"
+    excerpt: "T he car horns blared as Joe Biden took the stage just before 1 a.m.—not to proclaim victory, but to urge his supporters not to lose hope, no matter what President Donald Trump might say. “We believe we are on track to win this election,"
+    publishedDateTime: 2020-11-05T00:58:00Z
+    webUrl: "https://time.com/5907546/america-divided-2020-election/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/peter-van-agtmael-election-2020-grand-rapids.jpg"
+        width: 2400
+        height: 1601
         isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."

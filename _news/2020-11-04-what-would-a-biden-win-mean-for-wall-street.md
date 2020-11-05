@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Polls showed Biden had a substantial lead. Why didn't Americans wake up to a winner?"
+    excerpt: "Election polls showed Joe Biden had a national lead over Donald Trump. So are the polls wrong? It's not that simple."
+    publishedDateTime: 2020-11-04T23:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/polls-biden-had-lead-over-trump-election-results-unclear-wednesday/6158248002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6158248002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158248002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/346b070f-76c9-4569-b40a-f597dfbb7b78-XXX_USATODAY_437189_jmg_17861.JPG?auto=webp&crop=4875,2743,x0,y265&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Iran is Hoping for Biden Return to Nuclear Deal—But Trust Will Be Hard to Rebuild | Analysis"
     excerpt: "While the Trump administration has repeatedly said its door was open for talks, Iranian President Hassan Rouhani has insisted that the U.S. must first return to the nuclear deal and lift its unilateral sanctions."
     publishedDateTime: 2020-11-03T19:29:00Z

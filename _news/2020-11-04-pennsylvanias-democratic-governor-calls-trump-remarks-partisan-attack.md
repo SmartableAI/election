@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K0YU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU"
 type: article
 quality: 124
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/01/USAT/2fae7537-8cea-459b-8312-1db8c209b113-AFP_AFP_8UD47V.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The Trump campaign is trying to stop ballot counting in Pennsylvania, Michigan, and Georgia"
-    excerpt: "The effort is part of a mounting strategy from the Trump campaign to secure an Electoral College victory through the courts."
-    publishedDateTime: 2020-11-05T00:24:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/5fa307d869331a0011bc752d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "PA Governor calls Trump move 'simply disgraceful'"
     excerpt: "Pennsylvania Gov. Tom Wolf says a lawsuit filed by the President Trump's campaign to stop the counting of ballots in the state is \"simply wrong.\" (Nov. 4)"
