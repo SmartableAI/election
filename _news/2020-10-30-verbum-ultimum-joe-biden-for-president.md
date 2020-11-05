@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Kid Rock responds to Lady Gaga's Biden endorsement, shows 'what camo is really worn for'"
-    excerpt: "Kid Rock seemed to have a go at Lady Gaga on Tuesday, days after the pop star went viral with her own pro-Joe Biden video."
-    publishedDateTime: 2020-11-04T08:09:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/11/03/kid-rock-reacts-lady-gaga-biden-endorsement-hunting-picture/6148835002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6148835002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6148835002"
+  - title: "FOREX-Dollar loses ground as Biden inches closer to White House"
+    excerpt: "Traders on tenterhooks as U.S. election goes to the wire * Cable hit by report BOE considering negative rates * Dollar also in focus before Fed meeting By Stanley White TOKYO, Nov 5 (Reuters) - The dollar slipped to its weakest level in more than two years against"
+    publishedDateTime: 2020-11-05T06:45:00Z
+    webUrl: "https://www.reuters.com/article/global-forex/forex-dollar-loses-ground-as-biden-inches-closer-to-white-house-idUSL4N2HR1MJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L037"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L037"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540051083&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA401V"
+        width: 745
+        height: 545
+        isCached: true
+  - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
+    excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
+    publishedDateTime: 2020-11-04T22:17:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/04/2020-election-biden-calls-unity-votes-continue-counted/6166567002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 116
+    quality: 97
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/91320599-eef8-433c-bd30-735bc2b79fec-trump_091420_kd2242.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b032550d-b933-4d85-b020-924b79592f45-VPC_ELECTION_DESK_THUMB.00_00_33_12.Still005.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "iIixoOGHimjcqkEYcsa2iXISEKWxWpCn7rfQLseN5qbEVXhIwdLWtTY88wReKaZZ+UC6t+pioHtKe+gDNX3WiPwQ9CLHDp1s95c7NWa4pSQQAq3vkhMKYCk9J9E52flqt1ioWlXl9kObOwVXQLbdeCaixIBmm2Su0AvkJ9sPi2LIimqumWPJeDwLfTc0u64308rITpIHjoWn69VnlM7rvdkF/bPhVrHO81Q9qJ9Y3qDCmNSF6vbq/wxfYZLSXVMCdJKBAyl/lqZ8pgZ8OLPXuDhyaKYDa0YufUOwKNzaabYOAH4LFyD9FUkKWp5A28qZzVVu0SHOTJkrRMbA4L8/ONHfqyNpuaeRyHO3JKQJQB8=;y7k6pwfVZJMA0debW0SUFw=="

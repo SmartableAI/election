@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-02-vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election.md",
+      "title": "Vice President Mike Pence to visit Westmoreland County in final day before election",
+      "excerpt": "With just one day to go before the 2020 presidential election, Vice President Mike Pence will appear on behalf of President Donald Trump’s reelection campaign in Westmoreland County. Pence will speak at a “Make America Great Again” rally in Latrobe on Monday morning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtae.com/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220",
+      "originalUrl": "https://www.wtae.com/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/a8ca6ef5-8b65-45e5-a083-461eccaede15/a8ca6ef5-8b65-45e5-a083-461eccaede15_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220",
+      "cdnAmpWebUrl": "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220",
+      "publishedDateTime": "2020-11-02T04:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTAE-TV",
+        "domain": "wtae.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-you-are-no-longer-my-mother-a-divided-america-will-struggle-to-heal-after-trump-era.md",
       "title": "'You are no longer my mother': A divided America will struggle to heal after Trump era",
       "excerpt": "When lifelong Democrat Mayra Gomez told her 21-year-old son five months ago that she was voting for Donald Trump in Tuesday's presidential election, he cut her out of his life.",
@@ -227,7 +270,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 3264,
+      "heat": 3284,
       "tags": null,
       "images": [
         {
@@ -1332,49 +1375,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc.md",
-      "title": "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC",
-      "excerpt": "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/",
-      "originalUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp",
-      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp",
-      "publishedDateTime": "2020-10-31T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "wral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

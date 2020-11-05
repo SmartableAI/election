@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-03-trumps-campaign-booked-out-youtubes-homepage-for-election-day-youtube-wont-let-that-happen-again-but-insists-its-nothing-to-do-with-trump.md",
+      "title": "Trump's campaign booked out YouTube's homepage for Election Day. YouTube won't let that happen again — but insists it's nothing to do with Trump.",
+      "excerpt": "YouTube will no longer allow advertisers to book out its main homepage slots for days at a time. The change had nothing to do with Trump, Google said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa13aa21df1d500182187d3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11?amp",
+      "publishedDateTime": "2020-11-03T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-what-to-watch-in-battleground-florida-a-really-tough-state-to-call-biden-lashes-out-at-desantis.md",
       "title": "What to watch in battleground Florida — A 'really tough state' to call — Biden lashes out at DeSantis",
       "excerpt": "BY THE NUMBERS — So far, 4,649,919 vote-by-mail ballots have been cast for the November election, according to the latest information on the state Division of Elections website. Of those, 2,112,081 have come from Democrats and 1,",
@@ -999,7 +1051,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 353,
+      "heat": 373,
       "tags": null,
       "images": [
         {
@@ -1305,49 +1357,6 @@
         "Election",
         "Kamala Harris",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election.md",
-      "title": "Vice President Mike Pence to visit Westmoreland County in final day before election",
-      "excerpt": "With just one day to go before the 2020 presidential election, Vice President Mike Pence will appear on behalf of President Donald Trump’s reelection campaign in Westmoreland County. Pence will speak at a “Make America Great Again” rally in Latrobe on Monday morning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtae.com/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220",
-      "originalUrl": "https://www.wtae.com/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 304,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/a8ca6ef5-8b65-45e5-a083-461eccaede15/a8ca6ef5-8b65-45e5-a083-461eccaede15_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220",
-      "cdnAmpWebUrl": "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220",
-      "publishedDateTime": "2020-11-02T04:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTAE-TV",
-        "domain": "wtae.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

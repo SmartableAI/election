@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-19-perdues-rival-raises-nearly-2m-after-senator-mispronounces-kamala-harriss-name.md",
+      "title": "Perdue's rival raises nearly $2M after senator mispronounces Kamala Harris's name",
+      "excerpt": "Democratic Georgia Senate candidate Jon Ossoff said his campaign raised nearly $2 million after Sen. David Perdue (R-Ga.) mispronounced Sen. Kamala Harris’s (D-Calif.) name at a Trump campaign event.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name",
+      "originalUrl": "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 420,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ossoffjohn_perduedavid_072920getty_split.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name?amp",
+      "publishedDateTime": "2020-10-19T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-ratcliffe-says-hunter-biden-laptop-emails-not-part-of-some-russian-disinformation-campaign.md",
       "title": "Ratcliffe says Hunter Biden laptop, emails 'not part of some Russian disinformation campaign'",
       "excerpt": "Director of National Intelligence John Ratcliffe on Monday said that Hunter Biden’s laptop “is not part of some Russian disinformation campaign,” amid claims from House Intelligence Committee Chairman Adam Schiff suggesting otherwise.",
@@ -1229,49 +1281,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-sen-kamala-harris-will-campaign-in-jacksonville-on-monday.md",
-      "title": "Sen. Kamala Harris will campaign in Jacksonville on Monday",
-      "excerpt": "Sen. Kamala Harris will travel to Jacksonville and Orlando on Monday to campaign during the first day of in-person early voting in Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/",
-      "originalUrl": "https://news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news4jax.com/resizer/qpiGKRvh83depZOjlULXkPAxH7Q=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/57NA7ZSDRBDPNH2U77EAYEMEY4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/?outputType=amp",
-      "publishedDateTime": "2020-10-17T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News4Jax",
-        "domain": "news4jax.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

@@ -70,6 +70,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Thursday briefing: Joe Biden with one hand on the prize"
+    excerpt: "Photograph: Matt York/AP Hello, Warren Murray here with an electoral collage … By reliable, objective measures Joe Biden is winning the race to become the next US president. Overnight the Democrat has been projected to our satisfaction to be the victor ..."
+    publishedDateTime: 2020-11-05T06:32:00Z
+    webUrl: "https://www.theguardian.com/world/2020/nov/05/thursday-briefing-biden-with-one-hand-on-the-prize"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/b277ca7cc854ac20c351fe328f3e2ba3c0846e40/0_108_4546_2728/master/4546.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86dc161dbdb32a23bf746d3ba51eac87"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump, NBC News Set Town Hall Event For Thursday, Competing With ABC News’ Joe Biden Event"
     excerpt: "Donald Trump will do a town hall for NBC News on Thursday, after an agreement was reached between the network and his presidential campaign on the details for the event. That means that Trump and"
     publishedDateTime: 2020-10-14T12:14:00Z

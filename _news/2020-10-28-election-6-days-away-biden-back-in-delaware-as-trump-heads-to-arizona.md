@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-campaign-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-campaign-election-october-28.amp"
 type: article
 quality: 205
-heat: 3445
+heat: 3465
 published: true
 
 provider:
@@ -892,6 +892,22 @@ related:
     quality: 190
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f628e30-d557-400c-91dc-c4fcb65a812d/32b0a9c3-48e3-441a-b082-dfc4e2938236/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's 72M votes pass Obama 2008 mark; Trump's count close behind"
+    excerpt: "Democratic nominee Joe Biden has won the most votes of any U.S. presidential candidate, surpassing former President Obama’s 2008 record on Wednesday afternoon."
+    publishedDateTime: 2020-11-05T06:19:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qh2GZPDPBm4/bidens-72m-votes-pass-obama-2008-mark-trumps-count-close-behind"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-72m-votes-pass-obama-2008-mark-trumps-count-close-behind.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-72m-votes-pass-obama-2008-mark-trumps-count-close-behind.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

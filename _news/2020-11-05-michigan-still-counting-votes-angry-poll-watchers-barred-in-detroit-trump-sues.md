@@ -2,13 +2,11 @@
 category: news
 title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
 excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
-publishedDateTime: 2020-11-05T02:37:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-michigan-idUSKBN27K2AQ"
-webUrl: "https://www.reuters.com/article/us-usa-election-michigan-idUSKBN27K2AQ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K2AQ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K2AQ"
+publishedDateTime: 2020-11-05T05:50:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
+webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
 type: article
-quality: 120
+quality: 100
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540054612&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA401W"
-    width: 817
-    height: 545
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -286,6 +284,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "wqM+Vm16t0Bow1F0sDE7uGgpZSVr71/th1OZIlhT0fHsJU6bNdWmWWhpBnbH0j0rhE9kzJgYvzXt8SkvQkOcL/Mj5AxhlpIcZ9jddOZbR9Gk82JpgPiA9DpV4zJqOOmCZTV7CFmZc/mvuzBgmPJO/yqz/1CSxlr3mz8SgmIf4QtQgKhuPZtLJchivI4b7AdriUOg4IOxHKgU4IZF43eWiuJoLacuupXPFzaJQx8ga3jUKGDaAOwUqPUZ1oPNtJY2HDtCR62dLiCQYrLtrymkAK5U4Qzpt9u+cRjfR2EwRaSF7k1F1+w5DrD5+B+g3rivGT37FkGOswZZvdFWI31i0/iw2oIIYBclGAwyYJ0PYYA=;prepXdNUWZJij3wlSAzgIQ=="
+secured: "wvhHrQFkibIc+nHVFJwGqTO8eCvPIA9OnFtO/3QY25G9vZfu0PlFxPAcgVFVswRknp8GFSmdIu9h8APs3CUZg9FumbbKw/6UMMRlogM8jdN888eqhab+SvBKolp9r4RDaFqRa/WGyeZq5lx0QN8qWU3/rDCJSkBYZtNS1ujby1Mgz+sBLpx9XbJNF8vxxHAEKWlQff0cbkGJ3hRBI59HxUdohGdhNOchzSRu7AkiW6+pcBVbR0FAMZ6GuRhZVJBAucLJwUPWiacRQfs4Xjc/CaAMxAtCrvNqEeF9W73zKPCKdPdRMKU/+KgTRABqXV+/fxGBQz0xd7AHDEo1YhyQUcYbgqBBbaGFf4FNUJX8M50=;F0k4UAmZVKTug0CttRVmLQ=="
 ---
 

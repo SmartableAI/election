@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-16-trump-ex-fundraiser-to-plead-guilty-in-1mdb-foreign-lobbying-case.md",
+      "title": "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case",
+      "excerpt": "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27033J",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J",
+      "publishedDateTime": "2020-10-15T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-senate-panel-sets-october-22-vote-on-trump-court-pick-despite-democrats-protests.md",
       "title": "Senate panel sets October 22 vote on Trump court pick despite Democrats' protests",
       "excerpt": "The Republican-led U.S. Senate Judiciary Committee on Thursday scheduled an Oct. 22 vote to advance conservative appellate judge Amy Coney Barrett's nomination to the Supreme Court to the full Senate,",
@@ -1265,49 +1317,6 @@
       "provider": {
         "name": "Houston Chronicle",
         "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-pence-rallies-in-grand-rapids-friends-dont-let-friends-vote-alone.md",
-      "title": "Pence rallies in Grand Rapids: ‘Friends don’t let friends vote alone’",
-      "excerpt": "Vice President Mike Pence urged Michiganders to vote during a rally near the state’s second-largest city, as Michigan remains key for both the Democratic and Republican campaigns’ bid for the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lansingstatejournal.com/story/news/local/2020/10/14/pence-rallies-grand-rapids-friends-dont-let-friends-vote-alone/3656442001/",
-      "originalUrl": "https://www.lansingstatejournal.com/story/news/local/2020/10/14/pence-rallies-grand-rapids-friends-dont-let-friends-vote-alone/3656442001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/14/PLSJ/6aa2c2e5-b4b6-41a0-959a-9e8af3bce6dc-Pence_Grand_Rapids.jpg?auto=webp&crop=3007,1692,x0,y150&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.lansingstatejournal.com/amp/3656442001",
-      "cdnAmpWebUrl": "https://amp-lansingstatejournal-com.cdn.ampproject.org/c/s/amp.lansingstatejournal.com/amp/3656442001",
-      "publishedDateTime": "2020-10-14T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lansing State Journal",
-        "domain": "lansingstatejournal.com",
         "images": null,
         "publishers": null,
         "authors": null

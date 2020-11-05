@@ -59,6 +59,17 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "EXPLAINER: Why AP called Michigan for Biden"
+    excerpt: "WHY AP CALLED MICHIGAN FOR BIDEN:"
+    publishedDateTime: 2020-11-05T00:57:00Z
+    webUrl: "https://www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "4T2gAQBL5z/pR3IC7AN5h7ItG9LNXF4mf28HS0Jv8Fjf8JMVjvjvkfGcfBhvypVPtrpyHeShhl2j1wrxZ8HWVYvGDbcrMZInWjOjybYpsoq9xFxIJVdwdCnFPdlHGBCOG1NHjZmLcfwbOUpl7JRjFs6yUPRvxHvrGkeoApF5SNGVn9ZFrDFDJyIjLyFVtxPU6FichyWSimXF9GE8tm8RivSe7jP7bU0NgdkEYrPsDHOJfYGLX76y/AHPVONuQsVcXfRO8Xqw6gfy2/ClW0drpZ+Tx8jGvA4COIqgtWpMXOHLPsGRFlaFhVfvyQTEEo6u54ObAlG6ALbXTZ3otm8axTh75A57QruLUBStBtFrUQL3JN1iCaQU5HifaO/EOHk/eZjxcBtBkfrGOKABm63SmAn/3Mpq529CrA2Ygq0VtItajOkArP2DPJIZLALUy4iupSP4qGhu/YjyASIaAW/iNxDyNd103WRY1zgrvgb9dkrdOUX2w6K/kOgFtztvYDiniG6l9AWXp4ImMMKeASDTBA==;66vYIco6Cc1Hwpk4udlZog=="
 ---

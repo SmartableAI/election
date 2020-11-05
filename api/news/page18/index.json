@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-17-ex-facebook-and-oculus-exec-palmer-luckey-is-hosting-a-fundraiser-for-president-donald-trump-this-weekend.md",
+      "title": "Ex-Facebook and Oculus exec Palmer Luckey is hosting a fundraiser for President Donald Trump this weekend",
+      "excerpt": "Palmer Luckey reportedly donated thousands to Trump in 2016, and his company, Anduril, has been awarded a contract to build a \"virtual\" border wall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10",
+      "originalUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f89d7e5d260780019341e37?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10?amp",
+      "publishedDateTime": "2020-10-16T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-biden-says-it-depends-on-court-packing-vaccine-mandate-at-abc-town-hall-as-election-nears.md",
       "title": "Biden says 'it depends' on court-packing, vaccine mandate at ABC town hall as election nears",
       "excerpt": "Democratic presidential candidate Joe Biden at an ABC town hall Thursday night equivocated on whether or not he would pack the Supreme Court or institute a mandate to take a coronavirus vaccine even as he gave definitive statements on other issues, including that he would not ban fracking and a strong",
@@ -1280,58 +1332,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-ex-fundraiser-to-plead-guilty-in-1mdb-foreign-lobbying-case.md",
-      "title": "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case",
-      "excerpt": "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27033J",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J",
-      "publishedDateTime": "2020-10-15T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

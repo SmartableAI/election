@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-04-kamala-harris-inspires-women-leaders-in-her-ancestral-indian-village.md",
+      "title": "Kamala Harris inspires women leaders in her ancestral Indian village",
+      "excerpt": "More than 8,000 miles (12,870 kms) from Washington, Indian women have been rooting for the \"America lady\" in the village of U.S. vice presidential candidate Kamala Harris's grandfather.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-harris-india-trfn-idUSKBN27K0ZW",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-harris-india-trfn-idUSKBN27K0ZW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27K0ZW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0ZW",
+      "publishedDateTime": "2020-11-04T01:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-kamala-harris-husband-declares-ohio-a-blue-state-during-election-day-visit-to-columbus.md",
       "title": "Kamala Harris' husband declares Ohio a 'blue state' during Election Day visit to Columbus",
       "excerpt": "Underscoring the Democrats' attempt to steal battleground Ohio from Donald Trump - who won the state in 2016 - Doug Emhoff rallies Biden supporters.",
@@ -815,7 +858,7 @@
       "originalUrl": "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 289,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -1531,49 +1574,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-kamala-harris-husband-emhoff-everythings-on-the-line-right-now.md",
-      "title": "Kamala Harris' husband Emhoff: 'Everything's on the line right now'",
-      "excerpt": "Doug Emhoff called President Trump a failing and racist president who didn't deal with COVID-19 due to an \"inept lack of caring and lack of action\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/news/politics/2020/10/12/kamala-harris-husband-doug-emhoff-everythings-line-right-now/5972356002/",
-      "originalUrl": "https://www.detroitnews.com/story/news/politics/2020/10/12/kamala-harris-husband-doug-emhoff-everythings-line-right-now/5972356002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/PDTN/e3a5441f-a0f4-48dc-8f30-1050d07840fa-DSC_2108.JPG?auto=webp&crop=2087,1174,x0,y106&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/5972356002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5972356002",
-      "publishedDateTime": "2020-10-12T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

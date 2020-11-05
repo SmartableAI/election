@@ -2270,6 +2270,22 @@ related:
         width: 2500
         height: 1556
         isCached: true
+  - title: "With Arizona too close to call, Trump supporters gather at a vote-counting site in Phoenix."
+    excerpt: "More than 150 supporters of President Trump, some of them armed, gathered outside the Maricopa County election office on Wednesday and chanted “Count the vote,” as officials did just that under the protection of sheriff’s deputies."
+    publishedDateTime: 2020-11-05T06:44:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/with-arizona-too-close-to-call-trump-supporters-gather-at-a-vote-counting-site-in-phoenix.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/with-arizona-too-close-to-call-trump-supporters-gather-at-a-vote-counting-site-in-phoenix.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/with-arizona-too-close-to-call-trump-supporters-gather-at-a-vote-counting-site-in-phoenix.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04elections-live-blog-phoenix-protest2/merlin_179598837_5d81b2ca-4b6f-4581-a0b3-e087ae441885-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump defends Texas drivers who surrounded Biden bus, while the president’s supporters block traffic in New York and New Jersey."
     excerpt: "In several instances over the last few days, supporters of President Trump have disrupted traffic. In Texas on Friday, Trump supporters surrounded a Biden campaign bus, and in New York and New Jersey on Sunday,"
     publishedDateTime: 2020-11-02T14:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6148835002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6148835002"
 type: article
 quality: 116
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Verbum Ultimum: Joe Biden for President"
-    excerpt: "Joe Biden is the only acceptable option on Nov. 3. by The Dartmouth Editorial Board \\| 28 minutes ago. With Election Day a mere four days"
-    publishedDateTime: 2020-10-30T06:33:00Z
-    webUrl: "https://www.thedartmouth.com/article/2020/10/verbum-ultimum-biden-for-president"
-    type: article
-    provider:
-      name: The Dartmouth
-      domain: thedartmouth.com
-    quality: 55
-    images:
-      - url: "https://snworksceo.imgix.net/drt/f6e05d55-b92b-4d73-be17-06d62e8be61a.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "fwyMGceJDT3e096CuruBFLEoA6xZ/jp5TVP6h4V3WmbP2HP8M9VY13cNA/BhLMTrutFZ+zngJ9jhk2NY8F/4vVy6tzz+8DvlP8zONY+UGZ7RVBbgijGR2ijDB68YlTTIh2Qjnt7RCqcw9AlQhIAEQnyExyj/3zki73d8TcQLRnboiJNAEqAKAPi4A2zs3QcEI//8+4aHi6eSnQ9jDnP46VX+ZG/4OMgcGEneGWp4WUGEGeiiR8YBoUll6JY/0iNROO+02YMTWxQgWOj6ANWpdRl++Oqg1T4kv1L/634FXADIPgGmr3A7xoUhxE+iqleygRD3ziDWtfXM+7LWrNLvmO33QPQWPguwKfsolSonwlDhxhatG5mC/LM1oq1ybKQ97ohrF1ErrsDJy8g9X1uhxGH1cPC/GvfSAVpN1VvNJMc9iuE3eE/ZRcqD2sWFnN6rni9EIHS19XbByjaZLom0/AB4MwuGys9myOy1cYa4Po2EsAqn+HZ9LLiVolb24vAswab53ie0A1c02JiWoV3lQQ==;l1qhyR4Mvf9ZcOALl9sKYg=="
 ---

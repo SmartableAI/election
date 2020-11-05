@@ -2255,6 +2255,22 @@ related:
         width: 2500
         height: 1556
         isCached: true
+  - title: "With Arizona too close to call, Trump supporters gather at a vote-counting site in Phoenix."
+    excerpt: "More than 150 supporters of President Trump, some of them armed, gathered outside the Maricopa County election office on Wednesday and chanted “Count the vote,” as officials did just that under the protection of sheriff’s deputies."
+    publishedDateTime: 2020-11-05T06:44:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/with-arizona-too-close-to-call-trump-supporters-gather-at-a-vote-counting-site-in-phoenix.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/with-arizona-too-close-to-call-trump-supporters-gather-at-a-vote-counting-site-in-phoenix.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/with-arizona-too-close-to-call-trump-supporters-gather-at-a-vote-counting-site-in-phoenix.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04elections-live-blog-phoenix-protest2/merlin_179598837_5d81b2ca-4b6f-4581-a0b3-e087ae441885-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Republicans fight to hold control of Senate as Democrats try to capitalize on anti-Trump vote"
     excerpt: "Maine, Colorado, Arizona, North Carolina and Iowa — could decide which party controls the Senate. WASHINGTON — Control of Congress will be up for grabs on Election Day as the entire House of Representatives and one-third of the Senate seats are decided by voters."
     publishedDateTime: 2020-11-03T20:29:00Z

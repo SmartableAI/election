@@ -911,6 +911,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's 72M votes pass Obama 2008 mark; Trump's count close behind"
+    excerpt: "Democratic nominee Joe Biden has won the most votes of any U.S. presidential candidate, surpassing former President Obama’s 2008 record on Wednesday afternoon."
+    publishedDateTime: 2020-11-05T06:19:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qh2GZPDPBm4/bidens-72m-votes-pass-obama-2008-mark-trumps-count-close-behind"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-72m-votes-pass-obama-2008-mark-trumps-count-close-behind.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-72m-votes-pass-obama-2008-mark-trumps-count-close-behind.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump, Biden traveling to Tennessee for final presidential debate showdown"
     excerpt: "President Trump and Democratic rival Joe Biden are preparing to face off for the second and final debate on Thursday night in Tennesee with the November election just 12 days away."
     publishedDateTime: 2020-10-22T11:48:45Z

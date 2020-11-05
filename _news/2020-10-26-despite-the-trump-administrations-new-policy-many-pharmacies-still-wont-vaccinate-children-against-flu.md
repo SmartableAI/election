@@ -175,6 +175,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Protests sweep U.S. cities, as pro-Trump demonstrators bring guns to vote counting center in Arizona."
+    excerpt: "A crowd of more than 150 supporters of President Trump gathered Wednesday night in front of the Recorder’s building near downtown Phoenix to protest against what they described as efforts to cast President Trump as losing Arizona."
+    publishedDateTime: 2020-11-05T06:42:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/protests-sweep-us-cities-as-pro-trump-demonstrators-bring-guns-to-vote-counting-center-in-arizona.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 100
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04elections-briefing-protests/04elections-briefing-protests-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "wV2byiN+6S9mayVfk8QOqCd0TtyvBLXc6ke1hBZsS+q4+EC+X9GAeMhYUEN5YXqcgiUGdj0BVpIGxGCXMqo7tHepi+u9ZLVoT7kAUiSnr2jhyUbUl3/7oj+2wVcne83QNn73rWR7O4XZpuXKynwYvvvMPXxnaal9d0s1mKvj7fAhpI3AXsNNnYnK3eJFUilzB5aFHKLAUM539e3pGaUNuKgc1psnuWH/r//6nOsXL5x/PTo6Ywmb7u38/JZbtObgCFCwS3sRmAbLRhk6FLwjT4vyUXlxD6IilYyjOfUSnsTUoYRNzYLMKqlrVvbX+aFYF0VNeapPK7eUnqRSBklg3+K5PVanIfiI0qufXUgK41M=;IQb2TDKdfn+5kYZMNwHFUQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-vi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-virginia-biden-74008179"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "EXPLAINER: Why AP called Michigan for Biden"
+    excerpt: "WHY AP CALLED MICHIGAN FOR BIDEN:"
+    publishedDateTime: 2020-11-05T00:57:00Z
+    webUrl: "https://www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Joe Biden will return to Michigan on Halloween"
     excerpt: "The trip marks the former vice president's fourth to Michigan in recent weeks, again signaling the importance of the state in the overall race."
     publishedDateTime: 2020-10-29T02:15:00Z

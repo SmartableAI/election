@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-strande
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
 type: article
 quality: 173
-heat: 353
+heat: 373
 published: true
 
 provider:
@@ -174,6 +174,20 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Protests sweep U.S. cities, as pro-Trump demonstrators bring guns to vote counting center in Arizona."
+    excerpt: "A crowd of more than 150 supporters of President Trump gathered Wednesday night in front of the Recorder’s building near downtown Phoenix to protest against what they described as efforts to cast President Trump as losing Arizona."
+    publishedDateTime: 2020-11-05T06:42:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/protests-sweep-us-cities-as-pro-trump-demonstrators-bring-guns-to-vote-counting-center-in-arizona.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 100
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04elections-briefing-protests/04elections-briefing-protests-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "gWk83NyhkgL6oq3ivce1GGqtRKNl8cbdlVdoSBVVTXbZUT2qYpZV1SFIKcqPI23SgM3Q3ZhwuZmWovZ7PvFnyrHqJH24eyhqcBc/Av9A4QF3fINWEqzABQHhlNPHQvqwxjDGVSu1E3y1c7rAGbvsaX5FGUW825VfQ9xyZR1Hlu6GcIies149ppzuo0yWSicLnDMnBsRR1XdcpmQTZa//fOLeRKndrjYVl2P25fWrE37UlbxyNqpisCrMMADW9paP854zYN91BQuxxQoAIPuBXen0mvtoCkDV9xZC1HicpFbWXKEQlHXDUF2xIUDRLKGubCOs//qvoEcOopSE8YMXchc6XLk3JRvGiz2p/UXBZ8Q=;66HUJFfTWiYrQ0WzRj5EIg=="
