@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-request-recount-wisc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp"
 type: article
 quality: 171
-heat: -1
-published: false
+heat: 191
+published: true
 
 provider:
   name: Fox News
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign adviser Lewandowski predicts clear election winner with Trump victories in major swing states"
-    excerpt: "President Trump has warned that Americans may not learn the results of the presidential election until well after Election Day due to certain battleground states extending the deadline for accepting mailed ballots, but Trump campaign senior adviser Corey Lewandowski predicted that Trump will win so decisively"
-    publishedDateTime: 2020-11-01T15:08:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/muP_8kyz5sk/trump-campaign-adviser-lewandowski-election-predictions-swing-states"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-adviser-lewandowski-election-predictions-swing-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-adviser-lewandowski-election-predictions-swing-states.amp"
+  - title: "Scott Walker claims Trump has 'fighting chance' in Wisconsin, touts Favre endorsement of president"
+    excerpt: "President Trump has a \"fighting chance\" to pull off a surprise victory in Wisconsin, repeating his feat of four years ago, former Republican Gov. Scott Walker told \"Your World\" Friday."
+    publishedDateTime: 2020-10-30T21:43:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CeeYyid7Q7k/scott-walker-trump-fighting-chance-win-wisconsin"
+    ampWebUrl: "https://www.foxnews.com/politics/scott-walker-trump-fighting-chance-win-wisconsin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scott-walker-trump-fighting-chance-win-wisconsin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be367b42-5921-461d-b8a2-7cd1b5de3963/800d4d41-4d0a-4de7-bd12-e9bff97e3c9d/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e99352a1-69c9-4e0d-abe1-25e33fffd835/fbb906d5-89fb-46f9-853f-24078e1a91a7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

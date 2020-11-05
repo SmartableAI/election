@@ -2,9 +2,9 @@
 category: news
 title: "Biden gains ground in White House vote count as Trump mounts legal challenges"
 excerpt: "Democrat Joe Biden edged closer to victory in the U.S. presidential race on Thursday as election officials tallied votes in the handful of states that will determine the outcome and protesters took to the streets."
-publishedDateTime: 2020-11-05T12:21:00Z
-originalUrl: "https://www.reuters.com/article/usa-election/us-vote-count-edges-biden-closer-to-win-as-trump-mounts-legal-challenges-idUSKBN27J0FZ"
-webUrl: "https://www.reuters.com/article/usa-election/us-vote-count-edges-biden-closer-to-win-as-trump-mounts-legal-challenges-idUSKBN27J0FZ"
+publishedDateTime: 2020-11-05T13:43:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27L0VI"
+webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27L0VI"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0VI"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0VI"
 type: article
@@ -1262,6 +1262,6 @@ related:
         height: 630
         isCached: true
 
-secured: "nVQq1p9RDWT22KWJq9uMJhzJ3g2LEtGTjH2oaJ1/K1FvqaNPmE6pLYH4iadcl5Nk2biLkQ26iOTjJPFzOfbu14xbFkU3uP1DaVcZpymfPADJ90Jz9T2pCI9UOg36UvlNtpil9W0C1FFLA3WfH2jfvjsqA1gGwkgQlUhlM4rj+rVByVhyYBrEiRcetmW2WpZkTA2g8i8yw7Q5g1qV7MdSN/e+eAs6rNDjqLNv29B0/EzN4FCzePjx7bxSM76NdcUmqou6XXgVQ0XnlxBw0wNxA93eV2SRtCDtK9qBsRyGae4fKfXlFc/gwOpyPjK1u3g23wu4Fo4B1/ssbOC8r05SaZ3Vl4oL2Az2N4ePWorBEc4=;q0hsq+FssfQezw2lUhqE9A=="
+secured: "WA+KMOrL3yGnMdJC4uR7p7E9EEcLOMu8OzW4N1pcErB3GIFDGmLxmRwlChTRFAZOMwBAZ5Q0GGbwkM18dAHXrt+Thonf0PjboS1NFDtNzQVhhu0bZCqJvD0d+RT8tY0R4ozI1na0lpNJdvVFzGTrBoDWE3ECz46NY0o7bX+/DYS5CQBlMgai3ZtNtLLa0LxpmdEVXV9OVQuESv9dAaz07r9sPF9yZj0zYp9uB669s7OMgh3MpG5DiPCSFRkJljORIgVBJ1wbfdLBaFVZjBl/0QhurYbPO+sJt8+xINP6CBrhon02HBxozjrgObcGLBsi2klfKBdcwNfIqS5cmjl8E0z5sChkfd4uzgR4Je05jRM=;pF3mDt7Hh4slLSGH7Aqkzw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-vote
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
 type: article
 quality: 133
-heat: 513
+heat: 533
 published: true
 
 provider:
@@ -227,6 +227,22 @@ related:
     quality: 97
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDEM/00e3dcb0-255d-409a-9ce9-d0162799a46f-20201103_002_election_bp.JPG?auto=webp&crop=3499,1969,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In latest batch, Trump gets share of votes he would need to reclaim Arizona. But next rounds of ballots present new challenges"
+    excerpt: "Trump won batches of ballots from Maricopa County counted on Wednesday and Thursday morning by a roughly 58-40 margin over  Joe Biden."
+    publishedDateTime: 2020-11-05T14:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/latest-batch-trump-gets-share-votes-he-would-need-reclaim-arizona-next-rounds-present-challenges/6169183002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6169183002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6169183002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

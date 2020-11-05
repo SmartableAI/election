@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Giuliani ‘en route’ to Philadelphia with Trump legal team as ballot battle ramps up"
-    excerpt: "Rudy Giuliani, the personal attorney to President Trump, said he is \"en route\" to Phildelphia with the Trump campaign legal team, vowing to protect the vote and \"not let\" Democrats \"steal\" Pennsylvania in the 2020 presidential race as the ballot battle intensifies Wednesday. "
-    publishedDateTime: 2020-11-04T19:39:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8LrYUedURtg/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up"
-    ampWebUrl: "https://www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump: Philadelphia police shooting a 'terrible event,' but rioting comes from group Joe Biden 'supports'"
     excerpt: "President Trump called on Democrats in Philadelphia to crack down on recent rioting, and blamed Joe Biden for not condemning the unrest strongly enough."
     publishedDateTime: 2020-10-29T04:38:00Z

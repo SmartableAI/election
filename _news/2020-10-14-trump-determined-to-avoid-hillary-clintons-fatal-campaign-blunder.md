@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/back-on-the-campaign-trail-presiden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
 type: article
 quality: 175
-heat: 355
+heat: 335
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Clinton-Foundation-Bill-Hillary-Getty-thumb.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Wisconsin voter who backed Hillary Clinton in 2016: Trump policies have helped my family"
-    excerpt: "Accompanied by two other voters on “Fox & Friends” to discuss the 2020 presidential election, a Wisconsin woman who has been a lifelong Democrat said she is likely switching over to supporting President Trump."
-    publishedDateTime: 2020-11-02T14:48:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FXlYWXGkWKk/wisconsin-voter-backed-clinton-trump-policies-helped-family"
-    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-voter-backed-clinton-trump-policies-helped-family.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-voter-backed-clinton-trump-policies-helped-family.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Hillary Clinton: Voters should 'cancel' Trump 'reality show' after town hall ratings revealed"
     excerpt: "Former Democratic nominee Hillary Clinton on Friday urged her supporters to \"cancel\" the “Trump reality show” in the November election. "

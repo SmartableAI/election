@@ -338,8 +338,8 @@ related:
         isCached: true
   - title: "Biden gains ground in White House vote count as Trump mounts legal challenges"
     excerpt: "Democrat Joe Biden edged closer to victory in the U.S. presidential race on Thursday as election officials tallied votes in the handful of states that will determine the outcome and protesters took to the streets."
-    publishedDateTime: 2020-11-05T12:21:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/us-vote-count-edges-biden-closer-to-win-as-trump-mounts-legal-challenges-idUSKBN27J0FZ"
+    publishedDateTime: 2020-11-05T13:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27L0VI"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0VI"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0VI"
     type: article

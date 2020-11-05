@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Judge rejects DOJ attempt to replace Trump as defendant in E. Jean Carroll case"
+    excerpt: "A federal court ruled that the Justice Department cannot take President Trump's place as the defendant in a lawsuit filed by writer E. Jean Carroll, who sued for defamation over Trump's response to her allegations that he raped her in the 1990s."
+    publishedDateTime: 2020-10-27T14:05:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D5Y0Un7KFk8/judge-us-cant-replace-trump-e-jean-carroll-slander-suit"
+    ampWebUrl: "https://www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a6dfdd4-d81f-4363-93de-7d261a7f9c73/2721936a-8943-4360-804a-30ba90618f18/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "CM8giaXZCduHvqEF6uHMc8BOjJU8ipDfrQRbRVeXnVDb+pZrhDCMxCTUVoDkACoW3NmcMgbPAJvt7/iOSdFO7J6r/qHVW4ZOVE4P+eVLhqYS+YpC8OIeuNgBaDClyp6mQTL9g3UizZG0edkhRIf38FkPpOeeyBNRP0RDRAubD1dXaBf4dAdimL8+eJnAXjfwFHXdmoUlVBO8jODsO9qL6TuXnZl+Yt1FQeaEb6WHDOQ1hlU1OxxBD2iFICwMRh0H+ElXoxV0hhCaWJl3hbAg0cNgp++mLMo+FbknLG5iW5uyVyRZmhZvWzzlNfjOktauf0enkZEON6KySqUBSw2TKx06kdXYHH5vSMoKovGM3Vw=;pVQFeN2zfRaKVEWkLR3D8Q=="
 ---

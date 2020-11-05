@@ -64,6 +64,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Former Trump Campaign Staffer: \"Father, Forgive Me\" For I Believed Him In His Con"
+    excerpt: "Former Trump campaign official Jessica Denson is now backing former Vice President Joe Biden for president, calling the Trump campaign a \"vile, self-serving branding exercise\" for Trump and his family."
+    publishedDateTime: 2020-10-29T11:42:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/29/former_trump_campaign_staffer_father_forgive_me_for_i_believed_him_in_his_con.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/52/525517.jpg"
+        width: 1068
+        height: 800
+        isCached: true
 
 secured: "MNVUBHKq5UocsY43P7a10CZrpTc5HO+7LFvjdp5GY7i0NvrWgY02xCX2Z7z4DSIQ6hxTk0Wi8GidU7cTbj2fL7ROCwpshtIiy7yFdilmYjJNWDeOFlXxjhxxrab1/QgTpTBn1sBYmqu8Tz/KD0r6jmebcyZixd0eLtpXvsjeDZDTW60u482ZSiLz9RWFiBM2aiXuMzx0HJTavLViO0phh5iaEn7g6YMMD+srCwgTFlBoh5D1KiJboirkVPU1NT+Rygr+immDnZfCJtmFQXdZm0WzuEjKUN55MAMdlHvygD03DEGJpt3o+MVpsQBan4ZNoWpAz7beAwqDuVUbj5Ghq8nfdQTd4pXFPN6E+DNQDpQ=;oa7QxKiTyZ3aKzn936GK8Q=="
 ---

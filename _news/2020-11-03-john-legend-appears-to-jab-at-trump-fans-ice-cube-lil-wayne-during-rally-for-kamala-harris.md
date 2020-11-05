@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/entertainment/john-legend-appears-to-jab-at-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris.amp"
 type: article
 quality: 140
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,19 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ice Cube On Turning Down Kamala Harris Group Zoom Call: \"I Want To Get Things Done\""
-    excerpt: "Ice Cube said in an interview on the FOX Soul program \"Cocktails with Queens\" that he passed on a request from Democratic nominee for vice president Sen. Kamala Harris to participate in a Zoom group call because it would be full of \"entertainers\" and \"wasn't going to be productive."
-    publishedDateTime: 2020-10-30T11:12:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/30/ice_cube_on_turning_down_kamala_harris_group_zoom_call_i_want_to_get_things_done.html"
+  - title: "Candace Owens on Lil Wayne's Trump support: Liberals laughed at idea of 'Black Exit' by Dems"
+    excerpt: "Black Americans leaving the Democratic Party shows they have done nothing for the Black community, according to author Candace Owens on Friday."
+    publishedDateTime: 2020-10-30T12:54:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86M7oShwDNk/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe"
+    ampWebUrl: "https://www.foxnews.com/politics/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-on-lil-waynes-trump-support-i-predicted-black-exit-from-democratic-party-and-liberals-laughe.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 59
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
     images:
-      - url: "https://assets.realclear.com/images/52/525640.jpg"
-        width: 1008
-        height: 756
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "u25fepITYaAm8QDSkmXMfy9+JahmA36xNz5a6aBjIzb3xdMnIKDSmtJfaM/yHD7LPyTyLbuzZ5NaDwiFD+UJldh0P0cwwXd5hlbFEyjKUGIiS5mrTGX3gNxAEhqz9ou4QS8izCTVYPKRF7gX8VwYMITnaszOKiYTivpo0yaR99+Xfg5Em0EEPy7436vGGDZRUiG7T+KtlBbD4vTErXS3IM7cilFbuODFPsbzweTuZTWATHuqKlIQfbHEhVe/yhDstwN8E1W/ONIBhTN6L0j38HtE2EPZmbm2MdDvoh8F6UhsmaF5EVfyMQ6iA9jB9d+UBePcHV0mqqilmB0oujXTD6lKNe+jRWiIUWrnjaDJ3eM=;rR+OmTadRenXFrkbMH8pNA=="

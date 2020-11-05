@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 1355
+heat: 1375
 published: true
 
 provider:
@@ -479,6 +479,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff31cc51-5acb-4d7e-b902-ae55c5f4c59d/1c9485e0-0554-4871-841f-731be28337c8/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden on edge of 270 as Trump claims victory in Pennsylvania, other states before race calls"
+    excerpt: "After major wins for Joe Biden on Wednesday when the Fox News Decision Desk projected that he will win in Wisconsin and Michigan -- two states where President Trump came out on top in 2016 -- the Democratic nominee sits at 264 electoral votes, needing just one more state to win the White House. "
+    publishedDateTime: 2020-11-05T13:29:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5AB-84f2JQk/biden-on-edge-of-270-as-trump-continues-to-claim-victory-in-pennsylvania-elsewhere-before-race-calls"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-on-edge-of-270-as-trump-continues-to-claim-victory-in-pennsylvania-elsewhere-before-race-calls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-edge-of-270-as-trump-continues-to-claim-victory-in-pennsylvania-elsewhere-before-race-calls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Melania Trump to travel to Pennsylvania in final stretch of campaign"
     excerpt: "First lady Melania Trump is hitting the campaign trail this week, traveling to Pennsylvania on Tuesday to speak directly to voters before they cast their ballots in the final stretch before Election Day."

@@ -230,6 +230,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "In latest batch, Trump gets share of votes he would need to reclaim Arizona. But next rounds of ballots present new challenges"
+    excerpt: "Trump won batches of ballots from Maricopa County counted on Wednesday and Thursday morning by a roughly 58-40 margin over  Joe Biden."
+    publishedDateTime: 2020-11-05T14:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/latest-batch-trump-gets-share-votes-he-would-need-reclaim-arizona-next-rounds-present-challenges/6169183002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6169183002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6169183002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
     excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."
     publishedDateTime: 2020-10-28T02:43:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.christianpost.com/amp/vp-mike-pences-daughter-delivers-e
 cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/vp-mike-pences-daughter-delivers-election-day-message.html"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 450
     height: 299
     isCached: true
+
+related:
+  - title: "Greg Pence Wins Re-Election In Race For U.S. House Seat Once Held By VP"
+    excerpt: "U.S. Rep. Greg Pence is projected to win re-election in the Congressional district his brother Mike Pence held for 12 years before going on to become governor and vice president."
+    publishedDateTime: 2020-11-05T13:55:00Z
+    webUrl: "https://indianapublicmedia.org/news/greg-pence-wins-re-election-in-race-for-6th-district-seat-once-held-by-vp.php"
+    type: article
+    provider:
+      name: WFIU
+      domain: indianapublicmedia.org
+    quality: 70
+    images:
+      - url: "https://indianapublicmedia.org/images/news-images/greg-pence-official-headshot.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "l1rjCXjnb6QiAYUUntF+TQD//xYOI7F5lG4cxWb0ZblY3TuGwzX+ef8rbbo3H2tG9JW6oGQpEQiPmL8U24vSFBO+R0MztJ+4PH9BbgWaLa/iV3E+s8S8r489PP+/4WyxLMj1WnF/NagUfNxzirT9LTbMIeNlT6k+iEe3EeJie/mSCsgeK8sblTpByr6sYabkzj5gqXP6JgWDUn8NK688Yj/brGJtgSpIe6zdNx0B3uMK6vITGW7FK2S9gGIBKMBnubiNEkLCgTQnsuUcvqUazUqfwuS+yzqw99gxfNDr0KsNNgv2upsjLXlMJzBIxliBGYaqcM+2frPKBMTDBSUDl+qbmXvnTUuke/DTnpqVlZdeI7GgF8SytFsqLBe9dFsZ4KCImj3iqqvp5C21cLO+bwuzigJ+bEcMHF7IuTJ2FlSI/hwikd/uxe7HTg88tOu0aLkq4c3LdTWGaqbVX2ySJ6JG4oeT9RRLc/Z50/YpuNtucShyq1FWqdWouQjE+POOkwz+RO9fQa2U+NrZa1Ud/Q==;QuawBptYUvVUdo4AsajfpA=="
 ---
