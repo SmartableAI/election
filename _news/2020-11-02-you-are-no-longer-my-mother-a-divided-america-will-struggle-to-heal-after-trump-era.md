@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I15T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I15T"
 type: article
 quality: 117
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 817
     height: 545
     isCached: true
+
+related:
+  - title: "Pastor Paula White calls on angels from Africa and South America to bring Trump victory"
+    excerpt: "During the service, which was streamed on Facebook Live, White-Cain called on \"angelic reinforcement\" from the continents of Africa and South America. \"I hear a sound of victory, the Lord says it is done,"
+    publishedDateTime: 2020-11-05T18:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/05/paula-white-trumps-spiritual-adviser-african-south-american-angels/6173576002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6173576002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6173576002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/521ae08a7377ec45278f26c565d0fd4a8774a1a8/c=0-161-4568-2742/local/-/media/2017/09/09/CarolinaGroup/Anderson/636405576418021285-Paula-2.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
 
 secured: "yhpMX79QSF9YVHOga8Hz4UcDDVxqj6bM2XTmt0vBKXuyRiAwmdvVfKHOYnkML6sNGS9iZXphjs7P+TkNh0ZOvoHJFbthPfsXW7j8UL/0RJ2fiVN2NkqnjJCzMwd3WTPcua1ft9rRCi4C2W9FgP7rfBl4F7UTtGT/X8Gs7QNIYX8evQgRoAmWJqGQBUMeSNJLFKpvz5Zd2hjkg9dwro3MwoOOqNVEt9AP4ph7m3uJMVhXv9JMctZ8AMuhGGwMcjs/PQJXztI85VMY/7jPQJN8S7XO1D1xliEDGoQIk25GobSdBhQI3joK0UiTCwDGoeteKEIOp+u7FFdSrFOxMSkEd4ULTzzncu0c07EcWyVEPnA=;VaZAl7sp9g41dU5gYSvJBg=="
 ---

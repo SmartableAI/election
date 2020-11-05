@@ -413,6 +413,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden inches nearer to victory as Trump launches lawsuit blitz to slow him down"
+    excerpt: "Democrat Joe Biden inched nearer to victory on Thursday over Donald Trump in an exceedingly close U.S. election that hinged on razor-thin margins in a handful of states, while the Republican president launched a flurry of lawsuits hoping to slow down his opponent."
+    publishedDateTime: 2020-11-05T18:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27L0VM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0VM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0VM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540144647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41ES"
+        width: 1119
+        height: 545
+        isCached: true
   - title: "Election live updates: Donald Trump says he's not nervous: 'I've been here before'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden are in the home stretch of this campaign with just hours to go before Election Day."
     publishedDateTime: 2020-11-03T03:13:00Z
@@ -1294,6 +1310,6 @@ related:
         height: 630
         isCached: true
 
-secured: "2KlCU7wqXq9B7C8+zD60y3acl5BvkkTSv+GDL14xXFcpVpYVMiP+OllVvWW+nK1p1xuVpWHwX2Nlk4TMX0WpOIoABFCGCj+tlRRKGqLZ28S5zNmN4xW72kxUM4bZTpIu+p5nbD0vi1amZHoFcI7FVsRYBGj+5rA0zj5HWsD9vBC6N9mGyKxtOo7i7aCHyNFRZwkgScN4QymFH8ReLcKSY4yasn+LPKIh3REWJ1ER4yhoDJ3DAkpoZ0AqgugHHs2O2GKrtegWwMXL1naBLBvjy63sb2t6c0AFxsqcrMXhO8sY+V561CbMEGfwJ0CG+KMJGopQSWzFwMRCDKpnUzVHixpWebO3ZK7RRpP8IBByEw0=;/qcjY6RzPJFNbnSQD0kw6g=="
+secured: "s8DTKyIydY/q+1PxXAmU4O9TFdvHC5A5pl/UaBQaP4dGeDHuLLbrNdrb4o34Ej2UWQb8xngGMZ7BK6kPt/54wPcaUKa9fyk4nhYghdCikVD0OwsrGhayPyxR69dTEUcPE0haaGAUasJuTvIOqyjxsrJ1P2sOeWeyAAqww2pv6UMK+34Q7w6IJOq41gNa28i6Z/HhbrouOZmyR4sy54RxjJzDVJwRlcBOej7I5znBqSfUcN++9EuXMun+N//7mYp5iZCaeEWU3wDSkkmMj8Sbjo4+5kzK2IcojHIWBq9dSreYRqsYp0g2gn5GWrEM4cos3Ma2srYbeSM/6z24zCc8awSMDECyzY6f8xtPgglt+rxhNWzFyQlzQryu8EnkewUI5Du9i36uGKzfTnGyViztQa0l2lmG6HPxm+54QN8MLjXfCUEZsKbDtTRd3DcZl5Iy88jDLogHKFEWXXruUPuqwzqLbd1oNyjIqkxH7VT4CRjuKczSTcHw+GMcc+hx2Id23OXS6VWhhpmsVvTtXn0DKw==;wTgqFf5+n+HRpQryTCjr0A=="
 ---
 

@@ -480,6 +480,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump campaign's longshot legal challenges unlikely to swing election, analysts say"
+    excerpt: "The series of lawsuits the Trump campaign has announced in multiple states amount to longshot legal arguments focusing on thin claims or affecting such a small portion of votes that they wouldn't decide the presidential election, several legal analysts say.\n    \n"
+    publishedDateTime: 2020-11-05T17:05:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NjUNCpXFcFc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/trump-legal-challenges-pennsylvania-nevada-michigan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/trump-legal-challenges-pennsylvania-nevada-michigan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104113627-01-election-1103-north-las-vegas-nv-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden makes play for red states in final days of campaign as Trump narrows his focus"
     excerpt: "Democratic presidential nominee Joe Biden's campaign is making a late push into deeper-red states in the final week before the 2020 election, chasing a number of possible paths to 270 electoral votes while President Donald Trump focuses on defending a narrower set of states that he won four years ago"
     publishedDateTime: 2020-10-27T15:23:49Z
@@ -957,6 +973,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104023109-02-donald-trump-speech-election-night-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Narrowing path leaves some aides facing reality even as Trump presses legal action"
+    excerpt: "President Donald Trump was charging ahead Thursday with a strategy to force an election victory, or at least forestall a loss, through legal maneuvers and demands for recounts, a final-ditch effort to prevent states from tallying ballots that could decide the next president.\n    \n"
+    publishedDateTime: 2020-11-05T18:36:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5NA6FTUxNJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/donald-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/donald-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2063,9 +2095,9 @@ related:
   - title: "Biden Appears to Hold Edge in the Key Votes Left to Be Counted"
     excerpt: "Joe Biden looks to be on the cusp of winning the election. Here’s a look at where the vote count stands in the key states. President Trump’s lead in Pennsylvania has plummeted to two percentage points as of Thursday morning,"
     publishedDateTime: 2020-11-05T15:14:00Z
-    webUrl: "https://www.nytimes.com/2020/11/05/upshot/biden-election-results-votes.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/05/upshot/biden-election-results-votes.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/upshot/biden-election-results-votes.amp.html"
+    webUrl: "https://www.nytimes.com/2020/11/05/upshot/election-votes-remaining-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/05/upshot/election-votes-remaining-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/upshot/election-votes-remaining-biden.amp.html"
     type: article
     provider:
       name: New York Times
@@ -2454,6 +2486,20 @@ related:
         width: 600
         height: 325
         isCached: true
+  - title: "Has anyone seen Donald Trump?"
+    excerpt: "As his campaign aides and lawyers fan across the country, President DONALD TRUMP has been uncharacteristically quiet. (Except on Twitter, of course.) JOE BIDEN is expected to appear later. THE BIDEN CAMPAIGN BELIEVES they will have won the presidency by the end of the day."
+    publishedDateTime: 2020-11-05T18:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/11/05/has-anyone-seen-donald-trump-490822"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ab/4e/ab0c8fcd498ba67ca6d5e05ed40d/201105-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
     excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
     publishedDateTime: 2020-10-25T04:00:00Z
@@ -2518,6 +2564,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "uC+xTyPHGEV2BNz1C5c/OHr0jJPG5q/bHINxE39ZXkTJU30xcA1IaYSeDL6YQu64ybmcpuzgc3aD2Ma9vsA8hG/b8OxF1XfCEoZSkr2U1Whgh1/DzjC66pCUFqFtbp1hCU0a0+WPvsXEWKJrUfN81uiPe2AlertjTkCJropapPanoKPLbZRs2D6rqtbT8kc10shbQsWoh0o7cVMMDYOKJBVUVyzH2zOyqvzLL8kGNIwtdEsiO6pD0X8VMrGMZzLwS2EfXjEoLoUYOGsgsLtyeIIeYybWSNmxiPEcVkYbqzM3zqnEas8bUkVZays01wa9reY1PveV519dVRm2uo1Gjh6bEB3kFfcphvbAvECTrOM=;XZUuPqy8RC0SHaYv7iBUxg=="
+secured: "VUTtaKNj2N3GUh5q+Fl8afLeU6htve1f7BxrGEd93FvwWYIV3CyxPf2/XyFu/++3bZOnSqF9KGnxthkUw3cv/tdUikqoTgtsyGeKh5pH+x2wuYu/flk2z6AdkJpj+MRjaLRCJk7+w/5Vhw2G/zGWmFOpSS6WQRX+n0DOWnBuy415KlTjNwyYxWNoUBSAncUPBQfZw1yjdy4m4r4nMKDMtsvB+bX+qxcs7OdlgoTMgbEJvMcW7Fsc+XJtZLRNSyWhIgaz3c9qkF0xDyLZHmgOez5gr5NG/Niwo24IEq7egyHR361SSk96pHChfINvTzJKUkugseNk8wt0of23QEghEgSlZ0eYjcIPjEkkqpPmmYkEFf2/JRz+GBQ7xlpnva2zS/WSn5tRhlbPfgifZsxGSGbF60nbDUXQzHFIpPcL+YmEZ7kRs6OPCNUaCGoxDljaowZZUD37eRVY6u9pyFWEAIaWYBYvG0h/ZkDUpQnCrnmDnP+xib6iGbdj8XVxnxPLp8WrAicTd7Y52c6dAeAUZQ==;t+uxm0Abe1EPsCCyumkP+A=="
 ---
 

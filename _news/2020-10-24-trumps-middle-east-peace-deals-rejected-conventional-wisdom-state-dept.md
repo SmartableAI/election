@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/israel-sudan-trump-peace-deal-middl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus.amp"
 type: article
 quality: 173
-heat: 213
+heat: 193
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Judge rejects DOJ attempt to replace Trump as defendant in E. Jean Carroll case"
-    excerpt: "A federal court ruled that the Justice Department cannot take President Trump's place as the defendant in a lawsuit filed by writer E. Jean Carroll, who sued for defamation over Trump's response to her allegations that he raped her in the 1990s."
-    publishedDateTime: 2020-10-27T14:05:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D5Y0Un7KFk8/judge-us-cant-replace-trump-e-jean-carroll-slander-suit"
-    ampWebUrl: "https://www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a6dfdd4-d81f-4363-93de-7d261a7f9c73/2721936a-8943-4360-804a-30ba90618f18/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump announces peace deal between Sudan and Israel, says more nations will normalize relations"
     excerpt: "President Donald Trump announced Friday that Sudan will start to normalize ties with Israel, making it the third Arab state to do so as part of U.S.-brokered deals in the run-up to Election Day. "
     publishedDateTime: 2020-10-23T16:02:56Z

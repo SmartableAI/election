@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "'Shoot your shot': Obama nails three-pointer while campaigning with Biden in Michigan"
-    excerpt: "Barack Obama called game.\n    \n"
-    publishedDateTime: 2020-11-01T03:02:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pp3f09Ilw9s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/obama-basketball-video-michigan-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/obama-basketball-video-michigan-campaign/index.html"
+  - title: "In Miami, coalition of Latino evangelical leaders endorses Biden"
+    excerpt: "One pastor said that although the coalition is a nonprofit and nonpartisan, “in moments of crisis, the church has to unite the people.”"
+    publishedDateTime: 2020-10-31T06:59:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/miami-coalition-latino-evangelical-leaders-endorses-biden-n1245530"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245530"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245530"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031163509-obama-flint-michigan-1031-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3424487/201030-joe-biden-florida-se-402p_3db85e6a3fcbebeb652c49735b272ec4.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "K0ed+GD7yIMUo2S3bhvnadg9qrJlT07NNpLEBCLnL9XU63EnaHL+mImizaXnTum8U719luDXSD+qcuYd0nAROnT+3vlhXyPqkmgoxHi8PbPXroPnjJVj+ZjMlyxqjFR59XheC3DFW8318YUR+8hugSlcZrYsF81WZznuQFNUlK9qed6/GsDbXcMbl70y2dvc057r7FYGF01LcV7MX6OdRh29Uh+chhTGIWM7EnaaJFVDXUMDJGjr6dttZn1Vx0CPOXSPrSeRKAUt3MdpKoyPZ9uA90Cv/KLYDby8Bixpg3n6dXCeV1aYa+nGEpYDuFYjcJw01Upu9p0Wbm54DHXmC0tjEkCXLA7DtgZtkoXphdo=;IGLo5LcEgsMv0QgtyPPs2g=="

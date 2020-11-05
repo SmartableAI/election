@@ -1717,6 +1717,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Election protests across US: More demonstrations planned Thursday; Trump, Biden supporters gather in Philly"
+    excerpt: "Protesters took to the streets Wednesday, and more demonstrations were planned Thursday as the nation awaited presidential election results."
+    publishedDateTime: 2020-11-05T18:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-protests-across-us-thursday/6174365002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6174365002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174365002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/05/USAT/e65e626c-fbef-4db3-93bf-1f1badba8af7-AP20310663637854.jpg?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In a divided U.S., Biden inches nearer to victory as Trump pursues litigation"
     excerpt: "Democrat Joe Biden edged closer to victory over Donald Trump for the U.S. presidency on Thursday as election officials tallied votes in the handful of states that will decide the outcome and the Republican president pursued a litigation strategy."
     publishedDateTime: 2020-11-05T16:53:00Z
@@ -2452,8 +2468,8 @@ related:
         isCached: true
   - title: "US election 2020: Joe Biden holds lead over Donald Trump in tense wait for results – live"
     excerpt: "Battle for White House now down to handful of states including Nevada, Georgia and Pennsylvania"
-    publishedDateTime: 2020-11-05T16:23:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa423318f08578732a63a91"
+    publishedDateTime: 2020-11-05T18:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa441dd8f08578732a63ccc"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
     type: article

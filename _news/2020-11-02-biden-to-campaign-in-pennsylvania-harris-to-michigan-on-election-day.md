@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 1395
+heat: 1415
 published: true
 
 provider:
@@ -367,6 +367,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ec1b9f5-0348-4a6f-ae96-4b7562fb0ec2/c80ab8e5-4930-46c1-a768-aa7670ee23f8/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sarah Sanders says it's way too early for Biden-Harris to turn attention to presidential transition"
+    excerpt: "President Trump still has a pathway to victory, making it premature for the Biden-Harris campaign to post their transition team, Fox News contributor Sarah Sanders said on Thursday while the presidential election remains too close to call."
+    publishedDateTime: 2020-11-05T16:49:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xuoxqnv7HZA/sarah-sanders-trump-biden-harris-transition-team"
+    ampWebUrl: "https://www.foxnews.com/politics/sarah-sanders-trump-biden-harris-transition-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-trump-biden-harris-transition-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden urges battleground Pennsylvania voters to ‘put an end’ to Trump presidency"
     excerpt: "Democratic presidential nominee Joe Biden, campaigning in Pennsylvania on the eve of Election Day, told voters that “tomorrow we can end the presidency that’s divided this nation.”"

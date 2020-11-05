@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-website-briefly-defa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
 type: article
 quality: 173
-heat: 253
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,69 +31,81 @@ images:
     isCached: true
 
 related:
-  - title: "Trump claims Obama 'campaigning for us' after former president's scathing rebuke"
-    excerpt: "President Trump claimed that former President Obama was campaigning for him “every time he speaks,” after Trump’s predecessor slammed him at a rally for Joe Biden Wednesday night. "
-    publishedDateTime: 2020-10-22T21:00:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6xDnpvv7VpU/trump-obama-campaigning-for-us"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-obama-campaigning-for-us.amp"
+  - title: "Nevada county judge keeps some polls open later after Trump campaign sues"
+    excerpt: "Some polling locations in Nevada’s Clark County will stay open until 8 p.m. after a GOP lawsuit. "
+    publishedDateTime: 2020-11-04T02:30:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjnqvgkV8MI/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues"
+    ampWebUrl: "https://www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 174
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Obama-Trump-AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump campaign takes over YouTube masthead for debate day with help of UFC supporters"
-    excerpt: "EXCLUSIVE: President Trump's campaign Thursday will take over YouTube's masthead for 24 hours, controlling the prime internet real estate on the day of final debate between Trump and Democratic nominee Joe Biden, Fox News has learned."
-    publishedDateTime: 2020-10-22T02:20:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z0bruodusTk/trump-campaign-takes-over-youtube-masthead-for-debate-day"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/New-york-voting-2020-2.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "RNC speaker Kim Klacik falls short in House bid despite viral campaign ad, Trump support"
-    excerpt: "Republican newcomer Kim Klacik fell short on Election Day in her bid to win a U.S. House seat in a Maryland district that includes inner-city Baltimore."
-    publishedDateTime: 2020-11-04T06:28:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAtCWORKoZA/baltimore-kim-klacik-kweisi-mfume-maryland-7-district"
-    ampWebUrl: "https://www.foxnews.com/politics/baltimore-kim-klacik-kweisi-mfume-maryland-7-district.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/baltimore-kim-klacik-kweisi-mfume-maryland-7-district.amp"
+  - title: "Judge rules for Trump campaign, granting rep better view of Philadelphia vote count"
+    excerpt: "A Pennsylvania appellate court handed the Trump campaign a victory Thursday by allowing it to have its representative as close as six feet away from the vote-counting process that is underway at the Philadelphia Convention Center."
+    publishedDateTime: 2020-11-05T16:42:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZOPoIFTwFOc/pennsylvania-judge-rules-for-trump-campaign-philadelphia-vote-count"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-judge-rules-for-trump-campaign-philadelphia-vote-count.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-judge-rules-for-trump-campaign-philadelphia-vote-count.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bdd12d9d-c370-47d8-a3f9-dd83ac8d8213/a00ff9b9-ebe8-48a5-96fd-93bc7b091488/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump Caravan Participants Who Blocked New Jersey Highway Face Possible Citations"
-    excerpt: "A caravan of President Trump supporters could be issued summonses for obstructing traffic on the Garden State Parkway on Sunday, New Jersey State Police officials said."
-    publishedDateTime: 2020-11-02T22:51:00Z
-    webUrl: "https://www.wsj.com/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
+  - title: "Trump campaign, GOP to appeal to Nevada Supreme Court to halt Vegas-area mail-in ballot count"
+    excerpt: "LAS VEGAS (AP) — President Donald Trump’s re-election campaign and Nevada Republicans filed notice Monday that they’ll ask the state Supreme Court to stop the count of mail-in ballots in Clark County, the state’s most populous and Democratic-leaning county, including Las Vegas."
+    publishedDateTime: 2020-11-03T15:32:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ob-d5Z_sbHI/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20305794561511-e1604416769499.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "In St. Petersburg, Fla., Trump's Character Is in Focus"
+    excerpt: "With millions of Floridians having already voted, the Election Day line quickly diminished outside the largest polling location in St. Petersburg, Fla. The city resides in Pinellas County, one of the bellwether counties in the country's largest battleground state."
+    publishedDateTime: 2020-11-03T20:42:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 130
+    quality: 115
     images:
-      - url: "https://images.wsj.net/im-253655/social"
+      - url: "https://images.wsj.net/im-254027?size=1.5"
         width: 1280
-        height: 640
+        height: 853
+        isCached: true
+  - title: "Trump Campaign's Lawsuit in Michigan Seeks to Halt Counting of Absentee Ballots"
+    excerpt: "The Trump campaign filed a lawsuit Wednesday in Michigan’s court of claims seeking to halt the counting of absentee ballots, alleging that state counting boards were violating state law by counting absentee ballots without election inspectors present from both parties."
+    publishedDateTime: 2020-11-04T22:49:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/Fbw6qWaPRwgqzRfWHC2r"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 111
+    images:
+      - url: "https://images.wsj.net/im-255152?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "iy9N5FgbFfKoOCZFd4KWaDfJ/NGqw/Y403iATZNh3yd2pKVLOfi3vE2i673lFbj75uCDWxy1JvaFpVzJKBGxfsqNoKKQDAYxEgXdSxI1ycMr+q0/E8dEPJC5UvISJW+zxwXueI8GH5nGC3H0npdWFLPDJ2JediQgIZanM1PdHEf5tkBVUQg6BalXEAI+y8sthPgndRYetPkJrCMg6WpiwTpGJzpbIhhqJYMk6NMhk8rM6U9cU8SCLUWltzUSJZu/DmDPQWdfKo+qqlhiCpQw46l2Ryb/mUJfYrMiet/DXmsqEn/n/nx4ITwNIvMPXFR69DQRDxcpaWdB0/jAHbC+QOP5t+nBh5hSEZFHyGUQy58=;HSojHUryWfVbKqyR5qIIxA=="

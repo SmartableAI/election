@@ -31,81 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump continues swing through battleground states with stop in Pennsylvania"
-    excerpt: "With the November election exactly two weeks away, President Trump is continuing his tour of the pivotal battleground states with a campaign stop in Pennsylvania, where he's currently trailing Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-20T11:49:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkEnqKrT4kw/trump-biden-harris-pence-campaign-trail-october-20"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
+  - title: "Massive lines at Trump rally in battleground state North Carolina"
+    excerpt: "Supporters reportedly lined up hours in advance for President Trump's rally in Hickory, North Carolina on Sunday."
+    publishedDateTime: 2020-11-01T20:56:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44a51563-b1f8-4175-9291-2372bfcfd512/993301a0-09e7-401d-b6b2-8cd86a8d4fe1/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-NC-Lines-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Judge rejects DOJ attempt to replace Trump as defendant in E. Jean Carroll case"
+    excerpt: "A federal court ruled that the Justice Department cannot take President Trump's place as the defendant in a lawsuit filed by writer E. Jean Carroll, who sued for defamation over Trump's response to her allegations that he raped her in the 1990s."
+    publishedDateTime: 2020-10-27T14:05:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D5Y0Un7KFk8/judge-us-cant-replace-trump-e-jean-carroll-slander-suit"
+    ampWebUrl: "https://www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a6dfdd4-d81f-4363-93de-7d261a7f9c73/2721936a-8943-4360-804a-30ba90618f18/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pollster who predicted 2016 result says Trump on track to win again with help of 'hidden' support"
-    excerpt: "With two weeks left until Election Day, 35 million Americans having already voted, and most polls showing Joe Biden leading President Trump, Trafalgar Group chief pollster Robert Cahaly told “Hannity” Tuesday the incumbent is likely to be reelected."
-    publishedDateTime: 2020-10-21T03:53:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9GoVbc_gSPQ/robert-cahaly-trafalgar-group-2020-election-polls"
-    ampWebUrl: "https://www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
+  - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
+    excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
+    publishedDateTime: 2020-11-04T07:51:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woEU1fA0WWw/trump-claims-victory-states-undecided-supreme-court-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b3568cb-18e7-4d67-a16b-76fb5ff90b60/5a562e06-b9f3-41fc-b1b1-7004ce012eae/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden says Pennsylvania plant 'thinking of shutting down,' company responds to 'untrue' claim: report"
-    excerpt: "Democratic presidential nominee Joe Biden during a campaign stop in Pennsylvania over the weekend incorrectly said that a plant in the city was considering closing its doors, prompting the company to issue a response to calm workers' fears, Erie News Now reported Tuesday."
-    publishedDateTime: 2020-10-14T12:50:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7sGq_71w1A/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Federal judge rejects Trump suit to block ballot drop boxes in Pennsylvania"
-    excerpt: "A federal judge in Pennsylvania rejected a lawsuit from the Trump administration to limit the number of drop boxes in the state for mail-in ballots. "
-    publishedDateTime: 2020-10-11T01:33:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MC1frMzaAB0/federal-judge-rejects-trump-suit-to-block-ballot-drop-boxes-in-pennsylvania"
+  - title: "Tucker Carlson: Media misjudged Trump support among non-White voters"
+    excerpt: "Tucker Carlson criticized the mainstream media on Tuesday for painting President Trump as a racist who would struggle to attract non-White voters after the president delivered a strong showing in Miam"
+    publishedDateTime: 2020-11-04T02:58:00Z
+    webUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters"
+    ampWebUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 153
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/PA-Ballot-iStock.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ben Shapiro explains why he'll vote for Trump this time around: 'Democrats have lost their f---ing minds'"
-    excerpt: "Conservative commentator Ben Shapiro revealed Monday that he plans to vote for President Trump in the upcoming election after declining to support his 2016 presidential bid."
-    publishedDateTime: 2020-10-20T20:50:00Z
-    webUrl: "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020"
-    ampWebUrl: "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 118
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4284e8ac-4bba-4f37-827e-83cfc7b6b39f/32e33807-bba9-4a35-8092-3c75f6e1dcde/1280x720/match/image.jpg"
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

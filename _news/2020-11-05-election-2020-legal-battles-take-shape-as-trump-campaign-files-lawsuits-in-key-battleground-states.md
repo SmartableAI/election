@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/election-2020-legal-battles-trump-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states.amp"
 type: article
 quality: 176
-heat: 416
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,53 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Massive lines at Trump rally in battleground state North Carolina"
-    excerpt: "Supporters reportedly lined up hours in advance for President Trump's rally in Hickory, North Carolina on Sunday."
-    publishedDateTime: 2020-11-01T20:56:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
+  - title: "Trump vows to challenge Biden wins in swing states: 'We will win'"
+    excerpt: "President Trump on Thursday swore that his campaign would continue to file legal challenges in states where Democratic nominee Joe Biden is projected to win, as the path for Trump to reach 270 electoral votes, the number necessary to win the presidency, continues to narrow. "
+    publishedDateTime: 2020-11-05T18:41:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DNuoV7H7PxQ/trump-vows-to-challenge-biden-wins-in-swing-states-we-will-win"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-vows-to-challenge-biden-wins-in-swing-states-we-will-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vows-to-challenge-biden-wins-in-swing-states-we-will-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Joe Concha: 'Shy Trump voters' missed again as polls overstated Joe Biden's support"
+    excerpt: "The \"shy Trump voter\" emerged for a second straight presidential election, The Hill media reporter Joe Concha said on Thursday, as many polls ended up overstating the support for Democrat Joe Biden."
+    publishedDateTime: 2020-11-05T14:44:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V6uvoGG9NoQ/joe-concha-polls-wrong-shy-trump-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-concha-polls-wrong-shy-trump-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-polls-wrong-shy-trump-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden predicts victory, says he will govern as an 'American president'"
+    excerpt: "Democratic presidential nominee Joe Biden struck an optimistic tone Wednesday afternoon, saying he anticipates he will win the 2020 presidential election and that he will govern as an “American president.”"
+    publishedDateTime: 2020-11-04T21:52:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LwnyFLDNDss/biden-predicts-victory-says-he-will-govern-as-an-american-president"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-predicts-victory-says-he-will-govern-as-an-american-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-predicts-victory-says-he-will-govern-as-an-american-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-NC-Lines-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "AOC says Trump’s claims of victory are 'illegitimate, dangerous'"
-    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., slammed President Trump after he declared victory in Tuesday's election despite millions of votes still being counted in key battleground states as of Wednesday morning. "
-    publishedDateTime: 2020-11-04T17:22:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fvbrTTLrOxQ/aoc-says-trumps-premature-claims-of-victory-are-illegitimate-dangerous-and-authoritarian"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-says-trumps-premature-claims-of-victory-are-illegitimate-dangerous-and-authoritarian.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-says-trumps-premature-claims-of-victory-are-illegitimate-dangerous-and-authoritarian.amp"
+  - title: "Biden’s campaign insists former VP ‘will be the next president’"
+    excerpt: "Joe Biden’s presidential campaign on Thursday declared that “our data shows that Joe Biden will be the next president of the United States.”"
+    publishedDateTime: 2020-11-05T18:00:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gMjnTd5av4M/bidens-campaign-stresses-former-vp-will-be-the-next-president"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-campaign-stresses-former-vp-will-be-the-next-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-stresses-former-vp-will-be-the-next-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec2a8c02-cc1e-4e42-b020-ba1eb44686c1/1ab56d55-404c-4ecc-9a0d-37e66fee703f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Nevada county judge keeps some polls open later after Trump campaign sues"
-    excerpt: "Some polling locations in Nevada’s Clark County will stay open until 8 p.m. after a GOP lawsuit. "
-    publishedDateTime: 2020-11-04T02:30:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjnqvgkV8MI/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues"
-    ampWebUrl: "https://www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
+  - title: "Did Biden get an edge from Libertarian vote in critical swing states?"
+    excerpt: "As Americans awaited the final ballot results and Joe Biden held a slim lead over President Trump on Wednesday night, some analysts were zeroing in on the Libertarian vote in critical states as a potential help to the Democratic nominee."
+    publishedDateTime: 2020-11-05T03:22:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3AFPVzkw8q4/libertarian-vote-swing-states-biden-edge"
+    ampWebUrl: "https://www.foxnews.com/politics/libertarian-vote-swing-states-biden-edge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/libertarian-vote-swing-states-biden-edge.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/New-york-voting-2020-2.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump campaign to announce Nevada lawsuit alleging nonresidents voted there"
     excerpt: "The Trump campaign is filing a federal lawsuit in Las Vegas Thursday, suing to stop the counting of what it calls “illegal votes” in Nevada, claiming to have evidence that people who are deceased and nonresidents have cast ballots in the 2020 election."
@@ -95,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
+    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
+    publishedDateTime: 2020-11-02T17:07:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vMQcrWQeZ3s/twitter-doctored-video-biden-minnesota-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign adviser Lewandowski predicts clear election winner with Trump victories in major swing states"
     excerpt: "President Trump has warned that Americans may not learn the results of the presidential election until well after Election Day due to certain battleground states extending the deadline for accepting mailed ballots, but Trump campaign senior adviser Corey Lewandowski predicted that Trump will win so decisively"
     publishedDateTime: 2020-11-01T15:08:25Z
@@ -111,113 +159,69 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Giuliani ‘en route’ to Philadelphia with Trump legal team as ballot battle ramps up"
-    excerpt: "Rudy Giuliani, the personal attorney to President Trump, said he is \"en route\" to Phildelphia with the Trump campaign legal team, vowing to protect the vote and \"not let\" Democrats \"steal\" Pennsylvania in the 2020 presidential race as the ballot battle intensifies Wednesday. "
-    publishedDateTime: 2020-11-04T19:39:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8LrYUedURtg/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up"
-    ampWebUrl: "https://www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
+  - title: "Trump campaign says president will 'immediately' request a recount in Wisconsin"
+    excerpt: "The Trump campaign promised to demand a recount in Wisconsin, where Joe Biden holds a narrow lead but the race has not yet been called. "
+    publishedDateTime: 2020-11-04T18:30:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcckzpPn0X0/trump-campaign-request-recount-wisconsin"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump administration proposes change to rules governing international students in US"
-    excerpt: "The Trump administration is proposing another major change to student visa rules, adding a fixed end date of up to four years. "
-    publishedDateTime: 2020-10-30T18:38:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hqQjAZsZEI4/trump-administration-international-students-us-rules"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-international-students-us-rules.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-international-students-us-rules.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39212e9e-69cc-4ce5-8f14-e6ea3a89b03b/695cc4df-9d23-491b-84e0-012d477f09de/1280x720/match/image.jpg"
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign, GOP to appeal to Nevada Supreme Court to halt Vegas-area mail-in ballot count"
-    excerpt: "LAS VEGAS (AP) — President Donald Trump’s re-election campaign and Nevada Republicans filed notice Monday that they’ll ask the state Supreme Court to stop the count of mail-in ballots in Clark County, the state’s most populous and Democratic-leaning county, including Las Vegas."
-    publishedDateTime: 2020-11-03T15:32:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ob-d5Z_sbHI/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
+  - title: "If elected, Biden plans task force to reunite 545 children separated from parents at border"
+    excerpt: "Democratic nominee Joe Biden pledges that his campaign will create a task force to reunite 545 migrant children who were separated from their parents at the border if he is elected president. "
+    publishedDateTime: 2020-10-30T00:04:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L029DB7Jg1Y/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20305794561511-e1604416769499.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20841433-8cf5-42b2-bc68-6f0c39c9878d/c038f8ba-c56a-45ec-b60d-97c6353aae15/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
+    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
+    publishedDateTime: 2020-11-02T17:12:00Z
+    webUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
-    excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
-    publishedDateTime: 2020-11-04T07:51:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woEU1fA0WWw/trump-claims-victory-states-undecided-supreme-court-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
+  - title: "Pelosi: 'I feel very confident that Joe Biden will be elected president on Tuesday'"
+    excerpt: "House Speaker Nancy Pelosi projected Thursday that Joe Biden would win the White House and said Democrats are ready to work with him on a transition agenda to tackle the coronavirus pandemic, address the economic fallout and pass an infrastructure agenda."
+    publishedDateTime: 2020-10-29T19:24:00Z
+    webUrl: "https://www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 129
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump says US is 'most difficult country to deal with,' reflecting on battles with Pelosi, Schiff"
-    excerpt: "President Trump on Tuesday said the United States is the \"most difficult country to deal with\" as he reflected on his time as president during an Election Day interview on \"Fox & Friends.\""
-    publishedDateTime: 2020-11-03T14:45:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S1UYad72Qqg/trump-us-most-difficult-country"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-us-most-difficult-country.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-us-most-difficult-country.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ec03f86-02b3-4b65-89ad-e4aff3f20e30/d731488c-0cb8-4a01-89ae-e4fefa2ac3a5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Top two pro-Trump super PACs make final $20 million ad push"
-    excerpt: "The two leading super PACs that are supporting President Trump's re-election bid are teaming up to shell out $20 million to run ads on TV and digital in seven crucial general election battleground in the closing stretch leading up to Election Day on Tuesday."
-    publishedDateTime: 2020-10-30T23:11:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zUgV0XwX-Xk/top-two-pro-trump-super-pacs-make-final-20-million-ad-push"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split-10.29.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Campaign's Lawsuit in Michigan Seeks to Halt Counting of Absentee Ballots"
-    excerpt: "The Trump campaign filed a lawsuit Wednesday in Michigan’s court of claims seeking to halt the counting of absentee ballots, alleging that state counting boards were violating state law by counting absentee ballots without election inspectors present from both parties."
-    publishedDateTime: 2020-11-04T22:49:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/Fbw6qWaPRwgqzRfWHC2r"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 111
-    images:
-      - url: "https://images.wsj.net/im-255152?size=1.5"
-        width: 1280
-        height: 853
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/08731db9-Nancy-Pelosi.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "ZE1mxCiWf53MjfDa1TM8h9GMzcWxNEmyHYXQKrrD/8p95F4OZNAF1TbzW4pg5WfH85S243W67+zJk9hE8V3Iw+4Hb66Lz8AYGEeaP+LWVawUazQL4SATK5hpCufQiKEo+kgx+qmlc9fNauYXqVrzWX9jqSOqonG42cCKcrpbyF+v5TG4cNBqDtXKY/AznWvju4qa9m9TL/t75ovN5ZPpiAAKe2Uwa71/fEt2/6dJ5DMP68kC20vk3hScN8QGoa/ImzQ1aWeoJXNTFyE6eYN2sJZihP6iJUp8Kpp8qJDPVkvF+DLfaoGlqo5bERaBvWcz+vXQFLcmTItJu+qgKGQvv18LD6TND28VjAYz/ydIczQ=;/AdyBO0v7jaK+9j9cxQvLA=="

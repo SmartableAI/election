@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is turning to the courts as his options narrow."
+    excerpt: "The Trump campaign laid out an aggressive legal strategy to challenge votes in key states. Republican lawyers and Trump campaign officials on Wednesday began a wide-ranging legal assault to challenge Democratic votes in key swing states,"
+    publishedDateTime: 2020-11-05T18:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/multimedia/04elections-briefing-trumplawyers/04elections-briefing-trumplawyers-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Donald Trump Jr. says Covid numbers are 'almost nothing' on day reporting 90,000 infected, 1,000 dead"
     excerpt: "Donald Trump Jr. falsely claimed Thursday that Covid-19 infection numbers have dwindled to \"almost nothing,\" despite there being around 1,000 deaths reported in the U.S. the same day. In an interview on Fox News' “The Ingraham Angle,"
     publishedDateTime: 2020-10-30T11:46:00Z

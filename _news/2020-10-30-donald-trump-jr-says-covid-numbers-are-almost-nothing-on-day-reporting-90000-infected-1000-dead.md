@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is turning to the courts as his options narrow."
+    excerpt: "The Trump campaign laid out an aggressive legal strategy to challenge votes in key states. Republican lawyers and Trump campaign officials on Wednesday began a wide-ranging legal assault to challenge Democratic votes in key swing states,"
+    publishedDateTime: 2020-11-05T18:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/multimedia/04elections-briefing-trumplawyers/04elections-briefing-trumplawyers-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Hundreds of Trump supporters stuck on freezing cold Omaha airfield after rally, 7 taken to hospitals"
     excerpt: "Hundreds of President Donald Trump's supporters were left in the freezing cold for hours after a rally at an airfield in Omaha, Nebraska, on Tuesday night, with some walking around 3 miles to waiting buses and others being taken away in ambulances."
     publishedDateTime: 2020-10-28T21:20:00Z

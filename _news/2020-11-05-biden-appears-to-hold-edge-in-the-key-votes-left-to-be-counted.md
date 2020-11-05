@@ -3,10 +3,10 @@ category: news
 title: "Biden Appears to Hold Edge in the Key Votes Left to Be Counted"
 excerpt: "Joe Biden looks to be on the cusp of winning the election. Here’s a look at where the vote count stands in the key states. President Trump’s lead in Pennsylvania has plummeted to two percentage points as of Thursday morning,"
 publishedDateTime: 2020-11-05T15:14:00Z
-originalUrl: "https://www.nytimes.com/2020/11/05/upshot/biden-election-results-votes.html"
-webUrl: "https://www.nytimes.com/2020/11/05/upshot/biden-election-results-votes.html"
-ampWebUrl: "https://www.nytimes.com/2020/11/05/upshot/biden-election-results-votes.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/upshot/biden-election-results-votes.amp.html"
+originalUrl: "https://www.nytimes.com/2020/11/05/upshot/election-votes-remaining-biden.html"
+webUrl: "https://www.nytimes.com/2020/11/05/upshot/election-votes-remaining-biden.html"
+ampWebUrl: "https://www.nytimes.com/2020/11/05/upshot/election-votes-remaining-biden.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/upshot/election-votes-remaining-biden.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -477,6 +477,22 @@ related:
     quality: 184
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104025939-04-donald-trump-speech-election-night-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign's longshot legal challenges unlikely to swing election, analysts say"
+    excerpt: "The series of lawsuits the Trump campaign has announced in multiple states amount to longshot legal arguments focusing on thin claims or affecting such a small portion of votes that they wouldn't decide the presidential election, several legal analysts say.\n    \n"
+    publishedDateTime: 2020-11-05T17:05:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NjUNCpXFcFc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/trump-legal-challenges-pennsylvania-nevada-michigan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/trump-legal-challenges-pennsylvania-nevada-michigan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104113627-01-election-1103-north-las-vegas-nv-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -957,6 +973,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104023109-02-donald-trump-speech-election-night-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Narrowing path leaves some aides facing reality even as Trump presses legal action"
+    excerpt: "President Donald Trump was charging ahead Thursday with a strategy to force an election victory, or at least forestall a loss, through legal maneuvers and demands for recounts, a final-ditch effort to prevent states from tallying ballots that could decide the next president.\n    \n"
+    publishedDateTime: 2020-11-05T18:36:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5NA6FTUxNJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/donald-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/donald-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2454,6 +2486,20 @@ related:
         width: 600
         height: 325
         isCached: true
+  - title: "Has anyone seen Donald Trump?"
+    excerpt: "As his campaign aides and lawyers fan across the country, President DONALD TRUMP has been uncharacteristically quiet. (Except on Twitter, of course.) JOE BIDEN is expected to appear later. THE BIDEN CAMPAIGN BELIEVES they will have won the presidency by the end of the day."
+    publishedDateTime: 2020-11-05T18:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/11/05/has-anyone-seen-donald-trump-490822"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ab/4e/ab0c8fcd498ba67ca6d5e05ed40d/201105-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
     excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
     publishedDateTime: 2020-10-25T04:00:00Z
@@ -2518,6 +2564,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "XExFdqt6oKqWLJZVpt63/m/eD8c89W4psv7CfFz3xXakWklctZkSxMs5bpz0aXsJG2eu93vov30cCoyz93qoopNGUko2P73k1znHM8IfSjBq7nu/X96J3zcimwdNP1mQDvQZulNXZGfCD/eVrj8fim8FvRA3BmGHdVWFngOy+q/vR+VNak7htgJbVRjFW1bM42z5UbD8DVfZxg9fKuLr3CZNBkSTa0fy2S7nbO4Ouo067a401ERQWI8mL6iZ1dCJJ6l/AZXILbfvqd65VxXITE0psCOUVwSdZd1vLnFnLdG/Wsfi6CCsgSjqx7nGkLsEDIBp7B57Jt+b/qzGHSoai2bCN1lhMHuqomv0Q2LO5bk=;F7+dM4rio2Q1O4xqCsBiAA=="
+secured: "nzb6QA06R90RqnHdDWtKQUfiklbwWb63PbkIgadHI9WgzhZZVn2kLYbP0g937TYNyHZEj4L5BQdiEQDvaJ+DmoSSj089cjcu7zQe1bG1A11s19zhSK33CzjIThxAtoCKYcamAyToxpv47Z7UV+jUosqyAxmz3o83hPLQjOmGOm5iOeRwY9oc/xtepN6aWpQZut4NOe4KzM2mwPQcGK9HwMvApQ+KRCVHhzYwlv0sCo/L1DRgSPzEj7Kq+gX5GuyaBvvFPYE5/qr0QgbEfYbIlW8Jp4lRV7YJMo9kOhqWDl+Ksw9nhwMNHEiIs5OjtFAbJlltHxCcCfLc5oINxL56hMQqpPjhZyVGeqtGRnAEtq8=;CpShmozCqnnyq6SkgPUEgw=="
 ---
 

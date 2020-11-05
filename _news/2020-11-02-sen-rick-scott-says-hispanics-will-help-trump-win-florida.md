@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump's support from Black, Hispanic voters grows from 2016"
+    excerpt: "President Trump’s support among Black and Hispanic voters in the 2020 election appears to have grown since 2016 -- even as he lost support among White voters, according to a Fox News Voter Analysis."
+    publishedDateTime: 2020-11-05T18:28:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-S5oCQvW1g4/trump-black-hispanic-voters-support-grows-from-2016"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30612983-5295-4b6e-845c-e60d5be95cd3/dd15e1f5-fb42-4c4f-9d16-4e5de54c9e73/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Melania Trump votes in Florida wearing Gucci dress, no mask"
     excerpt: "First Lady Melania Trump was dressed to the nines while voting in person on Election Day, wearing an equestrian-print white dress among other high-fashion accessories. Trump cast her ballot at a voting center in Palm Beach,"

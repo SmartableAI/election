@@ -112,6 +112,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump's support from Black, Hispanic voters grows from 2016"
+    excerpt: "President Trump’s support among Black and Hispanic voters in the 2020 election appears to have grown since 2016 -- even as he lost support among White voters, according to a Fox News Voter Analysis."
+    publishedDateTime: 2020-11-05T18:28:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-S5oCQvW1g4/trump-black-hispanic-voters-support-grows-from-2016"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30612983-5295-4b6e-845c-e60d5be95cd3/dd15e1f5-fb42-4c4f-9d16-4e5de54c9e73/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "RrUIzd8buc7UbURCcqPF2VHWuj5vxCsTUxx4rRDpfVGSBBX/ddkKStZJPAJpYc+CTtwbpQT2+yhMkn6qAbq0gDqH9xhEp3pTj//rEGzYaZh4dKLP6ISdsW7TJHlkHIeMCS9SGIEc5se45U1Bcm3PThxTv/Ak0EP9btSnJ65xM44mD3lPVz051+v/89TZ9mFNKxAnjkFxFJlP7AZ7AsEZDC5swKnefyO4YSmlPWuwBgvgDG5TCFv6WDmjq4zFkMXUvmcALidfG/L3GviuBqYC/ll9XhYHOPS9l6LM4T7UfjLSKb0rMvVZAPTbznfzJ3k6mi22JM4mkNLgSpyGah/8e0nWE79xLXnvv7x/Uvg+N4I=;v60mpbZBGcOCta5kDYGzqg=="
 ---

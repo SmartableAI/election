@@ -32,21 +32,193 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: New analysis shows how women helped fuel a Biden fundraising surge"
-    excerpt: "EDITOR'S NOTE: This story was reported by the Center for Responsive Politics and CNN.\n    \n"
-    publishedDateTime: 2020-10-26T16:00:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84HhvIq0irw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/women-donors-biden-fundraising/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/women-donors-biden-fundraising/index.html"
+  - title: "Biden campaign manager says former VP will win, but urges patience "
+    excerpt: "Joe Biden's campaign manager insisted Thursday that the Democratic nominee is on pace to win the presidency, but urged patience as Arizona, Georgia, Nevada and Pennsylvania continue counting votes.\n    \n"
+    publishedDateTime: 2020-11-05T17:42:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rfRO8gtRZYE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/biden-campaign-briefing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/biden-campaign-briefing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026105557-alpha-kappa-alpha-harris-biden-supporters-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104161053-01-biden-presser-1104-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "'Shoot your shot': Obama nails three-pointer while campaigning with Biden in Michigan"
+    excerpt: "Barack Obama called game.\n    \n"
+    publishedDateTime: 2020-11-01T03:02:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pp3f09Ilw9s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/obama-basketball-video-michigan-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/obama-basketball-video-michigan-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031163509-obama-flint-michigan-1031-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden closes out his campaign in Pennsylvania, promising 'the beginning of a new day' "
+    excerpt: "Joe Biden closed his presidential campaign Monday night in Pennsylvania, lambasting President Donald Trump's handling of the coronavirus pandemic and promising to unite a country in crisis if he wins Tuesday.\n    \n"
+    publishedDateTime: 2020-11-03T03:31:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/55crqGjmnSE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/biden-pennsylvania-closing-rally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/biden-pennsylvania-closing-rally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102141226-02-biden-philadelphia-1101-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden makes Philadelphia stop ahead of election night"
+    excerpt: "Joe Biden struck a note of confidence during a campaign stop in Philadelphia, saying, “I am confident that the people who didn’t show up to vote last time are showing up to vote, and I feel good about Pennsylvania."
+    publishedDateTime: 2020-11-03T23:49:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/biden-makes-philadelphia-stop-ahead-of-election-night-95263813939"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95263813939"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95263813939"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_kwe_biden_final_hours_201103_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden gaining support from suburban counties in North Carolina"
+    excerpt: "NBC's Chuck Todd takes a look at how Joe Biden is receiving more support in suburban counties in North Carolina than Hillary Clinton or Barack Obama did in their presidential races."
+    publishedDateTime: 2020-11-04T02:10:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-gaining-support-from-suburban-counties-in-north-carolina-95273029806"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95273029806"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95273029806"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_mo_2020_ctodd_nc_suburbs_201103_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "NBC News projects Joe Biden will win Connecticut"
+    excerpt: "NBC News has projected that Joe Biden will win the state of Connecticut. Nov. 4, 2020. Read More. Best of NBC News. Play All"
+    publishedDateTime: 2020-11-04T01:46:00Z
+    webUrl: "https://www.nbcnews.com/video/nbc-news-projects-joe-biden-will-win-connecticut-95270469962"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95270469962"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95270469962"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_mo_2020_connecticut_bidenwins_201103_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "NBC News projects Joe Biden will win New Mexico"
+    excerpt: "NBC News projects that Joe Biden will win New Mexico in the 2020 presidential election.Nov. 4, 2020 © 2020 NBC UNIVERSAL"
+    publishedDateTime: 2020-11-04T03:30:00Z
+    webUrl: "https://www.nbcnews.com/video/nbc-news-projects-joe-biden-will-win-new-mexico-95278149527"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95278149527"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95278149527"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_mo_2020_biden_nm_201103_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "NBC News projects Biden will win Nebraska's Second Congressional District"
+    excerpt: "NBC News projects that Joe Biden will win an electoral vote from Nebraska's Second Congressional District in the 2020 presidential race."
+    publishedDateTime: 2020-11-04T06:49:00Z
+    webUrl: "https://www.nbcnews.com/video/nbc-news-projects-biden-will-win-nebraska-s-second-congressional-district-95287365719"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95287365719"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95287365719"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_mo_2020_nebraska_split_201104_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Julián Castro campaigns for Biden in Phoenix, visits a Day of the Dead altar"
+    excerpt: "Michigan, Iowa, North Carolina, Georgia, and Florida — while Biden is holding two events in Philadelphia. This live coverage has ended. Continue reading election news for Monday, Nov. 2, 2020. Julián Castro,"
+    publishedDateTime: 2020-11-02T23:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-01-trump-biden-election-n1245634/ncrd1245726"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245634"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245634"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Oregon resident speaks out after deer heads left near Biden, Black Lives Matter signs"
+    excerpt: "Residents gathered at a rally organized to support neighbors after two deer heads were left by a Joe Biden and Kamala Harris political campaign sign and a Black Lives Matter sign in Lake Oswego, Oregon."
+    publishedDateTime: 2020-11-03T01:33:00Z
+    webUrl: "https://www.nbcnews.com/video/oregon-resident-speaks-out-after-deer-heads-left-near-biden-black-lives-matter-signs-95194181737"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95194181737"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95194181737"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/nc_vosot_deerheads_201102-00_00_14_14-Still001.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Joe Biden is leading in Virginia."
+    excerpt: "Virginia election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T00:52:00Z
+    webUrl: "https://www.politico.com/2020-election/results/virginia/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/51.jpg"
+        width: 600
+        height: 325
+        isCached: true
+  - title: "Biden Flips Wisconsin, Fueled by Support From Cities and Suburbs"
+    excerpt: "Rural voters continued to support President Trump, but some counties that swung far to the right in 2016 moved left in 2020."
+    publishedDateTime: 2020-11-05T06:31:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/05/us/wisconsin-election-battleground-state-counties.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/us/wisconsin-election-battleground-state-counties-promo-1604552575062/wisconsin-election-battleground-state-counties-promo-1604552575062-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "AVFrNayeP40uS92dQcp0BuvTKsx3ry4XvNbMJ+St8gTSje+7+zXJ5QvyYHfXSGasNkbVmkiK22IoRZ29Wps1R8g6YfhqMTSdUdNhPkNFaeYJL+b/wH9OupLLFJnmddcSxf5w/GxTYRCZhtOKCWEzVhTFr9UtPhmxuO9sAmYMFDCDUZQR/pXqV5AgBRXi+6UVAx559rQLkCHquH+ulgiy6ei+7MrnLlYMau8+4BPrNssdvfuFoAm9uqtmf/K0grUOjehL9wg9eAjcxAA3gJZ5t5cMHFVDSj6SVo1IFgpHwKN91Iqp5yYHNAxUDeYnqo/9vJWVQJS+eV+hSWGv1ZyGrs+KE/dexmpur1bOCOLKhbdmnF77ZSiUfZHeaoUhvp5Bqi8oJolUmDghYRDkPocaSlxAevowcocDdMiiVTqzYjIjOmhwu5hQvVUyhLRb8C79bMa+Y38Plmba6L6wG/Hj5SHQZYF7Lt4OyCrsjOaQK+Uy86s7RjBJVbIpoNCl6cJt60R8Bvc0/NflTxD6MvSXbw==;jfp/4IxORcXDXZaUwLp5hQ=="

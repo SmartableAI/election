@@ -414,6 +414,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden inches nearer to victory as Trump launches lawsuit blitz to slow him down"
+    excerpt: "Democrat Joe Biden inched nearer to victory on Thursday over Donald Trump in an exceedingly close U.S. election that hinged on razor-thin margins in a handful of states, while the Republican president launched a flurry of lawsuits hoping to slow down his opponent."
+    publishedDateTime: 2020-11-05T18:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27L0VM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0VM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0VM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540144647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41ES"
+        width: 1119
+        height: 545
+        isCached: true
   - title: "Election live updates: Donald Trump says he's not nervous: 'I've been here before'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden are in the home stretch of this campaign with just hours to go before Election Day."
     publishedDateTime: 2020-11-03T03:13:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-04-pennsylvanias-democratic-governor-calls-trump-remarks-partisan-attack.md",
+      "title": "Pennsylvania's Democratic governor calls Trump remarks 'partisan attack'",
+      "excerpt": "Pennsylvania's Democratic Governor Tom Wolf on Wednesday called President Donald Trump's unsubstantiated claim about fraud in the U.S. presidential election a \"partisan attack\", and said his state was working hard to count more than 1 million mail-in ballots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539943636&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30M5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27K0YU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU",
+      "publishedDateTime": "2020-11-04T00:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-kid-rock-responds-to-lady-gagas-biden-endorsement-shows-what-camo-is-really-worn-for.md",
       "title": "Kid Rock responds to Lady Gaga's Biden endorsement, shows 'what camo is really worn for'",
       "excerpt": "Kid Rock seemed to have a go at Lady Gaga on Tuesday, days after the pop star went viral with her own pro-Joe Biden video.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686",
       "featuredContent": null,
       "highlight": null,
-      "heat": 533,
+      "heat": 553,
       "tags": null,
       "images": [
         {
@@ -218,6 +270,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-04-rnc-speaker-kim-klacik-falls-short-in-house-bid-despite-viral-campaign-ad-trump-support.md",
+      "title": "RNC speaker Kim Klacik falls short in House bid despite viral campaign ad, Trump support",
+      "excerpt": "Republican newcomer Kim Klacik fell short on Election Day in her bid to win a U.S. House seat in a Maryland district that includes inner-city Baltimore.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAtCWORKoZA/baltimore-kim-klacik-kweisi-mfume-maryland-7-district",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAtCWORKoZA/baltimore-kim-klacik-kweisi-mfume-maryland-7-district",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/baltimore-kim-klacik-kweisi-mfume-maryland-7-district.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/baltimore-kim-klacik-kweisi-mfume-maryland-7-district.amp",
+      "publishedDateTime": "2020-11-03T22:28:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-trump-says-he-will-score-a-big-win-accuses-democrats-of-trying-to-steal-election.md",
       "title": "Trump says he will score a 'big win,' accuses Democrats of trying to steal election",
       "excerpt": "Republican President Donald Trump, in a tweet early on Wednesday, predicted he will win a second four-year term and accused Democrats of attempting to \"steal\" the election from him, without citing any evidence.",
@@ -327,25 +435,25 @@
       ]
     },
     {
-      "path": "_news/2020-11-04-nbc-news-projects-joe-biden-will-win-connecticut.md",
-      "title": "NBC News projects Joe Biden will win Connecticut",
-      "excerpt": "NBC News has projected that Joe Biden will win the state of Connecticut. Nov. 4, 2020. Read More. Best of NBC News. Play All",
+      "path": "_news/2020-11-04-nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.md",
+      "title": "Nevada county judge keeps some polls open later after Trump campaign sues",
+      "excerpt": "Some polling locations in Nevada’s Clark County will stay open until 8 p.m. after a GOP lawsuit. ",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/nbc-news-projects-joe-biden-will-win-connecticut-95270469962",
-      "originalUrl": "https://www.nbcnews.com/video/nbc-news-projects-joe-biden-will-win-connecticut-95270469962",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjnqvgkV8MI/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjnqvgkV8MI/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 274,
       "tags": null,
       "images": [
         {
-          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_mo_2020_connecticut_bidenwins_201103_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/New-york-voting-2020-2.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -353,16 +461,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo95270469962",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95270469962",
-      "publishedDateTime": "2020-11-03T17:46:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp",
+      "publishedDateTime": "2020-11-03T18:30:29-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -379,8 +487,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
-        "Democratic Voice"
+        "Republican Voice"
       ]
     },
     {
@@ -489,63 +596,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-biden-makes-philadelphia-stop-ahead-of-election-night.md",
-      "title": "Biden makes Philadelphia stop ahead of election night",
-      "excerpt": "Joe Biden struck a note of confidence during a campaign stop in Philadelphia, saying, “I am confident that the people who didn’t show up to vote last time are showing up to vote, and I feel good about Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/biden-makes-philadelphia-stop-ahead-of-election-night-95263813939",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/biden-makes-philadelphia-stop-ahead-of-election-night-95263813939",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_kwe_biden_final_hours_201103_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo95263813939",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95263813939",
-      "publishedDateTime": "2020-11-03T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -816,63 +866,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-in-st-petersburg-fla-trumps-character-is-in-focus.md",
-      "title": "In St. Petersburg, Fla., Trump's Character Is in Focus",
-      "excerpt": "With millions of Floridians having already voted, the Election Day line quickly diminished outside the largest polling location in St. Petersburg, Fla. The city resides in Pinellas County, one of the bellwether counties in the country's largest battleground state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
-      "originalUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-254027?size=1.5",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -1304,7 +1297,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {

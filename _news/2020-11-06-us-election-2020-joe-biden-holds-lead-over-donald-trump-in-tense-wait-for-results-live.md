@@ -2,9 +2,9 @@
 category: news
 title: "US election 2020: Joe Biden holds lead over Donald Trump in tense wait for results – live"
 excerpt: "Battle for White House now down to handful of states including Nevada, Georgia and Pennsylvania"
-publishedDateTime: 2020-11-05T16:23:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa423318f08578732a63a91"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa423318f08578732a63a91"
+publishedDateTime: 2020-11-05T18:48:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa441dd8f08578732a63ccc"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa441dd8f08578732a63ccc"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
 type: article
@@ -1720,6 +1720,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1664411/donald-trump-melania.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Election protests across US: More demonstrations planned Thursday; Trump, Biden supporters gather in Philly"
+    excerpt: "Protesters took to the streets Wednesday, and more demonstrations were planned Thursday as the nation awaited presidential election results."
+    publishedDateTime: 2020-11-05T18:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-protests-across-us-thursday/6174365002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6174365002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174365002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/05/USAT/e65e626c-fbef-4db3-93bf-1f1badba8af7-AP20310663637854.jpg?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "In a divided U.S., Biden inches nearer to victory as Trump pursues litigation"
     excerpt: "Democrat Joe Biden edged closer to victory over Donald Trump for the U.S. presidency on Thursday as election officials tallied votes in the handful of states that will decide the outcome and the Republican president pursued a litigation strategy."
@@ -7158,6 +7174,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "avQ36PPyqp/93aicU7AXtvu34E/MabeWbepN3dCBNFRu9wMMHikUUHZoM4UxC5yXFm2viM7ZTCB8dSwv0KCjYWJRs+oP4VDn6zo3G4sSV8a6OqaVbopG6SALin50/8rALOKV31mEFziCD3YJE1X1FUjDn5R9vW6rpESJLMnN1AU4Nr2jEhpdNYb5WuwNH3G636mDcMNCf4FpyzLUyQt41Rp7zW/USSOZNc8FXKx2IL3o17ty5i6VieAsyaNVB+V7+dLbQBwcoLpW29oPV3EmG7HC4lgbvjP9TinZBLkPmpUOKLEdC02pjQQpwFzWKjyoYydB9hSFodVu5Nbu1NshSk2fzUyV0g8/8QTi1JI1JCCT6tnF+WSTXYzRkSMjvKlurRgjp4a/YONR0dNcROVT8JY2nhMRK46Mo+8juecpJmPMxh4+FKJF5AyDaW9XtGuuf5TST/6/M+d+M6k4+g9WglF/YV81TIeew5/geDBSaF/2El2QuBkTJZm/GI3OMJC2OUkqjbb8VBMMNZ3tR6wC/A==;Hlo/774sWaa29VXiyfIDwg=="
+secured: "eB3Ah+p47BjaHb/qHlYM/pioYtSSFyFruh3AYNyZ3dA3cg0jWyJmEyyXqjhAcmANDQ4tYIAPxiqM8C+5mUMtb5pQty008v7ty+1ydWmY2zcAgRDQttivG9/6sZGI2OTi1AHYSdaJ8H1KRBKqQRyaoZLrdqiqSiYTB78/q4VExLwNM3OhdVhJc4dFUMky9CdtQ+EnAtXZQLWpfOpkBt1HVn+qh+/xzI5QTqvOj5r+mznoPou7MD6eALwZ1pag1yvARL8FR6XzxiaWnxKimlD5e52IvEFMtZXAV581ojzIoND1iMf85weS4vS6B4jvdEi0TtQT3kPWZW4/AhiHucBDeIW4Mjra4/90Z4x/yGx6l3E2+zONWk8zPBAd4UEyiGUWFjUKj+VHg5iPKxoZvib0EBa7fn02Q+GP5N7SmG6h5kdM5Uk8FqWxMCsjjjlKsyStm9SsPsmhOr4+eP6ARH3G28nhwKP5K5bifI77lhw6DmC0iGuCY/H+iu1p5+zvjwyd6/n53qPctgSEDh+EXu5IAg==;vOQRKdBqDmaOx83YFwAoLQ=="
 ---
 

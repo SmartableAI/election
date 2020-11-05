@@ -135,6 +135,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Overview: Trump calls for vote counting to stop as path to victory narrows"
+    excerpt: "President Donald Trump is calling for counting to stop while his opponent, Joe Biden, projects patience ahead of a handful of key states releasing new counts Thursday."
+    publishedDateTime: 2020-11-05T18:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/overview-trump-calls-vote-counting-stop-path-victory/story?id=74038071"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/overview-trump-calls-vote-counting-stop-path-victory/story?id=74038071"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/overview-trump-calls-vote-counting-stop-path-victory/story?id=74038071"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/2020-election-74-donald-trump-ap-jc-201104_1604476171322_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Twitter, Facebook fail to corral Trump's misinformation about U.S. vote count"
     excerpt: "As U.S. President Donald Trump and his allies flooded social media on Wednesday with false claims of victory and unsupported allegations of voter fraud, social media companies warned users that the presidential election had yet to be decided."
     publishedDateTime: 2020-11-05T00:51:00Z

@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "If elected, Biden plans task force to reunite 545 children separated from parents at border"
-    excerpt: "Democratic nominee Joe Biden pledges that his campaign will create a task force to reunite 545 migrant children who were separated from their parents at the border if he is elected president. "
-    publishedDateTime: 2020-10-30T00:04:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L029DB7Jg1Y/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20841433-8cf5-42b2-bc68-6f0c39c9878d/c038f8ba-c56a-45ec-b60d-97c6353aae15/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "McEnany: Biden still has not denied substance of allegations about family's business ventures"
     excerpt: "White House press secretary Kayleigh McEnany emphasized the seriousness of emails provided by former Hunter Biden business partner Tony Bobulinski, noting that Joe Biden has yet to clearly refute their validity."
     publishedDateTime: 2020-10-29T14:07:17Z

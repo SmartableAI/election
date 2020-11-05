@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tiffany Trump hitting campaign trail in NC, Michigan, other battleground states"
-    excerpt: "President Trump's youngest daughter, Tiffany Trump, will be campaigning for her father in four battleground states, North Carolina, Pennsylvania, Michigan and Minnesota, after keeping a low profile during the 2016 campaign."
-    publishedDateTime: 2020-10-26T13:00:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N8961wMi8CY/tiffany-trump-2020-campaign-trail-trump-daughter"
-    ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297040355134.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Pollster who predicted 2016 result says Trump on track to win again with help of 'hidden' support"
     excerpt: "With two weeks left until Election Day, 35 million Americans having already voted, and most polls showing Joe Biden leading President Trump, Trafalgar Group chief pollster Robert Cahaly told “Hannity” Tuesday the incumbent is likely to be reelected."
     publishedDateTime: 2020-10-21T03:53:06Z

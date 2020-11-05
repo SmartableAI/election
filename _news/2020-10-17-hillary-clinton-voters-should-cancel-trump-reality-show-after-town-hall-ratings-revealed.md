@@ -95,6 +95,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Wisconsin voter who backed Hillary Clinton in 2016: Trump policies have helped my family"
+    excerpt: "Accompanied by two other voters on “Fox & Friends” to discuss the 2020 presidential election, a Wisconsin woman who has been a lifelong Democrat said she is likely switching over to supporting President Trump."
+    publishedDateTime: 2020-11-02T14:48:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FXlYWXGkWKk/wisconsin-voter-backed-clinton-trump-policies-helped-family"
+    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-voter-backed-clinton-trump-policies-helped-family.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-voter-backed-clinton-trump-policies-helped-family.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
     excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
     publishedDateTime: 2020-10-07T00:54:57Z

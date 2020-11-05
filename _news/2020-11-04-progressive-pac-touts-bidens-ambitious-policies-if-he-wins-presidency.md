@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden predicts victory, says he will govern as an 'American president'"
-    excerpt: "Democratic presidential nominee Joe Biden struck an optimistic tone Wednesday afternoon, saying he anticipates he will win the 2020 presidential election and that he will govern as an “American president.”"
-    publishedDateTime: 2020-11-04T21:52:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LwnyFLDNDss/biden-predicts-victory-says-he-will-govern-as-an-american-president"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-predicts-victory-says-he-will-govern-as-an-american-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-predicts-victory-says-he-will-govern-as-an-american-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Joe Biden announces 'fight fund' for vote count battle"
     excerpt: "Democratic presidential nominee Joe Biden on Wednesday announced the formation of what he's calling the “Biden Fight Fund,” touting it as the “largest election protection effort ever assembled” as he and President Trump compete for key battleground states in the 2020 presidential race."
     publishedDateTime: 2020-11-04T19:40:42Z
@@ -77,22 +61,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Did Biden get an edge from Libertarian vote in critical swing states?"
-    excerpt: "As Americans awaited the final ballot results and Joe Biden held a slim lead over President Trump on Wednesday night, some analysts were zeroing in on the Libertarian vote in critical states as a potential help to the Democratic nominee."
-    publishedDateTime: 2020-11-05T03:22:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3AFPVzkw8q4/libertarian-vote-swing-states-biden-edge"
-    ampWebUrl: "https://www.foxnews.com/politics/libertarian-vote-swing-states-biden-edge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/libertarian-vote-swing-states-biden-edge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

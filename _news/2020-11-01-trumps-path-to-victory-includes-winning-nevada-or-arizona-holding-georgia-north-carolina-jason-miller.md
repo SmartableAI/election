@@ -239,6 +239,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign predicts victory as early as Friday: 'Donald Trump is alive and well'"
+    excerpt: "President Trump's campaign remained confident Thursday, predicting not only that the incumbent Republican will win the 2020 election, but that the result could become apparent as soon as Friday."
+    publishedDateTime: 2020-11-05T17:51:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lQ6yDXw0sgY/trump-campaign-predicts-victory-trump-alive-and-well"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5710a1ac-db7a-49d3-a506-14afea4ee0a5/42e2636e-cea3-4feb-934a-e956db5e7c88/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Florida judge resigns from vote-counting board after at least a dozen Trump donations discovered"
     excerpt: "A Florida judge who was leading the Duval County's vote-counting board was forced to resign Thursday after it was uncovered that he had donated hundreds of dollars to President Trump's campaign and the Republican National Committee, and also has Trump-Pence signs covering his front lawn. "
     publishedDateTime: 2020-10-30T21:47:03Z
