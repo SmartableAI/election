@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "More Americans voted for Donald Trump this year than in 2016"
-    excerpt: "President Trump received more votes in the 2020 presidential election than he did in the 2016 presidential election as Joe Biden also surpassed the 2016 vote total for Hillary Clinton. "
-    publishedDateTime: 2020-11-04T16:12:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CcV8CrRmT_g/more-americans-voted-for-donald-trump-this-year-than-in-2016"
-    ampWebUrl: "https://www.foxnews.com/politics/more-americans-voted-for-donald-trump-this-year-than-in-2016.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/more-americans-voted-for-donald-trump-this-year-than-in-2016.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump 'turning up the heat' with rhetoric does not help his legal case over ballots, says Andrew McCarthy"
     excerpt: "President Trump’s ‘provocative’ comments could dissuade the Supreme Court from taking on his case, former federal prosecutor Andrew McCarthy told “America’s Newsroom” on Thursday as the Trump campaign has been filing lawsuits over election results in battleground states."
     publishedDateTime: 2020-11-05T19:36:29Z
@@ -76,22 +60,6 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "More Americans voted for Donald Trump this year than in 2016"
-    excerpt: "President Trump received more votes in the 2020 presidential election than he did in the 2016 presidential election as Joe Biden also surpassed the 2016 vote total for Hillary Clinton."
-    publishedDateTime: 2020-11-04T17:41:00Z
-    webUrl: "https://www.foxnews.com/politics/more-americans-voted-for-donald-trump-this-year-than-in-2016"
-    ampWebUrl: "https://www.foxnews.com/politics/more-americans-voted-for-donald-trump-this-year-than-in-2016.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/more-americans-voted-for-donald-trump-this-year-than-in-2016.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

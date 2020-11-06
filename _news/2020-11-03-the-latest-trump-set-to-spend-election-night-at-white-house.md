@@ -585,6 +585,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden gains ground on Trump in Georgia and Pennsylvania, edges closer to White House"
+    excerpt: "Democratic presidential candidate Joe Biden gained more ground on President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to the White House hours after Trump falsely claimed the election was being \"stolen\" from him."
+    publishedDateTime: 2020-11-06T13:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27M0U5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0U5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0U5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226823&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50II"
+        width: 838
+        height: 545
+        isCached: true
   - title: "Election 2020 live updates: Trump makes false statement about Election Day ballot counts"
     excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
     publishedDateTime: 2020-10-27T19:26:00Z
@@ -646,6 +662,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/31/USAT/ecb06641-5fd5-4c5e-b5b1-fdf886724e7c-split_1.jpg?auto=webp&crop=799,449,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "IT'S OVER: Biden defeats Trump as US voters take the rare step to remove an incumbent president"
+    excerpt: "Trump's campaign was hobbled by his response to the pandemic, giving Biden a steady, if overstated, lead in the polls for months."
+    publishedDateTime: 2020-11-06T13:55:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-wins-general-election-against-donald-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-wins-general-election-against-donald-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-wins-general-election-against-donald-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/5fa482c31df1d5001821931e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden and Trump disagree on nearly everything — but here are three things they actually agree on"
     excerpt: "On Section 230, the promise of a large stimulus package, and a certain approach for lowering drug prices, Trump and Biden (mostly) see eye-to-eye."
@@ -806,6 +838,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540103709&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA40HP"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden sweeps battleground states that pushed him to victory"
+    excerpt: "Three states — Pennsylvania, Michigan, and Wisconsin — propelled the Democratic nominee and former vice president to victory."
+    publishedDateTime: 2020-11-06T14:29:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-sweeps-pennsylvania-michigan-wisconsin-battleground-states-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-sweeps-pennsylvania-michigan-wisconsin-battleground-states-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-sweeps-pennsylvania-michigan-wisconsin-battleground-states-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f9c4c0269331a0011bc6624?width=1200&format=jpeg"
+        width: 868
+        height: 434
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
@@ -1153,6 +1201,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/9355561b-1453-4428-b22a-3ad04ad47d1a-GettyImages-1283588209.jpg?auto=webp&crop=3150,1772,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Election 2020: Democrat Joe Biden takes lead in Pennsylvania over President Donald Trump"
+    excerpt: "Democratic presidential nominee Joe Biden has taken the lead in the commonwealth of Pennsylvania. Early Friday, Pennsylvania election officials said there were about 50,000 more mail-in votes to tabulate."
+    publishedDateTime: 2020-11-06T13:57:00Z
+    webUrl: "https://www.cleveland.com/news/2020/11/election-2020-democrat-joe-biden-takes-lead-in-pennsylvania-over-president-donald-trump.html"
+    ampWebUrl: "https://www.cleveland.com/news/2020/11/election-2020-democrat-joe-biden-takes-lead-in-pennsylvania-over-president-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2020/11/election-2020-democrat-joe-biden-takes-lead-in-pennsylvania-over-president-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 96
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EXPSEHRGAJDPVPKYKKFCU3TTNI.jpg"
+        width: 1658
+        height: 1105
         isCached: true
   - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
     excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."

@@ -77,6 +77,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CNN fact-checks Biden's proposed mask mandate"
+    excerpt: "CNN's fact-checks of Joe Biden are few and far between, but the Democratic nominee's recent call for a mask mandate was apparently egregious enough that the anti-Trump outlet could not ignore."
+    publishedDateTime: 2020-11-03T03:25:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5284e193-460b-446f-83b3-021ccec35d0d/7cc4cb76-725a-4613-a702-6275c6ee1d67/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "yFy2g5ymydRVbj6FnyEiV7MWDZK03G7J3CwsNIRhOztZbZdXFmmUVqXSMD9++J91QvhnTAj36POgGElIswbr+FB4jK6tCn5xDgfeJ/VLgJMBof6D1H8mZA9KHviRrwhdVtZBjgOrMY/fcOmXWiQPgvTtnIFJC55goS8JQHNhLT6kR+NDWD8+I1DBTjOWc4No9UwSJnNShdh7BmJFyKoCYt7BgUepddtx1gcTO0zNB8DdgPJ+Qkg6s0b3Kun8488hQzUxQnnRJGfJm7f59p10O94dM0ooPtctANNcJ51kLodLblBiroSPYQBYDYsBwufxiz+lByGjeLXRPBIVFXYbkv1s8N/ZFlXDiW+xExGhC8E=;OD8dRupyCueGurn6FCuqug=="
 ---

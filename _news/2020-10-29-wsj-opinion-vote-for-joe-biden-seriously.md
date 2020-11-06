@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion
 webUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987"
 type: article
 quality: 115
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -28,6 +28,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Vote for Joe Biden? Seriously?"
+    excerpt: "Biden is Bernie Sanders’s grim party in sheep's clothing."
+    publishedDateTime: 2020-10-29T04:14:00Z
+    webUrl: "https://www.wsj.com/articles/vote-for-joe-biden-seriously-11603926854"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-251110/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "bhuuX1DBCqx9yYGDI8TVtPIuZUy2ut93Qzx7UL0CEbAd284+xFYH7LiGCeQCVUIOlJBYYB83qY7piFlaozWiT1LfBWYenX0kyTA4yGPFJBZCzc4Q1IfFdAmQmTrqNOzIOrn21IkzvE9q+SiK7j0kVFMTzTbxa7DGOBWdsOeyvkxgNNtolO30YdeqGY0h5Wb8NjMSMv3BRBpWULSIjfV5Juf9XEJcwu9zTeYq2vc1UlGcqBcL0BIBm61OZW/Vtu5Q9rBgqdXPRj6tg+5QVq2ioFRwtGH+DODSUvjutPFNMsklVvheNVCeQ6PAlV1k4RKyY4OCuhPt7OO+wXwNcnqLdjVE/1XAebxH2ovk/aBYUooYifV8ge1z49EmV6PwtLDtUEZWlNptJpR+5YqiNSvkjE+Lp7C0tn6nfKhPOFo18LF/HiHnI6ln90LZlXoa1BXO0TxNLVYN++77LGasBCRKGzUnuU587DU4/HKxnxIyYIjV7vz7a7WqoPL2R+gnl7SIjhEhSxFDLwCwThEwyCDgmw==;+Ad59FreDgzMIUY61b+f3w=="
 ---

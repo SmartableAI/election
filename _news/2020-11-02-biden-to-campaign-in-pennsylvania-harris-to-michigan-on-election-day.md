@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 1435
+heat: 1455
 published: true
 
 provider:
@@ -621,6 +621,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Where the race stands: Biden erases Trump lead in Georgia and Pennsylvania, nears 270 electoral votes"
+    excerpt: "Democratic nominee Joe Biden steadily gained ground on President Trump in both Pennsylvania and Georgia as more mail votes were counted Thursday and overnight into Friday, inching the former vice president closer to the 270 electoral votes needed to win the presidency. "
+    publishedDateTime: 2020-11-06T13:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Uwj5mXYFHko/where-the-race-stands-biden-erases-trump-lead-georgia-count-makes-gains-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/where-the-race-stands-biden-erases-trump-lead-georgia-count-makes-gains-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-the-race-stands-biden-erases-trump-lead-georgia-count-makes-gains-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

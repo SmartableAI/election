@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-aut
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
 type: article
 quality: 172
-heat: 252
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,65 +31,79 @@ images:
     isCached: true
 
 related:
-  - title: "Former Michigan Gov. Rick Snyder on being a 'proud Republican' who voted for Biden"
-    excerpt: "Snyder served eight years as governor and was replaced by Democrat Gretchen Whitmer in 2019."
-    publishedDateTime: 2020-10-29T21:54:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Up38R7dsQKg/rick-snyder-michigan-proud-republican-vote-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/rick-snyder-michigan-proud-republican-vote-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-snyder-michigan-proud-republican-vote-biden.amp"
+  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
+    excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."
+    publishedDateTime: 2020-10-25T16:15:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6NWqlGnUVw/joe-hunter-biden-china-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a257808-e5f9-45ef-ad5e-450f5bcf961e/cae4a195-e800-4d6e-821c-691ed6d2aebc/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Warren eyes Treasury Secretary job in potential Biden White House: report"
+    excerpt: "Warren reportedly plans to make her case for the position depending on the outcome of next week’s election."
+    publishedDateTime: 2020-10-30T01:12:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_KiQb7VYLI/warren-treasury-secretary-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d92e365-3fbb-48cc-b1f3-2d5c1088ddef/b749bc16-2f42-48c2-ab47-1c09becd69f0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Lara Logan slams Biden for playing ‘Russia card’ in response to Hunter Biden email allegations"
-    excerpt: "2020 Democratic presidential candidate Joe Biden played the \"Russian information warfare\" card to dodge questions pertaining to his son Hunter Biden's foreign dealings, Fox Nation host Lara Logan said on Friday."
-    publishedDateTime: 2020-10-23T18:16:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/21iBRaLM3ns/lara-logan-biden-playing-russia-card-hunter-biden-emails"
-    ampWebUrl: "https://www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
+  - title: "A Biden Family Special Prosecutor in 2021?"
+    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
+    publishedDateTime: 2020-10-27T10:36:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://assets.realclear.com/images/52/525278_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "2020 Hindsight on Impeachment Trial and Unravelling Biden Family Business Deals"
-    excerpt: "Failing to get ahead of what has become the drip, drip of new details on Hunter Biden’s business dealings – and the potential ties to his father – could prove"
-    publishedDateTime: 2020-10-28T17:30:00Z
-    webUrl: "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952"
-    ampWebUrl: "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true"
+  - title: "Tucker Carlson: We Don't Know Joe Biden's Version Of The Story Is Because No Journalist Has Asked"
+    excerpt: "Tucker Carlson accuses the mainstream media of a Soviet-style suppression campaign of a legitimate news story about Hunter Biden days before an election. Carlson said no one believes the media anymore and that \"no one should\" because of this \"attack on our democracy."
+    publishedDateTime: 2020-10-29T11:42:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/29/tucker_carlson_we_dont_know_joe_bidens_version_of_the_story_is_because_no_journalist_has_asked.html#!"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 81
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 52
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg"
-        width: 650
-        height: 340
+      - url: "https://assets.realclear.com/images/51/513284.jpg"
+        width: 1176
+        height: 882
         isCached: true
-  - title: "Hunter Biden messages 'independently confirmed' to be authentic, GOP lawmaker says"
-    excerpt: "A top House Republican said his staff independently authenticated materials from a laptop that purportedly belonged to Hunter Biden."
-    publishedDateTime: 2020-10-25T19:41:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/hunter-biden-messages-independently-confirmed-to-be-authentic-gop-lawmaker-says?_amp=true"
+  - title: "'Time for an exorcism in our nation's capital': Springsteen urges fans to vote for Biden and rips first family"
+    excerpt: "Rock-and-roll superstar Bruce Springsteen lashed out at President Trump this week calling for an “exorcism in our nation’s capital.”"
+    publishedDateTime: 2020-10-29T19:39:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/time-for-an-exorcism-in-our-nations-capital-springsteen-urges-fans-to-vote-for-biden-and-rips-first-family"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/time-for-an-exorcism-in-our-nations-capital-springsteen-urges-fans-to-vote-for-biden-and-rips-first-family?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/time-for-an-exorcism-in-our-nations-capital-springsteen-urges-fans-to-vote-for-biden-and-rips-first-family?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 59
+    quality: 45
 
 secured: "+Y5s4xG6YCHdmjtsBPMK+pv1eThVNZ7TBFnV21FN3gqL4qmqglUpDTVHsHqRXo9VIRi0RmZzUyV4TJ7yA8VHXidU2bfNzTeq3Nzs3EQ7b4wNtMxPx7Thp2MeRA1SijbMQ3kpSqmOL2kfo0kPHNS/kaXCqo43O1HpCDwaFLAem6uMpK1jCoMMklTZqu+EanPxDUl5bJeX8lQITyGSmfAvDPLLRvIzq44b5k7uZkoEMpGex/OhCmwbd1hNEpMTltpEpNEROlTZYlG+kk1JrLuNqiab2UG8xbInRePsEroEgH7pwjqWpVfGybnEYZEWeZWHNiA6MIHo5XkAJr8gDsBZvPYjHk4r+z1Gd6sRM8rrDYU=;E+tBg3de8CFuVVyhKq6o+A=="
 ---

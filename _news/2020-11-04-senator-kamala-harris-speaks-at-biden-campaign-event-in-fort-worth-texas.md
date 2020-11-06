@@ -3,8 +3,8 @@ category: news
 title: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas"
 excerpt: "Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Biden campaign event in Fort Worth, Texas."
 publishedDateTime: 2020-11-03T22:57:00Z
-originalUrl: "https://www.c-span.org/event/?477547/"
-webUrl: "https://www.c-span.org/event/?477547/"
+originalUrl: "https://www.c-span.org/video/?477547-1/senator-kamala-harris-speaks-biden-campaign-event-fort-worth-texas"
+webUrl: "https://www.c-span.org/video/?477547-1/senator-kamala-harris-speaks-biden-campaign-event-fort-worth-texas"
 type: article
 quality: 49
 heat: -1
@@ -728,6 +728,22 @@ related:
         width: 1024
         height: 715
         isCached: true
+  - title: "Joe Biden takes lead in Pennsylvania vote count"
+    excerpt: "Biden overtook Trump in the number of ballots counted in the state, which Trump must win to have a shot at reelection. Biden now holds a nearly 6,000-vote advantage."
+    publishedDateTime: 2020-11-06T13:00:00Z
+    webUrl: "https://www.oregonlive.com/politics/2020/11/biden-now-leads-trump-in-pennsylvania-vote-count.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2020/11/biden-now-leads-trump-in-pennsylvania-vote-count.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/11/biden-now-leads-trump-in-pennsylvania-vote-count.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WVAH2BKBS5AAJITJP7OOAQKJTM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "If Joe Biden wins, history’s light will shine brightest on Kamala Harris"
     excerpt: "With a straight face, O’Donnell, the “CBS Evening News” anchor, asked Harris whether she would bring a “socialist or progressive perspective” to the White House if Joe Biden is elected president. For months,"
     publishedDateTime: 2020-10-27T19:01:00Z
@@ -946,6 +962,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "aZ17FjEy1sXJzW/VXA6sD1QjV7ctwlP3kwmyh+XeU4SPr1fx7hT2aMJXfLd9Od89HmBNoEtq4I3X+sA3yTQ3l2qVm7HS6MfaK4Y0PEDCk14RnPzfvJPkH5l92Kp9AXPGW0NmvdyEGaP1JwDuaOrsARtSS/VT5TVprPmmP11VLPXToyajey1XQ/AkBrPdGA9J5O49Pxfmg273Cd20+GGHKMWx7PcKAfYK7/wIUg8Xca7WBJgbhKLQFr1si8oD6cxk2j42CjP1mmr7j0uDyD/8Ey9TlErpgftARaisuTkl525aJQ3F6L2qeXo6utYgjvfYpQdWF2nEZFZFd4DD/N8S0SuQv35CeIHMzcK8aXdz0rhOVCK9RFLKaZD92ZOxm4xoT4D9cpNUlY9QVJt3SfAponv5cicZysk/ymlj4qZy0Pd/TxUfKPScvs/b6Mc9fnrEP6brfnldyH/n8eq9CfBRDMtNEtwwMlYi+3RPamuO2I9crn+EgQH+Sbtq1uDeNaHq1OE+JeF8ZhPO/dXIF4vHBg==;kPkQ0HgI74QRA93PytUPCA=="
+secured: "NQsrBkLBgzQNyro7nuOvPUXnlI0RzCJzcF0+8gi0/XqgAggRWmibXpKDt8sxSLmKUN/s9bBxuzL3cog55FuZ0ptLhduyfHZnCz9LBdj/Est+mmxIrwmUIVseeZfKppJkJ0XafFxSgyg8MB+YxO2AQGscZM1aaaVixx2dLrovVUvM6PMeEsk3xM3XEdFDAM1RsCSVC+IZdI9kj1N0Y+T/68/HuElM22rcoay/PFtg9das2eqqqe1Rlx3WQbo/Q96+PZS4iRCcda1G1e6BF6yR6tu8PSYjSX2VSz3fky3+sWijS2/f0izot3ylJKPc3r7et882w0vK7hojUtCEXdG2CtYczh1I6Go0nb1ctY0n5ywyJxdbZ6AvcUKLVZq8eik0kQ6LErOY4jy8mWHbCy20JshA0fI3gy9BA7qOccX+0miWFvb+aZZCO099/4aS9u5WsWchwBjAHAO+8aximKbTnax26m5laQszklfottEQYy/DUmCeuQYr8reOD3Vr42pFeO5PaVgcAMp6mjwp+Ae1Rg==;PrmNc4imTyUNJO1RO+g8/g=="
 ---
 

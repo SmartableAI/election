@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
-    excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
-    publishedDateTime: 2020-11-04T22:17:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/04/2020-election-biden-calls-unity-votes-continue-counted/6166567002/"
+  - title: "Secret Service to dispatch extra protection squad to Joe Biden's campaign headquarters in Delaware"
+    excerpt: "The extra security will be assigned to the Wilmington Convention Center, Delaware, where the Biden campaign is headquartered."
+    publishedDateTime: 2020-11-06T12:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b032550d-b933-4d85-b020-924b79592f45-VPC_ELECTION_DESK_THUMB.00_00_33_12.Still005.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://i.insider.com/5fa52beb1df1d50018219397?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Another lawsuit seeks to halt voter certification in Detroit after Michigan election goes to Joe Biden"
+    excerpt: "A second lawsuit has been filed over the absentee vote counting process in Detroit. Sarah Stoddard, a Republican election challenger, along with the Bloomfield Hills-based Election Integrity Fund, filed the lawsuit against the Detroit Election Commission in Wayne County Circuit Court on Wednesday."
+    publishedDateTime: 2020-11-06T00:30:00Z
+    webUrl: "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html"
+    ampWebUrl: "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EMMREBRGVFFF5DQ3EI4YGNJCPM.JPG"
+        width: 1300
+        height: 867
         isCached: true
 
 secured: "JimNqizBp5hGmw96DPpcLXaoMFDm/6dHgzRzwSz1wtUzLzbddFBFu5dza/pyn+yuzRS0FfhqShPD8fa/mxDWAyxZRK9UJ9mA74CTP0FFseEjeILKHlnULn2JhAhpZUsy1KRKZdvmsfogI9nslfpE+69wHWUbmbhZJNqwsoOoEFUUazTyzs2+VAR0xzgr9FxDxT7QgC6Ea+pWDeFl6bDZdrhEggUB0lHpEFes3lhvPTUYY+wMyNPacB+VO9TYvRWW+HyQAQKCHJ19zWh4khf1VnJVnw4mP8BS76M/OlB1asc4SknHF790VLT8NuATkADaAvXSnZRbKTnWEtQrwrjRcmCahXUMtco3CVclD7p8F3T/klhPB7spA9RZpF3NVJDCnFpllNAA0/30xnd+z1rW2AZY2FObCtgy0WKyTgWy4KALTTuZ5Xs9uGIvo4ttxXeJu/UqCWFINt4GKqLjdIk51+2RkB6bziAE4oPP/zISKeO4KmD1NfweBtvqXHtKE0Bv5mYWpWNqMCsF4EkJ/8MahA==;xJ6DF0bT6ZHVxCpBwAq2LQ=="

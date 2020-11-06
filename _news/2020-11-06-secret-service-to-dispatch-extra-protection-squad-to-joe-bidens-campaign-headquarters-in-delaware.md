@@ -1,0 +1,67 @@
+---
+category: news
+title: "Secret Service to dispatch extra protection squad to Joe Biden's campaign headquarters in Delaware"
+excerpt: "The extra security will be assigned to the Wilmington Convention Center, Delaware, where the Biden campaign is headquartered."
+publishedDateTime: 2020-11-06T12:28:00Z
+originalUrl: "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11"
+webUrl: "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11"
+ampWebUrl: "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp"
+type: article
+quality: 111
+heat: 151
+published: true
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://i.insider.com/5fa52beb1df1d50018219397?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "Another lawsuit seeks to halt voter certification in Detroit after Michigan election goes to Joe Biden"
+    excerpt: "A second lawsuit has been filed over the absentee vote counting process in Detroit. Sarah Stoddard, a Republican election challenger, along with the Bloomfield Hills-based Election Integrity Fund, filed the lawsuit against the Detroit Election Commission in Wayne County Circuit Court on Wednesday."
+    publishedDateTime: 2020-11-06T00:30:00Z
+    webUrl: "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html"
+    ampWebUrl: "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EMMREBRGVFFF5DQ3EI4YGNJCPM.JPG"
+        width: 1300
+        height: 867
+        isCached: true
+  - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
+    excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
+    publishedDateTime: 2020-11-05T21:46:00Z
+    webUrl: "https://www.c-span.org/video/?477853-1/joe-biden-urges-patience-election-vote-count-continues-predicts-victory&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
+    images:
+      - url: "https://static.c-span.org/assets/images/featured-playlists_icon.png"
+        width: 520
+        height: 485
+        isCached: true
+
+secured: "1vGFmuAcxOT32cRVde/woGuQI6vLWOYOqPAoERxGEf9QRrlNsJ9gSfkr1y5Cb7Kyb0XRKR/qka6WvMhyjp2u9TKap5IkuYvIoTwX0lqRnWFju4fpRP6XpiyuvbO96aMQdue0rxoVEp3Qqgppi3qSuEVIrpsTGSB5sfLxV2xo3rxfoKWk2I5sHK+bdnfpN4wWHeo3NDMDsVI2sqF/3DKci9t09U8iBXFnNXuWhj+1fGpCSnkeA+Mg7QLLfdGSsNq47tLSBEbvTVSxBctk8tUVF82AQ8SLDnGWeK58ZT376duYhAJXS16yUITjrNIJnc8YUxvUZz+FonEBBsG7QVBFQHx+quSPIFbe1jATtvYUQ6U=;Av59/1i/NQD/Wr2KdmrVQw=="
+---
+

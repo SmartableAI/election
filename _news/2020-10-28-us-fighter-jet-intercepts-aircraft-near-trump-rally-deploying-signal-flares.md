@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A distressed Trump has told people he has no plans to concede even if his path to victory is blocked"
+    excerpt: "Facing a disappearing pathway to victory, President Donald Trump offered little indication on Friday he was prepared to concede defeat, leading those around him to wonder who might be able to reckon with a leader who has given virtually no thought to leaving the White House.\n    \n"
+    publishedDateTime: 2020-11-06T14:37:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OE3eQ4tovK4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/donald-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/donald-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105115359-donald-trump-november-4-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump falsely claims California requires people to wear 'special' and 'complex' mask at all times"
     excerpt: "President Donald Trump has repeatedly mocked former Vice President Joe Biden and others for wearing masks.\n    \n"
     publishedDateTime: 2020-10-29T00:45:18Z

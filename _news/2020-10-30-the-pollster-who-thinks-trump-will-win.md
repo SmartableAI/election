@@ -58,54 +58,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Pro-Trump boaters hold final San Diego Bay parade before Election Day"
-    excerpt: "San Diego Bay had one last pro-Trump boat parade before Election Day over the weekend, with hundreds of vessels hitting the water to declare support for the president’s reelection, according to local reports."
-    publishedDateTime: 2020-11-03T03:32:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ubUfQj5aiwM/san-diego-bay-pro-trump-boat-parade-election-day"
-    ampWebUrl: "https://www.foxnews.com/politics/san-diego-bay-pro-trump-boat-parade-election-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-diego-bay-pro-trump-boat-parade-election-day.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/boat1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden overtakes Trump in Georgia count as tally nears completion"
-    excerpt: "Democratic nominee Joe Biden pulled ahead of President Trump early Friday in the race for Georgia’s 16 electoral votes."
-    publishedDateTime: 2020-11-06T10:06:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBMa7CywdSo/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rand Paul: Trump's election performance likely to determine who holds Senate"
-    excerpt: "Paul predicts Iowa, NC Senate races 'definitely go the way the president goes'"
-    publishedDateTime: 2020-11-02T23:10:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xU0pBgLS-n8/rand-paul-election-2020-trump-senate-races-republicans"
-    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-election-2020-trump-senate-races-republicans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-election-2020-trump-senate-races-republicans.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3801dba0-03c3-4ccd-ad53-ea6f9494bada/ede4d4b7-fe76-4b53-b11b-e60c86c1df65/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump rips absentee ballot extensions, says election 'should end on November 3rd'"
     excerpt: "President Trump on Friday panned decisions made by some courts that are allowing mail-in or absentee ballots to be counted if they are received by election authorities after Nov. 3, calling the rulings \"CRAZY and so bad for our Country.\""
     publishedDateTime: 2020-10-30T17:03:37Z
@@ -121,54 +73,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Pennsylvania AG hit for predicting Trump will lose election before votes even counted"
-    excerpt: "Pennsylvania’s Attorney General Josh Shapiro, a Democrat, found himself in hot water on social media after claiming that President Trump has lost the ability to win the battleground state, just over 24 hours before the polls close on Election Day."
-    publishedDateTime: 2020-11-02T23:34:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k1HjNJjClfY/pennsylvanias-democratic-trump-lose-before-votes-counted"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvanias-democratic-trump-lose-before-votes-counted.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvanias-democratic-trump-lose-before-votes-counted.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59bbe749-e1d8-4de9-83a4-f2c83d346777/55281509-77bb-4cec-ab55-b33f3f7a3135/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump claims Dems are trying to 'steal' election, says he'll win if 'legal votes' are counted"
-    excerpt: "A defiant President Trump on Thursday said he and his campaign will “not allow corruption to steal” the election during a press conference at the White House, while maintaing that he will win the 2020 presidential race despite a dwindling path toward reelection as votes continue to come in."
-    publishedDateTime: 2020-11-06T01:33:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VfttQGQmhPQ/trump-says-he-will-win-if-legal-votes-are-counted-says-dems-are-trying-to-steal-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-will-win-if-legal-votes-are-counted-says-dems-are-trying-to-steal-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-will-win-if-legal-votes-are-counted-says-dems-are-trying-to-steal-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pennsylvania AG dismisses Trump, says he could 'care less' what president says on election night"
-    excerpt: "President Trump has been criticizing states that have extended deadlines for accepting ballots beyond Election Day, saying that the country should have a result by Tuesday night. Pennsylvania Attorney General Josh Shapiro, however, says his state will make sure that every ballot is counted, regardless"
-    publishedDateTime: 2020-11-02T16:29:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e80aIOUJicw/pennsylvania-ag-dismisses-trump-count-ballots"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-ag-dismisses-trump-count-ballots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-ag-dismisses-trump-count-ballots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e5535d2-e0a4-43bb-bb53-ad2bf1552f0e/ad95926a-3469-4233-aa71-a40d46eff02a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Hundreds gather for Trump caravan rally across Long Island"
     excerpt: "The same group has held rallies across the area, with one notable rally in New York City where cars stopped in front of Trump Tower on Fifth Avenue to show support for the president."
@@ -298,54 +202,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden Makes Gains in Three States as Trump Lashes Out Over Vote Count"
-    excerpt: "Joe Biden surpassed President Trump by several hundred votes in Georgia and increased his lead in Nevada, while Mr. Trump’s lead in Pennsylvania narrowed, according to the Associated Press."
-    publishedDateTime: 2020-11-06T12:41:00Z
-    webUrl: "https://www.wsj.com/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
-    ampWebUrl: "https://www.wsj.com/amp/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-256148/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Celebrities react to Trump's election update"
-    excerpt: "Chris Evans, Mark Ruffalo and more stars took to social media to slam Trump's address as the 2020 presidential election continues."
-    publishedDateTime: 2020-11-06T02:43:00Z
-    webUrl: "https://www.foxnews.com/entertainment/celebrities-react-trump-election-update"
-    ampWebUrl: "https://www.foxnews.com/entertainment/celebrities-react-trump-election-update.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/celebrities-react-trump-election-update.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Chris-Evans-Mark-Ruffalo-Patricia-Arquette.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump wants Supreme Court to decide election, cites unfounded fraud claims"
-    excerpt: "President Trump said the US Supreme Court should decide the presidential election due unfounded claims of “illegal voting.” Trump made the allegations in a tweet issued early Friday"
-    publishedDateTime: 2020-11-06T08:22:00Z
-    webUrl: "https://nypost.com/2020/11/06/trump-wants-supreme-court-to-decide-election-cites-fraud-claims/"
-    ampWebUrl: "https://nypost.com/2020/11/06/trump-wants-supreme-court-to-decide-election-cites-fraud-claims/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/06/trump-wants-supreme-court-to-decide-election-cites-fraud-claims/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 148
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/6018BC60-DEB7-4350-9B71-F41D3351924F.jpeg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Florida judge resigns from vote-counting board after at least a dozen Trump donations discovered"
     excerpt: "A Florida judge who was leading the Duval County's vote-counting board was forced to resign Thursday after it was uncovered that he had donated hundreds of dollars to President Trump's campaign and the Republican National Committee, and also has Trump-Pence signs covering his front lawn. "
     publishedDateTime: 2020-10-30T21:47:03Z
@@ -375,22 +231,6 @@ related:
       - url: "https://images.wsj.net/im-249650/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Trump comes out on top in Montana, netting another three electoral votes"
-    excerpt: "Big Sky Country has delivered a big win for President Trump, as the incumbent has come out on top in Montana, according to NBC News. Trump will take home the state’s three electoral votes,"
-    publishedDateTime: 2020-11-04T06:28:00Z
-    webUrl: "https://nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/"
-    ampWebUrl: "https://nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/Election_2020_Trump_21.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
     excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
@@ -423,34 +263,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5710a1ac-db7a-49d3-a506-14afea4ee0a5/42e2636e-cea3-4feb-934a-e956db5e7c88/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Republicans Hold Top Election Roles in Some States Trump Says Are Skewing Counts"
-    excerpt: "President Trump complained during his Thursday press conference that vote-counting in the outstanding states is being overseen by Democrats, even though Republicans occupy key roles in several battlegrounds."
-    publishedDateTime: 2020-11-06T02:30:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/lqzGpvA9JzaY5IuAShEC"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 125
-    images:
-      - url: "https://images.wsj.net/im-256071?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Michigan Judge Denies Trump Campaign's Bid to Halt Absentee-Vote Count"
-    excerpt: "A Michigan judge on Thursday denied a legal effort by the Trump campaign to halt the counting of absentee ballots in the state, in part on the grounds that the lawsuit was brought against the wrong defendant and was filed too late since all the state’s votes have been counted."
-    publishedDateTime: 2020-11-05T20:04:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/b2IFHDnEov6wNmo1WK2W"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-255660?size=1.5"
-        width: 1280
-        height: 853
         isCached: true
 
 secured: "K6aILkYLhurC6xTKENJJagwzLZ082t+VEbUOX1oaHS9LseAQkJD7xqpyeqhAKbTLvzgSTPGj89KBjxzK4is6rpqH/7g3w7kZtXjQ4hOqSTCfZuKQYCZE6U9ept78O/Vurv6BfL4NESmjqkJ+VtRFj1eJ4WFxY42QzB2s/RVh9I0VN6gImEZAWstbfvvghGGrHdCNFQHzHcszjouhu6KMntuwY7jp7BI/d0g4PU6hQcoH1W+0pnuvhgNpEpyB2CmFAtAOwlEnz5xcsKcnBpVP2hDB6DzDhReFdJrmnfPEWwgNRqiwOGWavh6PrEQRg5AG4zIrwXNOkjubd2JYUcxYb9xrFUzFjDSRRKUYNiW0eHBD5bA4gX+h/+UWseEtbA6BI41z1rLXfA0SSsbI9f2uV+Oewvk8kUGhkFrMR4pvW6H0lID5VqGQOs591LlczTMP22k6vcP8+ozdDsPAxInsvJGpZVrqBp/WPOR0cMkmecpdMeJWZb/esWz0YzGwoNFhsNRHDmsLJ3+Env2Li/CIAg==;ZcTuoOulG3EycGlDTgJM1Q=="

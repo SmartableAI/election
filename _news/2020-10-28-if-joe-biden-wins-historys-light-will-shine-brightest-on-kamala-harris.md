@@ -730,6 +730,22 @@ related:
         width: 1024
         height: 715
         isCached: true
+  - title: "Joe Biden takes lead in Pennsylvania vote count"
+    excerpt: "Biden overtook Trump in the number of ballots counted in the state, which Trump must win to have a shot at reelection. Biden now holds a nearly 6,000-vote advantage."
+    publishedDateTime: 2020-11-06T13:00:00Z
+    webUrl: "https://www.oregonlive.com/politics/2020/11/biden-now-leads-trump-in-pennsylvania-vote-count.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2020/11/biden-now-leads-trump-in-pennsylvania-vote-count.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/11/biden-now-leads-trump-in-pennsylvania-vote-count.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WVAH2BKBS5AAJITJP7OOAQKJTM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Cookies, bacon fried apples and tuna sandwiches: Kamala Harris turns to food videos to soften image"
     excerpt: "Her videos showing how to make Masala Dosa and tuna sandwiches have been watched by millions “Usually I stuff under the skin and then let it sit in the fridge for a day or two with a lot of salt outside,"
     publishedDateTime: 2020-11-02T12:03:00Z
@@ -793,7 +809,7 @@ related:
   - title: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas"
     excerpt: "Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Biden campaign event in Fort Worth, Texas."
     publishedDateTime: 2020-11-03T22:57:00Z
-    webUrl: "https://www.c-span.org/event/?477547/"
+    webUrl: "https://www.c-span.org/video/?477547-1/senator-kamala-harris-speaks-biden-campaign-event-fort-worth-texas"
     type: article
     provider:
       name: C-SPAN

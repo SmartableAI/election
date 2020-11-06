@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-fre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
 type: article
 quality: 174
-heat: 234
+heat: 214
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden's Ukraine Defense Rests on a Bogus Premise"
-    excerpt: "The crux of Joe Biden’s Ukraine corruption scandal defense rests on his contention that he traveled to Ukraine during his tenure as Vice President to demand that they fire their"
-    publishedDateTime: 2020-10-30T04:01:00Z
-    webUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046"
-    ampWebUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg"
-        width: 650
-        height: 340
         isCached: true
 
 secured: "yX5fYvFx30ydKTwZVTVWINBVOT7DJhxOuofiQuxjbaWp+RvQfTNIc38nGiLsmVab46XdEy8bamzx6XRN2qZWo9eFsELtDsAsY8FYk7gks3pHTjFX+WZlzLYowGn4wY7luni8cUx3CK6e3gp3JpkhIGK17d70YWYfaHLVRRcIzUhItxtLCz8B0BbI6LErIfieSgWOdeVoo4Zo9M4UzukTWGe8vN4F/mLDB0sNp9Ov5AoGu17FWpCHbHODPl7aoU0D9OLW1FkiRvxBPp+pkMms2duYAHHx2rHHYYKJvgEh9M0sejcHYBvTlDQDZeryd1xc99M1hAUtn0mcHwC0EphjjD3XfIaEAYmDScdsGzTD++A=;8VbEaoc01OGoE+qdIPx+xA=="

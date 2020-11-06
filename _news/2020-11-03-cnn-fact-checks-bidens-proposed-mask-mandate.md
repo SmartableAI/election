@@ -32,195 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Biden banks on Hollywood support in final days before 2020 election"
-    excerpt: "Hillary Clinton employed a similar strategy in 2016, when she won the popular vote but lost the Electoral College."
-    publishedDateTime: 2020-11-01T22:07:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c13facdb-af1b-4373-8d46-17432f01bec0/6c6c594d-6400-49b2-9d62-794f24392062/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden to receive additional Secret Service protection: report"
-    excerpt: "Democratic presidential nominee Joe Biden will receive a beefed-up Secret Service detail starting Friday as the candidates wait for the presidential race to be called, according to a report."
-    publishedDateTime: 2020-11-06T11:06:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QO4nVxZgS2M/biden-to-receive-additional-secret-service-protection-report"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-receive-additional-secret-service-protection-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-receive-additional-secret-service-protection-report.amp"
+  - title: "Facebook manually limited New York Post Hunter Biden story: Report"
+    excerpt: "Facebook fact-checkers manually flagged and restricted distribution of the New York Post's Hunter Biden story, documents obtained by The Guardian show."
+    publishedDateTime: 2020-10-30T23:00:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310779175857.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/facebook-2-Reuters.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
-    excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."
-    publishedDateTime: 2020-10-25T16:15:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6NWqlGnUVw/joe-hunter-biden-china-ron-johnson"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
+  - title: "Cook Political Report editor: Time to 'sound the alarm' on Biden's likely victory"
+    excerpt: "Dave Wasserman, US House editor for Cook Political Report, said Tuesday it's time to \"sound the alarm\" that Joe Biden is likely to be the next President of the United States. "
+    publishedDateTime: 2020-10-28T02:02:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u_sFWI_ZIwc/cook-political-report-biden-victory"
+    ampWebUrl: "https://www.foxnews.com/politics/cook-political-report-biden-victory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cook-political-report-biden-victory.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20296066937983-e1603462593267.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Warren eyes Treasury Secretary job in potential Biden White House: report"
-    excerpt: "Warren reportedly plans to make her case for the position depending on the outcome of next week’s election."
-    publishedDateTime: 2020-10-30T01:12:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_KiQb7VYLI/warren-treasury-secretary-joe-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
+  - title: "Twitter CEO Dorsey pressed by Cruz on restricting Hunter Biden stories: 'Who the hell elected you?'"
+    excerpt: "Sen. Ted Cruz, R-Texas, ripped into Twitter CEO Jack Dorsey, accusing him and his social media platform of improperly censoring reporting from the New York Post that reflected poorly on Joe Biden, despite not acting consistently regarding stories about President Trump."
+    publishedDateTime: 2020-10-28T16:27:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uY-TQeHpTN8/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d92e365-3fbb-48cc-b1f3-2d5c1088ddef/b749bc16-2f42-48c2-ab47-1c09becd69f0/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a75ac2c0-3ff6-4df6-9779-60be2371201e/3bfc2233-b79f-4a7c-b21e-48a5e273e900/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "New Hampshire newspaper backs Biden, first Democrat for president in 100 years"
-    excerpt: "One of the nation's most prominent conservative-leaning newspapers endorsed Joe Biden for president on Sunday, marking the first time the publication has endorsed a Democratic presidential candidate in over 100 years."
-    publishedDateTime: 2020-10-25T19:37:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/90vbbqrnN5g/biden-endorsement-conservative-new-hampshire-union-leader-newspaper"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+  - title: "DOJ, citing Hunter Biden story, Justice Thomas, supports changes to Section 230 in letter to Congress"
+    excerpt: "The Department of Justice (DOJ) on Tuesday sent a letter to congressional leaders advocating for changes to Section 230 of the Communications Decency Act, a law passed about 25 years ago that prevents tech companies from being sued for user content posted on their platforms. "
+    publishedDateTime: 2020-10-28T16:09:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAhQImxanro/doj-citing-hunter-biden-story-justice-thomas-supports-changes-to-section-230-in-letter-to-congress"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 140
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pelosi: 'I feel very confident that Joe Biden will be elected president on Tuesday'"
-    excerpt: "House Speaker Nancy Pelosi projected Thursday that Joe Biden would win the White House and said Democrats are ready to work with him on a transition agenda to tackle the coronavirus pandemic, address the economic fallout and pass an infrastructure agenda. "
-    publishedDateTime: 2020-10-29T17:21:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EfkCiwKZMR4/pelosi-confident-biden-win-democratic-transition-agenda"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/08731db9-Nancy-Pelosi.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden says Catholic faith guides policies but gets hit on abortion, religious freedom"
-    excerpt: "Joe Biden is touting his Catholic faith as groups are hitting him on issues held near and dear to the faithful and opposed by the church, including religious freedom for nuns and abortion."
-    publishedDateTime: 2020-10-30T19:17:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sMIa_lBS0vI/biden-catholic-vote-2020-election-religious-liberty"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "‘SNL’ basically endorses Joe Biden in pre-election episode"
-    excerpt: "The final episode of “Saturday Night Live” before Tuesday’s presidential election went much further than the show did in 2016."
-    publishedDateTime: 2020-11-01T17:48:00Z
-    webUrl: "https://nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/"
-    ampWebUrl: "https://nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/snl.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc.': Sen. Johnson"
-    excerpt: "Coming up, White House Chief of Staff Mark Meadows on a blockbuster admission at the final presidential debate, Joe Biden on transitioning the oil and gas industry. JOE BIDEN (D), PRESIDENTIAL CANDIDATE:  By the way,"
-    publishedDateTime: 2020-10-29T19:20:00Z
-    webUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson"
-    ampWebUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77982519-0b80-4d5e-88e5-ef13e983e2a2/77bf9357-3466-4f1c-9e36-660714f9e3bf/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be276ed1-e6a3-4a5a-933b-707157d6ae65/651c60c4-05f1-4959-8be6-3f5ba1ed74b6/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Joe Biden Speaks as Vote Count Continues in Presidential Race"
-    excerpt: "Former Vice President Joe Biden said Thursday “each ballot must be counted,” as vote counting continued in key battleground states. Biden was six electoral votes away from the 270 needed to win the race,"
-    publishedDateTime: 2020-11-05T22:13:00Z
-    webUrl: "https://www.wsj.com/video/joe-biden-speaks-as-vote-count-continues-in-presidential-race/9609910B-249A-4FC3-9200-71370B1636CA.html"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "http://m.wsj.net/video/20201105/110520.biden.speech.vid1/110520.biden.speech.vid1_1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "A Biden Family Special Prosecutor in 2021?"
-    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
-    publishedDateTime: 2020-10-27T10:36:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/52/525278_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden's War Against the South"
-    excerpt: "Joe Biden has said he wants to be president of ALL the states and that he doesn't see red states and blue states. But his economic policies are a de facto war against the high-growth red states"
-    publishedDateTime: 2020-11-03T11:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/52/525922_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "MPdqyDF3TdiB6C90+4ab9tFzSI8noA6jBAQSxYYxIA1TslEs0/YLBhPve3J2gORLTmp4sYH7A9SdIhUkjS/xA+C9rUP2ZIujosrpR9J3+etgd7Xk5DOmXcTAUSCFHL8GX75jvMhq+6neaJ9rkb2+/uM8gwqx1IgBgZS9HDY5sDSTOjb40GLJ6bEa1Io/ZgAGcux9MByhhHEirmkfOsdFYGWAxMzSLBVGKWA/UfUcKXVeneDPL1rsyJmRXUkdSgQ/K7J/XJye2dTYx1f9pjJ3PLWtl7Wb4SEuX3SWwVsxH6OeqDA4oY1+IW77zK3eLC8HVeWqWbmzvgVXuW26f6dLHoZuAfPb5MRJsWkKbGjqgyY=;tq8kabxEbLuMNVCbYPV+Kg=="

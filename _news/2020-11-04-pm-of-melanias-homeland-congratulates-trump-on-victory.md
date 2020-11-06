@@ -191,6 +191,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Despite Trump-Erdogan ties, Turkey says it will work with whoever wins U.S. vote"
+    excerpt: "Turkey is ready to work with whoever wins the U.S. election, two top Turkish officials said on Friday, despite a friendship with President Donald Trump that has helped the two countries through turbulent times."
+    publishedDateTime: 2020-11-06T13:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-turkey/despite-trump-erdogan-ties-turkey-says-it-will-work-with-whoever-wins-u-s-vote-idUSKBN27M1QF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M1QF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M1QF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540259254&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50ZS"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Vice President Mike Pence responds: I stand with President Donald Trump"
     excerpt: "Vice President Mike Pence was not with President Donald Trump during his press conference this afternoon. He later tweeted he stands with the president and that we must count every legal vote. Eamon Javers joins Shep Smith to talk about the various responses from members of the Republican Party in support of President Trump."
     publishedDateTime: 2020-11-06T01:48:00Z
@@ -204,6 +220,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106783180-16046249101604624906-12295478233-1080pnbcnews.jpg?v=1604624909"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "International election observer says Trump's false election victory statement was an 'unprecedented abuse of his position'"
+    excerpt: "The Organization for Security and Co-operation in Europe said there was no evidence of voter fraud in the US election."
+    publishedDateTime: 2020-11-06T13:15:00Z
+    webUrl: "https://www.businessinsider.com/trump-white-house-statement-abuse-of-position-international-election-observer-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-white-house-statement-abuse-of-position-international-election-observer-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-white-house-statement-abuse-of-position-international-election-observer-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fa549511df1d500182193c1?width=1200&format=jpeg"
+        width: 1164
+        height: 582
         isCached: true
   - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
     excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."

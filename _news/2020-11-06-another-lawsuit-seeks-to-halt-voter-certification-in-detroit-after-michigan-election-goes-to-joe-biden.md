@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html?outputType=amp"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: MLive
@@ -25,6 +25,38 @@ images:
     width: 1300
     height: 867
     isCached: true
+
+related:
+  - title: "Secret Service to dispatch extra protection squad to Joe Biden's campaign headquarters in Delaware"
+    excerpt: "The extra security will be assigned to the Wilmington Convention Center, Delaware, where the Biden campaign is headquartered."
+    publishedDateTime: 2020-11-06T12:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fa52beb1df1d50018219397?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
+    excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
+    publishedDateTime: 2020-11-05T21:46:00Z
+    webUrl: "https://www.c-span.org/video/?477853-1/joe-biden-urges-patience-election-vote-count-continues-predicts-victory&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
+    images:
+      - url: "https://static.c-span.org/assets/images/featured-playlists_icon.png"
+        width: 520
+        height: 485
+        isCached: true
 
 secured: "mDc0wNZoLA+qVagdSWcq0oQYGYlb+v8Ipm5Eh4LFdjNu01e48mGzLGt2RuRxHURapgkf0syuojluJaZqSS7XgDOHKpiSPyQWUU6feybAOBWz8FPIj22sA/l4bvyJJ3J8o3W8DuYBn+dXrHzC4hoEbvXMj7va3AdOEP1FvSLOgzjIu0sYl0EFSqJFVhv23UyDNavVw3TfRGzyIDPExnXIVXPkA04VZLdIbvkohDzd8kVOabpUFP3ySeOB24G5U4+xbz1iVqginY3Gen9p0faz2C3TTeRzpovtrRpNXWEW+kjoI5nzVLxvjXPSmt7kOlZDg9BM7n26xW0OhYzYAdr2wYfQHFoiXLT3xcocEXpMZM12pUsgK9PGz8eyrKdQ1OfCnOnGaHpPxKFIvm5VnzM/tIpXU6DlCK5rmXVczKVWw2RPT+3nah4e6UnBsAa2yoYWhqRrmnzKzR8kLhu18u69/HIyC/mrNDlKhzPEzsJDifNJh0t5Q3DBr8ZUM4vcOABfuJX/q+xQy4D8YOm/a3NWxw==;GZUcLi4ikFrSq1Tws4BX6Q=="
 ---

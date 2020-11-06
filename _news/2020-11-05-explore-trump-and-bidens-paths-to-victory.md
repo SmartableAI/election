@@ -1742,6 +1742,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Fact-checking Trump's claims of election fraud"
+    excerpt: "NBC News political reporter Jane Timm fact-checks President Donald Trump's speech on the 2020 election results and his claims of election fraud."
+    publishedDateTime: 2020-11-06T13:31:00Z
+    webUrl: "https://www.nbcnews.com/now/video/fact-checking-trump-s-claims-of-election-fraud-95440453596"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95440453596"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95440453596"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_2020_factcheck_trump_201106_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "In Torrent of Falsehoods, Trump Claims Election Is Being Stolen"
     excerpt: "Most television networks cut away from the statement President Trump gave Thursday night from the White House briefing room on the grounds that what he was saying was not true."
     publishedDateTime: 2020-11-06T04:25:00Z
@@ -2429,6 +2445,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04paths-270-1/merlin_179554470_6c49631c-cd29-454a-ae7c-d39b0199ce2e-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "GOP begins pushing back against Trump's false election claims"
+    excerpt: "A handful of Republicans are beginning to speak out about President Donald Trump's baseless claims of fraud in the presidential election, with GOP Sens. Susan Collins and Pat Toomey the latest to bat away Trump's rhetoric as the presidency slips away from him."
+    publishedDateTime: 2020-11-06T14:14:00Z
+    webUrl: "https://www.politico.com/news/2020/11/06/gop-pushes-back-trump-false-election-claims-434653"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/c9/cc/7fc781154b0aa44c3451220bc1c4/201106-susan-collins-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "The view in Wisconsin: Biden holds a slim lead after nearly all votes are counted."
     excerpt: "Wisconsin’s municipal clerks are nearly finished counting the state’s ballots, and former Vice President Joseph R. Biden Jr. has a lead of slightly more than 20,000 votes over President Trump, said Ann Jacobs,"
