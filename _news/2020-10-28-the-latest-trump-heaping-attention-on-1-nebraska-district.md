@@ -1352,14 +1352,14 @@ related:
         isCached: true
   - title: "Joe Biden is set to become the oldest president, a title held by Ronald Reagan"
     excerpt: "As of now, the oldest sitting president in U.S. history was Ronald Reagan, who was 77 when he left office in 1989."
-    publishedDateTime: 2020-11-06T00:31:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/11/05/oldest-president-joe-biden/6181672002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6181672002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6181672002"
+    publishedDateTime: 2020-11-06T00:34:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/11/05/oldest-president-joe-biden/6181672002/"
+    ampWebUrl: "https://amp.freep.com/amp/6181672002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6181672002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 71
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/05/USAT/78d55875-fbe3-4cca-a9de-7486868dc093-GTY_1229463571.jpg?auto=webp&crop=1782,1003,x0,y0&format=pjpg&width=1200"

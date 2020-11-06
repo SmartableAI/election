@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A0BB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A0BB"
 type: article
 quality: 155
-heat: 9815
+heat: 9835
 published: true
 
 provider:
@@ -5525,6 +5525,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "These states can hand Joe Biden the electoral college win over Donald Trump"
+    excerpt: "Former Vice President Joe Biden is getting close to 270 electoral votes in the presidential race after he was named the winner in Wisconsin and Michigan. The race is now down to Pennsylvania, Georgia,"
+    publishedDateTime: 2020-11-05T17:41:00Z
+    webUrl: "https://www.cincinnati.com/in-depth/graphics/2020/11/04/these-states-can-hand-joe-biden-electoral-college-win-over-donald-trump-what-states-still-counting/6165592002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6165592002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6165592002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 88
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/e4078510-fb31-4b52-87af-af0331e7e9fa-grid-promo2.png?auto=webp&crop=3137,1765,x521,y870&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'"
     excerpt: "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\""

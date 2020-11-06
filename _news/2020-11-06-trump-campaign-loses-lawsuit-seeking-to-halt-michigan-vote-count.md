@@ -2,11 +2,11 @@
 category: news
 title: "Trump campaign loses lawsuit seeking to halt Michigan vote count"
 excerpt: "A judge in Michigan on Thursday tossed out a lawsuit brought by U.S. President Donald Trump's campaign in hopes of halting vote-counting in the battleground state."
-publishedDateTime: 2020-11-06T00:59:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-michigan-idUSKBN27L2M1"
-webUrl: "https://www.reuters.com/article/us-usa-election-michigan-idUSKBN27L2M1"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L2M1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L2M1"
+publishedDateTime: 2020-11-06T07:40:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-michigan-idUSKBN27M0A8"
+webUrl: "https://www.reuters.com/article/usa-election-michigan-idUSKBN27M0A8"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0A8"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0A8"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540156919&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41KL"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540205366&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA505Q"
     width: 817
     height: 545
     isCached: true
@@ -393,6 +393,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "2nf4U2LH31dP0eEEk9vRvBFnades/c/cQM0YVCRQqAstYAjHzKkTeSfFMeDNKBnzUtChPfS2A5TpQtR47a/xx9jeYZaBBhJfDJ1JNH12ULqSAVcKmv21XGnksa/PqLfEGAGH8nfEn++LUIx6SCMYiOBQoK6kHiI580zc8l2zIGMNhYuSfEEeX5l2reGBX0y8wVI5F+fDrd0YoCYAVkEpJ7KyEqAzjqZLgey8ovSp1WU3ZrvzDZH7EpKKVSf3VdSY3XvdNZNiz2PpPA7++N09wh1xXUCWOGFN1csjKHL/Oj2jS6c6TuMa+vG2RnhgKKNv8ObZkcGn+lJyuOajPlsmOWw10nM/iwCTW5QfNfkGUP4=;uMz/KkdsXEpZiuILeQ27Jw=="
+secured: "aTiUw2dKHcOM57zxjwykkm9clH/h4mm7ztQ8AFXasoffm2FYiyau5XNhYdrSKLfSTbaQ17tNYG2M4fyM8zxKxKlL/tFrv0WGdCu5hah6ZEaLA3J7hjnhedbkDQYsPk5gK4MD47SwOGm/9ut8cTBWZqNPJr1Ack79gfXZAnzoszj0WrdfJ6+Ftwopc5D835zdWBHQU2//WykvD8FfTCfyefHrigIGIlZ4ppcsVbt5N3w99mO91qAUVdJFztIi9gmv9D0lQmlKTgy44lL8IqOFza65HZDmpkf6B4SX7daSzXdrCDtI05ECVglEbwj5XNOzp2TrgK7JONmcco8F1cGwUO6L/uBNITpS6yf2+e8q7tg=;n/FTb649fDQzX4w7oakA1A=="
 ---
 

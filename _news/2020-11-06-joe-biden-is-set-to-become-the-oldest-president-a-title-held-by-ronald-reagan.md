@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden is set to become the oldest president, a title held by Ronald Reagan"
 excerpt: "As of now, the oldest sitting president in U.S. history was Ronald Reagan, who was 77 when he left office in 1989."
-publishedDateTime: 2020-11-06T00:31:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2020/11/05/oldest-president-joe-biden/6181672002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2020/11/05/oldest-president-joe-biden/6181672002/"
-ampWebUrl: "https://amp.azcentral.com/amp/6181672002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6181672002"
+publishedDateTime: 2020-11-06T00:34:00Z
+originalUrl: "https://www.freep.com/story/news/politics/2020/11/05/oldest-president-joe-biden/6181672002/"
+webUrl: "https://www.freep.com/story/news/politics/2020/11/05/oldest-president-joe-biden/6181672002/"
+ampWebUrl: "https://amp.freep.com/amp/6181672002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6181672002"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -1478,6 +1478,6 @@ related:
         height: 630
         isCached: true
 
-secured: "f8670MniPVDWy9EhUeLjRhAKDOXc2ffkkjp7t970fMRQ2f6d2Epx5UD0V3VSEqT5LJ6t64eLGdottaz51RKragUJCpjXO1S5pmYLW9r5s4sfZmlXYEThwWKZxIva8XJ4qQlbUqSXHJIRqZPF+jdhoemynGk4Dw65vBcdTcKHoaw5iGxOOqOofrz+Fgd5OxTBPT9FSGEAyvqAj2DrMsrK+8mJi3QPcOZjwOFhB6r7c5roefnu+jnXXd0jcea+Qd5xsLnEbJYN/wnjJBW24Bc6ag2QOJUDXlyMK5uBZV0umQXrBbKwpdxbxdOxlrmVB9m/jN+/93kfkG6RSUDyVG8ql4y8PjRrbok5zx54lehZFJ4=;RfFXUn5RxFRTL5eZZB96/Q=="
+secured: "HoeMUcsJ558hYBckvz7dWLTRKEMUJZkikNQ4RgIH9JBTNv9h5H7QmO3woDpXxcQpaoyw4LEL9zt7f1cyDqahq4Wp62TH/e/hMIG5xnr9Kh2AhASPEBMcqLbY1TMIWc7qposKjsTRI2UnYWzgLzrXEbm+GHYst28dueeO/9BTPPqwj/n1Vp0leQYQYsOEroRKOxsSoI2S6+SjpUkFRKmu8/5hTHQk9wj7D6JXvx/Miemp66LHtV2IAHA2shwT264FfrPClLpCs4FKhd2LJCdWjOO2VRpzgT4Gjlw7qNcpolLoNTciOm8Bd6hB0KNjVgj2iP4E3Hb5bPOdN5UVdJAHYaUoYfs4YKQGFHBXJP7n62g=;8DaIWlh3BMp5joNaHhNw8w=="
 ---
 

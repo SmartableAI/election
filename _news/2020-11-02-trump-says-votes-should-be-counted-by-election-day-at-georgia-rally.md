@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 670
+heat: 690
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Chris-Evans-Mark-Ruffalo-Patricia-Arquette.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump wants Supreme Court to decide election, cites unfounded fraud claims"
+    excerpt: "President Trump said the US Supreme Court should decide the presidential election due unfounded claims of “illegal voting.” Trump made the allegations in a tweet issued early Friday"
+    publishedDateTime: 2020-11-06T08:22:00Z
+    webUrl: "https://nypost.com/2020/11/06/trump-wants-supreme-court-to-decide-election-cites-fraud-claims/"
+    ampWebUrl: "https://nypost.com/2020/11/06/trump-wants-supreme-court-to-decide-election-cites-fraud-claims/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/06/trump-wants-supreme-court-to-decide-election-cites-fraud-claims/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/6018BC60-DEB7-4350-9B71-F41D3351924F.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Florida judge resigns from vote-counting board after at least a dozen Trump donations discovered"
     excerpt: "A Florida judge who was leading the Duval County's vote-counting board was forced to resign Thursday after it was uncovered that he had donated hundreds of dollars to President Trump's campaign and the Republican National Committee, and also has Trump-Pence signs covering his front lawn. "

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27K0MF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27K0MF"
 type: article
 quality: 134
-heat: 634
+heat: 654
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201101&t=2&i=1539602176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA01B3"
         width: 817
         height: 545
+        isCached: true
+  - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
+    excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
+    publishedDateTime: 2020-11-06T08:03:00Z
+    webUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5fa4f4c11df1d50018219377?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Ahead of U.S. poll, Trump ends a U.S. restriction applying to Israeli settlements"
     excerpt: "The Trump administration lifted a decades-old ban on Wednesday that had prohibited U.S. taxpayer funding for Israeli scientific research conducted in Jewish settlements in occupied territory, drawing Palestinian condemnation."
