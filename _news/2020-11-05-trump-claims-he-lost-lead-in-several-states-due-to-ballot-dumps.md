@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-s
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/amp/"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Trump campaign ballot counting lawsuits: What to know"
+    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
+    publishedDateTime: 2020-11-06T00:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "oATsAR505ea7TeT8OBQeoANzTYz0eDO60tXySsviJRp7YqmbTLqro/M/Qt2BrxBw34WeGdlw8O7jS4H3HejRH20wDXZfg7kiLtBBdn2kcJ6Q958mpNVGtZKs34c0iP8r41Q9hF7P/voXVnMmm6yyjXIh+TfUC22uakiVrBJsFhOwpAxvVXLDfDsue3NUo1MPOYU5QIz9QfFxqzgnDev1SzTsDI5WWdV76K4zKRxE/Z99mDSfb7oQNdTK+zO7NO5evf+qHrRxNp9VxojGyPJ4axKj+lOpP6r1iWsr5hdjEeb3yXDceghxSY6rFo8Tv+lvBZpKy2WvuRG0UJxwRzWSeZOyefnlq1fWCeraHUvmDhc=;+FoaQwuTJmlEVPoodSIQJw=="
 ---

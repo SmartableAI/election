@@ -2,11 +2,11 @@
 category: news
 title: "Harris’s ancestral village in India gets festive as Biden leads count"
 excerpt: "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House."
-publishedDateTime: 2020-11-05T13:21:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-india-harris-idUKKBN27L0WC"
-webUrl: "https://www.reuters.com/article/uk-usa-election-india-harris-idUKKBN27L0WC"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27L0WC"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27L0WC"
+publishedDateTime: 2020-11-05T13:33:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU"
+webUrl: "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0XU"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0XU"
 type: article
 quality: 150
 heat: 1490
@@ -952,6 +952,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "GgsRPZAPCm0on2m/z2ilZDXFnHUQti06U04ubib2AEyhTdCvF5JjARyA7PdwkcRVJpcY+JiUlVZbP9N6BskTKTvOuKgIxC0+oIIDCrAvZ8QMwpYqb/QcPzQY83SkITwJ/F0eTSnx+BSvy9VfBr4Zq2b5Hn+QzaqWwPFd146fpOi0IfSGTtvRkdZPsX3AXKimtxY2miecf2qOoiq2F+bkuMZLG7FNfkU8lLh6vX9H/4YQvLYXbTSeWinMW/rYRNBCNRU+OyML9iFLdoamQOTSrFRKH3dqjKNKzkZmLfWMwy+lslSvEo97VDRtFEugwdt8/dio9oFoGBLlxTLv1Dc+xLX5t+HDfb3ew+WWvs70bSs=;UW+WUauV1LPiCNF6K4CmBg=="
+secured: "vUkS4h+NtWVfEe4oLiOOrRXV91CD8GU1ybSdB+A2majCbRx8RsU0EV311au4EYHvg3//VxK7qyDIdA7n27TiRzs8qBS1pk73vr3LoiStMTy//sxy9SG2njX23gn414Qlkp+ySXeWG9HHJS7K9WvKjlCTB/KG3r3lrdeKFStC8G4nFUN0AYVS+WQpxN58YswxasNuLwfo1idcCWuk2Z4k8arcZ5rmqG9dbJTUlpdB7crCQWzALOywh1fE8oousM4SJNEdTYBuKelqgZ5K3RhOoWIjCBxH3jlN1iDgxao2USvsqdiDjEABc+7yv+TAAUhowHAY59w5kujzCx85X+hbEBD2+noJk+u2r54k2mCUo8s=;4a/IF2b1PewwKBlwGp/PkA=="
 ---
 

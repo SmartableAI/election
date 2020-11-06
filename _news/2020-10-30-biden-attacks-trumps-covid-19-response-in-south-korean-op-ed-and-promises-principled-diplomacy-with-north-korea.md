@@ -863,6 +863,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump delivers the most dishonest speech of his presidency as Biden closes in on victory"
+    excerpt: "President Donald Trump delivered the most dishonest speech of his presidency on Thursday evening.\n    \n"
+    publishedDateTime: 2020-11-06T04:54:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RuchX4pfDK4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/fact-check-trump-speech-thursday-election-rigged-stolen/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/fact-check-trump-speech-thursday-election-rigged-stolen/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105185238-03-play-button-trump-presser-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump misleads on Trump's health care record in joint campaign stop"
     excerpt: "First lady Melania Trump pitched President Donald Trump as a tireless warrior for health care at a rally on Thursday, claiming that health care for every citizen is his priority, even though his administration has worked to dismantle the Affordable Care Act since he took office.\n    \n"
     publishedDateTime: 2020-10-29T23:00:39Z
@@ -1678,6 +1694,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04election-legal-1/04election-legal-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "In Torrent of Falsehoods, Trump Claims Election Is Being Stolen"
+    excerpt: "Most television networks cut away from the statement President Trump gave Thursday night from the White House briefing room on the grounds that what he was saying was not true."
+    publishedDateTime: 2020-11-06T04:25:00Z
+    webUrl: "https://www.nytimes.com/2020/11/05/us/politics/trump-presidency.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/05/us/politics/trump-presidency.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/us/politics/trump-presidency.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/us/politics/05dc-trump/05dc-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Sick of getting texts from the Biden or Trump campaigns? You're not alone"
     excerpt: "The campaigns of President Donald Trump and the Democratic presidential nominee Joe Biden didn’t respond to requests for comment on their texting strategies or on consumer complaints, which in recent days have been common on social media. Lindsay said ..."

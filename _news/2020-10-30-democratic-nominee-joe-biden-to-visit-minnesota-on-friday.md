@@ -89,20 +89,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "VP Mike Pence to make 2 campaign stops in North Carolina on Halloween"
-    excerpt: "Vice President Mike Pence is set to return to North Carolina on Saturday for two campaign stops, just three days before Election Day, WTVD reported."
-    publishedDateTime: 2020-10-30T06:04:00Z
-    webUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-make-2-campaign-stops-north-carolina-halloween/FGNHNKGYWNF6VFKP6HM42DXAHY/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
-    images:
-      - url: "https://www.wsoctv.com/resizer/pXusisgI-i7o4r9ZDOxKtDRJ0cQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/AV3ZLYO4QE6NNM2EBGO6L6GALM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "ILKrVi1qMFs0cnGwwedKXHVE6DlwyEoFJwB/VVnjgivtw+cbwIMChCgeFRduisxyfWshsNiH7pPFitbdZ60Y4OzyowPYc+lLP0Qk50JYIHbrpe42gKYHCqmiHd/ZEHFEjwPEaYzOhvBFR5t4spdrn6PZamxZL/Mj8M0yBFBPMRJWnRXrE7oxGUZIE9ryJn6lEl8D0DLjXkgHipLYPtnNryS2qP0igoRbMutJNZd3vOGtZm9jKC23nmNpUtFL8ZgZVfAH57rMMfAcBY1Ek/RZ2ea58tIimSBmqlWDG/we4UvSBy2CJ/vdjVJFkTYKy5/7teGDvhuDhE2Sg0lIiHoBG5I3msz55ifxoW9K2UMIE6LhPSKoanhwlS4Q5g2ZnwEmN5H2pTzvXTH9GNbmv030dbmVGsZvcCEHxZyqnSd7cLq96tgP8FY6aK+VgzVCsh8NUfF0WrwnGIkdqTBSmU/kbMbs4x9OBcmfzsAdLPbGIekat0+ibRZr+Iqc2leFe1H8VzvBeksJErEnBsXXSHZdsQ==;zaFnAhieb/CslAnl6wSWng=="
 ---

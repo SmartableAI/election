@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-vi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-virginia-biden-74008179"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Joe Biden will return to Michigan on Halloween"
-    excerpt: "The trip marks the former vice president's fourth to Michigan in recent weeks, again signaling the importance of the state in the overall race."
-    publishedDateTime: 2020-10-29T02:15:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/26/joe-biden-return-michigan-halloween-election-2020/6049405002/"
-    ampWebUrl: "https://amp.freep.com/amp/6049405002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6049405002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/347b1fa3-f7b8-482f-8fb2-adcc72da78b5-biden_101620_kd125.jpg?auto=webp&crop=2399,1350,x0,y115&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "KhOHrIinKUKXJSOeLoS3FzHCpvbEFTdeZxdF6+RygShtc/6XY/mBZTt6kI9vkLGU+RRyB5JCXJIhU8eD7ztjgZUdCalyR04/iCO83HUuaLEDrwBv1pSWkxZ6QTyNUkcuACC1WuHBE4TPEvZmCXvl1cxTUerPlvGu0MACKQrz9mowpewaJcgFzqoJsky12b1jQ02g5BveqHRe2QKaScE5OhlvC32ywNhQZeCsXnBh20Tjnt8HnH0m8neuGJ05pFPJgJ+6h+RONqPGrDtEiWwg448YUgm5D6NkesEGwie+G7iL5wTsuRLpwy/ysYM+PDBRYlOjIPkk3mZvj8o/cCJlyhaqpJacxQTypmjxeZg+Ctw=;Wrpx/zKvy6PR+LdALBh5GQ=="
 ---

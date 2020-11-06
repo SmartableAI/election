@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign
 cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
 type: article
 quality: 90
-heat: 190
+heat: 170
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://stmedia.stimg.co/1600457850_19098701+TRUMPBIDEN.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
-        isCached: true
-  - title: "VP Mike Pence to make 2 campaign stops in North Carolina on Halloween"
-    excerpt: "Vice President Mike Pence is set to return to North Carolina on Saturday for two campaign stops, just three days before Election Day, WTVD reported."
-    publishedDateTime: 2020-10-30T06:04:00Z
-    webUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-make-2-campaign-stops-north-carolina-halloween/FGNHNKGYWNF6VFKP6HM42DXAHY/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
-    images:
-      - url: "https://www.wsoctv.com/resizer/pXusisgI-i7o4r9ZDOxKtDRJ0cQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/AV3ZLYO4QE6NNM2EBGO6L6GALM.jpg"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "8GwHVMdkjxOwvKiLsaUWp+1W78PDzg8/1wkDWGHd4kcqgLLEEHmL/c+PxHQ8RytmU4DP4+pyGEgX6ENWAmt6yBFPaKIY5LIUhE+Gy6Q4atjwYKV5txgf9shBoQViQgp1Jm5MMx9R/U7vCWXsUfGuUQHc/8CYuhwE9CMN/fn2O9oR6lhzU9IeUKRUNAx5PI+k49RlMWFasrs4Wo6DbC6P/0/ZZcuN6MsRUlk/HC7zXnzDB6K1/T8UFyoxlLXlbKU0nPsp5sziqjr07zT0VeSF7LaZmYGO9f4plSCyPFBZJV8N63Fu24B/ZQITGLXA8+G+VZAZVKspJMSFDDqolmGALMbuxHfYRWXPaRPYeQiK5lQ=;JWqEDNyqlhE+hEDc/CHySg=="

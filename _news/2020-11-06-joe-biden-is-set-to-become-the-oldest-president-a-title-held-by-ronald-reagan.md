@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden is set to become the oldest president, a title held by Ronald Reagan"
 excerpt: "As of now, the oldest sitting president in U.S. history was Ronald Reagan, who was 77 when he left office in 1989."
-publishedDateTime: 2020-11-06T00:34:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2020/11/05/oldest-president-joe-biden/6181672002/"
-webUrl: "https://www.freep.com/story/news/politics/2020/11/05/oldest-president-joe-biden/6181672002/"
-ampWebUrl: "https://amp.freep.com/amp/6181672002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6181672002"
+publishedDateTime: 2020-11-06T00:31:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/2020/11/05/oldest-president-joe-biden/6181672002/"
+webUrl: "https://www.azcentral.com/story/news/politics/2020/11/05/oldest-president-joe-biden/6181672002/"
+ampWebUrl: "https://amp.azcentral.com/amp/6181672002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6181672002"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -1215,6 +1215,22 @@ related:
         width: 4728
         height: 3116
         isCached: true
+  - title: "Tuberville alleges election being stolen from Donald Trump"
+    excerpt: "\"It’s like the whistle has blown, the game is over, and the players have gone home, but the referees are suddenly adding touchdowns to the other team’s side of the scoreboard,\" Tuberville tweeted despite votes still being counted in several key states."
+    publishedDateTime: 2020-11-06T03:59:00Z
+    webUrl: "https://www.al.com/politics/2020/11/tuberville-alleges-election-being-stolen-from-donald-trump.html"
+    ampWebUrl: "https://www.al.com/politics/2020/11/tuberville-alleges-election-being-stolen-from-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2020/11/tuberville-alleges-election-being-stolen-from-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2UI5GH5KIBBXHPW76VNZHDOGZE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Arthur Blank donated thousands to Biden while his Home Depot cofounder was a major Trump donor, but Blank says it never came between them"
     excerpt: "Joe Biden supporter Arthur Blank says business isn't \"a red issue or a blue issue\" and politics never challenged his rapport with Home Depot partners."
     publishedDateTime: 2020-11-04T00:21:00Z
@@ -1373,6 +1389,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "ELECTION UPDATE: Joe Biden's lead in Arizona tightens in updated results"
+    excerpt: "Former Vice President Joe Biden kept his lead in Arizona over President Donald Trump, but with a more narrow margin following the latest results posted overnight. The results posted early Thursday morning were mostly mail ballots from Maricopa County that had been dropped off at vote centers on Tuesday."
+    publishedDateTime: 2020-11-05T12:30:00Z
+    webUrl: "https://www.djournal.com/news/national/election-update-joe-bidens-lead-in-arizona-tightens-in-updated-results/article_561f5117-e5ab-58d3-b3e5-42aaa20e89c1.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 69
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/f7/5f70a5a3-23de-5cbf-8c1a-82ae377dd75e/5fa40cefba53a.image.jpg?crop=1199%2C674%2C0%2C77&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Election Day Live Updates: Donald Trump, Joe Biden Square Off For President, Latest Senate And House Results"
     excerpt: "Early voting shatters record as Americans anxiously await the outcome of a presidential election during a pandemic."
     publishedDateTime: 2020-11-03T15:00:00Z
@@ -1432,6 +1462,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DDwtKh4oTPvvIIXY5KO43nZQtf/1saeTjGsK/FtKIjp6PqkpzC1hoWBX35tbLdrcNpwsJEYNyqBjSADBAP1KU1Qs/lnNmszQp7yP9FO6LZ5n59setUiV1nbKC/ORXuRO6mrey68ULk3pnYLVWSJYKu4rEXNHjkUw0Sx+LuRwZY3fwo+bAOKvW2dqloFzDx8ih/G/d54KOQEPgoued5MuXx3cxPkeHbaHw1DPavd9T9X9AkcuxDLc8KhTyG8gzoTkxbQx0cf1wCPSgFsaLXYtqJTIGg6OnYRbFJwOnWj+A7oGhQDNvLbaotGTGfelC2iwjTIc5Hx9pbC2haBmQfzpYVdfq59fuQ4go6Uvc9ueSjE=;Jw3HaPMzxQH32WsGmjZwew=="
+secured: "f8670MniPVDWy9EhUeLjRhAKDOXc2ffkkjp7t970fMRQ2f6d2Epx5UD0V3VSEqT5LJ6t64eLGdottaz51RKragUJCpjXO1S5pmYLW9r5s4sfZmlXYEThwWKZxIva8XJ4qQlbUqSXHJIRqZPF+jdhoemynGk4Dw65vBcdTcKHoaw5iGxOOqOofrz+Fgd5OxTBPT9FSGEAyvqAj2DrMsrK+8mJi3QPcOZjwOFhB6r7c5roefnu+jnXXd0jcea+Qd5xsLnEbJYN/wnjJBW24Bc6ag2QOJUDXlyMK5uBZV0umQXrBbKwpdxbxdOxlrmVB9m/jN+/93kfkG6RSUDyVG8ql4y8PjRrbok5zx54lehZFJ4=;RfFXUn5RxFRTL5eZZB96/Q=="
 ---
 

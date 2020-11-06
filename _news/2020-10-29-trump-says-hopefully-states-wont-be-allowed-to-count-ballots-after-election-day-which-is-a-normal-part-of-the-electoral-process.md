@@ -239,6 +239,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "ABC, CBS, and NBC cut away from Trump's White House address riddled with unfounded accusations about the 2020 election"
+    excerpt: "President Donald Trump, at the White House, made an unfounded accusation that the election was being stolen from him. ABC, CBS, and NBC cut away."
+    publishedDateTime: 2020-11-06T03:09:00Z
+    webUrl: "https://www.businessinsider.com/networks-cut-away-from-trumps-white-house-address-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/networks-cut-away-from-trumps-white-house-address-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/networks-cut-away-from-trumps-white-house-address-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fa4b8fdf7d1cb0019e3a23d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Observers say no evidence for Trump's fraud claims"
     excerpt: "The head of an international delegation monitoring the U.S. elections said on Thursday his team has no evidence to support President Donald Trump's claims about alleged fraud involving mail-in absentee ballots."
     publishedDateTime: 2020-11-06T00:33:00Z

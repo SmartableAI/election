@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27K0MF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27K0MF"
 type: article
 quality: 134
-heat: 614
+heat: 634
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GRHKMRQZ7UI6XC62QFGKK3QTRM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "ABC, CBS, and NBC cut away from Trump's White House address riddled with unfounded accusations about the 2020 election"
+    excerpt: "President Donald Trump, at the White House, made an unfounded accusation that the election was being stolen from him. ABC, CBS, and NBC cut away."
+    publishedDateTime: 2020-11-06T03:09:00Z
+    webUrl: "https://www.businessinsider.com/networks-cut-away-from-trumps-white-house-address-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/networks-cut-away-from-trumps-white-house-address-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/networks-cut-away-from-trumps-white-house-address-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fa4b8fdf7d1cb0019e3a23d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process"
     excerpt: "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters."

@@ -27,49 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "EXPLAINER: Why AP called Virginia for Biden"
-    excerpt: "The AP declared Joe Biden the winner of Virginia after results from early returns and an AP survey of the electorate showed the former vice president had beaten President Donald Trump in the state"
-    publishedDateTime: 2020-11-04T13:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/explainer-ap-called-virginia-biden-74008179"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-virginia-biden-74008179"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-virginia-biden-74008179"
+  - title: "Lizzo dresses as fly in Mike Pence's hair for Halloween"
+    excerpt: "Lizzo used Halloween to troll Vice President Pence, dressing up as the highly buzzed-about fly that landed on his head during the vice presidential debate while encouraging her fans to vote."
+    publishedDateTime: 2020-10-31T18:55:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://thehill.com/sites/default/files/lizzo_instagram_10312020.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
-    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
-    publishedDateTime: 2020-11-03T20:31:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
+  - title: "Lizzo encourages fans to vote while dressed as Mike Pence's debate fly for Halloween"
+    excerpt: "Leave it to Lizzo to win Halloween. The Houston-raised music star had a hilarious Halloween costume of choice just ahead of Tuesday's highly anticipated election. Remember the fly that generated all the buzz after making itself comfortable on top of Mike Pence's head at the vice presidential debate in October?"
+    publishedDateTime: 2020-11-02T17:27:00Z
+    webUrl: "https://www.chron.com/entertainment/article/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php"
+    ampWebUrl: "https://www.chron.com/entertainment/amp/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/lizzo-halloween-costume-fly-mike-pence-instagram-15693634.php"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 108
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 68
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
-        width: 818
-        height: 545
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "EXPLAINER: Why AP called Michigan for Biden"
-    excerpt: "WHY AP CALLED MICHIGAN FOR BIDEN:"
-    publishedDateTime: 2020-11-05T00:57:00Z
-    webUrl: "https://www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11?amp"
+  - title: "VP Mike Pence to make 2 campaign stops in North Carolina on Halloween"
+    excerpt: "Vice President Mike Pence is set to return to North Carolina on Saturday for two campaign stops, just three days before Election Day, WTVD reported."
+    publishedDateTime: 2020-10-30T06:04:00Z
+    webUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-make-2-campaign-stops-north-carolina-halloween/FGNHNKGYWNF6VFKP6HM42DXAHY/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
+    images:
+      - url: "https://www.wsoctv.com/resizer/pXusisgI-i7o4r9ZDOxKtDRJ0cQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/AV3ZLYO4QE6NNM2EBGO6L6GALM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "4T2gAQBL5z/pR3IC7AN5h7ItG9LNXF4mf28HS0Jv8Fjf8JMVjvjvkfGcfBhvypVPtrpyHeShhl2j1wrxZ8HWVYvGDbcrMZInWjOjybYpsoq9xFxIJVdwdCnFPdlHGBCOG1NHjZmLcfwbOUpl7JRjFs6yUPRvxHvrGkeoApF5SNGVn9ZFrDFDJyIjLyFVtxPU6FichyWSimXF9GE8tm8RivSe7jP7bU0NgdkEYrPsDHOJfYGLX76y/AHPVONuQsVcXfRO8Xqw6gfy2/ClW0drpZ+Tx8jGvA4COIqgtWpMXOHLPsGRFlaFhVfvyQTEEo6u54ObAlG6ALbXTZ3otm8axTh75A57QruLUBStBtFrUQL3JN1iCaQU5HifaO/EOHk/eZjxcBtBkfrGOKABm63SmAn/3Mpq529CrA2Ygq0VtItajOkArP2DPJIZLALUy4iupSP4qGhu/YjyASIaAW/iNxDyNd103WRY1zgrvgb9dkrdOUX2w6K/kOgFtztvYDiniG6l9AWXp4ImMMKeASDTBA==;66vYIco6Cc1Hwpk4udlZog=="
 ---

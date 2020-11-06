@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feel
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp"
 type: article
 quality: 161
-heat: 201
+heat: 221
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ice-Cube1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Former Trump Campaign Staffer: \"Father, Forgive Me\" For I Believed Him In His Con"
+    excerpt: "Former Trump campaign official Jessica Denson is now backing former Vice President Joe Biden for president, calling the Trump campaign a \"vile, self-serving branding exercise\" for Trump and his family."
+    publishedDateTime: 2020-10-29T11:42:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/29/former_trump_campaign_staffer_father_forgive_me_for_i_believed_him_in_his_con.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/52/525517.jpg"
+        width: 1068
+        height: 800
         isCached: true
 
 secured: "ZRmRiiOgo0fzRWFmZTQgy6oUBlSwIXhjpwxtNUt78MueyEqWb1XUXdumOYd5z/gMBUGgFMQcnwJQ+fuukON8WhN9iwNBRmBy1ayZLnvDsXNQR6rE3SyZwqN1Sh0qDfCexLhwcbCXKanTwbOJBVw58g+tTKyMg6ZAo0gWTjeVfrRkfWTZ5lsA5Ilbj7De8/U8dKCGLgopBgzMq0uuw0Q9C+EPil3LatKK3sNSSzGrk8FCM5A3SYsqdJp0hdMnLtJUYyBvbAFzgQ+J2eh0LpA+AvmO5FyZpYwBWJ5CbIw1HcbxzzvbAJFPKR2OkfftNRizkwnENjx0E2k4quzbl829/LH0oRn6yiYm1NGQs6t0jdk=;DNC/dH5unrj4CCgBMfjCkQ=="

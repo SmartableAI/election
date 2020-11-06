@@ -285,6 +285,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Celebrities react to Trump's election update"
+    excerpt: "Chris Evans, Mark Ruffalo and more stars took to social media to slam Trump's address as the 2020 presidential election continues."
+    publishedDateTime: 2020-11-06T02:43:00Z
+    webUrl: "https://www.foxnews.com/entertainment/celebrities-react-trump-election-update"
+    ampWebUrl: "https://www.foxnews.com/entertainment/celebrities-react-trump-election-update.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/celebrities-react-trump-election-update.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Chris-Evans-Mark-Ruffalo-Patricia-Arquette.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "What in the World if Trump Wins?"
     excerpt: "In a second term, expect more chaotic, confident wheeling and dealing overseas."
     publishedDateTime: 2020-10-26T22:00:00Z
