@@ -191,6 +191,20 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Vice President Mike Pence responds: I stand with President Donald Trump"
+    excerpt: "Vice President Mike Pence was not with President Donald Trump during his press conference this afternoon. He later tweeted he stands with the president and that we must count every legal vote. Eamon Javers joins Shep Smith to talk about the various responses from members of the Republican Party in support of President Trump."
+    publishedDateTime: 2020-11-06T01:48:00Z
+    webUrl: "https://www.cnbc.com/video/2020/11/05/vice-president-mike-pence-responds-i-stand-with-president-donald-trump.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 120
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106783180-16046249101604624906-12295478233-1080pnbcnews.jpg?v=1604624909"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
     excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
     publishedDateTime: 2020-10-29T14:50:00Z
@@ -379,6 +393,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "1Olo3+2oRN6+kLQUmfn3YwCMl/GDDfsc4Rnj+VXO827rsYaC+zts7Lo3l6wPU7/XxN/mU80rJCgNX4LqbXuRMNjk/g7UDiQL+s+T2A6C8+rm9fGC2femRizEZgqOmcaEB74wqzFiTgWrnDYx4EGEBXxxzsqzcst9g++O9DqV0xWaW5nLTZ25JHbaf/g2ydu2L4P+vZmS93BazdCxEAG5cIPnf2CgPckggW1Jsp2rjPhf3IaH+EQxVZZMaIt9kyxopPCJoXwr7v9xiN4v0P6xHOgC0y0qVmytudettvz4fA4kkLIDM4O0wzQvlmagCBlOUmeK307/eeichAl8Vl2I/qtNHcjAcp0lGqN03AA5kSw=;HNAHb4alEtfWHnK0GLm3cA=="
+secured: "W2FuqDg8dTWVMsm4XCJfinORswYgVvIXdfHAcD12RDEPdm+E+j+EL/gTSWH8zLN+P2khD7s+E4nE5yGLRDrLhjBw8jsc2uEC3H+MwrH4n0IDqVP97jdu5D1DAPfWScr6DCHxUxib/9Y/Xx7KvocYBvAJBTXxeS6/4cHq+OBJ80TTV3i9i84rUjA53uPBn9/pRT8GwgHcAfHicQCOCW/eYA7XvzTWO8Cv8MhtN36MzxX2PJVNRddPwxY1xwq30rvP9pWGnI5hgTpGI296VU+WbDvtPVb8dlf9xonFv6RjwfgMgqWjq2Ta6BIKOzOn1Mjo25+CqNcrHwKJlefHT4PfB/uKnJI9uMlCg5qIe8/DokbupAkyIdSWJ4dkbUhdMcTDoI2QjD/OaMd0U+sgiH0mFltEKKn+Updp+HLo15HxF1Si6VCyQ4llTHvvZ4dHyrXqRP+1uWeTqdNbHtERY27+oayAMSJOLVMHLfdOzD65eUdRmboCO7apaVjA5mXBWmRQYkGQQABw+FRqd9GaTWAJZQ==;bIVx1wReM1CvGhHyEfKhHw=="
 ---
 

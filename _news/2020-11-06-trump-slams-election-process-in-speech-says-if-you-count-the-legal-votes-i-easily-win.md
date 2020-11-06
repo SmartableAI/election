@@ -255,6 +255,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Observers say no evidence for Trump's fraud claims"
+    excerpt: "The head of an international delegation monitoring the U.S. elections said on Thursday his team has no evidence to support President Donald Trump's claims about alleged fraud involving mail-in absentee ballots."
+    publishedDateTime: 2020-11-06T00:33:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/06/observers-say-no-evidence-trumps-fraud-claims/6182126002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3ab6d23d-8f6d-43f9-805c-30c23f2cfed2_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
     excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
     publishedDateTime: 2020-11-05T05:50:00Z
@@ -310,6 +324,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Pence, absent from Trump's press conference, tweets his support from afar"
+    excerpt: "Vice President Mike Pence wasn't at President Trump's White House press conference on Thursday evening, but he approved of his message. Trump made multiple baseless claims about the election, including that Democrats are trying to \"steal the election from us."
+    publishedDateTime: 2020-11-06T02:05:00Z
+    webUrl: "https://theweek.com/speedreads/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 89
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229449886.jpg?itok=YK9SWsij"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Official Vote Count Continues Nationwide as Donald Trump Falsely Claims a Win From The White House"
     excerpt: "The Associated Press has not yet projected a winner of the race and states will not complete their exhaustive counts for several days."
     publishedDateTime: 2020-11-04T08:46:00Z
@@ -357,6 +387,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "OqUG5/6gYZv/qDBDRsKltJc0oYGojgoxaOX8ntkTI74j9NugqyK5RYbOzRIZKsEfrtdhHgTdqABMgFgaKhhXwFsrgl9iqUv401WEfP12nB9hvsL3vnGhbIKt42p89YnfhVDwCb7QDW/3EoEdmkDu38TrTIjqJXdKJXv/NQD0WS4fqGCOrVhli3iC2zdk+6cKQlINc3C99aIEmccEa58YwHBtZMfaAYqRPWT+X9pR8w0UwivGA3Qr7pp890Stpnz9gRmDCP7aa+1It9RmKKq8AGMeEHwfsi6zit4fSTfsM6ZZfV7WlFRvW5YvrBWVDXUnTsd05fSGzwwWaZF8cex2lA531PezCWYkO+pFZU1dkBM=;ogPCWn9HNsmUK2FwRrTnDw=="
+secured: "OP4T259ff7XMFqdH197aIxTvFt/5ogu00GqvKYDmIdwlj8fc0wY1Hp6d6nMktEOKsaC8qssP71KwK9ucfD/rST46fNeeWpWyBvAuwb3V89gHv83A5DhG4S7fjHd8TUeaEYc5i4n7eCpgJgEJkWyzsmYBEQa5Xg8OV3ex7dWTEm0NGBkE00EOya1nmb+7B+ozGDzzdHRuiWU9e+bJKemY9gQytiJLsHHjuD1NG99ayto/bpLOQbUbhOYCcfIXeIeYQ50lBSU6rSnkffDUDOzPkjFmQQv8oDnuOaLXDkykJV0h+SAGd+I2BMfbVpMwpStSf9soVJJhLEaKIgu1IFJFElEHYJFB9nMY7r0ngrVlbTOI8bkU6j/yBCYTOrE//Ut3dP1r5qY5DYRQvzHCVMp1+7tnCJ1mNG+qeNZqSZto5GIfHy4GVkO+HXjfCM00bVogX3JhYraBK5033S7+2JUGMEmipWJiX8G03zpjcDDHwOr5Qyp4uDFNkiXQ7U8ZoU7XFWvQQetvt+EGvYfPpe0BOA==;RTcDP9Q69TpWqEwbkKoL1g=="
 ---
 

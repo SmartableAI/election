@@ -2,11 +2,11 @@
 category: news
 title: "Harris’s ancestral village in India gets festive as Biden leads count"
 excerpt: "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House."
-publishedDateTime: 2020-11-05T08:52:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU"
-webUrl: "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0XU"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0XU"
+publishedDateTime: 2020-11-05T13:21:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-india-harris-idUKKBN27L0WC"
+webUrl: "https://www.reuters.com/article/uk-usa-election-india-harris-idUKKBN27L0WC"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27L0WC"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27L0WC"
 type: article
 quality: 150
 heat: 1490
@@ -952,6 +952,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "/mTDRWE43fcO6FRWY4lebAiII7lV7QLQrFp/lGoxsog5+FP+R1iyZeBxiwx89wuhaaqw8KzWq/Rv5AiORx0pqLGP2WPJp5y2bzCqaCaVh8Fy94hXlTYIpvdmfdsguVRTpfdXAVUdixP9964F7eHURXZz7bNRM8DHsakqx0+SUq5/QaKmdtCBhVziEV477KZGgVceX1iZe15Wl73dS1siIFBTNTnqhn/p1phKnZhkxxFCFhdtQhga+WADO+h8Yo6vcApJLlyJJOAbfnp4AsyeIuCgRDHL3KakY7XSNM60Oh7Q5l8jPZIvWadIdfYtnoF0/T9YPQ+NakElq0w4mezDU0CBM9HEZrIlg2C1Lp4MTss=;RLkIhh0qlnX9lEMCSjUuNQ=="
+secured: "GgsRPZAPCm0on2m/z2ilZDXFnHUQti06U04ubib2AEyhTdCvF5JjARyA7PdwkcRVJpcY+JiUlVZbP9N6BskTKTvOuKgIxC0+oIIDCrAvZ8QMwpYqb/QcPzQY83SkITwJ/F0eTSnx+BSvy9VfBr4Zq2b5Hn+QzaqWwPFd146fpOi0IfSGTtvRkdZPsX3AXKimtxY2miecf2qOoiq2F+bkuMZLG7FNfkU8lLh6vX9H/4YQvLYXbTSeWinMW/rYRNBCNRU+OyML9iFLdoamQOTSrFRKH3dqjKNKzkZmLfWMwy+lslSvEo97VDRtFEugwdt8/dio9oFoGBLlxTLv1Dc+xLX5t+HDfb3ew+WWvs70bSs=;UW+WUauV1LPiCNF6K4CmBg=="
 ---
 

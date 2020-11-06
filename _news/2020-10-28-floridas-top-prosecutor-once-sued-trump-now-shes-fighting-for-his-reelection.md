@@ -110,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Flashbacks to Florida in 2000 as Trump Heads to Court to Save His Presidency"
+    excerpt: "While the White House seeks a “James Baker-like” figure to lead its postelection legal battle, the real James Baker says President Trump should not try to stop votes from being counted."
+    publishedDateTime: 2020-11-06T00:29:00Z
+    webUrl: "https://www.nytimes.com/2020/11/05/us/politics/trump-james-baker.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/05/us/politics/trump-james-baker.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/us/politics/trump-james-baker.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/us/politics/05dc-memo-1/merlin_179623941_cf890284-7530-47fe-81c5-0ccc173c4eef-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Bloomberg knocks Trump back on his heels in Florida"
     excerpt: "The former New York City mayor’s spending is forcing the president to dig deep in the key swing state and enabling the Biden campaign to spend ad dollars elsewhere."
     publishedDateTime: 2020-10-20T23:12:00Z

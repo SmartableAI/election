@@ -383,6 +383,22 @@ related:
         width: 833
         height: 545
         isCached: true
+  - title: "Biden edges closer to win as Trump launches lawsuits and rages about 'fraud'"
+    excerpt: "Democrat Joe Biden crept nearer to victory over Donald Trump on Thursday in an exceedingly close U.S. election that hinged on razor-thin margins in a handful of states, while the Republican president escalated his legal efforts hoping to slow down his opponent."
+    publishedDateTime: 2020-11-06T01:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/us-vote-count-edges-biden-closer-to-win-as-trump-mounts-legal-challenges-idUSKBN27J0FZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0VI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0VI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540189173&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA500C"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump defends Texas drivers who swarmed Biden bus on highway; FBI investigating"
     excerpt: "According to the Biden campaign, the vehicles surrounded the bus trying to slow it down in the middle of the highway or run it off the road."
     publishedDateTime: 2020-11-03T15:11:00Z
@@ -446,6 +462,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540144647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41ES"
         width: 1119
         height: 545
+        isCached: true
+  - title: "Did Joe Biden or Donald Trump win the election? This is how Facebook will tell you who the next president is"
+    excerpt: "Facebook will alert U.S. users to the winner of the presidential election at the top of Facebook and Instagram feeds as Joe Biden closes in on win."
+    publishedDateTime: 2020-11-06T01:57:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/11/05/facebook-who-won-election-next-president-joe-biden-donald-trump/6182619002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6182619002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182619002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/06/USAT/79b0e6a3-0e9d-458b-8ae1-046937584102-facebook_president_win.jpg?auto=webp&crop=1279,720,x0,y117&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Election live updates: Donald Trump says he's not nervous: 'I've been here before'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden are in the home stretch of this campaign with just hours to go before Election Day."

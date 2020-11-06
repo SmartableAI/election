@@ -151,6 +151,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden urges calm: 'In America, the vote is sacred' – video"
+    excerpt: "Speaking at the Queen Theater in Wilmington, Delaware, the Democratic nominee also noted the country is nearing 240,000 deaths from Covid-19 and expressed sympathy for Americans who had lost loved one"
+    publishedDateTime: 2020-11-05T22:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/05/us-election-joe-biden-urges-calm-in-america-the-vote-is-sacred-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/9142dafc77dd950484bb58226b8c3538659c105a/0_27_3345_2007/master/3345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2359d5223ac0027762ca04de6d5cebf"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Here’s What We Know About Joe Biden’s COVID-19 Plan"
     excerpt: "Biden gave a speech on his COVID-19 plan on Oct. 23, and he and running mate Senator Kamala Harris have circulated a seven-point plan for “beat [ing] COVID-19 and get [ting] our country back on track."
     publishedDateTime: 2020-10-30T18:25:00Z

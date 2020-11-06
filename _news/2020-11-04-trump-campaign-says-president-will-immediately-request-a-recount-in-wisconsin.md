@@ -239,6 +239,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump Campaign Says It Plans Another Lawsuit Over Ballots, This One in Nevada"
+    excerpt: "President Trump's campaign said it plans to file a new lawsuit over election results, this one challenging thousands of ballots in the battleground state of Nevada. The federal lawsuit, which on Thursday morning didn't appear to have yet been filed,"
+    publishedDateTime: 2020-11-06T02:36:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/sB1uB8cxLZykF1fTcKj6"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 112
+    images:
+      - url: "https://images.wsj.net/im-255561?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "0QwW1aAFRJkMNs8ecTJfmCVevsmWZ9omdfVhF+fYOcAXZ21pH+jBCqA+RYytZ5PtRFEU4JqHXTcaLhka99BarGLm2XUJMa2AvSxTQDeIWeBmIIRIxY8Y5tgXMHggSZwJkouJSb0mtQxnUPZlKm+kuy7QqQEq+k3YzpqWgGgY+ORiKc3XXgSbwRuhNdNdJQuq56ki4Dx4pcHSN5V5AOgM7j+yu+4yqjWG+qQcl0o4QAqfVP+R865fZD61GkwhGI5YygO1+DTwoyTEVWjiwYoztSF+Pv4CL8Z6YYWbzHad9YZeDDN5P5vzsEoCBhzo/gwwHjbWeEBGrod/XsrIUu4FLyTQ+3Z5A1KP+NQgYxLA0l4=;WBdS/ocRXUHM6OSgagTTMA=="
 ---

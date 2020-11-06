@@ -63,6 +63,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
+    excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
+    publishedDateTime: 2020-11-06T01:06:00Z
+    webUrl: "https://www.cnbc.com/video/2020/11/05/uvas-larry-sabato-trend-is-very-favorable-to-joe-biden-in-pennsylvania.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106783131-UVAs-Larry-Sabato-Trend-is-very-favorable-to-Joe-Biden-in-Pennsylvania--jpg?v=1604623237"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
     publishedDateTime: 2020-10-06T16:33:00Z

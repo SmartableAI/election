@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-06-officials-say-defense-secretary-mark-esper-is-prepared-for-possibility-trump-may-fire-him.md",
+      "title": "Officials say Defense Secretary Mark Esper is prepared for possibility Trump may fire him",
+      "excerpt": "Defense Secretary Mark Esper is attempting to fashion a graceful exit from office if President Donald Trump decides to fire him regardless of the result of the presidential election, according to several defense sources, including one senior defense official.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YWH3qf4boWA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YWH3qf4boWA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200714171734-02-mark-esper-0709-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/05/politics/mark-esper-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/mark-esper-trump/index.html",
+      "publishedDateTime": "2020-11-05T17:55:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-trump-touts-gains-with-minorities-and-women-were-the-party-of-inclusion.md",
+      "title": "Trump touts gains with minorities and women: 'We're the party of inclusion'",
+      "excerpt": "President Trump touting his party’s gains with women and minorities, declared the Republican Party the “party of inclusion” in a news conference Thursday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2655c9-ae5d-4607-94a3-33e61a24b66c/648337d5-952b-4c9a-8f58-2469df653a0f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-party-of-inclusion.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-party-of-inclusion.amp",
+      "publishedDateTime": "2020-11-05T16:56:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.md",
+      "title": "Another lawsuit seeks to halt voter certification in Detroit after Michigan election goes to Joe Biden",
+      "excerpt": "A second lawsuit has been filed over the absentee vote counting process in Detroit. Sarah Stoddard, a Republican election challenger, along with the Bloomfield Hills-based Election Integrity Fund, filed the lawsuit against the Detroit Election Commission in Wayne County Circuit Court on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html",
+      "originalUrl": "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EMMREBRGVFFF5DQ3EI4YGNJCPM.JPG",
+          "width": 1300,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html?outputType=amp",
+      "publishedDateTime": "2020-11-05T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-americans-largely-reject-trumps-victory-declaration-reutersipsos-poll.md",
       "title": "Americans largely reject Trump's victory declaration: Reuters/Ipsos poll",
       "excerpt": "A bipartisan majority of Americans do not accept President Donald Trump's premature victory declaration in the U.S. presidential election and most are willing to wait for all votes to be counted before deciding who won,",
@@ -174,7 +329,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 451,
+      "heat": 471,
       "tags": null,
       "images": [
         {
@@ -382,6 +537,59 @@
       ]
     },
     {
+      "path": "_news/2020-11-05-harriss-ancestral-village-in-india-gets-festive-as-biden-leads-count.md",
+      "title": "Harris’s ancestral village in India gets festive as Biden leads count",
+      "excerpt": "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-election-india-harris-idUKKBN27L0WC",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-election-india-harris-idUKKBN27L0WC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1490,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540086781&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA40LF",
+          "width": 782,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27L0WC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27L0WC",
+      "publishedDateTime": "2020-11-05T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-latino-vote-cant-be-ignored-anymore-after-trumps-projected-win-in-florida.md",
       "title": "Latino vote \"can't be ignored anymore\" after Trump's projected win in Florida",
       "excerpt": "Among the biggest factors in his Sunshine State victory were Latinos — not just Cuban Americans — who came out in support of the president.",
@@ -431,59 +639,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-harriss-ancestral-village-in-india-gets-festive-as-biden-leads-count.md",
-      "title": "Harris’s ancestral village in India gets festive as Biden leads count",
-      "excerpt": "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1490,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540086781&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA40LF",
-          "width": 782,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27L0XU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0XU",
-      "publishedDateTime": "2020-11-05T00:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
       ]
     },
     {
@@ -1190,158 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-kamala-harris-on-being-told-its-not-your-time-in-her-career-i-eat-no-for-breakfast.md",
-      "title": "Kamala Harris on being told 'it's not your time' in her career: 'I eat 'no' for breakfast'",
-      "excerpt": "Democratic vice presidential nominee Kamala Harris opens up about her advice to women and how she overcomes naysayers in her career.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
-      "originalUrl": "https://www.cnbc.com/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106750965-1603132353868-gettyimages-1229170430-2911140600.jpeg?v=1603132387",
-          "width": 3071,
-          "height": 2065,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
-      "publishedDateTime": "2020-11-04T09:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps.md",
-      "title": "Trump claims he lost lead in several states due to ‘ballot dumps’",
-      "excerpt": "President Trump on Wednesday claimed that “ballot dumps” were tallied in some Democrat-run states costing him his advantage over Joe Biden. “Last night I was leading, often",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/",
-      "originalUrl": "https://nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-ballot-dumps.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/amp/",
-      "publishedDateTime": "2020-11-04T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-biden-back-as-favorite-to-win-us-election-smarkets.md",
-      "title": "Biden back as favorite to win U.S. election: Smarkets",
-      "excerpt": "Democratic presidential candidate Joe Biden was back as favorite to win U.S. elections in online betting markets, according to Britain-based Smarkets Exchange, a reversal of fortune for President Donald Trump who was favorite overnight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-odds-biden-idUSKBN27K1DJ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-odds-biden-idUSKBN27K1DJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 320,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539963074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30TI",
-          "width": 861,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ",
-      "publishedDateTime": "2020-11-04T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

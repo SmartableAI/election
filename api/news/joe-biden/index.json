@@ -2,12 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-06-another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.md",
+      "title": "Another lawsuit seeks to halt voter certification in Detroit after Michigan election goes to Joe Biden",
+      "excerpt": "A second lawsuit has been filed over the absentee vote counting process in Detroit. Sarah Stoddard, a Republican election challenger, along with the Bloomfield Hills-based Election Integrity Fund, filed the lawsuit against the Detroit Election Commission in Wayne County Circuit Court on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html",
+      "originalUrl": "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EMMREBRGVFFF5DQ3EI4YGNJCPM.JPG",
+          "width": 1300,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html?outputType=amp",
+      "publishedDateTime": "2020-11-05T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-harriss-ancestral-village-in-india-gets-festive-as-biden-leads-count.md",
       "title": "Harris’s ancestral village in India gets festive as Biden leads count",
       "excerpt": "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU",
+      "webUrl": "https://www.reuters.com/article/uk-usa-election-india-harris-idUKKBN27L0WC",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-election-india-harris-idUKKBN27L0WC",
       "featuredContent": null,
       "highlight": null,
       "heat": 1490,
@@ -24,9 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27L0XU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0XU",
-      "publishedDateTime": "2020-11-05T00:52:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27L0WC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27L0WC",
+      "publishedDateTime": "2020-11-05T05:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -589,7 +632,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-trump-set-spend-election-night-white-house-73970437",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -963,7 +1006,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1527,63 +1570,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-civil-rights-attorney-leo-terrell-biden-has-done-nothing-for-black-community-other-than-insulting-them.md",
-      "title": "Civil rights attorney Leo Terrell: Biden has done nothing for Black community 'other than insulting' them",
-      "excerpt": "Civil rights attorney Leo Terrell rips 2020 Democratic nominee Joe Biden for his failure to address issues impacting the Black community during his 36-year career in the United States Senate on his new Fox Nation show \"Larry & Leo 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america",
-      "originalUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbf6717b-c334-4068-a87d-aad633c8e263/15d85389-9135-4ac2-b213-64434dd48029/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america.amp",
-      "publishedDateTime": "2020-10-26T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -1179,6 +1179,20 @@ related:
         width: 1200
         height: 777
         isCached: true
+  - title: "Legal problems galore await Donald Trump if he loses reelection and his presidential immunity"
+    excerpt: "President Trump, his campaign, and his business already face legal scrutiny. Things could get much worse if he loses the White House and its immunity from prosecution."
+    publishedDateTime: 2020-11-06T02:27:00Z
+    webUrl: "https://www.businessinsider.com/trump-legal-troubles-possible-indictment-doj-mueller-new-york-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5fa498a21df1d5001821933b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Experts: Trump should rest more after COVID"
     excerpt: "Two Houston doctors that have treated hundreds of people suffering from COVID-19 say they'd keep a patient with President Donald Trump's age and physiology in the hospital for at least a week. (Oct. 7"
     publishedDateTime: 2020-10-07T19:10:00Z

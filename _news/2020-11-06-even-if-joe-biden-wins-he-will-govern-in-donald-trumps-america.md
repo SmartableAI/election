@@ -4147,6 +4147,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump falsely claims fraud as Biden eyes victory"
+    excerpt: "NFA] Democrat Joe Biden crept nearer to victory over Donald Trump on Thursday in an exceedingly close U.S. election that hinged on razor-thin margins in a handful of states, while the Republican president escalated his legal efforts to influence vote counting and made fresh unsubstantiated claims of voting fraud."
+    publishedDateTime: 2020-11-06T01:24:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP7bi?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa4a36ee4b04f7ff7c2c0d9-1604625262842?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z

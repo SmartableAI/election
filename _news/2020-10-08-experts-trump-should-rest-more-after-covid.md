@@ -1177,6 +1177,20 @@ related:
         width: 1200
         height: 777
         isCached: true
+  - title: "Legal problems galore await Donald Trump if he loses reelection and his presidential immunity"
+    excerpt: "President Trump, his campaign, and his business already face legal scrutiny. Things could get much worse if he loses the White House and its immunity from prosecution."
+    publishedDateTime: 2020-11-06T02:27:00Z
+    webUrl: "https://www.businessinsider.com/trump-legal-troubles-possible-indictment-doj-mueller-new-york-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5fa498a21df1d5001821933b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump to resume campaigning; second debate canceled"
     excerpt: "U.S. President Donald Trump will resume in-person campaigning on Saturday after being sidelined by a case of COVID-19, but a debate next week against his presidential election opponent Joe Biden was canceled because Trump refused to participate."
     publishedDateTime: 2020-10-10T08:17:00Z

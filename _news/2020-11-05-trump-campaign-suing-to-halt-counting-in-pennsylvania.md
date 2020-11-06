@@ -201,6 +201,20 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Vice President Mike Pence responds: I stand with President Donald Trump"
+    excerpt: "Vice President Mike Pence was not with President Donald Trump during his press conference this afternoon. He later tweeted he stands with the president and that we must count every legal vote. Eamon Javers joins Shep Smith to talk about the various responses from members of the Republican Party in support of President Trump."
+    publishedDateTime: 2020-11-06T01:48:00Z
+    webUrl: "https://www.cnbc.com/video/2020/11/05/vice-president-mike-pence-responds-i-stand-with-president-donald-trump.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 120
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106783180-16046249101604624906-12295478233-1080pnbcnews.jpg?v=1604624909"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
     excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
     publishedDateTime: 2020-10-29T14:50:00Z

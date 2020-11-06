@@ -4163,6 +4163,20 @@ related:
         width: 550
         height: 367
         isCached: true
+  - title: "Trump falsely claims fraud as Biden eyes victory"
+    excerpt: "NFA] Democrat Joe Biden crept nearer to victory over Donald Trump on Thursday in an exceedingly close U.S. election that hinged on razor-thin margins in a handful of states, while the Republican president escalated his legal efforts to influence vote counting and made fresh unsubstantiated claims of voting fraud."
+    publishedDateTime: 2020-11-06T01:24:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP7bi?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa4a36ee4b04f7ff7c2c0d9-1604625262842?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pollster Frank Luntz: If Trump defies polls again in 2020, 'my profession is done'"
     excerpt: "Pollster Frank Luntz told Fox News on Thursday night that poll predictions are wrong about the 2020 election between President Trump and former Vice President Joe Biden, his \"profession is done\" in terms of faith and confidence from the public."
     publishedDateTime: 2020-10-23T13:03:00Z

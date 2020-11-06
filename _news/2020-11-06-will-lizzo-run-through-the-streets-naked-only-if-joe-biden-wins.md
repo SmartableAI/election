@@ -147,6 +147,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden urges calm: 'In America, the vote is sacred' – video"
+    excerpt: "Speaking at the Queen Theater in Wilmington, Delaware, the Democratic nominee also noted the country is nearing 240,000 deaths from Covid-19 and expressed sympathy for Americans who had lost loved one"
+    publishedDateTime: 2020-11-05T22:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/05/us-election-joe-biden-urges-calm-in-america-the-vote-is-sacred-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/9142dafc77dd950484bb58226b8c3538659c105a/0_27_3345_2007/master/3345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2359d5223ac0027762ca04de6d5cebf"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
     excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
     publishedDateTime: 2020-10-28T04:13:00Z
@@ -223,6 +237,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "hVVmzkKT+/1fFxhZYJQf/YS84cuzQIVu73ioiXvvhCL5gEk7O43gelCKLhp8Tv4yJyi7BlprXisyuUM4UQd01o2Qua4v47GmkYp9YdeOia9rzX1tE8WMqvmLg2t/EKWAHiydPm6xZoeKCHTRo3/iu6RJIJaB+o7F9lOD3AiYfyLIwwbHIALN1HF+XF19vp4twfSfl8ihMPjUOWlwzD+jv2uc/Vj4y+BfnqFioeiNucnKsQNDlOJAS4hF6REjkgZL40ydTkknB6w9Mjl9+HGgs34Ea59r4xF4jeMxEby+LAutGo0O8bicF3BXK9anBkc4/m7ozixkpMCES6MgYFGpEiUDxnm7O29BkndVSIow5KM=;H3Qsj80ypgyZ5ZvAWt97Zg=="
+secured: "JpisJ+Zw4hJYaoHLbwWkX4h/8TuA19zl4oRYc2atgPDw4rus2clhQYW3I7LLx6S/s7yGhlDL0GxF4XjY3qx3vuZ/Ppq/Pbz1Qqt0gQGV52JNH5yl9wl5EtNA1w7ukwJOQkHIHH2Mq4SoBJ489z7QfC6mDs1YicI2w1LezyLQvw0bq+o5nst5HjWNPbpaDSrE7DTrRZWzkGwjZwGHQvNNbvL2FHis+32f2NNORbzBCmpAnKoES9Dn+WJ1Vi5uvUH75SUVAWMp2/AjiRycn+7S5t1qQl62rMOpX78igDNr4r/izMBuW+tL5zncRJICVgax9R0dw6tF9H8WTw3oBwa3v07XMg+DJkt9DkiapKD3xuQUJyCnK+0oMR6yUZ6iYHjCJc3kTDNR2P9pg2NLVKphQ138IRRC2RgCStqzGM6Q5Fo6kUHszrl87sl9N2mlbW0arVYbPeXmiclbc4jOb/N/7BexiUoMeZY3wc2tXc6UjVtWFNCavZfN/ywKiXAiHe2K7++7nZs//oYZnkdcebH8Kg==;OD8l9P9L3AuZGAW/ahmnHw=="
 ---
 

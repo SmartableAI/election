@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-vows-to-challenge-biden-wins-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vows-to-challenge-biden-wins-in-swing-states-we-will-win.amp"
 type: article
 quality: 190
-heat: 451
+heat: 471
 published: true
 
 provider:
@@ -238,6 +238,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/08731db9-Nancy-Pelosi.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump Campaign Says It Plans Another Lawsuit Over Ballots, This One in Nevada"
+    excerpt: "President Trump's campaign said it plans to file a new lawsuit over election results, this one challenging thousands of ballots in the battleground state of Nevada. The federal lawsuit, which on Thursday morning didn't appear to have yet been filed,"
+    publishedDateTime: 2020-11-06T02:36:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/sB1uB8cxLZykF1fTcKj6"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 112
+    images:
+      - url: "https://images.wsj.net/im-255561?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "vRCv9/7EP6RL46L1RRt+A3CeQ0t4vQrC6AFKfSlZ8wk9eHD1oakFt3Ox3LPq450FFCDhJO99Ss8b+fa3RwZ2OZwganYWGtdJM/l2fy1hkGyFCcb3fImDA6AAJdZhmJdKbPllWIJzq/7owoAjLYnOxRtXIgQUn5LeVXZa7bByB7rujUJAsy2ueHGk9CTZMzS+CS6Qp4u5aSeEUdMIfRRQWMHmXQE74Hub1ZUi3iOzzrheyYXvwhQuyPY/WHP3/H9yYrYWH+6I16vg8RuRVyGdxdbA4FLcO70vo7mStrqwA6utWwzBt7G2DPnkD0/qJxOU39F/2aSFxqT6bpWge88qJr0VTf4ZmoBl7dFB0zWwuQg=;Zmy+3qenFMGL56R7pbSvDQ=="

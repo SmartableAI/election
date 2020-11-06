@@ -31,10 +31,10 @@ images:
 related:
   - title: "Harris’s ancestral village in India gets festive as Biden leads count"
     excerpt: "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House."
-    publishedDateTime: 2020-11-05T08:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0XU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0XU"
+    publishedDateTime: 2020-11-05T13:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-india-harris-idUKKBN27L0WC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27L0WC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27L0WC"
     type: article
     provider:
       name: Reuters

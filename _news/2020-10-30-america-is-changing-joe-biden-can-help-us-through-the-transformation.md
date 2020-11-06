@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07548748_1604525947.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden urges calm: 'In America, the vote is sacred' – video"
+    excerpt: "Speaking at the Queen Theater in Wilmington, Delaware, the Democratic nominee also noted the country is nearing 240,000 deaths from Covid-19 and expressed sympathy for Americans who had lost loved one"
+    publishedDateTime: 2020-11-05T22:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/05/us-election-joe-biden-urges-calm-in-america-the-vote-is-sacred-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/9142dafc77dd950484bb58226b8c3538659c105a/0_27_3345_2007/master/3345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2359d5223ac0027762ca04de6d5cebf"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
     excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."

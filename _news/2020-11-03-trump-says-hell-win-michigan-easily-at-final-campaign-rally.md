@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump claims Dems are trying to 'steal' election, says he'll win if 'legal votes' are counted"
+    excerpt: "A defiant President Trump on Thursday said he and his campaign will “not allow corruption to steal” the election during a press conference at the White House, while maintaing that he will win the 2020 presidential race despite a dwindling path toward reelection as votes continue to come in."
+    publishedDateTime: 2020-11-06T01:33:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VfttQGQmhPQ/trump-says-he-will-win-if-legal-votes-are-counted-says-dems-are-trying-to-steal-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-will-win-if-legal-votes-are-counted-says-dems-are-trying-to-steal-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-will-win-if-legal-votes-are-counted-says-dems-are-trying-to-steal-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pennsylvania AG dismisses Trump, says he could 'care less' what president says on election night"
     excerpt: "President Trump has been criticizing states that have extended deadlines for accepting ballots beyond Election Day, saying that the country should have a result by Tuesday night. Pennsylvania Attorney General Josh Shapiro, however, says his state will make sure that every ballot is counted, regardless"
     publishedDateTime: 2020-11-02T16:29:40Z
@@ -332,6 +348,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5710a1ac-db7a-49d3-a506-14afea4ee0a5/42e2636e-cea3-4feb-934a-e956db5e7c88/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Republicans Hold Top Election Roles in Some States Trump Says Are Skewing Counts"
+    excerpt: "President Trump complained during his Thursday press conference that vote-counting in the outstanding states is being overseen by Democrats, even though Republicans occupy key roles in several battlegrounds."
+    publishedDateTime: 2020-11-06T02:30:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/lqzGpvA9JzaY5IuAShEC"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 125
+    images:
+      - url: "https://images.wsj.net/im-256071?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
   - title: "The Pollster Who Thinks Trump Will Win"
     excerpt: "Robert Cahaly foresaw the outcome in 2016. Will ‘social acceptability bias’ deliver another surprise?"
