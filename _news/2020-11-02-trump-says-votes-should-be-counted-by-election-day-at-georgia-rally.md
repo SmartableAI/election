@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 490
+heat: 510
 published: true
 
 provider:
@@ -264,6 +264,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 115
+  - title: "Is the Show Finally Over for Donald Trump?"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-06T13:07:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/06/is_the_show_finally_over_for_donald_trump_528690.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/526384_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "0aNhHvk+5KoBdDw0ICNT02a3Zhr+wKeV+m4362moNBC/F0IX4tUFbviq7pUcNnS6h8FAYPkLtW8MWZbzI+yZqaH/SnJokK4ZbynF3Wil+ToZp8OiRc1i0EfnEnDs7m7KGKFkzEWx87fHY5cbWeGJe2N6UJH7hGZ1zykO/Y4/HdpT5bGcLXaMqhnq1k4mfzhQnziWW4lQGSQmdQBzOB26d4XtfyLrvC7NQR4Ib+TdTr79B4+2I0ZoDVa1VWQWoH35IWYpeQo9PgV788rwWDRo5/OpksVsO8agBUBk0S8A+wFN/bIFK76DkicdWRlqUesLgmanJ0jMekN3mmYNiNma57vltWN2ccdo2V74Mvf9vyM=;DY8G8DWjijZUywwBP+bDXQ=="
 ---

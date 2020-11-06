@@ -264,6 +264,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 115
+  - title: "Is the Show Finally Over for Donald Trump?"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-06T13:07:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/06/is_the_show_finally_over_for_donald_trump_528690.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/526384_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "AifDSlmw8joJyyo4stGdOao9Ru9o2EZj7QgwlA/DqOLX74ydpZOiWqoZ0YQo1mI8RtlgQ7J68yN/xZGj9TpZBLSmP3N6PI6g9ds3pcSlCjMme1B5wJMKg3U15SmbBwF3EL067BtpFPUva9R1jVtyMa63PkSm26YgEv6hkhLkOr4COrqzmRw0R3Kvp2HdzjQKf8cU5w7E/kpw6N9nIAHGWNpx8fJ5JRuv1wISSNHMBI/Naqd0RTrevyswMEx4QN5Ujt3AV7cnaLjtAOKV7JG6QPdIZg8rgPCJ85IK7kQemPIEPRxifPJb8C5WaklQsaq/tFfBqujRL1G1bOWR1U8RcQThhvX3UTcFVN+DgRFSaj8=;mB4QKYP/j38Y8JpO6hCJyA=="
 ---

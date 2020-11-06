@@ -2,6 +2,175 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-02-biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.md",
+      "title": "Biden to campaign in Pennsylvania, Harris to Michigan on Election Day",
+      "excerpt": "Democratic presidential nominee Joe Biden will travel to Pennsylvania Tuesday while his running mate Sen. Kamala Harris will campaign in Michigan, in their final push to get out the vote on Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iZuSuvCuPqg/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iZuSuvCuPqg/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp",
+      "publishedDateTime": "2020-11-02T14:16:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-president-trump-installs-commission-to-promote-patriotic-education-counter-radical-views-of-us-history.md",
+      "title": "President Trump installs commission to promote 'patriotic education,' counter 'radical' views of US history",
+      "excerpt": "President Trump signed an executive order Monday designed to promote what he called \"patriotic education\" and to push back on the idea that the country is \"irredeemably and systemically racist.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqkZCtY9HW8/trump-1776-commission-critical-race-theory",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqkZCtY9HW8/trump-1776-commission-critical-race-theory",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c303b0a9-1733-49b4-986c-15bd16d64504/f6005f74-a2af-475a-ad1e-c59d8b2faff2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
+      "publishedDateTime": "2020-11-02T13:12:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-sen-rick-scott-says-hispanics-will-help-trump-win-florida.md",
+      "title": "Sen. Rick Scott says Hispanics will help Trump win Florida",
+      "excerpt": "Hispanic voters are going to help President Trump win Florida in the 2020 presidential election, Sen. Rick Scott, R-Fla., said on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
+      "publishedDateTime": "2020-11-02T11:16:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-domenech-joe-biden-would-be-doing-much-better-with-amy-klobuchar-as-running-mate.md",
       "title": "Domenech: Joe Biden would be doing much better with Amy Klobuchar as running mate",
       "excerpt": "Democratic presidential hopeful Joe Biden should have picked Sen. Amy Klobuchar of Minnesota as an election running mate over Sen. Kamala Harris of California, The Federalist publisher Ben Domenech said on Monday.",
@@ -230,7 +399,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 490,
+      "heat": 510,
       "tags": null,
       "images": [
         {
@@ -342,7 +511,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1504,166 +1673,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-former-democrat-rubin-on-why-he-is-voting-for-trump-no-feeling-of-patriotism-on-the-left-anymore.md",
-      "title": "Former Democrat Rubin on why he is voting for Trump: 'No feeling of patriotism' on the left anymore",
-      "excerpt": "President Trump is the last bastion to stopping the radical left, talk show host Dave Rubin said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
-      "publishedDateTime": "2020-10-29T08:41:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-joe-biden-is-a-trojan-horse-for-socialism-says-tammy-bruce.md",
-      "title": "Joe Biden is a 'Trojan Horse' for socialism, says Tammy Bruce",
-      "excerpt": "2020 Democratic presidential candidate Joe Biden is being used as a \"trojan horse,\" Fox News contributor Tammy Bruce said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIRZaQwY97E/biden-trojan-horse-socialism-tammy-bruce",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dIRZaQwY97E/biden-trojan-horse-socialism-tammy-bruce",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-trojan-horse-socialism-tammy-bruce.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trojan-horse-socialism-tammy-bruce.amp",
-      "publishedDateTime": "2020-10-29T07:13:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-watch-barack-obama-campaigns-for-joe-biden-at-orlando-florida-event.md",
-      "title": "Watch: Barack Obama Campaigns For Joe Biden At Orlando, Florida Event",
-      "excerpt": "Former President Barack Obama will campaign for Joe Biden at an Orlando, Florida event on Tuesday afternoon, one week ahead of the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/524824.jpg",
-          "width": 908,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T21:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

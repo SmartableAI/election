@@ -2,9 +2,11 @@
 category: news
 title: "US election 2020: Joe Biden urges calm as he holds lead over Donald Trump in tense wait – live"
 excerpt: "Battle for White House down to handful of states including Nevada, Georgia and Pennsylvania"
-publishedDateTime: 2020-11-05T22:02:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa4722a8f08f536f6a6002e"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa4722a8f08f536f6a6002e"
+publishedDateTime: 2020-11-05T21:35:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa45f928f08d628a0b1cd08"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates?page=with:block-5fa45f928f08d628a0b1cd08"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/05/us-election-results-joe-biden-donald-trump-live-updates"
 type: article
 quality: 123
 heat: -1
@@ -21,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://i.guim.co.uk/img/media/a1315ed5653ad683535b56900cfc19fed680d720/0_18_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6717401766ea3d11aa20d64d2b11a73a"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Four in ten supporters of Biden, Trump would not accept election defeat"
@@ -4207,6 +4203,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Even If Joe Biden Wins, He Will Govern in Donald Trump’s America"
+    excerpt: "The car horns blared as Joe Biden took the stage just before 1 a.m.—not to proclaim victory, but to urge his supporters not to lose hope, no matter what President Donald Trump might say. “We believe we are on track to win this election,"
+    publishedDateTime: 2020-11-06T16:21:00Z
+    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR0uxQXzYMTDfimHOuZBMT626KXdboIJHeU1Mk5oKBn4PoqiAWcyUbsFg14page%2F7page%2F2page%2F17page%2F5page/2"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/peter-van-agtmael-election-2020-grand-rapids.jpg?quality=85&w=550"
+        width: 550
+        height: 367
+        isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z
@@ -5507,6 +5517,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/N3C5MNB7MJGDDCKGS24FIIHBWI.jpeg"
         width: 1000
         height: 666
+        isCached: true
+  - title: "Twitter reacts to Trump's tantrums as Biden nears possible victory"
+    excerpt: "It looks like President Donald Trump will be leaving the White House kicking and screaming, seemingly having no plans to concede as Joe Biden nears clinching victory With remaining battleground states turning blue as mail-in ballots are counted,"
+    publishedDateTime: 2020-11-06T15:58:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/2020-election-results-Trump-concede-legal-15706934.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/2020-election-results-Trump-concede-legal-15706934.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/2020-election-results-Trump-concede-legal-15706934.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/10/67/20221431/3/rawImage.jpg"
+        width: 2048
+        height: 1456
         isCached: true
   - title: "Trump Plays Rally Video Montage Featuring Sean Hannity Bashing Joe Biden"
     excerpt: "If you've been following the last few weeks of the presidential candidates on the campaign trail, you know that President Donald Trump has been working video montages into his campaign events."
@@ -7300,6 +7326,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "jlUYNYmi6nHFV0mzy85hrxPdac+Y6lo6KD2aLD8kdVN4JCMYxrzEa97X5Vd9Bir/WiT5g7AgLORfG330E9SA5XDOASM5Nc+9nUcW/UvvtTcrqKtO3d2PfEAB07rt+kpWWHeKQri1vKwynm+yWlhubKTxOVNihucTu9olYEpqQySyLfZwuumszWOGtdnDb1q6cF86XEDmQhZQsS0hphb5G4oOVmSqhGzngePXbR34kv9JGAZ+3JlLvbBs8jxpCM9cXYEL4vVJevyHV+oRS6m6SWR7tFTpvkMoSzEgZpb2CL0IGdJAB/LKkplGzuz1cHB/iSIbKHyrDahh66RqE5FkIjCA+BHStpRx5qIbVs/SZMs=;IVn/dVRXbXbtEOEND+f+ow=="
+secured: "c7dTxpiPPnFpUhiYjUi/NRepDjizJgXGAQYwBynhqMzFFTx3cl1VdfrlGEzVpQqHRvCFatfQV8/g7Yzv9lBFjXHjp1KzzWVQb8kkJSPKMwTxYAED3Qxfw5r94tKXFihWYtWPvXCvro/i07Q8XlsvwZ7P0TqHSbITW75JTIm0kqcHE/ABOa3tvHiImRWLH/B19h/fKg8d2qdUQkiJaaEegsjPotxQh42c4aJ2KUY0rm4Vuqr0b2SN/2xgHZ35oO0NCp3Jo5SNwR89uZLOtUz9fpNuhfR2+GW9YaRIlJ9IUDvAgt486UBXtghMdO4Ii1g8TygalBe2HOtl2OnRUtUXgdXG8E+zxuSFbjL68NPRLcBp6AUCAMJghN3RvhZ2+6w+rYPlelDICYAj3OUwEPq6yfiTCw9yi1gzdQsAKtKmjXj4nlNF2wtc4U9833tSLCmbla8gQA9Jhb5uM5USupw5NiM6UVE6VH6E8QzbaMAQZMaEGVKTCL2KtIR2jkm0WAykYQrLz5m2xlPKm4B2+bItrA==;PH/k9XFBoMZazTZoEoXvQQ=="
 ---
 

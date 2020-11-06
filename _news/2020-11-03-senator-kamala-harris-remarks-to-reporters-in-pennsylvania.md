@@ -378,6 +378,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden pulls ahead in Georgia and Pennsylvania"
+    excerpt: "NFA] Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to count votes."
+    publishedDateTime: 2020-11-06T15:22:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP7wD?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa565bfe4b04f7ff7c2c13d-1604675007968?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden moves ahead in Georgia and Pennsylvania, moving closer to White House"
+    excerpt: "Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to"
+    publishedDateTime: 2020-11-06T14:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27M0U3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
   - title: "Harris target of more misinformation than Pence, data shows"
     excerpt: "The report identified more than 1 million mentions since June on Twitter of Kamala Harris with hashtags or terms associated with misinformation about her."
     publishedDateTime: 2020-10-30T14:52:00Z

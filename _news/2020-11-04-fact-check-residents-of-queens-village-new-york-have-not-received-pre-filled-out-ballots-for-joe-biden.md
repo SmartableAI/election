@@ -58,6 +58,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
+    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
+    publishedDateTime: 2020-11-06T13:17:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
+        width: 1484
+        height: 989
+        isCached: true
 
 secured: "SSCYfXGChR3t/Fk6v/Yx8fbOXE5YSBbbOByx62ldgxNMR7POFpOuBPWTTjlC+xA10FcN3XwPHXH3tOv0mUps/8fdia3wIeoXXlQJgu7O1tJq2416aLDnJimvZIJR3DNekJIPF1CT3CL59cLNHbCxDY/8LpVXQkmp+BAneH+EVx7Z6XlHCqR93v/eGoXwTkUm78PxwwFDXJoo/iuroOu5jrLG6gD8ZVrf7yrji2QB9f3sbhvcr8EDTztXQUV2RjgAdAyrj/bm0nDNZ5/E0L8sc+mYAQdZXgVfk5tvnyyRKzU16Tu+99nUvOwjQ/T/pIhbSqqyIhFNrKOD1j0aR/pZ9e7FcfhoEtEGWPXDhRTjaVk=;bSTO9l/VwMROAizP3PyjNA=="
 ---

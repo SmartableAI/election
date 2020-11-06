@@ -386,6 +386,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden pulls ahead in Georgia and Pennsylvania"
+    excerpt: "NFA] Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to count votes."
+    publishedDateTime: 2020-11-06T15:22:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP7wD?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa565bfe4b04f7ff7c2c13d-1604675007968?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden moves ahead in Georgia and Pennsylvania, moving closer to White House"
+    excerpt: "Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to"
+    publishedDateTime: 2020-11-06T14:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27M0U3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
   - title: "Harris target of more misinformation than Pence, data shows"
     excerpt: "The report identified more than 1 million mentions since June on Twitter of Kamala Harris with hashtags or terms associated with misinformation about her."
     publishedDateTime: 2020-10-30T14:52:00Z
@@ -963,6 +988,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "g/l2yL/buPtRNzlstne/CDZe/039FFqPHu2RUF1DFBhUDKsGAhc0h0bvJQ9vMpMk+haNnv6ZEBPCtc/8AZBNSNxSBIKVIs43ImX22TmiqocH6XRkpMr4gbNIv2AwL7XtD8j+iBY7kiZJuc3edQq2LVrGYerAfN+l63vtUAitgnim8l6JpU6NSO+ZmW3uJRXkJzpCgrjWv4zJ2hMCveAPo0p16rYDe5HLDGSMdIZ2M5Pfv8GiBTKNbGMBOOyDxiziHdv+/usrSCaNr0VCDXarHXacDlx+IDei++S4LLQTxTF7yLlfHc2zQYuFCM6emTVgGxLEDVAvHYD4uBtyr9t/7yEuifh7W46OvVkLmWXqOSM=;JVB88B7P5FsNGDUQN1ibaQ=="
+secured: "wh8nJ4imMM4HSmCZ572CMnQDkcPDC8+3D2Bkf6TfY58gbn6c4YQyTTbtLepZC6oDjCSAu778OFhe9gZKpDdHvwTOQbrzMbb444lRAFQwmzUAvaY3EoGD3p4OPEu89+qI73zn4XdTw3IwkIPEE2xU0XP71/SnvyGpnjcnFfD2qcN113xL2AWymTFbrblONNgLS1+rXGDp2zuKjkvLw4bDqxRsGlRgKp2KaCQQcl71jSgwnSk0do75XW0U6AraYp+lGBvDll67NhIzX2OWX2mcnZKkvgzrHc2HNNMcKktMjkBCzclromPwUPvT87UWCgQ4I22kMls/4RHzx82SFrQsPxJ8dxT5lCQxbpUIh3w1KD3lbLsKYnJtPInbvleQw5Fey4Se1X2R0m3IYIEM30U5hasN5Nf0Hr7+iybGDNkzi4iKyEeiaPibjLOJ/7/KcSYHivrTj5ZqeSIyeT6AWkTzI6x8Vg38MrhXXNOX/LRMoqZcRMSQNMVSWHsEyXEZKQ2J28e6MUmieNk70Pw+0Tl3IQ==;LUdjMpldtbbaqLE880vD+Q=="
 ---
 

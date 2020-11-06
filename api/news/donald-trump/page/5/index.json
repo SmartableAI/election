@@ -2,6 +2,162 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-19-john-fogerty-demands-the-president-stop-using-his-music-donald-trump-is-the-fortunate-son.md",
+      "title": "John Fogerty demands the president stop using his music: Donald Trump IS the ‘fortunate son’",
+      "excerpt": "The rock legend tweets about his cease-and-desist order against President Trump, who regularly plays the classic Creedence Clearwater Revival anti-war",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672?mod=home-page",
+      "originalUrl": "https://www.marketwatch.com/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672?mod=home-page",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-246451/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672",
+      "publishedDateTime": "2020-10-18T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-kirstie-alley-responds-to-nasty-people-criticizing-her-decision-to-vote-again-for-donald-trump.md",
+      "title": "Kirstie Alley responds to 'nasty people' criticizing her decision to vote again for Donald Trump",
+      "excerpt": "Actress Kirstie Alley is standing up for her decision to vote for President Donald Trump. The \"Cheers\" actress faced \"nasty\" backlash online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/18/kirstie-alley-donald-trump-support-nasty-critics-twitter/3706149001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/18/kirstie-alley-donald-trump-support-nasty-critics-twitter/3706149001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/f2a21d0b-8395-4ade-a00c-0d9b30914ae7-GTY_1017791726.JPG?auto=webp&crop=3853,2168,x0,y1000&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3706149001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3706149001",
+      "publishedDateTime": "2020-10-18T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-coronavirus-updates-donald-trump-nancy-pelosi-mitch-mcconnell-face-stimulus-deal-deadline-sturgis-rally-linked-to-cases-219k-us-deaths.md",
+      "title": "Coronavirus updates: Donald Trump, Nancy Pelosi, Mitch McConnell face stimulus deal deadline; Sturgis rally linked to cases; 219K US deaths",
+      "excerpt": "Monday talks could determine the fate of a stimulus package President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3695793001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001",
+      "publishedDateTime": "2020-10-18T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-trump-attends-church-service-in-las-vegas.md",
       "title": "Trump attends church service in Las Vegas",
       "excerpt": "U.S. President Donald Trump made a rare visit to church Sunday as he and Democratic rival Joe Biden campaigned across the country from one another. (Oct. 18)",
@@ -1340,162 +1496,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-senate-panel-sets-october-22-vote-on-trump-court-pick-despite-democrats-protests.md",
-      "title": "Senate panel sets October 22 vote on Trump court pick despite Democrats' protests",
-      "excerpt": "The Republican-led U.S. Senate Judiciary Committee on Thursday scheduled an Oct. 22 vote to advance conservative appellate judge Amy Coney Barrett's nomination to the Supreme Court to the full Senate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537566094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0SM",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2701AT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2701AT",
-      "publishedDateTime": "2020-10-15T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts.md",
-      "title": "Sasse blasted Trump in private phone call: 'He kisses dictators' butts'",
-      "excerpt": "Ben Sasse (R-Neb.) blasted President Trump for “mistreat [ing] women,” “kiss [ing] dictators’ butts” and mocking evangelicals in private in a recording obtained by the Washington Examiner. In what appears to be a private call with constituents,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts",
-      "originalUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/sasseben_101420gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts?amp",
-      "publishedDateTime": "2020-10-15T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-fact-check-joe-biden-called-forces-of-intolerance-not-trump-supporters-the-dregs-of-society.md",
-      "title": "Fact check: Joe Biden called 'forces of intolerance,' not Trump supporters, the 'dregs of society'",
-      "excerpt": "Accounts linked to President Donald Trump and his family claim that Joe Biden called Trump supporters the \"dregs of society.\" In reality, he said that about \"forces of intolerance.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 386,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5966195002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966195002",
-      "publishedDateTime": "2020-10-15T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

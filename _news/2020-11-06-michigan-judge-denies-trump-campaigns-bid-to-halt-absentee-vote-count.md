@@ -110,6 +110,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to deliver speech as ballot count shows him ahead of Trump"
+    excerpt: "Democratic presidential nominee Joe Biden will deliver a speech to the country in the coming hours."
+    publishedDateTime: 2020-11-06T18:53:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pF7DGQ8xGzk/biden-to-speak-friday-night"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-speak-friday-night.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-speak-friday-night.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump 'undermining' his legal team with claims of stolen election: Turley"
+    excerpt: "President Trump needs to \"tap down the rhetoric\" about claims of Democrats stealing the election, Fox News contributor Jonathan Turley argued Friday."
+    publishedDateTime: 2020-11-06T15:16:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZqW56UiCtVQ/election-trump-legal-challenge-jonathan-turley"
+    ampWebUrl: "https://www.foxnews.com/politics/election-trump-legal-challenge-jonathan-turley.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-trump-legal-challenge-jonathan-turley.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rand Paul: Trump's election performance likely to determine who holds Senate"
     excerpt: "Paul predicts Iowa, NC Senate races 'definitely go the way the president goes'"
     publishedDateTime: 2020-11-02T23:10:31Z
@@ -334,6 +366,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "If Trump loses, he will regret 'denigrating mail-in voting': York"
+    excerpt: "If President Trump loses the election to Joe Biden as current vote tallies indicate, he could regret warning against mail-in voting, Fox News contributor Byron York argued Friday."
+    publishedDateTime: 2020-11-06T16:25:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york"
+    ampWebUrl: "https://www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
     excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
     publishedDateTime: 2020-11-02T17:07:25Z
@@ -398,6 +446,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Philadelphia mayor tells Trump to 'put his big boy pants on' and concede, even as key states remain uncalled"
+    excerpt: "Philadelphia Mayor Jim Kenney on Friday had some harsh words for President Trump, urging him to “put his big boy pants on” and “acknowledge the fact that he lost,” despite races not being called in key battleground states, including Pennsylvania, and neither he nor Democratic nominee Joe Biden having"
+    publishedDateTime: 2020-11-06T18:53:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eu9pati5u70/philadelphia-mayor-trump-put-his-big-boy-pants-on-concede"
+    ampWebUrl: "https://www.foxnews.com/politics/philadelphia-mayor-trump-put-his-big-boy-pants-on-concede.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/philadelphia-mayor-trump-put-his-big-boy-pants-on-concede.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "‘SNL’ basically endorses Joe Biden in pre-election episode"
     excerpt: "The final episode of “Saturday Night Live” before Tuesday’s presidential election went much further than the show did in 2016."
     publishedDateTime: 2020-11-01T17:48:00Z
@@ -445,6 +509,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Chris-Evans-Mark-Ruffalo-Patricia-Arquette.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump reportedly has no plans to concede presidential race to Biden"
+    excerpt: "President Trump is not prepared to concede the presidential race to Joe Biden, despite being told by his counselors that it would be the right thing to do, according to a report Friday. Other"
+    publishedDateTime: 2020-11-06T16:05:00Z
+    webUrl: "https://nypost.com/2020/11/06/trump-reportedly-has-no-plans-to-concede-race-to-biden/"
+    ampWebUrl: "https://nypost.com/2020/11/06/trump-reportedly-has-no-plans-to-concede-race-to-biden/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/06/trump-reportedly-has-no-plans-to-concede-race-to-biden/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/donald-trump-12.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump wants Supreme Court to decide election, cites unfounded fraud claims"
     excerpt: "President Trump said the US Supreme Court should decide the presidential election due unfounded claims of “illegal voting.” Trump made the allegations in a tweet issued early Friday"
@@ -589,7 +669,7 @@ related:
   - title: "Lieberman: Donald Trump Has The Right To Take His Case To Court And Let The Judge Decide"
     excerpt: "Former Senator Joe Lieberman, who ran alongside Democratic nominee Al Gore in the disputed 2000 election, joined CNBC's \"Squawk Box\" on Thursday to discuss the 2020 presidential election. \"The Trump campaign has the right to take its case to court and let the judge decide,"
     publishedDateTime: 2020-11-06T12:34:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/06/lieberman_donald_trump_has_the_right_to_take_his_case_to_court_and_let_the_judge_decide.html"
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/06/lieberman_donald_trump_has_the_right_to_take_his_case_to_court_and_let_the_judge_decide.html#!"
     type: article
     provider:
       name: RealClearPolitics

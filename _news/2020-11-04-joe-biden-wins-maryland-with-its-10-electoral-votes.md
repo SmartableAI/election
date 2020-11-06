@@ -107,6 +107,22 @@ related:
         width: 1024
         height: 670
         isCached: true
+  - title: "Fox News reportedly told on-air talent not to refer to Joe Biden as the 'president-elect' even if the network calls the 2020 race for him"
+    excerpt: "Many of Fox News' primetime stars have fallen in line with President Donald Trump and amplified his lies about election-rigging and voter fraud."
+    publishedDateTime: 2020-11-06T16:01:00Z
+    webUrl: "https://www.businessinsider.com/fox-news-told-talent-not-to-call-biden-president-elect-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/fox-news-told-talent-not-to-call-biden-president-elect-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-told-talent-not-to-call-biden-president-elect-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5fa3da6ef7d1cb0019e39eac?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "US election: Joe Biden - 'Each ballot must be counted'"
     excerpt: "The Democratic presidential candidate calls on people to be patient with the US election result."
     publishedDateTime: 2020-11-05T22:03:00Z

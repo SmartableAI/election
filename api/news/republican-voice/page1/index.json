@@ -2,6 +2,175 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-07-trump-names-danly-to-head-ferc-replacing-chatterjee.md",
+      "title": "Trump Names Danly to Head FERC, Replacing Chatterjee",
+      "excerpt": "Neil Chatterjee, who has backed policies in support of clean energy, is being replaced as head of the Federal Energy Regulatory Commission by fellow commissioner James Danly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
+      "originalUrl": "https://www.wsj.com/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-256250/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
+      "publishedDateTime": "2020-11-06T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-trump-likely-to-run-again-in-2024-if-he-loses-mick-mulvaney.md",
+      "title": "Trump 'likely' to run again in 2024 if he loses: Mick Mulvaney",
+      "excerpt": "Trump's former acting White House chief of staff Mick Mulvaney says the president isn't ready to bow out of politics.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-2024-mick-mulvaney",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-2024-mick-mulvaney",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-Mick-Mulvaney.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T09:54:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-trump-jr-calls-out-2024-gop-hopefuls-for-total-lack-of-action-in-ballot-counting-fight.md",
+      "title": "Trump Jr. calls out '2024 GOP hopefuls' for 'total lack of action' in ballot-counting fight",
+      "excerpt": "Donald Trump Jr. pressured potential 2024 GOP contenders to vocally support President Trump as the president continues to air often unfounded grievances about alleged voter fraud. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp",
+      "publishedDateTime": "2020-11-06T07:44:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-trump-has-no-plans-to-immediately-concede-election-as-biden-leads-in-battlegrounds-source-says.md",
       "title": "Trump has no plans to immediately concede election as Biden leads in battlegrounds, source says",
       "excerpt": "President Trump does not have plans to immediately concede the election, despite Democratic nominee Joe Biden leading in key states that could deliver him enough electoral votes to declare him the winner of the 2020 presidential race, a senior aide told Fox News. ",
@@ -14,7 +183,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 913,
+      "heat": 1013,
       "tags": null,
       "images": [
         {
@@ -1485,175 +1654,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-trump-an-insult-to-the-political-elite.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-trump-an-insult-to-the-political-elite.amp",
       "publishedDateTime": "2020-11-02T18:56:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.md",
-      "title": "Biden to campaign in Pennsylvania, Harris to Michigan on Election Day",
-      "excerpt": "Democratic presidential nominee Joe Biden will travel to Pennsylvania Tuesday while his running mate Sen. Kamala Harris will campaign in Michigan, in their final push to get out the vote on Election Day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iZuSuvCuPqg/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iZuSuvCuPqg/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1455,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp",
-      "publishedDateTime": "2020-11-02T14:16:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-president-trump-installs-commission-to-promote-patriotic-education-counter-radical-views-of-us-history.md",
-      "title": "President Trump installs commission to promote 'patriotic education,' counter 'radical' views of US history",
-      "excerpt": "President Trump signed an executive order Monday designed to promote what he called \"patriotic education\" and to push back on the idea that the country is \"irredeemably and systemically racist.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqkZCtY9HW8/trump-1776-commission-critical-race-theory",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqkZCtY9HW8/trump-1776-commission-critical-race-theory",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c303b0a9-1733-49b4-986c-15bd16d64504/f6005f74-a2af-475a-ad1e-c59d8b2faff2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
-      "publishedDateTime": "2020-11-02T13:12:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-sen-rick-scott-says-hispanics-will-help-trump-win-florida.md",
-      "title": "Sen. Rick Scott says Hispanics will help Trump win Florida",
-      "excerpt": "Hispanic voters are going to help President Trump win Florida in the 2020 presidential election, Sen. Rick Scott, R-Fla., said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
-      "publishedDateTime": "2020-11-02T11:16:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

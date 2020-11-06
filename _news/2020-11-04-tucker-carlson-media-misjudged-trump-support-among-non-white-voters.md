@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump investment in North Carolina's Native American Lumbee Tribe pays off"
+    excerpt: "Robeson County voters chose Trump (59%) over Democratic nominee Joe Biden (41%) after Trump held a rally there on Oct. 24, according to preliminary data."
+    publishedDateTime: 2020-11-06T15:18:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liGTPvgPESY/trump-north-carolina-lumbee-robeson-native-american"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-lumbee-robeson-native-american.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-lumbee-robeson-native-american.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20298688186744.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Tiffany Trump hitting campaign trail in NC, Michigan, other battleground states"
     excerpt: "President Trump's youngest daughter, Tiffany Trump, will be campaigning for her father in four battleground states, North Carolina, Pennsylvania, Michigan and Minnesota, after keeping a low profile during the 2016 campaign."
     publishedDateTime: 2020-10-26T13:00:31Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-vi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-virginia-biden-74008179"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
+    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
+    publishedDateTime: 2020-11-06T13:17:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
+        width: 1484
+        height: 989
+        isCached: true
 
 secured: "KhOHrIinKUKXJSOeLoS3FzHCpvbEFTdeZxdF6+RygShtc/6XY/mBZTt6kI9vkLGU+RRyB5JCXJIhU8eD7ztjgZUdCalyR04/iCO83HUuaLEDrwBv1pSWkxZ6QTyNUkcuACC1WuHBE4TPEvZmCXvl1cxTUerPlvGu0MACKQrz9mowpewaJcgFzqoJsky12b1jQ02g5BveqHRe2QKaScE5OhlvC32ywNhQZeCsXnBh20Tjnt8HnH0m8neuGJ05pFPJgJ+6h+RONqPGrDtEiWwg448YUgm5D6NkesEGwie+G7iL5wTsuRLpwy/ysYM+PDBRYlOjIPkk3mZvj8o/cCJlyhaqpJacxQTypmjxeZg+Ctw=;Wrpx/zKvy6PR+LdALBh5GQ=="
 ---

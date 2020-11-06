@@ -2,6 +2,279 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-10-09-trump-suggests-he-may-hold-weekend-rallies-in-florida-pennsylvania-after-receiving-green-light-from-doctor.md",
+      "title": "Trump suggests he may hold weekend rallies in Florida, Pennsylvania after receiving green light from doctor",
+      "excerpt": "President Trump told Fox News' Sean Hannity in an exclusive interview Thursday that his campaign is trying to make last-minute arrangements for holding weekend rallies in Florida and Pennsylvania after White House physician Dr. Sean Conley cleared him for public engagements earlier in the day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_2RIrOjhPn0/trump-weekend-rallies-florida-pennsylvania",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_2RIrOjhPn0/trump-weekend-rallies-florida-pennsylvania",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03957425-562e-4a08-9416-8c97e308d3b0/bba0db18-ae44-4233-b350-ecf576d4d522/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp",
+      "publishedDateTime": "2020-10-08T20:23:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate.md",
+      "title": "Karen Pence’s office says both sides agreed to no masks at end of debate",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aplWtDyy8c0/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aplWtDyy8c0/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1cce0175-a7be-420c-a6f4-6a820ce90d21/6ac1c14e-ff9e-4404-9fc2-423cb394a034/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate.amp",
+      "publishedDateTime": "2020-10-08T20:18:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-debate-commission-co-chair-defends-virtual-move-after-trump-pulls-out-we-will-be-guided-by-the-medicine.md",
+      "title": "Debate commission co-chair defends virtual move after Trump pulls out: 'We will be guided by the medicine'",
+      "excerpt": "Commission on Presidential Debates (CPD) co-chair Frank Fahrenkopf has defended the organization's decision to move the second presidential debate, slated for Oct. 15, to a virtual setting after President Trump dismissed the idea as a \"waste\" of time. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WaohQlSRuas/virtual-debate-trump-biden-frank-fahrenkorpf",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WaohQlSRuas/virtual-debate-trump-biden-frank-fahrenkorpf",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9f4375-e6af-4667-81a1-d8564e2cd2f6/7133e21f-a8e0-418b-b911-a6323c249384/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/virtual-debate-trump-biden-frank-fahrenkorpf.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virtual-debate-trump-biden-frank-fahrenkorpf.amp",
+      "publishedDateTime": "2020-10-08T19:28:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-president-trump-coughs-during-his-call-in-interview-on-hannity-but-says-hes-feeling-really-good.md",
+      "title": "President Trump coughs during his call-in interview on Hannity, but says he's feeling 'really good'",
+      "excerpt": "Caught between subjects, President Donald Trump coughed and had to pause for a few seconds before continuing on with no check-in from host Sean Hannity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10",
+      "originalUrl": "https://www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7fc1caea74820019ca6178?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10?amp",
+      "publishedDateTime": "2020-10-08T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-mike-pence-avoided-roe-v-wade-in-wednesdays-debate-heres-why.md",
+      "title": "Mike Pence avoided Roe v. Wade in Wednesday’s debate. Here’s why.",
+      "excerpt": "Both parties are out of touch on abortion. But most voters support Roe, and conservatives already trust Pence on social issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VAOULYLK6ZFUNBMPCG2V62YPXA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/?outputType=amp",
+      "publishedDateTime": "2020-10-08T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-joe-biden-the-economic-growth-candidate.md",
       "title": "Joe Biden: The Economic Growth Candidate?",
       "excerpt": "It’s hard to see how Joe Biden’s tax plan would grow anything except the government.",
@@ -1058,7 +1331,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/07/fact-check-trumps-hospital-records-weight-havent-been-released/5913031002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1075,283 +1348,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/5913031002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913031002",
       "publishedDateTime": "2020-10-07T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-trump-says-us-troops-in-afghanistan-will-be-home-by-christmas.md",
-      "title": "Trump says US troops in Afghanistan will be home by Christmas",
-      "excerpt": "President Trump took to Twitter Wednesday night and announced that the “remaining number” of the American troops stationed in Afghanistan will be home before the end of the year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoSMYi-UbW4/trump-says-us-troops-in-afghanistan-will-be-home-by-christmas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoSMYi-UbW4/trump-says-us-troops-in-afghanistan-will-be-home-by-christmas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b468b1-4f70-4041-9a0f-55c9b76b6ea1/c5c841bc-815e-4652-81b0-1100ba6a883d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-us-troops-in-afghanistan-will-be-home-by-christmas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-us-troops-in-afghanistan-will-be-home-by-christmas.amp",
-      "publishedDateTime": "2020-10-07T17:46:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-mcdaniel-slams-biden-over-despicable-politicization-of-coronavirus-in-first-interview-since-positive-test.md",
-      "title": "McDaniel slams Biden over 'despicable' politicization of coronavirus in first interview since positive test",
-      "excerpt": "The coronavirus pandemic has brought out the \"worst\" in Joe Biden and the Democratic Party, Republican National Committee Chairwoman Ronna McDaniel told \"Bill Hemmer Reports\" on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wVf6myPU25A/rnc-mcdaniel-biden-politicizing-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wVf6myPU25A/rnc-mcdaniel-biden-politicizing-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5a355fd-dcbc-4859-88bc-65d72fb4a4e3/42f314ee-ce14-48bd-8c00-9e2d9a072753/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-mcdaniel-biden-politicizing-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-mcdaniel-biden-politicizing-coronavirus.amp",
-      "publishedDateTime": "2020-10-07T14:39:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-pence-plays-covid-defense-and-other-things-to-watch-at-the-vice-presidential-debate.md",
-      "title": "Pence plays Covid defense and other things to watch at the vice presidential debate",
-      "excerpt": "It’s the former radio host (turned governor) vs. the former prosecutor (turned senator) in Salt Lake City Wednesday for the first and only vice presidential debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/07/vp-debate-2020-what-to-watch-427305",
-      "originalUrl": "https://www.politico.com/news/2020/10/07/vp-debate-2020-what-to-watch-427305",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/6a/92/4dbc48bc421b81bf662001ed0fcb/201007-pence-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-trump-campaign-cancels-ohio-iowa-tv-ads-amid-optimism-over-swing-state-election-chances.md",
-      "title": "Trump campaign cancels Ohio, Iowa TV ads amid optimism over swing state election chances",
-      "excerpt": "“President Trump and his campaign are extremely confident about our chances in these states,” a Trump campaign spokeswoman said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7wRtyKXITsc/trump-cancels-ohio-iowa-tv-ads",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7wRtyKXITsc/trump-cancels-ohio-iowa-tv-ads",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29bfe935-daa8-4470-8854-e86a54083904/73b2af23-e387-4c77-bfc9-a57bce52aa82/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp",
-      "publishedDateTime": "2020-10-07T12:39:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-donald-trump-would-repeal-and-replace-obamacare-with-nothingburger.md",
-      "title": "Donald Trump would repeal and replace Obamacare with nothingburger",
-      "excerpt": "Affordable Care Act set to reach the Supreme Court after election. COVID-19 layoffs only underscore what a lifeline the ACA is to millions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/06/USAT/f1d418be-3261-4701-8f66-cba4f6986254-Obamacare.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3629112001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3629112001",
-      "publishedDateTime": "2020-10-07T12:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",

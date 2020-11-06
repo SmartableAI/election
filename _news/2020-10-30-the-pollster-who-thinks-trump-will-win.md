@@ -264,6 +264,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Is the Show Finally Over for Donald Trump?"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-06T13:07:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/06/is_the_show_finally_over_for_donald_trump_528690.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/526384_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "K6aILkYLhurC6xTKENJJagwzLZ082t+VEbUOX1oaHS9LseAQkJD7xqpyeqhAKbTLvzgSTPGj89KBjxzK4is6rpqH/7g3w7kZtXjQ4hOqSTCfZuKQYCZE6U9ept78O/Vurv6BfL4NESmjqkJ+VtRFj1eJ4WFxY42QzB2s/RVh9I0VN6gImEZAWstbfvvghGGrHdCNFQHzHcszjouhu6KMntuwY7jp7BI/d0g4PU6hQcoH1W+0pnuvhgNpEpyB2CmFAtAOwlEnz5xcsKcnBpVP2hDB6DzDhReFdJrmnfPEWwgNRqiwOGWavh6PrEQRg5AG4zIrwXNOkjubd2JYUcxYb9xrFUzFjDSRRKUYNiW0eHBD5bA4gX+h/+UWseEtbA6BI41z1rLXfA0SSsbI9f2uV+Oewvk8kUGhkFrMR4pvW6H0lID5VqGQOs591LlczTMP22k6vcP8+ozdDsPAxInsvJGpZVrqBp/WPOR0cMkmecpdMeJWZb/esWz0YzGwoNFhsNRHDmsLJ3+Env2Li/CIAg==;ZcTuoOulG3EycGlDTgJM1Q=="
 ---

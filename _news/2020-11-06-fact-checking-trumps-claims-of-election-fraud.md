@@ -896,6 +896,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden poised to move quickly on transition if he's declared winner"
+    excerpt: "On the cusp of winning the presidency, Joe Biden is poised to deliver an address to the nation Friday -- while his team prepares to move quickly and announce major pieces of his transition into the White House.\n    \n"
+    publishedDateTime: 2020-11-06T15:36:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AuNSh4ZTNK8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/biden-transition-preparations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/biden-transition-preparations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104162711-04-biden-election-presser-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Donald Trump doesn't need to concede"
+    excerpt: "Conceding a lost election is the classy thing to do and it has usually been a part of the country coming together after a divisive campaign.\n    \n"
+    publishedDateTime: 2020-11-06T15:21:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/avVUMYQsqg8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/donald-trump-concede-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/donald-trump-concede-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105185402-04-trump-presser-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump delivers the most dishonest speech of his presidency as Biden closes in on victory"
     excerpt: "President Donald Trump delivered the most dishonest speech of his presidency on Thursday evening.\n    \n"
     publishedDateTime: 2020-11-06T04:54:25Z
@@ -1824,6 +1856,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "With a lead in Pennsylvania, Biden nears victory in the state and the election."
+    excerpt: "Biden Jr. took the lead over President Trump in Pennsylvania on Democrats grew increasingly confident that he would win the state and with it the presidency: The state’s 20 electoral votes would put Mr."
+    publishedDateTime: 2020-11-06T17:52:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/us/elections/with-a-lead-in-pennsylvania-biden-nears-victory-in-the-state-and-the-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/us/elections/with-a-lead-in-pennsylvania-biden-nears-victory-in-the-state-and-the-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/us/elections/with-a-lead-in-pennsylvania-biden-nears-victory-in-the-state-and-the-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 146
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/multimedia/06briefing-elections-PAcounting/06briefing-elections-PAcounting-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "The president cast his ballot in Florida, not far from a rally where Obama slammed Trump’s response to the pandemic. And from New York to Alabama, Americans lined up to vote in person. This briefing has ended."
     publishedDateTime: 2020-10-25T08:17:00Z
@@ -2252,6 +2300,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "A Good Night for Biden"
+    excerpt: "Good morning. Joe Biden has taken the lead in Georgia, and the vote counting continues. Joe Biden had another good night in the vote counting and appears close to clinching the presidency. But the race is not over,"
+    publishedDateTime: 2020-11-06T11:43:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/briefing/georgia-joe-biden-donald-trump-vote-counting.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/briefing/georgia-joe-biden-donald-trump-vote-counting.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/briefing/georgia-joe-biden-donald-trump-vote-counting.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/us/politics/05election-ledeall-biden-themorning/05election-ledeall-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "2020 Election Live Updates: Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "RIGHT NOW ‘Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."
     publishedDateTime: 2020-10-24T22:32:00Z
@@ -2658,6 +2722,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How the Suburbs Moved Away From Trump"
+    excerpt: "Suburban counties across the country turned away from President Trump in this election. That includes suburbs in the Midwest and the Sun Belt, in inner-ring counties and those farther out, in predominantly white communities and more diverse ones."
+    publishedDateTime: 2020-11-06T18:54:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/06/upshot/suburbs-shifted-left-president.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/up-suburbs-promo-1604680621134/up-suburbs-promo-1604680621134-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
     excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
     publishedDateTime: 2020-10-25T04:00:00Z
@@ -2722,6 +2800,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "bj/5X1N02QA9E4X6R9j2fv5zRQMnrXKlSwGF9QmbP4hdsXVC2P8qoHqTwstwSdezMh63FubLUWO2Q+3j+gJLYc7IOsWHff6f4ZiR3ypAAOrutC2mP+w01Oecm9A8iKYZVuZsonZ0xZrWKbrtpHpfUdidegTednk3hO3+ufARlSW/Yz1EXovcCLab8wUtWzwEdryB/unu4zVEjbp9VJDrYGJJab0eaNM46CNAHBTWQYHB1jHruhB8xG7+Q8NZ5rsOpbOQRbjMdislbM+oWpncRtEc+Zv3JAR5KY8qn5KkKjFV6udtdSMxNo/CIh7yJBTCnaUILnOTs7OQZSB+jTTTdRfwQZ8IDKiUXC0nIhZkEDc=;F2FKb4DNWMRFYep8tT/pcQ=="
+secured: "fTdAVny5AAwc7MWi5pIvB5v8Ze08pLfVQy6rNKCpnacdG38dNiQPryQ7oPfqjTd/2V5ARlhVgGjU7kTWBRpZ8nOIJNpy6lOpu3MbAy4AuqCfJcF6PqibHLyX4Kx6MyPnQdIy83K8w7N8tkNgkW/IGyeCUARGiNEGeryYw/Gu8OP5D9RBYygr3H3V9+6zNzNRk/G41Jh7KCN/DdVstw3m9ECL8sEdZTSE21SU2sLaxNRQdWi081yWbdztiQUYg5fGc3heVuYzJOzeEmfqAOgamLiGgGFBewT3XwQZmQiSxWi58TNxs2lYxPDBshtMbR3rF9e0w70y8sBrunoh7TPxJ4QAG3lQ6TrR9PLc+lJf5RiPMxQQsnO/9CT5P5qXbukRpY59vIvMY05kRtv6s154rddEXZqWdSIILZayi+d9Mu61XwQ8hioAhNlWa3bA2gMY+dkE/ORwE5POan+ie039XC0JlB5jgnebUMtBJ0+SbZ5D9Q4fzZqLNaLk1RohoRaCbW7c7IALrahEBgqTfkuL9w==;aVXif1POIUxaq/Uqmttnog=="
 ---
 

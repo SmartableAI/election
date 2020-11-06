@@ -160,6 +160,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden takes the lead in Pennsylvania as vote count continues"
+    excerpt: "Joe Biden has taken the lead in Pennsylvania as mail-in votes continue to be counted and reported Friday morning."
+    publishedDateTime: 2020-11-06T14:13:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-takes-the-lead-in-pennsylvania-as-vote-count-continues-95441477990"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95441477990"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95441477990"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_2020_biden_lead_pa_201106_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Julián Castro campaigns for Biden in Phoenix, visits a Day of the Dead altar"
     excerpt: "Michigan, Iowa, North Carolina, Georgia, and Florida — while Biden is holding two events in Philadelphia. This live coverage has ended. Continue reading election news for Monday, Nov. 2, 2020. Julián Castro,"
     publishedDateTime: 2020-11-02T23:03:00Z

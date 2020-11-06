@@ -2,6 +2,275 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-10-14-durbin-says-trump-administration-case-against-obamacare-is-orange-cloud-over-barrett-nomination.md",
+      "title": "Durbin says Trump administration case against ObamaCare is 'orange cloud' over Barrett nomination",
+      "excerpt": "Sen. Dick Durbin, D-Ill., continued Democrats' claims that the real reason why Republicans are rushing to confirm Judge Amy Coney Barrett to the Supreme Court is so that she can be on the bench for an upcoming ObamaCare case, but he had a particularly colorful way of putting it.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2De58Ce9Thw/durbin-barrett-hearing-trump-obamacare-case",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2De58Ce9Thw/durbin-barrett-hearing-trump-obamacare-case",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288542482521-e1602689531456.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/durbin-barrett-hearing-trump-obamacare-case.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-barrett-hearing-trump-obamacare-case.amp",
+      "publishedDateTime": "2020-10-14T08:45:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-presidents-job-approval-is-surest-sign-trump-will-lose-reelection.md",
+      "title": "President's job approval is surest sign Trump will lose reelection",
+      "excerpt": "Just 37 percent of Americans approve of the president’s handling of the pandemic — and that is extremely problematic for him.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
+      "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 3760,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_100520screenshot.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp",
+      "publishedDateTime": "2020-10-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-what-demi-lovato-says-about-donald-trump-in-new-protest-song-commander-in-chief.md",
+      "title": "What Demi Lovato Says About Donald Trump in New Protest Song 'Commander in Chief'",
+      "excerpt": "\"Commander in Chief\" is the former Disney star's protest anthem against the Republican candidate ahead of election day on November 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019",
+      "originalUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1651670/demi-lovato.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019?amp=1",
+      "publishedDateTime": "2020-10-14T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-suburban-women-will-you-please-like-me-trump-attempts-to-appeal-to-voter-group-he-has-struggled-to-reach.md",
+      "title": "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach",
+      "excerpt": "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8644e9fd1f49001964d784?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "publishedDateTime": "2020-10-13T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-trump-to-coronavirus-victims-i-feel-your-pain-because-ive-felt-your-pain.md",
+      "title": "Trump to coronavirus victims: 'I feel your pain because I've felt your pain'",
+      "excerpt": "The president told a crowd in Johnstown, Pennsylvania, that he \"felt like Superman\" after getting an experimental drug treatment for Covid-19 and that he's now \"immune.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-coronavirus-victims-i-feel-your-pain-because-i-ve-n1243288",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-coronavirus-victims-i-feel-your-pain-because-i-ve-n1243288",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_42/3419974/201013-donald-trump-rally-ac-910p_e23b1abe2187633878e526f64d203010.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243288",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243288",
+      "publishedDateTime": "2020-10-13T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-us-election-2020-do-celebrity-endorsements-help-joe-biden.md",
       "title": "US election 2020: Do celebrity endorsements help Joe Biden?",
       "excerpt": "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris.",
@@ -1059,248 +1328,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-california-republicans-refuse-to-remove-ballot-boxes-slam-states-35-million-team-biden-contract.md",
-      "title": "California Republicans refuse to remove ballot boxes, slam state's $35 million 'Team Biden' contract",
-      "excerpt": "The California Republican Party responded Monday to criticism over unofficial ballot drop-off boxes in counties with highly competitive U.S. House races, arguing that state law allows “ballot harvesting,” and also slamming a $35 million contract the state’s top election official awarded to a “Team Biden”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCbnv6AVC9k/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCbnv6AVC9k/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract.amp",
-      "publishedDateTime": "2020-10-13T06:28:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-trump-runs-retro-clip-of-mike-pence-honoring-veterans-on-memorial-day.md",
-      "title": "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day",
-      "excerpt": "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/",
-      "originalUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/",
-      "publishedDateTime": "2020-10-13T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-joe-bidens-support-for-lgbtq-rights-is-no-joke-whatever-saturday-night-live-says.md",
-      "title": "Joe Biden's support for LGBTQ rights is no joke, whatever 'Saturday Night Live' says",
-      "excerpt": "Biden pointed his finger at my heart, said 'trans rights are human rights,' and told me about his plans to ensure no LGBTQ person gets left behind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tennessean.com/story/opinion/2020/10/13/biden-champion-lesbian-gay-bisexual-transgender-americans-column/5969757002/",
-      "originalUrl": "https://www.tennessean.com/story/opinion/2020/10/13/biden-champion-lesbian-gay-bisexual-transgender-americans-column/5969757002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/2e284423-1388-4be5-b900-c2009cc463c8-Clymer_and_Biden.jpg?auto=webp&crop=959,539,x1,y86&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.tennessean.com/amp/5969757002",
-      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5969757002",
-      "publishedDateTime": "2020-10-13T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tennessean",
-        "domain": "tennessean.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-coronavirus-updates-first-american-to-get-covid-twice-13-states-set-case-records-joe-biden-tests-negative-again.md",
-      "title": "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again",
-      "excerpt": "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/",
-      "originalUrl": "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.tennessean.com/amp/5966027002",
-      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002",
-      "publishedDateTime": "2020-10-13T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tennessean",
-        "domain": "tennessean.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-kkk-social-visit-cards-left-at-joe-biden-supporters-homes-in-tennessee.md",
-      "title": "KKK 'Social Visit' Cards Left at Joe Biden Supporters' Homes in Tennessee",
-      "excerpt": "Residents in Shelbyville also said that signs showing support for Democratic candidate appeared to have been run over by a car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
-      "originalUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1650165/kkk.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
-      "publishedDateTime": "2020-10-13T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

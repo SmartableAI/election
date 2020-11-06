@@ -2,6 +2,266 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-29-trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police.md",
+      "title": "Trump Administration Uses Philadelphia Protests To Illustrate ‘Liberal Democrats’ War Against The Police’",
+      "excerpt": "The Trump administration said the protests in Philadelphia are “the most recent consequence of the Liberal Democrats’ war against the police.” The administration said all incidents of lethal force must be investigated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/",
+      "originalUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99b9b73e35a3c43d4b6a93%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D35%26cropY2%3D2566",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/amp/",
+      "publishedDateTime": "2020-10-28T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-biden-addresses-violence-in-philadelphia-no-excuse-for-looting.md",
+      "title": "Biden addresses violence in Philadelphia: 'No excuse' for looting",
+      "excerpt": "Democratic presidential nominee Joe Biden on Wednesday addressed the recent violence in Philadelphia over the police killing of Walter Wallace Jr., telling reporters that the death is not an excuse for looting or criminal activity.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting",
+      "originalUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_10282020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp",
+      "publishedDateTime": "2020-10-28T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-justice-clarence-thomas-wife-boosts-unsupported-claims-against-joe-biden.md",
+      "title": "Justice Clarence Thomas’ wife boosts unsupported claims against Joe Biden",
+      "excerpt": "Other spouses of justices have their own professional lives, but Ginni Thomas is the only one whose work sometimes butts up against her husband’s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/28/supreme-court-justices-wife-boosts-unsupported-claims-joe-biden/6055985002/",
+      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/28/supreme-court-justices-wife-boosts-unsupported-claims-joe-biden/6055985002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/28/USAT/e05da220-1768-4557-8852-3141907929e8-AP_Supreme_Court_Thomas_Wife.jpg?auto=webp&crop=4372,2460,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/6055985002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6055985002",
+      "publishedDateTime": "2020-10-28T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-bill-mcgurn-slams-outrageous-behavior-from-media-suppressing-hunter-biden-allegations.md",
+      "title": "Bill McGurn slams 'outrageous behavior' from media suppressing Hunter Biden allegations",
+      "excerpt": "After Hunter Biden’s former business associate Tony Bobulinsky gave an interview on Fox News’ “Tucker Carlson Tonight” Tuesday, Wall Street Journal columnist Bill McGurn reacted to the interview pointing out that the story has been covered up by the media and social media companies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zilQIo16iUo/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zilQIo16iUo/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp",
+      "publishedDateTime": "2020-10-28T10:38:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals.md",
+      "title": "2020 Hindsight on Impeachment Trial and Unravelling Biden Family Business Deals",
+      "excerpt": "Failing to get ahead of what has become the drip, drip of new details on Hunter Biden’s business dealings – and the potential ties to his father – could prove",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952",
+      "originalUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true",
+      "publishedDateTime": "2020-10-28T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-joe-biden-could-be-compromised-by-chinese-communist-party-rep-crenshaw.md",
       "title": "Joe Biden could be compromised by Chinese Communist Party: Rep. Crenshaw",
       "excerpt": "Joe Biden needs to answer whether or not he's compromised by China before the Nov. 3 election, Rep. Dan Crenshaw, R-Texas, said Wednesday.",
@@ -1084,266 +1344,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-biden-again-clarifies-oil-transition-comment-says-industry-not-going-to-go-away.md",
-      "title": "Biden again clarifies oil 'transition' comment, says industry 'not going to go away'",
-      "excerpt": "Democratic presidential nominee Joe Biden on Monday clarified his oil industry \"transition\" comment in two separate interviews with TV stations in Pittsburgh and Dallas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkBdhHX7YHo/biden-oil-industry-not-going-away",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkBdhHX7YHo/biden-oil-industry-not-going-away",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292427842809.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-oil-industry-not-going-away.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-oil-industry-not-going-away.amp",
-      "publishedDateTime": "2020-10-27T05:36:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-twitter-slapped-yet-another-trump-tweet-about-mail-in-voting-with-a-misleading-label-and-stopped-other-users-from-retweeting-it.md",
-      "title": "Twitter slapped yet another Trump tweet about mail-in voting with a 'misleading' label, and stopped other users from retweeting it",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 President Donald Trump has been fact-checked by Twitter. Again. Trump tweeted about mail-in voting on Monday, claiming there were ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10",
-      "originalUrl": "https://www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10?amp",
-      "publishedDateTime": "2020-10-27T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company.md",
-      "title": "No Dividends, No Problem: Trump Megadonor Sheldon Adelson Has Given At Least $180 Million This Year, Despite Troubles At His Company",
-      "excerpt": "Regardless of what happens with his casino empire, Sheldon Adelson has more than enough cash to remain one of the biggest political donors in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michelatindera/2020/10/27/no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company/",
-      "originalUrl": "https://www.forbes.com/sites/michelatindera/2020/10/27/no-dividends-no-problem-trump-megadonor-sheldon-adelson-has-given-at-least-180-million-this-year-despite-troubles-at-his-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f978c5a40130f51d658e810%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1896%26cropY1%3D0%26cropY2%3D1067",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-stephen-colbert-mike-pence-is-americas-spare-tire.md",
-      "title": "Stephen Colbert: Mike Pence Is ‘America’s Spare Tire’",
-      "excerpt": "After the White House called the vice president an essential worker, Colbert said: “At best, he is vice essential. You want him in the trunk, but you hope to never have to use him.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/27/arts/27latenight/27latenight-facebookJumbo.png",
-          "width": 996,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.amp.html",
-      "publishedDateTime": "2020-10-27T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80.md",
-      "title": "Coal baron Murray, a Trump ally who fought environmental regulation, dead at 80",
-      "excerpt": "U.S. coal baron Robert Murray, an ally of President Donald Trump and a leading industry voice who called global warming a hoax, died on Sunday at age 80, U.S. media reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
-      "originalUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
-      "publishedDateTime": "2020-10-26T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -79,6 +79,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Fact check: Video shows mail waste, not shredded Trump ballots"
+    excerpt: "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true."
+    publishedDateTime: 2020-11-06T16:38:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-shredded-leaflets-idUSKBN27M25L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M25L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540275459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51AC"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Fact check: Satirical post falsely claims Trump would be fine if he hadn't gotten tested"
     excerpt: "A liberal commentator's Facebook post claims Trump would be fine if he didn't get tested, satirically referencing debunked claim about coronavirus."
     publishedDateTime: 2020-10-06T22:53:00Z

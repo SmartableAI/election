@@ -619,6 +619,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pro-Trump protesters in Detroit rally outside voting count centers as Biden's lead grows"
+    excerpt: "Protesters holding signs and bullhorns complained of what they are claiming is voting fraud and said Biden didn’t really win the election."
+    publishedDateTime: 2020-11-06T17:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/06/protesters-rally-tcf-center-detroit-biden-ballots/6188660002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6188660002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6188660002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/06/PDTF/f7f8a082-25b6-4ee7-b10e-ed123501677d-Protest_110620_ES03.JPG?auto=webp&crop=1199,675,x0,y130&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Biden projected to win Michigan after Trump falsely claims 2020 victory"
     excerpt: "CBS News projects that Joe Biden will win the state of Michigan, bringing him closer to the 270 electoral votes needed to win the presidency. CBSN political reporter Caitlin Huey-Burns, CBS News correspondent Nikole Killion and Washington Post political reporter Eugene Scott join CBSN's \"Red & Blue\" host Elaine Quijano to discuss the state of the race so far."
     publishedDateTime: 2020-11-05T02:43:00Z
@@ -1415,6 +1431,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/07/virus_outbreak_congress_22342_c0-218-4000-2551_s1200x700.jpg?f44772715d7d5fd81cb5c0f7bf11605028154478"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Biden supporters blasted Beyoncé to drown out Trump officials' speech at rally in Philadelphia"
+    excerpt: "Protesters rally outside the Pennsylvania Convention Center where election votes are being counted in Philadelphia, Pennsylvania, on November 5, 2020. People from both sides were gathered. Trump supporters questioning validity of some ballots and Biden supporters pushing for the count to continue."
+    publishedDateTime: 2020-11-06T16:45:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/2020-election-results-Biden-Trump-Beyonce-15707295.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/2020-election-results-Biden-Trump-Beyonce-15707295.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/2020-election-results-Biden-Trump-Beyonce-15707295.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 78
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "2020 Latest: Donald Trump wins Kansas"
     excerpt: "President Donald Trump throws hats to supporters as he arrive to speak during a campaign rally at Wilkes-Barre Scranton International Airport, Monday, Nov. 2, 2020, in Avoca, Pa. President Donald Trump dances after a campaign rally at Gerald R."

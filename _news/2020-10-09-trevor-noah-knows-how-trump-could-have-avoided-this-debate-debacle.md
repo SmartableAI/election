@@ -75,6 +75,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Fact check: Video shows mail waste, not shredded Trump ballots"
+    excerpt: "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true."
+    publishedDateTime: 2020-11-06T16:38:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-shredded-leaflets-idUSKBN27M25L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M25L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540275459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51AC"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Fact-check: Did Trump's 'Liberate Michigan' Tweet Inspire Plot to Kidnap Gov. Whitmer?"
     excerpt: "The governor of Michigan has linked the plot to kidnap her to President Donald Trump's rhetoric during the pandemic."
     publishedDateTime: 2020-10-09T10:46:00Z
