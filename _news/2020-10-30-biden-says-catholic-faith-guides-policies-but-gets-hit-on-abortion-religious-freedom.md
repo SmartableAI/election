@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to receive additional Secret Service protection: report"
+    excerpt: "Democratic presidential nominee Joe Biden will receive a beefed-up Secret Service detail starting Friday as the candidates wait for the presidential race to be called, according to a report."
+    publishedDateTime: 2020-11-06T11:06:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QO4nVxZgS2M/biden-to-receive-additional-secret-service-protection-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-receive-additional-secret-service-protection-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-receive-additional-secret-service-protection-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310779175857.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
     excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."
     publishedDateTime: 2020-10-25T16:15:17Z

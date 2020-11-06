@@ -77,6 +77,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Final vote tallies in Cumberland County show Joe Biden’s path to victory in Pennsylvania"
+    excerpt: "Even in a county that President Donald J. Trump won handily, the mail-ins broke for the Democratic nominee by better than a 2:1 margin."
+    publishedDateTime: 2020-11-06T11:12:00Z
+    webUrl: "https://www.masslive.com/politics/2020/11/final-vote-tallies-in-cumberland-county-show-joe-bidens-path-to-victory-in-pennsylvania.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/11/final-vote-tallies-in-cumberland-county-show-joe-bidens-path-to-victory-in-pennsylvania.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/11/final-vote-tallies-in-cumberland-county-show-joe-bidens-path-to-victory-in-pennsylvania.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 46
   - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
     publishedDateTime: 2020-10-06T16:33:00Z

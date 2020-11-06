@@ -2,11 +2,11 @@
 category: news
 title: "Vote counts push Biden closer to victory as Trump falsely claims election being 'stolen'"
 excerpt: "With his re-election chances fading as more votes are counted in a handful of battleground states, U.S. President Donald Trump launched an extraordinary assault on the country's democratic process from the White House on Thursday,"
-publishedDateTime: 2020-11-06T03:45:00Z
-originalUrl: "https://www.reuters.com/article/idUSKBN27L0VI"
-webUrl: "https://www.reuters.com/article/idUSKBN27L0VI"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0VM"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0VM"
+publishedDateTime: 2020-11-06T11:28:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27L0W2"
+webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27L0W2"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27L0W2"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27L0W2"
 type: article
 quality: 146
 heat: -1
@@ -668,6 +668,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/fdf64f4e-38fd-48bd-8479-56b1f74b1fff-AFP_AFP_8UG9DU.JPG?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump will 'absolutely' run for president again in 2024 if he loses to Biden, says Mick Mulvaney"
+    excerpt: "Mick Mulvaney told a think tank in Ireland that \"high-energy\" Trump will lead the race to be the Republican candidate in 2024."
+    publishedDateTime: 2020-11-06T12:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-will-run-again-if-loses-election-biden-mick-mulvaney-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-will-run-again-if-loses-election-biden-mick-mulvaney-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-will-run-again-if-loses-election-biden-mick-mulvaney-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/5fa53ba61df1d500182193b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fact check: Trump keeps making false or misleading statements on mail ballots as Election Day nears"
     excerpt: "Seeing chaos where others don’t, President Donald Trump is falsely asserting that voting by mail is proving to be rife with problems across the country,"
@@ -1356,22 +1372,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Why AP called Arizona for Joe Biden"
-    excerpt: "The Associated Press has declared Democrat Joe Biden the winner in Arizona, flipping a longtime GOP state that President Donald Trump won in 2016. The AP called the race at 2:50 a.m. EST Wednesday, after an analysis of ballots cast statewide concluded there were not enough outstanding to allow Trump to catch up."
-    publishedDateTime: 2020-11-05T15:34:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 75
-    images:
-      - url: "https://www.courant.com/resizer/3LirmlyA0klspZUqBp7tkKNUrEE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NWN3FIELQT7VCXFINCJIS6TXQQ.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Joe Biden is set to become the oldest president, a title held by Ronald Reagan"
     excerpt: "As of now, the oldest sitting president in U.S. history was Ronald Reagan, who was 77 when he left office in 1989."
     publishedDateTime: 2020-11-06T00:34:00Z
@@ -1525,6 +1525,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fhMQJZGPNfOfq346aG1cL/IuBA9jNV5I12rKwM1xN28SoXdOX62WXvh5Gj0mG4eYNo2b6oFc1pQ/hhYszaE3MbPMcm2DyeX44SBSF0ICFVKA0N2ITJ4ef9PJh+5eYikwN65nn1P0JmMYCj65Rhqbr3PyrGnccnuDpdkJmS7Inu7jDuSE4ciRe3pERdKCYQ4Qo41AxGwKs/1ha1GX6XjC5hGlm+zGQSa0oMwspw1YO9Sxw7No3NlWcx5/+/Vo1HwUZ7p9icNJofU/2VYULpTfHkyEblCYOUMnyeoYPw2SDL+a1gRM1VVzNtPBfPindqjZWeSrLCMX197xBnaHAVdu+ISp9JHOUBL+n/HYdSCnTWY=;tdsYqjSsaiR5clrqeQc8Rw=="
+secured: "ImBmEz1k+0qk0mIxL0tt50riSthl86XoQcDotSPa5BcR65N21WPrRCuuyvB2ZCfnmyLWxy1uKLyoryDg2tstwTJKHTcuAuzEnTd1ktrhNelbbQtI8M60TR03vjgHcZ7rDOIqURRXY9NeETSXFo2Q3/mZPHqjOl8u86ci1QCgMeYV55/ofz/aWGPn/LeEvD3Dh5BenGe3ZuaNdzjQrYkqf0NOIX5Tpnx4sMIn5yOq5nybjMq7t5EAYDgQnE5ytVyYd8lxlAdDyYnb0/BNXGVSyL+z70fSKNqozjuH7OILBMxlOIxEzbc39JWF8RbaRuxINkQO/2czgCwpi2TZNyYaAkU2aPj5y/c0NajPvgSCvBs=;96ubON5cDzbp2SsSCT7sIQ=="
 ---
 

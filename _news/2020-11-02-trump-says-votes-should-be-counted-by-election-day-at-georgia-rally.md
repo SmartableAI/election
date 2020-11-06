@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 710
+heat: 730
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304773736489.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden Makes Gains in Three States as Trump Lashes Out Over Vote Count"
+    excerpt: "Joe Biden surpassed President Trump by several hundred votes in Georgia and increased his lead in Nevada, while Mr. Trump’s lead in Pennsylvania narrowed, according to the Associated Press."
+    publishedDateTime: 2020-11-06T12:41:00Z
+    webUrl: "https://www.wsj.com/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
+    ampWebUrl: "https://www.wsj.com/amp/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-256148/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Celebrities react to Trump's election update"
     excerpt: "Chris Evans, Mark Ruffalo and more stars took to social media to slam Trump's address as the 2020 presidential election continues."

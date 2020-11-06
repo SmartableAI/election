@@ -298,6 +298,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden Makes Gains in Three States as Trump Lashes Out Over Vote Count"
+    excerpt: "Joe Biden surpassed President Trump by several hundred votes in Georgia and increased his lead in Nevada, while Mr. Trump’s lead in Pennsylvania narrowed, according to the Associated Press."
+    publishedDateTime: 2020-11-06T12:41:00Z
+    webUrl: "https://www.wsj.com/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
+    ampWebUrl: "https://www.wsj.com/amp/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-256148/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Celebrities react to Trump's election update"
     excerpt: "Chris Evans, Mark Ruffalo and more stars took to social media to slam Trump's address as the 2020 presidential election continues."
     publishedDateTime: 2020-11-06T02:43:00Z

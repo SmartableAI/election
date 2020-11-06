@@ -263,6 +263,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Trump and Biden protesters duel outside vote-counting centers in cliffhanger election"
+    excerpt: "Backers of President Donald Trump, some carrying guns, ramped up demonstrations on Thursday night against what he has baselessly called a rigged election, in battleground states where votes were still being counted."
+    publishedDateTime: 2020-11-06T11:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-protests-idUSKBN27M1EQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M1EQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M1EQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 148
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540254871&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50XR"
+        width: 817
+        height: 545
+        isCached: true
   - title: "2020 Election Live Updates: Trump and Biden make last-minute appeals on eve of election"
     excerpt: "The CBS News Battleground Tracker on November 1 found that Biden holds an Electoral College lead heading into Election Day, with Mr. Trump needing a surge of in-person voters to win. While U.S. intelligence and national security officials have warned voters to be aware of efforts by foreign actors to interfere in the general election through disinformation campaigns,"
     publishedDateTime: 2020-11-02T21:53:00Z
@@ -4157,6 +4173,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden moves ahead of Trump in Georgia"
+    excerpt: "Democrat Joe Biden took a 917 vote lead over President Donald Trump in the battleground state of Georgia early Friday morning. The contest is still too early for The Associated Press to call and thousands of ballots are left to be counted."
+    publishedDateTime: 2020-11-06T11:08:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/06/biden-moves-ahead-trump-georgia/6185056002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4916d7b5-b279-44b5-8090-ff102d98337d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Even If Joe Biden Wins, He Will Govern in Donald Trump’s America"
     excerpt: "The car horns blared as Joe Biden took the stage just before 1 a.m.—not to proclaim victory, but to urge his supporters not to lose hope, no matter what President Donald Trump might say. “We believe we are on track to win this election,"
     publishedDateTime: 2020-11-05T22:52:00Z
@@ -5469,6 +5499,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/08/AP20233145859232.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Biden takes lead over Trump in Georgia"
+    excerpt: "Biden overtook Trump in the number of ballots counted in the battleground, a must-win state for Trump that has long been a Republican stronghold. Biden now has a 917-vote advantage."
+    publishedDateTime: 2020-11-06T12:07:00Z
+    webUrl: "https://www.al.com/news/2020/11/biden-takes-lead-over-trump-in-georgia.html"
+    ampWebUrl: "https://www.al.com/news/2020/11/biden-takes-lead-over-trump-in-georgia.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/11/biden-takes-lead-over-trump-in-georgia.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/N3C5MNB7MJGDDCKGS24FIIHBWI.jpeg"
+        width: 1000
+        height: 666
         isCached: true
   - title: "Trump Plays Rally Video Montage Featuring Sean Hannity Bashing Joe Biden"
     excerpt: "If you've been following the last few weeks of the presidential candidates on the campaign trail, you know that President Donald Trump has been working video montages into his campaign events."

@@ -802,7 +802,7 @@ related:
   - title: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas"
     excerpt: "Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Biden campaign event in Fort Worth, Texas."
     publishedDateTime: 2020-11-03T22:57:00Z
-    webUrl: "https://www.c-span.org/video/?477547-1/senator-kamala-harris-speaks-biden-campaign-event-fort-worth-texas"
+    webUrl: "https://www.c-span.org/event/?477547/"
     type: article
     provider:
       name: C-SPAN

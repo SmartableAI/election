@@ -3,8 +3,8 @@ category: news
 title: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas"
 excerpt: "Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Biden campaign event in Fort Worth, Texas."
 publishedDateTime: 2020-11-03T22:57:00Z
-originalUrl: "https://www.c-span.org/video/?477547-1/senator-kamala-harris-speaks-biden-campaign-event-fort-worth-texas"
-webUrl: "https://www.c-span.org/video/?477547-1/senator-kamala-harris-speaks-biden-campaign-event-fort-worth-texas"
+originalUrl: "https://www.c-span.org/event/?477547/"
+webUrl: "https://www.c-span.org/event/?477547/"
 type: article
 quality: 49
 heat: -1
@@ -946,6 +946,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "GLgeMufpkGN72/0MXWP5ORtlln4MsguDVLw6erL2T0/TqWzuFMoqoopIi7gE25tRZdKZpOF5JPWeAW9uVsi8a+ti2o46gA31CB5ZomOovPVPGJW/BmpXkrv3yl1weCGC2UV8k8tEaFtAaL0PmHWhTEt3n4q/CJI0JbM45W6ysyB6x6Tfbcs1EKiGVeAaL40lE5AhsQVjJvPeVsjta2t2JigBMTV+LAzGflJhIXZsN+KjBjBzrwsCcpyTNVAoQHL0HOtbLYbDOrhoBXREZ1H/fQWAB4hf2+Z46uqOblLAsNArFVvxLKVOK7RH913wnMnsA3gxXQXv+yHsVCUYoZJsT9+8WWq1+6LYgAPxrkcClAMkkboK/QGeVRQLUfm0ppvHc6kwpZExByJ7IOY4iznJSyCnSntnv0XdKCdRkJovrtZcAGRJ/Pzxa32fkLTZ1K1eb+Y637VoS40WyqwsK9CVLO+m5qo3qbpDalnU2gHS5AIhSracjm5hBxmkScrhj6rGs15k7ZEcAQc+s9pmRGwWLA==;rcoBTbriI1f06MlaKzU0tA=="
+secured: "aZ17FjEy1sXJzW/VXA6sD1QjV7ctwlP3kwmyh+XeU4SPr1fx7hT2aMJXfLd9Od89HmBNoEtq4I3X+sA3yTQ3l2qVm7HS6MfaK4Y0PEDCk14RnPzfvJPkH5l92Kp9AXPGW0NmvdyEGaP1JwDuaOrsARtSS/VT5TVprPmmP11VLPXToyajey1XQ/AkBrPdGA9J5O49Pxfmg273Cd20+GGHKMWx7PcKAfYK7/wIUg8Xca7WBJgbhKLQFr1si8oD6cxk2j42CjP1mmr7j0uDyD/8Ey9TlErpgftARaisuTkl525aJQ3F6L2qeXo6utYgjvfYpQdWF2nEZFZFd4DD/N8S0SuQv35CeIHMzcK8aXdz0rhOVCK9RFLKaZD92ZOxm4xoT4D9cpNUlY9QVJt3SfAponv5cicZysk/ymlj4qZy0Pd/TxUfKPScvs/b6Mc9fnrEP6brfnldyH/n8eq9CfBRDMtNEtwwMlYi+3RPamuO2I9crn+EgQH+Sbtq1uDeNaHq1OE+JeF8ZhPO/dXIF4vHBg==;kPkQ0HgI74QRA93PytUPCA=="
 ---
 
