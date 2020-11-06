@@ -1154,6 +1154,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump to address nation for first time since Election Day"
+    excerpt: "The presidential race has not yet been called because neither Trump nor Biden has yet collected the requisite 270 Electoral College votes."
+    publishedDateTime: 2020-11-05T23:13:00Z
+    webUrl: "https://www.al.com/news/2020/11/trump-to-address-nation-for-first-time-since-election-day.html"
+    ampWebUrl: "https://www.al.com/news/2020/11/trump-to-address-nation-for-first-time-since-election-day.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/11/trump-to-address-nation-for-first-time-since-election-day.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VSBYYXCMBNDGPC5P5P3WTTNYFE.jpg"
+        width: 4728
+        height: 3116
+        isCached: true
   - title: "Arthur Blank donated thousands to Biden while his Home Depot cofounder was a major Trump donor, but Blank says it never came between them"
     excerpt: "Joe Biden supporter Arthur Blank says business isn't \"a red issue or a blue issue\" and politics never challenged his rapport with Home Depot partners."
     publishedDateTime: 2020-11-04T00:21:00Z
@@ -1243,6 +1259,38 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Why AP called Arizona for Joe Biden"
+    excerpt: "The Associated Press has declared Democrat Joe Biden the winner in Arizona, flipping a longtime GOP state that President Donald Trump won in 2016. The AP called the race at 2:50 a.m. EST Wednesday, after an analysis of ballots cast statewide concluded there were not enough outstanding to allow Trump to catch up."
+    publishedDateTime: 2020-11-05T15:34:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 75
+    images:
+      - url: "https://www.courant.com/resizer/3LirmlyA0klspZUqBp7tkKNUrEE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NWN3FIELQT7VCXFINCJIS6TXQQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Joe Biden is set to become the oldest president, a title held by Ronald Reagan"
+    excerpt: "As of now, the oldest sitting president in U.S. history was Ronald Reagan, who was 77 when he left office in 1989."
+    publishedDateTime: 2020-11-06T00:34:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/11/05/oldest-president-joe-biden/6181672002/"
+    ampWebUrl: "https://amp.freep.com/amp/6181672002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6181672002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/05/USAT/78d55875-fbe3-4cca-a9de-7486868dc093-GTY_1229463571.jpg?auto=webp&crop=1782,1003,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden, Trump Campaign in Pennsylvania; Mail Ballots Roll In"
     excerpt: "President Donald Trump and former Vice President Joe Biden are stumping in Pennsylvania on Monday, the last day before Election Day."
     publishedDateTime: 2020-11-02T15:58:00Z
@@ -1281,6 +1329,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/0ece1f7a8e1d73fbb71c986cbe375f89/2020-PRESIDENTIAL-ELECTION.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Trump makes baseless claim on election status"
+    excerpt: "But President Donald Trump is renewing his unfounded claims that Democrats are trying to “steal” the election from him. He did not back up his claim with any details or evidence. State and federal officials have not reported any instances of widespread voter fraud."
+    publishedDateTime: 2020-11-06T00:57:00Z
+    webUrl: "https://www.chron.com/news/article/2020-Latest-Trump-again-seeks-to-stop-the-15705831.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 70
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/10/32/20219563/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Election Day Live Updates: Donald Trump, Joe Biden Square Off For President, Latest Senate And House Results"
     excerpt: "Early voting shatters record as Americans anxiously await the outcome of a presidential election during a pandemic."

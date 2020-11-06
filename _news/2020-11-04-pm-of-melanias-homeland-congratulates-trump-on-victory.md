@@ -111,6 +111,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "'They Gonna Do Him Dirty': 50 Cent Says Donald Trump Is Going to Jail"
+    excerpt: "\"You ever herd [sic] a president say stop counting the f**king votes. LOL SMH,\" the rapper tweeted on Thursday."
+    publishedDateTime: 2020-11-05T18:35:00Z
+    webUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225"
+    ampWebUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1665432/50-cent-says-trumps-going-jail.jpg"
+        width: 3256
+        height: 2163
+        isCached: true
+  - title: "Trump campaign loses lawsuit seeking to halt Michigan vote count"
+    excerpt: "A judge in Michigan on Thursday tossed out a lawsuit brought by U.S. President Donald Trump's campaign in hopes of halting vote-counting in the battleground state."
+    publishedDateTime: 2020-11-06T00:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-michigan-idUSKBN27L2M1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L2M1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L2M1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540156919&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41KL"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That"
     excerpt: "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate."
     publishedDateTime: 2020-10-28T10:30:00Z
@@ -293,6 +325,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/Enk164ZLvg71BWottnQ-c_T5_zs=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/MW6QQHIPYFCZ7NLZ3VV6LOCR4I.jpg"
         width: 1200
         height: 832
+        isCached: true
+  - title: "Trump camp drops Nevada appeal in mail ballot counting case"
+    excerpt: "A legal effort in Nevada by the Donald Trump campaign and state Republicans to stop the count of mail ballots in Las Vegas is over. A document submitted in an appeal pending before the state Supreme Court says a settlement was reached requiring Clark County election officials to add “additional observation access” at a ballot processing facility in Las Vegas."
+    publishedDateTime: 2020-11-05T23:48:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Vice President Pence Speaks at Trump Campaign Rally in Reno, Nevada"
     excerpt: "Vice President Mike Pence spoke at a Trump campaign rally at the airport in Reno, Nevada."

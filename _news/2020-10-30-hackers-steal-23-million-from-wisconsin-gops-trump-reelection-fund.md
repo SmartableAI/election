@@ -294,6 +294,22 @@ related:
         width: 1500
         height: 966
         isCached: true
+  - title: "Trump Slams Election Process In Speech, Says 'If You Count The Legal Votes I Easily Win'"
+    excerpt: "Speaking to reporters on Thursday night, President Trump said he won the election if only legal votes are counted."
+    publishedDateTime: 2020-11-06T00:31:00Z
+    webUrl: "https://www.ibtimes.com/trump-slams-election-process-speech-says-if-you-count-legal-votes-i-easily-win-3077208"
+    ampWebUrl: "https://www.ibtimes.com/trump-slams-election-process-speech-says-if-you-count-legal-votes-i-easily-win-3077208?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-slams-election-process-speech-says-if-you-count-legal-votes-i-easily-win-3077208?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 81
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/27/us-president-donald-trump-is-furious-at-journalists.jpg"
+        width: 1024
+        height: 701
+        isCached: true
   - title: "Official Vote Count Continues Nationwide as Donald Trump Falsely Claims a Win From The White House"
     excerpt: "The Associated Press has not yet projected a winner of the race and states will not complete their exhaustive counts for several days."
     publishedDateTime: 2020-11-04T08:46:00Z

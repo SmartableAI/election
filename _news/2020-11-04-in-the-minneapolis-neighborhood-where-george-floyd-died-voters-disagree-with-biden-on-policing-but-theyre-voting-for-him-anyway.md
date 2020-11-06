@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/minneapolis-neighborhood-where-georg
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11?amp"
 type: article
 quality: 95
-heat: 96
+heat: 95
 published: true
 
 provider:

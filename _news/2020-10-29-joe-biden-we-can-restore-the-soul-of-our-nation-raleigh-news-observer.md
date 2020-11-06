@@ -172,6 +172,22 @@ related:
       name: Time
       domain: time.com
     quality: 85
+  - title: "Will Lizzo run through the streets naked? Only if Joe Biden wins"
+    excerpt: "Lizzo has not been holding back on the TikToks this election season. In one video posted Wednesday evening, the proud Joe Biden and Kamala Harris supporter weighed the possibility of President Donald Trump being voted out of office."
+    publishedDateTime: 2020-11-05T21:42:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/lizzo-election-2020-tiktok-15704664.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/lizzo-election-2020-tiktok-15704664.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/lizzo-election-2020-tiktok-15704664.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/07/52/20216489/5/rawImage.png"
+        width: 873
+        height: 759
+        isCached: true
   - title: "Kremlin Says Joe Biden Is Wrong That Russia Is Number One Threat"
     excerpt: "Putin, who has praised Trump in the past for saying he wanted better ties with Moscow, has said Russia will work with any U.S. leader, while noting what he called Joe Biden's \"sha"
     publishedDateTime: 2020-10-26T10:52:00Z

@@ -350,6 +350,22 @@ related:
         width: 1296
         height: 790
         isCached: true
+  - title: "Funniest Twitter Comments About The 2020 Election Include Jabs At Donald Trump, His Family And Voting"
+    excerpt: "The 2020 presidential election has prompted widespread jokes and witticisms on Twitter, poking fun at President Donald Trump, his family's response to the election and voting in such an unusual presidential race."
+    publishedDateTime: 2020-11-05T03:30:00Z
+    webUrl: "https://www.ibtimes.com/funniest-twitter-comments-about-2020-election-include-jabs-donald-trump-his-family-3076590"
+    ampWebUrl: "https://www.ibtimes.com/funniest-twitter-comments-about-2020-election-include-jabs-donald-trump-his-family-3076590?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/funniest-twitter-comments-about-2020-election-include-jabs-donald-trump-his-family-3076590?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/us-president-donald-trump-pumps-his-fist-after.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "8YTxy6QhfJyu5hQZNQ5OfDZ7tmz+XvKaH4vqd3wud9eCL/S2vuqDXHhDbChzxqZNqXMuT5w2EAjEwNJJBPeeXVUXMHG10x8B0IhgrLxET1LISktYCfE8BG+sMoeLr94mBsJ0SoBU8pgLbu6bgFP6LvGuhwcpmROjVmQndih1G9dZzuutBeVdnMcXASeTX+VzIvvksRPQ4350ZXgspDvmYof4xQ5dfr4Sa27ctmRUFcHs/XdDd7dqVCr5Zr2QkmRiERlw+k3Fy0i/von2+V4wd1+Q+X6C20bKE4CF+qpgDPshExmm1pOHd/bjb/oi7OlSCH0QIpKQGsyc8stkmEGXIUEIb1mXknF9XqhpZSZufUA=;iGuNVfuKdQMNSsKB94i9lw=="
 ---

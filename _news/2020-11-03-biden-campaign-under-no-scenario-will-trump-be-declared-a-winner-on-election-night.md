@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden eyes 270 as he gains on Trump in Pennsylvania"
+    excerpt: "The race for the White House is still close to call, with tightening races in Georgia, Arizona and Pennsylvania as former Vice President Joe Biden edged close to the 270-electoral-vote threshold needed to win and President Donald Trump's hopes of clinching reelection appeared to be slipping away.\n  "
+    publishedDateTime: 2020-11-06T00:46:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CjxcQDS8Z_g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/presidential-election-2020-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/presidential-election-2020-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104223415-biden-trump-split-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact Check: Misleading new Trump ad claims Biden plans to 'end fracking'"
     excerpt: "Less than two weeks before Election Day, a new Trump campaign ad scheduled to air in Pennsylvania misleadingly portrays former Vice President Joe Biden's stance on fracking, a drilling method used to extract oil or natural gas.\n    \n"
     publishedDateTime: 2020-10-26T19:37:01Z
@@ -381,6 +397,22 @@ related:
     quality: 187
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027213702-trump-wisconsin-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Few congressional Republicans publicly back Trump's charges of election fraud"
+    excerpt: "Only a handful of congressional Republicans have spoken out in defense of President Donald Trump's cries of election fraud and calls to stop the counting in his race for reelection, which has drawn the wrath of the President's sons, who tweeted their frustration and anger about that lack of vocal support"
+    publishedDateTime: 2020-11-06T00:44:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pYdwpAvxlhA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/election-2020-congressional-republicans-trump-election-fraud/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/election-2020-congressional-republicans-trump-election-fraud/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023120254-35d-mitch-mcconnell-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -877,6 +909,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030171543-trump-wisconsin-1030-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump stages corrosive attempt to undermine votes as his path to 270 evaporates"
+    excerpt: "President Donald Trump was charging ahead Thursday with a strategy to force an election victory, or at least forestall a loss, through legal maneuvers and demands for recounts, a final-ditch effort to prevent states from tallying ballots that could decide the next president.\n    \n"
+    publishedDateTime: 2020-11-06T00:51:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5NA6FTUxNJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/donald-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/donald-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

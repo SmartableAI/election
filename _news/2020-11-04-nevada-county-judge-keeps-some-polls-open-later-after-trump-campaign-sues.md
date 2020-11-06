@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/nevada-county-judge-keeps-some-poll
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
 type: article
 quality: 174
-heat: 274
+heat: 294
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20305794561511-e1604416769499.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump campaign ballot counting lawsuits: What to know"
+    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
+    publishedDateTime: 2020-11-06T00:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "In St. Petersburg, Fla., Trump's Character Is in Focus"
     excerpt: "With millions of Floridians having already voted, the Election Day line quickly diminished outside the largest polling location in St. Petersburg, Fla. The city resides in Pinellas County, one of the bellwether counties in the country's largest battleground state."

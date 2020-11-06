@@ -333,6 +333,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Kamala Harris did not urge undocumented immigrants to vote"
+    excerpt: "Democratic vice presidential candidate Kamala Harris tells undocumented immigrants to vote in this election.  AP’S ASSESSMENT: False. Posts online are misrepresenting"
+    publishedDateTime: 2020-11-03T21:21:00Z
+    webUrl: "https://apnews.com/article/fact-checking-9667191348"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Kamala Harris inspires women leaders in her ancestral Indian village"
     excerpt: "More than 8,000 miles (12,870 kms) from Washington, Indian women have been rooting for the \"America lady\" in the village of U.S. vice presidential candidate Kamala Harris's grandfather."
     publishedDateTime: 2020-11-04T09:21:00Z

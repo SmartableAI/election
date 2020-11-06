@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-06-americans-largely-reject-trumps-victory-declaration-reutersipsos-poll.md",
+      "title": "Americans largely reject Trump's victory declaration: Reuters/Ipsos poll",
+      "excerpt": "A bipartisan majority of Americans do not accept President Donald Trump's premature victory declaration in the U.S. presidential election and most are willing to wait for all votes to be counted before deciding who won,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27L32T",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27L32T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540187312&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41ZI",
+          "width": 833,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27L32T",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L32T",
+      "publishedDateTime": "2020-11-05T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-donald-trumps-aides-are-increasingly-gloomy-and-mad-at-other-gop-officials.md",
+      "title": "Donald Trump's aides are increasingly gloomy – and mad at other GOP officials",
+      "excerpt": "Some aides to President Donald Trump said they're not giving up on the election, but they're also bracing for the worst. They're also upset with other Republicans who have not spoken out against the ongoing election count as forcefully as Trump has.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-aides-gloomy-election-mad-gop/6181186002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-aides-gloomy-election-mad-gop/6181186002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/04/USAT/8e6c2ca7-73ee-4a93-b47f-7fc5415e3f65-AFP_AFP_8UJ3N7.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6181186002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6181186002",
+      "publishedDateTime": "2020-11-05T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-former-wisconsin-governor-scott-walker-on-trump-campaigns-calls-for-a-recount.md",
       "title": "Former Wisconsin Governor Scott Walker on Trump campaign's calls for a recount",
       "excerpt": "Former Wisconsin Governor Scott Walker joined \"CBS This Morning\" to discuss the Trump campaign's calls for a recount of the votes in the state.",
@@ -279,7 +383,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 137,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -432,7 +536,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-trump-tweet-idINKBN27K0MF",
       "featuredContent": null,
       "highlight": null,
-      "heat": 554,
+      "heat": 574,
       "tags": null,
       "images": [
         {
@@ -865,58 +969,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-03-trump-appeared-to-back-away-from-claims-that-he-will-declare-victory-in-the-election-as-soon-as-possible-no-reason-to-play-games.md",
-      "title": "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'",
-      "excerpt": "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
-      "originalUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
-      "publishedDateTime": "2020-11-03T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-03-indias-hindu-fringe-group-holds-prayers-for-trump.md",
       "title": "India's Hindu fringe group holds prayers for Trump",
       "excerpt": "World India's Hindu fringe group holds prayers for Trump. Posted . A Hindu right-wing group in New Delhi held special prayers for U.S. President Donald Trump's victory in the pres",
@@ -1029,7 +1081,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1346,7 +1398,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1853,
+      "heat": 1933,
       "tags": null,
       "images": [
         {
@@ -1543,63 +1595,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-why-the-math-in-minnesota-is-more-daunting-for-trump-than-in-2016.md",
-      "title": "Why the math in Minnesota is more daunting for Trump than in 2016",
-      "excerpt": "Nothing in the data suggests Donald Trump will win Minnesota. Coronavirus cases are surging. The early vote looks great for Democrats, who have swamped Trump’s ad spending in the state. But the contest appears to have tightened slightly in recent days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/11/02/swing-states-minnesota-433392",
-      "originalUrl": "https://www.politico.com/news/2020/11/02/swing-states-minnesota-433392",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/e5/16/1b29af234763bc8ac218396b7639/swingstates-minnesota.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/11/02/swing-states-minnesota-433392",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/02/swing-states-minnesota-433392",
-      "publishedDateTime": "2020-11-02T01:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

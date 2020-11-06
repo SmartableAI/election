@@ -93,6 +93,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "WATCH: Joe Biden urges calm as votes continue to be counted"
+    excerpt: "Democratic presidential nominee Joe Biden is urging Americans to remain calm as votes continue to be counted in the 2020 presidential election."
+    publishedDateTime: 2020-11-05T20:17:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-biden-gives-remarks-in-wilmington-delaware"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 105
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/11/2020-11-04T213547Z_112600952_RC2LWJ97YSHO_RTRMADP_3_USA-ELECTION-BIDEN-1024x670.jpg"
+        width: 1024
+        height: 670
+        isCached: true
   - title: "US election: Joe Biden - 'Each ballot must be counted'"
     excerpt: "The Democratic presidential candidate calls on people to be patient with the US election result."
     publishedDateTime: 2020-11-05T22:03:00Z

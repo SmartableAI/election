@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-nationwide-catch-and
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp"
 type: article
 quality: 166
-heat: 226
+heat: 206
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's 1 electoral vote from Nebraska district could prove pivotal to his White House bid"
-    excerpt: "On Election Night, Omaha, Neb., became “Jomaha” as Democratic nominee Joe Biden won a single electoral vote from the state’s 2nd Congressional District."
-    publishedDateTime: 2020-11-05T04:27:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JvgS6fapF4w/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20293774864185.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden's early White House transition plans negotiate pressure from both ends of political spectrum"
     excerpt: "Democratic presidential nominee Joe Biden has not yet been elected to the office, but he's planning his transition as though he has been. "
     publishedDateTime: 2020-10-23T19:24:44Z

@@ -2,6 +2,166 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-04-totals-from-milwaukee-kenosha-and-green-bay-push-biden-to-a-20000-vote-lead-in-wisconsin.md",
+      "title": "Totals from Milwaukee, Kenosha and Green Bay push Biden to a 20,000 vote lead in Wisconsin",
+      "excerpt": "Trump did worse in much of Milwaukee and Madison than he did four years ago, but did a little better in much of northern and central Wisconsin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/wisconsin-results-down-wire-again-milwaukee-ballot-count/6123344002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/wisconsin-results-down-wire-again-milwaukee-ballot-count/6123344002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/31/PMJS/0e752870-0d26-4580-9909-c7f3251023cd-biden_trump_friday.jpg?auto=webp&crop=659,371,x0,y3&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6123344002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6123344002",
+      "publishedDateTime": "2020-11-04T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-media-and-polls-hyper-judgmental-of-trump-supporters-candace-owens.md",
+      "title": "Media and polls 'hyper-judgmental' of Trump supporters: Candace Owens",
+      "excerpt": "Conservative activist Candace Owens slammed the media and pollsters for once again failing to accurately predict the presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dk8zW9vv5Y4/trump-media-polls-election-black-support-vote-candace-owens-brian-kilmeade",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dk8zW9vv5Y4/trump-media-polls-election-black-support-vote-candace-owens-brian-kilmeade",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-media-polls-election-black-support-vote-candace-owens-brian-kilmeade.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-media-polls-election-black-support-vote-candace-owens-brian-kilmeade.amp",
+      "publishedDateTime": "2020-11-04T05:56:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-explainer-why-ap-called-virginia-for-biden.md",
+      "title": "EXPLAINER: Why AP called Virginia for Biden",
+      "excerpt": "The AP declared Joe Biden the winner of Virginia after results from early returns and an AP survey of the electorate showed the former vice president had beaten President Donald Trump in the state",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/explainer-ap-called-virginia-biden-74008179",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/explainer-ap-called-virginia-biden-74008179",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-virginia-biden-74008179",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-virginia-biden-74008179",
+      "publishedDateTime": "2020-11-04T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-aoc-sounds-alarm-over-latino-turnout-for-biden.md",
       "title": "AOC sounds alarm over Latino turnout for Biden",
       "excerpt": "Democratic U.S. Rep. Alexandria Ocasio-Cortez vented her frustrations over lackluster Democratic turnout among Latinos Tuesday evening.",
@@ -170,7 +330,7 @@
       "originalUrl": "https://www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686",
       "featuredContent": null,
       "highlight": null,
-      "heat": 553,
+      "heat": 613,
       "tags": null,
       "images": [
         {
@@ -390,7 +550,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-trump-tweet-idINKBN27K0MF",
       "featuredContent": null,
       "highlight": null,
-      "heat": 554,
+      "heat": 574,
       "tags": null,
       "images": [
         {
@@ -559,7 +719,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 274,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -1145,7 +1305,7 @@
       "originalUrl": "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1186,171 +1346,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-trump-not-thinking-of-election-night-speech-yet.md",
-      "title": "Trump 'not thinking' of election night speech yet",
-      "excerpt": "Politics Trump 'not thinking' of election night speech yet. Posted . President Donald Trump visited the Republican National Committee campaign headquarters in Arlington, Virginia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85",
-      "originalUrl": "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20201103&i=OVD30RPB3&r=OVD30RPB3&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-ex-trump-loyalist-michael-cohen-hints-former-boss-wont-like-his-ballot-choice.md",
-      "title": "Ex-Trump loyalist Michael Cohen hints former boss won't like his ballot choice",
-      "excerpt": "President Trump's former attorney trolled the White House with a Twitter hint that he voted for Democrat Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nKdKfeLwf7o/michael-cohen-says-he-voted-for-biden-guess-what-i-did",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nKdKfeLwf7o/michael-cohen-says-he-voted-for-biden-guess-what-i-did",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55102a4f-6e35-4349-b50e-83e6b9601442/4036c90d-7074-4064-b8f1-1cd8f013fbc7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp",
-      "publishedDateTime": "2020-11-03T09:42:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-biden-signs-wall-of-childhood-home-from-this-house-to-the-white-house.md",
-      "title": "Biden signs wall of childhood home: 'From this house to the White House'",
-      "excerpt": "Democratic presidential nominee Joe Biden waves to onlookers from the steps of his childhood home on Nov. 3 in Scranton, Pa. | Drew Angerer/ Former Vice President Joe Biden signed one of the living room walls of his childhood home during a stop in Scranton,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/11/03/joe-biden-signs-wall-of-childhood-home-433933",
-      "originalUrl": "https://www.politico.com/news/2020/11/03/joe-biden-signs-wall-of-childhood-home-433933",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/5f/ad/b3b34d7e4d0e8cde4f1169a0aae6/201103-biden-childhood-home-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

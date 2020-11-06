@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 590
+heat: 610
 published: true
 
 provider:
@@ -316,6 +316,22 @@ related:
       - url: "https://images.wsj.net/im-250155/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump campaign predicts victory as early as Friday: 'Donald Trump is alive and well'"
+    excerpt: "President Trump's campaign remained confident Thursday, predicting not only that the incumbent Republican will win the 2020 election, but that the result could become apparent as soon as Friday."
+    publishedDateTime: 2020-11-05T18:51:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5710a1ac-db7a-49d3-a506-14afea4ee0a5/42e2636e-cea3-4feb-934a-e956db5e7c88/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The Pollster Who Thinks Trump Will Win"
     excerpt: "Robert Cahaly foresaw the outcome in 2016. Will ‘social acceptability bias’ deliver another surprise?"

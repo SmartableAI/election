@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
 type: article
 quality: 140
-heat: 560
+heat: 580
 published: true
 
 provider:
@@ -349,6 +349,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2d765f1d-35e6-4a14-a864-8d62527bd69f_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Funniest Twitter Comments About The 2020 Election Include Jabs At Donald Trump, His Family And Voting"
+    excerpt: "The 2020 presidential election has prompted widespread jokes and witticisms on Twitter, poking fun at President Donald Trump, his family's response to the election and voting in such an unusual presidential race."
+    publishedDateTime: 2020-11-05T03:30:00Z
+    webUrl: "https://www.ibtimes.com/funniest-twitter-comments-about-2020-election-include-jabs-donald-trump-his-family-3076590"
+    ampWebUrl: "https://www.ibtimes.com/funniest-twitter-comments-about-2020-election-include-jabs-donald-trump-his-family-3076590?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/funniest-twitter-comments-about-2020-election-include-jabs-donald-trump-his-family-3076590?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/us-president-donald-trump-pumps-his-fist-after.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "C3Jw+G379QAim8k6pRVznD9k+PctBPFCXQiFvwzNb161u40ASg9niYLTPIqex8oX+zNo7M3sUH7452qPheS2u3WugtDPNGE/ND9G7m4SaBNxSvbKw+MUYF0C0nkr1KriXt8FBBbF0qN1dm95EDIIwsqKGZOP5XJpsjytmrtHBpYU8DlxQTUoAlQqz+jma9MN2JzLeJQwbh0QWniLU98ZjYAvxrgi37qmIYLSmJ2MoLIk2dTX6Nbc7srKzIxBLDXMU1gJeDBIsQGlD12Tm0glWDH8YqyGt9+d9kaWVgYhz8EsrnYbktLkVgMiT7v/09Krk0aG15PwZRSGuoOWjx8MDE9LuXiVQts3v7opWYCZrvM=;mdcpgg+KBRlBS+vaq3nRFg=="

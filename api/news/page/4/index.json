@@ -2,6 +2,114 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-03-unfair-donald-trump-cant-complain-imagine-if-another-candidate-acted-like-he-does.md",
+      "title": "'Unfair' Donald Trump can't complain: Imagine if another candidate acted like he does",
+      "excerpt": "Have voters finally reached their limit and are prepared to bring down the curtain on the Trump show? Tune in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/11/02/election-imagine-if-other-candidates-acted-like-trump-editorials-debates/6058615002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/11/02/election-imagine-if-other-candidates-acted-like-trump-editorials-debates/6058615002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/02/USAT/498d4f6c-3c46-4d0b-ae54-1b37cf6dda8e-helsinki.JPG?auto=webp&crop=3405,1915,x0,y72&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6058615002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6058615002",
+      "publishedDateTime": "2020-11-02T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-sen-rick-scott-says-hispanics-will-help-trump-win-florida.md",
+      "title": "Sen. Rick Scott says Hispanics will help Trump win Florida",
+      "excerpt": "Hispanic voters are going to help President Trump win Florida in the 2020 presidential election, Sen. Rick Scott, R-Fla., said on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
+      "publishedDateTime": "2020-11-02T11:16:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-biden-gets-an-endorsement-from-silicon-valley-live-business-updates.md",
       "title": "Biden Gets an Endorsement From Silicon Valley: Live Business Updates",
       "excerpt": "A group of 11 founders, investors and business leaders from the technology industry endorsed Democratic presidential nominee Joseph R. Biden Jr. in a letter published on Monday, s",
@@ -179,7 +287,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1853,
+      "heat": 1933,
       "tags": null,
       "images": [
         {
@@ -592,7 +700,7 @@
       "originalUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 560,
+      "heat": 580,
       "tags": null,
       "images": [
         {
@@ -648,7 +756,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 3484,
+      "heat": 3544,
       "tags": null,
       "images": [
         {
@@ -816,7 +924,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 590,
+      "heat": 610,
       "tags": null,
       "images": [
         {
@@ -1225,118 +1333,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-last-shot-dem-establishment-lawrence-jones.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-last-shot-dem-establishment-lawrence-jones.amp",
       "publishedDateTime": "2020-11-01T09:24:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-hunter-bidens-business-was-industrial-scale-corruption-graham.md",
-      "title": "Hunter Biden's business was 'industrial-scale' corruption: Graham",
-      "excerpt": "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., said Sunday that he plans on holding a hearing where he will ask the FBI why they sat on the laptop believed to have belonged to Hunter Biden for almost a year without taking action.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7oB-3AQtPvE/graham-hunter-biden-business-industrial-scale-corruption",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7oB-3AQtPvE/graham-hunter-biden-business-industrial-scale-corruption",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff940e5b-abfd-4f83-a643-516042790627/644bed36-8304-4ae7-92cf-2c5809b22a97/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/graham-hunter-biden-business-industrial-scale-corruption.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-hunter-biden-business-industrial-scale-corruption.amp",
-      "publishedDateTime": "2020-11-01T09:07:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-gov-huckabee-believes-president-trump-will-get-reelected-by-a-substantial-margin.md",
-      "title": "Gov. Huckabee believes President Trump will get reelected by a 'substantial' margin",
-      "excerpt": "Former Arkansas Gov. Mike Huckabee believes President Trump will win the 2020 election by a “substantial” margin, telling “Fox & Friends” on Sunday that “it will cause people's heads to explode because they just can’t see it coming.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bNi9PkWNQb4/mike-huckabee-trump-reelected-substantial-margin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bNi9PkWNQb4/mike-huckabee-trump-reelected-substantial-margin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
-      "publishedDateTime": "2020-11-01T08:10:21-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-tow
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
 type: article
 quality: 125
-heat: 1025
+heat: 1045
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_10282020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Watch live: Biden speaks from Delaware"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks from Wilmington, Del.The event is scheduled to begin at 4:15 p.m.Watch the live video above."
+    publishedDateTime: 2020-11-05T21:21:00Z
+    webUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware"
+    ampWebUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_11042020getty.jpg"
         width: 980
         height: 551
         isCached: true

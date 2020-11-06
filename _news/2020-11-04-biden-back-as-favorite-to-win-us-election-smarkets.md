@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 type: article
 quality: 140
-heat: 300
+heat: 320
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/fc34688e-f71f-41ca-8466-c8d5269ea8d3-32d9e3ec-51a3-4cbf-8a55-913fddc572d5_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "WATCH: Joe Biden urges calm as votes continue to be counted"
+    excerpt: "Democratic presidential nominee Joe Biden is urging Americans to remain calm as votes continue to be counted in the 2020 presidential election."
+    publishedDateTime: 2020-11-05T20:17:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-biden-gives-remarks-in-wilmington-delaware"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 105
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/11/2020-11-04T213547Z_112600952_RC2LWJ97YSHO_RTRMADP_3_USA-ELECTION-BIDEN-1024x670.jpg"
+        width: 1024
+        height: 670
         isCached: true
   - title: "US election: Joe Biden - 'Each ballot must be counted'"
     excerpt: "The Democratic presidential candidate calls on people to be patient with the US election result."

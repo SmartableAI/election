@@ -302,6 +302,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Trump Slams Election Process In Speech, Says 'If You Count The Legal Votes I Easily Win'"
+    excerpt: "Speaking to reporters on Thursday night, President Trump said he won the election if only legal votes are counted."
+    publishedDateTime: 2020-11-06T00:31:00Z
+    webUrl: "https://www.ibtimes.com/trump-slams-election-process-speech-says-if-you-count-legal-votes-i-easily-win-3077208"
+    ampWebUrl: "https://www.ibtimes.com/trump-slams-election-process-speech-says-if-you-count-legal-votes-i-easily-win-3077208?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-slams-election-process-speech-says-if-you-count-legal-votes-i-easily-win-3077208?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 81
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/27/us-president-donald-trump-is-furious-at-journalists.jpg"
+        width: 1024
+        height: 701
+        isCached: true
   - title: "Barbara Res helped build Trump Tower. She says she saw Donald Trump ignore experts and disrespect employees in her 18 years working with him."
     excerpt: "Donald Trump has long displayed certain behaviors, says Barbara Res, whose new book \"Tower of Lies\" recounts almost 2 decades of working with him."
     publishedDateTime: 2020-11-03T22:49:00Z

@@ -4129,6 +4129,20 @@ related:
         width: 2400
         height: 1601
         isCached: true
+  - title: "Joe Biden holds narrow lead over Trump in Nevada"
+    excerpt: "Democratic presidential candidate Joe Biden maintains a narrow lead over President Trump in Nevada. Election officials there say a majority of the uncounted mail ballots come from Clark County — which makes up 70% of the state's population."
+    publishedDateTime: 2020-11-05T02:30:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-holds-narrow-lead-over-trump-in-nevada/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/05/6b5a14c3-ed90-49e8-8c54-e6a321d039bf/thumbnail/1200x630/2139631426ee8ae164670d5f02679cff/1104-cbsn-bms-581267-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Even If Joe Biden Wins, He Will Govern in Donald Trump’s America"
     excerpt: "The car horns blared as Joe Biden took the stage just before 1 a.m.—not to proclaim victory, but to urge his supporters not to lose hope, no matter what President Donald Trump might say. “We believe we are on track to win this election,"
     publishedDateTime: 2020-11-05T22:52:00Z

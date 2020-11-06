@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/11/04/kudlow-trumps-agenda-ve
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/04/kudlow-trumps-agenda-very-well-434048"
 type: article
 quality: 135
-heat: 137
+heat: 135
 published: true
 
 provider:

@@ -2,6 +2,171 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-04-trump-not-thinking-of-election-night-speech-yet.md",
+      "title": "Trump 'not thinking' of election night speech yet",
+      "excerpt": "Politics Trump 'not thinking' of election night speech yet. Posted . President Donald Trump visited the Republican National Committee campaign headquarters in Arlington, Virginia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85",
+      "originalUrl": "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20201103&i=OVD30RPB3&r=OVD30RPB3&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-ex-trump-loyalist-michael-cohen-hints-former-boss-wont-like-his-ballot-choice.md",
+      "title": "Ex-Trump loyalist Michael Cohen hints former boss won't like his ballot choice",
+      "excerpt": "President Trump's former attorney trolled the White House with a Twitter hint that he voted for Democrat Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nKdKfeLwf7o/michael-cohen-says-he-voted-for-biden-guess-what-i-did",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nKdKfeLwf7o/michael-cohen-says-he-voted-for-biden-guess-what-i-did",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55102a4f-6e35-4349-b50e-83e6b9601442/4036c90d-7074-4064-b8f1-1cd8f013fbc7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp",
+      "publishedDateTime": "2020-11-03T09:42:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-biden-signs-wall-of-childhood-home-from-this-house-to-the-white-house.md",
+      "title": "Biden signs wall of childhood home: 'From this house to the White House'",
+      "excerpt": "Democratic presidential nominee Joe Biden waves to onlookers from the steps of his childhood home on Nov. 3 in Scranton, Pa. | Drew Angerer/ Former Vice President Joe Biden signed one of the living room walls of his childhood home during a stop in Scranton,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/11/03/joe-biden-signs-wall-of-childhood-home-433933",
+      "originalUrl": "https://www.politico.com/news/2020/11/03/joe-biden-signs-wall-of-childhood-home-433933",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/5f/ad/b3b34d7e4d0e8cde4f1169a0aae6/201103-biden-childhood-home-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-vp-mike-pences-daughter-delivers-message-for-those-nervous-on-election-day.md",
       "title": "VP Mike Pence’s daughter delivers message for those ‘nervous’ on Election Day",
       "excerpt": "Charlotte Pence Bond, author and daughter of Vice President Mike Pence and second lady Karen Pence, delivered a powerful message on Tuesday about the 2020 presidential election and the importance of following God amid political and social unrest.",
@@ -257,58 +422,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-03-trump-appeared-to-back-away-from-claims-that-he-will-declare-victory-in-the-election-as-soon-as-possible-no-reason-to-play-games.md",
-      "title": "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'",
-      "excerpt": "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
-      "originalUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
-      "publishedDateTime": "2020-11-03T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-03-indias-hindu-fringe-group-holds-prayers-for-trump.md",
       "title": "India's Hindu fringe group holds prayers for Trump",
       "excerpt": "World India's Hindu fringe group holds prayers for Trump. Posted . A Hindu right-wing group in New Delhi held special prayers for U.S. President Donald Trump's victory in the pres",
@@ -478,7 +591,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1207,114 +1320,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
       "publishedDateTime": "2020-11-02T13:12:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-unfair-donald-trump-cant-complain-imagine-if-another-candidate-acted-like-he-does.md",
-      "title": "'Unfair' Donald Trump can't complain: Imagine if another candidate acted like he does",
-      "excerpt": "Have voters finally reached their limit and are prepared to bring down the curtain on the Trump show? Tune in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/11/02/election-imagine-if-other-candidates-acted-like-trump-editorials-debates/6058615002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/11/02/election-imagine-if-other-candidates-acted-like-trump-editorials-debates/6058615002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/02/USAT/498d4f6c-3c46-4d0b-ae54-1b37cf6dda8e-helsinki.JPG?auto=webp&crop=3405,1915,x0,y72&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6058615002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6058615002",
-      "publishedDateTime": "2020-11-02T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-sen-rick-scott-says-hispanics-will-help-trump-win-florida.md",
-      "title": "Sen. Rick Scott says Hispanics will help Trump win Florida",
-      "excerpt": "Hispanic voters are going to help President Trump win Florida in the 2020 presidential election, Sen. Rick Scott, R-Fla., said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
-      "publishedDateTime": "2020-11-02T11:16:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

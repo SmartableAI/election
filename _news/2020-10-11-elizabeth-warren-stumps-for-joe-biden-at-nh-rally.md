@@ -213,6 +213,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Watch live: Biden speaks from Delaware"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks from Wilmington, Del.The event is scheduled to begin at 4:15 p.m.Watch the live video above."
+    publishedDateTime: 2020-11-05T21:21:00Z
+    webUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware"
+    ampWebUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_11042020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden ramping up virtual fundraisers in final stretch of campaign cycle"
     excerpt: "Joe Biden's campaign will host 53 fundraisers total over 14 days, in order to secure voters before Election Day."
     publishedDateTime: 2020-10-07T09:40:00Z

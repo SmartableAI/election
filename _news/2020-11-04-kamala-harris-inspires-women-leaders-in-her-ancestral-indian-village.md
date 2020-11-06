@@ -331,6 +331,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Kamala Harris did not urge undocumented immigrants to vote"
+    excerpt: "Democratic vice presidential candidate Kamala Harris tells undocumented immigrants to vote in this election.  AP’S ASSESSMENT: False. Posts online are misrepresenting"
+    publishedDateTime: 2020-11-03T21:21:00Z
+    webUrl: "https://apnews.com/article/fact-checking-9667191348"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Kamala Harris speaks to reporters"
     excerpt: "Watch \"Kamala Harris speaks to reporters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-03T20:28:00Z

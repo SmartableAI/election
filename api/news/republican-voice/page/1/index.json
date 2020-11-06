@@ -170,6 +170,63 @@
       ]
     },
     {
+      "path": "_news/2020-11-05-bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.md",
+      "title": "Biden's 1 electoral vote from Nebraska district could prove pivotal to his White House bid",
+      "excerpt": "Omaha, Neb., became “Jomaha” as Democratic nominee Joe Biden won a single electoral vote from the state’s 2nd Congressional District.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid",
+      "originalUrl": "https://www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20293774864185.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.amp",
+      "publishedDateTime": "2020-11-04T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-squad-member-ilhan-omar-rejects-trumps-pennsylvania-victory-claim-sit-down.md",
       "title": "'Squad' member Ilhan Omar rejects Trump's Pennsylvania victory claim: 'Sit down'",
       "excerpt": "Rep. Ilhan Omar, D-Minn., on Wednesday criticized Eric Trump for claiming victory in Pennsylvania.",
@@ -791,7 +848,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 274,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -1598,62 +1655,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
       "publishedDateTime": "2020-11-02T13:12:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-sen-rick-scott-says-hispanics-will-help-trump-win-florida.md",
-      "title": "Sen. Rick Scott says Hispanics will help Trump win Florida",
-      "excerpt": "Hispanic voters are going to help President Trump win Florida in the 2020 presidential election, Sen. Rick Scott, R-Fla., said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
-      "publishedDateTime": "2020-11-02T11:16:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

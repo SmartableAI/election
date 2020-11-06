@@ -94,6 +94,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump campaign ballot counting lawsuits: What to know"
+    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
+    publishedDateTime: 2020-11-06T00:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "In St. Petersburg, Fla., Trump's Character Is in Focus"
     excerpt: "With millions of Floridians having already voted, the Election Day line quickly diminished outside the largest polling location in St. Petersburg, Fla. The city resides in Pinellas County, one of the bellwether counties in the country's largest battleground state."
     publishedDateTime: 2020-11-03T20:42:00Z

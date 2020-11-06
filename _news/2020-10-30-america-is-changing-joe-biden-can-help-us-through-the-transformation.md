@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -160,6 +160,22 @@ related:
       name: Time
       domain: time.com
     quality: 85
+  - title: "Will Lizzo run through the streets naked? Only if Joe Biden wins"
+    excerpt: "Lizzo has not been holding back on the TikToks this election season. In one video posted Wednesday evening, the proud Joe Biden and Kamala Harris supporter weighed the possibility of President Donald Trump being voted out of office."
+    publishedDateTime: 2020-11-05T21:42:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/lizzo-election-2020-tiktok-15704664.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/lizzo-election-2020-tiktok-15704664.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/lizzo-election-2020-tiktok-15704664.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/07/52/20216489/5/rawImage.png"
+        width: 873
+        height: 759
+        isCached: true
   - title: "Joe Biden: We can restore the soul of our nation | Raleigh News & Observer"
     excerpt: "The Editorial Board invited both presidential candidates to make their case to voters."
     publishedDateTime: 2020-10-29T08:00:00Z
