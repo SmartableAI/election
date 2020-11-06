@@ -45,6 +45,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Election 2020 live updates: Biden takes lead over Trump in battleground state of Georgia"
+    excerpt: "Democrat Joe Biden is now leading President Donald Trump in the battleground state of Georgia. By Friday morning, Biden overtook Trump in the number of ballots counted in the battleground, a must-win state for Trump that has long been a Republican stronghold."
+    publishedDateTime: 2020-11-06T10:11:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-2020-election-results-live-updates-20201106-f4pqz5z2lvfclhn5fwvmekzejy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-2020-election-results-live-updates-20201106-f4pqz5z2lvfclhn5fwvmekzejy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-2020-election-results-live-updates-20201106-f4pqz5z2lvfclhn5fwvmekzejy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 146
+    images:
+      - url: "https://www.chicagotribune.com/resizer/JRdnzOrRp9Gif-ENC2_2XNEGLFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/J2DLGE4DX2CHDCX7LKRMRNGEEI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vote counts push Biden closer to victory as Trump falsely claims election being 'stolen'"
     excerpt: "With his re-election chances fading as more votes are counted in a handful of battleground states, U.S. President Donald Trump launched an extraordinary assault on the country's democratic process from the White House on Thursday,"
     publishedDateTime: 2020-11-06T03:45:00Z
@@ -1340,6 +1356,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Why AP called Arizona for Joe Biden"
+    excerpt: "The Associated Press has declared Democrat Joe Biden the winner in Arizona, flipping a longtime GOP state that President Donald Trump won in 2016. The AP called the race at 2:50 a.m. EST Wednesday, after an analysis of ballots cast statewide concluded there were not enough outstanding to allow Trump to catch up."
+    publishedDateTime: 2020-11-05T15:34:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 75
+    images:
+      - url: "https://www.courant.com/resizer/3LirmlyA0klspZUqBp7tkKNUrEE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NWN3FIELQT7VCXFINCJIS6TXQQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden is set to become the oldest president, a title held by Ronald Reagan"
     excerpt: "As of now, the oldest sitting president in U.S. history was Ronald Reagan, who was 77 when he left office in 1989."
     publishedDateTime: 2020-11-06T00:34:00Z
@@ -1395,6 +1427,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "2020 Latest: Biden Overtakes Trump in Georgia Vote Count"
+    excerpt: "Biden overtook Trump in the number of ballots counted in the battleground, a must-win state for Trump that has long been a Republican stronghold. Biden now has"
+    publishedDateTime: 2020-11-06T10:13:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-06/2020-latest-biden-overtakes-trump-in-georgia-vote-count"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-06/2020-latest-biden-overtakes-trump-in-georgia-vote-count?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-06/2020-latest-biden-overtakes-trump-in-georgia-vote-count?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Trump makes baseless claim on election status"
     excerpt: "But President Donald Trump is renewing his unfounded claims that Democrats are trying to “steal” the election from him. He did not back up his claim with any details or evidence. State and federal officials have not reported any instances of widespread voter fraud."
     publishedDateTime: 2020-11-06T00:57:00Z

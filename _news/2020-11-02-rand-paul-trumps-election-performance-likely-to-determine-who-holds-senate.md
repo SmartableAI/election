@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden overtakes Trump in Georgia count as tally nears completion"
+    excerpt: "Democratic nominee Joe Biden pulled ahead of President Trump early Friday in the race for Georgia’s 16 electoral votes."
+    publishedDateTime: 2020-11-06T10:06:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBMa7CywdSo/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump rips absentee ballot extensions, says election 'should end on November 3rd'"
     excerpt: "President Trump on Friday panned decisions made by some courts that are allowing mail-in or absentee ballots to be counted if they are received by election authorities after Nov. 3, calling the rulings \"CRAZY and so bad for our Country.\""
     publishedDateTime: 2020-10-30T17:03:37Z

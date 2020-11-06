@@ -965,6 +965,17 @@ related:
         width: 998
         height: 748
         isCached: true
+  - title: "Voting irregularities in deep red Michigan county under investigation after Biden lead there raises eyebrows"
+    excerpt: "But on Wednesday morning, results out of Antrim County showed Democratic presidential contender Joe Biden leading the county by more than 3,000 votes with 98% of the results in. Officials did not check the results before posting them, leading former state ..."
+    publishedDateTime: 2020-11-05T14:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 46
 
 secured: "v+bep+vALaNKT6j/apxA+60n327k4H6kdoHZpp2HCV/WtChLNAK4WRvTOXI5cG7G2hf1mavWcmT8zfI2Y2CdBJlPNF5U7u+sxFvysS5097pqffaAwTc4hVfsqUK8+XecorNgFzOVWGx3nXF8QZ1sNkLAkLWm/M5yHGjIDsB8CLNqhc9ft6kq2bK30dsn3Md6g9+BNyv0uqtBa+aC7PyzRuPbuhQ9Cf1CWpIDZ/JJ/K25fMkjSEWjuR8eWe5c2R+UivldVy9WTUweyLXNFH5a1R7VeKDjt9lirPfONYDH+PiaMVwu2A8L4gO3iHWyfZj+3iTcVqVI6dK8QA1TquPj4EUD7qoYiX3Pr5eXA6H6IfE=;MlA++g9YXym96I4ZX1mFpg=="
 ---

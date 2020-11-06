@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump's Pennsylvania lead dwindles as legal fight heats up over Philadelphia poll watchers"
-    excerpt: "President Trump's lead over Joe Biden in Pennsylvania was shrinking Thursday, as state election workers continued to count mail-in ballots."
-    publishedDateTime: 2020-11-05T20:47:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0R4SlMqREDs/trump-pennsylvania-lead-narrows-campaign-legal-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-lead-narrows-campaign-legal-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-lead-narrows-campaign-legal-fight.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump tells supporters in Pennsylvania they can 'save the American Dream' from 'corrupt forces'"
     excerpt: "President Trump on Saturday told supporters in Pennsylvania that they have the chance to “save the American dream” by reelecting him to office on Tuesday -- while warning of “corrupt forces” who are seeking to replace him with Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-31T16:30:02Z

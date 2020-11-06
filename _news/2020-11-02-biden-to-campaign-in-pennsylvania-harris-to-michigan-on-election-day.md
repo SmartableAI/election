@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 1415
+heat: 1435
 published: true
 
 provider:
@@ -969,6 +969,17 @@ related:
         width: 998
         height: 748
         isCached: true
+  - title: "Voting irregularities in deep red Michigan county under investigation after Biden lead there raises eyebrows"
+    excerpt: "But on Wednesday morning, results out of Antrim County showed Democratic presidential contender Joe Biden leading the county by more than 3,000 votes with 98% of the results in. Officials did not check the results before posting them, leading former state ..."
+    publishedDateTime: 2020-11-05T14:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 46
 
 secured: "/MKIvO2lod1Xul/nN2/tGDOEV7SzhGo6Coqv2IafOA43vKOTzHf8YY8cDtAUEGZMI1PsGCAA7m56C9BGB1Y31nLQBB+NqEp0VwjYAUPwnZ1OqFubV+8DBkWnmRZXDqziOuhEdld/M2+KJ4nYn9xExAGVWNRYV66QnXNmbBWP2axuudxVtXVJEMPIxAS3hIM/ef2yfeumY7rUEvom7lwJna2f+prVFD1L4vVFP+KMunWJc+d10fdGRJ4ywCmSjVw97Pf6yYMnoHzqgwM9TFr7Wp0//GK8GzjW0P++iHpj5eyEv0nWdDtxyZcG2wmgsQ28aG4lFRrqqilcGju7djv/Hutne5VcCbr4Bnq38ni7/Y4=;i5w3uOPN5xkvekccCZDi7w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania-victory-claim.amp"
 type: article
 quality: 170
-heat: 230
+heat: 210
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's Pennsylvania lead dwindles as legal fight heats up over Philadelphia poll watchers"
-    excerpt: "President Trump's lead over Joe Biden in Pennsylvania was shrinking Thursday, as state election workers continued to count mail-in ballots."
-    publishedDateTime: 2020-11-05T20:47:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0R4SlMqREDs/trump-pennsylvania-lead-narrows-campaign-legal-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-lead-narrows-campaign-legal-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-lead-narrows-campaign-legal-fight.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Pennsylvania Dems using official positions to 'stack the deck' against Trump: state GOP chair"
     excerpt: "President Trump will win Pennsylvania despite Democratic state officials' best efforts to \"stack the deck,\" the battleground state's GOP chairman and election law attorney Lawrence Tabas tells Fox News."
     publishedDateTime: 2020-11-04T19:04:18Z

@@ -35,22 +35,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Why AP called Arizona for Joe Biden"
-    excerpt: "Arizona has a long political history of voting Republican. It’s the home state of Barry Goldwater, a five-term, conservative senator who was the Republican nominee for president"
-    publishedDateTime: 2020-11-05T15:32:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/3LirmlyA0klspZUqBp7tkKNUrEE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NWN3FIELQT7VCXFINCJIS6TXQQ.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Americans say they are better off under Trump, but is America? Trump by the numbers"
     excerpt: "Gallup reports that 56% said they're better off than in 2016, but 56% also said President Donald Trump does not deserve to be reelected."
     publishedDateTime: 2020-10-29T09:21:00Z
@@ -250,6 +234,20 @@ related:
       - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/10/GettyImages-520783510.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Why Joe Biden Saw Mixed Success With Latinos"
+    excerpt: "Democrats' long-term hopes for electoral success have long cited the growing Latino population in the country. But former Vice President Joe Biden&"
+    publishedDateTime: 2020-11-05T20:54:00Z
+    webUrl: "https://www.boisestatepublicradio.org/post/what-we-know-about-latino-vote-some-key-states"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 55
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202011/931726854.jpg"
+        width: 800
+        height: 555
         isCached: true
 
 secured: "6JGBf7yFqpDkOKbKbLIC4Cg8A+bkoNdAmuXvbKC7I67iQ0m3zE5CtJBvRrAk262d2LNt+K5jGkvkgjUVlmbQx8cWr3lkwRistncdAzYAgNahOEgXvLDSfQ5VTYZH7ONWTJ1bMMkPvA8hSaKMnANrlVM0A+6FdkMw+b6plKk6OKedoqIPfYIgLv1x4Rn0+SOaNI/9TLTZ/iM1i0Oe1DL0mUHJsLiJ0ID8RLhup+ToC9qoTfdaoAFqchyPRB7A1GJsHsg5UC9fIzJNDo5e+z3qaIhCNvo11c08GzMstC7p4MlPUfQpSqjkryVCRWjrBfmDbRyOYvhPeToLFwamm+EKoGMc1Ij2839v1PfuvcxAL2bhBIqX6w3H70oxjWBHPmVuUGRbEIqnPFulPtpCLEhfyXhHJVqNVemcALh50cr1ADDS7IvFqjiWzR56cdOTMKtUWGoOoBumyM+11z8TRNq3LF4q9vq6xuniqRRGtX2lcbXD/uJWn6d4mlPBesNwthm5s0F/hEMmvEDjjEberCnb2Q==;KHCP24Sk/3Qp4vPqw1Ce8w=="

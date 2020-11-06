@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 690
+heat: 710
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/boat1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden overtakes Trump in Georgia count as tally nears completion"
+    excerpt: "Democratic nominee Joe Biden pulled ahead of President Trump early Friday in the race for Georgia’s 16 electoral votes."
+    publishedDateTime: 2020-11-06T10:06:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBMa7CywdSo/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Rand Paul: Trump's election performance likely to determine who holds Senate"
     excerpt: "Paul predicts Iowa, NC Senate races 'definitely go the way the president goes'"

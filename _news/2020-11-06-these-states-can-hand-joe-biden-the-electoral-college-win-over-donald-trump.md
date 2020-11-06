@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump takes fighting stance as election swings toward Biden"
+    excerpt: "As former Vice President Joe Biden moved closer to winning the White House, President Donald Trump adopted a fighting posture on Thursday, making false claims to undermine a vote that was not going his way."
+    publishedDateTime: 2020-11-06T08:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump/trump-takes-fighting-stance-as-election-swings-toward-biden-idUSKBN27M0F5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0F5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0F5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540206800&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA509O"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania"
     excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday."
     publishedDateTime: 2020-10-27T04:24:00Z
@@ -7234,6 +7250,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "VtWZ/UJbBTt/+xxMoY/rTNcjciM+Ekz01bzjczMmNdhinH8hYRBFTaGiGx9B2PwF1xxjc7LNEaWYHHjkCpudChSwU1DPAmX+1M8BhH1JA+msbqHRZjz5glDdQiBR13Gc+nASQdWHV6AJzk9n8iCwt2efIzRs3kxLQPOAShZvrDi7G+wgIg2PKhWlCzxeMvKEGx4ogDb5KmUtyH7ANNVr4Y03GDpI03ZR750JS7+M2kZWwvzBzkCmRpdhyeSFAk4+1C5pnjFuqC2ns5GPF1CS3i04wYUsaV4TWwvBXOZNlQhMO/ySpcVUnCZ+hBXXAUwOZEtn6nMS46rrN+9118/fddlF5DASAJNdRJKOybD9Kd4=;QwxDLUsfK8eylDXAIhjGdQ=="
+secured: "aKzShS2r8sCHHPz42X8483scqBto7vYsxjlQE/Av3yGARbN1J1Z5xPTVlGToCqQHg3PZDqpfo+nFOQggdsJ1FTWp+nIhtN7x/p9CQjujhPghqUWSO2nYpqpqpRur7WHNhYs+4pFedKEg1LYOop3CS9NC5EZn1IbA6/3g9c/ye2J6CGO/xdAl/bI6/FBvvlOpFtcq/eVcaI6j3OBU4acms/U7H7T57YKBjNa5aqNizta+m+v1pQPQucR2I7YR0s/1TZCyRBCQ9biqmgHUgH2L4tEhcq3P4ikMUNjnzHdgQgyI0dfiYcB7rDDvh29lWWu4I1MQVkgyLWAoJmAk1Ebq07s6l0EWyEIeUu8JaQ0CofP+7t1WGWUnr1S4V/94CZSZn0+uP8eLCGLzS4WUYLMG6I0JBxLQrLk4MnZqhKq/ATZZaFwc+0XzsUfdy3BpUeQBP/rJOVaD6yOiUUf/b/gBo6SF9c6kyiCmwvdeFe1qzSjoQRuDfw4axYKcUzDnD0HEk1NJEAj4fGCbcY8KG7OVVA==;QzbXYgXlCTWlpbVnq77thA=="
 ---
 

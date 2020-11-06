@@ -31,51 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "'Squad' member Ilhan Omar rejects Trump's Pennsylvania victory claim: 'Sit down'"
-    excerpt: "Rep. Ilhan Omar, D-Minn., on Wednesday criticized Eric Trump for claiming victory in Pennsylvania."
-    publishedDateTime: 2020-11-05T00:19:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zjPygKKIcW4/ilhan-omar-eric-trumps-pennsylvania-victory-claim"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania-victory-claim.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania-victory-claim.amp"
+  - title: "Federal judge dismisses Trump request to stop counting Philadelphia ballots"
+    excerpt: "A federal judge reportedly dismissed an emergency injunction brought by the Trump campaign Thursday afternoon to stop the counting of votes in Philadelphia, claiming election workers were ignoring an earlier court ruling over election observers."
+    publishedDateTime: 2020-11-06T10:05:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsjtNI2ijS8/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/philly-voting.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310851009982.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Pennsylvania Dems using official positions to 'stack the deck' against Trump: state GOP chair"
-    excerpt: "President Trump will win Pennsylvania despite Democratic state officials' best efforts to \"stack the deck,\" the battleground state's GOP chairman and election law attorney Lawrence Tabas tells Fox News."
-    publishedDateTime: 2020-11-04T19:04:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mpp7SIRMuxI/pennyslvania-trump-biden-ballots-results-election-gop-chair-lawrence-tabas"
-    ampWebUrl: "https://www.foxnews.com/politics/pennyslvania-trump-biden-ballots-results-election-gop-chair-lawrence-tabas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennyslvania-trump-biden-ballots-results-election-gop-chair-lawrence-tabas.amp"
+  - title: "Judge rules for Trump campaign, granting rep better view of Philadelphia vote count"
+    excerpt: "A Pennsylvania appellate court handed the Trump campaign a victory Thursday by allowing it to have its representative as close as six feet away from the vote-counting process that is underway at the Philadelphia Convention Center."
+    publishedDateTime: 2020-11-05T16:42:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZOPoIFTwFOc/pennsylvania-judge-rules-for-trump-campaign-philadelphia-vote-count"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-judge-rules-for-trump-campaign-philadelphia-vote-count.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-judge-rules-for-trump-campaign-philadelphia-vote-count.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bdd12d9d-c370-47d8-a3f9-dd83ac8d8213/a00ff9b9-ebe8-48a5-96fd-93bc7b091488/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump tells supporters in Pennsylvania they can 'save the American Dream' from 'corrupt forces'"
-    excerpt: "President Trump on Saturday told supporters in Pennsylvania that they have the chance to “save the American dream” by reelecting him to office on Tuesday -- while warning of “corrupt forces” who are seeking to replace him with Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-31T16:30:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fE41akD_eaw/trump-pennsylvania-american-dream"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-american-dream.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-american-dream.amp"
+  - title: "Trump campaign ballot counting lawsuits: What to know"
+    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
+    publishedDateTime: 2020-11-06T00:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1c28aa3-8f61-431d-b3c4-c43a2bf5827d/ce54a741-f833-4cf7-8887-2ace3de5a30b/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
         width: 1280
         height: 720
         isCached: true
