@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Squad' member Ilhan Omar rejects Trump's Pennsylvania victory claim: 'Sit down'"
-    excerpt: "Rep. Ilhan Omar, D-Minn., on Wednesday criticized Eric Trump for claiming victory in Pennsylvania."
-    publishedDateTime: 2020-11-05T00:19:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zjPygKKIcW4/ilhan-omar-eric-trumps-pennsylvania-victory-claim"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania-victory-claim.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania-victory-claim.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/philly-voting.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump's Pennsylvania lead dwindles as legal fight heats up over Philadelphia poll watchers"
     excerpt: "President Trump's lead over Joe Biden in Pennsylvania was shrinking Thursday, as state election workers continued to count mail-in ballots."
     publishedDateTime: 2020-11-05T20:47:11Z
@@ -78,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump says Supreme Court decision on Pennsylvania ballots is 'dangerous,' 'will 'induce violence'"
+    excerpt: "President Trump Monday called a Supreme Court decision that said Pennsylvania could allow mail ballots through Friday “dangerous,” adding it would lead to “violence.”"
+    publishedDateTime: 2020-11-03T05:22:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySMpc_U52AI/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/271cf1eb-74b0-4238-8cc6-dd9c23ed7c2c/f9d2a304-3484-48d2-8f7d-116c5e2edfc6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "bkfEtSWJzT0P7OGs0oDIIvfy1s5n6uslMQyKwFL2U/1zlpXGs3X+T2VtMLj+mL1ciMTcUKXlISRTQ0k5+81N6fi8pfayvhYmT1SGTHrBaKKZzzKCPkya2bTiVFThhJxxXyC6en15NDjv7ZKvQ+bnWQfmRW6HaNb9be5WkM3XbT8w1tGK25FELJoKRqEe/ZdV2FhlMWaCPO+tApcbUTXPqWjSFqtOdSY8ZzTr3r2mUpK6Ah6xMFUTRqK27vqKy8GZsH5kR7DAcXP4d32h8I5JDA/4cPJU35g9njwDNubBDiZYVXfeZEfjFqcDeOJhqTOvwgn8B7fQy4ETNHXMVttUDVkd+7EPF6MT/Uye0qSbVlE=;JZJAyblJ+PNXSfBmkjrAag=="

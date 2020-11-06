@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden gains ground on Trump in Georgia and Pennsylvania, edges closer to White House"
+    excerpt: "Democratic presidential candidate Joe Biden gained more ground on President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to the White House hours after Trump falsely claimed the election was being \"stolen\" from him."
+    publishedDateTime: 2020-11-06T13:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27M0U5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0U5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0U5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 143
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226823&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50II"
+        width: 838
+        height: 545
+        isCached: true
   - title: "Election 2020 live updates: Trump campaign website hacked"
     excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
     publishedDateTime: 2020-10-29T03:58:00Z
@@ -299,6 +315,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540140995&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41CG"
         width: 816
+        height: 545
+        isCached: true
+  - title: "U.S. Republicans divided over Trump's election-fraud claims"
+    excerpt: "As President Donald Trump fumes over the unfolding U.S. presidential election results, some of his fellow Republicans in Congress have hinted that he ought to tone down his rhetoric."
+    publishedDateTime: 2020-11-06T22:41:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN27M2VM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M2VM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M2VM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540314188&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51SZ"
+        width: 819
         height: 545
         isCached: true
   - title: "After acrimonious campaign, uneasy Americans choose between Biden, Trump"
@@ -620,22 +652,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/05/USAT/f1a0fffe-a198-487a-940a-aacfa19f03c1-AP_Election_2020_Protests_Detroit.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Biden gains ground on Trump in Georgia and Pennsylvania, edges closer to White House"
-    excerpt: "Democratic presidential candidate Joe Biden gained more ground on President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to the White House hours after Trump falsely claimed the election was being \"stolen\" from him."
-    publishedDateTime: 2020-11-06T13:14:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27M0U5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0U5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0U5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 133
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226823&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50II"
-        width: 838
-        height: 545
         isCached: true
   - title: "Election 2020 live updates: Trump makes false statement about Election Day ballot counts"
     excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."

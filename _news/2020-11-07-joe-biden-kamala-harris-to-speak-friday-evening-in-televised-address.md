@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden, Kamala Harris to speak Friday evening in televised address"
 excerpt: "Joe Biden is on the cusp of winning the presidency as he opens up narrow leads over President Donald Trump in several critical backgrounds."
-publishedDateTime: 2020-11-06T18:33:00Z
-originalUrl: "https://www.oregonlive.com/nation/2020/11/joe-biden-kamala-harris-to-speak-friday-evening-in-televised-address.html"
-webUrl: "https://www.oregonlive.com/nation/2020/11/joe-biden-kamala-harris-to-speak-friday-evening-in-televised-address.html"
-ampWebUrl: "https://www.oregonlive.com/nation/2020/11/joe-biden-kamala-harris-to-speak-friday-evening-in-televised-address.html?outputType=amp"
-cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2020/11/joe-biden-kamala-harris-to-speak-friday-evening-in-televised-address.html?outputType=amp"
+publishedDateTime: 2020-11-06T17:19:00Z
+originalUrl: "https://www.masslive.com/politics/2020/11/joe-biden-kamala-to-speak-friday-evening-in-televised-address.html"
+webUrl: "https://www.masslive.com/politics/2020/11/joe-biden-kamala-to-speak-friday-evening-in-televised-address.html"
+ampWebUrl: "https://www.masslive.com/politics/2020/11/joe-biden-kamala-to-speak-friday-evening-in-televised-address.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/11/joe-biden-kamala-to-speak-friday-evening-in-televised-address.html?outputType=amp"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Oregonian
-  domain: oregonlive.com
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Election
@@ -287,6 +287,22 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/78dbb2b2-1498-479d-b608-382e2b11e905-AFP_AFP_8QQ2XP.jpg?auto=webp&crop=3972,2235,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pa. on the brink of sending Biden to the White House, as mail-in ballots land in his favor"
+    excerpt: "It would give Democrat Joe Biden the 270 electoral votes needed to win, and President Donald J. Trump's campaign said he needs Pennsylvania on his path to reelection. Biden and Trump spent the majority of their final campaign stops in Pennsylvania,"
+    publishedDateTime: 2020-11-06T21:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/06/pa-election-results-state-could-send-biden-white-house/6186379002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6186379002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6186379002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -1043,6 +1059,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "ZUXN7KU6D9KKbYIhqR29PuiTKPQn1bKDenwllABf+uzC+XSZhhczEQX+5yqQxK5AH2jJmbVE+IQKW1hWBSfmyDdkm4lwZKPQeIIctgaKAmZUXuUk/BBYARJcexuGwhSHAr8aMZdNPi6iWCYlbgZT1ZF0V7vrLpJkuN++gUDQVrxde+S8xalBWlu/ysFLRYn9VLCSE5FPoIkLwS6ds94DWHsUyOM+OX9lB62tXFHIijM9uzdrvpzUmZIsnr4Z8HhAw/3y0cYjiDrP0nfyjZkDDko26iCWd9NlTx3fxi+soO457cW4Ib6fDmIei8lhdkuWH6XzkMoXcV6gISs6uKgt0JWkGDcJpHUhc4qinSzShtc=;u7wi8KFBlhWKomrRbDRflQ=="
+secured: "/78T24WpBbYR3FI5zcKSX62ctI68me1wt19D9R2W6MniD6nSU2K3N7ffnp/z4gH3btIOvYf/rIo6R83KWvMLyAr4Tp5qfbupUbLzHxl/9dBR2+GZKVZZfcxNu/ndNJUjQm9h4rN2SbD2OopLJQxBOYWmgKnBasQQE13FoLRjqekzsSPt8oQkFHU7ffUgKSq6xzXTuby7tg9ogN7wF2keTOM9F2q9GTVA54AcnbyxvC0DNh2EDPGc/C34Ik8jY+c06J2w463GsBY343SFE0h/cAFfNHH9o+TWfN2P3N4n6J2qXt/TFBxmnGT/EMxAXzbcXLYPUxo5PgO9EmAu7oeH5q9LJv7KfZru6Mp8bJwlLpQ=;AYfvjy5TBUna5OLusVJkOQ=="
 ---
 

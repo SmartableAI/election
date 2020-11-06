@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-13-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it.md",
+      "title": "Biden and Harris would end Trump's China policy — Pence would extend it",
+      "excerpt": "Pence’s clear-eyed vision on the China threat matches Trump’s instincts and would make for a seamless presidential transition, if necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
+      "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 10720,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp",
+      "publishedDateTime": "2020-10-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-kamala-harris-husband-emhoff-everythings-on-the-line-right-now.md",
       "title": "Kamala Harris' husband Emhoff: 'Everything's on the line right now'",
       "excerpt": "Doug Emhoff called President Trump a failing and racist president who didn't deal with COVID-19 due to an \"inept lack of caring and lack of action\"",

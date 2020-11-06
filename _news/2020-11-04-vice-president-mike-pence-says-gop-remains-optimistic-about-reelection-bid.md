@@ -2,17 +2,17 @@
 category: news
 title: "Vice President Mike Pence says GOP remains optimistic about reelection bid"
 excerpt: "With just hours left for voters to cast their ballot, our sister station WXII in North Carolina did a one-on-one interview with Vice President Mike Pence and former South Bend, Indiana, mayor and former Democratic presidential candidate Pete Buttigieg."
-publishedDateTime: 2020-11-03T22:37:00Z
-originalUrl: "https://www.lmtonline.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
-webUrl: "https://www.lmtonline.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
+publishedDateTime: 2020-11-03T22:50:00Z
+originalUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
+webUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Laredo Morning Times
-  domain: lmtonline.com
+  name: The Telegraph
+  domain: thetelegraph.com
 
 topics:
   - Election
@@ -169,6 +169,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "ZfR7fknskFNep36P2C6W2bMy0INNWdw3+ke4Q8cyHeuArU+0KYH6gj9qpSJdDoAfqGslOBrE8Yh5FIJVp7qLtm7aQeyUlbVn3w3gXVoxufPObknBm9+12864OrgV0Ja2jvC1q4COJStykM53pv/7vSGU6qtIuB+M1/S3ag2kwOVK8+ZMIOUuogKvXApUxVCSoGkdx6aB7vBFGASBehmIibKTZ9o+ypFiMuNg+3gYj7MulDvABe/ZyXpoBWZTYg0Vq0GJpmspC2aCli4wW/00IIeWD9mIKXTbsDiiV2670gmM39yjyEa2OdxMRWOAUT+XbZCrPjAmexMKxCV/0RSLXogbFk5gPVECZiJrw41QUS+ETw5+9N/NDjJPRgY21rwgJJybPs0J68KkoTxC8/VlvR8o+hdMA1LOuTa5acFNCbh2CsxJwX1ntoX0gSYD98yNgMQagR63w7yq0xOcpWo+1sANK/KEkoAx9MTHP/u9+rlcIz+XTz//7BMIJqbp728ei4PFAx201j8c+JGaZCuknQ==;UfdOWxr1veWJj/91WddtlQ=="
+secured: "ryoS0TQMhzbI2R9f9zOs9SPzCyHwvjc47U++rMy4FVdzOmiHZKHndlyy0wilyegLLZKBIyMbnfqWr552wSoQYf8mAqUL3esQPKbRf0WK91r/PVsNpPPdGILdnu48fqi2uplYWPafUnmPmbnoyBPcT1Ggm0Y20tFwR2qnSbahT6UU/a57wyS7Cq3bmh7r+H3H37AQJFsNYtjgI6+nxmcYY2NZgR+hqdvaXmXMwzAj5pB9/rOJGDEb3j5b+nixAvmZQ/MjGtKQgcJQyoIMw86gowtvP0Zmb1xS4MUNErEybpBt2aB4JspVtEapnMCRkNLp63kp2INmX3vPLxbxjZKQYS8jWTexmpjYgG49SaehR0E=;66dOJyPlAOvlGVqsRRDWTA=="
 ---
 

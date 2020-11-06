@@ -8,7 +8,7 @@ webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27M0U5"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0U5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0U5"
 type: article
-quality: 133
+quality: 143
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226823&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50II"
@@ -301,6 +302,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540140995&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41CG"
         width: 816
+        height: 545
+        isCached: true
+  - title: "U.S. Republicans divided over Trump's election-fraud claims"
+    excerpt: "As President Donald Trump fumes over the unfolding U.S. presidential election results, some of his fellow Republicans in Congress have hinted that he ought to tone down his rhetoric."
+    publishedDateTime: 2020-11-06T22:41:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN27M2VM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M2VM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M2VM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540314188&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51SZ"
+        width: 819
         height: 545
         isCached: true
   - title: "After acrimonious campaign, uneasy Americans choose between Biden, Trump"
@@ -1669,6 +1686,6 @@ related:
         height: 630
         isCached: true
 
-secured: "KaOU+zi1orLokL8c/pp726/Nq6Ynj8OcgvPVZvWxyXdTAUqG1FsXXVQAxnAhwDuGp2Mvi9RrH6ZN4s5ULQtiPsTGFf7M85kwIyMjhW9sF9VVxd0Wp5bNsoVODXkKwV5ezcTiO88AB+NTmtVFsHfuucys1DUBFukFndwF4XCWTu9i2zheOaDbXLQFEPdPTAWl5eElZdoz8agsj4rfHvNif0lvw9FC8gZC4T5grT58F8lrGAyVP0iTY32e06znTFyEA5STSYsfyZTgfpEmTdfyDno39AXtWNQV2/wZSto/d0FfGWHBuQw/jBsbU5qmtqeRqfAFew6m87GdlF3d1ukXt6t8Xus1/UTmoEAt9OaSyxo=;RbJKjHX8RGXugZqEHK8ooA=="
+secured: "Rg3ZW0XyLTEDMzUSEvEX2s2GZXweRObH6o0Nn+5NWxtQMJ+6FYGLeawZZ8wHKBqP9IGDb+sm0SzmGaTlXo4unsv+1EielHc0B7ZM1MkRq+exTiRrdNxDBVS60gjUu9aXyxP8kKN1QdZJ0zatJXYvyl/eg1DOV32wDs5MiNvch+qK9pntCRnXb3kpCUee+36ONeGpFo/LjvhTXW/5Qs7IV9Ayg3pptW7xzaoKNJIMnucpQXo9/NiNGYicDg8u99uIybLMg4qhZo2twqB+6WvOnHbv5wCms3FszjVl9fF0JASEdzA9ogFvY9dwvwGIylho+/8A5tNdSwsFHRyR31SZTQFMlYVoR3ic8KZzu0+RYV7hsvog9u2nokLmpwFHie8kx0KRUxDgxP31tgyeSR/U1iOCBZvgNNHarG3lDrSwhfff6OP8DLzExHwwwgKd5T88ueIkU1RwyI+fUiJNbOBDA114aiO/ffZKYkGUOj+5Z3z8MBg9BjF9bUHEkijr7DjdNuK6vcHiFrAEncs622HA/A==;IVBfDlVdKzyEol00PqNrnQ=="
 ---
 

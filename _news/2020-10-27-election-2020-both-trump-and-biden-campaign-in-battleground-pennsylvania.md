@@ -127,6 +127,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden close to U.S. election victory as a defiant Trump vows to fight"
+    excerpt: "Democrat Joe Biden edged closer to winning the White House on Friday, expanding his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia even as Republicans sought to raise $60 million to fund lawsuits challenging the results."
+    publishedDateTime: 2020-11-06T22:14:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27M0X7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0X7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0X7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226823&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50II"
+        width: 838
+        height: 545
+        isCached: true
   - title: "Trump, Biden vie for votes in battleground Pennsylvania as election nears"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania on Monday, while Democrat Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
     publishedDateTime: 2020-10-27T01:22:00Z

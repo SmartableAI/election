@@ -2,6 +2,63 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-10-08-newsom-points-to-trump-to-defend-masking-between-bites-at-restaurants.md",
+      "title": "Newsom points to Trump to defend masking 'between bites' at restaurants",
+      "excerpt": "Gavin Newsom pushed back hard Wednesday against Republicans and conservative media slamming his recent tweet calling for masks in between restaurant bites, flipping it back on President Donald Trump by saying critics should \"soberly take a look at what's going on in the White House'' and consider the severe impact of the Covid-19 pandemic on Americans and the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/california/story/2020/10/07/newsom-pushes-back-on-gop-criticism-of-his-mask-tweet-1322262",
+      "originalUrl": "https://www.politico.com/states/california/story/2020/10/07/newsom-pushes-back-on-gop-criticism-of-his-mask-tweet-1322262",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/dd/98/543c5dcf457192472a4ec33989f6/ap20184626091205-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-fact-check-trumps-hospital-records-weight-have-not-been-released.md",
       "title": "Fact check: Trump's hospital records, weight have not been released",
       "excerpt": "Social media posts claim President Donald Trump is underrepresenting his weight by nearly 80 pounds. His latest physical results reveal this is false.",
@@ -1316,63 +1373,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-im-mayor-first-in-miami-dade-walking-a-line-between-trump-and-constituents.md",
-      "title": "‘I’m mayor first’: In Miami-Dade, walking a line between Trump and constituents",
-      "excerpt": "The Republican mayor of Miami-Dade County is a Trump-endorsed congressional candidate in a nationally watched swing seat. He’s also the elected leader of the urban heart of South Florida, a coronavirus hot spot that’s home to 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/07/carlos-gimenez-trump-coronavirus-426909",
-      "originalUrl": "https://www.politico.com/news/2020/10/07/carlos-gimenez-trump-coronavirus-426909",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/2d/ab/cec464684938adc1e0bb8c5a741d/201006-gimenez-herald-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

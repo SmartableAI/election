@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-10-13-mike-pence-rallies-gop-supporters-in-waukesha-takes-a-jab-at-milwaukee-mayor-tom-barrett.md",
+      "title": "Mike Pence rallies GOP supporters in Waukesha, takes a jab at Milwaukee Mayor Tom Barrett",
+      "excerpt": "WAUKESHA – Vice President Mike Pence resumed his Wisconsin roadshow Tuesday with some tough words on law and order and a jab at Milwaukee Mayor Tom Barrett during a campaign rally at Weldall ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/news/politics/elections/2020/10/13/mike-pences-campaign-rally-weldall-manufacturing-waukesha/5977194002/",
+      "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/10/13/mike-pences-campaign-rally-weldall-manufacturing-waukesha/5977194002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/13/PMJS/d85e5f33-0f2a-4f65-8f24-6c6736f13e02-PENCE_0899.JPG?auto=webp&crop=3527,1984,x149,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.jsonline.com/amp/5977194002",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5977194002",
+      "publishedDateTime": "2020-10-13T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-fauci-says-hes-not-going-to-walk-away-as-trump-revives-criticism.md",
       "title": "Fauci says he's 'not going to walk away' as Trump revives criticism",
       "excerpt": "President Donald Trump revived his public criticism of Dr. Anthony Fauci Tuesday morning, continuing his efforts to undermine the infectious disease expert even as the doctor said he's not going to bow to pressure.\n    \n",
@@ -1226,62 +1269,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-12T07:30:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-cuomo-reacts-to-biden-attorney-general-rumors-no-interest-in-going-to-washington.md",
-      "title": "Cuomo reacts to Biden attorney general rumors: 'No interest in going to Washington'",
-      "excerpt": "New York Gov. Andrew Cuomo said on Monday he has \"no interest\" in serving as Democratic nominee Joe Biden's attorney general.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FFtaTyefvBM/biden-cuomo-attorney-general-rumors-cabinet",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FFtaTyefvBM/biden-cuomo-attorney-general-rumors-cabinet",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/andrew-cuomo-joe-biden.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:24:36-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

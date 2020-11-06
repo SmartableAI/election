@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-06-minnesota-squad-member-says-trump-attack-on-her-during-campaign-was-a-mistake.md",
+      "title": "Minnesota 'Squad' member says Trump attack on her during campaign was a mistake",
+      "excerpt": "Rep. Ilhan Omar, D-Minn., on Thursday said Trump \"effed around\" in deciding to attack her as a way to win over Minnesota voters.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CdNNITKehrY/ilhan-omar-trump-effed-around-minnesota",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CdNNITKehrY/ilhan-omar-trump-effed-around-minnesota",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308737052076.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-trump-effed-around-minnesota.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-effed-around-minnesota.amp",
+      "publishedDateTime": "2020-11-06T14:36:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-trump-names-danly-to-head-ferc-replacing-chatterjee.md",
       "title": "Trump Names Danly to Head FERC, Replacing Chatterjee",
       "excerpt": "Neil Chatterjee, who has backed policies in support of clean energy, is being replaced as head of the Federal Energy Regulatory Commission by fellow commissioner James Danly.",
@@ -239,7 +295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -312,6 +368,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-party-of-inclusion.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-party-of-inclusion.amp",
       "publishedDateTime": "2020-11-05T16:56:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-trumps-pennsylvania-lead-dwindles-as-legal-fight-heats-up-over-philadelphia-poll-watchers.md",
+      "title": "Trump's Pennsylvania lead dwindles as legal fight heats up over Philadelphia poll watchers",
+      "excerpt": "President Trump's lead over Joe Biden in Pennsylvania was shrinking Thursday, as state election workers continued to count mail-in ballots.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0R4SlMqREDs/trump-pennsylvania-lead-narrows-campaign-legal-fight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0R4SlMqREDs/trump-pennsylvania-lead-narrows-campaign-legal-fight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pennsylvania-lead-narrows-campaign-legal-fight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-lead-narrows-campaign-legal-fight.amp",
+      "publishedDateTime": "2020-11-05T12:47:11-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -480,62 +592,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-nevada-election-lawsuit.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-nevada-election-lawsuit.amp",
       "publishedDateTime": "2020-11-05T07:46:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-squad-member-ilhan-omar-rejects-trumps-pennsylvania-victory-claim-sit-down.md",
-      "title": "'Squad' member Ilhan Omar rejects Trump's Pennsylvania victory claim: 'Sit down'",
-      "excerpt": "Rep. Ilhan Omar, D-Minn., on Wednesday criticized Eric Trump for claiming victory in Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zjPygKKIcW4/ilhan-omar-eric-trumps-pennsylvania-victory-claim",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zjPygKKIcW4/ilhan-omar-eric-trumps-pennsylvania-victory-claim",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/philly-voting.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania-victory-claim.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania-victory-claim.amp",
-      "publishedDateTime": "2020-11-04T16:19:09-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1565,62 +1621,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.md",
-      "title": "Trump says Supreme Court decision on Pennsylvania ballots is 'dangerous,' 'will 'induce violence'",
-      "excerpt": "President Trump Monday called a Supreme Court decision that said Pennsylvania could allow mail ballots through Friday “dangerous,” adding it would lead to “violence.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySMpc_U52AI/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySMpc_U52AI/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/271cf1eb-74b0-4238-8cc6-dd9c23ed7c2c/f9d2a304-3484-48d2-8f7d-116c5e2edfc6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp",
-      "publishedDateTime": "2020-11-02T21:22:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },

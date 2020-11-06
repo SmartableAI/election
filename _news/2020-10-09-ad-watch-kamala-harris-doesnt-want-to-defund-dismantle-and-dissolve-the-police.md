@@ -7952,6 +7952,15 @@ related:
       name: Detroit Free Press
       domain: freep.com
     quality: 50
+  - title: "Joe Biden and Senator Kamala Harris Address the Nation"
+    excerpt: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a"
+    publishedDateTime: 2020-11-06T21:58:00Z
+    webUrl: "https://www.c-span.org/video/?477893-1/joe-biden-senator-kamala-harris-address-nation"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
   - title: "Sen. Kamala Harris talks women's right to an abortion on second day of Barrett hearings"
     excerpt: "Sen. Kamala Harris highlighted the impact Barrett could have on a woman's right to an abortion on the second day of confirmation hearings."
     publishedDateTime: 2020-10-14T02:18:00Z

@@ -2,6 +2,157 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-05-biden-rebuilding-blue-wall-in-race-for-the-white-house.md",
+      "title": "Biden rebuilding 'blue wall' in race for the White House",
+      "excerpt": "Democrat Joe Biden was pushing closer to the 270 Electoral College votes needed to carry the White House, securing victories in the “blue wall” battlegrounds of Wisconsin and Michigan, and narrowing President Donald Trump's path.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11",
+      "originalUrl": "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp",
+      "publishedDateTime": "2020-11-04T23:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-anderson-cooper-cuts-off-rick-santorum-after-he-said-businesses-didnt-board-up-their-storefronts-to-keep-donald-trump-supporters-from-looting.md",
+      "title": "Anderson Cooper cuts off Rick Santorum after he said businesses didn't board up their storefronts 'to keep Donald Trump supporters from looting'",
+      "excerpt": "\"They boarded up businesses in New York City, not to keep Donald Trump supporters from looting, okay?\" Santorum said during a CNN panel Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11",
+      "originalUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa36e4df7d1cb0019e39e7d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11?amp",
+      "publishedDateTime": "2020-11-04T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-fact-check-almost-everything-trump-has-said-after-election-day-is-wrong.md",
+      "title": "Fact check: Almost everything Trump has said after Election Day is wrong",
+      "excerpt": "President Donald Trump spent much of the year laying the groundwork for the strategy of concerted dishonesty he has deployed in the hours after Election Day.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H4sNQISktN0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H4sNQISktN0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 409,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201104114255-02-election-1103-philadelphia-pa-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html",
+      "publishedDateTime": "2020-11-04T18:31:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-michigan-secretary-of-state-calls-trump-lawsuit-frivolous.md",
       "title": "Michigan secretary of state calls Trump lawsuit 'frivolous'",
       "excerpt": "Michigan's secretary of state said on Wednesday that a lawsuit by U.S. President Donald Trump seeking to halt counting of votes was \"frivolous.\"",
@@ -107,62 +258,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-squad-member-ilhan-omar-rejects-trumps-pennsylvania-victory-claim-sit-down.md",
-      "title": "'Squad' member Ilhan Omar rejects Trump's Pennsylvania victory claim: 'Sit down'",
-      "excerpt": "Rep. Ilhan Omar, D-Minn., on Wednesday criticized Eric Trump for claiming victory in Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zjPygKKIcW4/ilhan-omar-eric-trumps-pennsylvania-victory-claim",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zjPygKKIcW4/ilhan-omar-eric-trumps-pennsylvania-victory-claim",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/philly-voting.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania-victory-claim.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-eric-trumps-pennsylvania-victory-claim.amp",
-      "publishedDateTime": "2020-11-04T16:19:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1242,114 +1337,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.md",
-      "title": "Biden surrogate Coons says campaign is 'cautiously optimistic' about election results",
-      "excerpt": "The Biden campaign is \"cautiously optimistic\" heading into election night and believes it will ultimately come out ahead in the key battleground of Pennsylvania, one of its surrogates told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aiajxzvDEo/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aiajxzvDEo/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.amp",
-      "publishedDateTime": "2020-11-03T17:40:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-donald-trump-has-won-north-dakota.md",
-      "title": "Donald Trump has won North Dakota",
-      "excerpt": "The state has three electoral votes and was not expected by analysts to be competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020",
-      "originalUrl": "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa2201b69331a0011bc7288?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp",
-      "publishedDateTime": "2020-11-03T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

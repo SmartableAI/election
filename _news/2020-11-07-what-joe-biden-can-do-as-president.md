@@ -288,6 +288,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump unhappy with legal team's lack of major impact on election count"
+    excerpt: "While President Donald Trump's legal strategy to challenge the election results is being shaped at the highest levels by familiar, experienced hands, his legal team on the ground hasn't seen the involvement of a top-tier team of the caliber George W. Bush had during the 2000 Florida recount.\n    \n"
+    publishedDateTime: 2020-11-06T22:30:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KJ7UsdFixKQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/trump-legal-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/trump-legal-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105115359-donald-trump-november-4-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact Check: Misleading new Trump ad claims Biden plans to 'end fracking'"
     excerpt: "Less than two weeks before Election Day, a new Trump campaign ad scheduled to air in Pennsylvania misleadingly portrays former Vice President Joe Biden's stance on fracking, a drilling method used to extract oil or natural gas.\n    \n"
     publishedDateTime: 2020-10-26T19:37:01Z
@@ -1184,6 +1200,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration moves forward with $2.9 billion drone sale to UAE, source says "
+    excerpt: "The US State Department informed Congress Thursday of the Trump administration's intent to sell 18 armed MQ-9B drones to the United Arab Emirates for an estimated $2.9 billion, a congressional aide told CNN on Friday.\n    \n"
+    publishedDateTime: 2020-11-06T21:06:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ckiMIwPvF5c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170404153305-us-military-drone-mq-9-reaper-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's unhappy warrior pitch to voters includes insults and highly specific grievances"
     excerpt: "President Donald Trump is ending his reelection bid in a frenzied cross-country push for votes in states he won -- some handily -- four years ago. But he is not pretending to be happy about it.\n    \n"
     publishedDateTime: 2020-10-28T15:32:58Z
@@ -1805,6 +1837,22 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2020/11/05/us/politics/05dc-trump/05dc-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "How Twitter Policed Trump During the Election"
+    excerpt: "Twitter has flagged 15 of the president’s 44 tweets since polls closed, acting more aggressively to combat false or misleading information."
+    publishedDateTime: 2020-11-06T22:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/technology/trump-twitter-labels-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/technology/trump-twitter-labels-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/technology/trump-twitter-labels-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/business/06distortions-trump-tweets-promo/06distortions-trump-tweets-promo-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true
@@ -2816,6 +2864,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "gOaCisBmi+/vhI0Uc+/moprombF6IJQ38ydGQ50oTIiAWuG+FHRFPyHk3yJVmFLau0gcmM5Id4nPE4DFjCWKY+8QcTBoLtEjpVou1zbmZCq/RTSfagYVG/gGjfOtpwZAkQc7//srfFih6K+g6lgwkFr7U1oH90hXWY0Wz+QPSDhUUCwY1MB1oLnDB5MvBEqE3BpVFE/IeqAtWO4vYSnbJ121aOMaMzoG1hgFrrGUujAQ/ySXL3aQVBZ+VVdvVb2SxL9nNYcMZm1tkzoyaEswGAsu0DcPGpmp0UxPSF8NRV/hmAUjjRlOLMikhjMv+Tlt+nR3hslEBqiCe5EjdPxj39rWbDB2EMQmeMu0vFGajb8=;W1ECK8/fIxYxPHnvrMzRZA=="
+secured: "Qe0iNCcFuZfcq4ln3JuJFidr7gy8LebZiTkdnOYA3XwWlPH/eB/cRoFD9qmDKFKFcNDOaIDSnG7i8Jla+d9YOnYDTEoX5LXwUHGZq5YbIdvDIe4zPNjBgHgcpkcKKiPfq8IdZ+vqwJk+HhFm3l7HcrKvyIwOHsVSJ2vuuRUfOlfBL+uJDFLZibMkV1Ag/6PFPycbvf0jcf9Dyb7mjF4ajdzDokQfIPv65tYfUZj1BWEXbok9UieyytNquhSdsiFYniWpKHkTtp7rQSyEVh8/EsetPsNgTaYCFnEhhV8FTEs22iHJFMNypMKghnNhntPCQNy10kuMNIf6NPcpCNiZcflCpAFC0DPQaZ5Sg8XOxncZavkMvjyfmnRpJshqOYNwq1+7Yag+Vq8Tnma0PFcalo/g0cVVIMfNOQLn0m2GHDXW8ek3kc60eUpQiUVJSvyFFM/qJwu0/d/9cBRn6UmfwmfZIXgaHUVTeCdg2zSvn3AmpgRFu0jrQjqKPGsdK5B2Y3rDNdJ43LqggWPY9doQig==;HtHa2lqddpKqAumWbfAc+A=="
 ---
 

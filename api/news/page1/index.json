@@ -2,6 +2,157 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-06-minnesota-squad-member-says-trump-attack-on-her-during-campaign-was-a-mistake.md",
+      "title": "Minnesota 'Squad' member says Trump attack on her during campaign was a mistake",
+      "excerpt": "Rep. Ilhan Omar, D-Minn., on Thursday said Trump \"effed around\" in deciding to attack her as a way to win over Minnesota voters.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CdNNITKehrY/ilhan-omar-trump-effed-around-minnesota",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CdNNITKehrY/ilhan-omar-trump-effed-around-minnesota",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308737052076.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-trump-effed-around-minnesota.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-effed-around-minnesota.amp",
+      "publishedDateTime": "2020-11-06T14:36:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-kamala-harris-in-detroit-on-election-day-to-rally-support-have-faith-in-the-american-people.md",
+      "title": "Kamala Harris in Detroit on Election Day to rally support: 'Have faith in the American people'",
+      "excerpt": "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
+      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/03/PDTF/f6c9f117-74cf-4558-a513-e8dc14dfdc70-AP20308672071807.jpg?auto=webp&crop=4361,2454,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/6129769002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6129769002",
+      "publishedDateTime": "2020-11-06T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-trump-campaign-hasnt-provided-evidence-to-back-up-claim-of-wisconsin-election-irregularities.md",
+      "title": "Trump campaign hasn't provided evidence to back up claim of Wisconsin election 'irregularities'",
+      "excerpt": "Trump and officials with his campaign have floated vague accusations with no evidence of election tampering in Wisconsin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-trump-has-not-backed-up-claim-irregularities/6173694002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-trump-has-not-backed-up-claim-irregularities/6173694002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ffda0c65-205a-44d9-8c5b-8e952696d68b-TRUMP_KENOSHA_0550.JPG?auto=webp&crop=3899,2194,x0,y438&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6173694002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6173694002",
+      "publishedDateTime": "2020-11-06T14:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-trump-and-gop-lawsuits-thus-far-challenging-few-ballots-with-no-proof-of-fraud.md",
       "title": "Trump and GOP lawsuits thus far challenging few ballots with no proof of fraud",
       "excerpt": "President Donald Trump and the Republican National Committee's vows to challenge the election results and win through the courts appear unlikely to be successful with so few ballots at issue in litigation to make any difference in enough states to matter.\n    \n",
@@ -451,7 +602,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -815,6 +966,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-05-trumps-pennsylvania-lead-dwindles-as-legal-fight-heats-up-over-philadelphia-poll-watchers.md",
+      "title": "Trump's Pennsylvania lead dwindles as legal fight heats up over Philadelphia poll watchers",
+      "excerpt": "President Trump's lead over Joe Biden in Pennsylvania was shrinking Thursday, as state election workers continued to count mail-in ballots.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0R4SlMqREDs/trump-pennsylvania-lead-narrows-campaign-legal-fight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0R4SlMqREDs/trump-pennsylvania-lead-narrows-campaign-legal-fight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pennsylvania-lead-narrows-campaign-legal-fight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-lead-narrows-campaign-legal-fight.amp",
+      "publishedDateTime": "2020-11-05T12:47:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-bidens-campaign-insists-former-vp-will-be-the-next-president.md",
       "title": "Biden’s campaign insists former VP ‘will be the next president’",
       "excerpt": "Joe Biden’s presidential campaign on Thursday declared that “our data shows that Joe Biden will be the next president of the United States.”",
@@ -1039,58 +1246,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-05-former-wisconsin-governor-scott-walker-on-trump-campaigns-calls-for-a-recount.md",
-      "title": "Former Wisconsin Governor Scott Walker on Trump campaign's calls for a recount",
-      "excerpt": "Former Wisconsin Governor Scott Walker joined \"CBS This Morning\" to discuss the Trump campaign's calls for a recount of the votes in the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/former-wisconsin-governor-scott-walker-on-trump-campaigns-calls-for-a-recount/",
-      "originalUrl": "https://www.cbsnews.com/video/former-wisconsin-governor-scott-walker-on-trump-campaigns-calls-for-a-recount/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/05/e55ea2cc-53b1-4947-b90a-e4ec6d86aa50/thumbnail/1200x630/3ac169127219e7a3bf871c8b9b7c514c/cbsn-fusion-former-wisconsin-governor-scott-walker-on-trump-campaigns-calls-for-a-recount-thumbnail-581439-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-05-harriss-ancestral-village-in-india-gets-festive-as-biden-leads-count.md",
       "title": "Harris’s ancestral village in India gets festive as Biden leads count",
       "excerpt": "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House.",
@@ -1099,7 +1254,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1630,
+      "heat": 1650,
       "tags": null,
       "images": [
         {
@@ -1193,157 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-biden-rebuilding-blue-wall-in-race-for-the-white-house.md",
-      "title": "Biden rebuilding 'blue wall' in race for the White House",
-      "excerpt": "Democrat Joe Biden was pushing closer to the 270 Electoral College votes needed to carry the White House, securing victories in the “blue wall” battlegrounds of Wisconsin and Michigan, and narrowing President Donald Trump's path.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11",
-      "originalUrl": "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp",
-      "publishedDateTime": "2020-11-04T23:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-anderson-cooper-cuts-off-rick-santorum-after-he-said-businesses-didnt-board-up-their-storefronts-to-keep-donald-trump-supporters-from-looting.md",
-      "title": "Anderson Cooper cuts off Rick Santorum after he said businesses didn't board up their storefronts 'to keep Donald Trump supporters from looting'",
-      "excerpt": "\"They boarded up businesses in New York City, not to keep Donald Trump supporters from looting, okay?\" Santorum said during a CNN panel Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11",
-      "originalUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa36e4df7d1cb0019e39e7d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/santorum-stores-didnt-close-to-keep-trump-supporters-from-looting-2020-11?amp",
-      "publishedDateTime": "2020-11-04T22:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-fact-check-almost-everything-trump-has-said-after-election-day-is-wrong.md",
-      "title": "Fact check: Almost everything Trump has said after Election Day is wrong",
-      "excerpt": "President Donald Trump spent much of the year laying the groundwork for the strategy of concerted dishonesty he has deployed in the hours after Election Day.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H4sNQISktN0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H4sNQISktN0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 409,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201104114255-02-election-1103-philadelphia-pa-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html",
-      "publishedDateTime": "2020-11-04T18:31:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

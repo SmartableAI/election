@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-28-trump-administration-considers-early-biometric-screening-for-visa-seekers.md",
+      "title": "Trump administration considers early biometric screening for visa seekers",
+      "excerpt": "Some officials raise concerns about retaliation against American travelers",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzCY2C0kD0A/trump-administration-biometric-screening-visa-seekers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzCY2C0kD0A/trump-administration-biometric-screening-visa-seekers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297478049298.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-administration-biometric-screening-visa-seekers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-biometric-screening-visa-seekers.amp",
+      "publishedDateTime": "2020-10-28T12:02:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona.md",
       "title": "WATCH LIVE: Trump speaks at campaign rally in Bullhead City, Arizona",
       "excerpt": "Trump weighed in on two nights of clashes with Philadelphia police and store break-ins following the fatal shooting by police of Walter Wallace Jr.",
@@ -1287,59 +1343,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-kamala-harris-had-the-perfect-response-when-asked-about-mike-pences-fly.md",
-      "title": "Kamala Harris had the perfect response when asked about Mike Pence’s fly",
-      "excerpt": "Leave it to Whoopi Goldberg to ask Sen. Kamala Harris the question still on everybody’s mind: “Did you see the fly?” On Monday’s episode of “The View,” Harris and hosts Goldberg, Joy Behar, Sara Haines, Sunny Hostin and Ana Navarro discussed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1909,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/ea6deca/2147483647/strip/true/crop/2761x1803+0+64/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F51%2F34%2Fa7381c464f77b470593397f5f55d%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1228948960.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-10-27/kamala-harris-mike-pence-fly-whoopi-goldberg-the-view?_amp=true",
-      "publishedDateTime": "2020-10-27T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Mike Pence"
       ]
     }
   ],

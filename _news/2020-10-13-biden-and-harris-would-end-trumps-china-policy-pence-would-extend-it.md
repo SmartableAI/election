@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10700
+heat: 10720
 published: true
 
 provider:
@@ -7942,6 +7942,15 @@ related:
     provider:
       name: Detroit Free Press
       domain: freep.com
+    quality: 50
+  - title: "Joe Biden and Senator Kamala Harris Address the Nation"
+    excerpt: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a"
+    publishedDateTime: 2020-11-06T21:58:00Z
+    webUrl: "https://www.c-span.org/video/?477893-1/joe-biden-senator-kamala-harris-address-nation"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
     quality: 50
   - title: "Ad Watch: Kamala Harris doesn’t want to ‘defund, dismantle and dissolve’ the police"
     excerpt: "Biden’s official campaign platform says his administration would not defund police departments. Harris’ press secretary said she does not support defunding the police. Her former presidential campaign platform did not mention it."

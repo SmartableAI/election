@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 3784
+heat: 3844
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105185402-04-trump-presser-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump unhappy with legal team's lack of major impact on election count"
+    excerpt: "While President Donald Trump's legal strategy to challenge the election results is being shaped at the highest levels by familiar, experienced hands, his legal team on the ground hasn't seen the involvement of a top-tier team of the caliber George W. Bush had during the 2000 Florida recount.\n    \n"
+    publishedDateTime: 2020-11-06T22:30:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KJ7UsdFixKQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/trump-legal-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/trump-legal-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105115359-donald-trump-november-4-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1167,6 +1183,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration moves forward with $2.9 billion drone sale to UAE, source says "
+    excerpt: "The US State Department informed Congress Thursday of the Trump administration's intent to sell 18 armed MQ-9B drones to the United Arab Emirates for an estimated $2.9 billion, a congressional aide told CNN on Friday.\n    \n"
+    publishedDateTime: 2020-11-06T21:06:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ckiMIwPvF5c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170404153305-us-military-drone-mq-9-reaper-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's unhappy warrior pitch to voters includes insults and highly specific grievances"
     excerpt: "President Donald Trump is ending his reelection bid in a frenzied cross-country push for votes in states he won -- some handily -- four years ago. But he is not pretending to be happy about it.\n    \n"
     publishedDateTime: 2020-10-28T15:32:58Z
@@ -1788,6 +1820,22 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2020/11/05/us/politics/05dc-trump/05dc-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "How Twitter Policed Trump During the Election"
+    excerpt: "Twitter has flagged 15 of the president’s 44 tweets since polls closed, acting more aggressively to combat false or misleading information."
+    publishedDateTime: 2020-11-06T22:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/technology/trump-twitter-labels-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/technology/trump-twitter-labels-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/technology/trump-twitter-labels-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/business/06distortions-trump-tweets-promo/06distortions-trump-tweets-promo-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true

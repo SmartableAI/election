@@ -109,6 +109,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "PA GOP leaders urge people to 'relax,' report fraud concerns to law enforcement amid Trump campaign objections"
+    excerpt: "Top Pennsylvania Republicans, speaking with the press on Friday, urged people to \"relax\" as tensions run high in the battleground state and President Trump's campaign makes allegations of potential election-related wrongdoing, specifically in Philadelphia. "
+    publishedDateTime: 2020-11-06T21:49:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hPBHKuPETQg/pa-gop-leaders-report-fraud-concerns-to-law-enforcement"
+    ampWebUrl: "https://www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "rN6PNFx0H0SSshnq9yYv8xgccKCaaQaSHFofQLHXUSkG8DiU7t43uHkBYZ3pWh4X508SZBLNOBc/vGW+XpT+cVyeMHt8MXOXm4lASNYmBzmpzrB8nXmFofx32CcV9sE77bvpbEvpSuz0aHZ7xNx6BOC7ay46WewDsWOutMumaofC2PGKpCTyqSOe8iXNl6U1UnyHH0Kug0WsIfo8X0AluhAxI0Rin6gxHKJ3TGR4YBRBElLEzG5GcKv3ceWGbu/g7S/yjE54711rcaFZ4q88jEqYmigZh75MYkJoEKrTacmVj272A3KCX5DIpEY6dYS5NpqQaTcj18ik0NgeWaXGBCAjAKg7MQOUf/gWlz/VBCA=;ecUFQNrYnHF+bsTZa8pRTQ=="
 ---
