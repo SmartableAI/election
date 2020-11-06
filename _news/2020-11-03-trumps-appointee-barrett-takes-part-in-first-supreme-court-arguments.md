@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Wisconsin Republicans press Pennsylvania Trump supporters to return ballots after Election Day"
+    excerpt: "Even as the president rails against counting valid votes, his team appears to be encouraging illegal late voting in crucial Pennsylvania"
+    publishedDateTime: 2020-11-06T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/06/trumps-wisconsin-campaign-asks-pennsylvania-cast-late-ballots/6182506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6182506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/d84377b5-29e9-47d7-b852-f1048b202d1d-TRUMP_KENOSHA_0445.JPG?auto=webp&crop=3899,2194,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Gay voters share why they are voting for President Trump"
     excerpt: "LGBTQ Republicans make up a small percentage of party membership. Three voters share their stories and say they've been embraced by conservatives."
     publishedDateTime: 2020-11-04T02:57:00Z
@@ -220,6 +236,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106783180-16046249101604624906-12295478233-1080pnbcnews.jpg?v=1604624909"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Republican officials tried to convince Pennsylvania Trump supporters to cast illegal ballots after Election Day"
+    excerpt: "Officials emailed supporters Thursday, asking for more votes supporting President Donald Trump. Trump's campaign in Wisconsin said it was a mistake."
+    publishedDateTime: 2020-11-06T20:50:00Z
+    webUrl: "https://www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fa58c7a1df1d50018219541?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "International election observer says Trump's false election victory statement was an 'unprecedented abuse of his position'"
     excerpt: "The Organization for Security and Co-operation in Europe said there was no evidence of voter fraud in the US election."

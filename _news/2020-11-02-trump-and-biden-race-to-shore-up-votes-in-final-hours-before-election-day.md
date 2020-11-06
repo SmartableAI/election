@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 3764
+heat: 3784
 published: true
 
 provider:
@@ -2314,6 +2314,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/05/us/politics/05election-ledeall-biden-themorning/05election-ledeall-biden-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "What Joe Biden Can Do as President"
+    excerpt: "He has the power to make real, transformational progress look like common sense. Will he use it, given the chance?"
+    publishedDateTime: 2020-11-06T20:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/sunday-review/joe-biden-president-policy.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/sunday-review/joe-biden-president-policy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/sunday-review/joe-biden-president-policy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/opinion/06girdPromo/06girdPromo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "2020 Election Live Updates: Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "RIGHT NOW ‘Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."

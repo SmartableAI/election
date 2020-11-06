@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Fact check: Video shows mail waste, not shredded Trump ballots"
     excerpt: "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true."
-    publishedDateTime: 2020-11-06T16:38:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-shredded-leaflets-idUSKBN27M25L"
+    publishedDateTime: 2020-11-06T20:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M25L"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L"
     type: article

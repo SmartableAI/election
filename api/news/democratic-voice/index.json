@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-06-trump-and-gop-lawsuits-thus-far-challenging-few-ballots-with-no-proof-of-fraud.md",
+      "title": "Trump and GOP lawsuits thus far challenging few ballots with no proof of fraud",
+      "excerpt": "President Donald Trump and the Republican National Committee's vows to challenge the election results and win through the courts appear unlikely to be successful with so few ballots at issue in litigation to make any difference in enough states to matter.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0fa9K_SCQQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0fa9K_SCQQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201021160327-early-vote-florida-octuber-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/06/politics/lawsuits-trump-gop-proof/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/lawsuits-trump-gop-proof/index.html",
+      "publishedDateTime": "2020-11-06T12:45:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-officials-say-defense-secretary-mark-esper-is-prepared-for-possibility-trump-may-fire-him.md",
       "title": "Officials say Defense Secretary Mark Esper is prepared for possibility Trump may fire him",
       "excerpt": "Defense Secretary Mark Esper is attempting to fashion a graceful exit from office if President Donald Trump decides to fire him regardless of the result of the presidential election, according to several defense sources, including one senior defense official.\n    \n",
@@ -1032,7 +1088,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 3764,
+      "heat": 3784,
       "tags": null,
       "images": [
         {
@@ -1145,7 +1201,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1614,62 +1670,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/27/politics/trump-suburban-women-2020-election/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-suburban-women-2020-election/index.html",
       "publishedDateTime": "2020-10-27T20:06:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-trump-appears-to-give-a-pass-to-the-domestic-kidnapping-plot-against-whitmer.md",
-      "title": "Trump appears to give a pass to the domestic kidnapping plot against Whitmer",
-      "excerpt": "President Donald Trump repeatedly attacked Michigan Gov. Gretchen Whitmer, a Democrat, during his rally in Lansing, Michigan, on Tuesday, at one point taking credit for the FBI thwarting a plot to kidnap her and then immediately downplaying the actual threat that had been posed to Whitmer.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7leQrboZfQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7leQrboZfQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027120930-donald-trump-1019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-kidnapping-michigan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-kidnapping-michigan/index.html",
-      "publishedDateTime": "2020-10-27T15:55:14-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

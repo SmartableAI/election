@@ -2330,6 +2330,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "What Joe Biden Can Do as President"
+    excerpt: "He has the power to make real, transformational progress look like common sense. Will he use it, given the chance?"
+    publishedDateTime: 2020-11-06T20:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/sunday-review/joe-biden-president-policy.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/sunday-review/joe-biden-president-policy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/sunday-review/joe-biden-president-policy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/opinion/06girdPromo/06girdPromo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "The Remaining Vote in Pennsylvania Appears to Be Overwhelmingly for Biden"
     excerpt: "President Trump leads by nearly 700,000 votes in Pennsylvania as of 5 a.m. on Wednesday, and Mr. Biden’s chances depend on whether he can win a large percentage of the more than"
     publishedDateTime: 2020-11-04T11:57:00Z

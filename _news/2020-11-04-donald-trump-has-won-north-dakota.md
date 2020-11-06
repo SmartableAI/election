@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -123,6 +123,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "For these lawyers, the Trump era has been a career changer"
+    excerpt: "Donald Trump’s presidency has been a career turning point for dozens, if not hundreds, of lawyers. U.S. Attorney General William Barr, a Kirkland & Ellis alum, and former special counsel Robert Mueller of Wilmer Cutler Pickering Hale and Dorr became household names."
+    publishedDateTime: 2020-11-06T20:16:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-trump-careers-idUSL1N2HP25K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HP25K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HP25K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trump to return to Minnesota for Rochester rally on Friday"
     excerpt: "As Election Day looms, President Donald Trump is returning to Minnesota for a rally Friday in Rochester that will mark his fourth trip to the state in recent weeks, his campaign announced Wednesday."
     publishedDateTime: 2020-10-28T21:15:00Z

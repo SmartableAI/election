@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-10-19-mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises.md",
+      "title": "Mike Pence: Americans Deserve 4 More Years of a President Who Keeps His Promises",
+      "excerpt": "Kamala Harris and Vice President Mike Pence, to speak directly to Utahns and the nation in this forum. To read exclusive commentary by Sen. Harris, click here. As I arrive in the great state of Utah to debate Joe Biden’s running mate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises",
+      "originalUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-media.beliefnet.com/sites/140/2019/04/Mike_Pence_28119020664-1.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises/amp",
+      "cdnAmpWebUrl": "https://www-beliefnet-com.cdn.ampproject.org/c/s/www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises/amp",
+      "publishedDateTime": "2020-10-18T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beliefnet",
+        "domain": "beliefnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-dnc-chair-perez-says-dems-take-nothing-for-granted-despite-bidens-lead-in-polls.md",
       "title": "DNC chair Perez says Dems 'take nothing for granted' despite Biden's lead in polls",
       "excerpt": "The Biden campaign and DNC are holding a position that no lead is stable or consistent, even if polling has shown otherwise.",
@@ -1250,54 +1293,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-how-donald-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue.md",
-      "title": "How Donald Trump’s developer dad and a Brooklyn rabbi saved a synagogue",
-      "excerpt": "When congregants enter the Beach Haven Jewish Center in Gravesend, Brooklyn, they pass a small plaque hanging just outside the main sanctuary. “Fred Trump. Humanitarian,” declare the gold",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
-      "originalUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fred2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
-      "publishedDateTime": "2020-10-17T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

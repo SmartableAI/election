@@ -133,6 +133,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "For these lawyers, the Trump era has been a career changer"
+    excerpt: "Donald Trump’s presidency has been a career turning point for dozens, if not hundreds, of lawyers. U.S. Attorney General William Barr, a Kirkland & Ellis alum, and former special counsel Robert Mueller of Wilmer Cutler Pickering Hale and Dorr became household names."
+    publishedDateTime: 2020-11-06T20:16:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-trump-careers-idUSL1N2HP25K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HP25K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HP25K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "s4ffXbXZtwI9JI/qOgM+72DHdxFR4vNIEW/b73ht3g3CdjAtRR2FzaDrNT9SDfcZJt01xlgRtsNHneL33ae/H8rIC4m8vbq8IuMRyCmMa09tUquguO06lk/3TXKJ4EJ5MW4OiSDvk4/MXhdatj8hiw8gjw1pKjEGvPWO2Y21EyOUS9yebf2TNLy4Vqu3q3CwuEi/6PIeATVdAwRzaYdv/yOOg4QvD5CmIyqVt3POp4db/KlQANudRyNyYbd3CrmRNrNgFv+/GJBlGOqpDCnGp5RAJYozD74WwbC4aFxfKMEbLejDX763ZtRt9SnHk30nyxYMcA/Vz2cmtJHY4ZTn9xjDUASrYt/lnao7ixdVq0I=;M1WQedY8/bLsFS4HXGbDpg=="
 ---

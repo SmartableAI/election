@@ -41,6 +41,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Biden widens lead on Friday. Here's why it's unclear when Nevada will be called."
+    excerpt: "Joe Biden added 8,000 votes to his lead over President Trump in Nevada on Friday, inching closer to winning the state."
+    publishedDateTime: 2020-11-06T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/06/nevada-2020-election-biden-up-22-000-over-trump-latest-results/6188081002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6188081002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6188081002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/21/PREN/dfb98b2c-f80f-44d9-8e19-afad5072bce7-campaign_pics_54.jpg?auto=webp&crop=2399,1350,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
     excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
     publishedDateTime: 2020-11-03T20:31:00Z

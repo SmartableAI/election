@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Playing Kamala Harris Helped Maya Rudolph Fight Election Anxiety"
+    excerpt: "The actor talks to TIME about playing Harris on 'Saturday Night Live,' a hormone monster on 'Big Mouth' and the trait many of her characters share."
+    publishedDateTime: 2020-11-06T20:38:00Z
+    webUrl: "https://time.com/5906947/maya-rudolph-kamala-harris/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/maya-rudolph-10q.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
     excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
     publishedDateTime: 2020-10-02T17:40:00Z

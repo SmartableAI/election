@@ -404,6 +404,45 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden takes narrow lead in Pennsylvania"
+    excerpt: "Watch \"Joe Biden takes narrow lead in Pennsylvania; U.S. awaiting final election results from key battleground states\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-06T14:47:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201106165721-joe-biden-takes-narrow-lead-in-pennsylvania-u-s-awaiting-final-election-results-from-key-battleground-states/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/06/story_07583556_1604682544.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Twin Senate runoffs in Georgia could shape Biden presidency"
+    excerpt: "The outcome in several contested states will determine whether Joe Biden defeats President Donald Trump. But if the Democratic challenger wins, the ambitions of a Biden presidency could well come down to Georgia."
+    publishedDateTime: 2020-11-06T07:57:00Z
+    webUrl: "https://www.businessinsider.com/twin-senate-runoffs-in-georgia-could-shape-biden-presidency-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/twin-senate-runoffs-in-georgia-could-shape-biden-presidency-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twin-senate-runoffs-in-georgia-could-shape-biden-presidency-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Pelosi calls Biden \"president-elect\" before the results are in"
+    excerpt: "House Speaker Nancy Pelosi referred to Joe Biden as \"President-elect Biden\" during her news briefing Friday, though the outcome of the election remained up in the air with votes still being counted in several key states."
+    publishedDateTime: 2020-11-06T18:50:00Z
+    webUrl: "https://www.cbsnews.com/video/pelosi-calls-biden-president-elect-not-yet-winner-electoral-college/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/06/29415663-d454-45ff-990a-3821b7ce9ab4/thumbnail/1200x630/b1c1465a02d37338c3a628ca71f815f9/cbsn-fusion-pelosi-calls-biden-president-elect-not-yet-winner-electoral-college-thumbnail-582530-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden moves ahead in Georgia and Pennsylvania, moving closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to"
     publishedDateTime: 2020-11-06T14:54:00Z
@@ -590,6 +629,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3GYUSXPTTJHI5LPCCTGUYSW24I.jpg"
         width: 5312
         height: 3541
+        isCached: true
+  - title: "Joe Biden, Kamala Harris to speak Friday evening in televised address"
+    excerpt: "Joe Biden is on the cusp of winning the presidency as he opens up narrow leads over President Donald Trump in several critical backgrounds."
+    publishedDateTime: 2020-11-06T18:33:00Z
+    webUrl: "https://www.oregonlive.com/nation/2020/11/joe-biden-kamala-harris-to-speak-friday-evening-in-televised-address.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2020/11/joe-biden-kamala-harris-to-speak-friday-evening-in-televised-address.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2020/11/joe-biden-kamala-harris-to-speak-friday-evening-in-televised-address.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VNATBLXTGNHUBOZFISIZGFEA6I.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Sen. Kamala Harris will travel to Florida on Halloween to campaign for Biden"
     excerpt: "Democratic vice presidential nominee Kamala Harris will travel to Florida on Halloween in a last-minute push to earn votes in the crucial battleground state. While a handful of the latest polls show Democratic presidential nominee Joe Biden with a narrow lead over incumbent Republican President Donald Trump,"

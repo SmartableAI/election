@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Instant View: With Pennsylvania and Georgia, Biden on doorstep of White House"
+    excerpt: "Wall Street shares backpedaled on Friday, while the U.S. dollar pared losses after Democrat Joe Biden pulled ahead of President Donald trump in two battleground states that could put him in the White House."
+    publishedDateTime: 2020-11-06T20:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-markets-instant-view-idUSKBN27M21N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M21N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M21N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540273424&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA517W"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden has solid lead in Wisconsin, narrower edge in Pennsylvania: Reuters/Ipsos poll"
     excerpt: "Democratic presidential challenger Joe Biden led President Donald Trump by a solid margin in Wisconsin and maintained a narrower advantage in Pennsylvania with just over a week until Election Day, Reuters/Ipsos opinion polls showed on Monday."
     publishedDateTime: 2020-10-26T20:19:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538891639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1KD"
         width: 817
         height: 545
+        isCached: true
+  - title: "'People are turning out at home': Biden arrives in Wilmington after final campaign push in Pennsylvania"
+    excerpt: "In the final days of the campaign, former Vice President Joe Biden asked voters to put an end to a presidency that has \"divided this nation,\" while President Donald Trump painted his challenger as a member of an \"arrogant,"
+    publishedDateTime: 2020-11-06T20:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/biden-vs-trump-who-lead-country-through-coronavirus-racial-unrest-recession/6127770002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6127770002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6127770002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/572eb25d-af11-4686-9704-0c37632b15a3-promo.jpg?auto=webp&crop=689,388,x41,y455&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
     excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."

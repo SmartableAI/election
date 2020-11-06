@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Playing Kamala Harris Helped Maya Rudolph Fight Election Anxiety"
+    excerpt: "The actor talks to TIME about playing Harris on 'Saturday Night Live,' a hormone monster on 'Big Mouth' and the trait many of her characters share."
+    publishedDateTime: 2020-11-06T20:38:00Z
+    webUrl: "https://time.com/5906947/maya-rudolph-kamala-harris/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/maya-rudolph-10q.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "\"SNL\" Gives Sneak-Peek Of Jim Carrey As Joe Biden, Maya Rudolph As Kamala Harris"
     excerpt: "Ahead of tomorrow's 'Saturday Night Live' season premiere, the show shared a teaser clip featuring Jim Carrey and Maya Rudolph as Joe Biden and Kamala Harris. S.N.L is returning tomorrow night for its first live episode since the start of the COVID-19 pandemic in March,"
     publishedDateTime: 2020-10-03T02:53:00Z

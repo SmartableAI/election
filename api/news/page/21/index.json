@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-10-14-george-floyds-sister-calls-for-change-in-new-biden-ad.md",
+      "title": "George Floyd's sister calls for change in new Biden ad",
+      "excerpt": "In a new ad released by Democratic nominee Joe Biden's campaign on Wednesday, Bridgett Floyd, sister of George Floyd, calls for change and discusses the importance of voting after her brother was killed by police officers in Minneapolis,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad",
+      "originalUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 485,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/georgefloyd063020.jpg",
+          "width": 780,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp",
+      "publishedDateTime": "2020-10-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-durbin-says-trump-administration-case-against-obamacare-is-orange-cloud-over-barrett-nomination.md",
       "title": "Durbin says Trump administration case against ObamaCare is 'orange cloud' over Barrett nomination",
       "excerpt": "Sen. Dick Durbin, D-Ill., continued Democrats' claims that the real reason why Republicans are rushing to confirm Judge Amy Coney Barrett to the Supreme Court is so that she can be on the bench for an upcoming ObamaCare case, but he had a particularly colorful way of putting it.",
@@ -1272,62 +1324,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-fauci-says-hes-not-going-to-walk-away-as-trump-revives-criticism.md",
-      "title": "Fauci says he's 'not going to walk away' as Trump revives criticism",
-      "excerpt": "President Donald Trump revived his public criticism of Dr. Anthony Fauci Tuesday morning, continuing his efforts to undermine the infectious disease expert even as the doctor said he's not going to bow to pressure.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7USsZG-8gl8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7USsZG-8gl8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/13/politics/trump-versus-fauci/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/trump-versus-fauci/index.html",
-      "publishedDateTime": "2020-10-13T06:48:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

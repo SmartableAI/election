@@ -2,6 +2,62 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-10-04-supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed.md",
+      "title": "Supporters gather for Prayer vigil for Trump outside Walter Reed",
+      "excerpt": "President Trump supporters lined up in front of Walter Reed Hospital Saturday evening, to show support for Trump who was recently diagnosed with coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3m_XV2nSRFs/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3m_XV2nSRFs/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2738da37-1419-4682-9089-68409501409d/96dde887-984b-47d6-ab6a-a2c7703711bd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed.amp",
+      "publishedDateTime": "2020-10-03T18:39:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-trump-family-aides-flouted-cleveland-hotel-mask-mandate-ahead-of-debate.md",
       "title": "Trump family, aides flouted Cleveland hotel mask mandate ahead of debate",
       "excerpt": "Hours before they were seen watching Tuesday's presidential debate without masks in violation of safety protocols, members of President Donald Trump's family, campaign staff and White House team also flouted a mask mandate at a hotel frequented by visitors to Cleveland Clinic.",
@@ -1303,63 +1359,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-watch-live-nbc-news-town-hall-with-joe-biden.md",
-      "title": "Watch live: NBC News Town Hall with Joe Biden",
-      "excerpt": "NBC News’ Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday, October 5th in Miami, Fla. A socially-distanced audience of undecided voters will be asking Biden where he stands on the critical issues impacting their lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-live-nbc-news-town-hall-with-joe-biden-93026373600",
-      "originalUrl": "https://www.nbcnews.com/video/watch-live-nbc-news-town-hall-with-joe-biden-93026373600",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_holt_TH_monday.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93026373600",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93026373600",
-      "publishedDateTime": "2020-10-02T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

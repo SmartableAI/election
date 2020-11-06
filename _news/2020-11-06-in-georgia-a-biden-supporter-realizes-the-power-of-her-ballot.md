@@ -45,6 +45,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Biden widens lead on Friday. Here's why it's unclear when Nevada will be called."
+    excerpt: "Joe Biden added 8,000 votes to his lead over President Trump in Nevada on Friday, inching closer to winning the state."
+    publishedDateTime: 2020-11-06T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/06/nevada-2020-election-biden-up-22-000-over-trump-latest-results/6188081002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6188081002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6188081002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/21/PREN/dfb98b2c-f80f-44d9-8e19-afad5072bce7-campaign_pics_54.jpg?auto=webp&crop=2399,1350,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
     excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
     publishedDateTime: 2020-11-03T20:31:00Z
@@ -73,6 +89,6 @@ related:
       domain: businessinsider.com
     quality: 105
 
-secured: "JWuJKqymBt4MAKfitWQpaFESy4lNF5NosAtBS/myBfMyRbXDJUB0susl8sOt32VZ+xMDMLR/kaz1wbG2gac48RAU2Htc7gcG4woPodvi2nyIgT5BtoK/53oRFSUHy8Q+qUi1Mx3g3pmoZy9m+bR8GGPrC6xS6ybHcUGddIpwu+OtphembfaHzedQgNY75S5YVPJjHDBt9vbIu0cm2RkcLmvL4NUbcL6gIK3RvOnvb/isy2ZEyc8bkRDZzCHNgS/5f5IE0YHXyf+ZvgkYtwXivyofIV7jdnVJtCjNNNmim8YuZiOTg/WIcbB/Ubpkgu2xXUZvKdMfgbxRrETQFJM1uaKr4CVxn+Xrd90uLbFL51o=;pf5/s8Otsbx+TpI3skIivQ=="
+secured: "GzqyBy9AgDdZijAXVgrexXHYZi2NVGzoD2EfmZ+r+0pO6hqf+N7UGic0B56qMO8TXvn7vn9qIJm1ojE/xUAOkdclFuiFiTaV8+Spc0nEx4GSuNr2IY4Nh+vIIWRT6oNlIWBJofuCUU3ykeyNLcAIsG+xpduG66pTdpho+R0SPraITmDGgVEFwXTvDrzPHBTcn2WYDPWkWS42qtzIlQXRIKCJI8jcwWRpUV8dCw0Cd/7rVwPV48uSiMz/L2XxLkly4h1grBw8+0fYaVCCpSbSFdAkxHFB7ReBfDunTqadimrHocMYl/GHrfwGNvC9omtvJsqBSj5Uolu+KKYxGw/nbB35xwO5Nkx6YEZiOhwg7hW5JPOTAxqHUbX7ANhYF9o/kUrfaUfMA7yxP/wWiuqrzU8VjIZi+8xuCEdDxWzofOE5WYM5ezhh8egZuARW2LLm8jin+S4armEqnB6q/vHSNsdzPfXLe59hTXDKt/29ZFuAZVUvycjVspCM0aLRGHfqR5okDIyYXn3UaTaj6UEiUA==;dgjedh1w9D9n5gHvTpTtJA=="
 ---
 

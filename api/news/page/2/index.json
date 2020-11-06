@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-05-michigan-secretary-of-state-calls-trump-lawsuit-frivolous.md",
+      "title": "Michigan secretary of state calls Trump lawsuit 'frivolous'",
+      "excerpt": "Michigan's secretary of state said on Wednesday that a lawsuit by U.S. President Donald Trump seeking to halt counting of votes was \"frivolous.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-michigan-lawsuit-idUSKBN27L065",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-michigan-lawsuit-idUSKBN27L065",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540057550&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA403F",
+          "width": 846,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27L065",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L065",
+      "publishedDateTime": "2020-11-04T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-young-americans-and-white-college-educated-voters-flock-to-biden-in-several-battleground-states-cnn-exit-polls-show.md",
       "title": "Young Americans and White college-educated voters flock to Biden in several battleground states, CNN exit polls show",
       "excerpt": "Young Americans and White voters with college degrees flocked to former Vice President Joe Biden in several key swing states, according to results of a nationwide CNN exit poll, moving him closer to capturing the electoral votes necessary to win the White House.\n    \n",
@@ -716,7 +768,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/explainer-ap-called-virginia-biden-74008179",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -872,7 +924,7 @@
       "originalUrl": "https://www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686",
       "featuredContent": null,
       "highlight": null,
-      "heat": 673,
+      "heat": 713,
       "tags": null,
       "images": [
         {
@@ -984,7 +1036,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 280,
+      "heat": 300,
       "tags": null,
       "images": [
         {
@@ -1257,7 +1309,7 @@
       "originalUrl": "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1298,49 +1350,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-north-carolina-vice-president-mike-pence-says-gop-remains-optimistic-about-winning-reelection-bid.md",
-      "title": "North Carolina: Vice President Mike Pence says GOP remains optimistic about winning reelection bid",
-      "excerpt": "With just hours left for voters to cast their ballot, WXII 12 News anchor Kenny Beck did a one-on-one interview with Vice President Mike Pence and former Democratic presidential candidate Pete Buttigieg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wxii12.com/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770",
-      "originalUrl": "https://www.wxii12.com/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-buttigieg-0124-1604439289.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wxii12.com/amp/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770",
-      "cdnAmpWebUrl": "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770",
-      "publishedDateTime": "2020-11-03T14:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WXII12",
-        "domain": "wxii12.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

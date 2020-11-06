@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Wisconsin Republicans press Pennsylvania Trump supporters to return ballots after Election Day"
+    excerpt: "Even as the president rails against counting valid votes, his team appears to be encouraging illegal late voting in crucial Pennsylvania"
+    publishedDateTime: 2020-11-06T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/06/trumps-wisconsin-campaign-asks-pennsylvania-cast-late-ballots/6182506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6182506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/d84377b5-29e9-47d7-b852-f1048b202d1d-TRUMP_KENOSHA_0445.JPG?auto=webp&crop=3899,2194,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's appointee Barrett takes part in first Supreme Court arguments"
     excerpt: "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is"
     publishedDateTime: 2020-11-02T16:53:00Z
@@ -220,6 +236,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540259254&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50ZS"
         width: 817
         height: 545
+        isCached: true
+  - title: "Republican officials tried to convince Pennsylvania Trump supporters to cast illegal ballots after Election Day"
+    excerpt: "Officials emailed supporters Thursday, asking for more votes supporting President Donald Trump. Trump's campaign in Wisconsin said it was a mistake."
+    publishedDateTime: 2020-11-06T20:50:00Z
+    webUrl: "https://www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fa58c7a1df1d50018219541?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "International election observer says Trump's false election victory statement was an 'unprecedented abuse of his position'"
     excerpt: "The Organization for Security and Co-operation in Europe said there was no evidence of voter fraud in the US election."

@@ -363,6 +363,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Lawyers from both parties puzzled by Donald Trump's election legal strategy"
+    excerpt: "After weeks of speculation about the potential for a tight 2020 presidential contest to wind up in court, the Trump campaign appears to have unveiled its strategy: a succession of lawsuits in hard-fought swing states and a full-court press to give the impression that the election and ballot-counting process were rife with fraud."
+    publishedDateTime: 2020-11-06T12:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/lawyers-parties-puzzled-donald-trumps-election-legal-strategy/story?id=74051406"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lawyers-parties-puzzled-donald-trumps-election-legal-strategy/story?id=74051406"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lawyers-parties-puzzled-donald-trumps-election-legal-strategy/story?id=74051406"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 138
+    images:
+      - url: "https://s.abcnews.com/images/Politics/2020-election-day-2-12-giuliani-pennsylvania-ap-jc-201104_1604530284340_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Libertarian candidate Jo Jorgensen pulls some votes from Biden and Trump, calls election a 'wake-up call'"
     excerpt: "Libertarian presidential candidate Jo Jorgensen was back on Clemson University's campus to teach her in-person class."
     publishedDateTime: 2020-11-05T16:27:00Z
@@ -523,6 +539,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Election 2020: A look at Trump campaign election lawsuits and where they stand"
+    excerpt: "With votes still being counted in the 2020 election, here's a look at where the Trump campaign has filed lawsuits over ballot issues."
+    publishedDateTime: 2020-11-06T20:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 136
+    images:
+      - url: "https://s.abcnews.com/images/US/lewandowski-philly-ap-ps-201105_1604592275669_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Election live updates: Donald Trump says he's not nervous: 'I've been here before'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden are in the home stretch of this campaign with just hours to go before Election Day."
     publishedDateTime: 2020-11-03T03:13:00Z
@@ -616,6 +648,22 @@ related:
     quality: 131
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden goes ahead of Trump in Michigan as vote count continues in state's largest counties"
+    excerpt: "President Trump has tried to claim victory with millions of votes still to be tallied in key states such as Michigan and Pennsylvania."
+    publishedDateTime: 2020-11-06T20:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/donald-trump-joe-biden-michigan/6158174002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6158174002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158174002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/PMJS/c938a4d9-e3ec-44fb-a184-f24b9bc6487c-MATCHUP_2020_BIDEN-TRUMP.jpg?auto=webp&crop=1079,607,x1,y65&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

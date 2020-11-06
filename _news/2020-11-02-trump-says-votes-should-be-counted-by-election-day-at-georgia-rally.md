@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ivanka Trump says ‘every legally cast vote should be counted\""
+    excerpt: "Ivanka Trump underscored the importance Friday of a \"free and fair\" election, and an accurate tally of ballots. "
+    publishedDateTime: 2020-11-06T19:27:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PND8jDDGT9g/ivanka-trump-says-every-legally-cast-vote-should-be-counted-every-illegally-cast-vote-should-not"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-says-every-legally-cast-vote-should-be-counted-every-illegally-cast-vote-should-not.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-says-every-legally-cast-vote-should-be-counted-every-illegally-cast-vote-should-not.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20311124849265.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump’s comment at rally raises speculation about Fauci’s future at NIAID"
     excerpt: "President Trump suggested during a Florida rally early Monday that he may fire Dr. Anthony Fauci, the nation's top infectious disease expert, after the election."

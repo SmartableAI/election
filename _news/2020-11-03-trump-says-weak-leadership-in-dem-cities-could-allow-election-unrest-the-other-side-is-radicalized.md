@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Twitter marks 12 Trump tweets as 'misleading' in 60-hour span"
+    excerpt: "Twitter has marked at least a dozen tweets from President Trump as of Friday morning with a disclaimer that the tweets may contain \"misleading\" information about U.S. elections. "
+    publishedDateTime: 2020-11-06T19:24:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBM6x0EPxcM/twitter-marks-12-trump-tweets-misleading-60-hours"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-marks-12-trump-tweets-misleading-60-hours.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-marks-12-trump-tweets-misleading-60-hours.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6615f48-e957-4ade-83d6-a4d0437feb1d/2aeaa6c6-e774-4891-944c-83cf650bcfa5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump warns Dems aiming to take the Senate, double downs on final victory"
     excerpt: "President Trump took to Twitter early Friday to warn his followers that Democrats have their sights set on winning the Senate, but vowed that Republicans would ultimately prevail, despite what looked like an uphill climb."
     publishedDateTime: 2020-11-06T08:50:35Z

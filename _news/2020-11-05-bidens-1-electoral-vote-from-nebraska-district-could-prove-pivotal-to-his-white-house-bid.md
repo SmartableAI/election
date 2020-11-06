@@ -432,6 +432,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump vows to keep ‘fighting,’ will use ‘every aspect of the law’ in ballot-counting battle"
+    excerpt: "President Trump on Friday vowed to keep “fighting,” saying he will use “every aspect of the law” as election officials in key battleground states continue to count ballots for the uncalled 2020 presidential race."
+    publishedDateTime: 2020-11-06T19:03:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZvHPT2-nI5E/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hunter Biden allegations likely why Obama didn’t encourage Biden to run for president: Sen. Johnson"
     excerpt: "The allegations against Hunter Biden are likely the reason why former President Obama “did not encourage the vice president to run” for president, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Sunday Morning Futures” in an exclusive interview."
     publishedDateTime: 2020-11-01T18:36:03Z
