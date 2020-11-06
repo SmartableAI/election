@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Stephen Colbert broke down in tears and called Trump a fascist after the president's conspiracy-laden rant at the White House"
+    excerpt: "\"I didn't expect this to break my heart,\" Colbert said, before demanding that Republicans speak up against Trump's unprecedented behavior."
+    publishedDateTime: 2020-11-06T06:51:00Z
+    webUrl: "https://www.businessinsider.com/stephen-colbert-monologue-trump-white-house-election-remarks-video-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/stephen-colbert-monologue-trump-white-house-election-remarks-video-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stephen-colbert-monologue-trump-white-house-election-remarks-video-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fa4ed02f7d1cb0019e3a256?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "AgQgov/FTHJFn1yRD1xKyxLPlhwVRPu129lNifHi6N/PtDk2a40S/56sILGs/O+L+wGtK8Hsp3EyXo4O7W5RpJMw2NZcsRN9x0Q/fD1wiktbHHudtVIAkBBg9iCvyiBhCu3xW8WW9VbamBQl3I9S4KpzMZQ+HQmsoIbmZLvaKL456zSO6TatMlBfLUPt8V2j15hL30j208PBntJ2fJ8K3LMy+7QPtS4HcvnCIo/YAMhPsUQi8NCKBJhRLyYj0w8218h8NqYmpRVjbF7HdjtDxPjch2nr6OShuJjGcyTWfe8sXZEctzN3S8HZlyaOC3Vqet/NNdjESAioWl7oiOaZwYmjGiXwwy9zfDNOsdLV/As=;FMzLZKqNXvr4siiZ5uTZgg=="
 ---

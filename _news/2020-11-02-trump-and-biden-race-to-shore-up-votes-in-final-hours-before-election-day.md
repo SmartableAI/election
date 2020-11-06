@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 3584
+heat: 3624
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104223415-biden-trump-split-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump and GOP lawsuits challenging election flail in court"
+    excerpt: "The Trump campaign and President Donald Trump peppered Thursday with tweets and news conferences boasting of success in courts as states continue to count ballots, but the legal efforts repeatedly failed to gain traction or affect significant enough numbers of votes, if any, in key states.\n    \n"
+    publishedDateTime: 2020-11-06T06:32:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/INmWdvtAYZE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/trump-and-gop-lawsuits-to-challenge-election-flail-in-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/trump-and-gop-lawsuits-to-challenge-election-flail-in-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105185402-04-trump-presser-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -604,6 +620,22 @@ related:
     quality: 181
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103125256-01-election-day-voters-louisville-ky-1103-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Breaking down the barrage of false election claims from Trump and his allies"
+    excerpt: "On Twitter and on television, President Donald Trump and his allies continued Thursday to bombard Americans with false claims about the presidential election -- baselessly asserting for the second day in a row that Democrats were attempting to steal the election from Trump.\n    \n"
+    publishedDateTime: 2020-11-06T05:38:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zy5o2kU4bJw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-election-theft-fraud-thursday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-election-theft-fraud-thursday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105115359-donald-trump-november-4-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

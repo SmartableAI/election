@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Vote counts push Biden closer to victory as Trump falsely claims election being 'stolen'"
+    excerpt: "With his re-election chances fading as more votes are counted in a handful of battleground states, U.S. President Donald Trump launched an extraordinary assault on the country's democratic process from the White House on Thursday,"
+    publishedDateTime: 2020-11-06T03:45:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27L0VI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0VM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0VM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 146
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540144950&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41EX"
+        width: 1117
+        height: 545
+        isCached: true
   - title: "Donald Trump vs. Joe Biden: What’s in store for our economy based on the election results?"
     excerpt: "The economic downturn has affected Americans and at USA TODAY Money we've focused our coverage on this. Here's how the election could impact jobs."
     publishedDateTime: 2020-11-02T21:09:00Z
@@ -1085,6 +1101,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Election Results: Biden Has 'No Doubt' He Will Beat Trump, Become US President"
+    excerpt: "Joe Biden's optimism comes as the Trump campaign files multiple lawsuits in swing states where the Democratic challenger is leading or projected to win."
+    publishedDateTime: 2020-11-06T01:19:00Z
+    webUrl: "https://www.ibtimes.com/election-results-biden-has-no-doubt-he-will-beat-trump-become-us-president-3077210"
+    ampWebUrl: "https://www.ibtimes.com/election-results-biden-has-no-doubt-he-will-beat-trump-become-us-president-3077210?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-results-biden-has-no-doubt-he-will-beat-trump-become-us-president-3077210?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 101
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/05/democratic-presidential-candidate-joe-biden-is-close-to.jpg"
+        width: 1024
+        height: 702
+        isCached: true
   - title: "Trump begins Election Day with 'Fox & Friends' interview: Live updates on Trump, Pence"
     excerpt: "President Trump plans to spend the day making calls, giving interviews, monitoring events from the White House."
     publishedDateTime: 2020-11-03T16:55:00Z
@@ -1318,22 +1350,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Why AP called Arizona for Joe Biden"
-    excerpt: "The Associated Press has declared Democrat Joe Biden the winner in Arizona, flipping a longtime GOP state that President Donald Trump won in 2016. The AP called the race at 2:50 a.m. EST Wednesday, after an analysis of ballots cast statewide concluded there were not enough outstanding to allow Trump to catch up."
-    publishedDateTime: 2020-11-05T15:34:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-arizona-called-associated-press-20201105-pv6lapwwhfaazj3wswklwny65a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 75
-    images:
-      - url: "https://www.courant.com/resizer/3LirmlyA0klspZUqBp7tkKNUrEE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NWN3FIELQT7VCXFINCJIS6TXQQ.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Joe Biden is set to become the oldest president, a title held by Ronald Reagan"
     excerpt: "As of now, the oldest sitting president in U.S. history was Ronald Reagan, who was 77 when he left office in 1989."
     publishedDateTime: 2020-11-06T00:31:00Z
@@ -1462,6 +1478,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8D/R5cqmJeKuedgctiXSOWDvFN3kJ2fqXDtwaSAzG9E7dfgyjWCO2YvVDm6i8Vh4hjb3Xm85Xp8P8tLViTLDfP1YIzJ7vnX9mENozt7Z6eW4Rf3FPYkS6usyGOFjjOwYhiz5HFFr+hlWWA0EwIVlRbofmmP/MLHj4SvB7VDeHrB4nH4/QPbK5+KCAjZ/NVZIR2R6HKTLdx8FvajE0WTrhTBTnew9ob8yIitCPDbQHVIbhripcf8tXtmKCnbN7lVfo+AJrlghJHjs47aTkJ+/h69ztxv2AWUQia1gXiqfXbEX/Ii9L7yra78b+k0e9Nk4CekZKN5jnBdbC+SBPOqCqYjvMRJ5O5VkgVZRg1D4u0g=;rk5o+2rQAeNJi/oCNZ9h5A=="
+secured: "4IXIP6Qs7gdekOhsun7TTyKU8xv9c1vYmFaWDzhAvEfSrbBdTMWpsYD4CpDJQz7/MoLCgVYXM5CGullhydArOLvVeexIWs8F/Ft4DTgCl3Mxw/WWyP0ykusElfpTTX17AF9vUod+ri5NmXFpeMJnNHuFDFaeO8bUA81LamzgsTr6KoZR6SEnRetbidVIT4ssv8zZq6BZmZBFgw7DTOWy82fRY+mjRb7l4lM5CkHuogf8M3jVFRkYOlv1HqXbx20uzfVnOCQ3NyrfLR3k/mfd12RWy3GCxKx9gtcARuUwtDKmOyU943ToJ4ZxFQL6bWwPcY4XtAOZFf1v2+CqZUw+x6YAQYIjClbnH5X73rLGRZCmjNUcZblACun46t1SMlny869cj+5B2r/hR5B2MoOGHYOv7MuFSZzRDiEsLCzzpx/OCXJXm5xCbjjNfbZLAMHtsdUUaIGaNgjZrA5qBLe7rAWCMHiIhmqcTXNjLxlh5Q8mjcVgHs2jRvAX43iPFMC2dGECAqq88F4A3KCrtzq9Xg==;mrR4hz38XPdFqvHZ5v05vA=="
 ---
 
