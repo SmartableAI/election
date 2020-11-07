@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-05-bidens-campaign-insists-former-vp-will-be-the-next-president.md",
+      "title": "Biden’s campaign insists former VP ‘will be the next president’",
+      "excerpt": "Joe Biden’s presidential campaign on Thursday declared that “our data shows that Joe Biden will be the next president of the United States.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gMjnTd5av4M/bidens-campaign-stresses-former-vp-will-be-the-next-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gMjnTd5av4M/bidens-campaign-stresses-former-vp-will-be-the-next-president",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec2a8c02-cc1e-4e42-b020-ba1eb44686c1/1ab56d55-404c-4ecc-9a0d-37e66fee703f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-campaign-stresses-former-vp-will-be-the-next-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-stresses-former-vp-will-be-the-next-president.amp",
+      "publishedDateTime": "2020-11-05T10:00:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-biden-campaign-manager-says-former-vp-will-win-but-urges-patience.md",
       "title": "Biden campaign manager says former VP will win, but urges patience ",
       "excerpt": "Joe Biden's campaign manager insisted Thursday that the Democratic nominee is on pace to win the presidency, but urged patience as Arizona, Georgia, Nevada and Pennsylvania continue counting votes.\n    \n",
@@ -178,7 +234,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1770,
+      "heat": 1870,
       "tags": null,
       "images": [
         {
@@ -1286,58 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-kid-rock-responds-to-lady-gagas-biden-endorsement-shows-what-camo-is-really-worn-for.md",
-      "title": "Kid Rock responds to Lady Gaga's Biden endorsement, shows 'what camo is really worn for'",
-      "excerpt": "Kid Rock seemed to have a go at Lady Gaga on Tuesday, days after the pop star went viral with her own pro-Joe Biden video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/11/03/kid-rock-reacts-lady-gaga-biden-endorsement-hunting-picture/6148835002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/11/03/kid-rock-reacts-lady-gaga-biden-endorsement-hunting-picture/6148835002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/91320599-eef8-433c-bd30-735bc2b79fec-trump_091420_kd2242.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6148835002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6148835002",
-      "publishedDateTime": "2020-11-04T00:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

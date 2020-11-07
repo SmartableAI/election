@@ -260,6 +260,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Activists helped get Biden elected. When he’s in office, they’ll fight him."
+    excerpt: "President Joe Biden is going to disappoint the broad and diverse coalition that brought him into office. Every successful president does that — the unsuccessful ones, too. Our mismatched political institutions encourage bold demands and deliver only incremental gains,"
+    publishedDateTime: 2020-11-07T01:12:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/social-movements-presidents-biden-pressure/2020/11/06/532fd91c-1f99-11eb-90dd-abd0f7086a91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/social-movements-presidents-biden-pressure/2020/11/06/532fd91c-1f99-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/social-movements-presidents-biden-pressure/2020/11/06/532fd91c-1f99-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RI55BVA4UQI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Where is California native Kamala Harris spending Election Day?"
     excerpt: "Kamala Harris is spending part of her last day on the campaign trail in Detroit. She'll be touring the Motor City on Election Day, encouraging supporters to go to the polls, according to reports. The California native's last-minute visit in Michigan signals the importance of this state."
     publishedDateTime: 2020-11-03T19:17:00Z
@@ -273,6 +289,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/02/44/20195619/81/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Watch live: Joe Biden, Kamala Harris make prime-time address"
+    excerpt: "Democratic presidential candidate Joe Biden is expected to deliver a prime-time speech Friday at 7 CST p.m. Democratic vice presidential candidate Kamala Harris is also expected to deliver remarks Friday alongside Biden."
+    publishedDateTime: 2020-11-07T01:59:00Z
+    webUrl: "https://www.chicagotribune.com/news/ct-live-stream-video-20191101-mmzazul6lrfspbf7d5as6ju2am-htmlstory.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/HYRVWgDsEC13dEU2M7TIyM6oyJI=/1200x0/top/www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650"
+        width: 1200
+        height: 650
         isCached: true
   - title: "In Kamala Harris' Ancestral Village, The U.S. Election Is Followed Closely"
     excerpt: "Senator Kamala Harris is the first person of South Asian descent on a U.S. presidential ticket. In her ancestral village in India, Hindu faithful offer prayers for a Biden-Harris victory."
@@ -351,6 +381,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539811808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA213Y"
         width: 818
         height: 545
+        isCached: true
+  - title: "How Joe Biden's leads in Georgia, Pennsylvania, Nevada, give him a clear path to 270 electoral votes"
+    excerpt: "Joe Biden's lead is growing in key states. Former Vice President Joe Biden is on the verge of reaching 270 electoral votes and winning the race for president after he surged ahead in Georgia early Friday morning and hours later in Pennsylvania."
+    publishedDateTime: 2020-11-06T20:48:00Z
+    webUrl: "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6191429002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191429002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/e4078510-fb31-4b52-87af-af0331e7e9fa-grid-promo2.png?auto=webp&crop=3137,1765,x521,y870&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris makes history as the first ever female, Black, and Asian-American vice president-elect"
     excerpt: "Harris is no stranger to making history. She is the second ever Black female senator and was California's first female and Black attorney general."
@@ -432,6 +478,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris inspires women leaders in her ancestral Indian village"
+    excerpt: "More than 8,000 miles (12,870 kms) from Washington, Indian women have been rooting for the \"America lady\" in the village of U.S. vice presidential candidate Kamala Harris's grandfather."
+    publishedDateTime: 2020-11-04T16:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-harris-india-trfn/kamala-harris-inspires-women-leaders-in-her-ancestral-indian-village-idUSKBN27K0ZW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K0ZW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0ZW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Biden pulls ahead in Georgia and Pennsylvania"
     excerpt: "NFA] Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to count votes."
     publishedDateTime: 2020-11-06T15:22:00Z
@@ -704,6 +761,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VNATBLXTGNHUBOZFISIZGFEA6I.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Kamala Harris to speak before Joe Biden in TV address tonight"
+    excerpt: "Democratic vice presidential candidate Kamala Harris is expected to deliver remarks Friday alongside Joe Biden. Biden has scheduled a prime-time address on the presidential contest as votes continue to be counted in several battleground states."
+    publishedDateTime: 2020-11-06T22:38:00Z
+    webUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/11/06/kamala-harris-to-speak-before-joe-biden-in-tv-address-tonight/"
+    ampWebUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/11/06/kamala-harris-to-speak-before-joe-biden-in-tv-address-tonight/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/elections/2020/11/06/kamala-harris-to-speak-before-joe-biden-in-tv-address-tonight/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 90
+    images:
+      - url: "https://www.tampabay.com/resizer/0yVU-dEPeGa4HkHZtyWqzMoqy0I=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/5GXVBD75NJHBPE5PC4ZX7OMPNQ.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Sen. Kamala Harris will travel to Florida on Halloween to campaign for Biden"
     excerpt: "Democratic vice presidential nominee Kamala Harris will travel to Florida on Halloween in a last-minute push to earn votes in the crucial battleground state. While a handful of the latest polls show Democratic presidential nominee Joe Biden with a narrow lead over incumbent Republican President Donald Trump,"

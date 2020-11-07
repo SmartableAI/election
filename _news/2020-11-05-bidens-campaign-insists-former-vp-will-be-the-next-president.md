@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-campaign-stresses-former-vp-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-stresses-former-vp-will-be-the-next-president.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/08731db9-Nancy-Pelosi.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Bernie Sanders thanks, praises progressives for 'Biden's victory' before race is called"
+    excerpt: "Sen. Bernie Sanders thanked progressives Friday afternoon for aiding Democratic nominee Joe Biden’s 2020 presidential efforts – even with the race still too close to call."
+    publishedDateTime: 2020-11-07T03:28:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2Dal4MmAE0/bernie-sanders-progressives-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-progressives-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-progressives-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20074794494233.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden campaign pushing voters to be ‘a part of the political process’, ex-Obama aide says"
     excerpt: "In the final hours before Election Day, the Biden campaign is trying to convince Americans that voting is more important than ever, former Barack Obama personal aide Reggie Love told “Your World with Neil Cavuto.”"

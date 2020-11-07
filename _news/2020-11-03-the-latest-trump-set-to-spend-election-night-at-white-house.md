@@ -601,6 +601,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "\"We're going to win this race\": Biden predicts victory as his lead over Trump grows"
+    excerpt: "Democrat Joe Biden said Friday that he was going to win the U.S. presidency as his lead grew over President Donald Trump in battleground states, although television networks held off from declaring him the victor as officials continued to count votes."
+    publishedDateTime: 2020-11-07T04:46:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27M0UA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0UA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0UA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
+        width: 846
+        height: 545
+        isCached: true
   - title: "Election 2020 live updates: Melania Trump delivers pointed political attack on trail"
     excerpt: "President Donald Trump has campaign rallies in Michigan, Wisconsin and Nebraska on Tuesday while former Vice President Joe Biden spends the day in Georgia."
     publishedDateTime: 2020-10-28T02:26:00Z
@@ -1068,6 +1084,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says 'we're going to win' as Trump falls behind in key states"
+    excerpt: "Former Vice President Joe Biden spoke in primetime Friday evening as President Donald Trump's path to reelection narrows."
+    publishedDateTime: 2020-11-07T04:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-set-speak-primetime-campaign-trump-falls-key/story?id=74061906"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/2020-election-day-3-18-biden-rtr-jc-201105_1604612197624_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Recount likely in Georgia as Biden takes slim lead over Trump"
     excerpt: "Democratic presidential candidate Joe Biden is leading in Georgia, but the race there is still extremely close. Mark Strassmann has details."
     publishedDateTime: 2020-11-07T00:15:00Z
@@ -1081,6 +1111,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/85b83321-00fb-4e42-83c2-d6009b4e7037/thumbnail/1200x630/f0a297e5b4870a58e72ebb44aa1d33ce/cbsn-fusion-recount-likely-in-georgia-as-biden-takes-slim-lead-over-trump-thumbnail-582856-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Some Americans dance, others wield guns at vote-counting sites as Biden's lead widens"
+    excerpt: "Joe Biden supporters danced in Philadelphia's streets on Friday, while armed backers of President Donald Trump in Phoenix shouted, \"Stop the steal\" as a third day of post-election ballot counting brought the Democratic former vice president closer to winning the White House."
+    publishedDateTime: 2020-11-07T04:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-reaction-idUSKBN27M2ND"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M2ND"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M2ND"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540329174&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA603E"
+        width: 817
+        height: 545
         isCached: true
   - title: "Facebook labeled President Trump's late-night election posts about Democrats stealing the election as misinformation"
     excerpt: "President Trump's false claims about the election being stolen are being flagged by Facebook. Every one of his false election claims are now flagged."

@@ -2956,6 +2956,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Questions Joe Biden Hasn't Yet Answered About Hunter Biden Controversy"
+    excerpt: "As the controversy surrounding Hunter Biden's overseas business dealings while his father was vice president grows, Democratic presidential nominee Joe Biden's campaign has yet to deny many of the ..."
+    publishedDateTime: 2020-10-23T18:49:00Z
+    webUrl: "https://www.newsweek.com/questions-joe-biden-hasnt-yet-answered-about-hunter-biden-controversy-1541830"
+    ampWebUrl: "https://www.newsweek.com/questions-joe-biden-hasnt-yet-answered-about-hunter-biden-controversy-1541830?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/questions-joe-biden-hasnt-yet-answered-about-hunter-biden-controversy-1541830?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1656418/bidens.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "A day after US hits a new high for cases, the COVID-19 surge shadows Trump and Biden campaign events"
     excerpt: "In the face of spiking numbers, Trump on Saturday continued to lean into the idea that the news media and his critics are obsessing about the virus, even as polls show widespread public concern."
     publishedDateTime: 2020-10-25T01:36:00Z
@@ -6172,6 +6188,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden’s Sons Hunter & Beau Biden: 5 Fast Facts You Need to Know"
+    excerpt: "Joe Biden has two sons, but only one is living. Biden’s son Hunter Biden is currently embroiled in controversy over a laptop that a computer repair shop owner in Delaware claims he abandoned."
+    publishedDateTime: 2020-10-23T00:48:00Z
+    webUrl: "https://heavy.com/news/joe-biden-sons-son-hunter-beau/"
+    ampWebUrl: "https://heavy.com/news/joe-biden-sons-son-hunter-beau/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/joe-biden-sons-son-hunter-beau/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/joe-biden-sons.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
   - title: "Top Donald Trump Quotes During The Final Presidential Debate 2020"
     excerpt: "The second and final presidential debate saw Joe Biden and Donald Trump in a series of sharp exchanges over topics such as COVID-19, national security, and racism in America."
     publishedDateTime: 2020-10-23T04:49:00Z
@@ -7407,6 +7439,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Ln22PMMFhThiY2ysFqohDMQNEUyRb46qQ2uqaaJlha8h3aVANm9zLUcDdgHUfq0/1WOSO7yph/x+T78ui3HYShBDRl6q7pnm3SEZrPIG7md6mUkkT7TTFc22WTegAGF1kDuwwQ9GdNfAqehwQgzdZcLpdn1difuKFItOrRCnR5IZrI7X+cL6dP/b4uf669ERgd+xWnJMK+TeZYS1N8wygihclYc5WMEgkAZPhAdd30IBkST+EFdtxJLSzHzONpJZnkfRaJvcUvI8etqBg/lEvHTczE5UDYMb/0ascnghCt9UsOYE3YefRK9zZq+VbYs0ADix50OkRbnXtHG1DiybOVVO9Sw7haHPkCpSyvl17WI=;+IZPPojQ0VKZb3A1iORvyg=="
+secured: "dqVkjWAR5gjv0Te8zXeJSYqtUvflumkvi+/kR2tJ3VCcBD49wb+K0f2kNY/FRQGj6puUm1h6zT/xXEFd+D0isZGprjUWq5bn3JjPYur9hOH5x+o1IYuHtvAFbEaVNHdZ6O5YVlIN3gTQLR1xPSdfa30I/Qo0B2Ear/m8KcWQ/WPjxrjvOkwg+csNBGD5LUV1Y8rmAEGiLVmQx6y6JAFyMbBmxlQQC5weYIEETCzCDz3ri7m9B1INfYCv5oxM5tRU5KtRga2A/pCsG2vjRcqZjm+0zT+9CmdqtpRbRQE8+8L4qQfJe3LmxqQuG2AElUDMQCxdXC1YSrBcpmjcGIUgWhvRAkJlEUmmrDw8WfLlEOzyx9pd/+wP3nERFtup6T7HgHsJJCpZ83nJ/riMz8xFhapth2LmyRFLzohnagdSAF2/tFEnk+AC0KE3C+5xodSNsD+4yWnTpS7osMcMINN6vb2u+WLmG1c4jl2NGSP4z98RD9x8JjtwViaKrkkz8UljZWaQxhslfZLzBqA38I3Kmw==;QBISwuzQnZLAM3NjuZFQTA=="
 ---
 

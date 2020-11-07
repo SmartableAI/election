@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/video/watch/trump-not-thinking-of-election
 webUrl: "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85"
 type: article
 quality: 120
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,19 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "'Winning is easy. Losing is never easy': Trump stops by RNC office in Virginia"
-    excerpt: "Donald Trump said he is not thinking about an acceptance or a concession speech when he stopped at the Republican National Committee Headquarters."
-    publishedDateTime: 2020-11-03T20:24:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/"
+  - title: "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'"
+    excerpt: "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media."
+    publishedDateTime: 2020-11-07T04:08:00Z
+    webUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 101
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/9e10db91-8ed7-4e5b-8599-6d7acec09e91-VPC_TRUMP_ON_WINNING_LOSING_DESK_THUMB.00_01_49_28.Still003.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Health 202: Trump's pandemic response didn't hurt him as much as Democrats expected"
+    excerpt: "Democrats expected the 2020 presidential election would be a referendum on President Trump’s handling of the coronavirus pandemic. But it may not have hurt Trump so much — even as his opponent Joe Biden appears closer to victory this morning after winning key states of Wisconsin and Michigan."
+    publishedDateTime: 2020-11-05T12:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GRHKMRQZ7UI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "M407TPPLklCfPNgFwOF0TcQKmYPygnPvfulrzx7m23WCGvLksKN4ve1McSBFf0FyG5z8YHEDKsvZ0vuOdHd+BwRu5jBRalTFChuvtvKcB8ZnS9lMZ6uHsfFJTG92DXrIGSz0AkWSYtwEzVIQiu1/jh+sR9Qm86CHtnMBp/vgpf5VYncIdg0NPbNENlCXCWrKSYgD64hfAk6MmaJ1fafPFlOQmjdh3v3UBxwu30qjQKV0I/bTY7a8fjpBUbTqhG6BWhYjWCb6iRUAFVAq4cPgGrJS64njle0+Y+tWZCVVdeu2hm5l+uqaIsaM1nI7NOu6bbqUVphBTLbwrSz+pOL60iVAbza7yxcMlHvbU2zQZm0=;P8cgxfhQGpQ+L5385ef0YQ=="

@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "The Health 202: Obamacare marketplaces survived Trump's term better than expected"
-    excerpt: "The Trump administration is presiding over what could be its final Obamacare enrollment season, which started yesterday. As Election Day approaches, it's clear the much-hyped changes the administration made to the health insurance marketplaces over the past four years had far less impact — either positive or negative — than expected."
-    publishedDateTime: 2020-11-02T12:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/?outputType=amp"
+  - title: "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'"
+    excerpt: "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media."
+    publishedDateTime: 2020-11-07T04:08:00Z
+    webUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump 'not thinking' of election night speech yet"
+    excerpt: "Politics Trump 'not thinking' of election night speech yet. Posted . President Donald Trump visited the Republican National Committee campaign headquarters in Arlington, Virginia,"
+    publishedDateTime: 2020-11-03T20:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LMYV2VXGGEI6PK2QMIP6AWEDIA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30RPB3&r=OVD30RPB3&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "5F7ly3Eb57k6ZgINwOz6yfoIi7uJi+VbwMYgT9zGNGzFtqG2qfb+Kv2iZsSaIgRgaVMLPiLCBdTb56u/HskcxJLhHJvNAMeopjC+ngzrGTyOGhTKmuH3G99vY+rJJ6AQlyUHYcF+4cm0W4BKbVMgpxgd/7JthrOIohKssifEOW1jwbvbr6ui6Ok4gFCjGRZAREhHgLbJLggvAXU6vB8O/gK1TBr/zz8XOkwjLqSfghZlssep0Y0Ned83ONt5XtyRRzIly+ggqFkgxrvK2HzLMAuvOUl9r5sl4Lwi5T7e/EB6D7Vdt/ycnTmQvCH2GhHN3EXxvU/CSQwN+Yg855M7584PoqdOxKTbY22J1r6oDvY=;se6Bap2NcEng05cz8qXQvA=="
