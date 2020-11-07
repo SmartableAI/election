@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-07-why-arizonas-storied-conservative-stronghold-could-flip-for-biden.md",
+      "title": "Why Arizona’s Storied Conservative Stronghold Could Flip for Biden",
+      "excerpt": "Maricopa County spawned the careers of Republican hard-liners like Joe Arpaio. Now the children of immigrants targeted in the state’s nativist crackdown are challenging G.O.P. dominance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/06/us/arizona-maricopa-fontes-latino.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/06/us/arizona-maricopa-fontes-latino.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/06/us/06maricopa1/06maricopa1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/06/us/arizona-maricopa-fontes-latino.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/us/arizona-maricopa-fontes-latino.amp.html",
+      "publishedDateTime": "2020-11-06T17:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-doctors-say-theyre-hopeful-biden-will-handle-the-pandemic-better-but-disappointed-that-he-didnt-win-by-a-landslide.md",
       "title": "Doctors say they’re ‘hopeful’ Biden will handle the pandemic better, but ‘disappointed’ that he didn’t win by a landslide",
       "excerpt": "Three doctors spoke to Insider about the projection that Joe Biden has won the election, and what could happen next.",
@@ -114,7 +171,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1730,
+      "heat": 1770,
       "tags": null,
       "images": [
         {
@@ -1508,63 +1565,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-joe-biden-could-be-compromised-by-chinese-communist-party-rep-crenshaw.md",
-      "title": "Joe Biden could be compromised by Chinese Communist Party: Rep. Crenshaw",
-      "excerpt": "Joe Biden needs to answer whether or not he's compromised by China before the Nov. 3 election, Rep. Dan Crenshaw, R-Texas, said Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw",
-      "originalUrl": "https://www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2777235-b525-491c-8227-83d7cafe8bfc/a68a044c-1a8b-46e7-a369-c8ae44314383/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw.amp",
-      "publishedDateTime": "2020-10-28T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

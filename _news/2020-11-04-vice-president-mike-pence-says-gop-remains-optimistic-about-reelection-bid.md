@@ -2,17 +2,17 @@
 category: news
 title: "Vice President Mike Pence says GOP remains optimistic about reelection bid"
 excerpt: "With just hours left for voters to cast their ballot, our sister station WXII in North Carolina did a one-on-one interview with Vice President Mike Pence and former South Bend, Indiana, mayor and former Democratic presidential candidate Pete Buttigieg."
-publishedDateTime: 2020-11-03T22:50:00Z
-originalUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
-webUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
+publishedDateTime: 2020-11-03T22:37:00Z
+originalUrl: "https://www.lmtonline.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
+webUrl: "https://www.lmtonline.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: The Telegraph
-  domain: thetelegraph.com
+  name: Laredo Morning Times
+  domain: lmtonline.com
 
 topics:
   - Election
@@ -169,6 +169,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "ryoS0TQMhzbI2R9f9zOs9SPzCyHwvjc47U++rMy4FVdzOmiHZKHndlyy0wilyegLLZKBIyMbnfqWr552wSoQYf8mAqUL3esQPKbRf0WK91r/PVsNpPPdGILdnu48fqi2uplYWPafUnmPmbnoyBPcT1Ggm0Y20tFwR2qnSbahT6UU/a57wyS7Cq3bmh7r+H3H37AQJFsNYtjgI6+nxmcYY2NZgR+hqdvaXmXMwzAj5pB9/rOJGDEb3j5b+nixAvmZQ/MjGtKQgcJQyoIMw86gowtvP0Zmb1xS4MUNErEybpBt2aB4JspVtEapnMCRkNLp63kp2INmX3vPLxbxjZKQYS8jWTexmpjYgG49SaehR0E=;66dOJyPlAOvlGVqsRRDWTA=="
+secured: "yBzu00DTTIIvR2PBjb8exI9Xz6O7i/ZIwtkf38Fh5oSjtoHeXsxIDETGUR3cFJWg1rCagiCx827QUqfYYoK2boDqo6a82rBowFoBVUt/yf/GzJzOudMl9G87i6GiCBqekoxKSvMdGHuKk/ZEp8L3mJDnMTdpoRLn8Xcw2tavGGiFNON//yEC+rjZno3Wdj/8j8ZVN7MvBGRHLXLdeTn1Nhbrau1gqBS2e78kv10kw4csFQ+ndMLb2J6UjSGgN0/QB0sX9VIWDkXxCKh97bdenKtuVEc+RYyE3xhw1m9NqP/gwVD5Pi4MvYc2cVvPf6eUVqsXBSs+7EQGCZNTexkoNcBAQ36Jj198uoKcOip7dqk=;Vf4o3K/D40IwWTxTiFNvdQ=="
 ---
 

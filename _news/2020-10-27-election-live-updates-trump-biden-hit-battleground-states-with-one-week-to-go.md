@@ -1392,6 +1392,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden piles up votes in Pennsylvania as he moves closer to finalizing a path to the White House"
+    excerpt: "Former Vice President Joe Biden is relentlessly piling up votes in Western battlegrounds Nevada and Arizona and in the \"blue wall\" state of Pennsylvania, moving ever closer to finalizing the path to 270 electoral votes that he needs to win the presidency.\n    \n"
+    publishedDateTime: 2020-11-07T02:55:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jqx0W7JO1Q0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/presidential-election-biden-trump-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/presidential-election-biden-trump-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106123715-01-joe-biden-atlanta-campaign-stop-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "CNN Polls: Biden leads in Michigan and Wisconsin, with tighter races in Arizona and North Carolina"
     excerpt: "Former Vice President Joe Biden holds an advantage in the upper Midwest states of Wisconsin and Michigan, according to CNN Polls conducted by SSRS, but the race between Biden and President Donald Trump is tighter in the battlegrounds of Arizona and North Carolina.\n    \n"
     publishedDateTime: 2020-10-31T21:33:18Z

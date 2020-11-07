@@ -1384,6 +1384,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden piles up votes in Pennsylvania as he moves closer to finalizing a path to the White House"
+    excerpt: "Former Vice President Joe Biden is relentlessly piling up votes in Western battlegrounds Nevada and Arizona and in the \"blue wall\" state of Pennsylvania, moving ever closer to finalizing the path to 270 electoral votes that he needs to win the presidency.\n    \n"
+    publishedDateTime: 2020-11-07T02:55:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jqx0W7JO1Q0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/presidential-election-biden-trump-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/presidential-election-biden-trump-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106123715-01-joe-biden-atlanta-campaign-stop-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Election live updates: Trump, Biden hit battleground states with one week to go"
     excerpt: "With one week remaining until Election Day, Tuesday begins the final countdown of the campaign for President Donald Trump and Joe Biden. Trump is holding afternoon events in the key battleground states of Michigan and Wisconsin,"
     publishedDateTime: 2020-10-27T10:55:00Z

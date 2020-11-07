@@ -943,8 +943,8 @@ related:
         isCached: true
   - title: "Investors focus on undecided Senate as Biden edges in on presidency"
     excerpt: "As Democratic nominee Joe Biden edges closer to claiming the presidency, investors are focused on the still-undecided race for control of the Senate and the potential consequences for taxes, regulation and the outlook for more stimulus."
-    publishedDateTime: 2020-11-06T23:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-markets-senate/investors-focus-on-undecided-senate-as-biden-edges-in-on-presidency-idUSKBN27M2ML"
+    publishedDateTime: 2020-11-06T23:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-markets-senate-idUSL1N2HS1JY"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M2ML"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M2ML"
     type: article

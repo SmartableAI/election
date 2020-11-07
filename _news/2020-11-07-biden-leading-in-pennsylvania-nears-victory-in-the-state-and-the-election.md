@@ -1392,6 +1392,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden piles up votes in Pennsylvania as he moves closer to finalizing a path to the White House"
+    excerpt: "Former Vice President Joe Biden is relentlessly piling up votes in Western battlegrounds Nevada and Arizona and in the \"blue wall\" state of Pennsylvania, moving ever closer to finalizing the path to 270 electoral votes that he needs to win the presidency.\n    \n"
+    publishedDateTime: 2020-11-07T02:55:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jqx0W7JO1Q0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/presidential-election-biden-trump-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/presidential-election-biden-trump-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106123715-01-joe-biden-atlanta-campaign-stop-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Election live updates: Trump, Biden hit battleground states with one week to go"
     excerpt: "With one week remaining until Election Day, Tuesday begins the final countdown of the campaign for President Donald Trump and Joe Biden. Trump is holding afternoon events in the key battleground states of Michigan and Wisconsin,"
     publishedDateTime: 2020-10-27T10:55:00Z
@@ -2928,6 +2944,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "e5/YRm0WpUfXtROlNIe8O/tGpCjrD13qmAeJbb8D1HK8Vpe1qJvqhsRMBzQPbbL6PKzGIlJVLGMb377EhJ3ndyCsCInNw3eRKMh8rQ+g0MXr+NpAsej/6ememZ/IJorX03u3JGKPuYJpLH8+LFM3QWkv7EDCYy0LaGi2Z+pIG/Rp40Vi0T5rn9A5gYVldubmjglOGNwWKJoJTb286TG38sxW2/BrcGQfpL8t+6abILbdsNefly+7HEsQFr1WH1BGHxXDD37QHqznhMZSPoXk41V5b2LR+0g1fUYrYUTyDQ8zXVGXwhew6QQvFKW2xozib2KFt+4bu/+al/x9nmj3+pmUXzRmEeT6ZxT8N11E11s=;3zHMktvYgPmPj06hVB+RBw=="
+secured: "sjEz7QGGBRLpQoEIqhjSn+GBU329HVfRPMPjnawiFn9sGUwXOw9NcwNjY3ATupXQXCBq8m8uRzCfi6EofdhhfNYGIHhdJEUdQkrbKhqZDh5Kk4Zt1s1DC1tpq8gVMViIs5SenyyGFeo+fOpiw8NJTtd+iD9oCc6iPUFK++onIwwNluNDRJ6iuP03RcHbsYmC8v+RKW+wwvW/+o35j2PriTcNbDKu0Ko3HApj/0SnacsHD69rZosveei5/HxGNED8S2AhJvM9W1ohiNleUxYxbQj+uE8vPm011xcHKFZEVyM95rI5qGvtBLbp5uF6r9RQCI6FTzabDn76SMVgpROj6g3v2DugXbQ4JNQdNVDnkhipZhc9RimA0LCkh+ySAo3pwOSt7wTHcS9RtpHFAVE+HKx8tV1OyBM4aIHAewIZInPza9WGy4ak839sDis4Cxf15xvJ4U5m4j9Hepy9WiMA60X8+bYAmqXH2rRWvrK5R2TtaAO9qDLxJRTMUyNVznNdbNt0BY1ruBJ+qxjykdMtHA==;ZP+HjaA7VqZbnQ8mAGcV/w=="
 ---
 

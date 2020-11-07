@@ -2,9 +2,9 @@
 category: news
 title: "Trump Allies Push Forward With Election Lawsuits"
 excerpt: "Litigation filed by the Trump campaign and other Republicans has shown little prospect of turning the tide so far, and legal experts from both parties described the efforts as a last stand."
-publishedDateTime: 2020-11-07T00:22:00Z
-originalUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544?mod=newsviewer_click"
+publishedDateTime: 2020-11-07T02:52:00Z
+originalUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
+webUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
 ampWebUrl: "https://www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
 type: article
@@ -384,6 +384,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Lindsey Graham says he will support Biden's Cabinet choices"
+    excerpt: "Staunch ally of President Trump, Sen. Lindsey Graham, R-S.C., said he would work with Democratic presidential nominee Joe Biden to build a Cabinet, if he wins the presidency."
+    publishedDateTime: 2020-11-07T02:16:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XGxqDJjzaWw/lindsey-graham-support-biden-cabinet"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-support-biden-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-support-biden-cabinet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b7c3eb7-f9bf-44f3-b8e5-d61b2e829de8/1f72c549-5888-45a0-afff-e692e658f109/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
     excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
     publishedDateTime: 2020-11-02T17:07:25Z
@@ -698,6 +714,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "McConnell Backs Court Challenges; Toomey Says Trump Was 'Hard to Watch'"
+    excerpt: "Senate Majority Leader Mitch McConnell (R., Ky.) backed President Trump’s legal challenges to vote counting still under way in the presidential election Friday, but did not second his unsubstantiated claim that the election was rigged against him."
+    publishedDateTime: 2020-11-07T02:24:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/x7emWiaqiV0SQ6jnMhnJ"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-256198?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Biden's War Against the South"
     excerpt: "Joe Biden has said he wants to be president of ALL the states and that he doesn't see red states and blue states. But his economic policies are a de facto war against the high-growth red states"
     publishedDateTime: 2020-11-03T11:32:00Z
@@ -729,6 +759,6 @@ related:
         height: 876
         isCached: true
 
-secured: "WbF4aPSyOGnZj0o4FMP80gBOgvQOPS9pJUoq6o5BIgjjqlXQGTAANhXklSEr6RTSqPWazJRp5zfrpw86X31r1fTTjlteOVqmpDr5fKXdjtxV0Nxexcj03dhcFsUZcCp0vZj4nLeR1RbmyUOaAXS/YQe2LUj+Wz7hgoKdqrYPDtYaNlFe32KuP6NDSZ9IJ6S8EdxI6hBFk8ntZMcnUNhixhnqodg9Y+0F0OFRwLRQojwJ1M5bJq7XPPktYwu+qhziUna+Mub8l4vuMj5bs+vMmDi0AJNd7EX26XxKTevk925pZkHNOddYFDkM/h42yduuDhhFutUqXRyJcxtuMDhvOAm/Z5CPejF3LEhfuZ/PQ0g=;Roii4aotgxPG5dB9By4GEQ=="
+secured: "VlJa6LD+xg9HIg4fUTVYMNlHj5ziP1JD1llMUqbkKcR/ybV3pDKq3ZhQrHuZBp9s4yvDad6vSxPoMILodCEOJw1BeXLCauM+X6I+N+Vc4wo0jrBeYSZn0t+9mi+G/FqMJoRFo2uogq0Thvw90A/IJ//srAX1d1Qq97hLDE9WLLqEGbPc4vtlCsVyjAUO49fSgydgTt47KnT2VoW6Mk+pRSVhacHXBy5yFOKKLa6kltuE7w/Gmc7TqsP1NqRDdgCUkwa3ylTETcGADfjYRndyltaernJIBv4AW1tPnUdQUYk9eHttABxlDFHktkrebtxaMHbHuyDJXyPrz1lhcBxSWlDWlQNMnuzACAwfZCBC7x0=;wkhXgExYGz3iKvKDvA+8Ag=="
 ---
 

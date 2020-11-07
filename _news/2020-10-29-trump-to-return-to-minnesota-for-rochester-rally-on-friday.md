@@ -128,6 +128,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Here's how President Donald Trump won Ohio by almost exactly the same margin as in 2016"
+    excerpt: "Former Vice President Joe Biden thought he could pull off the upset in bellwether Ohio, but Donald Trump used the same formula as in 2016 to win."
+    publishedDateTime: 2020-11-06T21:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/04/analysis-how-donald-trump-easily-beat-joe-biden-battleground-ohio-election-day-results-for-president/6050222002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6050222002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6050222002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
 
 secured: "s4ffXbXZtwI9JI/qOgM+72DHdxFR4vNIEW/b73ht3g3CdjAtRR2FzaDrNT9SDfcZJt01xlgRtsNHneL33ae/H8rIC4m8vbq8IuMRyCmMa09tUquguO06lk/3TXKJ4EJ5MW4OiSDvk4/MXhdatj8hiw8gjw1pKjEGvPWO2Y21EyOUS9yebf2TNLy4Vqu3q3CwuEi/6PIeATVdAwRzaYdv/yOOg4QvD5CmIyqVt3POp4db/KlQANudRyNyYbd3CrmRNrNgFv+/GJBlGOqpDCnGp5RAJYozD74WwbC4aFxfKMEbLejDX763ZtRt9SnHk30nyxYMcA/Vz2cmtJHY4ZTn9xjDUASrYt/lnao7ixdVq0I=;M1WQedY8/bLsFS4HXGbDpg=="
 ---

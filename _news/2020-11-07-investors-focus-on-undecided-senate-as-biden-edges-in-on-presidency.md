@@ -2,9 +2,9 @@
 category: news
 title: "Investors focus on undecided Senate as Biden edges in on presidency"
 excerpt: "As Democratic nominee Joe Biden edges closer to claiming the presidency, investors are focused on the still-undecided race for control of the Senate and the potential consequences for taxes, regulation and the outlook for more stimulus."
-publishedDateTime: 2020-11-06T23:48:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-markets-senate/investors-focus-on-undecided-senate-as-biden-edges-in-on-presidency-idUSKBN27M2ML"
-webUrl: "https://www.reuters.com/article/us-usa-election-markets-senate/investors-focus-on-undecided-senate-as-biden-edges-in-on-presidency-idUSKBN27M2ML"
+publishedDateTime: 2020-11-06T23:46:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-markets-senate-idUSL1N2HS1JY"
+webUrl: "https://www.reuters.com/article/usa-election-markets-senate-idUSL1N2HS1JY"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M2ML"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M2ML"
 type: article
@@ -1715,6 +1715,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3+hd3HE1HmnDsRea9In8oJW0K1AwnwcpXPUBix/wcxC6JRtcGY3s7GwzNBFeo2XglN+19TMS0psJfpKhBrkLSo5kGKlF59TvpmLQgMyu7FQ/V/S2M+/GJ4DLPi9EsHA+lNPbK00y1xwVg1scmeezmxNj2ARhQtCc3g17fC/sEpOoIdlr0MPp28ZNAZSWi97MJEFimBSUVEqyhCkkwORGqumG0UtjGS0abx9B8s9Ff1j2CKl4KCsm8KaX6cd6NXsSiDar3/O4JLjfVFKbKmiff6Lqssjsi5Yo5q4vXt/0MKFfsTA9bXGTuJ+PPV/ay7NGsB2mVROQgFmp3yMe0iB1fO1eqplSK9tTAxDi4VrKB/w=;WpsFApeWTQNd0CjGQxwy/w=="
+secured: "aE9XprRhoq6/zC1LzCJS1bRZwyNtkE0JAhidRuxSJrGHtdWN8z1XjK9Kdrxyz9hbBAkLS2YB8FqRxSSQyfJoFyswfOn4R58Z+zHEB72bFxzcCKFtTv5sWqz+dJZjCuMK8hoAcrDvUph25I9IHrzXzNO5CEc2Lka+xetC4CZ5UHdBXwqzar3qap0NuDl6aSgfRQF5Qo4+jqcMZRaOgYqRfOJK9C8uaTTOKT9rOYQ5Q7hcrBpChV6RolnJa+Xvv7LHEufUC4bEjCITHbIke2RFz4W/l+Q2b9eWTAP9LJa8qrLKj/VO/uILcsDRFaoM4HW+SdHBiKXN+ngFrHwymDkWN9ioSGu2dhkRP5TaVCRLf24=;jPUCJwDea0njsvzh77vBdQ=="
 ---
 

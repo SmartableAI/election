@@ -896,6 +896,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pride, anticipation grow at Kamala Harris’ childhood elementary school"
+    excerpt: "Berkeley’s Kamala Harris was “that little girl” bussed in the late 1960s from her flatlands neighborhood on Bancroft Way to help integrate this school in Berkeley’s upscale foothills."
+    publishedDateTime: 2020-11-07T02:42:00Z
+    webUrl: "https://www.eastbaytimes.com/2020/11/06/pride-anticipation-grow-at-kamala-harris-childhood-elementary-school/"
+    ampWebUrl: "https://www.eastbaytimes.com/2020/11/06/pride-anticipation-grow-at-kamala-harris-childhood-elementary-school/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/11/06/pride-anticipation-grow-at-kamala-harris-childhood-elementary-school/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 75
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1107-9-2.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "If Joe Biden wins, history’s light will shine brightest on Kamala Harris"
     excerpt: "With a straight face, O’Donnell, the “CBS Evening News” anchor, asked Harris whether she would bring a “socialist or progressive perspective” to the White House if Joe Biden is elected president. For months,"
     publishedDateTime: 2020-10-27T19:01:00Z
@@ -967,6 +983,15 @@ related:
         width: 1200
         height: 836
         isCached: true
+  - title: "Watch Live: Joe Biden, Kamala Harris to give TV address at 8 p.m."
+    excerpt: "Joe Biden and Kamala Harris are set to give a TV address to the nation at 8 p.m. Friday. Watch live below. Lamenting that too many Massachusetts communities have their kids learning remotely, Governor Charlie Baker said Friday that the state was upgrading its metrics for determining COVID-19 transmission risks,"
+    publishedDateTime: 2020-11-06T00:00:00Z
+    webUrl: "https://www.bostonglobe.com/2020/11/06/nation/watch-live-joe-biden-kamala-harris-give-tv-address-8-pm/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 50
   - title: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas"
     excerpt: "Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Biden campaign event in Fort Worth, Texas."
     publishedDateTime: 2020-11-03T22:57:00Z
@@ -1123,6 +1148,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "sgJeeDAKucaiYT0vHAOZohWsA/QdjuP2eXo/z/2braluNMah2ayeqYTf5j1/cCHKZR9Aa6V4KPWV/UETqZHcWqkq1JAB6wC9gA7FZmUFq4AOKs2P/r4uhRGLqd99e8B7vtCTT4s+92IvHWt/AAP/023FmAgI4flKIlXRYvjSEC5xva2LZixDzWpfmrrrn8+r6QncWQwRWdLXRIM8agQ3YXh2xTEgwCU1i31DawN6QHTgv2Wi6fsbzBmkZWV4PFhBKFS1YFmGWrrWFugy9lfjJ+G9iuT+Dgb4VD6vyPZQg0/bNWQP4ViNQqotUitB64Nqe3A54clTIcSbshnDxE9rz2lCm9wpWwSsivBHcj35MlA=;Lp3XQDXwpLixpn3lqiEvOQ=="
+secured: "sp4LT//u1pkNrmnUYwKkTSKqKBKywNGs/RZld5Z2/nfbKuizut4F5pXjyIeDTYqDXEvj3W1gD03u5OtQHB0bFJN9/GIpWpIGEZHYJfrd+C7u6BVjd6h7x+wQ3sSAxbextKfmJAXUZ5UwLm2B+rPFtJdCPxtba6bVnWere+CtWP5SM1Hqe0vSl/+wTDOeuFwPVeIrDI6+1pUwG1ionkpmlc5ygU5o0Qmhz/S0e0bUSJYx7AYiIUFtekH4Ctmo80s4cK99kQ3Uzw/QO9GYRXwG6jH8Xw+2YQuWN6zpM4R6ENq0/LEjFEAK8CB7/T7fB/Wd36bQJoFx6J9QNCkBzkfxaD9ydBTpWlZSFjc+U3eSJha+OBew1W4p6K4pzpQar2sj1kG/fCUK1Q3BzwjmDpvP1ORhY1Uv7vjSBzQ5g+KLFLFbGiWqeneOnFABn4Z9Ef75P7GRJ7RbMqfs1WDXgNYAAN0ok+TXEqZKYKWWbTUwg635k8FkxgHwWyHWGWuQeSO8qe2vxyJ2luEW9pihRiyUVg==;0gqNh9re1e0dQqt9MlOFeQ=="
 ---
 

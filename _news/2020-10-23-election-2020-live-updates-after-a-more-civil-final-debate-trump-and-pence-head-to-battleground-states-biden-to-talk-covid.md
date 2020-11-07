@@ -176,6 +176,22 @@ related:
         width: 856
         height: 545
         isCached: true
+  - title: "Biden approaches U.S. election victory as Trump presses unfounded fraud claims"
+    excerpt: "Democrat Joe Biden edged closer to winning the White House on Friday, expanding his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia even as Republicans sought to raise $60 million to fund lawsuits challenging the results."
+    publishedDateTime: 2020-11-07T02:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/biden-approaches-us-election-victory-as-trump-presses-unfounded-fraud-claims-idUSKBN27M0UA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 151
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226593&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50IF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Man accused of threatening Biden, Harris in note to neighbor"
     excerpt: "A Maryland man has been charged with making death threats against Democratic presidential candidate Joe Biden and running mate U.S. Sen. Kamala Harris in a letter left on the doorstep of a neighbor wh"
     publishedDateTime: 2020-10-21T19:04:00Z
@@ -238,6 +254,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
         width: 846
+        height: 545
+        isCached: true
+  - title: "Factbox: Trump turns to courts, as Biden inches closer to victory in U.S. election"
+    excerpt: "With Democratic challenger Joe Biden taking a lead in Pennsylvania and Georgia and inching closer to victory in the U.S. presidential election on Friday, Republican President Donald Trump has turned to the courts to challenge votes in several states."
+    publishedDateTime: 2020-11-07T02:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-legal-challenges-factbox-idCAKBN27M2TQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27M2TQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27M2TQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 149
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540310380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51RS"
+        width: 817
         height: 545
         isCached: true
   - title: "Election 2020 live updates: Trump, Biden racing toward Election Day with more rallies"

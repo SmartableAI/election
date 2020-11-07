@@ -117,6 +117,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Here's how President Donald Trump won Ohio by almost exactly the same margin as in 2016"
+    excerpt: "Former Vice President Joe Biden thought he could pull off the upset in bellwether Ohio, but Donald Trump used the same formula as in 2016 to win."
+    publishedDateTime: 2020-11-06T21:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/04/analysis-how-donald-trump-easily-beat-joe-biden-battleground-ohio-election-day-results-for-president/6050222002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6050222002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6050222002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
   - title: "Trump to return to Minnesota for Rochester rally on Friday"
     excerpt: "As Election Day looms, President Donald Trump is returning to Minnesota for a rally Friday in Rochester that will mark his fourth trip to the state in recent weeks, his campaign announced Wednesday."
     publishedDateTime: 2020-10-28T21:15:00Z

@@ -383,6 +383,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Lindsey Graham says he will support Biden's Cabinet choices"
+    excerpt: "Staunch ally of President Trump, Sen. Lindsey Graham, R-S.C., said he would work with Democratic presidential nominee Joe Biden to build a Cabinet, if he wins the presidency."
+    publishedDateTime: 2020-11-07T02:16:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XGxqDJjzaWw/lindsey-graham-support-biden-cabinet"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-support-biden-cabinet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-support-biden-cabinet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b7c3eb7-f9bf-44f3-b8e5-d61b2e829de8/1f72c549-5888-45a0-afff-e692e658f109/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign adviser Lewandowski predicts clear election winner with Trump victories in major swing states"
     excerpt: "President Trump has warned that Americans may not learn the results of the presidential election until well after Election Day due to certain battleground states extending the deadline for accepting mailed ballots, but Trump campaign senior adviser Corey Lewandowski predicted that Trump will win so decisively"
     publishedDateTime: 2020-11-01T15:08:25Z
@@ -529,8 +545,8 @@ related:
         isCached: true
   - title: "Trump Allies Push Forward With Election Lawsuits"
     excerpt: "Litigation filed by the Trump campaign and other Republicans has shown little prospect of turning the tide so far, and legal experts from both parties described the efforts as a last stand."
-    publishedDateTime: 2020-11-07T00:22:00Z
-    webUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544?mod=newsviewer_click"
+    publishedDateTime: 2020-11-07T02:52:00Z
+    webUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
     type: article
@@ -694,6 +710,20 @@ related:
     quality: 115
     images:
       - url: "https://images.wsj.net/im-255660?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "McConnell Backs Court Challenges; Toomey Says Trump Was 'Hard to Watch'"
+    excerpt: "Senate Majority Leader Mitch McConnell (R., Ky.) backed President Trump’s legal challenges to vote counting still under way in the presidential election Friday, but did not second his unsubstantiated claim that the election was rigged against him."
+    publishedDateTime: 2020-11-07T02:24:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/x7emWiaqiV0SQ6jnMhnJ"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-256198?size=1.5"
         width: 1280
         height: 853
         isCached: true
