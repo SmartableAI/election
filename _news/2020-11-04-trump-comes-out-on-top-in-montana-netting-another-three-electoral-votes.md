@@ -250,6 +250,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Supporters Vent Frustration in Arizona"
+    excerpt: "Backers of the president have organized rallies at election-administration centers in a few states, voicing skepticism that the 2020 vote is being administered fairly."
+    publishedDateTime: 2020-11-07T12:08:00Z
+    webUrl: "https://www.wsj.com/articles/trump-supporters-vent-frustration-in-arizona-11604750401"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-supporters-vent-frustration-in-arizona-11604750401"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-supporters-vent-frustration-in-arizona-11604750401"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-256649/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
     excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
     publishedDateTime: 2020-10-27T12:18:00Z

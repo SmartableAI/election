@@ -111,6 +111,22 @@ related:
         width: 838
         height: 545
         isCached: true
+  - title: "Joe Biden's election victory could soon spell trouble for Britain's 'mini-Trump' Boris Johnson"
+    excerpt: "Downing Street may have underestimated the extent to which Biden might feel personal animosity towards Boris Johnson."
+    publishedDateTime: 2020-11-07T11:04:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-victory-spells-trouble-uk-us-relations-boris-johnson-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-victory-spells-trouble-uk-us-relations-boris-johnson-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-victory-spells-trouble-uk-us-relations-boris-johnson-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 143
+    images:
+      - url: "https://i.insider.com/5fa586911df1d5001821950d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Election results updates: Biden remains close to 270 electoral votes as Trump tries legal strategy"
     excerpt: "Democratic nominee Joe Biden is still in need of six or more electoral college votes to push him to the required threshold of 270 needed to win the presidency. As it stands, Biden has secured 264 electoral votes from presidential races in states that have been called,"
     publishedDateTime: 2020-11-07T08:13:00Z
@@ -639,20 +655,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "'We're going to win this race': Biden predicts victory as his lead over Trump grows"
-    excerpt: "Democrat Joe Biden said he was going to win the U.S. presidency as his lead grew over President Donald Trump in battleground states, although television networks held off from declaring him the victor as officials continued to count votes."
-    publishedDateTime: 2020-11-07T06:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/were-going-to-win-this-race-biden-predicts-victory-as-his-lead-over-trump-grows-idUSKBN27N08J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N08J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N08J"
+  - title: "\"We're going to win this race\": Biden predicts victory as his lead over Trump grows"
+    excerpt: "Democrat Joe Biden said Friday that he was going to win the U.S. presidency as his lead grew over President Donald Trump in battleground states, although television networks held off from declaring him the victor as officials continued to count votes."
+    publishedDateTime: 2020-11-07T09:30:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27M0UA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0UA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0UA"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 134
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540337327&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA6064"
-        width: 809
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540332482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA604S"
+        width: 749
         height: 545
         isCached: true
   - title: "Trump leads in Florida and other battlegrounds, Biden counts on Rust Belt 'blue wall'"
@@ -1161,6 +1177,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US election live: 'Democracy works,' says Joe Biden as he urges patience with count showing him on verge of win"
+    excerpt: "Georgia confirms recount while Democratic candidate leads president in two key battleground states – follow all the latest news"
+    publishedDateTime: 2020-11-07T12:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa683d58f0870a6e75f91a7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/d05d42e3e9b347488db3416c787e0484b7a50f47/0_0_640_716/master/640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78e6783bbbba423c2cd6a04bcd7519f7"
+        width: 600
+        height: 672
+        isCached: true
   - title: "Some Americans dance, others wield guns at vote-counting sites as Biden's lead widens"
     excerpt: "Joe Biden supporters danced in Philadelphia's streets on Friday, while armed backers of President Donald Trump in Phoenix shouted, \"Stop the steal\" as a third day of post-election ballot counting brought the Democratic former vice president closer to winning the White House."
     publishedDateTime: 2020-11-07T04:22:00Z
@@ -1384,6 +1416,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Eye Opener: Joe Biden on cusp of 270 Electoral College votes"
+    excerpt: "Vote tallying is winding down as former Vice President Joe Biden appears to have an edge over President Trump in Electoral College votes. Also, the president's chief of staff Mark Meadows has tested positive for the coronavirus."
+    publishedDateTime: 2020-11-07T12:58:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-joe-biden-on-cusp-of-270-electoral-college-votes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/4775efcc-337d-425d-806d-26c9562a2290/thumbnail/1200x630/879f3baf13633ee5a9cc3473e5b8ff04/cbsn-fusion-eye-opener-joe-biden-on-cusp-of-270-electoral-college-votes-thumbnail-583064-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Suspended animation: Count drags on as Biden nears victory"
     excerpt: "Four days after the election, the U.S. presidential race hovered in suspended animation Saturday as the long, exacting work of counting votes brought Democrat Joe Biden ever closer to a victory over President Donald Trump."
     publishedDateTime: 2020-11-07T07:25:00Z

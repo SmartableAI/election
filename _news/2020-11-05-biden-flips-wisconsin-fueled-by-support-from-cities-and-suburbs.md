@@ -174,6 +174,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Home vandalized after California man hangs effigy of Biden"
+    excerpt: "The Northern California home of a supporter of President Donald Trump was vandalized Friday after an effigy of Joe Biden accompanied by the word \"cheater\" was hung from its second-story roof with a rope,"
+    publishedDateTime: 2020-11-07T01:51:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/home-vandalized-after-california-man-hangs-effigy-biden-n1246876"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1246876"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246876"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_45/3426637/201106-brentwood-home-damage-cover-inline-jm-1949_4010630804b95605f983e1db6345adb2.jpg"
+        width: 1245
+        height: 713
+        isCached: true
   - title: "NBC News projects Biden will win Nebraska's Second Congressional District"
     excerpt: "NBC News projects that Joe Biden will win an electoral vote from Nebraska's Second Congressional District in the 2020 presidential race."
     publishedDateTime: 2020-11-04T06:49:00Z

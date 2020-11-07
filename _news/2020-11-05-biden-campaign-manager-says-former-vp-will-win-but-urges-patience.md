@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/biden-campaign-briefing/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/biden-campaign-briefing/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_2020_biden_lead_pa_201106_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Home vandalized after California man hangs effigy of Biden"
+    excerpt: "The Northern California home of a supporter of President Donald Trump was vandalized Friday after an effigy of Joe Biden accompanied by the word \"cheater\" was hung from its second-story roof with a rope,"
+    publishedDateTime: 2020-11-07T01:51:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/home-vandalized-after-california-man-hangs-effigy-biden-n1246876"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1246876"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246876"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_45/3426637/201106-brentwood-home-damage-cover-inline-jm-1949_4010630804b95605f983e1db6345adb2.jpg"
+        width: 1245
+        height: 713
         isCached: true
   - title: "NBC News projects Biden will win Nebraska's Second Congressional District"
     excerpt: "NBC News projects that Joe Biden will win an electoral vote from Nebraska's Second Congressional District in the 2020 presidential race."
