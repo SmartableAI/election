@@ -2444,6 +2444,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The People Versus Donald Trump"
+    excerpt: "To see that child-man charlatan in the White House spouting lies yet again, asserting without a trace of evidence that “If you count the legal vote I easily win,” claiming that “I won Pennsylvania by a lot,"
+    publishedDateTime: 2020-11-06T21:34:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/opinion/trump-election-lies.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/opinion/trump-election-lies.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/opinion/trump-election-lies.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/opinion/06cohenWeb/06cohenWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "With No Evidence of Fraud, Trump Fails to Make Headway on Legal Cases"
     excerpt: "The president appeared to have little path through the courts to shift the outcome of the election, leaving him reliant on long shots like recounts or pressure on state legislatures."
     publishedDateTime: 2020-11-07T00:28:00Z

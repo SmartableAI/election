@@ -963,6 +963,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "In Final Debate, Trump Tries to Be Less Like Trump"
+    excerpt: "It was, more precisely, a very public window into the version of Mr. Trump that led the former White House counsel Donald F. McGahn II to call him “King Kong” — the version that aides have ..."
+    publishedDateTime: 2020-10-23T05:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-biden-presidential-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-biden-presidential-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/us/politics/trump-biden-presidential-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/22/us/politics/22debate-assess1sub/22debate-assess1sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on"
     excerpt: "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease."
     publishedDateTime: 2020-10-12T17:31:00Z

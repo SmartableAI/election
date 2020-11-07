@@ -971,6 +971,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "In Final Debate, Trump Tries to Be Less Like Trump"
+    excerpt: "It was, more precisely, a very public window into the version of Mr. Trump that led the former White House counsel Donald F. McGahn II to call him “King Kong” — the version that aides have ..."
+    publishedDateTime: 2020-10-23T05:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-biden-presidential-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-biden-presidential-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/us/politics/trump-biden-presidential-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/22/us/politics/22debate-assess1sub/22debate-assess1sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump's Covid-plagued White House proves testing alone can't keep America safe"
     excerpt: "Just like a pregnancy test cannot take the place of birth control, Covid-19 tests should not be seen as substitutes for robust public health strategies to reduce community transmission."
     publishedDateTime: 2020-10-08T08:34:00Z

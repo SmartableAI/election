@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-vote
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
 type: article
 quality: 133
-heat: 893
+heat: 913
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
         width: 817
         height: 545
+        isCached: true
+  - title: "Election 2020 exit polls: Political pundits utterly failed to predict Donald Trump's voters"
+    excerpt: "How could the polling be so wrong that it seems Donald Trump gained support among women and racial minorities? There really was a shy Trump voter."
+    publishedDateTime: 2020-11-07T10:15:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6191966002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191966002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/29/USAT/95eda6cb-d6de-4681-af51-0488a19e59f5-AP_Electon_2020_Trump.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Wisconsin Republicans press Pennsylvania Trump supporters to return ballots after Election Day"
     excerpt: "Even as the president rails against counting valid votes, his team appears to be encouraging illegal late voting in crucial Pennsylvania"

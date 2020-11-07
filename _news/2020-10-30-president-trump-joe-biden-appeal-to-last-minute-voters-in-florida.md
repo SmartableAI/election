@@ -5651,6 +5651,22 @@ related:
         width: 2048
         height: 1456
         isCached: true
+  - title: "US Elections 2020 Highlights: Children Brought Into US By Cartels, Says Trump In Big Debate With Biden"
+    excerpt: "Donald Trump backed out of a second scheduled debate set for last Thursday over a disagreement about the virtual format following his COVID-19 infection. At that time, he raised concerns about ..."
+    publishedDateTime: 2020-10-23T00:59:00Z
+    webUrl: "https://www.ndtv.com/world-news/us-elections-2020-live-updates-donald-trump-joe-biden-face-off-in-final-us-presidential-debate-before-polls-2314441"
+    ampWebUrl: "https://www.ndtv.com/world-news/us-elections-2020-live-updates-donald-trump-joe-biden-face-off-in-final-us-presidential-debate-before-polls-2314441?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-elections-2020-live-updates-donald-trump-joe-biden-face-off-in-final-us-presidential-debate-before-polls-2314441?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 89
+    images:
+      - url: "https://c.ndtvimg.com/2020-10/n640vsk_donald-trumpjoebidendebateafp_625x300_23_October_20.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Trump Plays Rally Video Montage Featuring Sean Hannity Bashing Joe Biden"
     excerpt: "If you've been following the last few weeks of the presidential candidates on the campaign trail, you know that President Donald Trump has been working video montages into his campaign events."
     publishedDateTime: 2020-10-31T20:56:00Z
@@ -5790,6 +5806,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 85
+  - title: "Trump and Biden Meet One Last Time for 'Robust' — and Less Chaotic — Final Debate"
+    excerpt: "The final debate of the 2020 election came and went Thursday without many new revelations — and without as much chaos between the nominees as viewers saw the last time they faced off. President ..."
+    publishedDateTime: 2020-10-23T01:10:00Z
+    webUrl: "https://people.com/politics/highlights-from-the-final-presidential-debate-between-donald-trump-joe-biden/"
+    ampWebUrl: "https://people.com/politics/highlights-from-the-final-presidential-debate-between-donald-trump-joe-biden/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/highlights-from-the-final-presidential-debate-between-donald-trump-joe-biden/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 85
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F23%2FDebate-33.jpg"
+        width: 1500
+        height: 781
+        isCached: true
   - title: "In Flint, Mike Pence downplays systemic racism and urges support for Donald Trump"
     excerpt: "President Donald Trump supports law enforcement, does not believe in institutional racism and is the only right choice for the voters of Michigan, Vice President Mike Pence said during a speech in Flint on Wednesday evening. The speech came six days ..."
     publishedDateTime: 2020-10-29T01:04:00Z

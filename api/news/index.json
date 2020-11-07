@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-07-mitch-mcconnell-insists-there-will-of-course-be-a-peaceful-transfer-of-power-breaking-with-trump-who-would-not-commit-to-one.md",
+      "title": "Mitch McConnell insists there will 'of course' be a peaceful transfer of power, breaking with Trump who would not commit to one",
+      "excerpt": "The Senate Republican leader and other GOP figures have previously brushed off Trump's remarks about not conceding to a Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mitch-mcconnell-insists-peaceful-transfer-of-power-2020-11",
+      "originalUrl": "https://www.businessinsider.com/mitch-mcconnell-insists-peaceful-transfer-of-power-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f9058b4212113001873fe95?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mitch-mcconnell-insists-peaceful-transfer-of-power-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-insists-peaceful-transfer-of-power-2020-11?amp",
+      "publishedDateTime": "2020-11-07T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-democrat-in-greenwich-ecstatic-kamala-harris-on-cusp-of-being-vp.md",
       "title": "Democrat in Greenwich 'ecstatic' Kamala Harris on cusp of being VP",
       "excerpt": "Joe Biden seemed poised on Friday to take Pennsylvania and, most likely, the presidency. The victory, if and when it comes, was applauded by local experts.",
@@ -1288,62 +1340,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.md",
-      "title": "Trump's voter-fraud remarks draw criticism from some Republicans",
-      "excerpt": "President Trump faced some pushback from his own party Thursday after warning about illegal voting and an attempt to \"steal\" the presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrpFX5qC3Yg/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrpFX5qC3Yg/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/486e3da4-419d-4817-bbf0-ac663dd0aa73/4489e600-3283-425c-92a8-9780baffc963/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.amp",
-      "publishedDateTime": "2020-11-05T20:31:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

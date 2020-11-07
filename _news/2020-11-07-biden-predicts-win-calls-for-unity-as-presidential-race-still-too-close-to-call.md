@@ -2444,6 +2444,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The People Versus Donald Trump"
+    excerpt: "To see that child-man charlatan in the White House spouting lies yet again, asserting without a trace of evidence that “If you count the legal vote I easily win,” claiming that “I won Pennsylvania by a lot,"
+    publishedDateTime: 2020-11-06T21:34:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/opinion/trump-election-lies.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/opinion/trump-election-lies.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/opinion/trump-election-lies.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/opinion/06cohenWeb/06cohenWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "What Joe Biden Can Do as President"
     excerpt: "He has the power to make real, transformational progress look like common sense. Will he use it, given the chance?"
     publishedDateTime: 2020-11-06T20:04:00Z
@@ -2960,6 +2976,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "5fhYg6QdtCPkf9mEfaxwDMJ81IU6oTYgwEjQYT8NhLrhts5P1rxllIakDTdTAJe8HxKss4JG4F+Cxhfs16W5exjl77XFTVPC7yswtOgjMCtqRBCbzGpCfDX2pIdrTwVgS9S5+gyEpPaFdjTYYh+AA65sLyqCEhl49Zp/RYJ/7DtiI9d2qjXaSXv0yExPi/NSA5UfyiwJF5OaqigD/v4Aqi+DbKGkNdiI7txWnf99FlgQXaSPrWG1tOkxWkxxLspa+7tgXPvYUqZ9WI4tduKND+9JVFEeCR1u+hlnI4MN1aefKsOql5Fp0XapNOdIefpuG5Itfme9DVCQFpkT+Wv+wwVfotE9xJe40WyoiM0w6k8=;q9Hq/GeCa0Zl139ruEaxEw=="
+secured: "g9LCvJ0pxDKJHf9FA0rOlRyVSHn6IUzeiYR9dUPwVpYDrWX6gBZVF0DNMFQ7/iDRP/53pq1DkER96fpYnM0zuZTuzmbhDPIWhgmrbBs0LMjcOIWQLyrVYOjwze9C6WkTn5+Q53sP7+Oj3qXGFlOVexnJnbay/u2XxYaV8DyqoKZbeVqJ74GSmQwYLgnyLytsw00bm/I2KzjE7WADmQQsYzH/OjVj4mRzIsNVJHZocBLrtOvTcAX0jfmkJY6yDYXSqUj3YhK7ES34MYtmhbiuN14dMzASo19ikWn6L/QhNhM52wYQ3wiDkO0GRxvxHr+To8qrC+pct0ZaPcev4vDOBnB6tGDoZaPiKMfbXNdJIFUnfOZglPm/tpzefA2Pt6FXRZM9kMDNNKulHAuKBZRVDsrj4Xb5b2bfONvbVfIZvUcyj0Vgd43VHf/Jr05x9ElmwGGwvJ+yo8R/lv+BA0Jh1XIjBHtypkynUWQJwNsa2as24jimrdp+rocfhRiDl6oZ0b8zopy09TDi3+LxraCzlA==;0U99POdbcyV/PXYKEL5Pbw=="
 ---
 

@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "‘Please like me’: Trump asking suburban women to vote, but are they behind him?"
+    excerpt: "Over the past few months of campaigning, U.S. President Donald Trump has been trying to appeal to a demographic he is losing a grip on — suburban women. And according to Clifford Young ..."
+    publishedDateTime: 2020-10-23T03:20:00Z
+    webUrl: "https://globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/"
+    ampWebUrl: "https://globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 51
 
 secured: "NrCTztF+O7MGiFu+LFBdC8npU11K2YHpzyLxKy3wPPTG3rKnYmHrsC/H3RVVT8w+2vBTqhw7lMQ8tl9gi77i2YlLgsC1QRGXgJUCUXqDgvpFi44JCNZgb6JWco2rDN/HvsRZnNIgr2fWNsIT2pbv7/YMN7f+ly1GH/ZPUovmJoCL2DNBSAHZspaYCyp/9JkumptiJNfHImZbCFPg/MUGpRl3oiMeW5ZMVhze0/Dhll2/cClvJ+Xr117lNdMbvjmpeInfYYEI0m/jABG9MjpB5vMqUX5+//S/Z/nLt/bVatPtZiMz0JqVVRFuAjYVL9qJJYGbt/FSBCxIaQLiyVcpc+jJZQPZAR3jcrxcXtP23iRNZHT9UY6gvoGsCb40a2qsHVf2sbtkaHVKbcjwm7qp89JPZLoVjoto+za5S6lkTnpI9EdWsvJhCiYZIMN7sgEIoPtXSU45thaFEpx/HDeOtQz5XClgDdmtnw6g99FcN+bhGdoeh2dG7ui4xGjVSbHU/m049R3nLk9Y+5z1MzTDYg==;JOA87pgykX13nIxJAp8LiA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-d
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
 type: article
 quality: 109
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘Please like me’: Trump asking suburban women to vote, but are they behind him?"
+    excerpt: "Over the past few months of campaigning, U.S. President Donald Trump has been trying to appeal to a demographic he is losing a grip on — suburban women. And according to Clifford Young ..."
+    publishedDateTime: 2020-10-23T03:20:00Z
+    webUrl: "https://globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/"
+    ampWebUrl: "https://globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 51
 
 secured: "AlIY5jlnNG0ukmcYhNSZGh3NnCIjbbdfleF+VSDXCw6pxgalI0FfmnuZLJMJTcbEobo5QxLNYYKGBq/iCKdK4lbvPpTFMkYcQ3TmbavGiQSEQnN2skHq9qsQxclaJspw7SgHrAmcNf61uQdSjX0h3SqDNMG1tAiizIyP3O/v53kWaSwIeoPGs6ft4TJ5fi5Sams+nhPziA8Rh2nCJJttzSM8GrbXRK/GJVVJFpb2j+TNPe7s8WJcxtWk0t0vmrcvyTIhW1lHj/hn1PvOOq439AlnGe8IS+5hzq2HyLssYPVlF/wgfjoJIll6B9xfaM9coUFqvORhvAoHlnwubJN8pp4B5G2U52ROtngl/tEG3QE=;JryjU4wRA5lk9xoBe0nPFQ=="
 ---
