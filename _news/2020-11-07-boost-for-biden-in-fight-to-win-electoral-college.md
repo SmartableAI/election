@@ -109,6 +109,22 @@ related:
         width: 838
         height: 545
         isCached: true
+  - title: "Election results updates: Biden remains close to 270 electoral votes as Trump tries legal strategy"
+    excerpt: "Democratic nominee Joe Biden is still in need of six or more electoral college votes to push him to the required threshold of 270 needed to win the presidency. As it stands, Biden has secured 264 electoral votes from presidential races in states that have been called,"
+    publishedDateTime: 2020-11-07T08:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/07/election-results-biden-trump-pennsylvania-georgia-nevada/6196451002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6196451002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6196451002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 141
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/68c7b583-60ef-4302-931a-6bae25e82f21-VPC_BIDEN_SPEAKS_DESK.00_00_18_14.Still001.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 live updates: Trump campaign website hacked"
     excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
     publishedDateTime: 2020-10-29T03:58:00Z
@@ -444,6 +460,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540168467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41PX"
         width: 740
         height: 545
+        isCached: true
+  - title: "Judges want more evidence from Trump campaign as election cases get tossed"
+    excerpt: "Since Election Day, the Trump campaign has brought a series of lawsuits around the country in an effort to find a path to reelection, but four judges in different states have now weighed in with striking consistency and similar language -- finding there is no sufficient evidence to back the claims."
+    publishedDateTime: 2020-11-07T09:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/judges-evidence-trump-campaign-election-cases-tossed/story?id=74071460"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/judges-evidence-trump-campaign-election-cases-tossed/story?id=74071460"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/judges-evidence-trump-campaign-election-cases-tossed/story?id=74071460"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 138
+    images:
+      - url: "https://s.abcnews.com/images/Politics/2020-election-day-4-07-supreme-court-ap-jc-201106_1604711320625_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden Trounces Trump In Final Tally Of Major Newspaper Endorsements: 47 To 7"
     excerpt: "The former vice president even won the backing of several major publications that have never made a presidential endorsement."
@@ -1341,6 +1373,28 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Evangelicals stick with Trump, see upside even if he loses"
+    excerpt: "The conservative evangelical Christians who helped send Donald Trump to the White House four years ago stuck by him in 2020. But even if Trump doesn’t get a second term, some conservative Christians see reasons to celebrate in this year’s election results."
+    publishedDateTime: 2020-11-07T07:25:00Z
+    webUrl: "https://www.businessinsider.com/evangelicals-stick-with-trump-see-upside-even-if-he-loses-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/evangelicals-stick-with-trump-see-upside-even-if-he-loses-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-stick-with-trump-see-upside-even-if-he-loses-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Suspended animation: Count drags on as Biden nears victory"
+    excerpt: "Four days after the election, the U.S. presidential race hovered in suspended animation Saturday as the long, exacting work of counting votes brought Democrat Joe Biden ever closer to a victory over President Donald Trump."
+    publishedDateTime: 2020-11-07T07:25:00Z
+    webUrl: "https://www.businessinsider.com/suspended-animation-count-drags-on-as-biden-nears-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/suspended-animation-count-drags-on-as-biden-nears-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/suspended-animation-count-drags-on-as-biden-nears-victory-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Iowa live election results for president in Iowa: Donald Trump vs. Joe Biden"
     excerpt: "Find live reporting of election results by county in Iowa for the race for president between Donald Trump and Joe Biden."
     publishedDateTime: 2020-11-04T08:17:00Z
@@ -1791,6 +1845,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Nrp+L853R3hKDNJH7AYYwJQ3q+AykzxJWHPK3mj0fyBJREiZK3mkNhcQPOjUMeSNf7WWw27Fc/9GVWMRx2lc4JW83OJ5RJOUY5UyD/APSSbARqHCGJGWJ7tWYA4sE0SnAJ+EgrIq+xQfLotswhmT/ctpVjse+6pXjZdUEf551el90U6QEM9U5qrl6BXRgXhgwP6gj418WCIQDSdaFl7CMkKW5yNdPQKMAPwUVScAttWlmQSnYfN/n2Bjt/tJN3jv9t/31la0BGTU/DHRkVapXFH/hCoz/g4hiQnLqpMTmm3MR575a/RUrwRBdEy2ZXixJgtBLPGVZO3mxpMj3hEJ3huZbazFjk3i7Z3GhHkSz0Q=;Y5sxENRiv3kz2VPV+W1DiQ=="
+secured: "b+QLhOc4pNFRL1sUu+Nd5Dx3Eq+q7Qxi7PFPn72HmoXLbQNa5WMeKEysUDLK1zdYn5Pu+qy0qopvBDXfSSVIPfl5PiccXZi2kNQ0HjD+nOd2f1aeLrB9kn/74TsUV1BLpxKv1dsr6fpJC39F7vEG6XBobyMEe5SX6Tvk0H5wptDQtiwJgdi8u8y2J/ANZH8TopSdFsGkuLOeeblJFamuPdwGAh6CJkCU6aq1YLypUGGG3ONwQolS8aYO2qdS3vsbCJ4QpaSvbkkv8TFbTf6Yz1emjNw6H+t4JZUeSNvm9ImOclsW3XpgwvIxwZQa2+ObJu/+Bk+eKz7GuNIyA9BdXMIuN+XdDYCl9EyRuvcdKMKpjWninOoQwSvh5bfemBDjN9EbeNmLVRH9GEzjLTK0MK201o49upA3EeJ1B3VnLvp98edZ/WOBy4mXf0IyGywCYbAnoD5f3CT8tY/RHxFLZpHiTUEZEKMyb7hwIKjTGvZvOGNrZKPomyYIklc58BPJJ5KmFTirIbQhmMwY4I5u6A==;wCTJ5kKTf8gVmKONOvjtqQ=="
 ---
 

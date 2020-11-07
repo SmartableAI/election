@@ -222,6 +222,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "“We’re going to win this race,” Biden says as his lead grows in Pennsylvania and Georgia."
+    excerpt: "Joe Biden hoped to deliver a victory address on Friday, instead he called for calm as the nation awaits a winner."
+    publishedDateTime: 2020-11-07T10:41:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/us/elections/were-going-to-win-this-race-biden-says-as-his-lead-grows-in-pennsylvania-and-georgia.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/us/elections/were-going-to-win-this-race-biden-says-as-his-lead-grows-in-pennsylvania-and-georgia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/us/elections/were-going-to-win-this-race-biden-says-as-his-lead-grows-in-pennsylvania-and-georgia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 126
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/politics/06elections-brief-lede4/06elections-brief-lede4-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Joe Biden is leading in Virginia."
     excerpt: "Virginia election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
     publishedDateTime: 2020-11-04T00:52:00Z

@@ -207,6 +207,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump remains defiant in election battle, prepares to take fight to courts: report"
+    excerpt: "President Trump has been brushing aside advice from some campaign advisers who are privately urging him to prepare for a possible election loss, according to a report."
+    publishedDateTime: 2020-11-07T08:52:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fzu0xDngps/trump-remains-defiant-in-election-battle-prepares-to-take-fight-to-courts-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-remains-defiant-in-election-battle-prepares-to-take-fight-to-courts-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-remains-defiant-in-election-battle-prepares-to-take-fight-to-courts-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310605572803.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Joe Biden announces 'fight fund' for vote count battle"
     excerpt: "Democratic presidential nominee Joe Biden on Wednesday announced the formation of what he's calling the “Biden Fight Fund,” touting it as the “largest election protection effort ever assembled” as he and President Trump compete for key battleground states in the 2020 presidential race."
     publishedDateTime: 2020-11-04T19:40:42Z

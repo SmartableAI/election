@@ -267,18 +267,18 @@ related:
         isCached: true
   - title: "Factbox: Trump turns to courts, as Biden inches closer to victory in U.S. election"
     excerpt: "With Democratic challenger Joe Biden taking a lead in Pennsylvania and Georgia and inching closer to victory in the U.S. presidential election on Friday, Republican President Donald Trump has turned to the courts to challenge votes in several states."
-    publishedDateTime: 2020-11-07T02:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-legal-challenges-factbox-idCAKBN27M2TQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27M2TQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27M2TQ"
+    publishedDateTime: 2020-11-07T10:46:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-legal-challenges-factbox-idUSKBN27M2TO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M2TO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M2TO"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 149
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540310380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51RS"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540336955&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51RI"
+        width: 816
         height: 545
         isCached: true
   - title: "Election 2020 live updates: Trump, Biden racing toward Election Day with more rallies"
@@ -4092,6 +4092,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Long in Trump's shadow, Vice President Mike Pence set to emerge"
+    excerpt: "U.S. Vice President Mike Pence speaks at a rally in Kinston, North Carolina, U.S., October 25, 2020. REUTERS/Jonathan Drake"
+    publishedDateTime: 2020-10-31T15:40:00Z
+    webUrl: "https://www.reuters.com/news/picture/long-in-trumps-shadow-vice-president-mik-idUSKBN27G0F3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09G"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Politics Chat: Trump, Biden Make Final Campaign Appearances"
     excerpt: "President Barack Obama joins Joe Biden in Michigan, meanwhile President Trump ticks thru some familiar complaints in Pennsylvania."
     publishedDateTime: 2020-11-01T11:53:00Z
@@ -6806,17 +6820,6 @@ related:
         width: 1680
         height: 876
         isCached: true
-  - title: "Long in Trump's Shadow, Vice President Mike Pence Set to Emerge"
-    excerpt: "Vice President Mike Pence, a Christian conservative and one of the few constants in Donald Trump's tumultuous White House, has kept his boss's confidence by being careful never to step out of the president's shadow."
-    publishedDateTime: 2020-10-31T10:23:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Donald Trump Defeats Joe Biden in Florida"
     excerpt: "Despite supporting the Republican nominee in eight of the last 12 presidential elections, Florida is one of the most competitive battleground states in the U.S."
     publishedDateTime: 2020-11-04T05:55:00Z

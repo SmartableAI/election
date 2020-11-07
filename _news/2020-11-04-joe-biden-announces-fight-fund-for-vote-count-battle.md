@@ -207,6 +207,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump remains defiant in election battle, prepares to take fight to courts: report"
+    excerpt: "President Trump has been brushing aside advice from some campaign advisers who are privately urging him to prepare for a possible election loss, according to a report."
+    publishedDateTime: 2020-11-07T08:52:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fzu0xDngps/trump-remains-defiant-in-election-battle-prepares-to-take-fight-to-courts-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-remains-defiant-in-election-battle-prepares-to-take-fight-to-courts-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-remains-defiant-in-election-battle-prepares-to-take-fight-to-courts-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310605572803.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump claims Dems are trying to 'steal' election, says he'll win if 'legal votes' are counted"
     excerpt: "A defiant President Trump on Thursday said he and his campaign will “not allow corruption to steal” the election during a press conference at the White House, while maintaing that he will win the 2020 presidential race despite a dwindling path toward reelection as votes continue to come in."
     publishedDateTime: 2020-11-06T01:33:44Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 3944
+heat: 3964
 published: true
 
 provider:
@@ -2666,6 +2666,22 @@ related:
       - url: "https://static.politico.com/c9/cc/7fc781154b0aa44c3451220bc1c4/201106-susan-collins-gty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden predicts win, calls for unity, as presidential race still too close to call"
+    excerpt: "With votes still trickling in key states like Pennsylvania and Arizona, Biden said Friday he'd \"represent the whole nation.\""
+    publishedDateTime: 2020-11-07T05:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-predicts-win-calls-unity-presidential-race-still-too-close-n1246892"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1246892"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246892"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_45/3426658/201106-joe-biden-wilmington-jm-2259_c39447bbff9e2db935e65b20c9011e6b.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "The view in Wisconsin: Biden holds a slim lead after nearly all votes are counted."
     excerpt: "Wisconsin’s municipal clerks are nearly finished counting the state’s ballots, and former Vice President Joseph R. Biden Jr. has a lead of slightly more than 20,000 votes over President Trump, said Ann Jacobs,"

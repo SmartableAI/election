@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donations to Trump's election legal fund would also go towards paying off his campaign's debt"
+    excerpt: "On a donation page for Trump's \"Official Election Defense Fund,\" the fine print says 60% will go towards paying off the campaign's debt."
+    publishedDateTime: 2020-11-07T09:14:00Z
+    webUrl: "https://www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5fa614b31df1d500182196e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'I appreciate the advice': Trump tells crowd chanting, 'Fire Fauci!' to wait until after election"
     excerpt: "President Trump hinted he might fire Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, during a rally in Florida."
     publishedDateTime: 2020-11-04T10:24:00Z

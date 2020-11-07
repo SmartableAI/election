@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donations to Trump's election legal fund would also go towards paying off his campaign's debt"
+    excerpt: "On a donation page for Trump's \"Official Election Defense Fund,\" the fine print says 60% will go towards paying off the campaign's debt."
+    publishedDateTime: 2020-11-07T09:14:00Z
+    webUrl: "https://www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5fa614b31df1d500182196e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "After \"Fire Fauci\" chants, Trump tells crowd: \"Let me wait till a little bit after the election\""
     excerpt: "Speaking at a big campaign rally in Opa-locka, Florida, Mr. Trump voiced frustration that the pandemic which has killed more than 231,000 Americans continues to dominate the news, sparking chants of \"Fire Fauci\" from the crowd."
     publishedDateTime: 2020-11-02T16:34:00Z

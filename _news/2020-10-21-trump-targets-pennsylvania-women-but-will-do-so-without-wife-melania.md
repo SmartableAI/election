@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/999762f7-db8f-45b1-bb6f-e87ec522a0c5_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
+    excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
+    publishedDateTime: 2020-11-07T10:15:00Z
+    webUrl: "https://abcnews.go.com/US/pennsylvania-republicans-leaders-dismiss-trump-fraud-claims-call/story?id=74064448"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
+    images:
+      - url: "https://s.abcnews.com/images/Politics/boockvar_hpMain_20201106-235802_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Twitter flags Trump tweet questioning Supreme Court decision on voting in Pennsylvania"
     excerpt: "Twitter Inc late on Monday flagged a tweet by U.S. President Donald Trump in which he called a Supreme Court decision on voting in Pennsylvania \"very dangerous.\""

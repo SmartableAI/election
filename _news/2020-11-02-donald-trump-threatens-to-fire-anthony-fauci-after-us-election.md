@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
 type: article
 quality: 140
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/04/PDTF/f091d62a-2fe0-48c7-b465-baefdb94fd66-AP20309302971075.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donations to Trump's election legal fund would also go towards paying off his campaign's debt"
+    excerpt: "On a donation page for Trump's \"Official Election Defense Fund,\" the fine print says 60% will go towards paying off the campaign's debt."
+    publishedDateTime: 2020-11-07T09:14:00Z
+    webUrl: "https://www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5fa614b31df1d500182196e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "After \"Fire Fauci\" chants, Trump tells crowd: \"Let me wait till a little bit after the election\""
     excerpt: "Speaking at a big campaign rally in Opa-locka, Florida, Mr. Trump voiced frustration that the pandemic which has killed more than 231,000 Americans continues to dominate the news, sparking chants of \"Fire Fauci\" from the crowd."

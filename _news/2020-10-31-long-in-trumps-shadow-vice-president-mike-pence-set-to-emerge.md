@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Long in Trump's Shadow, Vice President Mike Pence Set to Emerge"
-excerpt: "Vice President Mike Pence, a Christian conservative and one of the few constants in Donald Trump's tumultuous White House, has kept his boss's confidence by being careful never to step out of the president's shadow."
-publishedDateTime: 2020-10-31T10:23:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge"
-webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-31/long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge?context=amp"
+title: "Long in Trump's shadow, Vice President Mike Pence set to emerge"
+excerpt: "U.S. Vice President Mike Pence speaks at a rally in Kinston, North Carolina, U.S., October 25, 2020. REUTERS/Jonathan Drake"
+publishedDateTime: 2020-10-31T15:40:00Z
+originalUrl: "https://www.reuters.com/news/picture/long-in-trumps-shadow-vice-president-mik-idUSKBN27G0F3"
+webUrl: "https://www.reuters.com/news/picture/long-in-trumps-shadow-vice-president-mik-idUSKBN27G0F3"
 type: article
-quality: 70
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09G"
+    width: 810
+    height: 540
+    isCached: true
 
 related:
   - title: "Four in ten supporters of Biden, Trump would not accept election defeat"
@@ -267,18 +271,18 @@ related:
         isCached: true
   - title: "Factbox: Trump turns to courts, as Biden inches closer to victory in U.S. election"
     excerpt: "With Democratic challenger Joe Biden taking a lead in Pennsylvania and Georgia and inching closer to victory in the U.S. presidential election on Friday, Republican President Donald Trump has turned to the courts to challenge votes in several states."
-    publishedDateTime: 2020-11-07T02:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-legal-challenges-factbox-idCAKBN27M2TQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27M2TQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27M2TQ"
+    publishedDateTime: 2020-11-07T10:46:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-legal-challenges-factbox-idUSKBN27M2TO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M2TO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M2TO"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 149
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540310380&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51RS"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540336955&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51RI"
+        width: 816
         height: 545
         isCached: true
   - title: "Election 2020 live updates: Trump, Biden racing toward Election Day with more rallies"
@@ -7438,6 +7442,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "hXlr9Of9op6nvo4zYhghyngOG4NlHPXYJr0gUbANJwSOMcykaerq73NaXWsOcQQv31MB04IbIzUo7YjQoHPobLyxZfg44vrxixzeWCgu7HGwrbh5eyXneVZ59nuqZQcangfOQqqkNDRIDi1c0JIz5kmqT7AL1QimM+IyLLndz7uzg7HF+iORwJ8n5vKb0y5O/1iB5cOQ55BdrV6ChADlKrmHdXylptaon5P8bVQ5hynPI/2PIC60rRevaN6EQ6OdO4Ti51OE+2p/YUXpumPg1BE6c9q+0FwB60NHDx6wOcYZ2LmLUJEZc9Qa8jWfb6nIU5VXngu8lOKr5+qN3HkAsYZwEi+L5l26cf5tNepq20zO3i89+axdmM/MZoUC2DsZY3X8FBYuliIk8ZhsdI+zOQgTb3KxI8gnwy+DAN/wvoizxBO9XjIL9gXRhMV0UjOfb/OWiyw8IWiniNdwdAJZnrFWg01N9doLH+5sDrHmixNJgnF9Y4fxPZ4jzjz7O6e/f/qV8ndHfiZBdND0cL8bZw==;H9rIxU5nhHrWZOgVCMRdFA=="
+secured: "zYvrCLN9ET+DHdVu8xqxWW84G3J10aBB5glg3MJaDIwZ3YL3XRU6ctI7D3CUViriEl7cN36LGEAnfVAXiZPZkcR3T/Q866QQ+exqr8ie3pXgjGZtCULN/ExYtpYMCi7QVx/qrVynWQmqSv5KW7Nh3Dl1+71qW4inJnXhs+nxPf6OylnhvnlqLtz91nXpyHHqr1R3qVvKpnTshHdt9nnW+sn+jDRKLp2diPHwxfjBF9EDfkmJ1h8GL6lbzmw/KTBnfiUL6m+8iOCaCvOCMP6N5xFTGYGicwurT1nWUTZPaJZqM8ebNcQJluCJygkRbNnOQxHRLA3fdajHqcoaDO/hZKDDMAMt6HgghP5/3xjGxss=;1nxjJzurV57bcSmnJJIjTA=="
 ---
 

@@ -2682,6 +2682,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden predicts win, calls for unity, as presidential race still too close to call"
+    excerpt: "With votes still trickling in key states like Pennsylvania and Arizona, Biden said Friday he'd \"represent the whole nation.\""
+    publishedDateTime: 2020-11-07T05:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-predicts-win-calls-unity-presidential-race-still-too-close-n1246892"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1246892"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246892"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_45/3426658/201106-joe-biden-wilmington-jm-2259_c39447bbff9e2db935e65b20c9011e6b.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "The view in Wisconsin: Biden holds a slim lead after nearly all votes are counted."
     excerpt: "Wisconsin’s municipal clerks are nearly finished counting the state’s ballots, and former Vice President Joseph R. Biden Jr. has a lead of slightly more than 20,000 votes over President Trump, said Ann Jacobs,"
     publishedDateTime: 2020-11-04T21:27:00Z
