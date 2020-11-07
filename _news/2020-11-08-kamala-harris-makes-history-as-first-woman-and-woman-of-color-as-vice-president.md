@@ -96,6 +96,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Desi Twitter bursts with pride over Kamala Harris as VP-elect"
+    excerpt: "Desi Twitter erupted Saturday in response to the news that Joe Biden became president-elect and Sen. Kamala Harris will become the first female, first Black and first South Asian American vice president."
+    publishedDateTime: 2020-11-07T18:26:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/desi-twitter-bursts-pride-over-kamala-harris-vp-elect-n1246936"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1246936"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246936"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_45/3426746/201107-kamala-harris-se-1256p_56c5535ac038761418c2d7036a43b7a2.jpg"
+        width: 2500
+        height: 1599
+        isCached: true
   - title: "Kamala Harris’s ancestral village in India offers prayers for her victory."
     excerpt: "More than 8,000 miles from the White House, in a small Indian village ringed by lush green rice paddies, several dozen people flocked into a Hindu temple, carrying roses and strings of sweet-smelling jasmine,"
     publishedDateTime: 2020-11-03T14:01:00Z
@@ -129,6 +145,6 @@ related:
         height: 1250
         isCached: true
 
-secured: "3/IEqa8vzijPrusj33tPrMOa5WoKcM3DXnEJ0Y4jzGBvV7IS3WopEe6ueHPDGqwtqIKdPDqMnPWv84Vd0Ta/IywIFCoc3Ud+WT6RmRwj+lXHy2On0j/3dPmMh0Qj1okIGDrf7PyyO5ojNVeIRG3Ok8vMh6eOUhhfyyvkrdV/kwD7Y+ftmv3vFbjU8HCBzQ3ZZWHMr01+zhJSgphZl2K/0UapYya3WDFuklHCKeKT/BVJXu0jJXahfqq2VgvDjxGxtojDTKVqOUy0NJy/bvOrcH4xS/UsinfV+RX7Yeq1j2q3FJK3vBBE1cuRUjDv330VnXyix2i+ixnhbmxV7bUhZQhnTBQarTPXfQNkqGJ9aYA=;A04v2it9Ro12myEvTmMRuA=="
+secured: "o9FqDCx30S5pjexSGk1hRQxMWahrw6CiwSllegJt2NI+tvh/m6obA2nmDzYrjdYLfdCWgnMFyt2WZQZ6Y/cfBqhOsExhD9msR7H7ASzv1bJFB0PEWItKNQuhieN9UO270bQHlY+cnghA98da1gjTNnmM82cnmXI8VL5wDR/ekCDweaEdUDr64H1Yf/hAFlUkDz/xy2z7QmV4cy5SWG/SbeNb1iwl7VV2Mxg5yMe3ZVMEXN9i5SugBlpeR7MSAkb68iua5NRJ/5Ts0SQ7BA0/vrnIcAZ9gTMHZXHvagZ+pSGt03SLtLQdS4kgIFd7OxbAfHnx8WO36DCavTpNRyOQy1kU9T6LW3Z3aPjl1xHkoV8HEU37+FwTCVA+eMfX6M5pUUJQOwFHhXUpI64NHQOQSt/e4o44AC7GyawNNAP23v7IRRw+L+DuKvTfEIpN8xdR9/PO49nINMeBsRXeNd9CAIRKnFvShCYLB6szPtRiCWJ0UzOkIjORYVhAryb7o6zzYLHuUv+MlU59lxLLEa78cQ==;C4Tk9vodi0uIU5hw5HG2tA=="
 ---
 

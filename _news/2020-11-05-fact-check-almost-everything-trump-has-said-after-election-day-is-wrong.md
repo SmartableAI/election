@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-electio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html"
 type: article
 quality: 189
-heat: 429
+heat: 449
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028171447-02-jet-flying-arizona-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump might have lost but his legacy lives on with congressional Republicans"
+    excerpt: "President Donald Trump may be defeated, but Trumpism -- the political coalition the President built, the allegiance he demanded from his allies and the policies he heralded -- will be with Republicans for years to come.\n    \n"
+    publishedDateTime: 2020-11-07T17:20:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ylo5i0R6Wao/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/republican-lawmakers-trump-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/republican-lawmakers-trump-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

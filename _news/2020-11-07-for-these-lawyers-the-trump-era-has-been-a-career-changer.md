@@ -25,138 +25,53 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Donald Trump has won North Dakota"
-    excerpt: "The state has three electoral votes and was not expected by analysts to be competitive."
-    publishedDateTime: 2020-11-04T00:16:00Z
-    webUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
+  - title: "Column: White House of Horrors: A Halloween-themed poem about Donald Trump"
+    excerpt: "The latest TrumPoem, a rhyming account of the presidency of Donald J. Trump, loosely based on his words and acts."
+    publishedDateTime: 2020-10-30T10:11:00Z
+    webUrl: "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
     images:
-      - url: "https://i.insider.com/5fa2201b69331a0011bc7288?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/j-XTbKD9PYU9tz4KDyqMTvFLhiQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/NZWX7L47I5C4LGNNJC3VIP5CPM.jpg"
         width: 1200
-        height: 600
+        height: 802
         isCached: true
-  - title: "Donald Trump has won Missouri"
-    excerpt: "The state has 10 electoral votes and was not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
-    publishedDateTime: 2020-11-05T02:33:00Z
-    webUrl: "https://www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa2ab8369331a0011bc7341?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump's last-ditch effort to recruit LGBTQ voters continues in Minnesota"
-    excerpt: "Supporters say the administration has made gay rights a \"non-issue\" and argue that Trump's early friendships with gay men — such as Roy Cohn — show he's always been an ally."
-    publishedDateTime: 2020-11-02T01:14:00Z
-    webUrl: "https://www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lgbtq-trump-supporters-rally-in-minnesota-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
-    images:
-      - url: "https://i.insider.com/5f9f5a7e6f5b310011724b4a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Ja'Ron Smith, Trump's highest-ranking Black aide, is leaving the White House"
-    excerpt: "Smith, who in August spoke in favor of Trump's reelection at the RNC, said his exit was planned \"long before the election.\""
-    publishedDateTime: 2020-11-07T16:21:00Z
-    webUrl: "https://www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5fa6bc35f7d1cb0019e3a5fd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
-    excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
-    publishedDateTime: 2020-11-05T08:09:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/11/04/trump-polarization-mail-voting-drove-record-2020-turnout-column/6153959002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6153959002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6153959002"
+  - title: "Trump books are all the 'Rage': 10 books that offer a peek inside the White House"
+    excerpt: "Here are 10 of the most insightful titles about President Donald Trump and his White House, and what we learned from reading them."
+    publishedDateTime: 2020-10-25T14:07:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/10/25/donald-trump-books-inside-white-house-michael-cohen-john-bolton/3498535001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3498535001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498535001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 115
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b0712fbb-b75c-4e51-8eb4-2fec32a575be-AFP_AFP_8UK9QB.jpg?auto=webp&crop=4656,2619,x0,y342&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 676
         isCached: true
-  - title: "Deutsche Bank eager to cut Trump ties - sources"
-    excerpt: "Posted . Deutsche Bank is tired of the negative publicity over its lending to Donald Trump, according to Reuters sourc"
-    publishedDateTime: 2020-11-03T12:37:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP7Dg?now=true"
+  - title: "Stephen Colbert broke down in tears and called Trump a fascist after the president's conspiracy-laden rant at the White House"
+    excerpt: "\"I didn't expect this to break my heart,\" Colbert said, before demanding that Republicans speak up against Trump's unprecedented behavior."
+    publishedDateTime: 2020-11-06T06:51:00Z
+    webUrl: "https://www.businessinsider.com/stephen-colbert-monologue-trump-white-house-election-remarks-video-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/stephen-colbert-monologue-trump-white-house-election-remarks-video-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stephen-colbert-monologue-trump-white-house-election-remarks-video-2020-11?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa14547e4b04d4457630913-1604404551926?location=LANDSCAPE"
+      - url: "https://i.insider.com/5fa4ed02f7d1cb0019e3a256?width=1200&format=jpeg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump adviser on FBI's Clinton email probe"
-    excerpt: "News that the FBI has discovered new emails related to its investigation of Hillary Clinton's private email server has rocked the presidential race with only 11 days to go. Senior adviser to the Trump campaign AJ Delgado joins CBSN to discuss the latest developments."
-    publishedDateTime: 2020-11-03T06:52:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-adviser-on-fbi-clinton-email-probe/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/f56475a8-5a58-4f82-bc73-d23db539bc8e/thumbnail/1200x630/2cec8063b9dd7287ab3357bd89618942/cbsn-trump-clinton-1023-1164816-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Here's how President Donald Trump won Ohio by almost exactly the same margin as in 2016"
-    excerpt: "Former Vice President Joe Biden thought he could pull off the upset in bellwether Ohio, but Donald Trump used the same formula as in 2016 to win."
-    publishedDateTime: 2020-11-06T21:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/04/analysis-how-donald-trump-easily-beat-joe-biden-battleground-ohio-election-day-results-for-president/6050222002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6050222002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6050222002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-  - title: "Trump to return to Minnesota for Rochester rally on Friday"
-    excerpt: "As Election Day looms, President Donald Trump is returning to Minnesota for a rally Friday in Rochester that will mark his fourth trip to the state in recent weeks, his campaign announced Wednesday."
-    publishedDateTime: 2020-10-28T21:15:00Z
-    webUrl: "https://www.startribune.com/trump-to-return-to-minnesota-for-rochester-rally-on-friday/572901371/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 55
-    images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1603745573"
-        width: 1680
-        height: 876
+        height: 600
         isCached: true
 
 secured: "ifxGLCBxVPZQ3WtsrU9WwxPB/5JBfA5hqPrjGJnFfM2QJ1w0aM3cZMwmLR5CRzb87DSx+KG0rQHhT17QoyY7e0zQRDfit1YcwRm9IQ/UadZZiQ3dKZq3o3Qxe8cJIQPZQh7Ewa9mKufx0x+INQEegPGXq7O/wHXLX24r6UO/0GYw/MswbaKjhaTwZgTow9WP3MjIRjZm5ZqKONsZfghiin/Ar7e15NII1i2kQOOrtgebakx1OnV/Ohk980PDjrIGxOtAh+N11rMTRVPaPrkofobm5Uieu8gASrEbryd8Fg4U7YndKEpchirSXCXMpRHNUprhszZh245Nx+p9Yfn+FKZv1iOFXKifDj/frLatA8o=;f/+ZVViR7nSFzWiOQnN6ag=="

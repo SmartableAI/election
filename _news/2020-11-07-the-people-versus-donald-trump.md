@@ -992,6 +992,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "7 takeaways from Biden's win in the 2020 presidential race"
+    excerpt: "Joe Biden is the President-elect, CNN projected Saturday morning, winning on a message of unity and a pledge to restore the \"soul of the nation\" after four years of tumult under President Donald Trump.\n    \n"
+    publishedDateTime: 2020-11-07T18:24:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NHUdqMQKnls/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/takeaways-2020-presidential-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/takeaways-2020-presidential-race/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107123610-01-biden-wilmington-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Cities erupt in celebration after Biden named winner"
+    excerpt: "President-elect Joe Biden's victory over President Donald Trump sparked celebrations in cities across the country, including many of the places that swept Biden into the White House.\n    \n"
+    publishedDateTime: 2020-11-07T18:55:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A0pGMX2Kvk4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/biden-celebrations-victory-cities/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/biden-celebrations-victory-cities/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107165758-10-biden-reax-new-york-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump misleads on Trump's health care record in joint campaign stop"
     excerpt: "First lady Melania Trump pitched President Donald Trump as a tireless warrior for health care at a rally on Thursday, claiming that health care for every citizen is his priority, even though his administration has worked to dismantle the Affordable Care Act since he took office.\n    \n"
     publishedDateTime: 2020-10-29T23:00:39Z
@@ -2928,6 +2960,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "You Can Do This, Donald Trump"
+    excerpt: "Advertisement Opinion Video features innovative video journalism commentary — argued essays, Op-Ed videos, documentaries, and fact-based explanation of current affairs. The videos are produced by both outside video makers and The Times’s Opinion Video team."
+    publishedDateTime: 2020-11-07T16:58:00Z
+    webUrl: "https://www.nytimes.com/video/opinion/100000007440367/trump-concede-speech.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/autossell/op-concessions-thumb2/op-concessions-thumb2-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
     excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
     publishedDateTime: 2020-10-25T04:00:00Z
@@ -2992,6 +3038,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "i8Ygncf68wSG1h50ewSqAudnAdEh8dbzFitxrd+v6rxE5ea9S4PCuQeev56RaJBCFyw99A/6L4+lmOX8Aq5YHQEenweHbGgR0yp33WxVV9yRbFctC7z1N/QIOgk3uTf5kUjxK0ENTutbkHcrZfmB3OtTEiauK8dg0RZ7WEqTdJkG0Z/Hf1+EgFz1HrAuuATmk0qDO8xMlZnwlBwrqhGtJlgl8hA+n8fYL4lUlI6p8jTBJr4xF+xNPHo5AF8gAQr9f7wLF7fQ2AvAg9P2KXifWQRUhRllRiLzz+uJW+e4gGZhHTfSJMM03lloASQwBkOMaC/HtUsDyZjrmryYy3nWhXHgMcdXujkphIXEkIzSEAo=;X0GNkw7cTcE+YLxnMOAr7A=="
+secured: "FcKx7VQvIS4vKDdhvYovkHN1NBCgyqI/CGGuN/M9pfyDro5Ho5JZXVommzURDtkJXq6xYvhLIe6oIlRzTiOIvCs24vXXSwUCuYoGn4PprGXg7Yt/YlO5ETiqVG4d7Fv/3SdFJ/NnlacdQovnSrzNK79GKk+TPAKqsFGZT6wKu5hbT1/ywfP0OuQ+8H+Guqdrs7jrsGckCFSC+Nqgt7ENbBBNVTjWnSZVORgXq3CuZzqKaENNwK07U4NMF+pODtmXgmC/fYObrEchDrYA7XfhehhsnI8g96xQAqgHr8Gp7Ji28gGmCaTTGFAgJXhVdEJI34/7Dee4F6e0crz62aemb3MutqN+vhKCajxCZ1KfVFpyrweGutnnG2oEgTeQNnuG2HH8GLISnS3ZYf2dEU1oTHOB+U1yMHJ7ZYzZ2BoTGlwSqQwbP3tWThKV/Ww6nLrVwkjNAv6ef/wlow87YI9XPjvm3YCrzaFlkCdbia3I2QfSOI1LoZ3sEYqOgiVH6AKdrasSy505zN2aObxaT4aPtA==;ZW3qcG+t68pizrBfbLEAPA=="
 ---
 

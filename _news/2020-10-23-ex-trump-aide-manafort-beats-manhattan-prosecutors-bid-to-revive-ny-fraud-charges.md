@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Donald Trump has won Alabama"
-    excerpt: "The state holds nine electoral votes and was not expected to be competitive. It has voted for a Republican president in every election since 1980."
-    publishedDateTime: 2020-11-04T07:16:00Z
-    webUrl: "https://www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa2032e69331a0011bc725e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Scorned by Trump, many Nigerians love him all the same"
     excerpt: "Hundreds of men and women marched, clad in T-shirts supporting U.S. President Donald Trump or pink fabric dresses bearing the image of Jesus, as they waved American flags, Republican presidential campaign signs,"
     publishedDateTime: 2020-11-04T00:09:00Z
@@ -79,15 +63,20 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Donald Trump Wins Wyoming"
-    excerpt: "Donald Trump wins Wyoming."
-    publishedDateTime: 2020-11-04T02:54:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-03/joe-biden-wins-vermont"
+  - title: "CBS News projects Pres. Trump wins Indiana"
+    excerpt: "Watch \"CBS News projects Pres. Trump wins Indiana\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-04T02:47:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201104014307-cbs-news-projects-pres-trump-wins-indiana/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07533968_1604454424.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "/kR2/IUsLFLUxGVMzVVqb5uBFZP7BylIUjKey3CGfBLPLjvU41N30HMsrw+wGW5OZ8/jodKmeu3mBt8uxgBQ/pzwdV4RUcWBVnUl7KCcCooiFtdfzccyvGomfE5y2mpGf4rlvqhOwl5u455O8rwg9LcjZO7PtRADolpn3EZgVD2sK1CV3JgzVgbZ16qZHKnS2Shf/e5ZCRydWyBBFe+odb915yfmJFlvwOftYrCWCmC7i7579lqzZrCHXvudM3IwESj/fMJAWUegDJVWtNhRwknAYVXtnTsf8QBr5nCs9HK0Okp0+e7vyesuBsZkF1LOT6L/2/GB4mGV6UBa9fbYQgSHkvVlXl8jeUqY7Su3wmY=;3kzUYh0dLHriCss4pKSjrg=="
 ---

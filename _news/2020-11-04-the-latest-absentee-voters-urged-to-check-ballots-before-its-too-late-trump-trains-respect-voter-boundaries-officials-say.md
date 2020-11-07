@@ -271,54 +271,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Overview: Trump calls for vote counting to stop as path to victory narrows"
-    excerpt: "President Donald Trump is calling for counting to stop while his opponent, Joe Biden, projects patience ahead of a handful of key states releasing new counts Thursday."
-    publishedDateTime: 2020-11-05T18:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/overview-trump-calls-vote-counting-stop-path-victory/story?id=74038071"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/overview-trump-calls-vote-counting-stop-path-victory/story?id=74038071"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/overview-trump-calls-vote-counting-stop-path-victory/story?id=74038071"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/2020-election-74-donald-trump-ap-jc-201104_1604476171322_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Twitter, Facebook fail to corral Trump's misinformation about U.S. vote count"
-    excerpt: "As U.S. President Donald Trump and his allies flooded social media on Wednesday with false claims of victory and unsupported allegations of voter fraud, social media companies warned users that the presidential election had yet to be decided."
-    publishedDateTime: 2020-11-05T00:51:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-tweet-claim-int-idUSKBN27L00I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L00I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L00I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540047484&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4007"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Jewish cemetery in Michigan vandalized with 'Trump,' 'MAGA' before Trump's rally"
-    excerpt: "Tombstones at the Ahavas Israel Cemetery in Grand Rapids were vandalized with \"Trump\" and \"MAGA\" before Trump arrived for his final campaign rally."
-    publishedDateTime: 2020-11-03T14:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/03/michigan-jewish-cemetery-desecrated-maga-before-trumps-rally/6135923002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6135923002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6135923002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e0eba4a9-c740-46cd-b451-c5a5115af8ab-AFP_AFP_8UF6ZT.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Despite Trump-Erdogan ties, Turkey says it will work with whoever wins U.S. vote"
     excerpt: "Turkey is ready to work with whoever wins the U.S. election, two top Turkish officials said on Friday, despite a friendship with President Donald Trump that has helped the two countries through turbulent times."
     publishedDateTime: 2020-11-06T13:57:00Z
@@ -436,34 +388,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Observers say no evidence for Trump's fraud claims"
-    excerpt: "The head of an international delegation monitoring the U.S. elections said on Thursday his team has no evidence to support President Donald Trump's claims about alleged fraud involving mail-in absentee ballots."
-    publishedDateTime: 2020-11-06T00:33:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/06/observers-say-no-evidence-trumps-fraud-claims/6182126002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3ab6d23d-8f6d-43f9-805c-30c23f2cfed2_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump vows to keep fighting amid Republican rebukes"
-    excerpt: "As soon as Democratic presidential candidate Joe Biden pulled ahead in Pennsylvania on Friday morning, the Trump campaign blasted out a statement saying they'd continue to pursue lawsuits and recounts in the states that remain undecided."
-    publishedDateTime: 2020-11-07T00:37:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-vows-to-keep-fighting-amid-republican-rebukes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/07/0e1bbe93-42cb-4a70-8952-fb11ec8c8db8/thumbnail/1200x630/8d3eb9143e89f08a71be96c24c06cf62/1106-en-trump-preid-582887-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
     excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
     publishedDateTime: 2020-11-05T05:50:00Z
@@ -478,17 +402,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Trump campaign says more legal action coming, predicts victory as early as Friday"
-    excerpt: "President Donald Trump's campaign said on Thursday it expected to launch additional legal action in Pennsylvania and Nevada and predicted that the Republican incumbent would emerge victorious in the U."
-    publishedDateTime: 2020-11-05T16:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-star/trump-campaign-says-more-legal-action-coming-predicts-victory-as-early-as-friday-idUSKBN27L26X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L26X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L26X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
   - title: "In latest batch, Trump gets share of votes he would need to reclaim Arizona. But next rounds of ballots present new challenges"
     excerpt: "Trump won batches of ballots from Maricopa County counted on Wednesday and Thursday morning by a roughly 58-40 margin over  Joe Biden."
     publishedDateTime: 2020-11-05T14:50:00Z
@@ -521,54 +434,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Pence, absent from Trump's press conference, tweets his support from afar"
-    excerpt: "Vice President Mike Pence wasn't at President Trump's White House press conference on Thursday evening, but he approved of his message. Trump made multiple baseless claims about the election, including that Democrats are trying to \"steal the election from us."
-    publishedDateTime: 2020-11-06T02:05:00Z
-    webUrl: "https://theweek.com/speedreads/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 89
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229449886.jpg?itok=YK9SWsij"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "Dump Donald Trump: American voters' imperative"
-    excerpt: "Monday, we concluded a daily series begun 14 weeks ago. In 26,306 words spread out over 99 days, we detailed the case for why Donald Trump — his character, his corruption, his policies, his appointees,"
-    publishedDateTime: 2020-11-03T09:10:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/Enk164ZLvg71BWottnQ-c_T5_zs=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/MW6QQHIPYFCZ7NLZ3VV6LOCR4I.jpg"
-        width: 1200
-        height: 832
-        isCached: true
-  - title: "Trump camp drops Nevada appeal in mail ballot counting case"
-    excerpt: "A legal effort in Nevada by the Donald Trump campaign and state Republicans to stop the count of mail ballots in Las Vegas is over. A document submitted in an appeal pending before the state Supreme Court says a settlement was reached requiring Clark County election officials to add “additional observation access” at a ballot processing facility in Las Vegas."
-    publishedDateTime: 2020-11-05T23:48:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Vice President Pence Speaks at Trump Campaign Rally in Reno, Nevada"
     excerpt: "Vice President Mike Pence spoke at a Trump campaign rally at the airport in Reno, Nevada."
     publishedDateTime: 2020-11-04T06:21:00Z
@@ -587,15 +452,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 50
-  - title: "Donald Trump Wins Kentucky"
-    excerpt: "Donald Trump wins Kentucky."
-    publishedDateTime: 2020-11-04T00:10:00Z
-    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-11-03/republican-eric-holcomb-wins-reelection-for-governor-in-indiana"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
   - title: "President Donald Trump Wins West Virginia's Electoral Votes"
     excerpt: "President Donald Trump eased to victory in West Virginia to take its five electoral votes. He had been widely expected to defeat Democrat Joe Biden in a state that backed him in 2016 with 68% of the vote."
     publishedDateTime: 2020-11-04T00:40:00Z

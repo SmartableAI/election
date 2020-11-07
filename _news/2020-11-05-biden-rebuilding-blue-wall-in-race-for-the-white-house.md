@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-f
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
 type: article
 quality: 105
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -23,6 +23,52 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+related:
+  - title: "Breakingviews - Biden win sets scene for storm before the calm"
+    excerpt: "Americans chose Joe Biden as their 46th president. That should usher in a more predictable period for policymaking, and decisive action on containing Covid-19. But he faces three major challenges: voters’ effective rejection of his party’s punchier ideas,"
+    publishedDateTime: 2020-11-07T17:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0NT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540367165&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HN"
+        width: 990
+        height: 545
+        isCached: true
+  - title: "How Wisconsin and Michigan could deliver Biden the presidency"
+    excerpt: "The Washington Post’s Philip Bump analyzes how Democratic presidential nominee Joe Biden flipped key states blue in 2020 and what it means for his chances of winning the presidency."
+    publishedDateTime: 2020-11-05T02:01:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/how-wisconsin-and-michigan-could-deliver-biden-the-presidency/2020/11/04/457c21ca-f628-4aa3-9f11-19c95a27808f_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-05-2020/t_eb6152e9dd9141bca371527b44fc6a64_name_20201104_DemetriusFreeman_wapo_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
+  - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
+    excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
+    publishedDateTime: 2020-11-05T21:46:00Z
+    webUrl: "https://www.c-span.org/video/?477853-1/joe-biden-urges-patience-election-vote-count-continues-predicts-victory&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
+    images:
+      - url: "https://static.c-span.org/assets/images/featured-playlists_icon.png"
+        width: 520
+        height: 485
+        isCached: true
 
 secured: "352RmjW+K/kaxTynkhdA6fJE6tFIMxtgHYR1uuCV/8yK7srtC9O/yCfBG2thnr2DCSdzxC/bkHI4l8bWVFPzwuPyvlrtN6/HbPuRlWS3HF4eO3eYkYdlFLvRNo4dt615lLLDVGqIrlCRD/hsq/o7K7CRUCXRbHOiKcJfBjtI+fM52iQKwhR82CqGzwzOjkC+L1W2GZ1/vz8ZJAu7P3WHM+FoFuEpgv4c9pnMRPPJoVMuErlXRlF7dC8i1iMgvPda50uwn2GjiZx4qrkfWz5oRcPTqNtMnwMt5QkDQf+kxUz3uJFO7Ov16lYRxjf3t1ufsoTkdOVshx8bAswjuHyIQ33auZBvK0BtqU1aTztCF7I=;S8/7ZgJrt3VNcyfcXdULVQ=="
 ---

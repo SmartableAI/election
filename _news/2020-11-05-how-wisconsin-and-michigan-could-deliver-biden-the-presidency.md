@@ -29,31 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Totals from Milwaukee, Kenosha and Green Bay push Biden to a 20,000 vote lead in Wisconsin"
-    excerpt: "Trump did worse in much of Milwaukee and Madison than he did four years ago, but did a little better in much of northern and central Wisconsin."
-    publishedDateTime: 2020-11-04T14:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/wisconsin-results-down-wire-again-milwaukee-ballot-count/6123344002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6123344002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6123344002"
+  - title: "Breakingviews - Biden win sets scene for storm before the calm"
+    excerpt: "Americans chose Joe Biden as their 46th president. That should usher in a more predictable period for policymaking, and decisive action on containing Covid-19. But he faces three major challenges: voters’ effective rejection of his party’s punchier ideas,"
+    publishedDateTime: 2020-11-07T17:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0NT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/31/PMJS/0e752870-0d26-4580-9909-c7f3251023cd-biden_trump_friday.jpg?auto=webp&crop=659,371,x0,y3&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540367165&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HN"
+        width: 990
+        height: 545
         isCached: true
-  - title: "Vice President Pence Holds Rally in Mosinee, Wisconsin"
-    excerpt: "Vice President Pence delivered campaign remarks at a “Make America Great Again” rally in Florida’s state capital of… Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice ..."
-    publishedDateTime: 2020-10-30T09:25:00Z
-    webUrl: "https://www.c-span.org/event/?477463/"
+  - title: "Biden rebuilding 'blue wall' in race for the White House"
+    excerpt: "Democrat Joe Biden was pushing closer to the 270 Electoral College votes needed to carry the White House, securing victories in the “blue wall” battlegrounds of Wisconsin and Michigan, and narrowing President Donald Trump's path."
+    publishedDateTime: 2020-11-05T07:46:00Z
+    webUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
+    excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
+    publishedDateTime: 2020-11-05T21:46:00Z
+    webUrl: "https://www.c-span.org/video/?477853-1/joe-biden-urges-patience-election-vote-count-continues-predicts-victory&ICID=ref_fark"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 35
+    quality: 55
+    images:
+      - url: "https://static.c-span.org/assets/images/featured-playlists_icon.png"
+        width: 520
+        height: 485
+        isCached: true
 
 secured: "kQ2kHeZURe3d4razlngz+qjWngRBuXkX5OItOZJZgwzJWOR/8cjIoLQf/iad/8dIu5iehxDK3gGunzLCTEz6JpRWVbIH5izS6UjBM6TYHA0NDVeghbhtijLWIyCCBRHbo6q1WN/yWTB6qkud5ybo6Lp2KMHlLbMW6eXAtKifx2NpbaZoncu6xgegbY48bt/MjLwBlGEgTrp5XtjX6nZJ8F6UaVRJPianrlKhlnX1qPoo0JAlbT5+oUZ9c5OiUzVt/b0htrPT8tI/0rMJOCTHvjxg2pN1L6VzW8Rd9pYIeFVG3Ice27mTCrbqPkEbYHfpc/B6yw+25B356Q8JN8YYjuyAvCPNhV31tLCXZAFSrOpm1iIC1x7LjmUNf0qD/rcvitp7ulFEvtgeg9Ak2WHeCSwNJnL2QR3/5t/g0Db4jam4i8GGcKVemPbLsgkMbQeCA/fX0EwztFYj80pXsjD75T/Ah/Suky2B5ZSu3O7daexBoenzqHZXFep1lPthaTDyp0sNVgG7dckMiTh53oSSoA==;SOaOQeOiYkf3v00OthJznQ=="
 ---

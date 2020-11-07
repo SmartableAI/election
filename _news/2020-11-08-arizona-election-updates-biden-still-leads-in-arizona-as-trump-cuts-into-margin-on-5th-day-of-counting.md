@@ -367,6 +367,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Biden's winning strategy: Flip Rust Belt Trump states and hold on tight"
+    excerpt: "Michigan was part of a troika of Rust Belt states that Republican Donald Trump had snatched by the narrowest of margins from Democrats in 2016 to win the presidency. If Biden could retake Michigan, Wisconsin and Pennsylvania,"
+    publishedDateTime: 2020-11-07T17:48:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27N0OC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540374474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60MY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "US Election 2020: Joe Biden wins the presidency"
     excerpt: "Joe Biden has won the race to become the next US president, defeating Donald Trump following a cliff-hanger vote count after Tuesday's election. The BBC projects that Mr Biden has won the key battleground of Pennsylvania,"
     publishedDateTime: 2020-11-07T16:50:00Z
@@ -430,6 +446,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_110420getty_0.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Live updates: Chicago area reacts to news that 2020 election is called for Joe Biden and Kamala Harris"
+    excerpt: "Joe Biden will be the next U.S. president, the AP has projected. Get updates on the reaction around the Chicago area here."
+    publishedDateTime: 2020-11-07T18:19:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-2020-election-reaction-live-updates-20201107-zephn7tqrjajbbgw2efrh6iphq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-2020-election-reaction-live-updates-20201107-zephn7tqrjajbbgw2efrh6iphq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-2020-election-reaction-live-updates-20201107-zephn7tqrjajbbgw2efrh6iphq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 139
+    images:
+      - url: "https://www.chicagotribune.com/resizer/UXY6eBYAAt-E3aD3tY0DMKWQEB0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QGE35JUF4CRWD4FOHLCPJN56QA.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
     excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
@@ -796,6 +828,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/05/94847ff4-a4d0-4576-8b62-3f95e852e97f/thumbnail/1200x630/be3eb438cfdd04f75d63168050b98c0f/1104-rb-bgm-bgn-581253-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump-to-Biden transition is already unhinged and it won't get better: Mastio and Lawrence"
+    excerpt: "One thing we have learned from watching Trump these last four years is that he never reaches bottom. There is always something worse he can do."
+    publishedDateTime: 2020-11-07T16:55:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/11/07/trump-official-loser-expect-new-lows-and-no-help-biden-column/6156201002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6156201002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6156201002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/06/USAT/fa9a86cc-7bef-4872-a16e-69c9d16d22cf-AFP_AFP_8UN3CN.jpg?auto=webp&crop=6047,3401,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump says he wants to have a physical fight with Biden as 'those legs have gotten very thin'"
     excerpt: "\"Of all the people in the world I can fight, that's probably the one I'd like to most fight,\" Trump said of Joe Biden, the Democratic nominee."

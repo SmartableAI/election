@@ -984,6 +984,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "7 takeaways from Biden's win in the 2020 presidential race"
+    excerpt: "Joe Biden is the President-elect, CNN projected Saturday morning, winning on a message of unity and a pledge to restore the \"soul of the nation\" after four years of tumult under President Donald Trump.\n    \n"
+    publishedDateTime: 2020-11-07T18:24:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NHUdqMQKnls/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/takeaways-2020-presidential-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/takeaways-2020-presidential-race/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107123610-01-biden-wilmington-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Cities erupt in celebration after Biden named winner"
+    excerpt: "President-elect Joe Biden's victory over President Donald Trump sparked celebrations in cities across the country, including many of the places that swept Biden into the White House.\n    \n"
+    publishedDateTime: 2020-11-07T18:55:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A0pGMX2Kvk4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/biden-celebrations-victory-cities/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/biden-celebrations-victory-cities/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107165758-10-biden-reax-new-york-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump misleads on Trump's health care record in joint campaign stop"
     excerpt: "First lady Melania Trump pitched President Donald Trump as a tireless warrior for health care at a rally on Thursday, claiming that health care for every citizen is his priority, even though his administration has worked to dismantle the Affordable Care Act since he took office.\n    \n"
     publishedDateTime: 2020-10-29T23:00:39Z
@@ -2933,6 +2965,20 @@ related:
     quality: 115
     images:
       - url: "https://static01.nyt.com/images/2020/11/06/us/up-suburbs-promo-1604680621134/up-suburbs-promo-1604680621134-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "You Can Do This, Donald Trump"
+    excerpt: "Advertisement Opinion Video features innovative video journalism commentary — argued essays, Op-Ed videos, documentaries, and fact-based explanation of current affairs. The videos are produced by both outside video makers and The Times’s Opinion Video team."
+    publishedDateTime: 2020-11-07T16:58:00Z
+    webUrl: "https://www.nytimes.com/video/opinion/100000007440367/trump-concede-speech.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/autossell/op-concessions-thumb2/op-concessions-thumb2-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 549
         isCached: true

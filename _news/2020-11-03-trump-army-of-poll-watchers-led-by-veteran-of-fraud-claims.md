@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watche
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540192067&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA5015"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump's attacks on mail-in ballots rankle some military vets"
-    excerpt: "Now, with his presidency on the line, he’s casting suspicion on a tool of participatory democracy — the mail-in ballot — that has allowed U.S. military personnel to vote while serving far from home since the War of 1812."
-    publishedDateTime: 2020-11-07T09:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc26de5e50f468792853a8bf596bd40_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "YouTube Channels Making Money From Ads, Memberships Amplify Trump Voting Fraud Claims"
     excerpt: "At least nine popular YouTube channels were promoting on Thursday debunked accusations about voting fraud in the U.S. presidential race, conspiratorial content that could jeopardize advertising and memberships revenue they get from the video service."

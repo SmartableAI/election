@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27C2TA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27C2TA"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump has won Alabama"
-    excerpt: "The state holds nine electoral votes and was not expected to be competitive. It has voted for a Republican president in every election since 1980."
-    publishedDateTime: 2020-11-04T07:16:00Z
-    webUrl: "https://www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa2032e69331a0011bc725e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Scorned by Trump, many Nigerians love him all the same"
     excerpt: "Hundreds of men and women marched, clad in T-shirts supporting U.S. President Donald Trump or pink fabric dresses bearing the image of Jesus, as they waved American flags, Republican presidential campaign signs,"
     publishedDateTime: 2020-11-04T00:09:00Z
@@ -79,15 +63,20 @@ related:
         width: 837
         height: 545
         isCached: true
-  - title: "Donald Trump Wins Wyoming"
-    excerpt: "Donald Trump wins Wyoming."
-    publishedDateTime: 2020-11-04T02:54:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-03/joe-biden-wins-vermont"
+  - title: "CBS News projects Pres. Trump wins Indiana"
+    excerpt: "Watch \"CBS News projects Pres. Trump wins Indiana\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-04T02:47:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201104014307-cbs-news-projects-pres-trump-wins-indiana/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07533968_1604454424.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "xszy2cTyPOhfG7u0G0+MriteTi+F7pIZzgf3PEpyKv6+/6mkA6Pim0rA/JqDzEy8NFkrLdM9WRMDWmasrGzLXeCBJ6VMh+2P7IijUIR2OXKL2Mj1U9Tz58gCWJ+HDaJTBIslfPmoNI24I6skG4IvbSQezhmv4ZgesDFuehg+tKUmVKqCaaYPLTcMfZu+dSJEUdelNQZCWZQ8h4uEt0zdIW6L+17FSXzmI6TQcZiay6PRMScXyuvbaIKlVBatp920OqzHD2+p3njOgSdqluIuTsEYmEruORKo5B13DR0KCO2xXbqzqY+SlTJTPwv7iw+tf5Y6ZyyHJWkl0h6zrfi3unHQ3jG8lUjE2kd+DPzwwyM=;X5FrxAv61h7YLYdZb9U3gw=="
 ---

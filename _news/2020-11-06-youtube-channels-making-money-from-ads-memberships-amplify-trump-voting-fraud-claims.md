@@ -57,22 +57,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump's attacks on mail-in ballots rankle some military vets"
-    excerpt: "Now, with his presidency on the line, he’s casting suspicion on a tool of participatory democracy — the mail-in ballot — that has allowed U.S. military personnel to vote while serving far from home since the War of 1812."
-    publishedDateTime: 2020-11-07T09:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc26de5e50f468792853a8bf596bd40_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "VScqjCf0pw5AJU7W+wXgvbtnbZaYwBOx55ghDse6l5RnL++lmcRC52Oj4duysbPx8aXsVOiu9NTwxArYMs2WL3hfQ8f+sdpvs3Jle/KfEAT/MnJ12PNDiSBXInlkv3C+G7BTRFZ/ick+mBhW2b9B1DVHr6pdR91Mz+y5gB995QkmBY+qHNyn1XTpZyQ38RO7f+hEMRjMfQyR7mj4gQ3lzqR/zT+iaPm/rcDm42jpNT9TzBor7vFVnmTWExJHFbXXso0YrCEDFKwIg5KR02ZGuBY55TA+EcVencREqJZlLDcyT+KEksDt302iPXIBHnVj8WXi0AJpxQKAvZJQCYY9SFKLcmFu8McdOnt0CKsd/uNYTnSLkeySc2oomO3jTaH8NAgjrac0vLc0bk42x/7k3OcYcy1BBIiMNCBGJfBhnhPSmpn1YdF7484njdqxl5/wHLF04NxkEUJXvNbWSUPk19UpksixOPleTbnIyM8x3ETiDiui/SsKehXokg83fBvTO9rbMFl6sCHisS/fbBxRuQ==;7kYziaSY8Rr4q2tpaQsaXQ=="
 ---

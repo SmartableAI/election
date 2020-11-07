@@ -47,6 +47,22 @@ related:
         width: 782
         height: 545
         isCached: true
+  - title: "Senate GOP declare \"Senate is last line of defense\" after Biden-Harris projected win"
+    excerpt: "With President-elect Joe Biden's projected electoral college victory, the nation's attention will now turn to the races which could determine the partisan balance of the Senate — and so determine whether Biden's agenda is implemented in his first term in office."
+    publishedDateTime: 2020-11-07T18:08:00Z
+    webUrl: "https://www.cbsnews.com/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 143
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/07/28/f4bad5e6-062a-4dba-bd5f-176ceb6b96ac/thumbnail/1200x630/eae0cb8d8531d115bd303d5610704381/my-post-2020-07-28t175217-309.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Severed deer heads found by Biden-Harris campaign sign, Black Lives Matter sign in Oregon"
     excerpt: "Lake Oswego Police Sgt. Tom Hamann said he did not “want to make assumptions” about the intent, as no message was attached to either head."
     publishedDateTime: 2020-11-03T12:41:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/540f9876-8bb8-4229-aef2-9105954df0f7-AP_Election_2020_Biden_Harris.jpg?auto=webp&crop=4575,2574,x0,y232&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Foreign leaders offer well wishes to Joe Biden and Kamala Harris after projected win"
+    excerpt: "Michael Higgins, president of Ireland, noted Kamala Harris's \"historic achievement\" as the first woman and first woman of color​ elected vice president."
+    publishedDateTime: 2020-11-07T18:24:00Z
+    webUrl: "https://www.cbsnews.com/news/foreign-leaders-offer-well-wishes-to-joe-biden-and-kamala-harris-after-projected-win/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/foreign-leaders-offer-well-wishes-to-joe-biden-and-kamala-harris-after-projected-win/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/foreign-leaders-offer-well-wishes-to-joe-biden-and-kamala-harris-after-projected-win/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 133
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/7e2f6dfb-8ae2-419f-9423-3b2512246c8e/thumbnail/1200x630/e8fc9ac83b2249744d60114ac7817ab8/gettyimages-1229508941.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Latest: Harris insists Biden won't ban fracking"
     excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
@@ -354,6 +386,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'Groundbreaking': Kamala Harris Becomes First Black, South Asian Woman Vice President"
+    excerpt: "Senator Kamala Harris will be the next vice president of the United States, shattering the glass ceiling not only as the first woman to hold the position, but also the first woman of color, after President-elect Joe Biden's victory over President Donald Trump."
+    publishedDateTime: 2020-11-07T16:20:00Z
+    webUrl: "https://www.newsweek.com/groundbreaking-kamala-harris-becomes-first-black-south-asian-woman-vice-president-1544095"
+    ampWebUrl: "https://www.newsweek.com/groundbreaking-kamala-harris-becomes-first-black-south-asian-woman-vice-president-1544095?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/groundbreaking-kamala-harris-becomes-first-black-south-asian-woman-vice-president-1544095?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1662698/kamala-harris.jpg"
+        width: 1024
+        height: 676
+        isCached: true
   - title: "Pa. on the brink of sending Biden to the White House, as mail-in ballots land in his favor"
     excerpt: "It would give Democrat Joe Biden the 270 electoral votes needed to win, and President Donald J. Trump's campaign said he needs Pennsylvania on his path to reelection. Biden and Trump spent the majority of their final campaign stops in Pennsylvania,"
     publishedDateTime: 2020-11-06T21:14:00Z
@@ -401,6 +449,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539811808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA213Y"
         width: 818
         height: 545
+        isCached: true
+  - title: "Kamala Harris makes history, becoming the first Black woman and South Asian elected Vice President"
+    excerpt: "Kamala Harris made history Saturday as the first Black woman elected as vice president of the United States, shattering barriers that have kept men — almost all of them white — entrenched at the highest levels of American politics for more than two centuries."
+    publishedDateTime: 2020-11-07T17:50:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kamala-harris-vice-president-20201107-j57d3oochrd35ei4uqsexxdiea-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kamala-harris-vice-president-20201107-j57d3oochrd35ei4uqsexxdiea-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-kamala-harris-vice-president-20201107-j57d3oochrd35ei4uqsexxdiea-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bZQaDcBMusbXerGFTmfRcxsJ6xo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SRJA2ZE2DIFS6XWX6GUE5APA7E.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How Joe Biden's leads in Georgia, Pennsylvania, Nevada, give him a clear path to 270 electoral votes"
     excerpt: "Joe Biden's lead is growing in key states. Former Vice President Joe Biden is on the verge of reaching 270 electoral votes and winning the race for president after he surged ahead in Georgia early Friday morning and hours later in Pennsylvania."
@@ -855,6 +919,22 @@ related:
         width: 1200
         height: 691
         isCached: true
+  - title: "‘We did it': Video shows Kamala Harris calling Joe Biden after presidential win"
+    excerpt: "We did it. We did it, Joe. You're gonna be the next president of the United States,” Harris said with a laugh on a phone call to the former vice president."
+    publishedDateTime: 2020-11-07T18:53:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/joe-biden-kamala-harris-share-phone-call-after-presidential-win-called/6203436002/"
+    ampWebUrl: "https://amp.freep.com/amp/6203436002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6203436002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 86
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mel Brooks Praised For First Ever Political Video Endorsing Joe Biden, Kamala Harris"
     excerpt: "Brooks’ name began to trend on Twitter as fans praised the star for making his first-ever political video. In the clip, Brooks reveals that he is voting for Democratic presidential nominee Joe Biden in the upcoming election."
     publishedDateTime: 2020-10-21T19:26:00Z
@@ -1056,6 +1136,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 69
+  - title: "'We did it, Joe': Kamala Harris calls Joe Biden after he wins the presidency"
+    excerpt: "Kamala Harris took to Twitter with a video of her calling Joe Biden after he gained the 270 electoral college votes to win the presidency."
+    publishedDateTime: 2020-11-07T18:55:00Z
+    webUrl: "https://www.freep.com/videos/news/politics/elections/2020/11/07/we-did-joe-kamala-harris-calls-joe-biden-after-he-wins-presidency/6204317002/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/6664ce33-653a-4fb7-9264-215540db571b-HARRIS_CALLS_BIDEN_DESK.00_00_03_06.Still003.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris breaks glass ceiling as first female vice president, first woman VP of color"
     excerpt: "Harris will make history as not only the first woman vice president but also the first African American and Asian American person to hold the office."
     publishedDateTime: 2020-11-07T16:54:00Z

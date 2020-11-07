@@ -73,6 +73,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Biden says he's 'honored and humbled' and calls for unity after major networks declare him the 46th president"
+    excerpt: "President-elect Biden said in a statement it was time for \"America to heal.\" Vice President-elect Harris said, \"we have a lot of work ahead of us.\""
+    publishedDateTime: 2020-11-07T17:44:00Z
+    webUrl: "https://www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5fa6d755f7d1cb0019e3a60f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "In Georgia, a Biden supporter realizes the power of her ballot"
     excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
     publishedDateTime: 2020-11-06T13:17:00Z

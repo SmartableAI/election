@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10720
+heat: 10740
 published: true
 
 provider:
@@ -2296,6 +2296,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-17-2020/t_1b251c46549f4ec7ab0bb7aa315d7eb1_name_20201016_PErdue_2.jpg&w=1440"
         width: 1440
         height: 809
+        isCached: true
+  - title: "Joe Biden and Kamala Harris change their Twitter bios to reflect their White House victories"
+    excerpt: "Elect\" and \"Vice President-Elect of the United States,\" respectively."
+    publishedDateTime: 2020-11-07T18:03:00Z
+    webUrl: "https://www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5f3d59ea42f43f001ddfdcf2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "VP debate 2020: Kamala Harris and Mike Pence go head to head – live updates"
     excerpt: "The coronavirus pandemic threatens to overshadow the event and"

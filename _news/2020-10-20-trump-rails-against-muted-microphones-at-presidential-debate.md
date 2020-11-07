@@ -217,6 +217,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump lost the 2020 presidential election, but is refusing to concede to Biden"
+    excerpt: "\"I WON THIS ELECTION, BY A LOT!\" Trump tweeted Saturday morning. A White House statement said his campaign will start \"prosecuting our case\" starting Monday."
+    publishedDateTime: 2020-11-07T17:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-refusing-to-concede-to-biden-after-losing-the-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-refusing-to-concede-to-biden-after-losing-the-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-refusing-to-concede-to-biden-after-losing-the-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 151
+    images:
+      - url: "https://i.insider.com/5fa563f3f7d1cb0019e3a2e7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Man accused of threatening Biden, Harris in note to neighbor"
     excerpt: "A Maryland man has been charged with making death threats against Democratic presidential candidate Joe Biden and running mate U.S. Sen. Kamala Harris in a letter left on the doorstep of a neighbor wh"
     publishedDateTime: 2020-10-21T19:04:00Z
@@ -2512,6 +2528,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/02/38a755f7-8045-4b6d-affc-b3ba7e3a4dbe/thumbnail/1200x630/c1355b46a0272b215ce0de6cd2d56146/cbsn-fusion-president-trump-joe-biden-enter-final-stretch-of-campaign-thumbnail-579061-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facebook alerts nation that Joe Biden won the presidency even as Donald Trump vows to fight"
+    excerpt: "Facebook is alerting the nation that Joe Biden is the projected winner of election in Facebook and Instagram feeds as Donald Trump vows to fight on."
+    publishedDateTime: 2020-11-07T17:14:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/11/05/facebook-who-won-election-next-president-joe-biden-donald-trump/6182619002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6182619002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182619002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/06/USAT/79b0e6a3-0e9d-458b-8ae1-046937584102-facebook_president_win.jpg?auto=webp&crop=1279,720,x0,y117&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Pro-Trump supporters on TikTok congratulate Biden for likely win by taking down Trump flags"
     excerpt: "Trump flag from their bedroom or living room wall, often with a conciliatory message. The videos are set to a downtempo remix of Disclosure and Sam Smith's \"Latch.\" \"Good luck Biden,\" reads the original video,"

@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Rep. Jordan says Republicans picked up seats because voters don't like socialism, sees path for Trump"
+    excerpt: "Republicans picked up House seats despite projections that Democrats would have a \"blue wave\" on Election Day because \"Americans don't like socialism,\" Rep. Jim Jordan, R-Ohio, told \"Fox & Friends Weekend.\""
+    publishedDateTime: 2020-11-07T18:22:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fNvpE34yLY8/ohio-republicans-congress-election-2020-jim-jordan"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-republicans-congress-election-2020-jim-jordan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-republicans-congress-election-2020-jim-jordan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Wb6mq0XDTOTUo8jV/lVZL+jVOcCc7zN/RL3EfXeo7WwVDNbaufQ5U/Jz3hdUGzQFe8RkNSAPL0+VI2O96I/IgDzsxzI/4U4tItMH2jV9Oa2QknlBwvvHSEd4t6g73KNGyy4k3XyncUfOiU52EC3FGqY7LZhVL+sMQvuoZo2uKFzzxrtnChFZ1lnS5GF4ZZ6749DIfo/yrRzmh04JkqQwGNhENPlVR50FwwizuEIYOVkP/XBvZr5uJuuW2Mpe/WSpUKveXLiSeNe5cVxG8P0Ruj8xKR9RKvRge06/Uu8HjFZnWw2YGUt0CeAEdbr28X+PQ5ZcanpW3M2r0w/cTmzn1hl1uJHUE8Dsh40Pudm4QaA=;PkBGzrWC+1ANPsEyQSKIcA=="
 ---

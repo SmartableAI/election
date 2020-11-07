@@ -25,37 +25,46 @@ images:
     isCached: true
 
 related:
-  - title: "Secret Service to dispatch extra protection squad to Joe Biden's campaign headquarters in Delaware"
-    excerpt: "The extra security will be assigned to the Wilmington Convention Center, Delaware, where the Biden campaign is headquartered."
-    publishedDateTime: 2020-11-06T12:28:00Z
-    webUrl: "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp"
+  - title: "Breakingviews - Biden win sets scene for storm before the calm"
+    excerpt: "Americans chose Joe Biden as their 46th president. That should usher in a more predictable period for policymaking, and decisive action on containing Covid-19. But he faces three major challenges: voters’ effective rejection of his party’s punchier ideas,"
+    publishedDateTime: 2020-11-07T17:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0NT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540367165&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HN"
+        width: 990
+        height: 545
+        isCached: true
+  - title: "Biden rebuilding 'blue wall' in race for the White House"
+    excerpt: "Democrat Joe Biden was pushing closer to the 270 Electoral College votes needed to carry the White House, securing victories in the “blue wall” battlegrounds of Wisconsin and Michigan, and narrowing President Donald Trump's path."
+    publishedDateTime: 2020-11-05T07:46:00Z
+    webUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5fa52beb1df1d50018219397?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Another lawsuit seeks to halt voter certification in Detroit after Michigan election goes to Joe Biden"
-    excerpt: "A second lawsuit has been filed over the absentee vote counting process in Detroit. Sarah Stoddard, a Republican election challenger, along with the Bloomfield Hills-based Election Integrity Fund, filed the lawsuit against the Detroit Election Commission in Wayne County Circuit Court on Wednesday."
-    publishedDateTime: 2020-11-06T00:30:00Z
-    webUrl: "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html"
-    ampWebUrl: "https://www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/11/another-lawsuit-seeks-to-halt-voter-certification-in-detroit-after-michigan-election-goes-to-joe-biden.html?outputType=amp"
+    quality: 105
+  - title: "How Wisconsin and Michigan could deliver Biden the presidency"
+    excerpt: "The Washington Post’s Philip Bump analyzes how Democratic presidential nominee Joe Biden flipped key states blue in 2020 and what it means for his chances of winning the presidency."
+    publishedDateTime: 2020-11-05T02:01:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/how-wisconsin-and-michigan-could-deliver-biden-the-presidency/2020/11/04/457c21ca-f628-4aa3-9f11-19c95a27808f_video.html"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 74
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EMMREBRGVFFF5DQ3EI4YGNJCPM.JPG"
-        width: 1300
-        height: 867
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-05-2020/t_eb6152e9dd9141bca371527b44fc6a64_name_20201104_DemetriusFreeman_wapo_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
 
 secured: "JimNqizBp5hGmw96DPpcLXaoMFDm/6dHgzRzwSz1wtUzLzbddFBFu5dza/pyn+yuzRS0FfhqShPD8fa/mxDWAyxZRK9UJ9mA74CTP0FFseEjeILKHlnULn2JhAhpZUsy1KRKZdvmsfogI9nslfpE+69wHWUbmbhZJNqwsoOoEFUUazTyzs2+VAR0xzgr9FxDxT7QgC6Ea+pWDeFl6bDZdrhEggUB0lHpEFes3lhvPTUYY+wMyNPacB+VO9TYvRWW+HyQAQKCHJ19zWh4khf1VnJVnw4mP8BS76M/OlB1asc4SknHF790VLT8NuATkADaAvXSnZRbKTnWEtQrwrjRcmCahXUMtco3CVclD7p8F3T/klhPB7spA9RZpF3NVJDCnFpllNAA0/30xnd+z1rW2AZY2FObCtgy0WKyTgWy4KALTTuZ5Xs9uGIvo4ttxXeJu/UqCWFINt4GKqLjdIk51+2RkB6bziAE4oPP/zISKeO4KmD1NfweBtvqXHtKE0Bv5mYWpWNqMCsF4EkJ/8MahA==;xJ6DF0bT6ZHVxCpBwAq2LQ=="

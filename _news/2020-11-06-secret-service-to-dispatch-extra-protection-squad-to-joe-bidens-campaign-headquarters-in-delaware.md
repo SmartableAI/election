@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/biden-overtakes-trump-secret-service
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp"
 type: article
 quality: 111
-heat: 151
+heat: 131
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EMMREBRGVFFF5DQ3EI4YGNJCPM.JPG"
         width: 1300
         height: 867
-        isCached: true
-  - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
-    excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
-    publishedDateTime: 2020-11-05T21:46:00Z
-    webUrl: "https://www.c-span.org/video/?477853-1/joe-biden-urges-patience-election-vote-count-continues-predicts-victory&ICID=ref_fark"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 55
-    images:
-      - url: "https://static.c-span.org/assets/images/featured-playlists_icon.png"
-        width: 520
-        height: 485
         isCached: true
 
 secured: "MzUSJN6wNVM6FMBRFleqLawZ2PR4xA+06OY0rCdWY0jOnjL4Shqe/oRrdUSnfiwNxCSQKwHYs5k2ebMA/zO5rjs3CyEGY3uFe42s7ueql3WMYwqtVVlaqNx6AMEwIC1gA8Qa687f7SWvF5Pr9WlEPHlWrovNXn9iv9ikoLIuO3f5EeIobd0rxKnPsIwMe9HZovCb1p62vv451KKkdnM54gZPurKKF28LivP+ElIoJDLpzwOmXbI8MMLKvdt7UZEj8TPs2dTO4aNOSjPhN7u4FX/W4xLV124/Jj7XZ66NCln8BsFf3YSd0NU0ZhxiviG2n/0aWswIkEipbtsfIao3ID5DhqhosPgszpF9cZFPwt4=;VuQLZst7ZKo4WUhdsEbn2Q=="

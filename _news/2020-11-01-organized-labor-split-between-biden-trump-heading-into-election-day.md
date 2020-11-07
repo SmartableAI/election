@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Obama congratulates Biden and Harris: 'Couldn't be prouder'"
+    excerpt: "Barack Obama congratulated his former vice president, Joe Biden, and his running mate, Sen. Kamala Harris, after Biden was projected to win the presidency Saturday."
+    publishedDateTime: 2020-11-07T18:43:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lbXFRi2KmDg/obama-congratulates-biden-harris-election-win"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-congratulates-biden-harris-election-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-congratulates-biden-harris-election-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301639743489.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Election 7 days away: Biden picks up campaign pace as Trump barnstorms swing states"
     excerpt: "President Trump is embarking on a campaign swing through key battleground states with the November election just one week away, as Democratic rival Joe Biden picks up the pace of his travel with a planned trip to reliably red Georgia."
     publishedDateTime: 2020-10-27T12:31:26Z
@@ -383,6 +399,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: People across US react to election of Joe Biden as 46th president"
+    excerpt: "Residents of cities all across the country took to the streets to cheer following Saturday's announcement that Democratic presidential nominee Joe Biden had defeated Republican incumbent President Donald Trump in the 2020 presidential election. "
+    publishedDateTime: 2020-11-07T18:45:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vLA5sLHyQU4/live-updates-us-reacts-biden-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-us-reacts-biden-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-us-reacts-biden-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20312626235713.jpg"
+        width: 5665
+        height: 3773
+        isCached: true
   - title: "Biden urges battleground Pennsylvania voters to ‘put an end’ to Trump presidency"
     excerpt: "Democratic presidential nominee Joe Biden, campaigning in Pennsylvania on the eve of Election Day, told voters that “tomorrow we can end the presidency that’s divided this nation.”"
     publishedDateTime: 2020-11-03T01:50:31Z
@@ -396,6 +428,38 @@ related:
     quality: 185
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20307833339196.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Dem 'Squad' congratulate Biden, Harris: Now we can pursue 'the most progressive agenda' in US history"
+    excerpt: "The Democratic \"Squad\" offered congratulations for President-Elect Joe Biden and Vice President-Elect Kamala Harris for winning the 2020 presidential election. "
+    publishedDateTime: 2020-11-07T18:13:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCh-8INjmIM/dem-squad-biden-harris-aoc-ihan-omar-rashida-tlaib"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-squad-biden-harris-aoc-ihan-omar-rashida-tlaib.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-squad-biden-harris-aoc-ihan-omar-rashida-tlaib.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "What happens to Kamala Harris' Senate seat now?"
+    excerpt: "Democratic Gov. Gavin Newsom will appoint someone to serve out the remainder of the vice president-elect's term, which ends in 2022."
+    publishedDateTime: 2020-11-07T18:01:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzEqZYfOjgk/what-happens-to-vice-president-elect-kamala-harris-senate-seat"
+    ampWebUrl: "https://www.foxnews.com/politics/what-happens-to-vice-president-elect-kamala-harris-senate-seat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/what-happens-to-vice-president-elect-kamala-harris-senate-seat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/KamalaHarrisApPhotoCarolynKaster.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -492,6 +556,22 @@ related:
     quality: 180
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff31cc51-5acb-4d7e-b902-ae55c5f4c59d/1c9485e0-0554-4871-841f-731be28337c8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President-elect Kamala Harris tweets video of call talking to President-elect Joe Biden: 'We did it, Joe'"
+    excerpt: "Vice President-elect Kamala Harris posted a video of herself talking to President-elect Joe Biden Saturday."
+    publishedDateTime: 2020-11-07T18:27:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DpCw4FiuosY/vp-elect-kamala-harris-tweets-video-of-phone-call-talking-to-president-elect-joe-biden-we-did-it-joe"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-tweets-video-of-phone-call-talking-to-president-elect-joe-biden-we-did-it-joe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-kamala-harris-tweets-video-of-phone-call-talking-to-president-elect-joe-biden-we-did-it-joe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e54ef10d-ee7f-4aee-b30d-3a4076951d2c/0765cdea-a6a3-4872-bd37-a9d44ccb5ba5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -856,6 +936,22 @@ related:
     quality: 142
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Chrissy-Teigen-Kamala-Harris-AP-Reuters.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "What happens to Kamala Harris' Senate seat now?"
+    excerpt: "Democratic Gov. Gavin Newsom will appoint someone to serve out the remainder of the vice president-elect's term, which ends in 2022."
+    publishedDateTime: 2020-11-07T18:05:00Z
+    webUrl: "https://www.foxnews.com/politics/what-happens-to-vice-president-elect-kamala-harris-senate-seat"
+    ampWebUrl: "https://www.foxnews.com/politics/what-happens-to-vice-president-elect-kamala-harris-senate-seat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/what-happens-to-vice-president-elect-kamala-harris-senate-seat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/KamalaHarrisApPhotoCarolynKaster.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

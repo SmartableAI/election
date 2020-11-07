@@ -47,19 +47,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'"
-    excerpt: "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted."
-    publishedDateTime: 2020-11-03T14:30:00Z
-    webUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
+  - title: "Ja'Ron Smith, Trump's highest-ranking Black aide, is leaving the White House"
+    excerpt: "Smith, who in August spoke in favor of Trump's reelection at the RNC, said his exit was planned \"long before the election.\""
+    publishedDateTime: 2020-11-07T16:21:00Z
+    webUrl: "https://www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 110
+    quality: 122
     images:
-      - url: "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa6bc35f7d1cb0019e3a5fd?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

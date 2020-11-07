@@ -96,6 +96,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Desi Twitter bursts with pride over Kamala Harris as VP-elect"
+    excerpt: "Desi Twitter erupted Saturday in response to the news that Joe Biden became president-elect and Sen. Kamala Harris will become the first female, first Black and first South Asian American vice president."
+    publishedDateTime: 2020-11-07T18:26:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/desi-twitter-bursts-pride-over-kamala-harris-vp-elect-n1246936"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1246936"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246936"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_45/3426746/201107-kamala-harris-se-1256p_56c5535ac038761418c2d7036a43b7a2.jpg"
+        width: 2500
+        height: 1599
+        isCached: true
   - title: "NBC News Exit Poll: Kamala Harris viewed favorably by just over half of voters"
     excerpt: "If elected vice president, Sen. Kamala Harris would be the first woman and the first person of color to serve in that role."
     publishedDateTime: 2020-11-04T05:11:00Z

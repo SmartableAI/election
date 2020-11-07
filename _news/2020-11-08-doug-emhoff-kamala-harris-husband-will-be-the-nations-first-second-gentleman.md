@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6168693002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6168693002"
 type: article
 quality: 119
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 675
     isCached: true
 
-secured: "f/Q89V3L17ylh2xnKS4OAdP20U0Nv56eHeFIdHa+YjM76UPYDZ/rcbHsjEx2RAEdY0MgsuMns8wr40pPKfptz17l4ukF3ZahtWdDGU2DxflVbVXb30liTg8HD/I1AFjdXwT9MUSeTqPJGuIqIoEyZvn4txNuueG3JJXqGOEVYBxE04Bdpk1bSr3RUCIj7rcXZiAnLPgiSHtxkxZv/PLuh8Rjd6Czy0Meeh0M9p/eWXgDflRFPzAkrdy8v2SUh/WEM99rrE32YjffwM6nkAUVJkUmWZriP4AGfuXSsnMd/e1VuaMFooVQM2t7kxRO3nb2W7NdsbnpzOwv0eWa1M3bv0AoHytQB/14rK1ZpnjBFJc=;xhm4ZKw3azlMsoNm5Oj68Q=="
+related:
+  - title: "A trio of firsts: Projected win busts Kamala Harris through politics' glass ceilings"
+    excerpt: "The celebrations for Democrats’ projected White House win Saturday included an outpouring of excitement for presumed Vice President-elect Kamala D. Harris making history."
+    publishedDateTime: 2020-11-07T18:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/07/Election_2020_Harris_58071.jpg-ecfc6_c0-171-6000-3671_s1200x700.jpg?fa0b039bd51c287ce8f31137928db7f290d4a4bb"
+        width: 1200
+        height: 700
+        isCached: true
+
+secured: "f2gNVPRqXOiFds9ohRXCg+h0YrwkL8kTOLfxJpaPI4mLqzX68/mXjP4n1zfrSCctirSjnBjNRA+deyIh6cpnYJ6X6jxuRDD+xVb5As3SEgRhBbELFuAoEHMNtcm4MG1eS0jkMtWlwO+3h9CrvUVwp9PnrpC+kN7XOBiIo/6wc+tXKHlm+Q6rKhJwzlXSI7CDbbmhYjgzcoQ2Q7KdvQ8aCHkbgALINb3/Ri1rsyU4VEN+5um685a9EfZry1L1WYv12blawlq0H62VOmjiIE0BMmyUQtvyUXbVnNdrsWYlhIqrc2CWawT70AGlldNIRWWT4EWIkzn4TsNToWszP2qqj51kQyPVs3dV5/DIh6TtUPc=;dquyb02qgngMStyrRTkesA=="
 ---
 

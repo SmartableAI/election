@@ -2313,6 +2313,22 @@ related:
         width: 1440
         height: 809
         isCached: true
+  - title: "Joe Biden and Kamala Harris change their Twitter bios to reflect their White House victories"
+    excerpt: "Elect\" and \"Vice President-Elect of the United States,\" respectively."
+    publishedDateTime: 2020-11-07T18:03:00Z
+    webUrl: "https://www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5f3d59ea42f43f001ddfdcf2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "VP debate 2020: Kamala Harris and Mike Pence go head to head – live updates"
     excerpt: "The coronavirus pandemic threatens to overshadow the event and"
     publishedDateTime: 2020-10-08T01:16:00Z

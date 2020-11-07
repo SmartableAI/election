@@ -2307,6 +2307,22 @@ related:
         width: 1440
         height: 809
         isCached: true
+  - title: "Joe Biden and Kamala Harris change their Twitter bios to reflect their White House victories"
+    excerpt: "Elect\" and \"Vice President-Elect of the United States,\" respectively."
+    publishedDateTime: 2020-11-07T18:03:00Z
+    webUrl: "https://www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5f3d59ea42f43f001ddfdcf2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Cannabis Stocks Rallied, But Don’t Be Fooled: Neither Donald Trump Nor Joe Biden Is Good For Marijuana Legalization"
     excerpt: "Cannabis stocks jumped Thursday after the vice-presidential debate, but don't get too excited. Neither political party's ticket is nationwide marijuana legalization's magic bullet."
     publishedDateTime: 2020-10-09T04:26:00Z

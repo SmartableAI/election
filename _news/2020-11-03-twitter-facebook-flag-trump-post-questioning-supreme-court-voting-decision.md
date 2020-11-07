@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27J051"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J051"
 type: article
 quality: 123
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 817
     height: 545
     isCached: true
+
+related:
+  - title: "Facebook Shuts Down Large Pro-Trump 'Stop the Steal' Group for Spreading Election Misinformation and Calling for Violence"
+    excerpt: "Trump group which had amassed over 364,000 members in less than 48 hours, for promoting election misinformation regarding ongoing vote counts. With protests over the ongoing tally of votes sweeping through a number of U."
+    publishedDateTime: 2020-11-05T22:24:00Z
+    webUrl: "https://time.com/5907902/stop-the-steal-facebook-group-trump-election/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 95
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/TIME_Reddit_Doom.gif?w&#x3D;600"
+        width: 1500
+        height: 966
+        isCached: true
 
 secured: "5w6vseQw1CSGqDMehxWRX3pBq2miiAxt2usKi3D6ALJ1giqLB0LSBFKhlfoLtmhIrgvMz1v578OuUOfnAVQYsr3jtwIDIMzGD4dV9dc5vpRHBd3sJK3+RZhrjsbGL959A2hGGGUz8cPXSp0rl3K5D0LwIG/+CnAfTfi4oMFxsUw7oZ5zYq8mJ6JXC98fRRXrPNlqgJqAMkWa4dm3GayIbY5/jt87HWTLzxJcD76g8G/UI8GVmV/B6LXTaPjRsJeDYUg8K/pSZOezpGt+ojQI1zfRpoqLhNRxs3Rj1yYEyCWMg7zHXZDTob2s8jxf64IKYQP+MYR/26ou44ouoNRXmqKanU3KTTeFccE41AQq4Gk=;GHVYkFIcpHqO204UQVg+ww=="
 ---

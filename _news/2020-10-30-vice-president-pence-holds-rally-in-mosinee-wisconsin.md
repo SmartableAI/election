@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "How Wisconsin and Michigan could deliver Biden the presidency"
-    excerpt: "The Washington Post’s Philip Bump analyzes how Democratic presidential nominee Joe Biden flipped key states blue in 2020 and what it means for his chances of winning the presidency."
-    publishedDateTime: 2020-11-05T02:01:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/how-wisconsin-and-michigan-could-deliver-biden-the-presidency/2020/11/04/457c21ca-f628-4aa3-9f11-19c95a27808f_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-05-2020/t_eb6152e9dd9141bca371527b44fc6a64_name_20201104_DemetriusFreeman_wapo_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
 
 secured: "k4WDW4iWspFHSXSQNW44wuJhExgESlix4duW2JvtzHG3CLTsuQT2EDht3NwE+OzZ4y8oApj6sgzydMT/XQw2iTtSZM4xcO1+NibzlCjji+rwXdaPyFjyhaJyjN1HOgYAiaMvXaHU4DVyfan1i29IWlVZk/Vx5ypV46vzUgqERQRvJx7d1K/Z8N/vhbg4I6HFbV27yXXdMNJ0dE+pkFeAlKqFYN8HO0ERzu7KJKvEOQtw4JZsJ2xh8k2Z2+K47abaiQbk24FCa1PL4CexWec8E8/SPgQ9HsVKWzdEiYpOxjRTvq2DcNpkwui0lEJTZqJIUJg1QeNVtPlnvG4+IT+1Ld9r2TWRqMdXqDdi6d/BJAnrlhnl++jhge8u3dFXRAF44vueP58dRPtfSraWyPneTg94PoUjOwN3jsztCke9+AffLMF/tDJVDmxb2yaPNNKWn1V90yIWXjMVxoJ1MpTInlE6I2N5Ci2nKnFrntnlQ56ihUNfX/YaqyA/vpJJevqN89cilvEMFg1r1TlkWUpMsQ==;jBTqaOG4YXPrX2w/AdaXDw=="
 ---

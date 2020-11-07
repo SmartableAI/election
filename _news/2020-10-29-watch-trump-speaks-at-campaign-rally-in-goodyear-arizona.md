@@ -47,54 +47,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Did Donald Trump Win Arizona in 2016?"
-    excerpt: "The swing state has been called for presidential candidate Joe Biden by the Associated Press, but how did Arizona vote in 2016?"
-    publishedDateTime: 2020-11-04T07:52:00Z
-    webUrl: "https://www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680"
-    ampWebUrl: "https://www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1664377/trump-arizona-2016.jpg"
-        width: 2500
-        height: 1614
-        isCached: true
-  - title: "Donald Trump has won Indiana"
-    excerpt: "Indiana has 11 electoral votes and was not expected by analysts to be competitive."
-    publishedDateTime: 2020-11-05T06:37:00Z
-    webUrl: "https://www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa2aaec1df1d50018218c81?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump campaign files lawsuit over Georgia county ballot sorting"
-    excerpt: "U.S. President Donald Trump's reelection campaign on Wednesday said it had filed a lawsuit in Georgia to require that Chatham County separate and secure late-arriving ballots to ensure they are not counted."
-    publishedDateTime: 2020-11-05T03:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN27L077"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L077"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L077"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540058520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4045"
-        width: 641
-        height: 545
-        isCached: true
   - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
     excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
     publishedDateTime: 2020-10-21T17:09:00Z
@@ -110,22 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Trump campaign says 'illegally cast' ballots should not counted, it expects to win"
-    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
-    publishedDateTime: 2020-11-04T16:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-ballots-int-idUSKBN27K25M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K25M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K25M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539995932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA319V"
-        width: 870
-        height: 545
         isCached: true
   - title: "Trump mistakenly introduced the rapper Lil Pump as 'Little Pimp' at his final campaign rally"
     excerpt: "One of the big superstars of the world, Little Pimp!' said President Trump as he introduced the rapper Lil Pump."
@@ -143,17 +79,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Trump campaign says 'illegally cast' ballots should not be counted"
-    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
-    publishedDateTime: 2020-11-04T16:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-ballots/trump-campaign-says-illegally-cast-ballots-should-not-be-counted-idUSKBN27K26E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K26E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K26E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "What are the recount rules? We break them down and how they could help Donald Trump win Wisconsin, Arizona or Pennsylvania"
     excerpt: "Wisconsin is one of several states that could be ripe for recounts as the country awaits final results in the presidential election."
     publishedDateTime: 2020-11-05T01:56:00Z

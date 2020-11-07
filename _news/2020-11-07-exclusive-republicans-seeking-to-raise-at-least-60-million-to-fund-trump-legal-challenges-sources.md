@@ -47,21 +47,19 @@ related:
         width: 805
         height: 545
         isCached: true
-  - title: "Deutsche Bank plans to cut ties with Trump after the election and could seize his assets if he can't pay back his debts, Reuters reports"
-    excerpt: "The German lender is seeking to dump millions of dollars of Trump debt and sees a Trump loss as its best exit strategy, officials told Reuters."
-    publishedDateTime: 2020-11-03T20:12:00Z
-    webUrl: "https://www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11?amp"
+  - title: "Deutsche Bank eager to cut Trump ties - sources"
+    excerpt: "Posted . Deutsche Bank is tired of the negative publicity over its lending to Donald Trump, according to Reuters sourc"
+    publishedDateTime: 2020-11-03T12:37:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP7Dg?now=true"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5fa12e611df1d500182187c3?width=1200&format=jpeg"
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa14547e4b04d4457630913-1604404551926?location=LANDSCAPE"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "VsM4n8MM7CVTEJEl3woyS7lBj1LZWel2fW4JCOBjK/xaqWOVFqNv5vNpROz8ofDIMRiA/ubh+8ks6RkNSyYOwbWW58qW2nQO9qRnzcp4x7+q/8VXw901sEWdni5n2+hunQKauRjyIVn79k2YQgFydF2oh1aYmjIjdljwHsxFwMBND0me68icYP2/LOigzogJIqaQqLAknQwCvI44kktYh1ZdTAQqX7tNu5Av7AureyWrsx+6gr1FmV4QtX8N2SadYUu99bstkLUlPwp/AtfhMbuye4Piv4PNWVYbNTVCELnA0ss2AiytyrdUrGt9amerZBDKmpaRvsfq1Rl4aUiWcoQUzg8XzAU8xab/p590U3Ef1ks3Wu5df6EOKGPV1+DbWlhVt/8tzrapGTuhF00Z9Ok4I5LxKEzyi8yHj0O+q+q1M5w+RsZ/8s8w1am6Dq9wdyfDN3DVJhocmp/9mXwWf3R7LjtSJ+7gj7M9ZXYPt48Qaalo7LOxETtwtlf/Iu/8LAAsIJQWN8eez+HZV+kdfw==;WjgoaUYWovMsIET93EuvAQ=="
