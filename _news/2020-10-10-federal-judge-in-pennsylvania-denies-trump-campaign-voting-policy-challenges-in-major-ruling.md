@@ -79,6 +79,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The Trump team is planning a news conference in Philadelphia this morning."
+    excerpt: "Biden Jr. over the threshold for the presidency, President Trump said that his team would be holding a news conference in Philadelphia on Saturday morning. It was not immediately clear what the topic of the news conference would be,"
+    publishedDateTime: 2020-11-07T14:50:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/us/politics/the-trump-team-is-planning-a-news-conference-in-philadelphia-this-morning.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/us/politics/the-trump-team-is-planning-a-news-conference-in-philadelphia-this-morning.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/us/politics/the-trump-team-is-planning-a-news-conference-in-philadelphia-this-morning.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/07/multimedia/07liveblogbidenwinsheader/07liveblogbidenwinsheader-articleLarge-v3.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "N37Wt380U84oYyYhx9y+7upgsxRQvWtHqAc0CZxfBAu8EktMNLyLwyNSU7JKtaDOm/JNVSex1GOgcnpSr/rLbK/05UckuadAhf0FTgS43WBc8wtfevAH5QsGaNnd0/MBzwJy+RcbIBfJHZjY/NTCzwSCaPOaDsa4/Ask6EHEYEWf5szVgQJuHfR79wIU1d/vURF5DqsJMDDkjWOV4O/vSbNCqk+67gY5rymxoYr3thKnQtrDSAS94xAzbLfj1cKbRlnt2r2IBYXSw9VRp19wKIjI1zJJi2d1xuXZ7+BdjOAU9G7Biuut+9vgbRD5l8TmPKy59qOsM03N2Cetjj4SeOmCkHI9FKNhZRrDoIUCzMU=;Bg31EluOy+0O/Qd9XiKjSQ=="
 ---

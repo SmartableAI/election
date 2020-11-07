@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.indystar.com/amp/6129769002"
 cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6129769002"
 type: article
 quality: 78
-heat: 78
+heat: 98
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Kamala Harris' VP win marks 'powerful, emotional' moment for African American and South Asian-American women"
+    excerpt: "African American and South Asian women celebrated the history-making win of Kamala Harris, the daughter of an Indian mother and Jamaican father."
+    publishedDateTime: 2020-11-07T16:48:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/kamala-harris-vp-win-historic-first-african-american-asian-women/6144619002/"
+    ampWebUrl: "https://amp.freep.com/amp/6144619002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6144619002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 56
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/USAT/e88a30bd-a278-4c81-a022-0a5b54e3cedf-AP_APTOPIX_Election_2020_Harris.jpg?auto=webp&crop=4800,2700,x545,y769&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "h34iVkLeZaMbtwckQXNm1hg4MnNJb7c9oWrgTFH+WuM9MHFE7Pw9qHCA+15L59qDe/TbRJXcUkvcbE+uONqGAQy90XiY8Ii6pIUFiVJDgDt1/Jp+z2a1ByHaU8cszWXWHXlzUY6T/btVMTZP4zUaaRoSy5F3oSdcTOdX/nw0WCg6hTQSiwfYDUYiYaYDm6kZuulkdm5YS0o/NXQk9wCx4IRn0khBCfalRvHg7ev7D7zPjL4BW/2EpS3EHlz0ltmbNGzXDbZN0XzkUrubE6dAy0XRg33/g5nMIizfIxbiRtDos+9B8Fm0yt9pWP/VCerA2XCJqr3kciOua8AQDT+CdZRlfGtUJT0z8Qj+CMjSgw2cVRu4mLC5s0E7HBHEJjleufCvWONH/+j85nMIgqXqa/eornFWRJRQiktnffztjSWY5/butkCamAW53iZ44fkcvbBD41hN68Qd1agiGd8IvC+a8OlB8zloNUfj51dolzRrekWGlEvYsCMK79LWKGNhCIYSMyKbssdm6j8Qgt2B9g==;fcST2sY6jZTxBRvIOsESRw=="
 ---

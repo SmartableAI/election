@@ -367,6 +367,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "US Election 2020: Joe Biden wins the presidency"
+    excerpt: "Joe Biden has won the race to become the next US president, defeating Donald Trump following a cliff-hanger vote count after Tuesday's election. The BBC projects that Mr Biden has won the key battleground of Pennsylvania,"
+    publishedDateTime: 2020-11-07T16:50:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-54836636?fbclid=IwAR0-MS_XXqOpe65L0gVd2TtN34ns8O56WH7XmHLGHEwxCrfw4zjJQeiYiGs"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54836636"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54836636"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D470/production/_115248345_bidenreu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "After acrimonious campaign, uneasy Americans choose between Biden, Trump"
     excerpt: "After a rancorous presidential campaign that exposed the depth of the political divisions in the United States, Americans streamed to the polls on Tuesday to choose either incumbent Donald Trump or challenger Joe Biden to lead a pandemic-battered nation for the next"
     publishedDateTime: 2020-11-03T20:29:00Z
@@ -414,6 +430,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_110420getty_0.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Arizona election updates: Biden still leads in Arizona as Trump cuts into margin on 5th day of counting"
+    excerpt: "Arizona enters its fourth day of postelection waiting. Follow The Arizona Republic's updates for Saturday, Nov. 7."
+    publishedDateTime: 2020-11-07T16:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/07/arizona-election-live-updates-2020-presidential-election/6194462002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6194462002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6194462002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 139
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/PWIL/bc561269-b7c0-4fc4-92f8-b90cc4ad1174-AP20312138433484.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
     excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
@@ -655,20 +687,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "\"We're going to win this race\": Biden predicts victory as his lead over Trump grows"
-    excerpt: "Democrat Joe Biden said Friday that he was going to win the U.S. presidency as his lead grew over President Donald Trump in battleground states, although television networks held off from declaring him the victor as officials continued to count votes."
-    publishedDateTime: 2020-11-07T09:30:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN27M0UA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0UA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0UA"
+  - title: "'We're going to win this race': Biden predicts victory as his lead over Trump grows"
+    excerpt: "Democrat Joe Biden said he was going to win the U.S. presidency as his lead grew over President Donald Trump in battleground states, although television networks held off from declaring him the victor as officials continued to count votes."
+    publishedDateTime: 2020-11-07T11:31:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27N091"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N091"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N091"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 134
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540332482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA604S"
-        width: 749
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540331865&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA604I"
+        width: 782
         height: 545
         isCached: true
   - title: "Election 2020 live updates: Melania Trump delivers pointed political attack on trail"
@@ -1457,6 +1489,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Joe Biden is the next president of the United States"
+    excerpt: "Posted [NFA] Democrat Joe Biden defeated President Donald Trump to become the next president of the United States"
+    publishedDateTime: 2020-11-07T16:53:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP72g?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa4ad60e4b04f7ff7c2c0e1-1604627808288?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Iowa live election results for president in Iowa: Donald Trump vs. Joe Biden"
     excerpt: "Find live reporting of election results by county in Iowa for the race for president between Donald Trump and Joe Biden."
     publishedDateTime: 2020-11-04T08:17:00Z

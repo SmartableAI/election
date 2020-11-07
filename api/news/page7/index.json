@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-30-trumps-disrespect-of-sen-martha-mcsally-was-painful-to-watch.md",
+      "title": "Trump's disrespect of Sen. Martha McSally was painful to watch",
+      "excerpt": "President Donald Trump treated Sen. Martha McSally like a second-class citizen during his Goodyear rally. That's the thanks she gets, for her loyalty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/28/trumps-disrespect-sen-martha-mcsally-painful-watch/6064387002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/28/trumps-disrespect-sen-martha-mcsally-painful-watch/6064387002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/28/PPHX/29606f50-ae19-4a72-a361-eb0642dbbb5e-DW1_8023.JPG?auto=webp&crop=3045,1713,x0,y304&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6064387002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6064387002",
+      "publishedDateTime": "2020-10-29T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-west-wing-star-martin-sheen-donald-trump-gets-away-with-more-than-any-tv-president-could.md",
+      "title": "'West Wing' star Martin Sheen: Donald Trump gets away with more than any TV president could",
+      "excerpt": "West Wing' is my escape from the Trump era. Its TV public servants know what the right thing is and they're on speaking terms with their better angels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/voices/2020/10/28/west-wing-escapism-martin-sheen-interview-donald-trump-column/3746508001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/voices/2020/10/28/west-wing-escapism-martin-sheen-interview-donald-trump-column/3746508001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/27/USAT/55afa79f-4713-404f-84ab-457a4f87edaf-AP_TV-West_Wing-Voting_Special.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3746508001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3746508001",
+      "publishedDateTime": "2020-10-29T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-trump-is-touting-the-record-shattering-gdp-report-as-evidence-of-a-full-economic-rebound-heres-why-the-recovery-actually-has-much-further-to.md",
+      "title": "Trump is touting the record-shattering GDP report as evidence of a full economic rebound. Here's why the recovery actually has much further to go.",
+      "excerpt": "The US economy grew 7.4% in Q3, or 33.1% at an annualized rate. Many economists say growth is slowing down without another stimulus package.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gdp-report-economic-recovery-coronavirus-reopening-unemployment-q3-analysis-stimulus-2020-10",
+      "originalUrl": "https://www.businessinsider.com/gdp-report-economic-recovery-coronavirus-reopening-unemployment-q3-analysis-stimulus-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f3bf506650894001d0721c1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gdp-report-economic-recovery-coronavirus-reopening-unemployment-q3-analysis-stimulus-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gdp-report-economic-recovery-coronavirus-reopening-unemployment-q3-analysis-stimulus-2020-10?amp",
+      "publishedDateTime": "2020-10-29T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-glenn-greenwald-leaves-the-intercept-claiming-he-was-censored-over-an-article-he-wrote-on-joe-biden.md",
       "title": "Glenn Greenwald leaves The Intercept, claiming he was ‘censored’ over an article he wrote on Joe Biden",
       "excerpt": "Journalist Glenn Greenwald said Thursday that he was leaving The Intercept, the news website he helped found, claiming that it had refused to publish an article he wrote on Joe Biden unless he removed sections that were critical of the Democratic presidential nominee.",
@@ -1168,170 +1324,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-fbi-reveals-alleged-whitmer-kidnapper-plotter-also-wanted-to-hang-trump-disproving-democrats-narrative.md",
-      "title": "FBI reveals alleged Whitmer kidnapper plotter also wanted to hang Trump, disproving Democrats' narrative",
-      "excerpt": "Some Democrats have blamed the president's inflammatory rhetoric with inciting the kidnap scheme.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/amBamIwQlq8/fbi-whitmer-kidnap-hang-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/amBamIwQlq8/fbi-whitmer-kidnap-hang-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ceaa499-d5b5-4917-ac44-406654011b1c/b10fb369-d5aa-4334-8275-cc8d437f5d58/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fbi-whitmer-kidnap-hang-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-whitmer-kidnap-hang-trump.amp",
-      "publishedDateTime": "2020-10-28T18:49:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-buttigieg-defends-biden-claims-dems-would-have-chosen-somebody-else-if-they-wanted-fracking-ban.md",
-      "title": "Buttigieg defends Biden, claims Dems 'would have chosen somebody else' if they wanted fracking ban",
-      "excerpt": "\"The Story\" host Martha MacCallum pressed Joe Biden campaign surrogate Pete Buttigieg Wednesday over the 2020 Democratic nominee's position on fracking and the oil industry following repeated attempts to clarify earlier comments on the issue.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrRnzjXbNyU/buttigieg-biden-fracking-2020-election-democrat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrRnzjXbNyU/buttigieg-biden-fracking-2020-election-democrat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0cb2aca-19a3-4646-bc5d-0063433e4f4a/f7d5a14f-7792-4ac9-82b6-499d188861d6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-biden-fracking-2020-election-democrat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-biden-fracking-2020-election-democrat.amp",
-      "publishedDateTime": "2020-10-28T17:57:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-maya-rudolph-on-potential-for-4-years-of-kamala-harris-impression-lets-go-im-ready.md",
-      "title": "Maya Rudolph on potential for 4 years of Kamala Harris impression: 'Let's go. I'm ready'",
-      "excerpt": "If Joe Biden and Kamala Harris win the presidential election next week, Maya Rudolph says she's more than ready for four years of regular work on \"Saturday Night Live.\" (Oct. 28)",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/entertainment/2020/10/29/maya-rudolph-potential-4-years-kamala-harris-impression-lets-go-im-ready/6064533002/",
-      "originalUrl": "https://www.usatoday.com/videos/entertainment/2020/10/29/maya-rudolph-potential-4-years-kamala-harris-impression-lets-go-im-ready/6064533002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/9182c4c1-5555-4cdc-aa3e-a7a20f28ac17_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

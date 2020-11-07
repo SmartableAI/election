@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ja'Ron Smith, Trump's highest-ranking Black aide, is leaving the White House"
+    excerpt: "Smith, who in August spoke in favor of Trump's reelection at the RNC, said his exit was planned \"long before the election.\""
+    publishedDateTime: 2020-11-07T16:21:00Z
+    webUrl: "https://www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5fa6bc35f7d1cb0019e3a5fd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
     excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
     publishedDateTime: 2020-11-05T08:09:00Z

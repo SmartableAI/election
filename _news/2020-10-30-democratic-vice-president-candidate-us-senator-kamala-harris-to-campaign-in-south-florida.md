@@ -286,6 +286,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "A Biden-Harris administration could mean a crackdown on the advertising and tech industries"
+    excerpt: "Potential goals range from a federal privacy law to scrutiny of how cable companies collect user data."
+    publishedDateTime: 2020-11-07T15:57:00Z
+    webUrl: "https://www.businessinsider.com/heres-how-biden-harris-could-crack-down-on-tech-advertising-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fa5de911df1d500182196d6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Watch live: Joe Biden, Kamala Harris make prime-time address"
     excerpt: "Democratic presidential candidate Joe Biden is expected to deliver a prime-time speech Friday at 7 CST p.m. Democratic vice presidential candidate Kamala Harris is also expected to deliver remarks Friday alongside Biden."
     publishedDateTime: 2020-11-07T01:59:00Z
@@ -299,6 +313,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/HYRVWgDsEC13dEU2M7TIyM6oyJI=/1200x0/top/www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650"
         width: 1200
         height: 650
+        isCached: true
+  - title: "Kamala Harris makes history as first woman and person of color to be vice president"
+    excerpt: "Kamala Harris, the groundbreaking senator from California, has made history again -- set to become the first female vice president and woman of color in the White House. Harris, 56, the daughter of immigrants,"
+    publishedDateTime: 2020-11-07T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-philadelphia-rt-jt-201103_1604441807194_hpMain_16x9_992.jpg"
+        width: 992
+        height: 557
         isCached: true
   - title: "In Kamala Harris' Ancestral Village, The U.S. Election Is Followed Closely"
     excerpt: "Senator Kamala Harris is the first person of South Asian descent on a U.S. presidential ticket. In her ancestral village in India, Hindu faithful offer prayers for a Biden-Harris victory."
@@ -551,6 +581,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/2e6c0834-00b6-45dc-b878-978b8bd74fde/thumbnail/1200x630/0dee6afa7cd8cda815e2c50316b1e622/cbsn-fusion-biden-takes-lead-in-pennsylvania-as-state-nears-the-end-of-its-count-thumbnail-582836-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "'Game-Changer': Kamala Harris Makes History As Next Vice President"
+    excerpt: "Harris is the first woman, the first Black person and the first Asian American elected vice president of the United States. Her rise marks a statement about a changing nation."
+    publishedDateTime: 2020-11-07T05:35:00Z
+    webUrl: "https://www.npr.org/2020/11/07/930858267/game-changer-kamala-harris-makes-history-as-next-vice-president"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/03/gettyimages-1090431902_wide-5f86d1341e31d8cea4886711884225e6ad094573.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Pelosi calls Biden \"president-elect\" before the results are in"
     excerpt: "House Speaker Nancy Pelosi referred to Joe Biden as \"President-elect Biden\" during her news briefing Friday, though the outcome of the election remained up in the air with votes still being counted in several key states."
@@ -991,6 +1035,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris becomes first Black woman, South Asian elected vice president"
+    excerpt: "Kamala Harris made history Saturday as the first Black woman elected as vice president of the United States, shattering barriers that have kept men — almost all of them white —"
+    publishedDateTime: 2020-11-07T15:53:00Z
+    webUrl: "https://www.denverpost.com/2020/11/07/harris-elected-vp/"
+    ampWebUrl: "https://www.denverpost.com/2020/11/07/harris-elected-vp/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/11/07/harris-elected-vp/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 73
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/11/Election_2020_Biden_65583.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "If Joe Biden wins, history’s light will shine brightest on Kamala Harris"
     excerpt: "With a straight face, O’Donnell, the “CBS Evening News” anchor, asked Harris whether she would bring a “socialist or progressive perspective” to the White House if Joe Biden is elected president. For months,"
     publishedDateTime: 2020-10-27T19:01:00Z
@@ -1002,6 +1062,38 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 69
+  - title: "Kamala Harris breaks glass ceiling as first female vice president, first woman VP of color"
+    excerpt: "Harris will make history as not only the first woman vice president but also the first African American and Asian American person to hold the office."
+    publishedDateTime: 2020-11-07T16:54:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/kamala-harris-first-female-vice-president-first-woman-vp-color/6168492002/"
+    ampWebUrl: "https://amp.freep.com/amp/6168492002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6168492002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PBRE/eafa24fb-ae29-4340-bc2b-8c561a9f9114-BRE_AP_Kamala_Harris_14.jpg?auto=webp&crop=2632,1481,x0,y533&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris blazes trail that women and people of color hope will make their journeys easier"
+    excerpt: "California Sen. Kamala Harris’ election as vice president is more than a data point for the history books — it’s a long-sought achievement for women and people of color that some say could forever change the face of politics."
+    publishedDateTime: 2020-11-07T16:45:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-blazes-trail-that-women-and-people-15709556.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-blazes-trail-that-women-and-people-15709556.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-blazes-trail-that-women-and-people-15709556.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 63
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/10/75/20221772/5/375x250.jpg"
+        width: 368
+        height: 250
+        isCached: true
   - title: "Cookies, bacon fried apples and tuna sandwiches: Kamala Harris turns to food videos to soften image"
     excerpt: "Her videos showing how to make Masala Dosa and tuna sandwiches have been watched by millions “Usually I stuff under the skin and then let it sit in the fridge for a day or two with a lot of salt outside,"
     publishedDateTime: 2020-11-02T12:03:00Z

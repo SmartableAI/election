@@ -136,6 +136,22 @@ related:
         width: 838
         height: 545
         isCached: true
+  - title: "Biden poised for U.S. election win as his lead over Trump grows"
+    excerpt: "Democrat Joe Biden appeared poised for victory in the U.S. presidential election on Saturday as vote counts in key states leaned his way, while President Donald Trump showed no sign of conceding despite his increasingly bleak chances."
+    publishedDateTime: 2020-11-07T15:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-7-11-idUSKBN27N08J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N08J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N08J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540331865&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA604I"
+        width: 782
+        height: 545
+        isCached: true
   - title: "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania"
     excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday."
     publishedDateTime: 2020-10-27T04:24:00Z
@@ -2030,6 +2046,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 135
+  - title: "Joe Biden beats Donald Trump to win US election – live 2020 updates"
+    excerpt: "Democrat wins Pennsylvania and its 20 electoral votes, surpassing 270 needed to win White House"
+    publishedDateTime: 2020-11-07T16:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa6cce68f0870a6e75f94e8"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 135
   - title: "Trump releases 'Promise to Indian Country' tribal policy on the heels of Biden plan"
     excerpt: "The Trump administration released its tribal policy proposals via conference call two weeks before the election."
     publishedDateTime: 2020-10-21T17:09:00Z
@@ -2484,6 +2511,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/02/38a755f7-8045-4b6d-affc-b3ba7e3a4dbe/thumbnail/1200x630/c1355b46a0272b215ce0de6cd2d56146/cbsn-fusion-president-trump-joe-biden-enter-final-stretch-of-campaign-thumbnail-579061-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pro-Trump supporters on TikTok congratulate Biden for likely win by taking down Trump flags"
+    excerpt: "Trump flag from their bedroom or living room wall, often with a conciliatory message. The videos are set to a downtempo remix of Disclosure and Sam Smith's \"Latch.\" \"Good luck Biden,\" reads the original video,"
+    publishedDateTime: 2020-11-07T16:31:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/11/07/election-2020-trump-tiktok-users-congratulate-bidens-likely-election/6202294002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6202294002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6202294002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/96d9d11e-b300-4924-9e0e-16a98e692e8e-IMG_65B5AE96F581-1.jpg?auto=webp&crop=1653,930,x144,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Touts His Coronavirus 'China Ban' To Bash Biden And Fauci. Here’s Why That’s A Problem."
     excerpt: "President Trump has claimed repeatedly that the disease expert was against his decision to implement travel restrictions on China back in January and that Biden called the restrictions “xenophobic.”"

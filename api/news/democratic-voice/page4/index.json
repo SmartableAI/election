@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-16-savannah-guthrie-grills-trump-at-nbcs-town-hall.md",
+      "title": "Savannah Guthrie grills Trump at NBC's town hall",
+      "excerpt": "Savannah Guthrie used her skills as a former litigator to interrogate President Trump during NBC's town hall.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8av37VQVra0/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8av37VQVra0/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015222513-06-deuling-town-halls-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
+      "publishedDateTime": "2020-10-15T20:07:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-washington-post-white-house-was-warned-that-giuliani-was-being-used-by-russians-to-feed-misinformation-to-trump.md",
       "title": "Washington Post: White House was warned that Giuliani was being used by Russians to 'feed misinformation' to Trump",
       "excerpt": "The White House was warned in 2019 that President Donald Trump's personal attorney Rudy Giuliani was \"was being used to feed Russian misinformation\" to the President, The Washington Post reported Thursday.\n    \n",
@@ -1585,7 +1641,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1625,63 +1681,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-what-makes-mike-pences-complicity-so-chilling.md",
-      "title": "What Makes Mike Pence’s Complicity So Chilling",
-      "excerpt": "Somewhere under the cornfields and backyard hoop courts of Indiana is a small black box holding the conscience of Vice President Mike Pence. He buried it four years ago, when a tape emerged of Donald Trump boasting about sexually assaulting women.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/09/opinion/mike-pence-debate.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/09/opinion/mike-pence-debate.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/09/opinion/09Egan/09Egan-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/09/opinion/mike-pence-debate.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/opinion/mike-pence-debate.amp.html",
-      "publishedDateTime": "2020-10-09T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

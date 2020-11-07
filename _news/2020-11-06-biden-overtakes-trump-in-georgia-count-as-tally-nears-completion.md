@@ -175,6 +175,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden wins presidency, Trump denied second term in White House, Fox News projects"
+    excerpt: "Democratic presidential nominee Joe Biden has defeated incumbent President Donald Trump, denying him a second term in the White House, Fox News projects."
+    publishedDateTime: 2020-11-07T16:39:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Svcmdu8Pfhs/biden-wins-presidency-trump-fox-news-projects"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-wins-presidency-trump-fox-news-projects.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wins-presidency-trump-fox-news-projects.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Joe Concha: 'Shy Trump voters' missed again as polls overstated Joe Biden's support"
     excerpt: "The \"shy Trump voter\" emerged for a second straight presidential election, The Hill media reporter Joe Concha said on Thursday, as many polls ended up overstating the support for Democrat Joe Biden."
     publishedDateTime: 2020-11-05T14:44:38Z
@@ -206,6 +222,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310605572803.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "All eyes on Pa., other battlegrounds as Biden increases lead, Trump vows legal fight"
+    excerpt: "Democratic nominee Joe Biden was on the brink of securing the 270 electoral votes needed to win the presidency Saturday as he increased his lead in Pennsylvania and other key battleground states -- while President Trump forged ahead with a legal fight."
+    publishedDateTime: 2020-11-07T15:11:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQiXdJjuRUk/pa-battlegrounds-biden-trump-legal-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/pa-battlegrounds-biden-trump-legal-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-battlegrounds-biden-trump-legal-fight.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump claims Dems are trying to 'steal' election, says he'll win if 'legal votes' are counted"
     excerpt: "A defiant President Trump on Thursday said he and his campaign will “not allow corruption to steal” the election during a press conference at the White House, while maintaing that he will win the 2020 presidential race despite a dwindling path toward reelection as votes continue to come in."
@@ -511,6 +543,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden Wins 2020 Presidential Election, AP Says"
+    excerpt: "The Democrat will become the 46th president of the United States after crossing 270 electoral votes, the Associated Press said. Mr. Trump hasn’t conceded the race."
+    publishedDateTime: 2020-11-07T16:38:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-wins-2020-presidential-election-ap-says-11604766914"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wins-2020-presidential-election-ap-says-11604766914"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wins-2020-presidential-election-ap-says-11604766914"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-256726/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump wants Supreme Court to decide election, cites unfounded fraud claims"
     excerpt: "President Trump said the US Supreme Court should decide the presidential election due unfounded claims of “illegal voting.” Trump made the allegations in a tweet issued early Friday"
     publishedDateTime: 2020-11-06T08:22:00Z
@@ -590,6 +638,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Heads to Golf Course as Nation Awaits Election Outcome"
+    excerpt: "President Trump arrived at his golf club in Sterling, Va., on Saturday morning as Joe Biden held a lead in key states that could soon determine a winner. Mr. Trump left the White House wearing a MAGA hat,"
+    publishedDateTime: 2020-11-07T16:24:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/tOAf4FOO0zS5DXQirGZO"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-256759?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Trump campaign predicts victory as early as Friday: 'Donald Trump is alive and well'"
     excerpt: "President Trump's campaign remained confident Thursday, predicting not only that the incumbent Republican will win the 2020 election, but that the result could become apparent as soon as Friday."

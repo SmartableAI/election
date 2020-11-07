@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/south-carolina-senate-ra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/south-carolina-senate-race-2020/index.html"
 type: article
 quality: 145
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729231458-jaime-harrison-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "More prayers for Kamala Harris in India"
-    excerpt: "More prayers for Kamala Harris in India"
-    publishedDateTime: 2020-11-03T18:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-day-2020-live-updates-n1245892/ncrd1245989"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245892"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245892"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_45/3423670/201028-election-live-blog-main-cover-cs_97cae1cf7f77d887bed724aee9ec97c6.jpg"
-        width: 2500
-        height: 1250
         isCached: true
 
 secured: "xkFqyOWC7hCpBpN0FDGQd2SayOdzGsEITrVOuhTFlM+9i8PF+Aja3Yu2LlPxUPK99YhPyjqOa96zuNIoe2VUBt7D1CT/fsvveF7PGm1tTAPXNq5GTpQkb2hb8lAY9Gsz2LFX18Xi2YqY8GEvtIHJZ4tBq8s3CQeX8XnNIED0gWtRvHBY2G5HUhuGj9x06BV/MvZqDY6EOZM48c5fBv4COpP7v9whUkWumONtqJRb4hYzi6pEBu/D+AWWzwSHQQXBcg0tBsQ/bmmnLubghhMaGjYHuX1X/k8GAQCB+iD9R7rGDV/RH3/EDr5a6aJCvj/cL4q4HQiTiYIRhuT/9w4wUJKOy6lTOiMXv0j2nOEfd54=;FWLcjQNPOkrdempwhkj0QA=="

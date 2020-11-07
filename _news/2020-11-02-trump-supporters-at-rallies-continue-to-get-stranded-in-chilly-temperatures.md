@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-strande
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
 type: article
 quality: 173
-heat: 373
+heat: 393
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027121426-donald-trump-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "At least 5 people in Trump's orbit, including his chief of staff, have tested positive for Covid-19"
+    excerpt: "White House chief of staff Mark Meadows has tested positive for coronavirus, two officials confirm to CNN.\n    \n"
+    publishedDateTime: 2020-11-07T15:52:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UO2LbEHIA_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/mark-meadows-coronavirus-positive-test/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/mark-meadows-coronavirus-positive-test/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106235753-mark-meadows-miami-opa-locka-1101-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

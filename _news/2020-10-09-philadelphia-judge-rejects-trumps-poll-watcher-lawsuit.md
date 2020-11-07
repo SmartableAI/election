@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watche
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/05/us/politics/00vote-suppress/00vote-suppress-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The Trump team is planning a news conference in Philadelphia this morning."
+    excerpt: "Biden Jr. over the threshold for the presidency, President Trump said that his team would be holding a news conference in Philadelphia on Saturday morning. It was not immediately clear what the topic of the news conference would be,"
+    publishedDateTime: 2020-11-07T14:50:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/us/politics/the-trump-team-is-planning-a-news-conference-in-philadelphia-this-morning.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/us/politics/the-trump-team-is-planning-a-news-conference-in-philadelphia-this-morning.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/us/politics/the-trump-team-is-planning-a-news-conference-in-philadelphia-this-morning.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/07/multimedia/07liveblogbidenwinsheader/07liveblogbidenwinsheader-articleLarge-v3.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "ruKrDoJDHxv1o3jm1ylm6ARYc/AwBs8nr4gC+NSyMlAmVH1CFLsmSDLhGzsQvU01R1h0clS0xoaMroqouCw1i1LLudJzQjlu5nI7aRu8rS9BKq7zTI943qOpXs4ZIKLmPHiU8syiapGhkYBoNF5HViVEdvD06uOCqfcV/uMeEeaysg6dzyCp/nuZyBv7X4CPXzSV393x5Uv0+oD5FXccVfCUEc6mYReqYGGIDeKWGuklF77dg2CevJ+OYrYNtE+5nU2+sgknwl+lFKeBigwJjJeBVmfvewmiIlRAPQsNp4EYxPqHhpFnGry03cwUCe9WZhnzeEWScGQtigpIGGYlvRGy8GysLSJ19kh+Fb1GXpY=;HLelxC6bj1W6YM22SdpqSg=="

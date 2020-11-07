@@ -40,6 +40,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden defeats Trump in an election he made about character of the nation and the President"
+    excerpt: "America has chosen Democrat Joe Biden as its 46th president, CNN projects, turning to a veteran voice who has projected calm and compassion, promised a more empathetic and scientific approach to the pandemic, and pledged to stabilize American politics after four years of Donald Trump's White House chaos.\n"
+    publishedDateTime: 2020-11-07T16:49:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TY_hjd8fkK8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/joe-biden-wins-us-presidential-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/joe-biden-wins-us-presidential-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 195
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107093022-02-centered-main-bar-final-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Lady Gaga and John Legend to join Joe Biden and Kamala Harris for final campaign events"
     excerpt: "Superstars Lady Gaga and John Legend will join Joe Biden and Kamala Harris for their final respective events on the campaign trail on the eve of Election Day, the Biden campaign announced Sunday.\n    \n"
     publishedDateTime: 2020-11-01T20:51:47Z

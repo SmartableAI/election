@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "More prayers for Kamala Harris in India"
-    excerpt: "More prayers for Kamala Harris in India"
-    publishedDateTime: 2020-11-03T18:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-day-2020-live-updates-n1245892/ncrd1245989"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245892"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245892"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_45/3423670/201028-election-live-blog-main-cover-cs_97cae1cf7f77d887bed724aee9ec97c6.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
 
 secured: "sbxaBhXal2R2CRFN6SrCHDQeigvY8pqTizLWB+Kuznioj8RqpRqnxpsinDi70/V6ORzOxvnYq22BwgF3y+/2i7TSSQRyCNgfqvgsEvPeFZL7CUs/fDSzwsOG4Jkga7pIv95OClg7RXPBUJW0fbIkL8zI52QYEv6Y/7fT5+7qwL3p2OsPltTVclTTiCSXkQHhiOu9YbZUVi3rDWsvSrNMSQZTETgHCd578V+i0IyGf/oXqCJ0zd033Rt9DdPUzQNILyvo2zJlJyvT+39oKjdIgIu7ny+Dz8XP+IrvVR5X+Ga9i74385jUkz9qmkYp2HtzsDIaFPaY1k8bQ8AhT8F+evqfh9Zix3mCbEPbcz3R1uE=;qR2ae1FmiUsQeA6gjerEqg=="
 ---

@@ -2,6 +2,171 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-04-trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill.md",
+      "title": "Trump May Try to Fire Wray, but FBI Director Has GOP Support on Capitol Hill",
+      "excerpt": "President Trump has frequently and openly speculated about firing FBI Director Christopher Wray after the election, but Mr. Wray continues to enjoy support from some GOP senators..",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "originalUrl": "https://www.wsj.com/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-254320/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-may-try-to-fire-wray-but-fbi-director-has-gop-support-on-capitol-hill-11604434965",
+      "publishedDateTime": "2020-11-03T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.md",
+      "title": "Trump thanks campaign staffers, predicts 'incredible night': 'Tremendous group of people'",
+      "excerpt": "The president spoke for a time to campaign staff and answered questions from the media before hitting the road again.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f2kdm1Y2Lc/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f2kdm1Y2Lc/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/109c1c28-bcc7-4e77-8dfa-a4ca2fbf0d23/be21ccfe-e069-4386-980a-617cbf2b5a83/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.amp",
+      "publishedDateTime": "2020-11-03T12:36:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-winning-is-easy-losing-is-never-easy-trump-stops-by-rnc-office-in-virginia.md",
+      "title": "'Winning is easy. Losing is never easy': Trump stops by RNC office in Virginia",
+      "excerpt": "Donald Trump said he is not thinking about an acceptance or a concession speech when he stopped at the Republican National Committee Headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/03/USAT/9e10db91-8ed7-4e5b-8599-6d7acec09e91-VPC_TRUMP_ON_WINNING_LOSING_DESK_THUMB.00_01_49_28.Still003.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-in-the-minneapolis-neighborhood-where-george-floyd-died-voters-disagree-with-biden-on-policing-but-theyre-voting-for-him-anyway.md",
       "title": "In the Minneapolis neighborhood where George Floyd died, voters disagree with Biden on policing. But they're voting for him anyway.",
       "excerpt": "Voters in Powderhorn Park told Insider they think President Donald Trump is even worse, so they voted for Joe Biden despite their reservations.",
@@ -207,63 +372,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-as-us-votes-a-village-in-india-prays-for-kamala-harris.md",
-      "title": "As U.S. Votes, a Village in India Prays for Kamala Harris",
-      "excerpt": "Those who live in the hometown of Ms. Harris’s grandfather see the Democratic vice-presidential nominee as one of their own. “She is the daughter of the village’s soil,” one woman said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/03/world/03india-harris/merlin_179495781_7f3f5702-1e96-4d12-8955-68e35603b9fc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.amp.html",
-      "publishedDateTime": "2020-11-03T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
       ]
     },
     {
@@ -848,6 +956,63 @@
       ]
     },
     {
+      "path": "_news/2020-11-03-in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote.md",
+      "title": "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote",
+      "excerpt": "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote-95196229930",
+      "originalUrl": "https://www.nbcnews.com/video/in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote-95196229930",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/kamalalastrally.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo95196229930",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95196229930",
+      "publishedDateTime": "2020-11-02T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-doctors-groups-rip-trump-for-touting-baseless-conspiracy-theory-over-covid-19-death-count.md",
       "title": "Doctors groups rip Trump for touting 'baseless' conspiracy theory over COVID-19 death count",
       "excerpt": "Medical groups such as the American Medical Association denounced President Trump's claim that doctors inflate COVID-19 deaths, calling it \"malicious.\"",
@@ -1175,171 +1340,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-unfair-donald-trump-cant-complain-imagine-if-another-candidate-acted-like-he-does.md",
-      "title": "'Unfair' Donald Trump can't complain: Imagine if another candidate acted like he does",
-      "excerpt": "Have voters finally reached their limit and are prepared to bring down the curtain on the Trump show? Tune in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/11/02/election-imagine-if-other-candidates-acted-like-trump-editorials-debates/6058615002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/11/02/election-imagine-if-other-candidates-acted-like-trump-editorials-debates/6058615002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/02/USAT/498d4f6c-3c46-4d0b-ae54-1b37cf6dda8e-helsinki.JPG?auto=webp&crop=3405,1915,x0,y72&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6058615002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6058615002",
-      "publishedDateTime": "2020-11-02T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-sen-rick-scott-says-hispanics-will-help-trump-win-florida.md",
-      "title": "Sen. Rick Scott says Hispanics will help Trump win Florida",
-      "excerpt": "Hispanic voters are going to help President Trump win Florida in the 2020 presidential election, Sen. Rick Scott, R-Fla., said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp",
-      "publishedDateTime": "2020-11-02T11:16:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-biden-gets-an-endorsement-from-silicon-valley-live-business-updates.md",
-      "title": "Biden Gets an Endorsement From Silicon Valley: Live Business Updates",
-      "excerpt": "A group of 11 founders, investors and business leaders from the technology industry endorsed Democratic presidential nominee Joseph R. Biden Jr. in a letter published on Monday, s",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
-      "originalUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/30/business/30markets-brf-markets/merlin_179245557_12422739-1663-479d-9813-613dc9789fb3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html",
-      "publishedDateTime": "2020-11-02T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],
