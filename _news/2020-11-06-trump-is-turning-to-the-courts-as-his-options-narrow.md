@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump doubles down on groundless conspiracy\ntheory that GOP poll watchers across the country were sidelined"
+    excerpt: "President Donald Trump has falsely claimed there were widespread abuses against his poll watchers across the country, and is using these false allegations to dispute the election results.\n    \n"
+    publishedDateTime: 2020-11-06T23:01:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RgBF3hSC02s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-poll-watchers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-poll-watchers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106131352-06-ballt-counting-1106-allentown-pa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Hundreds of Trump supporters stuck on freezing cold Omaha airfield after rally, 7 taken to hospitals"
     excerpt: "Hundreds of President Donald Trump's supporters were left in the freezing cold for hours after a rally at an airfield in Omaha, Nebraska, on Tuesday night, with some walking around 3 miles to waiting buses and others being taken away in ambulances."
     publishedDateTime: 2020-10-28T21:20:00Z

@@ -303,6 +303,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden takes the lead over Trump in critical Pennsylvania"
+    excerpt: "The race for the White House is still close to call, with tightening races in Georgia, Arizona and Pennsylvania as former Vice President Joe Biden edged close to the 270-electoral-vote threshold needed to win and President Donald Trump's hopes of clinching reelection appeared to be slipping away.\n  "
+    publishedDateTime: 2020-11-07T00:51:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CjxcQDS8Z_g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/presidential-election-2020-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/presidential-election-2020-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105192028-biden-trump-1105-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact Check: Misleading new Trump ad claims Biden plans to 'end fracking'"
     excerpt: "Less than two weeks before Election Day, a new Trump campaign ad scheduled to air in Pennsylvania misleadingly portrays former Vice President Joe Biden's stance on fracking, a drilling method used to extract oil or natural gas.\n    \n"
     publishedDateTime: 2020-10-26T19:37:01Z
@@ -1391,6 +1407,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump calls for ballot counting scenario where votes legally cast by military would be thrown out "
+    excerpt: "As President Donald Trump baselessly claimed that all votes received after Election Day are illegal, he attacked the absentee ballots of military members and their spouses that, by law, must be counted.\n    \n"
+    publishedDateTime: 2020-11-07T00:29:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sgcUq2qFSx8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/homefront-trump-military-ballots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/homefront-trump-military-ballots/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Pence attempt another come-from-behind act"
     excerpt: "MAGA diehards and on-the-fence suburban Republicans — in a way many conservatives wish they had seen from Trump all along. It’s an alternate universe that highlights his own potential path in 2024."
     publishedDateTime: 2020-10-26T08:34:00Z
@@ -1887,6 +1919,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden, leading in Pennsylvania, nears victory in the state and the election."
+    excerpt: "Biden Jr. took the lead over President Trump in Pennsylvania on Democrats grew increasingly confident that he would win the state and with it the presidency: The state’s 20 electoral votes would put Mr."
+    publishedDateTime: 2020-11-06T17:52:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/us/elections/biden-leading-in-pennsylvania-nears-victory-in-the-state-and-the-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/us/elections/biden-leading-in-pennsylvania-nears-victory-in-the-state-and-the-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/us/elections/biden-leading-in-pennsylvania-nears-victory-in-the-state-and-the-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 147
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/multimedia/06briefing-elections-PAcounting/06briefing-elections-PAcounting-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump has signaled he won't accept an election loss. Many of his voters agree."
     excerpt: "Brandishing faulty or unsubstantiated claims of fraudulent ballots, the president has planted seeds of doubt about the race's outcome if Biden wins. They appear to have taken root."
     publishedDateTime: 2020-10-29T19:36:00Z
@@ -2376,6 +2424,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/06/opinion/06girdPromo/06girdPromo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "With No Evidence of Fraud, Trump Fails to Make Headway on Legal Cases"
+    excerpt: "The president appeared to have little path through the courts to shift the outcome of the election, leaving him reliant on long shots like recounts or pressure on state legislatures."
+    publishedDateTime: 2020-11-07T00:28:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/us/politics/with-no-evidence-of-fraud-trump-fails-to-make-headway-on-legal-cases.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/us/politics/with-no-evidence-of-fraud-trump-fails-to-make-headway-on-legal-cases.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/us/politics/with-no-evidence-of-fraud-trump-fails-to-make-headway-on-legal-cases.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/07/us/politics/07election-legal1-sub/06election-legal1-sub-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true

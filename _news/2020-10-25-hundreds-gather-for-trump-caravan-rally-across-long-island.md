@@ -280,6 +280,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 115
+  - title: "Trump Fundraising for Legal Challenges Would Also Pay Down Debt"
+    excerpt: "President Trump is racing to raise money for an “official election defense fund.” But the fine print on the solicitations tells a different story: Half -- or more -- of any contribution will be used to retire debt from his re-election campaign."
+    publishedDateTime: 2020-11-07T00:09:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/zU0rMlE7ltxzuW4lIwai"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-256696?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Is the Show Finally Over for Donald Trump?"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2020-11-06T13:07:00Z

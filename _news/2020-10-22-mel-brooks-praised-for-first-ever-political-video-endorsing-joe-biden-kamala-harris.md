@@ -234,6 +234,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden on verge of winning U.S. presidency, leads in Pennsylvania, Georgia"
+    excerpt: "Democrat Joe Biden stood on the verge of winning the U.S. presidency on Friday, as he expanded his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia three days after polls closed."
+    publishedDateTime: 2020-11-07T00:57:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27M0U5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0U5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0U5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
+        width: 846
+        height: 545
+        isCached: true
   - title: "Indian village where Kamala Harris' grandfather was born prays for her win"
     excerpt: "People gathered Tuesday in a village in India that was once home to the forebears of D Kamala Harris to pray for her ticket's victory in the U.S. presidential election, Reuters news agency reported ."
     publishedDateTime: 2020-11-03T23:10:00Z
@@ -342,6 +358,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Kamala Harris makes history as the first ever female, Black, and Asian-American vice president-elect"
+    excerpt: "Harris is no stranger to making history. She is the second ever Black female senator and was California's first female and Black attorney general."
+    publishedDateTime: 2020-11-07T00:15:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fa592a01df1d50018219563?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "FOREX-Dollar dips as investors bet on Biden victory"
     excerpt: "By Karen Brettell NEW YORK, Nov 3 (Reuters) - The U.S. dollar dipped on Tuesday as risk appetite grew on bets that Democrat Joe Biden will win Tuesday’s U.S."
     publishedDateTime: 2020-11-03T18:39:00Z
@@ -445,6 +477,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden takes lead in Pennsylvania and Georgia, moves closer to win"
+    excerpt: "If Democratic presidential nominee Joe Biden wins Pennsylvania, the race is over. Biden's lead is also growing in Georgia, as absentee ballots are counted. Major Garrett takes a closer look."
+    publishedDateTime: 2020-11-06T23:56:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/06/7ecae65f-0970-42d5-b0ca-e845355beb89/thumbnail/1200x630/085d5ef1de243cdcbeaa60e00584ccd1/cbsn-fusion-biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win-thumbnail-582812-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden takes lead in Pennsylvania as state nears the end of its count"
+    excerpt: "In Pennsylvania, votes from heavily Democratic areas like Philadelphia are giving Joe Biden a widening lead, and the Keystone State's 20 electoral votes are in his sights. Jericka Duncan has more."
+    publishedDateTime: 2020-11-07T00:08:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-takes-lead-in-pennsylvania-as-state-nears-the-end-of-its-count/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/2e6c0834-00b6-45dc-b878-978b8bd74fde/thumbnail/1200x630/0dee6afa7cd8cda815e2c50316b1e622/cbsn-fusion-biden-takes-lead-in-pennsylvania-as-state-nears-the-end-of-its-count-thumbnail-582836-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pelosi calls Biden \"president-elect\" before the results are in"
     excerpt: "House Speaker Nancy Pelosi referred to Joe Biden as \"President-elect Biden\" during her news briefing Friday, though the outcome of the election remained up in the air with votes still being counted in several key states."
     publishedDateTime: 2020-11-06T18:50:00Z

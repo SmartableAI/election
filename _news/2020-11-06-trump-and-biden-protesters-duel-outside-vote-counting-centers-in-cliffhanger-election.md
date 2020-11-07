@@ -239,6 +239,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Biden on the cusp of U.S. election victory as Trump presses unfounded fraud claims"
+    excerpt: "Democrat Joe Biden edged closer to winning the White House on Friday, expanding his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia even as Republicans sought to raise $60 million to fund lawsuits challenging the results."
+    publishedDateTime: 2020-11-07T00:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27M0U3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 149
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
+        width: 846
+        height: 545
+        isCached: true
   - title: "Election 2020 live updates: Trump, Biden racing toward Election Day with more rallies"
     excerpt: "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more rallies and concerts on Sunday."
     publishedDateTime: 2020-10-25T13:37:00Z
@@ -286,6 +302,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-rally-martinsburg-03-gty-jef-201026_1603749251767_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Trump and Biden protesters duel outside vote-counting centers in cliffhanger election"
+    excerpt: "Backers of President Donald Trump, some carrying guns, ramped up demonstrations on Thursday night against what he has baselessly called a rigged election, in battleground states where votes were still being counted."
+    publishedDateTime: 2020-11-07T00:00:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-protests-idUKKBN27L0L7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27L0L7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27L0L7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 148
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540297983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51MA"
+        width: 817
+        height: 545
         isCached: true
   - title: "2020 Election Live Updates: Trump and Biden make last-minute appeals on eve of election"
     excerpt: "The CBS News Battleground Tracker on November 1 found that Biden holds an Electoral College lead heading into Election Day, with Mr. Trump needing a surge of in-person voters to win. While U.S. intelligence and national security officials have warned voters to be aware of efforts by foreign actors to interfere in the general election through disinformation campaigns,"

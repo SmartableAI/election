@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6181186002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6181186002"
 type: article
 quality: 122
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
+    excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
+    publishedDateTime: 2020-10-29T21:58:00Z
+    webUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 90
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "ZqZRW94eASPkVoRkDBDoLfaFFptr/m4l1EZU8Oqi/0loD2jIcdGULB9DioujK9SvwWLlJZxA9pSnNOsIjsePqFKbjZRsPHE5HYtdoBZK1r9sgRv7fhI4iNzZeRGsCcX+zrkp3DCQN6Eg5KXs6Nu+oGGpzzJe/LT7l6vH1dxJl+mlfWvgmBArjEZhgTQCQDs5M8baGL89aPTEEsLYngb7hQWPdR6VftIKd1fLLpODmR4+tfnSsM3m5X4nuhJ4TliWaWoHnKPzVzLy93IREBcA2zB6rokHaLIRzq5rFPQo+2AIN/HKofKd1xscr86aUaSvQZeUksgMPQco4d1x/iwOnTIrSQm7hBS6R7WV4JxqSgZKOPS2HQdAT0wQmVaBVCyNzNKXZa6nME76jW7fcNpDgmkGm2/fvmHxrKep74bjs5HjnXxdoJQiW8mhfxe0OUUale78KZRAmHiNUpZM74mYO3ps44dm1cnZr4Hhml73Z/Ggfc0LopH0w+pyuXNxohpmmelnunlY0OtJENx6LYvUyQ==;23Son2o6O0Z6cF/RmEUCCw=="
 ---

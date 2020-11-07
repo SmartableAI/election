@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watche
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's Election Day surge powered by small-town America"
-    excerpt: "President Donald Trump's reelection campaign long maintained there were thousands of new supporters tucked into rural, red pockets of the country who would come out and vote for the president when asked."
-    publishedDateTime: 2020-11-05T00:57:00Z
-    webUrl: "https://www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "YouTube Channels Making Money From Ads, Memberships Amplify Trump Voting Fraud Claims"
     excerpt: "At least nine popular YouTube channels were promoting on Thursday debunked accusations about voting fraud in the U.S. presidential race, conspiratorial content that could jeopardize advertising and memberships revenue they get from the video service."
     publishedDateTime: 2020-11-06T03:09:00Z

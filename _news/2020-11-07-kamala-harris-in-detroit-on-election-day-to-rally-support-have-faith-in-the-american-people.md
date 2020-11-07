@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris in Detroit on Election Day to rally support: 'Have faith in the American people'"
 excerpt: "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit."
-publishedDateTime: 2020-11-06T22:30:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/"
-webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/"
-ampWebUrl: "https://amp.azcentral.com/amp/6129769002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6129769002"
+publishedDateTime: 2020-11-06T23:15:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/"
+ampWebUrl: "https://amp.indystar.com/amp/6129769002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6129769002"
 type: article
 quality: 78
 heat: 78
 published: true
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "UsZ+ZykzjvcN0doqzHyxiurBSa91UjIP82x4zS7deYYmKTmUcWFCF+B27sHjt8lOhny8NqJBSV3B07iuYRNe4PPs0upefegdHi5foh/MRzoJaEkb10jGV3m7DRBWoCsr3iQASO1k/ZLzfGvorUb773JYsPgwGnt29TZaQaHZBiZAbPu4AYpweHd1eynKWGCvuqxBmgaFAV6yU7UkB2bxrUVRQwK3zhZXwbJutPTQqMHprDpADOViagBpQJ8++HWjMABYkNk5VzCYRcSBD80todxi0uKv/FMFB1tcEpquHrD4CP3YNc3MWxeCLFY5lzInFvs7PDKA1dhB8kFKS4PmHtVrXBzGJvyxrcL9XnmxNg4=;5t4bxM1xZJ/kMxLoMWer0Q=="
+secured: "yrteuWxypy8mTEJOZnzhybOizcFBcMpNax6bQ3BWujG6d44y1qEsg18EKThSrT/w2D6qyUbLv59G40XPX1y/910V3JOvu3JZmVg70Wn+t2S+gT9/YWmzA5Xa0aym9uFSJGbE8jVROk5/3YQVuDyZzbsZMbV6/EyTy/xk5pxtoazNZktK3Ndn0oAuANMNyyEUwOGWWHiHhPggtmGTJ7+CnEnFNIzEnmK8iTS8Gu+pcTJPKLLpwUy5e/Pj6At2I4Oxq9IpR6RSo/f5PNawKLY/gq7KEK1MILxzVsQVNpmIoqofZakMedi2t8qMqstRUVuj1bUhdWAbxZm83Pf9YvXlytB5zeUBc3eUK8WaZ58dJVk=;3pxN9xHFqtTYUnO3LGUT8Q=="
 ---
 

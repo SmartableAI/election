@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
+    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
+    publishedDateTime: 2020-10-29T10:35:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Wisconsin Republicans press Pennsylvania Trump supporters to return ballots after Election Day"
     excerpt: "Even as the president rails against counting valid votes, his team appears to be encouraging illegal late voting in crucial Pennsylvania"
     publishedDateTime: 2020-11-06T20:45:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/d84377b5-29e9-47d7-b852-f1048b202d1d-TRUMP_KENOSHA_0445.JPG?auto=webp&crop=3899,2194,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Control of Senate at stake as Trump's allies face Democrats"
+    excerpt: "WASHINGTON -- Control of the Senate is a razor-close proposition in Tuesday's election, as Republicans fight to retain their majority against a surge of Democratic candidates confronting the president's allies across a vast political map."
+    publishedDateTime: 2020-11-03T12:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9f58d3900ad64f6a8d3d2804721a15e4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump's appointee Barrett takes part in first Supreme Court arguments"
     excerpt: "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is"
@@ -175,6 +207,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "President Donald Trump handily wins Kentucky once again"
+    excerpt: "President Donald Trump nabbed another decisive victory in Kentucky after the polls closed in the Bluegrass State on Tuesday."
+    publishedDateTime: 2020-11-06T21:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/president-donald-trump-wins-2020-election-kentucky-ease/6130620002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6130620002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6130620002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NLED/391a71ca-8580-45d5-9b96-8d0ab452c96f-AP20307617419308.jpg?auto=webp&crop=5999,3374,x0,y43&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That"
     excerpt: "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate."
     publishedDateTime: 2020-10-28T10:30:00Z
@@ -190,6 +238,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9890ed25a04196a125a749%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3202%26cropY1%3D0%26cropY2%3D1802"
         width: 1199
         height: 675
+        isCached: true
+  - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
+    excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
+    publishedDateTime: 2020-11-03T03:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/in-michigan-trump-kicks-off-frenzy-of-campaigning-two-days-before-election-idUSKBN27H12Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27H12R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27H12R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201101&t=2&i=1539602176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA01B3"
+        width: 817
+        height: 545
         isCached: true
   - title: "Overview: Trump calls for vote counting to stop as path to victory narrows"
     excerpt: "President Donald Trump is calling for counting to stop while his opponent, Joe Biden, projects patience ahead of a handful of key states releasing new counts Thursday."
@@ -223,6 +287,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Jewish cemetery in Michigan vandalized with 'Trump,' 'MAGA' before Trump's rally"
+    excerpt: "Tombstones at the Ahavas Israel Cemetery in Grand Rapids were vandalized with \"Trump\" and \"MAGA\" before Trump arrived for his final campaign rally."
+    publishedDateTime: 2020-11-03T14:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/03/michigan-jewish-cemetery-desecrated-maga-before-trumps-rally/6135923002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6135923002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6135923002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e0eba4a9-c740-46cd-b451-c5a5115af8ab-AFP_AFP_8UF6ZT.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Despite Trump-Erdogan ties, Turkey says it will work with whoever wins U.S. vote"
     excerpt: "Turkey is ready to work with whoever wins the U.S. election, two top Turkish officials said on Friday, despite a friendship with President Donald Trump that has helped the two countries through turbulent times."
     publishedDateTime: 2020-11-06T13:57:00Z
@@ -252,22 +332,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106783180-16046249101604624906-12295478233-1080pnbcnews.jpg?v=1604624909"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Republican officials tried to convince Pennsylvania Trump supporters to cast illegal ballots after Election Day"
-    excerpt: "Officials emailed supporters Thursday, asking for more votes supporting President Donald Trump. Trump's campaign in Wisconsin said it was a mistake."
-    publishedDateTime: 2020-11-06T20:50:00Z
-    webUrl: "https://www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5fa58c7a1df1d50018219541?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "International election observer says Trump's false election victory statement was an 'unprecedented abuse of his position'"
     excerpt: "The Organization for Security and Co-operation in Europe said there was no evidence of voter fraud in the US election."
@@ -356,6 +420,59 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Observers say no evidence for Trump's fraud claims"
+    excerpt: "The head of an international delegation monitoring the U.S. elections said on Thursday his team has no evidence to support President Donald Trump's claims about alleged fraud involving mail-in absentee ballots."
+    publishedDateTime: 2020-11-06T00:33:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/06/observers-say-no-evidence-trumps-fraud-claims/6182126002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3ab6d23d-8f6d-43f9-805c-30c23f2cfed2_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump vows to keep fighting amid Republican rebukes"
+    excerpt: "As soon as Democratic presidential candidate Joe Biden pulled ahead in Pennsylvania on Friday morning, the Trump campaign blasted out a statement saying they'd continue to pursue lawsuits and recounts in the states that remain undecided."
+    publishedDateTime: 2020-11-07T00:37:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-vows-to-keep-fighting-amid-republican-rebukes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/07/0e1bbe93-42cb-4a70-8952-fb11ec8c8db8/thumbnail/1200x630/8d3eb9143e89f08a71be96c24c06cf62/1106-en-trump-preid-582887-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
+    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
+    publishedDateTime: 2020-11-05T05:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump campaign says more legal action coming, predicts victory as early as Friday"
+    excerpt: "President Donald Trump's campaign said on Thursday it expected to launch additional legal action in Pennsylvania and Nevada and predicted that the Republican incumbent would emerge victorious in the U."
+    publishedDateTime: 2020-11-05T16:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-star/trump-campaign-says-more-legal-action-coming-predicts-victory-as-early-as-friday-idUSKBN27L26X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L26X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L26X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
   - title: "The latest: Absentee voters urged to check ballots before it's too late; 'Trump trains' respect voter boundaries, officials say"
     excerpt: "Republicans and Democrats alike gathered at polling places to vote in hard-fought local, state and federal races — including for the presidency."
     publishedDateTime: 2020-11-04T02:58:00Z
@@ -387,6 +504,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Pence, absent from Trump's press conference, tweets his support from afar"
+    excerpt: "Vice President Mike Pence wasn't at President Trump's White House press conference on Thursday evening, but he approved of his message. Trump made multiple baseless claims about the election, including that Democrats are trying to \"steal the election from us."
+    publishedDateTime: 2020-11-06T02:05:00Z
+    webUrl: "https://theweek.com/speedreads/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 89
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229449886.jpg?itok=YK9SWsij"
+        width: 840
+        height: 560
         isCached: true
   - title: "Dump Donald Trump: American voters' imperative"
     excerpt: "Monday, we concluded a daily series begun 14 weeks ago. In 26,306 words spread out over 99 days, we detailed the case for why Donald Trump — his character, his corruption, his policies, his appointees,"

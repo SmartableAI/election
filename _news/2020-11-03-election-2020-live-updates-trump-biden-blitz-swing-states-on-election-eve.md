@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671"
 type: article
 quality: 153
-heat: 2293
+heat: 2333
 published: true
 
 provider:
@@ -925,6 +925,22 @@ related:
         width: 868
         height: 434
         isCached: true
+  - title: "Investors focus on undecided Senate as Biden edges in on presidency"
+    excerpt: "As Democratic nominee Joe Biden edges closer to claiming the presidency, investors are focused on the still-undecided race for control of the Senate and the potential consequences for taxes, regulation and the outlook for more stimulus."
+    publishedDateTime: 2020-11-06T23:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-markets-senate/investors-focus-on-undecided-senate-as-biden-edges-in-on-presidency-idUSKBN27M2ML"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M2ML"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M2ML"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540297032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51LS"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
     publishedDateTime: 2020-11-02T08:20:00Z
@@ -1052,6 +1068,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07545754_1604513524.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Recount likely in Georgia as Biden takes slim lead over Trump"
+    excerpt: "Democratic presidential candidate Joe Biden is leading in Georgia, but the race there is still extremely close. Mark Strassmann has details."
+    publishedDateTime: 2020-11-07T00:15:00Z
+    webUrl: "https://www.cbsnews.com/video/recount-likely-in-georgia-as-biden-takes-slim-lead-over-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/85b83321-00fb-4e42-83c2-d6009b4e7037/thumbnail/1200x630/f0a297e5b4870a58e72ebb44aa1d33ce/cbsn-fusion-recount-likely-in-georgia-as-biden-takes-slim-lead-over-trump-thumbnail-582856-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facebook labeled President Trump's late-night election posts about Democrats stealing the election as misinformation"
     excerpt: "President Trump's false claims about the election being stolen are being flagged by Facebook. Every one of his false election claims are now flagged."

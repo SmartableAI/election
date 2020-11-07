@@ -432,6 +432,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump decries initial lead that 'miraculously' disappeared, urges Biden not to 'wrongfully claim' White House"
+    excerpt: "President Trump on Friday night decried his initial lead in the presidential race that he watched \"miraculously disappear as the days went by.\" "
+    publishedDateTime: 2020-11-07T00:19:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XqOUnozgs0k/trump-initial-lead-miraculously-disappeared-urges-biden-not-to-wrongfully-claim-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-initial-lead-miraculously-disappeared-urges-biden-not-to-wrongfully-claim-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-initial-lead-miraculously-disappeared-urges-biden-not-to-wrongfully-claim-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5af99d19-0b2c-443c-9ed5-10c7bd64355f/50da4d6e-e09f-49a2-8cba-f32ab313007b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump vows to keep ‘fighting,’ will use ‘every aspect of the law’ in ballot-counting battle"
     excerpt: "President Trump on Friday vowed to keep “fighting,” saying he will use “every aspect of the law” as election officials in key battleground states continue to count ballots for the uncalled 2020 presidential race."
     publishedDateTime: 2020-11-06T19:03:58Z
@@ -511,6 +527,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Chris-Evans-Mark-Ruffalo-Patricia-Arquette.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Allies Push Forward With Election Lawsuits"
+    excerpt: "Litigation filed by the Trump campaign and other Republicans has shown little prospect of turning the tide so far, and legal experts from both parties described the efforts as a last stand."
+    publishedDateTime: 2020-11-07T00:22:00Z
+    webUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-256340/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump reportedly has no plans to concede presidential race to Biden"
     excerpt: "President Trump is not prepared to concede the presidential race to Joe Biden, despite being told by his counselors that it would be the right thing to do, according to a report Friday. Other"

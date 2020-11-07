@@ -79,20 +79,15 @@ related:
         width: 837
         height: 545
         isCached: true
-  - title: "CBS News projects Pres. Trump wins Indiana"
-    excerpt: "Watch \"CBS News projects Pres. Trump wins Indiana\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-04T02:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201104014307-cbs-news-projects-pres-trump-wins-indiana/"
+  - title: "Donald Trump Wins Wyoming"
+    excerpt: "Donald Trump wins Wyoming."
+    publishedDateTime: 2020-11-04T02:54:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-03/joe-biden-wins-vermont"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07533968_1604454424.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "MQIMe5jmhHHkdGIK1jVoDvIAVo9xTYZoRNJRKUGQnb/8KNVaHZMIfHGHYv835mXzp+I4UtkFRCBy0oh2Ifik6PJfcW2/4+Zp4Uvd2WtIQ7LTM8sCdXwLSIFmdcwFpcoEmj7vD92DAhgnSNNmV9OtYIu7SoBuDO56oM8x7WfHAnqv1q12ONS4H/cE0yGY/WdL1cDiyfmc3yB9G+CUP3bA00UN/WzJR74ILdU8cokX4Uj/e3H3K73qy+Y20apWYlR6HPISHVyl/CZjzAlXprMoW7gWi/zpIsusjadvNGMXg4ctU20rgMApGlRHq//30v3bzMdu9uD9raEZIVbZFLmGNHE+BA86gEZpp58cE/7XrYg=;3E5qJX5neyiT5qenlll3yQ=="
 ---

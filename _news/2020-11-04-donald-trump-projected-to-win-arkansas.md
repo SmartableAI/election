@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AP projection: Donald Trump easily wins SC for the second consecutive election"
+    excerpt: "As expected, Donald Trump will win South Carolina, according to a projection from the Associated Press. The AP called the race shortly before 8 p.m., about an hour after polls closed in the state. With about three-fourths of the state's precincts reporting early Wednesday morning,"
+    publishedDateTime: 2020-11-06T21:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/trump-easily-sc-second-consecutive-election/6126955002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6126955002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6126955002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/29/PGRE/0bccff7d-d209-4817-b439-8551f7de9ed4-JM.trump.022820.005.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump says he will score a 'big win,' accuses Democrats of trying to steal election"
     excerpt: "Republican President Donald Trump, in a tweet early on Wednesday, predicted he will win a second four-year term and accused Democrats of attempting to \"steal\" the election from him, without citing any evidence."
     publishedDateTime: 2020-11-04T06:28:00Z
@@ -46,38 +62,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539921175&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30DU"
         width: 921
         height: 545
-        isCached: true
-  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
-    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
-    publishedDateTime: 2020-10-29T10:35:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Control of Senate at stake as Trump's allies face Democrats"
-    excerpt: "WASHINGTON -- Control of the Senate is a razor-close proposition in Tuesday's election, as Republicans fight to retain their majority against a surge of Democratic candidates confronting the president's allies across a vast political map."
-    publishedDateTime: 2020-11-03T12:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/control-senate-stake-trumps-allies-face-democrats-73987863"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9f58d3900ad64f6a8d3d2804721a15e4_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Donald Trump is projected to win Louisiana"
     excerpt: "Louisiana has eight electoral votes and is not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
@@ -143,101 +127,48 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
-    excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
-    publishedDateTime: 2020-11-03T03:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/in-michigan-trump-kicks-off-frenzy-of-campaigning-two-days-before-election-idUSKBN27H12Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27H12R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27H12R"
+  - title: "Americans largely reject Trump's victory declaration: Reuters/Ipsos poll"
+    excerpt: "A bipartisan majority of Americans do not accept President Donald Trump's premature victory declaration in the U.S. presidential election and most are willing to wait for all votes to be counted before deciding who won,"
+    publishedDateTime: 2020-11-06T00:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27L32T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L32T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L32T"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 123
+    quality: 124
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201101&t=2&i=1539602176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA01B3"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540187312&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41ZI"
+        width: 833
         height: 545
         isCached: true
-  - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
-    excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
-    publishedDateTime: 2020-11-06T08:03:00Z
-    webUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
+  - title: "Trump's Election Day surge powered by small-town America"
+    excerpt: "President Donald Trump's reelection campaign long maintained there were thousands of new supporters tucked into rural, red pockets of the country who would come out and vote for the president when asked."
+    publishedDateTime: 2020-11-05T00:57:00Z
+    webUrl: "https://www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 122
+    quality: 120
+  - title: "Republican officials tried to convince Pennsylvania Trump supporters to cast illegal ballots after Election Day"
+    excerpt: "Officials emailed supporters Thursday, asking for more votes supporting President Donald Trump. Trump's campaign in Wisconsin said it was a mistake."
+    publishedDateTime: 2020-11-06T20:50:00Z
+    webUrl: "https://www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
     images:
-      - url: "https://i.insider.com/5fa4f4c11df1d50018219377?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa58c7a1df1d50018219541?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Ahead of U.S. poll, Trump ends a U.S. restriction applying to Israeli settlements"
-    excerpt: "The Trump administration lifted a decades-old ban on Wednesday that had prohibited U.S. taxpayer funding for Israeli scientific research conducted in Jewish settlements in occupied territory, drawing Palestinian condemnation."
-    publishedDateTime: 2020-10-28T14:37:00Z
-    webUrl: "https://www.reuters.com/article/worldNews/idUSKBN27D23Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D23Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D23Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539130142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R186"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Jewish cemetery in Michigan vandalized with 'Trump,' 'MAGA' before Trump's rally"
-    excerpt: "Tombstones at the Ahavas Israel Cemetery in Grand Rapids were vandalized with \"Trump\" and \"MAGA\" before Trump arrived for his final campaign rally."
-    publishedDateTime: 2020-11-03T14:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/03/michigan-jewish-cemetery-desecrated-maga-before-trumps-rally/6135923002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6135923002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6135923002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e0eba4a9-c740-46cd-b451-c5a5115af8ab-AFP_AFP_8UF6ZT.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump is trying to claim the presidency by saying 'we hereby claim' key states but that is not how elections work"
-    excerpt: "\"We have claimed, for Electoral Vote purposes, the Commonwealth of Pennsylvania,\" the president tweeted on Wednesday."
-    publishedDateTime: 2020-11-05T08:13:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/5fa32879f7d1cb0019e39e0f?width=1200&format=jpeg"
-        width: 975
-        height: 487
-        isCached: true
-  - title: "The Health 202: Trump's pandemic response didn't hurt him as much as Democrats expected"
-    excerpt: "Democrats expected the 2020 presidential election would be a referendum on President Trump’s handling of the coronavirus pandemic. But it may not have hurt Trump so much — even as his opponent Joe Biden appears closer to victory this morning after winning key states of Wisconsin and Michigan."
-    publishedDateTime: 2020-11-05T12:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GRHKMRQZ7UI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "ABC, CBS, and NBC cut away from Trump's White House address riddled with unfounded accusations about the 2020 election"
     excerpt: "President Donald Trump, at the White House, made an unfounded accusation that the election was being stolen from him. ABC, CBS, and NBC cut away."
@@ -255,61 +186,20 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process"
-    excerpt: "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters."
-    publishedDateTime: 2020-10-28T21:35:00Z
-    webUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
+  - title: "CBS News projects Pres. Trump wins Indiana"
+    excerpt: "Watch \"CBS News projects Pres. Trump wins Indiana\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-04T02:47:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201104014307-cbs-news-projects-pres-trump-wins-indiana/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5f99df9069331a0011bc5ed3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Observers say no evidence for Trump's fraud claims"
-    excerpt: "The head of an international delegation monitoring the U.S. elections said on Thursday his team has no evidence to support President Donald Trump's claims about alleged fraud involving mail-in absentee ballots."
-    publishedDateTime: 2020-11-06T00:33:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/06/observers-say-no-evidence-trumps-fraud-claims/6182126002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3ab6d23d-8f6d-43f9-805c-30c23f2cfed2_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07533968_1604454424.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
-    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
-    publishedDateTime: 2020-11-05T05:50:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Trump campaign says more legal action coming, predicts victory as early as Friday"
-    excerpt: "President Donald Trump's campaign said on Thursday it expected to launch additional legal action in Pennsylvania and Nevada and predicted that the Republican incumbent would emerge victorious in the U."
-    publishedDateTime: 2020-11-05T16:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-star/trump-campaign-says-more-legal-action-coming-predicts-victory-as-early-as-friday-idUSKBN27L26X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L26X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L26X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
   - title: "Facebook Shuts Down Large Pro-Trump 'Stop the Steal' Group for Spreading Election Misinformation and Calling for Violence"
     excerpt: "Trump group which had amassed over 364,000 members in less than 48 hours, for promoting election misinformation regarding ongoing vote counts. With protests over the ongoing tally of votes sweeping through a number of U."
     publishedDateTime: 2020-11-05T22:24:00Z
@@ -323,38 +213,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/10/TIME_Reddit_Doom.gif?w&#x3D;600"
         width: 1500
         height: 966
-        isCached: true
-  - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
-    excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
-    publishedDateTime: 2020-10-29T21:58:00Z
-    webUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/hackers-steal-2-3-million-from-wisconsin-gops-trump-reelection-fund/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 90
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-screenshot2.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Pence, absent from Trump's press conference, tweets his support from afar"
-    excerpt: "Vice President Mike Pence wasn't at President Trump's White House press conference on Thursday evening, but he approved of his message. Trump made multiple baseless claims about the election, including that Democrats are trying to \"steal the election from us."
-    publishedDateTime: 2020-11-06T02:05:00Z
-    webUrl: "https://theweek.com/speedreads/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 89
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229449886.jpg?itok=YK9SWsij"
-        width: 840
-        height: 560
         isCached: true
   - title: "Trump Slams Election Process In Speech, Says 'If You Count The Legal Votes I Easily Win'"
     excerpt: "Speaking to reporters on Thursday night, President Trump said he won the election if only legal votes are counted."
@@ -381,43 +239,6 @@ related:
       name: Time
       domain: time.com
     quality: 71
-  - title: "Barbara Res helped build Trump Tower. She says she saw Donald Trump ignore experts and disrespect employees in her 18 years working with him."
-    excerpt: "Donald Trump has long displayed certain behaviors, says Barbara Res, whose new book \"Tower of Lies\" recounts almost 2 decades of working with him."
-    publishedDateTime: 2020-11-03T22:49:00Z
-    webUrl: "https://www.businessinsider.com/barbara-res-donald-trump-real-estate-trump-tower-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-    images:
-      - url: "https://i.insider.com/5fa0958969331a0011bc6e16?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
-    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
-    publishedDateTime: 2020-10-29T20:07:00Z
-    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 56
-    images:
-      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
-        width: 846
-        height: 571
-        isCached: true
-  - title: "Donald Trump Wins Wyoming"
-    excerpt: "Donald Trump wins Wyoming."
-    publishedDateTime: 2020-11-04T02:54:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-03/joe-biden-wins-vermont"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "KmH1LRm0b98djugggFtf75goHcpVo/uzGz5nddtoucfxjLdWO5e2HIm0cX0p7+aI6/BbkT8lyCDIivBAB/Ex9QVb8VBP6Z3oCW15MG7y16JXIYUUIbSQNJ1zXeF/FSUcgowylItS6R90l0FR4ZVlsm8KmCuQjKN3Q5D40KjPUU3X6GEy3s5JPeKGGKUpDudOdotzKCkJhUuRstpzCOP8VBcvoFd/tVv00wiXvC+aH+69nEIu8PqMhJqnc3RW+EhZ0bMs4pKDF9vCs8bIVhDXj1QxGn86x4orlP4Y79chxzJAIwlxE+r5O+IXT/FwbzLdUDiMaAgc1wNz4QYIHBCTAGz0nK5EnRrQ9uMBLlw3Qr0=;XhQOA6/W51nT8248xlqfbg=="
 ---

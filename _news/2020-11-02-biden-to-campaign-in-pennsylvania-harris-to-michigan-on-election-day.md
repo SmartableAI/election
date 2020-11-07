@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 1455
+heat: 1475
 published: true
 
 provider:
@@ -717,6 +717,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230f52b5-e037-423b-befd-decdc0aec4bb/fb87aa77-b8d5-474e-8b02-5f88d81f5529/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pennsylvania GOP lawmaker claims Democratic officials worked to 'tip the scales' to Biden"
+    excerpt: "Democratic Pennsylvania Gov. Tom Wolf and Secretary of the Commonwealth Kathy Boockvar have done everything they can in the way of \"changing the rules\" to help Joe Biden, state Senate Majority Leader Jake Corman claimed Friday"
+    publishedDateTime: 2020-11-06T23:06:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gLvGEQnWbTc/pennsylvania-election-2020-trump-biden-democrat-thomas-wolf"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-election-2020-trump-biden-democrat-thomas-wolf.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-election-2020-trump-biden-democrat-thomas-wolf.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

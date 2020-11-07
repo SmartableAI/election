@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump doubles down on groundless conspiracy\ntheory that GOP poll watchers across the country were sidelined"
+    excerpt: "President Donald Trump has falsely claimed there were widespread abuses against his poll watchers across the country, and is using these false allegations to dispute the election results.\n    \n"
+    publishedDateTime: 2020-11-06T23:01:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RgBF3hSC02s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-poll-watchers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-poll-watchers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106131352-06-ballt-counting-1106-allentown-pa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump is turning to the courts as his options narrow."
     excerpt: "The Trump campaign laid out an aggressive legal strategy to challenge votes in key states. Republican lawyers and Trump campaign officials on Wednesday began a wide-ranging legal assault to challenge Democratic votes in key swing states,"
     publishedDateTime: 2020-11-05T18:14:00Z

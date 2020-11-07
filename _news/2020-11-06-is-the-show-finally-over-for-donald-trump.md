@@ -291,6 +291,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 115
+  - title: "Trump Fundraising for Legal Challenges Would Also Pay Down Debt"
+    excerpt: "President Trump is racing to raise money for an “official election defense fund.” But the fine print on the solicitations tells a different story: Half -- or more -- of any contribution will be used to retire debt from his re-election campaign."
+    publishedDateTime: 2020-11-07T00:09:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/zU0rMlE7ltxzuW4lIwai"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-256696?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "41G6Y8LdlDUqJwycTNGGVNFkF4ytJzM7kCpg39xO93agfnZB2IHR7bJIIC4a6IzeSSOEZu2s+atvb/4rZkNQwPRkAX1aNB2H+qKtwSYS7840ZZlCCJFjQ9ND7kaIxYfMVtJzCU04I72Sdt7BkwkW9dB7++DRzVm2gHsX1R+4mtfzW9KzvRXMds97MZSKJI+nzH228v30m+Po2pTWM7tPCPYRY47xBqZU8HLMVg0859DxtMKwG0LorwvkzTaJZ9Lurghk5LCquYM0aqUyobUZwjEpDdBPTFetLLm06/wOV/s6FQJ8v2xE9p+54dGynZniFmJpJ4FzVxt+4rzSGcqzsrmLJz+ZzgMeaVBAub+o9HA=;FoNFwfm8+gIEzBDmzYyjnQ=="
 ---
