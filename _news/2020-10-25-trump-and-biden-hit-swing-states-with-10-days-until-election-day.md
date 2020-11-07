@@ -1070,6 +1070,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to announce coronavirus task force as part of presidential transition"
+    excerpt: "Joe Biden pledged throughout his presidential campaign to take the coronavirus seriously, and days into his presidential transition, he will take the first steps to make good on that promise.\n    \n"
+    publishedDateTime: 2020-11-07T21:52:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j1X1dkBXNVY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/transition-biden-coronavirus-task-force/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/transition-biden-coronavirus-task-force/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107121330-joe-biden-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump counting on final get-out-the-vote push to fuel narrow path to victory"
     excerpt: "President Donald Trump and other Republicans are arguing in the final days of the campaign that their superior ground game will make a critical difference on Election Day and allow them to turn out their voters in enough states to reach the 270 electoral votes needed to win.\n    \n"
     publishedDateTime: 2020-10-30T23:18:32Z
@@ -2556,6 +2572,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "For Trump voters, shock, disappointment and disbelief."
+    excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
+    publishedDateTime: 2020-11-07T22:53:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/07/nyregion/07election-live-blog-trump-disbelief/07election-live-blog-trump-disbelief-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Overseas, Biden Victory Brings Sighs of Relief"
     excerpt: "Foreign leaders showered the president-elect with congratulations. For many, the importance of this election was as much about removing Mr. Trump as ushering in Mr. Biden."
     publishedDateTime: 2020-11-07T20:40:00Z
@@ -2572,12 +2604,28 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The Key States Biden Won en Route to the White House"
+    excerpt: "Joe Biden had to flip a few states that went to President Trump in 2016 and hold on to Democratic-leaning battleground states to win the election. Here’s how it happened."
+    publishedDateTime: 2020-11-07T21:59:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/what-states-did-biden-win-lose.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/what-states-did-biden-win-lose.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/what-states-did-biden-win-lose.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/politics/00biden-win-losehfo1/00biden-win-losehfo1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "With President-Elect Joe Biden, ‘the Long National Nightmare Is Over’"
     excerpt: "I am writing this with tears of joy streaming down my face,” a reader told us. And he is not alone: a sampling of the early reaction."
-    publishedDateTime: 2020-11-07T20:29:00Z
-    webUrl: "https://www.nytimes.com/2020/11/07/opinion/letters/with-president-elect-joe-biden-the-long-national-nightmare-is-over.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/07/opinion/letters/with-president-elect-joe-biden-the-long-national-nightmare-is-over.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/opinion/letters/with-president-elect-joe-biden-the-long-national-nightmare-is-over.amp.html"
+    publishedDateTime: 2020-11-07T21:07:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/opinion/letters/president-elect-joe-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/opinion/letters/president-elect-joe-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/opinion/letters/president-elect-joe-biden.amp.html"
     type: article
     provider:
       name: New York Times

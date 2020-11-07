@@ -4451,6 +4451,20 @@ related:
         width: 550
         height: 367
         isCached: true
+  - title: "President Trump ramps up rhetoric as Joe Biden is projected to win"
+    excerpt: "Leading up to the announcement that Joe Biden is projected to win the 2020 presidential election, President Trump ramped up his rhetoric against the election process. Former governor and attorney general of Massachusetts Bill Weld joined CBS News to discuss the president's comments."
+    publishedDateTime: 2020-11-07T22:11:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-attacks-the-election-process/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/63f55768-5031-4795-ae8b-32515bae81a9/thumbnail/1200x630/e501a298ea109546935a533f09d2e658/cbsn-fusion-president-trump-attacks-the-election-process-thumbnail-583280-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pollster Frank Luntz: If Trump defies polls again in 2020, 'my profession is done'"
     excerpt: "Pollster Frank Luntz told Fox News on Thursday night that poll predictions are wrong about the 2020 election between President Trump and former Vice President Joe Biden, his \"profession is done\" in terms of faith and confidence from the public."
     publishedDateTime: 2020-10-23T13:03:00Z

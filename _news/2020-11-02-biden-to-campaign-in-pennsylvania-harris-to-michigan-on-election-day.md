@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp"
 type: article
 quality: 215
-heat: 1675
+heat: 1695
 published: true
 
 provider:
@@ -987,6 +987,22 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris to Make History as First Female U.S. Vice President"
+    excerpt: "Kamala Harris, the daughter of Indian and Jamaican immigrants, will also be the first female U.S. vice president, as well as the first Black vice president and first of Indian descent."
+    publishedDateTime: 2020-11-07T22:17:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-to-make-history-as-first-female-u-s-vice-president-11604769441"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-to-make-history-as-first-female-u-s-vice-president-11604769441"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-to-make-history-as-first-female-u-s-vice-president-11604769441"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-255898/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "What happens to Kamala Harris' Senate seat now?"
     excerpt: "Democratic Gov. Gavin Newsom will appoint someone to serve out the remainder of the vice president-elect's term, which ends in 2022."

@@ -4439,6 +4439,20 @@ related:
         width: 550
         height: 367
         isCached: true
+  - title: "President Trump ramps up rhetoric as Joe Biden is projected to win"
+    excerpt: "Leading up to the announcement that Joe Biden is projected to win the 2020 presidential election, President Trump ramped up his rhetoric against the election process. Former governor and attorney general of Massachusetts Bill Weld joined CBS News to discuss the president's comments."
+    publishedDateTime: 2020-11-07T22:11:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-attacks-the-election-process/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/63f55768-5031-4795-ae8b-32515bae81a9/thumbnail/1200x630/e501a298ea109546935a533f09d2e658/cbsn-fusion-president-trump-attacks-the-election-process-thumbnail-583280-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z

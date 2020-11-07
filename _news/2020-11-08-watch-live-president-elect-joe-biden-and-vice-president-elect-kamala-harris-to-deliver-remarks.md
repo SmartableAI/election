@@ -498,6 +498,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Black women and girls cry and cheer over a historic victory for Vice President-elect Kamala Harris"
+    excerpt: "\"It just gives us a sense of hope, a sense of 'You know what? We can do this,'\" one woman told Business Insider about Kamala Harris becoming vice president-elect."
+    publishedDateTime: 2020-11-07T22:00:00Z
+    webUrl: "https://www.businessinsider.com/black-women-and-girls-react-to-kamala-harris-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/black-women-and-girls-react-to-kamala-harris-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-women-and-girls-react-to-kamala-harris-victory-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fa714c2f7d1cb0019e3a66b?width=1200&format=jpeg"
+        width: 610
+        height: 305
+        isCached: true
   - title: "Kamala Harris makes history, becoming the first Black woman and South Asian elected Vice President"
     excerpt: "Kamala Harris made history Saturday as the first Black woman elected as vice president of the United States, shattering barriers that have kept men — almost all of them white — entrenched at the highest levels of American politics for more than two centuries."
     publishedDateTime: 2020-11-07T17:50:00Z
@@ -801,6 +817,20 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-20-Debate_77097129.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Supporters across the country took to the streets in glee as Joe Biden secures presidency"
+    excerpt: "People celebrated across the country as major media networks projected Joe Biden’s victory in the presidential election."
+    publishedDateTime: 2020-11-07T22:28:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/07/joe-biden-supporters-celebrate-across-country-victory-announced/6207269002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/635e1b1c-a20b-4580-ba01-018d98682aae-BIDEN_SUPPORTERS_CELEBRATE_DESK.00_00_04_07.Still005.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Kamala Harris target of more misinformation on social media than VP Pence, data shows"
     excerpt: "Long before Democratic presidential nominee Joe Biden announced her as his running mate, Kamala Harris was the target of widespread online misinformation."
@@ -1466,6 +1496,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "KCGLJHLqNdbwwB0c21pZ/TZaD2foajnZgJYM/RXjugeSJpyR8aK77kZh45pgzNJke1o17b0mKI1Cgr8cQIW9jXUtZQ+qUpgSX0hM0noZ8B6A/6gT2WfLMQPQ8xIx2smpeUxtsxkaC5StkRYHWhIfkcJLznYkb4CR5f3zlYbrMMU31cAY9t3l2JyrsG/aMJqVzyslMewbV0yFelFCm3zhl0BXbnQkcRZkAtSaRDKa4iBknNRhH2qvNxSacelz479qljsygL+VFe5vjgPCC5dxtzxxgxNyVi7w4+0eXeH7rKnN3hwuStSyjZNudfgsNDtPJC35vkqpORX+ufhT6TQvRg1MxiB05ijhdcfTq4ag5WA=;k9z63T7wNS3pgsU3hcaB2w=="
+secured: "x/IlWIf04hw8AJetIrC50VbA81d2myWSexxUqgk3KW1P6YEOW+Bqc5W53siW1rpsyWzjGl32Up3cSZgG/rNW7rm6N+NhcUyWQN0ClbSirVMyNVgxdXCeO9v0mEJoQJNb7tYzJ5NKtdCWAAKzNmD6dzA0f+1In1mEb+MLurm6fnF6oqbe1fYue4wfvY9EJIxuqKPoZsaRoS9p8YYIs5TQu6DYo7Tn2yCxO0mhWr/i0cxsWdp2oVyj4D791FpaiIlxXzXcx+nf4labarvd3tfN484OniinqaOAGbFCP0bt590Ag4EwJdEWUtmklvAFif4KFp9aN8p/rFVAntuy19H9yNRhJHKciGXeLzIJAdMtXMs1nBCdtEl+vzmLgjou5BNsWI0ZAE3guVR7vzx5v6O0xPtuBEHKMmBV5Jygh8x3tP9XbEaThZ/8HBT7bvWpgGsOBT3H1DpFidnPmB09rE157BpEHrF47mhitEbNnN/n3KxRElp4wJ0ZbGO33bMsU5hbSwfKhTaudmIuuo79qS4UUw==;pmXSANP/nGC2u/6qd4KFvw=="
 ---
 

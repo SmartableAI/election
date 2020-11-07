@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10760
+heat: 10800
 published: true
 
 provider:
@@ -3222,6 +3222,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/20/459c840d-4166-4daf-80a8-fbf3b0cfcb21/thumbnail/1200x630/f8d0c87b8360e2532afc955f00fba7e6/cbsn-fusion-president-trump-and-joe-biden-will-have-mics-muted-during-parts-of-debate-thursday-thumbnail-570900-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden & Kamala Harris to address nation"
+    excerpt: "Watch \"Joe Biden and Kamala Harris to address the nation\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-07T22:18:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201107220342-joe-biden-and-kamala-harris-to-address-the-nation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07596559_1604787245.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "President Trump and Joe Biden campaign in key battleground states Friday"
     excerpt: "With Election Day a little more than two weeks away, President Trump and Joe Biden hit the campaign trail in key battlegrounds Friday. Meantime, there are mounting concerns over whether the president's personal attorney,"
@@ -7528,6 +7542,20 @@ related:
       name: The Mary Sue
       domain: themarysue.com
     quality: 68
+  - title: "Kamala Harris was out on a jog when Joe Biden was declared president-elect"
+    excerpt: "When Joe Biden was declared the winner of the 2020 presidential election by news networks Saturday morning, his running mate Sen. Kamala Harris was out on a jog with her husband Douglas Emhoff. Fox News' Biden campaign correspondent Peter Doocy reported on-air that Harris and Emhoff were jogging near the Biden campaign's headquarters in Wilmington,"
+    publishedDateTime: 2020-11-07T22:14:00Z
+    webUrl: "https://www.chron.com/bayarea/article/politics/article/Kamala-Harris-vice-president-video-jog-reaction-20-15709686.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 68
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/17/20227031/7/rawImage.png"
+        width: 599
+        height: 446
+        isCached: true
   - title: "Trump, Biden Paint Dire Pictures Of Pandemic’s Future If The Other Is Elected"
     excerpt: "Donald Trump tells his supporters that more lockdowns are in store if Joe Biden wins the White House. Meanwhile, Biden says the situation will get even worse under Trump who “continues to"
     publishedDateTime: 2020-10-19T13:43:00Z

@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Romney is first GOP senator to congratulate Biden on winning presidential race"
+    excerpt: "Utah Sen. Mitt Romney became the first GOP senator to congratulate Joe Biden on his win. "
+    publishedDateTime: 2020-11-07T21:05:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cuUxUFXF6h0/romney-is-first-gop-senator-to-congratulate-biden-on-winning-presidential-race"
+    ampWebUrl: "https://www.foxnews.com/politics/romney-is-first-gop-senator-to-congratulate-biden-on-winning-presidential-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-is-first-gop-senator-to-congratulate-biden-on-winning-presidential-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88e0d269-4e91-494c-900e-19aeafdf304c/00f19cd3-db29-413f-82f6-4071fcca4347/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "If elected, Biden plans task force to reunite 545 children separated from parents at border"
     excerpt: "Democratic nominee Joe Biden pledges that his campaign will create a task force to reunite 545 migrant children who were separated from their parents at the border if he is elected president. "
     publishedDateTime: 2020-10-30T00:04:29Z
@@ -73,6 +89,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1007850e-cc8b-4cc6-8339-50eda9a4041a/a8864c36-fcdf-4412-a2e3-2e6356478ae5/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Battle brewing over Biden Cabinet picks, priorities, as far left and moderates launch opening salvos"
+    excerpt: "The brewing battle over Cabinet appointments and administration priorities will take shape as Joe Biden and his close advisers seek to placate the base while also putting together an administration that reflects the Biden campaign's tone of unity."
+    publishedDateTime: 2020-11-07T22:14:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WuoSFUvpp1o/biden-cabinet-picks-moderate-far-left-battle-74-days"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-moderate-far-left-battle-74-days.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-moderate-far-left-battle-74-days.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Vote for Joe Biden? Seriously?"
     excerpt: "Biden is Bernie Sanders’s grim party in sheep's clothing."

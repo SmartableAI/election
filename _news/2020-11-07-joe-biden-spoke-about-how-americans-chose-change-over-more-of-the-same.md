@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/news/politics/2020/11/07/election-
 webUrl: "https://www.usatoday.com/videos/news/politics/2020/11/07/election-2020-biden-says-record-number-americans-chose-change/6198577002/"
 type: article
 quality: 104
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
-    excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
-    publishedDateTime: 2020-11-04T22:17:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/04/2020-election-biden-calls-unity-votes-continue-counted/6166567002/"
+  - title: "Biden says he is 'honored' that Americans have chosen him"
+    excerpt: "Democrat Joe Biden said on Saturday he was honored that Americans have chosen him to be their president and said it was now time to heal divisions left by the election campaign and unite as a country."
+    publishedDateTime: 2020-11-07T22:36:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-biden-twitter/biden-says-he-is-honored-that-americans-have-chosen-him-idUSKBN27N0M1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0M1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0M1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b032550d-b933-4d85-b020-924b79592f45-VPC_ELECTION_DESK_THUMB.00_00_33_12.Still005.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540376944&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60G2"
+        width: 816
+        height: 545
         isCached: true
 
 secured: "StXpzIwUKnG9qkCMI8boOZsNzA1YbzJ2qKrPvn0+SYBY0EdfIPxMCr8xBu+wfQBINyaoyzLSMUA3CDIrV5Ga3+bhTSfGCjZ63A/1YQ8eKoKp/Ziv47IDBVuRCBSIIjuiW0bBA8c9Cf0XVCAmHwazBkHF9jw8DsvJGe0eQGB2MPIFoojqCUoXZL0zJ1uVdI4q3PqTyaP5g5lxxBK76LICtUMUb7h+M1EjWZG+9LZfqB7q9tvuyGAL/5/iId9cz3oX42LXakYzowg13UlItCbqIXd6lfSjlsAAa033A7MmmBrq3f05i6N/oBdrVarxqMbmJKbDaSVTjpykyYIEskJDrU32Ki8MnaTrC17UwK3BZA/UqWhZSKFrbOVNBMWSPY8ScLrLBBb3AG7ptTszZa2b4x7ZWoKZ+YsHnoW5JHv3RsTeLuRDjs/LEDG3MQKrvkFSqfgSdyfhooiynJCKtraYRToR/RInTdxIRg5Z3CztnUbvp5IGF+fJpRbhyLFIf++AT9ekxEgyIKb4+7U21VJfhg==;Xv+O7cc6Yw/WY/h1ILrc2w=="

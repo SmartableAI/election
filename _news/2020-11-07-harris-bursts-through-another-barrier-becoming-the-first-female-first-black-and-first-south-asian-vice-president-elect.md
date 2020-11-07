@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-first-vice
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-first-vice-president-female-black-south-asian/index.html"
 type: article
 quality: 160
-heat: 300
+heat: 340
 published: true
 
 provider:
@@ -86,6 +86,38 @@ related:
     webUrl: "https://www.nbcnews.com/news/asian-america/desi-twitter-bursts-pride-over-kamala-harris-vp-elect-n1246936"
     ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1246936"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246936"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_45/3426746/201107-kamala-harris-se-1256p_56c5535ac038761418c2d7036a43b7a2.jpg"
+        width: 2500
+        height: 1599
+        isCached: true
+  - title: "‘It’s a Big Deal’: TV Coverage Notes Magnitude of Kamala Harris Victory"
+    excerpt: "On Fox News, Donna Brazile recalled that her mother and grandmother could not vote. “Just scoot over and let women also share in the leadership of this country,” she said."
+    publishedDateTime: 2020-11-07T21:52:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/08/business/07harris-media/merlin_179349762_a42eb950-e5f1-4108-a117-004f508f1657-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "This is Vice President-elect Kamala Harris' Know Your Value moment"
+    excerpt: "Kamala Harris made history, becoming the first female, first Black and first South Asian vice president elect. Here's a look back at her Know Your Value moment, which she shared with us at our nationa"
+    publishedDateTime: 2020-11-07T19:08:00Z
+    webUrl: "https://www.nbcnews.com/know-your-value/feature/vice-president-elect-kamala-harris-know-your-value-moment-ncna1246951"
+    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1246951"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1246951"
     type: article
     provider:
       name: NBC News

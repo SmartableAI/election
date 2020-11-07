@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "PHOTOS: After Biden declared president, crowds take to streets in NYC, Washington, DC"
-    excerpt: ""
-    publishedDateTime: 2020-11-07T18:51:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ZzzTp6WJ30/photos-election-reaction-crowds"
-    ampWebUrl: "https://www.foxnews.com/politics/photos-election-reaction-crowds.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/photos-election-reaction-crowds.amp"
+  - title: "Schumer sings 'God Bless America' after Biden projected winner"
+    excerpt: "Sen. Chuck Schumer celebrated President Trump's projected defeat by singing a rendition of \"God Bless America,\" and telling the former Manhattan resident it's time to pack up and go home to his new home state of Florida. "
+    publishedDateTime: 2020-11-07T21:57:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pz2Z5kTo-qk/schumer-god-bless-america-biden-projected-winner"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-god-bless-america-biden-projected-winner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-god-bless-america-biden-projected-winner.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/918/516/Election-Crowds-New-York-DC-SS-5.jpg?ve=1&tl=1"
-        width: 918
-        height: 516
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdefe646-10ca-45c5-be99-a9396a62ed53/07e6210c-520f-4b83-8fa9-f4057d386bb5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "s7hzK6BVkwNqh/so7muwzwuBCu94fuOuRTxvsJLkbWe0rerueZvvLihXKTYRGY1fZKiwMRVtyZgc6AlUPsvdiCbTeRm1yYuT7ckqD8omU9sOQ3CBCvWwYoohodrdHbGpIluVVN3ObwahX7O/l1YWMYTUfj5dGz3bNSvPqObhvD6LgOEWfhIrpNC3Rcr6b8KvZAg1sJLfhn81jcDqPvDG7JCHhEbjm7DFCX/oBTdTIsit2yXUmFwva88rIBlMNg2tvrC5M/l97iaD4MNww/Cpb42XphadBaj84zJU4tWo4PDHqQIqJlM3HFoUNloEpBrnpPtoC1ZcMN0hJUc96ZN6DBlQLJZdj5YT6SOcAuafNGI=;fmYiQ0PqB86eWchyi2Wt1A=="

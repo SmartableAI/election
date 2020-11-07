@@ -368,10 +368,10 @@ related:
         isCached: true
   - title: "Biden's winning strategy: Flip Rust Belt Trump states and hold on tight"
     excerpt: "Michigan was part of a troika of Rust Belt states that Republican Donald Trump had snatched by the narrowest of margins from Democrats in 2016 to win the presidency. If Biden could retake Michigan, Wisconsin and Pennsylvania,"
-    publishedDateTime: 2020-11-07T17:48:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN27N0OC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0O8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0O8"
+    publishedDateTime: 2020-11-07T22:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-biden-insight/bidens-winning-strategy-flip-rust-belt-trump-states-and-hold-on-tight-idUSKBN27N0O8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0OC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0OC"
     type: article
     provider:
       name: Reuters
@@ -557,6 +557,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/2020-election-day-4-07-supreme-court-ap-jc-201106_1604711320625_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "LeBron James celebrates Joe Biden's win with meme of block on Donald Trump"
+    excerpt: "LeBron James tweeted his approval of Joe Biden's election victory with a simple meme that took a direct shot – or block – at sitting President Donald Trump. James posted a photo from the 2016 NBA Finals of himself blocking Golden State Warriors forward Andre Iguodala – one of the signature plays of his career that led to an NBA championship in 2016 over the heavily favored 73-9 Warriors."
+    publishedDateTime: 2020-11-07T17:35:00Z
+    webUrl: "https://www.usatoday.com/story/sports/nba/2020/11/07/lebron-james-joe-biden-president-donald-trump/6203018002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6203018002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6203018002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 138
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/USAT/6a8bff54-2908-4bcf-b0db-d1beee12078d-GTY_1273774069.jpg?auto=webp&crop=2237,1258,x0,y418&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "World leaders congratulate Joe Biden and Kamala Harris on their victory in the 2020 presidential election"
     excerpt: "The former vice president has decades worth of foreign policy experience and is no stranger to diplomatic leaders across the world."
@@ -1290,6 +1306,17 @@ related:
         width: 600
         height: 672
         isCached: true
+  - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
+    excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
+    publishedDateTime: 2020-11-07T22:51:00Z
+    webUrl: "https://www.businessinsider.com/opec-would-miss-friend-trump-wary-of-strains-under-biden-sources-say-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/opec-would-miss-friend-trump-wary-of-strains-under-biden-sources-say-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/opec-would-miss-friend-trump-wary-of-strains-under-biden-sources-say-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
   - title: "Some Americans dance, others wield guns at vote-counting sites as Biden's lead widens"
     excerpt: "Joe Biden supporters danced in Philadelphia's streets on Friday, while armed backers of President Donald Trump in Phoenix shouted, \"Stop the steal\" as a third day of post-election ballot counting brought the Democratic former vice president closer to winning the White House."
     publishedDateTime: 2020-11-07T04:22:00Z
@@ -1381,6 +1408,22 @@ related:
     quality: 113
     images:
       - url: "https://i.insider.com/5fa2167f69331a0011bc727d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Erasing Trump policies on climate, immigration, and healthcare: Here's what Biden promised for his first day in the White House."
+    excerpt: "Joe Biden promised to roll back major Trump policies on Day 1 of his administration. Even his supporters concede it'll be tough to do it all."
+    publishedDateTime: 2020-11-07T22:39:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-campaign-promises-on-day-1-democratic-administration-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-campaign-promises-on-day-1-democratic-administration-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-campaign-promises-on-day-1-democratic-administration-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fa717daf7d1cb0019e3a66f?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Rep. Jim Clyburn says he urged Biden to choose a Black woman as his running mate"
+    excerpt: "House Majority Whip Jim Clyburn said Saturday that he had privately urged President-elect Joe Biden to pick a Black woman as his running mate before Biden chose Kamala Harris, America's first female, first Black and first South Asian vice president-elect.\n    \n"
+    publishedDateTime: 2020-11-07T22:25:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OxO0kjOjcM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/clyburn-biden-black-woman-running-mate-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/clyburn-biden-black-woman-running-mate-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200731220357-jim-clyburn-justice-donald-trump-hate-disrespect-sot-cpt-vpx-00000914-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Shoot your shot': Obama nails three-pointer while campaigning with Biden in Michigan"
     excerpt: "Barack Obama called game.\n    \n"
     publishedDateTime: 2020-11-01T03:02:40Z

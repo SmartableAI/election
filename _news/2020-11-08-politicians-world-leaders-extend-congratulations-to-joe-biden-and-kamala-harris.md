@@ -3222,6 +3222,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden & Kamala Harris to address nation"
+    excerpt: "Watch \"Joe Biden and Kamala Harris to address the nation\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-07T22:18:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201107220342-joe-biden-and-kamala-harris-to-address-the-nation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07596559_1604787245.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Trump and Joe Biden campaign in key battleground states Friday"
     excerpt: "With Election Day a little more than two weeks away, President Trump and Joe Biden hit the campaign trail in key battlegrounds Friday. Meantime, there are mounting concerns over whether the president's personal attorney,"
     publishedDateTime: 2020-10-17T01:13:00Z
@@ -7527,6 +7541,20 @@ related:
       name: The Mary Sue
       domain: themarysue.com
     quality: 68
+  - title: "Kamala Harris was out on a jog when Joe Biden was declared president-elect"
+    excerpt: "When Joe Biden was declared the winner of the 2020 presidential election by news networks Saturday morning, his running mate Sen. Kamala Harris was out on a jog with her husband Douglas Emhoff. Fox News' Biden campaign correspondent Peter Doocy reported on-air that Harris and Emhoff were jogging near the Biden campaign's headquarters in Wilmington,"
+    publishedDateTime: 2020-11-07T22:14:00Z
+    webUrl: "https://www.chron.com/bayarea/article/politics/article/Kamala-Harris-vice-president-video-jog-reaction-20-15709686.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 68
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/17/20227031/7/rawImage.png"
+        width: 599
+        height: 446
+        isCached: true
   - title: "Trump, Biden Paint Dire Pictures Of Pandemic’s Future If The Other Is Elected"
     excerpt: "Donald Trump tells his supporters that more lockdowns are in store if Joe Biden wins the White House. Meanwhile, Biden says the situation will get even worse under Trump who “continues to"
     publishedDateTime: 2020-10-19T13:43:00Z
@@ -8066,6 +8094,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "+OtngisshaLVwtiIm6OYI/yWV9CSCA7RClaKnDJmGsW5FmPZeJwNWhNZ1T1zYkYhand2xXGQjrS4R2wEdFbgFXnsk8lbDTnIVmnD9AvvGBIuPqneWeBfw1vRvgpJqa2Bl097GYtZ+SPqB4QW4I+QIfOuUhK4Hya7MaqetNlNeDBdo19Q/MXcJdl+/pnhiAFCkzsrusz6kbOpqlF9IDtSQUGPsiExPXVNBPKfchpaDIovoCMErRkZrz/lA3oETXdpwfSzmI1MzmPG4IQjHnFiboeug+mq4CoSE3E1YAaSvgBdaslcMUX2JruJWqllbmX/hsdrOzIXMCRg8LQQ7Uq/50mm2uBlQ2jnxDyZoh19if0=;Okej10i+WtougUuZhbj5Vw=="
+secured: "0kNPT8jxXbSB4RkMS7StXEQ6j1TMcPD9iRX61PLfFOKfl5I+/c/UzyIruTWPuNYczmvJtMl24S1qR8pU/D9Nd0liIhb1hw7IlrblyRNtvzp55D2WiAm5pO85aSK/zzi6GxbQomeTDRyAOK+nlODpHBj4rNIu2gy1WISPAEKL57zpCShXx2lPCBU3A3gfCKr4NkiODbe/CQVfEGP8H+HkPy7BJT9rBH9tv9PStcT1pGKv65/zwmeMGs8puJlNj9xRCz3i3Z2SoozkIWekrq+HygjtcWSLW3XuwNsuI/tzibCpo6ESaPEvUbzQcfgHl6blharYvBPjXwNIfynWbbJnx8+G7DXI/gATiNz4CHVLGGiGr4WusWWonYc732Ae901d6tAfcNSJuD8qe9ZyL7Rmx1+jct7ijPsY/vUkqADH20Jjqd3KJJEf1rZ/FXAXIL8n7KH/oarUeA9m11/VISToJaRMUFteWK+C4KzKuzaas9dKKBDU9sXK7hgDaZcBMvjAuqTRIplCiw55IC+fXcA9sw==;Epvg3kuofaGgaMtYWV93Sw=="
 ---
 

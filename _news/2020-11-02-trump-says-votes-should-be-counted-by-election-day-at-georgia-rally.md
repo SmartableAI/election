@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 590
+heat: 610
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Twitter masking nearly 20 Trump election tweets after latest round of labeling"
+    excerpt: "Twitter is hiding five new Saturday tweets from President Trump, which it says violate the platform's civic integrity policy."
+    publishedDateTime: 2020-11-07T21:21:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tIxjdeY_4Jo/twitter-masking-new-trump-tweets"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-masking-new-trump-tweets.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-masking-new-trump-tweets.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture-5.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump rips absentee ballot extensions, says election 'should end on November 3rd'"
     excerpt: "President Trump on Friday panned decisions made by some courts that are allowing mail-in or absentee ballots to be counted if they are received by election authorities after Nov. 3, calling the rulings \"CRAZY and so bad for our Country.\""
     publishedDateTime: 2020-10-30T17:03:37Z

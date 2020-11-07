@@ -46,6 +46,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Former Trump rivals Jeb Bush, John Kasich congratulate Biden on projected election victory"
+    excerpt: "Bush and Kasich each ran unsuccessful bids against Trump to secure the GOP nomination during the 2016 cycle."
+    publishedDateTime: 2020-11-07T20:58:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5gkMubdMIxY/trump-rivals-jeb-bush-john-kasich-congratulate-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rivals-jeb-bush-john-kasich-congratulate-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rivals-jeb-bush-john-kasich-congratulate-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 195
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump has no plans to immediately concede election as Biden leads in battlegrounds, source says"
     excerpt: "President Trump does not have plans to immediately concede the election, despite Democratic nominee Joe Biden leading in key states that could deliver him enough electoral votes to declare him the winner of the 2020 presidential race, a senior aide told Fox News. "
     publishedDateTime: 2020-11-06T14:31:20Z

@@ -217,6 +217,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump does not plan to concede any time soon, aides and allies indicate"
+    excerpt: "After the declaration on Saturday that Democrat Joe Biden had won the race for the White House, Republican President Donald Trump and his allies made one thing clear: he does not plan to concede anytime soon."
+    publishedDateTime: 2020-11-07T22:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN27N0YE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0YE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0YE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540387506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60S6"
+        width: 787
+        height: 545
+        isCached: true
   - title: "'I appreciate the advice': After crowd chants 'Fire Fauci!' Trump says to wait until after the election"
     excerpt: "\"Let me wait 'til a little bit after the election, please,\" Trump told the crowd, which had started a resounding chant of \"fire Fauci!\""
     publishedDateTime: 2020-11-02T13:46:00Z
