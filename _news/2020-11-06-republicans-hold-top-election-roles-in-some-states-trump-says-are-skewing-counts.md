@@ -334,6 +334,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Jimmy Carter congratulates President-elect Joe Biden on White House win"
+    excerpt: "The 39th U.S. President, Jimmy Carter, congratulated the 46th President-elect, Joe Biden, on Saturday, saying he is looking forward to \"seeing positive change.\""
+    publishedDateTime: 2020-11-07T20:42:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FG9KLiX0cxM/jimmy-carter-congratulates-president-elect-joe-biden-on-white-house-win"
+    ampWebUrl: "https://www.foxnews.com/politics/jimmy-carter-congratulates-president-elect-joe-biden-on-white-house-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-congratulates-president-elect-joe-biden-on-white-house-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lindsey Graham says he will support Biden's Cabinet choices"
     excerpt: "Staunch ally of President Trump, Sen. Lindsey Graham, R-S.C., said he would work with Democratic presidential nominee Joe Biden to build a Cabinet, if he wins the presidency."
     publishedDateTime: 2020-11-07T02:16:30Z
@@ -381,6 +397,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be367b42-5921-461d-b8a2-7cd1b5de3963/800d4d41-4d0a-4de7-bd12-e9bff97e3c9d/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Top GOPers say to wait for vote counts after Biden projected to beat Trump, others congratulate new president"
+    excerpt: "Some Republicans are insisting that Americans wait for vote counts to be finalized and certified after the Fox News Decision Desk projected that President-elect Biden will beat President Trump and become the 46th president of the United States, while others congratulated Biden on his win Saturday."
+    publishedDateTime: 2020-11-07T20:01:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uyWOZ24HD7Q/top-gopers-say-to-wait-for-vote-counts-after-biden-projected-to-beat-trump-others-congratulate-new-president"
+    ampWebUrl: "https://www.foxnews.com/politics/top-gopers-say-to-wait-for-vote-counts-after-biden-projected-to-beat-trump-others-congratulate-new-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-gopers-say-to-wait-for-vote-counts-after-biden-projected-to-beat-trump-others-congratulate-new-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump decries initial lead that 'miraculously' disappeared, urges Biden not to 'wrongfully claim' White House"
     excerpt: "President Trump on Friday night decried his initial lead in the presidential race that he watched \"miraculously disappear as the days went by.\" "

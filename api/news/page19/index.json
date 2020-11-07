@@ -2,6 +2,120 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-17-whats-really-behind-trumps-i-know-nothing-defense.md",
+      "title": "What's really behind Trump's 'I know nothing' defense",
+      "excerpt": "(CNN)For a guy who brags about having a great memory, President Donald Trump sure has trouble remembering the folks who really like him, which, given his well-documented desire to be loved by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "originalUrl": "https://www.cnn.com/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015173645-trump-rally-crowd-pennsylvania-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/opinions/donald-trump-qanon-dangerous-dantonio/index.html",
+      "publishedDateTime": "2020-10-16T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-laura-ingraham-president-joe-biden-would-be-surrounded-by-lapdogs-in-mainstream-media.md",
+      "title": "Laura Ingraham: President Joe Biden would be 'surrounded by lapdogs' in mainstream media",
+      "excerpt": "Events this week have made it more clear than ever that the mainstream media is Joe Biden's primary campaign communications team, Laura Ingraham claimed Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs",
+      "originalUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3c39a6d-e37a-439e-84b0-f844b788d6a4/3a53338a-e0c8-4d63-bbce-705d0589afc6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs.amp",
+      "publishedDateTime": "2020-10-16T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-kimberly-klacik-reports-64m-in-fundraising-after-trump-shared-her-viral-campaign-video.md",
       "title": "Kimberly Klacik reports $6.4M in fundraising after Trump shared her viral campaign video",
       "excerpt": "Baltimore congressional candidate Kimberly Klacik reported $6.4 million in fundraising after President Trump shared her viral campaign video, which lambasted Democratic leadership in cities with large African American populations.",
@@ -1178,110 +1292,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-end-this-nightmare-rudy-giulianis-daughter-urges-americans-to-vote-for-joe-biden-in-vanity-fair-editorial.md",
-      "title": "'End this nightmare': Rudy Giuliani's daughter urges Americans to vote for Joe Biden in Vanity Fair editorial",
-      "excerpt": "Caroline Giuliani called her father the \"president's personal bulldog,\" and described Trump's time in the White House as a \"reign of terror.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f88b9f19e9fe40019009a62?width=1200&format=jpeg",
-          "width": 733,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-16T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-watch-trumps-reaction-when-a-voter-tells-him-he-has-a-great-smile-during-nbc-news-town-hall.md",
-      "title": "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall",
-      "excerpt": "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10",
-      "originalUrl": "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8909c09e9fe40019009ab8?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp",
-      "publishedDateTime": "2020-10-15T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6168693002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6168693002"
 type: article
 quality: 119
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Historic Barriers Kamala Harris Overcame to Become the First Female, First Black and First Asian American Vice President-Elect"
+    excerpt: "For each of Harris' firsts, the history speaks to the breaking down of barriers that silenced the voices of people of color and women"
+    publishedDateTime: 2020-11-07T20:11:00Z
+    webUrl: "https://time.com/5908579/kamala-harris-historic-vice-president/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 75
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/kamala-harris-campaign.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "A trio of firsts: Projected win busts Kamala Harris through politics' glass ceilings"
     excerpt: "The celebrations for Democrats’ projected White House win Saturday included an outpouring of excitement for presumed Vice President-elect Kamala D. Harris making history."
     publishedDateTime: 2020-11-07T18:38:00Z

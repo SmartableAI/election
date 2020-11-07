@@ -1824,6 +1824,22 @@ related:
         width: 877
         height: 545
         isCached: true
+  - title: "Politicians, World Leaders Extend Congratulations to Joe Biden and Kamala Harris"
+    excerpt: "Both Joe Biden and Kamala Harris have received overwhelming support from public figures and world leaders, as the election was called in the Democratic candidates' favor Saturday."
+    publishedDateTime: 2020-11-07T18:52:00Z
+    webUrl: "https://www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770"
+    ampWebUrl: "https://www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1667116/joe-biden.jpg"
+        width: 2694
+        height: 1848
+        isCached: true
   - title: "Biden targets Trump voters in Pennsylvania with message of economic recovery, unity"
     excerpt: "\"The choice couldn’t be more stark; the stakes couldn’t be higher,\" Biden told supporters in Erie, Pa., during his 11th trip to the battleground state."
     publishedDateTime: 2020-10-11T02:36:00Z

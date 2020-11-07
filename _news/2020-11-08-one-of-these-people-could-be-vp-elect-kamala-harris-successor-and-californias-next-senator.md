@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-su
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
 type: article
 quality: 114
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 840
     height: 587
     isCached: true
+
+related:
+  - title: "Who will replace Kamala Harris in California? Alex Padilla? Eva Longoria?"
+    excerpt: "A group of Latino organizations has lobbied Newsom since August to select Secretary of State Alex Padilla. Such a move would end 170 years without a Latino/a Senator from California. Of course, with wildfires,"
+    publishedDateTime: 2020-11-07T17:35:00Z
+    webUrl: "https://www.sacbee.com/article247039432.html"
+    ampWebUrl: "https://amp.sacbee.com/article247039432.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/article247039432.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 54
 
 secured: "zHb9WMDPHOzgwqrptQAaHrMHEMIKSkjyP4Wefrv2X31CCLzHXQKmL1EfxBtwvut4dCc3OPRsV9GJn6tFIXGIp8aWBqSo0S8A0tRTzG0/tTTJUXTnEmCJ6LkXx98pqeiJoco3eFywdcWVL3GijFFHnTLY+ctROTnQo322W1ZWiuNCX2h8jAtiCN1/ezcft/1Jx9RnPFXaDWKLQ3x2L+FyH1Hf1ed+auCcJUIpY4XkRa2V3TZk0mgjVpJd8EoY0yyCOs03aVA2bjJcrS9ThmBCjkCCilnZT/V1HfQnKI6ERF7nftzvMcZ/C3Qc2TkxVAgOFQPJP+pNkSXW4029h/hhHH3W5H6KstZgJNP5fyMapYw=;BGvtwo9NYLJv/DXyxK32TQ=="
 ---

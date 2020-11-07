@@ -2,6 +2,106 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-29-mike-pence-in-wilmington-choice-is-whether-america-remains-america.md",
+      "title": "Mike Pence in Wilmington: Choice is 'Whether America remains America'",
+      "excerpt": "The vice president spoke during a campaign visit to Wilmington where he addressed the current administration's record and urged attendants to vote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.starnewsonline.com/story/news/2020/10/27/vice-president-mike-pence-holds-rally-wilmington/6047599002/",
+      "originalUrl": "https://www.starnewsonline.com/story/news/2020/10/27/vice-president-mike-pence-holds-rally-wilmington/6047599002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/28/NSTN/bcc67ab6-2a37-4a48-a380-5dbd588ecad8-NCWIL-102720-PG-PENCE32.JPG?auto=webp&crop=1999,1125,x0,y135&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.starnewsonline.com/amp/6047599002",
+      "cdnAmpWebUrl": "https://amp-starnewsonline-com.cdn.ampproject.org/c/s/amp.starnewsonline.com/amp/6047599002",
+      "publishedDateTime": "2020-10-29T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Star-News",
+        "domain": "starnewsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally.md",
+      "title": "Watch: Trump rushes Sen. Martha McSally on stage during Arizona rally",
+      "excerpt": "During a campaign rally in Goodyear, Ariz., President Donald Trump rushed Republican Senator Martha McSally on stage to speak. McSally is in a close Senate race with her Democratic challenger astronaut Mark Kelly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally-94906437729",
+      "originalUrl": "https://www.nbcnews.com/video/watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally-94906437729",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/f_mo_mcsally_trump_201029.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo94906437729",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94906437729",
+      "publishedDateTime": "2020-10-29T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-they-call-themselves-wives-of-the-deplorables-because-their-husbands-support-trump.md",
       "title": "They call themselves 'Wives of the Deplorables' because their husbands support Trump",
       "excerpt": "Carole Catherine did not know her husband, Tim, supported Donald Trump until the day after Hillary Clinton lost the 2016 election. She called him the next morning crying.\n    \n",
@@ -1249,101 +1349,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-biden-addresses-violence-in-philadelphia-no-excuse-for-looting.md",
-      "title": "Biden addresses violence in Philadelphia: 'No excuse' for looting",
-      "excerpt": "Democratic presidential nominee Joe Biden on Wednesday addressed the recent violence in Philadelphia over the police killing of Walter Wallace Jr., telling reporters that the death is not an excuse for looting or criminal activity.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting",
-      "originalUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_10282020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp",
-      "publishedDateTime": "2020-10-28T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-justice-clarence-thomas-wife-boosts-unsupported-claims-against-joe-biden.md",
-      "title": "Justice Clarence Thomas’ wife boosts unsupported claims against Joe Biden",
-      "excerpt": "Other spouses of justices have their own professional lives, but Ginni Thomas is the only one whose work sometimes butts up against her husband’s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/28/supreme-court-justices-wife-boosts-unsupported-claims-joe-biden/6055985002/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/28/supreme-court-justices-wife-boosts-unsupported-claims-joe-biden/6055985002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/28/USAT/e05da220-1768-4557-8852-3141907929e8-AP_Supreme_Court_Thomas_Wife.jpg?auto=webp&crop=4372,2460,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/6055985002",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6055985002",
-      "publishedDateTime": "2020-10-28T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

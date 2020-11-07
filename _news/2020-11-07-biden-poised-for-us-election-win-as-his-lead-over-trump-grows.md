@@ -1647,6 +1647,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump to Biden transition could be rockier than most, some experts worry"
+    excerpt: "U.S. law maps out clear instructions for an orderly transfer of power from one president to the next, but Joe Biden's path is expected to be rockier than most of his modern-day predecessors."
+    publishedDateTime: 2020-11-07T20:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-transition-idUSKBN27N0V8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0V8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0V8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540381175&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60PQ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "With time running out, Trump to launch attacks on Biden's family at debate"
     excerpt: "U.S. President Donald Trump is expected to come out swinging in Thursday's final presidential debate with Democratic rival Joe Biden to try to close a gap in opinion polls before an election 12 days away."
     publishedDateTime: 2020-10-23T01:15:00Z
@@ -1950,6 +1966,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe2_102202020_0.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Police cordoned off Trump Tower in New York City after Biden won the presidency"
+    excerpt: "After major US media news outlets called the presidential race for Biden, police secured a portion of Manhattan's Fifth Avenue near Trump Tower."
+    publishedDateTime: 2020-11-07T19:09:00Z
+    webUrl: "https://www.businessinsider.com/police-trump-tower-new-york-city-biden-won-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/police-trump-tower-new-york-city-biden-won-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-trump-tower-new-york-city-biden-won-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 136
+    images:
+      - url: "https://i.insider.com/5fa6e85ef7d1cb0019e3a63f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump has 87% chance of winning the election, stock market researcher says"
     excerpt: "History suggests the rise of the stock market in the past three years bodes well for the president's reelection chances."
@@ -7549,6 +7581,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "AZFG1BpzBR3k2hkCqh3/4LWuT10d3RaZ3x24yFrVE76bMgdotWC34R9FbeDZcffdHfgSSpRhpYup/R5LL/2fjuXKyq2p2IiZJn6YbA42zoMpK6rvr/e2ALIzbO+6akwcrtqGnYHGiRP+Z+DO2oSm83ZnT1kK3e3KImhAarvXs/iyzVkQLrSyyha+JCWB5bFjWkttgTXHeD98H+bC5xZTtMgaXnkD7jIw4xeg0aojhX1Y2q5vrX94KuY8uIMCm/wXK9ajIbQcSNpIwRUFEbK6UAbigkOIxRZmImy5SEXXfVhhconvg/xXKI1eRa4xl06Zn0CgIMprBEPJCaHzse9tBG9QT6a/XJ13ADdOKhMqfTs=;M+lot4ILOp2B6tDCOY1G/A=="
+secured: "o9tYrtYtJDRKKib3pwo1tbw1NMcSUkC6jD1YsJ2YWjwDu75/WQAKSAqkpXNnmNAxIy+BGkepcMgDhCb8hwkWc5L37M1Pju4urx+OaxyoVa6+FBDo9jff5fKM4FzCEhtLW+m4byexzoHxyYv1WOqc8YHxwyV7osGJymQoIa6Mkj2GV10JVSEg4ZwqpuRWiMptzN+e7O7Hcbb8cabOE4jCDb4Q4/XP1jOtf3sWyM0PvtPOUZ0A/SopKCPjVr8egL29p9T52jT2w0Rel+yvDXgEk1UDW9qG8ALVlQP64hoGLr67RBp7G/kxiXUbWLgv4d3IyNAOsp9VQnTolv4I+Plo962DQUp6YZWpqaHrzfm06ycwI6JWnQfdZm0O5i0epp6S4GthR4a7U31y56UtztvlDhAgFXP51gfh58cEYhkPSIbYvI+IkDNHGW36FmRTzsZ1wWJmxDp188nc2iwCISUbeuzBTRnHiSenTOkJeq0p5CKQtS6CUNpFpVBg1WsWm4QgAscCMuAbWDNUsxmHyrGcpw==;aZaCqQX/QrfnWWeON1sD7Q=="
 ---
 

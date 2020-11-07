@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Factbox: Congratulations for Biden from America's politicians and celebrities"
+    excerpt: "Former U.S. presidents, politicians from both Republican and Democratic parties and celebrities congratulated Democrat Joe Biden on Saturday for winning the U.S. presidential election over Republican incumbent Donald Trump."
+    publishedDateTime: 2020-11-07T20:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-congratulations-factbox-idUSKBN27N0WO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0WO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0WO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540383713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60QP"
+        width: 814
+        height: 545
+        isCached: true
   - title: "Biden begins his Election Day at Delaware church"
     excerpt: "Joe Biden is starting Election Day with a visit to church - and his son, Beau. (Nov. 3) AP Domestic. More Videos"
     publishedDateTime: 2020-11-04T01:29:00Z

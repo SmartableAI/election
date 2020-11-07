@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-07-bidens-inauguration-during-covid-19-what-the-january-event-could-look-like.md",
+      "title": "Biden's inauguration during COVID-19: What the January event could look like",
+      "excerpt": "Construction is already underway in Washington, D.C., in preparation for the presidential inauguration on Jan. 20, 2021. The date is set by the U.S. Constitution's 20th Amendment.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7gI8yaX7WO4/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7gI8yaX7WO4/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/SS-Chap001_fig001_9780063011243.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp",
+      "publishedDateTime": "2020-11-07T12:40:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-flashback-trump-in-october-said-could-you-imagine-if-i-lose.md",
+      "title": "Flashback: Trump in October said, 'Could you imagine if I lose?'",
+      "excerpt": "President Trump mocked the idea of losing to former Vice President Joe Biden during a campaign rally less than a month before Election Day, pointing to rival Joe Biden as the \"worst candidate in the history of presidential politics.\" ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3PDf4AQ6o2g/flashback-trump-in-october-could-you-imagine-if-i-lose",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3PDf4AQ6o2g/flashback-trump-in-october-could-you-imagine-if-i-lose",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/894e4893-60bc-44d1-9a2a-992bc507bd03/a6a063e7-81ee-4639-9a91-04cee56bee22/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flashback-trump-in-october-could-you-imagine-if-i-lose.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-trump-in-october-could-you-imagine-if-i-lose.amp",
+      "publishedDateTime": "2020-11-07T12:17:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-photos-after-biden-declared-president-crowds-take-to-streets-in-nyc-washington-dc.md",
       "title": "PHOTOS: After Biden declared president, crowds take to streets in NYC, Washington, DC",
       "excerpt": "",
@@ -31,62 +143,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/photos-election-reaction-crowds.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/photos-election-reaction-crowds.amp",
       "publishedDateTime": "2020-11-07T10:51:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-michigan-gov-whitmer-congratulates-biden-pledges-to-beat-common-enemy-covid-19.md",
-      "title": "Michigan Gov. Whitmer congratulates Biden, pledges to beat 'common enemy' COVID-19",
-      "excerpt": "“Now, with the election behind us, it is time for the American people to unite against our common enemy: COVID-19,” Whitmer said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qbV_RtR7axU/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qbV_RtR7axU/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus.amp",
-      "publishedDateTime": "2020-11-07T10:39:44-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -182,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1065,
+      "heat": 1105,
       "tags": null,
       "images": [
         {
@@ -407,7 +463,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1601,63 +1657,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-in-st-petersburg-fla-trumps-character-is-in-focus.md",
-      "title": "In St. Petersburg, Fla., Trump's Character Is in Focus",
-      "excerpt": "With millions of Floridians having already voted, the Election Day line quickly diminished outside the largest polling location in St. Petersburg, Fla. The city resides in Pinellas County, one of the bellwether counties in the country's largest battleground state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
-      "originalUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-254027?size=1.5",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

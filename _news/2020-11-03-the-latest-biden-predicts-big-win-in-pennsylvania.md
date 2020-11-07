@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-trump-set-spend
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-trump-set-spend-election-night-white-house-73970437"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/60ae7f65-176e-46d9-a5dd-2831854f8ffd/thumbnail/1200x630/2e33e3d31d7c951051b6894dc930ccb8/cbsn-fusion-joe-biden-overtakes-president-trump-in-pennsylvania-and-georgia-thumbnail-583017-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "What put Biden over the edge in Pennsylvania"
+    excerpt: "Watch \"What put Biden over the edge in Pennsylvania\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-07T20:37:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201107200245-what-put-biden-over-the-edge-in-pennsylvania/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07595815_1604781064.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
     excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."

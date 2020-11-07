@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671"
 type: article
 quality: 153
-heat: 2693
+heat: 2713
 published: true
 
 provider:
@@ -542,6 +542,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/2020-election-day-4-07-supreme-court-ap-jc-201106_1604711320625_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "World leaders congratulate Joe Biden and Kamala Harris on their victory in the 2020 presidential election"
+    excerpt: "The former vice president has decades worth of foreign policy experience and is no stranger to diplomatic leaders across the world."
+    publishedDateTime: 2020-11-07T19:36:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-presidential-win-reactions-world-leaders-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-presidential-win-reactions-world-leaders-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-presidential-win-reactions-world-leaders-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 138
+    images:
+      - url: "https://i.insider.com/5fa6f492f7d1cb0019e3a64c?width=1200&format=jpeg"
+        width: 689
+        height: 344
         isCached: true
   - title: "Biden Trounces Trump In Final Tally Of Major Newspaper Endorsements: 47 To 7"
     excerpt: "The former vice president even won the backing of several major publications that have never made a presidential endorsement."

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Historic Barriers Kamala Harris Overcame to Become the First Female, First Black and First Asian American Vice President-Elect"
+    excerpt: "For each of Harris' firsts, the history speaks to the breaking down of barriers that silenced the voices of people of color and women"
+    publishedDateTime: 2020-11-07T20:11:00Z
+    webUrl: "https://time.com/5908579/kamala-harris-historic-vice-president/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 75
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/kamala-harris-campaign.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "Cr1Wa3DRkbQr2PIZNIMyFhQ9RW/mdjr9oQyKDhxaSIpQqB0JsiZrxrXL6uwiKlVJhSJLsZUpXptRwLNOyUiNeQzJaBQL0lJrlwsbbzwpX9fzAdYOiOMB3ZJnRFQvOSJ5/UlLr8AxeB9wUdcvAs38DOlVnW6YqGdY4zoNOx7hpHKwffTV1lT60dKq6hPGLUxEZhPNStpn1UPcjcfnz53/OlRXlnDkUmQk7EbeGBeCocO4RVmYOdZQW7s8FVmcLCMhFn2wM6Sjd2aIAMBOALnkyDlL/xbWkKbISGU1KFha3QzMEp/LNuKbb3Qas2eBWsRq9nxjAW3ohtf5ysELHnBkw/iitPNftDGfV0St7dnITYI=;wwtDRSJg+o9soVSFGPdE9A=="
 ---

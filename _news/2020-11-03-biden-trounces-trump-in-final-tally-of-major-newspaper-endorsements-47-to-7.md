@@ -559,6 +559,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "World leaders congratulate Joe Biden and Kamala Harris on their victory in the 2020 presidential election"
+    excerpt: "The former vice president has decades worth of foreign policy experience and is no stranger to diplomatic leaders across the world."
+    publishedDateTime: 2020-11-07T19:36:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-presidential-win-reactions-world-leaders-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-presidential-win-reactions-world-leaders-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-presidential-win-reactions-world-leaders-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 138
+    images:
+      - url: "https://i.insider.com/5fa6f492f7d1cb0019e3a64c?width=1200&format=jpeg"
+        width: 689
+        height: 344
+        isCached: true
   - title: "Biden gains ground in White House vote count as Trump mounts legal challenges"
     excerpt: "Democrat Joe Biden edged closer to victory in the U.S. presidential race on Thursday as election officials tallied votes in the handful of states that will determine the outcome and protesters took to the streets."
     publishedDateTime: 2020-11-05T13:43:00Z

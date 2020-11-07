@@ -170,6 +170,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Michelle Obama congratulates Biden and Harris: 'I'm beyond thrilled'"
+    excerpt: "Democrats have \"a lot of work to do\" to \"connect\" with Trump voters, Michelle Obama said."
+    publishedDateTime: 2020-11-07T19:37:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ceSMw705cCI/michelle-obama-biden-harris-president-congratulations-message"
+    ampWebUrl: "https://www.foxnews.com/politics/michelle-obama-biden-harris-president-congratulations-message.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michelle-obama-biden-harris-president-congratulations-message.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/AP20231109442674.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Obama congratulates Biden and Harris: 'Couldn't be prouder'"
     excerpt: "Barack Obama congratulated his former vice president, Joe Biden, and his running mate, Sen. Kamala Harris, after Biden was projected to win the presidency Saturday."
     publishedDateTime: 2020-11-07T18:43:08Z
@@ -448,6 +464,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCh-8INjmIM/dem-squad-biden-harris-aoc-ihan-omar-rashida-tlaib"
     ampWebUrl: "https://www.foxnews.com/politics/dem-squad-biden-harris-aoc-ihan-omar-rashida-tlaib.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-squad-biden-harris-aoc-ihan-omar-rashida-tlaib.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris makes history as first female, Black vice president"
+    excerpt: "Kamala Harris cemented her place in history on Saturday, becoming the first woman, and the first woman of color, to be elected as vice president of the United States. "
+    publishedDateTime: 2020-11-07T20:36:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bmkKkGZKF3E/kamala-harris-makes-history-first-female-black-vice-president"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-makes-history-first-female-black-vice-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-makes-history-first-female-black-vice-president.amp"
     type: article
     provider:
       name: Fox News
@@ -949,6 +981,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Chrissy-Teigen-Kamala-Harris-AP-Reuters.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Kamala Harris makes history as first female, Black vice president"
+    excerpt: "Kamala Harris cemented her place in history on Saturday, becoming the first woman, and the first woman of color, to be elected as vice president of the United States."
+    publishedDateTime: 2020-11-07T20:51:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-makes-history-first-female-black-vice-president"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-makes-history-first-female-black-vice-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-makes-history-first-female-black-vice-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "What happens to Kamala Harris' Senate seat now?"
     excerpt: "Democratic Gov. Gavin Newsom will appoint someone to serve out the remainder of the vice president-elect's term, which ends in 2022."

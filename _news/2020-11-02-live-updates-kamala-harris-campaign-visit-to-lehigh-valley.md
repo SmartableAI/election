@@ -116,6 +116,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 130
+  - title: "Watch Live: President-elect Joe Biden and Vice President-elect Kamala Harris to deliver remarks"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are expected to deliver remarks on Saturday, after winning the requisite electoral votes to win the presidential election. CBS News projected this morning that Biden will win the state of Pennsylvania,"
+    publishedDateTime: 2020-11-07T17:40:00Z
+    webUrl: "https://www.cbsnews.com/news/president-elect-joe-biden-vice-president-elect-kamala-harris-watch-live-stream-2020-11-07/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/president-elect-joe-biden-vice-president-elect-kamala-harris-watch-live-stream-2020-11-07/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-elect-joe-biden-vice-president-elect-kamala-harris-watch-live-stream-2020-11-07/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 128
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/bbf04add-16bf-4c59-905d-87df7957bc74/thumbnail/1200x630g2/f07e3884e4e5f0ab5e308ff6256cc6e2/rtx7ozua.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Banners and prayers for Kamala Harris in her ancestral Indian village"
     excerpt: "A big banner of U.S. vice presidential candidate Kamala Harris welcomes visitors to Thulasendrapuram, a lush, green south Indian village that is praying for her Democratic Party's victory in the Nov."
     publishedDateTime: 2020-10-27T12:54:00Z
@@ -308,6 +324,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden is only the fifteenth Vice President in history to become President"
+    excerpt: "Vice President Joe Biden will become only the 15th vice president to make his way up to the hallowed position of the presidency. Pennsylvania was called for Biden by the Associated Press at around 11:30 a."
+    publishedDateTime: 2020-11-07T19:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/07/biden-harris-win-2020-election-biden-15th-vp-ever-president/6204266002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6204266002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204266002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Where is California native Kamala Harris spending Election Day?"
     excerpt: "Kamala Harris is spending part of her last day on the campaign trail in Detroit. She'll be touring the Motor City on Election Day, encouraging supporters to go to the polls, according to reports. The California native's last-minute visit in Michigan signals the importance of this state."
     publishedDateTime: 2020-11-03T19:17:00Z
@@ -459,6 +491,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539811808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA213Y"
         width: 818
         height: 545
+        isCached: true
+  - title: "Kamala Harris's husband tweets photo of couple after presidential race called: 'So proud of you'"
+    excerpt: "Vice President-elect Kamala Harris’s husband, Doug Emhoff, went viral on Saturday after sharing a photo of the couple embracing after the race for the White House was called for President-elect Joe Biden."
+    publishedDateTime: 2020-11-07T19:05:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/524959-kamala-harriss-husband-tweets-photo-of-couple-after"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/524959-kamala-harriss-husband-tweets-photo-of-couple-after?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/524959-kamala-harriss-husband-tweets-photo-of-couple-after?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 112
+    images:
+      - url: "https://thehill.com/sites/default/files/emhoffdoug_110720twitter.png"
+        width: 980
+        height: 551
         isCached: true
   - title: "Kamala Harris makes history, becoming the first Black woman and South Asian elected Vice President"
     excerpt: "Kamala Harris made history Saturday as the first Black woman elected as vice president of the United States, shattering barriers that have kept men — almost all of them white — entrenched at the highest levels of American politics for more than two centuries."
@@ -678,6 +726,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden win seen as green light for women's reproductive rights"
+    excerpt: "Democrat Joe Biden as U.S. president will bring sweeping changes to women's reproductive rights globally, starting with overturning a U.S. policy banning government-funded aid groups from mentioning abortion,"
+    publishedDateTime: 2020-11-07T18:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-women-abortion/biden-win-seen-as-green-light-for-womens-reproductive-rights-idUSL1N2HO51V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0SG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0SG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Biden moves ahead in Georgia and Pennsylvania, moving closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to"
     publishedDateTime: 2020-11-06T14:54:00Z

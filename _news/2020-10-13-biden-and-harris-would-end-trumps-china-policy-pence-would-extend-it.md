@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10740
+heat: 10760
 published: true
 
 provider:
@@ -1807,6 +1807,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201014&t=2&i=1537497533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9D1RP"
         width: 877
         height: 545
+        isCached: true
+  - title: "Politicians, World Leaders Extend Congratulations to Joe Biden and Kamala Harris"
+    excerpt: "Both Joe Biden and Kamala Harris have received overwhelming support from public figures and world leaders, as the election was called in the Democratic candidates' favor Saturday."
+    publishedDateTime: 2020-11-07T18:52:00Z
+    webUrl: "https://www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770"
+    ampWebUrl: "https://www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1667116/joe-biden.jpg"
+        width: 2694
+        height: 1848
         isCached: true
   - title: "Mike Pence and Kamala Harris Face-Off Tonight. Here's What to Expect From the Vice Presidential Debate"
     excerpt: "Pence will defend Donald Trump's response to COVID-19, while Harris will be asked to navigate outsized expectations"

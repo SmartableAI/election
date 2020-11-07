@@ -2,6 +2,105 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-21-blackburn-trump-should-focus-on-his-incredible-record-at-presidential-debate-not-biden-inc.md",
+      "title": "Blackburn: Trump should focus on his 'incredible record' at presidential debate, not 'Biden Inc.'",
+      "excerpt": "President Trump should focus on his own accomplishments during Thursday night's second and final presidential debate against Joe Biden, Sen. Marsha Blackburn, R-Tenn., told \"Special Report\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tBqtjIl9JDM/presidential-debate-trump-biden-incorporated-marsha-blackburn",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tBqtjIl9JDM/presidential-debate-trump-biden-incorporated-marsha-blackburn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a0259c0-cd63-451e-9bfc-4b10f89422b0/6f81371c-788e-4c73-85c3-98b4d445127d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp",
+      "publishedDateTime": "2020-10-21T16:27:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-obama-endorses-espy-in-mississippi-trump-backs-hyde-smith.md",
+      "title": "Obama endorses Espy in Mississippi; Trump backs Hyde-Smith",
+      "excerpt": "Mike Espy has a great chance to win this election for the Senate and keep Mississippi moving forward,\" Obama said in a radio ad and the text of a fundraising appeal. Espy was U.S. agriculture secretary under President Bill Clinton,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php",
+      "originalUrl": "https://www.chron.com/news/article/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php",
+      "publishedDateTime": "2020-10-21T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-trump-campaign-nevada-gop-threaten-to-sue-clark-county-over-attempts-to-obstruct-election-observation.md",
       "title": "Trump campaign, Nevada GOP threaten to sue Clark County over attempts to ‘obstruct’ election observation",
       "excerpt": "The campaign and state Republicans claim that observers have been banned from certain areas where ballots are handled.",
@@ -1184,119 +1283,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-abruptly-ends-60-minutes-interview-before-taping-joint-appearance-with-pence.md",
-      "title": "Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence",
-      "excerpt": "President Donald Trump abruptly ended a solo interview with CBS News' \"60 Minutes\" Tuesday and did not return for an appearance he was supposed to tape with Vice President Mike Pence, according to multiple sources familiar with what happened.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYSwD5qaplc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYSwD5qaplc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 493,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201019175506-donald-trump-october-18-2020-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html",
-      "publishedDateTime": "2020-10-20T14:23:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-activist-group-plans-widespread-disruptive-election-activities-to-thwart-potential-trump-coup.md",
-      "title": "Activist group plans widespread, ‘disruptive’ election activities to thwart potential Trump ‘coup’",
-      "excerpt": "'Trump will not leave office without mass mobilization and direct action,' the group says on its website.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqI-lfacqow/activist-group-election-protests-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqI-lfacqow/activist-group-election-protests-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7786f99-ad7f-4cdb-bd56-8793a0d5fd0b/505220a6-fdbe-42af-9fb5-742193594d08/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/activist-group-election-protests-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/activist-group-election-protests-trump.amp",
-      "publishedDateTime": "2020-10-20T13:39:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

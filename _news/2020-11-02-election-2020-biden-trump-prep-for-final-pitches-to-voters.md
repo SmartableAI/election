@@ -1024,6 +1024,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: The triumphant grief of Joe Biden"
+    excerpt: "When the news (finally) broke on Saturday morning that Joe Biden had defeated Donald Trump and claimed the presidency, two images of the now President-elect flashed through my mind.\n    \n"
+    publishedDateTime: 2020-11-07T19:02:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A1N0VGfZ4FY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/president-elect-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/president-elect-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103122551-01-joe-biden-1103-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump misleads on Trump's health care record in joint campaign stop"
     excerpt: "First lady Melania Trump pitched President Donald Trump as a tireless warrior for health care at a rally on Thursday, claiming that health care for every citizen is his priority, even though his administration has worked to dismantle the Affordable Care Act since he took office.\n    \n"
     publishedDateTime: 2020-10-29T23:00:39Z
@@ -1375,6 +1391,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/01/us/01whatwerewatching/merlin_179264163_08780b32-0336-45c6-9e14-d6f3836afff6-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Kamala Harris congratulates Joe Biden on their election victory"
+    excerpt: "Vice President-elect Kamala Harris called President-elect Joe Biden to congratulate him on their victory in the 2020 US election."
+    publishedDateTime: 2020-11-07T20:21:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2020/11/07/kamala-harris-vice-president-elect-calls-joe-biden-2020-us-election-postelex-ldn-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/07/kamala-harris-vice-president-elect-calls-joe-biden-2020-us-election-postelex-ldn-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/07/kamala-harris-vice-president-elect-calls-joe-biden-2020-us-election-postelex-ldn-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107124755-11-biden-reax-kamala-call-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Election live updates: Biden, Trump campaigns push in battleground states"
     excerpt: "With only nine days until Election Day, the campaigns for both President Donald Trump and Democratic nominee Joe Biden are ramping up their public events in battleground states in their final full week on the trail."
@@ -2521,6 +2553,38 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/07/us/politics/07election-legal1-sub/06election-legal1-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Overseas, Biden Victory Brings Sighs of Relief"
+    excerpt: "Foreign leaders showered the president-elect with congratulations. For many, the importance of this election was as much about removing Mr. Trump as ushering in Mr. Biden."
+    publishedDateTime: 2020-11-07T20:40:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/world/americas/biden-international-reaction.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/world/americas/biden-international-reaction.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/world/americas/biden-international-reaction.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/06/world/06global-reacts-2/06global-reacts-2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "With President-Elect Joe Biden, ‘the Long National Nightmare Is Over’"
+    excerpt: "I am writing this with tears of joy streaming down my face,” a reader told us. And he is not alone: a sampling of the early reaction."
+    publishedDateTime: 2020-11-07T20:29:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/opinion/letters/with-president-elect-joe-biden-the-long-national-nightmare-is-over.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/opinion/letters/with-president-elect-joe-biden-the-long-national-nightmare-is-over.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/opinion/letters/with-president-elect-joe-biden-the-long-national-nightmare-is-over.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/politics/06biden-transition-1/merlin_179586213_c3fd24a0-50dc-4bb2-a788-843bc2c22da6-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true

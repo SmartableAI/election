@@ -1809,6 +1809,22 @@ related:
         width: 877
         height: 545
         isCached: true
+  - title: "Politicians, World Leaders Extend Congratulations to Joe Biden and Kamala Harris"
+    excerpt: "Both Joe Biden and Kamala Harris have received overwhelming support from public figures and world leaders, as the election was called in the Democratic candidates' favor Saturday."
+    publishedDateTime: 2020-11-07T18:52:00Z
+    webUrl: "https://www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770"
+    ampWebUrl: "https://www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1667116/joe-biden.jpg"
+        width: 2694
+        height: 1848
+        isCached: true
   - title: "Mike Pence and Kamala Harris Face-Off Tonight. Here's What to Expect From the Vice Presidential Debate"
     excerpt: "Pence will defend Donald Trump's response to COVID-19, while Harris will be asked to navigate outsized expectations"
     publishedDateTime: 2020-10-07T10:06:00Z

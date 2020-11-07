@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "YouTube won't take down video falsely claiming Donald Trump won the election"
+    excerpt: "Not removing videos with false information could sow doubts about the election and even incite violence, critics say."
+    publishedDateTime: 2020-11-07T19:40:00Z
+    webUrl: "https://www.cbsnews.com/news/youtube-disinformation-2020-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/youtube-disinformation-2020-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/youtube-disinformation-2020-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 137
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2018/04/26/a94b1199-056b-47ac-b272-681ccbc8f949/thumbnail/1200x630/0007a00ff914d58ceb1b2ce81dd888e1/rtx24hqc.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why Trump's fake victory speech was the worst and most dangerous TV of election night 2020"
     excerpt: "President Donald Trump's lies claiming premature victory over Joe Biden in the presidential election were his worst. Media rightly called him out."
     publishedDateTime: 2020-11-05T04:56:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/04/PDTF/f091d62a-2fe0-48c7-b465-baefdb94fd66-AP20309302971075.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Chinese state media laughed at Trump after he falsely claimed victory in the 2020 election"
+    excerpt: "Trump has so far not accepted the results of the election, falsely claiming that he won the race just before major networks called it for Biden Saturday."
+    publishedDateTime: 2020-11-07T18:52:00Z
+    webUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
+    images:
+      - url: "https://i.insider.com/5fa6e7bdf7d1cb0019e3a63d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donations to Trump's election legal fund would also go towards paying off his campaign's debt"
     excerpt: "On a donation page for Trump's \"Official Election Defense Fund,\" the fine print says 60% will go towards paying off the campaign's debt."
@@ -110,6 +142,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/8180f174-a565-4c3d-b9d2-788be32f5164/thumbnail/1200x630/4cf0bb67e8323ce21d5569410f9a527d/gettyimages-1229411509.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "In First Public Appearance After Election Loss, Trump Poses For Photos With Bride At His Golf Club"
+    excerpt: "The President has been playing golf at the Trump National Golf Course in Sterling, Virginia since Saturday morning."
+    publishedDateTime: 2020-11-07T20:34:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2020/11/07/in-first-public-appearance-after-election-loss-trump-poses-for-photos-with-bride-at-his-golf-club/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/11/07/in-first-public-appearance-after-election-loss-trump-poses-for-photos-with-bride-at-his-golf-club/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/11/07/in-first-public-appearance-after-election-loss-trump-poses-for-photos-with-bride-at-his-golf-club/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 126
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa703af94580771e55f0e92%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1050%26cropY1%3D53%26cropY2%3D643"
+        width: 1050
+        height: 590
         isCached: true
   - title: "Can Trump 'Fire Fauci'? Not easily, but he could make it messy"
     excerpt: "Can President Trump fire Dr. Anthony Fauci as he suggested he might do after the election? Not easily, but he could make it messy."

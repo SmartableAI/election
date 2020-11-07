@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "After years of unrelenting attacks, many immigrants breathe a sigh of relief with Biden victory"
+    excerpt: "For nearly four years, the Trump administration gradually, and swiftly, choked off immigration to the United States, making it exceedingly difficult for people to come to the country to study, work, and seek refuge.\n    \n"
+    publishedDateTime: 2020-11-07T18:55:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p2QpkmlxPkk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/immigrants-daca-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/immigrants-daca-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200721091458-01-daca-supreme-court-decision-0618-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Exclusive: Warren will make case to be Biden's Treasury secretary"
     excerpt: "Warren's move could set up a marquee fight over what will be one of the most consequential Cabinet roles in a Biden administration."
     publishedDateTime: 2020-10-29T21:35:00Z

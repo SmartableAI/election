@@ -176,6 +176,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Michelle Obama congratulates Biden and Harris: 'I'm beyond thrilled'"
+    excerpt: "Democrats have \"a lot of work to do\" to \"connect\" with Trump voters, Michelle Obama said."
+    publishedDateTime: 2020-11-07T19:37:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ceSMw705cCI/michelle-obama-biden-harris-president-congratulations-message"
+    ampWebUrl: "https://www.foxnews.com/politics/michelle-obama-biden-harris-president-congratulations-message.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michelle-obama-biden-harris-president-congratulations-message.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/AP20231109442674.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Obama congratulates Biden and Harris: 'Couldn't be prouder'"
     excerpt: "Barack Obama congratulated his former vice president, Joe Biden, and his running mate, Sen. Kamala Harris, after Biden was projected to win the presidency Saturday."
     publishedDateTime: 2020-11-07T18:43:08Z
@@ -454,6 +470,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCh-8INjmIM/dem-squad-biden-harris-aoc-ihan-omar-rashida-tlaib"
     ampWebUrl: "https://www.foxnews.com/politics/dem-squad-biden-harris-aoc-ihan-omar-rashida-tlaib.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-squad-biden-harris-aoc-ihan-omar-rashida-tlaib.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris makes history as first female, Black vice president"
+    excerpt: "Kamala Harris cemented her place in history on Saturday, becoming the first woman, and the first woman of color, to be elected as vice president of the United States. "
+    publishedDateTime: 2020-11-07T20:36:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bmkKkGZKF3E/kamala-harris-makes-history-first-female-black-vice-president"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-makes-history-first-female-black-vice-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-makes-history-first-female-black-vice-president.amp"
     type: article
     provider:
       name: Fox News
@@ -956,6 +988,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris makes history as first female, Black vice president"
+    excerpt: "Kamala Harris cemented her place in history on Saturday, becoming the first woman, and the first woman of color, to be elected as vice president of the United States."
+    publishedDateTime: 2020-11-07T20:51:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-makes-history-first-female-black-vice-president"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-makes-history-first-female-black-vice-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-makes-history-first-female-black-vice-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden campaign says it can win White House without Florida or Pennsylvania"
     excerpt: "Joe Biden’s campaign says the Democratic presidential nominee can defeat President Trump and win the White House even without carrying two crucial battlegrounds – Florida and Pennsylvania."
     publishedDateTime: 2020-11-03T21:54:00Z
@@ -1125,6 +1173,6 @@ related:
       domain: washingtonexaminer.com
     quality: 46
 
-secured: "x9eT5bnYflCIAZtyMUgXEdBra3J5D+a6QmOhi7o6MDv4JzPxbeQ9rirbNj3HXjbxUzsGYQVv/vmZ2hWl/G2FGN9rrxmdCnPHhfB0VUH3Vra/7iB0Bdpex4vJWQ4W0AKBJm/JzS8sEIMRgaKfz+YuYslLUjJJ2bMTULMgmPlBmizksZdwQt41R1xngHCj6+/5V1xq66WoIzjdiBs8dKVYzwu4SVAuKCc7e730lzz8TgdgH/xvLB58QKOx2zjFWFcBLq4RW8pMzJ6Vzia8SF9wnELuLRmRGF3B/oCeLyC3qALPD6J6hOeryiEtJ4r4HtaGW+BQL5Ic2DzkgtyBjTrC+1vJmttOfXCM3Cx6C6umMdQ=;ODNwyIVONYKv27P46BZC4Q=="
+secured: "ld5mcBzceZQ279RRRkUwqQ+F3ZIBBjWFfRzK5COVPy/nXzkmHpuDk79bfNALnFOKjIy8cYCZfvD4AlSKY6Z95MZleNivSnkMVrxtBXqkXYY5l3iXUaJ8PQJma4fkdW6+zGFc6WwtCpkMU4haK15ZxWG+95Au36ec0aqSXN92DrdMS7t/vuW4+B/munAMA8MyjKrQ5+Jz+wBsWogqxfhqzXLl9kqxeq8sjpaMgXl0RZE8SUwRT2blKB6XjXIYlU41duXZ+s6jnxWbL2xYFL1xq0NNEgE2niUZQIOjz4OYq5zRsg7s19/zseepQL5AWbTTRHzb/KYuOnFb79Ca0blUmCVFaKjmbYFCD8wlYMD8FwGqTgan6hW3lA4r2NYy3/OgDSOTabL27USLjdS6rysJWvZqk676X36KmyvIHN7FaUibAlhWBtThaFVLLlyoFvMWhqkqHKx0w8c+3x+8KH8TUMwkO3sqSJ5KpPKMw0NDFRLaa6C+mHoPMUP/A52TnBB6QigowdaepqOlPFTPwkHsyg==;pt3FfCvqgu43NNmeCe0npw=="
 ---
 
