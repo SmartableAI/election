@@ -714,22 +714,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Joe Biden Fends Off President Trump’s 2016 Playbook"
-    excerpt: "Despite attacks, the Democratic nominee has a higher favorability rating than either the president or Hillary Clinton had in 2016."
-    publishedDateTime: 2020-10-20T13:20:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-246853/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Brian Arbour: Everybody likes Joe Biden – here's why that's very bad news for Trump"
     excerpt: "Everybody likes Joe. Well, not everybody. Our most recent Fox News poll shows that 41% of those surveyed have an unfavorable impression of Democratic presidential nominee Joe Biden. But more crucially,"
     publishedDateTime: 2020-10-20T19:53:00Z

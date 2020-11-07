@@ -605,20 +605,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "\"We're going to win this race\": Biden predicts victory as his lead over Trump grows"
-    excerpt: "Democrat Joe Biden said Friday that he was going to win the U.S. presidency as his lead grew over President Donald Trump in battleground states, although television networks held off from declaring him the victor as officials continued to count votes."
-    publishedDateTime: 2020-11-07T04:46:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN27M0UA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0UA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0UA"
+  - title: "'We're going to win this race': Biden predicts victory as his lead over Trump grows"
+    excerpt: "Democrat Joe Biden said he was going to win the U.S. presidency as his lead grew over President Donald Trump in battleground states, although television networks held off from declaring him the victor as officials continued to count votes."
+    publishedDateTime: 2020-11-07T06:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/were-going-to-win-this-race-biden-predicts-victory-as-his-lead-over-trump-grows-idUSKBN27N08J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N08J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N08J"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 134
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
-        width: 846
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540337327&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA6064"
+        width: 809
         height: 545
         isCached: true
   - title: "Election 2020 live updates: Melania Trump delivers pointed political attack on trail"
@@ -1099,6 +1099,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Donald Trump won Ohio: A closer look at the campaign in a battleground state"
+    excerpt: "President Donald Trump improved on his 2016 map; former Vice President Joe Biden couldn't make up the difference in the cities and suburbs."
+    publishedDateTime: 2020-11-06T21:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-donald-trump-won-ohio-again/6161704002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6161704002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6161704002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/PCIN/bbc1d0b4-2ba3-472e-ac4c-cef8974a5311-AP20298827401012.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Recount likely in Georgia as Biden takes slim lead over Trump"
     excerpt: "Democratic presidential candidate Joe Biden is leading in Georgia, but the race there is still extremely close. Mark Strassmann has details."
     publishedDateTime: 2020-11-07T00:15:00Z
@@ -1116,9 +1132,9 @@ related:
   - title: "Some Americans dance, others wield guns at vote-counting sites as Biden's lead widens"
     excerpt: "Joe Biden supporters danced in Philadelphia's streets on Friday, while armed backers of President Donald Trump in Phoenix shouted, \"Stop the steal\" as a third day of post-election ballot counting brought the Democratic former vice president closer to winning the White House."
     publishedDateTime: 2020-11-07T04:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-reaction-idUSKBN27M2ND"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M2ND"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M2ND"
+    webUrl: "https://www.reuters.com/article/uk-usa-election-reaction-idINKBN27M2N7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27M2N7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27M2N7"
     type: article
     provider:
       name: Reuters
@@ -1308,6 +1324,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/cc0b7be4-8e84-4a89-b911-83ac18df8750_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Boost for Biden in fight to win electoral college"
+    excerpt: "Joe Biden was a handed a strong boost in the fight to win Pennsylvania's 20 electoral votes as the latest count of military votes and damaged ballots tabulated by Allegheny County elections workers were released late Friday."
+    publishedDateTime: 2020-11-07T03:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/07/boost-biden-fight-win-electoral-college/6197353002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aedd839b-9ebb-4786-a8af-34a781c06d1b_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
@@ -1761,6 +1791,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TsJT65WPBRTvJpYkU491JFXJjnEaDcWdK9kkUdH8gD8lmzojmKKczZBeQUmtg0RTzreBwmSR8YXQ4bSCNjqtY3IWc/bdX9Gn0p2NblrNTFULqS6UsMx1JH7gSNbYsM0vb0+BKxmSudAYPZBSRJuQ7U2tM/48/G+XnGRXhGLO4rxw5pDrX7M9w8ckt46jGx7yq2fukFghT35SmimWJzg74Va3d5jKTujJYZRV8DwewS8MM/0fm9TNfxB/2iWTmyt3mlQ5evSsZUasT56YAi7i/EjqKdNwnbAB1h5NfJT2aufpaeHZLNrNalw5Ofl6AyrlGN36VgGDORfOlcysXBahOJZkEMwwzS/q45hO/S+d7vk=;D462k2ZqCucIeAuWohYOsA=="
+secured: "lpshVXjGrG8zutzBGEWK55lcMjrIUzUJ4w0rOauE1PihartDXmbVsVYl7UIuvdSPl1N/yfhdEWx+36PtL74K01artXTiRoToKX4mozsZZUZb/16EROI8EGL18kYARFIYTlB1nEM7J+7V2xFOhssaY/L4GYJTMQUeSMWJAqwrfKOcJqmOSn8XvYPJDdJhlx1nEr31x95nlJB1Ph0dj25854xS3pSXHZRQqullmmnV3M34xlcUq/m8wgzI2+tdaHWOQM0XweCHGtXUb8qg/EufhBx5U9wuiXeZAUPA8l9C204v4/VrrKhN22h9dkcPWx5Ci0ipGo+3j8eSWGei7TETLn7h5AQ7K1F4li6mtBEOZc0HhsdeNaQpO/utQcGhzkfq1YgAO5Yq5s2/sdMCQCm3AMz5U8xGymusElnsP1xfUkx6fE4OGbPSLPONR+Hpad7kbnhjeCusIZfynlmHwWKUhiIzD2uOAVN1jKRL8sDNeCXLzyTFFHw9UWBXVydV2pRQsYcKPCiPvo0DnlgZ4Cwc3Q==;dMzjDmzjG3h5PAy2puI/KQ=="
 ---
 

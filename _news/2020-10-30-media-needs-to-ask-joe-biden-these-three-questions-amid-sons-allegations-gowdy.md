@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Lara Logan slams Biden for playing ‘Russia card’ in response to Hunter Biden email allegations"
-    excerpt: "2020 Democratic presidential candidate Joe Biden played the \"Russian information warfare\" card to dodge questions pertaining to his son Hunter Biden's foreign dealings, Fox Nation host Lara Logan said on Friday."
-    publishedDateTime: 2020-10-23T18:16:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/21iBRaLM3ns/lara-logan-biden-playing-russia-card-hunter-biden-emails"
-    ampWebUrl: "https://www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "gw/SAYrqP7H34euJbkexXkbiEAsZWiczQ6JAUBNExfEJTSkg1BBiK78ejVzZq9J28gy4IyTpCPqwpTfBQHDgc1yGvOWxwK7u4zBAdVWKq5TI4fPAjEfrM8jEHV9g7QoBPhq4h1fcG0yn4j3JxsvRZHEnY3fF+maF+dPeTxi2k6RkYEVF2xOkxWC9Zaed9y9OX4wYK/4x99I/9TyoWmyYqsW5aBJwPmIscM6ttZYjutUX+tHGjsOEx2VWAHCUuaQyI3LMFxM/qp14t14YW2agwC7fzzL/fGwZZ9pVMp3RsWqHNNrFBar/Yid50RjVzFrVL5qI/JqMldmhnUKpOy5XVhvb9IuO5E+9KNhGosoI1Yg=;0beWSDGlvA2YApGhKuP3WA=="
 ---

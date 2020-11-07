@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden claims 'mandate' while election vs. Trump remains undecided"
+    excerpt: "Joe Biden didn't declare victory Friday night over President Trump in the race for the White House, but he emphasized that he's \"going to win\" the presidential election."
+    publishedDateTime: 2020-11-07T04:50:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3zf-sXm-5Rs/biden-speech-mandate-trump-undecided"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312149632605.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump has no plans to immediately concede election as Biden leads in battlegrounds, source says"
     excerpt: "President Trump does not have plans to immediately concede the election, despite Democratic nominee Joe Biden leading in key states that could deliver him enough electoral votes to declare him the winner of the 2020 presidential race, a senior aide told Fox News. "
     publishedDateTime: 2020-11-06T14:31:20Z
@@ -47,21 +63,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden banks on Hollywood support in final days before 2020 election"
-    excerpt: "Hillary Clinton employed a similar strategy in 2016, when she won the popular vote but lost the Electoral College."
-    publishedDateTime: 2020-11-01T22:07:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
+  - title: "Businessman wagers $5M on Trump winning election: report"
+    excerpt: ""
+    publishedDateTime: 2020-11-03T04:56:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0GHIz86Ld8/businessman-wagers-5m-on-trump-winning-election-report"
+    ampWebUrl: "https://www.foxnews.com/politics/businessman-wagers-5m-on-trump-winning-election-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/businessman-wagers-5m-on-trump-winning-election-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c13facdb-af1b-4373-8d46-17432f01bec0/6c6c594d-6400-49b2-9d62-794f24392062/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Pro-Trump boaters hold final San Diego Bay parade before Election Day"
     excerpt: "San Diego Bay had one last pro-Trump boat parade before Election Day over the weekend, with hundreds of vessels hitting the water to declare support for the president’s reelection, according to local reports."
@@ -175,22 +191,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Pennsylvania AG hit for predicting Trump will lose election before votes even counted"
-    excerpt: "Pennsylvania’s Attorney General Josh Shapiro, a Democrat, found himself in hot water on social media after claiming that President Trump has lost the ability to win the battleground state, just over 24 hours before the polls close on Election Day."
-    publishedDateTime: 2020-11-02T23:34:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k1HjNJjClfY/pennsylvanias-democratic-trump-lose-before-votes-counted"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvanias-democratic-trump-lose-before-votes-counted.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvanias-democratic-trump-lose-before-votes-counted.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59bbe749-e1d8-4de9-83a4-f2c83d346777/55281509-77bb-4cec-ab55-b33f3f7a3135/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump claims Dems are trying to 'steal' election, says he'll win if 'legal votes' are counted"
     excerpt: "A defiant President Trump on Thursday said he and his campaign will “not allow corruption to steal” the election during a press conference at the White House, while maintaing that he will win the 2020 presidential race despite a dwindling path toward reelection as votes continue to come in."
     publishedDateTime: 2020-11-06T01:33:44Z
@@ -202,86 +202,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 179
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pennsylvania AG dismisses Trump, says he could 'care less' what president says on election night"
-    excerpt: "President Trump has been criticizing states that have extended deadlines for accepting ballots beyond Election Day, saying that the country should have a result by Tuesday night. Pennsylvania Attorney General Josh Shapiro, however, says his state will make sure that every ballot is counted, regardless"
-    publishedDateTime: 2020-11-02T16:29:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e80aIOUJicw/pennsylvania-ag-dismisses-trump-count-ballots"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-ag-dismisses-trump-count-ballots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-ag-dismisses-trump-count-ballots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e5535d2-e0a4-43bb-bb53-ad2bf1552f0e/ad95926a-3469-4233-aa71-a40d46eff02a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Election 2020 legal battles take shape as Trump campaign files lawsuits in key battleground states"
-    excerpt: "As expected, the 2020 presidential campaign season has evolved into a post-election battle consisting of legal challenges in crucial battleground states as President Trump's campaign attempts to prevent the counting of ballots they allege are or could be invalid."
-    publishedDateTime: 2020-11-05T14:46:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4fdXPQfexRc/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states"
-    ampWebUrl: "https://www.foxnews.com/politics/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24d1edb3-5012-4e50-9dee-37b68264fb37/23ee445b-9b29-4177-8443-ca7e45d0845a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden becomes 'an underdog' if he doesn't win Pa., says Nate Silver"
-    excerpt: "Without Pennsylvania and its 20 electoral votes, Democratic presidential nominee Joe Biden will become “an underdog,” the founder of an opinion poll analysis website, FiveThirtyEight, said on Sunday."
-    publishedDateTime: 2020-11-01T19:55:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM3J29QnmKk/joe-biden-underdog-without-pennsylvania-win-nate-silver"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "AOC sounds alarm over Latino turnout for Biden"
-    excerpt: "Democratic U.S. Rep. Alexandria Ocasio-Cortez vented her frustrations over lackluster Democratic turnout among Latinos Tuesday evening."
-    publishedDateTime: 2020-11-04T08:47:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-o4OvNsoSDY/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden predicts victory, says he will govern as an 'American president'"
-    excerpt: "Democratic presidential nominee Joe Biden struck an optimistic tone Wednesday afternoon, saying he anticipates he will win the 2020 presidential election and that he will govern as an “American president.”"
-    publishedDateTime: 2020-11-04T21:52:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LwnyFLDNDss/biden-predicts-victory-says-he-will-govern-as-an-american-president"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-predicts-victory-says-he-will-govern-as-an-american-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-predicts-victory-says-he-will-govern-as-an-american-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
@@ -319,21 +239,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Did Biden get an edge from Libertarian vote in critical swing states?"
-    excerpt: "As Americans awaited the final ballot results and Joe Biden held a slim lead over President Trump on Wednesday night, some analysts were zeroing in on the Libertarian vote in critical states as a potential help to the Democratic nominee."
-    publishedDateTime: 2020-11-05T03:22:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3AFPVzkw8q4/libertarian-vote-swing-states-biden-edge"
-    ampWebUrl: "https://www.foxnews.com/politics/libertarian-vote-swing-states-biden-edge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/libertarian-vote-swing-states-biden-edge.amp"
+  - title: "Biden’s campaign insists former VP ‘will be the next president’"
+    excerpt: "Joe Biden’s presidential campaign on Thursday declared that “our data shows that Joe Biden will be the next president of the United States.”"
+    publishedDateTime: 2020-11-05T18:00:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gMjnTd5av4M/bidens-campaign-stresses-former-vp-will-be-the-next-president"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-campaign-stresses-former-vp-will-be-the-next-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-stresses-former-vp-will-be-the-next-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec2a8c02-cc1e-4e42-b020-ba1eb44686c1/1ab56d55-404c-4ecc-9a0d-37e66fee703f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden to receive additional Secret Service protection: report"
     excerpt: "Democratic presidential nominee Joe Biden will receive a beefed-up Secret Service detail starting Friday as the candidates wait for the presidential race to be called, according to a report."
@@ -351,22 +271,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "If Trump loses, he will regret 'denigrating mail-in voting': York"
-    excerpt: "If President Trump loses the election to Joe Biden as current vote tallies indicate, he could regret warning against mail-in voting, Fox News contributor Byron York argued Friday."
-    publishedDateTime: 2020-11-06T16:25:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york"
-    ampWebUrl: "https://www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Lindsey Graham says he will support Biden's Cabinet choices"
     excerpt: "Staunch ally of President Trump, Sen. Lindsey Graham, R-S.C., said he would work with Democratic presidential nominee Joe Biden to build a Cabinet, if he wins the presidency."
     publishedDateTime: 2020-11-07T02:16:30Z
@@ -383,21 +287,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
-    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
-    publishedDateTime: 2020-11-02T17:07:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vMQcrWQeZ3s/twitter-doctored-video-biden-minnesota-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+  - title: "Trump warns Dems aiming to take the Senate, double downs on final victory"
+    excerpt: "President Trump took to Twitter early Friday to warn his followers that Democrats have their sights set on winning the Senate, but vowed that Republicans would ultimately prevail, despite what looked like an uphill climb."
+    publishedDateTime: 2020-11-06T08:50:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vi9kzdQWvUM/trump-warns-dems-aiming-to-take-the-senate-double-downs-on-final-victory"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-warns-dems-aiming-to-take-the-senate-double-downs-on-final-victory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-warns-dems-aiming-to-take-the-senate-double-downs-on-final-victory.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump campaign adviser Lewandowski predicts clear election winner with Trump victories in major swing states"
     excerpt: "President Trump has warned that Americans may not learn the results of the presidential election until well after Election Day due to certain battleground states extending the deadline for accepting mailed ballots, but Trump campaign senior adviser Corey Lewandowski predicted that Trump will win so decisively"
@@ -412,22 +316,6 @@ related:
     quality: 171
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be367b42-5921-461d-b8a2-7cd1b5de3963/800d4d41-4d0a-4de7-bd12-e9bff97e3c9d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign says president will 'immediately' request a recount in Wisconsin"
-    excerpt: "The Trump campaign promised to demand a recount in Wisconsin, where Joe Biden holds a narrow lead but the race has not yet been called. "
-    publishedDateTime: 2020-11-04T18:30:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcckzpPn0X0/trump-campaign-request-recount-wisconsin"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -447,19 +335,35 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump vows to keep ‘fighting,’ will use ‘every aspect of the law’ in ballot-counting battle"
-    excerpt: "President Trump on Friday vowed to keep “fighting,” saying he will use “every aspect of the law” as election officials in key battleground states continue to count ballots for the uncalled 2020 presidential race."
-    publishedDateTime: 2020-11-06T19:03:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZvHPT2-nI5E/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle.amp"
+  - title: "Trump campaign predicts victory as early as Friday: 'Donald Trump is alive and well'"
+    excerpt: "President Trump's campaign remained confident Thursday, predicting not only that the incumbent Republican will win the 2020 election, but that the result could become apparent as soon as Friday."
+    publishedDateTime: 2020-11-05T17:51:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lQ6yDXw0sgY/trump-campaign-predicts-victory-trump-alive-and-well"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5710a1ac-db7a-49d3-a506-14afea4ee0a5/42e2636e-cea3-4feb-934a-e956db5e7c88/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
+    excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
+    publishedDateTime: 2020-11-04T07:51:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woEU1fA0WWw/trump-claims-victory-states-undecided-supreme-court-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -479,21 +383,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Philadelphia mayor tells Trump to 'put his big boy pants on' and concede, even as key states remain uncalled"
-    excerpt: "Philadelphia Mayor Jim Kenney on Friday had some harsh words for President Trump, urging him to “put his big boy pants on” and “acknowledge the fact that he lost,” despite races not being called in key battleground states, including Pennsylvania, and neither he nor Democratic nominee Joe Biden having"
-    publishedDateTime: 2020-11-06T18:53:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eu9pati5u70/philadelphia-mayor-trump-put-his-big-boy-pants-on-concede"
-    ampWebUrl: "https://www.foxnews.com/politics/philadelphia-mayor-trump-put-his-big-boy-pants-on-concede.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/philadelphia-mayor-trump-put-his-big-boy-pants-on-concede.amp"
+  - title: "Trump campaign claims public polling was used as a ‘voter suppression tactic’ against him in Wisconsin"
+    excerpt: "The leadup to Nov. 3 had polls showing former Vice President Joe Biden with a healthy lead in Wisconsin over President Trump by a margin of 6.7% just weeks before Election Day, according to Real Clear Politics polling – a lead that Trump’s campaign has called  a form of “voter suppression.”"
+    publishedDateTime: 2020-11-04T21:30:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/URewOeZ9QTA/trump-campaign-claims-public-polling-was-used-as-a-voter-suppression-tactic-against-him-in-wisconsin"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-claims-public-polling-was-used-as-a-voter-suppression-tactic-against-him-in-wisconsin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-claims-public-polling-was-used-as-a-voter-suppression-tactic-against-him-in-wisconsin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 159
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden Fends Off President Trump’s 2016 Playbook"
+    excerpt: "Despite attacks, the Democratic nominee has a higher favorability rating than either the president or Hillary Clinton had in 2016."
+    publishedDateTime: 2020-10-20T13:20:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-246853/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "‘SNL’ basically endorses Joe Biden in pre-election episode"
     excerpt: "The final episode of “Saturday Night Live” before Tuesday’s presidential election went much further than the show did in 2016."
@@ -545,8 +465,8 @@ related:
         isCached: true
   - title: "Trump Allies Push Forward With Election Lawsuits"
     excerpt: "Litigation filed by the Trump campaign and other Republicans has shown little prospect of turning the tide so far, and legal experts from both parties described the efforts as a last stand."
-    publishedDateTime: 2020-11-07T02:52:00Z
-    webUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
+    publishedDateTime: 2020-11-07T06:06:00Z
+    webUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544?mod=business_minor_pos4"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
     type: article
@@ -591,6 +511,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ex-ESPN host Jemele Hill says 'it's on White people' if Trump wins reelection: 'No one else'"
+    excerpt: "ESPN host Jemele Hill declared Tuesday that only White people are to blame if President Trump defeats Democratic nominee Joe Biden."
+    publishedDateTime: 2020-11-04T04:44:00Z
+    webUrl: "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection"
+    ampWebUrl: "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Jemele-Hill-TWEET.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "CNN fact-checks Biden's proposed mask mandate"
+    excerpt: "CNN's fact-checks of Joe Biden are few and far between, but the Democratic nominee's recent call for a mask mandate was apparently egregious enough that the anti-Trump outlet could not ignore."
+    publishedDateTime: 2020-11-03T03:25:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5284e193-460b-446f-83b3-021ccec35d0d/7cc4cb76-725a-4613-a702-6275c6ee1d67/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden announces 'fight fund' for vote count battle"
     excerpt: "Democratic presidential nominee Joe Biden on Wednesday announced the formation of what he's calling the “Biden Fight Fund,” touting it as the “largest election protection effort ever assembled” as he and President Trump compete for key battleground states in the 2020 presidential race."
     publishedDateTime: 2020-11-04T19:47:00Z
@@ -623,53 +575,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump comes out on top in Montana, netting another three electoral votes"
-    excerpt: "Big Sky Country has delivered a big win for President Trump, as the incumbent has come out on top in Montana, according to NBC News. Trump will take home the state’s three electoral votes,"
-    publishedDateTime: 2020-11-04T06:28:00Z
-    webUrl: "https://nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/"
-    ampWebUrl: "https://nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/Election_2020_Trump_21.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
-    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
-    publishedDateTime: 2020-11-02T17:12:00Z
-    webUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+  - title: "Trump campaign predicts victory as early as Friday: 'Donald Trump is alive and well'"
+    excerpt: "President Trump's campaign remained confident Thursday, predicting not only that the incumbent Republican will win the 2020 election, but that the result could become apparent as soon as Friday."
+    publishedDateTime: 2020-11-05T18:51:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 128
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden's 1 electoral vote from Nebraska district could prove pivotal to his White House bid"
-    excerpt: "Omaha, Neb., became “Jomaha” as Democratic nominee Joe Biden won a single electoral vote from the state’s 2nd Congressional District."
-    publishedDateTime: 2020-11-05T04:30:00Z
-    webUrl: "https://www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20293774864185.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5710a1ac-db7a-49d3-a506-14afea4ee0a5/42e2636e-cea3-4feb-934a-e956db5e7c88/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Republicans Hold Top Election Roles in Some States Trump Says Are Skewing Counts"
     excerpt: "President Trump complained during his Thursday press conference that vote-counting in the outstanding states is being overseen by Democrats, even though Republicans occupy key roles in several battlegrounds."
@@ -682,34 +602,6 @@ related:
     quality: 125
     images:
       - url: "https://images.wsj.net/im-256071?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Joe Biden Speaks as Vote Count Continues in Presidential Race"
-    excerpt: "Former Vice President Joe Biden said Thursday “each ballot must be counted,” as vote counting continued in key battleground states. Biden was six electoral votes away from the 270 needed to win the race,"
-    publishedDateTime: 2020-11-05T22:13:00Z
-    webUrl: "https://www.wsj.com/video/joe-biden-speaks-as-vote-count-continues-in-presidential-race/9609910B-249A-4FC3-9200-71370B1636CA.html"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "http://m.wsj.net/video/20201105/110520.biden.speech.vid1/110520.biden.speech.vid1_1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Michigan Judge Denies Trump Campaign's Bid to Halt Absentee-Vote Count"
-    excerpt: "A Michigan judge on Thursday denied a legal effort by the Trump campaign to halt the counting of absentee ballots in the state, in part on the grounds that the lawsuit was brought against the wrong defendant and was filed too late since all the state’s votes have been counted."
-    publishedDateTime: 2020-11-05T20:04:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/b2IFHDnEov6wNmo1WK2W"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-255660?size=1.5"
         width: 1280
         height: 853
         isCached: true
@@ -742,20 +634,6 @@ related:
       - url: "https://assets.realclear.com/images/52/525922_5_.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Lieberman: Donald Trump Has The Right To Take His Case To Court And Let The Judge Decide"
-    excerpt: "Former Senator Joe Lieberman, who ran alongside Democratic nominee Al Gore in the disputed 2000 election, joined CNBC's \"Squawk Box\" on Thursday to discuss the 2020 presidential election. \"The Trump campaign has the right to take its case to court and let the judge decide,"
-    publishedDateTime: 2020-11-06T12:34:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/06/lieberman_donald_trump_has_the_right_to_take_his_case_to_court_and_let_the_judge_decide.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 56
-    images:
-      - url: "https://assets.realclear.com/images/52/526349.jpg"
-        width: 1168
-        height: 876
         isCached: true
 
 secured: "LYfhdOqdsFfPSH5rv5ZYWgmj3m6ab/Ls9+pvCgprwqo+JqI9z6XL9BfE4JeVJV7RA8Jxp4RnrzFBlOXjrGDio2L7TRLrgNWpt4bJD14IcIFBVfudwv3N78WGF7BIB360ykUC3eYZGqBQQJA2lAKVEwBEniWnKqMg97u2xTk66vkoPlU3v0NRhH8Y8iayJw3mZBuXI3syZA4+XAU3T+KExKUgmKtcW1L1lSG/kWMIVJY+5tqad3fQIh3+XleQCkDuoFU3k/8qWHT69sAX7ZsuNE9DPa/ngNXpKOmemtbqfXs0cYY2oyzrzpwcKePyHxXlcagSMRlEAZCz89rNhSlrJL/KJfvKmAZDGgt1NLIl5XQ=;qUjEEdC6NhVOOaew/UqqWA=="

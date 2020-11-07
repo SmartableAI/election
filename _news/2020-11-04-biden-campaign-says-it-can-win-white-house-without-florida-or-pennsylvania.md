@@ -860,6 +860,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Chrissy Teigen jokes she isn't showering after hugging Kamala Harris at election rally"
+    excerpt: "Chrissy Teigen is on an emotional high after receiving a hug from Sen. Kamala Harris at a rally hosted by the Democratic vice presidential nominee."
+    publishedDateTime: 2020-11-04T07:25:00Z
+    webUrl: "https://www.foxnews.com/entertainment/chrissy-teigen-jokes-not-showering-hugging-kamala-harris-election-rally"
+    ampWebUrl: "https://www.foxnews.com/entertainment/chrissy-teigen-jokes-not-showering-hugging-kamala-harris-election-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/chrissy-teigen-jokes-not-showering-hugging-kamala-harris-election-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Chrissy-Teigen-Kamala-Harris-AP-Reuters.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris thinks she can laugh her way through serious questions: Pavlich"
     excerpt: "Editor Katie Pavlich called Democratic vice-presidential nominee Sen. Kamala Harris “the most far-left Democrat in Washington, D.C.,\" and said Joe Biden picked her to \"make sure that the left wing of the party felt comfortable\" that they would have a voice in his administration."
     publishedDateTime: 2020-10-26T19:13:00Z

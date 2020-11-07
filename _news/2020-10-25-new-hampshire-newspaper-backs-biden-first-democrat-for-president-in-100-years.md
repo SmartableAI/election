@@ -31,101 +31,131 @@ images:
     isCached: true
 
 related:
-  - title: "Biden backers have looming sense of deja vu"
-    excerpt: "With multiple polls predicting a clear Biden victory in the November Election, Democrats are getting an uncomfortable sense of déjà vu given that polls in the final weeks of the 2016 election overwhelmingly predicted a victory for Hillary Clinton."
-    publishedDateTime: 2020-10-20T02:34:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dvqIv88vUQ/biden-backers-have-looming-sense-of-deja-vu"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
+  - title: "Biden banks on Hollywood support in final days before 2020 election"
+    excerpt: "Hillary Clinton employed a similar strategy in 2016, when she won the popular vote but lost the Electoral College."
+    publishedDateTime: 2020-11-01T22:07:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291811263827.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c13facdb-af1b-4373-8d46-17432f01bec0/6c6c594d-6400-49b2-9d62-794f24392062/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
+    excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."
+    publishedDateTime: 2020-10-25T16:15:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O6NWqlGnUVw/joe-hunter-biden-china-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-hunter-biden-china-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Bernie Sanders eyeing potential Biden Cabinet role: report"
-    excerpt: "U.S. Sen. Bernie Sanders is reportedly interested in serving in Joe Biden’s Cabinet if the Democrat wins the presidency -- with plans to push for more “progressive voices” in the nation's leadership."
-    publishedDateTime: 2020-10-23T09:19:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iA4JqSIJgms/bernie-sanders-eyeing-potential-biden-cabinet-role-report"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-eyeing-potential-biden-cabinet-role-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-eyeing-potential-biden-cabinet-role-report.amp"
+  - title: "Warren eyes Treasury Secretary job in potential Biden White House: report"
+    excerpt: "Warren reportedly plans to make her case for the position depending on the outcome of next week’s election."
+    publishedDateTime: 2020-10-30T01:12:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_KiQb7VYLI/warren-treasury-secretary-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-treasury-secretary-joe-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451a825a-4bce-48ca-ae30-4802571fc1db/63d6daa7-1718-4ae9-9181-044df4ee0013/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d92e365-3fbb-48cc-b1f3-2d5c1088ddef/b749bc16-2f42-48c2-ab47-1c09becd69f0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Florida man stole bulldozer, ran down Biden signs"
-    excerpt: "A 26-year-old man has been accused of stealing a bulldozer from a Florida construction site, driving it into a neighborhood and knocking down campaign signs for Democratic presidential nominee Joe Biden, according to authorities and homeowners."
-    publishedDateTime: 2020-10-26T18:03:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5liMovvhVCM/florida-man-stole-bulldozer-ran-down-biden-signs"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-man-stole-bulldozer-ran-down-biden-signs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-man-stole-bulldozer-ran-down-biden-signs.amp"
+  - title: "Pelosi: 'I feel very confident that Joe Biden will be elected president on Tuesday'"
+    excerpt: "House Speaker Nancy Pelosi projected Thursday that Joe Biden would win the White House and said Democrats are ready to work with him on a transition agenda to tackle the coronavirus pandemic, address the economic fallout and pass an infrastructure agenda. "
+    publishedDateTime: 2020-10-29T17:21:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EfkCiwKZMR4/pelosi-confident-biden-win-democratic-transition-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f04fe45e-87a1-475d-a66b-295fbe3e130c/c7912994-fd52-4144-aeca-86b794a1b61b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/08731db9-Nancy-Pelosi.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "AOC claims young voters will choose Biden because they can influence him more easily"
-    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., said that young Americans will vote for Democratic presidential nominee Joe Biden, not because they think he is “their favorite person” but because they believe they can more easily sway him to act on behalf of their interests."
-    publishedDateTime: 2020-10-25T15:53:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CV-mMk_x4ZA/aoc-young-voters-choose-biden-influence-him"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-young-voters-choose-biden-influence-him.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-young-voters-choose-biden-influence-him.amp"
+  - title: "Biden says Catholic faith guides policies but gets hit on abortion, religious freedom"
+    excerpt: "Joe Biden is touting his Catholic faith as groups are hitting him on issues held near and dear to the faithful and opposed by the church, including religious freedom for nuns and abortion."
+    publishedDateTime: 2020-10-30T19:17:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sMIa_lBS0vI/biden-catholic-vote-2020-election-religious-liberty"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86013dd9-61fb-4c71-84ef-02bc3da60248/f1bf3308-3ad3-485e-9fa1-66cba83206e8/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc.': Sen. Johnson"
+    excerpt: "Coming up, White House Chief of Staff Mark Meadows on a blockbuster admission at the final presidential debate, Joe Biden on transitioning the oil and gas industry. JOE BIDEN (D), PRESIDENTIAL CANDIDATE:  By the way,"
+    publishedDateTime: 2020-10-29T19:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson"
+    ampWebUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77982519-0b80-4d5e-88e5-ef13e983e2a2/77bf9357-3466-4f1c-9e36-660714f9e3bf/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
-    excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
-    publishedDateTime: 2020-10-20T14:35:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
+  - title: "Joe Biden Speaks as Vote Count Continues in Presidential Race"
+    excerpt: "Former Vice President Joe Biden said Thursday “each ballot must be counted,” as vote counting continued in key battleground states. Biden was six electoral votes away from the 270 needed to win the race,"
+    publishedDateTime: 2020-11-05T22:13:00Z
+    webUrl: "https://www.wsj.com/video/joe-biden-speaks-as-vote-count-continues-in-presidential-race/9609910B-249A-4FC3-9200-71370B1636CA.html"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
     images:
-      - url: "http://assets.realclear.com/images/52/524567_5_.jpg"
-        width: 750
-        height: 552
+      - url: "http://m.wsj.net/video/20201105/110520.biden.speech.vid1/110520.biden.speech.vid1_1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
-    excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
-    publishedDateTime: 2020-10-20T22:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
+  - title: "A Biden Family Special Prosecutor in 2021?"
+    excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
+    publishedDateTime: 2020-10-27T10:36:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/27/a_biden_family_special_prosecutor_in_2021_144531.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "http://assets.realclear.com/images/52/524567_5_.jpg"
+      - url: "https://assets.realclear.com/images/52/525278_5_.jpg"
         width: 750
-        height: 552
+        height: 500
         isCached: true
 
 secured: "dcmMFC3j8AAa9aKM/OLJx4E2HXPZiBOuYk/wIfuKz1Rj/vd+6fdk0QeVh9ZgjSKLN83SXkhLCq00t+ohWvrCKn7779VEx8wKTPAUWPJj/zL15NjmXDlc5i05ur4+5iOWG+gS/oP8cnxSeLNbLch3ThsHg2mhe0vlCWX/qkfIO+dHlrBL687QoUfv2PIXl3ZmCb3mHJwClsldKeW4LcdNFGwcbzrH0KAxFHXf/rcEfPzjMsrptl/hCFZ54otf0q57cC78b7XGQR4YN7A+3jGBSQ82ZDsRJwtellSau+oDPOrXbj9vVY6WpIbzHl3d83lA0/851vzARttIkcpzV4EjeTbDRvyqV92BkbQBRn1xIWA=;i0PKNBJevIkAPxtmYO8AfQ=="

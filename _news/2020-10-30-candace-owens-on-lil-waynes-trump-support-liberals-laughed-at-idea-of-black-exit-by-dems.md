@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Tucker Carlson: Media misjudged Trump support among non-White voters"
+    excerpt: "Tucker Carlson criticized the mainstream media on Tuesday for painting President Trump as a racist who would struggle to attract non-White voters after the president delivered a strong showing in Miam"
+    publishedDateTime: 2020-11-04T02:58:00Z
+    webUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters"
+    ampWebUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "tWZt8Bp5MelP23vIHQpHY43JOA6HCsmRtW66AkzJwS89EBsRjgfnUrEaksg793Dfbvr/t6sNQyGPpqwT47UcIekE3Ln78LedWKo6mvdHW7pZ6tm0iFpt7p6rbbzq66knOo+D8GhoHoIjib8i0wEjrgL/ssJvSb8Ct1W2ZAbQhBE1XxaNAHHoVSJig8TQ56BV3OxBMbb9WEMiNjojuEuojdr53CfnXpxJ2Niil49aZaiNg0mY6XEP/u4mxka3GlJX7xPmP47ACwT957wHUR9qODhvJEQ4r2XXAEAR0/ChcI+dto6/ry6wrxi4GrritKiOSgsbhGdwTtedlJR8IQ8aBon/KwHBf993SdF9wzXe7EY=;OWL4Rc0yQF7/gnOOf8JEPg=="
 ---

@@ -45,6 +45,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
+    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
+    publishedDateTime: 2020-11-02T17:07:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vMQcrWQeZ3s/twitter-doctored-video-biden-minnesota-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Cook Political Report editor: Time to 'sound the alarm' on Biden's likely victory"
     excerpt: "Dave Wasserman, US House editor for Cook Political Report, said Tuesday it's time to \"sound the alarm\" that Joe Biden is likely to be the next President of the United States. "
     publishedDateTime: 2020-10-28T02:02:38Z
@@ -77,21 +93,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "CNN fact-checks Biden's proposed mask mandate"
-    excerpt: "CNN's fact-checks of Joe Biden are few and far between, but the Democratic nominee's recent call for a mask mandate was apparently egregious enough that the anti-Trump outlet could not ignore."
-    publishedDateTime: 2020-11-03T03:25:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
+  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
+    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
+    publishedDateTime: 2020-11-02T17:12:00Z
+    webUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 132
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5284e193-460b-446f-83b3-021ccec35d0d/7cc4cb76-725a-4613-a702-6275c6ee1d67/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "YFlkIrM25cOdG5PiaL5esHTj0w4T5siQ7W6IkS/cn/wWz25Ji6ZPghMQX+maekASB1+gus4DWwpFNqVnW3ayuMdJiOXHkz5BL9rSJ7UTTiYORRVYkVDzJoFd/KNCSV64sRtdPjziE/1VmuJWGBKhqdn/5pQ0AbtunGTJbcsT84jYRp/8QZDW2XuJV8IUFOAtmG8DG6yJWz81dbpqzg/CCHRzUEOsGQf8W8MHakRoFAe4RzSn3v38v3Z2gMU5TGrCLg89y8uyWS86jIMrmMC47q51GlnBX5MHcXWNvyf4mmhdkPVu1Rkr3xXVqODMT/s35lJwZh2QGzwk9yKUNTNZaT06ND0QkPkF0i/HqxLHYLg=;hhiecJKwBMySXzV5xE81ig=="

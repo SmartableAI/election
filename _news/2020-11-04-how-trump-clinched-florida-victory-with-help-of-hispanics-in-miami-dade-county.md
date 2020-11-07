@@ -125,22 +125,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "John Leguizamo bashes Florida 'lemmings' after the state was called for Donald Trump in the 2020 election"
-    excerpt: "John Leguizamo bashed Floridians after the state was called for Donald Trump in the 2020 presidential election."
-    publishedDateTime: 2020-11-05T13:28:00Z
-    webUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election"
-    ampWebUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/John-Leguizamo.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "BMELupcLOHurIm7vKT2ovVTkKrsyPv3fA8AcdTg+SzFYmaWgYK049Vu81hkh+HVLIOw0jBM1Nm19s2+vgScn6gohrXppNob5C2YKpfgAdrRjAf4m6ozMRw90k0ynFjSmO4vOG2/q6wTGKeLoXWR2c0TRxqLa89YYeC67+4GaDpEPii5Bq/r2fl1TneHpMXuySbShwPVMp7O9AloO9+bz1vGFyyp5ebLwUdhXOIzsl+Df2jVQRjJQqK9rZit0/eiAvfEsKCIqV/LU/VVJivTw6PUjRZVjTm7PnxpRbJjqQ2GmC8ChuOIXcG1km5dUxLMS6S19pTm7a14ukdc//hof2G3qN6PpaA2ZMng+XH6eyz4=;XisIxlq4HiR5eOn9+Ui3XQ=="
 ---

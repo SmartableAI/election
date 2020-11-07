@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden banks on Hollywood support in final days before 2020 election"
+    excerpt: "Hillary Clinton employed a similar strategy in 2016, when she won the popular vote but lost the Electoral College."
+    publishedDateTime: 2020-11-01T22:07:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c13facdb-af1b-4373-8d46-17432f01bec0/6c6c594d-6400-49b2-9d62-794f24392062/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
     excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."
     publishedDateTime: 2020-10-25T16:15:17Z
@@ -47,21 +63,83 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Rep. Jim Jordan on reviewing and authenticating purported Hunter Biden emails"
-    excerpt: "Rep. Jim Jordan, R-Ohio, who said his staff reviewed and independently authenticated the purported emails from Hunter Biden’s laptop, told “Sunday Morning Futures” that “they’re as real as real can be.”"
-    publishedDateTime: 2020-10-25T19:58:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
+  - title: "New Hampshire newspaper backs Biden, first Democrat for president in 100 years"
+    excerpt: "One of the nation's most prominent conservative-leaning newspapers endorsed Joe Biden for president on Sunday, marking the first time the publication has endorsed a Democratic presidential candidate in over 100 years."
+    publishedDateTime: 2020-10-25T19:37:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/90vbbqrnN5g/biden-endorsement-conservative-new-hampshire-union-leader-newspaper"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Pelosi: 'I feel very confident that Joe Biden will be elected president on Tuesday'"
+    excerpt: "House Speaker Nancy Pelosi projected Thursday that Joe Biden would win the White House and said Democrats are ready to work with him on a transition agenda to tackle the coronavirus pandemic, address the economic fallout and pass an infrastructure agenda. "
+    publishedDateTime: 2020-10-29T17:21:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EfkCiwKZMR4/pelosi-confident-biden-win-democratic-transition-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-confident-biden-win-democratic-transition-agenda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/08731db9-Nancy-Pelosi.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden says Catholic faith guides policies but gets hit on abortion, religious freedom"
+    excerpt: "Joe Biden is touting his Catholic faith as groups are hitting him on issues held near and dear to the faithful and opposed by the church, including religious freedom for nuns and abortion."
+    publishedDateTime: 2020-10-30T19:17:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sMIa_lBS0vI/biden-catholic-vote-2020-election-religious-liberty"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catholic-vote-2020-election-religious-liberty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Joe Biden 'has been caught in repeated lies over Biden Inc.': Sen. Johnson"
+    excerpt: "Coming up, White House Chief of Staff Mark Meadows on a blockbuster admission at the final presidential debate, Joe Biden on transitioning the oil and gas industry. JOE BIDEN (D), PRESIDENTIAL CANDIDATE:  By the way,"
+    publishedDateTime: 2020-10-29T19:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson"
+    ampWebUrl: "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77982519-0b80-4d5e-88e5-ef13e983e2a2/77bf9357-3466-4f1c-9e36-660714f9e3bf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden Speaks as Vote Count Continues in Presidential Race"
+    excerpt: "Former Vice President Joe Biden said Thursday “each ballot must be counted,” as vote counting continued in key battleground states. Biden was six electoral votes away from the 270 needed to win the race,"
+    publishedDateTime: 2020-11-05T22:13:00Z
+    webUrl: "https://www.wsj.com/video/joe-biden-speaks-as-vote-count-continues-in-presidential-race/9609910B-249A-4FC3-9200-71370B1636CA.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20201105/110520.biden.speech.vid1/110520.biden.speech.vid1_1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "A Biden Family Special Prosecutor in 2021?"
     excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
@@ -79,31 +157,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Tucker Carlson: We Don't Know Joe Biden's Version Of The Story Is Because No Journalist Has Asked"
-    excerpt: "Tucker Carlson accuses the mainstream media of a Soviet-style suppression campaign of a legitimate news story about Hunter Biden days before an election. Carlson said no one believes the media anymore and that \"no one should\" because of this \"attack on our democracy."
-    publishedDateTime: 2020-10-29T11:42:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/29/tucker_carlson_we_dont_know_joe_bidens_version_of_the_story_is_because_no_journalist_has_asked.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 52
-    images:
-      - url: "https://assets.realclear.com/images/51/513284.jpg"
-        width: 1176
-        height: 882
-        isCached: true
-  - title: "'Time for an exorcism in our nation's capital': Springsteen urges fans to vote for Biden and rips first family"
-    excerpt: "Rock-and-roll superstar Bruce Springsteen lashed out at President Trump this week calling for an “exorcism in our nation’s capital.”"
-    publishedDateTime: 2020-10-29T19:39:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/time-for-an-exorcism-in-our-nations-capital-springsteen-urges-fans-to-vote-for-biden-and-rips-first-family"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/time-for-an-exorcism-in-our-nations-capital-springsteen-urges-fans-to-vote-for-biden-and-rips-first-family?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/time-for-an-exorcism-in-our-nations-capital-springsteen-urges-fans-to-vote-for-biden-and-rips-first-family?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 45
 
 secured: "58EGYdCIGkNrKD0QRqipuIu2NZSX27sl/dUkfwKyxlOOAju1uVMPfFgrrXo968pH3RYYJXLNS3W1B9WPuq8gaPipVHv/E9yAs4GP86hye8+oi9Y/weFSNbN7+YQXMyFfxmZKUieF+pYy8065IIjkDPSczo/FFjlp3rWcD4lKqgNwSX/nFRu+BALIibGXWHSVDekjbUMgFYw3B0yyi3C8QXhszkaNUBShCOxNZhVNNDPLDj6koCaCW6u1A87v8CNxrPoz+on3dijIDdr/OFY5gzmDgreYUprmcEoaPucckPta+dAwMkNlkmwJTUwA5zYHYP3oWvb5O+u2y3m4uD12gJtmuG6Dy0aA1EMS9hegyqo=;zf8mFBQYiuliKf/dCgUrAA=="
 ---

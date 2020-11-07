@@ -843,6 +843,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Chrissy Teigen jokes she isn't showering after hugging Kamala Harris at election rally"
+    excerpt: "Chrissy Teigen is on an emotional high after receiving a hug from Sen. Kamala Harris at a rally hosted by the Democratic vice presidential nominee."
+    publishedDateTime: 2020-11-04T07:25:00Z
+    webUrl: "https://www.foxnews.com/entertainment/chrissy-teigen-jokes-not-showering-hugging-kamala-harris-election-rally"
+    ampWebUrl: "https://www.foxnews.com/entertainment/chrissy-teigen-jokes-not-showering-hugging-kamala-harris-election-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/chrissy-teigen-jokes-not-showering-hugging-kamala-harris-election-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Chrissy-Teigen-Kamala-Harris-AP-Reuters.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden campaign says it can win White House without Florida or Pennsylvania"
     excerpt: "Joe Biden’s campaign says the Democratic presidential nominee can defeat President Trump and win the White House even without carrying two crucial battlegrounds – Florida and Pennsylvania."
     publishedDateTime: 2020-11-03T21:54:00Z
