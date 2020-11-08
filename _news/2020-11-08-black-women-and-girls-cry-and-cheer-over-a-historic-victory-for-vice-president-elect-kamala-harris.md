@@ -786,6 +786,36 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "Vice President-elect Kamala Harris delivers remarks after projected victory"
+    excerpt: "Vice President-elect Kamala Harris spoke to the nation on Saturday after Joe Biden was projected to win the presidential election. Watch her remarks here."
+    publishedDateTime: 2020-11-08T03:35:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-elect-kamala-harris-delivers-remarks-after-projected-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/08/cb8dc7fd-d795-44e1-a5df-0bb3a1c18b8c/thumbnail/1200x630/bfc6f410af2024cc02bfe44c9d614d7c/kamalaspeech-583378-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'This is the time to heal in America': President-elect Joe Biden uses his victory speech to address a fractured country"
+    excerpt: "The president-elect sought to reassure a divided nation that he would govern in their best interests and avoid the rancor that has defined Washington."
+    publishedDateTime: 2020-11-08T04:10:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-kamala-harris-presidential-victory-speech-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-kamala-harris-presidential-victory-speech-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-kamala-harris-presidential-victory-speech-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fa75e37f7d1cb0019e3a680?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Harris target of more misinformation than Pence, data shows"
     excerpt: "The report identified more than 1 million mentions since June on Twitter of Kamala Harris with hashtags or terms associated with misinformation about her."
     publishedDateTime: 2020-10-30T14:52:00Z
@@ -1576,6 +1606,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "5z5PihUTJUoTyLGcsYyq2IHrZEJ3BNf9A+nCFYm0JcQgRAdAUR/TMvhISOQBhbAwyE8tEHQdegxGNkCxx2Mr4eP0wkdULsChzI8UJ9VWB+zleTdIVkPz1Eiy/nM1SfgvlPwRd6tftIu0o3pMACmy8UXzsWjXOjB0ORsh44edg4x9xructoLPwFgNePWy7IZnYtlTpaiTG/Q5k2BGQ3lPxX0rVru2eYc/NV81xJU5NaAaELH88kJvMSiYT1VC8FuERPaNkrwDE1A5fPYI44TxH6AVnGvaUjGChcHBRK69Cd24BWNbQs6aHmh3U+ORtW0evycyoEis96IUIRt8BWtpwdaGTJeKOj2t7LpbVI6SVrs=;aNT77KyCK6Ycui3jbKDrvA=="
+secured: "/vKQRn3TmxoX3QrrG35NunELhX8zuTVrKbQr0NjUd8WZsbvY+z2wy65zwxrUXlXcznXJYiKjYCg/OrzONUPXXXAaiXB4Ujzsdekm7PLFPH5KHdc8KiUlFc/+J4NtLzJ6oHYec12+/bSmgXvWy6OE5XA+54waN4tS0dR0TO7aDbUIWGQyXte9guApKJ2XtZ9aCBuiyJNT5KtcILxjcSj4rd2I9hbShb6aVqtSYHXIlcOZkKBsgCkqKpjY3oZSm/zFhWxwc5Pc3bUbIpwQKwxQvFBJXR85IC8kMkAM23lt+QlWog46n5oEN2S6HcUzq0exhm1df1ixdzLz0PGm2MeafdAi7nijby3DXxjwdJlDD6oImpsBmLXaLN/v0Lmhu7zam2PJoBgKsvoP4XFyfaPsbZyYNg+sw9mEaiWpvwiGwbrUJYRTpeWDrhbiP13lqC1eSoEVkg84YUqoqr2Iczz1tqkDlUwXS3G6lYYrZA0kzPgTWgpjouWQTYEFWuAte95DJedrVCPuVo3BgxO94oNdJA==;ZJbpWhVOwRdgUxC1raypwA=="
 ---
 

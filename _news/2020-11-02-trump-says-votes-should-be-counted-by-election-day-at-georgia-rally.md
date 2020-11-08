@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -337,6 +337,20 @@ related:
     quality: 115
     images:
       - url: "https://images.wsj.net/im-256696?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Trump Supporters Gather in Deep-Blue D.C."
+    excerpt: "A few dozen supporters of President Trump gathered at the foot of the Washington monument Saturday afternoon near a similarly sized band of people cheering the victory of Joe Biden. The Trump supporters waved campaign signs and chanted “four more years,"
+    publishedDateTime: 2020-11-08T04:36:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/Z8tg4tdS1mDKMIzomMiD"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-256849?size=1.5"
         width: 1280
         height: 853
         isCached: true

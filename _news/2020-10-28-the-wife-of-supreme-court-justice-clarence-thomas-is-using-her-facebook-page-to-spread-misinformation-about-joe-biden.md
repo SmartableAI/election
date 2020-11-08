@@ -197,6 +197,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'This is a time to heal in America' -Biden"
+    excerpt: "Biden. Posted . President-elect Joe Biden declared it was \"time to heal\" America in his first speech after prevailing on Saturday (No"
+    publishedDateTime: 2020-11-08T04:29:00Z
+    webUrl: "https://www.reuters.com/video/watch/this-is-a-time-to-heal-in-america-biden-id721687002?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201108&i=OVD3KQ95R&r=OVD3KQ95R&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Here’s What We Know About Joe Biden’s COVID-19 Plan"
     excerpt: "Biden gave a speech on his COVID-19 plan on Oct. 23, and he and running mate Senator Kamala Harris have circulated a seven-point plan for “beat [ing] COVID-19 and get [ting] our country back on track."
     publishedDateTime: 2020-10-30T18:25:00Z

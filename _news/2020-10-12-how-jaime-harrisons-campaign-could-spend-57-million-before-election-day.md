@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Read: Vice president-elect Kamala Harris' historic victory speech"
+    excerpt: "And for making this victory possible. To the poll workers and election officials across our country who have worked tirelessly to make sure every vote is counted, our nation owes you a debt of gratitude."
+    publishedDateTime: 2020-11-08T02:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/read-vice-president-elect-kamala-harris-historic-victory-speech-n1247017"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247017"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247017"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_45/3426852/201107-kamala-harris-full-speech-se-941p_33d638019f9cdaf5bf9a2f831c76f4fe.jpg"
+        width: 2500
+        height: 1646
+        isCached: true
   - title: "Kamala Harris’ Debate Win: The Redemption of the American Woman Has Begun"
     excerpt: "It’s been a long, nightmarish four years for the American woman. But we’re coming back, and the Democratic veep is leading the way."
     publishedDateTime: 2020-10-08T17:15:00Z

@@ -5461,6 +5461,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Chicago Area Leaders React After Joe Biden, Kamala Harris Projected To Defeat President Donald Trump, VP Mike Pence"
+    excerpt: "Gov. JB Pritzker said \"America elected a President and Vice President who will lead with compassion, restore dignity to the office, and give us hope for a brighter future.\""
+    publishedDateTime: 2020-11-07T21:24:00Z
+    webUrl: "https://chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/"
+    ampWebUrl: "https://chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/amp/"
+    cdnAmpWebUrl: "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 88
   - title: "PHOTOS: Vice President Mike Pence and Calif. Sen. Kamala Harris meet for vice presidential debate"
     excerpt: "Vice President Mike Pence and Calif. Sen. Kamala Harris met Wednesday for the single vice presidential debate before the Nov. 3, 2020, general election."
     publishedDateTime: 2020-10-08T03:40:00Z

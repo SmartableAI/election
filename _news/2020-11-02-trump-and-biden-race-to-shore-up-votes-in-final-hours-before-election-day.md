@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 4264
+heat: 4284
 published: true
 
 provider:
@@ -2014,6 +2014,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/06/business/06distortions-trump-tweets-promo/06distortions-trump-tweets-promo-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Hear Joe Biden's message to Trump supporters"
+    excerpt: "In his first address as President-elect, Joe Biden reached out to Trump supporters and urged all Americans to \"put away the harsh rhetoric\" and stop treating those with opposing political views as enemies."
+    publishedDateTime: 2020-11-08T02:13:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2020/11/08/joe-biden-victory-election-speech-trump-supporters-sot-postelex-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/08/joe-biden-victory-election-speech-trump-supporters-sot-postelex-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/08/joe-biden-victory-election-speech-trump-supporters-sot-postelex-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Sick of getting texts from the Biden or Trump campaigns? You're not alone"
     excerpt: "The campaigns of President Donald Trump and the Democratic presidential nominee Joe Biden didn’t respond to requests for comment on their texting strategies or on consumer complaints, which in recent days have been common on social media. Lindsay said ..."

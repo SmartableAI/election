@@ -414,6 +414,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden family joins president-elect on victory speech stage, Hunter included"
+    excerpt: "Ahead of President-elect Joe Biden’s 2020 election victory speech Saturday night, he said his family would be present for the event, raising questions about whether that included his son Hunter would be involved."
+    publishedDateTime: 2020-11-08T02:57:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p09IbPPdasw/biden-family-president-elect-victory-speech-hunter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-family-president-elect-victory-speech-hunter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-family-president-elect-victory-speech-hunter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313075068424.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign adviser Lewandowski predicts clear election winner with Trump victories in major swing states"
     excerpt: "President Trump has warned that Americans may not learn the results of the presidential election until well after Election Day due to certain battleground states extending the deadline for accepting mailed ballots, but Trump campaign senior adviser Corey Lewandowski predicted that Trump will win so decisively"
     publishedDateTime: 2020-11-01T15:08:25Z

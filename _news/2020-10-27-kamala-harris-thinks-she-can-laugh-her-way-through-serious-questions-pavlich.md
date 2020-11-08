@@ -1052,6 +1052,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Vice President-elect Kamala Harris tweets video of call talking to President-elect Joe Biden: 'We did it, Joe'"
+    excerpt: "Vice President-elect Kamala Harris posted a video of herself talking to President-elect Joe Biden Saturday. “We did. We did it Joe,” Harris said while on the phone with Biden. “You’re going to be the next president of the United States,"
+    publishedDateTime: 2020-11-08T03:23:00Z
+    webUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-tweets-video-of-phone-call-talking-to-president-elect-joe-biden-we-did-it-joe"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-elect-kamala-harris-tweets-video-of-phone-call-talking-to-president-elect-joe-biden-we-did-it-joe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-kamala-harris-tweets-video-of-phone-call-talking-to-president-elect-joe-biden-we-did-it-joe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e54ef10d-ee7f-4aee-b30d-3a4076951d2c/0765cdea-a6a3-4872-bd37-a9d44ccb5ba5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris Makes Last-Minute Push for Votes in Michigan"
     excerpt: "Democratic vice presidential nominee Kamala Harris is spending Election Day in Michigan for a final get-out-the-vote effort before joining Joe Biden in Wilmington, Del. Upon arriving at Detroit Metro Airport Tuesday afternoon,"
     publishedDateTime: 2020-11-03T19:36:00Z

@@ -191,6 +191,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'This is a time to heal in America' -Biden"
+    excerpt: "Biden. Posted . President-elect Joe Biden declared it was \"time to heal\" America in his first speech after prevailing on Saturday (No"
+    publishedDateTime: 2020-11-08T04:29:00Z
+    webUrl: "https://www.reuters.com/video/watch/this-is-a-time-to-heal-in-america-biden-id721687002?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201108&i=OVD3KQ95R&r=OVD3KQ95R&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
     excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
     publishedDateTime: 2020-10-28T04:13:00Z

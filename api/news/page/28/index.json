@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-07-mike-pence-what-you-need-to-know-about-the-republican-nominee-for-vice-president.md",
+      "title": "Mike Pence: What you need to know about the Republican nominee for vice president",
+      "excerpt": "Everything you need to know about Vice President Mike Pence, Donald Trump's vice president on the Republican ticket.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "originalUrl": "https://abcnews.go.com/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/republican-national-convention-night-3-43-gty-jc-200826_1598496693180_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "publishedDateTime": "2020-10-07T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-mike-pence-gets-a-rare-moment-in-the-national-spotlight.md",
       "title": "Mike Pence Gets A Rare Moment In The National Spotlight",
       "excerpt": "Vice President Mike Pence takes the stage for a debate with Kamala Harris in Salt Lake City Wednesday night. The debate comes amid President Trump's treatment for COVID-19. Pence has tested negative.",
@@ -1315,58 +1367,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trumps-favorite-trade-scorecard-posts-its-worst-figure-since-2006-as-the-election-looms.md",
-      "title": "Trump's favorite trade scorecard posts its worst figure since 2006 as the election looms",
-      "excerpt": "Shipments of consumer goods led the jump in imports and hit a record high as companies prepared for holiday-season spending.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10",
-      "originalUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 271,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7c728c282c500018c78c61?format=jpeg",
-          "width": 5629,
-          "height": 2814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10?amp",
-      "publishedDateTime": "2020-10-06T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

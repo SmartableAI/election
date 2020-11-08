@@ -1181,6 +1181,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Mexico's president won't congratulate Biden until legal challenges resolved"
+    excerpt: "Mexican President Andres Manuel Lopez Obrador said on Saturday he would not congratulate a winner of the U.S. presidential election until legal challenges are concluded, in an apparent bid to avoid friction with Washington during the transition."
+    publishedDateTime: 2020-11-08T06:31:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-mexico/update-1-mexicos-president-wont-congratulate-biden-until-legal-proceedings-over-idUSL1N2HU00E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O005"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O005"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540411977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA703U"
+        width: 816
+        height: 545
+        isCached: true
   - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
     excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
     publishedDateTime: 2020-11-02T22:53:00Z
@@ -1612,6 +1628,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden celebrates victory, pledges to unify country"
+    excerpt: "Joe Biden is pledging to be a president “who seeks not to divide but to unify.” Biden delivered his first remarks as president-elect at a victory party in Wilmington, after he was officially declared the winner of the presidential election ."
+    publishedDateTime: 2020-11-08T04:20:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/08/biden-celebrates-victory-pledges-unify-country/6211371002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1d7c6b52-ba90-4486-bb50-c0d6ec9c1549_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden faces deep divide with Congress"
+    excerpt: "Watch \"Joe Biden's presidency faces deep divide with Congress\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-08T04:25:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201108031625-joe-bidens-presidency-faces-deep-divide-with-congress/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/08/story_07597404_1604806024.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden is the next president of the United States"
     excerpt: "Top News Joe Biden is the next president of the United States. Posted [NFA] Democrat Joe Biden defeated President Donald Trump to become the next president of the United States, a"
     publishedDateTime: 2020-11-07T16:53:00Z
@@ -2076,6 +2120,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8hztuH4/y2uq9SlqmGXfMa/t9DETjVdQ19RSUpWNmyPIUHmWruaPRO+6/56kxVbku2UaxMSHcJxXTQUJSytiszJUOtNFm74VRXK1TWZ3+QVomekSt5SDq4OKRsV/zuHhLP5Rpzv0n/oZqk7nfaIu6RCsngGorjpYPmyTu2vz2QPQvLP9O0vFhPRU9KeL1KF8hIS272RgojigaH8l99IaKOjQANgrxYW/DOO09WOCK+9KhqRW9ROZYD2ESec3/oQPUo8u8K3Kl+i4kQAh8ydnsJJAGjUom1uiNukioIoMJX9bzDCAprldNUivYVN0+2u2GWEG+Iasz+S22xlzlAV1WSwgfrtXaW1R8dZJHFHIQFU=;ut+kHhUsguB5HGgijffiqg=="
+secured: "SIrtXqzGFPzUdREUK0RANYGl82nZnLEseOw6klNBhBC4KrWjvUmuWVF3PUY0+rzEMLNY6C/+wtgnqALmWgg0kZna9jwE5rIo510kG6zQYVr7puNKLa4AKwkP6QiCtoTy8Ape3wm/IFvZv2fKevBmSgvQXG0xSgmYvpB1LB3x4XSQaCpo5K9AX/L67ZsdyrCU+GO+uvuJ3jqF/9O/Tc8z5yhvOW+Ep+mCL6tluBO9uXW+jJn/NXxtsvoXh7rZEn85yUlVXs9ItTO2jzpoLhTdYFVCapj0VFLHh8m+oxx1t0slWlHbKyisR2p5zSJMQVdCdDYX6HichDDepHzfEgWpX+lSrl6rzOdIvAso5FlKdXFg50HKS1T0K/P/pd9VMTaop2SrUaR2hQTET1B0aBxOtRARmn5d2FR8zURaKvw6eWR6xEISshViBNfep89FpT7+M3ByRpZdAjP3jbS6pH1VzW4LaZdkeMyItx0O4epXXx63eiDqfuES8XNPoA7frXNcrwiUzJPsd9gaTxz3dZu3NQ==;qGZ2It0rilquZeE9Ruta9Q=="
 ---
 

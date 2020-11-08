@@ -415,6 +415,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden family joins president-elect on victory speech stage, Hunter included"
+    excerpt: "Ahead of President-elect Joe Biden’s 2020 election victory speech Saturday night, he said his family would be present for the event, raising questions about whether that included his son Hunter would be involved."
+    publishedDateTime: 2020-11-08T02:57:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p09IbPPdasw/biden-family-president-elect-victory-speech-hunter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-family-president-elect-victory-speech-hunter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-family-president-elect-victory-speech-hunter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313075068424.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Top GOPers say to wait for vote counts after Biden projected to beat Trump, others congratulate new president"
     excerpt: "Some Republicans are insisting that Americans wait for vote counts to be finalized and certified after the Fox News Decision Desk projected that President-elect Biden will beat President Trump and become the 46th president of the United States, while others congratulated Biden on his win Saturday."
     publishedDateTime: 2020-11-07T20:01:59Z

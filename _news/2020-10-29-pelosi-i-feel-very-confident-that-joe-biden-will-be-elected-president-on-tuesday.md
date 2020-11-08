@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden victory-speech event mixes jubilation with social distancing"
+    excerpt: "President-elect Joe Biden wrapped up his campaign Saturday by giving a victory speech at a drive-in rally in Wilmington, Del. alongside Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-08T03:58:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/56K8_QKJ3nI/biden-victory-speech-event-mixes-jubilation-with-social-distancing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-victory-speech-event-mixes-jubilation-with-social-distancing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-victory-speech-event-mixes-jubilation-with-social-distancing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313085958169.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
     excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."
     publishedDateTime: 2020-10-25T16:15:17Z

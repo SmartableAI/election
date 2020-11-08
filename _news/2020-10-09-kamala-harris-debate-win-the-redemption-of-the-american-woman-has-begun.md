@@ -120,6 +120,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Read: Vice president-elect Kamala Harris' historic victory speech"
+    excerpt: "And for making this victory possible. To the poll workers and election officials across our country who have worked tirelessly to make sure every vote is counted, our nation owes you a debt of gratitude."
+    publishedDateTime: 2020-11-08T02:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/read-vice-president-elect-kamala-harris-historic-victory-speech-n1247017"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247017"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247017"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_45/3426852/201107-kamala-harris-full-speech-se-941p_33d638019f9cdaf5bf9a2f831c76f4fe.jpg"
+        width: 2500
+        height: 1646
+        isCached: true
 
 secured: "bMKItcKAd7VVcAs1Tu3FwvGmGVNAfdlIjZtLnejV10abKTKF2iQP+2JNsPzo53Zh6a32zor5AlyJg/QOyi6XSulel9DaWbgoOAmjkH6diNGBe64K6Vg4BWzGuJS+PQm1mQBvyTdXRU8D2XEyipxYCs0XxYTH9W/3m05Dh8cu62M17oP8TlA/jVSJrztHgqt2v/Sac96iB56qpKO1+FI6zSRrh7K/TlZwMNIEHTDuGjhz6oDAeng11XuQDPHPw1lY/HxOmKpv+0HQJvIa0qG8SRXaZPKZtL2z5ATQ0yV1M41DMaThYED4Xz3xW7/Klhg/imXo++N0hRIytD/VPUFHzKWO+4xIWLGtfK/Flx19eg64hnqiDeAIcXFSje6qmDQpBzDJjdc8O3yn2ee0sVlLIcUPPoFMxco5svDgio9rfjyyL3pEFLNvFdsvryi1YZWQKI4TjUKwAD289uRYlymPJ33J6xfX+G2r42nCb/7hVyIS+/rys5PXMrus6I83adusfPbE1HLinbmyLoykJA98IQ==;5wI3yY+L0GYNDqNju81tkg=="
 ---

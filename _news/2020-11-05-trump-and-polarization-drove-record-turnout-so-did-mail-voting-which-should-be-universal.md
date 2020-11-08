@@ -392,6 +392,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump dropped 3 agency heads in the days following the election, amid reports that more departures could be coming"
+    excerpt: "The departures came amid speculation that other agency heads and government officials may be fired or resign from the Trump administration."
+    publishedDateTime: 2020-11-08T05:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fa777b71df1d5001821977a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Inside the Trump campaign as it grapples with defeat while plowing forward with legal fight"
     excerpt: "Inside the campaign, fatigue and disappointment has hit the rank and file on the president’s team, and the reality is settling in that the president lost the election."
     publishedDateTime: 2020-11-08T02:08:00Z

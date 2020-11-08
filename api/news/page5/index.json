@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-03-john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris.md",
+      "title": "John Legend appears to jab at Trump fans Ice Cube, Lil Wayne during rally for Kamala Harris",
+      "excerpt": "John Legend appears to be shading a few colleagues in the music industry.  During a final rally for Democratic vice presidential nominee Sen. Kamala Harris in Philadelphia, Legend took the stage to perform with fellow artist Common,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris",
+      "originalUrl": "https://www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/John-Legend.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris.amp",
+      "publishedDateTime": "2020-11-02T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-twitter-facebook-flag-trump-post-questioning-supreme-court-voting-decision.md",
       "title": "Twitter, Facebook flag Trump post questioning Supreme Court voting decision",
       "excerpt": "Twitter <TWTR.N> and Facebook <FB.O> late on Monday both flagged a post by President Donald Trump that called a U.S. Supreme Court decision on voting in Pennsylvania \"very dangerous.\"",
@@ -391,7 +448,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1695,
+      "heat": 1715,
       "tags": null,
       "images": [
         {
@@ -886,7 +943,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2813,
+      "heat": 2873,
       "tags": null,
       "images": [
         {
@@ -1288,58 +1345,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-donald-trump-threatens-to-fire-anthony-fauci-after-us-election.md",
-      "title": "Donald Trump threatens to fire Anthony Fauci after US election",
-      "excerpt": "President plays up to chants of ‘Fire Fauci’ at curfew-breaching Florida rally",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "originalUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 720,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c8badd8268933ba924e08c538154c63169eb8efc/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c3b474212f71a4627a0c35b42391f3f6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "publishedDateTime": "2020-11-01T22:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

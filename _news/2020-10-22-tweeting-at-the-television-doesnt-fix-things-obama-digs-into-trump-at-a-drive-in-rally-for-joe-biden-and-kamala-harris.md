@@ -5450,6 +5450,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Chicago Area Leaders React After Joe Biden, Kamala Harris Projected To Defeat President Donald Trump, VP Mike Pence"
+    excerpt: "Gov. JB Pritzker said \"America elected a President and Vice President who will lead with compassion, restore dignity to the office, and give us hope for a brighter future.\""
+    publishedDateTime: 2020-11-07T21:24:00Z
+    webUrl: "https://chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/"
+    ampWebUrl: "https://chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/amp/"
+    cdnAmpWebUrl: "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 88
   - title: "Watch here: Vice presidential debate between Mike Pence and Kamala Harris with live fact-checking"
     excerpt: "The vice presidential debate between Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris begins at 8 p.m. CT Wednesday. It is the only scheduled debate between the vice presidential hopefuls and will be hosted b Washington Bureau chief Susan Page at the University of Utah in Salt Lake City."
     publishedDateTime: 2020-10-07T15:11:00Z

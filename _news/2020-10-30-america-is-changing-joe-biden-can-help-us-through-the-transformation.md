@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -180,6 +180,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/9142dafc77dd950484bb58226b8c3538659c105a/0_27_3345_2007/master/3345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2359d5223ac0027762ca04de6d5cebf"
         width: 1200
         height: 630
+        isCached: true
+  - title: "'This is a time to heal in America' -Biden"
+    excerpt: "Biden. Posted . President-elect Joe Biden declared it was \"time to heal\" America in his first speech after prevailing on Saturday (No"
+    publishedDateTime: 2020-11-08T04:29:00Z
+    webUrl: "https://www.reuters.com/video/watch/this-is-a-time-to-heal-in-america-biden-id721687002?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201108&i=OVD3KQ95R&r=OVD3KQ95R&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
     excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."

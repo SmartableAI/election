@@ -2032,6 +2032,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Hear Joe Biden's message to Trump supporters"
+    excerpt: "In his first address as President-elect, Joe Biden reached out to Trump supporters and urged all Americans to \"put away the harsh rhetoric\" and stop treating those with opposing political views as enemies."
+    publishedDateTime: 2020-11-08T02:13:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2020/11/08/joe-biden-victory-election-speech-trump-supporters-sot-postelex-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/08/joe-biden-victory-election-speech-trump-supporters-sot-postelex-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/08/joe-biden-victory-election-speech-trump-supporters-sot-postelex-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Biden Converge in Florida, an Elusive Prize Still Up for Grabs"
     excerpt: "The presidential rivals both appeared in Tampa, confronting their vulnerabilities and courting a range of voters, a clear sign that both see their political fortunes tied to the state."
     publishedDateTime: 2020-10-30T00:56:00Z

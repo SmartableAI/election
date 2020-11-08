@@ -2030,6 +2030,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Hear Joe Biden's message to Trump supporters"
+    excerpt: "In his first address as President-elect, Joe Biden reached out to Trump supporters and urged all Americans to \"put away the harsh rhetoric\" and stop treating those with opposing political views as enemies."
+    publishedDateTime: 2020-11-08T02:13:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2020/11/08/joe-biden-victory-election-speech-trump-supporters-sot-postelex-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/08/joe-biden-victory-election-speech-trump-supporters-sot-postelex-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/08/joe-biden-victory-election-speech-trump-supporters-sot-postelex-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Sick of getting texts from the Biden or Trump campaigns? You're not alone"
     excerpt: "The campaigns of President Donald Trump and the Democratic presidential nominee Joe Biden didn’t respond to requests for comment on their texting strategies or on consumer complaints, which in recent days have been common on social media. Lindsay said ..."
     publishedDateTime: 2020-10-30T15:11:00Z

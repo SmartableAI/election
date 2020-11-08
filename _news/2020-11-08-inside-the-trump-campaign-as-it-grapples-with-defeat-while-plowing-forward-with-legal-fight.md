@@ -392,6 +392,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump dropped 3 agency heads in the days following the election, amid reports that more departures could be coming"
+    excerpt: "The departures came amid speculation that other agency heads and government officials may be fired or resign from the Trump administration."
+    publishedDateTime: 2020-11-08T05:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fa777b71df1d5001821977a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
     excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
     publishedDateTime: 2020-11-05T08:09:00Z
@@ -575,6 +591,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "pe4mcRze69IgmT8LQYkbvORH91kKlLBcpvoV31nOmfQ2zhpZChOHDDHAr/hmP/CeI0Xd8Dj2r1VrH3HNaosRSjGPzh04UPuSiiNGQ5k1gF7SMvqB6WRxIHoKKbmj/vz3EQfm8DkITiPrYnt7T8szHVKy0G4y480KzXQi58GO1cIoIviaOR+85T/Vk1WNOKxtCd91p+shGkKw/m7Gekxud96V377OHGBfT8kG6apoozjYwEUAPuIAyYxJc1wM2YJoTVXaTLkplmOd9czNldFbIWVb+1mwMYblSIBl73Xcy8zL5Q6qxZK968w7IJXC/2FN/tk2HtqP2k8heI0lnrXIp9bnb8oQqtwgvMI9Abrf07k=;zuSG4Q8+UhpuM+qx0cNjYw=="
+secured: "0BBIjbtCZwSyoHh32QodiFrjF6BWlOtvcBB95uLzuQpMPlvoFhDx+VN1djcOMDHWoxFcSVy+aFFNCfy0Uejl1fuz+75tBWUbIakcCDL1sbbWTg8broCloB1UmzTnYUH6n4QPH9k4lOZcAp3XfKEq9UgxzYjgwxU43iTZAycdUpz97d/gVf5rn00W3eZ01n0MzX8Ch59Jb/paprvkfH6BJIOfODZlvQ+Z+wLt9KNtuQaFlZAczh3Q2UwdWf5By84dgd5CphPa0971w/aVrPpOmNk/Bc38prHt2zqcY0j63htIvN8ojAF03ag+KWpeBNoop7fSZFnyTyFpf4T8C+2xkqxglWQMzl86yVvy59gCO+Ufk9q0sVzCXkL+jZVt80ZMXsN9sRa6cx6hV0+Lz74tuawlKQJ5iT7tJlPAy2yygvoJ+G6OiVREjuA4Snza8wcNePpbdFHN9lF2njGO79LcrBdo1pA3HC3Ir/ieCC+QmaMXZYlfGfvc7jqAsPeH0r7Z/XpCGyYcSqqNK+Zi/J4WUg==;dSREdtMIeuY94PY1zDJGkg=="
 ---
 
