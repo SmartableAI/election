@@ -2354,6 +2354,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Watch: President-Elect Joe Biden, Vice-President Elect Kamala Harris Declare Victory"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala D. Harris will speak on Nov. 7 from Wilmington after their victory over President Trump in the 2020 presidential election."
+    publishedDateTime: 2020-11-08T11:18:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/07/watch_live_president-elect_joe_biden_vice-president_elect_kamala_harris_declare_victory.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
+    images:
+      - url: "https://assets.realclear.com/images/52/526493.jpg"
+        width: 1028
+        height: 770
+        isCached: true
   - title: "Kamala Harris doesn't want to talk about her ticket's liberal policy agenda"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris spent much of Wednesday night’s debate trying to run away from the liberal policy agenda that she and Joe Biden spent much of their presidential runs advocating."
     publishedDateTime: 2020-10-08T04:25:00Z

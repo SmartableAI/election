@@ -1679,6 +1679,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "A large majority of Brits wanted Biden to defeat Trump in the US election, a new opinion poll has found"
+    excerpt: "An opinion poll showed that 57% of Brits wanted Biden to triumph in the US election, while only 16% supported Trump."
+    publishedDateTime: 2020-11-08T12:20:00Z
+    webUrl: "https://www.businessinsider.com/large-majority-brits-wanted-joe-biden-defeat-trump-us-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/large-majority-brits-wanted-joe-biden-defeat-trump-us-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/large-majority-brits-wanted-joe-biden-defeat-trump-us-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 139
+    images:
+      - url: "https://i.insider.com/5f9862340c60aa00190d495d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump to Biden transition could be rockier than most, some experts worry"
     excerpt: "U.S. law maps out clear instructions for an orderly transfer of power from one president to the next, but Joe Biden's path is expected to be rockier than most of his modern-day predecessors."
     publishedDateTime: 2020-11-07T20:05:00Z

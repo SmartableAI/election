@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-vote
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
 type: article
 quality: 133
-heat: 713
+heat: 733
 published: true
 
 provider:
@@ -417,6 +417,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump"
+    excerpt: "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him."
+    publishedDateTime: 2020-11-08T11:19:00Z
+    webUrl: "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "United States cannot replace President Trump as defendant in columnist’s lawsuit related to rape allegation, federal judge rules"
     excerpt: "A federal judge on Tuesday denied President Donald Trump’s request that the United States replace him as the defendant in a defamation lawsuit alleging he raped a woman."

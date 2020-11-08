@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A0BB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A0BB"
 type: article
 quality: 155
-heat: 10355
+heat: 10375
 published: true
 
 provider:
@@ -1662,6 +1662,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539218779&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0BJ"
         width: 817
         height: 545
+        isCached: true
+  - title: "A large majority of Brits wanted Biden to defeat Trump in the US election, a new opinion poll has found"
+    excerpt: "An opinion poll showed that 57% of Brits wanted Biden to triumph in the US election, while only 16% supported Trump."
+    publishedDateTime: 2020-11-08T12:20:00Z
+    webUrl: "https://www.businessinsider.com/large-majority-brits-wanted-joe-biden-defeat-trump-us-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/large-majority-brits-wanted-joe-biden-defeat-trump-us-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/large-majority-brits-wanted-joe-biden-defeat-trump-us-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 139
+    images:
+      - url: "https://i.insider.com/5f9862340c60aa00190d495d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden narrowly beats Trump for presidency in deeply divided United States"
     excerpt: "Democrat Joe Biden won the U.S. presidential election on Saturday after a bitter campaign, sparking street celebrations among his supporters in major cities even as President Donald Trump refused to accept defeat."

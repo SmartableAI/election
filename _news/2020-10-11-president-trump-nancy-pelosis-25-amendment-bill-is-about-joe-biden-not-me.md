@@ -2348,6 +2348,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Watch: President-Elect Joe Biden, Vice-President Elect Kamala Harris Declare Victory"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala D. Harris will speak on Nov. 7 from Wilmington after their victory over President Trump in the 2020 presidential election."
+    publishedDateTime: 2020-11-08T11:18:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/07/watch_live_president-elect_joe_biden_vice-president_elect_kamala_harris_declare_victory.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
+    images:
+      - url: "https://assets.realclear.com/images/52/526493.jpg"
+        width: 1028
+        height: 770
+        isCached: true
   - title: "Donna Edwards: Trump Acts Like He's Running Against Barack Obama And Hillary Clinton, Not Joe Biden"
     excerpt: "Former Democratic Rep. Donna Edwards marveled at President Trump focusing on Hillary Clinton's emails four years later during a conversation Friday with MSNBC's Nicole Wallace. \"Donald Trump today ran against Barack Obama,"
     publishedDateTime: 2020-10-09T23:56:00Z

@@ -1023,6 +1023,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: What Joe Biden's win means for the world"
+    excerpt: "The free world will have a new leader.\n    \n"
+    publishedDateTime: 2020-11-08T08:46:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HaR_6HfeCbk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/us-election-biden-wins-world-analysis-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/us-election-biden-wins-world-analysis-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107121330-joe-biden-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President-elect Joe Biden seeks to unite nation with victory speech"
     excerpt: "President-elect Joe Biden will speak to a deeply divided nation tonight, making a plea for unity and understanding after four years of turmoil and conflict fomented by President Donald Trump, who showed no indication Saturday that he plans to concede and continued to push the falsehood that he had won"
     publishedDateTime: 2020-11-08T02:27:25Z

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-04-biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.md",
+      "title": "Biden surrogate Coons says campaign is 'cautiously optimistic' about election results",
+      "excerpt": "The Biden campaign is \"cautiously optimistic\" heading into election night and believes it will ultimately come out ahead in the key battleground of Pennsylvania, one of its surrogates told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aiajxzvDEo/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aiajxzvDEo/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.amp",
+      "publishedDateTime": "2020-11-03T17:40:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-ex-gov-and-ex-inmate-rod-blagojevich-votes-trump-having-commuted-sentence.md",
       "title": "Ex-Gov. and Ex-Inmate Rod Blagojevich Votes, Trump Having Commuted Sentence",
       "excerpt": "Former Illinois Gov. Rod Blagojevich cast his first ballot Tuesday since President Trump [earlier this year]( commuted his 14-year sentence for multiple corruption crimes. He voted a split ticket. “It",
@@ -1597,62 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany.amp",
       "publishedDateTime": "2020-10-31T09:21:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-ivanka-trump-says-she-is-unapologetically-pro-life.md",
-      "title": "Ivanka Trump says she is 'unapologetically' pro-life",
-      "excerpt": "Ivanka Trump this week said that she is “unapologetically” pro-life, adding that motherhood changed how she thinks about the abortion issue.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fX1ewM5PPsE/ivanka-trump-says-she-is-unapolagetically-pro-life",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fX1ewM5PPsE/ivanka-trump-says-she-is-unapolagetically-pro-life",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301701834860.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-says-she-is-unapolagetically-pro-life.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-says-she-is-unapolagetically-pro-life.amp",
-      "publishedDateTime": "2020-10-31T00:51:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

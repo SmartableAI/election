@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-08-giuliani-says-trump-wont-concede-amid-legal-challenges.md",
+      "title": "Giuliani says Trump won't concede amid legal challenges",
+      "excerpt": "President Trump wouldn’t concede the election at this point and the race is “far from over,” Rudy Guiliani said Saturday at a news conference in Philadelphia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScCCiaiEkaA/giuliani-says-trump-wont-concede-amid-legal-cahllenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScCCiaiEkaA/giuliani-says-trump-wont-concede-amid-legal-cahllenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312640775001.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp",
+      "publishedDateTime": "2020-11-08T02:59:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-de-blasio-breaks-social-distancing-poses-for-biden-win-selfies-as-thousands-gather-shoulder-to-shoulder.md",
       "title": "De Blasio breaks social distancing, poses for Biden win selfies as thousands gather shoulder-to-shoulder",
       "excerpt": "In New York City, outspoken Trump critic Mayor Bill de Blasio shared selfies of himself and other New Yorkers, wearing masks but standing without social distancing with a crowd of people in the background.",
@@ -1602,62 +1658,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60.amp",
       "publishedDateTime": "2020-11-03T22:56:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.md",
-      "title": "Biden surrogate Coons says campaign is 'cautiously optimistic' about election results",
-      "excerpt": "The Biden campaign is \"cautiously optimistic\" heading into election night and believes it will ultimately come out ahead in the key battleground of Pennsylvania, one of its surrogates told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aiajxzvDEo/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aiajxzvDEo/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.amp",
-      "publishedDateTime": "2020-11-03T17:40:35-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

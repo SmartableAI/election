@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L0XU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L0XU"
 type: article
 quality: 150
-heat: 2430
+heat: 2450
 published: true
 
 provider:
@@ -297,6 +297,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540419279&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA709I"
         width: 879
+        height: 545
+        isCached: true
+  - title: "Palestinians congratulate Biden, indicate end to boycott of U.S."
+    excerpt: "Palestinian President Mahmoud Abbas on Sunday congratulated U.S. President-elect Joe Biden in a statement that indicated he will drop his three-year political boycott of the White House."
+    publishedDateTime: 2020-11-08T12:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-palestinians/palestinians-congratulate-biden-indicate-end-to-boycott-of-u-s-idUSKBN27O0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540426012&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70DW"
+        width: 778
         height: 545
         isCached: true
   - title: "Biden on verge of winning U.S. presidency, leads in Pennsylvania, Georgia"

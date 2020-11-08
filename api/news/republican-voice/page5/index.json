@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-23-democratic-rep-xochitl-torres-small-slams-biden-over-oil-remarks-at-debate-says-policy-is-out-of-touch.md",
+      "title": "Democratic Rep. Xochitl Torres Small slams Biden over oil remarks at debate, says policy is 'out of touch'",
+      "excerpt": "Biden said he would pursue policies that would “transition from the oil industry” if elected to office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a95G0z8pc0Y/democratic-rep-xochitl-torres-small-biden-oil-remarks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a95G0z8pc0Y/democratic-rep-xochitl-torres-small-biden-oil-remarks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62eb375b-2614-452e-a194-9b9665c58ee5/4bd50378-6878-40f5-aec4-aefdb644aaf6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democratic-rep-xochitl-torres-small-biden-oil-remarks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-rep-xochitl-torres-small-biden-oil-remarks.amp",
+      "publishedDateTime": "2020-10-23T14:45:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-gregg-jarrett-hunter-biden-laptop-scandal-even-if-joe-biden-wins-theres-no-way-out-now.md",
       "title": "Gregg Jarrett: Hunter Biden laptop scandal — Even if Joe Biden wins, there's no way out now",
       "excerpt": "In the Hunter Biden laptop scandal, the unresolved and trenchant questions are: how much did Joe Biden know and to what extent was he involved",
@@ -1587,62 +1643,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp",
       "publishedDateTime": "2020-10-20T05:44:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-continues-swing-through-battleground-states-with-stop-in-pennsylvania.md",
-      "title": "Trump continues swing through battleground states with stop in Pennsylvania",
-      "excerpt": "With the November election exactly two weeks away, President Trump is continuing his tour of the pivotal battleground states with a campaign stop in Pennsylvania, where he's currently trailing Democratic rival Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkEnqKrT4kw/trump-biden-harris-pence-campaign-trail-october-20",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkEnqKrT4kw/trump-biden-harris-pence-campaign-trail-october-20",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44a51563-b1f8-4175-9291-2372bfcfd512/993301a0-09e7-401d-b6b2-8cd86a8d4fe1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp",
-      "publishedDateTime": "2020-10-20T04:49:03-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

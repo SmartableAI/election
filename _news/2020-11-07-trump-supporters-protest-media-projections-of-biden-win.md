@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Trump supporters protest media projections of Biden win"
-excerpt: ""
+excerpt: "Supporters of President Trump took to the streets Saturday to voice their distrust in the media's projection that Joe Biden won the presidential election. "
 publishedDateTime: 2020-11-07T23:44:51Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhgHDR5FKwg/trump-supporters-protest-media-projections-of-biden-win"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhgHDR5FKwg/trump-supporters-protest-media-projections-of-biden-win"

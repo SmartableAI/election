@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Read: Vice President-elect Kamala Harris' remarks"
+    excerpt: "As prepared for delivery.\n    \n"
+    publishedDateTime: 2020-11-08T02:20:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GmwdwKuWrfU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-vp-elect-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-vp-elect-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107203713-07-biden-harris-address-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Jaime Harrison's campaign could spend $57 million before Election Day"
     excerpt: "It's a question most workaday campaign consultants could only dream of: how to spend $57 million in South Carolina in the final three weeks before Election Day, with voting already underway.\n    \n"
     publishedDateTime: 2020-10-12T09:07:03Z

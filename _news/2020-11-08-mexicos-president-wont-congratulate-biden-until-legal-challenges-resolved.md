@@ -47,6 +47,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Factbox: Trump sues in Arizona, court battles continue as Biden wins U.S. election"
+    excerpt: "U.S. President Donald Trump's campaign said on Saturday it had filed a lawsuit in Arizona, its latest legal challenge over the results of the presidential election."
+    publishedDateTime: 2020-11-08T11:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-legal-challenges-factbox-idUSKBN27O0EY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0EY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0EY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 149
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540424036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70CX"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Election 2020 live updates: Biden takes lead over Trump in battleground state of Georgia"
     excerpt: "Democrat Joe Biden is now leading President Donald Trump in the battleground state of Georgia. By Friday morning, Biden overtook Trump in the number of ballots counted in the battleground, a must-win state for Trump that has long been a Republican stronghold."
     publishedDateTime: 2020-11-06T10:11:00Z
@@ -1213,6 +1229,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden administration likely to overturn controversial Donald Trump diversity training executive order"
+    excerpt: "Biden administration would likely scrap Trump order that restricts the federal government and contractors from offering \"divisive\" diversity training."
+    publishedDateTime: 2020-11-08T12:15:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/11/08/donald-trump-diversity-executive-order-joe-biden/6180668002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6180668002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6180668002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/05/USAT/e90ecf70-6649-4fb5-9edf-4f2e563a8dee-GTY_1284123100.jpg?auto=webp&crop=1818,1023,x0,y127&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
     excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
     publishedDateTime: 2020-11-02T22:53:00Z
@@ -1484,6 +1516,22 @@ related:
       - url: "https://i.insider.com/5fa2167f69331a0011bc727d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President-elect Joe Biden: What Biden means for workers' wages, child care and diversity training"
+    excerpt: "A Joe Biden presidency may reshape the workplace. From raising minimum wage to encouraging diversity, Biden may restore protections Trump eliminated,"
+    publishedDateTime: 2020-11-08T12:04:00Z
+    webUrl: "https://www.usatoday.com/story/money/careers/work-life-balance/2020/11/08/joe-biden-first-term-president-minimum-wage-diversity-training/6124841002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6124841002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6124841002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Erasing Trump policies on climate, immigration, and healthcare: Here's what Biden promised for his first day in the White House."
     excerpt: "Joe Biden promised to roll back major Trump policies on Day 1 of his administration. Even his supporters concede it'll be tough to do it all."

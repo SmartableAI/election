@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-08-joe-biden-stumbles-tragedies-and-now-delayed-triumph.md",
+      "title": "Joe Biden: Stumbles, tragedies and, now, delayed triumph",
+      "excerpt": "Days before he left the White House in 2017, President Barack Obama surprised Joe Biden with the Presidential Medal of Freedom, declaring his septuagenarian, white-haired lieutenant “the best vice president America’s ever had,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/joe-biden-stumbles-tragedies-and-now-delayed-triumph-2020-11",
+      "originalUrl": "https://www.businessinsider.com/joe-biden-stumbles-tragedies-and-now-delayed-triumph-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/joe-biden-stumbles-tragedies-and-now-delayed-triumph-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-stumbles-tragedies-and-now-delayed-triumph-2020-11?amp",
+      "publishedDateTime": "2020-11-07T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-biden-says-he-is-honored-that-americans-have-chosen-him.md",
       "title": "Biden says he is 'honored' that Americans have chosen him",
       "excerpt": "Democrat Joe Biden said on Saturday he was honored that Americans have chosen him to be their president and said it was now time to heal divisions left by the election campaign and unite as a country.",
@@ -327,7 +370,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2430,
+      "heat": 2450,
       "tags": null,
       "images": [
         {
@@ -1536,58 +1579,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-biden-addresses-violence-in-philadelphia-no-excuse-for-looting.md",
-      "title": "Biden addresses violence in Philadelphia: 'No excuse' for looting",
-      "excerpt": "Democratic presidential nominee Joe Biden on Wednesday addressed the recent violence in Philadelphia over the police killing of Walter Wallace Jr., telling reporters that the death is not an excuse for looting or criminal activity.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting",
-      "originalUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_10282020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp",
-      "publishedDateTime": "2020-10-28T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

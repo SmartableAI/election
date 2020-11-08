@@ -1039,6 +1039,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: What Joe Biden's win means for the world"
+    excerpt: "The free world will have a new leader.\n    \n"
+    publishedDateTime: 2020-11-08T08:46:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HaR_6HfeCbk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/us-election-biden-wins-world-analysis-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/us-election-biden-wins-world-analysis-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107121330-joe-biden-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read: President-elect Joe Biden's remarks"
     excerpt: "As prepared for delivery.\n    \n"
     publishedDateTime: 2020-11-08T02:16:00Z
