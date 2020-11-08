@@ -1521,6 +1521,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Romney calls for nation to 'get behind' Biden and says he has seen no evidence of voter fraud"
+    excerpt: "Republican Sen. Mitt Romney on Sunday called for the country to \"get behind\" President-elect Joe Biden, urging unity as President Donald Trump has so far refused to concede the election.\n    \n"
+    publishedDateTime: 2020-11-08T16:17:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VdzR0yPicU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/mitt-romney-biden-election-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/mitt-romney-biden-election-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021140652-romney-capitol-hill-1020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As mail-in votes are still being counted, Trump's lead in Pennsylvania has shrunk dramatically"
     excerpt: "The race for the White House is still close to call, with tightening races in Georgia, Arizona and Pennsylvania as former Vice President Joe Biden edged close to the 270-electoral-vote threshold needed to win and President Donald Trump's hopes of clinching reelection appeared to be slipping away.\n  "
     publishedDateTime: 2020-11-05T12:02:50Z

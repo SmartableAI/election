@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavi
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "As Biden's victory hailed, some prominent world leaders remain silent"
+    excerpt: "LONDON — As Joe Biden was declared President-elect Saturday, congratulatory messages poured in from from leaders across the world. But several have remained notably silent, including some of President Donald Trump’s long-term allies."
+    publishedDateTime: 2020-11-08T16:08:00Z
+    webUrl: "https://www.nbcnews.com/news/world/biden-s-victory-hailed-some-prominent-world-leaders-remain-silent-n1247033"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247033"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247033"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_11/3266241/200311-mohammed-bin-salman-donald-trump-2019-ac-629p_c8915465c0c75f2f0e550132654a5139.fit-560w.jpg"
+        width: 560
+        height: 374
+        isCached: true
   - title: "POLITICO Playbook PM: The right previews its attacks on a President Biden"
     excerpt: "THE RIGHT HAS AMPLIFIED the story, but the mainstream press has shot down BOBULINSKI’S claims at every turn. For example, the news pages of The Wall Street Journal reported they couldn’t establish that BIDEN was involved or received money as part of the defunct arrangement."
     publishedDateTime: 2020-10-28T17:02:00Z

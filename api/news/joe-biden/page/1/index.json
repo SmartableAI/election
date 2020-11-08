@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-09-factbox-biden-likely-to-rely-on-trusted-inner-circle-as-he-staffs-new-administration.md",
+      "title": "Factbox: Biden likely to rely on trusted inner circle as he staffs new administration",
+      "excerpt": "U.S. President-elect Joe Biden and his aides have spent months gearing up for his transition to the White House, assembling a team that will grow to include several hundred staff members as the Democrat steps into a role he's pursued for decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-biden-advisers-factbox/biden-likely-to-rely-on-trusted-inner-circle-as-he-staffs-new-administration-idUSKBN27O0NH",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-biden-advisers-factbox/biden-likely-to-rely-on-trusted-inner-circle-as-he-staffs-new-administration-idUSKBN27O0NH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27O0NH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0NH",
+      "publishedDateTime": "2020-11-08T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-iran-hopes-for-a-change-in-destructive-us-policies-after-biden-win.md",
       "title": "Iran hopes for a change in 'destructive U.S. policies' after Biden win",
       "excerpt": "Iran's first vice president said he hoped for a change in \"destructive U.S. policies\" after Democrat Joe Biden captured the U.S. presidency on Saturday, adding that the era of Donald Trump and his \"adventurous and belligerent\" administration was over.",
@@ -532,7 +575,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-odds-biden-idUSKBN27K1DJ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 380,
+      "heat": 400,
       "tags": null,
       "images": [
         {
@@ -636,7 +679,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/explainer-ap-called-virginia-biden-74008179",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1014,7 +1057,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1544,58 +1587,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-coronavirus-is-a-key-campaign-issue-whats-joe-bidens-plan.md",
-      "title": "Coronavirus Is A Key Campaign Issue: What's Joe Biden's Plan?",
-      "excerpt": "With cases surging, the coronavirus pandemic is heating up as an election issue. Voters have seen President Trump's approach to the crisis play out in real-time, but how would Biden handle things?",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/sections/health-shots/2020/10/28/928392673/coronavirus-is-a-key-campaign-issue-whats-joe-biden-s-plan",
-      "originalUrl": "https://www.npr.org/sections/health-shots/2020/10/28/928392673/coronavirus-is-a-key-campaign-issue-whats-joe-biden-s-plan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/10/27/biden_wide-d2ce06a26f17d40267637f287c6c07c5694d9841.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -806,6 +806,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Trump Won't Go Quietly, Romney Says"
+    excerpt: "Utah Sen. Mitt Romney on Sunday said that he didn't expect President Donald Trump to \"go quietly into the night\" and concede the election to President-elect Joe Biden. \"I would prefer the world would be watching a more gracious departure,"
+    publishedDateTime: 2020-11-08T16:17:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/4GbOMFkCGxaD5b2vEzuP"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-256963?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "Il6pT1YHovgzLKi/pLkGi00sKRR4RJyeSGjdMRimcEBFUYE3/Fy6e4ER5Wir5UD2TGgaQTrkNUkRgRvpu1X0SGghsmr9BdQ1SxUuDRWeFZspslYRr/3qXS2fvSlC3Ose1WyuAFfMBguX054N7WRWakmCjztUT0QDxyRyCQ3sltRGaQ3j7e4ZSaoPUciof5iEX+l+6rpBWMo28VEswCMwGDM94KDkB6kaaKd41jICoBXD7VmBIHPFAoDoDy+b/BUDZ4wIIO+HCUOTs5ewOvgRjstGoyPDp3M6icOBogWw5T+zHm6Aj+zgCE9Ai/VuEHf50IaSQHQTo6B0yhyHIE+9ju6uvPwMdjeQuPtyoyL0/SvP3UZmFX28DEX1qUX0Cp8pMU46S/P07cHmoEDGVKXFPcyMkA+EWOXHL1U66V6Kz4ydthhwF0NCkaGNvTQBmjw8ULRxoZjKtJu5kMVRw6QfDiLtFFIepFeOhlw6v4sXwZNjCDy1Q6RXviir6S9+/eGXfDkgG/VkuP4n8hiPA5Bluw==;XWmR+QwE3WNiJHKTw3Knwg=="
 ---

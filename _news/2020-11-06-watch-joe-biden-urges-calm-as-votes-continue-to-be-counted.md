@@ -123,6 +123,22 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments"
+    excerpt: "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration."
+    publishedDateTime: 2020-11-08T16:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3748535001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Black leaders greet Biden win, pledge to push for equality"
     excerpt: "DETROIT (AP) — President-elect Joe Biden’s victory was celebrated by civil rights activists and Black leaders who warned that a tough road lies ahead to address America’s persistent inequalities and the racial division that Donald Trump fueled during his presidency."
     publishedDateTime: 2020-11-08T02:37:00Z

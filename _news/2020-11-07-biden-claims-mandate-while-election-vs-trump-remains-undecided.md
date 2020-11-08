@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-speech-mandate-trump-undecide
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
 type: article
 quality: 205
-heat: 1185
+heat: 1205
 published: true
 
 provider:
@@ -790,6 +790,20 @@ related:
     quality: 115
     images:
       - url: "https://images.wsj.net/im-256198?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Trump Won't Go Quietly, Romney Says"
+    excerpt: "Utah Sen. Mitt Romney on Sunday said that he didn't expect President Donald Trump to \"go quietly into the night\" and concede the election to President-elect Joe Biden. \"I would prefer the world would be watching a more gracious departure,"
+    publishedDateTime: 2020-11-08T16:17:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/4GbOMFkCGxaD5b2vEzuP"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-256963?size=1.5"
         width: 1280
         height: 853
         isCached: true

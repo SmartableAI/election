@@ -1519,6 +1519,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Romney calls for nation to 'get behind' Biden and says he has seen no evidence of voter fraud"
+    excerpt: "Republican Sen. Mitt Romney on Sunday called for the country to \"get behind\" President-elect Joe Biden, urging unity as President Donald Trump has so far refused to concede the election.\n    \n"
+    publishedDateTime: 2020-11-08T16:17:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VdzR0yPicU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/mitt-romney-biden-election-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/mitt-romney-biden-election-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021140652-romney-capitol-hill-1020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden piles up votes in Pennsylvania as he moves closer to finalizing a path to the White House"
     excerpt: "Former Vice President Joe Biden is relentlessly piling up votes in Western battlegrounds Nevada and Arizona and in the \"blue wall\" state of Pennsylvania, moving ever closer to finalizing the path to 270 electoral votes that he needs to win the presidency.\n    \n"
     publishedDateTime: 2020-11-07T02:55:12Z

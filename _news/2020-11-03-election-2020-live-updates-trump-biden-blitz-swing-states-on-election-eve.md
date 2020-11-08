@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671"
 type: article
 quality: 153
-heat: 3033
+heat: 3053
 published: true
 
 provider:
@@ -1500,6 +1500,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/04/c22044f5-77bd-440c-8b4a-40da94e28206/thumbnail/1200x630/9204852e7856f3a4e0c1a80ca1d67544/1604468771066.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump's press secretary Kayleigh McEnany called White House celebrations by Biden supporters a 'superspreader' event"
+    excerpt: "White House Press Secretary Kayleigh McEnany criticized Joe Biden for not commenting on the \"superspreader\" celebrations in front of the White House."
+    publishedDateTime: 2020-11-08T16:54:00Z
+    webUrl: "https://www.businessinsider.com/kayleigh-mcenany-biden-white-house-celebration-a-superspreader-event-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/kayleigh-mcenany-biden-white-house-celebration-a-superspreader-event-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kayleigh-mcenany-biden-white-house-celebration-a-superspreader-event-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5fa810191df1d500182197a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Joe Biden breaks Obama's record for most votes ever cast for a U.S. presidential candidate"
     excerpt: "Barack Obama earned 69,498,516 votes in the presidential election, the most ever. Now, Mr. Obama's former vice president, Democratic nominee Joe Biden, has surpassed that tally, with a record 69,589,840 votes (50."

@@ -1517,6 +1517,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump's press secretary Kayleigh McEnany called White House celebrations by Biden supporters a 'superspreader' event"
+    excerpt: "White House Press Secretary Kayleigh McEnany criticized Joe Biden for not commenting on the \"superspreader\" celebrations in front of the White House."
+    publishedDateTime: 2020-11-08T16:54:00Z
+    webUrl: "https://www.businessinsider.com/kayleigh-mcenany-biden-white-house-celebration-a-superspreader-event-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/kayleigh-mcenany-biden-white-house-celebration-a-superspreader-event-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kayleigh-mcenany-biden-white-house-celebration-a-superspreader-event-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5fa810191df1d500182197a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump holds 5 rallies in 4 swing states in bid to woo last-minute Election Day votes"
     excerpt: "With Election Day finally here, President Trump spent Monday in a final attempt to win over swing state voters. The president says he's confident, but he is also threatening legal action in some states if results are not announced on Election Day."
     publishedDateTime: 2020-11-03T22:33:00Z

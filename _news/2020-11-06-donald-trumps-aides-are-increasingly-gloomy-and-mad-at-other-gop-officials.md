@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6181186002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6181186002"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'The 900-pound gorilla when it comes to the Republican Party': GOP wrestles with Trump defeat"
+    excerpt: "GOP presidential nominee said Trump is likely to cast a long shadow over the Republican Party, even after he is out of office."
+    publishedDateTime: 2020-11-08T16:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/mitt-romney-republicans-wrestle-response-trumps-defeat/6213267002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6213267002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6213267002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Hackers steal $2.3 million from Wisconsin GOP’s Trump reelection fund"
     excerpt: "On Thursday, the Associated Press reported that the Wisconsin Republican Party was targeted by hackers, who made off with $2.3 million from a campaign’s federal account which was being used to help President Donald Trump."
     publishedDateTime: 2020-10-29T21:58:00Z

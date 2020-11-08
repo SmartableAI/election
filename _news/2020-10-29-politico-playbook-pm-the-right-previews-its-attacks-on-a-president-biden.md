@@ -46,6 +46,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "As Biden's victory hailed, some prominent world leaders remain silent"
+    excerpt: "LONDON — As Joe Biden was declared President-elect Saturday, congratulatory messages poured in from from leaders across the world. But several have remained notably silent, including some of President Donald Trump’s long-term allies."
+    publishedDateTime: 2020-11-08T16:08:00Z
+    webUrl: "https://www.nbcnews.com/news/world/biden-s-victory-hailed-some-prominent-world-leaders-remain-silent-n1247033"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247033"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247033"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_11/3266241/200311-mohammed-bin-salman-donald-trump-2019-ac-629p_c8915465c0c75f2f0e550132654a5139.fit-560w.jpg"
+        width: 560
+        height: 374
+        isCached: true
 
 secured: "YI7zdkLzCcYSEX2gszt8Y1bLNL14+3Lsgh0jyvHkXT5YxFG5HTrV6jt+8adihHcxrNPlrKwejAIRcdm3t6APsTB5inHvvAyecFFJaPIbI81vc0Sh8MNT9jXrpItLhspRPe9woxSo6uXWsxOdydK4klOOM74E+aen3vCzThsk3p/3CJsC3OW7bzco1d/8vW1eOZhVHkhoWkJTdJSSPk65g/xI62ciC7w7hylIVCJ9IOq5bo1qGPeJgEFserQ58LRjcB9IDATvsbRwE3yI4EGEd7bcUovM8lpKZJrJZOAVBfh06S5Fzv4ut/gkaDWjt1j48g0S262uBCuijaHhF+BsEw5Tz7MQRGgXVVIDkRvnxU0mnSojeBCqHmZ1IXfxTU485pCO7I9xLLbsFzPgKouriHJ5BVeRRMD+spz6BueUIYQ4LxE6jJU8Dd00vpYi/liRwI4oCfo9Heb+HaOHoDS5nw13BTrp/P5XLTXzNf+EcIN1bEzLVQnBCwG3mlBkbFuAOFtaBINZqTT3ua7evEN+YQ==;InM3MWRDKVy3XPkvVgPnsA=="
 ---

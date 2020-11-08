@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'The 900-pound gorilla when it comes to the Republican Party': GOP wrestles with Trump defeat"
+    excerpt: "GOP presidential nominee said Trump is likely to cast a long shadow over the Republican Party, even after he is out of office."
+    publishedDateTime: 2020-11-08T16:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/mitt-romney-republicans-wrestle-response-trumps-defeat/6213267002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6213267002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6213267002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "wTu+VzWzH76iC6Dc6G3qjPGIpzgInoLrLbYxMoDKU4HcSfRWEjU5bxjchg3QyNSHRUThK3I8eKLkOKQb3HFcHl9nAZ2pI4LiBknQ9PBnbPhVWlIXoAr0qG1VsTyHnLr5iNAclfcQHWSLsSS8Q5Pf8ikx47y04NC8hvPiS9HAiiZ8S9KKlgegk0zMC+Dypg08iCyn2W6zmbtJ1tawwt+z/gkIOjQOsVMSkWIrZ3e9fu53ApBJpMvWoAdYFOxbVZkmoNKKhsbuGTV81ycnJ9UOQ/lA4vX8NLF1lOIr7+WDqIpRgzqDFG6E/ZDy9gz3x3AAQC8J8ip6rjR4/26aLowE7a9KdoWjrWDk/LUpFfTIzdM=;i58MCZqJS812M8eO/hSXnw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watche
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Analysis: At pivotal moments of 2020, Trump failed to win over doubters"
+    excerpt: "Donald Trump had reason to count on the loyalty of the large chunk of Americans who drove his improbable election victory in 2016. But in 2020, he needed a wider swath of voters to believe in his promise to \"Make America Great Again."
+    publishedDateTime: 2020-11-08T16:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-loss-analysis-idUKKBN27O0G8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0G8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0G8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "YouTube Channels Making Money From Ads, Memberships Amplify Trump Voting Fraud Claims"
     excerpt: "At least nine popular YouTube channels were promoting on Thursday debunked accusations about voting fraud in the U.S. presidential race, conspiratorial content that could jeopardize advertising and memberships revenue they get from the video service."
     publishedDateTime: 2020-11-06T03:09:00Z
