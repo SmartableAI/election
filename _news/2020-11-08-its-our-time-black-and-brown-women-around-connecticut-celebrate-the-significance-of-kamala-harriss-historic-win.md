@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris' Full Speech: ‘You Chose Hope and Unity, Decency, Science and, Yes, Truth'"
+    excerpt: "Elect Kamala Harris delivered a victory address on Saturday night from Wilmington, Del., and introduced President-Elect Joe Biden. Read the full text of Harris’ speech here:"
+    publishedDateTime: 2020-11-08T02:33:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 66
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/GettyImages-1284480397.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kFKMKGNFCaxxkWe24WQlvRfbd22ocN8jcjJiQZPTZjNNwG8eDc0hnQqV3Wgj3NUffgtTm1ayLFiWZwnjJy0zdIFHQDCipJJzIIhd1PxCqIN8Cxtju7TKEel1l3HmFQ4lmtG5LqvqAQHrPnikPfVrk/YarBfi/g4Ayi42oJ+RuNeUPruf8XoUkXuY2MTdL6JO1q+bB77dm6Yn1k+JcVawgoZVY/BR2mDMX9/VWreWoQclGP1Op3yCjlxysajbeGiFPpxKX6JS5a36vFqZPX03czNznEtKgB1nDRVWbpkHstdGOEAUR1NsGKj/R5mhO+0y20nCLip753p0qXBFrQQdYsIe5wq9PbIf7/aX+0Jwedg=;6C9zycl6jxAIT7QvfyAmkA=="
 ---

@@ -2,6 +2,120 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-16-kamala-harris-has-awkward-moment-at-nc-event-says-election-ends-in-19-days.md",
+      "title": "Kamala Harris has awkward moment at NC event, says election 'ends in 19 days'",
+      "excerpt": "Calif., had an awkward moment during a virtual campaign event in North Carolina Thursday, as she and a staff member broke out into laughter in the middle of a serious push for people to vote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4e8ff0d-d9db-4626-b9da-37b669934c72/90e950f7-e76b-4303-9f45-717cf17942b1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
+      "publishedDateTime": "2020-10-16T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-rudy-giulianis-daughter-says-to-vote-for-biden-and-harris-to-end-trumps-reign-of-terror.md",
+      "title": "Rudy Giuliani's daughter says to vote for Biden and Harris to end Trump's 'reign of terror'",
+      "excerpt": "Caroline Giuliani, the daughter of President Donald Trump's personal attorney and former New York City mayor Rudy Giuliani, is urging Americans to \"end this nightmare\" by voting for Democratic nominee Joe Biden and his running mate Kamala Harris.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_UlRkADBOA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_UlRkADBOA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1845,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201016074545-01-caroline-giuliani-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html",
+      "publishedDateTime": "2020-10-16T06:40:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus.md",
       "title": "Kamala Harris Cancels Campaign Travel After Aide, Flight-Crew Member Test Positive for Coronavirus",
       "excerpt": "Democratic vice-presidential nominee Kamala Harris is canceling her campaign travel through Sunday after her communications director and a non-staff flight crew member tested positive for coronavirus.",
@@ -110,7 +224,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10800,
+      "heat": 10820,
       "tags": null,
       "images": [
         {
@@ -739,7 +853,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 292,
+      "heat": 272,
       "tags": null,
       "images": [
         {

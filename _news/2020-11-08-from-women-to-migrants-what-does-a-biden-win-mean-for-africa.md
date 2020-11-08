@@ -25,36 +25,33 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Kid Rock responds to Lady Gaga's Biden endorsement, shows 'what camo is really worn for'"
-    excerpt: "Kid Rock seemed to have a go at Lady Gaga on Tuesday, days after the pop star went viral with her own pro-Joe Biden video."
-    publishedDateTime: 2020-11-04T08:09:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/11/03/kid-rock-reacts-lady-gaga-biden-endorsement-hunting-picture/6148835002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6148835002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6148835002"
+  - title: "Iran hopes for a change in 'destructive U.S. policies' after Biden win"
+    excerpt: "Iran's first vice president said he hoped for a change in \"destructive U.S. policies\" after Democrat Joe Biden captured the U.S. presidency on Saturday, adding that the era of Donald Trump and his \"adventurous and belligerent\" administration was over."
+    publishedDateTime: 2020-11-08T02:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-iran-idUSKBN27N0ND"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0ND"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0ND"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/91320599-eef8-433c-bd30-735bc2b79fec-trump_091420_kd2242.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540366762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HG"
+        width: 799
+        height: 545
         isCached: true
-  - title: "Verbum Ultimum: Joe Biden for President"
-    excerpt: "Joe Biden is the only acceptable option on Nov. 3. by The Dartmouth Editorial Board \\| 28 minutes ago. With Election Day a mere four days"
-    publishedDateTime: 2020-10-30T06:33:00Z
-    webUrl: "https://www.thedartmouth.com/article/2020/10/verbum-ultimum-biden-for-president"
+  - title: "LGBT+ rights groups hope Biden win helps marginalised communities"
+    excerpt: "Joe Biden's win in the U.S. presidential election will help give a voice to marginalised LGBT+ communities, rights groups said on Saturday, after he promised to overturn a ban on transgender personnel joining the military and clampdown on discrimination."
+    publishedDateTime: 2020-11-08T02:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-elections-lgbt-biden-trfn/lgbt-rights-groups-hope-biden-win-helps-marginalised-communities-idUSKBN27N0Y3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0Y3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0Y3"
     type: article
     provider:
-      name: The Dartmouth
-      domain: thedartmouth.com
-    quality: 55
-    images:
-      - url: "https://snworksceo.imgix.net/drt/f6e05d55-b92b-4d73-be17-06d62e8be61a.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 534
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "wQE6hlnAH0MhSiNgmC8WFna7bGvyCaIsfNBcx4gZ+9ScdRz7oLU4ZUb8QgEk9Up+dNBu1y/VVRSWKLPUhGgGarnL0AnbOpodYbBnM/gQdR1LzkR8VTFhHs1qXmonde9mamQIStTVYuHjHkN/Z/WtTp/gpLW8y+4QLK+IBdczHKk9uq1D08pUQPMyf5DnkZjVCDqt22XtzrferEDz/irLfRNyzc8YzvqA7lugGO/79zj/uJloXSCG1ol+qd/xvF9t0NGcm+2h1CS2hU5nGzItF3xEmmuCdNayg3tLTAqpjNFguseyAZcO7zKlXSskk+3WrtYL7tI2AjuFJYllwr5oG31j2B5bMTd2M8OS9zDPaag=;c/jmTGdlupldRLbqMYh6kQ=="
 ---

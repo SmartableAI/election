@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-08-iran-hopes-for-a-change-in-destructive-us-policies-after-biden-win.md",
+      "title": "Iran hopes for a change in 'destructive U.S. policies' after Biden win",
+      "excerpt": "Iran's first vice president said he hoped for a change in \"destructive U.S. policies\" after Democrat Joe Biden captured the U.S. presidency on Saturday, adding that the era of Donald Trump and his \"adventurous and belligerent\" administration was over.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-iran-idUSKBN27N0ND",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-iran-idUSKBN27N0ND",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540366762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HG",
+          "width": 799,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27N0ND",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0ND",
+      "publishedDateTime": "2020-11-07T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-biden-says-he-is-honored-that-americans-have-chosen-him.md",
       "title": "Biden says he is 'honored' that Americans have chosen him",
       "excerpt": "Democrat Joe Biden said on Saturday he was honored that Americans have chosen him to be their president and said it was now time to heal divisions left by the election campaign and unite as a country.",
@@ -275,7 +327,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2270,
+      "heat": 2330,
       "tags": null,
       "images": [
         {
@@ -437,7 +489,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-odds-biden-idUSKBN27K1DJ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 360,
+      "heat": 380,
       "tags": null,
       "images": [
         {
@@ -593,7 +645,7 @@
       "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/11/03/kid-rock-reacts-lady-gaga-biden-endorsement-hunting-picture/6148835002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1543,49 +1595,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-justice-clarence-thomas-wife-boosts-unsupported-claims-against-joe-biden.md",
-      "title": "Justice Clarence Thomas’ wife boosts unsupported claims against Joe Biden",
-      "excerpt": "Other spouses of justices have their own professional lives, but Ginni Thomas is the only one whose work sometimes butts up against her husband’s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/28/supreme-court-justices-wife-boosts-unsupported-claims-joe-biden/6055985002/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/28/supreme-court-justices-wife-boosts-unsupported-claims-joe-biden/6055985002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/28/USAT/e05da220-1768-4557-8852-3141907929e8-AP_Supreme_Court_Thomas_Wife.jpg?auto=webp&crop=4372,2460,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/6055985002",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6055985002",
-      "publishedDateTime": "2020-10-28T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

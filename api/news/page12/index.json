@@ -2,6 +2,276 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-25-pence-defends-trump-covid-19-response-claims-administration-literally-saved-hundreds-of-thousands.md",
+      "title": "Pence defends Trump COVID-19 response, claims administration 'literally saved hundreds of thousands'",
+      "excerpt": "Vice President Mike Pence has again defended the Trump administration's response to the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AOtPNlbGc6E/pence-dismisses-biden-attacks-over-covid-19-response",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AOtPNlbGc6E/pence-dismisses-biden-attacks-over-covid-19-response",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/592054c4-68cd-45b2-ae7f-f3d5e8645d87/63381419-bca8-4bf5-a42a-9f6af8160c38/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-dismisses-biden-attacks-over-covid-19-response.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-dismisses-biden-attacks-over-covid-19-response.amp",
+      "publishedDateTime": "2020-10-25T04:30:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.md",
+      "title": "Can Joe Biden flip Georgia to Democrats? Campaign stops set for Warm Springs, Atlanta",
+      "excerpt": "Joe Biden will travel to Georgia next week, making a late push in a state that Republicans have won every presidential election since 1996. Biden’s campaign says he will deliver remarks in Warm Springs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html",
+      "originalUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VZT67ZTTZNERHL4YLTGMZVJASY.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/can-joe-biden-flip-georgia-to-democrats-campaign-stops-set-for-warm-springs-atlanta.html?outputType=amp",
+      "publishedDateTime": "2020-10-24T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing.md",
+      "title": "AOC tells Jane Fonda it's OK to be Trump's 'public enemy No. 1': 'That's a good thing'",
+      "excerpt": "Being attacked President Trump is a “badge of honor,\" U.S. Rep. Alexandria Ocasio-Cortez told actress Jane Fonda during an online interview last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L19Hh4W6lYo/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L19Hh4W6lYo/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/181cfcca-2a48-4e5d-8d4b-11a506858939/daa0e4ed-79eb-48d3-a9fe-7476913978fa/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-tells-jane-fonda-its-ok-to-be-trumps-public-enemy-no-1-thats-a-good-thing.amp",
+      "publishedDateTime": "2020-10-24T22:21:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-4-pence-aides-test-positive.md",
+      "title": "4 Pence Aides Test Positive",
+      "excerpt": "Six states broke records as the virus surged at an alarming pace. Dr. Anthony Fauci suggested the U.S. might need a national mask mandate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates?name=styln-coronavirus&label=undefined&block=storyline_menu_recirc&impression_id=8b644a51-1681-11eb-865f-353ca55f0bc4&variant=undefined",
+      "originalUrl": "https://www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates?name=styln-coronavirus&label=undefined&block=storyline_menu_recirc&impression_id=8b644a51-1681-11eb-865f-353ca55f0bc4&variant=undefined",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/24/us/24virus-briefing-record2/merlin_178956543_7b911ad5-0186-4e53-ab31-4d31bf107a0a-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates.amp.html",
+      "publishedDateTime": "2020-10-24T22:20:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-trump-denies-the-coronavirus-surge-as-biden-and-obama-condemn-his-approach.md",
+      "title": "Trump denies the coronavirus surge as Biden and Obama condemn his approach",
+      "excerpt": "President Donald Trump continued to deny the nation's deepening Covid-19 crisis as he crisscrossed the country this weekend, even as the virus spread among top administration and campaign advisers.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFn7UftBWzA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFn7UftBWzA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1638,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201024123232-03-trump-voting-1024-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html",
+      "publishedDateTime": "2020-10-24T21:16:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-trump-told-donors-holding-republican-senate-would-be-very-tough-report.md",
       "title": "Trump told donors holding Republican Senate would be 'very tough': report",
       "excerpt": "President Trump privately told donors it would be “very tough” for Republicans to maintain control of the Senate come November because he cannot support all of the party’s candidates, according to a report. ",
@@ -1077,248 +1347,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-announces-that-sudan-will-israel-normalize-relations.md",
-      "title": "Trump Announces That Sudan Will Israel Normalize Relations",
-      "excerpt": "President Donald Trump announced Friday that Sudan had agreed to establish diplomatic ties with Israel, making it the third Arab state to do so under the Trump Administration-brokered peace deals, known as the “Abraham Accords.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
-      "originalUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934ca4eb1b5edb9d90d708%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4618%26cropY1%3D97%26cropY2%3D2694",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/",
-      "publishedDateTime": "2020-10-23T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-no-need-for-security-checks-or-covid-tests-borat-star-meets-donald-trump-jr-and-visits-white-house-in-deleted-scenes.md",
-      "title": "'No need for security checks or COVID tests': Borat star meets Donald Trump Jr. and visits White House in deleted scenes",
-      "excerpt": "President Donald Trump also makes an appearance in a deleted scene from the new movie posted to Borat's Twitter account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10",
-      "originalUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f934591f21803001222bbe2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10?amp",
-      "publishedDateTime": "2020-10-23T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election.md",
-      "title": "WEB EXTRA: VP Mike Pence and Karen Pence Vote In 2020 Election",
-      "excerpt": "Vice President Mike Pence and Second Lady Karen Pence voted in the 2020 general election in Indianapolis, IN on Friday. The Pences submitted their absentee ballots in person.",
-      "sourceUrl": null,
-      "webUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/",
-      "originalUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/",
-      "cdnAmpWebUrl": "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/",
-      "publishedDateTime": "2020-10-23T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-iran-says-its-not-interested-in-debate-after-biden-warns-it-will-pay-a-price.md",
-      "title": "Iran Says It's 'Not Interested' in Debate After Biden Warns It 'Will Pay A Price'",
-      "excerpt": "\"We have repeatedly stated that Iran does not interfere in other countries' elections,\" Iranian mission to the United Nations spokesperson Alireza Miryousefi told Newsweek.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791",
-      "originalUrl": "https://www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1657961/vice-president-joe-biden-debate-trump.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/iran-not-interested-debate-biden-warns-pay-price-1541791?amp=1",
-      "publishedDateTime": "2020-10-23T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-fact-check-trump-told-moderator-to-go-ahead-not-that-separated-families-are-good.md",
-      "title": "Fact check: Trump told moderator to 'go ahead,' not that separated families are 'good'",
-      "excerpt": "Amid immigration debate, one word from President Donald Trump stood out to users on social media: \"Good.\" The only issue? He didn't say it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-donald-trump-said-go-ahead-not-good-key-debate-spot/3741126001/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-donald-trump-said-go-ahead-not-good-key-debate-spot/3741126001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3741126001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3741126001",
-      "publishedDateTime": "2020-10-23T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

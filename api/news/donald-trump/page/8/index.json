@@ -2,6 +2,115 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-07-is-joy-reid-hoping-that-president-trump-dies-it-sure-seems-like-it-curtis-houck-wrote.md",
+      "title": "'Is Joy Reid hoping that President Trump dies? It sure seems like it,' Curtis Houck wrote",
+      "excerpt": "MSNBC host Joy Reid said President Trump looks like a “very sick elderly man” and was accused of hoping he dies from coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/05/13/694940094001_6036228258001_6036224895001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain.amp",
+      "publishedDateTime": "2020-10-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-trumps-tweets-turn-market-ibm-eyes-new-nyc-office-bankruptcy-consulting-booms.md",
+      "title": "Trump's tweets turn market — IBM eyes new NYC office — Bankruptcy consulting booms",
+      "excerpt": "The top finance stories for October 7, including the latest news on IBM's interest in NYC offices and law firms' recruitment of summer associates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10",
+      "originalUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7cc2e394fce90018f7b762?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10?amp",
+      "publishedDateTime": "2020-10-07T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-im-mayor-first-in-miami-dade-walking-a-line-between-trump-and-constituents.md",
       "title": "‘I’m mayor first’: In Miami-Dade, walking a line between Trump and constituents",
       "excerpt": "The Republican mayor of Miami-Dade County is a Trump-endorsed congressional candidate in a nationally watched swing seat. He’s also the elected leader of the urban heart of South Florida, a coronavirus hot spot that’s home to 2.",
@@ -1449,110 +1558,6 @@
         "name": "Deadline.com",
         "domain": "deadline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-the-squad-responds-to-twitter-policy-banning-posts-wishing-for-trumps-death-excuse-me.md",
-      "title": "'The Squad' Responds to Twitter Policy Banning Posts Wishing for Trump's Death: 'Excuse Me?'",
-      "excerpt": "\"So... you mean to tell us you could've done this the whole time?\" Congresswoman Alexandria Ocasio-Cortez tweeted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234",
-      "originalUrl": "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1645787/squad.jpg",
-          "width": 3000,
-          "height": 2192,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234?amp=1",
-      "publishedDateTime": "2020-10-03T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-your-questions-about-trump-and-covid-19-answered-who-gave-trump-coronavirus-what-is-the-regeneron-antibody-cocktail.md",
-      "title": "Your questions about Trump and COVID-19, answered: Who gave Trump coronavirus? What is the Regeneron antibody 'cocktail'?",
-      "excerpt": "Our readers from across the US are asking important questions about President Trump's positive COVID-19 test. We answer your questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2020/10/02/trump-tests-positive-coronavirus-reader-questions-answers/5893893002/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2020/10/02/trump-tests-positive-coronavirus-reader-questions-answers/5893893002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5893893002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5893893002",
-      "publishedDateTime": "2020-10-03T19:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

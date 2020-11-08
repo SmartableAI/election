@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-29-top-democrat-says-trump-administration-moving-ahead-with-sale-of-f-35-jets-to-the-uae.md",
+      "title": "Top Democrat says Trump administration moving ahead with sale of F-35 jets to the UAE",
+      "excerpt": "The chairman of the House Foreign Affairs Committee said Thursday that the Trump administration has informally notified Congress of its intent to move forward with a major arms sale to the United Arab Emirates involving advanced F-35 jets.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfsYpxzAR3E/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfsYpxzAR3E/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201029133251-01-f-35-lightning-ii-joint-strike-fighter-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/29/politics/f-35-jets-uae/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/f-35-jets-uae/index.html",
+      "publishedDateTime": "2020-10-29T10:50:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-trump-is-taking-credit-for-the-biggest-and-best-gdp-in-american-history-here-are-the-facts.md",
+      "title": "Trump is taking credit for the 'biggest and best' GDP  in American history. Here are the facts",
+      "excerpt": "The US government just published an eye-popping report: Gross domestic product, the broadest measure of the country's economic growth, grew at a stunning 33.1% annual rate in the third quarter.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEqNM0jKFkw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEqNM0jKFkw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201028225743-01-trump-fastest-gdp-growth-history-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/29/economy/gdp-report-trump-biggest-best-factcheck/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/economy/gdp-report-trump-biggest-best-factcheck/index.html",
+      "publishedDateTime": "2020-10-29T08:18:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-wisconsin-gop-says-hackers-stole-23m-from-trump-reelection-fund.md",
       "title": "Wisconsin GOP says hackers stole $2.3M from Trump reelection fund",
       "excerpt": "Hackers stole $2.3 million from the Wisconsin Republican Party's account that was being used to help reelect President Donald Trump in the key battleground state, the party's chairman told The Associated Press on Thursday.",
@@ -1557,118 +1669,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/donald-trump-mar-a-lago-coronavirus/index.html",
       "publishedDateTime": "2020-10-23T12:14:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-trump-announces-that-israel-and-sudan-have-agreed-to-normalize-relations.md",
-      "title": "Trump announces that Israel and Sudan have agreed to normalize relations",
-      "excerpt": "President Donald Trump announced Friday that Sudan and Israel have agreed to normalize relations -- a foreign policy achievement for the incumbent president less than two weeks before the US presidential election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mpQdPNhUfAk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mpQdPNhUfAk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023110745-sudan-israel-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/trump-sudan-israel/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-sudan-israel/index.html",
-      "publishedDateTime": "2020-10-23T09:29:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-trump-signs-executive-order-that-critics-warn-politicizes-federal-career-civil-service.md",
-      "title": "Trump signs executive order that critics warn politicizes federal career civil service",
-      "excerpt": "President Donald Trump signed an executive order that appears to provide him and his agency appointees more leeway in the hiring and firing of federal employees deemed disloyal, a move that critics say politicizes civil service and could lead to career officials being pushed out for political reasons.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OPvyGX68EFk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OPvyGX68EFk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201021013009-white-house-1002-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/trump-executive-order-federal-employees/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-executive-order-federal-employees/index.html",
-      "publishedDateTime": "2020-10-23T08:16:48-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

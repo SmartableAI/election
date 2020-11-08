@@ -2,6 +2,272 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-08-kamala-harris-as-first-woman-elected-vp-says-she-wont-be-the-last.md",
+      "title": "Kamala Harris, as first woman elected VP, says she 'won't be the last' ",
+      "excerpt": "On the night Vice President-elect Kamala Harris made history, she recognized the long battle women had faced for the right to vote and to break into the highest ranks of American politics -- and said that \"every little girl watching\" across the country now knows they can do so, too.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201107204230-20-biden-harris-address-1107-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html",
+      "publishedDateTime": "2020-11-07T18:47:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-iran-hopes-for-a-change-in-destructive-us-policies-after-biden-win.md",
+      "title": "Iran hopes for a change in 'destructive U.S. policies' after Biden win",
+      "excerpt": "Iran's first vice president said he hoped for a change in \"destructive U.S. policies\" after Democrat Joe Biden captured the U.S. presidency on Saturday, adding that the era of Donald Trump and his \"adventurous and belligerent\" administration was over.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-iran-idUSKBN27N0ND",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-iran-idUSKBN27N0ND",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540366762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HG",
+          "width": 799,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27N0ND",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0ND",
+      "publishedDateTime": "2020-11-07T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-trump-defied-gravity-now-falls-back-to-earth-future-tbd.md",
+      "title": "Trump defied gravity; now falls back to earth, future TBD",
+      "excerpt": "Donald Trump, who defied political gravity with his extraordinary rise from reality star and businessman to the presidency, has fallen back to earth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp",
+      "publishedDateTime": "2020-11-07T18:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-harris-american-voters-chose-hope-unity-decency-and-yes-truth.md",
+      "title": "Harris: American voters chose 'hope, unity, decency and yes, truth'",
+      "excerpt": "Sen. Kamala Harris, in her victory speech as vice president-elect, said that in Tuesday’s election voters had chosen “hope, unity, decency and yes, truth.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7XZfNkLgmQ/harris-american-voters-chose-hope-unity-truth",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7XZfNkLgmQ/harris-american-voters-chose-hope-unity-truth",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/364d08d0-de65-4f3d-ab82-703859584a3b/a91619d4-445b-4a57-b799-ab1ea134a81b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-american-voters-chose-hope-unity-truth.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-american-voters-chose-hope-unity-truth.amp",
+      "publishedDateTime": "2020-11-07T18:21:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-hispanic-voters-deliver-a-texas-win-for-trump.md",
+      "title": "Hispanic Voters Deliver a Texas Win for Trump",
+      "excerpt": "The Rio Grande Valley shifted decisively toward President Trump, cancelling out votes for Joseph R. Biden Jr. in urban and suburban areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/04/us/texas-election-battleground-state-counties-promo-1604498818927/texas-election-battleground-state-counties-promo-1604498818927-facebookJumbo-v17.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-rep-matt-gaetz-a-close-trump-ally-says-hes-tested-positive-for-coronavirus-antibodies.md",
       "title": "Rep. Matt Gaetz, a close Trump ally, says he's tested positive for coronavirus antibodies",
       "excerpt": "The Republican Florida lawmaker is one of Trump's staunchest defenders on Capitol Hill and is a fixture in conservative media.",
@@ -270,6 +536,63 @@
       ]
     },
     {
+      "path": "_news/2020-11-08-its-a-big-deal-tv-coverage-notes-magnitude-of-kamala-harris-victory.md",
+      "title": "‘It’s a Big Deal’: TV Coverage Notes Magnitude of Kamala Harris Victory",
+      "excerpt": "On Fox News, Donna Brazile recalled that her mother and grandmother could not vote. “Just scoot over and let women also share in the leadership of this country,” she said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/08/business/07harris-media/merlin_179349762_a42eb950-e5f1-4108-a117-004f508f1657-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html",
+      "publishedDateTime": "2020-11-07T13:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-bidens-inauguration-during-covid-19-what-the-january-event-could-look-like.md",
       "title": "Biden's inauguration during COVID-19: What the January event could look like",
       "excerpt": "Construction is already underway in Washington, D.C., in preparation for the presidential inauguration on Jan. 20, 2021. The date is set by the U.S. Constitution's 20th Amendment.",
@@ -433,7 +756,7 @@
       "originalUrl": "https://www.cbsnews.com/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -645,7 +968,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/11/07/trump-election-far-from-over-promising-legal-battle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 840,
+      "heat": 880,
       "tags": null,
       "images": [
         {
@@ -686,63 +1009,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-harris-bursts-through-another-barrier-becoming-the-first-female-first-black-and-first-south-asian-vice-president-elect.md",
-      "title": "Harris bursts through another barrier, becoming the first female, first Black and first South Asian vice president-elect",
-      "excerpt": "Kamala Harris, who on Saturday became America's first female, first Black and first South Asian vice president-elect, represents a new face of political power after an election all about who wields power and how they use it.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ac0Y9GAnNG4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ac0Y9GAnNG4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 360,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201102160632-04-kamala-harris-lead-image-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-first-vice-president-female-black-south-asian/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-first-vice-president-female-black-south-asian/index.html",
-      "publishedDateTime": "2020-11-07T08:28:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     },
     {
@@ -1067,266 +1333,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-trumps-spiritual-advisor-paula-white-speaks-in-tongues-during-a-prayer-broadcast-to-defeat-the-presidents-opponents.md",
-      "title": "Trump's spiritual advisor Paula White speaks in tongues during a prayer broadcast to defeat the president's opponents",
-      "excerpt": "In her prayer performance, Paula White claimed that \"demonic confederacies\" were \"attempting to steal the election from Trump.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/video-paula-whites-speaks-in-tongues-to-secure-trumps-reelection-2020-11",
-      "originalUrl": "https://www.businessinsider.com/video-paula-whites-speaks-in-tongues-to-secure-trumps-reelection-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa4017cf7d1cb0019e39ef7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/video-paula-whites-speaks-in-tongues-to-secure-trumps-reelection-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-paula-whites-speaks-in-tongues-to-secure-trumps-reelection-2020-11?amp",
-      "publishedDateTime": "2020-11-06T18:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-gop-to-argue-georgia-senate-runoffs-would-be-key-to-check-biden-and-a-democratic-house.md",
-      "title": "GOP to argue Georgia Senate runoffs would be key to check Biden and a Democratic House",
-      "excerpt": "Georgia Republican Sens. David Perdue and Kelly Loeffler are bracing for a two-month slog in Georgia that could determine the next Senate majority, planning to argue that they need to keep their seats to prevent Democratic control of Washington.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpr-QIcIV9I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpr-QIcIV9I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201030205324-loeffler-perdue-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html",
-      "publishedDateTime": "2020-11-06T17:21:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-why-arizonas-storied-conservative-stronghold-could-flip-for-biden.md",
-      "title": "Why Arizona’s Storied Conservative Stronghold Could Flip for Biden",
-      "excerpt": "Maricopa County spawned the careers of Republican hard-liners like Joe Arpaio. Now the children of immigrants targeted in the state’s nativist crackdown are challenging G.O.P. dominance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/06/us/arizona-maricopa-fontes-latino.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/06/us/arizona-maricopa-fontes-latino.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/06/us/06maricopa1/06maricopa1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/06/us/arizona-maricopa-fontes-latino.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/us/arizona-maricopa-fontes-latino.amp.html",
-      "publishedDateTime": "2020-11-06T17:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-doctors-say-theyre-hopeful-biden-will-handle-the-pandemic-better-but-disappointed-that-he-didnt-win-by-a-landslide.md",
-      "title": "Doctors say they’re ‘hopeful’ Biden will handle the pandemic better, but ‘disappointed’ that he didn’t win by a landslide",
-      "excerpt": "Three doctors spoke to Insider about the projection that Joe Biden has won the election, and what could happen next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11",
-      "originalUrl": "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa5d9e31df1d500182196d0?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp",
-      "publishedDateTime": "2020-11-06T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-kamala-harris-in-detroit-on-election-day-to-rally-support-have-faith-in-the-american-people.md",
-      "title": "Kamala Harris in Detroit on Election Day to rally support: 'Have faith in the American people'",
-      "excerpt": "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/PDTF/f6c9f117-74cf-4558-a513-e8dc14dfdc70-AP20308672071807.jpg?auto=webp&crop=4361,2454,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/6129769002",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6129769002",
-      "publishedDateTime": "2020-11-06T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

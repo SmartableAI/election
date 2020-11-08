@@ -1032,6 +1032,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President-elect Joe Biden seeks to unite nation with victory speech"
+    excerpt: "President-elect Joe Biden will speak to a deeply divided nation tonight, making a plea for unity and understanding after four years of turmoil and conflict fomented by President Donald Trump, who showed no indication Saturday that he plans to concede and continued to push the falsehood that he had won"
+    publishedDateTime: 2020-11-08T02:27:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QmgsPb9OHsU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/biden-victory-speech-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/biden-victory-speech-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107192144-biden-event-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read: President-elect Joe Biden's remarks"
+    excerpt: "As prepared for delivery.\n    \n"
+    publishedDateTime: 2020-11-08T02:16:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zGP7pXU3MEM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/joe-biden-president-elect-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/joe-biden-president-elect-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump misleads on Trump's health care record in joint campaign stop"
     excerpt: "First lady Melania Trump pitched President Donald Trump as a tireless warrior for health care at a rally on Thursday, claiming that health care for every citizen is his priority, even though his administration has worked to dismantle the Affordable Care Act since he took office.\n    \n"
     publishedDateTime: 2020-10-29T23:00:39Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.indystar.com/amp/6129769002"
 cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6129769002"
 type: article
 quality: 78
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/28/USAT/e88a30bd-a278-4c81-a022-0a5b54e3cedf-AP_APTOPIX_Election_2020_Harris.jpg?auto=webp&crop=4800,2700,x545,y769&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VP-elect Kamala Harris, first woman, black and Asian-American in role, delivers victory speech"
+    excerpt: "Addressing her historic win, she predicted, \"While I may be the first...I will not be the last.\""
+    publishedDateTime: 2020-11-08T02:34:11Z
+    webUrl: "https://www.independent.co.uk/news/world/americas/us-election-2020/kamala-harris-speech-vice-president-elect-b1685040.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 43
+    images:
+      - url: "https://static.independent.co.uk/2020/11/08/01/kamala-harris-victory-speech.jpg"
+        width: 3493
+        height: 2454
         isCached: true
 
 secured: "h34iVkLeZaMbtwckQXNm1hg4MnNJb7c9oWrgTFH+WuM9MHFE7Pw9qHCA+15L59qDe/TbRJXcUkvcbE+uONqGAQy90XiY8Ii6pIUFiVJDgDt1/Jp+z2a1ByHaU8cszWXWHXlzUY6T/btVMTZP4zUaaRoSy5F3oSdcTOdX/nw0WCg6hTQSiwfYDUYiYaYDm6kZuulkdm5YS0o/NXQk9wCx4IRn0khBCfalRvHg7ev7D7zPjL4BW/2EpS3EHlz0ltmbNGzXDbZN0XzkUrubE6dAy0XRg33/g5nMIizfIxbiRtDos+9B8Fm0yt9pWP/VCerA2XCJqr3kciOua8AQDT+CdZRlfGtUJT0z8Qj+CMjSgw2cVRu4mLC5s0E7HBHEJjleufCvWONH/+j85nMIgqXqa/eornFWRJRQiktnffztjSWY5/butkCamAW53iZ44fkcvbBD41hN68Qd1agiGd8IvC+a8OlB8zloNUfj51dolzRrekWGlEvYsCMK79LWKGNhCIYSMyKbssdm6j8Qgt2B9g==;fcST2sY6jZTxBRvIOsESRw=="

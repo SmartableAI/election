@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP-elect Kamala Harris, first woman, black and Asian-American in role, delivers victory speech"
+    excerpt: "Addressing her historic win, she predicted, \"While I may be the first...I will not be the last.\""
+    publishedDateTime: 2020-11-08T02:34:11Z
+    webUrl: "https://www.independent.co.uk/news/world/americas/us-election-2020/kamala-harris-speech-vice-president-elect-b1685040.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 43
+    images:
+      - url: "https://static.independent.co.uk/2020/11/08/01/kamala-harris-victory-speech.jpg"
+        width: 3493
+        height: 2454
+        isCached: true
 
 secured: "5eE+wFD3uB8hjvRyOtj0n5k0/7nvgJuw6vY2m2k4fdHoRtEAVkaKUTiElVfaZbOlOTf1YB7QsJOt6AI3nYoq6uzWxbI20VRMu5V9CXjSemygne1M60t0jSHi5w9x3exO9+PFDOmMIEBQbinZvSvllYtcXr4w5h07wvGDdHft1wRiLWqxFPtuKRzKnGUzy4yrUHn3Zsv6GWsg0vFst9nXKxydVzFXMsi1V7Qh0i6Ogy+goszUlQ6BwVc7lxOUChSZiI0+l2lCbD7K7lMfHmJf6lgOZfaUDqDlkAx1CUFKCMunQiapky32vgrzCZCERNsb8rg+InmxWSY/8LKhbhAfl7YTKTdegtgT2BsFkXNtvyk=;Avu27waVPOqeBjOsIjYDAQ=="
 ---

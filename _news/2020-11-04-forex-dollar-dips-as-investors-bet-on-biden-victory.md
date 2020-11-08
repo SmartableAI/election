@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Read Kamala Harris' full speech after historic election win"
+    excerpt: "Kamala Harris addressed the nation Saturday night after her historic election as vice president of the United States. Harris, the California senator and daughter of immigrants who broke many barriers in her political career,"
+    publishedDateTime: 2020-11-08T02:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/read-kamala-harris-full-speech-historic-election-win/story?id=74084644"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/read-kamala-harris-full-speech-historic-election-win/story?id=74084644"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/read-kamala-harris-full-speech-historic-election-win/story?id=74084644"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-harris-05-gty-jc-201107_1604799081408_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kamala Harris visit Friday marks latest sign of Biden’s commitment to Texas"
     excerpt: "Democratic vice presidential candidate Kamala Harris will visit Houston and two other Texas cities to round out the final day of early voting on Friday. The Houston leg of Harris’ trip will be her last of the day,"
     publishedDateTime: 2020-10-30T19:29:00Z
@@ -572,6 +588,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Vice President-Elect Kamala Harris Says She Stands on Shoulders Of All Women Who Fought For Right To Vote"
+    excerpt: "Vice President-elect Kamala Harris said she stands on the shoulders of all the women who came before her to fight for women's right to vote on the day that she and President-elect Joe Biden celebrated their victory in the 2020 presidential election."
+    publishedDateTime: 2020-11-08T01:06:00Z
+    webUrl: "https://www.newsweek.com/vice-president-elect-kamala-harris-says-she-stands-shoulders-all-women-who-fought-right-vote-1545806"
+    ampWebUrl: "https://www.newsweek.com/vice-president-elect-kamala-harris-says-she-stands-shoulders-all-women-who-fought-right-vote-1545806?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/vice-president-elect-kamala-harris-says-she-stands-shoulders-all-women-who-fought-right-vote-1545806?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 108
+    images:
+      - url: "https://d.newsweek.com/en/full/1667179/kamala-harris.jpg"
+        width: 2052
+        height: 1365
+        isCached: true
   - title: "Kamala Harris did not urge undocumented immigrants to vote"
     excerpt: "Democratic vice presidential candidate Kamala Harris tells undocumented immigrants to vote in this election.  AP’S ASSESSMENT: False. Posts online are misrepresenting"
     publishedDateTime: 2020-11-03T21:21:00Z
@@ -975,6 +1007,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Watch live: President-elect Joe Biden, Kamala Harris speak in Delaware"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris address the nation Saturday evening from Wilmington, Del."
+    publishedDateTime: 2020-11-08T02:05:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/07/Watch-live-President-elect-Joe-Biden-Kamala-Harris-speak-in-Delaware/5341604773028/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/07/Watch-live-President-elect-Joe-Biden-Kamala-Harris-speak-in-Delaware/5341604773028/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/07/Watch-live-President-elect-Joe-Biden-Kamala-Harris-speak-in-Delaware/5341604773028/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5341604773028/2020/1/962e03f78f5d991d767db1dae4bae5da/v1.5/Joe-Biden-Kamala-Harris-call-for-unity-Its-time-to-heal.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Sen. Kamala Harris will travel to Florida on Halloween to campaign for Biden"
     excerpt: "Democratic vice presidential nominee Kamala Harris will travel to Florida on Halloween in a last-minute push to earn votes in the crucial battleground state. While a handful of the latest polls show Democratic presidential nominee Joe Biden with a narrow lead over incumbent Republican President Donald Trump,"
     publishedDateTime: 2020-10-29T16:11:00Z
@@ -1272,14 +1320,14 @@ related:
         isCached: true
   - title: "Kamala Harris breaks glass ceiling as first female vice president, first woman VP of color"
     excerpt: "Harris will make history as not only the first woman vice president but also the first African American and Asian American person to hold the office."
-    publishedDateTime: 2020-11-07T16:54:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/kamala-harris-first-female-vice-president-first-woman-vp-color/6168492002/"
-    ampWebUrl: "https://amp.freep.com/amp/6168492002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6168492002"
+    publishedDateTime: 2020-11-08T02:28:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/11/07/kamala-harris-first-female-vice-president-first-woman-vp-color/6168492002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6168492002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6168492002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/PBRE/eafa24fb-ae29-4340-bc2b-8c561a9f9114-BRE_AP_Kamala_Harris_14.jpg?auto=webp&crop=2632,1481,x0,y533&format=pjpg&width=1200"

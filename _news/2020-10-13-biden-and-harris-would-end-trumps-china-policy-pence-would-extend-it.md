@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10800
+heat: 10820
 published: true
 
 provider:
@@ -3858,6 +3858,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "Election 2020: Joe Biden beats defiant Donald Trump; Kamala Harris first woman elected vice president"
+    excerpt: "In a Saturday evening address to the nation, Biden touted the fact that he’s won more votes than any presidential ticket in history, calling his win “a convincing victory, a victory for the people.”"
+    publishedDateTime: 2020-11-08T02:43:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 105
+    images:
+      - url: "https://www.courant.com/resizer/Ee0W9aCN3FWG-v2fbZgPvyrZ73A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KZKWCXLLWNHSTL2ISPRCT3M6EE.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump: Kamala Harris will have to take over for Biden after three months"
     excerpt: "President Trump predicted Thursday that Joseph R. Biden wouldn’t last more than a few months if he’s elected president before Sen. Kamala D. Harris, his running mate, would have to take over."

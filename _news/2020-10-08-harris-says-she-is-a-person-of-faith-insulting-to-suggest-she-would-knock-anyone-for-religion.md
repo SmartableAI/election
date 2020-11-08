@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-cour
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
 type: article
 quality: 172
-heat: 292
+heat: 272
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b27d54d-d1e8-49f4-8043-ff2b67b8a139/8bb45b05-f697-4419-8c4a-6adb8d684dc2/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Kamala Harris’s American Example"
-    excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
-    publishedDateTime: 2020-10-06T23:38:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harriss-american-example-11602026030"
-    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-240957/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
     excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."

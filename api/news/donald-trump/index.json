@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-08-trump-defied-gravity-now-falls-back-to-earth-future-tbd.md",
+      "title": "Trump defied gravity; now falls back to earth, future TBD",
+      "excerpt": "Donald Trump, who defied political gravity with his extraordinary rise from reality star and businessman to the presidency, has fallen back to earth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp",
+      "publishedDateTime": "2020-11-07T18:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-hispanic-voters-deliver-a-texas-win-for-trump.md",
+      "title": "Hispanic Voters Deliver a Texas Win for Trump",
+      "excerpt": "The Rio Grande Valley shifted decisively toward President Trump, cancelling out votes for Joseph R. Biden Jr. in urban and suburban areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/04/us/texas-election-battleground-state-counties-promo-1604498818927/texas-election-battleground-state-counties-promo-1604498818927-facebookJumbo-v17.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-rep-matt-gaetz-a-close-trump-ally-says-hes-tested-positive-for-coronavirus-antibodies.md",
       "title": "Rep. Matt Gaetz, a close Trump ally, says he's tested positive for coronavirus antibodies",
       "excerpt": "The Republican Florida lawmaker is one of Trump's staunchest defenders on Capitol Hill and is a fixture in conservative media.",
@@ -166,7 +266,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/11/07/trump-election-far-from-over-promising-legal-battle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 840,
+      "heat": 880,
       "tags": null,
       "images": [
         {
@@ -1495,110 +1595,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-winning-is-easy-losing-is-never-easy-trump-stops-by-rnc-office-in-virginia.md",
-      "title": "'Winning is easy. Losing is never easy': Trump stops by RNC office in Virginia",
-      "excerpt": "Donald Trump said he is not thinking about an acceptance or a concession speech when he stopped at the Republican National Committee Headquarters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/USAT/9e10db91-8ed7-4e5b-8599-6d7acec09e91-VPC_TRUMP_ON_WINNING_LOSING_DESK_THUMB.00_01_49_28.Still003.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-indias-hindu-fringe-group-holds-prayers-for-trump.md",
-      "title": "India's Hindu fringe group holds prayers for Trump",
-      "excerpt": "World India's Hindu fringe group holds prayers for Trump. Posted . A Hindu right-wing group in New Delhi held special prayers for U.S. President Donald Trump's victory in the pres",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/indias-hindu-fringe-group-holds-prayers-id721520944?chan=8gwsyvzx",
-      "originalUrl": "https://www.reuters.com/video/watch/indias-hindu-fringe-group-holds-prayers-id721520944?chan=8gwsyvzx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20201103&i=OVD30R7XB&r=OVD30R7XB&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -3870,6 +3870,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Election 2020: Joe Biden beats defiant Donald Trump; Kamala Harris first woman elected vice president"
+    excerpt: "In a Saturday evening address to the nation, Biden touted the fact that he’s won more votes than any presidential ticket in history, calling his win “a convincing victory, a victory for the people.”"
+    publishedDateTime: 2020-11-08T02:43:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 105
+    images:
+      - url: "https://www.courant.com/resizer/Ee0W9aCN3FWG-v2fbZgPvyrZ73A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KZKWCXLLWNHSTL2ISPRCT3M6EE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "It's not easy being the first but for Kamala Harris it has become a habit"
     excerpt: "This January 1970 photo provided by the Kamala Harris campaign shows her, left, with her sister, Maya, and mother, Shyamala, outside their apartment in Berkeley, California, after her parents ..."
     publishedDateTime: 2020-10-14T06:54:00Z

@@ -406,6 +406,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Inside the Trump campaign as it grapples with defeat while plowing forward with legal fight"
+    excerpt: "Inside the campaign, fatigue and disappointment has hit the rank and file on the president’s team, and the reality is settling in that the president lost the election."
+    publishedDateTime: 2020-11-08T02:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/inside-trump-campaign-grapples-defeat-plowing-forward-legal/story?id=74082317"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/inside-trump-campaign-grapples-defeat-plowing-forward-legal/story?id=74082317"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/inside-trump-campaign-grapples-defeat-plowing-forward-legal/story?id=74082317"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/International/trump-whitehouse-gty-rc-201107_1604784088150_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump campaign says 'illegally cast' ballots should not be counted"
     excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
     publishedDateTime: 2020-11-04T16:13:00Z
@@ -445,6 +461,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'This isn't over!': Trump supporters refuse to accept defeat"
+    excerpt: "Chanting “This isn’t over! and “Stop the steal,” supporters of President Donald Trump protested at state capitals across the country Saturday, refusing to accept defeat and echoing Trump’s unsubstantiated allegations that the Democrats won the election by fraud."
+    publishedDateTime: 2020-11-08T02:29:00Z
+    webUrl: "https://www.businessinsider.com/this-isnt-over-trump-supporters-refuse-to-accept-defeat-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/this-isnt-over-trump-supporters-refuse-to-accept-defeat-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-isnt-over-trump-supporters-refuse-to-accept-defeat-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump campaign says more legal action coming, predicts victory as early as Friday"
     excerpt: "President Donald Trump's campaign said on Thursday it expected to launch additional legal action in Pennsylvania and Nevada and predicted that the Republican incumbent would emerge victorious in the U."
     publishedDateTime: 2020-11-05T16:25:00Z

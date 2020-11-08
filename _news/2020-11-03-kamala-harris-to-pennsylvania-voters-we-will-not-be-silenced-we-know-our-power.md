@@ -48,22 +48,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "‘Vote like our lives depend on it because they do,’ Kamala Harris says in Philadelphia."
-    excerpt: "Senator Kamala Harris on Monday evening made an impassioned final pitch before Election Day, casting the race as “the most consequential election of our lifetimes” as she urged Americans to turn out to the polls."
-    publishedDateTime: 2020-11-03T07:54:00Z
-    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 127
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02elections-briefing-harris/02elections-briefing-harris-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "iO9+hfIp0LrQwsrX7l63xtamkmiOLOmHTC1WN4nEmz5v0+puPQYiXz2Q8hasLXW5hpirrGq0pzzHx/2WaIF4K2lBpoGVza8Y3mIi78rTBeC4Kri93UgTl6RbmoSqse9A1HpO77Pz+Ieufnw51mOXO0/cHop9TDT3D/D6+GdjndxGfnx+vZHhSgzRtAUEbkpKXhmIuj5DqJPrJh7NfIEBAe6XNsSTMC+FZ+56V4fiGzozEMA5x1MsMF96iO/D4cvk2VTuHJ9gwC5G8UnSn6XpG0HXzJrbBzOO2nJNBSYbjItkGc8mlKxeRa3I/TJQp4bu4Aa6KQLJdLt+Gs1vfglpXLvH/xI4NEswaH+rci7pbSFmFy/BvvDJjTe/3FpOmVG+yT87j2QVZLTwqH8eDX4/4BaRaAyJ3SOy7sIH5yPt4ap3OckBJsLLSDq52VmmFbl6bbrXjwuHNVxASAdIbzeLNl1mrzKcn0L+hvO1Va/Kr3iFYYHoNFCJioRJX6xYeOcP04DiB1L04LftPuPqSJE93w==;FGdYbthEmEDkM0Sll03vrg=="
 ---

@@ -2,6 +2,118 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-09-north-carolina-democrats-sex-scandal-renews-gop-hopes-of-keeping-majority-despite-trumps-drag-on-the-ticket.md",
+      "title": "North Carolina Democrat's sex scandal renews GOP hopes of keeping majority despite Trump's drag on the ticket",
+      "excerpt": "President Donald Trump's eroded political standing has hurt GOP senators in crucial races across the country, but Republicans now hope a sex scandal in North Carolina will help them fend off the Trump effect in a race that's central to holding the Senate majority.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4g8mbzoPQ-E/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4g8mbzoPQ-E/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201009111757-02-cunningham-tillis-debate-1001-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/09/politics/north-carolina-senate-race-cal-cunningham-thom-tillis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/north-carolina-senate-race-cal-cunningham-thom-tillis/index.html",
+      "publishedDateTime": "2020-10-09T12:52:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-philadelphia-judge-rejects-trumps-poll-watcher-lawsuit.md",
+      "title": "Philadelphia judge rejects Trump's poll-watcher lawsuit ",
+      "excerpt": "A local judge on Friday rejected an effort by the Trump campaign to send poll watchers to voting sites in Philadelphia, ruling that the campaign's attempted poll-watching isn't allowed under state law.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201009003625-voto-anticipado-elecciones-estados-unidos-encuesta-analisis-seg-pkg-michael-roa-00000311-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html",
+      "publishedDateTime": "2020-10-09T11:32:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-what-makes-mike-pences-complicity-so-chilling.md",
       "title": "What Makes Mike Pence’s Complicity So Chilling",
       "excerpt": "Somewhere under the cornfields and backyard hoop courts of Indiana is a small black box holding the conscience of Vice President Mike Pence. He buried it four years ago, when a tape emerged of Donald Trump boasting about sexually assaulting women.",
@@ -1585,119 +1697,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-trumps-latest-political-theatrics-described-as-insanity.md",
-      "title": "Trump's latest political theatrics described as 'insanity'",
-      "excerpt": "Even in the midst of a national crisis, the nation's reality-show president was preoccupied with putting on a little show for the cameras.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2020_40/3417409/201004-trump-drive-walter-reed-rd-541p_236d25083945c388acde5b25f325446f.nbcnews-fp-1200-630.JPG",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-trump-told-woodward-in-march-he-didnt-have-a-lot-of-time-to-meet-with-fauci-in-newly-released-audio.md",
-      "title": "Trump told Woodward in March he didn't have 'a lot of time' to meet with Fauci in newly released audio",
-      "excerpt": "President Donald Trump in March said he didn't have \"a lot of time\" to meet with Dr. Anthony Fauci as the coronavirus pandemic surged across the US, according to newly released audio from an interview with journalist Bob Woodward.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/twjwNE554QM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/twjwNE554QM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201001100032-01-trump-0930-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/trump-coronavirus-woodward/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-coronavirus-woodward/index.html",
-      "publishedDateTime": "2020-10-05T04:26:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

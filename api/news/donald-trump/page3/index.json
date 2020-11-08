@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-29-chelsea-handler-says-50-cent-wasnt-serious-about-supporting-trump.md",
+      "title": "Chelsea Handler says 50 Cent 'wasn't serious' about supporting Trump",
+      "excerpt": "Comedian Chelsea Handler details a phone call she had with rapper 50 Cent on \"The View\" after he expressed support for Pres. Trump and then renounced it.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
+      "originalUrl": "https://abcnews.go.com/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/ChelseaHandler_1603906784512_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
+      "publishedDateTime": "2020-10-28T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-whitmer-on-trumps-response-to-kidnapping-plot-i-dont-think-its-funny.md",
+      "title": "Whitmer on Trump's response to kidnapping plot: \"I don't think it's funny\"",
+      "excerpt": "Michigan Governor Gretchen Whitmer said his response to the plot against her \"tells you everything you need to know about the character of this president.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
+      "originalUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/09/a290333e-b3c3-44a2-b2c5-d1ce99bad0be/thumbnail/1200x630/64973db17fe2da9b0f6d9eb896eb5105/cbsn-fusion-feds-bust-alleged-plot-to-kidnap-michigan-governor-gretchen-whitmer-thumbnail-562619-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
+      "publishedDateTime": "2020-10-28T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona.md",
       "title": "WATCH LIVE: Trump speaks at campaign rally in Bullhead City, Arizona",
       "excerpt": "Trump weighed in on two nights of clashes with Philadelphia police and store break-ins following the fatal shooting by police of Walter Wallace Jr.",
@@ -1457,115 +1561,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-joy-behar-says-trump-should-be-charged-with-crimes-against-humanity-over-immigration-policy.md",
-      "title": "Joy Behar says Trump should be charged with ‘crimes against humanity’ over immigration policy",
-      "excerpt": "The View” co-host Joy Behar said on Friday that President Trump and members of his administration should be charged with “crimes against humanity” because of its immigration policy and vowed to not “be a part of a country” that separates children from their parents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations",
-      "originalUrl": "https://www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/07/16/694940094001_6059924440001_6059932352001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations.amp",
-      "publishedDateTime": "2020-10-23T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-facebook-pulled-48-trump-election-campaign-ads-which-told-people-your-vote-has-not-been-counted.md",
-      "title": "Facebook pulled 48 Trump election campaign ads which told people 'your vote has not been counted'",
-      "excerpt": "Some 399,000 saw the ads from the Trump campaign before Facebook pulled it, which was potentially misleading to some voters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
-      "originalUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f92f8b4212113001874071a?width=1200&format=jpeg",
-          "width": 780,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp",
-      "publishedDateTime": "2020-10-23T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

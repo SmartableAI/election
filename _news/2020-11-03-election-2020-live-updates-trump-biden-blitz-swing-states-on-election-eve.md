@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671"
 type: article
 quality: 153
-heat: 2773
+heat: 2813
 published: true
 
 provider:
@@ -1117,6 +1117,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Text of statement from President Donald Trump"
+    excerpt: "Text of a statement from President Donald Trump on the election result: “We all know why Joe Biden is rushing to falsely pose as the winner, and why his media allies are trying so hard to help him: they don’t want the truth to be exposed."
+    publishedDateTime: 2020-11-07T22:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/text-statement-president-donald-trump-74076366"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/text-statement-president-donald-trump-74076366"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/text-statement-president-donald-trump-74076366"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2d7e35c666834027bd96981c0d5cad9f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
     publishedDateTime: 2020-11-02T08:20:00Z
@@ -1625,6 +1641,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/05/democratic-presidential-candidate-joe-biden-is-close-to.jpg"
         width: 1024
         height: 702
+        isCached: true
+  - title: "'It's easier to be a parent this morning': Van Jones had an emotional on-air reaction to President-elect Joe Biden's win"
+    excerpt: "The CNN political commentator and lawyer tearfully explained his relief at knowing President Donald Trump was defeated at the ballot box."
+    publishedDateTime: 2020-11-08T01:11:00Z
+    webUrl: "https://www.businessinsider.com/van-jones-trump-presidency-joe-biden-emotional-win-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/van-jones-trump-presidency-joe-biden-emotional-win-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/van-jones-trump-presidency-joe-biden-emotional-win-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fa740dbf7d1cb0019e3a67e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump begins Election Day with 'Fox & Friends' interview: Live updates on Trump, Pence"
     excerpt: "President Trump plans to spend the day making calls, giving interviews, monitoring events from the White House."

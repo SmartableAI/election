@@ -2,11 +2,11 @@
 category: news
 title: "Trump does not plan to concede any time soon, aides and allies indicate"
 excerpt: "After the declaration on Saturday that Democrat Joe Biden had won the race for the White House, Republican President Donald Trump and his allies made one thing clear: he does not plan to concede anytime soon."
-publishedDateTime: 2020-11-07T22:09:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN27N0YE"
-webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN27N0YE"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0YE"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0YE"
+publishedDateTime: 2020-11-08T02:56:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN27N0YT"
+webUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN27N0YT"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27N0YT"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27N0YT"
 type: article
 quality: 125
 heat: -1
@@ -477,6 +477,6 @@ related:
         height: 682
         isCached: true
 
-secured: "CIMivLRnvbyZvhqZLPUKl66wB6K5zk4xwaj8wlazlHAA09tU8Op5f8LslC83X/9Knv9yKLUOUl30eZowLDrn2xtDSdmcraPWOdsij9/tpvnXqil7teZ+NiYnf2iw8qfeT9X+iwiPTXDi/A5LUxPqh5wz2uCyciZQq7eFkSncJVb+KsjjxxEyJbnc8WbgolSd+3F+cs4uEqxN+VB+15UY3ByxIBIkXq0olk0ZuPqiBBtdAFDZbqMY7ATTsxMw4esVMVhfG9ulgmvUG8jM+2J2v/Dv9FrckBOLV7pbvtybsriWrf4uanfan1aMaUoWpjqf2dcWr99GTkciPLnA6tMFOk+waYuJLTMd23bNtNg31Gg=;4TWCAIbLhr0BYUqY4nWmyQ=="
+secured: "lXk+Nh/GVDn2Qf37x7PQDLxn2XjzsZbjwGEtl7EaVhOBZm2EO8DpKnxD3+OKU02faI+2Nr7E7qGNfbR0e4jngtu6OqhZ3qH2HRcdp2Fr1V+49f8efS0ImDJxdkPNfiupG7SIctbytXO9k6wnFsxL5DnkAWiKNCE+ft2ovq22y7lpE4CD3SlsiIKSdX00KA/BbbCC90kiQlrNMqASlsaFLNxUhS2/8uIPYRWkDrgZyjk+nncPVmssF1leZQhzxLsMMTkvarTUGDLnqmcanrElFTVzZ+5I5TwxQIc32l07+vRGVKb2b8WiTTyNJnzA+pRvtsZAQBA28MdB/qRPy6jfl3ZKQwFpSH8if4yOdBmFtiw=;c+GZQqNsWubDzwZisswpTg=="
 ---
 

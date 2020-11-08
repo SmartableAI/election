@@ -139,6 +139,17 @@ related:
         width: 1024
         height: 670
         isCached: true
+  - title: "Black leaders greet Biden win, pledge to push for equality"
+    excerpt: "DETROIT (AP) — President-elect Joe Biden’s victory was celebrated by civil rights activists and Black leaders who warned that a tough road lies ahead to address America’s persistent inequalities and the racial division that Donald Trump fueled during his presidency."
+    publishedDateTime: 2020-11-08T02:37:00Z
+    webUrl: "https://www.businessinsider.com/black-leaders-greet-biden-win-pledge-to-push-for-equality-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/black-leaders-greet-biden-win-pledge-to-push-for-equality-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-leaders-greet-biden-win-pledge-to-push-for-equality-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "US election: Joe Biden - 'Each ballot must be counted'"
     excerpt: "The Democratic presidential candidate calls on people to be patient with the US election result."
     publishedDateTime: 2020-11-05T22:03:00Z

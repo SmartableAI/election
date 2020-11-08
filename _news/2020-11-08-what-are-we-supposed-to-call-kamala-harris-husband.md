@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/doug-emhoff-second-gentleman-vice-p
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris' Full Speech: ‘You Chose Hope and Unity, Decency, Science and, Yes, Truth'"
+    excerpt: "Elect Kamala Harris delivered a victory address on Saturday night from Wilmington, Del., and introduced President-Elect Joe Biden. Read the full text of Harris’ speech here:"
+    publishedDateTime: 2020-11-08T02:33:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 66
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/GettyImages-1284480397.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘It’s our time’: Black and brown women around Connecticut celebrate the significance of Kamala Harris’s historic win"
     excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
     publishedDateTime: 2020-11-07T18:15:00Z
@@ -112,6 +128,6 @@ related:
         height: 800
         isCached: true
 
-secured: "YNGucRcZQT6AIhf1ICjh6WuVLLeuqiudhKfLUtoCf/qN/qAwyB1GrPkdEsf1FWHg3ddvoNxklpFxop5wT8Bd/lAE7xyRobA5jlOTrGg+v8LIn0o0aJWt4ZLT7e9iC4RBuVATRDUe2X3bm/zcrOwElsqxZ/9bS0yGGAhujxLnX/huEWOs/pcgiT9dzjiG7rMCQLS9fKuk9FToETbKL458I6uZneTIZ4R+We9A3+Vtw+j92Q3fHHrydn67fFQeyOJFLUQrbAUxfY+IhgYgshVL/TxKLex0+5Au3aYDZMIrIdhFLSAgXMtKJuBXTlFDmNgxrBjEeE8I0/zMX4b+1cMm4CXQWrDUovNMD+kKaVxS2Qs=;ES7J5ytl+Bn8dS/2/yw6Gg=="
+secured: "jZpYltHlhSxPjjiqCvgl0y8vnOpswxWti2z14obwfYS54yAdd7W8LM1d+7lPq6vTzzJbZCY21foT3SjH/grEGrdkWtswerbvyjbQulu/riNmk6RgVs1lByYqqggiRWsvT4uht32p8OodMi0ghhyZkYjVZuKWlF0tfdZM7eN4W+CuvYVsTLtgkkR2MtusQwV/PhEjc7czM+tP0XC4oYlkNYltOKBNJYg08WTSnSZq3wimT982I2eRc2IjV4fzq6wgm/ZsmB9yX91Ek2V4g0SsMIMfxGwDZ4kfspDHLa908KtS7JLKYoGgAfGEHyqG/XP0hUBmpL0dURU90S9eUiSAHboWnrP0j6zrLjyy35cn9ZUk+d4H0B/gbuu4/iqAngE27ZvaXDW8JQIHfbRegf13vFQge7qvwUlOYv1dxBkuK8Xk8gmrJO0LS9nb7TQBIm9TKbRZa6BSr6cn63lfZREVH7oMXNH+5/Gz1lq7tA6MByBbTaH5fb06yl1lBL1cq/YzfYjcCMb1/kiK5V3ZommYdw==;xk9fMRfREG5UDgOoTihlMQ=="
 ---
 

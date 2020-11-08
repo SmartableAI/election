@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris, as first woman elected VP, says she 'won't be the last' "
+    excerpt: "On the night Vice President-elect Kamala Harris made history, she recognized the long battle women had faced for the right to vote and to break into the highest ranks of American politics -- and said that \"every little girl watching\" across the country now knows they can do so, too.\n    \n"
+    publishedDateTime: 2020-11-08T02:47:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107204230-20-biden-harris-address-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris bursts through another barrier, becoming the first female, first Black and first South Asian vice president-elect"
     excerpt: "Kamala Harris, who on Saturday became America's first female, first Black and first South Asian vice president-elect, represents a new face of political power after an election all about who wields power and how they use it.\n    \n"
     publishedDateTime: 2020-11-07T16:28:35Z
@@ -96,22 +112,6 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "‘It’s a Big Deal’: TV Coverage Notes Magnitude of Kamala Harris Victory"
-    excerpt: "On Fox News, Donna Brazile recalled that her mother and grandmother could not vote. “Just scoot over and let women also share in the leadership of this country,” she said."
-    publishedDateTime: 2020-11-07T21:52:00Z
-    webUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/08/business/07harris-media/merlin_179349762_a42eb950-e5f1-4108-a117-004f508f1657-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Kamala Harris makes history as vice president-elect"
     excerpt: "Kamala Harris makes history as the nation’s first female, first Black and first South Asian American vice president-elect after she and Joe Biden are projected as the winners of the 2020 election."
     publishedDateTime: 2020-11-07T23:57:00Z
@@ -143,6 +143,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_45/3426746/201107-kamala-harris-se-1256p_56c5535ac038761418c2d7036a43b7a2.jpg"
         width: 2500
         height: 1599
+        isCached: true
+  - title: "Watch Kamala Harris' full victory speech as vice president-elect"
+    excerpt: "Vice President-elect Kamala Harris addressed the nation in her first public appearance since winning the election."
+    publishedDateTime: 2020-11-08T01:58:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-kamala-harris-full-victory-speech-as-vice-president-elect-95525445787"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95525445787"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95525445787"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_full_2020_kamala_v_speech_201107_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Kamala Harris’s ancestral village in India offers prayers for her victory."
     excerpt: "More than 8,000 miles from the White House, in a small Indian village ringed by lush green rice paddies, several dozen people flocked into a Hindu temple, carrying roses and strings of sweet-smelling jasmine,"
@@ -192,6 +208,33 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "‘Vote like our lives depend on it because they do,’ Kamala Harris says in Philadelphia."
+    excerpt: "Senator Kamala Harris on Monday evening made an impassioned final pitch before Election Day, casting the race as “the most consequential election of our lifetimes” as she urged Americans to turn out to the polls."
+    publishedDateTime: 2020-11-03T07:54:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02elections-briefing-harris/02elections-briefing-harris-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Read Kamala Harris’ Vice-Presidential Acceptance Speech"
+    excerpt: "In her remarks Saturday night, Vice President-elect Kamala Harris acknowledged “all the women who have worked to secure and protect the right to vote” and said: “And I stand on their shoulders.”"
+    publishedDateTime: 2020-11-08T02:14:00Z
+    webUrl: "https://www.nytimes.com/article/Kamala-Harris-speech-transcript.html"
+    ampWebUrl: "https://www.nytimes.com/article/Kamala-Harris-speech-transcript.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/Kamala-Harris-speech-transcript.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
 
 secured: "K0JYl9d3+yg33N/fs3bnlTNmO5noQmfBbImTX+w41vettSMKrGAa2s9bjl/pwOIjbN1mXFn7wKmDwrHLjGvpoZDl42/pZUAtw9xHnvscwc34gCueZeIzNdOTK9YE45gQHdXNDQlYGQST+zeg/Qsft0Hf+B52AZ7KVvmcZH2dJefJkpQ4ZcV6jAK8loa7hGllG6DYJMxhKAvhGPKwjYRB8f/LsHTvv5+Ptu8qBp0ALhU15uZ44vD4rlGeN7smtbia3oVrGGtZWRP0SESpkcpwjjYFgeAqR6FlHuyaTJpabM0BPIUe9E5vsfaV+9w2JD9s4tz6kkIGr5haFFuJFWBz4Wq8XXMAjSWJ+8rDNcgQFvHg2f9ds08Py4ORW7SBFWpFQHJ7/0UxomGWyk4OKq7O8qUs0ezZ5SpDacxSz1SGJTDQVgE8rausK0Vx2yam/8Fr29yV1KeOpX9MiaQmesW0kdl5xK0vt/HurQK5GwC6TmsMJPm+KA/TzFs740AFB7/7W7OmR32PekiLZW2ngEwZQQ==;0p3iKollUxmGz6PpbxTcuA=="
 ---

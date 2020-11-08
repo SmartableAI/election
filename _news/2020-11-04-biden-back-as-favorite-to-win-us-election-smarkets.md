@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ"
 type: article
 quality: 140
-heat: 360
+heat: 380
 published: true
 
 provider:
@@ -123,6 +123,17 @@ related:
         width: 1024
         height: 670
         isCached: true
+  - title: "Black leaders greet Biden win, pledge to push for equality"
+    excerpt: "DETROIT (AP) — President-elect Joe Biden’s victory was celebrated by civil rights activists and Black leaders who warned that a tough road lies ahead to address America’s persistent inequalities and the racial division that Donald Trump fueled during his presidency."
+    publishedDateTime: 2020-11-08T02:37:00Z
+    webUrl: "https://www.businessinsider.com/black-leaders-greet-biden-win-pledge-to-push-for-equality-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/black-leaders-greet-biden-win-pledge-to-push-for-equality-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-leaders-greet-biden-win-pledge-to-push-for-equality-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Fox News reportedly told on-air talent not to refer to Joe Biden as the 'president-elect' even if the network calls the 2020 race for him"
     excerpt: "Many of Fox News' primetime stars have fallen in line with President Donald Trump and amplified his lies about election-rigging and voter fraud."
     publishedDateTime: 2020-11-06T16:01:00Z

@@ -61,22 +61,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris’s American Example"
-    excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
-    publishedDateTime: 2020-10-06T23:38:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harriss-american-example-11602026030"
-    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-240957/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Flashback: Here's How Kamala Harris Has Proven Time and Again She Is a Radical Leftist"
     excerpt: "Sen. Kamala Harris will debate Vice President Pence in Salt Lake City, Utah. It is difficult to conjure a modern contest between two politicians so diametrically opposed"
     publishedDateTime: 2020-10-07T18:15:00Z

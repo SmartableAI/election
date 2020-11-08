@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris' Full Speech: ‘You Chose Hope and Unity, Decency, Science and, Yes, Truth'"
+    excerpt: "Elect Kamala Harris delivered a victory address on Saturday night from Wilmington, Del., and introduced President-Elect Joe Biden. Read the full text of Harris’ speech here:"
+    publishedDateTime: 2020-11-08T02:33:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 66
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/GettyImages-1284480397.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘It’s our time’: Black and brown women around Connecticut celebrate the significance of Kamala Harris’s historic win"
     excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
     publishedDateTime: 2020-11-07T18:15:00Z
