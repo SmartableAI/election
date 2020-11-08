@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 4284
+heat: 4304
 published: true
 
 provider:
@@ -2680,6 +2680,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/06/us/politics/00biden-win-losehfo1/00biden-win-losehfo1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "We followed one Trump supporter from elation to resignation."
+    excerpt: "When someone stole the Trump sign from his yard, he replaced it with half a dozen new ones, one featuring an expletive. At his wedding last month, guests sauntered out in oversize Donald and Melania masks,"
+    publishedDateTime: 2020-11-08T05:17:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/we-followed-one-trump-supporter-from-elation-to-resignation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/we-followed-one-trump-supporter-from-elation-to-resignation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/we-followed-one-trump-supporter-from-elation-to-resignation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/07/business/07election-briefing-gopfamily/07election-briefing-gopfamily-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

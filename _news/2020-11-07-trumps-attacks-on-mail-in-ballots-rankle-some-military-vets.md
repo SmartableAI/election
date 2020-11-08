@@ -255,6 +255,22 @@ related:
         width: 641
         height: 545
         isCached: true
+  - title: "Trump campaign files lawsuit over rejected vote claims in Arizona"
+    excerpt: "Republican President Donald Trump's campaign said Saturday it had filed suit in Arizona, alleging the Southwestern state's most populous county incorrectly rejected votes cast by some voters in the U."
+    publishedDateTime: 2020-11-08T04:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-arizona-idUSKBN27N10U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N10U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N10U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540401955&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA703A"
+        width: 830
+        height: 545
+        isCached: true
   - title: "Overview: Trump calls for vote counting to stop as path to victory narrows"
     excerpt: "President Donald Trump is calling for counting to stop while his opponent, Joe Biden, projects patience ahead of a handful of key states releasing new counts Thursday."
     publishedDateTime: 2020-11-05T18:36:00Z

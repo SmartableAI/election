@@ -271,6 +271,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump campaign files lawsuit over rejected vote claims in Arizona"
+    excerpt: "Republican President Donald Trump's campaign said Saturday it had filed suit in Arizona, alleging the Southwestern state's most populous county incorrectly rejected votes cast by some voters in the U."
+    publishedDateTime: 2020-11-08T04:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-arizona-idUSKBN27N10U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N10U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N10U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540401955&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA703A"
+        width: 830
+        height: 545
+        isCached: true
   - title: "Overview: Trump calls for vote counting to stop as path to victory narrows"
     excerpt: "President Donald Trump is calling for counting to stop while his opponent, Joe Biden, projects patience ahead of a handful of key states releasing new counts Thursday."
     publishedDateTime: 2020-11-05T18:36:00Z
@@ -591,6 +607,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "XrnI2NVBQ2vMkNIim0oq8NSRLaK8JRiLFlVsgYSXWJZB2TjcaIWT47AVRhO7wKFrD/+ShDt4BnrYO7bR1B0gPS4ha+oxthMyNG+M+//m9mN3r7GBVcwrsCe2W3sY7T1mdyiVMphaSx8iEMusemVVCXR9NcyIPMvH+WO6KBbkzpe4sRSXrx+hbgfZjdNFeYsdKnuw7LuHOzvlHPKJfwpZjG/9pk8DNIUBFEKTT98iSarlThDQRZs66dolmAFmflxIS7oEH/aOSxsJGlMG0LsuYKs+IaTgtZD58P3MaQqxG7bCxW/bRfv+x0Zl3EPSRAeUEuKbYg9PzknHBYR3ZXHmpbvWOCRc+g+r2ykzqYMkW18=;oPLah0+sLieM91BOnE9DfQ=="
+secured: "A7w3dyMvpG0I1p0RT4qYPGpyB5xF1p362IefbK9mDLJYsFL/rMpw4CSpDu6OCsrZrpZDZVLv/CrpdbGX3pjmJIHac3mkX1fZ+AkxFYl0QBUj8dN5/eO+OjeBlkaZISAqezxJnERDWxaaQ5YuDH8SL17nlzSpZgZqEq6JaRXlPUla9pYt5av2wTKiF18ggqkSa2ifnqapruKNVZXSnRFOHMqIynjcvOdmzb0IMpuzkcBxbEqjGTXYmeIYMgbVFYl2NnZjv/JNkz3tJlaXy7923DJN+V3ZD5GvEQNU3dBijfiCsfrluIsu/ZTk3CR2FgpGk9iSniSwWxUR9qySMLljbB+F2U4oYnQb2LVUAAaEbcrK48loXuHvmH6twYwsyPOevDXw7Y5YVF1P15pjLflrVhok21E9vkHLrQjx60xZs4eKR3Ifd0U9QEYYwfeofBS0xDoN3L7k+rOkec81UWSP4xDL1r91tGU+l20mtX+wSSSKbv43tXjNV81embsRPUCGqmVImbIOBNRsmPp8b1L0sA==;uYuIY5YslAQBLcXrEIVFCw=="
 ---
 

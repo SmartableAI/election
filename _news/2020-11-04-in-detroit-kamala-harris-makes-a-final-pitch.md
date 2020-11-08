@@ -224,6 +224,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris, elected V.P., has risen higher in national politics than any woman before her."
+    excerpt: "Kamala Harris, a senator from California and former presidential candidate, made history when she was elected vice president of the United States. Her victory represents a handful of firsts: She will be the first woman,"
+    publishedDateTime: 2020-11-08T08:12:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 124
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Read Kamala Harris’ Vice-Presidential Acceptance Speech"
     excerpt: "In her remarks Saturday night, Vice President-elect Kamala Harris acknowledged “all the women who have worked to secure and protect the right to vote” and said: “And I stand on their shoulders.”"
     publishedDateTime: 2020-11-08T02:14:00Z

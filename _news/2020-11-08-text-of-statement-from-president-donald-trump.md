@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's new campaign: Flurry of election lawsuits in search of strategy, as Biden claims victory"
+    excerpt: "What's the strategy? Trump's scattershot legal offensive rolls on. Election lawsuits may mount even as some have already been dismissed."
+    publishedDateTime: 2020-11-08T07:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/06/trumps-new-campaign-flurry-election-lawsuits-lacking-strategy/6181544002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6181544002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6181544002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 142
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/8d4a46af-45c9-4594-934d-2648e5e7ce9a-AFP_AFP_8UR6WR.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election results updates: Biden remains close to 270 electoral votes as Trump tries legal strategy"
     excerpt: "Democratic nominee Joe Biden is still in need of six or more electoral college votes to push him to the required threshold of 270 needed to win the presidency. As it stands, Biden has secured 264 electoral votes from presidential races in states that have been called,"
     publishedDateTime: 2020-11-07T08:13:00Z
@@ -1130,6 +1146,22 @@ related:
     quality: 125
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540297032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51LS"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Thousands take to streets of U.S. in celebration of Biden victory"
+    excerpt: "Days of pent-up post-election anxiety gave way to spontaneous street celebrations as Joe Biden supporters on Saturday cheered news of his presidential win with a cacophony of banging pots and pans, honking horns and dance music in cities across the United States."
+    publishedDateTime: 2020-11-08T08:58:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-celebration-idUSKBN27N0OM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0OM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0OM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540400627&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA7028"
         width: 817
         height: 545
         isCached: true

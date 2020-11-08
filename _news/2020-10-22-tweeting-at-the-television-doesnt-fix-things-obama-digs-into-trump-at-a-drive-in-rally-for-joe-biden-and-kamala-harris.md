@@ -225,6 +225,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "After Biden-Harris speeches, CNN's Don Lemon expresses emotional relief, rips 'PTSD' of Trump era"
+    excerpt: "CNN's Don Lemon felt relief at news of apparent Biden election win, saying marginalized people have suffered 'PTSD,' 'whiplash' under President Trump."
+    publishedDateTime: 2020-11-08T07:49:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/11/07/cnn-don-lemon-president-trump-joe-biden-kamala-harris/6211859002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6211859002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6211859002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 152
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/11/01/USAT/e866f5de-ccf2-4c21-94b1-c60fd9f80071-AP_CNN-Lemon.JPG?auto=webp&crop=2786,1567,x0,y630&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris and Mike Pence debate reaction, Trump calls Covid diagnosis 'blessing' – live updates"
     excerpt: "Coronavirus dominates VP debate as Trump declares his illness a ‘blessing from god’"
     publishedDateTime: 2020-10-08T11:24:00Z

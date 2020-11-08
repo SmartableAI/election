@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A0BB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A0BB"
 type: article
 quality: 155
-heat: 10315
+heat: 10335
 published: true
 
 provider:
@@ -1661,6 +1661,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539218779&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0BJ"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden narrowly beats Trump for presidency in deeply divided United States"
+    excerpt: "Democrat Joe Biden won the U.S. presidential election on Saturday after a bitter campaign, sparking street celebrations among his supporters in major cities even as President Donald Trump refused to accept defeat."
+    publishedDateTime: 2020-11-08T04:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27M0U3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540414050&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA7076"
+        width: 752
         height: 545
         isCached: true
   - title: "Trump to Biden transition could be rockier than most, some experts worry"

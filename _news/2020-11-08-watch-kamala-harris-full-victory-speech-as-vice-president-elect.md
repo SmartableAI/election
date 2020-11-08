@@ -224,6 +224,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris, elected V.P., has risen higher in national politics than any woman before her."
+    excerpt: "Kamala Harris, a senator from California and former presidential candidate, made history when she was elected vice president of the United States. Her victory represents a handful of firsts: She will be the first woman,"
+    publishedDateTime: 2020-11-08T08:12:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 124
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Read Kamala Harris’ Vice-Presidential Acceptance Speech"
     excerpt: "In her remarks Saturday night, Vice President-elect Kamala Harris acknowledged “all the women who have worked to secure and protect the right to vote” and said: “And I stand on their shoulders.”"
     publishedDateTime: 2020-11-08T02:14:00Z
@@ -236,6 +252,6 @@ related:
       domain: nytimes.com
     quality: 115
 
-secured: "rVaMZs0wqurXeWQdqwIG5pA4007TXqGOcSUw53Lc05hba4q07Fi3wAYdCpIzLTR0MdE8WugLXUqXTyAOCVT7O8+2/AjUE8rtLWm8gzIESG32Hlz97FaCr+b3BpK2BIR2gVkgwIYBPSJ+jrmD85k98KstMYp65hA0ya0oOa+nBUbfqMiJH+I/u62PzNA+UwcrZhbSzzvmUYPJj8vx9gffha4gH3OnnFz8u9TU3koWt2N+TA/2NTAYj9mgPxSk+xFAbkmSZ31XWh+6v0yDJ+fs05WL6zh/krm/O81mlf7p5Gg7E+vjrdlZt0pPI2KAJAjxZzKSeCDoeZJRp0g3zy3GaPLaM4xYt7Wuj7l4lyLMy2Y=;bpUNkauSwQ3zjImf/DA8Rw=="
+secured: "VKK/NzUNewCQp1ghi5Hr1+QG8VoX72p0ySc7jJqXrqjvezXCe9kc9+Xknw76Mm3gbO1n8TNsxIrdvZj1CDhlCnEp9VxPc8QKh6Q5ap45riT6Pl4g1pjnKMGgjU9iBBT6wYw3xxzzWCClbAIC4zUMM5K/lGWfluT1eF5SwpJBpVCvPjY/wrjh5V53GNihhfwPb8jK0mOcER20yBirk1gusnARhHtnpf6sGHtZUOFgI0VOL6V6Hcmd8JGr45L7wa2piOvoROu04A0e0+HeqNPUglLajL9EzqPAQi/cvvAhJCwf+42NV+NNj8Ak9whdnCvMWLfUcxRMwyu4BHobOtrVvoL/cY+7AF+s1TbXsj6bUXbhmuSvlbIvwbgxD/zOplDhuQ0zsjhcoaCK0yRt/0MIf9DJt1Fj3Mrr85tlJTz3HH+oD0uo29Dc1ak2AuwXouhOKdAx8NUydNcAZSHs/xfuyrK4Hw0q3ln1GGq0j8+FBubCYtrHAQD44DOY3SkOMOoXCe+7kafyeEY05CC9B7nD+A==;tI3Hq6OLhRcGczwypBZ3NQ=="
 ---
 

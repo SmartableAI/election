@@ -2700,6 +2700,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "We followed one Trump supporter from elation to resignation."
+    excerpt: "When someone stole the Trump sign from his yard, he replaced it with half a dozen new ones, one featuring an expletive. At his wedding last month, guests sauntered out in oversize Donald and Melania masks,"
+    publishedDateTime: 2020-11-08T05:17:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/we-followed-one-trump-supporter-from-elation-to-resignation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/we-followed-one-trump-supporter-from-elation-to-resignation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/we-followed-one-trump-supporter-from-elation-to-resignation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/07/business/07election-briefing-gopfamily/07election-briefing-gopfamily-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "2020 Election Live Updates: Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "RIGHT NOW ‘Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."
     publishedDateTime: 2020-10-24T22:32:00Z

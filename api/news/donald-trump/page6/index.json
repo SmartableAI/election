@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-17-donald-trump-to-campaign-wednesday-in-gastonia.md",
+      "title": "Donald Trump to campaign Wednesday in Gastonia",
+      "excerpt": "The president will be at the Gastonia Municipal Airport Wednesday to campaign for his 2020 reelection campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "originalUrl": "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wcnc.com/assets/WZZM/images/d11f7245-6d50-49bc-81d7-092cae6f06dd/d11f7245-6d50-49bc-81d7-092cae6f06dd_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "cdnAmpWebUrl": "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8",
+      "publishedDateTime": "2020-10-16T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCNC",
+        "domain": "wcnc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-halloween-2020-pet-costumes-to-dress-dogs-up-as-baby-yoda-donald-trump-and-more.md",
       "title": "Halloween 2020: Pet costumes to dress dogs up as baby Yoda, Donald Trump and more",
       "excerpt": "These adorable pet costumes will surely brighten your day, even if the COVID pandemic ruined your plans this year. Dressing up to celebrate Halloween is one of the safest ways to celebrate during the pandemic.",
@@ -1488,58 +1531,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-put-these-animals-in-jail-trump-condemns-protestors-in-portland-and-continues-his-law-and-order-campaign-rhetoric.md",
-      "title": "'Put these animals in jail': Trump condemns protestors in Portland and continues his 'law and order' campaign rhetoric",
-      "excerpt": "Trump's comments are a continuation of attacks on Democratic presidential candidate Joe Biden, who he has claimed is weak on \"law and order.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/put-these-animals-in-jail-trump-condemns-protestors-in-portland-2020-10",
-      "originalUrl": "https://www.businessinsider.com/put-these-animals-in-jail-trump-condemns-protestors-in-portland-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f846841bab422001979ac2c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/put-these-animals-in-jail-trump-condemns-protestors-in-portland-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/put-these-animals-in-jail-trump-condemns-protestors-in-portland-2020-10?amp",
-      "publishedDateTime": "2020-10-12T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

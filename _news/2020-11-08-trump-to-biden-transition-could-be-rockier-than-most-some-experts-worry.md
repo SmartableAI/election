@@ -1679,6 +1679,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden narrowly beats Trump for presidency in deeply divided United States"
+    excerpt: "Democrat Joe Biden won the U.S. presidential election on Saturday after a bitter campaign, sparking street celebrations among his supporters in major cities even as President Donald Trump refused to accept defeat."
+    publishedDateTime: 2020-11-08T04:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27M0U3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540414050&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA7076"
+        width: 752
+        height: 545
+        isCached: true
   - title: "With time running out, Trump to launch attacks on Biden's family at debate"
     excerpt: "U.S. President Donald Trump is expected to come out swinging in Thursday's final presidential debate with Democratic rival Joe Biden to try to close a gap in opinion polls before an election 12 days away."
     publishedDateTime: 2020-10-23T01:15:00Z

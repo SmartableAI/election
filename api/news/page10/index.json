@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-27-biden-makes-plea-to-unite-and-heal-the-country-during-stop-in-georgia.md",
+      "title": "Biden makes plea to ‘unite and heal’ the country during stop in Georgia",
+      "excerpt": "Joe Biden, playing offense in a long time red state turned crucial battleground this year, made a closing campaign pitch on Tuesday for national unity to rise above what he called the division President Trump’s sown during his four years in the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4K5BdjTl8Po/biden-plea-unite-and-heal-the-country-georgia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4K5BdjTl8Po/biden-plea-unite-and-heal-the-country-georgia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301662617518.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp",
+      "publishedDateTime": "2020-10-27T13:10:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome.md",
       "title": "Trump already chose Barrett successor on appeals court, confirmation possible regardless of election outcome",
       "excerpt": "With Justice Amy Coney Barrett now on the Supreme Court, a new vacancy has opened on the 7th U.S. Circuit Court of Appeals where she previously sat, and President Trump has already named the person he plans to have replace her on that bench. ",
@@ -1312,58 +1368,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-mike-pence-tests-negative-as-he-campaigns-amid-covid-surge-across-us.md",
-      "title": "Mike Pence tests negative as he campaigns amid Covid surge across US",
-      "excerpt": "Cases are rising rapidly, with more than 8.5m cases and a death toll of 225,000, as battleground states see surging case numbers",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/dce33209681cd0593109afbbad29c19a48ba23d5/0_71_4782_2872/master/4782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e23fe7e1cf3f49903dad84507f1bf4ba",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
-      "publishedDateTime": "2020-10-26T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

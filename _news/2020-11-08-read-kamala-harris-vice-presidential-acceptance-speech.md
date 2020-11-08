@@ -234,6 +234,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris, elected V.P., has risen higher in national politics than any woman before her."
+    excerpt: "Kamala Harris, a senator from California and former presidential candidate, made history when she was elected vice president of the United States. Her victory represents a handful of firsts: She will be the first woman,"
+    publishedDateTime: 2020-11-08T08:12:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 124
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "2dy4D0kXXQWcYIouQczBShwQRRrNcujq85KMLXzDk5t1qThU0vgIm+God2DqrPQpntaIdo2CsNEJ1Jh0osGbB82/fvRXR6z7may7vYh5TwwE5jMTl4eJFb00KwvAE/vjwSVfX+i4DKBlOsizJnnpwxMDpApHvf1TvLfEUH6epprSGP9ohcqjbZX/kuT18D02hFXwSpvieJ8wZnmy1IALAq92znDjyF7tYqq1xwAHLGJo++hWPkU7yEo0C+X3AxhxLYiOmgUdHgGzmi2Ap6gJ3rm56bHYEQ9BYXORauagQ+5PL4+KFv2mHXIyD48GEBcAzjDNtsijpvRLsGFnX4465Gq4ekY8crwA4RQbjoVkE0sNSD8OvIAZHHoOAAMiGcD7stVIRATqwZfz4BQlG1Fk27USPGs+awjvs3dCaLe4A4ybCt1oRfaLM/ohKYnfZ7sQ9/j+z2Vfff1znFmbrecpnHghYPXVbvk6SEg6RiZeB0nuyI2mkp3dyE0cqX0T3uONbodfrvOTJ1Wip6PufqVTYA==;1nulunHfQnvH6mWa6mlRDA=="
 ---

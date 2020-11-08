@@ -404,6 +404,38 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "Read the transcript of what Joe Biden said in his first speech as president-elect"
+    excerpt: "Joe Biden spoke to a crowd of supporters in Wilmington, Delaware, on the day he won enough electoral votes to be named the 46th president."
+    publishedDateTime: 2020-11-08T02:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/07/transcript-what-joe-biden-said-his-first-speech-president-elect/6210352002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6210352002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6210352002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e00ba837-b20e-421c-9c1d-21682d081289-XXX_20201107_Biden_Election_Night_APS_USA_028.JPG?auto=webp&crop=3701,2082,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Full Transcript of Kamala Harris' First Speech as Vice-President Elect in Delaware"
+    excerpt: "Kamala Harris delivered her first speech as vice president-elect on Saturday evening in Democratic Presidential-Elect Joe Biden's hometown of: In her speech,"
+    publishedDateTime: 2020-11-08T01:10:00Z
+    webUrl: "https://www.newsweek.com/full-transcript-kamala-harris-first-speech-vice-president-elect-delaware-1545804"
+    ampWebUrl: "https://www.newsweek.com/full-transcript-kamala-harris-first-speech-vice-president-elect-delaware-1545804?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/full-transcript-kamala-harris-first-speech-vice-president-elect-delaware-1545804?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1667181/kamala-harris.jpg"
+        width: 1796
+        height: 1311
+        isCached: true
   - title: "In Kamala Harris' Ancestral Village, The U.S. Election Is Followed Closely"
     excerpt: "Senator Kamala Harris is the first person of South Asian descent on a U.S. presidential ticket. In her ancestral village in India, Hindu faithful offer prayers for a Biden-Harris victory."
     publishedDateTime: 2020-11-03T09:05:00Z
