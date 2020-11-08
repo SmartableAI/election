@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/donald-trump-loss-electi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/donald-trump-loss-election-2020/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump might have lost but his legacy lives on with congressional Republicans"
+    excerpt: "President Donald Trump may be defeated, but Trumpism -- the political coalition the President built, the allegiance he demanded from his allies and the policies he heralded -- will be with Republicans for years to come.\n    \n"
+    publishedDateTime: 2020-11-07T17:20:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ylo5i0R6Wao/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/republican-lawmakers-trump-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/republican-lawmakers-trump-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Donald Trump won in Oklahoma."
     excerpt: "Oklahoma election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
     publishedDateTime: 2020-11-04T01:39:00Z
@@ -48,6 +64,6 @@ related:
         height: 325
         isCached: true
 
-secured: "VM8d7DNpZzaUSvtIIESrc2UylqB6odjh7UHtSBDIwmOCeLs/5kk/p0KQs+joLSyjnkkHrdzVKldmS8QGR5Z1D76D0Q0VLXeqrjos3u8Cg1+4I6uy6KvEnyCTHM03JABsglP5G55AjsSQpZnnB/76i7VQqUyTM7S5dcbrcWAd/uQQEMuxZD+MxQUK92VEIZ5XBD4xSABd9wrbFLShd2l6WNCJbGU69LIGctzd5zmaiX0mPEBRQIw3nMfJDBdunqrB0cIxumv6lwduuUyo4ATRoQT/cjLUJG5BVEsTjJ6/m8ALkyEEA3t3OH0Xjmx8B5NYwRMFwlbUdKUSSn3TaLY6QNdLGt0xe4p9R1tkTRHb580=;z8ErKLsySPueuubvcqnxdQ=="
+secured: "HwWaBgP8UcFuK3kwrYM7Om191yU517vLBO0o/EKeIAUtDzqPpR6BFGEB0B25rOwJwiotghfvHyg+Hc9LDelFT+rIPI3bZdf9Z2SepUDDu15mqR9PEm5+5O3lskpOvdMxxvoMV67aJmKtCcYB9dN3kiif5GlRzcWi9c1T1xjS3kPu7V6bhAulBsAFH6soQaAUqIGBMShcys1pWJ+RiNQZ+PvdRPylze3BGGAYT0Y5Y/9Pe93El33Ztzq5RuNTwXoDh1/n3ppwCM0ULB2AbOkOUU27f59TrK2sbeZJomblvpMV08ZRPYzcmyUTeoyQs8nXSEvx7NSHcu78cg9Eg5VU3LE6qvMUYm0HzYqQ1I43GB4=;KmFUiCfvMpUwAKykTZIdEg=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden & Kamala Harris to address nation"
 excerpt: "Watch \"Joe Biden and Kamala Harris to address the nation\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-11-07T22:18:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201107220342-joe-biden-and-kamala-harris-to-address-the-nation/"
-webUrl: "https://www.cbsnews.com/live/video/20201107220342-joe-biden-and-kamala-harris-to-address-the-nation/"
+originalUrl: "https://www.cbsnews.com/live/video/20201107230157-joe-biden-and-kamala-harris-to-address-the-nation/"
+webUrl: "https://www.cbsnews.com/live/video/20201107230157-joe-biden-and-kamala-harris-to-address-the-nation/"
 type: article
 quality: 120
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07596559_1604787245.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07596530_1604790724.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -8137,6 +8137,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "TwOa3wYAv8u7SkiqfjrpnmEcZj2hJfE1EWHcHIzIK7dEiZKRBe/UJnYxgCJkDMVBrul0uvJut/NkbLho256VMKx/iee2FDo9rtoBal7j2My83mPUfS3viFYWKv1ngGJc/2RE65Ysy0s0KCavvNx1TNivsPvx3JvV7vJmftB0vTp3sF6QwH90Pky+jQlkZCL3qdlk40C7JzyRj+YO3zmdpGb1MY2v9h9fmwhwu/yUdvRarFh+CtwcgXKZDfumnJSRsj3IsJMkAU8Son7K8ywLpfywyvZU2jNJVEOxFN61feieWaNaYz8dfphUGRosQAc9fufAOgdTNsFwi1odERV5VVTm1s0SALONUBpOAfe0vpk=;M4yKRCoPVH+jmFZAjv9VgQ=="
+secured: "kQ+nEqUskUh6Z+61qLPMNGNf/QStuGNI49AdQY1oBF3zIXefJvN5VGgoxdIkWzVhZv7YZrat7fxV7GTIVTFkukTldifj5z+dlE76iEiApppKnQAYO6hIFuu5ATV0zj/XchUssZN4FpdbUhxwNXGRplB1oVaOIkwgTscIDx7L258hxgyDMuejemrkXYiQx8zlF/S6sOciz4ITjoMbewB0lfQZP7sIulX/GOPoDw1Gv7+sepoFHiN71bEscR3g5qAAhyv14VOGXqdWvbjQr7dbqLJfJQxlCGMEhT+CPqWOtuHja9q+AFUCoUmLMuaKSaOaINNfY7c0hZCF3TDLltWZ4iLGQkoXh7hUZzwsmt79ycw=;gLdJB2MvJAAVtkhYEihjrA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244210"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 195
+published: true
 
 provider:
   name: NBC News
@@ -32,21 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Kamala Harris and Jill Biden are subverting stepmom stigma in America"
-    excerpt: "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom."
-    publishedDateTime: 2020-10-25T22:38:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244373"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373"
+  - title: "Kamala Harris Tells Voters to ‘Honor the Ancestors’"
+    excerpt: "Senator Kamala Harris participated in a virtual campaign rally in Milwaukee, urging early voters “to honor the ancestors” by casting their ballots in the presidential election."
+    publishedDateTime: 2020-10-20T22:31:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007405828/kamala-harris-wisconsin-early-voting.html?playlistId=video/latest-video"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 149
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static01.nyt.com/images/2020/10/20/multimedia/20elections-briefing-sched/20elections-briefing-sched-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Kamala Harris makes her final case to 'the ATL'"
     excerpt: "With just days to go until the election, Harris invokes Atlanta’s civil rights legacy in a pitch to Black voters."
@@ -62,6 +60,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Kamala Harris Shuts Down ‘Childish’ Men Who Mispronounce Her Name"
+    excerpt: "Why does it seem like it becomes harder to pronounce your name the more conservative a person is?” “Daily Show” host Trevor Noah asked the vice presidential candidate."
+    publishedDateTime: 2020-10-30T06:27:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-shuts-down-childish-men-who-mispronounce-her-name"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "lljD7V1uA1XheMkk7uIVUbkUCf5CHtGbQvQaJCCq08O5vbab97nUDeVPdFs7v4nIB6fycCGImyqAF6uZfVmoUZUK3aZmBsqlNH55ovgmL9knbMiIwSvZFBAcRkGE1KCJoSey0ZX5C2aWUJKLwhz3OmQu2NBAS4qjh5KNxwF57WRJ+EwUq/oCMiSaUKVL3wHPl1bJF0djTau5i7v8R8xJ1F21dhtARFgM7ns0yXMA9+QdbhEwHtCP1J2DNFIBrq9ZtgHLY/ho8v/k/BfT+auZWgp0+vcCHVjzAD5UyfndP3J+8349aHG1VWRhLEdSjsRHVlMsDf3y1NoeUti3Qi4dW0lDenf00VIzj1kbV0C+NJuSAzRJwRUchTzSBFaRZqy4cVnPGFonxuxXbgtLJw/ez3i1zx9wvvxnXatRBb9aBosyZDFkpJDmFfiN0MjSQb20xeXcawgW9TMqGZVBkX0XNGT9YqcLX7U2l5gvn8QzwfwdGhayjObyVzMTZ2XE7ufDTXgv8eweMEWgSy03MddHxg==;KuQPr9VTfLlBSULqu4oqQg=="
 ---

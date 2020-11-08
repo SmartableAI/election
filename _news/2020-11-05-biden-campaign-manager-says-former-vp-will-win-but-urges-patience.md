@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/biden-campaign-briefing/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/biden-campaign-briefing/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 495
 published: true
 
 provider:
@@ -270,20 +270,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/06/us/politics/06elections-brief-lede4/06elections-brief-lede4-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Joe Biden is leading in Virginia."
-    excerpt: "Virginia election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
-    publishedDateTime: 2020-11-04T00:52:00Z
-    webUrl: "https://www.politico.com/2020-election/results/virginia/"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/51.jpg"
-        width: 600
-        height: 325
         isCached: true
   - title: "Biden Flips Wisconsin, Fueled by Support From Cities and Suburbs"
     excerpt: "Rural voters continued to support President Trump, but some counties that swung far to the right in 2016 moved left in 2020."

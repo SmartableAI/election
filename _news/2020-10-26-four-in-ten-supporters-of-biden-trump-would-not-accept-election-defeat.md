@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A0BB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A0BB"
 type: article
 quality: 155
-heat: 10375
+heat: 10415
 published: true
 
 provider:
@@ -1549,6 +1549,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1540033854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA31R5"
         width: 848
+        height: 545
+        isCached: true
+  - title: "Biden wins U.S. presidency, calls for healing in appeal to Trump voters"
+    excerpt: "President-elect Joe Biden declared it was \"time to heal\" a deeply divided America in his first speech after winning in a bitter election, even as President Donald Trump refused to concede and pressed ahead with legal fights against the outcome."
+    publishedDateTime: 2020-11-08T13:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27O09B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O09B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O09B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540409175&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA704O"
+        width: 766
         height: 545
         isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
@@ -4483,6 +4499,17 @@ related:
         width: 550
         height: 367
         isCached: true
+  - title: "Johnson denies his Trump ties weaken UK-US bond under Biden"
+    excerpt: "Britain and the United States will work together to support democracy and combat climate change, British Prime Minister Boris Johnson said Sunday, while denying that his close ties to President Donald Trump would hurt U."
+    publishedDateTime: 2020-11-08T14:10:00Z
+    webUrl: "https://www.businessinsider.com/johnson-denies-his-trump-ties-weaken-uk-us-bond-under-biden-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/johnson-denies-his-trump-ties-weaken-uk-us-bond-under-biden-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/johnson-denies-his-trump-ties-weaken-uk-us-bond-under-biden-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "President Trump ramps up rhetoric as Joe Biden is projected to win"
     excerpt: "Leading up to the announcement that Joe Biden is projected to win the 2020 presidential election, President Trump ramped up his rhetoric against the election process. Former governor and attorney general of Massachusetts Bill Weld joined CBS News to discuss the president's comments."
     publishedDateTime: 2020-11-07T22:11:00Z

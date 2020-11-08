@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump falsely claims California requires people to wear 'special' and 'complex' mask at all times"
+    excerpt: "President Donald Trump has repeatedly mocked former Vice President Joe Biden and others for wearing masks.\n    \n"
+    publishedDateTime: 2020-10-29T00:45:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pgr1GG4bDqM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/fact-check-california-masks-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/fact-check-california-masks-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028173703-02-trump-arizona-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "u0SJBE2I984pOTfBWgoHj+s4TAw7YQpp2HOpjax9dgkj+NKGvCA2zsI3YuXsYl/s0JWMdL1KaYvN8rMJtzj7FZRQ1fhyDXTY6t0hEZXVUxdZPZHgw5TxKejZYoucUskbhLQP272K+BHhP0nM9eEtk/1uyghIV/5v3UUb/sBMwU8M1rhvYzprRd7HlCoQ7D5juTp04XBurKiHWOx3H64hILpttVRdpp5XMLEbipRVyCPV7G84lwzXjiWLIhicTyedU066n7zO29OHgHWSMFnC1phqcmA6aBfpVWLyY8TGxiX2E+WNkOFazfPD1dBoaXQVS6ym/NWTdjGCRP8EptwoY+Xseh07y5xLz9vKMzCX+Q4=;2LVqrHDjB1Dr0fbFVI0qbQ=="
 ---

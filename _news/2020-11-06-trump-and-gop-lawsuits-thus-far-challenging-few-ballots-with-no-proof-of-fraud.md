@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/lawsuits-trump-gop-proof
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/lawsuits-trump-gop-proof/index.html"
 type: article
 quality: 171
-heat: 171
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,104 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Fact check: Trump falsely claims 'illegal ballots' are changing the election"
+    excerpt: "In a tweet thread Saturday morning President Donald Trump threw out baseless claims suggesting that \"tens of thousands\" of illegal ballots are being used to change the results in key states.\n    \n"
+    publishedDateTime: 2020-11-07T22:47:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQlMie3LeZI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106225744-donald-trump-rally-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: 7 kinds of dishonesty to expect at a late-campaign Trump rally"
+    excerpt: "President Donald Trump is closing his campaign with a torrent of lies. His October rally speeches have been notably dishonest even by Trump standards.\n    \n"
+    publishedDateTime: 2020-10-31T13:56:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwfBGrEPbJY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029162343-trump-arizona-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: In bid to win Michigan, Trump makes false claims about the state's auto industry"
+    excerpt: "Trying to win the critical swing state of Michigan, President Donald Trump is closing his campaign with a series of false claims about the state's famed auto industry.\n    \n"
+    publishedDateTime: 2020-11-02T22:11:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0f5ghFdA4x0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/fact-check-michigan-auto-jobs-trump-obama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/fact-check-michigan-auto-jobs-trump-obama/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031012444-trump-michigan-rally-1030-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: CNN breaks down the 7 kinds of dishonesty to expect in a late-campaign Trump rally"
+    excerpt: "President Donald Trump is closing his campaign with a torrent of lies. His October rally speeches have been notably dishonest even by Trump standards.\n    \n"
+    publishedDateTime: 2020-11-01T00:31:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwfBGrEPbJY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029162343-trump-arizona-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
+    excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
+    publishedDateTime: 2020-11-05T15:37:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FE56q_IDSxo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104001833-pensilvania-philadelphia-voting-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Trump doubles down on groundless conspiracy\ntheory that GOP poll watchers across the country were sidelined"
+    excerpt: "President Donald Trump has falsely claimed there were widespread abuses against his poll watchers across the country, and is using these false allegations to dispute the election results.\n    \n"
+    publishedDateTime: 2020-11-06T23:01:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RgBF3hSC02s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-poll-watchers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-poll-watchers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106131352-06-ballt-counting-1106-allentown-pa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "X8wZOUzBEVKRuuAZILMiYWP1kHeG5crppfl8vyST2gauci6XRXKHOqS02r0FWyDVY4Fhv+hSneuHeuO4qWiit49pncehJTfk8fSFgh0Zbt1xOIjp24D6rratIMSetR6YQ+DuBnzR9PJF2g9xuuJ/fxciiMrImTm88FwpsGILaoRCKQg7lUgWIhtLb5DcpdO8ZCoyRI87qKobPXGZfBOinkGKAjDdhj7RqbfWMKO8Ze3qbb+FVgiDsuUKH7LG1sl5z9bdRUpagWfJ00tlEgq3ECKx8dkMeDXLb90rhyyh1469x0TYVXzxIhWSkW7LT5YODq12qHd5dAFSUy0VkDaK65lwIXdNdhXI4p/pfHd8RQE=;uM+wm8jVpfYxpU0P0ji6Rg=="
 ---

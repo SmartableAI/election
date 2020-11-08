@@ -32,67 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Almost everything Trump has said after Election Day is wrong"
-    excerpt: "President Donald Trump spent much of the year laying the groundwork for the strategy of concerted dishonesty he has deployed in the hours after Election Day.\n    \n"
-    publishedDateTime: 2020-11-05T02:31:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H4sNQISktN0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 189
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104114255-02-election-1103-philadelphia-pa-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Trump falsely claims 'illegal ballots' are changing the election"
-    excerpt: "In a tweet thread Saturday morning President Donald Trump threw out baseless claims suggesting that \"tens of thousands\" of illegal ballots are being used to change the results in key states.\n    \n"
-    publishedDateTime: 2020-11-07T22:47:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQlMie3LeZI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 187
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106225744-donald-trump-rally-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Bolton: Trump trying to set up con on his own supporters"
-    excerpt: "CNN's Jake Tapper speaks with former national security adviser John Bolton about President Donald Trump's rhetoric around when mail-in ballots should be counted and Trump's threats of legal action after polls close on Election Day.\n    \n"
-    publishedDateTime: 2020-11-02T22:49:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tHrXL4FJL0/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
+  - title: "An 'angry' Trump enters final debate as advisers hope for some chill"
+    excerpt: "After his abrasive debate performance in September, President Donald Trump walked off stage believing he had won. It was only in the ensuing hours, as he watched clips of his constant interruptions and irate demeanor play on television, that he recognized how poorly his conduct came across.\n    \n"
+    publishedDateTime: 2020-10-22T00:00:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KP2UhXlOuEk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102171610-bolton-tapper-split-for-vpx-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021160110-01-donald-trump-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: 7 kinds of dishonesty to expect at a late-campaign Trump rally"
-    excerpt: "President Donald Trump is closing his campaign with a torrent of lies. His October rally speeches have been notably dishonest even by Trump standards.\n    \n"
-    publishedDateTime: 2020-10-31T13:56:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwfBGrEPbJY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
+  - title: "Author of 2018 'Anonymous' op-ed critical of Trump revealed"
+    excerpt: "The anonymous senior Trump administration official who wrote a 2018 New York Times op-ed and a subsequent book critical of President Donald Trump is Miles Taylor, he revealed in a statement to CNN on Thursday.\n    \n"
+    publishedDateTime: 2020-10-28T19:53:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ritTzykXEVI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/anonymous-new-york-times-oped-writer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/anonymous-new-york-times-oped-writer/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029162343-trump-arizona-1028-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191108093353-a-warning-anonymous-book-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,149 +80,67 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump might have lost but his legacy lives on with congressional Republicans"
-    excerpt: "President Donald Trump may be defeated, but Trumpism -- the political coalition the President built, the allegiance he demanded from his allies and the policies he heralded -- will be with Republicans for years to come.\n    \n"
-    publishedDateTime: 2020-11-07T17:20:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ylo5i0R6Wao/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/republican-lawmakers-trump-legacy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/republican-lawmakers-trump-legacy/index.html"
+  - title: "Trump dials back his anger, but his debate performance doesn't change the facts"
+    excerpt: "Everybody showed up for a brawl Thursday night and a debate broke out.\n    \n"
+    publishedDateTime: 2020-10-23T10:42:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XXNm3OM9V2k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022224516-25-debate-nashville-1022-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: In bid to win Michigan, Trump makes false claims about the state's auto industry"
-    excerpt: "Trying to win the critical swing state of Michigan, President Donald Trump is closing his campaign with a series of false claims about the state's famed auto industry.\n    \n"
-    publishedDateTime: 2020-11-02T22:11:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0f5ghFdA4x0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/fact-check-michigan-auto-jobs-trump-obama/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/fact-check-michigan-auto-jobs-trump-obama/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031012444-trump-michigan-rally-1030-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: CNN breaks down the 7 kinds of dishonesty to expect in a late-campaign Trump rally"
-    excerpt: "President Donald Trump is closing his campaign with a torrent of lies. His October rally speeches have been notably dishonest even by Trump standards.\n    \n"
-    publishedDateTime: 2020-11-01T00:31:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwfBGrEPbJY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029162343-trump-arizona-1028-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "A distressed Trump has told people he has no plans to concede even if his path to victory is blocked"
-    excerpt: "Facing a disappearing pathway to victory, President Donald Trump offered little indication on Friday he was prepared to concede defeat, leading those around him to wonder who might be able to reckon with a leader who has given virtually no thought to leaving the White House.\n    \n"
-    publishedDateTime: 2020-11-06T14:37:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OE3eQ4tovK4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/donald-trump-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/donald-trump-election-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105115359-donald-trump-november-4-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Trump falsely claims California requires people to wear 'special' and 'complex' mask at all times"
-    excerpt: "President Donald Trump has repeatedly mocked former Vice President Joe Biden and others for wearing masks.\n    \n"
-    publishedDateTime: 2020-10-29T00:45:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pgr1GG4bDqM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/fact-check-california-masks-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/fact-check-california-masks-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 156
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028173703-02-trump-arizona-1028-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
-    excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
-    publishedDateTime: 2020-11-05T15:37:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FE56q_IDSxo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104001833-pensilvania-philadelphia-voting-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Trump doubles down on groundless conspiracy\ntheory that GOP poll watchers across the country were sidelined"
-    excerpt: "President Donald Trump has falsely claimed there were widespread abuses against his poll watchers across the country, and is using these false allegations to dispute the election results.\n    \n"
-    publishedDateTime: 2020-11-06T23:01:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RgBF3hSC02s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-poll-watchers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-poll-watchers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106131352-06-ballt-counting-1106-allentown-pa-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump is turning to the courts as his options narrow."
-    excerpt: "The Trump campaign laid out an aggressive legal strategy to challenge votes in key states. Republican lawyers and Trump campaign officials on Wednesday began a wide-ranging legal assault to challenge Democratic votes in key swing states,"
-    publishedDateTime: 2020-11-05T18:14:00Z
-    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.amp.html"
+  - title: "The Facebook-Twitter-Trump Wars Are Actually About Something Else"
+    excerpt: "Much of the outrage around the Trump era and social media platforms — like, most recently, the decision by Facebook and Twitter to reduce the reach of a highly questionabl Post story about Hunter Biden — is actually about government power and accountability."
+    publishedDateTime: 2020-10-18T19:06:00Z
+    webUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/04/multimedia/04elections-briefing-trumplawyers/04elections-briefing-trumplawyers-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/18/opinion/18warzel/18warzel-facebookJumbo-v3.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Donald Trump Jr. says Covid numbers are 'almost nothing' on day reporting 90,000 infected, 1,000 dead"
-    excerpt: "Donald Trump Jr. falsely claimed Thursday that Covid-19 infection numbers have dwindled to \"almost nothing,\" despite there being around 1,000 deaths reported in the U.S. the same day. In an interview on Fox News' “The Ingraham Angle,"
-    publishedDateTime: 2020-10-30T11:46:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-says-covid-numbers-are-almost-nothing-day-n1245449"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245449"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245449"
+  - title: "Trump Tried to Blur Responsibility for His Family Separation Policy in Final Debate"
+    excerpt: "President Trump repeatedly hurled the phrase “They built the cages” at his debate opponent Thursday, but separating children from parents was a policy all his own."
+    publishedDateTime: 2020-10-23T23:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/23/us/politics/23dc-immig-1/merlin_170399304_c643ceba-6ed3-4880-a096-cc0d4642bcf6-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Trump tells journalist he's 'a criminal' for ignoring story Trump likes"
+    excerpt: "Trump believes journalists are \"criminals\" unless they report discredited allegations that may be part of a hostile foreign influence operation."
+    publishedDateTime: 2020-10-24T19:47:00Z
+    webUrl: "https://www.nbcnews.com/rachel-maddow-show/trump-tells-journalist-he-s-criminal-ignoring-story-trump-likes-n1244011"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 120
+    quality: 115
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/nn_ggu_exclusive_inside_covid_icu_201029_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_43/3421171/201019-donald-trump-mc-1316_52f5de8f365585da12f9105402dbdecd.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "REbznt9fQ5QtBLifK2PN0f8ifo7SRUZmeb3rFcKxNJB7fWtQQ0QF2BW0NvsphNmdwODB1KZW0HoIgr7imYJXm7NHd9EydZ5YRB4RwW5w4hSQKr+xBsSf174i4UFo4uZFYj4Om4cnQQHj/5LrgH3Ef9mfcKxPEao0yogGG3tw5iLanWv/1oMpniRwtxmXLaNaZ1Ux9QJocf5lPH5U4vu+R87rUAMnDYcSFUq20Q4Ly6Ur4GKjrT0YzpQs42v04PYmpYp89GJZGyXQl5tg93qVj5ZGEjsk5iPH7VRgpUUU449gIx5Z1CR0VemD11bpGnZPsjUlLKbFnKzxu+NpUInsGfaK8VoMdZZCwSDp5L8BUUQkBeI9ok29QnlglICGr84Cal9z+TaNQPv+bFOHgrXnVb/XyGJJgBsA7qSLOpIxJ12bLE+6CgexhPHL45h7rUEvKztT3pOiGXO4e5n9vby331iWMM6lLz49Ulym6s3m3sRHbUZbwHpi5bpdtoZ8GbEQPBP6n3ys723wgM3N70dgPw==;N6QPGUSOuH61v/VKViM0LA=="

@@ -26,6 +26,22 @@ topics:
   - Democratic Voice
 
 related:
+  - title: "Biden and Harris launch new transition website"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are moving ahead with planning for his forthcoming administration on Sunday, launching a transition website and preparing a team of people to begin working with federal agencies this week.\n    \n"
+    publishedDateTime: 2020-11-08T14:48:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0tlU_tadnco/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/biden-transition-website/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/biden-transition-website/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108003632-biden-address-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris, as first woman elected VP, says she 'won't be the last' "
     excerpt: "On the night Vice President-elect Kamala Harris made history, she recognized the long battle women had faced for the right to vote and to break into the highest ranks of American politics -- and said that \"every little girl watching\" across the country now knows they can do so, too.\n    \n"
     publishedDateTime: 2020-11-08T02:47:02Z
@@ -39,6 +55,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107204230-20-biden-harris-address-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read: Vice President-elect Kamala Harris' remarks"
+    excerpt: "As prepared for delivery.\n    \n"
+    publishedDateTime: 2020-11-08T02:20:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GmwdwKuWrfU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-vp-elect-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-vp-elect-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107203713-07-biden-harris-address-1107-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -57,6 +89,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102160632-04-kamala-harris-lead-image-restricted-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Bulldozer thief drove through Florida town digging up Biden-Harris campaign signs"
+    excerpt: "James Blight was arrested in Haines City, Florida for allegedly stealing a bulldozer to dig up and vandalize the homes of people displaying Joe Biden signs."
+    publishedDateTime: 2020-10-26T14:38:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/bulldozer-thief-drove-through-florida-town-digging-biden-harris-campaign-n1244750"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244750"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244750"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 155
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3422981/201026-bulldozer-haines-city-cover-jm-0928_7573f2356a341e72152ac7388e223e38.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How Kamala Harris and Jill Biden are subverting stepmom stigma in America"
+    excerpt: "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom."
+    publishedDateTime: 2020-10-25T22:38:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "As U.S. Votes, a Village in India Prays for Kamala Harris"
     excerpt: "Those who live in the hometown of Ms. Harris’s grandfather see the Democratic vice-presidential nominee as one of their own. “She is the daughter of the village’s soil,” one woman said."
@@ -122,6 +186,22 @@ related:
         width: 2500
         height: 1599
         isCached: true
+  - title: "‘It’s a Big Deal’: TV Coverage Notes Magnitude of Kamala Harris Victory"
+    excerpt: "On Fox News, Donna Brazile recalled that her mother and grandmother could not vote. “Just scoot over and let women also share in the leadership of this country,” she said."
+    publishedDateTime: 2020-11-07T21:52:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/08/business/07harris-media/merlin_179349762_a42eb950-e5f1-4108-a117-004f508f1657-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Kamala Harris makes history as vice president-elect"
     excerpt: "Kamala Harris makes history as the nation’s first female, first Black and first South Asian American vice president-elect after she and Joe Biden are projected as the winners of the 2020 election."
     publishedDateTime: 2020-11-07T23:57:00Z
@@ -137,6 +217,22 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_rel_harris_makes_history_201107_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Read: Vice president-elect Kamala Harris' historic victory speech"
+    excerpt: "And for making this victory possible. To the poll workers and election officials across our country who have worked tirelessly to make sure every vote is counted, our nation owes you a debt of gratitude."
+    publishedDateTime: 2020-11-08T02:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/read-vice-president-elect-kamala-harris-historic-victory-speech-n1247017"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247017"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247017"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_45/3426852/201107-kamala-harris-full-speech-se-941p_33d638019f9cdaf5bf9a2f831c76f4fe.jpg"
+        width: 2500
+        height: 1646
         isCached: true
   - title: "This is Vice President-elect Kamala Harris' Know Your Value moment"
     excerpt: "Kamala Harris made history, becoming the first female, first Black and first South Asian vice president elect. Here's a look back at her Know Your Value moment, which she shared with us at our nationa"
@@ -167,6 +263,22 @@ related:
     quality: 135
     images:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_full_2020_kamala_v_speech_201107_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote"
+    excerpt: "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”"
+    publishedDateTime: 2020-11-03T02:30:00Z
+    webUrl: "https://www.nbcnews.com/video/in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote-95196229930"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95196229930"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95196229930"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/kamalalastrally.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -249,6 +361,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Joe Biden is leading in Virginia."
+    excerpt: "Virginia election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
+    publishedDateTime: 2020-11-04T00:52:00Z
+    webUrl: "https://www.politico.com/2020-election/results/virginia/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/51.jpg"
+        width: 600
+        height: 325
         isCached: true
 
 secured: "2dy4D0kXXQWcYIouQczBShwQRRrNcujq85KMLXzDk5t1qThU0vgIm+God2DqrPQpntaIdo2CsNEJ1Jh0osGbB82/fvRXR6z7may7vYh5TwwE5jMTl4eJFb00KwvAE/vjwSVfX+i4DKBlOsizJnnpwxMDpApHvf1TvLfEUH6epprSGP9ohcqjbZX/kuT18D02hFXwSpvieJ8wZnmy1IALAq92znDjyF7tYqq1xwAHLGJo++hWPkU7yEo0C+X3AxhxLYiOmgUdHgGzmi2Ap6gJ3rm56bHYEQ9BYXORauagQ+5PL4+KFv2mHXIyD48GEBcAzjDNtsijpvRLsGFnX4465Gq4ekY8crwA4RQbjoVkE0sNSD8OvIAZHHoOAAMiGcD7stVIRATqwZfz4BQlG1Fk27USPGs+awjvs3dCaLe4A4ybCt1oRfaLM/ohKYnfZ7sQ9/j+z2Vfff1znFmbrecpnHghYPXVbvk6SEg6RiZeB0nuyI2mkp3dyE0cqX0T3uONbodfrvOTJ1Wip6PufqVTYA==;1nulunHfQnvH6mWa6mlRDA=="

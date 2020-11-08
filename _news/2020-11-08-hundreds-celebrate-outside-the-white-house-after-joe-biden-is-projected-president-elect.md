@@ -2764,6 +2764,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Where Does Joe Biden Stand on Major Policies?"
+    excerpt: "Here’s an overview on President-elect Biden’s positions on coronavirus, health care, the economy, taxes and climate change."
+    publishedDateTime: 2020-11-08T13:05:00Z
+    webUrl: "https://www.nytimes.com/article/joe-biden-policies.html"
+    ampWebUrl: "https://www.nytimes.com/article/joe-biden-policies.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/joe-biden-policies.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/politics/00biden-policies1/00biden-policies1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "With President-Elect Joe Biden, ‘the Long National Nightmare Is Over’"
     excerpt: "I am writing this with tears of joy streaming down my face,” a reader told us. And he is not alone: a sampling of the early reaction."
     publishedDateTime: 2020-11-07T21:07:00Z
@@ -3294,6 +3310,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "2KQckfG9rB4MI3nW2yiRC/RqFnzph40lmbrB/iAGEl5+JTx7QZn8qPfTyoxknB5Hx/r1nU+HuFZt6lnYkJgl5JGK7igcujsyyHflfbNqK/s/RG42sY5f8pM9aiW7rhBlWcQwmdRp9NS2W+YxdtimwhTnb9xdakKDcGZXWI/I9vczShHpiARJ5KN6v18lx7Ctj5RyJ+6cRtz+PchEBMbh37ItBOWCvQc7ybTOHHi5LLjuMecLQLD3O2xiDZ8V3U/Ja8I+/AXx6YbPm+5iCEqeuWuA7v67fUpKNQhnukpDMp128bOS8DIoow69i5zDbMVIJnCryq43zcTUrAsnMqh9pSeLsYajcjv5e31IvHhkShc=;mYffWVonPnFT9wj/JR2tcA=="
+secured: "KXXwvgkLbUGkwV+tWnAfmBqPRLTvXnzQ/OcFalZlyEkW8RtggB2iyMcBVWSx4BaaFIJf2Xq+cyzBXh0cumVeccT0OJs3HsoJNah+R29/jlMr48HAiewOLpAgGVW/hrVd/9w7SRLqw5JnIvVLuGXOIh7gQff5N/33SqeBxK+ZAYt9c75IGuapyHUOnXIh2pYwI+iKHDrFhhMotczdMvi0YnCbZOJBWLTMARWi5yZisfZeAd4T/QOArtaqlSgwGVsSAJfw3tM4NtsOMcCQ2LwmIk27xCl+vQmse+fZPemYAvIuOhwus7U9oXNoxTk7AnK5MKSgXTqNQ19gFhqhl/8B4RJpmof+A4++auunF8Du+BbPahya4QCMW0sMxg/xi0V2hO5Br4ViuE/kGC4JvqrvpTutIc5AdPtKaUGXwolPc5xli9RZhIBlvU2HJBB8pdBl+IlWBatlO7DazRsAE4G4lYGZk7M3+tOctUKSLSPsX0Ltb7iOCECWI2sfnCJJmNv+kUWYcnAuabCWY0rkVfdvFg==;QV4TbEqGTuAZPt//S7fEaQ=="
 ---
 

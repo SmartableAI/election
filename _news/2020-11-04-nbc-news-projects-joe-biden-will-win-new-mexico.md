@@ -272,20 +272,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Joe Biden is leading in Virginia."
-    excerpt: "Virginia election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
-    publishedDateTime: 2020-11-04T00:52:00Z
-    webUrl: "https://www.politico.com/2020-election/results/virginia/"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/51.jpg"
-        width: 600
-        height: 325
-        isCached: true
   - title: "Biden Flips Wisconsin, Fueled by Support From Cities and Suburbs"
     excerpt: "Rural voters continued to support President Trump, but some counties that swung far to the right in 2016 moved left in 2020."
     publishedDateTime: 2020-11-05T06:31:00Z

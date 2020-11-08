@@ -2748,6 +2748,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Where Does Joe Biden Stand on Major Policies?"
+    excerpt: "Here’s an overview on President-elect Biden’s positions on coronavirus, health care, the economy, taxes and climate change."
+    publishedDateTime: 2020-11-08T13:05:00Z
+    webUrl: "https://www.nytimes.com/article/joe-biden-policies.html"
+    ampWebUrl: "https://www.nytimes.com/article/joe-biden-policies.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/joe-biden-policies.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/politics/00biden-policies1/00biden-policies1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "With President-Elect Joe Biden, ‘the Long National Nightmare Is Over’"
     excerpt: "I am writing this with tears of joy streaming down my face,” a reader told us. And he is not alone: a sampling of the early reaction."
     publishedDateTime: 2020-11-07T21:07:00Z

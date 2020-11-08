@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-speech-mandate-trump-undecide
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
 type: article
 quality: 205
-heat: 1165
+heat: 1185
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump vows more legal moves, as top Republicans mum on projected Biden win"
+    excerpt: "Despite Joe Biden being projected as the next president-elect, President Trump is pushing forward with legal challenges as vote tallies continue, and Republican leaders have largely avoided weighing in on the latest developments."
+    publishedDateTime: 2020-11-08T14:30:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4L0C03oAKK0/trump-legal-moves-top-republicans-mum-projected-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-legal-moves-top-republicans-mum-projected-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legal-moves-top-republicans-mum-projected-biden-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Rand Paul: Trump's election performance likely to determine who holds Senate"
     excerpt: "Paul predicts Iowa, NC Senate races 'definitely go the way the president goes'"

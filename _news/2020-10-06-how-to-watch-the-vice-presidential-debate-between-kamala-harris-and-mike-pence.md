@@ -3242,14 +3242,14 @@ related:
   - title: "Joe Biden & Kamala Harris to address nation"
     excerpt: "Watch \"Joe Biden and Kamala Harris to address the nation\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-07T22:18:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201107220342-joe-biden-and-kamala-harris-to-address-the-nation/"
+    webUrl: "https://www.cbsnews.com/live/video/20201107230157-joe-biden-and-kamala-harris-to-address-the-nation/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07596559_1604787245.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07596530_1604790724.jpg"
         width: 1280
         height: 720
         isCached: true

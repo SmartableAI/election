@@ -191,6 +191,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump vows more legal moves, as top Republicans mum on projected Biden win"
+    excerpt: "Despite Joe Biden being projected as the next president-elect, President Trump is pushing forward with legal challenges as vote tallies continue, and Republican leaders have largely avoided weighing in on the latest developments."
+    publishedDateTime: 2020-11-08T14:30:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4L0C03oAKK0/trump-legal-moves-top-republicans-mum-projected-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-legal-moves-top-republicans-mum-projected-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legal-moves-top-republicans-mum-projected-biden-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says he has ‘no doubt’ he will defeat Trump when vote count is finished"
     excerpt: "Joe Biden says he has “no doubt” that once the vote count is complete, he’ll defeat President Trump to win the White House."
     publishedDateTime: 2020-11-05T22:38:18Z

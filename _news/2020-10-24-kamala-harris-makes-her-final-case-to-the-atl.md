@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Kamala Harris and Jill Biden are subverting stepmom stigma in America"
-    excerpt: "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom."
-    publishedDateTime: 2020-10-25T22:38:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244373"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 149
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Fact check: Where does Kamala Harris stand on health care?"
     excerpt: "Trump claimed that Biden's running mate, Sen. Kamala Harris, D-Calif., supports \"socialized medicine.\" \"He wants sociali"
     publishedDateTime: 2020-10-23T02:12:00Z
@@ -62,6 +46,29 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Kamala Harris Tells Voters to ‘Honor the Ancestors’"
+    excerpt: "Senator Kamala Harris participated in a virtual campaign rally in Milwaukee, urging early voters “to honor the ancestors” by casting their ballots in the presidential election."
+    publishedDateTime: 2020-10-20T22:31:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007405828/kamala-harris-wisconsin-early-voting.html?playlistId=video/latest-video"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/20/multimedia/20elections-briefing-sched/20elections-briefing-sched-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris Shuts Down ‘Childish’ Men Who Mispronounce Her Name"
+    excerpt: "Why does it seem like it becomes harder to pronounce your name the more conservative a person is?” “Daily Show” host Trevor Noah asked the vice presidential candidate."
+    publishedDateTime: 2020-10-30T06:27:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-shuts-down-childish-men-who-mispronounce-her-name"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "k9YVTOr38Hodv5ZkXQdcgdbMZuQ6iLQLfhZF8qO4R0UvaKSEX6vUwI3dmHwilfoHPPCYQsBl8tWCzSWRee5tO5OC/putrrMDkf+y+DO1jYp/rVaKTukBLTFg3D3MO44z9y26gCOfSnQq9zZt7p/HThSIEFAysk1to/Gd8D7aROxI7pU6y6xyGvCywrpnwXXoVYAuX5EJjKGCDtkn+ACofzR16fwpL30zWumpyhgfdJPDHzYvnyRGNIcOJNv6aFSVYhic/qV7aWBiGYTRIbXib0BxAteCNv9jDYPnT3Sv+Yu/6WVpn1D/fXlW6Nq3sWLbi3F+j7TotGszgm4KBenpLby8j3XvXsihfmey3WvgFQiyl1wyLfAIFwdCC3z6YOuKp4XwvF8EpMuOPCiEyliHM9/SI3WnwB66Jjx4wUO5jXI7kOSoe0ApeRQposQnhQYJl5vrZJc9ig5E0Foj0Qr7nV29GRr4PbdLxxtePwWg8m4vWoiEYaVJgEd2CZ0O6Otqj23VoukRnqNaLhRWjuiQTQ==;xWhsXUGhwPxHdn8QqcvVsQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-re
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html"
 type: article
 quality: 185
-heat: 345
+heat: 305
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Read: Vice President-elect Kamala Harris' remarks"
-    excerpt: "As prepared for delivery.\n    \n"
-    publishedDateTime: 2020-11-08T02:20:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GmwdwKuWrfU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-vp-elect-remarks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-vp-elect-remarks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107203713-07-biden-harris-address-1107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "How Jaime Harrison's campaign could spend $57 million before Election Day"
     excerpt: "It's a question most workaday campaign consultants could only dream of: how to spend $57 million in South Carolina in the final three weeks before Election Day, with voting already underway.\n    \n"
     publishedDateTime: 2020-10-12T09:07:03Z
@@ -127,22 +111,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018155529-david-perdue-georgia-rally-1016-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Read: Vice president-elect Kamala Harris' historic victory speech"
-    excerpt: "And for making this victory possible. To the poll workers and election officials across our country who have worked tirelessly to make sure every vote is counted, our nation owes you a debt of gratitude."
-    publishedDateTime: 2020-11-08T02:36:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/read-vice-president-elect-kamala-harris-historic-victory-speech-n1247017"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247017"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247017"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_45/3426852/201107-kamala-harris-full-speech-se-941p_33d638019f9cdaf5bf9a2f831c76f4fe.jpg"
-        width: 2500
-        height: 1646
         isCached: true
   - title: "Kamala Harris’ Debate Win: The Redemption of the American Woman Has Begun"
     excerpt: "It’s been a long, nightmarish four years for the American woman. But we’re coming back, and the Democratic veep is leading the way."

@@ -415,6 +415,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Hungary's Orban congratulates Biden as his 'Plan A' for Trump win flops"
+    excerpt: "Hungarian Prime Minister Viktor Orban congratulated Joe Biden on his U.S. presidential election victory, an outcome that could complicate ties with Washington after the nationalist leader accused U.S."
+    publishedDateTime: 2020-11-08T13:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-hungary-idUSKBN27O0HO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0HO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0HO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540427731&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70F1"
+        width: 819
+        height: 545
+        isCached: true
   - title: "After acrimonious campaign, uneasy Americans choose between Biden, Trump"
     excerpt: "After a rancorous presidential campaign that exposed the depth of the political divisions in the United States, Americans streamed to the polls on Tuesday to choose either incumbent Donald Trump or challenger Joe Biden to lead a pandemic-battered nation for the next"
     publishedDateTime: 2020-11-03T20:29:00Z
@@ -1412,6 +1428,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump Tried To Make This Election 2016 Again. It Didn't Go As Planned"
+    excerpt: "President Trump slumped in polls and fundraising — and lost 10 days when he caught the coronavirus. He threw everything into reaching for a come-from-behind win, but Democrat Joe Biden beat him."
+    publishedDateTime: 2020-11-08T12:55:00Z
+    webUrl: "https://www.npr.org/2020/11/08/932192394/trump-tried-to-make-this-election-2016-again-it-didnt-go-as-planned"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/06/AF1_wide-a43bb1566345202c0ee9cfb255b4ff4edf106dd2.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z
