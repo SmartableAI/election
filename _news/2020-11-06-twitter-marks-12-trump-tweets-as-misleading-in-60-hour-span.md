@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Twitter flags Trump tweet warning Democrats 'trying to steal' the election as 'misleading'"
-    excerpt: "President Trump tweeted that Democrats are “trying to STEAL the Election,” while claiming a “big win”—a post that Twitter flagged as “misleading” content."
-    publishedDateTime: 2020-11-04T06:28:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Kufij6pdQQ/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Twitter flags Trump tweets complaining of 'ballot dumps'"
     excerpt: "President Trump on Wednesday hit out at what he described as “surprise ballot dumps” as ballot counts in the Rust Belt show his lead shrinking in those states -- a claim that was swiftly labeled as \"misleading\" by Twitter."
     publishedDateTime: 2020-11-04T16:32:46Z
@@ -63,51 +47,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says 'weak leadership' in Dem cities could allow election unrest: 'The other side is radicalized'"
-    excerpt: "President Trump lamented the fact that areas across the country are bracing themselves for possible riots and looting on Election Day, blaming Democratic leaders for not keeping extremists in line."
-    publishedDateTime: 2020-11-03T14:50:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fI8hJ9-Aszk/trump-weak-leadership-democratic-cities-election-unrest-antifa"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-leadership-democratic-cities-election-unrest-antifa.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-leadership-democratic-cities-election-unrest-antifa.amp"
+  - title: "Ex-Trump loyalist Michael Cohen hints former boss won't like his ballot choice"
+    excerpt: "President Trump's former attorney trolled the White House with a Twitter hint that he voted for Democrat Joe Biden."
+    publishedDateTime: 2020-11-03T17:42:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nKdKfeLwf7o/michael-cohen-says-he-voted-for-biden-guess-what-i-did"
+    ampWebUrl: "https://www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a3b506a-5ced-44b1-b016-696a5a9d785d/8797cd7c-24a0-4cec-934e-a0733d9d16fe/1280x720/match/image.jpg"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Trump gains in Florida polls despite Democrats lead in early voting"
-    excerpt: "President Trump is leading for the first time in Florida polling, according to Real Clear Politics on Tuesday, even as Democrats lead in early voting."
-    publishedDateTime: 2020-10-28T01:17:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/96MEjXZ5sOA/trump-gains-in-florida-polls-despite-democrats-lead-in-early-voting"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55102a4f-6e35-4349-b50e-83e6b9601442/4036c90d-7074-4064-b8f1-1cd8f013fbc7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Lil Wayne reveals 'great meeting' with Trump, prompting Twitter users to respond"
-    excerpt: "Lil Wayne made a big splash on Twitter after he revealed that he met with Trump, sharing a friendly photo the two of them took together."
-    publishedDateTime: 2020-10-30T04:39:00Z
-    webUrl: "https://www.foxnews.com/entertainment/lil-wayne-trump-great-meeting"
-    ampWebUrl: "https://www.foxnews.com/entertainment/lil-wayne-trump-great-meeting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/lil-wayne-trump-great-meeting.amp"
+  - title: "Trump claims he lost lead in several states due to ‘ballot dumps’"
+    excerpt: "President Trump on Wednesday claimed that “ballot dumps” were tallied in some Democrat-run states costing him his advantage over Joe Biden. “Last night I was leading, often"
+    publishedDateTime: 2020-11-04T16:02:00Z
+    webUrl: "https://nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/"
+    ampWebUrl: "https://nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb131da2-ad30-4f80-b7cc-59e3a62cff91/3574cae3-8849-4391-9d48-6cad4e4fa991/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-ballot-dumps.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "WKzjXS2vVubTKJ55Hf9rTwMf2SzlwNteN5wh4rdxLKR599xWBFzUMlYIAorNrpgtnYmh72NXpQPCbNQfCOtVrK2z6cHSc28EkNwEaO63pQ+DAP+0UJg2pmqDQALvd/q/IIHjJ08RJ3KTvhjVR+UiHzZbsgZOdaMS5yAU4WkQ+xxuAfToc7tvyG1Mh9Y3vHKEN+WZ2QQ+ZRcZNpaSjWogCBJuvykvn+73Kq4Kmxr52tWvm15ydpU5QsJ98a8957YrMU4AiYRx70/CyfElcph61jET8ibN3HCs5N19koRi2cN9se8mRhmlX3f+Ri4Re9sZFFTiRHre2vxJBBtYOOE2CES6MrLKZ0MFSNwEFLAXfMY=;2FAJ2jwEqTHJfKuKtyTpbg=="

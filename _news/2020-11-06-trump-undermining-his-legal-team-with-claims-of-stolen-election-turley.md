@@ -159,6 +159,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump supporters protest media projections of Biden win"
+    excerpt: ""
+    publishedDateTime: 2020-11-07T23:44:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhgHDR5FKwg/trump-supporters-protest-media-projections-of-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-protest-media-projections-of-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-protest-media-projections-of-biden-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12363a9b-25a5-4281-8663-7365a1a6bad6/548eee09-dc74-494d-87b3-95024962529c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rand Paul: Trump's election performance likely to determine who holds Senate"
     excerpt: "Paul predicts Iowa, NC Senate races 'definitely go the way the president goes'"
     publishedDateTime: 2020-11-02T23:10:31Z

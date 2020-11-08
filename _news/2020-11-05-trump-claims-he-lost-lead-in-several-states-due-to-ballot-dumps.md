@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-s
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/trump-claims-he-lost-lead-in-several-states-due-to-ballot-dumps/amp/"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -26,6 +26,56 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Twitter flags Trump tweets complaining of 'ballot dumps'"
+    excerpt: "President Trump on Wednesday hit out at what he described as “surprise ballot dumps” as ballot counts in the Rust Belt show his lead shrinking in those states -- a claim that was swiftly labeled as \"misleading\" by Twitter."
+    publishedDateTime: 2020-11-04T16:32:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eu2TClGBiEA/trump-misleading-ballot-dumps-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Twitter marks 12 Trump tweets as 'misleading' in 60-hour span"
+    excerpt: "Twitter has marked at least a dozen tweets from President Trump as of Friday morning with a disclaimer that the tweets may contain \"misleading\" information about U.S. elections. "
+    publishedDateTime: 2020-11-06T19:24:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBM6x0EPxcM/twitter-marks-12-trump-tweets-misleading-60-hours"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-marks-12-trump-tweets-misleading-60-hours.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-marks-12-trump-tweets-misleading-60-hours.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6615f48-e957-4ade-83d6-a4d0437feb1d/2aeaa6c6-e774-4891-944c-83cf650bcfa5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ex-Trump loyalist Michael Cohen hints former boss won't like his ballot choice"
+    excerpt: "President Trump's former attorney trolled the White House with a Twitter hint that he voted for Democrat Joe Biden."
+    publishedDateTime: 2020-11-03T17:42:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nKdKfeLwf7o/michael-cohen-says-he-voted-for-biden-guess-what-i-did"
+    ampWebUrl: "https://www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-cohen-says-he-voted-for-biden-guess-what-i-did.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55102a4f-6e35-4349-b50e-83e6b9601442/4036c90d-7074-4064-b8f1-1cd8f013fbc7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "oATsAR505ea7TeT8OBQeoANzTYz0eDO60tXySsviJRp7YqmbTLqro/M/Qt2BrxBw34WeGdlw8O7jS4H3HejRH20wDXZfg7kiLtBBdn2kcJ6Q958mpNVGtZKs34c0iP8r41Q9hF7P/voXVnMmm6yyjXIh+TfUC22uakiVrBJsFhOwpAxvVXLDfDsue3NUo1MPOYU5QIz9QfFxqzgnDev1SzTsDI5WWdV76K4zKRxE/Z99mDSfb7oQNdTK+zO7NO5evf+qHrRxNp9VxojGyPJ4axKj+lOpP6r1iWsr5hdjEeb3yXDceghxSY6rFo8Tv+lvBZpKy2WvuRG0UJxwRzWSeZOyefnlq1fWCeraHUvmDhc=;+FoaQwuTJmlEVPoodSIQJw=="
 ---

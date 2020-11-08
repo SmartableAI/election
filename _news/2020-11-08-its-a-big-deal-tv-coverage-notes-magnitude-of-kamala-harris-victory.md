@@ -112,6 +112,22 @@ related:
         width: 2500
         height: 1599
         isCached: true
+  - title: "Kamala Harris makes history as vice president-elect"
+    excerpt: "Kamala Harris makes history as the nation’s first female, first Black and first South Asian American vice president-elect after she and Joe Biden are projected as the winners of the 2020 election."
+    publishedDateTime: 2020-11-07T23:57:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/kamala-harris-makes-history-as-vice-president-elect-95523909646"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95523909646"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95523909646"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_rel_harris_makes_history_201107_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "This is Vice President-elect Kamala Harris' Know Your Value moment"
     excerpt: "Kamala Harris made history, becoming the first female, first Black and first South Asian vice president elect. Here's a look back at her Know Your Value moment, which she shared with us at our nationa"
     publishedDateTime: 2020-11-07T19:08:00Z
@@ -177,6 +193,6 @@ related:
         height: 550
         isCached: true
 
-secured: "WBkeEH4Mt6+IYpZZjbQ4Q4OCTr7suMZnE9m/Co+4P6q2SNW7xvfN0Xb5IgezbJk/oZ7Vc9gC+V9dmg+WsOPP1j96dEaiTQrftUqcxd5yc5rRFjM8NoyU8Yv+KZj2u0r8+bgYJ+Amk5mt9gyH319v8XF4dCi7MHWxc0VlJn5pi9mOk+DZ5WixVqo0xo6Za0miaphANa1osb/UG/pNelx3HWS6qMABkCCy7TzzoRXYoMEN2zq0M0EzaLANwAzXHaJZbNFNW93D3cBhMn8/ONLTAPZtKIeMVksaAQ7YXOD6IQS3wIgrUpS8NOQ0Gr0P7aiJE6kGASAHeCc1KwM4TnDpdSqb96wgk/YrUQ59ZvTtDXc=;C+gyfutQ4Z78N1+X5iouhA=="
+secured: "E0frCERjfZAgMQDy1rQYAaMYxt9s0JTz77Zri/xgRm3dnOtr1YBQLlv2+aD6LZjKqYwNHTi1L4n4Z6+5Fx0r7gJdmPYqMjv4E2vMQXhxADHAPiJhvlNs+vFODVX0isEFq4f7H7Y6sz/M1DtOEL6b6jhFMt7rtrbkP6/4kC/jrmcYfRfZDhT78hlPY8Ad0dOKTKlEl4jcq1tUFVSaqchAgZOwQ7ETDe/Er/WTyh24AUR2D6g//1fncYwxN5zoKyErZeCmAmhdqfksAtHlFnrXNjQQB+ZrVJ+jk+LY1GP2YKizVIKdufQ5Kx7onDoCvcteejzJDfq2HXsbN20gQG3xIoqVqw5tOHohft3v01iBmddCjFd6tGlG/AY4+rH3ojKYTGVYzE7wxEQId3vZX5l+EJpcNpfLQKw2qdA5eyjWa8In3hflr5PJ2l4BlxnIGmFb3sUtd4tbW1DAA/yR/A5a9D13l53eYv+R1R2cjB4YvZUrt4uOO/Nvl398Ad7ib92cdcc9mVAdV5sGXmeilrFxZg==;D41wi2St8yQ+rBz3H2wYUg=="
 ---
 

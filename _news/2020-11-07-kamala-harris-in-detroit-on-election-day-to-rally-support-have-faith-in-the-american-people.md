@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.indystar.com/amp/6129769002"
 cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6129769002"
 type: article
 quality: 78
-heat: 98
+heat: 118
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Historic Barriers Kamala Harris Overcame to Become the First Female, First Black and First Asian American Vice President-Elect"
+    excerpt: "For each of Harris' firsts, the history speaks to the breaking down of barriers that silenced the voices of people of color and women"
+    publishedDateTime: 2020-11-07T20:11:00Z
+    webUrl: "https://time.com/5908579/kamala-harris-historic-vice-president/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 75
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/kamala-harris-campaign.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris' VP win marks 'powerful, emotional' moment for African American and South Asian-American women"
     excerpt: "African American and South Asian women celebrated the history-making win of Kamala Harris, the daughter of an Indian mother and Jamaican father."
     publishedDateTime: 2020-11-07T16:48:00Z

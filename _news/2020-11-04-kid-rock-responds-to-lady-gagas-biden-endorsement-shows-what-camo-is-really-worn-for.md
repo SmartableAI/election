@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6148835002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6148835002"
 type: article
 quality: 116
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "From women to migrants: What does a Biden win mean for Africa?"
+    excerpt: "Democrat Joe Biden's victory in the U.S. presidential election is set to affect Africa's 1.3 billion people on issues ranging from climate change and immigration to women's health and human rights, according to academics and analysts."
+    publishedDateTime: 2020-11-08T00:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-africa-policy-trfn-idUSKBN27N0U2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0U2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0U2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Verbum Ultimum: Joe Biden for President"
     excerpt: "Joe Biden is the only acceptable option on Nov. 3. by The Dartmouth Editorial Board \\| 28 minutes ago. With Election Day a mere four days"
     publishedDateTime: 2020-10-30T06:33:00Z

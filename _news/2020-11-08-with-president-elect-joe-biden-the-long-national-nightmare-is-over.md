@@ -2588,6 +2588,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden declared victor in hard-fought race for Pennsylvania."
+    excerpt: "Biden Jr. defeated President Trump in Pennsylvania, winning its 20 electoral votes and presidency. Mr. Biden had steadily erased Mr. Trump’s early lead in the state — at one point, the president led by half a million votes — as ballots,"
+    publishedDateTime: 2020-11-07T23:28:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/biden-declared-victor-in-hard-fought-race-for-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/biden-declared-victor-in-hard-fought-race-for-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/biden-declared-victor-in-hard-fought-race-for-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/multimedia/06briefing-elections-PAcounting/06briefing-elections-PAcounting-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "For Trump voters, shock, disappointment and disbelief."
     excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
     publishedDateTime: 2020-11-07T22:53:00Z
@@ -3150,6 +3166,6 @@ related:
       domain: thedailybeast.com
     quality: 28
 
-secured: "+cSVu/uS9PNL6v/dA2ku5hvEaHiUntrD7lEBvpmiWFiSVahA2WVY6kyVAmEyBRox2XNCh40VnqN+Zv+q0StMSLWd2lbacnkWhCOV7qHr89CctKAYCBCXAJpmhj0zYxrLCI2y4ufWOQ+Zxq70dKXTTka1IOFvt0CqcOmCcQe2IJ+d0sgMQXxoXnboqFkZ1J09UAijOZRsuEgeGVZL32nu0RfUjQ4DTAG7rHa17C0Ax+AQ0eWjsay26PPSYyfC8R0tRXqDgFr8SX/XUit2VS5URT6K1ezJhJ1zetN9Z+8treD1SnVLXZLUGWOinZyD5stCA3/R4XjVD8F0JWP+0W3nGdxM9p/7MtT7Weiu43uGIU4=;5trC9v+Ks34kYpVLNq2uBg=="
+secured: "qv4S7fyxzfHnFFUbD0EAGZV4CyGnz254dbOS45PAOV0hliVq9gOzVhd/tHMILpxg+oZ3zEWSZ1cXHTXsFH4H3Ywx/mS40V49YYXY8K5vZ0IEOuSspOxhUUl3frWDTrhV01VZL12FFjBj+g5UzP7mbX+/fXrr9Rgr4OEm0TN4Z7nNEULlb0TuocWdN21BDh0nrQu8vM6i2MHKNt0dLu3n6LrJa0QNtzyzxsiBMgFY7u42DCnBqoEXiH8CYozKrE1K/y9rd10bhoI/vYq2YrKhgS2d/qsopR5qd2gUlLXESmCsFZYkLIW7MRO4gV86RKt6EMKfkKpFuIiKgXo02JbNHaq6oCRGYzfqlviGJhZrGsQiwBp6PqXF7Gw+SmKKFgA6n11frA5Wywr15ubgnt2O+ImN3uuj5/c8R2/OdkLYL6GPICxgQIXSxpIV02NN4A/YLeAOcTPjf6aEouU1IRmDItcTVDLbyHw+IiOCymr0XPIA8Cryzp1b0ITezuxuREh6C2kz+YT+ag6AFXCTffQkxg==;1x/fEmU8UbaRx/H/2kN8XA=="
 ---
 

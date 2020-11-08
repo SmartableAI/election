@@ -9,7 +9,7 @@ ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice
 cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,88 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "What are we supposed to call Kamala Harris' husband?"
+    excerpt: "But as many in the nation celebrated Biden and Harris' projected win on Saturday, another question quickly arose: what the world will call her husband, who is expected to be the first male spouse of a vice president in U."
+    publishedDateTime: 2020-11-07T19:51:00Z
+    webUrl: "https://www.cbsnews.com/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/51c0fd32-c75e-4bf5-a826-67be9934342c/thumbnail/1200x630/c39dfd54a8c3a2e0ab45b66f8ab752ec/gettyimages-1267250943.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Doug Emhoff, Kamala Harris' husband, will be the nation's first 'second gentleman'"
+    excerpt: "Doug Emhoff, married to Vice President-elect Kamala Harris, will be the first male spouse of any vice president or president. Here's what to know."
+    publishedDateTime: 2020-11-07T16:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/07/kamala-harris-husband-doug-emhoff-first-second-gentleman/6168693002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6168693002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6168693002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/USAT/f656912b-69bc-4977-b163-04c9557c0428-husband.jpg?auto=webp&crop=2912,1638,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "One of these people could be VP-elect Kamala Harris’ successor and California’s next senator"
+    excerpt: "The Times asked political strategists for a list of the most likely contenders from whom Newsom might choose to replace Harris for the final two years of her Senate term."
+    publishedDateTime: 2020-11-07T16:51:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 114
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6ac6595/2147483647/strip/true/crop/2048x1430+0+0/resize/840x587!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2F57%2F3e257e5f130c40ac25e6a9b9078e%2Fla-1518827091-m3b6svi2yw-snap-image"
+        width: 840
+        height: 587
+        isCached: true
+  - title: "Kamala Harris' husband declares Ohio a 'blue state' during Election Day visit to Columbus"
+    excerpt: "Underscoring the Democrats' attempt to steal battleground Ohio from Donald Trump - who won the state in 2016 - Doug Emhoff rallies Biden supporters."
+    publishedDateTime: 2020-11-03T20:41:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/11/03/doug-emhoff-kamala-harris-husband-says-ohio-now-blue-state-during-election-day-visit-for-joe-biden/6143275002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/6143275002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6143275002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 81
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/NCOD/d6aa1413-93fb-40f8-b743-7b7a93b5dd96-MT_emhoff_visit_ea04.jpg?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A trio of firsts: Projected win busts Kamala Harris through politics' glass ceilings"
+    excerpt: "The celebrations for Democrats’ projected White House win Saturday included an outpouring of excitement for presumed Vice President-elect Kamala D. Harris making history."
+    publishedDateTime: 2020-11-07T18:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/07/Election_2020_Harris_58071.jpg-ecfc6_c0-171-6000-3671_s1200x700.jpg?fa0b039bd51c287ce8f31137928db7f290d4a4bb"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "kFKMKGNFCaxxkWe24WQlvRfbd22ocN8jcjJiQZPTZjNNwG8eDc0hnQqV3Wgj3NUffgtTm1ayLFiWZwnjJy0zdIFHQDCipJJzIIhd1PxCqIN8Cxtju7TKEel1l3HmFQ4lmtG5LqvqAQHrPnikPfVrk/YarBfi/g4Ayi42oJ+RuNeUPruf8XoUkXuY2MTdL6JO1q+bB77dm6Yn1k+JcVawgoZVY/BR2mDMX9/VWreWoQclGP1Op3yCjlxysajbeGiFPpxKX6JS5a36vFqZPX03czNznEtKgB1nDRVWbpkHstdGOEAUR1NsGKj/R5mhO+0y20nCLip753p0qXBFrQQdYsIe5wq9PbIf7/aX+0Jwedg=;6C9zycl6jxAIT7QvfyAmkA=="
 ---

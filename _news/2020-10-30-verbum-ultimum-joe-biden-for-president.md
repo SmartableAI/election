@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "From women to migrants: What does a Biden win mean for Africa?"
+    excerpt: "Democrat Joe Biden's victory in the U.S. presidential election is set to affect Africa's 1.3 billion people on issues ranging from climate change and immigration to women's health and human rights, according to academics and analysts."
+    publishedDateTime: 2020-11-08T00:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-africa-policy-trfn-idUSKBN27N0U2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0U2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0U2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "iIixoOGHimjcqkEYcsa2iXISEKWxWpCn7rfQLseN5qbEVXhIwdLWtTY88wReKaZZ+UC6t+pioHtKe+gDNX3WiPwQ9CLHDp1s95c7NWa4pSQQAq3vkhMKYCk9J9E52flqt1ioWlXl9kObOwVXQLbdeCaixIBmm2Su0AvkJ9sPi2LIimqumWPJeDwLfTc0u64308rITpIHjoWn69VnlM7rvdkF/bPhVrHO81Q9qJ9Y3qDCmNSF6vbq/wxfYZLSXVMCdJKBAyl/lqZ8pgZ8OLPXuDhyaKYDa0YufUOwKNzaabYOAH4LFyD9FUkKWp5A28qZzVVu0SHOTJkrRMbA4L8/ONHfqyNpuaeRyHO3JKQJQB8=;y7k6pwfVZJMA0debW0SUFw=="
 ---

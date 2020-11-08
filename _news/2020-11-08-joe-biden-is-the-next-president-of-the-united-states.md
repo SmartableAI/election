@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden is the next president of the United States"
-excerpt: "Posted [NFA] Democrat Joe Biden defeated President Donald Trump to become the next president of the United States"
+excerpt: "Top News Joe Biden is the next president of the United States. Posted [NFA] Democrat Joe Biden defeated President Donald Trump to become the next president of the United States, a"
 publishedDateTime: 2020-11-07T16:53:00Z
-originalUrl: "https://www.reuters.com/video/watch/idP72g?now=true"
-webUrl: "https://www.reuters.com/video/watch/idP72g?now=true"
+originalUrl: "https://www.reuters.com/video/watch/idOVD3AR93Z"
+webUrl: "https://www.reuters.com/video/watch/idOVD3AR93Z"
 type: article
 quality: 105
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa4ad60e4b04f7ff7c2c0e1-1604627808288?location=LANDSCAPE"
-    width: 1200
-    height: 675
+  - url: "https://static.reuters.com/resources/r/?d=20201107&i=OVD3AR93Z&r=OVD3AR93Z&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -2044,6 +2044,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dS/LYCEk8ZmA++Un/mAy+0MPiqsufhIz/+ibN2O0UST3pvt0eKw4mkJ07SIUphWR+8z4uK/c1m557vQP5Y6cumKf2z8YDpHIgUoXE0ASl+r0lSgpnfAvVlYVT2l8QFqGa8TIL/yHif2UJuNnbVsv2QANYlxxqBopQHv4UHZAvUTnV21YakvoFXmh29OXvtPIzN1WHS2gl1gk5fCxUb/wACESsDmwrhLqDLg34OH/K4bJ9+JOGUptumO6iKB4DJ9chk+AL96+mIOT1t+yDxBPWwpavzrYbCg2V97RR6hvskndXh37vgnw2NQDqiB4mq/CEbS0h2swnfI8rigtxv4bDkGBHoTf6gU+CyX1hbNN97U=;Q2xsNhVpUhLOmq2oKRyQrQ=="
+secured: "GjbE+IgvWAl5DjxazEcqfUHSAFXQVI7oBvwY3KG+i+j6ql3ZAsHJKbStmv+wsOefKYguhk89xXbEejUf2xhgE4Y614NUmUqwdiX/hf77S1awWi/I/RcJhG6lcmlIYfQuPxvbqLBm8OoKxvp9nulgmzFSs3mC0jBxu12n1zrHBnUjW4P4gXaUFIqGdxm0kpfjUNaKcOPBXiNFGS+/sSIS+p74PqMYzllb2TTpxVX+V23lrM/8W6OQcUs4frAQjwn/3fZWTHzryiBEJqz7OmZuoZTKh0eS6xvsbmo879ueIqjOgzbQFzHw4hZE3sqYX3q9astkZOnFtCNwKeGSbwqi5mBAyyCD+mamrJPm0DzEuQU=;8ryFLcdMR36DKjPYXbZsfg=="
 ---
 

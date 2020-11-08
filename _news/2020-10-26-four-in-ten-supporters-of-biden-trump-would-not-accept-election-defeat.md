@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A0BB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A0BB"
 type: article
 quality: 155
-heat: 10295
+heat: 10315
 published: true
 
 provider:
@@ -173,6 +173,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538898645&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1OM"
         width: 856
+        height: 545
+        isCached: true
+  - title: "Factbox: Trump continues court battles as Biden prevails in U.S. election"
+    excerpt: "U.S. President Donald Trump's campaign on Saturday said it would challenge the results of the presidential election in the courts after Democratic challenger Joe Biden was declared the winner by several television networks."
+    publishedDateTime: 2020-11-08T00:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-legal-challenges-factbox-idUSKBN27N0UM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0UM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0UM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 154
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540379708&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60OX"
+        width: 817
         height: 545
         isCached: true
   - title: "Election 2020 live updates: After a more civil final debate, Trump and Pence head to battleground states, Biden to talk COVID"

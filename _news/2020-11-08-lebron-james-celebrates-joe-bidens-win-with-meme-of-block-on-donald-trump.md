@@ -1581,18 +1581,18 @@ related:
       domain: businessinsider.com
     quality: 105
   - title: "Joe Biden is the next president of the United States"
-    excerpt: "Posted [NFA] Democrat Joe Biden defeated President Donald Trump to become the next president of the United States"
+    excerpt: "Top News Joe Biden is the next president of the United States. Posted [NFA] Democrat Joe Biden defeated President Donald Trump to become the next president of the United States, a"
     publishedDateTime: 2020-11-07T16:53:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP72g?now=true"
+    webUrl: "https://www.reuters.com/video/watch/idOVD3AR93Z"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa4ad60e4b04f7ff7c2c0e1-1604627808288?location=LANDSCAPE"
-        width: 1200
-        height: 675
+      - url: "https://static.reuters.com/resources/r/?d=20201107&i=OVD3AR93Z&r=OVD3AR93Z&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Iowa live election results for president in Iowa: Donald Trump vs. Joe Biden"
     excerpt: "Find live reporting of election results by county in Iowa for the race for president between Donald Trump and Joe Biden."
@@ -2044,6 +2044,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VAKk0c55hdI+nA+0Wzjpm+trykvAnS2FNCDq+wvgepzenOhZnjMjbB2AAjguycJxkWnR7cRYhMfjzYVkukDGnqNE/vgGWWZbU8dB8FPLHH7tbhg7OssSzPVsVtvtHXL6ZgWF50dl8vW/1nvD+7J1M16LLApL5idso8IPQ3txVzdqiVAJToqJNeq9f2UhbAYzvzzn2L2iBAODCrR9Mm/y5F1dh9kITidC5j+/Ot6F3tLeHo9A1X9pf0jLeMGE9UwXKGk00YPY7N889vTgyq9ifNlETfbYdoCpd4PDK8vcTpow0DoMrJ1L/VEVQcMlIyc1v0Ui32qHo6p98ZDhDdMtyPbYXNDXMrUZTxK0H5PL5Dw=;6z8KCBuV6XH7A+z1EcceMw=="
+secured: "T92G1bar7uAX5gpmI5Z4iPUyZYOwLwjFvsukrmzfcKlGPqCAru9XR4yAX+ijLBRwlVeEPxNWmVLmcIhQ+aZKq8CFCDR227RaawVYJvmU9LVkdiA0xG9Sa47nREc8LPV9R6shybKBcB8CTLW5qKsTEUe1HwqfN2UchvJhpVIXJkHJ5QWCUBEIzC/Zg9FM8Lgj+Pj9FJ/EAS6Fap9Fy6PC4rA+mybZshydaSzqGZuVxIlBE191Q4tFdDrku8OSr1U+K2HHbaU4vcPQ8s0X/sXbbXM5p7al/iuj0JA5iJNsslmYSNZ1TCpAqEUs62mzo0GSpsJsrfTu9QmCBBjXRnrm+TQy1YbwjJ+lq96lR6bJjW7o0coE5qzPnGeBD4jqdbixsYIP2h0LFSIziJlDKUfpzP3r4PR9KYK89nRu/5jJ4ptuWyq8jbvZ1t6kHPcFqjKBIcqTB6qrh5NEr+BNRIlLjONzjVC8g/LAdUunWG7ONozMxuCVTDbWHsZyj/WauiQZDvHRum07Tg0FgAPwsmscXw==;P0pHaevb0wXAB7L/OuXcSg=="
 ---
 

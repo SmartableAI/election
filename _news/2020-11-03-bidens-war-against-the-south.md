@@ -156,6 +156,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump supporters protest media projections of Biden win"
+    excerpt: ""
+    publishedDateTime: 2020-11-07T23:44:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhgHDR5FKwg/trump-supporters-protest-media-projections-of-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-protest-media-projections-of-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-protest-media-projections-of-biden-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12363a9b-25a5-4281-8663-7365a1a6bad6/548eee09-dc74-494d-87b3-95024962529c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump 'undermining' his legal team with claims of stolen election: Turley"
     excerpt: "President Trump needs to \"tap down the rhetoric\" about claims of Democrats stealing the election, Fox News contributor Jonathan Turley argued Friday."
     publishedDateTime: 2020-11-06T15:16:07Z

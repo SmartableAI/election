@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump says 'this election is far from over'"
+    excerpt: "President Donald Trump said on Saturday his campaign would begin challenging U.S. election results in court next week after media outlets called the race for Democrat Joe Biden, saying \"this election is far from over."
+    publishedDateTime: 2020-11-07T22:59:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump/trump-says-this-election-is-far-from-over-idUSKBN27N0LH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0LH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0LH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540376943&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60FT"
+        width: 742
+        height: 545
+        isCached: true
   - title: "Trump accused of undermining US democracy by international elections watchdog"
     excerpt: "The OSCE criticised Trump's bid to undermine postal ballots, and the president's use of \"discriminatory and pejorative statements\""
     publishedDateTime: 2020-11-05T16:10:00Z

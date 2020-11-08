@@ -49,6 +49,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden and Harris to address supporters after winning election, ousting Trump"
+    excerpt: "President-elect Biden and Vice President-elect Harris will address supporters Saturday evening in Wilmington, Del., after earlier today claiming victory in the presidential election after the Fox News Decision Desk projected that they will defeat President Trump, denying him a second term. "
+    publishedDateTime: 2020-11-08T00:51:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-W_3YEhNSZg/biden-harris-victory-speech-46th-president-united-states"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-victory-speech-46th-president-united-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-victory-speech-46th-president-united-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 227
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pence, Harris in Utah for vice presidential debate; Trump quarantining at the White House"
     excerpt: "With the November election less than one month away, the running mates of Trump and Democratic rival Joe Biden are scheduled to appear for 90 minutes at the University of Utah in Salt Lake City for the first and only vice presidential debate."
     publishedDateTime: 2020-10-07T13:40:22Z

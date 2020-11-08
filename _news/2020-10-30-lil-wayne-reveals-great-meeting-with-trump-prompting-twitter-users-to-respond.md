@@ -32,83 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Twitter flags Trump tweet warning Democrats 'trying to steal' the election as 'misleading'"
-    excerpt: "President Trump tweeted that Democrats are “trying to STEAL the Election,” while claiming a “big win”—a post that Twitter flagged as “misleading” content."
-    publishedDateTime: 2020-11-04T06:28:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Kufij6pdQQ/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-flags-trump-tweet-warning-democrats-trying-to-steal-the-election-as-misleading.amp"
+  - title: "John Legend appears to jab at Trump fans Ice Cube, Lil Wayne during rally for Kamala Harris"
+    excerpt: "John Legend appears to be shading a few colleagues in the music industry.  During a final rally for Democratic vice presidential nominee Sen. Kamala Harris in Philadelphia, Legend took the stage to perform with fellow artist Common,"
+    publishedDateTime: 2020-11-03T06:30:00Z
+    webUrl: "https://www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 180
+    quality: 140
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/John-Legend.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Twitter flags Trump tweets complaining of 'ballot dumps'"
-    excerpt: "President Trump on Wednesday hit out at what he described as “surprise ballot dumps” as ballot counts in the Rust Belt show his lead shrinking in those states -- a claim that was swiftly labeled as \"misleading\" by Twitter."
-    publishedDateTime: 2020-11-04T16:32:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eu2TClGBiEA/trump-misleading-ballot-dumps-twitter"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp"
+  - title: "Ice Cube On Turning Down Kamala Harris Group Zoom Call: \"I Want To Get Things Done\""
+    excerpt: "Ice Cube said in an interview on the FOX Soul program \"Cocktails with Queens\" that he passed on a request from Democratic nominee for vice president Sen. Kamala Harris to participate in a Zoom group call because it would be full of \"entertainers\" and \"wasn't going to be productive."
+    publishedDateTime: 2020-10-30T11:12:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/30/ice_cube_on_turning_down_kamala_harris_group_zoom_call_i_want_to_get_things_done.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Twitter marks 12 Trump tweets as 'misleading' in 60-hour span"
-    excerpt: "Twitter has marked at least a dozen tweets from President Trump as of Friday morning with a disclaimer that the tweets may contain \"misleading\" information about U.S. elections. "
-    publishedDateTime: 2020-11-06T19:24:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rBM6x0EPxcM/twitter-marks-12-trump-tweets-misleading-60-hours"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-marks-12-trump-tweets-misleading-60-hours.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-marks-12-trump-tweets-misleading-60-hours.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6615f48-e957-4ade-83d6-a4d0437feb1d/2aeaa6c6-e774-4891-944c-83cf650bcfa5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump says 'weak leadership' in Dem cities could allow election unrest: 'The other side is radicalized'"
-    excerpt: "President Trump lamented the fact that areas across the country are bracing themselves for possible riots and looting on Election Day, blaming Democratic leaders for not keeping extremists in line."
-    publishedDateTime: 2020-11-03T14:50:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fI8hJ9-Aszk/trump-weak-leadership-democratic-cities-election-unrest-antifa"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weak-leadership-democratic-cities-election-unrest-antifa.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-leadership-democratic-cities-election-unrest-antifa.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a3b506a-5ced-44b1-b016-696a5a9d785d/8797cd7c-24a0-4cec-934e-a0733d9d16fe/1280x720/match/image.jpg"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Trump gains in Florida polls despite Democrats lead in early voting"
-    excerpt: "President Trump is leading for the first time in Florida polling, according to Real Clear Politics on Tuesday, even as Democrats lead in early voting."
-    publishedDateTime: 2020-10-28T01:17:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/96MEjXZ5sOA/trump-gains-in-florida-polls-despite-democrats-lead-in-early-voting"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/52/525640.jpg"
+        width: 1008
+        height: 756
         isCached: true
 
 secured: "kPaFp9wsylJl40GlEhrcQZCDqd4deNIJ40j/yxgWxhLrUkVqtg/SRZ7F8Xc0JDyN9+Mo1m6hTzWteKlOuN9Pofy/BsAuEpuyoheINZjPBAlb/X7RMQGjvGS9J7QNpBOkR3jTYJVKVxzSACyzPqVirxkn4EYrEj3dHqFK1wx3O5ieQFygPUVS/M6PQAv39dLnJvudrkvb96qv6uSxcbqq1QopZH2aoczo93shAp3D2WAix7+8OlcIPX9rgD+1lk9NwQ8oJYlyjT1Q13I6G54CGd5hnEeiqtsT5kmHmoYq3oAXRhyWPJTJo9hUcQa5U05izJiIS8ddew9Dp/Qt1+65Ph2BsD4Wb67/865qUSietLc=;YPkWeIEzLUevbD7s93WC8g=="

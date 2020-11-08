@@ -2588,6 +2588,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden declared victor in hard-fought race for Pennsylvania."
+    excerpt: "Biden Jr. defeated President Trump in Pennsylvania, winning its 20 electoral votes and presidency. Mr. Biden had steadily erased Mr. Trump’s early lead in the state — at one point, the president led by half a million votes — as ballots,"
+    publishedDateTime: 2020-11-07T23:28:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/biden-declared-victor-in-hard-fought-race-for-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/biden-declared-victor-in-hard-fought-race-for-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/biden-declared-victor-in-hard-fought-race-for-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/multimedia/06briefing-elections-PAcounting/06briefing-elections-PAcounting-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Overseas, Biden Victory Brings Sighs of Relief"
     excerpt: "Foreign leaders showered the president-elect with congratulations. For many, the importance of this election was as much about removing Mr. Trump as ushering in Mr. Biden."
     publishedDateTime: 2020-11-07T20:40:00Z

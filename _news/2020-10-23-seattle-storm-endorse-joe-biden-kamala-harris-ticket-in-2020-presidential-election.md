@@ -1050,6 +1050,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Racism, sexism and a victory. How Kamala Harris made history as Joe Biden’s vice president"
+    excerpt: "Kamala Harris will become the nation’s 49th vice president, making her the first woman of color to hold the second highest office in an increasingly diverse nation."
+    publishedDateTime: 2020-11-07T15:58:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/article246786902.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/article246786902.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/article246786902.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 80
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/eb283a68-6b5b-419a-8e02-78231cf9ff8d/5ec00119-a1b3-435e-b7a6-63436527b88f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Doug Emhoff Reveals How He and Kamala Harris Stay in Fighting Shape"
     excerpt: "LIKE THE REST of us, the future maybe first second gentleman of the United States is counting the days until November 3rd, when the fate of the country will be decided and Kamala Harris’s husband, Doug Emhoff, can either return to his home gym in ..."
     publishedDateTime: 2020-10-29T15:13:00Z
@@ -1221,6 +1237,22 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 69
+  - title: "Pride at Kamala Harris’ childhood elementary school as Bay Area native makes history"
+    excerpt: "Berkeley’s Kamala Harris was “that little girl” bused in the late 1960s from her flatlands neighborhood on Bancroft Way to help integrate this school in Berkeley’s upscale foothills."
+    publishedDateTime: 2020-11-07T15:49:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/06/pride-anticipation-grow-at-kamala-harris-childhood-elementary-school/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/06/pride-anticipation-grow-at-kamala-harris-childhood-elementary-school/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/06/pride-anticipation-grow-at-kamala-harris-childhood-elementary-school/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 68
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1107-9.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "'We did it, Joe': Kamala Harris calls Joe Biden after he wins the presidency"
     excerpt: "Kamala Harris took to Twitter with a video of her calling Joe Biden after he gained the 270 electoral college votes to win the presidency."
     publishedDateTime: 2020-11-07T18:55:00Z

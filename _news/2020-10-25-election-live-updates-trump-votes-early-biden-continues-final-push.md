@@ -2573,6 +2573,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden declared victor in hard-fought race for Pennsylvania."
+    excerpt: "Biden Jr. defeated President Trump in Pennsylvania, winning its 20 electoral votes and presidency. Mr. Biden had steadily erased Mr. Trump’s early lead in the state — at one point, the president led by half a million votes — as ballots,"
+    publishedDateTime: 2020-11-07T23:28:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/biden-declared-victor-in-hard-fought-race-for-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/biden-declared-victor-in-hard-fought-race-for-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/biden-declared-victor-in-hard-fought-race-for-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/multimedia/06briefing-elections-PAcounting/06briefing-elections-PAcounting-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "For Trump voters, shock, disappointment and disbelief."
     excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
     publishedDateTime: 2020-11-07T22:53:00Z

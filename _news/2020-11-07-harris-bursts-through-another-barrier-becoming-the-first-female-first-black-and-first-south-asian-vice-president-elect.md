@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-first-vice
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-first-vice-president-female-black-south-asian/index.html"
 type: article
 quality: 160
-heat: 340
+heat: 360
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/08/business/07harris-media/merlin_179349762_a42eb950-e5f1-4108-a117-004f508f1657-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Kamala Harris makes history as vice president-elect"
+    excerpt: "Kamala Harris makes history as the nation’s first female, first Black and first South Asian American vice president-elect after she and Joe Biden are projected as the winners of the 2020 election."
+    publishedDateTime: 2020-11-07T23:57:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/kamala-harris-makes-history-as-vice-president-elect-95523909646"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95523909646"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95523909646"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_rel_harris_makes_history_201107_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "This is Vice President-elect Kamala Harris' Know Your Value moment"
     excerpt: "Kamala Harris made history, becoming the first female, first Black and first South Asian vice president elect. Here's a look back at her Know Your Value moment, which she shared with us at our nationa"

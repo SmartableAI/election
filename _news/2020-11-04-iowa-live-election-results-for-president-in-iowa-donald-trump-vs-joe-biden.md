@@ -1593,18 +1593,18 @@ related:
       domain: businessinsider.com
     quality: 105
   - title: "Joe Biden is the next president of the United States"
-    excerpt: "Posted [NFA] Democrat Joe Biden defeated President Donald Trump to become the next president of the United States"
+    excerpt: "Top News Joe Biden is the next president of the United States. Posted [NFA] Democrat Joe Biden defeated President Donald Trump to become the next president of the United States, a"
     publishedDateTime: 2020-11-07T16:53:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP72g?now=true"
+    webUrl: "https://www.reuters.com/video/watch/idOVD3AR93Z"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fa4ad60e4b04f7ff7c2c0e1-1604627808288?location=LANDSCAPE"
-        width: 1200
-        height: 675
+      - url: "https://static.reuters.com/resources/r/?d=20201107&i=OVD3AR93Z&r=OVD3AR93Z&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Election Results: Biden Has 'No Doubt' He Will Beat Trump, Become US President"
     excerpt: "Joe Biden's optimism comes as the Trump campaign files multiple lawsuits in swing states where the Democratic challenger is leading or projected to win."

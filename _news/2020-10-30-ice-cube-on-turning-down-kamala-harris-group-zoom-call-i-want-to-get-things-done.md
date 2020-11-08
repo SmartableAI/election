@@ -42,6 +42,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Lil Wayne reveals 'great meeting' with Trump, prompting Twitter users to respond"
+    excerpt: "Lil Wayne made a big splash on Twitter after he revealed that he met with Trump, sharing a friendly photo the two of them took together."
+    publishedDateTime: 2020-10-30T04:39:00Z
+    webUrl: "https://www.foxnews.com/entertainment/lil-wayne-trump-great-meeting"
+    ampWebUrl: "https://www.foxnews.com/entertainment/lil-wayne-trump-great-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/lil-wayne-trump-great-meeting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb131da2-ad30-4f80-b7cc-59e3a62cff91/3574cae3-8849-4391-9d48-6cad4e4fa991/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "CGiw0XGrgYSvf8ePY3ImdeGF8K8xVUjvKhHF+Mwo00Fq0Ibfcic4t6x84hwq8XFu1aKLMmIV/wpm72i/omAIdG/YYpgqfM3Z0d8aBbOTZ0iKGYu326NzTS00l3orkBuaGPcL+dIsejhrQwhrCG5XIEBub31OU9AyD6MY6zqWnwnh1+FmkXL3jJZkLPayNfUBYd7rDTp4gsYEKqNP3BymgdK9c6ONkT5BZXCmBieFjoBymCzlReUrLvTUh++xxWfgV/ntdiyCEU1Kf+h366lU3tlpFl0tL/gZ9PHuByrfBZV4mCrm+LdeAw5uj0F59FgnvkS7TV/CYym0w5GxxQ8d4PJTLKyKUD85G9AFTb+hzQuGnLmOpRs6aC9hJ29zk4yJ3P5nh2PltXO5uw6hJTcuZHPkNUDqBf5dArpeINos7oRUooAvaB6j204+c4BT3ukRoNi3vyGmvYc4RzJpnFBcJHNiQ/DAtk9KEqvXxkpppCK7Psc+JS8W1Y64dU00Tz0EbJN3TpWSCVlyPZ250mbyWA==;58yRzXQsqhgREHMyUQdEFQ=="
 ---
