@@ -297,6 +297,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Palestinian President Abbas congratulates Joe Biden - statement"
+    excerpt: "Palestinian President Mahmoud Abbas on Sunday congratulated U.S. President-elect Joe Biden in a statement that indicated the Palestinian leadership would drop its three-year political boycott of the White House."
+    publishedDateTime: 2020-11-08T09:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-palestinians-int-idUSKBN27O0AF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0AF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0AF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540419279&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA709I"
+        width: 879
+        height: 545
+        isCached: true
   - title: "Biden on verge of winning U.S. presidency, leads in Pennsylvania, Georgia"
     excerpt: "Democrat Joe Biden stood on the verge of winning the U.S. presidency on Friday, as he expanded his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia three days after polls closed."
     publishedDateTime: 2020-11-07T00:57:00Z

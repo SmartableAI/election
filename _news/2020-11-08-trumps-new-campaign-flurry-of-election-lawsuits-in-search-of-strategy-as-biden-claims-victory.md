@@ -1369,6 +1369,17 @@ related:
         width: 600
         height: 672
         isCached: true
+  - title: "Americans pivot from red-hot Trump to Biden's seasoned cool"
+    excerpt: "In a crystallizing moment at the last presidential debate, Donald Trump and Joe Biden fielded a question about people of color who live alongside chemical plants and oil refineries that seem to be making them sick."
+    publishedDateTime: 2020-11-08T09:08:00Z
+    webUrl: "https://www.businessinsider.com/americans-pivot-from-red-hot-trump-to-bidens-seasoned-cool-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/americans-pivot-from-red-hot-trump-to-bidens-seasoned-cool-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/americans-pivot-from-red-hot-trump-to-bidens-seasoned-cool-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z
@@ -2152,6 +2163,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3slptYRXvhFtQcO+sQvk0AHTX9sdhAKKttIHC8rp6e1jfXulPTqae5AYG3IQwzPYXS1IElH/OKaDrNlGja2ljXAN3sk3vXufFSTuub2oDoFs+3jORnd7Da0zTE4kdobiJQwvyJah8OxgyrdezNfaQlsaSCY8AL2m3jZoVviQexJ1yWT5m1cK7N/O/zc4tf3fxCv3DHSsdc1pauuBoByft+mj/fzvS118EvgU/QyKSecroKgQBfe2N5uXmzOETmljH7ty3dsoIS/T2wxrAL9kB6+lirhezcIOOs7jm+ai6jebyaTbHI+Y6Cg3250D+IOZvY0e94o4G0weIVXEIvmKGsxTLhv7NJwunNtBvLKxDQ0=;H4EsVL6Fka1w7RmipdYkAQ=="
+secured: "GqQFYuTzILl4qRUHoY619Fu/TQiNamjgN8XNYl60UwjLmdlhfdWslTMnl7QB6JshHB822KbbTwiiM1erhWEt+mYYn3CLCc7iBV5n+1xAnIQF9gbF4EOuUqcaON9lRV4XCy6WGQxVTpKsz4jEUnXaqlWZW/QJb197x3xXcxQWwkU71Vn/QSrn48Q++YvzSTAt24/Hy4b83qJ7a4QhdEdUHRkQ41pKcmSCpSazN26Phn64yb84ctgRcK3H2NHfcya0ecXu57Kkz3OvNG+TsgJ8tw/TUgO5plBC7lhSyY0BPA8BOTe98uw1X7IDb9GvQwBnuWT4BZtf8b8EIadLaMrfpNnon27opubsWSh66DGsipVXzlJDerjhO1p1wA8T4eznR/oltMbH5l3WYCA5pFIRSzWj1aeoMFduNyH9gozXhu4LtyJraCEeRiGYIke1iMkBXu7Q1wlqYePadnLLDThmgLgd9plWE+7BZTLLeKYrM6hLSI0BkjUnfBY4egPynx6gY8FbV16nG7GNyYqnayoXZg==;VJXlvyhoQzDEt/94cdxENg=="
 ---
 

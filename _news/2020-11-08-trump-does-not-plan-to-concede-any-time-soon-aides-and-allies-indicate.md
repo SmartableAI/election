@@ -2,11 +2,11 @@
 category: news
 title: "Trump does not plan to concede any time soon, aides and allies indicate"
 excerpt: "After the declaration on Saturday that Democrat Joe Biden had won the race for the White House, Republican President Donald Trump and his allies made one thing clear: he does not plan to concede anytime soon."
-publishedDateTime: 2020-11-08T02:47:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN27N0YE"
-webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN27N0YE"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0YE"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0YE"
+publishedDateTime: 2020-11-08T09:55:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN27N0YT"
+webUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN27N0YT"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27N0YT"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27N0YT"
 type: article
 quality: 125
 heat: -1
@@ -477,6 +477,6 @@ related:
         height: 682
         isCached: true
 
-secured: "+om9IefaqSJyBdqlLLZ1g9NkEtDCZmMuKjRc1pRvW70fEqkMXvYzSk5x6EJZkWkKfp684f9L3ltKuTok5l/XgRI1JAH66fPUrrAWcFKhO2VXrPwF5CBMcMUpHCFgpfXhvOw+hTmuDR6KT/Ro6eBZ65911xa11gLw4POC91j5QuTy1JDt9ie5amriZ1amgz3xkKid706kW2ivj8xV/lpTTXWHXcNkkr9pI1rMYu58s8tOBPwniDzu6UZLVFRTCxbynVE9FTDAPl/ju44OB+FO5Ew5zfaH87dCjPTDn2QgiDc9gXmFjMzGr4SPLSo0pIB90G6blY+ni40jz2Xmx3UBlZNcNF5uRtQDHh26IarTnlJGL9QLV5SAKS057MzJ6/kk+I1kK5Xd3hiY5XT1qK2mp7CPlhvySqMQeBTC3iEjQuOqB+KYWadrfULcXup3fVI8dWHs2mWmXI6fnDGk1j/3nBk94UypksrEaj2Zke5R1APpkQPQL1q3eFxJVBBbS6f7QwsI/ChzKxQ/vfJHDzVzig==;TdXLWXPflnh3m3IcrJurOw=="
+secured: "BbCgh5RiKImYoayzuDsuvgYO/vh9q3HGqSs2jh5AKpts5F7OKxp08WnTVvYrTbI/+oJ51q8VoukhgAL4cCk95GGY6lVoZmiXxP49jRyevG6iJGJLcXeqOgsis9MlxOedjsphDZBqOzrCaaWurGqF4AlBzK6G9npJc8vHYDgR4I6wA6QS3ldF0+zfR9FqfKq1P3YZcoUez0RF7UMzUvwJF8138r4+awJiR7M0GbpTTffzy4uJBFu6LhTCqN2ZCNO7+kBZ2IkGnm7feJahyz2oXrtmh/HgtV1ov06ZCmyIxcDU/sM3eTd2VB81j0XkYxSsFM8t4yEdaEL/CfGI7IdeiqKr7zkRGMFwrCf+2bANtDM=;Tfjg/BYeO5fGksjQUxYa5Q=="
 ---
 

@@ -298,6 +298,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Palestinian President Abbas congratulates Joe Biden - statement"
+    excerpt: "Palestinian President Mahmoud Abbas on Sunday congratulated U.S. President-elect Joe Biden in a statement that indicated the Palestinian leadership would drop its three-year political boycott of the White House."
+    publishedDateTime: 2020-11-08T09:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-palestinians-int-idUSKBN27O0AF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0AF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0AF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540419279&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA709I"
+        width: 879
+        height: 545
+        isCached: true
   - title: "Indian village where Kamala Harris' grandfather was born prays for her win"
     excerpt: "People gathered Tuesday in a village in India that was once home to the forebears of D Kamala Harris to pray for her ticket's victory in the U.S. presidential election, Reuters news agency reported ."
     publishedDateTime: 2020-11-03T23:10:00Z

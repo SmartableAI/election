@@ -1368,6 +1368,17 @@ related:
         width: 600
         height: 672
         isCached: true
+  - title: "Americans pivot from red-hot Trump to Biden's seasoned cool"
+    excerpt: "In a crystallizing moment at the last presidential debate, Donald Trump and Joe Biden fielded a question about people of color who live alongside chemical plants and oil refineries that seem to be making them sick."
+    publishedDateTime: 2020-11-08T09:08:00Z
+    webUrl: "https://www.businessinsider.com/americans-pivot-from-red-hot-trump-to-bidens-seasoned-cool-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/americans-pivot-from-red-hot-trump-to-bidens-seasoned-cool-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/americans-pivot-from-red-hot-trump-to-bidens-seasoned-cool-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z

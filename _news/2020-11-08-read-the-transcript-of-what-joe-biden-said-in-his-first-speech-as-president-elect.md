@@ -298,6 +298,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Palestinian President Abbas congratulates Joe Biden - statement"
+    excerpt: "Palestinian President Mahmoud Abbas on Sunday congratulated U.S. President-elect Joe Biden in a statement that indicated the Palestinian leadership would drop its three-year political boycott of the White House."
+    publishedDateTime: 2020-11-08T09:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-palestinians-int-idUSKBN27O0AF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0AF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0AF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540419279&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA709I"
+        width: 879
+        height: 545
+        isCached: true
   - title: "Biden on verge of winning U.S. presidency, leads in Pennsylvania, Georgia"
     excerpt: "Democrat Joe Biden stood on the verge of winning the U.S. presidency on Friday, as he expanded his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia three days after polls closed."
     publishedDateTime: 2020-11-07T00:57:00Z
@@ -1638,6 +1654,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "UxjbvIUMawFNzjOs01yk9MFIS/VLxfT/DQQn8iIJJsCjfe1wV2narLASsYscodP3yXdfwx7QQuvyc0TigBwUldHduQg3CQDwN/zOuQItG3V8/l1WGxVaTQf5CYrvAWysaoe+BJhZc5IRbkfPXFVNqHt1dF2o3i9N/AccEDD69azQzOFaG2w1mY1S2hJhW+a1uTcXeGrXg8uUO9L0IP4ATcH6t41XZDCWuZozZmTcPztLDHeZZCtw14StplqINbobca5j43jOtYV1I1ddxUuE1ba3NIaTazch3t5kcGy8Cd69QWmcQIu1riJqo91sBd1y0vpi+bjcD89V3S6jlBG3Vuqi2kUmzTxeT4kSNujHt6U=;e/psOkob2z0Izagq+KT0Ow=="
+secured: "lheeInFPEmmpboz6Nvi1pV48fduxPLowhcF131r4aluhqoCc1ollACyrpyVre/pGZnVmH0sNtwOb/ykdguEZoebEjf8tUEZDDp9TjpxIjFfkq0fBJVYMZins91Ja4hRQD2bQmH4WN8KzSZK2sxN1LrFDPowqAHTmY6heEQF3XPGc11qrbyzjGBubpZYKmNz7XfqbypIcDclTCl73BeI2EKAqt44RL7L54dTVkkN2h44S+biHAdvQeeWJ9M/DylrqAwdlg4s1Hzwaqg0agnBB/ZiraJp2qg7JDpHfM1yzUOuttaLZcC4moYZW+73Pvul9Aaqm27J6bzINdXAmjHZJn6RYIgJTivWcrLWU23YifCdEaBGCkTPfW4x3H+prwuumHIbvPYOuIUzjSeJKgyplCOWOGLCe4cCAYWc1nWKr7LjYUhf7T6GYfHxAkeqxHDzZHYTkvCOi+npZjjZA4upSKDJZZYM2+beFq58TooDRKiv4wkPf3J04/dnHpE53JSSTH8Wj+sHJkZCTD2LOq+07gg==;wXiT1dqRb8vM4+DsvkgeXw=="
 ---
 

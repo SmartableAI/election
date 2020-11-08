@@ -2048,6 +2048,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "‘It’s Such a Relief’: Biden Voters Rebuild a Wall That Trump Smashed"
+    excerpt: "Joe Biden’s victory was particularly sweet for supporters in three states he had to win: Pennsylvania, Wisconsin and Michigan."
+    publishedDateTime: 2020-11-08T10:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/joe-biden-voters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/joe-biden-voters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/joe-biden-voters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/08/us/politics/08biden-voters1/08biden-voters1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Sick of getting texts from the Biden or Trump campaigns? You're not alone"
     excerpt: "The campaigns of President Donald Trump and the Democratic presidential nominee Joe Biden didn’t respond to requests for comment on their texting strategies or on consumer complaints, which in recent days have been common on social media. Lindsay said ..."
     publishedDateTime: 2020-10-30T15:11:00Z
@@ -2668,6 +2684,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "In Pennsylvania, Trump Voter Fury Foretells a Nation Still Divided"
+    excerpt: "President Trump has presented no hard evidence of voter fraud, but his charges have riled supporters in Pennsylvania who now insist the election has been stolen."
+    publishedDateTime: 2020-11-08T10:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/politics/06pa-trump-voters1/06pa-trump-voters1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The Key States Biden Won en Route to the White House"
     excerpt: "Joe Biden had to flip a few states that went to President Trump in 2016 and hold on to Democratic-leaning battleground states to win the election. Here’s how it happened."
     publishedDateTime: 2020-11-07T21:59:00Z
@@ -3003,6 +3035,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423366/201027-la-vote-se-1205p_0fc3d607c68be8f161774257b7c59a38.jpg"
         width: 2500
         height: 1556
+        isCached: true
+  - title: "Hundreds celebrate outside the White House after Joe Biden is projected president-elect"
+    excerpt: "Celebrations erupted in Washington, D.C. and New York after it was projected that Joe Biden had enough electoral votes to become the president-elect."
+    publishedDateTime: 2020-11-07T17:48:00Z
+    webUrl: "https://www.nbcnews.com/video/hundreds-celebrate-outside-the-white-house-after-joe-biden-is-projected-president-elect-95513157569"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95513157569"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95513157569"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/Video.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "With Arizona too close to call, Trump supporters gather at a vote-counting site in Phoenix."
     excerpt: "More than 150 supporters of President Trump, some of them armed, gathered outside the Maricopa County election office on Wednesday and chanted “Count the vote,” as officials did just that under the protection of sheriff’s deputies."
