@@ -78,6 +78,22 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 54
+  - title: "‘It’s our time’: Women of color around Connecticut celebrate the significance of Kamala Harris’s historic VP win"
+    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
+    publishedDateTime: 2020-11-09T15:37:00Z
+    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
+    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 54
+    images:
+      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Senator Kamala Harris Holds Drive-In Rally in Pennsylvania's Lehigh Valley"
     excerpt: "T13:05:00-05:00 Democratic vice presidential candidate Senator Kamala Harris (D-CA) holds a drive-in rally in Pennsylvania’s Lehigh Valley. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) holds a drive-in rally in Pennsylvania’s Lehigh Valley."
     publishedDateTime: 2020-11-02T14:31:00Z

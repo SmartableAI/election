@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T16:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idINKBN27P199"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P199"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P199"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Donald Trump's aides are increasingly gloomy – and mad at other GOP officials"
     excerpt: "Some aides to President Donald Trump said they're not giving up on the election, but they're also bracing for the worst. They're also upset with other Republicans who have not spoken out against the ongoing election count as forcefully as Trump has."
     publishedDateTime: 2020-11-05T23:26:00Z
@@ -175,6 +191,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The head of Trump's legal team that is challenging the 2020 election results reportedly tests positive for coronavirus"
+    excerpt: "Several other officials in Trump's inner circle have recently contracted the virus, including HUD Secretary Ben Carson and chief of staff Mark Meadows."
+    publishedDateTime: 2020-11-09T20:13:00Z
+    webUrl: "https://www.businessinsider.com/david-bossie-trump-adviser-overturn-election-results-tests-positive-coronavirus-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/david-bossie-trump-adviser-overturn-election-results-tests-positive-coronavirus-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/david-bossie-trump-adviser-overturn-election-results-tests-positive-coronavirus-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fa99dd61df1d50018219a9b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
     excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
     publishedDateTime: 2020-11-05T08:09:00Z
@@ -190,6 +222,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b0712fbb-b75c-4e51-8eb4-2fec32a575be-AFP_AFP_8UK9QB.jpg?auto=webp&crop=4656,2619,x0,y342&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The long love affair between Fox News and Trump may be over. Here’s how it ended last week."
+    excerpt: "For months, the president fretted over a sense that the network’s loyalty was softening. After Fox called Arizona for Biden, the battle was on."
+    publishedDateTime: 2020-11-09T16:35:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZM2GYLRCUYI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Republican Sen. Pat Toomey says Trump's claims of 'large-scale fraud and theft of the election are just not substantiated'"
     excerpt: "Following Trump's claims of voter fraud and theft, Republican officials and former Trump associates are in disagreement."
@@ -229,6 +277,34 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Clyburn to Trump: 'The campaign is over'"
+    excerpt: "The highest-ranking Black member of Congress is urging President Donald Trump to stop challenging the results of the 2020 general election and start finding ways to work with the incoming administration."
+    publishedDateTime: 2020-11-09T20:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/09/clyburn-trump-the-campaign-over/6225991002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/745c6da7-56ff-4258-841e-bdf763751241_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "House Democrats will keep some of their Trump investigations and court fights active once the lame-duck president leaves the White House"
+    excerpt: "House Democrats plan to continue their high-profile investigations into President Donald Trump even after he leaves the White House. It's still unclear how each probe will look come next year when the new Congress gets sworn in,"
+    publishedDateTime: 2020-11-09T20:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-financial-probes-to-continue-in-democrat-led-house-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5fa999ac1df1d50018219a83?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "aTiUw2dKHcOM57zxjwykkm9clH/h4mm7ztQ8AFXasoffm2FYiyau5XNhYdrSKLfSTbaQ17tNYG2M4fyM8zxKxKlL/tFrv0WGdCu5hah6ZEaLA3J7hjnhedbkDQYsPk5gK4MD47SwOGm/9ut8cTBWZqNPJr1Ack79gfXZAnzoszj0WrdfJ6+Ftwopc5D835zdWBHQU2//WykvD8FfTCfyefHrigIGIlZ4ppcsVbt5N3w99mO91qAUVdJFztIi9gmv9D0lQmlKTgy44lL8IqOFza65HZDmpkf6B4SX7daSzXdrCDtI05ECVglEbwj5XNOzp2TrgK7JONmcco8F1cGwUO6L/uBNITpS6yf2+e8q7tg=;n/FTb649fDQzX4w7oakA1A=="
 ---

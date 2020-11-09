@@ -31,37 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's Middle East peace deals 'rejected conventional wisdom': State Dept."
-    excerpt: "President Trump's Middle East peace deals, including the latest Friday between Israel and Sudan, are \"unprecedented\" for the region, State Department spokeswoman Morgan Ortagus said."
-    publishedDateTime: 2020-10-24T18:50:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZmxoZXQDLPk/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus"
-    ampWebUrl: "https://www.foxnews.com/politics/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus.amp"
+  - title: "Massive lines at Trump rally in battleground state North Carolina"
+    excerpt: "Supporters reportedly lined up hours in advance for President Trump's rally in Hickory, North Carolina on Sunday."
+    publishedDateTime: 2020-11-01T20:56:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-NC-Lines-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump investment in North Carolina's Native American Lumbee Tribe pays off"
+    excerpt: "Robeson County voters chose Trump (59%) over Democratic nominee Joe Biden (41%) after Trump held a rally there on Oct. 24, according to preliminary data."
+    publishedDateTime: 2020-11-06T15:18:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liGTPvgPESY/trump-north-carolina-lumbee-robeson-native-american"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-lumbee-robeson-native-american.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-lumbee-robeson-native-american.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20298688186744.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump announces peace deal between Sudan and Israel, says more nations will normalize relations"
-    excerpt: "President Donald Trump announced Friday that Sudan will start to normalize ties with Israel, making it the third Arab state to do so as part of U.S.-brokered deals in the run-up to Election Day. "
-    publishedDateTime: 2020-10-23T16:02:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIfgukHML8w/trump-sudan-to-join-uae-bahrain-in-recognizing-israel"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-sudan-to-join-uae-bahrain-in-recognizing-israel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-sudan-to-join-uae-bahrain-in-recognizing-israel.amp"
+  - title: "Tiffany Trump hitting campaign trail in NC, Michigan, other battleground states"
+    excerpt: "President Trump's youngest daughter, Tiffany Trump, will be campaigning for her father in four battleground states, North Carolina, Pennsylvania, Michigan and Minnesota, after keeping a low profile during the 2016 campaign."
+    publishedDateTime: 2020-10-26T13:00:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N8961wMi8CY/tiffany-trump-2020-campaign-trail-trump-daughter"
+    ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/trumpdated.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297040355134.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Tucker Carlson: Media misjudged Trump support among non-White voters"
+    excerpt: "Tucker Carlson criticized the mainstream media on Tuesday for painting President Trump as a racist who would struggle to attract non-White voters after the president delivered a strong showing in Miam"
+    publishedDateTime: 2020-11-04T02:58:00Z
+    webUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters"
+    ampWebUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "GnIl8tuSkGKm+56XEOkuYQzfSXS4Dy3wHkd1CN+HXsg7FoMDcG3dPjj8RmiDRtQDSB1t03uqFflzdabWzBS1PXL64meW+otsq9j9DP5x04R0yMiKjAURUb+w1wUMwwrrKVR09N2lMS+waZGlC4s420P0D6SkeJF44eQwha5hDiPsaK8j0hpLm4nrUsL17pjta3MJge1yatSWo0zyUFL6zVqkn0RQIwu2RlNrJ/ZZnU3IeXzl4PzJNMABvCPtoCqV9/HGSHmeJaBfirHFOHEqqJKsRVsRE4i0z7Z6WOmcJtc/1K4D3nvlWZza5r/wW3vE4eJEKXWdQTWgyxZw9C9YUKloX3YyhKyOwkfchojvig4=;jFAXcxK7f5BgP7qsJrxnsA=="

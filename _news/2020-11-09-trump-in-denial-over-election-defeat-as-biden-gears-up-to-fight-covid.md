@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 3225
+heat: 3245
 published: true
 
 provider:
@@ -988,6 +988,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006175419-02-rick-bright-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's refusal to accept loss puts transition work on hold as inner circle remains split"
+    excerpt: "The business of transferring power between President Donald Trump and President-elect Joe Biden seemed on hold Monday as the incumbent plotted a messaging blitz to amplify his baseless claims of fraud even as his inner circle split over his ongoing refusal to accept the results of the 2020 election.\n"
+    publishedDateTime: 2020-11-09T15:59:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i7iZrLoE7JE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/donald-trump-election-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/donald-trump-election-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106155224-donald-trump-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

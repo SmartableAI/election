@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-media-polls-election-black-su
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-media-polls-election-black-support-vote-candace-owens-brian-kilmeade.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Tucker Carlson: Media misjudged Trump support among non-White voters"
-    excerpt: "Tucker Carlson criticized the mainstream media on Tuesday for painting President Trump as a racist who would struggle to attract non-White voters after the president delivered a strong showing in Miam"
-    publishedDateTime: 2020-11-04T02:58:00Z
-    webUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters"
-    ampWebUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "rHG9KjbLNswSX4IpZGjbHUK9xPTdo78Ga3x0995N3by/HhdeyAwhIHGUd+qUXzpFX0sZZkd79DCWSYMAsy580ww6QWYEO6RziwXc9avTL7MyzXzv7T/lBQ+Z+QTzztXXAZx1i/x5IRRwOTQW9uxB3LEWPUxlWlFReo9j/B+Do7PGL0C4UDRtahTbdKsMfYfrISN2HkghAfvLbZbgHwFDFRAvI11lgVKZZhTQEMkGur+ujpy2fom/Kro9By5KyDQTaL35yrOKuqxJH+/EnvCJNqxSoKMri7bFZLeCVfPam3ynZg73+2burqx0KZHCgPZJdEDRL4rEaZQzW+m+yfheI0bhRvM2VfX+CUAjhDxdcaM=;CUk5zwELzEu42vabA0Cupg=="

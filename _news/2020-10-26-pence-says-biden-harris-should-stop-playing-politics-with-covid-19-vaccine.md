@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp"
 type: article
 quality: 223
-heat: 683
+heat: 703
 published: true
 
 provider:
@@ -240,6 +240,22 @@ related:
       - url: "https://images.wsj.net/im-252362/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Billy Joel congratulates Joe Biden, Kamala Harris after previously saying 'I try to stay out of politics'"
+    excerpt: "Billy Joel offered his congratulations to President-elect Joe Biden and Vice President-elect Kamala Harris after their victory was announced on Saturday. The musician, 71, also mentioned the future first lady,"
+    publishedDateTime: 2020-11-09T17:56:00Z
+    webUrl: "https://www.foxnews.com/entertainment/billy-joel-hope-healing-biden-harris-win"
+    ampWebUrl: "https://www.foxnews.com/entertainment/billy-joel-hope-healing-biden-harris-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/billy-joel-hope-healing-biden-harris-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/billy-joel.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Kamala Harris bursts out laughing when asked if she has socialist perspective"
     excerpt: "Calif., burst out laughing when asked during an interview Sunday if she would advocate for a “socialist or progressive perspective” if elected."

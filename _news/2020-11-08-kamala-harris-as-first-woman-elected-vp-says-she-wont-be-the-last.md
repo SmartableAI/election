@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html"
 type: article
 quality: 185
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/06/us/00californiatoday-hfo-4/merlin_159211332_833d2586-6947-4f82-8d4d-33ca77209363-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "British politician slammed after calling Kamala Harris 'the Indian'"
+    excerpt: "A member of the Northern Ireland Assembly received heavy criticism on Monday for referring to United States Vice President-elect Kamala Harris as “the Indian” on Twitter. In his since-deleted tweet on Monday,"
+    publishedDateTime: 2020-11-09T19:30:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/british-politician-slammed-after-calling-kamala-harris-indian-n1247148"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247148"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247148"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427057/201109-kamala-harris-se-115p_098c1eeb5120d5f52c86b5f55ddad42e.jpg"
+        width: 2500
+        height: 1731
         isCached: true
   - title: "‘Vote like our lives depend on it because they do,’ Kamala Harris says in Philadelphia."
     excerpt: "Senator Kamala Harris on Monday evening made an impassioned final pitch before Election Day, casting the race as “the most consequential election of our lifetimes” as she urged Americans to turn out to the polls."

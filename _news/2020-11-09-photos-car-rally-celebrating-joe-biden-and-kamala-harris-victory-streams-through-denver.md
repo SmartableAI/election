@@ -1885,6 +1885,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris and Black Women Voters Helped Joe Biden Get Elected. Here's How America Can Do Right by Them"
+    excerpt: "President, they symbolically completed a 150-year project of recognizing the right of Black people to exercise the full franchise as citizens. In 1870, the 15th Amendment gave African American men the right to vote."
+    publishedDateTime: 2020-11-08T17:17:00Z
+    webUrl: "https://time.com/5909002/kamala-harris-black-women/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 82
   - title: "Racism, sexism and a victory. How Kamala Harris made history as Joe Biden’s vice president"
     excerpt: "Kamala Harris will become the nation’s 49th vice president, making her the first woman of color to hold the second highest office in an increasingly diverse nation."
     publishedDateTime: 2020-11-07T15:58:00Z

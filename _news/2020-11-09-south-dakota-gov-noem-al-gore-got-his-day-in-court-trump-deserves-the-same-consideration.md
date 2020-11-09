@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp"
 type: article
 quality: 164
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cruz insists Trump 'still has a path to victory,' vote count lawsuits could 'easily' reach Supreme Court"
+    excerpt: "Sen. Ted Cruz insisted on Sunday that President Trump \"still has a path to victory\" and predicted the Trump team's legal battle could reach the Supreme Court."
+    publishedDateTime: 2020-11-08T17:37:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nkT2R3QR2v4/cruz-trump-path-to-victory-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-trump-path-to-victory-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-trump-path-to-victory-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310575791231-e1604598266506.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Lieberman: Donald Trump Has The Right To Take His Case To Court And Let The Judge Decide"
     excerpt: "Former Senator Joe Lieberman, who ran alongside Democratic nominee Al Gore in the disputed 2000 election, joined CNBC's \"Squawk Box\" on Thursday to discuss the 2020 presidential election. \"The Trump campaign has the right to take its case to court and let the judge decide,"
     publishedDateTime: 2020-11-06T12:34:00Z

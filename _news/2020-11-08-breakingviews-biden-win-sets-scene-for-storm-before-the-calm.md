@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0NT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Breakingviews - The Donald Trump show will continue broadcasting"
+    excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
+    publishedDateTime: 2020-11-09T16:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews/breakingviews-the-donald-trump-show-will-continue-broadcasting-idUSKBN27P1B8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P1B8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P1B8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540513287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80PM"
+        width: 828
+        height: 545
+        isCached: true
   - title: "Facing a divided U.S., Biden and aides plan for the 'hard work of governing'"
     excerpt: "Joe Biden and his advisers on Sunday were working on plans to tackle the crises facing a divided America, first and foremost the raging coronavirus pandemic, a day after the Democrat won enough states to clinch the U."
     publishedDateTime: 2020-11-09T02:15:00Z

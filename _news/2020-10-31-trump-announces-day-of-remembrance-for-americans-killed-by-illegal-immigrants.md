@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rep. Van Drew: Trump ripped the band-aid off, changed American politics"
+    excerpt: "Democrat-turned Republican Rep. Jeff Van Drew, R-N.J., told “Fox & Friends” on Monday that he wanted to thank President Trump for helping to shape the new Republican Party saying he thinks “the president broke everything open.”"
+    publishedDateTime: 2020-11-09T17:17:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2LbggWPoMP8/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump fires Secretary of Defense Mark Esper"
+    excerpt: "President Trump on Monday said he fired Secretary of Defense Mark Esper."
+    publishedDateTime: 2020-11-09T18:03:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t0vR5l4Auu4/trump-fires-secretary-of-defense-mark-esper"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-fires-secretary-of-defense-mark-esper.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fires-secretary-of-defense-mark-esper.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Jack Brewer says Black Americans will turn out for Trump like no Republican before"
     excerpt: "The Platinum Plan was a great move by President Trump, Black Voices for Trump Jack Brewer said on Sunday."
     publishedDateTime: 2020-11-01T15:04:20Z
@@ -94,6 +126,52 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Top two pro-Trump super PACs make final $20 million ad push"
+    excerpt: "The two leading super PACs that are supporting President Trump's re-election bid are teaming up to shell out $20 million to run ads on TV and digital in seven crucial general election battleground in the closing stretch leading up to Election Day on Tuesday."
+    publishedDateTime: 2020-10-30T23:11:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zUgV0XwX-Xk/top-two-pro-trump-super-pacs-make-final-20-million-ad-push"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split-10.29.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "PA GOP leaders urge people to 'relax,' report fraud concerns to law enforcement amid Trump campaign objections"
+    excerpt: "Top Pennsylvania Republicans, speaking with the press on Friday, urged people to \"relax\" as tensions run high in the battleground state and President Trump's campaign makes allegations of potential election-related wrongdoing, specifically in Philadelphia. "
+    publishedDateTime: 2020-11-06T21:49:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hPBHKuPETQg/pa-gop-leaders-report-fraud-concerns-to-law-enforcement"
+    ampWebUrl: "https://www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump Says He Has Terminated Mark Esper as Defense Secretary"
+    excerpt: "President Trump replaced Defense Secretary Mark Esper on Monday with a new acting secretary, Christopher Miller, announcing his decision on Twitter."
+    publishedDateTime: 2020-11-09T18:34:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341?mod=hp_lead_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-257312/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "Wb6mq0XDTOTUo8jV/lVZL+jVOcCc7zN/RL3EfXeo7WwVDNbaufQ5U/Jz3hdUGzQFe8RkNSAPL0+VI2O96I/IgDzsxzI/4U4tItMH2jV9Oa2QknlBwvvHSEd4t6g73KNGyy4k3XyncUfOiU52EC3FGqY7LZhVL+sMQvuoZo2uKFzzxrtnChFZ1lnS5GF4ZZ6749DIfo/yrRzmh04JkqQwGNhENPlVR50FwwizuEIYOVkP/XBvZr5uJuuW2Mpe/WSpUKveXLiSeNe5cVxG8P0Ruj8xKR9RKvRge06/Uu8HjFZnWw2YGUt0CeAEdbr28X+PQ5ZcanpW3M2r0w/cTmzn1hl1uJHUE8Dsh40Pudm4QaA=;PkBGzrWC+1ANPsEyQSKIcA=="

@@ -141,6 +141,22 @@ related:
         width: 1024
         height: 676
         isCached: true
+  - title: "From Big Tech to Wall Street: Here's how America's business leaders are reacting to Joe Biden and Kamala Harris' win"
+    excerpt: "Jeff Bezos, Jamie Dimon, and other leaders of the largest companies in the US offered congratulations and other messages of goodwill."
+    publishedDateTime: 2020-11-09T18:31:00Z
+    webUrl: "https://www.businessinsider.com/business-leaders-ceos-react-to-bidens-presidential-election-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/business-leaders-ceos-react-to-bidens-presidential-election-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/business-leaders-ceos-react-to-bidens-presidential-election-victory-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5fa82e24f7d1cb0019e3a6cb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Vice President-Elect Kamala Harris Says She Stands on Shoulders Of All Women Who Fought For Right To Vote"
     excerpt: "Vice President-elect Kamala Harris said she stands on the shoulders of all the women who came before her to fight for women's right to vote on the day that she and President-elect Joe Biden celebrated their victory in the 2020 presidential election."
     publishedDateTime: 2020-11-08T01:06:00Z
@@ -198,6 +214,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/08/gettyimages-1229520920_wide-5986925f0c5feb3f27267ddfb075420cacb31e92.jpg?s=1400"
         width: 1400
         height: 786
+        isCached: true
+  - title: "'In her destiny lies my destiny': Black female New York politicians reflect on Kamala Harris as VP"
+    excerpt: "Three women, who broke barriers as Black female leaders at the city, county and state levels of New York government, spoke to the Times Union on Sunday afternoon about their reaction to the earthquake in national politics Saturday morning when Biden and Harris were declared the presumptive victors of the presidential election."
+    publishedDateTime: 2020-11-09T19:10:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/In-her-destiny-lies-my-destiny-Black-women-in-15711393.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 91
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/17/37/19986409/3/rawImage.jpg"
+        width: 2048
+        height: 1638
         isCached: true
   - title: "Kamala Harris to spend part of Election Day in Detroit"
     excerpt: "The last-minute swing through Michigan signifies the importance of the state in deciding the ultimate outcome of the presidential election."
@@ -262,6 +292,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
         width: 1024
         height: 715
+        isCached: true
+  - title: "Kamala Harris win inspires women and girls nationwide"
+    excerpt: "DETROIT (AP) — When Ashley Richardson-George’s 5-year-old daughter saw Vice President-elect Kamala Harris wearing a white suffragette suit during her prime-time victory speech on Saturday, she ran into her room and came back minutes later wearing a white dress and sweater."
+    publishedDateTime: 2020-11-09T19:03:00Z
+    webUrl: "https://www.chron.com/news/article/Kamala-Harris-win-inspires-women-and-girls-15713196.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-win-inspires-women-and-girls-15713196.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-win-inspires-women-and-girls-15713196.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/14/01/20234353/11/rawImage.jpg"
+        width: 2048
+        height: 1536
         isCached: true
   - title: "Kamala Harris becomes first Black woman, South Asian elected vice president"
     excerpt: "Kamala Harris made history Saturday as the first Black woman elected as vice president of the United States, shattering barriers that have kept men — almost all of them white —"

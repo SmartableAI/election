@@ -3273,6 +3273,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden and Kamala Harris Announce Their COVID-19 Advisory Board"
+    excerpt: "Harris transition team announced the members of its COVID-19 advisory board, and met with them for several hours in a virtual conference before President-elect Joe Biden made remarks stressing the importance of mask wearing as a continued “weapon” in the fight against COVID-19."
+    publishedDateTime: 2020-11-09T19:49:00Z
+    webUrl: "https://time.com/5909531/biden-harris-covid-19-advisory-board/?utm=newsbreak"
+    ampWebUrl: "https://time.com/5909531/biden-harris-covid-19-advisory-board/?amp=true"
+    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5909531/biden-harris-covid-19-advisory-board/?amp=true"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
   - title: "President Trump and Joe Biden campaign in key battleground states Friday"
     excerpt: "With Election Day a little more than two weeks away, President Trump and Joe Biden hit the campaign trail in key battlegrounds Friday. Meantime, there are mounting concerns over whether the president's personal attorney,"
     publishedDateTime: 2020-10-17T01:13:00Z

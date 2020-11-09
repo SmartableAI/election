@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorori
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108133459-india-celebrates-harris-win-thumbnail-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "'This is our country. It is for all of us': CNBC's Sharon Epperson on what Kamala Harris' victory means for women of color"
+    excerpt: "\"The election of Sen. Kamala Harris as vice president of the United States means my daughter sees her future,\" writes CNBC’s senior personal finance correspondent."
+    publishedDateTime: 2020-11-09T19:15:00Z
+    webUrl: "https://www.nbcnews.com/know-your-value/feature/our-country-it-all-us-cnbc-s-sharon-epperson-what-ncna1247142"
+    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1247142"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1247142"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 109
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427030/201109-kamala-harris-ew-1200p_b98275dfb5c3481411b19e6f693eeaf1.jpg"
+        width: 2500
+        height: 1668
         isCached: true
   - title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
     excerpt: "A group of Howard University alums and Alpha Kappa Alpha sorority sisters explain what electing the nation's first black woman vice president means to them and the generations ahead."

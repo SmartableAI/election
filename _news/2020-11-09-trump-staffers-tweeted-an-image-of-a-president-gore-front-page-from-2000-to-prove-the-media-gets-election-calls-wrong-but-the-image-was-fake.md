@@ -8,6 +8,9 @@ webUrl: "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-pr
 ampWebUrl: "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11?amp"
 type: article
+quality: 103
+heat: 103
+published: true
 
 provider:
   name: Business Insider

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6102428002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6102428002"
 type: article
 quality: 125
-heat: 705
+heat: 725
 published: true
 
 provider:
@@ -174,6 +174,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/03/gettyimages-1090431902_wide-5f86d1341e31d8cea4886711884225e6ad094573.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "A tour of Kamala Harris' East Bay, from her place of birth to her Berkeley school"
+    excerpt: "Vice President-elect Kamala Harris is often called the “daughter of Oakland,” as she was born in the East Bay city on Oct. 20, 1964, to two immigrant parents. While talking about her Bay Area upbringing during the Oct."
+    publishedDateTime: 2020-11-09T18:28:00Z
+    webUrl: "https://www.houstonchronicle.com/bayarea/article/Kamala-Harris-Berkeley-Thousand-Oaks-Oakland-15698798.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 100
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/64/20229416/3/rawImage.jpg"
+        width: 1700
+        height: 1296
         isCached: true
   - title: "Kamala Harris makes final push for Michigan voters on Election Day"
     excerpt: "Harris has stopped in Detroit twice previously since becoming Biden’s running mate in an attempt to motivate voters in Michigan’s largest city to prevent President Donald Trump from winning the state a second time."

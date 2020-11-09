@@ -8,6 +8,9 @@ webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27P19X"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P19X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P19X"
 type: article
+quality: 125
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -26,6 +29,24 @@ images:
     width: 817
     height: 545
     isCached: true
+
+related:
+  - title: "Explainer: Can Trump pardon his associates — or himself?"
+    excerpt: "U.S. President Donald Trump could issue a flurry of pardons during his final days in power. Trump has granted clemency to supporters before, most notably earlier this year when he commuted the criminal sentence of Roger Stone,"
+    publishedDateTime: 2020-11-08T11:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN27O0FT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0FT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0FT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540424251&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70D3"
+        width: 818
+        height: 545
+        isCached: true
 
 secured: "SfgYkfV4sPCZcK1GK04a/tsdl+pFuNCScBoCJ8mBqmbWeSeSPqVkmjSjXxrPtvfvAeW2aEPq6wVEDYXvQgqNgPuPrc24iO3to0sKLVF/zzXQZmqZrxf3SK28z58lIqjfVqOacF1KXOuB7svh9jbc+3azVPQBaYBIOELNm/rtW1oz6/SCOjV+F9tUXq7yL24mUeNy8cqvTUA4oeqwVz1RhQGOMZIQ7GB+MyErWjEIHVh0iJeJW+/shW9FkL6iUZUji3PM1As5bOj9Dn4y+qJUzdUrJfNCMn+zu0gfYa2RUn5TJBJFJhp6IYv2DEc3hva7nUr8vDjIrGhE0RUvhhxJtrD+D7d+GNeS+RKbUD4yRU0=;p6RUl2pvrJbVMrDYz2IN6A=="
 ---

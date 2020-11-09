@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
 type: article
 quality: 115
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
         width: 1484
         height: 989
-        isCached: true
-  - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
-    excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
-    publishedDateTime: 2020-11-04T22:17:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/04/2020-election-biden-calls-unity-votes-continue-counted/6166567002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b032550d-b933-4d85-b020-924b79592f45-VPC_ELECTION_DESK_THUMB.00_00_33_12.Still005.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
     excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."

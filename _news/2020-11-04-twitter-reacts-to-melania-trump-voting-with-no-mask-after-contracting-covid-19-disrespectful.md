@@ -47,6 +47,38 @@ related:
         width: 742
         height: 545
         isCached: true
+  - title: "Trump campaign adviser Bossie tests positive for COVID-19: source"
+    excerpt: "The lawyer charged with leading President Donald Trump's post-election legal challenges, David Bossie, has tested positive for COVID-19, a source familiar with the matter said on Monday."
+    publishedDateTime: 2020-11-09T20:57:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-bossie-idUSKBN27P2QU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P2QU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P2QU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540597472&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81PZ"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Trump and Pence celebrate Pfizer's COVID-19 vaccine success, but the government didn't fund its development"
+    excerpt: "The US government has ordered 100 milion doses of the vaccine, which will not be immediately distributed as it must still be evaulated by the FDA."
+    publishedDateTime: 2020-11-09T16:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-celebrates-pfizer-covid-19-vaccine-but-government-didnt-fund-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-celebrates-pfizer-covid-19-vaccine-but-government-didnt-fund-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-celebrates-pfizer-covid-19-vaccine-but-government-didnt-fund-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5f356b69b4bb1c001df5312f?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Doctors groups rip Trump for touting 'baseless' conspiracy theory over COVID-19 death count"
     excerpt: "Medical groups such as the American Medical Association denounced President Trump's claim that doctors inflate COVID-19 deaths, calling it \"malicious.\""
     publishedDateTime: 2020-11-03T00:58:00Z

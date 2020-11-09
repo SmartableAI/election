@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump campaign charts uncertain path forward as tensions bubble up"
+    excerpt: "President Donald Trump's campaign team huddled in their Virginia headquarters on Monday to discuss their ongoing efforts to contest the election results but tension remains high as the staff faces an uncertain future.\n    \n"
+    publishedDateTime: 2020-11-09T18:52:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BMBAJpSP8i4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-campaign-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-campaign-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103164319-donald-trump-election-day-campaign-staff-0311-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump supporters at rallies continue to get stranded in chilly temperatures"
     excerpt: "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n"
     publishedDateTime: 2020-11-02T18:16:48Z
@@ -48,83 +64,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump supporters seen blocking traffic on a New Jersey highway and a New York City bridge"
-    excerpt: "Hundreds of vehicles flying Trump, MAGA and American flags caused delays around the New York metropolitan area on Sunday after they were seen stopping traffic to cheer and chant.\n    \n"
-    publishedDateTime: 2020-11-02T02:32:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hRLcTpDxGQ0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/us/trump-caravan-new-jersey-highway-new-york/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/us/trump-caravan-new-jersey-highway-new-york/index.html"
+  - title: "Trump administration moves forward with $2.9 billion drone sale to UAE, source says "
+    excerpt: "The US State Department informed Congress Thursday of the Trump administration's intent to sell 18 armed MQ-9B drones to the United Arab Emirates for an estimated $2.9 billion, a congressional aide told CNN on Friday.\n    \n"
+    publishedDateTime: 2020-11-06T21:06:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ckiMIwPvF5c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201101180345-trump-car-rally-stops-traffic-in-nj-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "New Jersey congressman's pledge of 'undying support' for Trump hangs over close House race"
-    excerpt: "The congressman who represents Atlantic City made a risky political gamble last year. Now he's waiting to see whether it will pay off -- or if he's going home broke.\n    \n"
-    publishedDateTime: 2020-10-28T14:47:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JJitFMueHGk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191219162951-trump-jeff-van-drew-12192019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
-    excerpt: "President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that he can't seem to shake.\n    \n"
-    publishedDateTime: 2020-10-29T01:47:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pme6VdvQOfg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'It's a little tough out here': Trump blitzes must-win states with perfected rally routine"
-    excerpt: "President Donald Trump was running late when he arrived here Sunday morning, wind howling and tiny drops of ice sticking to his face, to begin the second-to-last day of his final run for office.\n    \n"
-    publishedDateTime: 2020-11-02T14:53:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027121426-donald-trump-1024-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Despite the Trump administration's new policy, many pharmacies still won't vaccinate children against flu "
-    excerpt: "As a dark winter approaches with \"twindemics\" of Covid-19 and the flu, an effort by the Trump administration to increase the number of children receiving flu shots is not working, according to a CNN investigation.\n    \n"
-    publishedDateTime: 2020-10-26T14:58:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXUl-9swsd4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025074215-kid-flu-shot-stock-3-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170404153305-us-military-drone-mq-9-reaper-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -160,21 +112,35 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "In a historically Republican suburb of Pittsburgh, voters debate whether to give Trump a second term."
-    excerpt: "Long lines of voters moved steadily in the first hour of voting at the Municipal Center in this town of about 30,000 people in Butler County, a historically Republican county. Cranberry Township, home to the headquarters of Westinghouse Electric and many engineers,"
-    publishedDateTime: 2020-11-03T16:48:00Z
-    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html"
+  - title: "The Trump campaign has set up two ‘war rooms’ in the White House complex"
+    excerpt: "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration."
+    publishedDateTime: 2020-11-03T22:05:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 120
+    quality: 134
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
+      - url: "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-trump-war-rooms/merlin_179500989_407a05bc-4770-455e-9b3a-43a7dc7f816b-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Hispanic Voters Deliver a Texas Win for Trump"
+    excerpt: "The Rio Grande Valley shifted decisively toward President Trump, cancelling out votes for Joseph R. Biden Jr. in urban and suburban areas."
+    publishedDateTime: 2020-11-08T02:19:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/texas-election-battleground-state-counties-promo-1604498818927/texas-election-battleground-state-counties-promo-1604498818927-facebookJumbo-v17.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "pv/+0GYoS7Av+ITCnM5gUIxK1dfyGXMtvI5+6nw73aeUCX4Ts/oK4tbxXfUIMtBoiJM68egS1zt43gWigEkQD4876i4rSO5FqcrXdhT7SSAleE9RrDrTHNiL0s6eLVhOIggRyZO6xO+vHBVBL3jHCxsx6JhzZigpo+Oy1PsUtVGFMwMzmy6UgiNo9iRJ1aI97EHJsVhUxevDNxjGKhbPbxopwu95+gCmdANSrrMh01EsRsCvkYpop7CRbJkxr0xZUdwlZFH4pGV9cr2SVF+FeWUVcd3E01IkzFx/VchgYmQWIDivHhi2liM0v4B5rCoKhqX9fn+OA/Qsice3qbMz988d9lzOtNhWev4zeTtUMSc=;VJmgoWb/mXMR8oRGszV6Ag=="

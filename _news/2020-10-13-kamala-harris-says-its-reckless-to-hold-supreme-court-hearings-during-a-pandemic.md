@@ -283,6 +283,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Vice President-elect Kamala Harris, a woman of many firsts"
+    excerpt: "The California senator continues to break down more barriers, as America's first female vice president, first Black vice president, and first Asian-American vice president"
+    publishedDateTime: 2020-11-09T16:04:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-vice-president-elect-woman-many-firsts/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-vice-president-elect-woman-many-firsts/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-vice-president-elect-woman-many-firsts/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/09/a7256c56-07f0-4a20-b628-8e006a4e2e50/thumbnail/1200x630/e2e62ee1d6984562b8a5ac5798f86fa7/kamala-harris-1280-getty-1229519918.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In her first race, Kamala Harris learned how to become a political brawler"
     excerpt: "When Harris was attacked by her opponents in her run for San Francisco district attorney, she punched back — and won."
     publishedDateTime: 2020-10-05T23:29:00Z
@@ -1095,6 +1111,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CBN7U3HJKNGYHMPBFOQFMZICHA.jpg"
         width: 962
         height: 680
+        isCached: true
+  - title: "Siri Says How Old Kamala Harris Is When Asked The President's Age [WATCH]"
+    excerpt: "When Siri was asked how old the president is Sunday, it gave users information about Vice-President-elect Kamala Harris instead of properly noting that Donald Trump is 74. The more conspiratorially-minded jumped on the issue,"
+    publishedDateTime: 2020-11-09T16:59:00Z
+    webUrl: "https://www.ibtimes.com/siri-says-how-old-kamala-harris-when-asked-presidents-age-watch-3079154"
+    ampWebUrl: "https://www.ibtimes.com/siri-says-how-old-kamala-harris-when-asked-presidents-age-watch-3079154?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/siri-says-how-old-kamala-harris-when-asked-presidents-age-watch-3079154?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/07/29/siri.jpg"
+        width: 600
+        height: 399
         isCached: true
   - title: "Democrats need to turn Kamala Harris loose on Amy Coney Barrett: columnist"
     excerpt: "According to New York Times Legal Affairs journalist Christian Farias, Senate Judiciary Committee Democrats would be wise to cede their time to Sen. Kamala Harris (D-CA) when hearings open on Monday over the nomination of Amy Coney Barrett to the Supreme Court."

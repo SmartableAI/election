@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nevada election worker alleges voting irregularities, Trump campaign submits affidavit to DOJ"
+    excerpt: "The election worker, whose name was redacted, said they “had concerns over election polling place and intimation and voter fraud.\""
+    publishedDateTime: 2020-11-09T15:35:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LWwv5azM4h4/nevada-election-worker-voting-irregularities-trump-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/nevada-election-worker-voting-irregularities-trump-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-election-worker-voting-irregularities-trump-campaign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Election 2020 legal battles take shape as Trump campaign files lawsuits in key battleground states"
     excerpt: "As expected, the 2020 presidential campaign season has evolved into a post-election battle consisting of legal challenges in crucial battleground states as President Trump's campaign attempts to prevent the counting of ballots they allege are or could be invalid."
     publishedDateTime: 2020-11-05T14:46:50Z
@@ -45,37 +61,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Massive lines at Trump rally in battleground state North Carolina"
-    excerpt: "Supporters reportedly lined up hours in advance for President Trump's rally in Hickory, North Carolina on Sunday."
-    publishedDateTime: 2020-11-01T20:56:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
+  - title: "Trump campaign claims historic GOP turnout in Florida"
+    excerpt: "The Trump campaign on Tuesday claimed historic Republican turnout in Florida, touting their ground game—specifically their efforts in Black and Hispanic communities—and saying the race in the Sunshine State is in “nearly a dead heat.”"
+    publishedDateTime: 2020-11-03T23:59:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPx0z_M4kUs/trump-campaign-claims-historic-gop-turnout-in-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-NC-Lines-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "AOC says Trump’s claims of victory are 'illegitimate, dangerous'"
-    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., slammed President Trump after he declared victory in Tuesday's election despite millions of votes still being counted in key battleground states as of Wednesday morning. "
-    publishedDateTime: 2020-11-04T17:22:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fvbrTTLrOxQ/aoc-says-trumps-premature-claims-of-victory-are-illegitimate-dangerous-and-authoritarian"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-says-trumps-premature-claims-of-victory-are-illegitimate-dangerous-and-authoritarian.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-says-trumps-premature-claims-of-victory-are-illegitimate-dangerous-and-authoritarian.amp"
+  - title: "If Trump loses, he will regret 'denigrating mail-in voting': York"
+    excerpt: "If President Trump loses the election to Joe Biden as current vote tallies indicate, he could regret warning against mail-in voting, Fox News contributor Byron York argued Friday."
+    publishedDateTime: 2020-11-06T16:25:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york"
+    ampWebUrl: "https://www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Nevada county judge keeps some polls open later after Trump campaign sues"
     excerpt: "Some polling locations in Nevada’s Clark County will stay open until 8 p.m. after a GOP lawsuit. "
@@ -93,6 +109,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Federal judge dismisses Trump request to stop counting Philadelphia ballots"
+    excerpt: "A federal judge reportedly dismissed an emergency injunction brought by the Trump campaign Thursday afternoon to stop the counting of votes in Philadelphia, claiming election workers were ignoring an earlier court ruling over election observers."
+    publishedDateTime: 2020-11-06T10:05:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsjtNI2ijS8/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310851009982.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Graham announces $500G donation to Trump campaign legal efforts, calls Philly elections 'crooked as a snake'"
     excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., told \"Hannity\" Thursday he will donate $500,000 to the Trump campaign's legal efforts to challenge election procedures in multiple states, including Pennsylvania, Michigan and Nevada."
     publishedDateTime: 2020-11-06T03:49:16Z
@@ -108,86 +140,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Giuliani ‘en route’ to Philadelphia with Trump legal team as ballot battle ramps up"
-    excerpt: "Rudy Giuliani, the personal attorney to President Trump, said he is \"en route\" to Phildelphia with the Trump campaign legal team, vowing to protect the vote and \"not let\" Democrats \"steal\" Pennsylvania in the 2020 presidential race as the ballot battle intensifies Wednesday. "
-    publishedDateTime: 2020-11-04T19:39:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8LrYUedURtg/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up"
-    ampWebUrl: "https://www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump administration proposes change to rules governing international students in US"
-    excerpt: "The Trump administration is proposing another major change to student visa rules, adding a fixed end date of up to four years. "
-    publishedDateTime: 2020-10-30T18:38:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hqQjAZsZEI4/trump-administration-international-students-us-rules"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-international-students-us-rules.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-international-students-us-rules.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39212e9e-69cc-4ce5-8f14-e6ea3a89b03b/695cc4df-9d23-491b-84e0-012d477f09de/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump's Pennsylvania lead dwindles as legal fight heats up over Philadelphia poll watchers"
-    excerpt: "President Trump's lead over Joe Biden in Pennsylvania was shrinking Thursday, as state election workers continued to count mail-in ballots."
-    publishedDateTime: 2020-11-05T20:47:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0R4SlMqREDs/trump-pennsylvania-lead-narrows-campaign-legal-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-lead-narrows-campaign-legal-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-lead-narrows-campaign-legal-fight.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump Jr. calls out '2024 GOP hopefuls' for 'total lack of action' in ballot-counting fight"
-    excerpt: "Donald Trump Jr. pressured potential 2024 GOP contenders to vocally support President Trump as the president continues to air often unfounded grievances about alleged voter fraud. "
-    publishedDateTime: 2020-11-06T15:44:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump vows to keep ‘fighting,’ will use ‘every aspect of the law’ in ballot-counting battle"
-    excerpt: "President Trump on Friday vowed to keep “fighting,” saying he will use “every aspect of the law” as election officials in key battleground states continue to count ballots for the uncalled 2020 presidential race."
-    publishedDateTime: 2020-11-06T19:03:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZvHPT2-nI5E/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Trump campaign, GOP to appeal to Nevada Supreme Court to halt Vegas-area mail-in ballot count"
     excerpt: "LAS VEGAS (AP) — President Donald Trump’s re-election campaign and Nevada Republicans filed notice Monday that they’ll ask the state Supreme Court to stop the count of mail-in ballots in Clark County, the state’s most populous and Democratic-leaning county, including Las Vegas."
@@ -205,22 +157,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump says US is 'most difficult country to deal with,' reflecting on battles with Pelosi, Schiff"
-    excerpt: "President Trump on Tuesday said the United States is the \"most difficult country to deal with\" as he reflected on his time as president during an Election Day interview on \"Fox & Friends.\""
-    publishedDateTime: 2020-11-03T14:45:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S1UYad72Qqg/trump-us-most-difficult-country"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-us-most-difficult-country.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-us-most-difficult-country.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ec03f86-02b3-4b65-89ad-e4aff3f20e30/d731488c-0cb8-4a01-89ae-e4fefa2ac3a5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump campaign files lawsuit in Arizona alleging Maricopa County rejected ballots by in-person voters"
     excerpt: "The Trump campaign and the Republican National Committee on Saturday filed a lawsuit in Arizona alleging that Maricopa County incorrectly rejected votes cast by in-person voters on Election Day, just hours after the 2020 presidential race was called in favor of Joe Biden."
     publishedDateTime: 2020-11-07T23:29:09Z
@@ -236,22 +172,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Cruz insists Trump 'still has a path to victory,' vote count lawsuits could 'easily' reach Supreme Court"
-    excerpt: "Sen. Ted Cruz insisted on Sunday that President Trump \"still has a path to victory\" and predicted the Trump team's legal battle could reach the Supreme Court."
-    publishedDateTime: 2020-11-08T17:37:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nkT2R3QR2v4/cruz-trump-path-to-victory-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-trump-path-to-victory-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-trump-path-to-victory-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310575791231-e1604598266506.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Trump campaign holds protest in Las Vegas to decry irregularities, claim ‘dead people,’ non-Nevadans voted"
     excerpt: "The Trump campaign held a Sunday afternoon press conference outside the Clark County Elections Department in Las Vegas to denounce alleged irregularities in last week’s election.  "
@@ -269,35 +189,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Top two pro-Trump super PACs make final $20 million ad push"
-    excerpt: "The two leading super PACs that are supporting President Trump's re-election bid are teaming up to shell out $20 million to run ads on TV and digital in seven crucial general election battleground in the closing stretch leading up to Election Day on Tuesday."
-    publishedDateTime: 2020-10-30T23:11:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zUgV0XwX-Xk/top-two-pro-trump-super-pacs-make-final-20-million-ad-push"
+  - title: "Melania Trump votes in Florida wearing Gucci dress, no mask"
+    excerpt: "First Lady Melania Trump was dressed to the nines while voting in person on Election Day, wearing an equestrian-print white dress among other high-fashion accessories. Trump cast her ballot at a voting center in Palm Beach,"
+    publishedDateTime: 2020-11-03T20:23:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split-10.29.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "PA GOP leaders urge people to 'relax,' report fraud concerns to law enforcement amid Trump campaign objections"
-    excerpt: "Top Pennsylvania Republicans, speaking with the press on Friday, urged people to \"relax\" as tensions run high in the battleground state and President Trump's campaign makes allegations of potential election-related wrongdoing, specifically in Philadelphia. "
-    publishedDateTime: 2020-11-06T21:49:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hPBHKuPETQg/pa-gop-leaders-report-fraud-concerns-to-law-enforcement"
-    ampWebUrl: "https://www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Melania-Trump-Getty-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "John Leguizamo bashes Florida 'lemmings' after the state was called for Donald Trump in the 2020 election"
     excerpt: "John Leguizamo bashed Floridians after the state was called for Donald Trump in the 2020 presidential election."
@@ -314,6 +220,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/John-Leguizamo.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "CNN's Don Lemon hits network for airing Trump's 'propaganda' visit to RNC office"
+    excerpt: "CNN anchor Don Lemon questioned the judgment of his own network Tuesday after it broadcast remarks President Trump made during his visit to a Republican National Committee office."
+    publishedDateTime: 2020-11-03T22:17:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81df12e9-89a4-4281-90fe-5e64638e305c/ebed9e3f-ad42-4ef4-847c-2443a3c03962/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump Campaign Says It Plans Another Lawsuit Over Ballots, This One in Nevada"
     excerpt: "President Trump's campaign said it plans to file a new lawsuit over election results, this one challenging thousands of ballots in the battleground state of Nevada. The federal lawsuit, which on Thursday morning didn't appear to have yet been filed,"

@@ -336,6 +336,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Graham encourages Trump to mount presidential bid in 2024 should election challenges 'fall short'"
+    excerpt: "Sen. Lindsey Graham said Monday he would encourage President Trump to consider running again for the White House in 2024 if his efforts challenging the results of the 2020 presidential election \"fall short.\""
+    publishedDateTime: 2020-11-09T16:34:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GRR_R0KFgUA/graham-trump-2024-campaign-legal-battles-fall-short"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-trump-2024-campaign-legal-battles-fall-short.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-trump-2024-campaign-legal-battles-fall-short.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Live Updates: Bipartisan group urges Trump administration to begin post-election transition process"
     excerpt: "The Center for Presidential Transition advisory board is urging the Trump administration to move forward “to immediately begin the post-election transition process.”"
     publishedDateTime: 2020-11-09T04:58:25Z
@@ -813,6 +829,38 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-257088/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden Gained, Trump Stalled in the Nation’s Suburbs"
+    excerpt: "While Joe Biden did well in a range of communities, voters in working-class suburbs had different priorities than those closer to big cities."
+    publishedDateTime: 2020-11-09T16:00:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-gained-trump-stalled-in-the-nations-suburbs-11604937011"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-gained-trump-stalled-in-the-nations-suburbs-11604937011"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-gained-trump-stalled-in-the-nations-suburbs-11604937011"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-257050/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Vaccine Jolts Markets in a Way Biden and Trump Couldn’t"
+    excerpt: "The U.S. presidential race mattered for investors but other things matter more, especially the Federal Reserve and the prospects of Covid-19 vaccine candidates."
+    publishedDateTime: 2020-11-09T16:23:00Z
+    webUrl: "https://www.wsj.com/articles/vaccine-jolts-markets-in-a-way-biden-and-trump-couldnt-11604938629"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vaccine-jolts-markets-in-a-way-biden-and-trump-couldnt-11604938629"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vaccine-jolts-markets-in-a-way-biden-and-trump-couldnt-11604938629"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-257208/social"
         width: 1280
         height: 640
         isCached: true

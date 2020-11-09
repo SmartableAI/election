@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "British politician slammed after calling Kamala Harris 'the Indian'"
+    excerpt: "A member of the Northern Ireland Assembly received heavy criticism on Monday for referring to United States Vice President-elect Kamala Harris as “the Indian” on Twitter. In his since-deleted tweet on Monday,"
+    publishedDateTime: 2020-11-09T19:30:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/british-politician-slammed-after-calling-kamala-harris-indian-n1247148"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247148"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247148"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427057/201109-kamala-harris-se-115p_098c1eeb5120d5f52c86b5f55ddad42e.jpg"
+        width: 2500
+        height: 1731
+        isCached: true
   - title: "‘Vote like our lives depend on it because they do,’ Kamala Harris says in Philadelphia."
     excerpt: "Senator Kamala Harris on Monday evening made an impassioned final pitch before Election Day, casting the race as “the most consequential election of our lifetimes” as she urged Americans to turn out to the polls."
     publishedDateTime: 2020-11-03T07:54:00Z

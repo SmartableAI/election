@@ -431,6 +431,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'This AIN’T over!' Vice President Mike Pence exhorts Trump campaign to continue challenging election result"
+    excerpt: "Trump campaign lawyers and GOP allies are pressing their fight in several states Joe Biden won narrowly, including Pennsylvania, Michigan and Nevada."
+    publishedDateTime: 2020-11-09T19:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/election-results-mike-pence-urges-trump-campaign-keep-fighting/6224695002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6224695002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6224695002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 147
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/06/USAT/454493ca-7224-4439-b619-49085d0f9232-USP_News__Pence_Wisconsin.jpg?auto=webp&crop=3084,1735,x1,y144&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 live updates: Biden takes lead over Trump in battleground state of Georgia"
     excerpt: "Democrat Joe Biden is now leading President Donald Trump in the battleground state of Georgia. By Friday morning, Biden overtook Trump in the number of ballots counted in the battleground, a must-win state for Trump that has long been a Republican stronghold."
     publishedDateTime: 2020-11-06T10:11:00Z
@@ -1422,6 +1438,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540427731&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70F1"
         width: 819
         height: 545
+        isCached: true
+  - title: "The GSA holds the keys to the Trump-to-Biden transition. What is it?"
+    excerpt: "The General Services Administration (GSA) has held a leading role in transfers of presidential power since 1963. But it has not started its work yet."
+    publishedDateTime: 2020-11-09T18:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/what-gsa-agency-tasked-president-trump-biden-transfer/6219432002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6219432002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6219432002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
@@ -2517,6 +2549,22 @@ related:
         width: 1050
         height: 590
         isCached: true
+  - title: "Trump says he 'terminated' Defense Secretary Mark Esper days after losing the presidential election"
+    excerpt: "Trump's relationship with Defense Secretary Mark Esper soured in recent months. Esper is the first top official fired since Trump lost reelection."
+    publishedDateTime: 2020-11-09T18:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-has-terminated-his-secretary-of-defense-after-losing-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-has-terminated-his-secretary-of-defense-after-losing-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-has-terminated-his-secretary-of-defense-after-losing-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/5dc2f8d43afd37552b3aca64?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden looks to restore, expand Obama administration policies"
     excerpt: "Joe Biden is promising to take the country on a very different path from what it has seen over the past four years under President Donald Trump, on issues ranging from the coronavirus and health care to the environment,"
     publishedDateTime: 2020-11-02T10:01:00Z
@@ -3282,6 +3330,38 @@ related:
     quality: 125
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540443498&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70IW"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden convenes U.S. pandemic task force and hails vaccine progress"
+    excerpt: "President-elect Joe Biden convened a task force on Monday to devise a blueprint for tackling the coronavirus pandemic in the United States and hailed progress on a vaccine, while President Donald Trump steadfastly refused to acknowledge his defeat."
+    publishedDateTime: 2020-11-09T17:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/biden-focuses-on-us-coronavirus-pandemic-and-hails-vaccine-progress-idUSKBN27P11Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P11Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P11Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540574554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81DO"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Mexico president sees no beef with Biden, waits to send congratulations"
+    excerpt: "Mexico's president on Monday reiterated he would not recognize the U.S. presidential election winner until pending legal disputes are resolved, but said he had no problem with Joe Biden, who many world leaders have already have congratulated."
+    publishedDateTime: 2020-11-09T16:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-latam-idUSKBN27P24E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P24E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P24E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540554565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA818P"
         width: 817
         height: 545
         isCached: true
@@ -4326,6 +4406,20 @@ related:
         width: 1023
         height: 545
         isCached: true
+  - title: "In Photos: D.C. Reacts To Joe Biden And Kamala Harris' White House Victory"
+    excerpt: "Images from a day of celebration in downtown Washington, D.C., after Joe Biden was declared the 2020 presidential election winner."
+    publishedDateTime: 2020-11-09T18:03:00Z
+    webUrl: "https://www.npr.org/local/305/2020/11/09/933058335/in-photos-d-c-reacts-to-joe-biden-and-kamala-harris-white-house-victory"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 118
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/09/whatsapp-image-2020-11-07-at-7.26.46-pm-900x600_wide-dfefa0122d9d2100b5358812f8f18d6d6becf585.jpeg?s=1400"
+        width: 900
+        height: 506
+        isCached: true
   - title: "The Ultimate Donald Trump Mystery That Couldn’t Be Solved Before Election Day"
     excerpt: "A s Americans vote today, they do so with a limited view of Donald Trump’s finances—especially at one project, the Trump International Hotel & Tower in Chicago, which offers the prospect of shedding light on many questions: who the president owes money to,"
     publishedDateTime: 2020-11-03T13:48:00Z
@@ -4403,6 +4497,20 @@ related:
       - url: "https://i.insider.com/5fa810191df1d500182197a5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden forges ahead with transition as Trump administration holds up resources"
+    excerpt: "President-elect Joe Biden is forging ahead with his transition team, announcing plans for several executive orders and creating a COVID-19 task force with top health experts. But so far, the General Services Administration is making the process more challenging by delaying federal resources."
+    publishedDateTime: 2020-11-09T20:24:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-transition-trump-administration-resources/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/09/8c2ca13d-7e4e-4731-8b0a-2b7714a2941d/thumbnail/1200x630/6e964b6463ac2113233143160c369e04/cbsn-fusion-joe-biden-transition-trump-administration-resources-thumbnail-584292-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "ABC, CBS, and NBC cut away from Trump's White House address riddled with unfounded accusations about the 2020 election"
     excerpt: "President Donald Trump, at the White House, made an unfounded accusation that the election was being stolen from him. ABC, CBS, and NBC cut away."
@@ -5122,6 +5230,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Putin won't congratulate Biden until legal action resolved"
+    excerpt: "Russian President Vladimir Putin won’t congratulate President-elect Joe Biden until legal challenges to the U.S. election are resolved and the result is official, the Kremlin announced Monday."
+    publishedDateTime: 2020-11-09T16:07:00Z
+    webUrl: "https://www.businessinsider.com/putin-wont-congratulate-biden-until-legal-action-resolved-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/putin-wont-congratulate-biden-until-legal-action-resolved-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-wont-congratulate-biden-until-legal-action-resolved-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden moves ahead in Georgia and Pennsylvania, moving closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to"
     publishedDateTime: 2020-11-06T14:54:00Z
@@ -5317,6 +5436,22 @@ related:
       - url: "https://i.insider.com/5fa3da6ef7d1cb0019e39eac?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Pence says election 'AIN'T over' as President-elect Biden warns 'dark winter' — election updates"
+    excerpt: "Trump still says the election isn't over while Putin holds off on congratulations for Biden. The president-election named his COVID-19 advisers."
+    publishedDateTime: 2020-11-09T20:25:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/09/election-updates-trump-wont-concede-biden-unveils-covid-19-team/6219010002/"
+    ampWebUrl: "https://amp.freep.com/amp/6219010002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6219010002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 92
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/f20b1d06-9685-410b-b235-ee687ff0ebe6-AP_Election_2020_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump does what he says he will do. Joe Biden waffles."
     excerpt: "Worse than his contradictions, Joe Biden is too beholden to the radicals in his party. If he’s elected, we’ll never know who’s really in charge, writes Ed Kovacic of Westlake in a letter to the editor."
@@ -5934,6 +6069,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "George W. Bush among famous Texans who congratulated Joe Biden, Kamala Harris on White House win"
+    excerpt: "After days on the edge of our seats, Texans were finally able to take to social media with more than just a thought or assumption of who would be sitting in the White House for the next four years. From former president George W."
+    publishedDateTime: 2020-11-09T18:12:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/george-bush-election-2020-joe-biden-kamala-harris-15712457.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/george-bush-election-2020-joe-biden-kamala-harris-15712457.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/george-bush-election-2020-joe-biden-kamala-harris-15712457.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 77
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "2020 Latest: Donald Trump wins Kansas"
     excerpt: "President Donald Trump throws hats to supporters as he arrive to speak during a campaign rally at Wilkes-Barre Scranton International Airport, Monday, Nov. 2, 2020, in Avoca, Pa. President Donald Trump dances after a campaign rally at Gerald R."
     publishedDateTime: 2020-11-04T02:00:00Z
@@ -6204,6 +6355,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08xjmql.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Mike Pence takes Florida vacation as Joe Biden formulates virus strategy"
+    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
+    publishedDateTime: 2020-11-09T17:46:00Z
+    webUrl: "https://floridapolitics.com/archives/382304-pence-florida-biden-virus"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 69
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/10/Pence-Tallahassee-AP-1000x563.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "President Donald Trump raised nearly twice as much money in Texas as Joe Biden"
     excerpt: "While public polling shows a close race for the White House in Texas, campaign finance reports leave no doubt who is winning the financial battle. Donald Trump has raised nearly double the amount of money in Texas as Joe Biden has."

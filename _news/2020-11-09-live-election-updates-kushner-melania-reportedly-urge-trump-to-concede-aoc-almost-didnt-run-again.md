@@ -309,6 +309,38 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Mike Pence heading to Florida vacation island"
+    excerpt: "Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday, according to the Federal Aviation Administration."
+    publishedDateTime: 2020-11-09T14:50:00Z
+    webUrl: "https://www.newsday.com/news/nation/mike-pence-faa-sanibel-1.50061089"
+    ampWebUrl: "https://www.newsday.com/amp/news/nation/mike-pence-faa-sanibel-1.50061089"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/nation/mike-pence-faa-sanibel-1.50061089"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 75
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50061090.1604940614!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "The Latest: Mike Pence heading to Florida vacation island"
+    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
+    publishedDateTime: 2020-11-09T17:01:00Z
+    webUrl: "https://madison.com/news/national/govt-and-politics/the-latest-mike-pence-heading-to-florida-vacation-island/article_5bf6f084-054f-5893-8ac4-037f14a960c1.html"
+    ampWebUrl: "https://madison.com/news/national/govt-and-politics/the-latest-housing-secretary-ben-carson-positive-for-virus/article_5bf6f084-054f-5893-8ac4-037f14a960c1.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/govt-and-politics/the-latest-housing-secretary-ben-carson-positive-for-virus/article_5bf6f084-054f-5893-8ac4-037f14a960c1.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/4/17/41737f28-bfd9-54e9-a4b8-cbc8a6843480/5fa9452fa6d07.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "ELECTION UPDATE: Joe Biden's lead in Arizona tightens in updated results"
     excerpt: "Former Vice President Joe Biden kept his lead in Arizona over President Donald Trump, but with a more narrow margin following the latest results posted overnight. The results posted early Thursday morning were mostly mail ballots from Maricopa County that had been dropped off at vote centers on Tuesday."
     publishedDateTime: 2020-11-05T12:30:00Z

@@ -121,6 +121,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Corporate America says it is ready to work with Biden"
+    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
+    publishedDateTime: 2020-11-09T18:53:00Z
+    webUrl: "https://www.businessinsider.com/corporate-america-says-it-is-ready-to-work-with-biden-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/corporate-america-says-it-is-ready-to-work-with-biden-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/corporate-america-says-it-is-ready-to-work-with-biden-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Here’s What We Know About Joe Biden’s COVID-19 Plan"
     excerpt: "Biden gave a speech on his COVID-19 plan on Oct. 23, and he and running mate Senator Kamala Harris have circulated a seven-point plan for “beat [ing] COVID-19 and get [ting] our country back on track."
     publishedDateTime: 2020-10-30T18:25:00Z

@@ -1889,6 +1889,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris and Black Women Voters Helped Joe Biden Get Elected. Here's How America Can Do Right by Them"
+    excerpt: "President, they symbolically completed a 150-year project of recognizing the right of Black people to exercise the full franchise as citizens. In 1870, the 15th Amendment gave African American men the right to vote."
+    publishedDateTime: 2020-11-08T17:17:00Z
+    webUrl: "https://time.com/5909002/kamala-harris-black-women/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 82
   - title: "PHOTOS: Car rally celebrating Joe Biden and Kamala Harris’ victory streams through Denver"
     excerpt: "A car rally celebrating Joe Biden and Kamala Harris’ winning 2020 ticket drove through Denver on Sunday, Nov. 8, 2020."
     publishedDateTime: 2020-11-09T02:29:00Z

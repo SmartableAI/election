@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump books will continue after Trump leaves office"
+    excerpt: "One of publishing’s most thriving genres of the past four years, books about President Donald Trump, is not going to end when he leaves office. In 2021 and beyond, Works already planned include the anti-Trump “Preventable: The Inside Story of How Leadership Failures,"
+    publishedDateTime: 2020-11-09T20:02:00Z
+    webUrl: "https://www.washingtonpost.com/health/trump-books-will-continue-after-trump-leaves-office/2020/11/09/7f852f50-22c6-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/trump-books-will-continue-after-trump-leaves-office/2020/11/09/7f852f50-22c6-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-books-will-continue-after-trump-leaves-office/2020/11/09/7f852f50-22c6-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
     excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
     publishedDateTime: 2020-11-07T10:15:00Z

@@ -117,6 +117,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Corporate America says it is ready to work with Biden"
+    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
+    publishedDateTime: 2020-11-09T18:53:00Z
+    webUrl: "https://www.businessinsider.com/corporate-america-says-it-is-ready-to-work-with-biden-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/corporate-america-says-it-is-ready-to-work-with-biden-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/corporate-america-says-it-is-ready-to-work-with-biden-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
     excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
     publishedDateTime: 2020-10-28T04:13:00Z

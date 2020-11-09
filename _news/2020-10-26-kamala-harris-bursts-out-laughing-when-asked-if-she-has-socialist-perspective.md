@@ -256,6 +256,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Billy Joel congratulates Joe Biden, Kamala Harris after previously saying 'I try to stay out of politics'"
+    excerpt: "Billy Joel offered his congratulations to President-elect Joe Biden and Vice President-elect Kamala Harris after their victory was announced on Saturday. The musician, 71, also mentioned the future first lady,"
+    publishedDateTime: 2020-11-09T17:56:00Z
+    webUrl: "https://www.foxnews.com/entertainment/billy-joel-hope-healing-biden-harris-win"
+    ampWebUrl: "https://www.foxnews.com/entertainment/billy-joel-hope-healing-biden-harris-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/billy-joel-hope-healing-biden-harris-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/billy-joel.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Liz Cheney says Kamala Harris 'sounds just like Karl Marx' in video on equity"
     excerpt: "Wyo., suggested on Sunday that vice presidential candidate , D-Calif., was advancing communist ideas with a video about equity and equality."
     publishedDateTime: 2020-11-01T23:13:00Z

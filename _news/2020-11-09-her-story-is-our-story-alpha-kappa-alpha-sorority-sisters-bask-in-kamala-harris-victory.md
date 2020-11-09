@@ -58,6 +58,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'This is our country. It is for all of us': CNBC's Sharon Epperson on what Kamala Harris' victory means for women of color"
+    excerpt: "\"The election of Sen. Kamala Harris as vice president of the United States means my daughter sees her future,\" writes CNBC’s senior personal finance correspondent."
+    publishedDateTime: 2020-11-09T19:15:00Z
+    webUrl: "https://www.nbcnews.com/know-your-value/feature/our-country-it-all-us-cnbc-s-sharon-epperson-what-ncna1247142"
+    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1247142"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1247142"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 109
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427030/201109-kamala-harris-ew-1200p_b98275dfb5c3481411b19e6f693eeaf1.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
 
 secured: "H5KicEWQUfJD1+N8k5pmZxWVDhAA/RCjttT+Rldqwtrna1BibsccJK7yDvpKFuj4MCe+jxKY+/sMer68iR2iT/YWm5y5Nb4ul0DgHdawh5NDbqaj71q2h5AwA9WLRZLV7k2OoTvAUPUInEqGrQFANwawA34zc3So59jmZxRlE30JAb/fZuWAPz6lqZx1N8A+me5eoMWzd9z1TLgUFHBzyBfsCdgUZzuxtI8t5JdN764+cjqj2L03aksqOcXbbkvHUVk7l+TaMA6yWviq5O+d6V2rXxf6C6MnItCY9ApUPE/OeRt8xtMB0rMMO9mL6WTGW/dnqZYu3bE6Nf1mEeKAYMCq4MIUfpTNfz3sAFekrenoi6MPKizSSlXwvSWtO5bN8+UKBPBeAk+2y3fW8tT4zmhOAXZxr+PrnGl6ZxL4a0HrcMaD1jsGkcsNlvG6HFLm/SyVkrKB90hlJ7uu/QhFq6aF/TX1Vs7rVT9xsdURaJO8OUS8GIJGkp2YSu2pPCRmmTk/2GjrUpTv+QFZhkTUew==;ykp5acP4b8kTQimKC6ra8A=="
 ---

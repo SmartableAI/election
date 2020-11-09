@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Huckabee: Trump team must be allowed to examine voting machines, ballots"
+    excerpt: "President Trump needs to pursue legal action against the 2020 presidential election results due to the state's having suspicious outcomes, Fox News contributor Mike Huckabee said on Monday."
+    publishedDateTime: 2020-11-09T18:59:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fjKW2b1MoRk/huckabee-trump-legal-team-review-ballots-evidence"
+    ampWebUrl: "https://www.foxnews.com/politics/huckabee-trump-legal-team-review-ballots-evidence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/huckabee-trump-legal-team-review-ballots-evidence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ex-Trump loyalist Michael Cohen hints former boss won't like his ballot choice"
     excerpt: "President Trump's former attorney trolled the White House with a Twitter hint that he voted for Democrat Joe Biden."
     publishedDateTime: 2020-11-03T17:42:23Z
@@ -73,6 +89,22 @@ related:
     quality: 171
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55102a4f-6e35-4349-b50e-83e6b9601442/4036c90d-7074-4064-b8f1-1cd8f013fbc7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cuomo says it's 'bad news' that Pfizer coronavirus vaccine progress came during Trump administration"
+    excerpt: "New York Gov. Andrew Cuomo said that while it is \"good news\" that Pfizer has had a recent breakthrough in its coronavirus vaccine clinical trial, he believes it is \"bad news\" that the Trump administration will get to plan the distribution."
+    publishedDateTime: 2020-11-09T16:17:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HsN5JdIBTqU/cuomo-bad-news-pfizer-coronavirus-vaccine-trump-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-bad-news-pfizer-coronavirus-vaccine-trump-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-bad-news-pfizer-coronavirus-vaccine-trump-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bbc13b4-1f56-4e92-bf92-f59eae3e2c72/ba2b00a5-6919-4658-b791-69cb020dc983/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -187,6 +187,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "A tour of Kamala Harris' East Bay, from her place of birth to her Berkeley school"
+    excerpt: "Vice President-elect Kamala Harris is often called the “daughter of Oakland,” as she was born in the East Bay city on Oct. 20, 1964, to two immigrant parents. While talking about her Bay Area upbringing during the Oct."
+    publishedDateTime: 2020-11-09T18:28:00Z
+    webUrl: "https://www.houstonchronicle.com/bayarea/article/Kamala-Harris-Berkeley-Thousand-Oaks-Oakland-15698798.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 100
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/64/20229416/3/rawImage.jpg"
+        width: 1700
+        height: 1296
+        isCached: true
   - title: "Doug Emhoff Reveals How He and Kamala Harris Stay in Fighting Shape"
     excerpt: "LIKE THE REST of us, the future maybe first second gentleman of the United States is counting the days until November 3rd, when the fate of the country will be decided and Kamala Harris’s husband, Doug Emhoff, can either return to his home gym in ..."
     publishedDateTime: 2020-10-29T15:13:00Z

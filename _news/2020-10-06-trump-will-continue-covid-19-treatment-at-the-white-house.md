@@ -604,6 +604,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "These Dems balked at a coronavirus vaccine under Trump. Will they change their tune now?"
+    excerpt: "When President Trump first told the American public that a coronavirus vaccine could come this year -- at the time he said possibly before Election Day -- Democrats including Vice President-elect Kamala Harris said they would not trust Trump as to any vaccine's safety."
+    publishedDateTime: 2020-11-09T20:01:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F4dtB1xwKqY/democrats-balked-at-coronavirus-vaccine-under-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/099faceb-1615-4e7b-afcb-a7c7202dec3f/2fc973bf-71b6-4759-b179-89f24a5ca219/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump taking Regeneron, Remdesivir therapy for coronavirus diagnosis: ex-WH doctor explains"
     excerpt: "President Trump is taking experimental coronavirus drugs Remsdesivir and Regeneron after being diagnosed with COVID-19 this week, his former White House physician told \"Fox & Friends Weekend.\""
     publishedDateTime: 2020-10-03T12:56:25Z

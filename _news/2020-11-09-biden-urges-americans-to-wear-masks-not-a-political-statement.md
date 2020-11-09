@@ -8,6 +8,9 @@ webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnKPKSd6mzU/biden-urges
 ampWebUrl: "https://www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp"
 type: article
+quality: 175
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -26,6 +29,40 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Schumer sings 'God Bless America' after Biden projected winner"
+    excerpt: "Sen. Chuck Schumer celebrated President Trump's projected defeat by singing a rendition of \"God Bless America,\" and telling the former Manhattan resident it's time to pack up and go home to his new home state of Florida. "
+    publishedDateTime: 2020-11-07T21:57:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pz2Z5kTo-qk/schumer-god-bless-america-biden-projected-winner"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-god-bless-america-biden-projected-winner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-god-bless-america-biden-projected-winner.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdefe646-10ca-45c5-be99-a9396a62ed53/07e6210c-520f-4b83-8fa9-f4057d386bb5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pelosi celebrates 'dawning of a new day of hope' after Joe Biden projected to win presidency"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., released a statement following Joe Biden’s projected win of the presidency celebrating the “dawning of a new day of hope for America.” "
+    publishedDateTime: 2020-11-07T18:20:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MO6PqlJ_eCU/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7fce3aa-0eeb-48d7-b2f8-85720c30bafc/d2b3158d-d70e-492c-ab7f-789f4116989e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "W7TqmpcHzDrDgdh8nP0LwTkktw9XsWEftGvlR6YDvnnfIsK+Q2KXIZALJ4reRInSCwJxjVazx4efhIm1pvFEyJi/+i5b3+To0Z2yHV6J9APVc3gynHWIWi2CKgiXEFbbhyugH0JLHU6K/KmNUT8C8eqUWfykKnQJJFCUZKsJ9rR0/4ZWM10KrcunAT9yw1/ZJQtJu0So8czbunKqOtxv0f+BahRBq7c5K6ZI+4FLfWSjiim1iVm3Caf6IQDEtgaWtn2ZxVjLpGVSVdypG/AvDRa2yXqlRDDphFHgZ6XW+CEc+o1kpyTg0d/U6qIh0WK/prx+69gFdTanUZ82INx5CtzsP3fq9NIrInLwkKGNncg=;rISm5j2Ywe7iWmieVMf29w=="
 ---

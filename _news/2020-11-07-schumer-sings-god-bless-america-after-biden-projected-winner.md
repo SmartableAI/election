@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/schumer-god-bless-america-biden-pro
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-god-bless-america-biden-projected-winner.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden urges Americans to wear masks: ‘Not a political statement’"
+    excerpt: "President-elect Joe Biden says that wearing a mask remains “the most potent weapon” against the coronavirus, and emphasizes that “a mask is not a political statement.”"
+    publishedDateTime: 2020-11-09T18:23:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnKPKSd6mzU/biden-urges-americans-masks-not-a-political-statement"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-americans-masks-not-a-political-statement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pelosi celebrates 'dawning of a new day of hope' after Joe Biden projected to win presidency"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., released a statement following Joe Biden’s projected win of the presidency celebrating the “dawning of a new day of hope for America.” "
     publishedDateTime: 2020-11-07T18:20:00Z

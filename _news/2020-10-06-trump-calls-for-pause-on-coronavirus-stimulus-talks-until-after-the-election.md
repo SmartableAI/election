@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-pause-on-coronaviru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp"
 type: article
 quality: 187
-heat: 1787
+heat: 1807
 published: true
 
 provider:
@@ -588,6 +588,22 @@ related:
     quality: 166
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39ae011e-03e1-4500-a867-de52aaf3767a/f25bec51-081f-49ff-a438-aa7e452b3fd0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "These Dems balked at a coronavirus vaccine under Trump. Will they change their tune now?"
+    excerpt: "When President Trump first told the American public that a coronavirus vaccine could come this year -- at the time he said possibly before Election Day -- Democrats including Vice President-elect Kamala Harris said they would not trust Trump as to any vaccine's safety."
+    publishedDateTime: 2020-11-09T20:01:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F4dtB1xwKqY/democrats-balked-at-coronavirus-vaccine-under-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/099faceb-1615-4e7b-afcb-a7c7202dec3f/2fc973bf-71b6-4759-b179-89f24a5ca219/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -257,6 +257,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ben Carson is the latest Trump official to test positive for coronavirus"
+    excerpt: "Housing and Urban Development Secretary Ben Carson tested positive for coronavirus Monday morning, his deputy chief of staff Coalter Baker confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-11-09T16:51:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BqbsqN5xwus/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/ben-carson-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/ben-carson-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190920135244-01-ben-carson-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here's who has tested positive and negative for Covid-19 in Trump's circle"
     excerpt: "A least 10 people in President Donald Trump's family, the US government and circle of advisers and recent contacts have recently tested positive for Covid-19.\n    \n"
     publishedDateTime: 2020-10-04T19:39:57Z
@@ -366,6 +382,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006160815-dept-of-labor-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump adviser overseeing campaign legal challenges gets coronavirus, sources say"
+    excerpt: "An adviser for President Donald Trump's campaign, David Bossie, has tested positive for coronavirus only days after he was tapped to oversee the campaign's legal challenges contesting the outcome of the election, two sources confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-11-09T20:43:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CQGxLG2oLGA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/david-bossie-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/david-bossie-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109150237-david-bossie-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -45,6 +45,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Under Trump asylum policy, hundreds of Cubans remain locked up in US detention centers"
+    excerpt: "Trump won Florida with help from Cuban Americans who liked his tough talk against socialism. But hundreds of Cuban migrants who fled communism are languishing in detention centers."
+    publishedDateTime: 2020-11-09T15:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/immigration/2020/11/09/under-trump-policy-100-s-cubans-who-fled-communism-remain-locked-up/6174737002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6174737002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174737002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Deutsche Bank plans to cut ties with Trump after the election and could seize his assets if he can't pay back his debts, Reuters reports"
     excerpt: "The German lender is seeking to dump millions of dollars of Trump debt and sees a Trump loss as its best exit strategy, officials told Reuters."
     publishedDateTime: 2020-11-03T20:12:00Z
@@ -58,6 +74,22 @@ related:
     quality: 107
     images:
       - url: "https://i.insider.com/5fa12e611df1d500182187c3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out"
+    excerpt: "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits."
+    publishedDateTime: 2020-11-09T15:56:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

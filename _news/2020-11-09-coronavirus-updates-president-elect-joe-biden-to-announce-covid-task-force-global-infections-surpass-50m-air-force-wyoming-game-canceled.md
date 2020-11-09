@@ -93,20 +93,6 @@ related:
         width: 1484
         height: 989
         isCached: true
-  - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
-    excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
-    publishedDateTime: 2020-11-04T22:17:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/04/2020-election-biden-calls-unity-votes-continue-counted/6166567002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b032550d-b933-4d85-b020-924b79592f45-VPC_ELECTION_DESK_THUMB.00_00_33_12.Still005.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "kVzYgCvgFwPW/LNibwf3GBVfzlbuUqlco772P+TSnqBwOQvbzBlrTzRU3bAn6JTmWmD4jKJmeMUAwmHIl53djGgFwhVXCk3oOB9UJYgFX/zEHjljH4Fv5CAnXEdwdrl/pJbM2YuHPABczs3NC1mk2JSgt3haimNA7Qkpv/TlpIN8g1OQpvZ/KYT5U96YHOKYHEmKFM11SZ6xXvueuxNr3hmUham7H1MmqFc5PK/Vqt8xS5RBvmMRetoJlJb7VRXn9r62UfwfeD9ZOgahc9D9rboCw3tFDKOWDyukThFgwotMt0MI2HnrzqkR93r6T1emXU39Zo8g8b/yL2b1qYdGyZK/cOz00UoOt470GkLTqNQsDdUzN6F6FYqD543KcpZYbPLRB+fIjv4IESVRs1dAR6F8KaF6tgPNYpi4dwxXo1Ham9Lh+ARLsSwXV6zK1qo8EVeIZ/PX41Ub2HcVrGoCsk0ryPqUwnDDrhPs2tbpvYOTuyVzq7bTJqESvDekg99w6SjzV7sD9w7fR8g1U0auGA==;s/YmxxizHrq1tth79QW5JA=="
 ---

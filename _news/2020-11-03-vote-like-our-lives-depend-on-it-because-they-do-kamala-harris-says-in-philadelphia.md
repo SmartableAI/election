@@ -80,6 +80,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "British politician slammed after calling Kamala Harris 'the Indian'"
+    excerpt: "A member of the Northern Ireland Assembly received heavy criticism on Monday for referring to United States Vice President-elect Kamala Harris as “the Indian” on Twitter. In his since-deleted tweet on Monday,"
+    publishedDateTime: 2020-11-09T19:30:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/british-politician-slammed-after-calling-kamala-harris-indian-n1247148"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247148"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247148"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427057/201109-kamala-harris-se-115p_098c1eeb5120d5f52c86b5f55ddad42e.jpg"
+        width: 2500
+        height: 1731
+        isCached: true
 
 secured: "YO+f9ZDkN+v+H/lQWPxEFeS3O9WhwTgQClQk91QshhjdnPc9bqojCBAyPBsPdmqgzQ8OVt2wPmfcSG74zSYDRHie3EN65s3sg20uclLZprbLwB+D9yXgI5GbxdUmsAIwHs7cQtzXaxf7SHp0MZ5QlideJLdrMoANm4hK6KvQCgoLN+xSE0s6hx15l7loCYqwo0cO83o/d5+N7yKUNxWG3jqHRilTB4kQ++wdT/yAW54wm59dR7KfFssZuIApbvXBJNleDi1RT25Hu3SwXCMY6mCwp5FSt2Rcn16OzIUdzgZij4dTI1SngmlWPz6tvUwJ51FrYPjtgkjQW3j5WPpT9P3pdSuOtt+6qPqFLUByhLAMPPcDsNSKhghaGGxUjNX1Gqsxrl8lpm78wnP/MsgaGRWV979zEe3pIE2vfk981rrPANNO5Sr/K/IHgZAhf7cCaJUdBYJGacHY4H81Gf5Anht4fcqVkGHLkbIoZWNrgaqHKE7YdAVJboVzup90HymIEf72Th1yn9ZISQkF0IujJg==;jZOI/9rrUHcqrCYRBYexjQ=="
 ---

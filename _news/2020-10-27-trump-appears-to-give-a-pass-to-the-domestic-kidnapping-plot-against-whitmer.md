@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-k
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-kidnapping-michigan/index.html"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
+    excerpt: "President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that he can't seem to shake.\n    \n"
+    publishedDateTime: 2020-10-29T01:47:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pme6VdvQOfg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What Trump Needs to Win: A Polling Error Much Bigger Than 2016’s"
     excerpt: "That’s a big “if.” The indelible memory of 2016’s polling misfire, when Donald J. Trump trailed in virtually every pre-election poll and yet swept the battleground states and won the Electoral College,"
     publishedDateTime: 2020-11-02T10:04:00Z

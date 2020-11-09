@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-india-village-pray-th
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
 type: article
 quality: 123
-heat: 283
+heat: 323
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 4000
         height: 2830
         isCached: true
+  - title: "Kamala Harris victory sparks celebration in south India for 'daughter of our village'"
+    excerpt: "Residents took to the streets in the vice president-elect’s ancestral village after hearing news of her victory."
+    publishedDateTime: 2020-11-09T16:18:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/525111-kamala-harris-victory-sparks-celebration-in"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/525111-kamala-harris-victory-sparks-celebration-in?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/525111-kamala-harris-victory-sparks-celebration-in?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_harrisindiacelebration_110920getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Kamala Harris makes history as the first ever female, Black, and Asian-American vice president-elect"
     excerpt: "Harris is no stranger to making history. She is the second ever Black female senator and was California's first female and Black attorney general."
     publishedDateTime: 2020-11-07T00:15:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://i.insider.com/5fa592a01df1d50018219563?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Kamala Harris’ sorority sisters speak out on her making history as 1st woman of color to be vice president"
+    excerpt: "As Kamala Harris prepares to make history as the first woman and woman of color to serve as vice president, her sorority sisters say they are not surprised that Harris is the woman shattering the nation's glass ceiling."
+    publishedDateTime: 2020-11-09T18:02:00Z
+    webUrl: "https://abcnews.go.com/GMA/News/kamala-harris-sorority-sisters-speak-making-history-1st/story?id=74103505&ref=upstract.com&curator=upstract.com"
+    ampWebUrl: "https://goodmorningamerica.com/amp/news/story/kamala-harris-sorority-sisters-speak-making-history-1st-74103505"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/news/story/kamala-harris-sorority-sisters-speak-making-history-1st-74103505"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 107
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-harris-06-rtr-jc-201107_1604799252174_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Kamala Harris' Indian ancestral village celebrates her victory as she becomes Vice President of the United States"
     excerpt: "Thulasendrapuram, population 350, was the Indian home of Harris' maternal grandfather, P.V. Gopalan."

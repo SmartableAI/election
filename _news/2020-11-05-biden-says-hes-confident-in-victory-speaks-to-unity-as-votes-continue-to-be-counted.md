@@ -29,83 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden"
-    excerpt: "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\""
-    publishedDateTime: 2020-11-08T17:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
+  - title: "Merkel after Biden victory: We must continue to work on ties with U.S."
+    excerpt: "German Chancellor Angela Merkel said on Monday that U.S. President-elect Joe Biden knew Germany well and added that it was crucial to keep working on the relationship between the United States and Germany."
+    publishedDateTime: 2020-11-09T15:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-merkel/merkel-after-biden-victory-we-must-continue-to-work-on-ties-with-u-s-idUSKBN27P10I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P10I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P10I"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540533714&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80KI"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Putin won't congratulate Biden before 'official results' and 'legal procedures' are completed"
-    excerpt: "A Putin spokesman said there was an \"absolutely obvious\" difference from 2016, when Putin congratulated Trump based on media projections."
-    publishedDateTime: 2020-11-09T14:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6218660002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6218660002"
+  - title: "Biden convenes U.S. pandemic task force, implores Americans to wear masks"
+    excerpt: "U.S. President-elect Joe Biden implored Americans on Monday to wear protective masks to combat the coronavirus pandemic, appealing to their patriotism, as he convened a task force to devise a blueprint for tackling the public health crisis."
+    publishedDateTime: 2020-11-09T19:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27P11Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P11Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P11Y"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
+      name: Reuters
+      domain: reuters.com
+    quality: 124
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/5811c7a4-3d17-4645-a9a8-35817e826495-AP_Russia_Putin.jpg?auto=webp&crop=2892,1627,x430,y876&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments"
-    excerpt: "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration."
-    publishedDateTime: 2020-11-08T16:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3748535001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
-    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
-    publishedDateTime: 2020-11-06T13:17:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
-        width: 1484
-        height: 989
-        isCached: true
-  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
-    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
-    publishedDateTime: 2020-11-09T09:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 91
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540574554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81DO"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "v6/VXU0jp230FmK3eUu8pnNZolj8muNkSnfssjKRHUR4akJfzEB6YjdWci5J4nqqUe7RexZadSJ/v45GK6igDI91V32y0bGy/IZr/iE+Ukq7pd9FpoYTx8F3wllD8EOKkRbqG3ZFWvzDGAXxXmWGAPje5Ih38nIDF2hgNYLWGF3cFjIw2DPITSDg3yZK+PVv+HMMaJCEIDA44bCChm0/A8vtQehSmBeEJz3vo8pMeB3tvcrVkwl5kk25yVFf7mXBN+1Jknj4fZ8nLM6fc6eKniTcGIs49IW8V7GPppafiXc6BthHLekNbcbpS6AfwjDihzSiHXQR5Ii7vWSYi+ywLrQmZESPJf/b20uzuA09WNw=;01pT73K883gxEHkkxm3xOw=="

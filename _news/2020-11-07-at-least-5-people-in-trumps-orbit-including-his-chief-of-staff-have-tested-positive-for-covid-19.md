@@ -1007,6 +1007,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's refusal to accept loss puts transition work on hold as inner circle remains split"
+    excerpt: "The business of transferring power between President Donald Trump and President-elect Joe Biden seemed on hold Monday as the incumbent plotted a messaging blitz to amplify his baseless claims of fraud even as his inner circle split over his ongoing refusal to accept the results of the 2020 election.\n"
+    publishedDateTime: 2020-11-09T15:59:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i7iZrLoE7JE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/donald-trump-election-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/donald-trump-election-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106155224-donald-trump-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden looks to seal election after Trump's week from hell"
     excerpt: "Joe Biden is on the campaign trail. Donald Trump is in the hospital. In a role reversal, the president who mocked his rival for being weak and hiding “in his basement” is stuck in isolation under doctors’ supervision while Biden jets off to states like Michigan on Friday and Florida on Monday,"
     publishedDateTime: 2020-10-03T23:40:00Z

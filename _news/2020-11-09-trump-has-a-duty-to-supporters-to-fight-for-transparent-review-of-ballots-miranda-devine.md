@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-09T15:12:40Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_8SzD0HMwc/trump-duty-supporters-transparent-review-ballot-counting-miranda-devine"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_8SzD0HMwc/trump-duty-supporters-transparent-review-ballot-counting-miranda-devine"
 type: article
+quality: 144
+heat: 144
+published: true
 
 provider:
   name: Fox News

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/immigrants-daca-biden-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/immigrants-daca-biden-trump/index.html"
 type: article
 quality: 163
-heat: 203
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Home vandalized after California man hangs effigy of Biden"
-    excerpt: "The Northern California home of a supporter of President Donald Trump was vandalized Friday after an effigy of Joe Biden accompanied by the word \"cheater\" was hung from its second-story roof with a rope,"
-    publishedDateTime: 2020-11-07T01:51:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/home-vandalized-after-california-man-hangs-effigy-biden-n1246876"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1246876"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246876"
+  - title: "The Point: The most important line in Joe Biden's victory speech"
+    excerpt: "On Saturday night, President-elect Joe Biden did something the man he will replace in the White House never did in four years: He reached out the people who didn't vote for him.\n    \n"
+    publishedDateTime: 2020-11-09T15:31:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QzrIeZh4OuA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/joe-biden-speech-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/joe-biden-speech-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109111248-primera-biden-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden gaining support from suburban counties in North Carolina"
+    excerpt: "NBC's Chuck Todd takes a look at how Joe Biden is receiving more support in suburban counties in North Carolina than Hillary Clinton or Barack Obama did in their presidential races."
+    publishedDateTime: 2020-11-04T02:10:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-gaining-support-from-suburban-counties-in-north-carolina-95273029806"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95273029806"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95273029806"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_45/3426637/201106-brentwood-home-damage-cover-inline-jm-1949_4010630804b95605f983e1db6345adb2.jpg"
-        width: 1245
-        height: 713
-        isCached: true
-  - title: "The view in Wisconsin: Biden holds a slim lead after nearly all votes are counted."
-    excerpt: "Wisconsin’s municipal clerks are nearly finished counting the state’s ballots, and former Vice President Joseph R. Biden Jr. has a lead of slightly more than 20,000 votes over President Trump, said Ann Jacobs,"
-    publishedDateTime: 2020-11-04T21:27:00Z
-    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 129
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/04/reader-center/04blog-wisco-graphic/04blog-wisco-graphic-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_mo_2020_ctodd_nc_suburbs_201103_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "2FBvX47AGM6Bo28TPDKQwCgTSJjbdMkKCCyUUDxy19KvD/IIymDZOeOvPOs+Qgsdyfp1z4gx0S0JYXlTLg0Sl3TeoEK+2kWxkvPuA1LxTKlmzuQ6zYoyXzgn56Gsd+c9twUNHrHCS2oIAijpwVEU8bIrKMIjJVWQ50fVldDUpJZMQzSkV0TYlrL2Hcood4JyO2xF0G44NrTzX6fOjyIdR7EWxmeCvOYxYEeKY84hNUHafwRuhosgR/bogD2XIDm6oqEwlx8jgAbjMtmFVxPmS3MjaCRqGZyKhhCNhSFxOOt8gmHYz86/PNn8VWPNLuRuKij9pkYoPfnIsYXXfKQie+wlVyKCxxfGRPg0/5BXjMk=;jIitoIJzXAST/H/WMtOGoA=="
