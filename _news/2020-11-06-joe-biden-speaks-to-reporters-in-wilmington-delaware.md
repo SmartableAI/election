@@ -44,9 +44,9 @@ related:
   - title: "Breakingviews - The Donald Trump show will continue broadcasting"
     excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
     publishedDateTime: 2020-11-09T16:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews/breakingviews-the-donald-trump-show-will-continue-broadcasting-idUSKBN27P1B8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P1B8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P1B8"
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews-idINKBN27P1B8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1B8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1B8"
     type: article
     provider:
       name: Reuters

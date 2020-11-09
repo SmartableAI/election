@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-biden-ad-world-series/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 455
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden campaign: Joe Biden 'not going to end fossil fuel industry'"
+    excerpt: "In an exclusive interview with Meet the Press, Kate Bedingfield, Biden Deputy Campaign Manager, says that former Vice President wants to end energy subsidies but doesn't want to see people lose their jobs."
+    publishedDateTime: 2020-10-25T14:02:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/biden-campaign-joe-biden-not-going-to-end-fossil-fuel-industry-94604869798"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94604869798"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94604869798"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/mtp_clip_bedsenergy_201025_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden makes late push to flip the Senate"
     excerpt: "The Democratic nominee is hitting Georgia and Iowa this week, while Jill Biden campaigned with the Democratic Senate candidate in Maine."
     publishedDateTime: 2020-10-28T20:10:00Z
@@ -190,6 +206,22 @@ related:
       - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_avi_biden_on_the_trail_201018_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "At End of Bitter Campaign, Joe Biden Anguishes Over ‘My Only Surviving Son’"
+    excerpt: "Hunter Biden’s business dealings have provided President Trump with plenty of political ammunition, while making an already complicated father-son relationship even more so."
+    publishedDateTime: 2020-10-30T22:37:00Z
+    webUrl: "https://www.nytimes.com/2020/10/30/us/hunter-biden-joe-biden-relationship.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/30/us/hunter-biden-joe-biden-relationship.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/30/us/hunter-biden-joe-biden-relationship.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/29/us/29dc-hunter5/29dc-hunter5-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Hey, SNL: Jim Carrey’s Joe Biden Just Isn’t Working"
     excerpt: "Bring back Jason Sudeikis already! Senior Entertainment Editor Some years back, Jim Carrey’s team reached out to me about placing an op-ed in The Daily Beast. The piece, written by Carrey, discussed the supposed dangers of vaccines,"

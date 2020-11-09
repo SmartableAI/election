@@ -2,27 +2,33 @@
 category: news
 title: "Corporate America says it is ready to work with Biden"
 excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
-publishedDateTime: 2020-11-09T18:53:00Z
-originalUrl: "https://www.businessinsider.com/corporate-america-says-it-is-ready-to-work-with-biden-2020-11"
-webUrl: "https://www.businessinsider.com/corporate-america-says-it-is-ready-to-work-with-biden-2020-11"
-ampWebUrl: "https://www.businessinsider.com/corporate-america-says-it-is-ready-to-work-with-biden-2020-11?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/corporate-america-says-it-is-ready-to-work-with-biden-2020-11?amp"
+publishedDateTime: 2020-11-09T21:36:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
+webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "America is changing. Joe Biden can help us through the transformation."
@@ -226,6 +232,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "qEJsLYcnymsspuSD2gVfMgsG8amHk+z7XUGv6G+W9KBUCOKP4UAMTBO7l96PnaBwWAF72kPRLm2I4yxAu46sXdhS0SEbfr1U7mAbJHgfIHbjyWU9YtniEAWGLsfMgQfiIjc2MMw5FQKH4JvajpM2NpO0m1UrDPsQMZLPz+uBW9bVhBgGegsfiaahb00s3oSiU7Afpf5W6cSDKuHRlyKmMm2/VjLoJ1WaG/lnJJYacHanxhyMlNDDPNN1xWSn9t7K5cgvS9nVBmEvTd7kmM7L20j5zb8KKULAUBmnvO8gM6aL4aZkwTgK3e1hGKjKBgZpY5BKZT5i1gKHnHEB2kPDA5b+Pu8ka1Q7V0eR2mYBcTE=;zvFBKnzIfeCoF/XEmXbQXw=="
+secured: "+oSiW5H4zbVorTX5MpuvP0lV/7tBnV/AJ3tOHjjDQOZCkPtoME8eLdsmmnYy10698TGE4M+F/nFeFUW8GsPTa+WeQfarRxy0CS66liU8gUvSqmBva8onTyLka6QN//5kdu3uZJ/lfQsaWEaW++VuCzCUQ/hqfwbFBcKZ8B1j09acmIvKlUCczhFZiex0S2QRI9NC/3lr157TkZEVovjR50qWnnS65W5grfqo5QGg3mivRIeqyXFHGGpxOfS/A64gt9kgBbxeYisEzSWjfgZAATKjtLyzRF85Ff8ZM1XWm0f/Uu2I7q7zCni8+jdP6516zUQ8fJgtfs48clb5v2rIEKJWgsS1TN7lEVZAVQ0b1Pw=;pN04YGpPK4KGVaB30xI2Wg=="
 ---
 

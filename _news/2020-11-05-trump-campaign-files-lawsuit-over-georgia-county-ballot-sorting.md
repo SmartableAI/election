@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why Donald Trump isn't Al Gore: How 2020 legal challenges to the election differ from 2000"
+    excerpt: "What happened two decades ago in Florida in the race between George Bush and Al Gore is far from what's happening in 2020, legal experts say."
+    publishedDateTime: 2020-11-09T21:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/trump-isnt-gore-how-2020-s-legal-challenges-arent-same-2000/6220157002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6220157002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6220157002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/06/USAT/70f0e7f9-61dc-4394-8651-951317877fe5-bush_gore.JPG?auto=webp&crop=1991,1120,x0,y10&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump campaign loses lawsuit seeking to halt Michigan vote count"
     excerpt: "A judge in Michigan on Thursday tossed out a lawsuit brought by U.S. President Donald Trump's campaign in hopes of halting vote-counting in the battleground state."
     publishedDateTime: 2020-11-06T07:40:00Z

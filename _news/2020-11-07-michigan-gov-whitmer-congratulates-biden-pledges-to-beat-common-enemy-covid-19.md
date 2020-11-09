@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "DC mayor disregarded own COVID restrictions to attend Biden victory speech, defends 'essential travel'"
+    excerpt: "Despite Delaware being on District of Columbia Mayor Muriel Bower’s list of high-risk states, the mayor and her staff attended President-elect Joe Biden’s victory speech in Delaware Saturday, reportedly defending the trip as “essential travel.”"
+    publishedDateTime: 2020-11-09T22:51:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E8eDQ7EKVHE/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309671612203.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "hJZ38GidZApb5fIZy8vJk9/SR3J/cRETfn1cLtDbC3s06LKFnT0TQb12xXHnuhZze9ez7GkxL/AJyYXwEgWWyLDTkZKqEyYPcFzdtE7A8NFzJfrdWpgjEglKAiuegNZgZdOZ84S5sIJXj/770YrX5WVOcMVy6Es5eWllUsbHxjZjZ/YzOp8GUFQraw+ANwqH10hBLLOAQBMHtjJP+wOugbqSFri3GkLwGBRLu6Hwaz8ZffUGj1s/B7BVHPECkIFcHWG6tww6PgGcbSgcMpDQK9EMzsbB9emufRbiWxfnxziqDcayR+TM4oeVa0cpEIQP59n5LRcf6WxjoeW1RsYtM76UMAAHquIsSLIjYC6uPn0=;SHWRpFYC6aSW3uUyxTHAaw=="
 ---

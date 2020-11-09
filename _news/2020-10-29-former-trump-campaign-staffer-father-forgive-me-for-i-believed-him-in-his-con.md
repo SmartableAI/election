@@ -58,22 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ice Cube lashes out at 'SNL' for implying he's voting for Trump out of 'greed'"
-    excerpt: "Ice Cube lashed out at “Saturday Night Live” for mocking him during its Halloween episode cold open about working with Donald Trump."
-    publishedDateTime: 2020-11-03T20:20:00Z
-    webUrl: "https://www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce"
-    ampWebUrl: "https://www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ice-Cube1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "xlZo6W84sba8cTho0M7NYY5NrsmIMWCM916G7y/WPyPBs1gP6phOpNVyM2kKAOYBNGYpK4iaiI86/HivVNW5bSnUhxoMiPhfPtDVkOMlqSBv5ZdLZ0YjAJnW1He5/t8hHxMPwVA9L815JY0iIi5jLRA76IzfJpyUl6gHWqZX/9jCdehldKn1AQ3KnQEpbwNubghIXu2bKxO6k0MdDe4+0wa04tMAloCQrRAcKKTdhxn/IVOLCZZ8PNbZfFBy6N9+yL2T7s3jGkcEfCIltOk5UDiH2xGDSJz2xr/sKzAz+NTyIvEIr98gOZ4nRmmNVCWP4pSKVnDK2qcOPPrwQVr8vKHWpoJ1hVmoMj6jFye2sMg=;ABUCucG6vb/fVvrpvJzvQA=="
 ---

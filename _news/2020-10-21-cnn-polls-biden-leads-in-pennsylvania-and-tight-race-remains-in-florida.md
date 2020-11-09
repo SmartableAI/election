@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html"
 type: article
 quality: 174
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bulldozer thief drove through Florida town digging up Biden-Harris campaign signs"
+    excerpt: "James Blight was arrested in Haines City, Florida for allegedly stealing a bulldozer to dig up and vandalize the homes of people displaying Joe Biden signs."
+    publishedDateTime: 2020-10-26T14:38:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/bulldozer-thief-drove-through-florida-town-digging-biden-harris-campaign-n1244750"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244750"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244750"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 155
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3422981/201026-bulldozer-haines-city-cover-jm-0928_7573f2356a341e72152ac7388e223e38.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden appeals to sought-after Pennsylvania voters with 10 days to go"
     excerpt: "In an effort to win over the working-class voters in Pennsylvania who voted for Trump in 2016, Joe Biden assured the crowd on Saturday that he is going to protect Pennsylvania jobs, including fracking."
     publishedDateTime: 2020-10-25T02:49:00Z

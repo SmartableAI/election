@@ -60,6 +60,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris Shuts Down ‘Childish’ Men Who Mispronounce Her Name"
+    excerpt: "Why does it seem like it becomes harder to pronounce your name the more conservative a person is?” “Daily Show” host Trevor Noah asked the vice presidential candidate."
+    publishedDateTime: 2020-10-30T06:27:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-shuts-down-childish-men-who-mispronounce-her-name"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "k9YVTOr38Hodv5ZkXQdcgdbMZuQ6iLQLfhZF8qO4R0UvaKSEX6vUwI3dmHwilfoHPPCYQsBl8tWCzSWRee5tO5OC/putrrMDkf+y+DO1jYp/rVaKTukBLTFg3D3MO44z9y26gCOfSnQq9zZt7p/HThSIEFAysk1to/Gd8D7aROxI7pU6y6xyGvCywrpnwXXoVYAuX5EJjKGCDtkn+ACofzR16fwpL30zWumpyhgfdJPDHzYvnyRGNIcOJNv6aFSVYhic/qV7aWBiGYTRIbXib0BxAteCNv9jDYPnT3Sv+Yu/6WVpn1D/fXlW6Nq3sWLbi3F+j7TotGszgm4KBenpLby8j3XvXsihfmey3WvgFQiyl1wyLfAIFwdCC3z6YOuKp4XwvF8EpMuOPCiEyliHM9/SI3WnwB66Jjx4wUO5jXI7kOSoe0ApeRQposQnhQYJl5vrZJc9ig5E0Foj0Qr7nV29GRr4PbdLxxtePwWg8m4vWoiEYaVJgEd2CZ0O6Otqj23VoukRnqNaLhRWjuiQTQ==;xWhsXUGhwPxHdn8QqcvVsQ=="
 ---

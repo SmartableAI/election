@@ -63,21 +63,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump fires Secretary of Defense Mark Esper"
-    excerpt: "President Trump on Monday said he fired Secretary of Defense Mark Esper."
-    publishedDateTime: 2020-11-09T18:03:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t0vR5l4Auu4/trump-fires-secretary-of-defense-mark-esper"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-fires-secretary-of-defense-mark-esper.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fires-secretary-of-defense-mark-esper.amp"
+  - title: "Nevada county judge keeps some polls open later after Trump campaign sues"
+    excerpt: "Some polling locations in Nevada’s Clark County will stay open until 8 p.m. after a GOP lawsuit. "
+    publishedDateTime: 2020-11-04T02:30:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjnqvgkV8MI/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues"
+    ampWebUrl: "https://www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/New-york-voting-2020-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump announces day of remembrance for Americans killed by illegal immigrants"
     excerpt: "President Trump on Friday declared Nov. 1 a day of remembrance for Americans killed by illegal immigrants -- seeking to highlight his policies curbing illegal immigration in the last days of his reelection campaign."

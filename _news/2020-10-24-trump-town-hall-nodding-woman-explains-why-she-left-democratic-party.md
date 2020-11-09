@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Ice Cube lashes out at 'SNL' for implying he's voting for Trump out of 'greed'"
-    excerpt: "Ice Cube lashed out at “Saturday Night Live” for mocking him during its Halloween episode cold open about working with Donald Trump."
-    publishedDateTime: 2020-11-03T20:20:00Z
-    webUrl: "https://www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce"
-    ampWebUrl: "https://www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ice-Cube1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Former Trump Campaign Staffer: \"Father, Forgive Me\" For I Believed Him In His Con"
     excerpt: "Former Trump campaign official Jessica Denson is now backing former Vice President Joe Biden for president, calling the Trump campaign a \"vile, self-serving branding exercise\" for Trump and his family."
     publishedDateTime: 2020-10-29T11:42:00Z

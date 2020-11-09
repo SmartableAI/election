@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/a-presidential-inauguration-amid-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "DC mayor disregarded own COVID restrictions to attend Biden victory speech, defends 'essential travel'"
+    excerpt: "Despite Delaware being on District of Columbia Mayor Muriel Bower’s list of high-risk states, the mayor and her staff attended President-elect Joe Biden’s victory speech in Delaware Saturday, reportedly defending the trip as “essential travel.”"
+    publishedDateTime: 2020-11-09T22:51:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E8eDQ7EKVHE/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309671612203.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "MLRswtehpNUIL1oOlfQfEwWNoQRrqDkiKMYp2B+umGtFbfTAhiIlV73N3q1DMAiYaX4Vp3Tldw1P/zsYZg+8qNR401v4z8+N9YKX/Nql4QpwG8navbsWv+S1neh/fQXbjP1f4NgYX/VQs1tCys4Yf9WABK1x1TeKRZR0FlBg1ZARrL6UrtPFZh276ZsePEyilCsFSl9bmL4694NZWJubR5CS7JP3BbHzeRxZBgxBPRezy2wP/IiIyz5ERFyLwt9ah8F2cjx5oonJJAM0FkclxwTszE4w6/+XRIwsrVeP6vSnvmqjmIomYzy26V2cBTcYcmYwOJGL5eqqqbFxxem1nKzwFdL4ipesmqdJ1AyThnY=;9Y9KeQInaB7eDS9x7COyGw=="

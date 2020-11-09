@@ -62,6 +62,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Most Democrats are Scared to Say So, but Joe Biden Is Poised for a Landslide Win"
+    excerpt: "Democrats were in denial about their Hillary Clinton’s weaknesses. Now, they’re afraid to acknowledge Biden’s strengths."
+    publishedDateTime: 2020-10-28T12:55:00Z
+    webUrl: "https://www.thedailybeast.com/most-democrats-are-scared-to-say-so-but-joe-biden-is-poised-for-a-landslide-win"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 40
 
 secured: "Aew+gTmGL367eROQlu9K9V8k8dQhft19BAHp4G2Dw6EM6ms49DrqHAzncQZ/Z85DjJuvB7iHZFqUW1mkQtG2BaykQZGJIr/b0DaulAvTjL6dQatgLw5Q3kxL9sfkPgPum8gGJg9caAUxK3dXJ5woMU/gyZUV5xmWBviQBGQlQaxu0MPAjA7FuQmbSZypBBdmGnEXSqBoWBT1LWBQOmf98jkQmDOM70b1kba7rhE35Wzr9i82uwTbYgILc1iUs20qZj4Nm43K74h68hmf/icBOxy9naIffojxwhN1sOZWPm6VUGHl5XH6Qu1lq88MzkSrSsIekg4R0+cNWSWGryB8SZlRlsev3aAJP/8Wz5cNJyM=;wzI1R/Fb5CcoxOSiNCjcDg=="
 ---

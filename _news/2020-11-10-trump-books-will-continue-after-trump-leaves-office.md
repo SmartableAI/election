@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Trump books will continue after Trump leaves office"
-excerpt: "One of publishing’s most thriving genres of the past four years, books about President Donald Trump, is not going to end when he leaves office. In 2021 and beyond, Works already planned include the anti-Trump “Preventable: The Inside Story of How Leadership Failures,"
-publishedDateTime: 2020-11-09T20:02:00Z
-originalUrl: "https://www.washingtonpost.com/health/trump-books-will-continue-after-trump-leaves-office/2020/11/09/7f852f50-22c6-11eb-9c4a-0dc6242c4814_story.html"
-webUrl: "https://www.washingtonpost.com/health/trump-books-will-continue-after-trump-leaves-office/2020/11/09/7f852f50-22c6-11eb-9c4a-0dc6242c4814_story.html"
-ampWebUrl: "https://www.washingtonpost.com/health/trump-books-will-continue-after-trump-leaves-office/2020/11/09/7f852f50-22c6-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-books-will-continue-after-trump-leaves-office/2020/11/09/7f852f50-22c6-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+excerpt: "One of publishing's most thriving genres of the past four years, books about President Donald Trump, is not going to end when he leaves office."
+publishedDateTime: 2020-11-09T22:25:00Z
+originalUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11"
+webUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11"
+ampWebUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Trump 'army' of poll watchers led by veteran of fraud claims"
@@ -103,6 +97,6 @@ related:
       domain: usnews.com
     quality: 48
 
-secured: "DW2XqzjPn5G5k5IX3pKl4QZl2iUlKYfhUNnzOUBL8Ou6UHFlQmAdwNOv5jQPqtVLiZn4EFrWn8CWpAw2XACdl58/BkXtb9OcMhTehI7vU1TS76VQpCRyu5b3uS6T+eiOfUJZY9UwWU1od1dwXJApdWtJFxdaPcxnsfOuoe19WTdb04GD+taBjiqRbEPKTehLXJDj8VQvReWrnSbLooQigw1ZrtQyHZ0uzx/yHKQL8oSXSJQ1YYAYtSi264w7NnhM6DS0GRQhUM2YcAR3/7qpjdht/JjcGSFKomQD7TyGGHK/2tUeM7o/CCRZqrrdbXBkSC3BlexRvQyE6Uycne012aBoaq1A0ww3+dOcZgFIZj8=;fskyMxhTu9QwyFxVdbloNw=="
+secured: "Fxs9kCtz0VX9O/nlI2epPt0eAZiic/LQcbFbYcnD1szasJb/ftydgAjiquVgmpn95F8MqD2z8rV4y+lMOWZWeSW64ltJQf8c2R5CupO9UTSUYOf/LKoTJ+wZ136+qZWblCJsGoTFFi/6UaZrrmsxMRt2Ohn82Me6UZ6sHMMPYdptqzhy7YR2CKAaAudD5JUgiILB5/KqOvLXVa7KovO+1iJYW7C6OC8TGx7M7+SAm9tUxsldJRpQ4UObrg5LiYiV9ap4RtOjkm00yJpGCOxcFYSfjRxISx6+DXz2op5of6arfdHYAIuTSQSr6YDi9c8iRrivKfMum9V8cIkuaKaYnbSaUC8F9iB2IpGYG5zY+0M=;Fx9E3R/zYa5Iv6MGp4rX6w=="
 ---
 

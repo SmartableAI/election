@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-08-mike-pence-does-not-seem-prepared-to-save-the-republic-should-he-be-called-upon-to-do-so.md",
+      "title": "Mike Pence does not seem prepared to save the republic, should he be called upon to do so",
+      "excerpt": "Like his boss, Pence says that only a 'fair' election will be acceptable — and then claims it may not be fair.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HS6KQBAJEMI6XBYZBXYVTUKHSQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/?outputType=amp",
+      "publishedDateTime": "2020-10-08T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-pence-does-his-best-but-harris-wont-let-him-explain-away-trumps-failures.md",
       "title": "Pence does his best but Harris won't let him explain away Trump's failures",
       "excerpt": "Vice President Mike Pence tried his best on Wednesday to recast the reality of Donald Trump's presidency, but Sen. Kamala Harris, the Democratic pick for his job, refused to let him spin away the nation's current dire plight during their single debate.\n    \n",

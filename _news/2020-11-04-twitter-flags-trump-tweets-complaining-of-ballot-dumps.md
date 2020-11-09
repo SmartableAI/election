@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-misleading-ballot-dumps-twitt
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp"
 type: article
 quality: 175
-heat: 275
+heat: 315
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign ballot counting lawsuits: What to know"
+    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
+    publishedDateTime: 2020-11-06T00:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump claims he lost lead in several states due to ‘ballot dumps’"
     excerpt: "President Trump on Wednesday claimed that “ballot dumps” were tallied in some Democrat-run states costing him his advantage over Joe Biden. “Last night I was leading, often"
     publishedDateTime: 2020-11-04T16:02:00Z
@@ -110,6 +124,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-ballot-dumps.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Campaign's Lawsuit in Michigan Seeks to Halt Counting of Absentee Ballots"
+    excerpt: "The Trump campaign filed a lawsuit Wednesday in Michigan’s court of claims seeking to halt the counting of absentee ballots, alleging that state counting boards were violating state law by counting absentee ballots without election inspectors present from both parties."
+    publishedDateTime: 2020-11-04T22:49:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/Fbw6qWaPRwgqzRfWHC2r"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 111
+    images:
+      - url: "https://images.wsj.net/im-255152?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "r99X0LCVvPflCYU1s4o1aBDWgxHI7WYcNpuLK+9AZPAtkmHH89YCsDNZgauHYxalBrN7xfEQSrnGXRjutgcPc2bCVHRRipboffyzGuY7C8nq1C5F7W+M02sRmHqwHiZv9IHwf2fiorBmqDDg3DG+39KVFa6qIWEF5+DJMakUqhugaaDyVilLRpadAGd+hucbnw2ai6KkIUHB/gpAZpPxNUF8PgYuY7UAc/UikzkGa2SNpQJAiWfCsIemcnEtGoPu5FOqT0Yf+dGOALl+mp1Q2gJCv3Q01zEqq4p9Bjvg1/JY7p3Fb9OvtGXwkZSyFAWZM7t+6RkOiJ4Pdnt0QEBQttjI0l7lpaEKFvbgLKbyi8U=;mUoS+DoIYtDQRwrWPsfuLg=="

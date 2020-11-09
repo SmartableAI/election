@@ -3,10 +3,10 @@ category: news
 title: "Breakingviews - The Donald Trump show will continue broadcasting"
 excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
 publishedDateTime: 2020-11-09T16:32:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews/breakingviews-the-donald-trump-show-will-continue-broadcasting-idUSKBN27P1B8"
-webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews/breakingviews-the-donald-trump-show-will-continue-broadcasting-idUSKBN27P1B8"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P1B8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P1B8"
+originalUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews-idINKBN27P1B8"
+webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews-idINKBN27P1B8"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1B8"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1B8"
 type: article
 quality: 125
 heat: -1
@@ -78,6 +78,6 @@ related:
         height: 485
         isCached: true
 
-secured: "8h//P2mgCSz5/ZheOQ/s1YB3/8mdMgcjDGJ89YP5/nwLduZXkLgYU78N0y4td0v4852QWn7h9VTve66o+ENg21p9g7NWnoaY+ZI/2xIiIXg7xZm+/rjOjvtAlgZLM+qonS0lEHa8yS+1TOqzwb8eo16zc3Qi46EHkTiJNnhh3Z4c3A6qMIC3AWGQKCoz7U5zX9mwU2Q8EWXIC/5a2xhjxQkJQKa9GW0Jn2sefY8luqsXbudJEq4U7AbkmAtNIRFHCnV+2b6kUr6kbebQvRnXCRd0p+2Wdevwuv8jOCNQ6u/GNXp8ZDnQXBCYvtQpBEtL3YOshC7styUwon1dW+lPoo1zU8thgCDYoJkqO5ixBzU=;NAu5h5cWRThibBnsCd9bwQ=="
+secured: "I1aE53ySnJAtGbVGhTtVLGUBO9vw4M3bcnYrycl6BM81N5g/BFiXbPXCjBd2suRiDDfLP3wOLhWrfQzxRpRRHczX3BAlFWxKbzWvZ/EIpsKvf+ZjmTxm4CZdStwZWGH3q1dvAOxpKmxyOIKHpxnvV4eQQ8jZ6tQoGyBCS1g16ZgjhJBndU+YoBRTCQPP9OBEynfyCY0tX1OmkccTTZF+X2kP0mqrZjbQWosTitKjsH90++gtSjIpUQyzZn4tgR/vfb46U8O9sXXZQPNnq0lG4dBKoBL2IiiDWmGD2sPOO3wVO9tfC8/ndwyDZsTNyPeuALr6FP7NI0Q+hLIazzt2RQxEwJ306gaVgXDT4U0CjTs=;n9H8NVUuCR0QAFPWYm4cCg=="
 ---
 

@@ -1562,6 +1562,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump campaign sues over Pennsylvania mail-in voting system"
+    excerpt: "U.S. President Donald Trump's campaign on Monday filed a lawsuit alleging Pennsylvania's mail-in voting system \"lacked all of the hallmarks of transparency and verifiability that were present for in-person voters."
+    publishedDateTime: 2020-11-09T22:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-lawsuit-idUSKBN27P30F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P30F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P30F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540611228&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81VU"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Fact-checking claims on COVID-19 shutdowns, Trump’s taxes, Hunter Biden and more from the final debate"
     excerpt: "President Donald Trump’s first line of the night, about COVID-19 deaths, was false and set the tone as he and Democratic rival Joe Biden unleashed a torrent of claims in their last presidential debate."
     publishedDateTime: 2020-10-22T19:50:00Z

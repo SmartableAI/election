@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Federal judge dismisses Trump request to stop counting Philadelphia ballots"
+    excerpt: "A federal judge reportedly dismissed an emergency injunction brought by the Trump campaign Thursday afternoon to stop the counting of votes in Philadelphia, claiming election workers were ignoring an earlier court ruling over election observers."
+    publishedDateTime: 2020-11-06T10:05:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsjtNI2ijS8/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310851009982.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Judge rules for Trump campaign, granting rep better view of Philadelphia vote count"
     excerpt: "A Pennsylvania appellate court handed the Trump campaign a victory Thursday by allowing it to have its representative as close as six feet away from the vote-counting process that is underway at the Philadelphia Convention Center."
     publishedDateTime: 2020-11-05T16:42:48Z

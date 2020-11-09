@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-judge-rules-for-trump-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-judge-rules-for-trump-campaign-philadelphia-vote-count.amp"
 type: article
 quality: 169
-heat: 209
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Federal judge dismisses Trump request to stop counting Philadelphia ballots"
+    excerpt: "A federal judge reportedly dismissed an emergency injunction brought by the Trump campaign Thursday afternoon to stop the counting of votes in Philadelphia, claiming election workers were ignoring an earlier court ruling over election observers."
+    publishedDateTime: 2020-11-06T10:05:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsjtNI2ijS8/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310851009982.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump's Pennsylvania lead dwindles as legal fight heats up over Philadelphia poll watchers"
     excerpt: "President Trump's lead over Joe Biden in Pennsylvania was shrinking Thursday, as state election workers continued to count mail-in ballots."
     publishedDateTime: 2020-11-05T20:47:11Z

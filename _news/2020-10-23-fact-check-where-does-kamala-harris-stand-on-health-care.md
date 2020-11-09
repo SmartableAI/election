@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244210"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210"
 type: article
 quality: 135
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Kamala Harris Shuts Down ‘Childish’ Men Who Mispronounce Her Name"
+    excerpt: "Why does it seem like it becomes harder to pronounce your name the more conservative a person is?” “Daily Show” host Trevor Noah asked the vice presidential candidate."
+    publishedDateTime: 2020-10-30T06:27:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-shuts-down-childish-men-who-mispronounce-her-name"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "lljD7V1uA1XheMkk7uIVUbkUCf5CHtGbQvQaJCCq08O5vbab97nUDeVPdFs7v4nIB6fycCGImyqAF6uZfVmoUZUK3aZmBsqlNH55ovgmL9knbMiIwSvZFBAcRkGE1KCJoSey0ZX5C2aWUJKLwhz3OmQu2NBAS4qjh5KNxwF57WRJ+EwUq/oCMiSaUKVL3wHPl1bJF0djTau5i7v8R8xJ1F21dhtARFgM7ns0yXMA9+QdbhEwHtCP1J2DNFIBrq9ZtgHLY/ho8v/k/BfT+auZWgp0+vcCHVjzAD5UyfndP3J+8349aHG1VWRhLEdSjsRHVlMsDf3y1NoeUti3Qi4dW0lDenf00VIzj1kbV0C+NJuSAzRJwRUchTzSBFaRZqy4cVnPGFonxuxXbgtLJw/ez3i1zx9wvvxnXatRBb9aBosyZDFkpJDmFfiN0MjSQb20xeXcawgW9TMqGZVBkX0XNGT9YqcLX7U2l5gvn8QzwfwdGhayjObyVzMTZ2XE7ufDTXgv8eweMEWgSy03MddHxg==;KuQPr9VTfLlBSULqu4oqQg=="
 ---

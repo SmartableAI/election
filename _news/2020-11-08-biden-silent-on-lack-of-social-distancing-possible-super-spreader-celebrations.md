@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "De Blasio dismisses coronavirus risks during Biden victory celebrations, contrary to CDC guidelines"
+    excerpt: "New York City Mayor Bill De Blasio on Monday appeared to brush off concerns that weekend celebrations over Joe Biden’s presidential victory could contribute to the further spread of the coronavirus."
+    publishedDateTime: 2020-11-09T21:53:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0P3NXwKIs/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines"
+    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "u+Z5ns3XHSg0eUDBwqLzkniuXLSplLTkgTa8LueNec1eEP3enHyiJxrcvyFny22+W/yOu8orwWNYvSlvbWD+Bm9SSxGqlxWpazcp91rrCeIzPk0MYM3MAJelQ+rhFq4+BoRObdZhq4gUVLZyl8qHxC2O/EuKxu6C0PKqKlg4JNITay4diIivpdBPuAbCrgcMloFd0fNdlvtQK647oqrQ7R9vzo3+UNdjFPL7AJG0qfD//e4kH7jawuuHfUaEZDcMUgqBDm1KB0pof045kp038x434JyxD16rZmC2GbbBB8uDG2QrhNkn5Aj2izE+9wn1k/h3RgmaLybDA/MVB1yqNUEg15VpF1zguuAmWJbSm0c=;0/x0IQyoaFnWQaJ8SvNYtw=="
 ---

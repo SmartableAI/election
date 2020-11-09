@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245244"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245244"
 type: article
 quality: 135
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Most Democrats are Scared to Say So, but Joe Biden Is Poised for a Landslide Win"
+    excerpt: "Democrats were in denial about their Hillary Clinton’s weaknesses. Now, they’re afraid to acknowledge Biden’s strengths."
+    publishedDateTime: 2020-10-28T12:55:00Z
+    webUrl: "https://www.thedailybeast.com/most-democrats-are-scared-to-say-so-but-joe-biden-is-poised-for-a-landslide-win"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 40
 
 secured: "xNFJCKUI8v82CC00sUNs6DJvWgjY66crULodOp4SDTtoz0nIaci7LoO12P+5tB0vudFeozaMlCjyKlh8KD6sitjWyUfyDXe7YRUdqgLLZhAzo5Cfa4Vdj91MXVoje+a3/o76u4do0W7QdXATOqOfqB63kAJruk+e7p1GomHnfQLDL7+fb/r7SQS3a7poFQ3xPM23q5LawdgxM6e2WOCgSULNQZWYCnes/TYgFfj6VOpYuZ7ZhOWcsjsk0ywiaAvyFbY6WvRYkvz2E2naIHwrGL6ZtPGtpp4LYgRlEi776QsgvDtIt/B22J8lb6GcJ4IX1CPZqEP0ibGm71PAn50sxaV8OlSZEIqXIcVeHc8CLnkNBlEhTx2DpsoS1Qr9lz47F9LSCICcjO8SxDQmX67zIC690HoAjJF194K5K8EJEzP74/0YFDmYk2i/8oBo2+/yvDYryKAk2WhjDchg5mLQYCRDQyPw4H4bID9N+ii6O+E0aa9Z43vQN7X4FNHmDqG3Vy/FdrjqZJPO8fieRwfAjg==;kZuCwDOnhZBIzV3QeRpBmQ=="
 ---

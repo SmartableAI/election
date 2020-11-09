@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "McConnell backs Trump legal fight in election results"
+    excerpt: "The Trump campaign has mounted legal challenges and alleged voting irregularities or outright fraud in several states."
+    publishedDateTime: 2020-11-09T21:47:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eq3rdDcR1No/mcconnell-trump-legal-fight-election-voter-fraud-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6057d5f-dd82-42f4-8fe6-9d5d8da50365/fd86e58d-8190-42a5-98f1-d3e7f3fdd002/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "McCarthy expects four more years for Trump after 'a very strong' election night"
+    excerpt: "House Minority Leader Rep. Kevin McCarthy, R-Calif., praised the work President Trump has done for the country and the Republican party, and predicted that after the final vote counts are complete the president will be reelected."
+    publishedDateTime: 2020-11-04T18:52:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GjTHXjzI8tA/mccarthy-expects-four-more-years-for-trump-election"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-expects-four-more-years-for-trump-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-expects-four-more-years-for-trump-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nevada election worker alleges voting irregularities, Trump campaign submits affidavit to DOJ"
     excerpt: "The election worker, whose name was redacted, said they “had concerns over election polling place and intimation and voter fraud.\""
     publishedDateTime: 2020-11-09T15:35:41Z
@@ -63,83 +95,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign claims historic GOP turnout in Florida"
-    excerpt: "The Trump campaign on Tuesday claimed historic Republican turnout in Florida, touting their ground game—specifically their efforts in Black and Hispanic communities—and saying the race in the Sunshine State is in “nearly a dead heat.”"
-    publishedDateTime: 2020-11-03T23:59:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPx0z_M4kUs/trump-campaign-claims-historic-gop-turnout-in-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
+  - title: "Giuliani says Trump won't concede amid legal challenges"
+    excerpt: "President Trump wouldn’t concede the election at this point and the race is “far from over,” Rudy Guiliani said Saturday at a news conference in Philadelphia."
+    publishedDateTime: 2020-11-08T10:59:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScCCiaiEkaA/giuliani-says-trump-wont-concede-amid-legal-cahllenges"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-says-trump-wont-concede-amid-legal-cahllenges.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "If Trump loses, he will regret 'denigrating mail-in voting': York"
-    excerpt: "If President Trump loses the election to Joe Biden as current vote tallies indicate, he could regret warning against mail-in voting, Fox News contributor Byron York argued Friday."
-    publishedDateTime: 2020-11-06T16:25:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york"
-    ampWebUrl: "https://www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Nevada county judge keeps some polls open later after Trump campaign sues"
-    excerpt: "Some polling locations in Nevada’s Clark County will stay open until 8 p.m. after a GOP lawsuit. "
-    publishedDateTime: 2020-11-04T02:30:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjnqvgkV8MI/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues"
-    ampWebUrl: "https://www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/New-york-voting-2020-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Federal judge dismisses Trump request to stop counting Philadelphia ballots"
-    excerpt: "A federal judge reportedly dismissed an emergency injunction brought by the Trump campaign Thursday afternoon to stop the counting of votes in Philadelphia, claiming election workers were ignoring an earlier court ruling over election observers."
-    publishedDateTime: 2020-11-06T10:05:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsjtNI2ijS8/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots"
-    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310851009982.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump campaign, GOP to appeal to Nevada Supreme Court to halt Vegas-area mail-in ballot count"
-    excerpt: "LAS VEGAS (AP) — President Donald Trump’s re-election campaign and Nevada Republicans filed notice Monday that they’ll ask the state Supreme Court to stop the count of mail-in ballots in Clark County, the state’s most populous and Democratic-leaning county, including Las Vegas."
-    publishedDateTime: 2020-11-03T15:32:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ob-d5Z_sbHI/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20305794561511-e1604416769499.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312640775001.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -159,112 +127,29 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump campaign holds protest in Las Vegas to decry irregularities, claim ‘dead people,’ non-Nevadans voted"
-    excerpt: "The Trump campaign held a Sunday afternoon press conference outside the Clark County Elections Department in Las Vegas to denounce alleged irregularities in last week’s election.  "
-    publishedDateTime: 2020-11-09T01:05:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzj9joR7Go8/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313858920634.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump campaign ballot counting lawsuits: What to know"
-    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
-    publishedDateTime: 2020-11-06T00:00:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Melania Trump votes in Florida wearing Gucci dress, no mask"
-    excerpt: "First Lady Melania Trump was dressed to the nines while voting in person on Election Day, wearing an equestrian-print white dress among other high-fashion accessories. Trump cast her ballot at a voting center in Palm Beach,"
-    publishedDateTime: 2020-11-03T20:23:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci"
-    ampWebUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Melania-Trump-Getty-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "John Leguizamo bashes Florida 'lemmings' after the state was called for Donald Trump in the 2020 election"
-    excerpt: "John Leguizamo bashed Floridians after the state was called for Donald Trump in the 2020 presidential election."
-    publishedDateTime: 2020-11-05T13:28:00Z
-    webUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election"
-    ampWebUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/John-Leguizamo.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "CNN's Don Lemon hits network for airing Trump's 'propaganda' visit to RNC office"
-    excerpt: "CNN anchor Don Lemon questioned the judgment of his own network Tuesday after it broadcast remarks President Trump made during his visit to a Republican National Committee office."
-    publishedDateTime: 2020-11-03T22:17:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81df12e9-89a4-4281-90fe-5e64638e305c/ebed9e3f-ad42-4ef4-847c-2443a3c03962/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Campaign Says It Plans Another Lawsuit Over Ballots, This One in Nevada"
-    excerpt: "President Trump's campaign said it plans to file a new lawsuit over election results, this one challenging thousands of ballots in the battleground state of Nevada. The federal lawsuit, which on Thursday morning didn't appear to have yet been filed,"
-    publishedDateTime: 2020-11-06T02:36:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/sB1uB8cxLZykF1fTcKj6"
+  - title: "Trump Campaign to Request a Recount in Wisconsin"
+    excerpt: "Trump campaign manager Bill Stepien said Wednesday afternoon the campaign would request a recount in Wisconsin, calling it a “razor thin race.” The margin to request a recount in the state is 1% or less and President Trump is currently within that margin,"
+    publishedDateTime: 2020-11-04T18:30:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/gkQ7ufOZiV7oNv7vHdLG"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 112
+    quality: 115
     images:
-      - url: "https://images.wsj.net/im-255561?size=1.5"
+      - url: "https://images.wsj.net/im-254760/social"
         width: 1280
-        height: 853
+        height: 640
         isCached: true
-  - title: "Trump Campaign's Lawsuit in Michigan Seeks to Halt Counting of Absentee Ballots"
-    excerpt: "The Trump campaign filed a lawsuit Wednesday in Michigan’s court of claims seeking to halt the counting of absentee ballots, alleging that state counting boards were violating state law by counting absentee ballots without election inspectors present from both parties."
-    publishedDateTime: 2020-11-04T22:49:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/Fbw6qWaPRwgqzRfWHC2r"
+  - title: "GOP Leader McCarthy Backs Trump's Legal Challenges to Vote Counts"
+    excerpt: "House Minority Leader Kevin McCarthy expressed support Sunday for the Trump campaign’s legal challenges to the presidential election results, joining other Republican lawmakers who have taken a similar stance."
+    publishedDateTime: 2020-11-08T20:13:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/M5Du9vmqlx2n4E2ZgO6O"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 111
-    images:
-      - url: "https://images.wsj.net/im-255152?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
+    quality: 95
 
 secured: "oBun7JYo+jVr1bqE/boyL6JvGexKkkf3NEY476Y8jxSSQkFb8hNZ+hTI3eGc6eQo9mBlmWKIx3x+Q0x4TS2nrz3Pa4ftU0o7aH6JeH3o4s0jrbo0O7BeB5ALGSpFQiRY/3ywyqScf/4SS7ZacIGzKFFNurM98UdAWdumg9PAxm+ITtghkM9yXogIQNMVJgR7FzZwju1REiVsOJskEl0POZjqWt7bAdU2fj9xwGlbpQwVvkPdPubj0t4CI0gZZ148Pn5KpwUIGGVKiSTcWjyy8ht3wSHe5iJ8ucvO4Enu8JBYGT0/bnY2OdleWs9CnN6RWzk1Q+FWS929XQDG4qjR2qT6JmuoWLT8qFtBWIZKfdQ=;jx26iwCmLe9PPZb8DQ+IMw=="
 ---

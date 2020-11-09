@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Jr. calls out '2024 GOP hopefuls' for 'total lack of action' in ballot-counting fight"
-    excerpt: "Donald Trump Jr. pressured potential 2024 GOP contenders to vocally support President Trump as the president continues to air often unfounded grievances about alleged voter fraud. "
-    publishedDateTime: 2020-11-06T15:44:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp"
+  - title: "If Trump loses, he will regret 'denigrating mail-in voting': York"
+    excerpt: "If President Trump loses the election to Joe Biden as current vote tallies indicate, he could regret warning against mail-in voting, Fox News contributor Byron York argued Friday."
+    publishedDateTime: 2020-11-06T16:25:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york"
+    ampWebUrl: "https://www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Ice Cube lashes out at 'SNL' for implying he's voting for Trump out of 'greed'"
+    excerpt: "Ice Cube lashed out at “Saturday Night Live” for mocking him during its Halloween episode cold open about working with Donald Trump."
+    publishedDateTime: 2020-11-03T20:20:00Z
+    webUrl: "https://www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce"
+    ampWebUrl: "https://www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ice-Cube1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "/aQTNgGTeZuUyh4Vxsuw+aGybVWSnseun96MdhmpjQ5/FByoXoWRA4g6FTqoogvI/yspPLc4dREYTjAwVQ0KqOivaDLatLfhUWAmheSvQ1PueEGwo3LajAufHa+C5YjcEh+nW7thI94Lus6BQLw2EIBfTO02RyyAGouO7ZRn8h1n6E5pghSAymUpJIgLWH17W0cJxFr61oUJsrjs2KJg4oyKd799ZSDM6b1quhKJDJDL+hCSwYQvKiPxd49JmxxGSoClAVD22cmK/bT4hOBDDA61vsts0/NuNNM4skFMJgKh0VguuSdDrJlRYbuTxO6ud1mmRhEcgdGO1I2HqN6QOfTr1TT0+hdmGsrRhf5wces=;g3X8pm1G7cpBG5WYst+AAA=="

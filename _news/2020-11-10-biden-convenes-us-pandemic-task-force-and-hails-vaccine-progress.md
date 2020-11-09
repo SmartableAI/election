@@ -2,11 +2,11 @@
 category: news
 title: "Biden convenes U.S. pandemic task force and hails vaccine progress"
 excerpt: "President-elect Joe Biden convened a task force on Monday to devise a blueprint for tackling the coronavirus pandemic in the United States and hailed progress on a vaccine, while President Donald Trump steadfastly refused to acknowledge his defeat."
-publishedDateTime: 2020-11-09T17:18:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election/biden-focuses-on-us-coronavirus-pandemic-and-hails-vaccine-progress-idUSKBN27P11Y"
-webUrl: "https://www.reuters.com/article/us-usa-election/biden-focuses-on-us-coronavirus-pandemic-and-hails-vaccine-progress-idUSKBN27P11Y"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P11Y"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P11Y"
+publishedDateTime: 2020-11-09T21:53:00Z
+originalUrl: "https://www.reuters.com/article/usa-election/biden-focuses-on-us-coronavirus-pandemic-and-hails-vaccine-progress-idUSKBN27P0D4"
+webUrl: "https://www.reuters.com/article/usa-election/biden-focuses-on-us-coronavirus-pandemic-and-hails-vaccine-progress-idUSKBN27P0D4"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P12Z"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P12Z"
 type: article
 quality: 125
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540574554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81DO"
-    width: 817
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540563837&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81DH"
+    width: 816
     height: 545
     isCached: true
 
@@ -270,6 +270,22 @@ related:
       - url: "https://i.insider.com/5fa563f3f7d1cb0019e3a2e7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "31 former GOP House members urge Donald Trump to accept Joe Biden election win"
+    excerpt: "Going forward it is our hope the nation will, regardless of party or persuasion, recognize that President-Elect Joe Biden has won this election.'"
+    publishedDateTime: 2020-11-09T21:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/former-republican-representatives-urge-donald-trump-accept-election-results/6225752002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6225752002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6225752002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 151
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/f99735df-2d50-4d29-9e47-2081817ebac6-trump_and_election_night_1.jpg?auto=webp&crop=3839,2160,x0,y195&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Harris’s ancestral village in India gets festive as Biden leads count"
     excerpt: "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House."
@@ -2485,6 +2501,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fox News cut away from Trump's press secretary as she pushed baseless claims of election fraud"
+    excerpt: "\"I can't in good countenance continue to show you this,\" Fox News anchor Neil Cavuto said as he cut off the press conference."
+    publishedDateTime: 2020-11-09T22:30:00Z
+    webUrl: "https://www.businessinsider.com/fox-news-cut-trump-press-secretary-false-election-fraud-video-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/fox-news-cut-trump-press-secretary-false-election-fraud-video-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-cut-trump-press-secretary-false-election-fraud-video-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/5fa9c107f7d1cb0019e3aadf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden and Trump disagree on nearly everything — but here are three things they actually agree on"
     excerpt: "On Section 230, the promise of a large stimulus package, and a certain approach for lowering drug prices, Trump and Biden (mostly) see eye-to-eye."
     publishedDateTime: 2020-11-02T16:35:00Z
@@ -3519,6 +3551,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540411977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA703U"
         width: 816
         height: 545
+        isCached: true
+  - title: "What will a Biden presidency mean for travel? Here's what changes to expect"
+    excerpt: "Travelers should expect to see changes, from who's allowed to travel to the U.S. to infrastructure improvements to help for laid-off travel workers."
+    publishedDateTime: 2020-11-09T22:25:00Z
+    webUrl: "https://www.usatoday.com/story/travel/2020/11/09/joe-biden-travel-policies-heres-what-changes-expect/6224937002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6224937002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6224937002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/8b4d91cf-761f-43d2-a42f-9dbd9ac1cdb1-AP_Election_2020_Biden_2.jpg?auto=webp&crop=3650,2054,x0,y185&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
     excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
@@ -6586,6 +6634,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "WQTxojGPsHOmt8BnPew93PfVPFi78LDYi8Q4Js5NKS/hsl6Hpfq2P9InmcOYECXr83lp4e6+Csw0/NIUYrZAOG/epokcSwu5Yyr8/8IESfG8QBE0Wuqh0Va1XktG/iDk+MCqe0FyvmjVQQeXXC+TCmlDW+dntuyIlySC0oO6bNGl3/dFqhybrJcbSzchEgift1ozMICiyMw/1tbKeOlzng2jfJbElTZPUcxlkAw5H/GphnbzYfWZMV6j9upF6swVSMrYJCfLL01lnvQBNCpS0M84tgDZXqvnqyCFA04OTtLqIUflWRxAGJ6SjVsBQ9Ky6i4VF0TX1OXPV+WuZALRYgkmGItQMBiKGCQBRiJxv4mD6/6F4tKJ6HM+/pT9ZJfMgpJbLNdQUh8kJTsfKxnxrW0/uwuLKRky/e8m737iYzeIiap4WTeRJmh9N2y7oEW3qoh0zTNxa4CDEtwg79lOKtrthJElFSOlzFpOnhkZdmLhe8Pw3pWo4L17P9a64LUvZERnO9eIIbEljp2izNkwdw==;hc2ivWvPi4xVoEeL5rlDfQ=="
+secured: "BA1FOV/wMo01FsNLkLBLBl9IYzWpKPlz2Kzu2dE0/rcEbezb/e/Cc9b9AA/0y086oCehNP7crWjP2pS38wtL0ymgBaXzIW4HTzad+3sReEzvVWXwymhzaE27I36cmwnmxkw9cabr/CaRXNJPT3dui8JiHSqeMk1vw8uY4kBrz9sKMFklQTO00aYHYg1dlL1qSDaPsh/ORcNC4glrPurU1hFdUUn0IQRtIp0ntIP7JXq+XqjuYOQkv26LSACSYJFvd6lVmqcZjccBy0ain75cAwvdAqKI93U0DmQ1ACMx574yd+NWDMzpnUtVazID6X30gnpf5JzmmvLeyx+zgZyb3M05SNZ4STv4cz4qDB4CBqw=;ga82jenYqJgDXojenO39qA=="
 ---
 

@@ -784,6 +784,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump fires Secretary of Defense Mark Esper"
+    excerpt: "President Donald Trump announced on Twitter Monday that he has fired Secretary of Defense Mark Esper, and that Christopher Miller, who serves as director of the National Counterterrorism Center, will become acting secretary \"effective immediately.\"\n    \n"
+    publishedDateTime: 2020-11-09T21:57:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFKdcKnz_qc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-fires-esper/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-fires-esper/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625101835-01-mark-esper-0624-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top congressional Republicans still haven't acknowledged Biden's victory"
     excerpt: "President-elect Joe Biden urged the country \"to lower the temperature\" in his victory speech on Saturday night, but Republican leaders he'll have to work with in Congress have either urged President Donald Trump to not concede or stayed silent despite no widespread evidence of fraud in the election.\n"
     publishedDateTime: 2020-11-08T22:24:55Z
@@ -925,6 +941,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trumpism without Trump: Democrats confront a defeated President's growing movement"
+    excerpt: "President Donald Trump has been defeated, but the movement that developed around him appears to be more durable than its leader, as Democratic hopes for a smashing Election Day repudiation of Trumpism did not materialize.\n    \n"
+    publishedDateTime: 2020-11-09T21:11:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zevwlZwzmTY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trumpism-without-trump-democrats-plan-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trumpism-without-trump-democrats-plan-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106155224-donald-trump-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1101,6 +1133,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021140652-romney-capitol-hill-1020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Deborah Birx has not been approached by team Biden about staying on as a government employee"
+    excerpt: "Dr. Deborah Birx has privately told colleagues she has not yet been contacted by anyone on President-elect Joe Biden's team, and whether she will be staying on as a government employee in the fight against the coronavirus pandemic remains up in the air.\n    \n"
+    publishedDateTime: 2020-11-09T22:17:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqPGLpGpzTE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/deborah-birx-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/deborah-birx-biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103083154-file-deborah-birx-0420-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

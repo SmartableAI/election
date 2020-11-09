@@ -32,101 +32,133 @@ images:
     isCached: true
 
 related:
-  - title: "Lady Gaga and John Legend to join Joe Biden and Kamala Harris for final campaign events"
-    excerpt: "Superstars Lady Gaga and John Legend will join Joe Biden and Kamala Harris for their final respective events on the campaign trail on the eve of Election Day, the Biden campaign announced Sunday.\n    \n"
-    publishedDateTime: 2020-11-01T20:51:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/36z-f9SM6zk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 192
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160225091736-lady-gaga-joe-biden-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Read: Vice President-elect Kamala Harris' remarks"
-    excerpt: "As prepared for delivery.\n    \n"
-    publishedDateTime: 2020-11-08T02:20:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GmwdwKuWrfU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-vp-elect-remarks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-vp-elect-remarks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107203713-07-biden-harris-address-1107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "20 former Republican US attorneys endorse Biden campaign"
-    excerpt: "Twenty US attorneys, who were appointed and served under Republican presidents as far back as Dwight Eisenhower, announced on Tuesday their endorsement of Democratic presidential nominee Joe Biden.\n    \n"
-    publishedDateTime: 2020-10-27T22:35:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M_UbOryJkAE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/republican-us-attorneys-endorse-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/republican-us-attorneys-endorse-joe-biden/index.html"
+  - title: "Brad Pitt narrates new Biden campaign ad airing during World Series "
+    excerpt: "Actor Brad Pitt narrated an ad for Joe Biden's presidential campaign that's airing Saturday night during the fourth game of the World Series.\n    \n"
+    publishedDateTime: 2020-10-24T23:26:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a7--fEF0U18/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-biden-ad-world-series/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-biden-ad-world-series/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200209172505-brad-pitt-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris bursts through another barrier, becoming the first female, first Black and first South Asian vice president-elect"
-    excerpt: "Kamala Harris, who on Saturday became America's first female, first Black and first South Asian vice president-elect, represents a new face of political power after an election all about who wields power and how they use it.\n    \n"
-    publishedDateTime: 2020-11-07T16:28:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ac0Y9GAnNG4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-first-vice-president-female-black-south-asian/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-first-vice-president-female-black-south-asian/index.html"
+  - title: "Biden campaign blames Facebook for $500,000 in lost fundraising "
+    excerpt: "Democratic nominee Joe Biden's campaign said Thursday it had lost out on more than $500,000 in potential campaign donations this week and blamed Facebook after issues with the social media's advertising systems had prevented the campaign from running some ads soliciting donations.\n    \n"
+    publishedDateTime: 2020-10-30T02:21:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QHVupwUnRuk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/tech/biden-facebook-fundraising/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/tech/biden-facebook-fundraising/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 160
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102160632-04-kamala-harris-lead-image-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029220911-biden-zuckerberg-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Bulldozer thief drove through Florida town digging up Biden-Harris campaign signs"
-    excerpt: "James Blight was arrested in Haines City, Florida for allegedly stealing a bulldozer to dig up and vandalize the homes of people displaying Joe Biden signs."
-    publishedDateTime: 2020-10-26T14:38:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/bulldozer-thief-drove-through-florida-town-digging-biden-harris-campaign-n1244750"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244750"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244750"
+  - title: "Bruce Springsteen narrates new Biden ad about hometown of Scranton"
+    excerpt: "Joe Biden's presidential campaign will air a new campaign ad featuring Bruce Springsteen during Saturday night's nationally televised game between Ohio State and Penn State on ABC, a Biden aide told CNN.\n    \n"
+    publishedDateTime: 2020-10-31T18:47:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yVy8N1ID-4Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/bruce-springsteen-biden-hometown-ad/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/bruce-springsteen-biden-hometown-ad/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 155
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3422981/201026-bulldozer-haines-city-cover-jm-0928_7573f2356a341e72152ac7388e223e38.jpg"
-        width: 1200
-        height: 600
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190425105802-bruce-springsteen-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "How Kamala Harris and Jill Biden are subverting stepmom stigma in America"
-    excerpt: "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom."
-    publishedDateTime: 2020-10-25T22:38:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244373"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373"
+  - title: "Joe Biden discloses names of elite fundraisers"
+    excerpt: "More than 800 individuals and couples each raised at least $100,000 to help fund former Vice President Joe Biden's presidential bid, according to a list of fundraisers the Democrat's campaign released Saturday night, just days before the election.\n    \n"
+    publishedDateTime: 2020-11-01T04:19:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6UeyPr2QAdY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/joe-biden-bundlers-released/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/joe-biden-bundlers-released/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 149
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030163620-02-joe-biden-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden goes all in on rebuilding 'blue wall' in campaign's closing stretch "
+    excerpt: "Joe Biden is making his final stand on the \"blue wall\" that President Donald Trump toppled four years ago.\n    \n"
+    publishedDateTime: 2020-11-01T00:09:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HmyrCc0whhY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/joe-biden-blue-wall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/joe-biden-blue-wall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031163632-obama-biden-flint-michigan-1031-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden if elected will form task force to reunite 545 separated immigrant children with family, campaign says"
+    excerpt: "Joe Biden is pledging that if he's elected president, he will sign an executive order to form a task force that will focus on reuniting the 545 immigrant children who've been separated from their families.\n    \n"
+    publishedDateTime: 2020-10-29T14:03:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wsiKa5UPt6A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/biden-immigrant-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/biden-immigrant-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028173658-01-biden-delaware-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Could Joe Biden Actually Bring America Back Together?"
+    excerpt: "President has long valorized comity and respect in the political arena, but the country’s deepest cleavages are now imprinted on Americans’ party affiliations."
+    publishedDateTime: 2020-10-17T19:08:00Z
+    webUrl: "https://www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together"
+    ampWebUrl: "https://www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together/amp"
+    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together/amp"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 135
+    images:
+      - url: "https://media.newyorker.com/photos/5f8a0f7b994428c9a71a8f3e/master/pass/Luo-Biden.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "A Biden Landslide? Some Democrats Can’t Help Whispering"
+    excerpt: "Democrats are still haunted by the ghosts of 2016. But some are allowing themselves to contemplate a Biden victory big enough to reorder the nation’s politics."
+    publishedDateTime: 2020-10-21T09:59:00Z
+    webUrl: "https://www.nytimes.com/2020/10/21/us/politics/biden-election-landslide.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/21/us/politics/biden-election-landslide.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/us/politics/biden-election-landslide.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/19/us/politics/19biden-landslide-top/merlin_178713780_0331426e-fb13-423f-84cb-9a6f19e16007-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden campaign: Joe Biden 'not going to end fossil fuel industry'"
     excerpt: "In an exclusive interview with Meet the Press, Kate Bedingfield, Biden Deputy Campaign Manager, says that former Vice President wants to end energy subsidies but doesn't want to see people lose their jobs."
@@ -144,307 +176,72 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Stevie Wonder campaigns for Joe Biden in Michigan"
-    excerpt: "Stevie Wonder went back to his home state to support Joe Biden's presidential campaign, calling the election “the most important one in my lifetime.”"
-    publishedDateTime: 2020-11-02T09:40:00Z
-    webUrl: "https://www.nbcnews.com/video/stevie-wonder-campaigns-for-joe-biden-in-michigan-95135301847"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95135301847"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95135301847"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/8be22.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "As U.S. Votes, a Village in India Prays for Kamala Harris"
-    excerpt: "Those who live in the hometown of Ms. Harris’s grandfather see the Democratic vice-presidential nominee as one of their own. “She is the daughter of the village’s soil,” one woman said."
-    publishedDateTime: 2020-11-03T15:20:00Z
-    webUrl: "https://www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/world/asia/india-kamala-harris-us-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/03/world/03india-harris/merlin_179495781_7f3f5702-1e96-4d12-8955-68e35603b9fc-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "In Detroit, Kamala Harris makes a final pitch."
-    excerpt: "Standing in the parking lot of Sheet Metal Workers Local 80 in Southfield, a suburb of Detroit, Sen. Kamala Harris issued a late call to action on Tuesday. “Today is a day that many of us have been waiting for four years,"
-    publishedDateTime: 2020-11-03T22:24:00Z
-    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/in-detroit-kamala-harris-makes-a-final-pitch.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/in-detroit-kamala-harris-makes-a-final-pitch.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/in-detroit-kamala-harris-makes-a-final-pitch.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-Kamala-Detroit/merlin_179522802_38780a87-de60-4b16-9346-04599f54ec04-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "More prayers for Kamala Harris in India"
-    excerpt: "More prayers for Kamala Harris in India"
-    publishedDateTime: 2020-11-03T18:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-day-2020-live-updates-n1245892/ncrd1245989"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245892"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245892"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_45/3423670/201028-election-live-blog-main-cover-cs_97cae1cf7f77d887bed724aee9ec97c6.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Desi Twitter bursts with pride over Kamala Harris as VP-elect"
-    excerpt: "Desi Twitter erupted Saturday in response to the news that Joe Biden became president-elect and Sen. Kamala Harris will become the first female, first Black and first South Asian American vice president."
-    publishedDateTime: 2020-11-07T18:26:00Z
-    webUrl: "https://www.nbcnews.com/news/asian-america/desi-twitter-bursts-pride-over-kamala-harris-vp-elect-n1246936"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1246936"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246936"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_45/3426746/201107-kamala-harris-se-1256p_56c5535ac038761418c2d7036a43b7a2.jpg"
-        width: 2500
-        height: 1599
-        isCached: true
-  - title: "‘It’s a Big Deal’: TV Coverage Notes Magnitude of Kamala Harris Victory"
-    excerpt: "On Fox News, Donna Brazile recalled that her mother and grandmother could not vote. “Just scoot over and let women also share in the leadership of this country,” she said."
-    publishedDateTime: 2020-11-07T21:52:00Z
-    webUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/08/business/07harris-media/merlin_179349762_a42eb950-e5f1-4108-a117-004f508f1657-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Kamala Harris makes history as vice president-elect"
-    excerpt: "Kamala Harris makes history as the nation’s first female, first Black and first South Asian American vice president-elect after she and Joe Biden are projected as the winners of the 2020 election."
-    publishedDateTime: 2020-11-07T23:57:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/kamala-harris-makes-history-as-vice-president-elect-95523909646"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95523909646"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95523909646"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_rel_harris_makes_history_201107_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Read: Vice president-elect Kamala Harris' historic victory speech"
-    excerpt: "And for making this victory possible. To the poll workers and election officials across our country who have worked tirelessly to make sure every vote is counted, our nation owes you a debt of gratitude."
-    publishedDateTime: 2020-11-08T02:36:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/read-vice-president-elect-kamala-harris-historic-victory-speech-n1247017"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247017"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247017"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_45/3426852/201107-kamala-harris-full-speech-se-941p_33d638019f9cdaf5bf9a2f831c76f4fe.jpg"
-        width: 2500
-        height: 1646
-        isCached: true
-  - title: "This is Vice President-elect Kamala Harris' Know Your Value moment"
-    excerpt: "Kamala Harris made history, becoming the first female, first Black and first South Asian vice president elect. Here's a look back at her Know Your Value moment, which she shared with us at our nationa"
-    publishedDateTime: 2020-11-07T19:08:00Z
-    webUrl: "https://www.nbcnews.com/know-your-value/feature/vice-president-elect-kamala-harris-know-your-value-moment-ncna1246951"
-    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1246951"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1246951"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_45/3426746/201107-kamala-harris-se-1256p_56c5535ac038761418c2d7036a43b7a2.jpg"
-        width: 2500
-        height: 1599
-        isCached: true
-  - title: "Watch Kamala Harris' full victory speech as vice president-elect"
-    excerpt: "Vice President-elect Kamala Harris addressed the nation in her first public appearance since winning the election."
-    publishedDateTime: 2020-11-08T01:58:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-kamala-harris-full-victory-speech-as-vice-president-elect-95525445787"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95525445787"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95525445787"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_full_2020_kamala_v_speech_201107_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Here’s What Kamala Harris Faces as a ‘First’"
-    excerpt: "Amid the celebratory memes rocketing around yesterday, other women of color who’ve cracked through ceilings have some advice: Buckle up."
-    publishedDateTime: 2020-11-08T21:55:00Z
-    webUrl: "https://www.politico.com/news/magazine/2020/11/08/heres-what-kamala-harris-faces-as-a-first-435186"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/11/08/heres-what-kamala-harris-faces-as-a-first-435186"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/11/08/heres-what-kamala-harris-faces-as-a-first-435186"
+  - title: "Biden makes late push to flip the Senate"
+    excerpt: "The Democratic nominee is hitting Georgia and Iowa this week, while Jill Biden campaigned with the Democratic Senate candidate in Maine."
+    publishedDateTime: 2020-10-28T20:10:00Z
+    webUrl: "https://www.politico.com/news/2020/10/27/biden-democrats-senate-433032"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/27/biden-democrats-senate-433032"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/27/biden-democrats-senate-433032"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/dc/e7/b5a250404381ab3e547e0c0345f6/kamala-override.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://static.politico.com/89/67/b3640b0c42d5afcfc67a0dcd7655/201027-biden-ga-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote"
-    excerpt: "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”"
-    publishedDateTime: 2020-11-03T02:30:00Z
-    webUrl: "https://www.nbcnews.com/video/in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote-95196229930"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95196229930"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95196229930"
+  - title: "Biden Hopes to Fight Autocracy Abroad. He’ll Have to Start at Home."
+    excerpt: "It was her job to help coordinate administration efforts to support democracy, encourage free and fair elections, and oppose authoritarianism abroad. Among America’s most important tools in this regard,"
+    publishedDateTime: 2020-10-30T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/10/30/opinion/biden-trump-foreign-policy.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/30/opinion/biden-trump-foreign-policy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/30/opinion/biden-trump-foreign-policy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/30/opinion/30goldberg1a/30goldberg1a-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden campaign manager urges supporters to ‘campaign like we’re trailing’"
+    excerpt: "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina."
+    publishedDateTime: 2020-10-18T23:09:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/biden-campaign-manager-urges-supporters-to-campaign-like-we-re-trailing-94105157774"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94105157774"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94105157774"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 134
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/kamalalastrally.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_avi_biden_on_the_trail_201018_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Kamala Harris’s ancestral village in India offers prayers for her victory."
-    excerpt: "More than 8,000 miles from the White House, in a small Indian village ringed by lush green rice paddies, several dozen people flocked into a Hindu temple, carrying roses and strings of sweet-smelling jasmine,"
-    publishedDateTime: 2020-11-03T14:01:00Z
-    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/kamala-harriss-ancestral-village-in-india-offers-prayers-for-her-victory.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/kamala-harriss-ancestral-village-in-india-offers-prayers-for-her-victory.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/kamala-harriss-ancestral-village-in-india-offers-prayers-for-her-victory.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/03/multimedia/03elections-briefing-harrisIndia/03elections-briefing-harrisIndia-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Julián Castro campaigns for Biden in Phoenix, visits a Day of the Dead altar"
-    excerpt: "Michigan, Iowa, North Carolina, Georgia, and Florida — while Biden is holding two events in Philadelphia. This live coverage has ended. Continue reading election news for Monday, Nov. 2, 2020. Julián Castro,"
-    publishedDateTime: 2020-11-02T23:03:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-01-trump-biden-election-n1245634/ncrd1245726"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245634"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245634"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "NBC News Exit Poll: Kamala Harris viewed favorably by just over half of voters"
-    excerpt: "If elected vice president, Sen. Kamala Harris would be the first woman and the first person of color to serve in that role."
-    publishedDateTime: 2020-11-04T05:11:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-day-2020-live-updates-n1245892/ncrd1246258"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245892"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245892"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_45/3423670/201028-election-live-blog-main-cover-cs_97cae1cf7f77d887bed724aee9ec97c6.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Kamala Harris Makes History as First Woman and Woman of Color as Vice President"
-    excerpt: "Ms. Harris, the daughter of an Indian mother and Jamaican father, has risen higher in the country’s leadership than any woman ever before her."
-    publishedDateTime: 2020-11-07T16:40:00Z
-    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/kamala-harris.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Kamala Harris, elected V.P., has risen higher in national politics than any woman before her."
-    excerpt: "Question, I will repeat —” — and music — ♫ “One nation under a groove —” ♫ California Senator Kamala Harris is making history as the first woman, and first woman of color, elected vice president. “Let’s talk about who is prepared to lead our country over the course of the next four years."
-    publishedDateTime: 2020-11-08T08:12:00Z
-    webUrl: "https://www.nytimes.com/2020/11/08/us/elections/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/elections/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/elections/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 124
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Read Kamala Harris’ Vice-Presidential Acceptance Speech"
-    excerpt: "In her remarks Saturday night, Vice President-elect Kamala Harris acknowledged “all the women who have worked to secure and protect the right to vote” and said: “And I stand on their shoulders.”"
-    publishedDateTime: 2020-11-08T02:14:00Z
-    webUrl: "https://www.nytimes.com/article/Kamala-Harris-speech-transcript.html"
-    ampWebUrl: "https://www.nytimes.com/article/Kamala-Harris-speech-transcript.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/Kamala-Harris-speech-transcript.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-  - title: "Kamala Harris Shuts Down ‘Childish’ Men Who Mispronounce Her Name"
-    excerpt: "Why does it seem like it becomes harder to pronounce your name the more conservative a person is?” “Daily Show” host Trevor Noah asked the vice presidential candidate."
-    publishedDateTime: 2020-10-30T06:27:00Z
-    webUrl: "https://www.thedailybeast.com/kamala-harris-shuts-down-childish-men-who-mispronounce-her-name"
+  - title: "Hey, SNL: Jim Carrey’s Joe Biden Just Isn’t Working"
+    excerpt: "Bring back Jason Sudeikis already! Senior Entertainment Editor Some years back, Jim Carrey’s team reached out to me about placing an op-ed in The Daily Beast. The piece, written by Carrey, discussed the supposed dangers of vaccines,"
+    publishedDateTime: 2020-10-20T07:56:00Z
+    webUrl: "https://www.thedailybeast.com/hey-snl-jim-carreys-joe-biden-just-isnt-working"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
-  - title: "Most Democrats are Scared to Say So, but Joe Biden Is Poised for a Landslide Win"
-    excerpt: "Democrats were in denial about their Hillary Clinton’s weaknesses. Now, they’re afraid to acknowledge Biden’s strengths."
-    publishedDateTime: 2020-10-28T12:55:00Z
-    webUrl: "https://www.thedailybeast.com/most-democrats-are-scared-to-say-so-but-joe-biden-is-poised-for-a-landslide-win"
+  - title: "Local Dems Desperate for Biden to Visit Less Swingy States"
+    excerpt: "In the final days of the campaign, Democrats in states with Senate seats on the verge of flipping hope Biden will pay a last-minute visit to help tip the balance."
+    publishedDateTime: 2020-10-27T09:30:00Z
+    webUrl: "https://www.thedailybeast.com/local-dems-desperate-for-biden-to-visit-less-swingy-states"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 40
+    quality: 45
 
 secured: "Hyr93zYX0IjSHG4KfHN23uagMgzvysFei/Yv3H7sJ8IJ9QabV5GWnS0uP1a/6ceJABpO1mNN+BD43XGwY9/FIh7bSRuxsm2d5BIuGg6d4tZAryRxrMGDnK1Ep5zbwhc2B3IhbBPex+/1vkUkOxz5U5muYB9vsB9p06lrt8SH+l0A6SWZgRmJ18qKiVgLRFBzVOeJ27xTb8DUzKXsdXTBu8VwH8JnSL8zIPy45OOt/hpyP0g/XWVVBsi+CTyNx8Unkc0ZTU49rs3PuUv3FLTLA99iO08IdHStm/C13gA8zx7u9eQJXJivfKzOW2sYr/SwS+OfdMTvwQAm0/IU3SEb57oq1JerFrTPVIQFxA1Bk68sp9Cm4lA4CQkiHLAPRWxrKKotT4omPH85YnnZUvBTtxPtczEKT2s17NggCh178fmII47vD24VwK/bc8csAzZnc4xTFWRZpxk/7IC729hVE2tBil1NQBVgSoY223LTI8DpPBTkh36qlBuXg+Ryjs8OgXhubxviG7HdJLMb3Tq+nw==;K/fKKylapmXPBlyvMF+9wQ=="
 ---

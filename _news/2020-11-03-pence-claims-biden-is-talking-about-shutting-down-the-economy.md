@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Julián Castro campaigns for Biden in Phoenix, visits a Day of the Dead altar"
+    excerpt: "Michigan, Iowa, North Carolina, Georgia, and Florida — while Biden is holding two events in Philadelphia. This live coverage has ended. Continue reading election news for Monday, Nov. 2, 2020. Julián Castro,"
+    publishedDateTime: 2020-11-02T23:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-01-trump-biden-election-n1245634/ncrd1245726"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245634"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245634"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "“We’re going to win this race,” Biden says as his lead grows in Pennsylvania and Georgia."
     excerpt: "Joe Biden hoped to deliver a victory address on Friday, instead he called for calm as the nation awaits a winner."
     publishedDateTime: 2020-11-07T10:41:00Z

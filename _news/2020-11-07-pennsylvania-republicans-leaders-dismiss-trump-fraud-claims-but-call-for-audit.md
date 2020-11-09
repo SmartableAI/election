@@ -62,21 +62,16 @@ related:
         height: 558
         isCached: true
   - title: "Trump books will continue after Trump leaves office"
-    excerpt: "One of publishing’s most thriving genres of the past four years, books about President Donald Trump, is not going to end when he leaves office. In 2021 and beyond, Works already planned include the anti-Trump “Preventable: The Inside Story of How Leadership Failures,"
-    publishedDateTime: 2020-11-09T20:02:00Z
-    webUrl: "https://www.washingtonpost.com/health/trump-books-will-continue-after-trump-leaves-office/2020/11/09/7f852f50-22c6-11eb-9c4a-0dc6242c4814_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/trump-books-will-continue-after-trump-leaves-office/2020/11/09/7f852f50-22c6-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-books-will-continue-after-trump-leaves-office/2020/11/09/7f852f50-22c6-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    excerpt: "One of publishing's most thriving genres of the past four years, books about President Donald Trump, is not going to end when he leaves office."
+    publishedDateTime: 2020-11-09T22:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
     excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
     publishedDateTime: 2020-11-05T05:50:00Z

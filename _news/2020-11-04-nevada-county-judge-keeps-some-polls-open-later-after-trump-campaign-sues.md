@@ -31,239 +31,147 @@ images:
     isCached: true
 
 related:
-  - title: "Nevada election worker alleges voting irregularities, Trump campaign submits affidavit to DOJ"
-    excerpt: "The election worker, whose name was redacted, said they “had concerns over election polling place and intimation and voter fraud.\""
-    publishedDateTime: 2020-11-09T15:35:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LWwv5azM4h4/nevada-election-worker-voting-irregularities-trump-campaign"
-    ampWebUrl: "https://www.foxnews.com/politics/nevada-election-worker-voting-irregularities-trump-campaign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-election-worker-voting-irregularities-trump-campaign.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Election 2020 legal battles take shape as Trump campaign files lawsuits in key battleground states"
-    excerpt: "As expected, the 2020 presidential campaign season has evolved into a post-election battle consisting of legal challenges in crucial battleground states as President Trump's campaign attempts to prevent the counting of ballots they allege are or could be invalid."
-    publishedDateTime: 2020-11-05T14:46:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4fdXPQfexRc/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states"
-    ampWebUrl: "https://www.foxnews.com/politics/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24d1edb3-5012-4e50-9dee-37b68264fb37/23ee445b-9b29-4177-8443-ca7e45d0845a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign claims historic GOP turnout in Florida"
-    excerpt: "The Trump campaign on Tuesday claimed historic Republican turnout in Florida, touting their ground game—specifically their efforts in Black and Hispanic communities—and saying the race in the Sunshine State is in “nearly a dead heat.”"
-    publishedDateTime: 2020-11-03T23:59:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPx0z_M4kUs/trump-campaign-claims-historic-gop-turnout-in-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
+  - title: "Trump's voter-fraud remarks draw criticism from some Republicans"
+    excerpt: "President Trump faced some pushback from his own party Thursday after warning about illegal voting and an attempt to \"steal\" the presidential election."
+    publishedDateTime: 2020-11-06T04:31:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrpFX5qC3Yg/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/486e3da4-419d-4817-bbf0-ac663dd0aa73/4489e600-3283-425c-92a8-9780baffc963/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "If Trump loses, he will regret 'denigrating mail-in voting': York"
-    excerpt: "If President Trump loses the election to Joe Biden as current vote tallies indicate, he could regret warning against mail-in voting, Fox News contributor Byron York argued Friday."
-    publishedDateTime: 2020-11-06T16:25:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york"
-    ampWebUrl: "https://www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
+  - title: "Rep. Van Drew: Trump ripped the band-aid off, changed American politics"
+    excerpt: "Democrat-turned Republican Rep. Jeff Van Drew, R-N.J., told “Fox & Friends” on Monday that he wanted to thank President Trump for helping to shape the new Republican Party saying he thinks “the president broke everything open.”"
+    publishedDateTime: 2020-11-09T17:17:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2LbggWPoMP8/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Federal judge dismisses Trump request to stop counting Philadelphia ballots"
-    excerpt: "A federal judge reportedly dismissed an emergency injunction brought by the Trump campaign Thursday afternoon to stop the counting of votes in Philadelphia, claiming election workers were ignoring an earlier court ruling over election observers."
-    publishedDateTime: 2020-11-06T10:05:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsjtNI2ijS8/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots"
-    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
+  - title: "Trump announces day of remembrance for Americans killed by illegal immigrants"
+    excerpt: "President Trump on Friday declared Nov. 1 a day of remembrance for Americans killed by illegal immigrants -- seeking to highlight his policies curbing illegal immigration in the last days of his reelection campaign."
+    publishedDateTime: 2020-10-31T21:47:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BmvawIV5xAE/trump-day-of-remembrance-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-day-of-remembrance-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-day-of-remembrance-illegal-immigrants.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310851009982.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Graham announces $500G donation to Trump campaign legal efforts, calls Philly elections 'crooked as a snake'"
-    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., told \"Hannity\" Thursday he will donate $500,000 to the Trump campaign's legal efforts to challenge election procedures in multiple states, including Pennsylvania, Michigan and Nevada."
-    publishedDateTime: 2020-11-06T03:49:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nxWRMPh47O8/lindsey-graham-500g-donation-trump-2020-campaign-legal-challenges"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-500g-donation-trump-2020-campaign-legal-challenges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-500g-donation-trump-2020-campaign-legal-challenges.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00058b18-b335-4f2a-ae6f-f16a7766d0f4/b69801ec-0c99-4ab7-b22e-43c9cc783a03/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign, GOP to appeal to Nevada Supreme Court to halt Vegas-area mail-in ballot count"
-    excerpt: "LAS VEGAS (AP) — President Donald Trump’s re-election campaign and Nevada Republicans filed notice Monday that they’ll ask the state Supreme Court to stop the count of mail-in ballots in Clark County, the state’s most populous and Democratic-leaning county, including Las Vegas."
-    publishedDateTime: 2020-11-03T15:32:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ob-d5Z_sbHI/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
+  - title: "Jack Brewer says Black Americans will turn out for Trump like no Republican before"
+    excerpt: "The Platinum Plan was a great move by President Trump, Black Voices for Trump Jack Brewer said on Sunday."
+    publishedDateTime: 2020-11-01T15:04:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VomhYOuZ9JY/jack-brewer-black-americans-turn-out-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/jack-brewer-black-americans-turn-out-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jack-brewer-black-americans-turn-out-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "The media 'cried wolf' for four years about Trump and people stopped listening: Adam Carolla"
+    excerpt: "The mainstream media \"cried wolf,\" author and comedian Adam Carolla said Thursday, reacting to the results of the 2020 presidential election showing tremendous support for President Trump from non-White voters."
+    publishedDateTime: 2020-11-05T20:15:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jhscVdgIQV0/adam-carolla-media-crying-wolf-trump-racism"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-carolla-media-crying-wolf-trump-racism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-carolla-media-crying-wolf-trump-racism.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20305794561511-e1604416769499.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump campaign files lawsuit in Arizona alleging Maricopa County rejected ballots by in-person voters"
-    excerpt: "The Trump campaign and the Republican National Committee on Saturday filed a lawsuit in Arizona alleging that Maricopa County incorrectly rejected votes cast by in-person voters on Election Day, just hours after the 2020 presidential race was called in favor of Joe Biden."
-    publishedDateTime: 2020-11-07T23:29:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XW5DTKRSAa4/trump-campaign-files-lawsuit-in-arizona-alleging-maricopa-county-rejected-votes-by-in-person-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-files-lawsuit-in-arizona-alleging-maricopa-county-rejected-votes-by-in-person-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-lawsuit-in-arizona-alleging-maricopa-county-rejected-votes-by-in-person-voters.amp"
+  - title: "Rep. Jordan says Republicans picked up seats because voters don't like socialism, sees path for Trump"
+    excerpt: "Republicans picked up House seats despite projections that Democrats would have a \"blue wave\" on Election Day because \"Americans don't like socialism,\" Rep. Jim Jordan, R-Ohio, told \"Fox & Friends Weekend.\""
+    publishedDateTime: 2020-11-07T18:22:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fNvpE34yLY8/ohio-republicans-congress-election-2020-jim-jordan"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-republicans-congress-election-2020-jim-jordan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-republicans-congress-election-2020-jim-jordan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump campaign holds protest in Las Vegas to decry irregularities, claim ‘dead people,’ non-Nevadans voted"
-    excerpt: "The Trump campaign held a Sunday afternoon press conference outside the Clark County Elections Department in Las Vegas to denounce alleged irregularities in last week’s election.  "
-    publishedDateTime: 2020-11-09T01:05:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzj9joR7Go8/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313858920634.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump campaign ballot counting lawsuits: What to know"
-    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
-    publishedDateTime: 2020-11-06T00:00:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
+  - title: "Top two pro-Trump super PACs make final $20 million ad push"
+    excerpt: "The two leading super PACs that are supporting President Trump's re-election bid are teaming up to shell out $20 million to run ads on TV and digital in seven crucial general election battleground in the closing stretch leading up to Election Day on Tuesday."
+    publishedDateTime: 2020-10-30T23:11:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zUgV0XwX-Xk/top-two-pro-trump-super-pacs-make-final-20-million-ad-push"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split-10.29.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Melania Trump votes in Florida wearing Gucci dress, no mask"
-    excerpt: "First Lady Melania Trump was dressed to the nines while voting in person on Election Day, wearing an equestrian-print white dress among other high-fashion accessories. Trump cast her ballot at a voting center in Palm Beach,"
-    publishedDateTime: 2020-11-03T20:23:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci"
-    ampWebUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
+  - title: "PA GOP leaders urge people to 'relax,' report fraud concerns to law enforcement amid Trump campaign objections"
+    excerpt: "Top Pennsylvania Republicans, speaking with the press on Friday, urged people to \"relax\" as tensions run high in the battleground state and President Trump's campaign makes allegations of potential election-related wrongdoing, specifically in Philadelphia. "
+    publishedDateTime: 2020-11-06T21:49:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hPBHKuPETQg/pa-gop-leaders-report-fraud-concerns-to-law-enforcement"
+    ampWebUrl: "https://www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump Says He Has Terminated Mark Esper as Defense Secretary"
+    excerpt: "President Trump replaced Defense Secretary Mark Esper on Monday with a new acting secretary, Christopher Miller, announcing his decision on Twitter."
+    publishedDateTime: 2020-11-09T18:34:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341?mod=hp_lead_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Melania-Trump-Getty-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "John Leguizamo bashes Florida 'lemmings' after the state was called for Donald Trump in the 2020 election"
-    excerpt: "John Leguizamo bashed Floridians after the state was called for Donald Trump in the 2020 presidential election."
-    publishedDateTime: 2020-11-05T13:28:00Z
-    webUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election"
-    ampWebUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/John-Leguizamo.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "CNN's Don Lemon hits network for airing Trump's 'propaganda' visit to RNC office"
-    excerpt: "CNN anchor Don Lemon questioned the judgment of his own network Tuesday after it broadcast remarks President Trump made during his visit to a Republican National Committee office."
-    publishedDateTime: 2020-11-03T22:17:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81df12e9-89a4-4281-90fe-5e64638e305c/ebed9e3f-ad42-4ef4-847c-2443a3c03962/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-257312/social"
         width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Campaign Says It Plans Another Lawsuit Over Ballots, This One in Nevada"
-    excerpt: "President Trump's campaign said it plans to file a new lawsuit over election results, this one challenging thousands of ballots in the battleground state of Nevada. The federal lawsuit, which on Thursday morning didn't appear to have yet been filed,"
-    publishedDateTime: 2020-11-06T02:36:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/sB1uB8cxLZykF1fTcKj6"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 112
-    images:
-      - url: "https://images.wsj.net/im-255561?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Trump Campaign's Lawsuit in Michigan Seeks to Halt Counting of Absentee Ballots"
-    excerpt: "The Trump campaign filed a lawsuit Wednesday in Michigan’s court of claims seeking to halt the counting of absentee ballots, alleging that state counting boards were violating state law by counting absentee ballots without election inspectors present from both parties."
-    publishedDateTime: 2020-11-04T22:49:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/Fbw6qWaPRwgqzRfWHC2r"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 111
-    images:
-      - url: "https://images.wsj.net/im-255152?size=1.5"
-        width: 1280
-        height: 853
+        height: 640
         isCached: true
 
 secured: "KNmg4BARHN9gCedv6h7gT4DDJnqhELc+sfJFp4dOHrbBC0lxCQUdHxMyZyF+SVp4DS1Dcg2vu2zIyT+UKllHlaiwlAVHbvbJ8m/TlDZwwO5Vd8buSIZMnFNgddn1ZE2D6+pacKireSBvp6Vrj3wQUh9BpBrI9UMJmyacj9hfgDJwer9JTfApcycPXS05S1RLTXcgsxZ7YPnORWDEKMTgPlyfHywqgQ7kUcWwcvWOdklwRac/K5P8wV3luCzDMuohVThAlGilaZWTS4Pk1zXy6TttirlI8Ew/vCxtmIg1bHEjy43fIiC7iivrmWTvuJMVQ+In7N29IAZ53X9whi1g36KU11Sk1qdxfz+vRELvlRk=;25mbG9UPHrETEOM7imcpKw=="

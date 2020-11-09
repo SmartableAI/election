@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60.amp"
 type: article
 quality: 174
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump campaign, GOP to appeal to Nevada Supreme Court to halt Vegas-area mail-in ballot count"
+    excerpt: "LAS VEGAS (AP) — President Donald Trump’s re-election campaign and Nevada Republicans filed notice Monday that they’ll ask the state Supreme Court to stop the count of mail-in ballots in Clark County, the state’s most populous and Democratic-leaning county, including Las Vegas."
+    publishedDateTime: 2020-11-03T15:32:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ob-d5Z_sbHI/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20305794561511-e1604416769499.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "AoVh3W+0aQlBzSeRlJuR1ODS9EAYfjoeVlKCZEJfy2UZFsZ+VfZsewIaVJoItMRm5ec5odCEQtmZi2mz1McnMzBtF0Iq5ODpfiN6jYKVovRfO7Jx6Bf4QFwnA3XU2GoBF0Y8cLQVz9O6S3NlsHr8nm2N/nrZOK8dB19NJi9i3jj5XqzRDmfkuTBgbhRAyQcjFDaja7cVucgW1szk6HRJ81d+mPBIE0i0L6fWh9tHpfTV6+NepSEbeNFjMyZTVKotj3cwOwIzI/99Zv89lU4leWXXh93I9nkyxll7fvEgfeK5LqEIzsXEKkBXUy2Im2g9yZW0ZFCcvQfBppNK+XMfc8j7pEUKsYlPrzsxAeOeZEE=;sI+KkO8YB0NTczHbzGMGig=="
 ---

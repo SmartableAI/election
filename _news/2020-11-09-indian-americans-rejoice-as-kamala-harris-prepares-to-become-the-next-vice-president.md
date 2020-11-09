@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "‘Proud, ecstatic, happy’: For Black women in Bay Area, Kamala Harris’ election carries special meaning"
+    excerpt: "The victory of Harris, an Oakland native, gave Black women in the Bay Area hope for a broader range of possibilities for themselves and their families."
+    publishedDateTime: 2020-11-09T21:35:00Z
+    webUrl: "https://www.houstonchronicle.com/bayarea/article/Kamala-Harris-made-Black-women-feel-seen-Now-15711427.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 104
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/13/17/20231112/5/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "The Historic Barriers Kamala Harris Overcame to Become the First Female, First Black and First Asian American Vice President-Elect"
     excerpt: "For each of Harris' firsts, the history speaks to the breaking down of barriers that silenced the voices of people of color and women"
     publishedDateTime: 2020-11-07T20:11:00Z

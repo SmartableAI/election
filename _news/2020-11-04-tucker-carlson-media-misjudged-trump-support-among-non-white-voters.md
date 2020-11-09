@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump in 'stronger position than he was in 2016' in battleground states: Rep. McCarthy"
+    excerpt: "President Trump is in a \"stronger position than he was in 2016\" in battleground states Arizona, Wisconsin, Ohio and Georgia, House Minority Leader Kevin McCarthy said on Sunday."
+    publishedDateTime: 2020-11-01T18:33:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5sY1CudaMM/trump-2016-2020-battleground-states-kevin-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306646863849.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "rCYKFJTs56/asXLvkayHgIMmAmJ5EEtw+zI/5ReNxGBPzSuT6iYNCoUxpV5OnTti3f1ntmywc4lCDn12VCBIMP5TwPu0Uf8FCyJS8gvsW/oLViDt9s5hMRYftZEYjzO9cweusuh5QjP7CwH9tjoDiDOAhofP1HjiOMkhgaswcMTwkBcZvDBzM6YbBoQl3oiA9qWem4qQxM0vcUuwTEH+dIHsVks+DW+7dLjz8LQCM9djLdOVh/WAbugmq3IaTcMx80IHqrZFoo/6L2qkM7v9VrlfAMXTayTkUPiTjr2zCPyykV2i4nyEgHoSYK/U+h+c5oUI3gLffX4U9CJyLERVJ45f7WtiSZagjxCy/9LQyhw=;na97w/rtuCYsk+qRI7KecQ=="
 ---

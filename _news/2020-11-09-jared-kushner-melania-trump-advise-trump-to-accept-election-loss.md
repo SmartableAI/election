@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Growing Discomfort at Law Firms Representing Trump in Election Lawsuits"
+    excerpt: "Some lawyers at Jones Day and Porter Wright, which have filed suits about the 2020 vote, said they were worried about undermining the electoral system."
+    publishedDateTime: 2020-11-09T22:52:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/business/jones-day-trump-election-lawsuits.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/business/jones-day-trump-election-lawsuits.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/business/jones-day-trump-election-lawsuits.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/business/09JonesDay-01/09JonesDay-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "We followed one Trump supporter from elation to resignation."
     excerpt: "When someone stole the Trump sign from his yard, he replaced it with half a dozen new ones, one featuring an expletive. At his wedding last month, guests sauntered out in oversize Donald and Melania masks,"
     publishedDateTime: 2020-11-08T05:17:00Z

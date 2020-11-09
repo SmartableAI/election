@@ -31,161 +31,113 @@ images:
     isCached: true
 
 related:
-  - title: "Nevada election worker alleges voting irregularities, Trump campaign submits affidavit to DOJ"
-    excerpt: "The election worker, whose name was redacted, said they “had concerns over election polling place and intimation and voter fraud.\""
-    publishedDateTime: 2020-11-09T15:35:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LWwv5azM4h4/nevada-election-worker-voting-irregularities-trump-campaign"
-    ampWebUrl: "https://www.foxnews.com/politics/nevada-election-worker-voting-irregularities-trump-campaign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-election-worker-voting-irregularities-trump-campaign.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Election 2020 legal battles take shape as Trump campaign files lawsuits in key battleground states"
-    excerpt: "As expected, the 2020 presidential campaign season has evolved into a post-election battle consisting of legal challenges in crucial battleground states as President Trump's campaign attempts to prevent the counting of ballots they allege are or could be invalid."
-    publishedDateTime: 2020-11-05T14:46:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4fdXPQfexRc/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states"
-    ampWebUrl: "https://www.foxnews.com/politics/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24d1edb3-5012-4e50-9dee-37b68264fb37/23ee445b-9b29-4177-8443-ca7e45d0845a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "If Trump loses, he will regret 'denigrating mail-in voting': York"
-    excerpt: "If President Trump loses the election to Joe Biden as current vote tallies indicate, he could regret warning against mail-in voting, Fox News contributor Byron York argued Friday."
-    publishedDateTime: 2020-11-06T16:25:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york"
-    ampWebUrl: "https://www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
+  - title: "Sen. Rick Scott says Hispanics will help Trump win Florida"
+    excerpt: "Hispanic voters are going to help President Trump win Florida in the 2020 presidential election, Sen. Rick Scott, R-Fla., said on Monday."
+    publishedDateTime: 2020-11-02T19:16:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Nevada county judge keeps some polls open later after Trump campaign sues"
-    excerpt: "Some polling locations in Nevada’s Clark County will stay open until 8 p.m. after a GOP lawsuit. "
-    publishedDateTime: 2020-11-04T02:30:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjnqvgkV8MI/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues"
-    ampWebUrl: "https://www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
+  - title: "Trump rally in Florida lasts until nearly 1AM despite area curfew"
+    excerpt: "President Donald Trump held a late-night rally in Florida on Sunday night, which appeared to last until about 1 a.m., despite a midnight curfew in place for the area."
+    publishedDateTime: 2020-11-02T09:25:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wd1Mdg41Lqg/florida-trump-rally-goes-past-midnight-despite-curfew"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-trump-rally-goes-past-midnight-despite-curfew.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-trump-rally-goes-past-midnight-despite-curfew.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/New-york-voting-2020-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Federal judge dismisses Trump request to stop counting Philadelphia ballots"
-    excerpt: "A federal judge reportedly dismissed an emergency injunction brought by the Trump campaign Thursday afternoon to stop the counting of votes in Philadelphia, claiming election workers were ignoring an earlier court ruling over election observers."
-    publishedDateTime: 2020-11-06T10:05:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsjtNI2ijS8/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots"
-    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-dismisses-trump-request-to-stop-counting-philadelphia-ballots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310851009982.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20307224661221.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Graham announces $500G donation to Trump campaign legal efforts, calls Philly elections 'crooked as a snake'"
-    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., told \"Hannity\" Thursday he will donate $500,000 to the Trump campaign's legal efforts to challenge election procedures in multiple states, including Pennsylvania, Michigan and Nevada."
-    publishedDateTime: 2020-11-06T03:49:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nxWRMPh47O8/lindsey-graham-500g-donation-trump-2020-campaign-legal-challenges"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-500g-donation-trump-2020-campaign-legal-challenges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-500g-donation-trump-2020-campaign-legal-challenges.amp"
+  - title: "Karl Rove says Trump outperforming polls was 'remarkable achievement'"
+    excerpt: "President Trump went out with a bang in the 2020 presidential election as he defied all polling projections, Fox News contributor Karl Rove said on Monday."
+    publishedDateTime: 2020-11-09T17:13:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RdB1_PC5-MI/karl-rove-trump-outperforming-polls-incredible"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "How Trump clinched Florida victory with help of Hispanics in Miami-Dade County"
+    excerpt: "President Trump is projected to win Florida's 29 electoral votes thanks in part to Cuban American voters in the traditionally Democratic stronghold Miami-Dade County, which has a heavily Hispanic population."
+    publishedDateTime: 2020-11-04T18:47:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uT4aV8w6CY/trump-miami-florida-victory-cuban-american-latino-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign, GOP to appeal to Nevada Supreme Court to halt Vegas-area mail-in ballot count"
-    excerpt: "LAS VEGAS (AP) — President Donald Trump’s re-election campaign and Nevada Republicans filed notice Monday that they’ll ask the state Supreme Court to stop the count of mail-in ballots in Clark County, the state’s most populous and Democratic-leaning county, including Las Vegas."
-    publishedDateTime: 2020-11-03T15:32:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ob-d5Z_sbHI/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-gop-appeal-state-supreme-court-halt-vegas-mail-in-ballot-count.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20305794561511-e1604416769499.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309243472662.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump campaign files lawsuit in Arizona alleging Maricopa County rejected ballots by in-person voters"
-    excerpt: "The Trump campaign and the Republican National Committee on Saturday filed a lawsuit in Arizona alleging that Maricopa County incorrectly rejected votes cast by in-person voters on Election Day, just hours after the 2020 presidential race was called in favor of Joe Biden."
-    publishedDateTime: 2020-11-07T23:29:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XW5DTKRSAa4/trump-campaign-files-lawsuit-in-arizona-alleging-maricopa-county-rejected-votes-by-in-person-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-files-lawsuit-in-arizona-alleging-maricopa-county-rejected-votes-by-in-person-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-files-lawsuit-in-arizona-alleging-maricopa-county-rejected-votes-by-in-person-voters.amp"
+  - title: "Cindy McCain: Trump will remain a force in politics but Republicans want civility"
+    excerpt: "President Trump will remain a political force in politics, said Cindy McCain after the 2020 presidential election showing Democratic candidate Joe Biden as the likely leader."
+    publishedDateTime: 2020-11-09T21:54:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jbXG97U6KZ0/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump campaign holds protest in Las Vegas to decry irregularities, claim ‘dead people,’ non-Nevadans voted"
-    excerpt: "The Trump campaign held a Sunday afternoon press conference outside the Clark County Elections Department in Las Vegas to denounce alleged irregularities in last week’s election.  "
-    publishedDateTime: 2020-11-09T01:05:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzj9joR7Go8/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp"
+  - title: "Cuban Americans, senior citizens lean toward Trump in Florida: Fox News Voter Analysis"
+    excerpt: "President Trump may have support from senior citizens and Cuban-American voters to thank for his projected win in Florida and for its 29 Electoral College votes, according to polling from the Fox News Voter Analysis."
+    publishedDateTime: 2020-11-04T07:06:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wa6z-URpjV8/cuban-americans-senior-citizens-trump-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313858920634.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump campaign ballot counting lawsuits: What to know"
-    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
-    publishedDateTime: 2020-11-06T00:00:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
+  - title: "Trump's support from Black, Hispanic voters grows from 2016"
+    excerpt: "President Trump’s support among Black and Hispanic voters in the 2020 election appears to have grown since 2016 -- even as he lost support among White voters, according to a Fox News Voter Analysis."
+    publishedDateTime: 2020-11-05T18:28:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-S5oCQvW1g4/trump-black-hispanic-voters-support-grows-from-2016"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30612983-5295-4b6e-845c-e60d5be95cd3/dd15e1f5-fb42-4c4f-9d16-4e5de54c9e73/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -220,50 +172,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/John-Leguizamo.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "CNN's Don Lemon hits network for airing Trump's 'propaganda' visit to RNC office"
-    excerpt: "CNN anchor Don Lemon questioned the judgment of his own network Tuesday after it broadcast remarks President Trump made during his visit to a Republican National Committee office."
-    publishedDateTime: 2020-11-03T22:17:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81df12e9-89a4-4281-90fe-5e64638e305c/ebed9e3f-ad42-4ef4-847c-2443a3c03962/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Campaign Says It Plans Another Lawsuit Over Ballots, This One in Nevada"
-    excerpt: "President Trump's campaign said it plans to file a new lawsuit over election results, this one challenging thousands of ballots in the battleground state of Nevada. The federal lawsuit, which on Thursday morning didn't appear to have yet been filed,"
-    publishedDateTime: 2020-11-06T02:36:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/sB1uB8cxLZykF1fTcKj6"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 112
-    images:
-      - url: "https://images.wsj.net/im-255561?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Trump Campaign's Lawsuit in Michigan Seeks to Halt Counting of Absentee Ballots"
-    excerpt: "The Trump campaign filed a lawsuit Wednesday in Michigan’s court of claims seeking to halt the counting of absentee ballots, alleging that state counting boards were violating state law by counting absentee ballots without election inspectors present from both parties."
-    publishedDateTime: 2020-11-04T22:49:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/Fbw6qWaPRwgqzRfWHC2r"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 111
-    images:
-      - url: "https://images.wsj.net/im-255152?size=1.5"
-        width: 1280
-        height: 853
         isCached: true
 
 secured: "sRF5Zu7FsokCGN+m8Eboxj6RsX3G9eObCe8vi3PUnq0Mi6+PWlJ5xQ1wwtuH9vis/ADFAwbXbou1fd4GYqMx4WV15Y8UM9PhF9++vSvarSJeKp1rnTRp63De5TNDfmfeuzu3G3O4l4j/Ff329KpObufwUoQ4Fa3n/CMvP3BoO8ANB7+BxkAUzVZmbz78VWStFotmrPPPmLFraW5Dv/p0EgctrkxBx9eaK8Hum64YMZof0CXPUvegQHrS1eURauLBAaNmwNOlchEq0qAccR8sZ8Uk8cuWRZMRHVbKk6JcfMdPB4xJVgOPj5QEKwr91ptqGybhxCrEG3ywwYzKpxbXUJCLe4KttIBKjOSBqlw5BGQ=;x2hBrq01ZqAqB9qhXGCyPw=="

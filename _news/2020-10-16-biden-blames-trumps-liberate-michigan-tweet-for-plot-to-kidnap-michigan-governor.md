@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html"
 type: article
 quality: 184
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12elections-briefing-bay-city/12elections-briefing-bay-city-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Stevie Wonder campaigns for Joe Biden in Michigan"
+    excerpt: "Stevie Wonder went back to his home state to support Joe Biden's presidential campaign, calling the election “the most important one in my lifetime.”"
+    publishedDateTime: 2020-11-02T09:40:00Z
+    webUrl: "https://www.nbcnews.com/video/stevie-wonder-campaigns-for-joe-biden-in-michigan-95135301847"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95135301847"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95135301847"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/8be22.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump steel tariffs raised prices, shriveled up demand, led to job losses, some Michigan workers say"
     excerpt: "\"I don't see any policy that helped us. We are losing our damn jobs here,\" said the head of a steelworker union."

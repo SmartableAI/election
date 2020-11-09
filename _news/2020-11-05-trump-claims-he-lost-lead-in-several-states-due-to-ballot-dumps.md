@@ -108,6 +108,34 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign ballot counting lawsuits: What to know"
+    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
+    publishedDateTime: 2020-11-06T00:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Campaign's Lawsuit in Michigan Seeks to Halt Counting of Absentee Ballots"
+    excerpt: "The Trump campaign filed a lawsuit Wednesday in Michigan’s court of claims seeking to halt the counting of absentee ballots, alleging that state counting boards were violating state law by counting absentee ballots without election inspectors present from both parties."
+    publishedDateTime: 2020-11-04T22:49:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/Fbw6qWaPRwgqzRfWHC2r"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 111
+    images:
+      - url: "https://images.wsj.net/im-255152?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "oATsAR505ea7TeT8OBQeoANzTYz0eDO60tXySsviJRp7YqmbTLqro/M/Qt2BrxBw34WeGdlw8O7jS4H3HejRH20wDXZfg7kiLtBBdn2kcJ6Q958mpNVGtZKs34c0iP8r41Q9hF7P/voXVnMmm6yyjXIh+TfUC22uakiVrBJsFhOwpAxvVXLDfDsue3NUo1MPOYU5QIz9QfFxqzgnDev1SzTsDI5WWdV76K4zKRxE/Z99mDSfb7oQNdTK+zO7NO5evf+qHrRxNp9VxojGyPJ4axKj+lOpP6r1iWsr5hdjEeb3yXDceghxSY6rFo8Tv+lvBZpKy2WvuRG0UJxwRzWSeZOyefnlq1fWCeraHUvmDhc=;+FoaQwuTJmlEVPoodSIQJw=="
 ---
