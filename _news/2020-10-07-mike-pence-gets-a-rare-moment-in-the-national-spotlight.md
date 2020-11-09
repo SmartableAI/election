@@ -7,7 +7,7 @@ originalUrl: "https://www.npr.org/2020/10/07/921055053/mike-pence-gets-a-rare-mo
 webUrl: "https://www.npr.org/2020/10/07/921055053/mike-pence-gets-a-rare-moment-in-the-national-spotlight"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://media.ksdk.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Pence in the Wings"
+    excerpt: "Above the fireplace in the vice-presidential residence hangs a plaque with a verse from the Bible: “For I know the plans I have for you,” declares the Lord. “Plans to prosper you and not to ..."
+    publishedDateTime: 2020-10-03T00:00:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2020/10/mike-pences-role-after-trumps-covid-19-diagnosis/616600/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616600/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616600/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/LnDzNmQCkITB9cKazWdTjO1p3HM=/0x249:2393x1596/570x321/media/img/mt/2020/10/GettyImages_1061613692/original.jpg"
+        width: 570
+        height: 321
         isCached: true
 
 secured: "qp3OdhtJZglgdS0+hs+V4N5MLo85gVhvPLjzKovRKfs7aaiBrm/Fm97YLrf4cYSi2yf+nUuFptD1OqZ6knQZkYKnbmrG2i5B5ZOq7THPXcad6JeuYJgGNz1kE0gbW3XvbjaVllsk6ieNv7Z570i0XpXwcXs7Ak1bGvzH7rTvy817cudaU8z51oGOvLx9HLzTD+yK4NSvrrAQlk8KpZz0/11F+6RTVQNTjbi1UsmPedubSOw2m9PRLbPKzajAxRAym/+BAruXLeVlerxp5Uk1HmJYFZI9YWWE6RaJ5O5xJo1cVoTqgynk+qSkxwPy9AkW1IhffobJ20lV9Tv1UhU1tli+WuOyYi5dR+BIRgB2E0k=;CfSPUkO2SkGMyQv8B/lp8Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0FT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0FT"
 type: article
 quality: 125
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 818
     height: 545
     isCached: true
-
-related:
-  - title: "'Unfair' Donald Trump can't complain: Imagine if another candidate acted like he does"
-    excerpt: "Have voters finally reached their limit and are prepared to bring down the curtain on the Trump show? Tune in."
-    publishedDateTime: 2020-11-02T20:07:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/11/02/election-imagine-if-other-candidates-acted-like-trump-editorials-debates/6058615002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6058615002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6058615002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/498d4f6c-3c46-4d0b-ae54-1b37cf6dda8e-helsinki.JPG?auto=webp&crop=3405,1915,x0,y72&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "tOG0g1PHK0U6Pi4gxdszfcVQsz3O95vxeYx+3DdT2jnP+BU1BGXX9IRkD8kIE+yprKhsSXBxE/MFvjfyqvPuX3vZiJlo4Du79UlNZm3IW+yMJUw69mm2AJ5DMzHsIV3xIS+hh4KBwjIuR44Pk7WQli60ew0uqD1NtVfjXWqnpxXODyzbansSXiZanjnUaD42bLU7LuKeJuQQjf/5AjEwsLm85Bsv6Pio9ayIN6MAWZ0xcYjwtK2F116EMmirjEO9TsEAwcmmj/mTRsQ1kYwJ5IZHBGONt2eJz2xUJMNTmEhOwSudaBAUQ3pMm6dSafsKKgvTm41DFOQuX5Jtd7IAIsckuIdHN1ry6guozuhGBu6xs2mBUKjE5T+441TElI/Uz6VdDKOQp4GllDZLil0yOucNkxTQYwfUk7qZo7NyhfW8flZliT6baFzKvn2Yh2ekCp7W77Zc+9eeLoi5vUfuO38k+q4EZUBgVFDiLwO1xswawlj9GooPUMzgXSX3c2VybNygHDQy7Fc6acp5Rbiq0w==;Qq5O/A4jldpY7CMvP2V8aw=="
 ---

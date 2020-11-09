@@ -47,21 +47,65 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden looks to restore, expand Obama administration policies"
-    excerpt: "Joe Biden is promising to take the country on a very different path from what it has seen over the past four years under President Donald Trump, on issues ranging from the coronavirus and health care to the environment,"
-    publishedDateTime: 2020-11-02T10:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-restore-expand-obama-administration-policies-73964844"
+  - title: "Warren has expressed interest in being Biden's Treasury secretary: report"
+    excerpt: "Sen. Elizabeth Warren (D-Mass.) has expressed interest in serving as Democratic presidential nominee Joe Biden’s Treasury secretary if he defeats President Trump in next week’s race for the White House,"
+    publishedDateTime: 2020-10-30T00:59:00Z
+    webUrl: "https://thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report"
+    ampWebUrl: "https://thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_59af13eb499d41eab166674d0c65dbae_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/warrenelizabeth_bidenjoe_020120gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "A longtime fixture in U.S. politics, Biden seeks to win elusive prize"
+    excerpt: "Democratic U.S. presidential nominee and former Vice President Joe Biden during an appearance in Wilmington, Delaware, U.S., September 4, 2020. REUTERS/Kevin Lamarque"
+    publishedDateTime: 2020-10-31T15:39:00Z
+    webUrl: "https://www.reuters.com/news/picture/a-longtime-fixture-in-us-politics-biden-idUSKBN27G0EV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510681&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09B"
+        width: 810
+        height: 467
+        isCached: true
+  - title: "Lady Gaga Criticized Over Joe Biden Endorsement Video"
+    excerpt: "Lady Gaga criticized after campaigning for Joe Biden in a new video Several netizens slammed the singer’s appeal Others thanked Gaga because she inspired them to vote Lady Gaga received mixed responses from the netizens after sharing a video campaigning for Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-11-02T05:29:00Z
+    webUrl: "https://www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572"
+    ampWebUrl: "https://www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/08/tedros-can-call-also-on-some-top-level.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Conservative group’s claim that Joe Biden backs sex changes for kids is False"
+    excerpt: "Biden has stated opposition to discrimination against transgender people, he has not said he supports sex changes for children. In a tweet promoting its new attack ad, a conservative super PAC claims: \"Joe Biden says he supports sex changes for kids."
+    publishedDateTime: 2020-10-29T03:27:00Z
+    webUrl: "https://www.politifact.com/factchecks/2020/oct/27/american-principles-project/conservative-groups-claim-joe-biden-backs-sex-chan/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 52
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
         isCached: true
 
 secured: "LWQQwVy9w6c0HG4eA9MiAkQoQ3d1RCSK225o3oQrpIDT2N7ryFiB8B46oA8Q5bcR3AxO964yxh/SGlgXZbLghQY16L6W/o1QLUBEoGy/UNpeQgFUaD4ZjcW+dLuWfNAaYePze11a3ep/oL3kyI6M3NzEzzQImIRr9XSCVkUZOP4VnLiMrj2Or+YgJZ9jV4xm/UzAmia3uKwEjJiW1Vpe4S9iDim74AhxOYD060d66prV3eHDJ/KKHa3yBsUUORxox25+IQnGLX98C0Fjnax5boJ+sd9ku3Tyo95JMHyMlqz3e1u3rvFALCCc+ya8L178uaLEn3AdiNSnAM5dnrKpoWLKpy8rhS+7gpFsgd0NCW4=;nK7qoKxcJivzer1fEYzb5A=="

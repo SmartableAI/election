@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: Boston Herald
@@ -27,20 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Coronavirus Is A Key Campaign Issue: What's Joe Biden's Plan?"
-    excerpt: "With cases surging, the coronavirus pandemic is heating up as an election issue. Voters have seen President Trump's approach to the crisis play out in real-time, but how would Biden handle things?"
-    publishedDateTime: 2020-10-28T19:45:00Z
-    webUrl: "https://www.npr.org/sections/health-shots/2020/10/28/928392673/coronavirus-is-a-key-campaign-issue-whats-joe-biden-s-plan"
+  - title: "Vice President Mike Pence To Hold Rally In Portsmouth, New Hampshire"
+    excerpt: "Vice President Mike Pence will make a campaign stop in Portsmouth, New Hampshire Wednesday afternoon. He will headline a rally at Port City Air at 1:30 p.m. before moving on to Ohio for an evening event in Cincinnati."
+    publishedDateTime: 2020-10-21T13:00:00Z
+    webUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/"
+    ampWebUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/27/biden_wide-d2ce06a26f17d40267637f287c6c07c5694d9841.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
+      name: CBS Boston
+      domain: cbslocal.com
+    quality: 55
+  - title: "Pence drops by New Hampshire to read teleprompter"
+    excerpt: "The vice president will never be accused of being a great orator, or terribly inspiring on the stump. And he didn’t exceed expectations Wednesday. Even when he adopts a folksy tone à la George W. Bush,"
+    publishedDateTime: 2020-10-21T21:46:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/21/nation/pence-drops-by-new-hampshire-read-teleprompter/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/21/nation/pence-drops-by-new-hampshire-read-teleprompter/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/21/nation/pence-drops-by-new-hampshire-read-teleprompter/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
+  - title: "Vice President Pence Remarks at Campaign Rally in New Hampshire"
+    excerpt: "President Pence delivers remarks at a campaign rally in Portsmouth, New Hampshire. Vice President Pence delivers remarks at a campaign rally in Portsmouth, New Hampshire. Vice President Pence spoke at a Trump campaign rally in Selma,"
+    publishedDateTime: 2020-10-21T17:38:00Z
+    webUrl: "https://www.c-span.org/video/?477199-1/vice-president-pence-remarks-campaign-rally-hampshire"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "BxYcPlxWVEg7IwiDtepZ6/etz3HC2Y5WLREutssUFo06Y5da8SY9/cSYIJ3+E+Zg/naen3zd2gqqCApfIOdxwpc9RZFTE/nWa6zFiMUohjJTokiAszpI/rxZ4kKPPglmVm4PvxlHH0VopY/oQ1jvcTT1smZCydfMUMGvP/Jxg3VIH6tUmR42YcasLRVNh2CFj2FjCGFb9+TNF3yh5to2IRnsQS8L6OUe1Qhbm7ilnO+WFKGHuI8efodtGPoDJVI7+ctHmt5kegyK5xet5v0j3trcIEQucVCIn4apri7jXo29Dvbc9++CSErzNdkhSussFZlr7KIjajsW+LfQG3Md2YUx4jrmQbNt7HN1gyB2nHs=;zFGucTU/g+htKMcIbt2Pdw=="
 ---

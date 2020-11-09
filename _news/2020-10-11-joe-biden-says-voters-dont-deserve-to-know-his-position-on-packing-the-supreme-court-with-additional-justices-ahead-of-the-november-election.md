@@ -91,20 +91,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden Would Be a Sea Change For the Oil Industry"
-    excerpt: "A reversion to a less in-your-face style of U.S. leadership would lead to a steadier, albeit duller, oil market."
-    publishedDateTime: 2020-10-18T06:10:00Z
-    webUrl: "https://www.washingtonpost.com/business/energy/joe-biden-would-be-a-sea-change-for-theoil-industry/2020/10/18/f5eff0c4-1107-11eb-b404-8d1e675ec701_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XABZUARA4I6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "How Joe Biden - yes, Joe Biden - could revolutionize American politics"
     excerpt: "Joe Biden may be running a safe and centrist campaign, but beneath the methodical calm is a genuinely innovative ideological appeal. The former vice president is updating and bringing back the long-dormant Democratic tradition of labor liberalism."
     publishedDateTime: 2020-10-17T10:07:00Z
@@ -120,22 +106,6 @@ related:
       - url: "https://www.courant.com/resizer/62fGLeSoK1c5uUgQIK_MTD4KU9o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W3IYWI2YR5HIZOY2R6EEU5HYOU.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Joe Biden could return to Irish roots as US president"
-    excerpt: "Mr Biden was vice president. He wants to return, but next time as president. For now, heaven can wait. For Ronald Reagan it was Ballyporeen. For Barack Obama it was Moneygall. For Joe Biden it is Carlingford."
-    publishedDateTime: 2020-10-18T03:19:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54557939"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/158D7/production/_114897288_hi063809777.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "QGR0963d8YqEUI0EiOfsMJpZm/sfUeqx0cwmX1h6KfYJl9AeIq4FMFV6QLo0u+nza8LNRl92R+wLrG2lSz1Xv4LmgzAm9c+S8mC6nG6L/h9StQOJps09rQl7/K6Izm6TQkQz5ZVUhKlJxYpJmGgtUywCO1jhfQACAA1xP0n8WOE1wVVkGJtjWssMETNzrC4ynrBdvBvCzmNYonyJUJfojYW3HcTokBADOuf/DFQT7XauzbiLp7RxdO4038W2i6+1AY2C5IV+H42Mf4/l0bgLWhmhcZ+pxYYAWglLgrs7e1ZUhBd12VNdq5151FGy0dCO86gnyn3WBpHBiBILqUXdsXmglaAySH9jYc/A1719IXs=;G2FmsAcyNJv9E1u0UpSeNQ=="

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
+    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
+    publishedDateTime: 2020-10-16T13:14:00Z
+    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 47
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "60qNuV0xlINIZZYSsEHJilJTTEOsp8FZ20C8hLFE40NxMl8CDGTLCeP/wdcd9OqY3GHDMqS13gUjs95a2QWAtlfYegFezNBNX4iYzJ2PHFgx4Ej7GxQTQ06I+NvRhjXN6oX0sJ29W9w5UfBUN/euVg1q0uRA4dU81AKtRVTttu+tXJYdlG98M4arWBLud+o2UUbjj0Jt/lGSMSqnIgX6bH0HpnoraNoNWgLDnKyGPAx/PIBt8MYMoIqW0TSM8WjHrWxRl43RlG3tgxhiW46a124+O2ueK/c3sVBuR7rQ+TjrrKBJcZimO+RBE8lZAcVwJ483n+c4C2u6/H7pTynUJvYTPaJpy03Z4QS+E5tgbuA=;CMDwNkrQGECduRTXieqJ1A=="
 ---

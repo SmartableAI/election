@@ -25,149 +25,193 @@ images:
     isCached: true
 
 related:
-  - title: "Perdue's rival raises nearly $2M after senator mispronounces Kamala Harris's name"
-    excerpt: "Democratic Georgia Senate candidate Jon Ossoff said his campaign raised nearly $2 million after Sen. David Perdue (R-Ga.) mispronounced Sen. Kamala Harris’s (D-Calif.) name at a Trump campaign event."
-    publishedDateTime: 2020-10-19T13:02:00Z
-    webUrl: "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name"
-    ampWebUrl: "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name?amp"
+  - title: "Kamala Harris questions Supreme Court nominee: US election news"
+    excerpt: "Donald Trump began his rally in Johnstown, Pennsylvania, a bit late but he had a good excuse: He was watching Kamala Harris question his Supreme Court nominee Amy Coney Barrett. “That’s ..."
+    publishedDateTime: 2020-10-13T14:49:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 120
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/ossoffjohn_perduedavid_072920getty_split.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Georgia GOP Sen. Perdue faces criticism after 'mockingly' mispronouncing Kamala Harris' name"
-    excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""
-    publishedDateTime: 2020-10-17T12:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3686517001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3686517001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/3fcd34f3-d788-4bc0-95a6-39d3de585056-AP_Election_2020_Trump_10.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20287836163811.jpg?resize=1200%2C630"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Kamala Harris to campaign in Florida on Monday"
-    excerpt: "Kamala Harris (D-Calif.) took a COVID-19 test on Saturday and the virus was not detected, according to a campaign aide. Driving the news: The Democratic vice presidential nominee paused her campaign travel through Sunday after her communications director tested positive for the coronavirus."
-    publishedDateTime: 2020-10-17T21:54:00Z
-    webUrl: "https://www.axios.com/kamala-harris-test-negative-covid-19-florida-678e31bb-387f-468b-b123-08052062cb8d.html"
-    ampWebUrl: "https://www.axios.com/kamala-harris-test-negative-covid-19-florida-678e31bb-387f-468b-b123-08052062cb8d.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-test-negative-covid-19-florida-678e31bb-387f-468b-b123-08052062cb8d.html"
+  - title: "WATCH: Sen. Kamala Harris questions Supreme Court nominee Amy Coney Barrett on voter suppression"
+    excerpt: "The Supreme Court nominee has refused in two days of testimony in her confirmation hearing to opine on many topics, including whether a president can unilaterally delay the election."
+    publishedDateTime: 2020-10-15T00:28:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 75
+      name: PBS
+      domain: pbs.org
+    quality: 112
     images:
-      - url: "https://images.axios.com/uiWeMyAsIiogKtDBqaVoppQU27c=/fit-in/1366x1366/2020/10/17/1602970013282.jpg"
-        width: 1366
-        height: 909
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-12T172504Z_1286218462_RC25HJ95J0MV_RTRMADP_3_USA-COURT-BARRETT1-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Sen. Kamala Harris campaigning in Jacksonville Monday"
-    excerpt: "Sen. Kamala Harris, Democratic vice presidential nominee, is planning a campaign stop in Jacksonville on Monday. Details on the visit have not been released yet. Harris is resuming in-person campaigning after two people associated with the campaign tested positive for coronavirus."
-    publishedDateTime: 2020-10-17T20:26:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/politics/kamala-harris-campaigning-in-jacksonville-monday/77-ab01292c-b50e-4e10-8fac-ddd2a18f118c"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/politics/kamala-harris-campaigning-in-jacksonville-monday/77-ab01292c-b50e-4e10-8fac-ddd2a18f118c"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/politics/kamala-harris-campaigning-in-jacksonville-monday/77-ab01292c-b50e-4e10-8fac-ddd2a18f118c"
+  - title: "Senator Kamala Harris: Republicans trying to \"jam through\" Amy Coney Barrett nomination"
+    excerpt: "At confirmation hearings for Supreme Court nominee Amy Coney Barrett, Senator Kamala Harris accused her Republican colleagues of attempting to \"jam through\" approval before Election Day, and warned that the Affordable Care Act and numerous rights Americans rely on are at risk."
+    publishedDateTime: 2020-10-12T17:40:00Z
+    webUrl: "https://www.cbsnews.com/video/senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination/"
     type: article
     provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 75
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
     images:
-      - url: "https://media.firstcoastnews.com/assets/WTLV/images/627406b8-f5dd-4959-90dc-63b6acd29c17/627406b8-f5dd-4959-90dc-63b6acd29c17_750x422.png"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/2d5e0841-796e-493e-9f04-f3bf44d13c2c/thumbnail/1200x630/819834dc9a7096ad7a6913e7d8141769/cbsn-fusion-senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination-thumbnail-564550-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Democrats must ‘leave no doubt on election day’ Kamala Harris' husband says in Michigan"
+    excerpt: "Michigan Democrats urged voters to get involved in the effort to elect Joe Biden during campaign events across the state Monday. Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris,"
+    publishedDateTime: 2020-10-12T23:36:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 82
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UUAFEIVJXRE23JICAW4FRWYUUI.JPG"
+        width: 1300
+        height: 794
+        isCached: true
+  - title: "Kamala Harris Grills Supreme Court Nominee Amy Coney Barrett Over Obamacare"
+    excerpt: "Amy Coney Barrett faced tough questions from Kamala Harris on how she would rule on Obamacare SCOTUS case but avoided giving a straight answer several times"
+    publishedDateTime: 2020-10-14T19:30:00Z
+    webUrl: "https://www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/"
+    ampWebUrl: "https://www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 73
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/05/4H3A0250-e1558377946157.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "Pressure on Kamala Harris, Dianne Feinstein at Amy Coney Barrett’s confirmation hearing"
+    excerpt: "When Judge Amy Coney Barrett is seated Monday for her Supreme Court confirmation hearing, California Sens. Dianne Feinstein and Kamala Harris will be in focus and facing different pressures in one of the biggest moments of each of their careers."
+    publishedDateTime: 2020-10-11T11:12:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 67
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/50/24/20088119/5/375x250.jpg"
+        width: 367
+        height: 250
+        isCached: true
+  - title: "Watch: Trail Blazers’ CJ McCollum interviews VP nominee Kamala Harris during Remaking America"
+    excerpt: "The Blazers' starting shooting guard interviewed the democratic candidate for Vice President in his new show, Remaking America."
+    publishedDateTime: 2020-10-20T20:07:00Z
+    webUrl: "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html"
+    ampWebUrl: "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 64
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OIANM34RPNFNJD6AY4FG5OBJQM.JPG"
+        width: 2968
+        height: 2220
+        isCached: true
+  - title: "Amy Coney Barrett Refuses To Tell Kamala Harris If She Thinks Black Voter Discrimination Exists"
+    excerpt: "No one doubts that.” It was in that context that Harris simply asked Barrett if she agrees with that opinion. Kamala Harris is describing the gutting of the VRA. Barrett looks like she is ..."
+    publishedDateTime: 2020-10-13T11:18:00Z
+    webUrl: "https://newsone.com/4030470/kamala-harris-amy-coney-barrett-supreme-court-confirmation-hearing/"
+    ampWebUrl: "https://newsone.com/4030470/kamala-harris-amy-coney-barrett-supreme-court-confirmation-hearing/amp/"
+    cdnAmpWebUrl: "https://newsone-com.cdn.ampproject.org/c/s/newsone.com/4030470/kamala-harris-amy-coney-barrett-supreme-court-confirmation-hearing/amp/"
+    type: article
+    provider:
+      name: NewsOne
+      domain: newsone.com
+    quality: 63
+    images:
+      - url: "https://ionenewsone.files.wordpress.com/2020/10/16026347644687.jpg?quality=80&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Claire McCaskill Says Kamala Harris Grilling Was First to ‘Hurt’ Amy Coney Barrett’s Credibility"
+    excerpt: "Claire McCaskill said that Senator and vice-presidential nominee Kamala Harris was the first questioner to hurt Judge Amy Coney Barrett's credibility at the ongoing Supreme Court confirmation hearings."
+    publishedDateTime: 2020-10-14T16:53:00Z
+    webUrl: "https://www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/"
+    ampWebUrl: "https://www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 62
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joy-Reid-Claire-McCaskill.jpg"
+        width: 1200
+        height: 624
+        isCached: true
+  - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket?"
+    excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."
+    publishedDateTime: 2020-10-15T20:25:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246481970.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246481970.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246481970.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 62
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/70f7fa99-4b85-46e4-837e-1a7993be9522/60c69175-10cb-490d-936b-43105ffe89f5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris: Judge Coney Barrett's faith shouldn't matter in Supreme Court confirmation hearings"
+    excerpt: "Democratic Vice Presidential nominee Kamala Harris says Judge Amy Coney Barrett’s faith should not be an issue at Coney Barrett’s confirmation hearings this week. “One’s faith should never be the basis of supporting or rejecting a nominee."
+    publishedDateTime: 2020-10-12T02:42:00Z
+    webUrl: "https://www.12news.com/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 61
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/43f8472a-4aa3-44d2-89fa-c77c0c174cab/43f8472a-4aa3-44d2-89fa-c77c0c174cab_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "Watch ‘super racist’ rant against Kamala Harris by GOP senator at Georgia MAGA rally"
-    excerpt: "Republicans are playing political defense in the once reliably-red state of Georgia. President Donald Trump is holding a Friday night campaign rally despite the coronavirus pandemic and had Sen. David Perdue (R-GA) warm up the crowd."
-    publishedDateTime: 2020-10-17T04:13:00Z
-    webUrl: "https://www.rawstory.com/2020/10/watch-super-racist-rant-against-kamala-harris-by-gop-senator-at-georgia-maga-rally/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/watch-super-racist-rant-against-kamala-harris-by-gop-senator-at-georgia-maga-rally/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-super-racist-rant-against-kamala-harris-by-gop-senator-at-georgia-maga-rally/amp/"
+  - title: "Trump Court Nominee Fends Off Questions On Abortion, Health Care"
+    excerpt: "US President Donald Trump's Supreme Court nominee Amy Coney Barrett told lawmakers Tuesday she would put personal and religious beliefs aside when deciding landmark cases but stopped short of revealing how she would rule on hot-button issues like abortion."
+    publishedDateTime: 2020-10-14T03:27:00Z
+    webUrl: "https://www.ibtimes.com/trump-court-nominee-fends-questions-abortion-health-care-3060657"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 68
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/David-Purdue.png"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Outrage Over Mispronunciation of Kamala Harris’ Name, Supporters Launch Online Campaign"
-    excerpt: "The mispronunciation outraged a large number of Harris' supporters and her spokesperson Sabrina Singh said, I'll keep it simple: If you can pronounce 'former' Senator David Perdue, you can pronounce 'future' Vice President Kamala Harris."
-    publishedDateTime: 2020-10-18T04:46:00Z
-    webUrl: "https://www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/"
-    ampWebUrl: "https://www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 67
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2020/08/Kamala-Harris-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Georgia GOP Sen. Perdue faces criticism after purposefully mispronouncing Kamala Harris' name"
-    excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""
-    publishedDateTime: 2020-10-17T02:47:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3686517001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3686517001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 64
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/3fcd34f3-d788-4bc0-95a6-39d3de585056-AP_Election_2020_Trump_10.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "David Perdue's Mocking of Kamala Harris' Name is Turning Into the Self-Own to End All Self-Owns"
-    excerpt: "It must be hard out here for a Republican these days. Imagine having to choose between being a decent human being and appealing to your deplorable base. We learned all through the Obama years how a foreign-sounding name on a brown person gives racist ass xenophobes conservative voters the heebee jeebees."
-    publishedDateTime: 2020-10-18T15:51:00Z
-    webUrl: "https://www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435"
-    ampWebUrl: "https://www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435/amp"
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 63
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fopcp5p4uhnol5lcvz4v.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Poultry company distances itself from GOP's Perdue amid uproar over Republican mocking Kamala Harris"
-    excerpt: "Sen. David Perdue, Georgia Republican, unwillingly put the chicken company sharing his surname on the defensive Saturday by ruffling feathers during a Trump rally the night before."
-    publishedDateTime: 2020-10-17T22:35:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 60
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2018/01/14/trump_42066_c0-0-2973-1734_s1200x700.jpg?f05d20b9dd9583e95c8cd473cbc2c16a25fe80c2"
-        width: 1200
-        height: 700
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/judge-amy-coney-barrett-a-practicing-catholic-is.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Don Lemon Fires Back at Sen. Perdue, Offers Up Remedial Visual Aid for Pronouncing Kamala Harris’ Name Correctly"
     excerpt: "CNN's Don Lemon fires back at Sen. David Perdue, offers up grade school-level visual aid for pronouncing Kamala Harris' name correctly"
@@ -185,61 +229,22 @@ related:
         width: 946
         height: 532
         isCached: true
-  - title: "Kamala Harris Cancels Travel After Staff Members Test Positive For Covid-19"
-    excerpt: "Kamala Harris canceling all campaign travel through this weekend, after two people involved with the campaign test positive for Covid-19. Veuer's Elizabeth Keatinge has more."
-    publishedDateTime: 2020-10-19T09:50:00Z
-    webUrl: "https://www.10tv.com/video/syndication/veuer/kamala-harris-cancels-travel-after-staff-members-test-positive-for-covid-19/602-72b05335-6d45-4071-86cd-3365d78bd156"
+  - title: "CJ McCollum interviews Kamala Harris, Jusuf Nurkic recruits Danilo Gallinari, Pacers hire new coach, burning offseason questions: NBA news and notes"
+    excerpt: "The Portland Trail Blazers' starting shooting guard, who has aspirations of moving into broadcasting after his NBA career, will interview Sen. Kamala Harris (D-Calif.), the Democratic nominee for Vice President,"
+    publishedDateTime: 2020-10-20T19:45:00Z
+    webUrl: "https://www.oregonlive.com/blazers/2020/10/cj-mccollum-interviews-kamala-harris-jusuf-nurkic-recruits-danilo-gallinari-pacers-hire-new-coach-burning-offseason-questions-nba-news-and-notes.html"
+    ampWebUrl: "https://www.oregonlive.com/blazers/2020/10/cj-mccollum-interviews-kamala-harris-jusuf-nurkic-recruits-danilo-gallinari-pacers-hire-new-coach-burning-offseason-questions-nba-news-and-notes.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/blazers/2020/10/cj-mccollum-interviews-kamala-harris-jusuf-nurkic-recruits-danilo-gallinari-pacers-hire-new-coach-burning-offseason-questions-nba-news-and-notes.html?outputType=amp"
     type: article
     provider:
-      name: 10TV.com
-      domain: 10tv.com
-    quality: 53
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 36
     images:
-      - url: "https://media.tegna-media.com/assets/VEUER/images/43c5298a-0ffa-4933-8aa9-79a57d21ce16/43c5298a-0ffa-4933-8aa9-79a57d21ce16_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZT2S4LWM6NC6XBJKQN65JSNMDQ.JPG"
+        width: 3629
+        height: 2419
         isCached: true
-  - title: "Kamala Harris Just Slammed the Senate GOP for “Reckless” Endangerment of Capitol Staff"
-    excerpt: "\"Senate Republicans have made it crystal clear that rushing a Supreme Court nomination is more important than helping and supporting the American people.\""
-    publishedDateTime: 2020-10-12T18:40:00Z
-    webUrl: "https://www.motherjones.com/politics/2020/10/kamala-harris-just-slammed-the-senate-gop-for-reckless-endangerment-of-capitol-staff/"
-    type: article
-    provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 47
-    images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/20200821_sha_z03_372.jpg?w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Senator Kamala Harris Campaigns in Jacksonville, Florida"
-    excerpt: "Kamala Harris (D-CA) speaks at a voter mobilization event in Florida’s capital of Jacksonville on the state’s first day of in-person voting. 2020 vice presidential candidate Sen. Kamala Harris (D-CA) speaks at a voter mobilization event in Florida’s capital of Jacksonville on the state’s first day of in-person voting."
-    publishedDateTime: 2020-10-19T16:23:00Z
-    webUrl: "https://www.c-span.org/video/?477126-1/senator-kamala-harris-campaigns-jacksonville-florida"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Campaigns in Orlando, Florida"
-    excerpt: "T11:55:00-04:00 Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Senator Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Javascript must be enabled in order to access C-SPAN videos."
-    publishedDateTime: 2020-10-19T16:12:00Z
-    webUrl: "https://www.c-span.org/video/?477125-1/senator-kamala-harris-campaigns-orlando-florida"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Kamala Harris gives Orlando speech on first day of early voting in Florida"
-    excerpt: "On her first stop in Florida, Kamala Harris gave a speech encouraging voters to go to the polls on the first day of early voting in Florida. Harris attacked President Trump's coronavirus response while assuring viewers that change was coming."
-    publishedDateTime: 2020-10-19T16:53:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article246557098.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 33
 
 secured: "kKhdz1/qNotwgzZXdjbwd5opbmnXqDAFkHJxb+1NDcbSXCpGyZv02mGn0Yr5HE76xuubop6wmnF3uVd+7T6uVkFMLzD45NSNlb8IUhr2MY/Mw1jkoUD0HVyS1LOQ+Ra5CC7uAare1/+jsr/MeqN5M1XnS4cWEKAHgK0VsmCXcamKtdUzF0QR8+Pf3KK382FQ+eRX61cQlA38m4QewW0J2YEeZCfWLnEOo9LnQJx3Iv8DQEdnJ4AnD+NhH+Og1D/6u9SUsJyhBn4YB+G36Z2S8zL5aBZKpP3kUzoraTKlufkS4PA7PH+z9LW1ccgxKmuPuvANEy397VgEQVyz+pzpppaPullS3Duzwk69zp+ZSP0wyTrWPk73fIwuvKBdJqpiMx/A4VJfQSWV5wjXT5wHPXsORdRiGiJLCAZKv4unj2XrOtcZrtgHvnD0HHupdCGQEzMCoH8Pjm3CmH8e6+o2/pBlUFvelQXZROI+slSWPCrGehtHPkCuiHMknBuK05x07g4RFWgMVuIMTMsE+oCjJA==;3FMdmYo/0fOF3UYc2vCerQ=="
 ---

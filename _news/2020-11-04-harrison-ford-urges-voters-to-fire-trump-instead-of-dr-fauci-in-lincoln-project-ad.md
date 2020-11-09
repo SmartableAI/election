@@ -27,161 +27,285 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Says Kamala Harris 'Won't Be First Woman President,' Rallygoers Demand Ivanka"
-    excerpt: "Trump said Kamala Harris will \"take over\" for Biden three weeks into his term if he wins before declaring, \"she will not be the first woman president\" Tuesday at a Lansing, Michigan campaign event."
-    publishedDateTime: 2020-10-27T21:24:00Z
-    webUrl: "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635"
-    ampWebUrl: "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1"
+  - title: "Donald Trump threatens to fire Anthony Fauci after US election"
+    excerpt: "President plays up to chants of ‘Fire Fauci’ at curfew-breaching Florida rally"
+    publishedDateTime: 2020-11-02T06:48:00Z
+    webUrl: "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 144
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
     images:
-      - url: "https://d.newsweek.com/en/full/1659983/ivanka-trump-president-first-woman.jpg"
-        width: 2500
-        height: 1515
+      - url: "https://i.guim.co.uk/img/media/c8badd8268933ba924e08c538154c63169eb8efc/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c3b474212f71a4627a0c35b42391f3f6"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump on Kamala Harris: U.S. won't have socialist president, \"especially a female socialist\""
-    excerpt: "President Trump was back on the campaign trail Friday in his \"home state\" of Florida after the second and final debate against Democratic nominee Joe Biden. Mr. Trump is trying to win over seniors and women,"
-    publishedDateTime: 2020-10-24T02:59:00Z
-    webUrl: "https://www.cbsnews.com/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 129
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/20/021f18e6-a586-49c0-9a21-c58e187d4dc3/thumbnail/1200x630/5002ee90f26625444a995cd674070d36/gettyimages-1229173896.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President Donald Trump said wind turbines kill 'all the birds.' Cats and radio towers kill far more."
-    excerpt: "President Donald Trump's claim that wind turbines pose a great threat to our avian friends is dubious at best."
-    publishedDateTime: 2020-10-24T02:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/23/trump-biden-during-2020-debate-windmills-kill-all-birds/3744837001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3744837001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3744837001"
-    type: article
-    provider:
-      name: Florida Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump made many promises in 2016 and early in his term. Which has he kept and what is he still working on?"
-    excerpt: "But not on others such as bringing back coal and replacing Obamacare. Trump: Biden against 'oil, guns and God' President Donald Trump says he's not a politician. As proof, the real estate developer points to the promises he made both on the 2016 campaign ..."
-    publishedDateTime: 2020-10-27T14:18:00Z
-    webUrl: "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/trump-campaign-promises-judges-wall-health-care-did-he-deliver/5927100002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5927100002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5927100002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/a6cf6981-2aba-49a7-8581-aa5bd30b4748-Promo_art-01.png?auto=webp&crop=864,486,x1000,y802&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Hundreds of Trump rallygoers were stranded in the cold because there reportedly weren't enough buses to transport them back to their cars"
-    excerpt: "Medics transported at least seven people to the hospital and police officers gave rides to elderly rallygoers."
-    publishedDateTime: 2020-10-28T15:19:00Z
-    webUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
+  - title: "Chinese state media laughed at Trump after he falsely claimed victory in the 2020 election"
+    excerpt: "Trump has so far not accepted the results of the election, falsely claiming that he won the race just before major networks called it for Biden Saturday."
+    publishedDateTime: 2020-11-07T18:52:00Z
+    webUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 92
+    quality: 130
     images:
-      - url: "https://i.insider.com/5f9964b669331a0011bc5a67?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa6e7bdf7d1cb0019e3a63d?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Kamala Harris blames Trump for COVID-19 'mass casualty event’ during Michigan visit"
-    excerpt: "Democratic vice presidential nominee Kamala Harris said President Donald Trump’s handling of the coronavirus pandemic caused the “greatest mass casualty event s"
-    publishedDateTime: 2020-10-26T04:15:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
+  - title: "After \"Fire Fauci\" chants, Trump tells crowd: \"Let me wait till a little bit after the election\""
+    excerpt: "Speaking at a big campaign rally in Opa-locka, Florida, Mr. Trump voiced frustration that the pandemic which has killed more than 231,000 Americans continues to dominate the news, sparking chants of \"Fire Fauci\" from the crowd."
+    publishedDateTime: 2020-11-02T16:34:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-fire-fauci-chants-after-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-fire-fauci-chants-after-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-fire-fauci-chants-after-election/"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 84
+      name: CBS News
+      domain: cbsnews.com
+    quality: 127
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GJWXLVLC75EXNLWNT2JDQ3BBFM.JPG"
-        width: 4992
-        height: 4006
-        isCached: true
-  - title: "Barack Obama Disses Donald Trump, Waka Flocka Thinks Trump Is A Better President"
-    excerpt: "The rapper weighed in with his opinion and people can't stop talking about it. Former President Barack Obama seemed as if he was having a grand time throwing jabs at President Donald Trump. Obama spoke at a drive-in rally for former Vice President Joe Biden and his running mate Kamala Harris and"
-    publishedDateTime: 2020-10-22T06:25:00Z
-    webUrl: "https://www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 70
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603347710_7b987da563e06aa13399873c4d3427f3.jpg/9e63961120160ca0c8457438ae717356/1603347710_25e8d958f46e8b87c3a5d322492457c0.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/8180f174-a565-4c3d-b9d2-788be32f5164/thumbnail/1200x630/4cf0bb67e8323ce21d5569410f9a527d/gettyimages-1229411509.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Brett Favre says he will vote for Donald Trump, expected to appear with president at Green Bay rally"
-    excerpt: "Brett Favre became the latest ex-athlete to declare his support for President Donald Trump, tweeting that the Republican nominee will have his vote on Friday. The former NFL quart"
-    publishedDateTime: 2020-10-30T16:09:00Z
-    webUrl: "https://www.freep.com/story/sports/nfl/2020/10/30/brett-favre-donald-trump-2020-election/6084326002/"
-    ampWebUrl: "https://amp.freep.com/amp/6084326002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6084326002"
+  - title: "'I appreciate the advice': Trump tells crowd chanting, 'Fire Fauci!' to wait until after election"
+    excerpt: "President Trump hinted he might fire Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, during a rally in Florida."
+    publishedDateTime: 2020-11-04T10:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/02/trump-fire-fauci-after-election/6120265002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6120265002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6120265002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 60
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/05/USAT/baf2b429-623c-4b49-bb82-7b10cc4c203f-XXX_0807_Clemson_practice__28.jpg?auto=webp&crop=2317,1303,x100,y86&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/07/14/USAT/141e651b-459d-436d-a7d2-7378647509ea-fauci.jpg?auto=webp&crop=4573,2572,x0,y232&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Pence Remarks at Trump Campaign Rally in Grand Rapids, Michigan"
-    excerpt: "On the eve of the 2020 election, Vice President Mike Pence spoke at a Trump campaign rally in Grand Rapids, Michigan. The vice president criticized his predecessor, Democratic presidential nominee Joe Biden,"
-    publishedDateTime: 2020-11-03T22:00:00Z
-    webUrl: "https://www.c-span.org/video/?477687-2/vice-president-pence-remarks-trump-campaign-rally-grand-rapids-michigan"
+  - title: "How Republicans can grow the party's base after Donald Trump is gone"
+    excerpt: "Republican operatives at the Lincoln Project spin wicked videos designed to get under President Donald Trump’s skin. Veterans from the Bush Administration sign up with 43 Alumni for Biden. Retired security officers leap on the blue bandwagon."
+    publishedDateTime: 2020-10-28T22:05:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/27/how-republicans-can-save-party-and-grow-their-base-after-trump-column/6038458002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6038458002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038458002"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 46
-  - title: "President Trump and Vice President Pence Campaign Rally in Grand Rapids, Michigan"
-    excerpt: "On the eve of the 2020 election, Vice President Mike Pence made a final pitch to voters at a rally in Grand Rapids, Michigan. The vice president criticized his predecessor, 2020 Democratic presidential nominee Joe Biden,"
-    publishedDateTime: 2020-11-03T20:22:00Z
-    webUrl: "https://www.c-span.org/video/?477687-1/president-trump-vice-president-pence-campaign-rally-grand-rapids-michigan"
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Can Trump 'Fire Fauci'? Not easily, but he could make it messy"
+    excerpt: "Can President Trump fire Dr. Anthony Fauci as he suggested he might do after the election? Not easily, but he could make it messy."
+    publishedDateTime: 2020-11-02T22:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-fire-fauci-easily-make-messy/story?id=73971488"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-fire-fauci-easily-make-messy/story?id=73971488"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-fire-fauci-easily-make-messy/story?id=73971488"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 45
-  - title: "President Trump and Vice President Pence Speak at Campaign Rally in Traverse City, Michigan"
-    excerpt: "President Trump and Vice President Mike Pence spoke at a campaign rally in Traverse City, Michigan. There are about 16 minutes between the vice president and president's remarks."
-    publishedDateTime: 2020-11-04T03:22:00Z
-    webUrl: "https://www.c-span.org/event/?477685/"
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/fauci-trump-gty-ps-201102_1604346776288_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "'I appreciate the advice': After crowd chants 'Fire Fauci!' Trump says to wait until after the election"
+    excerpt: "\"Let me wait 'til a little bit after the election, please,\" Trump told the crowd, which had started a resounding chant of \"fire Fauci!\""
+    publishedDateTime: 2020-11-02T13:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/02/trump-fire-fauci-after-election/6120265002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6120265002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6120265002"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 40
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/14/USAT/141e651b-459d-436d-a7d2-7378647509ea-fauci.jpg?auto=webp&crop=4573,2572,x0,y232&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump’s New Executive Order May Make It Easier To Fire Scientists Like Fauci"
+    excerpt: "Trump recently signed an Executive Order creating a Schedule F class of government employee that could have lasting implications even if former Vice-President Joe Biden were to win the upcoming election."
+    publishedDateTime: 2020-10-26T08:44:00Z
+    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/"
+    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 122
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9487bb2b122fa1efaa12d2%2F0x0.jpg"
+        width: 1200
+        height: 891
+        isCached: true
+  - title: "Democrats demand docs tied to Trump order stripping civil service protections"
+    excerpt: "Democrats on the House Oversight Committee asked the White House on Wednesday to turn over a trove of documents related to a recent order that strips some civil servants of worker protections."
+    publishedDateTime: 2020-10-28T21:16:00Z
+    webUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service"
+    ampWebUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_10262020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump reportedly slammed Anthony Fauci as 'a disaster' on a campaign phone call"
+    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said on a call, CNN reported. \"People are tired of hearing Fauci and all these idiots.\""
+    publishedDateTime: 2020-10-20T00:34:00Z
+    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship"
+    excerpt: "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain."
+    publishedDateTime: 2020-10-28T09:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3718797001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718797001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/31/USAT/5f2d0ac9-24b5-43ca-bb6c-a6da956b363b-AFP_AFP_1VA3UJ.jpg?auto=webp&crop=4011,2257,x0,y355&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Trump reportedly slammed Anthony Fauci as \"a disaster\" in a campaign phone call"
+    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said. \"People are saying whatever. Just leave us alone.\""
+    publishedDateTime: 2020-10-19T16:25:00Z
+    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "As Trump Claims Pandemic Will' End Quickly,' Fauci Warns U.S. May Not Return To 'Normal' Until 2022."
+    excerpt: "\"People were ridiculed for wearing masks. It depended on what side of the political spectrum you were at, which was so painful to me.\""
+    publishedDateTime: 2020-10-28T15:15:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 110
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9989a1933623c150489525%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D193%26cropY2%3D1993"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The US's top cybersecurity agency just threw cold water on Trump's claim that election results in battleground states are fraudulent"
+    excerpt: "CISA quickly debunked Trump's latest claims that the election results in key battleground states are rigged against him as Biden takes the lead."
+    publishedDateTime: 2020-11-04T18:32:00Z
+    webUrl: "https://www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f8f521ab0526700185cc7a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Dr. Fauci's COVID comment angers Pres. Trump"
+    excerpt: "Watch \"Dr. Fauci's COVID comment angers Pres. Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-02T12:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201102124016-dr-faucis-covid-comment-angers-pres-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/02/story_07506271_1604321044.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump threatens to fire Fauci in rift with disease expert"
+    excerpt: "President Donald Trump is suggesting that he will fire Dr. Anthony Fauci after Tuesday’s election, as his rift with the nation’s top infectious disease expert widens while the nation sees its most alarming outbreak of the coronavirus since the spring."
+    publishedDateTime: 2020-11-02T12:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Here Are the All the Lawsuits the Trump Campaign Has Filed Since Election Day—And Why Most Are Unlikely to Go Anywhere"
+    excerpt: "It was the latest indication that, even as Trump’s path to victory evaporates, his campaign will continue to fight the outcome in court. This week alone, the Trump campaign blitzed state and federal courts with roughly a dozen new lawsuits,"
+    publishedDateTime: 2020-11-07T17:51:00Z
+    webUrl: "https://time.com/5908505/trump-lawsuits-biden-wins/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 96
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Pennsylvania-Trump-election-lawsuits-vote-counting.jpg"
+        width: 6720
+        height: 4480
+        isCached: true
+  - title: "2 days after Donald Trump’s visit, Mike Pence returning to Arizona"
+    excerpt: "Vice President Mike Pence is coming back to Arizona on Friday, four days before Election Day, for rallies in Flagstaff and Tucson."
+    publishedDateTime: 2020-10-28T21:44:00Z
+    webUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/"
+    ampWebUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 90
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2020/10/ap_7e3e06fc1c1a4e0891785a8538a2833c-15.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "SZCcxN8qjHqcIuyZALZmvpA9heLSTWgCvikreNX+U2KaN+Pu9X0exASQcvyQ5joLyzuScsGZcz1r1ezm0HAKy4HI0knrR8k1dif9dG9KTSTUT5D6OKDJd/IRcfO/SLyr9soUw1MuNrneevg+p9Txz1OXcSHbpA7Rc3ZDIct1ePDI3C13P1Tuf4vWRsQxq2aTXAgt8b1NQPpfBaHe9DDfG/x3907O5dU9od1ApyZ5v4yA+I2mgnyIrj4edtBM8lsafxYRoAu2qbhqW/g9RP2j//XBOFUEs79oacDqq297DeKwKssSUKlhr9XplmdvuLuCWSLBAZpSMzVAfckfpUs0Lwkpy9jDW3XYDrZ7W2wUMJU=;ed/f/WWk5IGSS5Qbk52TKg=="
 ---

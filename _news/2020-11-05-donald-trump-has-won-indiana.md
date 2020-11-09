@@ -31,85 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Trump: Election ‘Far From Over,’ Promising Legal Battle"
-    excerpt: "Minutes after nearly all major networks projected Joe Biden as the next president, the Trump campaign claimed the election was “far from over” and pointed to the potential for recounts and lawsuits over alleged fraud in several states in a statement,"
-    publishedDateTime: 2020-11-07T17:17:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/11/07/trump-election-far-from-over-promising-legal-battle/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/11/07/trump-election-far-from-over-promising-legal-battle/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/11/07/trump-election-far-from-over-promising-legal-battle/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 140
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa6d51caf7e4964ebc97089%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AP projection: Donald Trump easily wins SC for the second consecutive election"
-    excerpt: "As expected, Donald Trump will win South Carolina, according to a projection from the Associated Press. The AP called the race shortly before 8 p.m., about an hour after polls closed in the state. With about three-fourths of the state's precincts reporting early Wednesday morning,"
-    publishedDateTime: 2020-11-06T21:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/trump-easily-sc-second-consecutive-election/6126955002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6126955002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6126955002"
+  - title: "Latest Election Day updates: Trump has a commanding lead in Florida"
+    excerpt: "Our live coverage of Election Day includes updates on voter turnout, the latest on Trump and Biden, and news from polling places around Florida."
+    publishedDateTime: 2020-11-04T04:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/live-updates-florida-election-day-voting-turnout-ballots-trump-biden/6038318002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6038318002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038318002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 136
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/29/PGRE/0bccff7d-d209-4817-b439-8551f7de9ed4-JM.trump.022820.005.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NPPP/5c24e614-5e1a-445b-94a7-cad671b83233-Early_Voting_2020_41.jpg?auto=webp&crop=3617,2035,x0,y289&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump says he will score a 'big win,' accuses Democrats of trying to steal election"
-    excerpt: "Republican President Donald Trump, in a tweet early on Wednesday, predicted he will win a second four-year term and accused Democrats of attempting to \"steal\" the election from him, without citing any evidence."
-    publishedDateTime: 2020-11-04T06:28:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-tweet-idINKBN27K0MF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27K0MF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27K0MF"
+  - title: "Election live updates: Donald Trump says he's not nervous: 'I've been here before'"
+    excerpt: "President Donald Trump and Democratic candidate Joe Biden are in the home stretch of this campaign with just hours to go before Election Day."
+    publishedDateTime: 2020-11-03T03:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/02/election-updates-biden-barnstorm-pa-trump-vows-send-lawyers/6117435002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6117435002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6117435002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NTFO/aa6e6952-e542-404a-91e1-c463528d6506-trump_25.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election 2020 live updates: Trump makes false statement about Election Day ballot counts"
+    excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
+    publishedDateTime: 2020-10-27T19:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6007506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump pulls statistically even with Biden in Florida; Arizona is a dead heat: Reuters/Ipsos"
+    excerpt: "President Donald Trump has pulled into a virtual tie with Democratic challenger Joe Biden in Florida, just a week after the former vice president held a narrow lead there, a Reuters/Ipsos opinion poll showed on Wednesday."
+    publishedDateTime: 2020-10-28T20:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27D30N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D30N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D30N"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 134
+    quality: 130
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539921175&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30DU"
-        width: 921
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539183378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R1TO"
+        width: 817
         height: 545
         isCached: true
-  - title: "Did Donald Trump Win Arizona in 2016?"
-    excerpt: "The swing state has been called for presidential candidate Joe Biden by the Associated Press, but how did Arizona vote in 2016?"
-    publishedDateTime: 2020-11-04T07:52:00Z
-    webUrl: "https://www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680"
-    ampWebUrl: "https://www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680?amp=1"
+  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
+    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
+    publishedDateTime: 2020-10-12T12:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
     images:
-      - url: "https://d.newsweek.com/en/full/1664377/trump-arizona-2016.jpg"
-        width: 2500
-        height: 1614
-        isCached: true
-  - title: "Donald Trump has won Alabama"
-    excerpt: "The state holds nine electoral votes and was not expected to be competitive. It has voted for a Republican president in every election since 1980."
-    publishedDateTime: 2020-11-04T07:16:00Z
-    webUrl: "https://www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alabama-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa2032e69331a0011bc725e?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Fact check: Trump keeps making false or misleading statements on mail ballots as Election Day nears"
+    excerpt: "Seeing chaos where others don’t, President Donald Trump is falsely asserting that voting by mail is proving to be rife with problems across the country,"
+    publishedDateTime: 2020-10-27T19:47:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 126
+    images:
+      - url: "https://www.chicagotribune.com/resizer/8bLIEbk3JdBza-wGzxEnjkDLfUs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4XWKPBI2EFEUNGTHY2HT32ASIM.jpg"
+        width: 1200
+        height: 951
+        isCached: true
+  - title: "WATCH LIVE: Trump holds campaign rally in Tampa, Florida"
+    excerpt: "President Donald Trump and Democratic rival Joe Biden are set to chase votes in Florida, a state all but essential to the Republican's pathway to another term as both nominees turn their focus to encouraging voters to turn out on Election Day."
+    publishedDateTime: 2020-10-29T14:58:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-holds-campaign-rally-in-tampa-florida"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-holds-campaign-rally-in-tampa-florida"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-holds-campaign-rally-in-tampa-florida"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/vote202010-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "The Latest: Trump meets troops involved in al-Baghdadi raid"
+    excerpt: "President Donald Trump quietly met with U.S. Special Forces troops involved in last year’s raid to kill Islamic State leader Abu Bakr al-Baghdadi"
+    publishedDateTime: 2020-10-30T01:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Donald Trump has won North Dakota"
     excerpt: "The state has three electoral votes and was not expected by analysts to be competitive."
@@ -127,517 +175,191 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Donald Trump is projected to win Louisiana"
-    excerpt: "Louisiana has eight electoral votes and is not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
-    publishedDateTime: 2020-11-04T02:11:00Z
-    webUrl: "https://www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/louisiana-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa210bb69331a0011bc7278?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump projected to win Arkansas"
-    excerpt: "The state holds six electoral votes and leans heavily Republican. Every member of Arkansas' Congressional delegation is a GOP member."
-    publishedDateTime: 2020-11-04T01:58:00Z
-    webUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arkansas-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f96e5e94743a3001216b98c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump projected to win South Carolina"
-    excerpt: "The state has nine electoral votes and was not expected by analysts to be particularly competitive."
-    publishedDateTime: 2020-11-04T02:47:00Z
-    webUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f9734c84743a3001216bc2a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump wins Indiana in presidential race"
-    excerpt: "President Trump has been projected to win the state of Indiana, according to CNN and NBC News. The president will pick up the Hoosier State's 11 electoral votes."
-    publishedDateTime: 2020-11-04T00:03:00Z
-    webUrl: "https://thehill.com/homenews/campaign/524215-trump-wins-indiana-in-presidential-race"
-    ampWebUrl: "https://thehill.com/homenews/campaign/524215-trump-wins-indiana-in-presidential-race?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/524215-trump-wins-indiana-in-presidential-race?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trump3_110220getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Donald Trump has won Missouri"
-    excerpt: "The state has 10 electoral votes and was not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
-    publishedDateTime: 2020-11-05T02:33:00Z
-    webUrl: "https://www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/missouri-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa2ab8369331a0011bc7341?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump campaign files lawsuit in Georgia seeking to pause vote count"
-    excerpt: "U.S. President Donald Trump's reelection campaign has filed a lawsuit in Georgia seeking to pause the state's count for the presidential election, the Associated Press reported on Wednesday."
-    publishedDateTime: 2020-11-05T00:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN27L012"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L012"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L012"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540051974&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA402J"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump campaign files lawsuit over Georgia county ballot sorting"
-    excerpt: "U.S. President Donald Trump's reelection campaign on Wednesday said it had filed a lawsuit in Georgia to require that Chatham County separate and secure late-arriving ballots to ensure they are not counted."
-    publishedDateTime: 2020-11-05T03:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN27L077"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L077"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L077"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540058520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4045"
-        width: 641
-        height: 545
-        isCached: true
-  - title: "Trump's attacks on mail-in ballots rankle some military vets"
-    excerpt: "Now, with his presidency on the line, he’s casting suspicion on a tool of participatory democracy — the mail-in ballot — that has allowed U.S. military personnel to vote while serving far from home since the War of 1812."
-    publishedDateTime: 2020-11-07T09:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+  - title: "Trump sues in 3 states, laying ground for contesting outcome"
+    excerpt: "The Trump campaign says it has filed lawsuits in Pennsylvania, Michigan and Georgia, laying the groundwork for contesting battleground states"
+    publishedDateTime: 2020-11-05T09:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-sues-michigan-ballot-access-asks-wis-recount-74024044"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-sues-michigan-ballot-access-asks-wis-recount-74024044"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-sues-michigan-ballot-access-asks-wis-recount-74024044"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc26de5e50f468792853a8bf596bd40_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ab9a888be0e14ec3a06935e365df78a8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump campaign files lawsuit over rejected vote claims in Arizona"
-    excerpt: "Republican President Donald Trump's campaign said Saturday it had filed suit in Arizona, alleging the Southwestern state's most populous county incorrectly rejected votes cast by some voters in the U."
-    publishedDateTime: 2020-11-08T04:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-arizona-idUSKBN27N10U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N10U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N10U"
+  - title: "Latino vote \"can't be ignored anymore\" after Trump's projected win in Florida"
+    excerpt: "Among the biggest factors in his Sunshine State victory were Latinos — not just Cuban Americans — who came out in support of the president."
+    publishedDateTime: 2020-11-05T12:45:00Z
+    webUrl: "https://www.cbsnews.com/news/latino-vote-2020-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/latino-vote-2020-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/latino-vote-2020-election/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540401955&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA703A"
-        width: 830
-        height: 545
-        isCached: true
-  - title: "Trump will lose special Twitter protections in January"
-    excerpt: "U.S. President Donald Trump will be subject to the same Twitter Inc rules as any other user when President-elect Joe Biden takes office on Jan. 20, the social media company confirmed this week."
-    publishedDateTime: 2020-11-08T22:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-socialmedia-idUSKBN27O0MQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0MQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0MQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540443498&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70IW"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Overview: Trump calls for vote counting to stop as path to victory narrows"
-    excerpt: "President Donald Trump is calling for counting to stop while his opponent, Joe Biden, projects patience ahead of a handful of key states releasing new counts Thursday."
-    publishedDateTime: 2020-11-05T18:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/overview-trump-calls-vote-counting-stop-path-victory/story?id=74038071"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/overview-trump-calls-vote-counting-stop-path-victory/story?id=74038071"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/overview-trump-calls-vote-counting-stop-path-victory/story?id=74038071"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/2020-election-74-donald-trump-ap-jc-201104_1604476171322_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Twitter, Facebook fail to corral Trump's misinformation about U.S. vote count"
-    excerpt: "As U.S. President Donald Trump and his allies flooded social media on Wednesday with false claims of victory and unsupported allegations of voter fraud, social media companies warned users that the presidential election had yet to be decided."
-    publishedDateTime: 2020-11-05T00:51:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-tweet-claim-int-idUSKBN27L00I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L00I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L00I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 122
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540047484&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4007"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Jewish cemetery in Michigan vandalized with 'Trump,' 'MAGA' before Trump's rally"
-    excerpt: "Tombstones at the Ahavas Israel Cemetery in Grand Rapids were vandalized with \"Trump\" and \"MAGA\" before Trump arrived for his final campaign rally."
-    publishedDateTime: 2020-11-03T14:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/03/michigan-jewish-cemetery-desecrated-maga-before-trumps-rally/6135923002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6135923002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6135923002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e0eba4a9-c740-46cd-b451-c5a5115af8ab-AFP_AFP_8UF6ZT.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/04/76caa4c1-baa7-41ba-9e2f-3da5bce3eb1a/thumbnail/1200x630/2c0cbc94497a46f4109563aaf7b93469/gettyimages-1229449766.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Trump 'not thinking' of election night speech yet"
-    excerpt: "Politics Trump 'not thinking' of election night speech yet. Posted . President Donald Trump visited the Republican National Committee campaign headquarters in Arlington, Virginia,"
-    publishedDateTime: 2020-11-03T20:01:00Z
-    webUrl: "https://www.reuters.com/video/watch/trump-not-thinking-of-election-night-spe-idOVD30RPB3?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30RPB3&r=OVD30RPB3&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Trump's Election Day surge powered by small-town America"
-    excerpt: "President Donald Trump's reelection campaign long maintained there were thousands of new supporters tucked into rural, red pockets of the country who would come out and vote for the president when asked."
-    publishedDateTime: 2020-11-05T00:57:00Z
-    webUrl: "https://www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-election-day-surge-powered-by-small-town-america-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Republican officials tried to convince Pennsylvania Trump supporters to cast illegal ballots after Election Day"
-    excerpt: "Officials emailed supporters Thursday, asking for more votes supporting President Donald Trump. Trump's campaign in Wisconsin said it was a mistake."
-    publishedDateTime: 2020-11-06T20:50:00Z
-    webUrl: "https://www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-pennsylvania-trump-cast-vote-after-election-day-illegal-ballot-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5fa58c7a1df1d50018219541?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump campaign says 'illegally cast' ballots should not counted, it expects to win"
-    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
-    publishedDateTime: 2020-11-04T16:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-ballots-int-idUSKBN27K25M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K25M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K25M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539995932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA319V"
-        width: 870
-        height: 545
-        isCached: true
-  - title: "Trump is apparently confused as to why news outlets projected the election winner as he rails against the results"
-    excerpt: "Trump has refused to accept his loss, and on Sunday expressed confusion at the longstanding process of news outlets calling the election."
-    publishedDateTime: 2020-11-08T21:45:00Z
-    webUrl: "https://www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/5fa85c1d1df1d500182197ce?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump: We'll send in lawyers if Pennsylvania election is unfair. But votes are regularly counted after Election Day"
-    excerpt: "States never count all the votes by Election Day. Absentee and military ballots, especially, are counted for days afterward."
-    publishedDateTime: 2020-11-02T13:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/01/trump-well-send-lawyers-if-election-pennsylvania-unfair/6118358002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6118358002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6118358002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/01/USAT/2fae7537-8cea-459b-8312-1db8c209b113-AFP_AFP_8UD47V.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump dropped 3 agency heads in the days following the election, amid reports that more departures could be coming"
-    excerpt: "The departures came amid speculation that other agency heads and government officials may be fired or resign from the Trump administration."
-    publishedDateTime: 2020-11-08T05:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/5fa777b71df1d5001821977a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
-    excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
-    publishedDateTime: 2020-11-05T08:09:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/11/04/trump-polarization-mail-voting-drove-record-2020-turnout-column/6153959002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6153959002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6153959002"
+  - title: "Inside the Dems' Florida flop: Turnout, rural success propelled Trump in the Sunshine State"
+    excerpt: "But that alone does not explain why Biden lost the state by about 375,000 votes, a substantial gap in a state known for paper-thin margins. An analysis of post-election data shows that several factors played into the Democrats' bad day."
+    publishedDateTime: 2020-11-08T18:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/how-donald-trump-won-florida-rural-success-beat-joe-biden/6214043002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6214043002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6214043002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b0712fbb-b75c-4e51-8eb4-2fec32a575be-AFP_AFP_8UK9QB.jpg?auto=webp&crop=4656,2619,x0,y342&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/30/NPPP/6e5b7ee4-f6f8-4bbf-8765-e922a7017e91-Election_2020_Biden.jpg?auto=webp&crop=5718,3217,x0,y290&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Inside the Trump campaign as it grapples with defeat while plowing forward with legal fight"
-    excerpt: "Inside the campaign, fatigue and disappointment has hit the rank and file on the president’s team, and the reality is settling in that the president lost the election."
-    publishedDateTime: 2020-11-08T02:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/inside-trump-campaign-grapples-defeat-plowing-forward-legal/story?id=74082317"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/inside-trump-campaign-grapples-defeat-plowing-forward-legal/story?id=74082317"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/inside-trump-campaign-grapples-defeat-plowing-forward-legal/story?id=74082317"
+  - title: "Election challenges live updates: Trump announces lawsuit in Nevada; claims over vote counting in Michigan, Pennsylvania, Georgia pending"
+    excerpt: "As the race between Donald Trump and Joe Biden continues to narrow, the next battleground looks to be the courtroom. Latest news."
+    publishedDateTime: 2020-11-05T16:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-election-lawsuits-recounts-pennsylvania-michigan-nevada-georgia/6172803002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6172803002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6172803002"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 115
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
     images:
-      - url: "https://s.abcnews.com/images/International/trump-whitehouse-gty-rc-201107_1604784088150_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump adviser on FBI's Clinton email probe"
-    excerpt: "News that the FBI has discovered new emails related to its investigation of Hillary Clinton's private email server has rocked the presidential race with only 11 days to go. Senior adviser to the Trump campaign AJ Delgado joins CBSN to discuss the latest developments."
-    publishedDateTime: 2020-11-03T06:52:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-adviser-on-fbi-clinton-email-probe/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/f56475a8-5a58-4f82-bc73-d23db539bc8e/thumbnail/1200x630/2cec8063b9dd7287ab3357bd89618942/cbsn-trump-clinton-1023-1164816-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/8bc0821d-3529-4ac9-921f-5c7197680059-AP_Election_2020_Lawsuits_Glance.jpg?auto=webp&crop=4855,2731,x0,y168&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Trump campaign says 'illegally cast' ballots should not be counted"
-    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
-    publishedDateTime: 2020-11-04T16:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-ballots/trump-campaign-says-illegally-cast-ballots-should-not-be-counted-idUSKBN27K26E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K26E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K26E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Observers say no evidence for Trump's fraud claims"
-    excerpt: "The head of an international delegation monitoring the U.S. elections said on Thursday his team has no evidence to support President Donald Trump's claims about alleged fraud involving mail-in absentee ballots."
-    publishedDateTime: 2020-11-06T00:33:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/06/observers-say-no-evidence-trumps-fraud-claims/6182126002/"
+  - title: "Voting 2020 live updates: Trump urges Biden voters to 'spoil' ballot and vote for him; charges of voter suppression scheme in Ohio, Michigan"
+    excerpt: "Trump urges Biden voters to 'spoil' ballot and vote for him; mail your ballot today to make sure it's counted. Latest news."
+    publishedDateTime: 2020-10-28T22:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/voting-2020-news-updates-florida-early-voting-wisconsin-ballots/6040707002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6040707002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6040707002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3ab6d23d-8f6d-43f9-805c-30c23f2cfed2_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NSHT/d424f4e1-5562-4636-acad-5cec060ace46-FLSAR-102520-S_COLZAC_001.jpg?auto=webp&crop=3067,1726,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump vows to keep fighting amid Republican rebukes"
-    excerpt: "As soon as Democratic presidential candidate Joe Biden pulled ahead in Pennsylvania on Friday morning, the Trump campaign blasted out a statement saying they'd continue to pursue lawsuits and recounts in the states that remain undecided."
-    publishedDateTime: 2020-11-07T00:37:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-vows-to-keep-fighting-amid-republican-rebukes/"
+  - title: "Florida remains central to Trump's path to victory"
+    excerpt: "Florida is a toss-up heading into Election Day. Nearly 64% of Florida voters cast their ballots early, and the Latino and Black vote will be crucial to win. Manuel Bojorquez reports from a voting site in Miami."
+    publishedDateTime: 2020-11-03T22:34:00Z
+    webUrl: "https://www.cbsnews.com/video/florida-remains-central-to-trump-path-to-victory/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/07/0e1bbe93-42cb-4a70-8952-fb11ec8c8db8/thumbnail/1200x630/8d3eb9143e89f08a71be96c24c06cf62/1106-en-trump-preid-582887-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/03/3cc4cfdd-5f46-4dec-aa8a-8723511dead5/thumbnail/1200x630/b823f684a68a300c622ce0b5263adffc/florida-bojorquez-579447-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "'This isn't over!': Trump supporters refuse to accept defeat"
-    excerpt: "Chanting “This isn’t over! and “Stop the steal,” supporters of President Donald Trump protested at state capitals across the country Saturday, refusing to accept defeat and echoing Trump’s unsubstantiated allegations that the Democrats won the election by fraud."
-    publishedDateTime: 2020-11-08T02:29:00Z
-    webUrl: "https://www.businessinsider.com/this-isnt-over-trump-supporters-refuse-to-accept-defeat-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/this-isnt-over-trump-supporters-refuse-to-accept-defeat-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-isnt-over-trump-supporters-refuse-to-accept-defeat-2020-11?amp"
+  - title: "Trump begins Election Day with 'Fox & Friends' interview: Live updates on Trump, Pence"
+    excerpt: "President Trump plans to spend the day making calls, giving interviews, monitoring events from the White House."
+    publishedDateTime: 2020-11-03T16:55:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/03/election-day-2020-donald-trump-mike-pence/6129648002/"
+    ampWebUrl: "https://amp.freep.com/amp/6129648002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6129648002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump campaign says more legal action coming, predicts victory as early as Friday"
-    excerpt: "President Donald Trump's campaign said on Thursday it expected to launch additional legal action in Pennsylvania and Nevada and predicted that the Republican incumbent would emerge victorious in the U."
-    publishedDateTime: 2020-11-05T16:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-star/trump-campaign-says-more-legal-action-coming-predicts-victory-as-early-as-friday-idUSKBN27L26X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L26X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L26X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-  - title: "Pence, absent from Trump's press conference, tweets his support from afar"
-    excerpt: "Vice President Mike Pence wasn't at President Trump's White House press conference on Thursday evening, but he approved of his message. Trump made multiple baseless claims about the election, including that Democrats are trying to \"steal the election from us."
-    publishedDateTime: 2020-11-06T02:05:00Z
-    webUrl: "https://theweek.com/speedreads/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/948230/pence-absent-from-trumps-press-conference-tweets-support-from-afar"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 89
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 97
     images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229449886.jpg?itok=YK9SWsij"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "Trump Slams Election Process In Speech, Says 'If You Count The Legal Votes I Easily Win'"
-    excerpt: "Speaking to reporters on Thursday night, President Trump said he won the election if only legal votes are counted."
-    publishedDateTime: 2020-11-06T00:31:00Z
-    webUrl: "https://www.ibtimes.com/trump-slams-election-process-speech-says-if-you-count-legal-votes-i-easily-win-3077208"
-    ampWebUrl: "https://www.ibtimes.com/trump-slams-election-process-speech-says-if-you-count-legal-votes-i-easily-win-3077208?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-slams-election-process-speech-says-if-you-count-legal-votes-i-easily-win-3077208?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 81
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/27/us-president-donald-trump-is-furious-at-journalists.jpg"
-        width: 1024
-        height: 701
-        isCached: true
-  - title: "Dump Donald Trump: American voters' imperative"
-    excerpt: "Monday, we concluded a daily series begun 14 weeks ago. In 26,306 words spread out over 99 days, we detailed the case for why Donald Trump — his character, his corruption, his policies, his appointees,"
-    publishedDateTime: 2020-11-03T09:10:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/Enk164ZLvg71BWottnQ-c_T5_zs=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/MW6QQHIPYFCZ7NLZ3VV6LOCR4I.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/9355561b-1453-4428-b22a-3ad04ad47d1a-GettyImages-1283588209.jpg?auto=webp&crop=3150,1772,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 832
+        height: 675
         isCached: true
-  - title: "Trump camp drops Nevada appeal in mail ballot counting case"
-    excerpt: "A legal effort in Nevada by the Donald Trump campaign and state Republicans to stop the count of mail ballots in Las Vegas is over. A document submitted in an appeal pending before the state Supreme Court says a settlement was reached requiring Clark County election officials to add “additional observation access” at a ballot processing facility in Las Vegas."
-    publishedDateTime: 2020-11-05T23:48:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-camp-drops-Nevada-appeal-in-mail-ballot-15705725.php"
+  - title: "Live election updates: Kushner, Melania reportedly urge Trump to concede; AOC almost didn't run again"
+    excerpt: "Reports say Trump's wife and son-in-law urged him to concede; the president-elect attends Mass; AOC almost quit – the latest on the election."
+    publishedDateTime: 2020-11-08T19:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/mitt-romney-calls-trump-900-pound-gorilla-republicans-future/6212881002/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
+  - title: "MSNBC’s Morning Joe reveals how Florida could deliver ‘bad news’ for Trump early on Election Night"
+    excerpt: "MSNBC’s Joe Scarborough explained what to look for in Florida’s early election reporting that could spell “bad news” for President Donald Trump. Huge numbers of Florida voters have already cast their ballots with five days until the Nov."
+    publishedDateTime: 2020-10-30T12:51:00Z
+    webUrl: "https://www.rawstory.com/2020/10/msnbcs-morning-joe-reveals-how-florida-could-deliver-bad-news-for-trump-early-on-election-night/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/msnbcs-morning-joe-reveals-how-florida-could-deliver-bad-news-for-trump-early-on-election-night/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/msnbcs-morning-joe-reveals-how-florida-could-deliver-bad-news-for-trump-early-on-election-night/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 76
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-14-at-6.51.20-AM.png"
+        width: 800
+        height: 430
         isCached: true
-  - title: "Official Vote Count Continues Nationwide as Donald Trump Falsely Claims a Win From The White House"
-    excerpt: "The Associated Press has not yet projected a winner of the race and states will not complete their exhaustive counts for several days."
-    publishedDateTime: 2020-11-04T08:46:00Z
-    webUrl: "https://time.com/5906949/donald-trump-vote-count/"
+  - title: "ELECTION UPDATE: Joe Biden's lead in Arizona tightens in updated results"
+    excerpt: "Former Vice President Joe Biden kept his lead in Arizona over President Donald Trump, but with a more narrow margin following the latest results posted overnight. The results posted early Thursday morning were mostly mail ballots from Maricopa County that had been dropped off at vote centers on Tuesday."
+    publishedDateTime: 2020-11-05T12:30:00Z
+    webUrl: "https://www.djournal.com/news/national/election-update-joe-bidens-lead-in-arizona-tightens-in-updated-results/article_561f5117-e5ab-58d3-b3e5-42aaa20e89c1.html"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 71
-  - title: "Donald Trump Wins Kentucky"
-    excerpt: "Donald Trump wins Kentucky."
-    publishedDateTime: 2020-11-04T00:10:00Z
-    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-11-03/republican-eric-holcomb-wins-reelection-for-governor-in-indiana"
+      name: Daily Journal
+      domain: djournal.com
+    quality: 69
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/f7/5f70a5a3-23de-5cbf-8c1a-82ae377dd75e/5fa40cefba53a.image.jpg?crop=1199%2C674%2C0%2C77&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "The Latest: Trump heaping attention on 1 Nebraska district"
+    excerpt: "President Donald Trump talks with the traveling press as first lady Melania Trump waits near Air Force One at Andrews Air Force Base, Md., Tuesday, Oct. 27, 2020. They flew"
+    publishedDateTime: 2020-10-28T01:26:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-heaping-attention-on-1-nebraska-district/image_3a2d2708-da36-5d0e-bceb-7b2e43bd20ce.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/a2/3a2d2708-da36-5d0e-bceb-7b2e43bd20ce/5f98a68289117.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "The Latest: Trump Supporters Delayed in the Cold After Rally"
+    excerpt: "Throngs of people who attended a campaign rally held by President Donald Trump at a Nebraska airport had to wait around in frigid weather for hours after it ended before they could get back to their cars."
+    publishedDateTime: 2020-10-28T14:22:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
-  - title: "Donald Trump Wins Wyoming"
-    excerpt: "Donald Trump wins Wyoming."
-    publishedDateTime: 2020-11-04T02:54:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-03/joe-biden-wins-vermont"
+    quality: 55
+  - title: "The Latest: Mrs. Trump Warms up Tampa Crowd at Trump Rally"
+    excerpt: "First lady Melania Trump is making her first joint campaign appearance of the year with her husband. Mrs. Trump warmed up the large crowd outside Raymond James Stadium in Tampa for President Donald Trump."
+    publishedDateTime: 2020-10-29T19:04:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
+    quality: 55
 
 secured: "S9hB8ayfezT15pkogFVmIrodeKdsR6xGsZ2mXKcvVgs5lQ7B5ZSmK3PlSYk25KibtlLyZo0RSaGwpnNHKv9VOeWo2QzJaxg9aHETh5t356ObToDwv6ZLU6J7Iyqunfxzz/nTCDjSUp8T6pO5wWOnQ4rUyW4NzeKIOtHUDRMxPsSsXgEABufREDy7GNoAofXUW4DsFE0Q4AIbQis1LvGnbfu1bsCsvuaY6m8Xp8Y4R1iX01h0Rr+O4cF3Da0X/LtLDv3Nm/urJreI3mNAbhwbtd7IrR/LQuwZLAjh4lF0F1f2wQWfWHusVdV4+maUo/kAMlkJxUFlpXl16fw4oQdiGFcc6lb4ndP/rT7hUwH45uDfpfGezmqVzwOFufhhkBGYwr9bFAGp0CaW6SHzmMK6ca/LRni/bmwilqaJvXrObuB2sDrKNxqHgOjbq/i9NiQys7RxMR4NX/P9eIrPZAanszKKnTEyxVmrxYxN3wOZWdYy+tPJna39zxbIWmqbikkoEPk8wO1WnBi5foL4eGdvGw==;8Nbv3QSlBGQ/jzruQB1s9w=="
 ---

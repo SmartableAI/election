@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
-    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
-    publishedDateTime: 2020-10-29T20:07:00Z
-    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 56
-    images:
-      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
-        width: 846
-        height: 571
-        isCached: true
 
 secured: "UtguvbQJCHwrL1mjrSx5t3PUcuuF25xBp0ZA6HMHGS55K8KZpyFTowXQl1shZYSy7VgPEmBZddwN/xu6tKMgbKUChWV5ViR5V8/fHfkKe82dZG04mvpnmu/Xd9wHsVwq4EnfoA0O6lyOEiX5qQRzZmWgIQbhzP5mEwq899ZZNVnKn2BVCUcYWSZI5L5X1jP83WrMEIKi/3eAxjJ/UIE7ifcQEqhCsJQj4vw2dVQBvM8383S3xQ22IZHqhur2y6cLaK2L631LneA4b/05q7UeGrIniu22N6OZC3Y+tBHDvTwKTdwyHSSg4faqMTy0GVHa0LgeuezomUrBLHdgYmYGend1tubvW7iCkcmbPO4j/UI=;ftwAZn2JuYf3E0hyOtefMQ=="
 ---

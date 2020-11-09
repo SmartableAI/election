@@ -29,37 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: Tired of Trump, Deutsche Bank wants out but sees no good options - sources"
-    excerpt: "Deutsche Bank AG is looking for ways to end its relationship with President Donald Trump after the U.S. elections, as it tires of the negative publicity stemming from the ties, according to three senior bank officials with direct knowledge of the matter."
-    publishedDateTime: 2020-11-03T07:07:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J0G0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0G0"
+  - title: "Ari Fleischer: Why my 2020 choice for president will be Donald Trump"
+    excerpt: "In many ways, I find President Trump over-the-top and offensive, and have said so on-the-air and on Twitter. He can be too hot to handle, insulting people and too often making himself the issue, diverting attention from more important policy matters."
+    publishedDateTime: 2020-10-29T14:00:00Z
+    webUrl: "https://thehill.com/opinion/white-house/523320-why-my-choice-for-president-will-be-donald-trump"
+    ampWebUrl: "https://thehill.com/opinion/white-house/523320-why-my-choice-for-president-will-be-donald-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/523320-why-my-choice-for-president-will-be-donald-trump?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539756536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA208L"
-        width: 805
-        height: 545
+      - url: "https://thehill.com/sites/default/files/donaldtrump_05082019.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Exclusive: Republicans seeking to raise at least $60 million to fund Trump legal challenges - sources"
-    excerpt: "Republicans are trying to raise at least $60 million to fund legal challenges brought by President Donald Trump over the U.S. presidential election’s results, three sources familiar with the matter said on Friday."
-    publishedDateTime: 2020-11-07T07:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-funding-exclusive-idUSKBN27M2R0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M2R0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M2R0"
+  - title: "Brett Favre says he will vote for Donald Trump, expected to appear with president at Green Bay rally"
+    excerpt: "Brett Favre became the latest ex-athlete to declare his support for President Donald Trump, tweeting that the Republican nominee will have his vote on Friday. The former NFL quart"
+    publishedDateTime: 2020-10-30T16:09:00Z
+    webUrl: "https://www.freep.com/story/sports/nfl/2020/10/30/brett-favre-donald-trump-2020-election/6084326002/"
+    ampWebUrl: "https://amp.freep.com/amp/6084326002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6084326002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 110
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 60
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540305028&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51PN"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/05/05/USAT/baf2b429-623c-4b49-bb82-7b10cc4c203f-XXX_0807_Clemson_practice__28.jpg?auto=webp&crop=2317,1303,x100,y86&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "qdeB5Vn93oqnV2t5Mam50WCWZko6AZJAZQ8No+eEP/AsLqnMGOYi5O+ihPNpumHMaschdoMBcI9G46p5Sa3xjvSBgPZCZ6nPEB69jbQVpM9AkFMXfYjJk44YyrEusiUY9NLJizjvL763UrKTjCMfPtBwKHA9cm+t8S+gce40L3fv1388+BiMyE5lflSDEx6ydwewNJe/XKC04L3FxAfyW54oK7Lpb+VusSyV/mYPnyjfacZVbX/O2dYFWjQXS2ZQl7Z3AFA0Ysii5RwRRYW2gMuiXk+tokfkdYeCUyMKHE/NCmXo4EtTQqG2J457Ysuh3QjOZH8Vr8xBGy/eMX3ndw00oa75zx7JrVK28bOabvE=;u21Fp/i+E9GXT83G05tqkw=="

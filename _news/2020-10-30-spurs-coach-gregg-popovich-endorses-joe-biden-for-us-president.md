@@ -29,106 +29,117 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: VOA video is not a Biden ad to address the Muslim community"
-    excerpt: "Users on social media are sharing a video with Urdu subtitles showing democratic presidential candidate Joe Biden. Some posts refer to the clip as “Biden’s Muslim Commercial” claiming it was produced by the Biden campaign and that it is “being promoted in areas of"
-    publishedDateTime: 2020-10-26T17:26:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-not-muslim-ad-idUSKBN27B22U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B22U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B22U"
+  - title: "Biden, Cunningham hold narrow leads in North Carolina: poll"
+    excerpt: "Democratic presidential nominee Joe Biden has a narrow lead over President Trump in North Carolina, while Democrat Cal Cunningham holds a similarly slim lead in the Tarheel State’s marquee Senate race in a new survey released Thursday."
+    publishedDateTime: 2020-10-29T19:54:00Z
+    webUrl: "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll"
+    ampWebUrl: "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538869649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1D7"
-        width: 818
-        height: 545
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102720getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Florida Deputies Punch, Elbow Biden Supporters Repeatedly in Rally Video"
-    excerpt: "Pinellas County, Florida deputies were captured on video allegedly punching and elbowing a supporter of Democratic presidential nominee Joe Biden during a political demonstration on Sunday."
-    publishedDateTime: 2020-11-03T02:49:00Z
-    webUrl: "https://www.newsweek.com/florida-deputies-punch-elbow-biden-supporters-repeatedly-rally-video-1544222"
-    ampWebUrl: "https://www.newsweek.com/florida-deputies-punch-elbow-biden-supporters-repeatedly-rally-video-1544222?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/florida-deputies-punch-elbow-biden-supporters-repeatedly-rally-video-1544222?amp=1"
+  - title: "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-23T11:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1663050/pinellas-county-police-car.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Fact check: Post claiming Joe Biden wants to put farms in 'land banks' is missing context"
-    excerpt: "At a September town hall, Biden said he wants to put farms into \"land banks.\" Some have taken this to mean he wants a government takeover of farmland."
-    publishedDateTime: 2020-10-23T23:03:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/23/fact-check-claim-lacks-important-details-biden-and-land-banks/6011931002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6011931002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6011931002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PWIL/ad743977-7d3a-417e-994d-eeee1172d267-AP20262045476717.jpg?auto=webp&crop=5580,3139,x0,y283&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fact check: Biden did tell a Detroit worker 'I'm not working for you' during gun rights argument"
-    excerpt: "A viral post on social media claims Joe Biden told a factory worker he doesn't work for him. Biden did say that, but the claim is missing context."
-    publishedDateTime: 2020-10-27T20:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/27/fact-check-yes-biden-told-detroit-worker-im-not-working-you/6044443002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6044443002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6044443002"
-    type: article
-    provider:
-      name: USA Today
+      name: Milwaukee Journal Sentinel
       domain: usatoday.com
     quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/03/18/USAT/38928b0a-784e-42c7-a026-84ee2c8cd485-Biden_1.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: Hillary Clinton, not Joe Biden, used the phrase 'super predators'"
-    excerpt: "Joe Biden referred to Black people as 'super predators' during the passage of the 1994 crime bill. The Violent Crime Control and Law Enforcement Act of 1994, also known"
-    publishedDateTime: 2020-10-24T22:34:00Z
-    webUrl: "https://www.freep.com/story/news/factcheck/2020/10/24/fact-check-hillary-clinton-called-some-criminals-super-predators/6021383002/"
-    ampWebUrl: "https://amp.freep.com/amp/6021383002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6021383002"
+  - title: "North Carolina: Vice President Mike Pence says GOP remains optimistic about winning reelection bid"
+    excerpt: "With just hours left for voters to cast their ballot, WXII 12 News anchor Kenny Beck did a one-on-one interview with Vice President Mike Pence and former Democratic presidential candidate Pete Buttigieg."
+    publishedDateTime: 2020-11-03T22:57:00Z
+    webUrl: "https://www.wxii12.com/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
+    ampWebUrl: "https://www.wxii12.com/amp/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
+    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
+    type: article
+    provider:
+      name: WXII12
+      domain: wxii12.com
+    quality: 76
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-buttigieg-0124-1604439289.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence making two campaign stops in North Carolina this weekend"
+    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
+    publishedDateTime: 2020-10-30T06:18:00Z
+    webUrl: "https://abc11.com/politics/vp-pence-making-two-campaign-stops-in-north-carolina-this-weekend/7463634/"
+    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 69
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7398556_102720-wtvd-Tim-5pm-Pence-in-Greensboro-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-25T12:37:00Z
+    webUrl: "https://www.azcentral.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3740228001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-26T03:17:00Z
+    webUrl: "https://www.freep.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.freep.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3740228001"
     type: article
     provider:
       name: Detroit Free Press
       domain: freep.com
-    quality: 72
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/d14072ff1d27975f8f68732fbeac8d61be3a1b0b/c=0-851-2298-2149/local/-/media/2015/02/24/USATODAY/USATODAY/635603856883000837-AFP-526532422.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 678
+        height: 675
         isCached: true
-  - title: "Brad Pitt Calls Joe Biden A President For 'All Americans' In New Campaign Ad"
-    excerpt: "Actor Brad Pitt narrated the new campaign ad for Joe Biden's presidential campaign, praising him as a \"president for all Americans\" and someone who understands \"their hopes, their dreams, their pain.\""
-    publishedDateTime: 2020-10-26T03:22:00Z
-    webUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609"
-    ampWebUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
+  - title: "Mike Pence making 2 more campaign stops in North Carolina"
+    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
+    publishedDateTime: 2020-10-27T08:18:00Z
+    webUrl: "https://www.nhregister.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/25/brad-pitt.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Joe Biden Campaigns in Cleveland"
-    excerpt: "Democratic presidential candidate Joe Biden campaigns in Cleveland on the eve of Election Day. It starts off a last day of campaigning that stretches from Cleveland to Pittsburgh, aimed at shoring up support from Rust Belt voters."
-    publishedDateTime: 2020-11-02T18:29:00Z
-    webUrl: "https://www.c-span.org/event/?477702/c2020-joe-biden-campaigns-cleveland"
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 55
+  - title: "Joe Biden Campaigns in Durham, North Carolina"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a voter mobilization event in Durham, NC, where early voting is already underway."
+    publishedDateTime: 2020-10-18T19:00:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-north-carolina"
     type: article
     provider:
       name: C-SPAN

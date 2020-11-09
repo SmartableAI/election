@@ -51,17 +51,20 @@ related:
         width: 863
         height: 487
         isCached: true
-  - title: "Vice President Mike Pence To Hold Rally In Portsmouth, New Hampshire"
-    excerpt: "Vice President Mike Pence will make a campaign stop in Portsmouth, New Hampshire Wednesday afternoon. He will headline a rally at Port City Air at 1:30 p.m. before moving on to Ohio for an evening event in Cincinnati."
-    publishedDateTime: 2020-10-21T13:00:00Z
-    webUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/"
-    ampWebUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
+  - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
+    excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
+    publishedDateTime: 2020-10-22T21:15:00Z
+    webUrl: "https://www.nhpr.org/post/vp-mike-pence-campaigns-trump-portsmouth"
     type: article
     provider:
-      name: CBS Boston
-      domain: cbslocal.com
-    quality: 55
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 70
+    images:
+      - url: "https://www.nhpr.org/sites/nhpr/files/styles/medium/public/202010/PencePorts_102120_JRogers_0.jpg"
+        width: 625
+        height: 469
+        isCached: true
 
 secured: "16jzwRHCgC4ln+tIAus+Tx8oGMR/NNhygRXl6NPpA6Ubqr9EAqAPtA9B5AIF6iHCbWeFaLOaWqbqMMrkfqgjQilLZsGaFOAuLRqHtzCorDRmrQU7CQKWOP/wCEDHi8T/Rfg/8oYe+OqcTrAE+bzYMb++UfTgKef2yzkU5WkegM+YGyq7RboFqR1TphQwnp5wL5K6Z1kZu42JVdhXBcsdHElW1AIWJTtNApP4nJ9Fi7AB6bv5xKB3dFHVkQVry5onIdcU1hCrbIERKsJ/NLm8PixT1JPDGLFb0XxHruLohOjD0GEZhj9yNrg9i9evsR62P/qSeXwJoZcG6Yp5F6nWgqlWpX2Vu5J648BFGxwvU0ryab+OewFX1ldJ4MWj7DNWtoIj/6lBKG/v++NmJiamuDYdZ1SiQg4zUk/ik8hmXz+7johfLN5+6iJKfMUpoeOs2l8pFHklrTyTD8X7gTyzDUW9HegNesXm4JA4MW35icSoSLt7rx0rd8TqY05F8IEsatTLIxVR/s/tAfkq2A3WKg==;ti0BT0vWzxYZ/5UnDb9OQA=="
 ---

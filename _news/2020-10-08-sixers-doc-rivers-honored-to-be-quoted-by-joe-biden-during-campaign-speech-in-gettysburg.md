@@ -43,22 +43,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Joe Biden quotes Sixers new head coach Doc Rivers while campaigning in Pennsylvania"
-    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
-    publishedDateTime: 2020-10-07T14:16:00Z
-    webUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html"
-    ampWebUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GXOWXIVJL5AGHINVACOT7D2BLQ.jpg"
-        width: 5620
-        height: 3747
-        isCached: true
 
 secured: "0/bRuZH55UxpSRikY8Vkr6BCIZJooaCpzSwiTYZ9kxfM7j11uteJJr2hQQxp9JmV9D7kzeFVSlMoT76Wkp1Mna92tcUTwKmbLAXeQ6ZYbrkE07flZfw9Z36P1/7Z+zrBhPQoGlIOPT06OckWTrf47T3RQRzfANxpEOKbVO02liRPQhNqDzchmXjHg4C3IxtJhTKmBDRT1x1HfNvx5t2zf3WiUUpJ2SwFptbyxBeXd8d8GmdQuTPB33+Yj/ipqv/tIBVGuFYWWoUzlbLhy6wFNWt79WC+DtyI/HSaq/PVKFOHwDyFbBy5kxaTdodFolmq2VdNnli32SYXRZNjqwId42V7wAtbSF77gPcGhk75Bp0=;D7SY2VyscQUhb9EmG1rN5w=="
 ---

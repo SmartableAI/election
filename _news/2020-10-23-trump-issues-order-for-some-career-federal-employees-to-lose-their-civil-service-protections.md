@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's EPA rewrote the rules on air, water energy. Now voters face a choice on climate change issues"
-    excerpt: "Election Day will be a decision between deregulation or re-regulation. A look at Trump's rollbacks and their long term effects nationwide."
-    publishedDateTime: 2020-10-29T07:14:00Z
-    webUrl: "https://www.usatoday.com/in-depth/news/investigations/2020/10/29/climate-change-escalates-voters-face-choice-deregulate-re-regulate/3668667001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3668667001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3668667001"
+  - title: "Trump Says He’d ‘Consider’ $15 Per Hour Federal Minimum Wage, But Prefers To Leave It To States"
+    excerpt: "President Donald Trump said during Thursday night’s presidential debate that he would “consider” raising the federal minimum wage to $15 per hour if he’s re-elected—a level that Democrat Joe Biden has committed to—but said he’d also strongly prefer to let states decide for themselves,"
+    publishedDateTime: 2020-10-23T19:17:00Z
+    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/"
+    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
+      name: Forbes
+      domain: forbes.com
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/NCOD/292b255e-c6f8-4fde-80dd-72114e11db3c-04_Environment_Election_CLH.jpg?auto=webp&crop=1999,1125,x0,y101&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f932b4a1478f012ca60ed19%2F0x0.jpg"
+        width: 1199
+        height: 800
         isCached: true
 
 secured: "qtrXu8430N7K14B1lgDw8hRZM0V1M2cNoB+b7ULkKTG5YK/pQg9vHZzPW+VBoKm18vDzPqqwv+aVSr7NjnPdCpW8VRUeFyYyueYOMj0lKjKNCAzfGa42CxzM2THcUQmkXzn5TqKMqGHWMf8i38FeQxcYHq+Inx+84K2+RCEpPijCsJvjEsrhPrxLU40P/tpTm8wdcH498O5OKNtTHoJo4bT2MdpxUgqRIEK513KXaJuhE+BmXLne2GxPM52Fbm717wwGg/EaHpzfEhwWwcOW2Ofmbz7I2EUPho3BAR1qQNzSUXh44obwtVbeyHd7+NeveAIQ258dOzDFocBESnIwzoQqW4JeU1pskp81cYkx30I=;YSM4yitrU3zkpHeHzMc61A=="

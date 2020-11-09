@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump made many promises in 2016 and early in his term. Which has he kept and what is he still working on?"
+    excerpt: "But not on others such as bringing back coal and replacing Obamacare. Trump: Biden against 'oil, guns and God' President Donald Trump says he's not a politician. As proof, the real estate developer points to the promises he made both on the 2016 campaign ..."
+    publishedDateTime: 2020-10-27T14:18:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/trump-campaign-promises-judges-wall-health-care-did-he-deliver/5927100002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5927100002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5927100002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/a6cf6981-2aba-49a7-8581-aa5bd30b4748-Promo_art-01.png?auto=webp&crop=864,486,x1000,y802&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Conservative news sites are misleading millions of readers about voter fraud, pushing debunked conspiracy theories amplified by President Trump"
     excerpt: "Right-leaning news sites with millions of readers have published dozens of false or misleading headlines and articles that back unsubstantiated claims by President Donald Trump on voter fraud."
     publishedDateTime: 2020-10-25T18:18:00Z

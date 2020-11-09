@@ -47,70 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump says 'this election is far from over'"
-    excerpt: "President Donald Trump said on Saturday his campaign would begin challenging U.S. election results in court next week after media outlets called the race for Democrat Joe Biden, saying \"this election is far from over."
-    publishedDateTime: 2020-11-07T22:59:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump/trump-says-this-election-is-far-from-over-idUSKBN27N0LH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0LH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0LH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540376943&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60FT"
-        width: 742
-        height: 545
-        isCached: true
-  - title: "Trump accused of undermining US democracy by international elections watchdog"
-    excerpt: "The OSCE criticised Trump's bid to undermine postal ballots, and the president's use of \"discriminatory and pejorative statements\""
-    publishedDateTime: 2020-11-05T16:10:00Z
-    webUrl: "https://www.businessinsider.com/trump-accused-of-undermining-democracy-by-osce-observers-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-accused-of-undermining-democracy-by-osce-observers-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-accused-of-undermining-democracy-by-osce-observers-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 137
-    images:
-      - url: "https://i.insider.com/5fa411bff7d1cb0019e39f31?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "YouTube won't take down video falsely claiming Donald Trump won the election"
-    excerpt: "Not removing videos with false information could sow doubts about the election and even incite violence, critics say."
-    publishedDateTime: 2020-11-07T19:40:00Z
-    webUrl: "https://www.cbsnews.com/news/youtube-disinformation-2020-election/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/youtube-disinformation-2020-election/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/youtube-disinformation-2020-election/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 137
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2018/04/26/a94b1199-056b-47ac-b272-681ccbc8f949/thumbnail/1200x630/0007a00ff914d58ceb1b2ce81dd888e1/rtx24hqc.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why Trump's fake victory speech was the worst and most dangerous TV of election night 2020"
-    excerpt: "President Donald Trump's lies claiming premature victory over Joe Biden in the presidential election were his worst. Media rightly called him out."
-    publishedDateTime: 2020-11-05T04:56:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/media/2020/11/04/election-2020-trump-speech/6159975002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6159975002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6159975002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/PDTF/f091d62a-2fe0-48c7-b465-baefdb94fd66-AP20309302971075.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Chinese state media laughed at Trump after he falsely claimed victory in the 2020 election"
     excerpt: "Trump has so far not accepted the results of the election, falsely claiming that he won the race just before major networks called it for Biden Saturday."
     publishedDateTime: 2020-11-07T18:52:00Z
@@ -124,22 +60,6 @@ related:
     quality: 130
     images:
       - url: "https://i.insider.com/5fa6e7bdf7d1cb0019e3a63d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donations to Trump's election legal fund would also go towards paying off his campaign's debt"
-    excerpt: "On a donation page for Trump's \"Official Election Defense Fund,\" the fine print says 60% will go towards paying off the campaign's debt."
-    publishedDateTime: 2020-11-07T09:14:00Z
-    webUrl: "https://www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donations-trump-legal-fund-spent-on-paying-off-campaign-debt-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 129
-    images:
-      - url: "https://i.insider.com/5fa614b31df1d500182196e5?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -159,21 +79,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In First Public Appearance After Election Loss, Trump Poses For Photos With Bride At His Golf Club"
-    excerpt: "The President has been playing golf at the Trump National Golf Course in Sterling, Virginia since Saturday morning."
-    publishedDateTime: 2020-11-07T20:34:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2020/11/07/in-first-public-appearance-after-election-loss-trump-poses-for-photos-with-bride-at-his-golf-club/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/11/07/in-first-public-appearance-after-election-loss-trump-poses-for-photos-with-bride-at-his-golf-club/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/11/07/in-first-public-appearance-after-election-loss-trump-poses-for-photos-with-bride-at-his-golf-club/amp/"
+  - title: "How Republicans can grow the party's base after Donald Trump is gone"
+    excerpt: "Republican operatives at the Lincoln Project spin wicked videos designed to get under President Donald Trump’s skin. Veterans from the Bush Administration sign up with 43 Alumni for Biden. Retired security officers leap on the blue bandwagon."
+    publishedDateTime: 2020-10-28T22:05:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/27/how-republicans-can-save-party-and-grow-their-base-after-trump-column/6038458002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6038458002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038458002"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 126
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa703af94580771e55f0e92%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1050%26cropY1%3D53%26cropY2%3D643"
-        width: 1050
-        height: 590
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Can Trump 'Fire Fauci'? Not easily, but he could make it messy"
     excerpt: "Can President Trump fire Dr. Anthony Fauci as he suggested he might do after the election? Not easily, but he could make it messy."
@@ -191,54 +111,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Donald Trump has won Iowa"
-    excerpt: "Iowa has six electoral votes and was expected to be particularly competitive."
-    publishedDateTime: 2020-11-04T06:50:00Z
-    webUrl: "https://www.businessinsider.com/iowa-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/iowa-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iowa-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa23c701df1d50018218bf7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump has won Texas"
-    excerpt: "The state has 38 electoral votes and was expected by analysts to be particularly competitive."
-    publishedDateTime: 2020-11-05T03:13:00Z
-    webUrl: "https://www.businessinsider.com/texas-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/texas-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa238771df1d50018218bf0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump does not plan to concede any time soon, aides and allies indicate"
-    excerpt: "After the declaration on Saturday that Democrat Joe Biden had won the race for the White House, Republican President Donald Trump and his allies made one thing clear: he does not plan to concede anytime soon."
-    publishedDateTime: 2020-11-08T09:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN27N0YT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27N0YT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27N0YT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540387506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60S6"
-        width: 787
-        height: 545
-        isCached: true
   - title: "'I appreciate the advice': After crowd chants 'Fire Fauci!' Trump says to wait until after the election"
     excerpt: "\"Let me wait 'til a little bit after the election, please,\" Trump told the crowd, which had started a resounding chant of \"fire Fauci!\""
     publishedDateTime: 2020-11-02T13:46:00Z
@@ -252,22 +124,6 @@ related:
     quality: 124
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/14/USAT/141e651b-459d-436d-a7d2-7378647509ea-fauci.jpg?auto=webp&crop=4573,2572,x0,y232&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump declarations of victory and accusations of stealing the election test Facebook and Twitter"
-    excerpt: "Donald Trump's premature declarations of victory and his allegations of voter fraud are testing social media companies the day after the election."
-    publishedDateTime: 2020-11-04T18:47:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/11/04/trump-tweets-declaration-victory-voter-fraud-facebook-twitter-election-test/6161379002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6161379002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6161379002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/c7f24c8e-9106-4a61-bc4e-fc1bab2d3991-AFP_AFP_8UK46H.jpg?auto=webp&crop=3598,2024,x0,y136&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -287,6 +143,22 @@ related:
         width: 1200
         height: 891
         isCached: true
+  - title: "Democrats demand docs tied to Trump order stripping civil service protections"
+    excerpt: "Democrats on the House Oversight Committee asked the White House on Wednesday to turn over a trove of documents related to a recent order that strips some civil servants of worker protections."
+    publishedDateTime: 2020-10-28T21:16:00Z
+    webUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service"
+    ampWebUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_10262020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump reportedly slammed Anthony Fauci as 'a disaster' on a campaign phone call"
     excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said on a call, CNN reported. \"People are tired of hearing Fauci and all these idiots.\""
     publishedDateTime: 2020-10-20T00:34:00Z
@@ -303,45 +175,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump makes final bid for re-election in Michigan"
-    excerpt: "World Trump makes final bid for re-election in Michigan. Posted . Stretching into the early hours Tuesday, U.S. President Donald Trump made a final push for re-election in the cit"
-    publishedDateTime: 2020-11-03T10:37:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD30QUHR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QUHR&r=OVD30QUHR&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Trump returns to the White House ahead of election night"
-    excerpt: "President Trump is back at the White House, where he plans to spend the evening watching returns. After Democrats maintained a lead in early voting across several states, the Trump campaign is counting on an enormous in-person turnout by Republicans on Election Day."
-    publishedDateTime: 2020-11-04T00:03:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-returns-to-the-white-house-ahead-of-election-night/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/03/b06ca1e2-8b48-4d22-9bab-dd8d8e92ed91/thumbnail/1200x630/3cf3d940eddafa3cd78d9f642858b37b/1103-en-reid-580138-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump's election night party adds to virus scrutiny"
-    excerpt: "It was supposed to be a scene of celebration."
-    publishedDateTime: 2020-11-09T00:43:00Z
-    webUrl: "https://www.businessinsider.com/trumps-election-night-party-adds-to-virus-scrutiny-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trumps-election-night-party-adds-to-virus-scrutiny-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-election-night-party-adds-to-virus-scrutiny-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship"
     excerpt: "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain."
     publishedDateTime: 2020-10-28T09:14:00Z
@@ -355,20 +188,6 @@ related:
     quality: 119
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/31/USAT/5f2d0ac9-24b5-43ca-bb6c-a6da956b363b-AFP_AFP_1VA3UJ.jpg?auto=webp&crop=4011,2257,x0,y355&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Ultimate Donald Trump Mystery That Couldn’t Be Solved Before Election Day"
-    excerpt: "A s Americans vote today, they do so with a limited view of Donald Trump’s finances—especially at one project, the Trump International Hotel & Tower in Chicago, which offers the prospect of shedding light on many questions: who the president owes money to,"
-    publishedDateTime: 2020-11-03T13:48:00Z
-    webUrl: "https://www.forbes.com/sites/danalexander/2020/11/03/the-ultimate-donald-trump-mystery-that-couldnt-be-solved-before-election-day/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 117
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa0cd87544469eca855ec25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
         width: 1200
         height: 675
         isCached: true
@@ -404,6 +223,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The US's top cybersecurity agency just threw cold water on Trump's claim that election results in battleground states are fraudulent"
+    excerpt: "CISA quickly debunked Trump's latest claims that the election results in key battleground states are rigged against him as Biden takes the lead."
+    publishedDateTime: 2020-11-04T18:32:00Z
+    webUrl: "https://www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f8f521ab0526700185cc7a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Dr. Fauci's COVID comment angers Pres. Trump"
     excerpt: "Watch \"Dr. Fauci's COVID comment angers Pres. Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-02T12:57:00Z
@@ -429,62 +264,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "The Real Reason Fox News Needs Trump to Win"
-    excerpt: "Fox News needs Donald Trump to win — but not for the reason you think. A press release landed in media reporters’ inboxes last week: “Fox News Channel Earns Highest-Rated Primetime Monthly Average in the History of Cable Led by Tucker Carlson Tonight."
-    publishedDateTime: 2020-11-03T14:37:00Z
-    webUrl: "https://www.washingtonpost.com/business/the-real-reason-fox-news-needs-trump-to-win/2020/11/03/909b6400-1de2-11eb-ad53-4c1fda49907d_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QM4AMLQ54II6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1296
-        height: 790
-        isCached: true
-  - title: "Trump supporters outside poll draw police attention"
-    excerpt: "Trump supporters screamed their devotion to the incumbent via bull horns across the street from a Houston voting center. Some Biden voters thought the cheering was a form of voter intimidation, so they started escorting people to the polling place."
-    publishedDateTime: 2020-11-03T22:50:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/trump-supporters-outside-poll-draw-police-attention/6149743002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2d765f1d-35e6-4a14-a864-8d62527bd69f_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Referendum on Trump shatters turnout records"
-    excerpt: "Trump received more than 70 million — the highest total for a losing candidate. The numbers are certain to rise as election officials continue to count more ballots. But election experts and partisans already are debating the forces behind the swell of civic participation."
-    publishedDateTime: 2020-11-09T06:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/referendum-trump-shatters-turnout-records-74101573"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_aea27a10b04e4ad39430db2b5428bf92_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump returns to White House after golf outing"
-    excerpt: "President Donald Trump returned to the White House Sunday from his golf Club in suburban Virginia. he president's motorcade passed a group of cheering demonstrators at the entrance to the golf club and passed more near the White House."
-    publishedDateTime: 2020-11-08T23:00:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/08/trump-returns-white-house-after-golf-outing/6216689002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43f221d5-8ea4-4f0a-8d0b-766a6c73cda5_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Here Are the All the Lawsuits the Trump Campaign Has Filed Since Election Day—And Why Most Are Unlikely to Go Anywhere"
     excerpt: "It was the latest indication that, even as Trump’s path to victory evaporates, his campaign will continue to fight the outcome in court. This week alone, the Trump campaign blitzed state and federal courts with roughly a dozen new lawsuits,"
     publishedDateTime: 2020-11-07T17:51:00Z
@@ -499,21 +278,37 @@ related:
         width: 6720
         height: 4480
         isCached: true
-  - title: "Funniest Twitter Comments About The 2020 Election Include Jabs At Donald Trump, His Family And Voting"
-    excerpt: "The 2020 presidential election has prompted widespread jokes and witticisms on Twitter, poking fun at President Donald Trump, his family's response to the election and voting in such an unusual presidential race."
-    publishedDateTime: 2020-11-05T03:30:00Z
-    webUrl: "https://www.ibtimes.com/funniest-twitter-comments-about-2020-election-include-jabs-donald-trump-his-family-3076590"
-    ampWebUrl: "https://www.ibtimes.com/funniest-twitter-comments-about-2020-election-include-jabs-donald-trump-his-family-3076590?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/funniest-twitter-comments-about-2020-election-include-jabs-donald-trump-his-family-3076590?amp=1"
+  - title: "2 days after Donald Trump’s visit, Mike Pence returning to Arizona"
+    excerpt: "Vice President Mike Pence is coming back to Arizona on Friday, four days before Election Day, for rallies in Flagstaff and Tucson."
+    publishedDateTime: 2020-10-28T21:44:00Z
+    webUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/"
+    ampWebUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: KTAR News
+      domain: ktar.com
+    quality: 90
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/us-president-donald-trump-pumps-his-fist-after.jpg"
-        width: 1024
-        height: 682
+      - url: "https://ktar.com/wp-content/uploads/2020/10/ap_7e3e06fc1c1a4e0891785a8538a2833c-15.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Harrison Ford Urges Voters To ‘Fire’ Trump Instead of Dr. Fauci in Lincoln Project Ad"
+    excerpt: "In a new ad for the Lincoln Project, Harrison Ford urges voters to \"fire\" President Donald Trump instead of allowing him to fire Dr. Anthony Fauci."
+    publishedDateTime: 2020-11-03T18:16:00Z
+    webUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/"
+    ampWebUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 68
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/11/Harrison-Ford-Fauci-Trump-1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "OsKy9EeH9IqYNMwSmvNhDJDIUIdT5DTgq+jVJDA7Bu2B0sRUAx1KeYxVnJ7fzc68JumyD4MIfXG1QpTthMI6Sft5OJNkP9iFOk+jbtVW3VG4p8mAxjv4lZ0gswe4gAZZQarhDsjNPNPVx+LcOWmMJH9VQSWljgF4UKryaNN3dSBjVxKhSGPpU/lPAY82+uFre6VrdvwL8c89KH8uvTBRzFntbxebVLy4vIOhCAI36jWhCcmS29h+y6499ILQnULLhNgsMSbKqOc9eP2qJEnzOl+eFzzAfPEj4eAvddMsoC5uUuFf51ZAF2L+d5coe84tutLHPZVrSmaeJMTtl8f6B9NFIeUkW892NkkuL/oeTuE=;8jVKf6WeTTZWLoj+7b/GOg=="

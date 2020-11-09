@@ -25,21 +25,83 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris in Detroit on Election Day to rally support: 'Have faith in the American people'"
-    excerpt: "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit."
-    publishedDateTime: 2020-11-06T23:15:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/"
-    ampWebUrl: "https://amp.indystar.com/amp/6129769002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6129769002"
+  - title: "Indian village where Kamala Harris' grandfather was born prays for her win"
+    excerpt: "People gathered Tuesday in a village in India that was once home to the forebears of D Kamala Harris to pray for her ticket's victory in the U.S. presidential election, Reuters news agency reported ."
+    publishedDateTime: 2020-11-03T23:10:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-india-village-pray-thulasendrapuram/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 78
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDTF/f6c9f117-74cf-4558-a513-e8dc14dfdc70-AP20308672071807.jpg?auto=webp&crop=4361,2454,x0,y0&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/9a2dcf7c-b38e-4b38-8498-1312f8920fdb/thumbnail/1200x630/fa3363ef12a674571be1f09b90bea2fe/ap-20308325491643.jpg"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "How Kamala Harris' husband Doug stays fit and deals with stress on the campaign trail"
+    excerpt: "Since August, when Joe Biden chose Kamala Harris as his running mate in the presidential election, life for Harris' husband, Douglas Emhoff, has been nonstop."
+    publishedDateTime: 2020-11-02T21:19:00Z
+    webUrl: "https://www.cnbc.com/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106774227-1604328366950-gettyimages-1228019575-AFP_1WG92Q.jpeg?v=1604328414"
+        width: 4000
+        height: 2830
+        isCached: true
+  - title: "Kamala Harris makes history as the first ever female, Black, and Asian-American vice president-elect"
+    excerpt: "Harris is no stranger to making history. She is the second ever Black female senator and was California's first female and Black attorney general."
+    publishedDateTime: 2020-11-07T00:15:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fa592a01df1d50018219563?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Kamala Harris' Indian ancestral village celebrates her victory as she becomes Vice President of the United States"
+    excerpt: "Thulasendrapuram, population 350, was the Indian home of Harris' maternal grandfather, P.V. Gopalan."
+    publishedDateTime: 2020-11-08T17:34:00Z
+    webUrl: "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5fa821d11df1d500182197b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Indian-Americans Rejoice As Kamala Harris Prepares To Become The Next Vice President"
+    excerpt: "Harris will not only be the first Black, and first female, vice president. She's also the first Indian American and the first Asian American elected to the office."
+    publishedDateTime: 2020-11-08T18:21:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-2020-election-results/2020/11/08/932824125/indian-americans-rejoice-as-kamala-harris-prepares-to-become-the-next-vice-presi"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/08/gettyimages-1229520920_wide-5986925f0c5feb3f27267ddfb075420cacb31e92.jpg?s=1400"
+        width: 1400
+        height: 786
         isCached: true
   - title: "The Historic Barriers Kamala Harris Overcame to Become the First Female, First Black and First Asian American Vice President-Elect"
     excerpt: "For each of Harris' firsts, the history speaks to the breaking down of barriers that silenced the voices of people of color and women"
@@ -55,21 +117,37 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Kamala Harris' VP win marks 'powerful, emotional' moment for African American and South Asian-American women"
-    excerpt: "African American and South Asian women celebrated the history-making win of Kamala Harris, the daughter of an Indian mother and Jamaican father."
-    publishedDateTime: 2020-11-07T16:48:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/kamala-harris-vp-win-historic-first-african-american-asian-women/6144619002/"
-    ampWebUrl: "https://amp.freep.com/amp/6144619002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6144619002"
+  - title: "Kamala Harris' Full Speech: ‘You Chose Hope and Unity, Decency, Science and, Yes, Truth'"
+    excerpt: "Elect Kamala Harris delivered a victory address on Saturday night from Wilmington, Del., and introduced President-Elect Joe Biden. Read the full text of Harris’ speech here:"
+    publishedDateTime: 2020-11-08T02:33:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 56
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 66
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/28/USAT/e88a30bd-a278-4c81-a022-0a5b54e3cedf-AP_APTOPIX_Election_2020_Harris.jpg?auto=webp&crop=4800,2700,x545,y769&format=pjpg&width=1200"
+      - url: "https://media.nbcnewyork.com/2020/11/GettyImages-1284480397.jpg?resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Dem VP nominee Kamala Harris’ Texas visit will include stops in Houston, Fort Worth and McAllen"
+    excerpt: "Kamala Harris, the Democratic nominee for vice president, will make campaign stops in Fort Worth, McAllen, and Houston on Friday. Harris’ visit is a major statement as her swing through Texas will come just four days before Election Day."
+    publishedDateTime: 2020-10-28T15:21:00Z
+    webUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/"
+    ampWebUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 63
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/bd9ebfe10da443d2822a2f2d9dede8b4.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "2OFqoli7s7AvQIy5MdPyWTRKhxUxIvPkzB7r/kkSIHrK0yr6bNF6z3ojYEd/x9CZSfETWfk7dO1Z5KoHTTLDD4kzYGTmJXP/iQOpxfZTIIaKbtcMtUqKtlxFAGCtmoBEanBMlZGynMDHrslGN/jCBu/3/iCAlEUkp825SaSUW577VvF3jrubJkikXYFczpOkl7drfUd52eKFaqURhDcE9JqbjT4+l2qXx+Vn42ULbvLuV4AeMTDNuUzsUZsnWl0eSHM63HbGWVSOkWXSdyuY8nn/QKlCBiFUHtRBduFWnGglIZQuX0bds1SbY7T88knLzK8oCeQXyX7Mf2BHU1uUVbaXE4wOtdG72jSPEDiRYqPdIiX+KjoEtSQuR74RHimLYWN4S/C7doMSGa/FZQ1DamuG+aABO3sMA9S8UiM6jhWJuuBXX/ViRxlZSG8zvxxUzZJHqvV3EaVQJrHUkKXSgchoKg1JJY5kgxDZhNIylDoazfpxc+55A3wuADeNolTdgUOaPEJKilBZyEpxa9jd8ap9vaD1b6mGua0WoUbRJqk=;BOPHD/2dCAlkaebmc4XUag=="

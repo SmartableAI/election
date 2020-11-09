@@ -31,161 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Says Kamala Harris 'Won't Be First Woman President,' Rallygoers Demand Ivanka"
-    excerpt: "Trump said Kamala Harris will \"take over\" for Biden three weeks into his term if he wins before declaring, \"she will not be the first woman president\" Tuesday at a Lansing, Michigan campaign event."
-    publishedDateTime: 2020-10-27T21:24:00Z
-    webUrl: "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635"
-    ampWebUrl: "https://www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-kamala-harris-wont-first-woman-president-rallygoers-demand-ivanka-1542635?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 144
-    images:
-      - url: "https://d.newsweek.com/en/full/1659983/ivanka-trump-president-first-woman.jpg"
-        width: 2500
-        height: 1515
-        isCached: true
-  - title: "Trump on Kamala Harris: U.S. won't have socialist president, \"especially a female socialist\""
-    excerpt: "President Trump was back on the campaign trail Friday in his \"home state\" of Florida after the second and final debate against Democratic nominee Joe Biden. Mr. Trump is trying to win over seniors and women,"
-    publishedDateTime: 2020-10-24T02:59:00Z
-    webUrl: "https://www.cbsnews.com/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 129
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/20/021f18e6-a586-49c0-9a21-c58e187d4dc3/thumbnail/1200x630/5002ee90f26625444a995cd674070d36/gettyimages-1229173896.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President Donald Trump said wind turbines kill 'all the birds.' Cats and radio towers kill far more."
-    excerpt: "President Donald Trump's claim that wind turbines pose a great threat to our avian friends is dubious at best."
-    publishedDateTime: 2020-10-24T02:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/23/trump-biden-during-2020-debate-windmills-kill-all-birds/3744837001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3744837001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3744837001"
-    type: article
-    provider:
-      name: Florida Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Hundreds of Trump rallygoers were stranded in the cold because there reportedly weren't enough buses to transport them back to their cars"
-    excerpt: "Medics transported at least seven people to the hospital and police officers gave rides to elderly rallygoers."
-    publishedDateTime: 2020-10-28T15:19:00Z
-    webUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
+  - title: "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out."
+    excerpt: "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump."
+    publishedDateTime: 2020-10-22T17:39:00Z
+    webUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 92
+    quality: 109
     images:
-      - url: "https://i.insider.com/5f9964b669331a0011bc5a67?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Kamala Harris blames Trump for COVID-19 'mass casualty event’ during Michigan visit"
-    excerpt: "Democratic vice presidential nominee Kamala Harris said President Donald Trump’s handling of the coronavirus pandemic caused the “greatest mass casualty event s"
-    publishedDateTime: 2020-10-26T04:15:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
+  - title: "Conservative news sites are misleading millions of readers about voter fraud, pushing debunked conspiracy theories amplified by President Trump"
+    excerpt: "Right-leaning news sites with millions of readers have published dozens of false or misleading headlines and articles that back unsubstantiated claims by President Donald Trump on voter fraud."
+    publishedDateTime: 2020-10-25T18:18:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 84
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 89
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GJWXLVLC75EXNLWNT2JDQ3BBFM.JPG"
-        width: 4992
-        height: 4006
-        isCached: true
-  - title: "Barack Obama Disses Donald Trump, Waka Flocka Thinks Trump Is A Better President"
-    excerpt: "The rapper weighed in with his opinion and people can't stop talking about it. Former President Barack Obama seemed as if he was having a grand time throwing jabs at President Donald Trump. Obama spoke at a drive-in rally for former Vice President Joe Biden and his running mate Kamala Harris and"
-    publishedDateTime: 2020-10-22T06:25:00Z
-    webUrl: "https://www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 70
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603347710_7b987da563e06aa13399873c4d3427f3.jpg/9e63961120160ca0c8457438ae717356/1603347710_25e8d958f46e8b87c3a5d322492457c0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Harrison Ford Urges Voters To ‘Fire’ Trump Instead of Dr. Fauci in Lincoln Project Ad"
-    excerpt: "In a new ad for the Lincoln Project, Harrison Ford urges voters to \"fire\" President Donald Trump instead of allowing him to fire Dr. Anthony Fauci."
-    publishedDateTime: 2020-11-03T18:16:00Z
-    webUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/"
-    ampWebUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 68
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/11/Harrison-Ford-Fauci-Trump-1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Brett Favre says he will vote for Donald Trump, expected to appear with president at Green Bay rally"
-    excerpt: "Brett Favre became the latest ex-athlete to declare his support for President Donald Trump, tweeting that the Republican nominee will have his vote on Friday. The former NFL quart"
-    publishedDateTime: 2020-10-30T16:09:00Z
-    webUrl: "https://www.freep.com/story/sports/nfl/2020/10/30/brett-favre-donald-trump-2020-election/6084326002/"
-    ampWebUrl: "https://amp.freep.com/amp/6084326002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6084326002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 60
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/05/USAT/baf2b429-623c-4b49-bb82-7b10cc4c203f-XXX_0807_Clemson_practice__28.jpg?auto=webp&crop=2317,1303,x100,y86&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/i9c1o9nbm-hxcciyCgULDOsWMnM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ONYTZMGAMNHETHSZOHDVVCXTKU.aspx"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Pence Remarks at Trump Campaign Rally in Grand Rapids, Michigan"
-    excerpt: "On the eve of the 2020 election, Vice President Mike Pence spoke at a Trump campaign rally in Grand Rapids, Michigan. The vice president criticized his predecessor, Democratic presidential nominee Joe Biden,"
-    publishedDateTime: 2020-11-03T22:00:00Z
-    webUrl: "https://www.c-span.org/video/?477687-2/vice-president-pence-remarks-trump-campaign-rally-grand-rapids-michigan"
+  - title: "‘Please like me’: Trump asking suburban women to vote, but are they behind him?"
+    excerpt: "Over the past few months of campaigning, U.S. President Donald Trump has been trying to appeal to a demographic he is losing a grip on — suburban women. And according to Clifford Young ..."
+    publishedDateTime: 2020-10-23T03:20:00Z
+    webUrl: "https://globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/"
+    ampWebUrl: "https://globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/amp/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 46
-  - title: "President Trump and Vice President Pence Campaign Rally in Grand Rapids, Michigan"
-    excerpt: "On the eve of the 2020 election, Vice President Mike Pence made a final pitch to voters at a rally in Grand Rapids, Michigan. The vice president criticized his predecessor, 2020 Democratic presidential nominee Joe Biden,"
-    publishedDateTime: 2020-11-03T20:22:00Z
-    webUrl: "https://www.c-span.org/video/?477687-1/president-trump-vice-president-pence-campaign-rally-grand-rapids-michigan"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 45
-  - title: "President Trump and Vice President Pence Speak at Campaign Rally in Traverse City, Michigan"
-    excerpt: "President Trump and Vice President Mike Pence spoke at a campaign rally in Traverse City, Michigan. There are about 16 minutes between the vice president and president's remarks."
-    publishedDateTime: 2020-11-04T03:22:00Z
-    webUrl: "https://www.c-span.org/event/?477685/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 40
+      name: Global News
+      domain: globalnews.ca
+    quality: 51
 
 secured: "/dxSRzclj15v+OGP/EDtU2XaLL/1My+FuxT616ah2TyW0/pDGJcdoGKU3evH8GDOTxz9+yMFS7Jn5PIjo8FLc9gUenyQqHmgy+8I2u5KYALQcNnZWCJ/M3eCz7IyPl7hApCgC1wObCD8F2lvJJhEPukB91utVn8vS/NWKvvSpE6DXTE+0vLv4J4QLNjtrVgul73hgk3SI7q89vAk0L5DooweXjhVS43nMU4hboCV2LDP6cEINvNpHSbZIDlpd+8k9UdMZbT2K+7zJm1/nRjQYPr3gD7xS1O8NOQi8kgNvSJu7jCBmwO2VD7SwrVc5q6HDVSXfEUxdjqLePchT0gp2GB+SfLKPfys86DdI+uZrYw=;jPNchxzRhzic0sWFenJZhw=="
 ---

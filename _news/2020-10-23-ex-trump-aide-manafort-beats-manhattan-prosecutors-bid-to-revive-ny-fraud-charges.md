@@ -47,36 +47,31 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Scorned by Trump, many Nigerians love him all the same"
-    excerpt: "Hundreds of men and women marched, clad in T-shirts supporting U.S. President Donald Trump or pink fabric dresses bearing the image of Jesus, as they waved American flags, Republican presidential campaign signs,"
-    publishedDateTime: 2020-11-04T00:09:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-nigeria-idUSKBN27J0S2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J0S2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0S2"
+  - title: "Donald Trump triumphantly returns to Arizona to celebrate the 'end' of the pandemic"
+    excerpt: "Ignore the rising number of new COVID-19 cases. The rising hospitalizations. The deaths. IT'S OVER! (Or so the White House says.)"
+    publishedDateTime: 2020-10-28T20:12:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/op-ed/ej-montini/2020/10/28/trump-arizona-celebrate-end-pandemic/3759732001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3759732001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3759732001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539778529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA20KE"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/48167d52-5c94-4dc5-89fe-2334b1ce123a-AP20293845861071.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "CBS News projects Pres. Trump wins Indiana"
-    excerpt: "Watch \"CBS News projects Pres. Trump wins Indiana\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-04T02:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201104014307-cbs-news-projects-pres-trump-wins-indiana/"
+  - title: "Donald Trump Wins Wyoming"
+    excerpt: "Donald Trump wins Wyoming."
+    publishedDateTime: 2020-11-04T02:54:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-03/joe-biden-wins-vermont"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07533968_1604454424.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "/kR2/IUsLFLUxGVMzVVqb5uBFZP7BylIUjKey3CGfBLPLjvU41N30HMsrw+wGW5OZ8/jodKmeu3mBt8uxgBQ/pzwdV4RUcWBVnUl7KCcCooiFtdfzccyvGomfE5y2mpGf4rlvqhOwl5u455O8rwg9LcjZO7PtRADolpn3EZgVD2sK1CV3JgzVgbZ16qZHKnS2Shf/e5ZCRydWyBBFe+odb915yfmJFlvwOftYrCWCmC7i7579lqzZrCHXvudM3IwESj/fMJAWUegDJVWtNhRwknAYVXtnTsf8QBr5nCs9HK0Okp0+e7vyesuBsZkF1LOT6L/2/GB4mGV6UBa9fbYQgSHkvVlXl8jeUqY7Su3wmY=;3kzUYh0dLHriCss4pKSjrg=="
 ---

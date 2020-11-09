@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
 type: article
 quality: 75
-heat: 95
+heat: 135
 published: true
 
 provider:
@@ -42,6 +42,38 @@ related:
       - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201010&Category=OPINION&ArtNo=201019995&Ref=AR"
         width: 520
         height: 816
+        isCached: true
+  - title: "Debuting Joe Biden impression on ‘SNL,’ Jim Carrey hesitates and rallies for self-control"
+    excerpt: "The former VP, in Carrey’s take, urges himself ‘to just stand here and look lucid.’  NBC Jim Carrey unveiled his take on Joe Biden on Saturday, playing the presidential nominee as subdued, hesitant and determined not to lose his temper when provoked by his combative opponent."
+    publishedDateTime: 2020-10-04T04:11:00Z
+    webUrl: "https://chicago.suntimes.com/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 66
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/eX4eH1FqUvdZILA7P1L5_5nqHJg=/0x0:2942x2052/1400x1050/filters:focal(1224x531:1694x1001):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67577730/Screen_Shot_2020_10_03_at_11.20.33_PM.7.png"
+        width: 1400
+        height: 1050
+        isCached: true
+  - title: "VIDEO: Debuting Joe Biden impression on ‘SNL,’ Jim Carrey hesitates, rallies for self-control"
+    excerpt: "The former VP, in Carrey’s take, urges himself ‘to just stand here and look lucid.’  NBC Jim Carrey unveiled his take on Joe Biden on Saturday, playing the presidential nominee as subdued, hesitant and determined not to lose his temper when provoked by his combative opponent."
+    publishedDateTime: 2020-10-05T16:38:00Z
+    webUrl: "https://chicago.suntimes.com/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 64
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/a7NJUwClBEu4NX0brCqHDlFvvwI=/76x0:871x585/1400x1050/filters:focal(413x26:573x186):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67577730/NUP_191888_0024.14.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "KL1Fkarc0yNJGX80hj6kCDKba27DNiCsCK4Y/iKvytFUA5x9NlHgTRKRxq6a7gMFavXNwKEYo7fbkA/2A+2i5H83eftjL4riZY2+/aHq/UxTbrTmFYybmsTcWiIfsWWbDU64jgD53gKzDF19iCg8ZQFK8n7aze5d5pE2d0zIvjGfy/bXmYYFieEk6MWOpawauU43EO3KrvdyI802WbZEt/aP90EvenYQUFKEMRYVOBWS85zhtbjq1OBfwfrfAT2/itlAsxj6aPLpuhkxv0y1m0MowPvtcscyLkdpFOjeqFgVASpWUZbbze6wnc+UYhvY+skG7aNGeeb550fj//ZCci+nWldGvtmCkNXryXOzLj5gBjMfCaEFfuqMBrLnBhk+7bX/NTXC5Thq4bgDXkNUChmY0sqAqoJSluKjYoUG/Wuz50ffTOOe1HwJwUltbKjhALD3+p3EJx6KsZuSHoiFHYovWyWp6/dS8Gv7CPAJLF3e91/zr4Mr6suWD0506R6NjvAiYmywz2yW71fevUfdBA==;80n1bJ8OQbfFp+A15CyscQ=="

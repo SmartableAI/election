@@ -47,15 +47,47 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
-    excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
-    publishedDateTime: 2020-10-15T18:30:00Z
-    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2020-10-15/trump-gop-leaders-will-appeal-north-carolina-ballot-ruling"
+  - title: "Conservative group head: Trump loss would not vindicate 'the old GOP formula'"
+    excerpt: "Oren Cass, executive director of the conservative think tank American Compass, said Thursday that if President Trump loses his reelection bid, the Republican Party’s takeaway should not be that “the o"
+    publishedDateTime: 2020-10-15T19:24:00Z
+    webUrl: "https://thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula"
+    ampWebUrl: "https://thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/trump101220.jpg"
+        width: 797
+        height: 551
+        isCached: true
+  - title: "Anatomy of a White House response: Timeline of what officials said about Trump's COVID-19 battle"
+    excerpt: "Since Trump announced he tested positive for COVID-19, the White House has sent mixed signals about his condition. Here's a timeline of what we know."
+    publishedDateTime: 2020-10-04T13:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/04/trump-and-coronavirus-timeline-how-white-house-responded/3609794001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3609794001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3609794001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump told journalist Bob Woodward: 'I'm not' worried about contracting COVID-19"
+    excerpt: "President Donald Trump told journalist Bob Woodward in April that he did not fear contracting COVID-19 despite recognizing the disease's threat."
+    publishedDateTime: 2020-10-03T10:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/03/president-donald-trump-coronavirus-bob-woodward-audio-recording/3607185001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 80
 
 secured: "tLrxnoWtI5f4WHXtmXaK//uBv/ajnuOmpR47N7r/1a3wnIy+LUWPl8WX7PJ/xpZ/pa0Vge7fqX5b9470rCkoDnUqh/WXMr0XLi3yzmtHADqiGIbVwZKp+vNEix+MrJ6RhfDVwfTsk+zSfCBbNa5SXZMN10kezZqcw7u+Z0WovZ1QkUNnZKkB4uzKfPW0lDNHikHUgAyrTovI1A1mHwJcqhdaue8mEgiJueoZ9kOug92lvngU6QqVnsqnkL7DpRaskQ67TzxJRtoLGMPTycAL6rgiv8FYKpqAcyIuyguNa2yZLcYvTjVj/RDcnMFRPHA0RyPy2MBHNzDYf7CTG002lfjNnTXeAaS5y31ylMlZutw=;4E4MEZbIO0LIB6XX7ccZiA=="
 ---

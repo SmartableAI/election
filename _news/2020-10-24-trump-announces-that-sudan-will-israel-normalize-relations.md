@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Susan Collins still won't say if she's voting for Donald Trump with less than a week until election"
-    excerpt: "Trump trails Joe Biden by 13 points in a race that could determine whether Democrats flip control of the Senate"
-    publishedDateTime: 2020-10-29T20:07:00Z
-    webUrl: "https://www.salon.com/2020/10/29/susan-collins-still-wont-say-if-shes-voting-for-donald-trump-with-less-than-a-week-until-election/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 56
-    images:
-      - url: "https://media.salon.com/2020/06/trump-collins-0605201.jpg"
-        width: 846
-        height: 571
-        isCached: true
   - title: "After Sudan, Trump Predicts Saudis To Forge Israel Ties"
     excerpt: "US President Donald Trump predicted Friday that Saudi Arabia would soon forge ties with Israel after brokering an agreement for Sudan to normalize ties with the Jewish state. Speaking to reporters as he held a three-way phone conversation with the prime ministers of Israel and Sudan,"
     publishedDateTime: 2020-10-23T18:05:00Z

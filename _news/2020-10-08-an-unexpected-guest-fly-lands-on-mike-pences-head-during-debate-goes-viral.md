@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "A fly landed on Mike Pence's head during the debate and rested there for nearly two minutes"
-    excerpt: "The vice presidential candidates were in a serious moment when the black bug landed on Mr. Pence's stark white hair. Most viewers' attention then turned to the fly – and stayed there until the pest flew away."
-    publishedDateTime: 2020-10-08T16:05:00Z
-    webUrl: "https://www.cbsnews.com/news/fly-landed-pence-head-vp-debate/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/fly-landed-pence-head-vp-debate/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fly-landed-pence-head-vp-debate/"
+  - title: "\"SNL\" Perfectly Explained That Fly On Mike Pence's Head In Their VP Debate Sketch"
+    excerpt: "If you've been anywhere on the internet in the past week, you've probably heard about the fly that spent a whole two minutes chillin' on Mike Pence's head during the vice presiden"
+    publishedDateTime: 2020-10-11T21:42:00Z
+    webUrl: "https://www.buzzfeed.com/angelicaamartinez/snl-vp-debate-fly-sketch"
+    ampWebUrl: "https://www.buzzfeed.com/amphtml/angelicaamartinez/snl-vp-debate-fly-sketch"
+    cdnAmpWebUrl: "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/angelicaamartinez/snl-vp-debate-fly-sketch"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
+      name: BuzzFeed
+      domain: buzzfeed.com
+    quality: 70
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/08/179a6725-59bf-4c8f-b6ff-20636367b45d/thumbnail/1200x630g2/d416ed0be319751976f9aa97193bedb6/ap-20282085044567.jpg"
-        width: 1200
-        height: 630
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/9/13/tmp/cf2a42752818/tmp-name-2-1936-1602251238-12_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
 
 secured: "pNz48wjkaYxnAu/khwyVHbz7uWuePlO/0tT25vF8pspdWnFHCcbWgsyD+8Xt0sFVujcJvZdoyfmQhglBPpYrmgjQIcPllIQmC2eH1CxF3gNEf+R68IU9rpAPIzkWPAY9av7jYGw4/fsDp+mlEeFcJaFiNhCZp1EqUaQHZjUu4CcE4y7dK2Ro1K+70Ou3IaJ0N19/YRauAUy0wHznRzgvw848KVsNHJZsFn6ffSEbircLCXEFo0OfbLNUg2kt6pEmhl91ZKVXzbUBuUofXJWFP0YNZVQy/7XqMxAUouVmSt6jPRTGwSyS9doFbPwFtkxFDC6XSBvSea4kv2VK2SLNCLrn5UkxQi26QT+SWU/YU+0=;Nk6wqUlhEpDGJ1tOpA8Kwg=="

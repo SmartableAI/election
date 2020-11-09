@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6182029002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182029002"
 type: article
 quality: 113
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: USA Today
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "ABC, CBS, and NBC cut away from Trump's White House address riddled with unfounded accusations about the 2020 election"
-    excerpt: "President Donald Trump, at the White House, made an unfounded accusation that the election was being stolen from him. ABC, CBS, and NBC cut away."
-    publishedDateTime: 2020-11-06T03:09:00Z
-    webUrl: "https://www.businessinsider.com/networks-cut-away-from-trumps-white-house-address-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/networks-cut-away-from-trumps-white-house-address-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/networks-cut-away-from-trumps-white-house-address-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5fa4b8fdf7d1cb0019e3a23d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "9b/mhgNo1zb1jkXNPAb2midI0xbUhzmKQBMCUjEAZU1Yjm52bEw9cdbjabgZvXJs/ZEQzRcW35vF8BQAZ0wZV8ZztPHUSuuy08bg103LCje0uenqIxnYllg4VvYxXTDNQ3vkKMwu+eY3kSIP6hxuVPu8nlHsWR2fsk0VI0ymbID5DqZPlV+/biFJCln7YtSWtJe0s7JBS2aobCuG0xi93YkCbjMuS6dsD7PdiHWAwnCMhBFN8Zqu7t0uAnlQNv+DK5AYH6es6tVDHfqLk2YJkWzEx1oyI9wBER6ZvCaZ/NhKX5BlVtxYOpA0a6MZ2dh5Uh6XBhf5l8BrGm/3zy81UQghzxutWevh3eqKlq+3bguPtMwRYdcJ+JVoPjrK1U8bW8QSn2Hb3jSqdxYQc88qnfmS+Qx0lw5XbibZfu5ZRmfqyWn7mrN5L/m5QQ3fhPUKsjbWelgOP76KMlL1Py1O+uemI2scFLeVfqCxGfMrCZDQqCZrMOFu7my6+O/XsJScnkWSTgzq2Kug0Bvw0NI4HA==;hnwD6vf+Vl5SdqtNVVAXmQ=="
 ---

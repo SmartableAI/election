@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442"
 type: article
 quality: 120
-heat: 220
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,83 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence does not seem prepared to save the republic, should he be called upon to do so"
-    excerpt: "Like his boss, Pence says that only a 'fair' election will be acceptable — and then claims it may not be fair."
-    publishedDateTime: 2020-10-08T13:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/?outputType=amp"
+  - title: "The medical facts about Mike Pence's debate red eye"
+    excerpt: "Internet users suggested his red eye was a sign the vice president has coronavirus. Is there any truth to that?"
+    publishedDateTime: 2020-10-08T21:32:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/longevity/520261-the-medical-facts-about-mike-pences-debate-red-eye"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/longevity/520261-the-medical-facts-about-mike-pences-debate-red-eye?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/longevity/520261-the-medical-facts-about-mike-pences-debate-red-eye?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HS6KQBAJEMI6XBYZBXYVTUKHSQ.jpg&w=1440"
+      - url: "https://thehill.com/sites/default/files/ca_penceredeye_100820getty.jpg"
         width: 1440
-        height: 960
+        height: 880
         isCached: true
-  - title: "Smoothing chaos to dullness was Pence's point"
-    excerpt: "Before we get to his defense of the Trump administration, let's discuss Mike Pence's opposition to a wall. There was something deeply pathetic about the vice president protesting a panel of ..."
-    publishedDateTime: 2020-10-08T20:15:00Z
-    webUrl: "https://www.newsday.com/opinion/commentary/mike-pence-donald-trump-2020-presidential-election-vice-presidential-debate-kamala-harris-coronavirus-covid-19-1.50030980"
-    ampWebUrl: "https://www.newsday.com/amp/opinion/commentary/mike-pence-donald-trump-2020-presidential-election-vice-presidential-debate-kamala-harris-coronavirus-covid-19-1.50030980"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/commentary/mike-pence-donald-trump-2020-presidential-election-vice-presidential-debate-kamala-harris-coronavirus-covid-19-1.50030980"
+  - title: "A fly landed on Mike Pence's head during the debate and rested there for nearly two minutes"
+    excerpt: "The vice presidential candidates were in a serious moment when the black bug landed on Mr. Pence's stark white hair. Most viewers' attention then turned to the fly – and stayed there until the pest flew away."
+    publishedDateTime: 2020-10-08T16:05:00Z
+    webUrl: "https://www.cbsnews.com/news/fly-landed-pence-head-vp-debate/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/fly-landed-pence-head-vp-debate/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fly-landed-pence-head-vp-debate/"
     type: article
     provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 75
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
     images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.50030981.1602182199!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
-  - title: "Vice President Mike Pence talks up Supreme Court nominee in Columbus stop"
-    excerpt: "Vice President Mike Pence denounced what he sees as attacks on religion by those opposing Amy Coney Barrett’s nomination to the U.S. Supreme Court during a campaign stop in Columbus on Monday ..."
-    publishedDateTime: 2020-10-13T16:24:00Z
-    webUrl: "https://www.dispatch.com/story/news/politics/elections/2020/10/12/vp-mike-pence-promotes-supreme-court-nominee-columbus-stop/5970066002/"
-    ampWebUrl: "https://amp.dispatch.com/amp/5970066002"
-    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/5970066002"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/NCOD/d608d6f5-7e4a-42d6-ad03-5b9f82063bce-pence_inside_ac_11.jpg?auto=webp&crop=3282,1846,x0,y418&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/08/179a6725-59bf-4c8f-b6ff-20636367b45d/thumbnail/1200x630g2/d416ed0be319751976f9aa97193bedb6/ap-20282085044567.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence and his wife had requested absentee ballots by mail"
-    excerpt: "IndyStar has learned Vice President Mike Pence and his wife, Karen Pence, in September requested absentee ballots from Marion County."
-    publishedDateTime: 2020-10-09T16:37:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/09/vice-president-mike-pence-had-requested-absentee-ballots-mail/5937655002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5937655002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5937655002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/08/28/PIND/5da0b7fe-137b-430f-89b1-c6fcbbba4e30-AP19234698294491.jpg?auto=webp&crop=6719,3780,x0,y178&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Want to Know What a Return to “Normal” Will Look Like? Stare Into Mike Pence’s Dead Eyes."
-    excerpt: "Mike Pence spent the vice presidential debate lying, rule-breaking, and selling the Trump agenda, but he did so unburdened by Donald Trump’s chaotic personal behavior — and the political establishment on both sides of the aisle swooned."
-    publishedDateTime: 2020-10-09T15:15:00Z
-    webUrl: "https://www.jacobinmag.com/2020/10/mike-pence-vp-vice-presidential-debate-trump"
-    type: article
-    provider:
-      name: Jacobin
-      domain: jacobinmag.com
-    quality: 46
-    images:
-      - url: "https://images.jacobinmag.com/wp-content/uploads/2020/10/09110338/GettyImages-1279064285.jpg"
-        width: 1024
-        height: 683
+        height: 630
         isCached: true
 
 secured: "Z/QfUGZj5LvvIrLA8C1dN3vgvfVFWE/Td/x4tRpizqHs1IVuy2U2o/HyKum5KUaRtbcfS2lG1b0fUhmuv906LuW6FV1VgRQlTJetlQI48uSTshjHZQ0TDc+M1oyCmFEuQFxQf/XIuhGYXrVL+YmX+I9qA6UzBYo9G/Bc8SyX1lbzr4yMjB6mQKmW8g9tUEAd9m7FByNSblgDua51mGNM/mDQkIKPn9s06YsLzSrJHT+81CpQwSCBO23IizoPg5wkqyc5zHZTIIkjlJgdWpWoAgWSYBOy3xRG7IdAwghLLR7as322SI7C1OXGovGsJoCpTUOygR/ubjJovBQsPXQsuShpC8ZCIKaxKypeWE/ryfCM2wtd9/KRjmwjnFkTdfvIKXoZWPhcAnG19f3+Jx1lLzuSps9rySopmfLch6b8hysfwISdQ9SQhHV+XsQWHThLbqgHKSCFjaHUpP9gSv7L4loGpa60KIE9JEtwXbEzwn+zGltm8ojOEb7hR/s3zuOWAON/zCY0NGeZo8akGiaYJg==;LcXAl4Ynp50bDPSg6yEgmA=="

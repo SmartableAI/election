@@ -27,133 +27,127 @@ images:
     isCached: true
 
 related:
-  - title: "What are we supposed to call Kamala Harris' husband?"
-    excerpt: "But as many in the nation celebrated Biden and Harris' projected win on Saturday, another question quickly arose: what the world will call her husband, who is expected to be the first male spouse of a vice president in U."
-    publishedDateTime: 2020-11-07T19:51:00Z
-    webUrl: "https://www.cbsnews.com/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
+  - title: "Indian village where Kamala Harris' grandfather was born prays for her win"
+    excerpt: "People gathered Tuesday in a village in India that was once home to the forebears of D Kamala Harris to pray for her ticket's victory in the U.S. presidential election, Reuters news agency reported ."
+    publishedDateTime: 2020-11-03T23:10:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-india-village-pray-thulasendrapuram/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/51c0fd32-c75e-4bf5-a826-67be9934342c/thumbnail/1200x630/c39dfd54a8c3a2e0ab45b66f8ab752ec/gettyimages-1267250943.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/9a2dcf7c-b38e-4b38-8498-1312f8920fdb/thumbnail/1200x630/fa3363ef12a674571be1f09b90bea2fe/ap-20308325491643.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Doug Emhoff, Kamala Harris' husband, will be the nation's first 'second gentleman'"
-    excerpt: "Doug Emhoff, married to Vice President-elect Kamala Harris, will be the first male spouse of any vice president or president. Here's what to know."
-    publishedDateTime: 2020-11-07T16:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/07/kamala-harris-husband-doug-emhoff-first-second-gentleman/6168693002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6168693002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6168693002"
+  - title: "How Kamala Harris' husband Doug stays fit and deals with stress on the campaign trail"
+    excerpt: "Since August, when Joe Biden chose Kamala Harris as his running mate in the presidential election, life for Harris' husband, Douglas Emhoff, has been nonstop."
+    publishedDateTime: 2020-11-02T21:19:00Z
+    webUrl: "https://www.cnbc.com/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/20/USAT/f656912b-69bc-4977-b163-04c9557c0428-husband.jpg?auto=webp&crop=2912,1638,x0,y0&format=pjpg&width=1200"
+      - url: "https://image.cnbcfm.com/api/v1/image/106774227-1604328366950-gettyimages-1228019575-AFP_1WG92Q.jpeg?v=1604328414"
+        width: 4000
+        height: 2830
+        isCached: true
+  - title: "Kamala Harris makes history as the first ever female, Black, and Asian-American vice president-elect"
+    excerpt: "Harris is no stranger to making history. She is the second ever Black female senator and was California's first female and Black attorney general."
+    publishedDateTime: 2020-11-07T00:15:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fa592a01df1d50018219563?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "One of these people could be VP-elect Kamala Harris’ successor and California’s next senator"
-    excerpt: "The Times asked political strategists for a list of the most likely contenders from whom Newsom might choose to replace Harris for the final two years of her Senate term."
-    publishedDateTime: 2020-11-07T16:51:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator"
-    ampWebUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
+  - title: "Kamala Harris' Indian ancestral village celebrates her victory as she becomes Vice President of the United States"
+    excerpt: "Thulasendrapuram, population 350, was the Indian home of Harris' maternal grandfather, P.V. Gopalan."
+    publishedDateTime: 2020-11-08T17:34:00Z
+    webUrl: "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 114
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6ac6595/2147483647/strip/true/crop/2048x1430+0+0/resize/840x587!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2F57%2F3e257e5f130c40ac25e6a9b9078e%2Fla-1518827091-m3b6svi2yw-snap-image"
-        width: 840
-        height: 587
+      - url: "https://i.insider.com/5fa821d11df1d500182197b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election"
-    excerpt: "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president."
-    publishedDateTime: 2020-11-08T19:32:00Z
-    webUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/"
-    ampWebUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+  - title: "Indian-Americans Rejoice As Kamala Harris Prepares To Become The Next Vice President"
+    excerpt: "Harris will not only be the first Black, and first female, vice president. She's also the first Indian American and the first Asian American elected to the office."
+    publishedDateTime: 2020-11-08T18:21:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-2020-election-results/2020/11/08/932824125/indian-americans-rejoice-as-kamala-harris-prepares-to-become-the-next-vice-presi"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 83
+      name: NPR
+      domain: npr.org
+    quality: 98
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
+      - url: "https://media.npr.org/assets/img/2020/11/08/gettyimages-1229520920_wide-5986925f0c5feb3f27267ddfb075420cacb31e92.jpg?s=1400"
+        width: 1400
+        height: 786
+        isCached: true
+  - title: "The Historic Barriers Kamala Harris Overcame to Become the First Female, First Black and First Asian American Vice President-Elect"
+    excerpt: "For each of Harris' firsts, the history speaks to the breaking down of barriers that silenced the voices of people of color and women"
+    publishedDateTime: 2020-11-07T20:11:00Z
+    webUrl: "https://time.com/5908579/kamala-harris-historic-vice-president/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 75
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/kamala-harris-campaign.jpg"
         width: 1024
-        height: 715
+        height: 683
         isCached: true
-  - title: "Kamala Harris' husband declares Ohio a 'blue state' during Election Day visit to Columbus"
-    excerpt: "Underscoring the Democrats' attempt to steal battleground Ohio from Donald Trump - who won the state in 2016 - Doug Emhoff rallies Biden supporters."
-    publishedDateTime: 2020-11-03T20:41:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/11/03/doug-emhoff-kamala-harris-husband-says-ohio-now-blue-state-during-election-day-visit-for-joe-biden/6143275002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/6143275002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6143275002"
+  - title: "Dem VP nominee Kamala Harris’ Texas visit will include stops in Houston, Fort Worth and McAllen"
+    excerpt: "Kamala Harris, the Democratic nominee for vice president, will make campaign stops in Fort Worth, McAllen, and Houston on Friday. Harris’ visit is a major statement as her swing through Texas will come just four days before Election Day."
+    publishedDateTime: 2020-10-28T15:21:00Z
+    webUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/"
+    ampWebUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 81
+      name: KXAN
+      domain: kxan.com
+    quality: 63
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/NCOD/d6aa1413-93fb-40f8-b743-7b7a93b5dd96-MT_emhoff_visit_ea04.jpg?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/bd9ebfe10da443d2822a2f2d9dede8b4.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Who Gavin Newsom might pick for a U.S. Senate seat to replace Kamala Harris"
-    excerpt: "Now that Sen. Kamala Harris is set to become the next vice president, Gov. Gavin Newsom has a big decision to make. Meet some of the top contenders."
-    publishedDateTime: 2020-11-08T17:48:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/"
-    ampWebUrl: "https://www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/amp/"
+  - title: "VP-elect Kamala Harris, first woman, black and Asian-American in role, delivers victory speech"
+    excerpt: "Addressing her historic win, she predicted, \"While I may be the first...I will not be the last.\""
+    publishedDateTime: 2020-11-08T02:34:11Z
+    webUrl: "https://www.independent.co.uk/news/world/americas/us-election-2020/kamala-harris-speech-vice-president-elect-b1685040.html"
     type: article
     provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 73
+      name: The Independent
+      domain: independent.co.uk
+    quality: 43
     images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=0faff2a7-5a0b-5821-ba95-651d49da4456&type=primary&q=72&width=1200"
-        width: 1199
-        height: 837
-        isCached: true
-  - title: "A trio of firsts: Projected win busts Kamala Harris through politics' glass ceilings"
-    excerpt: "The celebrations for Democrats’ projected White House win Saturday included an outpouring of excitement for presumed Vice President-elect Kamala D. Harris making history."
-    publishedDateTime: 2020-11-07T18:38:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 68
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/07/Election_2020_Harris_58071.jpg-ecfc6_c0-171-6000-3671_s1200x700.jpg?fa0b039bd51c287ce8f31137928db7f290d4a4bb"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "‘It’s our time’: Black and brown women around Connecticut celebrate the significance of Kamala Harris’s historic win"
-    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
-    publishedDateTime: 2020-11-07T18:15:00Z
-    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
-    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 52
-    images:
-      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
-        width: 1200
-        height: 800
+      - url: "https://static.independent.co.uk/2020/11/08/01/kamala-harris-victory-speech.jpg"
+        width: 3493
+        height: 2454
         isCached: true
 
 secured: "nTeSFUujLojqP/VFrFqWHgExZHd+iQ1JKQBKRVAUCEyxK91k3DtD7wBGRdxRTVq5ROXcBUbYGsoM+o+km2l0T5pe9OWdJhMq914/hXwHOhBY2sYiYa9HHoRWGRs7/xQhL3mXuzp679RUN7dbshCuf/+CkNfkBFoKe4jo38ahIB3qX1YLoqNjxw/6jSgnnuiE33bVfHfucehkx/yFD5PGmqJqSHVwJP5A6sPOl2W/gTActXxHrHvUCrgfq65I/w9NE3YdUeUGMl0KrrBCS1V9LWr+BVzL58y0sS9fvIL/2Uddp71Mp9qtS/0m0HxzZ8wGj4WxV4mn4T1VQXZBLhThadzfwzK8J1L7qhC9b68ivtM=;0xQchtsoJjLadgVJvGPjww=="

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris, Bernie Sanders Urge Stimulus Bill Focus Over Amy Coney Barrett Hearings"
-    excerpt: "The senators suggested that a further relief package should be the focus of the Senate, as opposed to the SCOTUS nomination."
-    publishedDateTime: 2020-10-12T13:43:00Z
-    webUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296"
-    ampWebUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1649537/sanders-harris.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Trump heads to Iowa, Amy Coney Barrett confirmation hearings, Billboard Music Awards: 5 things to know Wednesday"
     excerpt: "President Trump heads to Iowa, Amy Coney Barrett confirmation hearings resume for a third day and more things to start your Wednesday morning."
     publishedDateTime: 2020-10-14T09:16:00Z
@@ -59,33 +43,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Senator Kamala Harris: Republicans trying to \"jam through\" Amy Coney Barrett nomination"
-    excerpt: "At confirmation hearings for Supreme Court nominee Amy Coney Barrett, Senator Kamala Harris accused her Republican colleagues of attempting to \"jam through\" approval before Election Day, and warned that the Affordable Care Act and numerous rights Americans rely on are at risk."
-    publishedDateTime: 2020-10-12T17:40:00Z
-    webUrl: "https://www.cbsnews.com/video/senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination/"
+  - title: "Donald Trump to campaign Wednesday in Gastonia"
+    excerpt: "The president will be at the Gastonia Municipal Airport Wednesday to campaign for his 2020 reelection campaign."
+    publishedDateTime: 2020-10-16T21:46:00Z
+    webUrl: "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
+    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
+    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
+      name: WCNC
+      domain: wcnc.com
+    quality: 75
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/2d5e0841-796e-493e-9f04-f3bf44d13c2c/thumbnail/1200x630/819834dc9a7096ad7a6913e7d8141769/cbsn-fusion-senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination-thumbnail-564550-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Kamala Harris accuses Amy Coney Barrett of planning to ‘undo RBG’s legacy’ and to do the GOP’s ‘dirty work’"
-    excerpt: "Kamala Harris, the Democratic vice presidential nominee, says Republicans are trying to get the Supreme Court to do their “dirty work” by installing a new justice who will overturn the Affordable Care Act."
-    publishedDateTime: 2020-10-12T22:17:00Z
-    webUrl: "https://www.latimes.com/politics/00000175-1ed1-de05-a9f7-7ffb61bc0000-123"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 87
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/e36e9f8/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F32%2F51%2F615392c94bf7861703acda7c66b2%2Fharris-comfirmation-amy-coney-barrett-la-thmb.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.wcnc.com/assets/WZZM/images/d11f7245-6d50-49bc-81d7-092cae6f06dd/d11f7245-6d50-49bc-81d7-092cae6f06dd_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "CTaHEYmwLb1KuK9mqg8vlmr3QKT9Gh+rEz2et7C+xfzmWOZCJOF1NjbVNHfWNuNCZegEcsEYrJGdwa6ktK4ECyrXHXUQJVzFKFmo//q+9/ivyaDEeluYM4gwiHWF+yYWs7HU/0SWu0Ai48a748uzTNN5CdtQ7+dDGMd08DrfJ8LJMAvzSYgK2FTnFfgGP3rU+iU3PYwalIhQ6hpGR3zfyq/bmzWLAgMb6F/20tN4EussBjPylJ8RDG/0WP6skrEyi3t9nIVlJ+mMK58Tly0mz15jTrOgjUhQgM2OQNOj9lotwL+J35LsC4ayY++9UUyAMN0w3eo1Kfql9puDlgB/uAeAvpFQglg9OdTzMUHv86I=;JvVbljVdqR5lM68yM9+Hsg=="

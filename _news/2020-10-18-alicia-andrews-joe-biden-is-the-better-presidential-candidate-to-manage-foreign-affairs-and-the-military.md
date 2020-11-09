@@ -59,17 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden faces challenges in quickly combating the pandemic"
-    excerpt: "If Joe Biden wins next week's election, he says he'll immediately call Dr. Anthony Fauci, the nation's top infectious-disease expert. He'll work with governors and local officials to institute a nationwide mask-wearing mandate and instruct Congress to pass a sweeping spending bill by the end of January to address the coronavirus and its fallout."
-    publishedDateTime: 2020-10-28T02:39:00Z
-    webUrl: "https://www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-faces-challenges-in-quickly-combating-the-pandemic-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Thursday briefing: Joe Biden with one hand on the prize"
     excerpt: "Photograph: Matt York/AP Hello, Warren Murray here with an electoral collage … By reliable, objective measures Joe Biden is winning the race to become the next US president. Overnight the Democrat has been projected to our satisfaction to be the victor ..."
     publishedDateTime: 2020-11-05T06:32:00Z
@@ -99,6 +88,22 @@ related:
       - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20280081514930.jpg?w=1024"
         width: 1024
         height: 741
+        isCached: true
+  - title: "Barack Obama holds first in-person rally for Joe Biden Wednesday"
+    excerpt: "Obama will be speaking to a crowd at a drive-in rally in Philadelphia, where supporters will listen to him over the radio inside their cars."
+    publishedDateTime: 2020-10-21T05:30:00Z
+    webUrl: "https://www.wkyc.com/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28"
+    type: article
+    provider:
+      name: WKYC3
+      domain: wkyc.com
+    quality: 75
+    images:
+      - url: "https://media.wkyc.com/assets/CCT/images/aef4a02d-ebe4-4a90-ad65-84b544f05c88/aef4a02d-ebe4-4a90-ad65-84b544f05c88_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "Vice President Mike Pence to visit Oakland County on Thursday"
     excerpt: "Vice President Mike Pence will be back in Michigan on Thursday as a string of high-profile visits to the state continues ahead of the Nov. 3 election."
@@ -148,6 +153,77 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden Said He Wants to 'Transition From the Oil Industry.' That Shouldn't Be a Surprise"
+    excerpt: "W hen former Vice President Joe Biden said at Thursday’s presidential debate that he wanted to “transition from the oil industry,” President Donald Trump pounced. “Oh, that’s a big statement,” Trump said,"
+    publishedDateTime: 2020-10-23T23:29:00Z
+    webUrl: "https://time.com/5903235/joe-biden-oil-industry-debate/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 75
+  - title: "Hillary Clinton endorses Joe Biden's plans for U.S. court commission"
+    excerpt: "Democratic presidential nominee Joseph R. Biden has found at least one supporter for his idea to create a blue-ribbon panel to study the U.S. court system: Hillary Clinton."
+    publishedDateTime: 2020-10-29T00:20:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/28/hillary-clinton-endorses-joe-bidens-plans-us-court/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/28/hillary-clinton-endorses-joe-bidens-plans-us-court/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/28/hillary-clinton-endorses-joe-bidens-plans-us-court/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/19/Election_2020_DNC_69834.jpg-51cce_c99-0-2811-1582_s1200x700.jpg?6ee2f71840e6d2ce1a6b90520d3850ff9bad6041"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Opinion: Questions Joe Biden should answer about Hunter's emails"
+    excerpt: "If all of this is really so wild and crazy conspiracy theory, then Biden would be champing at the bit to dispel it, Harsanyi writes"
+    publishedDateTime: 2020-10-29T03:01:00Z
+    webUrl: "https://www.detroitnews.com/story/opinion/2020/10/28/opinion-questions-joe-biden-should-answer-hunters-emails/3754663001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3754663001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3754663001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/PDTN/58bac02b-d97a-483e-9ba1-d3709f2874b1-POTD-002.jpg?auto=webp&crop=4905,2760,x0,y490&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "US election: Joe Biden and wife Jill vote early in Delaware"
+    excerpt: "Democratic presidential candidate Joe Biden and his wife Jill have voted early in Delaware. He also answered questions from reporters about his healthcare plan if elected, saying he believed he would get help from the Republicans with lowering the cost of medication."
+    publishedDateTime: 2020-10-28T18:24:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54724435"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 70
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08wqcmv.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "This Bay of Pigs vet in Miami is all in for Joe Biden, rejects GOP’s socialist attacks | Opinion"
+    excerpt: "But finally, somebody with credibility and authority — a Bay of Pigs veteran, no less — is addressing the most damaging accusation by the Donald Trump campaign and the Florida GOP against Joe Biden and down-ballot Democrats."
+    publishedDateTime: 2020-10-20T19:14:00Z
+    webUrl: "https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article246563553.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article246563553.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article246563553.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 62
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/768a4e71-5e14-4b0c-ba99-683904aba9e4/9e7359bc-5471-40fb-bf91-0c8183522592/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Mike Pence to make 2 South Florida stops on Thursday"
     excerpt: "President Trump and Vice President Mike Pence will both be in South Florida on Thursday, attending separate events. At 12:30 p.m.,"
     publishedDateTime: 2020-10-15T13:09:00Z
@@ -158,6 +234,17 @@ related:
     provider:
       name: 7News Miami
       domain: wsvn.com
+    quality: 55
+  - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
+    excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
+    publishedDateTime: 2020-10-18T18:11:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 55
   - title: "Pence to visit Fort Wayne on Thursday"
     excerpt: "Vice President Mike Pence is scheduled to campaign Thursday in Fort Wayne, according to a tweet by his communications director."
@@ -173,6 +260,49 @@ related:
         width: 800
         height: 528
         isCached: true
+  - title: "Editorial: Joe Biden can restore nation to normalcy"
+    excerpt: "At this point some might question the utility of an endorsement regarding the race for the President of the United States; supporters of President Trump or former Vice President Joe Biden will have long ago locked in their decisions,"
+    publishedDateTime: 2020-10-22T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/editorial-joe-biden-can-restore-nation-to-normalcy/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 55
+    images:
+      - url: "https://www.heraldnet.com/wp-content/uploads/2020/10/23074911_web1_TSR-201022-edh-opi-EndorseBiden2.jpg"
+        width: 1302
+        height: 868
+        isCached: true
+  - title: "Joe Biden Says He Plans to Push New Health Care Legislation If Elected"
+    excerpt: "Speaking to reporters after voting in Wilmington, Delaware, Joe Biden says he has new legislation ready to go, if elected, that would improve the Obama-era Affordable Care Act that includes a public option and reduces prescription drug prices."
+    publishedDateTime: 2020-10-28T17:45:00Z
+    webUrl: "https://www.c-span.org/video/?c4919121/joe-biden-plans-push-health-care-legislation-elected"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4919121"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4919121"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
+  - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
+    publishedDateTime: 2020-10-16T13:13:00Z
+    webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Scranton Virtual Block Party for Joe Biden"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks to a virtual rally in support of his campaign held by supporters in his hometown of Scranton, Pennsylvania."
+    publishedDateTime: 2020-10-28T23:16:00Z
+    webUrl: "https://www.c-span.org/video/?477510-1/scranton-virtual-block-party-joe-biden"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "XBtBJVmuw5O7iKsv5qZRt9bxvPSLbImboeZUZJG5oRrUnx4X0aGP8gp7PDWiZdNvdm+nt2hgs0Is/WuYIk0/vWTS8WlDsEKiHyMBbqrqepoyKRLLvPzzkrEj03hcdApPTyL3QbqG10A5srbezjJp7EYNJSTCeB1hbo2dOvwgVq5H60QOgrOMyWba9iyyiHNVnp0ksuQIGSvshWQ41rG7pLtlqWcXC+/h1TSmr7ApNo6ZGD0OT7YPF4ZpVls/sOOxljxPTOn+XzqaWQiG3IEIQLzIDsKNxpDnu9hX7uIsqgIRcTAlI8r8hSrPkJsKaVGT8EjLsKWSN4WIHzbHi+bAx978MymmOs9riUMYp3ro6zYE6CRkoUXabBsh5sf7fPCnAW+idjTy98yj80NjfoZNtvzwFyws40PaNSJBYu+hsN2AAWXraz9Rc5S1VfLDLMJNRIEe8uGJ3H+B0VloVbnVR4aMnvg61EcqCx1YopaUE46qFL8I+BcX2Dg3ZRPgey0Lbfbgjr5g5S3C045hU4oeMg==;thEPHkoIxaC8PfPD2igu2Q=="
 ---

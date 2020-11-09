@@ -41,22 +41,6 @@ related:
         width: 990
         height: 545
         isCached: true
-  - title: "Biden and aides plan for the 'hard work of governing' a divided U.S"
-    excerpt: "A day after clinching the U.S. presidency, Democrat Joe Biden and his advisers were working on Sunday on how to address the nation's coronavirus crisis while reinforcing his intention to bridge America's gaping political divisions."
-    publishedDateTime: 2020-11-08T23:05:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/biden-wins-us-presidency-calls-for-healing-in-appeal-to-trump-voters-idUSKBN27M0U3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540412364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA7070"
-        width: 796
-        height: 545
-        isCached: true
   - title: "Facing a divided U.S., Biden and aides plan for the 'hard work of governing'"
     excerpt: "Joe Biden and his advisers on Sunday were working on plans to tackle the crises facing a divided America, first and foremost the raging coronavirus pandemic, a day after the Democrat won enough states to clinch the U."
     publishedDateTime: 2020-11-09T02:15:00Z
@@ -72,31 +56,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540418131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA708M"
         width: 753
         height: 545
-        isCached: true
-  - title: "Biden rebuilding 'blue wall' in race for the White House"
-    excerpt: "Democrat Joe Biden was pushing closer to the 270 Electoral College votes needed to carry the White House, securing victories in the “blue wall” battlegrounds of Wisconsin and Michigan, and narrowing President Donald Trump's path."
-    publishedDateTime: 2020-11-05T07:46:00Z
-    webUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "How Wisconsin and Michigan could deliver Biden the presidency"
-    excerpt: "The Washington Post’s Philip Bump analyzes how Democratic presidential nominee Joe Biden flipped key states blue in 2020 and what it means for his chances of winning the presidency."
-    publishedDateTime: 2020-11-05T02:01:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/how-wisconsin-and-michigan-could-deliver-biden-the-presidency/2020/11/04/457c21ca-f628-4aa3-9f11-19c95a27808f_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-05-2020/t_eb6152e9dd9141bca371527b44fc6a64_name_20201104_DemetriusFreeman_wapo_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
         isCached: true
 
 secured: "JimNqizBp5hGmw96DPpcLXaoMFDm/6dHgzRzwSz1wtUzLzbddFBFu5dza/pyn+yuzRS0FfhqShPD8fa/mxDWAyxZRK9UJ9mA74CTP0FFseEjeILKHlnULn2JhAhpZUsy1KRKZdvmsfogI9nslfpE+69wHWUbmbhZJNqwsoOoEFUUazTyzs2+VAR0xzgr9FxDxT7QgC6Ea+pWDeFl6bDZdrhEggUB0lHpEFes3lhvPTUYY+wMyNPacB+VO9TYvRWW+HyQAQKCHJ19zWh4khf1VnJVnw4mP8BS76M/OlB1asc4SknHF790VLT8NuATkADaAvXSnZRbKTnWEtQrwrjRcmCahXUMtco3CVclD7p8F3T/klhPB7spA9RZpF3NVJDCnFpllNAA0/30xnd+z1rW2AZY2FObCtgy0WKyTgWy4KALTTuZ5Xs9uGIvo4ttxXeJu/UqCWFINt4GKqLjdIk51+2RkB6bziAE4oPP/zISKeO4KmD1NfweBtvqXHtKE0Bv5mYWpWNqMCsF4EkJ/8MahA==;xJ6DF0bT6ZHVxCpBwAq2LQ=="

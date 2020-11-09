@@ -1472,6 +1472,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
+    excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."
+    publishedDateTime: 2020-11-09T10:40:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/world/asia/china-united-states-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/world/asia/china-united-states-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/world/asia/china-united-states-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 149
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/world/09china-us-1/09china-us-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Top Republicans Decline to Acknowledge Biden Win as Trump Refuses to Concede"
     excerpt: "Former President George W. Bush and a handful of other Republicans congratulated the president-elect, but most party leaders stayed quiet or urged President Trump to fight."
     publishedDateTime: 2020-11-08T22:03:00Z

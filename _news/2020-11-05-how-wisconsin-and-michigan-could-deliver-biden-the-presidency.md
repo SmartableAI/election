@@ -29,78 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "Breakingviews - Biden win sets scene for storm before the calm"
-    excerpt: "Americans chose Joe Biden as their 46th president. That should usher in a more predictable period for policymaking, and decisive action on containing Covid-19. But he faces three major challenges: voters’ effective rejection of his party’s punchier ideas,"
-    publishedDateTime: 2020-11-07T17:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0NT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT"
+  - title: "Analysis: Biden would face uncertain path to detente with wary Iran"
+    excerpt: "Joe Biden plans to scrap what he calls the \"dangerous failure\" of President Donald Trump's maximum pressure policy on Iran should he win the U.S. election, but after years of confrontation his diplomacy-first approach to a historic Middle East foe could prove an"
+    publishedDateTime: 2020-10-28T16:37:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-iran-analysis-int/analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran-idUSKBN27D1E2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D1E2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D1E2"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540367165&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HN"
-        width: 990
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539111804&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R0RX"
+        width: 789
         height: 545
         isCached: true
-  - title: "Biden and aides plan for the 'hard work of governing' a divided U.S"
-    excerpt: "A day after clinching the U.S. presidency, Democrat Joe Biden and his advisers were working on Sunday on how to address the nation's coronavirus crisis while reinforcing his intention to bridge America's gaping political divisions."
-    publishedDateTime: 2020-11-08T23:05:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/biden-wins-us-presidency-calls-for-healing-in-appeal-to-trump-voters-idUSKBN27M0U3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
+  - title: "The US is out of the Paris climate change agreement; if Biden wins, that could change"
+    excerpt: "The U.S. formally dropped out of the Paris climate accord, fulfilling a vow President Trump made years ago. A Joe Biden win could change that."
+    publishedDateTime: 2020-11-04T23:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/04/paris-agreement-trump-us-officially-leaves-climate-change-accord/6158177002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6158177002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158177002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540412364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA7070"
-        width: 796
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/78dbb2b2-1498-479d-b608-382e2b11e905-AFP_AFP_8QQ2XP.jpg?auto=webp&crop=3972,2235,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Facing a divided U.S., Biden and aides plan for the 'hard work of governing'"
-    excerpt: "Joe Biden and his advisers on Sunday were working on plans to tackle the crises facing a divided America, first and foremost the raging coronavirus pandemic, a day after the Democrat won enough states to clinch the U."
-    publishedDateTime: 2020-11-09T02:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/biden-urges-healing-and-cooperation-after-defeating-trump-for-u-s-presidency-idUSKBN27O06Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O06Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O06Y"
+  - title: "Coronavirus Is A Key Campaign Issue: What's Joe Biden's Plan?"
+    excerpt: "With cases surging, the coronavirus pandemic is heating up as an election issue. Voters have seen President Trump's approach to the crisis play out in real-time, but how would Biden handle things?"
+    publishedDateTime: 2020-10-28T19:45:00Z
+    webUrl: "https://www.npr.org/sections/health-shots/2020/10/28/928392673/coronavirus-is-a-key-campaign-issue-whats-joe-biden-s-plan"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540418131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA708M"
-        width: 753
-        height: 545
-        isCached: true
-  - title: "Biden rebuilding 'blue wall' in race for the White House"
-    excerpt: "Democrat Joe Biden was pushing closer to the 270 Electoral College votes needed to carry the White House, securing victories in the “blue wall” battlegrounds of Wisconsin and Michigan, and narrowing President Donald Trump's path."
-    publishedDateTime: 2020-11-05T07:46:00Z
-    webUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-rebuilding-blue-wall-in-race-for-the-white-house-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: NPR
+      domain: npr.org
     quality: 105
-  - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
-    excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
-    publishedDateTime: 2020-11-05T21:46:00Z
-    webUrl: "https://www.c-span.org/video/?477853-1/joe-biden-urges-patience-election-vote-count-continues-predicts-victory&ICID=ref_fark"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 55
     images:
-      - url: "https://static.c-span.org/assets/images/featured-playlists_icon.png"
-        width: 520
-        height: 485
+      - url: "https://media.npr.org/assets/img/2020/10/27/biden_wide-d2ce06a26f17d40267637f287c6c07c5694d9841.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
 
 secured: "kQ2kHeZURe3d4razlngz+qjWngRBuXkX5OItOZJZgwzJWOR/8cjIoLQf/iad/8dIu5iehxDK3gGunzLCTEz6JpRWVbIH5izS6UjBM6TYHA0NDVeghbhtijLWIyCCBRHbo6q1WN/yWTB6qkud5ybo6Lp2KMHlLbMW6eXAtKifx2NpbaZoncu6xgegbY48bt/MjLwBlGEgTrp5XtjX6nZJ8F6UaVRJPianrlKhlnX1qPoo0JAlbT5+oUZ9c5OiUzVt/b0htrPT8tI/0rMJOCTHvjxg2pN1L6VzW8Rd9pYIeFVG3Ice27mTCrbqPkEbYHfpc/B6yw+25B356Q8JN8YYjuyAvCPNhV31tLCXZAFSrOpm1iIC1x7LjmUNf0qD/rcvitp7ulFEvtgeg9Ak2WHeCSwNJnL2QR3/5t/g0Db4jam4i8GGcKVemPbLsgkMbQeCA/fX0EwztFYj80pXsjD75T/Ah/Suky2B5ZSu3O7daexBoenzqHZXFep1lPthaTDyp0sNVgG7dckMiTh53oSSoA==;SOaOQeOiYkf3v00OthJznQ=="

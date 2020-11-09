@@ -27,133 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "What are we supposed to call Kamala Harris' husband?"
-    excerpt: "But as many in the nation celebrated Biden and Harris' projected win on Saturday, another question quickly arose: what the world will call her husband, who is expected to be the first male spouse of a vice president in U."
-    publishedDateTime: 2020-11-07T19:51:00Z
-    webUrl: "https://www.cbsnews.com/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
+  - title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
+    excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
+    publishedDateTime: 2020-10-28T16:23:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3750272001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3750272001"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 85
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/51c0fd32-c75e-4bf5-a826-67be9934342c/thumbnail/1200x630/c39dfd54a8c3a2e0ab45b66f8ab752ec/gettyimages-1267250943.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Doug Emhoff, Kamala Harris' husband, will be the nation's first 'second gentleman'"
-    excerpt: "Doug Emhoff, married to Vice President-elect Kamala Harris, will be the first male spouse of any vice president or president. Here's what to know."
-    publishedDateTime: 2020-11-07T16:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/07/kamala-harris-husband-doug-emhoff-first-second-gentleman/6168693002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6168693002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6168693002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/20/USAT/f656912b-69bc-4977-b163-04c9557c0428-husband.jpg?auto=webp&crop=2912,1638,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "One of these people could be VP-elect Kamala Harris’ successor and California’s next senator"
-    excerpt: "The Times asked political strategists for a list of the most likely contenders from whom Newsom might choose to replace Harris for the final two years of her Senate term."
-    publishedDateTime: 2020-11-07T16:51:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator"
-    ampWebUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
+  - title: "Kamala Harris campaigns in Phoenix and Tucson on Wednesday as Election Day nears"
+    excerpt: "The trip marks Harris' second visit to the crucial battleground state of Arizona this month and first appearance outside of metro Phoenix."
+    publishedDateTime: 2020-10-29T00:27:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/10/28/kamala-harris-arizona-vp-candidate-campaigns-phoenix-tucson/3750272001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3750272001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3750272001"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 114
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 85
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6ac6595/2147483647/strip/true/crop/2048x1430+0+0/resize/840x587!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2F57%2F3e257e5f130c40ac25e6a9b9078e%2Fla-1518827091-m3b6svi2yw-snap-image"
-        width: 840
-        height: 587
-        isCached: true
-  - title: "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election"
-    excerpt: "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president."
-    publishedDateTime: 2020-11-08T19:32:00Z
-    webUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/"
-    ampWebUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 83
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
-        width: 1024
-        height: 715
-        isCached: true
-  - title: "Who Gavin Newsom might pick for a U.S. Senate seat to replace Kamala Harris"
-    excerpt: "Now that Sen. Kamala Harris is set to become the next vice president, Gov. Gavin Newsom has a big decision to make. Meet some of the top contenders."
-    publishedDateTime: 2020-11-08T17:48:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/"
-    ampWebUrl: "https://www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/amp/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 73
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=0faff2a7-5a0b-5821-ba95-651d49da4456&type=primary&q=72&width=1200"
-        width: 1199
-        height: 837
-        isCached: true
-  - title: "A trio of firsts: Projected win busts Kamala Harris through politics' glass ceilings"
-    excerpt: "The celebrations for Democrats’ projected White House win Saturday included an outpouring of excitement for presumed Vice President-elect Kamala D. Harris making history."
-    publishedDateTime: 2020-11-07T18:38:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 68
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/07/Election_2020_Harris_58071.jpg-ecfc6_c0-171-6000-3671_s1200x700.jpg?fa0b039bd51c287ce8f31137928db7f290d4a4bb"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Kamala Harris' Full Speech: ‘You Chose Hope and Unity, Decency, Science and, Yes, Truth'"
-    excerpt: "Elect Kamala Harris delivered a victory address on Saturday night from Wilmington, Del., and introduced President-Elect Joe Biden. Read the full text of Harris’ speech here:"
-    publishedDateTime: 2020-11-08T02:33:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 66
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/GettyImages-1284480397.jpg?resize=1200%2C675"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "‘It’s our time’: Black and brown women around Connecticut celebrate the significance of Kamala Harris’s historic win"
-    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
-    publishedDateTime: 2020-11-07T18:15:00Z
-    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
-    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+  - title: "Kamala Harris in Detroit to rally Election Day support: 'Have faith in the American people'"
+    excerpt: "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit."
+    publishedDateTime: 2020-11-03T19:34:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/"
+    ampWebUrl: "https://amp.freep.com/amp/6129769002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6129769002"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 52
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 80
     images:
-      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDTF/f6c9f117-74cf-4558-a513-e8dc14dfdc70-AP20308672071807.jpg?auto=webp&crop=4361,2454,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
+        isCached: true
+  - title: "Kamala Harris to visit Rio Grande Valley, Fort Worth and Houston during Texas campaign swing Friday"
+    excerpt: "The vice presidential nominee and U.S. senator from California will swing through the state on the final day of early voting before Tuesday's election."
+    publishedDateTime: 2020-10-28T14:03:00Z
+    webUrl: "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/"
+    ampWebUrl: "https://www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/10/28/kamala-harris-texas-2020-campaign-visits/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 61
+    images:
+      - url: "https://thumbnails.texastribune.org/ChodZXE0IOtqQbDjtrU8A5BKi_A=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/fb392dd9d7bc0901a2d7dbd9bddfd252/04_Kamala_Harris_TT.jpg"
+        width: 1200
+        height: 804
         isCached: true
 
 secured: "+CKWJrRUIij9NE03S+85xaJiGoe0tUTbuhyRK4vQbMgtd2PyqJpBocFOK0fILvfYh3wtxVPoSuYazH6k+Yn/TNNNvhSFXrWArkM5piv+RapJ8LPMLfcqZy9WPU31c4vcmM5Nct5ebor0UTwwhee4fVkaQR+feCz1oCRMyY/sO3H9jvSK2CCzoEtFP+9WIV1sFULgf6BdNtabr+VZ2+WuX3KSTCdd7jLSrxeKNZTiFvn+Ne6KvggkRSbKqYn+mtjFG24S4DYHHzUCxULSCGXb+TWgK/s2Y3jlGTzUk7B1J9FoGHKvOGzeENuwR+P+zVjao4pE6yIZlWzDO1hEEoOc/r666TqLXRECZ4mIk07IgN/4jHWFkxzBc1qLLl0jl4+7IHECbTjpcmKt2twGfiNiiCHx0SQxrAm4oGSXp+1NnHyNPBQKaIZxqOwAXFqYta2SYg4cf3Gn9Gz/drUK5ZvziulBgo7tEbtzRIEiNDpXRi6lJwb+SgWlgWZGTkcGm7u4DJKCN4AA2fM64PFeICkjxQ==;PV2w76DJAYPgzvOXiU0REQ=="

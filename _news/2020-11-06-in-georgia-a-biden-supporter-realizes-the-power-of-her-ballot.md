@@ -29,113 +29,68 @@ images:
     isCached: true
 
 related:
-  - title: "EXPLAINER: Why AP called Virginia for Biden"
-    excerpt: "The AP declared Joe Biden the winner of Virginia after results from early returns and an AP survey of the electorate showed the former vice president had beaten President Donald Trump in the state"
-    publishedDateTime: 2020-11-04T13:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/explainer-ap-called-virginia-biden-74008179"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-virginia-biden-74008179"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-virginia-biden-74008179"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Iran's president calls on Biden to return to nuclear deal"
-    excerpt: "Iran’s president has called on President-elect Joe Biden to return the United States to Tehran’s nuclear deal with world powers"
-    publishedDateTime: 2020-11-08T13:57:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/irans-president-calls-biden-return-nuclear-deal-74089137"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/irans-president-calls-biden-return-nuclear-deal-74089137"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/irans-president-calls-biden-return-nuclear-deal-74089137"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_b69ca568cbec4267938852a1b0aeaa2f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "For Biden, how to help mangled economy is next obstacle"
-    excerpt: "Joe Biden will inherit a mangled U.S. economy — one that never fully healed from the coronavirus and could suffer again as new infections are climbing"
-    publishedDateTime: 2020-11-09T05:58:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/for-biden-how-to-help-mangled-economy-is-next-obstacle/2020/11/09/a1934594-2250-11eb-9c4a-0dc6242c4814_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/for-biden-how-to-help-mangled-economy-is-next-obstacle/2020/11/09/a1934594-2250-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/for-biden-how-to-help-mangled-economy-is-next-obstacle/2020/11/09/a1934594-2250-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden widens lead on Friday. Here's why it's unclear when Nevada will be called."
-    excerpt: "Joe Biden added 8,000 votes to his lead over President Trump in Nevada on Friday, inching closer to winning the state."
-    publishedDateTime: 2020-11-06T20:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/06/nevada-2020-election-biden-up-22-000-over-trump-latest-results/6188081002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6188081002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6188081002"
+  - title: "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden"
+    excerpt: "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\""
+    publishedDateTime: 2020-11-08T17:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 120
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/21/PREN/dfb98b2c-f80f-44d9-8e19-afad5072bce7-campaign_pics_54.jpg?auto=webp&crop=2399,1350,x0,y125&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
-    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
-    publishedDateTime: 2020-11-03T20:31:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
+  - title: "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments"
+    excerpt: "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration."
+    publishedDateTime: 2020-11-08T16:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3748535001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 108
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Biden says he's 'honored and humbled' and calls for unity after major networks declare him the 46th president"
-    excerpt: "President-elect Biden said in a statement it was time for \"America to heal.\" Vice President-elect Harris said, \"we have a lot of work ahead of us.\""
-    publishedDateTime: 2020-11-07T17:44:00Z
-    webUrl: "https://www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5fa6d755f7d1cb0019e3a60f?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 676
         isCached: true
-  - title: "EXPLAINER: Why AP called Michigan for Biden"
-    excerpt: "WHY AP CALLED MICHIGAN FOR BIDEN:"
-    publishedDateTime: 2020-11-05T00:57:00Z
-    webUrl: "https://www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-why-ap-called-michigan-for-biden-2020-11?amp"
+  - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
+    excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
+    publishedDateTime: 2020-11-04T22:17:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/04/2020-election-biden-calls-unity-votes-continue-counted/6166567002/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b032550d-b933-4d85-b020-924b79592f45-VPC_ELECTION_DESK_THUMB.00_00_33_12.Still005.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
+    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
+    publishedDateTime: 2020-11-09T09:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "GzqyBy9AgDdZijAXVgrexXHYZi2NVGzoD2EfmZ+r+0pO6hqf+N7UGic0B56qMO8TXvn7vn9qIJm1ojE/xUAOkdclFuiFiTaV8+Spc0nEx4GSuNr2IY4Nh+vIIWRT6oNlIWBJofuCUU3ykeyNLcAIsG+xpduG66pTdpho+R0SPraITmDGgVEFwXTvDrzPHBTcn2WYDPWkWS42qtzIlQXRIKCJI8jcwWRpUV8dCw0Cd/7rVwPV48uSiMz/L2XxLkly4h1grBw8+0fYaVCCpSbSFdAkxHFB7ReBfDunTqadimrHocMYl/GHrfwGNvC9omtvJsqBSj5Uolu+KKYxGw/nbB35xwO5Nkx6YEZiOhwg7hW5JPOTAxqHUbX7ANhYF9o/kUrfaUfMA7yxP/wWiuqrzU8VjIZi+8xuCEdDxWzofOE5WYM5ezhh8egZuARW2LLm8jin+S4armEqnB6q/vHSNsdzPfXLe59hTXDKt/29ZFuAZVUvycjVspCM0aLRGHfqR5okDIyYXn3UaTaj6UEiUA==;dgjedh1w9D9n5gHvTpTtJA=="
 ---

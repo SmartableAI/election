@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K0YU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU"
 type: article
 quality: 124
-heat: 144
+heat: 184
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden on verge of winning U.S. presidency, leads in Pennsylvania, Georgia"
+    excerpt: "Democrat Joe Biden stood on the verge of winning the U.S. presidency on Friday, as he expanded his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia three days after polls closed."
+    publishedDateTime: 2020-11-07T00:57:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27M0U5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0U5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0U5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
+        width: 846
+        height: 545
+        isCached: true
   - title: "PA Governor calls Trump move 'simply disgraceful'"
     excerpt: "Pennsylvania Gov. Tom Wolf says a lawsuit filed by the President Trump's campaign to stop the counting of ballots in the state is \"simply wrong.\" (Nov. 4)"
     publishedDateTime: 2020-11-05T00:37:00Z
@@ -44,6 +60,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/84fa3d77-74ca-42d2-94e5-34c372963c12_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Kamala Harris tells Pennsylvania she's not going to talk about 'the other guy'"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris told supporters in Pennsylvania on Monday that she doesn’t want to talk about “the other guy” — President Trump — on the eve of Election Day."
+    publishedDateTime: 2020-11-02T17:59:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 71
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/01/Election_2020_Harris_92292.jpg-db0cf_c0-367-2978-2104_s1200x700.jpg?506e630bb31220cec079d3cb67e7d8cd1005e4b9"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "gk3BkC9+CYttytBfuUhIZ836MOnifxRkIZR29AU3kYraz0Uf6up2su8eeBsOJXDruyMuJ5o9RMaOrL5nta9Tupw6mV3zRLd+8wQ7OAvjyeUGTRseedLISU/LZHPMeLS+baYcm0xjohbnrZujbrjIC9k96ba2k4g07Ptym0dtxOr4XQjm9jTeKa5T9BntMK9PljCbIsphnHyuVIN1FlnrUZlrh2AUUzmhPksRfu1lbL9JeEoOb7yNOrv2OzoVMfY/JW6WUhgcmzWJOEuW9cE7ahy0uEoDBaU5RhuYDSFEKlR53BTlpZWF2eF7Il9uGJGfcagDjawW9PkM9vFKfuW8JnfqFsZgNFCbMkF1tSmWHu4=;db6+4eMAsHisEqsIo9iCaA=="

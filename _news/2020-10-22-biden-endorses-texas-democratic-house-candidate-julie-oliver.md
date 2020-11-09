@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democrat
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
 type: article
 quality: 125
-heat: 185
+heat: 305
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tests negative for COVID-19, campaign says"
-    excerpt: "Democratic U.S. presidential nominee Joe Biden tested negative for COVID-19 on Saturday, his campaign said in a statement."
-    publishedDateTime: 2020-10-24T16:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-health-idUSKBN2790NR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2790NR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2790NR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538697782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N0EP"
-        width: 862
-        height: 545
-        isCached: true
   - title: "Texas Governor Says Biden 'Just Killed' Family Paychecks With Oil Comments"
     excerpt: "The former vice president said he planned to \"transition\" away from oil should he be elected president on November 3."
     publishedDateTime: 2020-10-23T08:58:00Z
@@ -62,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1657654/texas-governor-greg-abbott.jpg"
         width: 1024
         height: 696
+        isCached: true
+  - title: "Sanders: Progressives will work to 'rally the American people' if Biden wins"
+    excerpt: "Sen. Bernie Sanders (I-Vt.) predicted that progressives would look to move Democratic presidential nominee Joe Biden toward their priorities if he wins the White House this November and Democrats sweep Congress."
+    publishedDateTime: 2020-10-22T17:24:00Z
+    webUrl: "https://thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins"
+    ampWebUrl: "https://thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/sandersbernie_022620gn28_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Joe Biden makes last-minute plea to Hispanic voters in 11 states, including Texas"
     excerpt: "With polls showing Joe Biden still doesn’t have enough support from Hispanic voters, his campaign has launched 5 new Spanish language ads airing in Texas and 10 other states."
@@ -79,6 +79,72 @@ related:
         width: 2048
         height: 1451
         isCached: true
+  - title: "Joe Biden Votes Early In Wilmington, Del."
+    excerpt: "The Democratic presidential nominee joined the nearly 75 million Americans in casting his ballot early. President Trump voted over the weekend in Florida."
+    publishedDateTime: 2020-10-28T18:34:00Z
+    webUrl: "https://www.npr.org/2020/10/28/928744128/joe-biden-votes-early-in-wilmington"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/28/gettyimages-1229327896_wide-91117878a4c35a6a09b1d3314b8359f1a606b2af.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Nashville native goes from student council president to Joe Biden's presidential campaign"
+    excerpt: "He is national press secretary for former Vice President Joe Biden's presidential campaign, and the Iowa caucuses were only weeks away. Ducklo kept his cell phone charged. Every email and text message he sent was an opportunity to make sure Biden became ..."
+    publishedDateTime: 2020-10-27T02:47:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/27/nashville-native-powers-joe-biden-presidential-campaign/6000021002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6000021002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6000021002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/PNAS/3dada756-b57c-4387-8975-f4ba563db3c7-20201022_debate_nashville_tn_as_2706.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden Campaign Event in Durham, North Carolina"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks at a voter mobilization event in Durham, North Carolina."
+    publishedDateTime: 2020-10-19T14:57:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaign-event-durham-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Remarks in Michigan on Health Care"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on health care and the economy at a campaign event in Southfield, Michigan, a suburb of Detroit."
+    publishedDateTime: 2020-10-19T06:17:00Z
+    webUrl: "https://www.c-span.org/video/?477057-1/joe-biden-campaigns-southfield-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Former President Obama Campaigns in Philadelphia for Joe Biden"
+    excerpt: "President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden. Former President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-10-20T18:26:00Z
+    webUrl: "https://www.c-span.org/video/?477092-1/president-obama-campaigns-philadelphia-joe-biden"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Delivers Remarks in Warm Springs, Georgia"
+    excerpt: "T13:46:02-04:00 a week to go to election day, Democratic presidential candidate Joe Biden delivers remarks in Warm Springs, Georgia, home to FDR’s “Little White House.” The former vice president says he’s running to help “unite” and “heal” the country."
+    publishedDateTime: 2020-10-27T18:43:00Z
+    webUrl: "https://www.c-span.org/event/?477413/c2020-joe-biden-delivers-remarks-warm-springs-ga"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "i/2xWSwX2xrNrQ1yIOu7ghbmuxNg1OsxuAKOZAeIqCcmd9FUham6BVHa0b8bk/5QQDSRzdFhsLujS4cykU2j8hQN0JMxgfi4roD4AystKbrSMito9vE9MR7hwULp8o3JcjzjqjEZxgAGKKsrfxgKWuFiFqh+xUkXFEN+DsRDxr4pVXS7nHOthwXOmHWaFqCBRyBR4bdUHx8jw0kbtzLSs9vmZzLWUG/ALPUMBTqLGbisOXC8v911ImnBIYxv/Oo+j4pqPeIbwom7wkIU8lKkDEvikVlfMiVWD6ouHvbnKxqG7sk8SxcuiCcH9mWNhXEIwz/v7VArMGxbFfN9sfjO0Gkx51ezORWI9NVok7NzpDxC7YSk4/Ak0BCxw4tfcaV3cN/VM7JtptpWSWakci8XzMFkWcQ/MZemki0z95oN93/qoJEtdRld3gk3uE9g7QpVZotYhnDG2tuOzgth4YW6LUuN0Lq9E+9SzvpnhceARSclUx3wbyQA0XJhH9TuweSkTdpJIvdZ3HXPzKuCmOqmSg==;Gpa64dvWtL3nbY0kOG+q4g=="
 ---

@@ -47,6 +47,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump dropped 3 agency heads in the days following the election, amid reports that more departures could be coming"
+    excerpt: "The departures came amid speculation that other agency heads and government officials may be fired or resign from the Trump administration."
+    publishedDateTime: 2020-11-08T05:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fa777b71df1d5001821977a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'"
+    excerpt: "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted."
+    publishedDateTime: 2020-11-03T14:30:00Z
+    webUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "m76lQl2kWMNMPbPEbFIfo0hxkBop9BsNw2PhDf1D0yB9Xq/mXQOU/DsaXspJgVAdUjgTKWsrXwytNi5QUeS9m8cY63HNkX5OiXjvREQx4dUcLf7OU2YGDcAWE+lZXRmDFvDn7MOfFnD0vxPDubFjvCiZBv4iQfR4QiYSa3fvhVsSYqTXLj3nf6614ogT9uEB4bO+1AkEJaJiXbwXv7mBqY0xncNc1TY1AZBHzPuuxtIQADItGrT+E39AWEIqDqHMrYshztgdludMOToAUwJYxE+40YZS5hQ/838/SGqf3RUMt6inDe/cjfReNLcWMARivky/MiUpLMAoWBThSP5KerT7u7bSCYdjfLPQUCq99yA=;95ZAggfYPLRyYptvSTRtWg=="
 ---

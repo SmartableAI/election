@@ -31,113 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Latest: Biden predicts 'big win' in Pennsylvania"
-    excerpt: "Joe Biden is predicting a victory in Pennsylvania on the eve of the election. Speaking at a drive-in rally in Pittsburgh, Biden encouraged the audience to vote and said, “I have a feeling we’re coming together for a big win tomorrow!"
-    publishedDateTime: 2020-11-03T03:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-trump-set-spend-election-night-white-house-73970437"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-trump-set-spend-election-night-white-house-73970437"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-trump-set-spend-election-night-white-house-73970437"
+  - title: "How Joe Biden's leads in Georgia, Pennsylvania, Nevada, give him a clear path to 270 electoral votes"
+    excerpt: "Joe Biden's lead is growing in key states. Former Vice President Joe Biden is on the verge of reaching 270 electoral votes and winning the race for president after he surged ahead in Georgia early Friday morning and hours later in Pennsylvania."
+    publishedDateTime: 2020-11-06T20:48:00Z
+    webUrl: "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6191429002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191429002"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d7566d358bf846898dce240a04c50519_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Palestinian President Abbas congratulates Joe Biden - statement"
-    excerpt: "Palestinian President Mahmoud Abbas on Sunday congratulated U.S. President-elect Joe Biden in a statement issued from his headquarters in the West Bank city of Ramallah.\"I congratulate President-elect Joe Biden on his victory as President of the United States of"
-    publishedDateTime: 2020-11-08T16:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-palestinians-idUSKBN27O0GI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0GI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0GI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540426012&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70DW"
-        width: 778
-        height: 545
-        isCached: true
-  - title: "Watch Live: Vice President Joe Biden speaks in Beaver County, Pennsylvania"
-    excerpt: "Democratic nominee Joe Biden is holding a campaign event in Beaver County, Pennsylvania on Monday afternoon.Watch the live video above."
-    publishedDateTime: 2020-11-02T21:16:00Z
-    webUrl: "https://thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania"
-    ampWebUrl: "https://thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524056-watch-live-vice-president-joe-biden-speaks-in-beaver-county-pennsylvania?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_102920getty_optimism.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Instant View: With Pennsylvania and Georgia, Biden on doorstep of White House"
-    excerpt: "Wall Street shares backpedaled on Friday, while the U.S. dollar pared losses after Democrat Joe Biden pulled ahead of President Donald trump in two battleground states that could put him in the White House."
-    publishedDateTime: 2020-11-06T20:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-markets-instant-view-idUSKBN27M21N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M21N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M21N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540273424&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA517W"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden has solid lead in Wisconsin, narrower edge in Pennsylvania: Reuters/Ipsos poll"
-    excerpt: "Democratic presidential challenger Joe Biden led President Donald Trump by a solid margin in Wisconsin and maintained a narrower advantage in Pennsylvania with just over a week until Election Day, Reuters/Ipsos opinion polls showed on Monday."
-    publishedDateTime: 2020-10-26T20:19:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27B2F8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B2F8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B2F8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538891639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P1KD"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Joe Biden takes the lead in Pennsylvania and Georgia"
-    excerpt: "President Trump's path to 270 continues to narrow as more election results come in. Former Vice President Joe Biden now leads the president in both Pennsylvania and Georgia. \"Face the Nation\" moderator Margaret Brennan joined CBSN's Lana Zak to discuss that and more."
-    publishedDateTime: 2020-11-07T05:11:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-takes-lead-in-pennsylvania-and-georgia/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/07/60ae7f65-176e-46d9-a5dd-2831854f8ffd/thumbnail/1200x630/2e33e3d31d7c951051b6894dc930ccb8/cbsn-fusion-joe-biden-overtakes-president-trump-in-pennsylvania-and-georgia-thumbnail-583017-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/e4078510-fb31-4b52-87af-af0331e7e9fa-grid-promo2.png?auto=webp&crop=3137,1765,x521,y870&format=pjpg&width=1200"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "What put Biden over the edge in Pennsylvania"
-    excerpt: "Watch \"What put Biden over the edge in Pennsylvania\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-07T20:37:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201107200245-what-put-biden-over-the-edge-in-pennsylvania/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07595815_1604781064.jpg"
-        width: 1280
-        height: 720
+        height: 675
         isCached: true
   - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
     excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
@@ -153,53 +61,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Final vote tallies in Cumberland County show Joe Biden’s path to victory in Pennsylvania"
-    excerpt: "Even in a county that President Donald J. Trump won handily, the mail-ins broke for the Democratic nominee by better than a 2:1 margin."
-    publishedDateTime: 2020-11-06T11:12:00Z
-    webUrl: "https://www.masslive.com/politics/2020/11/final-vote-tallies-in-cumberland-county-show-joe-bidens-path-to-victory-in-pennsylvania.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/11/final-vote-tallies-in-cumberland-county-show-joe-bidens-path-to-victory-in-pennsylvania.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/11/final-vote-tallies-in-cumberland-county-show-joe-bidens-path-to-victory-in-pennsylvania.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 46
-  - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
-    publishedDateTime: 2020-10-06T16:33:00Z
-    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Campaigns in Erie, Pennsylvania"
-    excerpt: "Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. 2020 Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. Joe Biden, a 2020 Democratic presidential candidate,"
-    publishedDateTime: 2020-10-10T13:05:00Z
-    webUrl: "https://www.c-span.org/video/?476864-1/joe-biden-campaigns-erie-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaigns in Erie, Pennsylvania"
-    excerpt: "President Trump delivered remarks at a campaign rally in Erie, Pennsylvania, in support of his reelection. Vice President Pence made remarks at a Trump campaign rally in New Cumberland, Pennsylvania."
-    publishedDateTime: 2020-11-02T14:37:00Z
-    webUrl: "https://www.c-span.org/video/?477689-1/vice-president-pence-campaigns-erie-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaigns in Latrobe, Pennsylvania"
-    excerpt: "Vice President Pence spoke at a Trump campaign event in Mosinee, Wisconsin. Vice President Mike Pence touted the administration’s achievements at a campaign rally in Swanton, Ohio. He outlined… Vice President Mike Pence delivered campaign remarks at a ..."
-    publishedDateTime: 2020-11-02T11:53:00Z
-    webUrl: "https://www.c-span.org/video/?477688-1/vice-president-pence-campaigns-latrobe-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "/Gbsw5nM6WQABUpRmbkdz/CAhD7r3xZGQtNCuxKjYv6UwwBhfgvIZq9aL5fmGlQ2SBGSD43Lb3Hkd+gZMRdcMYVlc0Sxg/2ZCN3spUJLf4a4bgYJyD8Nem0oGOnUSuVeF07yGZ4GErCxJBoE+yi4yTgG/ejkU6JIK2hOSDo12wsxchRwGzyb4l+tO1A7XdiHuOXbWQl/UcLF7rzfW5fDd7HT5ZNxe6Y3F4aYZYIJKgMtyBgk5EZ6gSByF/5RuguWfxlH4a4cxGFXhEgULdRpmgLel/b65A9CywLs1S/FmBTQvVe90CGiTaFw0VDTuV85x2ugCZZAcAUnY2PeGZYiyKTSWwFIR8tZMWvidh0ikY8=;n1oyhrX0Zy6dRQ+84c/jVQ=="
 ---

@@ -139,20 +139,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden appeals to voters in Florida"
-    excerpt: "Watch \"Joe Biden appeals to senior voters in Florida ahead of the election\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-14T23:22:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201015031330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07261451_1602731825.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Editorial: Weary nation needs Joe Biden as president"
     excerpt: "Biden has grown in leadership and stature to meet the historic challenges under which President Donald Trump has shrunk."
     publishedDateTime: 2020-10-11T09:18:00Z
@@ -233,6 +219,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden speaks at a voter mobilization event in Miramar, Florida. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati."
     publishedDateTime: 2020-10-14T00:11:00Z
     webUrl: "https://www.c-span.org/video/?476883-1/joe-biden-speaks-voter-mobilization-event-florida"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Remarks at Voter Mobilization Event in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden spoke at a voter mobilization event in Miramar, Florida."
+    publishedDateTime: 2020-10-29T14:11:00Z
+    webUrl: "https://www.c-span.org/video/?476883-1/joe-biden-remarks-voter-mobilization-event-florida"
     type: article
     provider:
       name: C-SPAN

@@ -43,22 +43,6 @@ related:
         width: 1419
         height: 709
         isCached: true
-  - title: "Joe Biden’s tax plan would likely hit wealthy Californians hard. Here’s why"
-    excerpt: "Because the rich in California tend to be richer than most and pay a higher share of state income taxes, Californians could feel more of a sting than other states from Joe Biden’s tax plan. The Democratic presidential candidate has proposed steep tax increases on people earning more than $400,"
-    publishedDateTime: 2020-10-13T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 73
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/6bbb92b6-9b86-4fe9-aafa-96c3e56b9b22/f3f62c82-9b9f-4647-92a7-18f79ea97253/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "EokRgN49YRdsiOHWlDHZ2oquXmf5BCBwloTOXnpIHdfXJMPhrmIZeB5/ztel+ngQjN84EM4nB/wwuFIKpKp0Px9O4GDnfpTLnyhyKsILWWUeDUx18oJdwJw33FX7fKl29BPhNvVwNUWNHuDZil9SctGvdovYndIhNOAIRme5V5wzauCCnkSUlEsKWNxjAZYNhqY5/A4IhWy1ZV+qvjH7/6Wr3NaOnF7Ri4MDgqp88Nc1m+RLcwGEoHFJqVmOSg1oKse/QcfJFesV9NQ+QKTjzIjZ1XcA15dAjGq2DJNqk1hAwrz/YTOIa674g2Z/yEowxThYknYjrkPrXOmTI/an+y8g9YicOGzAOj7lUIfASPs=;9U8Ay/6UzNWuMS+41qzhZg=="
 ---

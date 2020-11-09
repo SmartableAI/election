@@ -31,230 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Biden back as favorite to win U.S. election: Smarkets"
-    excerpt: "Democratic presidential candidate Joe Biden was back as favorite to win U.S. elections in online betting markets, according to Britain-based Smarkets Exchange, a reversal of fortune for President Donald Trump who was favorite overnight."
-    publishedDateTime: 2020-11-04T15:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-odds-biden-idUSKBN27K1DJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K1DJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K1DJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539963074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30TI"
-        width: 861
-        height: 545
-        isCached: true
-  - title: "Biden back as favourite to win U.S. election - Smarkets"
-    excerpt: "Democratic presidential candidate Joe Biden was back as favourite to win U.S. elections in online betting markets, according to Britain-based Smarkets Exchange, a reversal of fortune for President Donald Trump who was favourite overnight."
-    publishedDateTime: 2020-11-04T12:02:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-odds-idUKKBN27K1DR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27K1DR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27K1DR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539963177&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30TJ"
-        width: 882
-        height: 545
-        isCached: true
-  - title: "Joe Biden has won Connecticut"
-    excerpt: "Connecticut holds seven electoral votes and was not expected by experts to be competitive."
-    publishedDateTime: 2020-11-04T05:55:00Z
-    webUrl: "https://www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/connecticut-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa2267269331a0011bc728f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden wins Maryland, with its 10 electoral votes"
-    excerpt: "Democrat Joe Biden won Maryland’s 10 electoral votes on Tuesday, defeating President Donald Trump in a heavily Democratic state. Democrats outnumber Republicans 2-to-1 in Maryland. A Republican presidential candidate hasn’t won in Maryland since George H."
-    publishedDateTime: 2020-11-04T08:54:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Joe-Biden-wins-Maryland-with-its-10-electoral-15700204.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/05/14/20206393/9/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Biden charts ambitious new plan to turn around pandemic"
-    excerpt: "As the nation heads into its darkest period yet on the pandemic, President-elect Joe Biden said he plans to designate several public health and government experts to chart a new path -- a move that signals he is ready to impose drastic new steps on Day 1 of taking office."
-    publishedDateTime: 2020-11-08T17:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-charts-ambitious-plan-turn-pandemic/story?id=74091451"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-charts-ambitious-plan-turn-pandemic/story?id=74091451"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-charts-ambitious-plan-turn-pandemic/story?id=74091451"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/covid-plan-joe-biden-02-gty-llr-201108_1604851098523_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Factbox: Congratulations for Biden from America's politicians and celebrities"
-    excerpt: "Former U.S. presidents, politicians from both Republican and Democratic parties and celebrities congratulated Democrat Joe Biden on Saturday for winning the U.S. presidential election over Republican incumbent Donald Trump."
-    publishedDateTime: 2020-11-07T20:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-congratulations-factbox-idUSKBN27N0WO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0WO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0WO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540383713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60QP"
-        width: 814
-        height: 545
-        isCached: true
-  - title: "Gulf markets mixed as Biden win is no 'make or break' for regional economies"
-    excerpt: "Gulf stock markets were muted on Sunday after Joe Biden's U.S. election victory, reflecting expectations that his administration will not bring radical changes to the region's struggling economies."
-    publishedDateTime: 2020-11-08T22:50:00Z
-    webUrl: "https://www.reuters.com/article/mideast-stocks-gulf-int/gulf-markets-mixed-as-biden-win-is-no-make-or-break-for-regional-economies-idUSKBN27O0QT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0QT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0QT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540443756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70M2"
-        width: 821
-        height: 545
-        isCached: true
-  - title: "Biden begins his Election Day at Delaware church"
-    excerpt: "Joe Biden is starting Election Day with a visit to church - and his son, Beau. (Nov. 3) AP Domestic. More Videos"
-    publishedDateTime: 2020-11-04T01:29:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-begins-his-election-day-delaware-church/6136623002/"
+  - title: "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden"
+    excerpt: "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\""
+    publishedDateTime: 2020-11-08T17:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 120
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/fc34688e-f71f-41ca-8466-c8d5269ea8d3-32d9e3ec-51a3-4cbf-8a55-913fddc572d5_thumbnail.png?quality=10"
-        width: 852
-        height: 480
-        isCached: true
-  - title: "WATCH: Joe Biden urges calm as votes continue to be counted"
-    excerpt: "Democratic presidential nominee Joe Biden is urging Americans to remain calm as votes continue to be counted in the 2020 presidential election."
-    publishedDateTime: 2020-11-05T20:17:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-biden-gives-remarks-in-wilmington-delaware"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 105
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/11/2020-11-04T213547Z_112600952_RC2LWJ97YSHO_RTRMADP_3_USA-ELECTION-BIDEN-1024x670.jpg"
-        width: 1024
-        height: 670
-        isCached: true
-  - title: "Black leaders greet Biden win, pledge to push for equality"
-    excerpt: "DETROIT (AP) — President-elect Joe Biden’s victory was celebrated by civil rights activists and Black leaders who warned that a tough road lies ahead to address America’s persistent inequalities and the racial division that Donald Trump fueled during his presidency."
-    publishedDateTime: 2020-11-08T02:37:00Z
-    webUrl: "https://www.businessinsider.com/black-leaders-greet-biden-win-pledge-to-push-for-equality-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/black-leaders-greet-biden-win-pledge-to-push-for-equality-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-leaders-greet-biden-win-pledge-to-push-for-equality-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Fox News reportedly told on-air talent not to refer to Joe Biden as the 'president-elect' even if the network calls the 2020 race for him"
-    excerpt: "Many of Fox News' primetime stars have fallen in line with President Donald Trump and amplified his lies about election-rigging and voter fraud."
-    publishedDateTime: 2020-11-06T16:01:00Z
-    webUrl: "https://www.businessinsider.com/fox-news-told-talent-not-to-call-biden-president-elect-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/fox-news-told-talent-not-to-call-biden-president-elect-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-told-talent-not-to-call-biden-president-elect-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5fa3da6ef7d1cb0019e39eac?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "US election: Joe Biden - 'Each ballot must be counted'"
-    excerpt: "The Democratic presidential candidate calls on people to be patient with the US election result."
-    publishedDateTime: 2020-11-05T22:03:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54834570"
+  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
+    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
+    publishedDateTime: 2020-11-06T13:17:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 70
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08xjmql.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
+        width: 1484
+        height: 989
         isCached: true
-  - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
-    excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
-    publishedDateTime: 2020-11-04T02:05:00Z
-    webUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/"
-    ampWebUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
+  - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
+    excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
+    publishedDateTime: 2020-11-04T22:17:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/04/2020-election-biden-calls-unity-votes-continue-counted/6166567002/"
     type: article
     provider:
-      name: People
-      domain: people.com
-    quality: 65
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
     images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B17600%2C3719%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-4-2000.jpg"
-        width: 2000
-        height: 1047
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b032550d-b933-4d85-b020-924b79592f45-VPC_ELECTION_DESK_THUMB.00_00_33_12.Still005.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Joe Biden works to push Black turnout in campaign’s final days"
-    excerpt: "Joe Biden is spending the final days of the presidential campaign appealing to Black supporters to vote in-person during a pandemic that has disproportionally affected their communities, betting that a strong turnout will boost his chances in states that could decide the election."
-    publishedDateTime: 2020-11-02T08:45:00Z
-    webUrl: "https://floridapolitics.com/archives/379605-joe-biden-works-to-push-black-turnout-in-campaigns-final-days"
+  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
+    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
+    publishedDateTime: 2020-11-09T09:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
     type: article
     provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
     images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/1000-46-1000x563.jpeg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Conservative group’s claim that Joe Biden backs sex changes for kids is False"
-    excerpt: "Biden has stated opposition to discrimination against transgender people, he has not said he supports sex changes for children. In a tweet promoting its new attack ad, a conservative super PAC claims: \"Joe Biden says he supports sex changes for kids."
-    publishedDateTime: 2020-10-29T03:27:00Z
-    webUrl: "https://www.politifact.com/factchecks/2020/oct/27/american-principles-project/conservative-groups-claim-joe-biden-backs-sex-chan/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 52
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
-        width: 438
-        height: 392
+      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "CRVWSJ7329BFHVSAtqugjgWKcNsIYW1sEqokWAcD4xffL8epkfs+TVLkA4KpAqpGdQE4xiZmlk9heZVY+8g4aKALQncquy5fo34Kt3yXMYSGGjw9HhccbWZcMtj5ojP8x7QCfny446tBAz7yK03IPeWxedcUi0OB7dmxJ9VJncCKPKqma3LzzOzFJK95NFmQLX3Hr9Euy59Rznb5x5AvvocV16h7PVpQqCKwl7oRDRJPr+WsNopOWCPgu19NpmLGRFdSixSSIkUYvwY7sdMgU2LfmNJiFdFrk8Np/A9SmZG6AZlOK2jGOlbUZYnStJ/5CB2r0gfiJU/vpmqAHPVm2wOklSBsEB05uIEfaCtk/qk=;8HkEf6aAxW1x1EsXxSYuyA=="

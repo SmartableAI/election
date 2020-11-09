@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Donald Trump keeps begging women to like him. They keep saying no."
+    excerpt: "I paid $14.95 to hear a cadre of women who love President Trump explain why women should love President Trump. This 96-minute education came in the form of “The Trump I Know,” a new documentary available for download,"
+    publishedDateTime: 2020-10-21T03:24:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MK6GEMQPFUI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "Brian Wilson, Al Jardine speak out against the Beach Boys playing Donald Trump fundraiser"
     excerpt: "Brian Wilson and Al Jardine were upset to learn Mike Love's version of the Beach Boys played a Donald Trump event. The group is in Phoenix on Oct. 25."
     publishedDateTime: 2020-10-19T07:30:00Z
@@ -78,20 +94,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/a32386b6bac5c295498643ae58b0767c6d8bb7e1/c=0-0-5348-3022/local/-/media/2018/03/15/Phoenix/Phoenix/636566945352746891-GettyImages-655073850-1-.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-        isCached: true
-  - title: "Why Beijing May Want To Keep Trump In The White House"
-    excerpt: "Donald Trump has frustrated and enraged China during a tumultuous first term, but Beijing may welcome his re-election as it scans the horizon for the decline of its superpower rival. Relations are as icy as at any time since formal ties were established four decades ago,"
-    publishedDateTime: 2020-10-20T07:16:00Z
-    webUrl: "https://www.ibtimes.com/why-beijing-may-want-keep-trump-white-house-3065107"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/a-significant-worry-for-beijing-is-that-biden.jpg"
-        width: 1024
-        height: 681
         isCached: true
 
 secured: "xmxMroqAS/MD8Ry458tnsygC4212eVBTgQCcD466VpUqJW9/ECzK5e3uxDzU8kVXHxrka+ZU07JgYUNeqI/i3khr1ZCfI7cCWpYjXjxbGtC7OBirxcC12Aowp9yxIBk6HGCLhXFmGcUMU6tu06M8SoxeD0aVsjn87T42w96863LfnIhGgq6+QHCF30uTyNJCRRgJ7ghGiu9dc6RN1sfB/rUAvCwdKXf554HoKux0VL634n8+lvzPA0jp7TIu7xson1o7jgFErbhy5MMZZfEqYMdtMB388Dd0KQsYYplh7RYdzI2/uZKPNfmVpVXLfH6TMIjRTljSzzAJN5qh+qDM1CgFDN25ZB/MUyKwS1oEzKQ=;CZxyyBQZe4FihlEXshEyfg=="

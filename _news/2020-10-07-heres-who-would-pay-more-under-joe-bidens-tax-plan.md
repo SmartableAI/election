@@ -303,38 +303,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Joe Biden's Battle Rap Video Has Not Gone Down Well"
-    excerpt: "The Biden Harris campaign has implemented an unusual tactic and has recruited the help of a well-known battle rap league."
-    publishedDateTime: 2020-10-14T16:07:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-battle-rap-video-response-1539092"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-battle-rap-video-response-1539092?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-battle-rap-video-response-1539092?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1651742/joe-biden.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "A small business argument for Joe Biden"
-    excerpt: "Democratic presidential nominee Joe Biden's economic proposals are, on the surface, not very friendly to small business."
-    publishedDateTime: 2020-10-14T21:00:00Z
-    webUrl: "https://thehill.com/opinion/campaign/521007-a-small-business-argument-for-joe-biden"
-    ampWebUrl: "https://thehill.com/opinion/campaign/521007-a-small-business-argument-for-joe-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521007-a-small-business-argument-for-joe-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/mreportbidentrain.jpg"
-        width: 580
-        height: 387
-        isCached: true
   - title: "Biden looking good – but concern over polls means Democrats are cautious"
     excerpt: "Joe Biden speaks to reporters as he departs Wilmington, Delaware, on 10 October. Photograph: Kevin Lamarque/Reuters Biden is up to 16 points ahead nationally as must-win states seem safe ..."
     publishedDateTime: 2020-10-11T07:07:00Z
@@ -496,22 +464,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
         width: 2048
         height: 1366
-        isCached: true
-  - title: "Vice President Mike Pence, Joe Biden to each visit Ohio Monday"
-    excerpt: "Vice President Mike Pence is slated to visit Ohio Monday, the same day former Vice President and Democratic presidential nominee Joe Biden plans to campaign in the state."
-    publishedDateTime: 2020-10-11T15:24:00Z
-    webUrl: "https://www.cleveland.com/open/2020/10/vice-president-mike-pence-joe-biden-to-each-visit-ohio-monday.html"
-    ampWebUrl: "https://www.cleveland.com/open/2020/10/vice-president-mike-pence-joe-biden-to-each-visit-ohio-monday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/10/vice-president-mike-pence-joe-biden-to-each-visit-ohio-monday.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 100
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4CLQQ3GKZVBADG6PGNZI5RFRG4.jpg"
-        width: 3851
-        height: 2316
         isCached: true
   - title: "Pence attacks Biden's economic vision: 'Day One Joe Biden is going to raise your taxes'"
     excerpt: "Vice President Mike Pence on Wednesday delivered a blistering critique of Joseph R. Biden’s economic vision, warning that the Democrat is poised to raise taxes and enact policies that would cost hundreds of thousands of jobs."

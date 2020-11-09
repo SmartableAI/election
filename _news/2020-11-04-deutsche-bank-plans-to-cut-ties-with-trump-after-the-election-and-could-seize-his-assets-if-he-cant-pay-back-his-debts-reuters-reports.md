@@ -31,51 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Americans largely reject Trump's victory declaration: Reuters/Ipsos poll"
-    excerpt: "A bipartisan majority of Americans do not accept President Donald Trump's premature victory declaration in the U.S. presidential election and most are willing to wait for all votes to be counted before deciding who won,"
-    publishedDateTime: 2020-11-06T00:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27L32T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L32T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L32T"
+  - title: "After blocking its release, U.S. judge lets Trump policing panel publish report"
+    excerpt: "The Trump administration's law enforcement commission won approval from a federal judge on Monday night to release its controversial report on policing reforms, as long as the Justice Department includes a disclaimer stating that the report was drafted in violation of"
+    publishedDateTime: 2020-11-03T00:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-justice-policing-idUSKBN27J01O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J01O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J01O"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 121
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540187312&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41ZI"
-        width: 833
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539734467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA200H"
+        width: 817
         height: 545
         isCached: true
-  - title: "The Health 202: Trump's pandemic response didn't hurt him as much as Democrats expected"
-    excerpt: "Democrats expected the 2020 presidential election would be a referendum on President Trump’s handling of the coronavirus pandemic. But it may not have hurt Trump so much — even as his opponent Joe Biden appears closer to victory this morning after winning key states of Wisconsin and Michigan."
-    publishedDateTime: 2020-11-05T12:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/05/health-202-trump-pandemic-response-didnt-hurt-him-much-democrats-expected/?outputType=amp"
+  - title: "Living statues paint Trump as racist 'relic'"
+    excerpt: "A week before Election Day, living statues depicting a golden Donald Trump in unflattering poses were on temporary display at the Lincoln Memorial and Trump International Hotel. (Oct. 27)"
+    publishedDateTime: 2020-10-28T15:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/28/living-statues-paint-trump-racist-relic/6054246002/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GRHKMRQZ7UI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/33913ed7-8dc4-4054-977e-0a6d261e32d3_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'"
-    excerpt: "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted."
-    publishedDateTime: 2020-11-03T14:30:00Z
-    webUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
+  - title: "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat"
+    excerpt: "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly."
+    publishedDateTime: 2020-11-07T18:32:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 110
+    quality: 101
     images:
-      - url: "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

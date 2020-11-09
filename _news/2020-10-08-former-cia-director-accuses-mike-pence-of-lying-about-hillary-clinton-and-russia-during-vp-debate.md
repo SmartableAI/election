@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lyin
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305?amp=1"
 type: article
 quality: 112
-heat: -1
-published: false
+heat: 132
+published: true
 
 provider:
   name: Newsweek
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Hillary Clinton praises Kamala Harris debate performance: 'She swatted away the lies with ease'"
-    excerpt: "Hillary Clinton congratulated Democratic vice presidential nominee Kamala Harris (D-Calif.) on Thursday for what the former secretary of State called a “masterful debate performance” the night before."
-    publishedDateTime: 2020-10-08T15:35:00Z
-    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she"
-    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
+  - title: "Donald Trump Doesn’t Seem to Know What Year It Is, Who He’s Running Against (Hint: Not Hillary Clinton)"
+    excerpt: "When the FBI announced in October 2016 that it was reviewing new emails related to its investigation into Hillary Clinton’s use of a private server as secretary of state, it gav"
+    publishedDateTime: 2020-10-09T22:49:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-hillary-clinton-emails-2020"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-hillary-clinton-emails-2020/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-hillary-clinton-emails-2020/amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 113
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 59
     images:
-      - url: "https://thehill.com/sites/default/files/clintonhillary_08282019_2.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
-    excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
-    publishedDateTime: 2020-10-11T12:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246337265.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246337265.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media.vanityfair.com/photos/5e00d2996056aa0008852c53/master/pass/TrumpWind.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "K58+aiA/N6p3me+Xkiu0EUc8RyFBj7uqk7SYPm9l/00O3g4EpLhuQtv8wQSOdt/WslFK3xxvydqDqu0o7oBrVeVe23BGYg9nl9IB12KQEdoLYKu0q2TcBj4uT/G2O29yIgCIMDl/gdMuxOLmGgjf4OBsFQgv3krgfj0ftqKX2DF/EEBbw4p1zJbjgm+V5tCODrEDjMx4WGhPz1lRKklb8gCC9W3AgljpD/xaxkwJ5kzE7efQrwGw3tCHYotzEGb2DE7XbGeUQ6loSJBtV8g/C4oA13IckvFq/ZSXQlyOR3YYkrfn+ACkZ8frHd50kdKvy5GAqPHjLXUixZq9urESGA81iXpgp0pb+fshlH+QQNBhF00eyuoD1Kj54nH3Wmh6OjNKVVHA+KkuzY0FRrSxiJpm4z/1clgDcwj2+so2c4hvyZyetHvcJoEuab5E0h8wTkBK9pSPwVA7AahaiMGiDt91Npo5ZNjbXn065QVDuYTlmLMA2HpzP8IBtiREpFToKx64Idxc+GgfVekaVr9h9Q==;uSxlud24nuyKlWyXdFhiqA=="

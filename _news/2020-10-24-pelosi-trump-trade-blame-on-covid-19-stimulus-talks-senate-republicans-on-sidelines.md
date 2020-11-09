@@ -47,6 +47,70 @@ related:
         width: 833
         height: 545
         isCached: true
+  - title: "Trump guaranteed the election would be all about him"
+    excerpt: "Gallup on Thursday summed up his opponent’s fundamental problem: “The majority of U.S. registered voters, 56%, believe  Donald Trump does not deserve to be reelected, while 43% say he does.” That is a seven-point drop in his “deserves reelection” number taken in January."
+    publishedDateTime: 2020-10-22T21:07:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DC3E2ZAUN4I6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "As Trump casts doubt on election, new agency contradicts him"
+    excerpt: "As President Donald Trump sows doubts about the election, an obscure government agency he created is working behind the scenes to inspire confidence in the vote amid unprecedented challenges"
+    publishedDateTime: 2020-10-24T08:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump says COVID-19 aid deal expected after Nov. 3 election"
+    excerpt: "President Donald Trump said on Tuesday there would likely be a new COVID-19 stimulus package after the Nov. 3 election, reiterating his blame on House Speaker Nancy Pelosi for holding up the federal spending package."
+    publishedDateTime: 2020-10-27T17:37:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump/trump-says-covid-19-aid-deal-expected-after-nov-3-election-idUSKBN27C2MC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2MC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2MC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539013189&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1OW"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump sticks to re-election rally strategy as COVID-19 roars back in U.S"
+    excerpt: "With less than a week of voting left, President Donald Trump pushed ahead on Wednesday with mass rallies despite a U.S. surge in COVID-19 cases and mounting criticism that he is prioritizing his re-election above the health of his supporters."
+    publishedDateTime: 2020-10-28T16:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election/with-six-days-left-in-race-trump-heads-to-arizona-and-biden-delivers-covid-19-speech-idUKKBN27D0FG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27D0FG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27D0FG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539136962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R08B"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
     excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
     publishedDateTime: 2020-10-21T03:08:00Z
@@ -127,6 +191,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Will senior citizens finally abandon Trump?"
+    excerpt: "Poll after poll shows Biden with a growing lead among the senior set. Some of that is almost certainly due to the coronavirus pandemic. Trump was cavalier about the threat the virus posed to this portion of his base,"
+    publishedDateTime: 2020-10-22T15:46:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/op-olen-seniors1022/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/op-olen-seniors1022/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/op-olen-seniors1022/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43DA7LQNXAI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump, Mnuchin say Pelosi must compromise to reach COVID-19 deal"
     excerpt: "U.S. President Donald Trump and U.S. Treasury Secretary Steven Mnuchin of Friday said they would back the right deal for more COVID-19 relief but that House Speaker Nancy Pelosi must compromise in order to reach a final agreement."
     publishedDateTime: 2020-10-23T16:53:00Z
@@ -159,6 +239,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Donald Trump leaves a trail of foreign policy fiction"
+    excerpt: "Trump the showman did pull off a few successes on the international stage, but even they carry asterisks. Joe Biden offers steadier hand."
+    publishedDateTime: 2020-10-26T22:11:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/26/president-donald-trump-leaves-trail-foreign-policy-fiction-editorials-debates/5941690002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5941690002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5941690002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/193ad968-dec8-43a1-8b41-505a674538e1-foreign_policy_Trump.JPG?auto=webp&crop=4991,2807,x1,y374&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Obama mocks Trump for being 'jealous of COVID's media coverage'"
     excerpt: "Former President Barack Obama said that President Trump had \"completely [screwed] this up\" and mocked his response to the coronavirus crisis."
     publishedDateTime: 2020-10-28T12:41:00Z
@@ -174,6 +270,22 @@ related:
       - url: "https://i.insider.com/5f99417c69331a0011bc5a24?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "White House Lists 'Ending' Covid-19 Pandemic As Trump Accomplishment"
+    excerpt: "\"The Administration has taken several actions to engage scientists in academia, industry, and government to understand and defeat this disease.\""
+    publishedDateTime: 2020-10-27T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98970c2540474cced7684f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2900%26cropY1%3D0%26cropY2%3D1631"
+        width: 1200
+        height: 675
         isCached: true
   - title: "As COVID-19 roars back in U.S., Trump rallies in battleground Arizona"
     excerpt: "With less than a week of voting left, President Donald Trump on Wednesday held an in-person campaign rally in Arizona despite a U.S. surge in COVID-19 cases and mounting criticism that he is prioritizing his re-election above the health of his supporters."
@@ -207,6 +319,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Here’s Why Massive Rallies May Do Trump More Harm Than Good"
+    excerpt: "Polls show the tightly-packed events are unpopular – and potentially damaging to Trump – as concerns abound over the spread of coronavirus."
+    publishedDateTime: 2020-10-29T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9b2c831150bf866feb830e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D0%26cropY2%3D2531"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pelosi, Trump administration trade blame over virus aid"
+    excerpt: "The major players in Washington’s COVID relief blame game are trading accusations as they mark time before an election that promises to change the landscape for talks that have dragged on for months"
+    publishedDateTime: 2020-10-30T01:18:00Z
+    webUrl: "https://www.washingtonpost.com/business/pelosi-trump-administration-trade-blame-over-virus-aid/2020/10/29/69d64aba-1a45-11eb-8bda-814ca56e138b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/pelosi-trump-administration-trade-blame-over-virus-aid/2020/10/29/69d64aba-1a45-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/pelosi-trump-administration-trade-blame-over-virus-aid/2020/10/29/69d64aba-1a45-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
     excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
     publishedDateTime: 2020-10-20T17:37:00Z
@@ -223,6 +367,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "As Trump casts doubt on election, new agency contradicts him"
+    excerpt: "President Donald Trump was predicting on Twitter that this election would be “the most corrupt” in American history. A day later, the head of an obscure government agency he created offered a much different message."
+    publishedDateTime: 2020-10-26T02:29:00Z
+    webUrl: "https://www.businessinsider.com/as-trump-casts-doubt-on-election-new-agency-contradicts-him-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/as-trump-casts-doubt-on-election-new-agency-contradicts-him-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/as-trump-casts-doubt-on-election-new-agency-contradicts-him-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Trump Claims Doctors Overcounting Covid-19 Coronavirus Deaths To Make More Money"
     excerpt: "Here is the response on Twitter from physicians and various medical societies to the statements by Trump during a campaign rally in Wisconsin."
     publishedDateTime: 2020-10-27T06:30:00Z
@@ -239,6 +394,28 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump eyes hosting election night party at his DC hotel"
+    excerpt: "President Donald Trump has his eye on hosting an election night party at his own hotel in the nation’s capital."
+    publishedDateTime: 2020-10-27T00:49:00Z
+    webUrl: "https://www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-eyes-hosting-election-night-party-at-his-dc-hotel-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Trump officials tout progress on border wall before election"
+    excerpt: "Top Trump administration officials visited Texas five days before Election Day to announce they have nearly completed 400 miles of U.S.-Mexico border wall, trying to show progress on perhaps the president's best-known campaign promise four years ago."
+    publishedDateTime: 2020-10-29T20:33:00Z
+    webUrl: "https://www.businessinsider.com/trump-officials-tout-progress-on-border-wall-before-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-officials-tout-progress-on-border-wall-before-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-tout-progress-on-border-wall-before-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Trump's poor COVID messaging was disservice to my brother, other young people who have died"
     excerpt: "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight."
     publishedDateTime: 2020-10-19T20:12:00Z
@@ -287,12 +464,39 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Candidate Trump decried the national debt in 2016 and promised to eliminate it. It's only gotten bigger."
+    excerpt: "Analysts point to several reasons for the jump, including his tax cuts in 2017 and the federal response to the economic fallout from the pandemic."
+    publishedDateTime: 2020-10-28T02:45:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-has-failed-keep-campaign-pledge-erase-national-debt/3682405001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3682405001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3682405001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/17/USAT/304f1850-0bf1-4dd3-8a14-837260789dff-AP_17128533809612.jpg?auto=webp&crop=1701,957,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
     excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
     publishedDateTime: 2020-10-19T01:36:00Z
     webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
     ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Under Trump, US no longer leads world on refugee protections"
+    excerpt: "For decades, America led the world in humanitarian policies by creating a sanctuary for the oppressed, admitting more refugees annually than all other countries combined."
+    publishedDateTime: 2020-10-27T01:43:00Z
+    webUrl: "https://www.businessinsider.com/under-trump-us-no-longer-leads-world-on-refugee-protections-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/under-trump-us-no-longer-leads-world-on-refugee-protections-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/under-trump-us-no-longer-leads-world-on-refugee-protections-2020-10?amp"
     type: article
     provider:
       name: Business Insider
@@ -327,6 +531,22 @@ related:
       - url: "https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Kamala Harris blames Trump for COVID-19 'mass casualty event’ during Michigan visit"
+    excerpt: "Democratic vice presidential nominee Kamala Harris said President Donald Trump’s handling of the coronavirus pandemic caused the “greatest mass casualty event s"
+    publishedDateTime: 2020-10-26T04:15:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GJWXLVLC75EXNLWNT2JDQ3BBFM.JPG"
+        width: 4992
+        height: 4006
         isCached: true
   - title: "Donald Trump plays down COVID-19 as he steps up pitch for second term"
     excerpt: "CLICK HERE TO TURN ON NOTIFICATIONS. X Trending: WASHINGTON — Gone are the days when President Donald Trump held forth daily at the White House podium flanked by members of his coronavirus task ..."
@@ -376,6 +596,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "VP Mike Pence rallies Trump supporters in NC after staffers test positive for COVID-19 | Charlotte Observer"
+    excerpt: "The Kinston trip was the first of several the Pence family is making to North Carolina this week. Pence and his wife tested negative after aides tested positive."
+    publishedDateTime: 2020-10-25T23:14:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246705331.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246705331.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246705331.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/3744da0a-cef0-400a-b2a7-37c4af12ed04/45c6f1a2-030e-4a4c-9097-2e518f9510e2/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "The Trump Administration Asked Celebrities to Film a COVID PSA. They Ghosted."
     excerpt: "HHS planned a start-studded, taxpayer-funded campaign ostensibly meant to educate the public on the pandemic, but was actually designed as damage control for the president."
     publishedDateTime: 2020-10-29T20:16:00Z
@@ -422,6 +658,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Elevates Former Pence Counsel To Lead Claims Court"
+    excerpt: "President Donald Trump appointed Judge Eleni Roumel to chief judge of the U.S. Court of Federal Claims on Monday, just nine months after her confirmation to the court."
+    publishedDateTime: 2020-10-20T00:57:00Z
+    webUrl: "https://www.law360.com/articles/1320975/trump-elevates-former-pence-counsel-to-lead-claims-court"
+    ampWebUrl: "https://www.law360.com/amp/articles/1320975"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1320975"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 70
   - title: "Melania Trump Cancels Campaign Rally Attendance Due To ‘Lingering Cough’ After COVID-19 Diagnosis"
     excerpt: "Melania Trump decided to cancel her attendance at a campaign rally for her husband, President Donald Trump, due to a lingering cough. The POTUS and FLOTUS tested positive for coronavirus earlier this month."
     publishedDateTime: 2020-10-21T01:37:00Z
@@ -452,6 +699,17 @@ related:
         width: 928
         height: 523
         isCached: true
+  - title: "If Trump Wanted People to Avoid '60 Minutes,' It Didn't Work"
+    excerpt: "Angry about his interview with Lesley Stahl of “60 Minutes,” President Donald Trump released an unedited version of the talk on Facebook three days before the broadcast."
+    publishedDateTime: 2020-10-27T21:37:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Fox News’ Stirewalt: Not Helpful for Trump to Brag About Big Rallies When People Still Really Concerned About Covid"
     excerpt: "Fox News politics editor Chris Stirewalt argued that President Donald Trump's big campaign rallies might be good for Republicans, but it doesn't help him when so many people are still concer"
     publishedDateTime: 2020-10-27T20:32:00Z
@@ -467,6 +725,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/stirewalt.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump Administration Reportedly Had to Exclude a Bunch of Anti-Trump Celebs From $250 Million Coronavirus Ad Campaign"
+    excerpt: "A total of 264 celebrities and public figures were excluded from a $250 million advertising contract, which aimed to \"defeat despair and inspire hope\" amid the coronavirus pandemic for being too critical of President Donald Trump and his policies,"
+    publishedDateTime: 2020-10-29T21:19:00Z
+    webUrl: "https://www.mediaite.com/politics/trump-administration-reportedly-had-to-exclude-a-bunch-of-anti-trump-celebs-from-250-million-coronavirus-ad-campaign/"
+    ampWebUrl: "https://www.mediaite.com/politics/trump-administration-reportedly-had-to-exclude-a-bunch-of-anti-trump-celebs-from-250-million-coronavirus-ad-campaign/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/politics/trump-administration-reportedly-had-to-exclude-a-bunch-of-anti-trump-celebs-from-250-million-coronavirus-ad-campaign/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 52
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/GettyImages-1203665058-1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "CNN covers how Scott Atlas, Trump's Fox News doctor, drove down Florida's COVID-19 testing"
     excerpt: "When you do testing to that extent, you're going to find more people, you're going to find more cases. So I said to my people, slow the testing down, please. AVLON: Now Trump's aides said he was joking after that June rally in Tulsa,"

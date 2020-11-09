@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/politics/election2020_clone_21
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php"
 type: article
 quality: 113
-heat: 133
+heat: 113
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1935
     height: 1290
     isCached: true
-
-related:
-  - title: "Kamala Harris coming to Texas on Friday, including a stop in Houston, sources say"
-    excerpt: "Vice presidential candidate Kamala Harris is expected to be in Texas on Friday to campaign on the final day of early voting. Democratic sources say they expect Houston will be one of her stops"
-    publishedDateTime: 2020-10-25T22:54:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/politics/texas/article/Kamala-Harris-coming-to-Houston-on-Friday-15673946.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 50
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/72/33/20162267/7/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "NNQCtzpC2MVlJfKi16RUBrSfFYq/K/88+VMlMIfJ4e4gW/CClWt4A3aDtXe1RhQuDoT1df30pOITfCqx/mJu2kHt75lUpedfzlGzTHTpeHafqMFCYzi3znuzVH7CgALEjgfCnVzfVQNKNoBZRAWChvBXgORgjTmOh/iD2vYvCJYEeQLl5X/U6Ys6SmZoV6dJFlJOBRYWIaETuQwRKDLUaBAv2INw6y8Yxyt0MV+6zvVszGMaJhlEdPknk/auj01ZnX4zVwpKESwolwFTTszvKCFKTyXHXaou3Zh0GZMx8/vW4QEoEi0Yql9J+Y68BTIk1rOFgF/BL1+JlwaT/9ULNv1qdSMXCfYoxOF6kI2TBsoDS9XypW8cGwAZyL3xfBW2PSPRIG5rj0/SABDZehyZqnxytr5/2aL131vC/rVtYwGw9bZi79RgMO4E4qopnx/QA9obJd7aA92YlHs1rsyZuwMstzx4Az1ep+2OLFmKLZX1k2N/JQTwlk5dybWSUXZmvHmJy2r6VZaRMX60/vOGvA==;GEoaOBsU+0WOw1vndKij1g=="
 ---

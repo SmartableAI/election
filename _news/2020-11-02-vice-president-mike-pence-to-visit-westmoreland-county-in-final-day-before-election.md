@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtae.com/amp/article/vice-president-mike-pence-to-visit-
 cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220"
 type: article
 quality: 84
-heat: 304
+heat: 284
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Mike Pence to speak at rallies in Arizona on Friday"
+    excerpt: "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson."
+    publishedDateTime: 2020-10-29T05:16:00Z
+    webUrl: "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 75
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Vice President Mike Pence rallies in Latrobe on final day of campaigning"
     excerpt: "BUT FOR THOSE WHO WERE HERE, THEY WERE VERY ENTHUSIASTIC. CHANTS OF \"FOUR MORE YEARS \" AND \"USA\" FILLING THE AIR DURING VICE PRESIDENT MIKE PENCE’S VISIT TO LATROBE. THE VICE PRESIDENT, INTRODUCED BY HIS WIFE, KAREN PENCE, ADDRESSING THE CROWD OF A ..."
     publishedDateTime: 2020-11-02T22:32:00Z
@@ -56,22 +72,6 @@ related:
     quality: 74
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-1604359887.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "With time short, Vice President Mike Pence returns in effort to keep Arizona red"
-    excerpt: "Vice President Mike Pence will campaign in Flagstaff and Tucson as the presidential race in battleground Arizona goes down to the wire."
-    publishedDateTime: 2020-10-30T13:14:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/30/vice-president-mike-pence-returns-effort-keep-arizona-red-flagstaff-tucson/6078523002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6078523002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6078523002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -150,15 +150,6 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 55
-  - title: "Vice President Pence Holds Rally in Flagstaff, AZ"
-    excerpt: "President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3.5 points."
-    publishedDateTime: 2020-10-30T07:24:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-az"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
   - title: "Vice President Pence Campaigns in Latrobe, PA"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Latrobe, PA. The Keystone State is getting visits from him and President Trump as well as their Democratic challengers, Joe Biden & Sen. Kamala Harris (CA),"
     publishedDateTime: 2020-11-02T08:03:00Z

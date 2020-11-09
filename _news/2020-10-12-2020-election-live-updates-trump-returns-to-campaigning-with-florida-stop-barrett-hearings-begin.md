@@ -31,555 +31,335 @@ images:
     isCached: true
 
 related:
-  - title: "Cuban-Americans Hold Huge Pro-Trump Parade in South Florida as Elections Approach"
-    excerpt: "\"Together with our Latin American brothers, we have a very clear message: Our moral priority is to defend the United States, the liberation of Cuba and the hemisphere with love,\" one organizer said."
-    publishedDateTime: 2020-10-12T03:05:00Z
-    webUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179"
-    ampWebUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 135
-    images:
-      - url: "https://d.newsweek.com/en/full/1649359/pro-trump-caravan.jpg"
-        width: 594
-        height: 393
-        isCached: true
-  - title: "Lessons the American people can learn from President Trump's illness"
-    excerpt: "While the nation waits to see how President Donald Trump will fare as he's treated for COVID-19, doctors say there are lessons to be learned."
-    publishedDateTime: 2020-10-04T11:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/03/president-donald-trump-covid-19/3615029001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3615029001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615029001"
+  - title: "Latest Election Day updates: Trump has a commanding lead in Florida"
+    excerpt: "Our live coverage of Election Day includes updates on voter turnout, the latest on Trump and Biden, and news from polling places around Florida."
+    publishedDateTime: 2020-11-04T04:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/live-updates-florida-election-day-voting-turnout-ballots-trump-biden/6038318002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6038318002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038318002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PGRF/f813fdac-edea-4378-937a-3e71eb33cc1e-AP20276510432758.jpg?auto=webp&crop=3209,1805,x853,y222&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NPPP/5c24e614-5e1a-445b-94a7-cad671b83233-Early_Voting_2020_41.jpg?auto=webp&crop=3617,2035,x0,y289&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump urges Americans to 'get out there' after return from hospital"
-    excerpt: "President Donald Trump emerged on Monday from four days in a U.S. military hospital where he was treated for COVID-19 with a video message to Americans to \"get out there\" and not be afraid of coronavirus."
-    publishedDateTime: 2020-10-06T00:48:00Z
-    webUrl: "https://www.reuters.com/article/healthcare-coronavirus-trump-video-int-idUSKBN26R00L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R00L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R00L"
+  - title: "Election live updates: Donald Trump says he's not nervous: 'I've been here before'"
+    excerpt: "President Donald Trump and Democratic candidate Joe Biden are in the home stretch of this campaign with just hours to go before Election Day."
+    publishedDateTime: 2020-11-03T03:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/02/election-updates-biden-barnstorm-pa-trump-vows-send-lawyers/6117435002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6117435002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6117435002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NTFO/aa6e6952-e542-404a-91e1-c463528d6506-trump_25.jpg?auto=webp&crop=3999,2250,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election 2020 live updates: Trump makes false statement about Election Day ballot counts"
+    excerpt: "For all ballots legally entered to be counted, the law has always allowed states weeks to count votes after Election Day."
+    publishedDateTime: 2020-10-27T19:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/election-2020-updates-biden-georgia-trump-midwest-tuesday/6007506002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6007506002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007506002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump pulls statistically even with Biden in Florida; Arizona is a dead heat: Reuters/Ipsos"
+    excerpt: "President Donald Trump has pulled into a virtual tie with Democratic challenger Joe Biden in Florida, just a week after the former vice president held a narrow lead there, a Reuters/Ipsos opinion poll showed on Wednesday."
+    publishedDateTime: 2020-10-28T20:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN27D30N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D30N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D30N"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 130
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536301868&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95007"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539183378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R1TO"
         width: 817
         height: 545
         isCached: true
-  - title: "When Trump gets coronavirus, Chinese Americans pay a price"
-    excerpt: "Researchers monitoring Twitter several days after Trump announced his diagnosis noticed a startling spike in hateful sentiments against both China and Asian-Americans, as well as the recycling of other conspiracies."
-    publishedDateTime: 2020-10-09T10:09:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp"
+  - title: "Fact check: Trump keeps making false or misleading statements on mail ballots as Election Day nears"
+    excerpt: "Seeing chaos where others don’t, President Donald Trump is falsely asserting that voting by mail is proving to be rife with problems across the country,"
+    publishedDateTime: 2020-10-27T19:47:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-fact-check-trump-mail-voting-20201027-tp5nahz3s5dg5i5awj27sx3oq4-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 126
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WQGDHEAIY4I6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.chicagotribune.com/resizer/8bLIEbk3JdBza-wGzxEnjkDLfUs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4XWKPBI2EFEUNGTHY2HT32ASIM.jpg"
+        width: 1200
+        height: 951
         isCached: true
-  - title: "WATCH LIVE: Trump holds campaign rally in Sanford, Florida"
-    excerpt: "The White House doctor has said Trump is no longer at risk of transmitting the coronavirus but has not said explicitly whether Trump has tested negative for it."
-    publishedDateTime: 2020-10-12T19:58:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-holds-campaign-rally-in-sanford-florida"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-holds-campaign-rally-in-sanford-florida"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-holds-campaign-rally-in-sanford-florida"
+  - title: "WATCH LIVE: Trump holds campaign rally in Tampa, Florida"
+    excerpt: "President Donald Trump and Democratic rival Joe Biden are set to chase votes in Florida, a state all but essential to the Republican's pathway to another term as both nominees turn their focus to encouraging voters to turn out on Election Day."
+    publishedDateTime: 2020-10-29T14:58:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-holds-campaign-rally-in-tampa-florida"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-holds-campaign-rally-in-tampa-florida"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-holds-campaign-rally-in-tampa-florida"
     type: article
     provider:
       name: PBS
       domain: pbs.org
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-04T000123Z_1626123769_RC2CRI92JSD2_RTRMADP_3_USA-ELECTION-TRUMP-1-1024x691.jpg"
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/vote202010-1024x683.jpg"
         width: 1024
-        height: 691
+        height: 683
         isCached: true
-  - title: "Florida county suspends worker who flew Trump flag on government truck"
-    excerpt: "Palm Beach County officials accuse Randall Williams of violating county rules that ban politicking on county time or on county vehicles."
-    publishedDateTime: 2020-10-14T20:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/state/2020/10/14/florida-palm-beach-county-employee-suspended-flying-trump-flag-work-vehicle/3651693001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3651693001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3651693001"
+  - title: "The Latest: Trump meets troops involved in al-Baghdadi raid"
+    excerpt: "President Donald Trump quietly met with U.S. Special Forces troops involved in last year’s raid to kill Islamic State leader Abu Bakr al-Baghdadi"
+    publishedDateTime: 2020-10-30T01:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-rally-sets-minnesota-rally-for-rochester/2020/10/29/6f2d2ea4-1a48-11eb-8bda-814ca56e138b_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/NPPP/3253e320-e0cc-4691-951e-4e6f07e850ec-thumbnail_IMG_20201008_165418.jpg?auto=webp&crop=787,443,x34,y482&format=pjpg&width=1200"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump has won North Dakota"
+    excerpt: "The state has three electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-04T00:16:00Z
+    webUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa2201b69331a0011bc7288?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
-    excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
-    publishedDateTime: 2020-10-12T14:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26X0GN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X0GN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X0GN"
+  - title: "Donald Trump has won Indiana"
+    excerpt: "Indiana has 11 electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-05T06:37:00Z
+    webUrl: "https://www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/indiana-presidential-election-2020-live-vote-counts-results-2020?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537087640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B09C"
-        width: 830
-        height: 545
+      - url: "https://i.insider.com/5fa2aaec1df1d50018218c81?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
-    excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
-    publishedDateTime: 2020-10-12T19:05:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN26X0GH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26X0GH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26X0GH"
+  - title: "Trump sues in 3 states, laying ground for contesting outcome"
+    excerpt: "The Trump campaign says it has filed lawsuits in Pennsylvania, Michigan and Georgia, laying the groundwork for contesting battleground states"
+    publishedDateTime: 2020-11-05T09:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-sues-michigan-ballot-access-asks-wis-recount-74024044"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-sues-michigan-ballot-access-asks-wis-recount-74024044"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-sues-michigan-ballot-access-asks-wis-recount-74024044"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537092866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B08V"
-        width: 861
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ab9a888be0e14ec3a06935e365df78a8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Americans have 'conflicting' feelings about President Trump's COVID diagnosis"
-    excerpt: "The spectrum of reactions in the days since Trump's COVID diagnosis reflect the complexity of America's political and moral moment."
-    publishedDateTime: 2020-10-06T17:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/06/trump-sick-covid-has-americans-confused-coronavirus-message/3623255001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3623255001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3623255001"
+  - title: "Latino vote \"can't be ignored anymore\" after Trump's projected win in Florida"
+    excerpt: "Among the biggest factors in his Sunshine State victory were Latinos — not just Cuban Americans — who came out in support of the president."
+    publishedDateTime: 2020-11-05T12:45:00Z
+    webUrl: "https://www.cbsnews.com/news/latino-vote-2020-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/latino-vote-2020-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/latino-vote-2020-election/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e1f72c85-22fd-499c-a73c-5d32179a2f35-GTY_1278691059.jpg?auto=webp&crop=6306,3547,x0,y172&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/04/76caa4c1-baa7-41ba-9e2f-3da5bce3eb1a/thumbnail/1200x630/2c0cbc94497a46f4109563aaf7b93469/gettyimages-1229449766.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Inside the Dems' Florida flop: Turnout, rural success propelled Trump in the Sunshine State"
+    excerpt: "But that alone does not explain why Biden lost the state by about 375,000 votes, a substantial gap in a state known for paper-thin margins. An analysis of post-election data shows that several factors played into the Democrats' bad day."
+    publishedDateTime: 2020-11-08T18:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/how-donald-trump-won-florida-rural-success-beat-joe-biden/6214043002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6214043002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6214043002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/30/NPPP/6e5b7ee4-f6f8-4bbf-8765-e922a7017e91-Election_2020_Biden.jpg?auto=webp&crop=5718,3217,x0,y290&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump Accuses Ilhan Omar of Marrying Her Brother, Entering America Illegally"
-    excerpt: "President Donald Trump accused Democratic Congresswoman Ilhan Omar of Minnesota of marrying her own brother and entering America illegally at a campaign rally in Ocala, Florida on Friday night. Trump urged the Justice Department to probe Omar,"
-    publishedDateTime: 2020-10-17T01:53:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1654733/omar.jpg"
-        width: 2500
-        height: 1854
-        isCached: true
-  - title: "Trump calls off stimulus package talks, meaning Americans likely won't receive a $1,200 stimulus check before the election"
-    excerpt: "House Democrats had passed two measures that would have provided $1,200 to each adult and another $1,200 for each dependant child."
-    publishedDateTime: 2020-10-07T10:18:00Z
-    webUrl: "https://www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5f7cf91d282c500018c79042?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump made it hard for me to protect America. How could I vote for him again? How could anyone?"
-    excerpt: "My job was to keep Americans safe and Trump was my biggest obstacle. He ignored white nationalist violence, ignored COVID-19, and nearly started a war."
-    publishedDateTime: 2020-10-13T09:22:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/13/trump-threatens-american-safety-former-dhs-secretary-column/5960384002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5960384002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960384002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/11/USAT/49a62616-af33-4d3a-a552-37d15de3305e-Neumann.jpg?auto=webp&crop=479,269,x1,y160&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Why the Russians may know more about Trump's health and COVID diagnosis than the American public"
-    excerpt: "Russia and other US foes have almost certainly deployed every tool in their spy kits to determine how sick the president is, according to experts."
-    publishedDateTime: 2020-10-07T12:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/07/trump-covid-diagnosis-russia-china-spies-national-security/5898459002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5898459002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5898459002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/21/USAT/fb3da339-e73c-4e63-929f-5e7c8df79145-AP_France_Trump_Russia_Probe.JPG?auto=webp&crop=5024,2826,x1,y886&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Column: African-Americans can teach white liberals how to cope with their hatred for Donald Trump"
-    excerpt: "My heart goes out to my liberal white friends who are struggling to deal with their hatred. I understand why the intense emotions you feel for Donald Trump seem foreign to you. America was established by your people and for your people,"
-    publishedDateTime: 2020-10-12T10:08:00Z
-    webUrl: "https://www.chicagotribune.com/columns/dahleen-glanton/ct-glanton-trump-white-people-hatred-20201012-ahu5epslnrhzxnuhcuooczsj3a-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/columns/dahleen-glanton/ct-glanton-trump-white-people-hatred-20201012-ahu5epslnrhzxnuhcuooczsj3a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/dahleen-glanton/ct-glanton-trump-white-people-hatred-20201012-ahu5epslnrhzxnuhcuooczsj3a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 112
-    images:
-      - url: "https://www.chicagotribune.com/resizer/flbU85pTu5lSzj012EJ5b3YXNmc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/42E4XCRD55ERNLKCK2M5ODA6ZM.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "'Treating us like garbage': New sanctions announced as many Iranian Americans feel fed up with Trump"
-    excerpt: "Sanctions unveiled Thursday by the U.S. Treasury Department target Iran's financial sector. While some Iranian-Americans support Donald Trump, others are fed up."
-    publishedDateTime: 2020-10-09T04:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/iran-sanctions-trump-iranian-americans-vote-election/3528381001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3528381001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528381001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/db8f4a6b-712c-4583-b634-81488d181138-GTY_994906866.JPG?auto=webp&crop=4672,2628,x1,y210&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ex-CIA Director Brennan says he hopes Trump gets 'soundly spanked by the American electorate' on Nov. 3"
-    excerpt: "John Brennan worries that if he loses, Trump could provoke civil unrest, declare martial law or take other damaging steps before Joe Biden is inaugurated."
-    publishedDateTime: 2020-10-18T12:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/18/john-brennan-ex-cia-director-fears-trump-havoc-after-election/3676392001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3676392001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3676392001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/08/16/USAT/f0c02239-7062-463b-94f2-b617ccfed2fa-ax164_4c08_9.jpg?auto=webp&crop=1023,575,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Trump 'seemingly legitimizing' the rise in hate crimes against Asian Americans, according to a UN report"
-    excerpt: "Americans are at an \"alarming level,\" in part because of rhetoric from President Donald Trump."
-    publishedDateTime: 2020-10-15T02:34:00Z
-    webUrl: "https://www.businessinsider.com/un-report-trump-seemingly-legitimizing-hate-crimes-against-asian-americans-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/un-report-trump-seemingly-legitimizing-hate-crimes-against-asian-americans-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/un-report-trump-seemingly-legitimizing-hate-crimes-against-asian-americans-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5f878f2cea23a5001903d77e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump signs Savanna's Act, 'a critical first step' to address missing and murdered Native Americans"
-    excerpt: "President Donald Trump signed a bill Saturday aimed at addressing missing and murdered Native Americans. Savanna's Act will establish national law enforcement guidelines between the federal government and American Indian tribes to help track,"
-    publishedDateTime: 2020-10-12T12:07:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/11/donald-trump-savannas-act-missing-murdered-native-americans/5964329002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5964329002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5964329002"
+  - title: "Election challenges live updates: Trump announces lawsuit in Nevada; claims over vote counting in Michigan, Pennsylvania, Georgia pending"
+    excerpt: "As the race between Donald Trump and Joe Biden continues to narrow, the next battleground looks to be the courtroom. Latest news."
+    publishedDateTime: 2020-11-05T16:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-election-lawsuits-recounts-pennsylvania-michigan-nevada-georgia/6172803002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6172803002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6172803002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 107
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/5671b7ea-1959-4d66-be64-15e1486f1431-AP19333815580740.jpg?auto=webp&crop=2105,1185,x0,y229&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/8bc0821d-3529-4ac9-921f-5c7197680059-AP_Election_2020_Lawsuits_Glance.jpg?auto=webp&crop=4855,2731,x0,y168&format=pjpg&width=1200"
         width: 1200
-        height: 676
+        height: 675
         isCached: true
-  - title: "Trump Repeats Claim He Is ‘Immune’ To Covid As He Proposes Kissing Audience Members At Packed Florida Airport Rally"
-    excerpt: "Trump appeared at his first in-person campaign event away from the White House on Monday since being diagnosed with coronavirus, apparently unfazed by his bout of illness."
-    publishedDateTime: 2020-10-13T09:24:00Z
-    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/10/13/trump-repeats-claim-he-is-immune-to-covid-as-he-proposes-kissing-audience-members-at-packed-florida-airport-rally/"
-    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/10/13/trump-repeats-claim-he-is-immune-to-covid-as-he-proposes-kissing-audience-members-at-packed-florida-airport-rally/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/10/13/trump-repeats-claim-he-is-immune-to-covid-as-he-proposes-kissing-audience-members-at-packed-florida-airport-rally/amp/"
+  - title: "Voting 2020 live updates: Trump urges Biden voters to 'spoil' ballot and vote for him; charges of voter suppression scheme in Ohio, Michigan"
+    excerpt: "Trump urges Biden voters to 'spoil' ballot and vote for him; mail your ballot today to make sure it's counted. Latest news."
+    publishedDateTime: 2020-10-28T22:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/voting-2020-news-updates-florida-early-voting-wisconsin-ballots/6040707002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6040707002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6040707002"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f856ecc602ccad0d5e6af39%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D183%26cropY2%3D1872"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NSHT/d424f4e1-5562-4636-acad-5cec060ace46-FLSAR-102520-S_COLZAC_001.jpg?auto=webp&crop=3067,1726,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 676
+        height: 675
         isCached: true
-  - title: "The Trump administration's race to get a coronavirus vaccine means Americans may not know which treatment works best"
-    excerpt: "The US isn't testing each company's vaccines against one another, meaning Americans won't necessarily know which vaccine is the most effective."
-    publishedDateTime: 2020-10-13T20:02:00Z
-    webUrl: "https://www.businessinsider.com/trumps-operation-warp-speed-may-mean-moderately-effective-vaccines-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trumps-operation-warp-speed-may-mean-moderately-effective-vaccines-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-operation-warp-speed-may-mean-moderately-effective-vaccines-2020-10?amp"
+  - title: "Florida remains central to Trump's path to victory"
+    excerpt: "Florida is a toss-up heading into Election Day. Nearly 64% of Florida voters cast their ballots early, and the Latino and Black vote will be crucial to win. Manuel Bojorquez reports from a voting site in Miami."
+    publishedDateTime: 2020-11-03T22:34:00Z
+    webUrl: "https://www.cbsnews.com/video/florida-remains-central-to-trump-path-to-victory/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5f85e0c291aa9e001880b4e5?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/03/3cc4cfdd-5f46-4dec-aa8a-8723511dead5/thumbnail/1200x630/b823f684a68a300c622ce0b5263adffc/florida-bojorquez-579447-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Photos from Trump's Florida rally show supporters close together and not wearing masks even after Trump experienced COVID-19 first hand"
-    excerpt: "The White House doctor said Trump tested negative on \"consecutive\" days and is no longer infectious but did not say which days he tested negative on."
-    publishedDateTime: 2020-10-13T14:30:00Z
-    webUrl: "https://www.businessinsider.com/photos-from-trumps-florida-rally-show-supporters-not-wearing-masks-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/photos-from-trumps-florida-rally-show-supporters-not-wearing-masks-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-from-trumps-florida-rally-show-supporters-not-wearing-masks-2020-10?amp"
+  - title: "Trump begins Election Day with 'Fox & Friends' interview: Live updates on Trump, Pence"
+    excerpt: "President Trump plans to spend the day making calls, giving interviews, monitoring events from the White House."
+    publishedDateTime: 2020-11-03T16:55:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/03/election-day-2020-donald-trump-mike-pence/6129648002/"
+    ampWebUrl: "https://amp.freep.com/amp/6129648002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6129648002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 97
     images:
-      - url: "https://i.insider.com/5f84ff1c91aa9e001880b2a9?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 562
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/9355561b-1453-4428-b22a-3ad04ad47d1a-GettyImages-1283588209.jpg?auto=webp&crop=3150,1772,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Will Donald Trump participate in any more debates? – States of America"
-    excerpt: "Phillip Bailey and guests discuss the presidential debates and what we learned from the VP debate, including thoughts from the moderator, Susan Page."
-    publishedDateTime: 2020-10-09T12:59:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2020/10/09/donald-trump-participate-any-more-debates-states-america/5933564002/"
+  - title: "Live election updates: Kushner, Melania reportedly urge Trump to concede; AOC almost didn't run again"
+    excerpt: "Reports say Trump's wife and son-in-law urged him to concede; the president-elect attends Mass; AOC almost quit – the latest on the election."
+    publishedDateTime: 2020-11-08T19:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/mitt-romney-calls-trump-900-pound-gorilla-republicans-future/6212881002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 85
-  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
-    excerpt: "German Americans paved Donald Trump’s road into the White House in 2016 through Iowa, Wisconsin, Michigan, Ohio and Pennsylvania. This ethnic group barely receives attention in American media and politics."
-    publishedDateTime: 2020-10-04T11:46:00Z
-    webUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
+  - title: "MSNBC’s Morning Joe reveals how Florida could deliver ‘bad news’ for Trump early on Election Night"
+    excerpt: "MSNBC’s Joe Scarborough explained what to look for in Florida’s early election reporting that could spell “bad news” for President Donald Trump. Huge numbers of Florida voters have already cast their ballots with five days until the Nov."
+    publishedDateTime: 2020-10-30T12:51:00Z
+    webUrl: "https://www.rawstory.com/2020/10/msnbcs-morning-joe-reveals-how-florida-could-deliver-bad-news-for-trump-early-on-election-night/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/msnbcs-morning-joe-reveals-how-florida-could-deliver-bad-news-for-trump-early-on-election-night/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/msnbcs-morning-joe-reveals-how-florida-could-deliver-bad-news-for-trump-early-on-election-night/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 82
+    quality: 76
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Fred-and-Donald-Trump-687x430.jpg"
-        width: 687
-        height: 430
-        isCached: true
-  - title: "Corporate America first: Trump fails to un-rig the U.S. economy"
-    excerpt: "In the middle of the last century, a General Motors president told Congress that what was good for GM was good for America and vice versa. As U.S. president, Donald Trump — who as a candidate promised to put the economy back on the side of the little guy — has revised the old saw: What’s good for big business,"
-    publishedDateTime: 2020-10-04T14:48:00Z
-    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/mFC1sYjf2HtE6o-8Z641B3SProM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VG7IIGPOMRFKNPULBIBXSLHQ7E.JPG"
-        width: 1200
-        height: 706
-        isCached: true
-  - title: "Republican US Sen. Sullivan plans to vote for Trump"
-    excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"
-    publishedDateTime: 2020-10-06T23:45:00Z
-    webUrl: "https://www.chron.com/news/article/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Trump has events Saturday at White House, Monday in Florida"
-    excerpt: "Looking to shove his campaign back on track, President Donald Trump and his team laid out an aggressive return to political activities on Friday, including a big Saturday White House event and a rally in Florida on Monday,"
-    publishedDateTime: 2020-10-09T21:41:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/47/63/20086006/19/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "Trump Fires Off 102 Tweets Prior to His Florida Rally on Monday"
-    excerpt: "Donald Trump was noticeably excited to return to the campaign trail after being hospitalized with coronavirus. On Monday, October 12, Trump had fired off 102 tweets prior to the start of his rally in Florida."
-    publishedDateTime: 2020-10-13T04:26:00Z
-    webUrl: "https://heavy.com/news/trumps-tweets-twitter-florida-rally/"
-    ampWebUrl: "https://heavy.com/news/trumps-tweets-twitter-florida-rally/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/trumps-tweets-twitter-florida-rally/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 75
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228998503-e1602535607388.jpg?quality=65&strip=all"
-        width: 4432
-        height: 2497
-        isCached: true
-  - title: "South Florida Worker Suspended for Flying Trump Flag From Government Truck"
-    excerpt: "A Florida municipal worker was suspended without pay for flying a flag supporting President Donald Trump’s re-election from his government truck"
-    publishedDateTime: 2020-10-14T13:41:00Z
-    webUrl: "https://www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/"
-    ampWebUrl: "https://www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/?amp"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/?amp"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 73
-    images:
-      - url: "https://media.nbcmiami.com/2020/09/Trump-flag.jpg?fit=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "UFC's Jorge Masvidal Greets Donald Trump In Florida, POTUS Not Wearing Mask"
-    excerpt: "Forget the Secret Service, the \"Baddest MF\" on the planet has Donald Trump's back in Miami ... Jorge Masvidal."
-    publishedDateTime: 2020-10-15T23:03:00Z
-    webUrl: "https://www.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
-    ampWebUrl: "https://amp.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
-    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
-    type: article
-    provider:
-      name: TMZ
-      domain: tmz.com
-    quality: 73
-    images:
-      - url: "https://imagez.tmz.com/image/a3/16by9/2020/10/15/a340707788644b41a3921524902d3208_xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mike Pence and Eric Trump events in South Florida on Thursday | PHOTOS"
-    excerpt: "Multiple events around South Florida featuring Vice President Mike Pence and Eric Trump that lead up to a televised town hall with President Donald Trump in Miami."
-    publishedDateTime: 2020-10-15T17:16:00Z
-    webUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-trump-events-south-florida-101520-20201015-5fjpafihovbopaiaksxtpc6eeu-photogallery.html"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 70
-    images:
-      - url: "https://www.sun-sentinel.com/resizer/Pe_TMvDNtVnUiRg_Ok0FbraCXtc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MNJEX3DDIFHYFNW5Q7PLRAJMIU.jpg"
-        width: 1200
-        height: 802
-        isCached: true
-  - title: "Trump has induced a dissociative mental state that is eroding America’s sense of self"
-    excerpt: "Americans teeter on the brink of a state of collective fugue. A psychiatric state of mind, the fugue is caused by extreme distress in the aftermath of one or more cataclysmic events. The fugue state causes a person to fail to recall intrinsic identifying personal characteristics and to no longer remember what they believed in"
-    publishedDateTime: 2020-10-16T21:20:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-has-induced-a-dissociative-mental-state-that-is-eroding-americas-sense-of-self/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-has-induced-a-dissociative-mental-state-that-is-eroding-americas-sense-of-self/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-has-induced-a-dissociative-mental-state-that-is-eroding-americas-sense-of-self/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 68
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2017/01/Trump-Thank-You-Rally-721x430.jpg"
-        width: 721
-        height: 430
-        isCached: true
-  - title: "65% Of Americans Agree Trump Could've Avoided Getting Coronavirus, Reuters Poll Reveals"
-    excerpt: "The president announced his coronavirus diagnosis on Friday after senior counselor Hope Hicks tested positive for the virus."
-    publishedDateTime: 2020-10-05T03:18:00Z
-    webUrl: "https://www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594"
-    ampWebUrl: "https://www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/us-president-donald-trump-was-said-to-be.jpg"
-        width: 1024
-        height: 646
-        isCached: true
-  - title: "Watch Donald Trump shake it to the Village People’s Y.M.C.A. at Florida campaign rally"
-    excerpt: "President Donald Trump energetically returned to the campaign trail on Monday after having been hospitalized for coronavirus. “President Trump returned to the campaign trail Monday, holding his first rally since being hospitalized earlier this month,"
-    publishedDateTime: 2020-10-13T05:47:00Z
-    webUrl: "https://www.rawstory.com/2020/10/watch-donald-trump-shake-it-to-the-village-peoples-y-m-c-a-at-florida-campaign-rally/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/watch-donald-trump-shake-it-to-the-village-peoples-y-m-c-a-at-florida-campaign-rally/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-donald-trump-shake-it-to-the-village-peoples-y-m-c-a-at-florida-campaign-rally/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 67
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-14.png"
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-14-at-6.51.20-AM.png"
         width: 800
         height: 430
         isCached: true
-  - title: "Pence and Trump Campaign Drum Up South Florida Support With Sunshine State Up For Grabs"
-    excerpt: "With the battle for Florida intensifying and votes already being cast in record numbers, President Donald Trump’s campaign fired up a solid source of support on Thursday — Cuban Americans and evangelicals."
-    publishedDateTime: 2020-10-15T21:39:00Z
-    webUrl: "https://www.wlrn.org/2020-10-15/pence-and-trump-campaign-drum-up-south-florida-support-with-sunshine-state-up-for-grabs"
+  - title: "ELECTION UPDATE: Joe Biden's lead in Arizona tightens in updated results"
+    excerpt: "Former Vice President Joe Biden kept his lead in Arizona over President Donald Trump, but with a more narrow margin following the latest results posted overnight. The results posted early Thursday morning were mostly mail ballots from Maricopa County that had been dropped off at vote centers on Tuesday."
+    publishedDateTime: 2020-11-05T12:30:00Z
+    webUrl: "https://www.djournal.com/news/national/election-update-joe-bidens-lead-in-arizona-tightens-in-updated-results/article_561f5117-e5ab-58d3-b3e5-42aaa20e89c1.html"
     type: article
     provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 62
+      name: Daily Journal
+      domain: djournal.com
+    quality: 69
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/4474692/2147483647/strip/true/crop/415x218+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F6a%2Fa148154f479689adf537b69afc9d%2Fpencevisit-20201015.jpg"
-        width: 1200
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/f7/5f70a5a3-23de-5cbf-8c1a-82ae377dd75e/5fa40cefba53a.image.jpg?crop=1199%2C674%2C0%2C77&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
         height: 630
         isCached: true
-  - title: "‘Bizarre’: Trump supporter busted for political vandalism in Florida – against a fellow Trump supporter"
-    excerpt: "A Florida man was arrested to going into people’s property and destroying Donald Trump campaign signs, actually turned out to be a Trump supporter who was upset about seeing a Confederate flag next to a Trump campaign sign — saying that he didn’t want anyone sending the impression that Trump is racist,"
-    publishedDateTime: 2020-10-14T18:50:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
+  - title: "The Latest: Trump heaping attention on 1 Nebraska district"
+    excerpt: "President Donald Trump talks with the traveling press as first lady Melania Trump waits near Air Force One at Andrews Air Force Base, Md., Tuesday, Oct. 27, 2020. They flew"
+    publishedDateTime: 2020-10-28T01:26:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-heaping-attention-on-1-nebraska-district/image_3a2d2708-da36-5d0e-bceb-7b2e43bd20ce.html"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 59
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Ryan-Dennistonindian-river-sheriffs-office-.jpeg"
-        width: 800
-        height: 430
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/a2/3a2d2708-da36-5d0e-bceb-7b2e43bd20ce/5f98a68289117.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
+  - title: "The Latest: Trump Supporters Delayed in the Cold After Rally"
+    excerpt: "Throngs of people who attended a campaign rally held by President Donald Trump at a Nebraska airport had to wait around in frigid weather for hours after it ended before they could get back to their cars."
+    publishedDateTime: 2020-10-28T14:22:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "The Latest: Mrs. Trump Warms up Tampa Crowd at Trump Rally"
+    excerpt: "First lady Melania Trump is making her first joint campaign appearance of the year with her husband. Mrs. Trump warmed up the large crowd outside Raymond James Stadium in Tampa for President Donald Trump."
+    publishedDateTime: 2020-10-29T19:04:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-29/the-latest-biden-in-florida-which-went-for-trump-in-2016?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "luSC0IAKt3JWaLFl91mqSgmiz3rtZZou+rQ+PFuJBXV82QOF9Vi+RxGkDWKnVMt3L21DAdip+8aDzP7Ns4iY/xzoabZfbuSGJVXs7UwLG89JcXy2EQetrpQdTyyFbwF1dYj2rTK+Pb791q7ERbyztDivq+9sSWPO8A+2zT1h491Wx7e1sIfIX6uQUc9b8ldMWRR1Q3r4uaYdopP9GGLLAEe/oUFZS5msMrGHXcRuRtjCoZ/ckR6YRGpPfKn1wO7HkAHfCcaCHOtfeB+olAmUNzCnwpwmJYFI3cxXugikymU8/0TbJTd+ZskPoHFdIhSu59M7gwzRRCegJJSx2V/jzBsuOZZhwi+sQkIt98RAG2FNua42AuboEYqhvB/7UcZ7VaIcFnJuzhQZAGTfzT3SwKHv8lNTCY6mEgoL101lbL/AGyE6yODSmbbBZyCVN0ryLktORwFF9QHh1HunJePRuThVGF9n2THw+0SCK8ZSrwpk1UXl3T2OXAXzOfruweErq2c+STHsJpanFTlTQb3kqw==;1x3WWCi+hmZhxwLXtoxb9g=="
 ---

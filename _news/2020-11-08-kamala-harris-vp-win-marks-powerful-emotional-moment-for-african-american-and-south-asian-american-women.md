@@ -43,34 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Historic Barriers Kamala Harris Overcame to Become the First Female, First Black and First Asian American Vice President-Elect"
-    excerpt: "For each of Harris' firsts, the history speaks to the breaking down of barriers that silenced the voices of people of color and women"
-    publishedDateTime: 2020-11-07T20:11:00Z
-    webUrl: "https://time.com/5908579/kamala-harris-historic-vice-president/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 75
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/kamala-harris-campaign.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "VP-elect Kamala Harris, first woman, black and Asian-American in role, delivers victory speech"
-    excerpt: "Addressing her historic win, she predicted, \"While I may be the first...I will not be the last.\""
-    publishedDateTime: 2020-11-08T02:34:11Z
-    webUrl: "https://www.independent.co.uk/news/world/americas/us-election-2020/kamala-harris-speech-vice-president-elect-b1685040.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 43
-    images:
-      - url: "https://static.independent.co.uk/2020/11/08/01/kamala-harris-victory-speech.jpg"
-        width: 3493
-        height: 2454
-        isCached: true
 
 secured: "u4OP8p65dFlCOM2+z3Pql7emOycOzh59NrJhoQkbMif7ODfe1cOok7aS3iX9klahMs6cF+uLrSgjniadI9vzUm4glNEs2u+CH8dJCPoVZdZpdjaiAjy2cQRur31o9nIYos3W4UWQCH4RgusaNXvmqc0vYA0/748Ed+pXQ9GWItTOyUVSnDRX64vW4T1e/UupUpv2N1TtM7GdaAYV7huh05bifDXOrU282qAhwL7bRnppgxv6XTbcxSyO9VEFF7fh+0ZNvcHDncSRyhSnBb31ANX5v2iUKeSh5MYvtMwVbtUCdV6kpmfpa7y9fEHWfqF552W0LJyGCmOEsnx5PNenVRYKEWW3QxAvrjnUycV5I7E=;w9W9i/xLu1BaGLBvriR9gA=="
 ---

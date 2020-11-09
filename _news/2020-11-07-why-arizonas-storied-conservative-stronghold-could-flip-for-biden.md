@@ -1472,6 +1472,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
+    excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."
+    publishedDateTime: 2020-11-09T10:40:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/world/asia/china-united-states-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/world/asia/china-united-states-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/world/asia/china-united-states-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 149
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/world/09china-us-1/09china-us-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden, leading in Pennsylvania, nears victory in the state and the election."
     excerpt: "Biden Jr. took the lead over President Trump in Pennsylvania on Democrats grew increasingly confident that he would win the state and with it the presidency: The state’s 20 electoral votes would put Mr."
     publishedDateTime: 2020-11-06T17:52:00Z

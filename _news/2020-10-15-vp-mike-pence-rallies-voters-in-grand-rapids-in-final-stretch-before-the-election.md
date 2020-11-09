@@ -41,6 +41,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Pence in the Wings"
+    excerpt: "Above the fireplace in the vice-presidential residence hangs a plaque with a verse from the Bible: “For I know the plans I have for you,” declares the Lord. “Plans to prosper you and not to ..."
+    publishedDateTime: 2020-10-03T00:00:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2020/10/mike-pences-role-after-trumps-covid-19-diagnosis/616600/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616600/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616600/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/LnDzNmQCkITB9cKazWdTjO1p3HM=/0x249:2393x1596/570x321/media/img/mt/2020/10/GettyImages_1061613692/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
 
 secured: "399VuBBR928D5Gqruhua9ybIVirspA55bVeqOCC5mLq1WyCwtA7pVtPe+SyLGkBCMY/oVxN8cglmgPcj5j+JJKyZtIVwgI103NsA9sVc74LrG2HSUzLyXG4ym4n6sq80MRLJJd42xf7n7VQi1RY6XYWJIzrAN2rDyQYcj3Iy6j4dZcJoDZf3ITiJhPkg4Cj4jodRHO5yS9/8fzaKy3NMt1eHemaFRSPRICXwwbMzAZkUl12ouyw3P1cRpd7416xHRb8oH91B7ObNBpbzwf72zrpDoZ08YF6QR272D6mHbec/IpFU7W4gD18Beyu+/yw6sc45o+tpjEKxwEXMFfW+ImMAEOXHBkEddn6XbSTPwqk=;g/VsQvK+0hG12R8kDET1XQ=="
 ---

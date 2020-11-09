@@ -47,54 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Incoming Sarasota School Board member getting backlash for calling Trump supporters ‘Nazis’"
-    excerpt: "The newest member of the Sarasota County School Board is facing backlash for calling Trump supporters Nazis in a 2017 Facebook post."
-    publishedDateTime: 2020-10-20T20:07:00Z
-    webUrl: "https://www.usatoday.com/story/news/education/2020/10/19/sarasota-school-board-member-called-trump-supporters-nazis-2017/3710042001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3710042001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3710042001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/NSHT/c84afe4c-edcb-4ae9-946f-328495ddf94e-EdwardsTom_01.jpg?auto=webp&crop=4149,2334,x0,y399&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
-    excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
-    publishedDateTime: 2020-10-20T23:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5b74902142e1cc5b777140d9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Lil Wayne Shows His Support for Donald Trump After Having a 'Great Meeting' with the President"
-    excerpt: "Lil Wayne is expressing support for Donald Trump. The rapper, 38, shared a photo with Trump, 74, on Twitter Thursday, saying that they had a \"great meeting.\" Lil Wayne (né Dwayne Michael Carter Jr.) also praised the president's Platinum Plan,"
-    publishedDateTime: 2020-10-30T02:03:00Z
-    webUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/"
-    ampWebUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 63
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F29%2Flil-wayne.jpg"
-        width: 1500
-        height: 781
-        isCached: true
 
 secured: "l42QbzvwkbQZJa1OEFvChGKtPExj3Nymd1XibJlTrYGDTx6zJg64EUupbSmDVgN0LHvls0nQrBmypvBFOukacguLt+BNGIGLbtx2JbPTaFWFLS71Pn3PF8VCZw8WmG2zPTkuHJeBccGWKD+hHex7As/Jk8K6GNjw083rVmSVakgfSTDG0lwo3+UuluMQiqCpuSWXQqiHQKM2QXbLQH8M1ftMblVQhwCML7R7wNSFDghVGnj4VLuBu6jvbkn6NTd8P6V2wPR/NSA2u6Hk/1KMV5yA8vGLROuJtj9FabfDttfl6ecDgXkDzoJk8rPWIO9mytoglw/UD+kQB3FlbnaL/LLp+/tOENQ1hCnx44q3dbQ52CQGpQcKmdt079KjfyI2Y1080ncuJvEsV0m5lVMs4kScGyH8E2Le0v5j9pJpTZdDFuxgcYc17S4EP2lyROhxAdS/K8GOtQG6jsLyYJXf+lfL8hjrBWUcoFTFXT5jrvnHLBoZ/iP2TdRNIP2G4yCBlMdGjKBW3/+6rhmBlezbhg==;qYjtV6vzEIanVVEpQv6r0g=="
 ---

@@ -27,38 +27,93 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden in Pennsylvania, to visit historic Gettysburg Tuesday"
-    excerpt: "Democratic presidential nominee Joe Biden will campaign in southern Pennsylvania on Tuesday, in a state viewed as a critical battleground for next month's election."
-    publishedDateTime: 2020-10-06T15:18:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
+  - title: "Joe Biden Has 74 Percent Chance of Winning Pennsylvania, According to Bookmakers"
+    excerpt: "Biden has a 74 percent implied chance of taking the must-win state, while Trump is trailing with an implied chance of 28 per cent."
+    publishedDateTime: 2020-10-14T16:22:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7071601988862/2020/1/14c8efc4ed0991ebe7040bd1d12e25bf/v1.5/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday.jpg"
-        width: 800
-        height: 533
+      - url: "https://d.newsweek.com/en/full/1651800/joe-biden-pennsylvania.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Sixers’ Doc Rivers ‘honored’ to be quoted by Joe Biden during campaign speech in Gettysburg"
-    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
-    publishedDateTime: 2020-10-08T12:08:00Z
-    webUrl: "https://www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html"
-    ampWebUrl: "https://www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html?outputType=amp"
+  - title: "Biden takes lead in Pennsylvania and Georgia, moves closer to win"
+    excerpt: "If Democratic presidential nominee Joe Biden wins Pennsylvania, the race is over. Biden's lead is also growing in Georgia, as absentee ballots are counted. Major Garrett takes a closer look."
+    publishedDateTime: 2020-11-06T23:56:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win/"
     type: article
     provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 65
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CI2PXOSQNBGHBJQEZBHJSFHWU.jpg"
-        width: 5654
-        height: 3769
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/06/7ecae65f-0970-42d5-b0ca-e845355beb89/thumbnail/1200x630/085d5ef1de243cdcbeaa60e00584ccd1/cbsn-fusion-biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win-thumbnail-582812-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Pence tells Reading crowd the path to victory ‘runs through Pennsylvania’"
+    excerpt: "Vice President Mike Pence returned to the critical battleground state of Pennsylvania on Saturday, declaring President Donald Trump a champion of the “forgotten men and women of America” and blasting Joe Biden as a “Trojan Horse for the radical left."
+    publishedDateTime: 2020-10-17T19:32:00Z
+    webUrl: "https://www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html"
+    ampWebUrl: "https://www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 74
+    images:
+      - url: "https://www.mcall.com/resizer/b2hiFAaesVrzFrCtokD2xh0M_5M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RLJBBLSJDFRVOHOFAZPDRV7UW4.jpg"
+        width: 1200
+        height: 823
+        isCached: true
+  - title: "‘The road to victory runs right through Pennsylvania,’ VP Mike Pence tells Pa. crowd"
+    excerpt: "On a stage outside a hangar near Reading, Pence credited Trump for \"unleashing American energy,\" and having \"ended the war on coal.\""
+    publishedDateTime: 2020-10-17T21:41:00Z
+    webUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html"
+    ampWebUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RBM2JH3LDBC2HKB56RTAQ3HSEY.jpg"
+        width: 1024
+        height: 616
+        isCached: true
+  - title: "To some Pennsylvania voters, Donald Trump is a threat to democracy. To others, he’s a regular guy for the regular people"
+    excerpt: "“One thing, they’re really reviving venues,” one guy said. “When Donald Trump Jr. was here last week at the bandshell — when’s the last time anyone saw anything at the bandshel"
+    publishedDateTime: 2020-10-11T16:20:00Z
+    webUrl: "https://www.thestar.com/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 50
+    images:
+      - url: "https://images.thestar.com/MgAz5co6DApdGYXA3KsO0uMu8IA=/1200x1071/smart/filters:cb(1602622737940)/https://www.thestar.com/content/dam/thestar/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people/keenan1.jpg"
+        width: 1200
+        height: 1071
+        isCached: true
+  - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
+    publishedDateTime: 2020-10-06T16:33:00Z
+    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "v40eMBAAHtz7go6Bu1xr7PvqIgwaEGELBQg07CYJt3lbEzVbpEW3Co0Ta0zWG2nBA8mH/FtLx1A1HNBpNFMbwr+upPPTW3zrjFfQJ7L/mXEotpSe3oi52EuMJoHpn4bCW35btcTsUAdbCP0IiTZegGKWiG0zG58AJTPDPlXUdsgQgR222P42R1pdRUe8DKXdBsOoJsRAWC5kRHxVu+3WWEALc/1hrf2edHfwIFNS3X8Qu/7MIsiLsLGx/pWrj4msNkKwrOm5hZrRNipw0IfY6w+H2MQWvk2B6KVj77fHKOoSCpAkcYXyPXbZlmfsg5fMxlQ8oFDM0SWoL4JTd3bQfwPSw5rVNIuiHULeslW903WHIpNPWt3cpCGCs4QDCqEnzUI+hEo2bscYdCFVaiISQdaHTDzCssdZYxuWotWe5XN2phq2lihoUrI/aUvbUQCON+QONScNSj+xl0MVHVENHa+Hg2gan7wJtTRsef4LNFg25LrprdaMtT6JzXhN4lNjgdHnJUCdTJEo1Xm3zeD6pg==;V0ewxqMWjyhWqp+FyGQfUg=="
 ---

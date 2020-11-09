@@ -27,69 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump keeps calling $750 tax payment a 'filing fee.' Experts say there's no such thing"
-    excerpt: "President Donald Trump keeps bringing up what he calls a $750 filing fee for his federal income tax returns. What's that all about?"
-    publishedDateTime: 2020-10-25T22:12:00Z
-    webUrl: "https://www.usatoday.com/story/money/columnist/2020/10/23/president-donald-trump-keeps-bringing-up-what-he-calls-750-filing-fee-his-federal-income-tax-returns/6010994002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6010994002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6010994002"
+  - title: "'They Gonna Do Him Dirty': 50 Cent Says Donald Trump Is Going to Jail"
+    excerpt: "\"You ever herd [sic] a president say stop counting the f**king votes. LOL SMH,\" the rapper tweeted on Thursday."
+    publishedDateTime: 2020-11-05T18:35:00Z
+    webUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225"
+    ampWebUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1665432/50-cent-says-trumps-going-jail.jpg"
+        width: 3256
+        height: 2163
+        isCached: true
+  - title: "'The 900-pound gorilla when it comes to the Republican Party': GOP wrestles with Trump defeat"
+    excerpt: "GOP presidential nominee said Trump is likely to cast a long shadow over the Republican Party, even after he is out of office."
+    publishedDateTime: 2020-11-08T16:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/mitt-romney-republicans-wrestle-response-trumps-defeat/6213267002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6213267002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6213267002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 117
+    quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/fdfcf507-c36c-40fd-913b-bba926a51f63-Trump_Debate_Election.jpg?auto=webp&crop=2570,1446,x75,y48&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Incoming Sarasota School Board member getting backlash for calling Trump supporters ‘Nazis’"
-    excerpt: "The newest member of the Sarasota County School Board is facing backlash for calling Trump supporters Nazis in a 2017 Facebook post."
-    publishedDateTime: 2020-10-20T20:07:00Z
-    webUrl: "https://www.usatoday.com/story/news/education/2020/10/19/sarasota-school-board-member-called-trump-supporters-nazis-2017/3710042001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3710042001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3710042001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/NSHT/c84afe4c-edcb-4ae9-946f-328495ddf94e-EdwardsTom_01.jpg?auto=webp&crop=4149,2334,x0,y399&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'"
-    excerpt: "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president."
-    publishedDateTime: 2020-10-18T18:14:00Z
-    webUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5f8c7e90c21cfb0019468a88?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
-    excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
-    publishedDateTime: 2020-10-20T23:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5b74902142e1cc5b777140d9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "fbWl4XLaf9Ss5BgCC6d8YALiYoGnYlMA/trCMocmitHgPkF5hr2YccUWmu1qfk6NpYiAIgkwxRXEc739wkvQDgwyZJnus633sKCUbsdyTzgmYL2CSLT/4btSmazJxdfrkSIPW4er5hjrMPV/L73Jd18tZxaPR1atpWBQELZjai9hqF5sCjB9sVH4H6K+odMNadCalb8wCVqEyqGX6zKow1Wm341bhwMOLsTgIursbXfKsdcGTUBCFNqxCEtlifqv4f0Ryj8WSvJV//W4fnPz92pUsj8zrxmrTGtkYYyhVbLRyJC46RriJvKYvg/PxczKwVkCktaAo8fUsbUf8pxp+2Ul86C3axjSAaXY68VOe/M=;+Dk8xIx7q4QEUZghcTX6qA=="

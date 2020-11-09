@@ -75,36 +75,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Florida man says he was fired for revealing company warned of layoffs if Biden wins"
-    excerpt: "A worker in central Florida was allegedly fired for revealing a letter from his boss to company employees warning of layoffs if Democratic presidential candidate Joe Biden wins the election."
-    publishedDateTime: 2020-10-23T23:27:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/522541-florida-man-says-he-was-fired-for-revealing-company-warned-of-layoffs-if"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/522541-florida-man-says-he-was-fired-for-revealing-company-warned-of-layoffs-if?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/522541-florida-man-says-he-was-fired-for-revealing-company-warned-of-layoffs-if?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 119
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenyardsign_092220getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden hold campaign event in Pennsylvania..."
-    excerpt: "Watch \"Joe Biden hold campaign event in Pittsburgh, Pennsylvania\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-03T01:53:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201103013411-joe-biden-hold-campaign-event-in-pittsburgh-pennsylvania/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/03/story_07518181_1604367844.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Lady Gaga Reflects on Taylor Kinney Engagement at Joe Biden Rally"
     excerpt: "Lady Gaga has a \"new Pennsylvania guy,\" but that doesn't mean she's forgotten about the old one. The \"Shallow\" singer reflected on her relationship with ex-fiance Taylor Kinney while performing at Joe Biden 's final drive-in campaign rally in Pittsburgh,"
     publishedDateTime: 2020-11-04T01:07:00Z
@@ -120,6 +90,54 @@ related:
       - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/gettyimages-1229426493.jpg?itok=7LDzhd6p"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Video altered to make it look like Joe Biden greeted wrong state at rally"
+    excerpt: "A video with over a million views appears to show him saying 'Hello, Minnesota' to a Florida crowd. Turns out he was indeed in Minnesota, as his coat would suggest."
+    publishedDateTime: 2020-11-02T06:25:00Z
+    webUrl: "https://www.fox43.com/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
+    type: article
+    provider:
+      name: FOX43
+      domain: fox43.com
+    quality: 74
+    images:
+      - url: "https://media.tegna-media.com/assets/CCT/images/b6d0ea69-d980-4ee8-81fb-00b955f22b88/b6d0ea69-d980-4ee8-81fb-00b955f22b88_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Why Florida’s Treasure Coast could back Joe Biden but elect a Republican to Congress"
+    excerpt: "While Florida’s Treasure Coast backed Donald Trump in 2016, four years later Joe Biden has a chance to flip it. But the partisan dynamics at the top of the ticket in what was once Florida’s most competitive congressional district aren’t likely to topple incumbent Republican Rep."
+    publishedDateTime: 2020-10-23T19:27:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246650928.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246650928.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246650928.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c7732d23-e2ae-4dbb-b1fc-f59e3e74be61/f2e1bfc2-be57-4900-b234-0d0dbced69fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Obama tells south Florida not to fall for 'okey-doke:' 'Joe Biden is not a socialist'"
+    excerpt: "Former President Barack Obama told Floridians on Saturday not to fall for the “okey-doke” from Republicans who say that Joseph R. Biden is a secret communist or socialist."
+    publishedDateTime: 2020-10-24T21:19:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/24/Election_2020_Obama_89524.jpg-72e00_c0-220-5280-3300_s1200x700.jpg?932acde88473437c7d8669264c8035b9d1f45860"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "Em1Ys1qpEKn5tFcXA8sPJeBLbtKFXEDMV/11woxMyM01tID3HYv5pbFH+VJ8r1R9OhJnYPwOwu3nFpxU1BV325JxrcpWJlLQDUHZCHsmKIiHbYz0jIgG7b5yprrctrMQoyW9CVRQQPnMPlnaxA765On4hWp+N5dlLY6sP3swt4BeBcuG7ojAc4fcffBf8zWNx0AZGpLk7iIXIeNNtHfQ8cPz4j21As28Nv22vnWABrHpMSzuS/edxZLVmhVUxnb02QD12ZLeuqf30klgObu3AMYbqBeLE4lPDrgGDcxY6zQe6FwOMrXR/ud1hpIzfBb5EIeT5IgpBsE7n9OD3DXYPSrF7XI/YIi6NOixzC1yNSY=;3ORg7AGItkux4h7oAMX9fw=="

@@ -27,218 +27,224 @@ images:
     isCached: true
 
 related:
-  - title: "Biden: Faith shouldn't be a subject in Barrett confirmation fight"
-    excerpt: "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings."
-    publishedDateTime: 2020-10-12T17:53:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp"
+  - title: "Kamala Harris questions Supreme Court nominee: US election news"
+    excerpt: "Donald Trump began his rally in Johnstown, Pennsylvania, a bit late but he had a good excuse: He was watching Kamala Harris question his Supreme Court nominee Amy Coney Barrett. “That’s ..."
+    publishedDateTime: 2020-10-13T14:49:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden says he's 'not a fan' of court packing as SCOTUS hearings continue"
-    excerpt: "As the Senate confirmation hearings for Supreme Court nominee Amy Coney Barrett continue, former Vice President Joe Biden says he is \"not a fan\" of court packing."
-    publishedDateTime: 2020-10-13T21:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 122
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-ap-ml-201013_1602603114866_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump-Biden town halls, Amy Coney Barrett hearings, Medicare open enrollment begins: 5 things to know Thursday"
-    excerpt: "NBC and ABC host dueling town halls with Trump and Biden, final day of hearings in Amy Coney Barrett's nomination and more things to know Thursday."
-    publishedDateTime: 2020-10-15T08:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/15/trump-biden-amy-coney-barrett-medicare-tony-awards-nominations/5937774002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5937774002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937774002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20287836163811.jpg?resize=1200%2C630"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Senate hearing for Trump's Supreme Court nominee Amy Coney Barrett kicks off Monday"
-    excerpt: "The high-stakes confirmation hearing for Judge Amy Coney Barrett, President Donald Trump’s Supreme Court nominee, gets underway Monday in the Senate Judiciary Committee."
-    publishedDateTime: 2020-10-12T09:58:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=73527557"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=73527557"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=73527557"
+  - title: "WATCH: Sen. Kamala Harris questions Supreme Court nominee Amy Coney Barrett on voter suppression"
+    excerpt: "The Supreme Court nominee has refused in two days of testimony in her confirmation hearing to opine on many topics, including whether a president can unilaterally delay the election."
+    publishedDateTime: 2020-10-15T00:28:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
+      name: PBS
+      domain: pbs.org
+    quality: 112
     images:
-      - url: "https://s.abcnews.com/images/Politics/amy-coney-barrett-confirmation-01-ap-llr-201009_1602276556016_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-12T172504Z_1286218462_RC25HJ95J0MV_RTRMADP_3_USA-COURT-BARRETT1-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Biden says Barrett's Catholic faith shouldn't be factor in her confirmation hearings"
-    excerpt: "Biden expressed the same sentiment as Democratic senators who are so far focusing on the threat they feel Barrett's confirmation to the Supreme Court would pose to Obamacare."
-    publishedDateTime: 2020-10-12T21:12:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-amy-coney-barrett-confirmation-hearings/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-amy-coney-barrett-confirmation-hearings/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-amy-coney-barrett-confirmation-hearings/"
+  - title: "Senator Kamala Harris: Republicans trying to \"jam through\" Amy Coney Barrett nomination"
+    excerpt: "At confirmation hearings for Supreme Court nominee Amy Coney Barrett, Senator Kamala Harris accused her Republican colleagues of attempting to \"jam through\" approval before Election Day, and warned that the Affordable Care Act and numerous rights Americans rely on are at risk."
+    publishedDateTime: 2020-10-12T17:40:00Z
+    webUrl: "https://www.cbsnews.com/video/senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 118
+    quality: 97
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/498f145a-b39f-4e4c-8082-5a8fc675accc/thumbnail/1200x630g2/a226aaf6d83d6cbf0a3c183f724b6c40/gettyimages-1229009797.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/2d5e0841-796e-493e-9f04-f3bf44d13c2c/thumbnail/1200x630/819834dc9a7096ad7a6913e7d8141769/cbsn-fusion-senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination-thumbnail-564550-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Senate to begin confirmation hearings for Trump's Supreme Court nominee Amy Coney Barrett"
-    excerpt: "\"Courts are not designed to solve every problem or right every wrong in our public life,\" Barrett says in her planned remarks."
-    publishedDateTime: 2020-10-12T11:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/12/amy-coney-barrett-hearing-updates-trumps-nominee-face-senators/5937558002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5937558002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937558002"
+  - title: "Democrats must ‘leave no doubt on election day’ Kamala Harris' husband says in Michigan"
+    excerpt: "Michigan Democrats urged voters to get involved in the effort to elect Joe Biden during campaign events across the state Monday. Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris,"
+    publishedDateTime: 2020-10-12T23:36:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: MLive
+      domain: mlive.com
+    quality: 82
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UUAFEIVJXRE23JICAW4FRWYUUI.JPG"
+        width: 1300
+        height: 794
         isCached: true
-  - title: "Joe Biden declines to say whether he will expand the size of the Supreme Court if he wins"
-    excerpt: "The Democratic presidential candidate said whatever he decides to do will depend on the Senate's handling of Judge Amy Coney Barrett's confirmation."
-    publishedDateTime: 2020-10-16T22:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/town-hall-joe-biden-vague-court-packing-says-depends-senate/3672724001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3672724001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3672724001"
+  - title: "Kamala Harris Grills Supreme Court Nominee Amy Coney Barrett Over Obamacare"
+    excerpt: "Amy Coney Barrett faced tough questions from Kamala Harris on how she would rule on Obamacare SCOTUS case but avoided giving a straight answer several times"
+    publishedDateTime: 2020-10-14T19:30:00Z
+    webUrl: "https://www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/"
+    ampWebUrl: "https://www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 73
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/7e6fa779-ec61-40aa-bee2-2cf20a135ca7-AP20290022134268.jpg?auto=webp&crop=3732,2099,x674,y914&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/05/4H3A0250-e1558377946157.jpg"
+        width: 1000
+        height: 750
         isCached: true
-  - title: "Joe Biden Says Amy Coney Barrett Appointment 'Not Constitutional' as He Evades Court Packing Question Again"
-    excerpt: "\"Look, the only court packing is going on right now. It's going on with the Republicans packing the court now,\" Joe Biden said."
-    publishedDateTime: 2020-10-11T02:07:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
+  - title: "Pressure on Kamala Harris, Dianne Feinstein at Amy Coney Barrett’s confirmation hearing"
+    excerpt: "When Judge Amy Coney Barrett is seated Monday for her Supreme Court confirmation hearing, California Sens. Dianne Feinstein and Kamala Harris will be in focus and facing different pressures in one of the biggest moments of each of their careers."
+    publishedDateTime: 2020-10-11T11:12:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 107
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 67
     images:
-      - url: "https://d.newsweek.com/en/full/1649258/joe-biden.jpg"
-        width: 2500
-        height: 1571
+      - url: "https://s.hdnux.com/photos/01/14/50/24/20088119/5/375x250.jpg"
+        width: 367
+        height: 250
         isCached: true
-  - title: "Joe Biden addresses idea of Supreme Court packing: 'I'm not a fan'"
-    excerpt: "Biden argued that the focus should remain on Republicans’ efforts to push through Amy Coney Barrett as a replacement for Ruth Bader Ginsburg before the election."
-    publishedDateTime: 2020-10-13T20:44:00Z
-    webUrl: "https://www.king5.com/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
-    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
+  - title: "Watch: Trail Blazers’ CJ McCollum interviews VP nominee Kamala Harris during Remaking America"
+    excerpt: "The Blazers' starting shooting guard interviewed the democratic candidate for Vice President in his new show, Remaking America."
+    publishedDateTime: 2020-10-20T20:07:00Z
+    webUrl: "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html"
+    ampWebUrl: "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp"
     type: article
     provider:
-      name: KING5
-      domain: king5.com
-    quality: 75
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 64
     images:
-      - url: "https://media.king5.com/assets/CCT/images/3480a00c-67c9-4add-bf94-9afc4fb2e924/3480a00c-67c9-4add-bf94-9afc4fb2e924_750x422.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OIANM34RPNFNJD6AY4FG5OBJQM.JPG"
+        width: 2968
+        height: 2220
+        isCached: true
+  - title: "Amy Coney Barrett Refuses To Tell Kamala Harris If She Thinks Black Voter Discrimination Exists"
+    excerpt: "No one doubts that.” It was in that context that Harris simply asked Barrett if she agrees with that opinion. Kamala Harris is describing the gutting of the VRA. Barrett looks like she is ..."
+    publishedDateTime: 2020-10-13T11:18:00Z
+    webUrl: "https://newsone.com/4030470/kamala-harris-amy-coney-barrett-supreme-court-confirmation-hearing/"
+    ampWebUrl: "https://newsone.com/4030470/kamala-harris-amy-coney-barrett-supreme-court-confirmation-hearing/amp/"
+    cdnAmpWebUrl: "https://newsone-com.cdn.ampproject.org/c/s/newsone.com/4030470/kamala-harris-amy-coney-barrett-supreme-court-confirmation-hearing/amp/"
+    type: article
+    provider:
+      name: NewsOne
+      domain: newsone.com
+    quality: 63
+    images:
+      - url: "https://ionenewsone.files.wordpress.com/2020/10/16026347644687.jpg?quality=80&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket?"
+    excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."
+    publishedDateTime: 2020-10-15T20:25:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246481970.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246481970.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246481970.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 62
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/70f7fa99-4b85-46e4-837e-1a7993be9522/60c69175-10cb-490d-936b-43105ffe89f5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris: Judge Coney Barrett's faith shouldn't matter in Supreme Court confirmation hearings"
+    excerpt: "Democratic Vice Presidential nominee Kamala Harris says Judge Amy Coney Barrett’s faith should not be an issue at Coney Barrett’s confirmation hearings this week. “One’s faith should never be the basis of supporting or rejecting a nominee."
+    publishedDateTime: 2020-10-12T02:42:00Z
+    webUrl: "https://www.12news.com/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 61
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/43f8472a-4aa3-44d2-89fa-c77c0c174cab/43f8472a-4aa3-44d2-89fa-c77c0c174cab_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "Joe Biden: I'm 'not a fan' of court-packing"
-    excerpt: "Democratic presidential nominee Joseph R. Biden partially ended his stonewalling on Supreme Court-packing this week, saying he’s “not a fan” of the practice that liberals are calling for as payback for confirming Judge Amy Coney Barrett for the Supreme Court."
-    publishedDateTime: 2020-10-14T02:19:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
+  - title: "Trump Court Nominee Fends Off Questions On Abortion, Health Care"
+    excerpt: "US President Donald Trump's Supreme Court nominee Amy Coney Barrett told lawmakers Tuesday she would put personal and religious beliefs aside when deciding landmark cases but stopped short of revealing how she would rule on hot-button issues like abortion."
+    publishedDateTime: 2020-10-14T03:27:00Z
+    webUrl: "https://www.ibtimes.com/trump-court-nominee-fends-questions-abortion-health-care-3060657"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2019/03/15/Supreme_Court_37806.jpg-5e141_c0-89-5568-3337_s1200x700.jpg?0c80d9a17edda4869c69b2190de84c73868e539b"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Joe Biden: Senators should not consider Amy Coney Barrett's faith in confirmation process"
-    excerpt: "Democratic presidential nominee Joseph R. Biden said Monday that Judge Amy Coney Barrett’s Catholic faith should not be a consideration in Judge Barrett’s confirmation hearings for the U.S. Supreme Court."
-    publishedDateTime: 2020-10-12T15:30:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 66
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/Election_2020_Biden_96935.jpg-16fc0_c0-0-5926-3456_s1200x700.jpg?e885779a9796061107f5b31234b49be1eeead7a2"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Joe Biden, Clarence Thomas, and Amy Coney Barrett with Angela Wright"
-    excerpt: "Angela Wright confides in Mary C. Curtis about former Vice President Joseph Biden, #MeToo and the inner workings of a contentious Supreme Court battle."
-    publishedDateTime: 2020-10-08T13:15:00Z
-    webUrl: "https://www.rollcall.com/podcasts/equal-time/joe-biden-clarence-thomas-and-amy-coney-barrett-with-angela-wright/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/BARRETT_004_10012020-1.jpg?resize=1200,600"
-        width: 1200
-        height: 600
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/judge-amy-coney-barrett-a-practicing-catholic-is.jpg"
+        width: 1024
+        height: 681
         isCached: true
-  - title: "Jim Carrey’s Biden impression is a below-average Joe"
-    excerpt: "It’s a misguided choice that makes me think more about Carrey and his style than about Biden while I’m watching."
-    publishedDateTime: 2020-10-19T21:14:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/?outputType=amp"
+  - title: "Don Lemon Fires Back at Sen. Perdue, Offers Up Remedial Visual Aid for Pronouncing Kamala Harris’ Name Correctly"
+    excerpt: "CNN's Don Lemon fires back at Sen. David Perdue, offers up grade school-level visual aid for pronouncing Kamala Harris' name correctly"
+    publishedDateTime: 2020-10-17T03:33:00Z
+    webUrl: "https://www.mediaite.com/election-2020/don-lemon-fires-back-at-sen-perdue-offers-up-remedial-visual-aid-for-pronouncing-kamala-harris-name-correctly/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/don-lemon-fires-back-at-sen-perdue-offers-up-remedial-visual-aid-for-pronouncing-kamala-harris-name-correctly/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/don-lemon-fires-back-at-sen-perdue-offers-up-remedial-visual-aid-for-pronouncing-kamala-harris-name-correctly/amp/"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
-  - title: "If Amy Coney Barrett Has To Apologize for Saying Sexual 'Preference,' Does Joe Biden?"
-    excerpt: "Sens. Mazie Hirono and Cory Booker both criticized the Supreme Court nominee for saying \"preference\" instead of \"orientation.\""
-    publishedDateTime: 2020-10-14T02:45:00Z
-    webUrl: "https://reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/"
-    ampWebUrl: "https://reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/?amp"
+      name: Mediaite
+      domain: mediaite.com
+    quality: 54
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Don-Lemons-Offers-Visual-Aid-for-Sen.-Perdue-to-Pronounce-Kamala-Harris-Name-Correctly.jpg"
+        width: 946
+        height: 532
+        isCached: true
+  - title: "David Perdue's mispronunciation of Kamala Harris' name immediately backfires"
+    excerpt: "David Perdue mispronounced the name of vice presidential nominee Sen. Kamala Harris — a colleague he has served with on the Senate Budget Committee for almost four years — Perdue's Democratic opponent Jon Ossoff raised over $1 million online after circulating the clip of Perdue speaking at a Trump's re-election Friday night."
+    publishedDateTime: 2020-10-17T19:41:00Z
+    webUrl: "https://www.chron.com/politics/article/David-Perdue-Kamala-Harris-name-Jon-Ossoff-video-15655519.php"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
-    quality: 48
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/61/11/20124283/12/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "CJ McCollum interviews Kamala Harris, Jusuf Nurkic recruits Danilo Gallinari, Pacers hire new coach, burning offseason questions: NBA news and notes"
+    excerpt: "The Portland Trail Blazers' starting shooting guard, who has aspirations of moving into broadcasting after his NBA career, will interview Sen. Kamala Harris (D-Calif.), the Democratic nominee for Vice President,"
+    publishedDateTime: 2020-10-20T19:45:00Z
+    webUrl: "https://www.oregonlive.com/blazers/2020/10/cj-mccollum-interviews-kamala-harris-jusuf-nurkic-recruits-danilo-gallinari-pacers-hire-new-coach-burning-offseason-questions-nba-news-and-notes.html"
+    ampWebUrl: "https://www.oregonlive.com/blazers/2020/10/cj-mccollum-interviews-kamala-harris-jusuf-nurkic-recruits-danilo-gallinari-pacers-hire-new-coach-burning-offseason-questions-nba-news-and-notes.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/blazers/2020/10/cj-mccollum-interviews-kamala-harris-jusuf-nurkic-recruits-danilo-gallinari-pacers-hire-new-coach-burning-offseason-questions-nba-news-and-notes.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 36
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZT2S4LWM6NC6XBJKQN65JSNMDQ.JPG"
+        width: 3629
+        height: 2419
+        isCached: true
 
 secured: "UjnzEeFMwkw9YY8WlVIoaYicXOf4pCxO+346qKikWOg+W2G5SmS3cnYhJPipi9VW9LNmucbJcbcdl4+lw7W8uwMQcMPtZPZ3WitASOtTQlwQkeXCBzXZc4MK/YN5nril/Ar3Ur4GOf4Gedj2pPo27ZMysltnVntyyuoNesvMgMEA6J1+r6r5fGUKEnilpDshpf2AylQJGRT4rRVMPYN/JoOYTUi+iBCStO1c87fH8s7hkvf96eDH6koosUfJibyZK44OiBXTDZVlez7+9XG7nsiCqRYBiIIx5xWENbLHRYUSjCHVnuUXwHYwsFz2klDpSsaZHsp0HYWTfXuHIGZVJTRmCOBE2WFFlU+tBYpIJqU=;iDd1Ias+jTMHAeSjjB2dnw=="
 ---

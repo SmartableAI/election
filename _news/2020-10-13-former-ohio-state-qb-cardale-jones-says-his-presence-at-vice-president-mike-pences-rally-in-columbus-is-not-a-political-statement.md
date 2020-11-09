@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Mike Pence Cancels Trip To Indiana To Vote..."
+    excerpt: "Watch \"VP Mike Pence Cancels Trip To Indiana To Vote\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-10T02:58:00Z
+    webUrl: "https://www.cbsnews.com/live/cbsn-local-chi/video/20201009213026-vp-mike-pence-cancels-trip-to-indiana-to-vote/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/09/story_07196211_1602279132.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Mike Pence makes campaign stop in Zanesville"
     excerpt: "ZANESVILLE, Ohio — Vice President Mike Pence made a campaign stop in Zanesville on Wednesday where the Trump campaign won handily back in 2016 capturing 65% of the vote. With less than 50 days until the November election, Pence’s speech focused on ..."
     publishedDateTime: 2020-10-02T05:46:00Z

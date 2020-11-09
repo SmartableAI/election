@@ -95,21 +95,37 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "A person who has flown with Biden in recent days tests positive for COVID-19"
-    excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
-    publishedDateTime: 2020-10-15T20:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
+  - title: "The best case against a Biden presidency: Him"
+    excerpt: "When you take a clear-eyed look at Biden, there is no meaningful case for his candidacy. His biggest argument is that he is the “good guy” in this election, which he describes as a “battle for the soul of the nation."
+    publishedDateTime: 2020-10-21T16:45:00Z
+    webUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him"
+    ampWebUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 122
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/joe-biden-florida-flight-boarding-03-ap-jc-201015_1602794730255_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden endorses Democratic challenger in Texas House district"
+    excerpt: "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas."
+    publishedDateTime: 2020-10-21T19:20:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "George Floyd's sister says Biden is 'the change that we need' in new campaign ad"
     excerpt: "The Democratic presidential nominee released the ad on what would have been George Floyd's 47th birthday, in an appeal to Black voters."
@@ -126,22 +142,6 @@ related:
       - url: "https://i.insider.com/5f871fa52a400c0019deba3a?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
-        isCached: true
-  - title: "Aviation staffer who has flown with Biden in recent days tests positive for COVID-19"
-    excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
-    publishedDateTime: 2020-10-15T23:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/US/joe-biden-florida-flight-boarding-03-ap-jc-201015_1602794730255_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Georgetown University report finds Joe Biden's free public college plan would pay off within 10 years"
     excerpt: "To address such concerns, Democratic nominees former Vice President Joe Biden and Senator Kamala Harris have proposed a lengthy education plan that includes an eye-catching proposal: tuition-free public college for all families with incomes below $125,"
@@ -172,20 +172,6 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07294060_1602880564.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Joe Biden campaigns in Pennsylvania, calls for national unity at Gettysburg"
-    excerpt: "Former Vice President Joe Biden made a campaign stop in the battleground state of Pennsylvania Tuesday and called for national unity and healing. CBS News political correspondent Ed O'Keefe joined CBSN's Elaine Quijano to discuss."
-    publishedDateTime: 2020-10-07T13:42:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 103
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/e09696b0-d773-4f59-8cdb-a9f02a49b57f/thumbnail/1200x630/a99e3f72fd1556e17b867982d953ea7a/cbsn-fusion-joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg-thumbnail-561204-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Insiders at the NY Post are griping about the Hunter Biden coverage, highlighting a political divide in the tabloid newsroom"
     excerpt: "The publication of the story so close to the election quickly stirred questions and conspiracy theories among some Post rank-and-file."
@@ -249,21 +235,21 @@ related:
         width: 3000
         height: 2187
         isCached: true
-  - title: "Who Is Ashley Biden? Here’s Everything You Need to Know About Joe Biden’s Youngest Daughter"
-    excerpt: "Ashley Biden was born on June 8, 1981. Ashley's older brothers—Beau and Hunter Biden—were born to Joe and his first wife, Neilia. The couple also had a daughter, named Naomi. In 1972 ..."
-    publishedDateTime: 2020-10-21T17:15:00Z
-    webUrl: "https://www.glamour.com/story/who-is-ashley-biden-joe-biden-daughter"
-    ampWebUrl: "https://www.glamour.com/story/who-is-ashley-biden-joe-biden-daughter/amp"
-    cdnAmpWebUrl: "https://www-glamour-com.cdn.ampproject.org/c/s/www.glamour.com/story/who-is-ashley-biden-joe-biden-daughter/amp"
+  - title: "Joe Biden takes question on milkshake flavors, scurries away after Hunter Biden inquiry"
+    excerpt: "Democratic presidential nominee Joe Biden was ready and willing to talk about his favorite milkshake flavors this weekend until the subject turned to his son Hunter."
+    publishedDateTime: 2020-10-19T19:13:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
     type: article
     provider:
-      name: Glamour
-      domain: glamour.com
-    quality: 65
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
     images:
-      - url: "https://media.glamour.com/photos/5f906c0f19d32117ccce71f2/master/pass/l_s.jpg"
-        width: 3200
-        height: 1800
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/Election_2020_Biden_70752.jpg-301da_c0-0-5329-3108_s1200x700.jpg?5e87b37174222647cce88ce9da594e5f12880f5c"
+        width: 1200
+        height: 700
         isCached: true
   - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
     excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
@@ -279,6 +265,31 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Twitter erupts over Sam Elliott TV ad for Joe Biden during World Series"
+    excerpt: "Actor Sam Elliott lent his voice to a Joe Biden campaign video that aired during the World Series Tuesday and became a Twitter magnet. See the ad and responses to"
+    publishedDateTime: 2020-10-21T03:45:00Z
+    webUrl: "https://tulsaworld.com/article_0346b718-cd6f-56a1-b748-63e502647644.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/34/0346b718-cd6f-56a1-b748-63e502647644/5f8facfc3043c.preview.jpg?crop=1763%2C992%2C0%2C92&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Charlie Baker Reportedly Under Consideration For Potential Joe Biden Cabinet Position"
+    excerpt: "Massachusetts Republican Gov. Charlie Baker is reportedly being considered for a spot in a potential Joe Biden cabinet."
+    publishedDateTime: 2020-10-21T01:11:00Z
+    webUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/"
+    ampWebUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
+    type: article
+    provider:
+      name: CBS Boston
+      domain: cbslocal.com
+    quality: 48
   - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
     excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
     publishedDateTime: 2020-10-20T00:32:00Z
@@ -290,15 +301,6 @@ related:
       name: The Arizona Republic
       domain: azcentral.com
     quality: 41
-  - title: "Joe Biden Campaigns in Durham, NC"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham, NC, where early voting is already underway. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham,"
-    publishedDateTime: 2020-10-17T11:10:00Z
-    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-nc"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "6/nLa4IJ03zSa5HZdj06F0qSd4FJ13I1CVreWkFjpu1nOoDNwJpWBnj85Ie44E5nwjsLPn0AUYsfWLYiHyND+d/TbEHZNdQmIaqFVz5M9YfK8k+1SSuGeoecgZl09oyOc2niccLiK84ACd2ChEawsIqC9BxKH5cAFumMFfNaJ6NP/XiQwlkg6LbdJuYLsn9gfWT0OLQduQKoBqOM0qJzHcKfLASGPMs/mQATKlvCWri+Uf2n8H+CDaDAcnq3tqLhBCGn/M+VNCFPbQdtG9GnEKGoKrg2Djx2kv9nbIg31cXjTRJDOVm+3CbiAF/feRfKJjuFaV/Z4Y74Vi+7qf8LX3Bt+epmd6rsTVJnJy5gLnC/U6khpRzwFe4q5qXsvCnpSiuAb7qn6Esp/SxOOqR1ghaQZn4m3sWldD6SMGHqmTexwf07Ok2qeH54hjNxKWIBRaT/fO+Z/ppn9Hj3E04IgBMigMrxl/1AXsPfw2ewADWVaAMZBiTNPxvXOynuugVaxXzgPb7m36VJcgSDsttz/A==;y72sfy0zRVWjpCTqw6FPoA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fa
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp"
 type: article
 quality: 104
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
+    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
+    publishedDateTime: 2020-10-16T13:14:00Z
+    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 47
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "AA4vP4T1H2uKWHSPEmYwfnHGtow3ZRaqM29CvleAhsgiFQwlipDgazNiBEZyQCEGQexCt2DoSGTxtnPF2TT4MqM9g2/fX0dHLnGF1qvKRoJjxwN3kDbSCd1eeTC77X+K+soYICmpT+NOnYrziSQFSEEJwLxLwXd5l0Yw0liLyGxd7hPjUbJlryzaBCmKd0VAUdw8KVcRdAgIWt2AORTqjVzLefwypxyPEZNO0wIi/DK+leDQxap3FGyZ+1mAeJFt4NuapNsImE3Nc42XimeSgrbuZTpNkMSothDsFDUCCiynYbvEeu/K57yQXJIFkHcDP4XV+5fmohhIAru9PnJyP3H8zEh4huau0Dr1bAm4XD3PZK7XwSZig8urc9ZFLOiqQdeDiWRdd5cFnGeUNZSPkEeOBzF+7Ao+Bzi+CxF1CvekNOYlh3s6RTN7+LAnKUZM6u1uGMO811oCwHwOjWrapEtP51gdHfhwfe3ICXZyF4gNBIE6dwqtzghDHKn6Hp77TYq+PkWngEgJiEFkspgFOA==;GodyKKC1xh+ecwUyZ1NMNQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/523190-biden-addresses-violenc
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523190-biden-addresses-violence-in-philadelphia-no-excuse-for-the-looting?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -77,6 +77,17 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
+    excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."
+    publishedDateTime: 2020-10-22T08:50:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 47
 
 secured: "QwCilPiw80wUQpSXKz5DHwdrd4oAFnTbQPb6aK5lj1sUAkGORAs2de67TvKomjfjN2yMVXARKRj8lJm1TDthrfZivVSSz7l+HJPMORpvNGckKP9xkml4vpvlMRgY5bUcOn80rKtQdPyx87LjsbTyl1iCaTf2ORI+W/excuOQoEqCmn3NVQam0ehruQz9zv0/rzpAVUMpgAjh85o10G+++iS1oCpJP/GCM2kxk2CJBG8Q2O82w8fW9mClZeWRztHBCg6GlkyO/vW+mr+tBwzYLBRo+BEPNcAaFKqTQbyd0qWR27ZM34DyvddTi2lhoKqtHmmOViwkmSrx2KxdMBZVTceWkwI5oIaYM2TBEkqOVWXsojZaVNMhYYDzeqXHXOkTl5cztT0qYCPs2sCTxlwwy23R8px7mp4nXILtXRMiutZPpJJzaJdPT17iiTZoERP94uwFimeBgg43U7pq3kp6ci0NDRekGe/d7W5d7l0WiMkatmsRm5+GR0VkO/RaXr0qC+ixN+Uk5JwVtZpwsN7GXw==;W0ALdWUxxVPeF7RY0I8ATA=="
 ---

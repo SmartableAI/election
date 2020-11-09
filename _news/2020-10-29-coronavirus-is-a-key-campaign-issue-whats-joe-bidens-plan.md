@@ -7,8 +7,8 @@ originalUrl: "https://www.npr.org/sections/health-shots/2020/10/28/928392673/cor
 webUrl: "https://www.npr.org/sections/health-shots/2020/10/28/928392673/coronavirus-is-a-key-campaign-issue-whats-joe-biden-s-plan"
 type: article
 quality: 105
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: NPR
@@ -29,21 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally"
-    excerpt: "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ..."
-    publishedDateTime: 2020-10-21T19:58:00Z
-    webUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/"
-    ampWebUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
+  - title: "Analysis: Biden would face uncertain path to detente with wary Iran"
+    excerpt: "Joe Biden plans to scrap what he calls the \"dangerous failure\" of President Donald Trump's maximum pressure policy on Iran should he win the U.S. election, but after years of confrontation his diplomacy-first approach to a historic Middle East foe could prove an"
+    publishedDateTime: 2020-10-28T16:37:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-iran-analysis-int/analysis-biden-would-face-uncertain-path-to-detente-with-wary-iran-idUSKBN27D1E2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D1E2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D1E2"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 87
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems01.jpg?w=1024&h=755"
-        width: 1024
-        height: 755
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539111804&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R0RX"
+        width: 789
+        height: 545
+        isCached: true
+  - title: "The US is out of the Paris climate change agreement; if Biden wins, that could change"
+    excerpt: "The U.S. formally dropped out of the Paris climate accord, fulfilling a vow President Trump made years ago. A Joe Biden win could change that."
+    publishedDateTime: 2020-11-04T23:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/04/paris-agreement-trump-us-officially-leaves-climate-change-accord/6158177002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6158177002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158177002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/78dbb2b2-1498-479d-b608-382e2b11e905-AFP_AFP_8QQ2XP.jpg?auto=webp&crop=3972,2235,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Wisconsin and Michigan could deliver Biden the presidency"
+    excerpt: "The Washington Post’s Philip Bump analyzes how Democratic presidential nominee Joe Biden flipped key states blue in 2020 and what it means for his chances of winning the presidency."
+    publishedDateTime: 2020-11-05T02:01:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/how-wisconsin-and-michigan-could-deliver-biden-the-presidency/2020/11/04/457c21ca-f628-4aa3-9f11-19c95a27808f_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-05-2020/t_eb6152e9dd9141bca371527b44fc6a64_name_20201104_DemetriusFreeman_wapo_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
 
 secured: "EFKyStjKbvlUUrHTnt5ZGDcncKmcVNDdzng6v+/WcVgvmJe4FaKi/s18ruzAJ33YnTjkXKJmZZVMFnfabbfuu2u0ZXqQMfxhPCOZbLbtGl5g0PoMUMxqcJ95XnAq9RnN6tFBrtqWbITjU040htA9NlBz2tscT2Iw4PseFLUHknGeA8cO7Gy7Oj0fTdebhVbGydcuD4TEz5tCDFlwQPfrKkHFD8q6L+8ZdchtGoSGGmYASafEmcI+BlkcdnpM0IC6tnFc2mSJwwfUYMx8SOxSWBI1hFZ0yrsRDUG6fQIWY8hQSyNejWfn0k38n5xKX4G6o6a9iUxjquTqxBdCVvK2Jwkgu9vU7vVBQ3oTTIRYTug=;17I5LuAsk71BBA7sQftwBQ=="

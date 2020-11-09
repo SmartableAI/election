@@ -41,33 +41,50 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Federal watchdog probing Trump campaign's use of White House: lawmaker"
-    excerpt: "The U.S. Office of Special Counsel has opened an investigation into allegations that the Trump campaign's use of the White House as an Election Day command center violated federal law, Democratic Representative Bill Pascrell said on Thursday."
-    publishedDateTime: 2020-11-07T04:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-investigation-idUSKBN27L31H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L31H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L31H"
+  - title: "Trump's attacks on mail-in ballots rankle some military vets"
+    excerpt: "Now, with his presidency on the line, he’s casting suspicion on a tool of participatory democracy — the mail-in ballot — that has allowed U.S. military personnel to vote while serving far from home since the War of 1812."
+    publishedDateTime: 2020-11-07T09:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540192067&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA5015"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc26de5e50f468792853a8bf596bd40_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Analysis: At pivotal moments of 2020, Trump failed to win over doubters"
-    excerpt: "Donald Trump had reason to count on the loyalty of the large chunk of Americans who drove his improbable election victory in 2016. But in 2020, he needed a wider swath of voters to believe in his promise to \"Make America Great Again."
-    publishedDateTime: 2020-11-08T16:31:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-loss-analysis-idUKKBN27O0G8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0G8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0G8"
+  - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
+    excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
+    publishedDateTime: 2020-11-07T10:15:00Z
+    webUrl: "https://abcnews.go.com/US/pennsylvania-republicans-leaders-dismiss-trump-fraud-claims-call/story?id=74064448"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
+    images:
+      - url: "https://s.abcnews.com/images/Politics/boockvar_hpMain_20201106-235802_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
+    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
+    publishedDateTime: 2020-11-05T05:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "VScqjCf0pw5AJU7W+wXgvbtnbZaYwBOx55ghDse6l5RnL++lmcRC52Oj4duysbPx8aXsVOiu9NTwxArYMs2WL3hfQ8f+sdpvs3Jle/KfEAT/MnJ12PNDiSBXInlkv3C+G7BTRFZ/ick+mBhW2b9B1DVHr6pdR91Mz+y5gB995QkmBY+qHNyn1XTpZyQ38RO7f+hEMRjMfQyR7mj4gQ3lzqR/zT+iaPm/rcDm42jpNT9TzBor7vFVnmTWExJHFbXXso0YrCEDFKwIg5KR02ZGuBY55TA+EcVencREqJZlLDcyT+KEksDt302iPXIBHnVj8WXi0AJpxQKAvZJQCYY9SFKLcmFu8McdOnt0CKsd/uNYTnSLkeySc2oomO3jTaH8NAgjrac0vLc0bk42x/7k3OcYcy1BBIiMNCBGJfBhnhPSmpn1YdF7484njdqxl5/wHLF04NxkEUJXvNbWSUPk19UpksixOPleTbnIyM8x3ETiDiui/SsKehXokg83fBvTO9rbMFl6sCHisS/fbBxRuQ==;7kYziaSY8Rr4q2tpaQsaXQ=="
 ---
