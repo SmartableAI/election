@@ -2,19 +2,19 @@
 category: news
 title: "Election results updates: Joe Biden, Kamala Harris speak to nation after election win"
 excerpt: "When President Trump returned to the White House on Saturday, throngs of people had gathered outside the compound to celebrate Biden's victory."
-publishedDateTime: 2020-11-08T22:44:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/election-results-biden-trump-pennsylvania-georgia-nevada/6196451002/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/election-results-biden-trump-pennsylvania-georgia-nevada/6196451002/"
-ampWebUrl: "https://amp.freep.com/amp/6196451002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6196451002"
+publishedDateTime: 2020-11-09T02:14:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/11/07/election-results-biden-trump-pennsylvania-georgia-nevada/6196451002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/11/07/election-results-biden-trump-pennsylvania-georgia-nevada/6196451002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/6196451002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6196451002"
 type: article
 quality: 98
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -2366,6 +2366,20 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Vice President-elect Kamala Harris speaks at President-elect Biden's Victory Celebration"
+    excerpt: "Vice President-elect Kamala Harris speaks during victory celebration after President-elect Joe Biden defeated Republican President Donald Trump in the 2020 presidential election, in Wilmington, Delaware on Saturday,"
+    publishedDateTime: 2020-11-09T01:18:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d756cb074a27b550c25280b2ccff7545/Vice-President-elect-Kamala-Harris-speaks-at-President-elect-Bidens-Victory-Celebration/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 61
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d756cb074a27b550c25280b2ccff7545/2020-PRESIDENTIAL-ELECTION.jpg"
+        width: 650
+        height: 391
+        isCached: true
   - title: "The Latest: Trump heaping attention on 1 Nebraska district"
     excerpt: "President Donald Trump talks with the traveling press as first lady Melania Trump waits near Air Force One at Andrews Air Force Base, Md., Tuesday, Oct. 27, 2020. They flew"
     publishedDateTime: 2020-10-28T01:26:00Z
@@ -2380,7 +2394,21 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "President-elect Joe Biden is greeted by Vice President-elect Kamala Harris During Victory Celebration"
+    excerpt: "President-elect Joe Biden is greeted by Vice President-elect Kamala Harris during victory celebration after defeating Republican President Donald Trump in the 2020 presidential election, in Wilmington,"
+    publishedDateTime: 2020-11-09T01:18:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/969d2b97c0dfd42442a70ca3669f4ad5/President-elect-Joe-Biden-is-greeted-by-Vice-President-elect-Kamala-Harris-During-Victory-Celebration/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/969d2b97c0dfd42442a70ca3669f4ad5/2020-PRESIDENTIAL-ELECTION.jpg"
+        width: 650
+        height: 358
+        isCached: true
 
-secured: "1JmQR4qSCoLEwEWJm78sivXzdFa1Krw3lCFivMzFUy7Mb//yBg/BTkneRRUQpuK2cCos/M2AVmamtAqyZxwZiR6JXj8h5+J89cy5B4V+8XL3yQqtrvc5gULFLnZcP/UV1Q5pCQqMg70EpXI0qwvbz7+2U+cI1vrk4YUWc6bDS+L5gMCoYf8/2/TTb7lFewGojVkD2Z39okjr3ysjOb+MDurWO+Yp5VGSlsY8NuRI4+6/KO+srC3GmzJTm3CyIRvmTa3EGUdp1F3dlXh/slxDdg6mLAaLHwS92QPpYx05GlrNHWJEgTpTiMDZLrHhnhkhTaQ/m851CKZ9SYIvGIPhvsMxrdGLj+Kizx7TIajXLa8=;PEk8aZiHHPdEKfde2f1lBw=="
+secured: "dwQuEZM10KTpcbzFya8mZDy43basOiE6dO1iuFdgs+8acqbO0ac6FcTueMl3ms+R4jS5mUeLbUtVDdXwq7rVAC6wGcaI+uEdz1n+KqVL1vhDqEJJnd7LMtHkptvbPbQzCVxVA78FOwDvR03WN5oYzbsw7HzLFCOWbmNA613QnwVMQTQDyl4mwcNg5oDlw4b1UxnzE/mGkkGbkc2fFYxtZ3sk/dlhWP85V2C0BOz8mHLnzhZOwE5W8Y1K8LltQ2VG6UtrnxBMcKj1XXcSTMQNIzpORWYD9QTQiilb+PtArPR8lVGubo62RQj/rTsLdS39wvmnLf+Glkt1gf/WPojpxvL4OV0TXeCGnYI38FWWVMU=;AFXyI7JAzon3fMWnOacNjQ=="
 ---
 

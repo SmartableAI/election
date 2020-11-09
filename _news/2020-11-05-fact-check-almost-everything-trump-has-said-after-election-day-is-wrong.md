@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jared Kushner, Melania Trump advise Trump to accept election loss"
+    excerpt: "Jared Kushner, President Donald Trump's son-in-law and senior adviser, has approached the President about conceding the election, two sources told CNN.\n    \n"
+    publishedDateTime: 2020-11-09T03:15:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSO9kPadSX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108130724-jared-kushner-melania-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ivanka Trump, Jared Kushner threaten to sue over billboard"
     excerpt: "Ivanka Trump and Jared Kushner are threatening to sue The Lincoln Project over billboards the organization erected in New York City's Times Square. CNN's Brianna Keilar and Alexandra Field report.\n    \n"
     publishedDateTime: 2020-10-26T21:42:53Z

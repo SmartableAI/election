@@ -511,6 +511,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fauci said Trump 'asking for trouble' with potential super spreader rallies – but silent on Biden celebrations"
+    excerpt: "Dr. Anthony Fauci, the nation’s top disease expert, warned last month that President Donald Trump was “asking for trouble” by holding large rallies amid the ongoing coronavirus pandemic, but has so far been silent on celebrations being held nationwide over Joe Biden’s presidential win.  "
+    publishedDateTime: 2020-11-09T02:03:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RFt8G6FAdBo/fauci-trump-asking-trouble-super-spreader-rallies-silent-biden-celebrations"
+    ampWebUrl: "https://www.foxnews.com/politics/fauci-trump-asking-trouble-super-spreader-rallies-silent-biden-celebrations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-trump-asking-trouble-super-spreader-rallies-silent-biden-celebrations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313462552279.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
     excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
     publishedDateTime: 2020-11-04T07:51:52Z
@@ -528,7 +544,7 @@ related:
         height: 340
         isCached: true
   - title: "Biden's first move as president-elect? Mask mandate for all. Here's how he plans on doing it."
-    excerpt: ""
+    excerpt: "One of Joe Biden's first priorities as president-elect will be implementing mask mandates nationwide by working with governors. The future 46th president, however, says if they refuse than he will go to mayors and county executives and get local masking requirements in place."
     publishedDateTime: 2020-11-08T23:48:10Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pjl7GXYW3TI/bidens-first-move-as-president-elect-mask-mandate-for-all-heres-how-he-plans-on-doing-it"
     ampWebUrl: "https://www.foxnews.com/politics/bidens-first-move-as-president-elect-mask-mandate-for-all-heres-how-he-plans-on-doing-it.amp"
@@ -700,6 +716,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-256726/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Election 2020: What Are the Trump Legal Claims?"
+    excerpt: "As President Trump and his allies pledged to intensify legal efforts to contest the presidential election, many of their lawsuits are limited in scope, making them unlikely to produce large vote swings even if successful."
+    publishedDateTime: 2020-11-09T04:03:00Z
+    webUrl: "https://www.wsj.com/articles/election-2020-what-are-the-trump-legal-claims-11604876612"
+    ampWebUrl: "https://www.wsj.com/amp/articles/election-2020-what-are-the-trump-legal-claims-11604876612"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/election-2020-what-are-the-trump-legal-claims-11604876612"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-256986/social"
         width: 1280
         height: 640
         isCached: true

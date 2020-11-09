@@ -2,6 +2,162 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-29-they-call-themselves-wives-of-the-deplorables-because-their-husbands-support-trump.md",
+      "title": "They call themselves 'Wives of the Deplorables' because their husbands support Trump",
+      "excerpt": "Carole Catherine did not know her husband, Tim, supported Donald Trump until the day after Hillary Clinton lost the 2016 election. She called him the next morning crying.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0_fxBqAxP8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0_fxBqAxP8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201028170152-wives-of-the-deplorables-support-fb-group-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/29/politics/wives-of-the-deplorables-support-group/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/wives-of-the-deplorables-support-group/index.html",
+      "publishedDateTime": "2020-10-29T04:21:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-us-air-force-f-16s-intercepted-an-unauthorized-aircraft-flying-in-a-restricted-area-over-a-trump-rally.md",
+      "title": "US Air Force F-16s intercepted an unauthorized aircraft flying in a restricted area over a Trump rally",
+      "excerpt": "When President Donald Trump saw the F-16 deploy signal flares, he told a crowd that they were putting on a display for him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10",
+      "originalUrl": "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f99e8aa69331a0011bc5f19?width=1200&format=jpeg",
+          "width": 998,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/f-16-intercept-unresponsive-plane-flying-near-arizona-trump-rally-2020-10?amp",
+      "publishedDateTime": "2020-10-28T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-watch-barack-obama-campaigns-for-joe-biden-at-orlando-florida-event.md",
+      "title": "Watch: Barack Obama Campaigns For Joe Biden At Orlando, Florida Event",
+      "excerpt": "Former President Barack Obama will campaign for Joe Biden at an Orlando, Florida event on Tuesday afternoon, one week ahead of the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/524824.jpg",
+          "width": 908,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T21:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-trump-jr-warns-election-is-about-freedom-versus-tyranny-capitalism-versus-socialism-and-communism.md",
       "title": "Trump Jr. warns election is 'about freedom versus tyranny, capitalism versus socialism and Communism'",
       "excerpt": "The Democrats' \"endgame\" is to transform America into a far-left, Marxist state where dissent is not permitted, Donald Trump Jr. told \"Hannity\" Wednesday night.",
@@ -1193,161 +1349,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-justice-clarence-thomas-wife-boosts-unsupported-claims-against-joe-biden.md",
-      "title": "Justice Clarence Thomas’ wife boosts unsupported claims against Joe Biden",
-      "excerpt": "Other spouses of justices have their own professional lives, but Ginni Thomas is the only one whose work sometimes butts up against her husband’s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/28/supreme-court-justices-wife-boosts-unsupported-claims-joe-biden/6055985002/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/28/supreme-court-justices-wife-boosts-unsupported-claims-joe-biden/6055985002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/28/USAT/e05da220-1768-4557-8852-3141907929e8-AP_Supreme_Court_Thomas_Wife.jpg?auto=webp&crop=4372,2460,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/6055985002",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6055985002",
-      "publishedDateTime": "2020-10-28T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-bill-mcgurn-slams-outrageous-behavior-from-media-suppressing-hunter-biden-allegations.md",
-      "title": "Bill McGurn slams 'outrageous behavior' from media suppressing Hunter Biden allegations",
-      "excerpt": "After Hunter Biden’s former business associate Tony Bobulinsky gave an interview on Fox News’ “Tucker Carlson Tonight” Tuesday, Wall Street Journal columnist Bill McGurn reacted to the interview pointing out that the story has been covered up by the media and social media companies.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zilQIo16iUo/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zilQIo16iUo/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp",
-      "publishedDateTime": "2020-10-28T10:38:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-jared-kushner-bragged-in-april-that-trump-was-taking-the-country-back-from-the-doctors.md",
-      "title": "Jared Kushner bragged in April that Trump was taking the country 'back from the doctors'",
-      "excerpt": "President Donald Trump's son-in-law and senior adviser Jared Kushner boasted in mid-April about how the President had cut out the doctors and scientists advising him on the unfolding coronavirus pandemic, comments that came as more than 40,000 Americans already had died from the virus, which was ravaging",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t4mCfafYvoA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t4mCfafYvoA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200430104756-01-trump-kushner-0402-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/28/politics/woodward-kushner-coronavirus-doctors/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/woodward-kushner-coronavirus-doctors/index.html",
-      "publishedDateTime": "2020-10-28T10:06:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

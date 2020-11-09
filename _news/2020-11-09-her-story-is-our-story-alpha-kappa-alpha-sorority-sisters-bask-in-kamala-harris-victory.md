@@ -1,0 +1,48 @@
+---
+category: news
+title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
+excerpt: "A group of Howard University alums and Alpha Kappa Alpha sorority sisters explain what electing the nation's first black woman vice president means to them and the generations ahead."
+publishedDateTime: 2020-11-08T21:45:00Z
+originalUrl: "https://www.cnn.com/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+webUrl: "https://www.cnn.com/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+type: article
+quality: 105
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Kamala Harris
+  - Democratic Voice
+
+related:
+  - title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
+    excerpt: "Michelle Arrington was on a plane headed to a beach reunion with her Alpha Kappa Alpha Sorority sisters Saturday when American history happened.\n    \n"
+    publishedDateTime: 2020-11-08T22:19:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sej38i-hN54/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190124204506-kamala-harris-aka-sorority-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "H5KicEWQUfJD1+N8k5pmZxWVDhAA/RCjttT+Rldqwtrna1BibsccJK7yDvpKFuj4MCe+jxKY+/sMer68iR2iT/YWm5y5Nb4ul0DgHdawh5NDbqaj71q2h5AwA9WLRZLV7k2OoTvAUPUInEqGrQFANwawA34zc3So59jmZxRlE30JAb/fZuWAPz6lqZx1N8A+me5eoMWzd9z1TLgUFHBzyBfsCdgUZzuxtI8t5JdN764+cjqj2L03aksqOcXbbkvHUVk7l+TaMA6yWviq5O+d6V2rXxf6C6MnItCY9ApUPE/OeRt8xtMB0rMMO9mL6WTGW/dnqZYu3bE6Nf1mEeKAYMCq4MIUfpTNfz3sAFekrenoi6MPKizSSlXwvSWtO5bN8+UKBPBeAk+2y3fW8tT4zmhOAXZxr+PrnGl6ZxL4a0HrcMaD1jsGkcsNlvG6HFLm/SyVkrKB90hlJ7uu/QhFq6aF/TX1Vs7rVT9xsdURaJO8OUS8GIJGkp2YSu2pPCRmmTk/2GjrUpTv+QFZhkTUew==;ykp5acP4b8kTQimKC6ra8A=="
+---
+

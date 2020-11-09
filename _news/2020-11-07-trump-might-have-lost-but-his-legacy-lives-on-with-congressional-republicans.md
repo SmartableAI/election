@@ -63,6 +63,22 @@ related:
         width: 600
         height: 325
         isCached: true
+  - title: "What’s Next for Trump? The Family Business Awaits His Return"
+    excerpt: "President Trump has long complained that public office cost him billions. Now he faces the challenge of jump-starting the company that bears his name, while television also beckons."
+    publishedDateTime: 2020-11-09T01:09:00Z
+    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/07/multimedia/00TrumpOrg-Lose-2/merlin_174048489_c65deb2b-cda2-403e-a1b3-1fd5d90d39ad-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1687
+        isCached: true
 
 secured: "1OAIMIjk4sK7PnjL8PrSR+r2NRanZqQeRR/08EiHCHvpnqKNPVm7xx+yJS+ww5pa3Ad8rm2l4ztGjG1y/JS5pu0fzv+i8RXHNhfcBASxxkEHMUQHCCdFV9/MHlMX4tihYD7VK8YnQi7fnMaKNRCBtksBcRh6Df+olISJ42bU4tO/+DBHs5cev07cnMLwa5ydPvz68s2xg1D/JUX/K5nU5NCpD8xmq62X/Dop4IHndml2CxOr8fVuwqyKqkivPz7zmV6KDrt7g8J/Ml0CjkoO8xnaIx3Ws1CCPSKfNHIR+e4so83vo9ouOPn8IFGF2b/PysUOBgZMbFzIWJG/AafMoc78izxDZklA/Oj/gOpmGkM=;tVTZynUnvrEO7ZH49Amf1w=="
 ---

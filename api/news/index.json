@@ -2,21 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-09-factbox-biden-likely-to-rely-on-trusted-inner-circle-as-he-staffs-new-administration.md",
-      "title": "Factbox: Biden likely to rely on trusted inner circle as he staffs new administration",
-      "excerpt": "U.S. President-elect Joe Biden and his aides have spent months gearing up for his transition to the White House, assembling a team that will grow to include several hundred staff members as the Democrat steps into a role he's pursued for decades.",
+      "path": "_news/2020-11-09-biden-campaign-manager-says-hes-going-to-make-good-on-progressive-agenda.md",
+      "title": "Biden campaign manager says he's 'going to make good' on 'progressive' agenda",
+      "excerpt": "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-biden-advisers-idUSKBN27O0R5",
-      "originalUrl": "https://www.reuters.com/article/usa-election-biden-advisers-idUSKBN27O0R5",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540443787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70M6",
-          "width": 817,
-          "height": 545,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27O0R5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0R5",
-      "publishedDateTime": "2020-11-08T14:54:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp",
+      "publishedDateTime": "2020-11-08T18:39:42-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +54,120 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same-consideration.md",
+      "title": "South Dakota Gov. Noem: Al Gore got his day in court -- Trump deserves the same consideration",
+      "excerpt": "South Dakota Gov. Kristi Noem urged the country to “afford the 70.6 million Americans that voted for President Trump the same consideration\" provided to former vice president Al Gore in the 2000 legal battle that resulted in a Supreme Court decision and a George W. Bush victory. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3NPbvsCk-Vc/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3NPbvsCk-Vc/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4689ca75-6f39-4bbe-b645-17162d916614/67040cce-933e-44d7-9ff7-b525665743e4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp",
+      "publishedDateTime": "2020-11-08T18:13:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-the-trump-presidency-is-ending-so-is-maggie-habermans-wild-ride.md",
+      "title": "The Trump Presidency Is Ending. So Is Maggie Haberman’s Wild Ride.",
+      "excerpt": "Maggie Haberman has consistently painted a portrait of a man who is both smarter and less competent than his enemies believe.Credit...Benjamin Norman for The New York Times By Ben Smith Maggie Haberman lives rent-free in Donald Trump’s head,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/08/business/08BENSMITH/merlin_179662959_c80bd3d0-f89e-4712-8d81-4ab62bb9c0b2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.amp.html",
+      "publishedDateTime": "2020-11-08T17:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -66,7 +183,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -108,6 +225,58 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-factbox-biden-likely-to-rely-on-trusted-inner-circle-as-he-staffs-new-administration.md",
+      "title": "Factbox: Biden likely to rely on trusted inner circle as he staffs new administration",
+      "excerpt": "U.S. President-elect Joe Biden and his aides have spent months gearing up for his transition to the White House, assembling a team that will grow to include several hundred staff members as the Democrat steps into a role he's pursued for decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-election-biden-advisers-factbox-idUKKBN27O0OD",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-election-biden-advisers-factbox-idUKKBN27O0OD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540439697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70K2",
+          "width": 1023,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27O0OD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0OD",
+      "publishedDateTime": "2020-11-08T13:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -712,7 +881,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 680,
+      "heat": 700,
       "tags": null,
       "images": [
         {
@@ -769,7 +938,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 290,
+      "heat": 310,
       "tags": null,
       "images": [
         {
@@ -924,7 +1093,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1182,158 +1351,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-iran-hopes-for-a-change-in-destructive-us-policies-after-biden-win.md",
-      "title": "Iran hopes for a change in 'destructive U.S. policies' after Biden win",
-      "excerpt": "Iran's first vice president said he hoped for a change in \"destructive U.S. policies\" after Democrat Joe Biden captured the U.S. presidency on Saturday, adding that the era of Donald Trump and his \"adventurous and belligerent\" administration was over.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-iran-idUSKBN27N0ND",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-iran-idUSKBN27N0ND",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540366762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HG",
-          "width": 799,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27N0ND",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0ND",
-      "publishedDateTime": "2020-11-07T18:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-trump-defied-gravity-now-falls-back-to-earth-future-tbd.md",
-      "title": "Trump defied gravity; now falls back to earth, future TBD",
-      "excerpt": "Donald Trump, who defied political gravity with his extraordinary rise from reality star and businessman to the presidency, has fallen back to earth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp",
-      "publishedDateTime": "2020-11-07T18:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-harris-american-voters-chose-hope-unity-decency-and-yes-truth.md",
-      "title": "Harris: American voters chose 'hope, unity, decency and yes, truth'",
-      "excerpt": "Sen. Kamala Harris, in her victory speech as vice president-elect, said that in Tuesday’s election voters had chosen “hope, unity, decency and yes, truth.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7XZfNkLgmQ/harris-american-voters-chose-hope-unity-truth",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7XZfNkLgmQ/harris-american-voters-chose-hope-unity-truth",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/364d08d0-de65-4f3d-ab82-703859584a3b/a91619d4-445b-4a57-b799-ab1ea134a81b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-american-voters-chose-hope-unity-truth.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-american-voters-chose-hope-unity-truth.amp",
-      "publishedDateTime": "2020-11-07T18:21:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

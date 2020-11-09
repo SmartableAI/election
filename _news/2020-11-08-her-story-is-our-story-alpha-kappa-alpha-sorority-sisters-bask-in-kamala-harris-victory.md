@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorori
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
+    excerpt: "A group of Howard University alums and Alpha Kappa Alpha sorority sisters explain what electing the nation's first black woman vice president means to them and the generations ahead."
+    publishedDateTime: 2020-11-08T21:45:00Z
+    webUrl: "https://www.cnn.com/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 105
 
 secured: "uHxLrk6115V81K6ASIzZYcrDZo1jTzPYPzISAS7I1bLfOvKELiMnG0R1Tqv9Si/knnNq59VToWWJQP5qqkGCrTEXFDhqiStqseK2/1IWymPCAYZOegdkARDjuwT4Dxa/ba7NGmkuX1LVBW/n6sAuXI+OPNo5ggZlTO/shAl7LY4CxEdsEQ6eT41JGMQ8ev+Wyd0Ah/f6Z0SWYU5s4/bR0SWWGKanSuu6TVYrkhBabeIY7PQROiNzbrQA7ResYA+nVw4soeqBU8cAInj0HNW0+L9/JB2CPCsizS5q7MYF3f0AUUwPnNx3+SovzhFIPSV9xvYifgVImLpRAXs0fe1Inj1K0uDJ0jKJbJPXyNuwptM=;q7SjsErLdN4cYCGkZ3tmHQ=="
 ---

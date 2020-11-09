@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html"
 type: article
 quality: 190
-heat: 290
+heat: 310
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jared Kushner, Melania Trump advise Trump to accept election loss"
+    excerpt: "Jared Kushner, President Donald Trump's son-in-law and senior adviser, has approached the President about conceding the election, two sources told CNN.\n    \n"
+    publishedDateTime: 2020-11-09T03:15:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSO9kPadSX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108130724-jared-kushner-melania-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Almost everything Trump has said after Election Day is wrong"
     excerpt: "President Donald Trump spent much of the year laying the groundwork for the strategy of concerted dishonesty he has deployed in the hours after Election Day.\n    \n"
     publishedDateTime: 2020-11-05T02:31:37Z

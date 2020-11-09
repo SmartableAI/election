@@ -347,6 +347,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump's election night party adds to virus scrutiny"
+    excerpt: "It was supposed to be a scene of celebration."
+    publishedDateTime: 2020-11-09T00:43:00Z
+    webUrl: "https://www.businessinsider.com/trumps-election-night-party-adds-to-virus-scrutiny-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-election-night-party-adds-to-virus-scrutiny-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-election-night-party-adds-to-virus-scrutiny-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "The Ultimate Donald Trump Mystery That Couldn’t Be Solved Before Election Day"
     excerpt: "A s Americans vote today, they do so with a limited view of Donald Trump’s finances—especially at one project, the Trump International Hotel & Tower in Chicago, which offers the prospect of shedding light on many questions: who the president owes money to,"
     publishedDateTime: 2020-11-03T13:48:00Z

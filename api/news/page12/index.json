@@ -2,6 +2,171 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-26-fbi-director-christopher-wray-will-be-removed-from-post-if-trump-is-re-elected-source-tells-fox-news.md",
+      "title": "FBI Director Christopher Wray will be removed from post if Trump is re-elected, source tells Fox News",
+      "excerpt": "Reports are surfacing that President Trump will fire FBI Director Christopher Wray should he win reelection next Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ieKOSqF2a4/fbi-director-christopher-wray-will-be-removed-reelection",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ieKOSqF2a4/fbi-director-christopher-wray-will-be-removed-reelection",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fbi-director-christopher-wray-will-be-removed-reelection.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-director-christopher-wray-will-be-removed-reelection.amp",
+      "publishedDateTime": "2020-10-25T18:10:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-at-least-5-people-in-pences-orbit-including-chief-of-staff-marc-short-are-positive-for-coronavirus.md",
+      "title": "At least 5 people in Pence's orbit, including chief of staff Marc Short, are positive for coronavirus",
+      "excerpt": "Marc Short, chief of staff to Vice President Mike Pence, has been diagnosed with Covid-19, the Vice President's office announced in a statement, marking the second top Pence aide to test positive this week.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HbbIBrU8hlE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HbbIBrU8hlE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190327184249-marc-short-tsr-03272019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/24/politics/mac-short-coronavirus-positive-test/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/mac-short-coronavirus-positive-test/index.html",
+      "publishedDateTime": "2020-10-25T18:05:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall-street-journal-nyt.md",
+      "title": "White House lawyer helped shop controversial Hunter Biden story to Wall Street Journal: NYT",
+      "excerpt": "A controversial story alleging wrongdoing by former Vice President Joe Biden's family in foreign business dealings was pitched by Trump allies to the Wall Street Journal before it appeared in the New York Post,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall",
+      "originalUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp",
+      "publishedDateTime": "2020-10-25T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-trump-keeps-calling-750-tax-payment-a-filing-fee-experts-say-theres-no-such-thing.md",
       "title": "Trump keeps calling $750 tax payment a 'filing fee.' Experts say there's no such thing",
       "excerpt": "President Donald Trump keeps bringing up what he calls a $750 filing fee for his federal income tax returns. What's that all about?",
@@ -175,7 +340,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27A0BB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10455,
+      "heat": 10475,
       "tags": null,
       "images": [
         {
@@ -1203,161 +1368,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-once-presbyterian-now-says-hes-a-nondenominational-christian.md",
-      "title": "Trump, once Presbyterian, now says he's a 'nondenominational Christian'",
-      "excerpt": "Trump emphasized that his parents taught him the importance of faith and prayer throughout his life.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lP9Gdf_h2As/trump-identifies-non-denominational-christian",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lP9Gdf_h2As/trump-identifies-non-denominational-christian",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/811ca535-be57-4b71-adc1-4fe7047b47b8/85e13a02-9e52-4c03-8d4d-1e3635b6692c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-identifies-non-denominational-christian.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-identifies-non-denominational-christian.amp",
-      "publishedDateTime": "2020-10-24T12:52:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trumps-middle-east-peace-deals-rejected-conventional-wisdom-state-dept.md",
-      "title": "Trump's Middle East peace deals 'rejected conventional wisdom': State Dept.",
-      "excerpt": "President Trump's Middle East peace deals, including the latest Friday between Israel and Sudan, are \"unprecedented\" for the region, State Department spokeswoman Morgan Ortagus said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZmxoZXQDLPk/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZmxoZXQDLPk/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus.amp",
-      "publishedDateTime": "2020-10-24T11:50:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-live-coverage-mike-pence-to-hold-rally-at-lakeland-linder-international-airport.md",
-      "title": "Live coverage: Mike Pence to hold rally at Lakeland Linder International Airport",
-      "excerpt": "Some of the attendees waiting to hear Mike Pence speak today include residents, veterans and Lake Wales commissioner Allen Goldstein and Polk County Republican chairman J.C. Martin. Trump campaign volunteers are checking temperatures and handing out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
-      "originalUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NLED/0f5f4423-cbb5-4427-aec0-65063a141acf-2.jpg?auto=webp&crop=1535,864,x0,y204&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theledger.com/amp/6008696002",
-      "cdnAmpWebUrl": "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/6008696002",
-      "publishedDateTime": "2020-10-24T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Ledger",
-        "domain": "theledger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

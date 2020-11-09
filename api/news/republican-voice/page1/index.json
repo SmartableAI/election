@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-09-biden-campaign-manager-says-hes-going-to-make-good-on-progressive-agenda.md",
+      "title": "Biden campaign manager says he's 'going to make good' on 'progressive' agenda",
+      "excerpt": "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp",
+      "publishedDateTime": "2020-11-08T18:39:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same-consideration.md",
+      "title": "South Dakota Gov. Noem: Al Gore got his day in court -- Trump deserves the same consideration",
+      "excerpt": "South Dakota Gov. Kristi Noem urged the country to “afford the 70.6 million Americans that voted for President Trump the same consideration\" provided to former vice president Al Gore in the 2000 legal battle that resulted in a Supreme Court decision and a George W. Bush victory. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3NPbvsCk-Vc/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3NPbvsCk-Vc/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4689ca75-6f39-4bbe-b645-17162d916614/67040cce-933e-44d7-9ff7-b525665743e4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp",
+      "publishedDateTime": "2020-11-08T18:13:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-wonder-woman-star-lynda-carter-celebrates-kamala-harris-win-on-45th-anniversary-of-the-show.md",
       "title": "'Wonder Woman' star Lynda Carter celebrates Kamala Harris' win on 45th anniversary of the show",
       "excerpt": "Wonder Woman” actress Lynda Carter shared a congratulatory note to Vice President-elect Kamala Harris on a special day for fans of the superhero TV series.",
@@ -735,7 +847,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1305,
+      "heat": 1345,
       "tags": null,
       "images": [
         {
@@ -1352,7 +1464,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 556,
+      "heat": 576,
       "tags": null,
       "images": [
         {
@@ -1538,118 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/pennyslvania-trump-biden-ballots-results-election-gop-chair-lawrence-tabas.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennyslvania-trump-biden-ballots-results-election-gop-chair-lawrence-tabas.amp",
       "publishedDateTime": "2020-11-04T11:04:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-mccarthy-expects-four-more-years-for-trump-after-a-very-strong-election-night.md",
-      "title": "McCarthy expects four more years for Trump after 'a very strong' election night",
-      "excerpt": "House Minority Leader Rep. Kevin McCarthy, R-Calif., praised the work President Trump has done for the country and the Republican party, and predicted that after the final vote counts are complete the president will be reelected.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GjTHXjzI8tA/mccarthy-expects-four-more-years-for-trump-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GjTHXjzI8tA/mccarthy-expects-four-more-years-for-trump-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-expects-four-more-years-for-trump-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-expects-four-more-years-for-trump-election.amp",
-      "publishedDateTime": "2020-11-04T10:52:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-trump-campaign-says-president-will-immediately-request-a-recount-in-wisconsin.md",
-      "title": "Trump campaign says president will 'immediately' request a recount in Wisconsin",
-      "excerpt": "The Trump campaign promised to demand a recount in Wisconsin, where Joe Biden holds a narrow lead but the race has not yet been called. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcckzpPn0X0/trump-campaign-request-recount-wisconsin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcckzpPn0X0/trump-campaign-request-recount-wisconsin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp",
-      "publishedDateTime": "2020-11-04T10:30:46-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

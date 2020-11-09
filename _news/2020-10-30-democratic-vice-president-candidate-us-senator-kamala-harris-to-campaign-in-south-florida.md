@@ -859,6 +859,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President-elect Kamala Harris makes history with 2020 victory"
+    excerpt: "California senator Kamala Harris has made history by becoming vice president-elect. She is the first woman ever elected to the office, as well as the first Black and first Indian-American person to hold the title."
+    publishedDateTime: 2020-11-09T00:03:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-elect-kamala-harris-makes-history-with-2020-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/09/5a4c17f7-e0b1-4384-a9c7-7ea5c23838b9/thumbnail/1200x630/b1da3e2dc1ea0ec28db41af84946f013/1108-en-luciano-583757-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris' Indian ancestral village celebrates her victory as she becomes Vice President of the United States"
     excerpt: "Thulasendrapuram, population 350, was the Indian home of Harris' maternal grandfather, P.V. Gopalan."
     publishedDateTime: 2020-11-08T17:34:00Z
@@ -1232,6 +1246,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "PHOTOS: Car rally celebrating Joe Biden and Kamala Harris’ victory streams through Denver"
+    excerpt: "A car rally celebrating Joe Biden and Kamala Harris’ winning 2020 ticket drove through Denver on Sunday, Nov. 8, 2020."
+    publishedDateTime: 2020-11-09T02:29:00Z
+    webUrl: "https://www.denverpost.com/2020/11/08/joe-biden-kamala-harris-car-rally-photos/"
+    ampWebUrl: "https://www.denverpost.com/2020/11/08/joe-biden-kamala-harris-car-rally-photos/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/11/08/joe-biden-kamala-harris-car-rally-photos/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 81
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/11/TDP-L-CAR_RALLY_632.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Racism, sexism and a victory. How Kamala Harris made history as Joe Biden’s vice president"
     excerpt: "Kamala Harris will become the nation’s 49th vice president, making her the first woman of color to hold the second highest office in an increasingly diverse nation."
     publishedDateTime: 2020-11-07T15:58:00Z
@@ -1553,6 +1583,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris in a White Suit, Dressing for History"
+    excerpt: "On Saturday night, when Kamala Harris stepped onto the stage and into history at the Chase Center in Wilmington, Delaware, as vice president-elect of the United States, she did so in full recognition of the weight of the moment,"
+    publishedDateTime: 2020-11-08T21:36:00Z
+    webUrl: "https://www.seattletimes.com/life/kamala-harris-in-a-white-suit-dressing-for-history/"
+    ampWebUrl: "https://www.seattletimes.com/life/kamala-harris-in-a-white-suit-dressing-for-history/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/kamala-harris-in-a-white-suit-dressing-for-history/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "‘Everything is at stake,’ Democratic VP candidate Kamala Harris tells supporters at Lehigh Valley drive-in rally"
     excerpt: "Democratic vice presidential nominee Kamala Harris vowed Monday in Northampton County that she and Joe Biden would unite a polarized country, expand healthcare access and invest in working families if Pennsylvania voters help oust Donald Trump on Tuesday."
     publishedDateTime: 2020-11-02T21:32:00Z

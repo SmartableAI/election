@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump plans to revive campaign-style rallies as he pursues legal challenges to election results"
+    excerpt: "President Trump is planning to bring back his large-scale rallies that were a hallmark of his presidential run, but these will be focused on his “ongoing litigation” as he challenges the results of last week’s election."
+    publishedDateTime: 2020-11-09T02:54:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pd2ODPKR4iA/trump-plans-to-revive-campaign-style-rallies-as-he-pursues-legal-challenges-to-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-plans-to-revive-campaign-style-rallies-as-he-pursues-legal-challenges-to-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-plans-to-revive-campaign-style-rallies-as-he-pursues-legal-challenges-to-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pennsylvania AG dismisses Trump, says he could 'care less' what president says on election night"
     excerpt: "President Trump has been criticizing states that have extended deadlines for accepting ballots beyond Election Day, saying that the country should have a result by Tuesday night. Pennsylvania Attorney General Josh Shapiro, however, says his state will make sure that every ballot is counted, regardless"
     publishedDateTime: 2020-11-02T16:29:40Z
@@ -188,6 +204,22 @@ related:
     quality: 175
     images:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign taps Rep. Doug Collins to lead recount team in Georgia"
+    excerpt: "The recount will begin as soon as canvassing has ended, the campaign said."
+    publishedDateTime: 2020-11-09T01:26:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AR7bwK7neZE/trump-campaign-doug-collins-georgia-recount"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-doug-collins-georgia-recount.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-doug-collins-georgia-recount.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0af16911-22c2-4bde-bfd0-c000cc5089cd/3299052e-fb0b-4de2-a25b-b74b24486416/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

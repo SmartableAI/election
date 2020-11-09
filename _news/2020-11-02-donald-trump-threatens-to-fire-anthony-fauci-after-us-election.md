@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
 type: article
 quality: 140
-heat: 740
+heat: 760
 published: true
 
 provider:
@@ -331,6 +331,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump's election night party adds to virus scrutiny"
+    excerpt: "It was supposed to be a scene of celebration."
+    publishedDateTime: 2020-11-09T00:43:00Z
+    webUrl: "https://www.businessinsider.com/trumps-election-night-party-adds-to-virus-scrutiny-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-election-night-party-adds-to-virus-scrutiny-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-election-night-party-adds-to-virus-scrutiny-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship"
     excerpt: "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain."
     publishedDateTime: 2020-10-28T09:14:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html"
 type: article
 quality: 204
-heat: 4584
+heat: 4644
 published: true
 
 provider:
@@ -508,6 +508,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031214725-biden-bus-trump-caravan-texas-1031-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign planning messaging blitz to fuel unsupported election questions"
+    excerpt: "President Donald Trump's campaign is planning a messaging blitz to fuel its argument -- unsupported by any evidence to date -- that the President's second term is being stolen from him through corrupt vote counts in battleground states, three sources familiar with the matter told CNN.\n    \n"
+    publishedDateTime: 2020-11-09T04:43:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d10TS1PSYo0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/donald-trump-campaign-messaging-election-problems/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/donald-trump-campaign-messaging-election-problems/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103034642-01-donald-trump-pennsylvania-1102-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1100,6 +1116,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Biden plans to change the US pandemic response"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris say they will move the US Covid-19 pandemic response in a dramatically different direction.\n    \n"
+    publishedDateTime: 2020-11-09T04:52:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3bospQZQlsY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/health/biden-pandemic-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/health/biden-pandemic-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102141226-02-biden-philadelphia-1101-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2915,6 +2947,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107204529-17-biden-harris-address-1107-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "What’s Left to Count in a Possible Day of Decision for Biden"
+    excerpt: "He now leads in Georgia and Pennsylvania, and it seems just a matter of time before the race in Pennsylvania is put out of reach."
+    publishedDateTime: 2020-11-09T01:34:00Z
+    webUrl: "https://www.nytimes.com/2020/11/06/upshot/election-update-biden-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/06/upshot/election-update-biden-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/06/upshot/election-update-biden-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/upshot/06up-whats-left/06up-whats-left-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "2020 Election Live Updates: Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "RIGHT NOW ‘Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."

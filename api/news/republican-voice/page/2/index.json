@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-04-mccarthy-expects-four-more-years-for-trump-after-a-very-strong-election-night.md",
+      "title": "McCarthy expects four more years for Trump after 'a very strong' election night",
+      "excerpt": "House Minority Leader Rep. Kevin McCarthy, R-Calif., praised the work President Trump has done for the country and the Republican party, and predicted that after the final vote counts are complete the president will be reelected.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GjTHXjzI8tA/mccarthy-expects-four-more-years-for-trump-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GjTHXjzI8tA/mccarthy-expects-four-more-years-for-trump-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-expects-four-more-years-for-trump-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-expects-four-more-years-for-trump-election.amp",
+      "publishedDateTime": "2020-11-04T10:52:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-trump-campaign-says-president-will-immediately-request-a-recount-in-wisconsin.md",
+      "title": "Trump campaign says president will 'immediately' request a recount in Wisconsin",
+      "excerpt": "The Trump campaign promised to demand a recount in Wisconsin, where Joe Biden holds a narrow lead but the race has not yet been called. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcckzpPn0X0/trump-campaign-request-recount-wisconsin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcckzpPn0X0/trump-campaign-request-recount-wisconsin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp",
+      "publishedDateTime": "2020-11-04T10:30:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-twitter-flags-trump-tweets-complaining-of-ballot-dumps.md",
       "title": "Twitter flags Trump tweets complaining of 'ballot dumps'",
       "excerpt": "President Trump on Wednesday hit out at what he described as “surprise ballot dumps” as ballot counts in the Rust Belt show his lead shrinking in those states -- a claim that was swiftly labeled as \"misleading\" by Twitter.",
@@ -126,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1076,7 +1188,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 650,
+      "heat": 690,
       "tags": null,
       "images": [
         {
@@ -1093,62 +1205,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp",
       "publishedDateTime": "2020-11-01T19:32:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-biden-campaign-pushing-voters-to-be-a-part-of-the-political-process-ex-obama-aide-says.md",
-      "title": "Biden campaign pushing voters to be ‘a part of the political process’, ex-Obama aide says",
-      "excerpt": "In the final hours before Election Day, the Biden campaign is trying to convince Americans that voting is more important than ever, former Barack Obama personal aide Reggie Love told “Your World with Neil Cavuto.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySsZkhyUKsw/reggie-love-biden-campaign-2020-presidential-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySsZkhyUKsw/reggie-love-biden-campaign-2020-presidential-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5917c623-7f84-4354-be17-763d711fe936/8bc4d7a4-d627-47c5-916c-72ddd72c5b10/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp",
-      "publishedDateTime": "2020-11-01T16:06:37-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1300,7 +1356,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 190,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -1597,62 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
       "publishedDateTime": "2020-11-01T08:10:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.md",
-      "title": "Trump, Ernst take leads over Dem challengers in Iowa poll",
-      "excerpt": "Just days before Election Day, both President Trump and U.S. Sen. Joni Ernst have pulled ahead of their Democratic challengers in the assessment of Iowa voters, a new poll shows.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80259ac2-43eb-438e-a2d5-2bdface5d4b2/bcc4294e-9b2c-457a-98ce-4d1de4a56c36/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
-      "publishedDateTime": "2020-10-31T23:47:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

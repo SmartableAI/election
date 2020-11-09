@@ -463,6 +463,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump plans to share obituaries of dead people who he says voted, as he continues to push unproven voter fraud claims, Axios says"
+    excerpt: "The president has continued to make unsubstantiated claims of mass voter fraud, contesting the results of the election."
+    publishedDateTime: 2020-11-09T03:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5fa8b66cf7d1cb0019e3a703?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Vice President Pence Speaks at Trump Campaign Rally in Reno, Nevada"
     excerpt: "Vice President Mike Pence spoke at a Trump campaign rally at the airport in Reno, Nevada."
     publishedDateTime: 2020-11-04T06:21:00Z

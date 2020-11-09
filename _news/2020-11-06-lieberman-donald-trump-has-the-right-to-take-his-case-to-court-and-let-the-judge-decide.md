@@ -7,7 +7,7 @@ originalUrl: "https://www.realclearpolitics.com/video/2020/11/06/lieberman_donal
 webUrl: "https://www.realclearpolitics.com/video/2020/11/06/lieberman_donald_trump_has_the_right_to_take_his_case_to_court_and_let_the_judge_decide.html"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1168
     height: 876
     isCached: true
+
+related:
+  - title: "South Dakota Gov. Noem: Al Gore got his day in court -- Trump deserves the same consideration"
+    excerpt: "South Dakota Gov. Kristi Noem urged the country to “afford the 70.6 million Americans that voted for President Trump the same consideration\" provided to former vice president Al Gore in the 2000 legal battle that resulted in a Supreme Court decision and a George W. Bush victory. "
+    publishedDateTime: 2020-11-09T02:13:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3NPbvsCk-Vc/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same"
+    ampWebUrl: "https://www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4689ca75-6f39-4bbe-b645-17162d916614/67040cce-933e-44d7-9ff7-b525665743e4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "gz7jyOGgL8V/VNXtdWRYrUnaYOLjz7YzWhKU5Q1F+pXsmhhpXMjzQnn6xwNlWcfvN0D0yrpoo9ygZN8RtuLvbMf4pwY91cnkePxPQ7QdMdFPEPBFTeW3SB0BC+uVJIhcgCJ5LEIQ4WpXKnZ/nqheQZzHAhtqTu615DAy8xbKZS/dpbjmj6/PmA5y0UurD9Z+Bee2ELy/bgj82ZnbqBeqvKNONHl0P6G2YNKgyrbx0vyjgc84v2Vw6WSKmUjd642SdnWlps2dVEgA/jCuz9505hCK3eJR5NOddYhoDlt3QqIng3oMjH2XDBETTRuuhksWaeQg2NlhgdqBmjA0laZH4WMesY/WVFAFPwKnh8Q46mY=;FFoLhFNJ485AfkbiRzgUKg=="
 ---

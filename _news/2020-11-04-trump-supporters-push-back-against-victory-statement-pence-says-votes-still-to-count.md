@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-vote
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
 type: article
 quality: 133
-heat: 753
+heat: 773
 published: true
 
 provider:
@@ -463,6 +463,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/9T6xM9WwzncJC1U9YusfCXeCFF0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSWZ6OW4UASM2Y33DIGJOP55QE.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump plans to share obituaries of dead people who he says voted, as he continues to push unproven voter fraud claims, Axios says"
+    excerpt: "The president has continued to make unsubstantiated claims of mass voter fraud, contesting the results of the election."
+    publishedDateTime: 2020-11-09T03:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5fa8b66cf7d1cb0019e3a703?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Vice President Pence Speaks at Trump Campaign Rally in Reno, Nevada"
     excerpt: "Vice President Mike Pence spoke at a Trump campaign rally at the airport in Reno, Nevada."

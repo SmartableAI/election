@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-01-trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.md",
+      "title": "Trump, Ernst take leads over Dem challengers in Iowa poll",
+      "excerpt": "Just days before Election Day, both President Trump and U.S. Sen. Joni Ernst have pulled ahead of their Democratic challengers in the assessment of Iowa voters, a new poll shows.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80259ac2-43eb-438e-a2d5-2bdface5d4b2/bcc4294e-9b2c-457a-98ce-4d1de4a56c36/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
+      "publishedDateTime": "2020-10-31T23:47:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-01-ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.md",
       "title": "Ivanka Trump breaks Obama record on way to $35M-plus fundraising haul: reports",
       "excerpt": "Ivanka Trump, White House senior adviser and first daughter, has reportedly raised tens of millions of dollars for her father’s reelection and even broke former President Obama’s single-day fundraising record at a Texas stop in September.",
@@ -844,6 +900,54 @@
       ]
     },
     {
+      "path": "_news/2020-10-29-watch-barack-obama-campaigns-for-joe-biden-at-orlando-florida-event.md",
+      "title": "Watch: Barack Obama Campaigns For Joe Biden At Orlando, Florida Event",
+      "excerpt": "Former President Barack Obama will campaign for Joe Biden at an Orlando, Florida event on Tuesday afternoon, one week ahead of the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/524824.jpg",
+          "width": 908,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T21:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-trump-jr-warns-election-is-about-freedom-versus-tyranny-capitalism-versus-socialism-and-communism.md",
       "title": "Trump Jr. warns election is 'about freedom versus tyranny, capitalism versus socialism and Communism'",
       "excerpt": "The Democrats' \"endgame\" is to transform America into a far-left, Marxist state where dissent is not permitted, Donald Trump Jr. told \"Hannity\" Wednesday night.",
@@ -1547,119 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp",
       "publishedDateTime": "2020-10-28T10:38:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-joe-biden-could-be-compromised-by-chinese-communist-party-rep-crenshaw.md",
-      "title": "Joe Biden could be compromised by Chinese Communist Party: Rep. Crenshaw",
-      "excerpt": "Joe Biden needs to answer whether or not he's compromised by China before the Nov. 3 election, Rep. Dan Crenshaw, R-Texas, said Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw",
-      "originalUrl": "https://www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2777235-b525-491c-8227-83d7cafe8bfc/a68a044c-1a8b-46e7-a369-c8ae44314383/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-china-tony-bobulinski-dan-crenshaw.amp",
-      "publishedDateTime": "2020-10-28T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-hunter-biden-engaged-in-raw-influence-peddling-on-grand-global-scale-turley.md",
-      "title": "Hunter Biden engaged in ‘raw influence-peddling’ on grand, global scale: Turley",
-      "excerpt": "Joe Biden and his family engaged in \"legal corruption\" despite claims of no wrongdoing, Fox News contributor Jonathan Turley argued Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59uqOKu4B-c/hunter-biden-joe-scandal-election-corruption-jonathan-turley",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59uqOKu4B-c/hunter-biden-joe-scandal-election-corruption-jonathan-turley",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-joe-scandal-election-corruption-jonathan-turley.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-joe-scandal-election-corruption-jonathan-turley.amp",
-      "publishedDateTime": "2020-10-28T07:12:27-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

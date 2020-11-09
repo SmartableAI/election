@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's campaign bundlers include Wall Street billionaires, entertainment moguls"
-    excerpt: "Democratic presidential candidate Joe Biden unveiled a list of his biggest fundraisers Saturday night, revealing a campaign powered in part by Wall Street executives, Silicon Valley billionaires and entertainment moguls. "
-    publishedDateTime: 2020-11-01T21:04:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WhT96bEV-YI/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp"
+  - title: "Biden campaign manager says he's 'going to make good' on 'progressive' agenda"
+    excerpt: "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won."
+    publishedDateTime: 2020-11-09T02:39:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives"
+    ampWebUrl: "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dff98d6f-d7b1-4e88-ad74-8d152941afcd/77e1be30-e89f-49eb-9c49-1f1844ed2954/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden campaign pushing voters to be ‘a part of the political process’, ex-Obama aide says"
+    excerpt: "In the final hours before Election Day, the Biden campaign is trying to convince Americans that voting is more important than ever, former Barack Obama personal aide Reggie Love told “Your World with Neil Cavuto.”"
+    publishedDateTime: 2020-11-02T00:06:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySsZkhyUKsw/reggie-love-biden-campaign-2020-presidential-election"
+    ampWebUrl: "https://www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5917c623-7f84-4354-be17-763d711fe936/8bc4d7a4-d627-47c5-916c-72ddd72c5b10/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

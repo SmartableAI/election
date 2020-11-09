@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/election-2020-legal-battles-trump-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-legal-battles-trump-campaign-lawsuits-battleground-states.amp"
 type: article
 quality: 176
-heat: 556
+heat: 576
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310575791231-e1604598266506.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump campaign holds protest in Las Vegas to decry irregularities, claim ‘dead people,’ non-Nevadans voted"
+    excerpt: "The Trump campaign held a Sunday afternoon press conference outside the Clark County Elections Department in Las Vegas to denounce alleged irregularities in last week’s election.  "
+    publishedDateTime: 2020-11-09T01:05:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzj9joR7Go8/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313858920634.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

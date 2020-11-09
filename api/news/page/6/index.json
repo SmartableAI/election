@@ -2,6 +2,171 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-03-doctors-groups-rip-trump-for-touting-baseless-conspiracy-theory-over-covid-19-death-count.md",
+      "title": "Doctors groups rip Trump for touting 'baseless' conspiracy theory over COVID-19 death count",
+      "excerpt": "Medical groups such as the American Medical Association denounced President Trump's claim that doctors inflate COVID-19 deaths, calling it \"malicious.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/31/trump-claims-doctors-profiting-attributing-deaths-covid-19/6101540002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/31/trump-claims-doctors-profiting-attributing-deaths-covid-19/6101540002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6101540002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6101540002",
+      "publishedDateTime": "2020-11-02T16:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-the-point-marco-rubio-goes-full-trump-on-election-eve.md",
+      "title": "The Point: Marco Rubio goes full Trump on election eve",
+      "excerpt": "Even as some ambitious 2024 Republicans have begun to distance themselves from Donald Trump's version of, uh, conservatism, Florida's Sen. Marco Rubio offered the equivalent of a bear hug for the incumbent just 48 hours before Election Day. \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 370,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190128124838-01-marco-rubio-dec2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html",
+      "publishedDateTime": "2020-11-02T15:30:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.md",
+      "title": "Biden to campaign in Pennsylvania, Harris to Michigan on Election Day",
+      "excerpt": "Democratic presidential nominee Joe Biden will travel to Pennsylvania Tuesday while his running mate Sen. Kamala Harris will campaign in Michigan, in their final push to get out the vote on Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iZuSuvCuPqg/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iZuSuvCuPqg/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1715,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp",
+      "publishedDateTime": "2020-11-02T14:16:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-biden-stumps-for-union-support-near-pittsburgh.md",
       "title": "Biden stumps for union support near Pittsburgh",
       "excerpt": "Democratic presidential nominee Joe Biden revved up a group of union members to help him turn out the vote in a suburban Pittsburgh county on Monday. (Nov. 2)",
@@ -457,7 +622,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73960671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3253,
+      "heat": 3293,
       "tags": null,
       "images": [
         {
@@ -813,7 +978,7 @@
       "originalUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 740,
+      "heat": 760,
       "tags": null,
       "images": [
         {
@@ -869,7 +1034,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 4584,
+      "heat": 4644,
       "tags": null,
       "images": [
         {
@@ -981,7 +1146,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 650,
+      "heat": 690,
       "tags": null,
       "images": [
         {
@@ -1077,62 +1242,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-02-biden-campaign-pushing-voters-to-be-a-part-of-the-political-process-ex-obama-aide-says.md",
-      "title": "Biden campaign pushing voters to be ‘a part of the political process’, ex-Obama aide says",
-      "excerpt": "In the final hours before Election Day, the Biden campaign is trying to convince Americans that voting is more important than ever, former Barack Obama personal aide Reggie Love told “Your World with Neil Cavuto.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySsZkhyUKsw/reggie-love-biden-campaign-2020-presidential-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySsZkhyUKsw/reggie-love-biden-campaign-2020-presidential-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5917c623-7f84-4354-be17-763d711fe936/8bc4d7a4-d627-47c5-916c-72ddd72c5b10/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp",
-      "publishedDateTime": "2020-11-01T16:06:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-01-angel-families-react-to-president-trumps-national-day-of-remembrance-for-americans-killed-by-illegal-aliens.md",
       "title": "‘Angel Families’ react to President Trump’s National Day of Remembrance for Americans killed by illegal aliens",
       "excerpt": "Family members whose loved ones have been killed by illegal immigrants praised President Trump’s declaration to make Nov. 1 a National Day of Remembrance while bemoaning the fact that too many Americans still remain unaware of the problem.",
@@ -1218,118 +1327,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
       "publishedDateTime": "2020-11-01T14:07:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.md",
-      "title": "Biden's campaign bundlers include Wall Street billionaires, entertainment moguls",
-      "excerpt": "Democratic presidential candidate Joe Biden unveiled a list of his biggest fundraisers Saturday night, revealing a campaign powered in part by Wall Street executives, Silicon Valley billionaires and entertainment moguls. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WhT96bEV-YI/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WhT96bEV-YI/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dff98d6f-d7b1-4e88-ad74-8d152941afcd/77e1be30-e89f-49eb-9c49-1f1844ed2954/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp",
-      "publishedDateTime": "2020-11-01T13:04:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-joe-biden-becomes-an-underdog-if-he-doesnt-win-pa-says-nate-silver.md",
-      "title": "Joe Biden becomes 'an underdog' if he doesn't win Pa., says Nate Silver",
-      "excerpt": "Without Pennsylvania and its 20 electoral votes, Democratic presidential nominee Joe Biden will become “an underdog,” the founder of an opinion poll analysis website, FiveThirtyEight, said on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM3J29QnmKk/joe-biden-underdog-without-pennsylvania-win-nate-silver",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM3J29QnmKk/joe-biden-underdog-without-pennsylvania-win-nate-silver",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp",
-      "publishedDateTime": "2020-11-01T11:55:04-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

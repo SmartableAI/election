@@ -2,11 +2,11 @@
 category: news
 title: "Trump will lose special Twitter protections in January"
 excerpt: "U.S. President Donald Trump will be subject to the same Twitter Inc rules as any other user when President-elect Joe Biden takes office on Jan. 20, the social media company confirmed this week."
-publishedDateTime: 2020-11-08T22:56:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-trump-socialmedia-idINKBN27O0R1"
-webUrl: "https://www.reuters.com/article/usa-election-trump-socialmedia-idINKBN27O0R1"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27O0R1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27O0R1"
+publishedDateTime: 2020-11-08T22:50:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-trump-socialmedia-idUSKBN27O0MQ"
+webUrl: "https://www.reuters.com/article/us-usa-election-trump-socialmedia-idUSKBN27O0MQ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0MQ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0MQ"
 type: article
 quality: 125
 heat: -1
@@ -639,6 +639,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "/jAQEPe1DTZ+76Fkl4B+DRDtJSfxO2OZFNgppCLxGX+vO7EEeJL0BNnG0tve7WfUyu6RxHeBHlvH6NkG80a75V8EYE+ic4y8Mi4J2Jfavb3DN2y5xAJFOaHM3tEFmlqRnvGtHdptGtr5wrk/SAR6Xw1Gjz9WlU9T6JQgZVNu6hlnmjDgF3Rm4/s4JGzU+iAKAcx97O902gjwev2Wd5Y3k9po0NPX/JfUlhF7x10Q+ishFjNtdbbomtCa+XVD6G6yWepg+/Q4hc/VbUrqwjcRNpXmT02eRu8o57bOZXTliXMa8iz25BpO+5H0ZwJCYpW5wYdFf+lNIl6fhJWa8HzG0HSi94TO18YEG8ZvPT4DtxFRBBRUtdPuW4eAdwCGYQ1crnB+om2kvuWFNDi4tQt2o9YdUO4zEX8F5LiP7lajPI6sNYgEzKq/P54iTRaiAkWgPHXNEEO/5fDvZDfwIwSkAi2b003utTHSPcgaQ1zjRUa2ZnpL0wKNiFlgOpBjO/21XykNGjOH3T6cCT8odTiL4A==;HNMLqE2l2Mn8o8qHiKARdA=="
+secured: "4pfW77LulldYmXoQpkP7O1jcFgRgLa6hNX/ncUgcKQPIeB7chjeLpqq8UvTAnVduXogVGM9jhULvk6/gS0QHl9vnUta5Tl5lB+SLcgNEzjyfTvl4Z+hFP3SRGd07wcdiJ050FZ+ceJs7fDnGW8dkzQBf5Md0AeW01W7vZz44zyE1MOidyEkzCfszaNUpSOLEj3uAzPz3QeKRBHqJqNKebzmhKNNoBDX/EC/OztLXePUiJ0IGhSvfEsUyaDbRYR1NTLGV0AILjoDGqjRiCq23vtraA2rFkvZasLeAusFkDlcK131jK28STous430IeSKfqiRsvxcGopj0N2ceMvDUDs25kE8UmvELWVenCcOf8zi/Ofs0Q4DugqlLeQEVim8SwmrsxbiY7rmXYvT9cr+W9p0WE2J2ZiDyV7wUb74nYuycnflDdhbYv+ONt2B0DFh3EezcXlpACYndEACOCz/hY4VUEG1q6rgKpXEY0CsN+DyvdmlXA1VEpDzT4+IQC2s7HLBowi+wX8CoAMkKJngyPQ==;SZg1a7CpCdxxGImyxA7b4Q=="
 ---
 

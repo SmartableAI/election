@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-29-gop-sen-kelly-loeffler-not-familiar-with-trumps-infamous-2005-access-hollywood-tape.md",
+      "title": "GOP Sen. Kelly Loeffler: 'Not familiar' with Trump's infamous 2005 'Access Hollywood' tape",
+      "excerpt": "Trump was recorded in 2005 talking crudely about pursuing a married woman and bragged about being able to grope women because of his fame.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/28/kelly-loeffler-not-familiar-trump-access-hollywood-tape/6064927002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/28/kelly-loeffler-not-familiar-trump-access-hollywood-tape/6064927002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/29/USAT/0742fee9-1fb3-4266-9e5d-37aff6a44d19-GTY_1282733032.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6064927002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6064927002",
+      "publishedDateTime": "2020-10-28T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-trump-says-hopefully-states-wont-be-allowed-to-count-ballots-after-election-day-which-is-a-normal-part-of-the-electoral-process.md",
       "title": "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process",
       "excerpt": "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters.",
@@ -1063,7 +1115,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27A0BB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10455,
+      "heat": 10475,
       "tags": null,
       "images": [
         {
@@ -1509,58 +1561,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-no-need-for-security-checks-or-covid-tests-borat-star-meets-donald-trump-jr-and-visits-white-house-in-deleted-scenes.md",
-      "title": "'No need for security checks or COVID tests': Borat star meets Donald Trump Jr. and visits White House in deleted scenes",
-      "excerpt": "President Donald Trump also makes an appearance in a deleted scene from the new movie posted to Borat's Twitter account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10",
-      "originalUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f934591f21803001222bbe2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10?amp",
-      "publishedDateTime": "2020-10-23T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

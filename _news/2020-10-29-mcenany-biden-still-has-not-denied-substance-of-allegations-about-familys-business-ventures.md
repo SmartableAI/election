@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NYC health commissioner cheers Biden celebrations, day later brings down hammer on New York"
+    excerpt: "New York City Health Committee Chair Mark D. Levine on Saturday cheered a large crowd of New Yorkers celebrating Joe Biden’s presidential victory but a day later warned that the city was in the midst of a “2nd wave” with cases and hospitalizations piling up."
+    publishedDateTime: 2020-11-09T03:08:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6rfbHRDKI8/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave"
+    ampWebUrl: "https://www.foxnews.com/politics/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2997629b-2b98-4b64-9e18-914a71bf9f87/39f3d7bb-e234-49df-b1ce-c519ede703ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Battle brewing over Biden Cabinet picks, priorities, as far left and moderates launch opening salvos"
     excerpt: "The brewing battle over Cabinet appointments and administration priorities will take shape as Joe Biden and his close advisers seek to placate the base while also putting together an administration that reflects the Biden campaign's tone of unity."
     publishedDateTime: 2020-11-07T22:14:02Z

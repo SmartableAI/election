@@ -128,6 +128,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "See Kamala Harris' ancestral village in India celebrate her election win"
+    excerpt: "The village of Thulasendrapuram celebrated Harris' election win with fireworks, music and a mural in her honor."
+    publishedDateTime: 2020-11-08T18:43:00Z
+    webUrl: "https://www.cnn.com/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108133459-india-celebrates-harris-win-thumbnail-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "In Detroit, Kamala Harris makes a final pitch."
     excerpt: "Standing in the parking lot of Sheet Metal Workers Local 80 in Southfield, a suburb of Detroit, Sen. Kamala Harris issued a late call to action on Tuesday. “Today is a day that many of us have been waiting for four years,"
     publishedDateTime: 2020-11-03T22:24:00Z

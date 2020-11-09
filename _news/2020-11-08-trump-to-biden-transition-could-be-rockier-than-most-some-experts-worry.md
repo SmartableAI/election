@@ -255,6 +255,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden plans for White House as Trump plans rallies to protest his election loss"
+    excerpt: "Democrat Joe Biden began preparing on Sunday to deal with the coronavirus and other problems that will confront him as president of a divided America, while President Donald Trump planned campaign-style rallies to contest the election."
+    publishedDateTime: 2020-11-09T04:11:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/wrapup-7-biden-plans-for-white-house-as-trump-plans-rallies-to-protest-his-election-loss-idUSL1N2HU04M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O09B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O09B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 151
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540418131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA708M"
+        width: 753
+        height: 545
+        isCached: true
   - title: "Man accused of threatening Biden, Harris in note to neighbor"
     excerpt: "A Maryland man has been charged with making death threats against Democratic presidential candidate Joe Biden and running mate U.S. Sen. Kamala Harris in a letter left on the doorstep of a neighbor wh"
     publishedDateTime: 2020-10-21T19:04:00Z

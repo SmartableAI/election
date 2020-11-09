@@ -1926,14 +1926,14 @@ related:
         isCached: true
   - title: "Election results updates: Joe Biden, Kamala Harris speak to nation after election win"
     excerpt: "When President Trump returned to the White House on Saturday, throngs of people had gathered outside the compound to celebrate Biden's victory."
-    publishedDateTime: 2020-11-08T22:44:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/election-results-biden-trump-pennsylvania-georgia-nevada/6196451002/"
-    ampWebUrl: "https://amp.freep.com/amp/6196451002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6196451002"
+    publishedDateTime: 2020-11-09T02:14:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/11/07/election-results-biden-trump-pennsylvania-georgia-nevada/6196451002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6196451002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6196451002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 98
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/a349b66f-b575-418c-9419-c5d45885e888-GTY_1284481276.jpg?auto=webp&crop=2950,1660,x0,y0&format=pjpg&width=1200"
@@ -2370,6 +2370,20 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Vice President-elect Kamala Harris speaks at President-elect Biden's Victory Celebration"
+    excerpt: "Vice President-elect Kamala Harris speaks during victory celebration after President-elect Joe Biden defeated Republican President Donald Trump in the 2020 presidential election, in Wilmington, Delaware on Saturday,"
+    publishedDateTime: 2020-11-09T01:18:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d756cb074a27b550c25280b2ccff7545/Vice-President-elect-Kamala-Harris-speaks-at-President-elect-Bidens-Victory-Celebration/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 61
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d756cb074a27b550c25280b2ccff7545/2020-PRESIDENTIAL-ELECTION.jpg"
+        width: 650
+        height: 391
+        isCached: true
   - title: "The Latest: Trump heaping attention on 1 Nebraska district"
     excerpt: "President Donald Trump talks with the traveling press as first lady Melania Trump waits near Air Force One at Andrews Air Force Base, Md., Tuesday, Oct. 27, 2020. They flew"
     publishedDateTime: 2020-10-28T01:26:00Z
@@ -2383,6 +2397,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/a2/3a2d2708-da36-5d0e-bceb-7b2e43bd20ce/5f98a68289117.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
+        isCached: true
+  - title: "President-elect Joe Biden is greeted by Vice President-elect Kamala Harris During Victory Celebration"
+    excerpt: "President-elect Joe Biden is greeted by Vice President-elect Kamala Harris during victory celebration after defeating Republican President Donald Trump in the 2020 presidential election, in Wilmington,"
+    publishedDateTime: 2020-11-09T01:18:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/969d2b97c0dfd42442a70ca3669f4ad5/President-elect-Joe-Biden-is-greeted-by-Vice-President-elect-Kamala-Harris-During-Victory-Celebration/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/969d2b97c0dfd42442a70ca3669f4ad5/2020-PRESIDENTIAL-ELECTION.jpg"
+        width: 650
+        height: 358
         isCached: true
 
 secured: "9/z+f1rk4XjbA9oKLPjcWdqoKEScRgA1VdeybsgRh353eSdknF1o4/qogXQjow5kzmgMB1qG4Eovldo0mdso8mFSwH2lnPOp7x7ee7NeiwIhOur6yKs8Zgy79l1weBkSXp2OchkMsOE7IxCkMeub4+BPWSLIta9Q2bfgBY5OReQXS+56r24d62bZvwzbkcD83fiu3KL8dVPUIB3eztRX1cbhbN3KefyUD1NRkXpgLqvSeWfGAoPkVkof+JrftGPQuxG0roo2t/+nPjsii1iQ4LNROVrFYrLamNG5EmBe1CIag4o9UDCvmg9awhMNkW288pwGizwpSCi06DZtUny4/qTspZayzqqLjyQ7r7EzZO513Fg4NZIsFUBRoQgtO1B6e5wNuKlW+XllBKuIJA4czKfWOC6bctiqg+rsv0zuFo26DcqPjX3EAmov02HgYjqQrft/iz45XtEy/eKObIYvBvTq3aNTzCIWMB5rwY1haZJljrQW1T4+XwmSDVLlyYnCDPt4T6yuEZPtYEQUDj7Cog==;Lyj2yRT1r5ZicLAtm6rtCg=="

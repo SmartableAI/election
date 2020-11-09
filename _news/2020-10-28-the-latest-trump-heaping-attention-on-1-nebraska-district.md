@@ -1936,14 +1936,14 @@ related:
         isCached: true
   - title: "Election results updates: Joe Biden, Kamala Harris speak to nation after election win"
     excerpt: "When President Trump returned to the White House on Saturday, throngs of people had gathered outside the compound to celebrate Biden's victory."
-    publishedDateTime: 2020-11-08T22:44:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/election-results-biden-trump-pennsylvania-georgia-nevada/6196451002/"
-    ampWebUrl: "https://amp.freep.com/amp/6196451002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6196451002"
+    publishedDateTime: 2020-11-09T02:14:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/11/07/election-results-biden-trump-pennsylvania-georgia-nevada/6196451002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6196451002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6196451002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 98
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/a349b66f-b575-418c-9419-c5d45885e888-GTY_1284481276.jpg?auto=webp&crop=2950,1660,x0,y0&format=pjpg&width=1200"
@@ -2379,6 +2379,34 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2019/10/trump-frown-afp.jpg"
         width: 800
         height: 430
+        isCached: true
+  - title: "Vice President-elect Kamala Harris speaks at President-elect Biden's Victory Celebration"
+    excerpt: "Vice President-elect Kamala Harris speaks during victory celebration after President-elect Joe Biden defeated Republican President Donald Trump in the 2020 presidential election, in Wilmington, Delaware on Saturday,"
+    publishedDateTime: 2020-11-09T01:18:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d756cb074a27b550c25280b2ccff7545/Vice-President-elect-Kamala-Harris-speaks-at-President-elect-Bidens-Victory-Celebration/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 61
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d756cb074a27b550c25280b2ccff7545/2020-PRESIDENTIAL-ELECTION.jpg"
+        width: 650
+        height: 391
+        isCached: true
+  - title: "President-elect Joe Biden is greeted by Vice President-elect Kamala Harris During Victory Celebration"
+    excerpt: "President-elect Joe Biden is greeted by Vice President-elect Kamala Harris during victory celebration after defeating Republican President Donald Trump in the 2020 presidential election, in Wilmington,"
+    publishedDateTime: 2020-11-09T01:18:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/969d2b97c0dfd42442a70ca3669f4ad5/President-elect-Joe-Biden-is-greeted-by-Vice-President-elect-Kamala-Harris-During-Victory-Celebration/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/969d2b97c0dfd42442a70ca3669f4ad5/2020-PRESIDENTIAL-ELECTION.jpg"
+        width: 650
+        height: 358
         isCached: true
 
 secured: "BMtvq9cu9lRBviXdWZAKyUZ36t5wW4cyWDmVhdl1PafJFQnGqcREgxozq+vBW/LOQplE5kPJxV6kV3+T0w/4S3hhVu9sMmItTRbKINJmGwvPad4tSs/IgPod5mEzFsoMnuP+zRfKpWKro02zdUP7ERFjHIz5LFeFoMwwakdKRPjHUmJtRL3CMv7oyLO9eWIsTfV0+VBcLNU9ApywTQFQ0G6kuQal68Q4q7n9l5aQZn4ZiQA0vCeaHvcZdYt+NUyfv07v8zs//V0PPDKAKA5uhKbR7/hukboVsAnPUcIGOYzzJQP22QDLqVZFLev4uJJt9QXgqpq3daXtBC/JN74SlZaa1E/89EbG+GacydGHBvE=;CWA2AtZ0uYdAw+PwKb6jRQ=="

@@ -113,6 +113,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "See Kamala Harris' ancestral village in India celebrate her election win"
+    excerpt: "The village of Thulasendrapuram celebrated Harris' election win with fireworks, music and a mural in her honor."
+    publishedDateTime: 2020-11-08T18:43:00Z
+    webUrl: "https://www.cnn.com/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108133459-india-celebrates-harris-win-thumbnail-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As U.S. Votes, a Village in India Prays for Kamala Harris"
     excerpt: "Those who live in the hometown of Ms. Harris’s grandfather see the Democratic vice-presidential nominee as one of their own. “She is the daughter of the village’s soil,” one woman said."
     publishedDateTime: 2020-11-03T15:20:00Z

@@ -128,6 +128,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "See Kamala Harris' ancestral village in India celebrate her election win"
+    excerpt: "The village of Thulasendrapuram celebrated Harris' election win with fireworks, music and a mural in her honor."
+    publishedDateTime: 2020-11-08T18:43:00Z
+    webUrl: "https://www.cnn.com/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108133459-india-celebrates-harris-win-thumbnail-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As U.S. Votes, a Village in India Prays for Kamala Harris"
     excerpt: "Those who live in the hometown of Ms. Harris’s grandfather see the Democratic vice-presidential nominee as one of their own. “She is the daughter of the village’s soil,” one woman said."
     publishedDateTime: 2020-11-03T15:20:00Z
@@ -410,6 +426,6 @@ related:
       domain: nytimes.com
     quality: 115
 
-secured: "7mhb0nEVDqTDNceOEJImlcJaSk7Gm8ebVna6QsV28Rh2ecklwNtSJ700kznm+UZEWU6N6rArtvtVwe1jlS8TwS2jG/DVcZcaSxvGQzKD66gH1HRufBJosdtRKqOdN0aYJdTy2p09a/hiI6vOHBnENsw+5zvkXBFVi1AtMsnJwv/d2sVvhXfRngYLDUNfS3qGeT+LA8R75PdC3/0P9VtWmNBzyQn193UA2gn7wOHLY743WkKD5vnTrhX+puHXLLITzDCyr8fWRndeKi//Ayl//gMmsaZcfsTXXU/+e1cDyL8hVE/lmqYVUUtuQ6XfL6e3y7LXfBfcvOp4CBlrj6Z5rF3lyMK+q+/d8eqjYzw2Opc=;LEgWO8LDW4f3GQ07YR+RGg=="
+secured: "aabAbQClPoxzfaFaPo6fazdP4EgWMx/6mbc3ERWg8tiL1YsxbIW4cs55gQG4USi26CiYuqJXAaPGah4XjjoaauE2MIouws4/sVQjfs/hY83bTtd6Gb9xG4X2aZYZHe2bJag3ekb6yTO0EAOGrLX06bOaLRWHCyhiAC8wdni+8J/bWs1WKnaDWZQfrv3QP2JK/gkdZ6PgEnYM9VCcPFhqwERXuP3E0xPi+9gLWvg61qjFCV5xbkRMWg1WIqW6R8UTV46Qe1PYzANtpoHMvkpvskZ5YUgLqDSy7zFCyiH83qpGFj20omHUx8xJZErdtGf5DYEOzQz4vN082rZQYc9e4xg6xZtQyy0nKdJNKqoQxF5QUfib4f9TC7d4ijp2nIx+pH3Kbnt188U5d1SaYNPMy7Dc8ijaBEo3z4KtGgxkWGHfC+Y4FQUljTMFkT2YIY63qSRApA8buSdXOkKZGIVURRDXLHk+RO9l90zBitopjIsCosKnWl7ObM415p+Dkn3UHUq2H+lcYAupy0F7rS4XaA==;zxmdf1klhf5uy7ByZlL3VQ=="
 ---
 

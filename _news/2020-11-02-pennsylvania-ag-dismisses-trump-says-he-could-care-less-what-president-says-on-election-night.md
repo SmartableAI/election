@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump plans to revive campaign-style rallies as he pursues legal challenges to election results"
+    excerpt: "President Trump is planning to bring back his large-scale rallies that were a hallmark of his presidential run, but these will be focused on his “ongoing litigation” as he challenges the results of last week’s election."
+    publishedDateTime: 2020-11-09T02:54:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pd2ODPKR4iA/trump-plans-to-revive-campaign-style-rallies-as-he-pursues-legal-challenges-to-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-plans-to-revive-campaign-style-rallies-as-he-pursues-legal-challenges-to-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-plans-to-revive-campaign-style-rallies-as-he-pursues-legal-challenges-to-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hundreds gather for Trump caravan rally across Long Island"
     excerpt: "The same group has held rallies across the area, with one notable rally in New York City where cars stopped in front of Trump Tower on Fifth Avenue to show support for the president."
     publishedDateTime: 2020-10-25T19:28:26Z
@@ -190,6 +206,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20311124849265.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump campaign taps Rep. Doug Collins to lead recount team in Georgia"
+    excerpt: "The recount will begin as soon as canvassing has ended, the campaign said."
+    publishedDateTime: 2020-11-09T01:26:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AR7bwK7neZE/trump-campaign-doug-collins-georgia-recount"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-doug-collins-georgia-recount.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-doug-collins-georgia-recount.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0af16911-22c2-4bde-bfd0-c000cc5089cd/3299052e-fb0b-4de2-a25b-b74b24486416/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump’s comment at rally raises speculation about Fauci’s future at NIAID"
     excerpt: "President Trump suggested during a Florida rally early Monday that he may fire Dr. Anthony Fauci, the nation's top infectious disease expert, after the election."

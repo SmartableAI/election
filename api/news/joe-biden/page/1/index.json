@@ -6,16 +6,16 @@
       "title": "Factbox: Biden likely to rely on trusted inner circle as he staffs new administration",
       "excerpt": "U.S. President-elect Joe Biden and his aides have spent months gearing up for his transition to the White House, assembling a team that will grow to include several hundred staff members as the Democrat steps into a role he's pursued for decades.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-biden-advisers-idUSKBN27O0R5",
-      "originalUrl": "https://www.reuters.com/article/usa-election-biden-advisers-idUSKBN27O0R5",
+      "webUrl": "https://www.reuters.com/article/uk-usa-election-biden-advisers-factbox-idUKKBN27O0OD",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-election-biden-advisers-factbox-idUKKBN27O0OD",
       "featuredContent": null,
       "highlight": null,
       "heat": 118,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540443787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70M6",
-          "width": 817,
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540439697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70K2",
+          "width": 1023,
           "height": 545,
           "title": null,
           "attribution": null,
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27O0R5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0R5",
-      "publishedDateTime": "2020-11-08T14:54:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27O0OD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0OD",
+      "publishedDateTime": "2020-11-08T13:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -266,7 +266,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -479,7 +479,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-india-harris-idUSKBN27L0XU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2530,
+      "heat": 2590,
       "tags": null,
       "images": [
         {
@@ -1490,6 +1490,54 @@
       ]
     },
     {
+      "path": "_news/2020-10-29-watch-barack-obama-campaigns-for-joe-biden-at-orlando-florida-event.md",
+      "title": "Watch: Barack Obama Campaigns For Joe Biden At Orlando, Florida Event",
+      "excerpt": "Former President Barack Obama will campaign for Joe Biden at an Orlando, Florida event on Tuesday afternoon, one week ahead of the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/524824.jpg",
+          "width": 908,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T21:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-wsj-opinion-vote-for-joe-biden-seriously.md",
       "title": "WSJ Opinion: Vote for Joe Biden? Seriously?",
       "excerpt": "Joe Biden is Bernie Sanders in sheep’s clothing. Compared to the Democrats’ grim vision of America, President Trump is the optimist. Images: AFP/Ge",
@@ -1526,63 +1574,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-ben-shapiro-calls-biden-a-gateway-drug-to-radicalism-not-a-return-to-normalcy.md",
-      "title": "Ben Shapiro calls Biden a 'gateway drug to radicalism', not a return to normalcy",
-      "excerpt": "Joe Biden has based his presidential campaign on a promise to restore \"normalcy\" if he unseats President Trump, but the former vice president will act as nothing more than \"a gateway drug to radicalism,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ben-shapiro-biden-gateway-drug-radicalism",
-      "originalUrl": "https://www.foxnews.com/media/ben-shapiro-biden-gateway-drug-radicalism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee29d0-c3c3-44ce-bfe5-fc7de7e56021/ace30db7-d411-4eb0-8ba1-fad27222a5e3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

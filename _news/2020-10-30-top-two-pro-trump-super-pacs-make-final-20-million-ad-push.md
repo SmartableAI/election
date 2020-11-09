@@ -253,6 +253,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump campaign holds protest in Las Vegas to decry irregularities, claim ‘dead people,’ non-Nevadans voted"
+    excerpt: "The Trump campaign held a Sunday afternoon press conference outside the Clark County Elections Department in Las Vegas to denounce alleged irregularities in last week’s election.  "
+    publishedDateTime: 2020-11-09T01:05:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzj9joR7Go8/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313858920634.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "PA GOP leaders urge people to 'relax,' report fraud concerns to law enforcement amid Trump campaign objections"
     excerpt: "Top Pennsylvania Republicans, speaking with the press on Friday, urged people to \"relax\" as tensions run high in the battleground state and President Trump's campaign makes allegations of potential election-related wrongdoing, specifically in Philadelphia. "
     publishedDateTime: 2020-11-06T21:49:25Z

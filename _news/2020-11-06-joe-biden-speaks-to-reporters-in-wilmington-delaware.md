@@ -57,6 +57,22 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "Facing a divided U.S., Biden and aides plan for the 'hard work of governing'"
+    excerpt: "Joe Biden and his advisers on Sunday were working on plans to tackle the crises facing a divided America, first and foremost the raging coronavirus pandemic, a day after the Democrat won enough states to clinch the U."
+    publishedDateTime: 2020-11-09T02:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/biden-urges-healing-and-cooperation-after-defeating-trump-for-u-s-presidency-idUSKBN27O06Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O06Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O06Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540418131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA708M"
+        width: 753
+        height: 545
+        isCached: true
   - title: "Biden rebuilding 'blue wall' in race for the White House"
     excerpt: "Democrat Joe Biden was pushing closer to the 270 Electoral College votes needed to carry the White House, securing victories in the “blue wall” battlegrounds of Wisconsin and Michigan, and narrowing President Donald Trump's path."
     publishedDateTime: 2020-11-05T07:46:00Z

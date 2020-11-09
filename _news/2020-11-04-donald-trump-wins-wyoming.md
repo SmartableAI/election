@@ -281,10 +281,10 @@ related:
         isCached: true
   - title: "Trump will lose special Twitter protections in January"
     excerpt: "U.S. President Donald Trump will be subject to the same Twitter Inc rules as any other user when President-elect Joe Biden takes office on Jan. 20, the social media company confirmed this week."
-    publishedDateTime: 2020-11-08T22:56:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-socialmedia-idINKBN27O0R1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27O0R1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27O0R1"
+    publishedDateTime: 2020-11-08T22:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-socialmedia-idUSKBN27O0MQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0MQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0MQ"
     type: article
     provider:
       name: Reuters

@@ -735,6 +735,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "What a Joe BIden-Kamala Harris administration means for markets, tech, healthcare, cannabis, and Donald Trump"
+    excerpt: "The AP, NBC, CNN, The New York Times, and The Washington Post called the presidential election for Joe Biden shortly after 11 a.m. ET Saturday."
+    publishedDateTime: 2020-11-09T03:22:00Z
+    webUrl: "https://www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 146
+    images:
+      - url: "https://i.insider.com/5fa81e7d1df1d500182197b1?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Harris: 'Insulting' to suggest she or Biden would attack someone for their faith"
     excerpt: "Democratic vice presidential nominee Kamala Harris on Wednesday shot back at Vice President Pence after he accused Democrats of targeting Supreme Court nominee Amy Coney Barrett over her Catholic faith,"
     publishedDateTime: 2020-10-08T03:24:00Z
@@ -8049,6 +8065,15 @@ related:
     excerpt: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a"
     publishedDateTime: 2020-11-06T21:58:00Z
     webUrl: "https://www.c-span.org/video/?477893-1/joe-biden-senator-kamala-harris-address-nation"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
+  - title: "Joe Biden and Kamala Harris Victory Speeches"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation from Wilmington, Delaware, after being declared the winners of the 2020 presidential election. President-elect Biden said the American people have \"delivered us a clear victory,"
+    publishedDateTime: 2020-11-09T02:03:00Z
+    webUrl: "https://www.c-span.org/video/?477916-1/president-elect-joe-biden-vice-president-elect-kamala-harris-address-nation&live"
     type: article
     provider:
       name: C-SPAN
