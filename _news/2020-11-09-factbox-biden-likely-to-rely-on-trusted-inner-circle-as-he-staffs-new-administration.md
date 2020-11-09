@@ -2,14 +2,14 @@
 category: news
 title: "Factbox: Biden likely to rely on trusted inner circle as he staffs new administration"
 excerpt: "U.S. President-elect Joe Biden and his aides have spent months gearing up for his transition to the White House, assembling a team that will grow to include several hundred staff members as the Democrat steps into a role he's pursued for decades."
-publishedDateTime: 2020-11-08T16:46:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-biden-advisers-factbox/biden-likely-to-rely-on-trusted-inner-circle-as-he-staffs-new-administration-idUSKBN27O0NH"
-webUrl: "https://www.reuters.com/article/us-usa-election-biden-advisers-factbox/biden-likely-to-rely-on-trusted-inner-circle-as-he-staffs-new-administration-idUSKBN27O0NH"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0NH"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0NH"
+publishedDateTime: 2020-11-08T22:54:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-biden-advisers-idUSKBN27O0R5"
+webUrl: "https://www.reuters.com/article/usa-election-biden-advisers-idUSKBN27O0R5"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0R5"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0R5"
 type: article
-quality: 98
-heat: 98
+quality: 118
+heat: 118
 published: true
 
 provider:
@@ -24,6 +24,12 @@ topics:
   - Election
   - Joe Biden
 
-secured: "XbGc9KZof1qHUKnityb+06UX/Eo99ta5BCb0D9WweQV4KnjlJ+niUoIhF8qE7fYIlwraWyjzHoLiBuDsuKXlEi1UFNuR/JMwaNUGIN/SKJAed6SJx0vaXeN3oPVMkim8XF2YnfUawo2ULEdrCYoGF84tDIMYkFnPNwd8ESu7cCxrM9zroz3RZHs8TA0Nj9xmhEW0se5vx5qwB+8BbNccZzr0vIgVo/2APVW9HCk1lQOqb6mxVkEcD7MUefQpx+b/nWSYl6zidc0GVmtW1wD6kXp0Do7wxkM/bSP9I0Szo7z5JZ0NnWclMoX6zha0WwePgvTx+PQwKNkuOxndJjhvifhgsDjwEnSBBFthwwP5fNE=;Qo450Fl2t9jwRl8ZPC8SeQ=="
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540443787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70M6"
+    width: 817
+    height: 545
+    isCached: true
+
+secured: "O1nP6twVCdBaZZohBBvlG1AnB9Xn5ROOt3gminl6LmXNruE+/VfFKv1PwiuopnXAJo8YkoNO3EqVnxFssGlpcIAFIsGFBd+iNx7foVhTIFAQekG+d9PozlkVhOgpVAvJM9y/V+bwHavqN1pY9mYtTfS0cvFWGh0l3hgybONQcRZxabvWc538SYhMVNCLzqPHNLofsK5JHe9RtGkNlhN+lfRPHcH5XYdAn8SKL1SD9ZGx5WjV5fvbEzuu2L1Z3GCsn+iL4vvaxHN3wnjpTiGfVHYKlwEVHGP1uXBzUIWvTcK3HtqTM99Gawg9sgkx2jn3XQDHkFZs82S3mIk56Zwz1lV6fPKmxqlZ/DG3GZeHB1k=;cJI+quC4DpgV9Z9BdPNdCw=="
 ---
 

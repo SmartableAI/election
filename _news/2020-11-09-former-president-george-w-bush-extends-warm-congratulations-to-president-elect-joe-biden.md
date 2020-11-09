@@ -8,6 +8,9 @@ webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/georg
 ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
 type: article
+quality: 115
+heat: 135
+published: true
 
 provider:
   name: USA Today
@@ -27,6 +30,22 @@ images:
     height: 675
     isCached: true
 
-secured: "ySGFL3i22J9ZrZEiLevsTSnyvu2lqIIRAT7YGf1zs289qRvZQNPfOL3P6Db3+XRQU42x/dMLdiknyHqoJwkfHmI6jZGZFoaoyVfBm6/GQtBXagktCE81x2vsrm3u7RowSA5jDeDwezjqhyR2cEgo9hKqxwMjvvUKu/WOX4zotb2GrqDJSsi8KQeJIYMlVtU+AvB9QdHsfrY6uoCSOfb/Mbh690pVAnV//mT3Eb2bFfX8bpxImKp3haiMr1887sBU0nAWczMy3QT2Kl1aRgAFC1+nEdh4vJNX3Hc75Bkjl1cCETY254SOyqsFJ+Py89r2+rVCpUtJNJukv9o4Dxc3RzHvDjDjPLO39fQFC0BUL28=;nsfQ0oB8lLT7r15eNq5xCA=="
+related:
+  - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
+    excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
+    publishedDateTime: 2020-11-04T22:17:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/04/2020-election-biden-calls-unity-votes-continue-counted/6166567002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b032550d-b933-4d85-b020-924b79592f45-VPC_ELECTION_DESK_THUMB.00_00_33_12.Still005.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "Lnv2CxdvT68FpmzaktKD1D++fdCC6aWV9tqlEtMxIb3/lNVp2ipq4XLmfE6NtKLt+lh/AoJZ7VTZxx6799sR61SQkMnZGLWCMoqBbljTCVUhKQn69y+jhYcGaR3o2Nch7Xf7rZlRih8XyogyhGNpg44BD9PRc/Jjnq/WtYtAxyHL5QWaBYSBW9u+aGlpJJmhFPiyEepbrhNZd0DHDto6G5otS9rLREOzIxPStZMwJrXDYedGwPrrjhaH5ZXiOwH6quV2fCJ6RYo6B1CGbkmtKY+5H9j3bDS8JxHZWPU1KYHN84OLi5PtFlF7k9OS4RXwSUcc3t1DjCJnj2DfIa/TrvD7B6U/O5vWPwvKaZnQJk0e/lDu0kjwUI5/JdyfBZ7J04AlBjLBXaZfxKGlF43qL8nLyaRRukXcFkHK+BmM4u4pzKQ4dqTG2aqlqEkfgshvPAJU3pmqDJOKO7miar8hG9ulubVw58gomRXHmhHaageCb64/yOnnrom+BJyrWycgbNTd4KNLMDgr+84xGeLuGg==;AJnLWkSYfx4P1E8cDlMjeQ=="
 ---
 

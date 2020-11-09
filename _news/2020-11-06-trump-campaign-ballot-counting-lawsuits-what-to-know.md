@@ -237,6 +237,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cruz insists Trump 'still has a path to victory,' vote count lawsuits could 'easily' reach Supreme Court"
+    excerpt: "Sen. Ted Cruz insisted on Sunday that President Trump \"still has a path to victory\" and predicted the Trump team's legal battle could reach the Supreme Court."
+    publishedDateTime: 2020-11-08T17:37:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nkT2R3QR2v4/cruz-trump-path-to-victory-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-trump-path-to-victory-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-trump-path-to-victory-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310575791231-e1604598266506.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Top two pro-Trump super PACs make final $20 million ad push"
     excerpt: "The two leading super PACs that are supporting President Trump's re-election bid are teaming up to shell out $20 million to run ads on TV and digital in seven crucial general election battleground in the closing stretch leading up to Election Day on Tuesday."
     publishedDateTime: 2020-10-30T23:11:39Z

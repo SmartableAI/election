@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Kamala Harris, elected V.P., has risen higher in national politics than any woman before her."
-excerpt: "Kamala Harris, a senator from California and former presidential candidate, made history when she was elected vice president of the United States. Her victory represents a handful of firsts: She will be the first woman,"
+excerpt: "Question, I will repeat —” — and music — ♫ “One nation under a groove —” ♫ California Senator Kamala Harris is making history as the first woman, and first woman of color, elected vice president. “Let’s talk about who is prepared to lead our country over the course of the next four years."
 publishedDateTime: 2020-11-08T08:12:00Z
-originalUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.html"
-webUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.html"
-ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
+originalUrl: "https://www.nytimes.com/2020/11/08/us/elections/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.html"
+webUrl: "https://www.nytimes.com/2020/11/08/us/elections/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.html"
+ampWebUrl: "https://www.nytimes.com/2020/11/08/us/elections/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/elections/kamala-harris-elected-vp-has-risen-higher-in-national-politics-than-any-woman-before-her.amp.html"
 type: article
 quality: 124
 heat: -1
@@ -272,6 +272,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Here’s What Kamala Harris Faces as a ‘First’"
+    excerpt: "Amid the celebratory memes rocketing around yesterday, other women of color who’ve cracked through ceilings have some advice: Buckle up."
+    publishedDateTime: 2020-11-08T21:55:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/11/08/heres-what-kamala-harris-faces-as-a-first-435186"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/11/08/heres-what-kamala-harris-faces-as-a-first-435186"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/11/08/heres-what-kamala-harris-faces-as-a-first-435186"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/dc/e7/b5a250404381ab3e547e0c0345f6/kamala-override.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote"
     excerpt: "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”"
     publishedDateTime: 2020-11-03T02:30:00Z
@@ -285,6 +301,22 @@ related:
     quality: 134
     images:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/kamalalastrally.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Kamala Harris’ ancestral village in Indian celebrates politicians success"
+    excerpt: "Kamala Harris’ ancestral village in Indian lit fireworks and played music to celebrate the California politician’s success in the U.S. elections. Harris, who will become Vice President, has Indian and Jamaican heritage,"
+    publishedDateTime: 2020-11-09T00:08:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-ancestral-village-in-indian-celebrates-politicians-success-95555141952"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95555141952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95555141952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/India-celebrations-thumbnail.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -378,6 +410,6 @@ related:
       domain: nytimes.com
     quality: 115
 
-secured: "J+2NHfAG69nCJybcYqWV/MNjGtFpvvxuZ7asbSJenHmDvm90RLQWgtYDQCWeT0LajPIz4fnn5z48SgufwWdbvfZRcDwnuTVtraS2NfFKdDhQsCoZ69faRWg+o+ermEr5RxTBjkm5CujygYc/clfkq/iGQDnpYMhNQuAElsmJ5liPPyu7uI4SrFnswzdi3gkx82DCtTUBC0cLOxSaTPhsCevuypJL+jRsxQZSFXv/R1Md8NnOe67ucHdYKQD7cISGfH4v/JxGCh3mPAXeX74SpLtxUWmAudG/zzUjibO6/W7xA/8uNh5L5AgnjIlG3Ee7fyUO5k1u4K1rlE0oQG3bVTcY7wJgPSEeFDOFlGKAvzoWDQb+r8T6gRBSZw7D7VJOKdmwI4JkktCG1sj0fGNDqC8ZkbZoONCIc6pfTbKwQV4Xi6/fBO6nwYBKB4xrWkQNBjKhfnXhcBw0/9Y3ZAPqx3nlULgIC4aERxBNEm08WFzNNpYv/hB6UKR3WzPaRxwUKVwttZzuhvD4gKq0+Oo9OQ==;9iJArc/VBfJQrnbBd0iyHQ=="
+secured: "LSX3Cic8XlwsstPbcjmpC2AJwy78VSFnrtcKmkItog1pFHZ7mZbvWc+oAWLT62oRAJ6VB8WsD8MObs2tW4wppsQMSFfYXmGe0is+rl+3xoOduQOsplh91tg+r/+6uBg32V8ZJVIFZcAfY/DrDXR5JVlvQYLdleFPQ+FGRkSLS3D+GWH8IfAMI4s3ATh5gTRUi9oTJZ0haru1LAO3zYx2KUBlAoXN0DerYuCzMpTb/EFnl6CL7wzei1c9s9AobaLxlBd9WYiC58FsvbLU9W32xWutbl0yGU+Bf17CF+54jwT5sudMirESTsFIuCVPuHmCK6faBEp6z714F/BD7tPQLV3WFY0/muXLJSFEyPTtNMM=;rm4ICOGzIkQgZhx/IBegyg=="
 ---
 

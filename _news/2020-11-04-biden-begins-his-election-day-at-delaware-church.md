@@ -93,6 +93,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Biden charts ambitious new plan to turn around pandemic"
+    excerpt: "As the nation heads into its darkest period yet on the pandemic, President-elect Joe Biden said he plans to designate several public health and government experts to chart a new path -- a move that signals he is ready to impose drastic new steps on Day 1 of taking office."
+    publishedDateTime: 2020-11-08T17:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-charts-ambitious-plan-turn-pandemic/story?id=74091451"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-charts-ambitious-plan-turn-pandemic/story?id=74091451"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-charts-ambitious-plan-turn-pandemic/story?id=74091451"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/covid-plan-joe-biden-02-gty-llr-201108_1604851098523_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Factbox: Congratulations for Biden from America's politicians and celebrities"
     excerpt: "Former U.S. presidents, politicians from both Republican and Democratic parties and celebrities congratulated Democrat Joe Biden on Saturday for winning the U.S. presidential election over Republican incumbent Donald Trump."
     publishedDateTime: 2020-11-07T20:45:00Z
@@ -107,6 +123,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540383713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60QP"
         width: 814
+        height: 545
+        isCached: true
+  - title: "Gulf markets mixed as Biden win is no 'make or break' for regional economies"
+    excerpt: "Gulf stock markets were muted on Sunday after Joe Biden's U.S. election victory, reflecting expectations that his administration will not bring radical changes to the region's struggling economies."
+    publishedDateTime: 2020-11-08T22:50:00Z
+    webUrl: "https://www.reuters.com/article/mideast-stocks-gulf-int/gulf-markets-mixed-as-biden-win-is-no-make-or-break-for-regional-economies-idUSKBN27O0QT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0QT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0QT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540443756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70M2"
+        width: 821
         height: 545
         isCached: true
   - title: "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments"

@@ -445,6 +445,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump returns to White House after golf outing"
+    excerpt: "President Donald Trump returned to the White House Sunday from his golf Club in suburban Virginia. he president's motorcade passed a group of cheering demonstrators at the entrance to the golf club and passed more near the White House."
+    publishedDateTime: 2020-11-08T23:00:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/08/trump-returns-white-house-after-golf-outing/6216689002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43f221d5-8ea4-4f0a-8d0b-766a6c73cda5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Here Are the All the Lawsuits the Trump Campaign Has Filed Since Election Day—And Why Most Are Unlikely to Go Anywhere"
     excerpt: "It was the latest indication that, even as Trump’s path to victory evaporates, his campaign will continue to fight the outcome in court. This week alone, the Trump campaign blitzed state and federal courts with roughly a dozen new lawsuits,"
     publishedDateTime: 2020-11-07T17:51:00Z

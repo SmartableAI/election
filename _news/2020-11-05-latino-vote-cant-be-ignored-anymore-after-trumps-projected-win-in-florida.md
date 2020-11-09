@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/latino-vote-2020-election/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/latino-vote-2020-election/"
 type: article
 quality: 122
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Inside the Dems' Florida flop: Turnout, rural success propelled Trump in the Sunshine State"
+    excerpt: "But that alone does not explain why Biden lost the state by about 375,000 votes, a substantial gap in a state known for paper-thin margins. An analysis of post-election data shows that several factors played into the Democrats' bad day."
+    publishedDateTime: 2020-11-08T18:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/how-donald-trump-won-florida-rural-success-beat-joe-biden/6214043002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6214043002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6214043002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/30/NPPP/6e5b7ee4-f6f8-4bbf-8765-e922a7017e91-Election_2020_Biden.jpg?auto=webp&crop=5718,3217,x0,y290&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "4URrjHClBchBAQmIX9TyrI7VW1czQwixDwDmPIDi4Ip2yqink2qBz44j/g/aFd7OHGs62T01YPFQ/xsNlb+Az3Oh33cS6icIDj96lgSAOJGXAB28bVG3jAgHBGNP/QJxXUhVy1C4QJP48S2LAmCujmSEGHJoN0cz0iwxFSYQnDPifrGUVb9boS4I6/L1fXJ1G3ju8O8+/g8IRcGz4QfnBe14lD+OAbcBT+CLptKv3/ww+LB3u8PTBBvdsP16qwm+2tG29mfp9ShRFH1Ms/k5XtQpospM/nc7xx7GlZz67wN3iuEJ1gVVnZZzV5ijR4EcdSov8mBZ7m+wrsOs/ftfGP2MQcCLWKZiVDhYvZq5tyk=;dqYnRsEUR1X8v45aSBlnSg=="
 ---

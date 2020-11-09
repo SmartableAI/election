@@ -75,6 +75,38 @@ related:
         width: 840
         height: 587
         isCached: true
+  - title: "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election"
+    excerpt: "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president."
+    publishedDateTime: 2020-11-08T19:32:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 83
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
+        width: 1024
+        height: 715
+        isCached: true
+  - title: "Who Gavin Newsom might pick for a U.S. Senate seat to replace Kamala Harris"
+    excerpt: "Now that Sen. Kamala Harris is set to become the next vice president, Gov. Gavin Newsom has a big decision to make. Meet some of the top contenders."
+    publishedDateTime: 2020-11-08T17:48:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 73
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=0faff2a7-5a0b-5821-ba95-651d49da4456&type=primary&q=72&width=1200"
+        width: 1199
+        height: 837
+        isCached: true
   - title: "A trio of firsts: Projected win busts Kamala Harris through politics' glass ceilings"
     excerpt: "The celebrations for Democrats’ projected White House win Saturday included an outpouring of excitement for presumed Vice President-elect Kamala D. Harris making history."
     publishedDateTime: 2020-11-07T18:38:00Z

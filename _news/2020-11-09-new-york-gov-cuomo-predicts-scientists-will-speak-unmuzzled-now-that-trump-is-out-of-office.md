@@ -8,6 +8,9 @@ webUrl: "https://www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-
 ampWebUrl: "https://www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11?amp"
 type: article
+quality: 112
+heat: 112
+published: true
 
 provider:
   name: Business Insider

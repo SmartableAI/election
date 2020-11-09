@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Palestinian President Abbas congratulates Joe Biden - statement"
+    excerpt: "Palestinian President Mahmoud Abbas on Sunday congratulated U.S. President-elect Joe Biden in a statement issued from his headquarters in the West Bank city of Ramallah.\"I congratulate President-elect Joe Biden on his victory as President of the United States of"
+    publishedDateTime: 2020-11-08T16:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-palestinians-idUSKBN27O0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540426012&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70DW"
+        width: 778
+        height: 545
+        isCached: true
   - title: "Instant View: With Pennsylvania and Georgia, Biden on doorstep of White House"
     excerpt: "Wall Street shares backpedaled on Friday, while the U.S. dollar pared losses after Democrat Joe Biden pulled ahead of President Donald trump in two battleground states that could put him in the White House."
     publishedDateTime: 2020-11-06T20:12:00Z

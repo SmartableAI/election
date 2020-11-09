@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mccarthy-expects-four-more-years-fo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-expects-four-more-years-for-trump-election.amp"
 type: article
 quality: 186
-heat: 226
+heat: 246
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP Leader McCarthy Backs Trump's Legal Challenges to Vote Counts"
+    excerpt: "House Minority Leader Kevin McCarthy expressed support Sunday for the Trump campaign’s legal challenges to the presidential election results, joining other Republican lawmakers who have taken a similar stance."
+    publishedDateTime: 2020-11-08T20:13:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/M5Du9vmqlx2n4E2ZgO6O"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 95
 
 secured: "zckfF75i74KtOlDzU6p1JBtEGQEY77K3PhClX3Nd3niFXCvGCgrktJ0GNVG1FNJrU8AJIrtz1erk4m5LU2lD4/8TbyX7AZTSqNXwZ3cZMoQoOewTL5AMOhL9D7F6wB19vLpIjT8q24oMmK1OIpcRCYNtBUC45vfBCHue/85T/cC2ajFLRkYRnhKjWwvABHxga/oDC7ValCK8NXQqONfw2TwK1oR/4Ve81XOR6jpsmIE1aTIAql3VV7BdA+R5rb+4iHmQU1xlTD9vrmBCPzvomGnl32iji8pdRwC/IMegdKLSz1HM7DGQYtJffHYezs+r0kgmJXn/LGRdlfelvK0b0QgAdFhAHgPmvWsast7ov7c=;eA/HtYJPbuBr9+LYnAcXnQ=="
 ---

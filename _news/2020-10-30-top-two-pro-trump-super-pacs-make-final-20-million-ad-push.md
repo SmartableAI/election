@@ -237,6 +237,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cruz insists Trump 'still has a path to victory,' vote count lawsuits could 'easily' reach Supreme Court"
+    excerpt: "Sen. Ted Cruz insisted on Sunday that President Trump \"still has a path to victory\" and predicted the Trump team's legal battle could reach the Supreme Court."
+    publishedDateTime: 2020-11-08T17:37:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nkT2R3QR2v4/cruz-trump-path-to-victory-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-trump-path-to-victory-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-trump-path-to-victory-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310575791231-e1604598266506.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "PA GOP leaders urge people to 'relax,' report fraud concerns to law enforcement amid Trump campaign objections"
     excerpt: "Top Pennsylvania Republicans, speaking with the press on Friday, urged people to \"relax\" as tensions run high in the battleground state and President Trump's campaign makes allegations of potential election-related wrongdoing, specifically in Philadelphia. "
     publishedDateTime: 2020-11-06T21:49:25Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0NT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden and aides plan for the 'hard work of governing' a divided U.S"
+    excerpt: "A day after clinching the U.S. presidency, Democrat Joe Biden and his advisers were working on Sunday on how to address the nation's coronavirus crisis while reinforcing his intention to bridge America's gaping political divisions."
+    publishedDateTime: 2020-11-08T23:05:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-wins-us-presidency-calls-for-healing-in-appeal-to-trump-voters-idUSKBN27M0U3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540412364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA7070"
+        width: 796
+        height: 545
+        isCached: true
   - title: "Biden rebuilding 'blue wall' in race for the White House"
     excerpt: "Democrat Joe Biden was pushing closer to the 270 Electoral College votes needed to carry the White House, securing victories in the “blue wall” battlegrounds of Wisconsin and Michigan, and narrowing President Donald Trump's path."
     publishedDateTime: 2020-11-05T07:46:00Z

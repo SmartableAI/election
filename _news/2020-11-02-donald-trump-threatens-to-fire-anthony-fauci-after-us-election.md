@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
 type: article
 quality: 140
-heat: 720
+heat: 740
 published: true
 
 provider:
@@ -443,6 +443,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2d765f1d-35e6-4a14-a864-8d62527bd69f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump returns to White House after golf outing"
+    excerpt: "President Donald Trump returned to the White House Sunday from his golf Club in suburban Virginia. he president's motorcade passed a group of cheering demonstrators at the entrance to the golf club and passed more near the White House."
+    publishedDateTime: 2020-11-08T23:00:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/08/trump-returns-white-house-after-golf-outing/6216689002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43f221d5-8ea4-4f0a-8d0b-766a6c73cda5_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

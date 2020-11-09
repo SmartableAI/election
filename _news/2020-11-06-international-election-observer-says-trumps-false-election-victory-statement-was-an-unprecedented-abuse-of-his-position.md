@@ -301,6 +301,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Campaign leaders agree Ohio still a battleground despite Donald Trump's two victories"
+    excerpt: "Ohio campaign leaders for both President Donald Trump and former Vice President Joe Biden said Thursday that Ohio is still a battleground."
+    publishedDateTime: 2020-11-08T20:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6149084002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6149084002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/05/NCOD/313f5c19-f353-49b3-a68a-8ef0bfe7b9a8-vote_rally_JB_01.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Florida judge leading a vote-counting board donated to Trump 12 times, breaking judicial rules"
     excerpt: "The Florida judge leading Duval County’s vote-counting board has donated repeatedly to President Trump’s re-election campaign."
     publishedDateTime: 2020-10-29T14:50:00Z

@@ -843,6 +843,36 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Kamala Harris to be vice president who graduated from HBCU"
+    excerpt: "Vice President-elect Kamala Harris is the first woman, person of color and graduate of an Historically Black College and University to be elected vice president. Harris graduated from Howard University in 1986."
+    publishedDateTime: 2020-11-09T00:23:00Z
+    webUrl: "https://www.cbsnews.com/video/vp-elect-kamala-harris-projected-win-is-changing-history/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/09/ab397486-f7db-4c19-8886-334111053b66/thumbnail/1200x630/db7e3bc6a388f189adaaf13c2233e0ff/cbsn-fusion-vp-elect-kamala-harris-projected-win-is-changing-history-thumbnail-583789-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris' Indian ancestral village celebrates her victory as she becomes Vice President of the United States"
+    excerpt: "Thulasendrapuram, population 350, was the Indian home of Harris' maternal grandfather, P.V. Gopalan."
+    publishedDateTime: 2020-11-08T17:34:00Z
+    webUrl: "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5fa821d11df1d500182197b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden moves ahead in Georgia and Pennsylvania, moving closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to"
     publishedDateTime: 2020-11-06T14:54:00Z
@@ -947,6 +977,20 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-20-Debate_77097129.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Indian-Americans Rejoice As Kamala Harris Prepares To Become The Next Vice President"
+    excerpt: "Harris will not only be the first Black, and first female, vice president. She's also the first Indian American and the first Asian American elected to the office."
+    publishedDateTime: 2020-11-08T18:21:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-2020-election-results/2020/11/08/932824125/indian-americans-rejoice-as-kamala-harris-prepares-to-become-the-next-vice-presi"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/08/gettyimages-1229520920_wide-5986925f0c5feb3f27267ddfb075420cacb31e92.jpg?s=1400"
+        width: 1400
+        height: 786
         isCached: true
   - title: "Supporters across the country took to the streets in glee as Joe Biden secures presidency"
     excerpt: "People celebrated across the country as major media networks projected Joe Biden’s victory in the presidential election."
@@ -1416,6 +1460,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/6664ce33-653a-4fb7-9264-215540db571b-HARRIS_CALLS_BIDEN_DESK.00_00_03_06.Still003.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Here are the songs Joe Biden and Kamala Harris played at their Delaware event"
+    excerpt: "Music played a role in Saturday’s drive-in rally celebrating the victories of Joe Biden, Kamala Harris, and their historic campaign. Here’s a look at the songs that were played, and what we know about why they might have been chosen."
+    publishedDateTime: 2020-11-08T18:28:00Z
+    webUrl: "https://www.bostonglobe.com/2020/11/08/arts/here-are-songs-joe-biden-kamala-harris-played-their-delaware-event/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 67
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_bd__lsx2a-Sp4pGIhtUqLsiL7Y=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/6V2IE3QKO6OSIBYWLLPT5SH26M.jpg"
+        width: 506
+        height: 383
         isCached: true
   - title: "Kamala Harris breaks glass ceiling as first female vice president, first woman VP of color"
     excerpt: "Harris will make history as not only the first woman vice president but also the first African American and Asian American person to hold the office."

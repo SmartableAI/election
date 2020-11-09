@@ -41,6 +41,22 @@ related:
         width: 990
         height: 545
         isCached: true
+  - title: "Biden and aides plan for the 'hard work of governing' a divided U.S"
+    excerpt: "A day after clinching the U.S. presidency, Democrat Joe Biden and his advisers were working on Sunday on how to address the nation's coronavirus crisis while reinforcing his intention to bridge America's gaping political divisions."
+    publishedDateTime: 2020-11-08T23:05:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-wins-us-presidency-calls-for-healing-in-appeal-to-trump-voters-idUSKBN27M0U3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540412364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA7070"
+        width: 796
+        height: 545
+        isCached: true
   - title: "How Wisconsin and Michigan could deliver Biden the presidency"
     excerpt: "The Washington Post’s Philip Bump analyzes how Democratic presidential nominee Joe Biden flipped key states blue in 2020 and what it means for his chances of winning the presidency."
     publishedDateTime: 2020-11-05T02:01:00Z

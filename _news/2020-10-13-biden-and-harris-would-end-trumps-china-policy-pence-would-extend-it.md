@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10860
+heat: 10880
 published: true
 
 provider:
@@ -8069,6 +8069,15 @@ related:
         width: 438
         height: 392
         isCached: true
+  - title: "Deep roots exist between Joe Biden, Kamala Harris and the world of sports"
+    excerpt: "From high school football to a youth dance troupe, President-elect Joe Biden and Vice President-elect Kamala Harris have a long history with sports."
+    publishedDateTime: 2020-11-08T20:18:00Z
+    webUrl: "https://www.cincinnati.com/story/sports/2020/11/08/joe-biden-kamala-harris-sports-histories/6140675002/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 49
   - title: "Sen. Kamala Harris talks women's right to an abortion on second day of Barrett hearings"
     excerpt: "Sen. Kamala Harris highlighted the impact Barrett could have on a woman's right to an abortion on the second day of confirmation hearings."
     publishedDateTime: 2020-10-14T02:18:00Z

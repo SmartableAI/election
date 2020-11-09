@@ -32,35 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Gets an Endorsement From Silicon Valley: Live Business Updates"
-    excerpt: "A group of 11 founders, investors and business leaders from the technology industry endorsed Democratic presidential nominee Joseph R. Biden Jr. in a letter published on Monday, s"
-    publishedDateTime: 2020-11-02T18:50:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
+  - title: "Bush congratulates Biden, says election was 'fundamentally fair' and 'its outcome is clear' "
+    excerpt: "Former President George W. Bush congratulated President-elect Joe Biden in a phone call Sunday and said that, while President Donald Trump has the right to pursue legal challenges and recounts, the 2020 race was \"fundamentally fair\" and \"its outcome is clear.\"\n    \n"
+    publishedDateTime: 2020-11-08T18:01:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3D-5dYj_XeM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/george-w-bush-congratulates-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/george-w-bush-congratulates-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200503144655-george-w-bush-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "George W. Bush congratulates Biden on his victory."
+    excerpt: "The former president became the highest profile Republican to publicly call the election in defiance of President Trump’s refusal to accept the results."
+    publishedDateTime: 2020-11-08T17:48:00Z
+    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/george-w-bush-congratulates-biden-on-his-victory.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/george-w-bush-congratulates-biden-on-his-victory.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/george-w-bush-congratulates-biden-on-his-victory.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/30/business/30markets-brf-markets/merlin_179245557_12422739-1663-479d-9813-613dc9789fb3-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/08/business/08election-blog-bush-01/08election-blog-bush-01-facebookJumbo.jpg"
         width: 1050
-        height: 550
-        isCached: true
-  - title: "POLITICO Playbook PM: The right previews its attacks on a President Biden"
-    excerpt: "THE RIGHT HAS AMPLIFIED the story, but the mainstream press has shot down BOBULINSKI’S claims at every turn. For example, the news pages of The Wall Street Journal reported they couldn’t establish that BIDEN was involved or received money as part of the defunct arrangement."
-    publishedDateTime: 2020-10-28T17:02:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/28/the-right-previews-its-attacks-on-a-president-biden-490735"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 114
-    images:
-      - url: "https://static.politico.com/f7/f6/65fb39804164964ac0bf55341584/gettyimages-1139127483.jpg"
-        width: 1160
-        height: 773
+        height: 549
         isCached: true
 
 secured: "g0EPG24GeXarMzZeg0tgLR+X86Md7Hzsls8/ZAzZoPSQxb0pztJU+G0YmRU3GOe3/0zx61PuDHda2XlS5C9q8LRY+Ofzhyu7H/G1LKv7LNeUIgS6wyuATDhh8FtzsmDID6skU6viA4i0+7HjQSn7dnynxrcXsBWII2debVSXJ+Mc5KyNInnf0Wc943PF30mjHGSwVDaBCiN/Iy8pjKO4T12JAH+TWalAi+cAJS7gnlWYO/eB03w7tQqK+I5CqwrWtm1tOcvOrszL+iTS9TClBd8DO2BzrvOxnLbFHhsYatfcOX6yf4Prp6V8RI4SVbzslBtiJngAAbMcS6oaweyvaFr1pPdlnW6bwqdzycVGiH8=;tU1Iwt2IB7bp+ROmRYF/iA=="

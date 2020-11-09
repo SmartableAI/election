@@ -208,6 +208,15 @@ related:
         width: 1245
         height: 713
         isCached: true
+  - title: "Democrats fear McConnell veto over Biden agenda "
+    excerpt: "President-elect Joe Biden's agenda in Washington may only go as far as Mitch McConnell lets him.\n    \n"
+    publishedDateTime: 2020-11-08T18:47:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t9LTAS8Tj1E/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
   - title: "NBC News projects Biden will win Nebraska's Second Congressional District"
     excerpt: "NBC News projects that Joe Biden will win an electoral vote from Nebraska's Second Congressional District in the 2020 presidential race."
     publishedDateTime: 2020-11-04T06:49:00Z

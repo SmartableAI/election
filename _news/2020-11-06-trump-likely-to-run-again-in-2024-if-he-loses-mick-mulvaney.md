@@ -7,7 +7,7 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-2024-mick-mulvaney"
 type: article
 quality: 155
-heat: 156
+heat: 155
 published: true
 
 provider:

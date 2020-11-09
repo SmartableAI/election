@@ -63,6 +63,15 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP Leader McCarthy Backs Trump's Legal Challenges to Vote Counts"
+    excerpt: "House Minority Leader Kevin McCarthy expressed support Sunday for the Trump campaign’s legal challenges to the presidential election results, joining other Republican lawmakers who have taken a similar stance."
+    publishedDateTime: 2020-11-08T20:13:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/M5Du9vmqlx2n4E2ZgO6O"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 95
 
 secured: "ijfCVnTO5nUpEGBwPmykNQgnnrbkHa3bXMeozF5l3+tD2CKJ7y9UOWOUccPwHRzCUXsFLuMTpJk6YNds14hQ2rbAFXCsJbufdZEqVQhkUcTg+Mz8CGdm38O1sJUWTbUF3HWA6FzjTyzmOZnpxwKJtO+dSlkoVnz0VCkk/51ZKhKnh1tO8N0sDv+Rkj1T+iT/qkdA9kj4RnnTwpFtwcFF58/ZTL6JKjVZGm+QW1dpZ/BrqjyZsgw2391WcBhsRsFyq6+FIvkjSH4rW/ASjIQbwvLaDJiJLP26NFcBuGhzIeFksQGsGZYITcica+pa5UzTwGKMOqxn/F/1o2E82Wul5JxCazX+I+JaNTkRgs8skQg=;8vk7wNpEXQeJnvJuFiYHlg=="
 ---

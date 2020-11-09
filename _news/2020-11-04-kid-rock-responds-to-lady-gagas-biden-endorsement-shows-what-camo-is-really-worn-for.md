@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6148835002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6148835002"
 type: article
 quality: 116
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Read former President George W. Bush's full statement congratulating President-elect Joe Biden"
+    excerpt: "\"Though we have political differences, I know Joe Biden to be a good man, who has won his opportunity to lead and unify our country,\" he said."
+    publishedDateTime: 2020-11-08T18:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/read-george-w-bushs-full-statement-congratulating-joe-biden/6214070002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6214070002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6214070002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/93529e1e-bf69-405c-ac3a-5ad8a1a615f7-AFP_AFP_8UV2MW.jpg?auto=webp&crop=2705,1521,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Verbum Ultimum: Joe Biden for President"
     excerpt: "Joe Biden is the only acceptable option on Nov. 3. by The Dartmouth Editorial Board \\| 28 minutes ago. With Election Day a mere four days"
     publishedDateTime: 2020-10-30T06:33:00Z

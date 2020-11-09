@@ -8078,6 +8078,15 @@ related:
         width: 438
         height: 392
         isCached: true
+  - title: "Deep roots exist between Joe Biden, Kamala Harris and the world of sports"
+    excerpt: "From high school football to a youth dance troupe, President-elect Joe Biden and Vice President-elect Kamala Harris have a long history with sports."
+    publishedDateTime: 2020-11-08T20:18:00Z
+    webUrl: "https://www.cincinnati.com/story/sports/2020/11/08/joe-biden-kamala-harris-sports-histories/6140675002/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 49
   - title: "Senator Kamala Harris Speaks at Biden Campaign Event in Jacksonville, Florida"
     excerpt: "Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Jacksonville, Florida, voter mobilization event. It was the state's first day of in-person voting."
     publishedDateTime: 2020-10-20T17:21:00Z

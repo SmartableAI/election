@@ -25,51 +25,35 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Column: White House of Horrors: A Halloween-themed poem about Donald Trump"
-    excerpt: "The latest TrumPoem, a rhyming account of the presidency of Donald J. Trump, loosely based on his words and acts."
-    publishedDateTime: 2020-10-30T10:11:00Z
-    webUrl: "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 123
-    images:
-      - url: "https://www.chicagotribune.com/resizer/j-XTbKD9PYU9tz4KDyqMTvFLhiQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/NZWX7L47I5C4LGNNJC3VIP5CPM.jpg"
-        width: 1200
-        height: 802
-        isCached: true
-  - title: "Trump books are all the 'Rage': 10 books that offer a peek inside the White House"
-    excerpt: "Here are 10 of the most insightful titles about President Donald Trump and his White House, and what we learned from reading them."
-    publishedDateTime: 2020-10-25T14:07:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/10/25/donald-trump-books-inside-white-house-michael-cohen-john-bolton/3498535001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3498535001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498535001"
+  - title: "Rally during the tally: Trump fans show support on West Palm Beach"
+    excerpt: "While the nation awaited election results Thursday night, Trump supporters took to the streets of West Palm Beach to show support for the president."
+    publishedDateTime: 2020-11-08T20:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/state/2020/11/05/donald-trump-supporters-rallied-95-overpass-during-rush-hour/6177902002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6177902002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6177902002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/06/NPPP/f32e3dd9-8563-482c-8487-4815d952faa1-WPB_110620_Trump_02.JPG?auto=webp&crop=5999,3375,x0,y400&format=pjpg&width=1200"
         width: 1200
-        height: 676
+        height: 675
         isCached: true
-  - title: "Stephen Colbert broke down in tears and called Trump a fascist after the president's conspiracy-laden rant at the White House"
-    excerpt: "\"I didn't expect this to break my heart,\" Colbert said, before demanding that Republicans speak up against Trump's unprecedented behavior."
-    publishedDateTime: 2020-11-06T06:51:00Z
-    webUrl: "https://www.businessinsider.com/stephen-colbert-monologue-trump-white-house-election-remarks-video-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/stephen-colbert-monologue-trump-white-house-election-remarks-video-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stephen-colbert-monologue-trump-white-house-election-remarks-video-2020-11?amp"
+  - title: "Ja'Ron Smith, Trump's highest-ranking Black aide, is leaving the White House"
+    excerpt: "Smith, who in August spoke in favor of Trump's reelection at the RNC, said his exit was planned \"long before the election.\""
+    publishedDateTime: 2020-11-07T16:21:00Z
+    webUrl: "https://www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-highest-ranking-black-aide-has-exited-the-white-house-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 98
+    quality: 122
     images:
-      - url: "https://i.insider.com/5fa4ed02f7d1cb0019e3a256?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa6bc35f7d1cb0019e3a5fd?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

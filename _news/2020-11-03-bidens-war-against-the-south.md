@@ -444,6 +444,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden visits his late son Beau's gravesite after being named president-elect"
+    excerpt: "President-elect Joe Biden on Sunday visited the cemetery where several family members, including his late son Beau, are buried at the Catholic church near his home in Delaware."
+    publishedDateTime: 2020-11-08T20:47:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e_5QqmYyB9I/joe-biden-beau-grave-first-day-president-elect-catholic"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-beau-grave-first-day-president-elect-catholic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-beau-grave-first-day-president-elect-catholic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump campaign adviser Lewandowski predicts clear election winner with Trump victories in major swing states"
     excerpt: "President Trump has warned that Americans may not learn the results of the presidential election until well after Election Day due to certain battleground states extending the deadline for accepting mailed ballots, but Trump campaign senior adviser Corey Lewandowski predicted that Trump will win so decisively"
     publishedDateTime: 2020-11-01T15:08:25Z
@@ -524,6 +540,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's first move as president-elect? Mask mandate for all. Here's how he plans on doing it."
+    excerpt: ""
+    publishedDateTime: 2020-11-08T23:48:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pjl7GXYW3TI/bidens-first-move-as-president-elect-mask-mandate-for-all-heres-how-he-plans-on-doing-it"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-first-move-as-president-elect-mask-mandate-for-all-heres-how-he-plans-on-doing-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-first-move-as-president-elect-mask-mandate-for-all-heres-how-he-plans-on-doing-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7421506b-3c80-471a-9cde-a73afeeafe0c/b6f05093-8627-4221-affe-14df9dac7fbb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden allegations likely why Obama didn’t encourage Biden to run for president: Sen. Johnson"
     excerpt: "The allegations against Hunter Biden are likely the reason why former President Obama “did not encourage the vice president to run” for president, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Sunday Morning Futures” in an exclusive interview."
     publishedDateTime: 2020-11-01T18:36:03Z
@@ -555,6 +587,22 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How Joe Biden Won the Election: Votes From Blue America With Few Gains in Trump World"
+    excerpt: "The President-elect marshaled core Democratic and suburban voters, stitching together many of the diverse constituencies who twice elected President Obama. But there was no wave of change. Mr. Trump increased turnout among his core voters,"
+    publishedDateTime: 2020-11-09T00:08:00Z
+    webUrl: "https://www.wsj.com/articles/how-joe-biden-won-the-election-votes-from-blue-america-with-few-gains-in-trump-world-11604862528"
+    ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-won-the-election-votes-from-blue-america-with-few-gains-in-trump-world-11604862528"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-won-the-election-votes-from-blue-america-with-few-gains-in-trump-world-11604862528"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 158
+    images:
+      - url: "https://images.wsj.net/im-249728/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Joe Biden Fends Off President Trump’s 2016 Playbook"
     excerpt: "Despite attacks, the Democratic nominee has a higher favorability rating than either the president or Hillary Clinton had in 2016."
@@ -748,6 +796,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Jason Aldean's wife Brittany stands up for fellow Republicans, Trump after backlash from Biden supporters"
+    excerpt: "Brittany Aldean, the wife of country singer Jason Aldean, shared her continued support for Donald Trump after facing criticism for lamenting Joe Biden’s win in the election."
+    publishedDateTime: 2020-11-08T16:21:00Z
+    webUrl: "https://www.foxnews.com/entertainment/jason-aldean-wife-brittany-fellow-republican-turmp-backlash-biden"
+    ampWebUrl: "https://www.foxnews.com/entertainment/jason-aldean-wife-brittany-fellow-republican-turmp-backlash-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jason-aldean-wife-brittany-fellow-republican-turmp-backlash-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/GettyImages-968691066.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump Heads to Golf Course as Nation Awaits Election Outcome"
     excerpt: "President Trump arrived at his golf club in Sterling, Va., on Saturday morning as Joe Biden held a lead in key states that could soon determine a winner. Mr. Trump left the White House wearing a MAGA hat,"
     publishedDateTime: 2020-11-07T16:24:00Z
@@ -820,6 +884,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Trump Back at Golf Course Sunday"
+    excerpt: "President Trump returned Sunday morning to his golf club in Sterling, Va. Mr. Trump arrived at Trump National Golf Club at 9:57 a.m. He also golfed Saturday, arriving just before the Associated Press called the race for Joe Biden."
+    publishedDateTime: 2020-11-08T20:26:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/5PLvEGpb57Jc98fhfCnk"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 95
 
 secured: "Il6pT1YHovgzLKi/pLkGi00sKRR4RJyeSGjdMRimcEBFUYE3/Fy6e4ER5Wir5UD2TGgaQTrkNUkRgRvpu1X0SGghsmr9BdQ1SxUuDRWeFZspslYRr/3qXS2fvSlC3Ose1WyuAFfMBguX054N7WRWakmCjztUT0QDxyRyCQ3sltRGaQ3j7e4ZSaoPUciof5iEX+l+6rpBWMo28VEswCMwGDM94KDkB6kaaKd41jICoBXD7VmBIHPFAoDoDy+b/BUDZ4wIIO+HCUOTs5ewOvgRjstGoyPDp3M6icOBogWw5T+zHm6Aj+zgCE9Ai/VuEHf50IaSQHQTo6B0yhyHIE+9ju6uvPwMdjeQuPtyoyL0/SvP3UZmFX28DEX1qUX0Cp8pMU46S/P07cHmoEDGVKXFPcyMkA+EWOXHL1U66V6Kz4ydthhwF0NCkaGNvTQBmjw8ULRxoZjKtJu5kMVRw6QfDiLtFFIepFeOhlw6v4sXwZNjCDy1Q6RXviir6S9+/eGXfDkgG/VkuP4n8hiPA5Bluw==;XWmR+QwE3WNiJHKTw3Knwg=="
 ---

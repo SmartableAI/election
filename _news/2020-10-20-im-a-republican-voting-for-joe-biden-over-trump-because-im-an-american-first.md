@@ -993,6 +993,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "With Biden-Harris victory, SNL takes parting shots at Donald Trump"
+    excerpt: "Live” celebrated President-elect Biden’s victory. Trump sings “Macho Man” in defeat and Jim Carrey reprises Ace Ventura."
+    publishedDateTime: 2020-11-08T17:42:00Z
+    webUrl: "https://www.nbcnews.com/video/with-biden-harris-victory-snl-takes-parting-shots-at-donald-trump-95543365589"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
   - title: "Trump-Biden debate will have muted mics. That's bad for the candidates, and voters."
     excerpt: "Presidential debates are supposed to educate voters by allowing them to see how candidates perform in one of the campaign's few unmediated spaces."
     publishedDateTime: 2020-10-20T21:44:00Z

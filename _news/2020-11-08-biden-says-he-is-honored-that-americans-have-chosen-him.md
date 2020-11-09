@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0M1"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0M1"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden: Stumbles, tragedies and, now, delayed triumph"
+    excerpt: "Days before he left the White House in 2017, former President Barack Obama surprised Joe Biden with the Presidential Medal of Freedom and said Biden was “the best vice president America’s ever had” and a “lion of American history."
+    publishedDateTime: 2020-11-08T02:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/joe-biden-stumbles-tragedies-and-now-delayed-triumph/2020/11/07/e578e068-2168-11eb-ad53-4c1fda49907d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/joe-biden-stumbles-tragedies-and-now-delayed-triumph/2020/11/07/e578e068-2168-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/joe-biden-stumbles-tragedies-and-now-delayed-triumph/2020/11/07/e578e068-2168-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Joe Biden spoke about how Americans 'chose change over more of the same'"
     excerpt: "Joe Biden spoke to his supporters in Wilmington, Delaware about how Americans \"want the country to come together and not be pulled apart.\""
     publishedDateTime: 2020-11-07T05:00:00Z

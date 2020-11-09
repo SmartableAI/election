@@ -53,6 +53,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Factbox: Trump sues in Arizona, court battles continue as Biden wins U.S. election"
+    excerpt: "U.S. President Donald Trump's campaign said on Saturday it had filed a lawsuit in Arizona, its latest legal challenge over the results of the presidential election."
+    publishedDateTime: 2020-11-08T22:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-legal-challenges-idUSKBN27O0QX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0QX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0QX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 149
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540443788&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70M7"
+        width: 853
+        height: 545
+        isCached: true
   - title: "Election 2020 live updates: Biden takes lead over Trump in battleground state of Georgia"
     excerpt: "Democrat Joe Biden is now leading President Donald Trump in the battleground state of Georgia. By Friday morning, Biden overtook Trump in the number of ballots counted in the battleground, a must-win state for Trump that has long been a Republican stronghold."
     publishedDateTime: 2020-11-06T10:11:00Z
@@ -436,6 +452,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D470/production/_115248345_bidenreu.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Hungary's Orban congratulates Biden as his 'Plan A' for Trump win flops"
+    excerpt: "Hungarian Prime Minister Viktor Orban congratulated Joe Biden on his U.S. presidential election victory, an outcome that could complicate ties with Washington after the nationalist leader accused U.S."
+    publishedDateTime: 2020-11-08T17:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-hungary/hungarys-orban-congratulates-biden-as-his-plan-a-for-trump-win-flops-idUSKBN27O0HO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0HO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0HO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540427731&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70F1"
+        width: 819
+        height: 545
         isCached: true
   - title: "After acrimonious campaign, uneasy Americans choose between Biden, Trump"
     excerpt: "After a rancorous presidential campaign that exposed the depth of the political divisions in the United States, Americans streamed to the polls on Tuesday to choose either incumbent Donald Trump or challenger Joe Biden to lead a pandemic-battered nation for the next"
@@ -1283,6 +1315,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here are the GOP and Trump campaign’s allegations of election irregularities. So far, none have been proved."
+    excerpt: "Republicans have made claims of election irregularities in five states where President-elect Joe Biden leads in the vote count, alleging in lawsuits and public statements that election officials did not follow proper procedures while counting ballots in Tuesday’s election."
+    publishedDateTime: 2020-11-09T00:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-irregularities-claims/2020/11/08/8f704e6c-2141-11eb-ba21-f2f001f0554b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-irregularities-claims/2020/11/08/8f704e6c-2141-11eb-ba21-f2f001f0554b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-irregularities-claims/2020/11/08/8f704e6c-2141-11eb-ba21-f2f001f0554b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KHQ5TBRBIUI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pro-Trump demonstrators showed up outside Attorney General William Barr's home demanding he \"lock up' Joe Biden"
     excerpt: "Barr reportedly greeted the approximately one dozen protesters, explained his role in investigations, and posed for photos."
     publishedDateTime: 2020-11-02T15:29:00Z
@@ -1447,6 +1495,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/06/AF1_wide-a43bb1566345202c0ee9cfb255b4ff4edf106dd2.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Israel's Netanyahu congratulates Biden, thanks Trump"
+    excerpt: "World Israel's Netanyahu congratulates Biden, thanks Trump. Posted . Israeli Prime Minister Benjamin Netanyahu congratulated Joe Biden on Sunday - but he will be troubled if the U"
+    publishedDateTime: 2020-11-08T17:53:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD3PPTUZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201108&i=OVD3PPTUZ&r=OVD3PPTUZ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
@@ -1797,6 +1859,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "President elect Biden faces COVID19 surge"
+    excerpt: "Watch \"President-elect Joe Biden faces COVID-19 surge with the U.S. at over 127,000 new cases\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-08T18:12:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201108175930-president-elect-joe-biden-faces-covid-19-surge-with-the-u-s-at-over-127000-new-cases/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/08/story_07599445_1604858824.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Iowa live election results for president in Iowa: Donald Trump vs. Joe Biden"
     excerpt: "Find live reporting of election results by county in Iowa for the race for president between Donald Trump and Joe Biden."
     publishedDateTime: 2020-11-04T08:17:00Z
@@ -1813,6 +1889,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mexico's president says he won't congratulate Biden until Trump's election lawsuits are resolved"
+    excerpt: "\"I can't congratulate one candidate or the other,\" said Andrés Manuel López Obrador. \"I want to wait until the electoral process is over.\""
+    publishedDateTime: 2020-11-08T19:48:00Z
+    webUrl: "https://www.businessinsider.com/mexico-president-manuel-lopez-obrador-biden-trump-election-trade-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
   - title: "Election Results: Biden Has 'No Doubt' He Will Beat Trump, Become US President"
     excerpt: "Joe Biden's optimism comes as the Trump campaign files multiple lawsuits in swing states where the Democratic challenger is leading or projected to win."
     publishedDateTime: 2020-11-06T01:19:00Z
@@ -1844,6 +1929,22 @@ related:
       - url: "https://i.insider.com/5fa740dbf7d1cb0019e3a67e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Election results updates: Joe Biden, Kamala Harris speak to nation after election win"
+    excerpt: "When President Trump returned to the White House on Saturday, throngs of people had gathered outside the compound to celebrate Biden's victory."
+    publishedDateTime: 2020-11-08T22:44:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/election-results-biden-trump-pennsylvania-georgia-nevada/6196451002/"
+    ampWebUrl: "https://amp.freep.com/amp/6196451002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6196451002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/a349b66f-b575-418c-9419-c5d45885e888-GTY_1284481276.jpg?auto=webp&crop=2950,1660,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump begins Election Day with 'Fox & Friends' interview: Live updates on Trump, Pence"
     excerpt: "President Trump plans to spend the day making calls, giving interviews, monitoring events from the White House."
@@ -2019,6 +2120,33 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Joe Biden and the politics of belief"
+    excerpt: "It was early June, 1987. Joe Biden had not yet officially announced his first run for president and was polling at 1% in Iowa. \"I'm going to win this thing. I really am,\" Biden said. Why was he so confident?"
+    publishedDateTime: 2020-11-07T21:35:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/2020/11/07/joe-biden-candidate-profile-1987/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 85
+  - title: "Aspiring U.S. trans soldiers call on Biden to end military ban"
+    excerpt: "As Joe Biden began his first full day as U.S. president-elect, a group of transgender military aspirants and campaign groups insisted that one of his first priorities must be to overturn a ban on new transgender personnel serving in the U."
+    publishedDateTime: 2020-11-08T19:19:00Z
+    webUrl: "https://www.reuters.com/article/us-united-states-election-lgbt-idUSKBN27O0JW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+  - title: "Live election updates: Kushner, Melania reportedly urge Trump to concede; AOC almost didn't run again"
+    excerpt: "Reports say Trump's wife and son-in-law urged him to concede; the president-elect attends Mass; AOC almost quit – the latest on the election."
+    publishedDateTime: 2020-11-08T19:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/mitt-romney-calls-trump-900-pound-gorilla-republicans-future/6212881002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
   - title: "ALLAN WERNICK: A Joe Biden win means Trump’s anti-immigrant policies could be reversed"
     excerpt: "If Joe Biden wins the election, he can reverse many of President Trump’s anti-immigrant rules, procedures and policies. Trump and Stephen Miller have brought restrictionist regulations and policy changes without going through Congress."
     publishedDateTime: 2020-11-02T12:00:00Z

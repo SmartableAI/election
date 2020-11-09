@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
 type: article
 quality: 121
-heat: 122
+heat: 121
 published: true
 
 provider:

@@ -299,6 +299,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Campaign leaders agree Ohio still a battleground despite Donald Trump's two victories"
+    excerpt: "Ohio campaign leaders for both President Donald Trump and former Vice President Joe Biden said Thursday that Ohio is still a battleground."
+    publishedDateTime: 2020-11-08T20:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6149084002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6149084002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/05/NCOD/313f5c19-f353-49b3-a68a-8ef0bfe7b9a8-vote_rally_JB_01.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "International election observer says Trump's false election victory statement was an 'unprecedented abuse of his position'"
     excerpt: "The Organization for Security and Co-operation in Europe said there was no evidence of voter fraud in the US election."
     publishedDateTime: 2020-11-06T13:15:00Z

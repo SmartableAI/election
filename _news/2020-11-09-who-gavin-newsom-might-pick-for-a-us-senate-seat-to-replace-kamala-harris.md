@@ -1,0 +1,161 @@
+---
+category: news
+title: "Who Gavin Newsom might pick for a U.S. Senate seat to replace Kamala Harris"
+excerpt: "Now that Sen. Kamala Harris is set to become the next vice president, Gov. Gavin Newsom has a big decision to make. Meet some of the top contenders."
+publishedDateTime: 2020-11-08T17:48:00Z
+originalUrl: "https://www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/"
+webUrl: "https://www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/"
+ampWebUrl: "https://www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/amp/"
+cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/who-gavin-newsom-might-pick-for-a-u-s-senate-seat-to-replace-kamala-harris/amp/"
+type: article
+quality: 73
+heat: -1
+published: false
+
+provider:
+  name: Santa Rosa Press Democrat
+  domain: pressdemocrat.com
+
+topics:
+  - Election
+  - Kamala Harris
+
+images:
+  - url: "https://imengine.prod.srp.navigacloud.com?uuid=0faff2a7-5a0b-5821-ba95-651d49da4456&type=primary&q=72&width=1200"
+    width: 1199
+    height: 837
+    isCached: true
+
+related:
+  - title: "What are we supposed to call Kamala Harris' husband?"
+    excerpt: "But as many in the nation celebrated Biden and Harris' projected win on Saturday, another question quickly arose: what the world will call her husband, who is expected to be the first male spouse of a vice president in U."
+    publishedDateTime: 2020-11-07T19:51:00Z
+    webUrl: "https://www.cbsnews.com/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/doug-emhoff-second-gentleman-vice-president-elect-kamala-harris/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/51c0fd32-c75e-4bf5-a826-67be9934342c/thumbnail/1200x630/c39dfd54a8c3a2e0ab45b66f8ab752ec/gettyimages-1267250943.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Doug Emhoff, Kamala Harris' husband, will be the nation's first 'second gentleman'"
+    excerpt: "Doug Emhoff, married to Vice President-elect Kamala Harris, will be the first male spouse of any vice president or president. Here's what to know."
+    publishedDateTime: 2020-11-07T16:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/07/kamala-harris-husband-doug-emhoff-first-second-gentleman/6168693002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6168693002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6168693002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/USAT/f656912b-69bc-4977-b163-04c9557c0428-husband.jpg?auto=webp&crop=2912,1638,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "One of these people could be VP-elect Kamala Harris’ successor and California’s next senator"
+    excerpt: "The Times asked political strategists for a list of the most likely contenders from whom Newsom might choose to replace Harris for the final two years of her Senate term."
+    publishedDateTime: 2020-11-07T16:51:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 114
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6ac6595/2147483647/strip/true/crop/2048x1430+0+0/resize/840x587!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2F57%2F3e257e5f130c40ac25e6a9b9078e%2Fla-1518827091-m3b6svi2yw-snap-image"
+        width: 840
+        height: 587
+        isCached: true
+  - title: "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election"
+    excerpt: "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president."
+    publishedDateTime: 2020-11-08T19:32:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 83
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
+        width: 1024
+        height: 715
+        isCached: true
+  - title: "Kamala Harris' husband declares Ohio a 'blue state' during Election Day visit to Columbus"
+    excerpt: "Underscoring the Democrats' attempt to steal battleground Ohio from Donald Trump - who won the state in 2016 - Doug Emhoff rallies Biden supporters."
+    publishedDateTime: 2020-11-03T20:41:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/11/03/doug-emhoff-kamala-harris-husband-says-ohio-now-blue-state-during-election-day-visit-for-joe-biden/6143275002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/6143275002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6143275002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 81
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/NCOD/d6aa1413-93fb-40f8-b743-7b7a93b5dd96-MT_emhoff_visit_ea04.jpg?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A trio of firsts: Projected win busts Kamala Harris through politics' glass ceilings"
+    excerpt: "The celebrations for Democrats’ projected White House win Saturday included an outpouring of excitement for presumed Vice President-elect Kamala D. Harris making history."
+    publishedDateTime: 2020-11-07T18:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/7/kamala-harris-projected-win-busts-her-through-poli/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/07/Election_2020_Harris_58071.jpg-ecfc6_c0-171-6000-3671_s1200x700.jpg?fa0b039bd51c287ce8f31137928db7f290d4a4bb"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris' Full Speech: ‘You Chose Hope and Unity, Decency, Science and, Yes, Truth'"
+    excerpt: "Elect Kamala Harris delivered a victory address on Saturday night from Wilmington, Del., and introduced President-Elect Joe Biden. Read the full text of Harris’ speech here:"
+    publishedDateTime: 2020-11-08T02:33:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 66
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/GettyImages-1284480397.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘It’s our time’: Black and brown women around Connecticut celebrate the significance of Kamala Harris’s historic win"
+    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
+    publishedDateTime: 2020-11-07T18:15:00Z
+    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
+    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 52
+    images:
+      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "P/BKOr0bRaf7BBOJnJSkXssfKnESMTFqZIK7XhGrTZJwKPc9KPvtUbq68Nf4nxyzT09QzA82mZ6mnCrrrMRbtXwWLk384yXsSrRVG0+zYxHEoyGexRQ0D1E8sDjxcTbu7mhzugQvkpOKOTq8cB8g7wDBWrW5jKDOyk6KSdEoAxGHywfQBi4DVQpks9AlqhDALA8Q4udag5P4HBb7r6K7tsyvYwhvsEHsQdyIS1rx3tORJFXCukviGY3x4gygdDpQFo1Z7ImG26HxcX7BGRUu3FrkMZxfS4WTV2kYQrnIu1BD0tGs/o383xoWwzVKTRjdLLLmIvDqwMKsUA2y5KGRh7YOZ4CDJ5m+pEppTx3a9eI=;m7tVTTQvhKJmG/xnCOBLyQ=="
+---
+

@@ -336,6 +336,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden plans executive actions that would undo Trump's policies"
+    excerpt: "President-elect Joe Biden has pledged to reassert the United States' leadership role on the global stage through a series of day-one executive actions that would mark a drastic turn from outgoing President Donald Trump's policies.\n    \n"
+    publishedDateTime: 2020-11-08T18:08:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tkgc9o-vlFc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/biden-first-day-executive-actions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/biden-first-day-executive-actions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108003632-biden-address-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact Check: Misleading new Trump ad claims Biden plans to 'end fracking'"
     excerpt: "Less than two weeks before Election Day, a new Trump campaign ad scheduled to air in Pennsylvania misleadingly portrays former Vice President Joe Biden's stance on fracking, a drilling method used to extract oil or natural gas.\n    \n"
     publishedDateTime: 2020-10-26T19:37:01Z
@@ -1040,6 +1056,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Joe Biden won a race another Democrat may have lost"
+    excerpt: "President-elect Joe Biden made the pitch that he was the most electable Democrat during the primary season. It was a big reason why primary voters ultimately nominated him.\n    \n"
+    publishedDateTime: 2020-11-08T22:04:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P2NvkwQ7odE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/democrats-biden-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/democrats-biden-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107213124-29-biden-harris-address-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: What Joe Biden's win means for the world"
     excerpt: "The free world will have a new leader.\n    \n"
     publishedDateTime: 2020-11-08T08:46:42Z
@@ -1085,6 +1117,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Top congressional Republicans still haven't acknowledged Biden's victory"
+    excerpt: "President-elect Joe Biden urged the country \"to lower the temperature\" in his victory speech on Saturday night, but Republican leaders he'll have to work with in Congress have either urged President Donald Trump to not concede or stayed silent despite no widespread evidence of fraud in the election.\n"
+    publishedDateTime: 2020-11-08T22:24:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2jwkTszUYtE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/biden-victory-congressional-republican-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/biden-victory-congressional-republican-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023115840-35c-mitch-mcconnell-centered-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2160,6 +2208,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Top Republicans Decline to Acknowledge Biden Win as Trump Refuses to Concede"
+    excerpt: "Former President George W. Bush and a handful of other Republicans congratulated the president-elect, but most party leaders stayed quiet or urged President Trump to fight."
+    publishedDateTime: 2020-11-08T22:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/republicans-trump-concede-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/republicans-trump-concede-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/republicans-trump-concede-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 147
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/08/us/politics/08dc-republicans1/08dc-republicans1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump has signaled he won't accept an election loss. Many of his voters agree."
     excerpt: "Brandishing faulty or unsubstantiated claims of fraudulent ballots, the president has planted seeds of doubt about the race's outcome if Biden wins. They appear to have taken root."
     publishedDateTime: 2020-10-29T19:36:00Z
@@ -2191,6 +2255,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/06/multimedia/06briefing-elections-PAcounting/06briefing-elections-PAcounting-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "An online movement has these Trump supporters convinced the election was stolen"
+    excerpt: "Supporters of President Donald Trump gathered in Harrisburg, Pennsylvania as part of a \"Stop the Steal\" protest. CNN's Donie O'Sullivan talks to then about why they believe the election was stolen from them."
+    publishedDateTime: 2020-11-08T21:47:00Z
+    webUrl: "https://www.cnn.com/videos/business/2020/11/08/trump-election-protest-stop-the-steal.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/11/08/trump-election-protest-stop-the-steal.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/11/08/trump-election-protest-stop-the-steal.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108142001-stop-the-steal-harrisburg-1-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "The president cast his ballot in Florida, not far from a rally where Obama slammed Trump’s response to the pandemic. And from New York to Alabama, Americans lined up to vote in person. This briefing has ended."
@@ -2284,6 +2364,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "'Trump can still win': The President's supporters remain defiant after Biden's victory"
+    excerpt: "When CNN and other news outlets projected on Saturday that Joe Biden had won the presidency, the streets of Democratic strongholds like New York, Washington and Chicago erupted in celebrations that lasted into the night.\n    \n"
+    publishedDateTime: 2020-11-08T19:39:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8dIXZu58JjI/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
   - title: "In dueling Florida rallies, Trump and Biden paint different pictures of Covid — and America"
     excerpt: "Joe Biden and Donald Trump held dueling rallies in Florida on Thursday, painting stark a contrast for their visions of the U.S. and the Covid-19 pandemic in the key battleground state just five days before Election Day."
     publishedDateTime: 2020-10-29T20:09:00Z
@@ -2795,6 +2884,38 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/06/us/politics/06biden-transition-1/merlin_179586213_c3fd24a0-50dc-4bb2-a788-843bc2c22da6-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "As Trump Refuses to Concede, G.O.P. Remains Divided"
+    excerpt: "White House advisers have warned President Trump of his narrow chances in any legal fight. The Biden team turned its focus to the transition. And world leaders offered their congratulations to the president-elect."
+    publishedDateTime: 2020-11-08T21:09:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/08/us/trump-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/08/us/trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/08/us/trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/08/business/08elections-briefing-rollback/08elections-briefing-rollback-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Can Biden heal America?"
+    excerpt: "In the instant that CNN projected Joe Biden would become the 46th president, the United States embarked on a starkly different road than the one it would have barreled down had President Donald Trump won a second term."
+    publishedDateTime: 2020-11-08T22:38:00Z
+    webUrl: "https://www.cnn.com/2020/11/08/world/meanwhile-in-america-november-8-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/world/meanwhile-in-america-november-8-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/world/meanwhile-in-america-november-8-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107204529-17-biden-harris-address-1107-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "2020 Election Live Updates: Trump and Biden Hit Swing States, With 10 Days Until Election Day"
     excerpt: "RIGHT NOW ‘Florida Man wouldn’t even do this stuff,’ Obama says of Trump during a Miami rally. Trump campaigns in suburban Ohio, where he hopes to regain ground. Murkowski, in a turnabout, says she will vote to confirm Barrett to the Supreme Court."

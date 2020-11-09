@@ -224,6 +224,15 @@ related:
         width: 1245
         height: 713
         isCached: true
+  - title: "Democrats fear McConnell veto over Biden agenda "
+    excerpt: "President-elect Joe Biden's agenda in Washington may only go as far as Mitch McConnell lets him.\n    \n"
+    publishedDateTime: 2020-11-08T18:47:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t9LTAS8Tj1E/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
   - title: "Julián Castro campaigns for Biden in Phoenix, visits a Day of the Dead altar"
     excerpt: "Michigan, Iowa, North Carolina, Georgia, and Florida — while Biden is holding two events in Philadelphia. This live coverage has ended. Continue reading election news for Monday, Nov. 2, 2020. Julián Castro,"
     publishedDateTime: 2020-11-02T23:03:00Z

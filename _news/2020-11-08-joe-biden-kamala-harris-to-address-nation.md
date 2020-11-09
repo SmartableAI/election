@@ -8068,6 +8068,15 @@ related:
         width: 438
         height: 392
         isCached: true
+  - title: "Deep roots exist between Joe Biden, Kamala Harris and the world of sports"
+    excerpt: "From high school football to a youth dance troupe, President-elect Joe Biden and Vice President-elect Kamala Harris have a long history with sports."
+    publishedDateTime: 2020-11-08T20:18:00Z
+    webUrl: "https://www.cincinnati.com/story/sports/2020/11/08/joe-biden-kamala-harris-sports-histories/6140675002/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 49
   - title: "Sen. Kamala Harris talks women's right to an abortion on second day of Barrett hearings"
     excerpt: "Sen. Kamala Harris highlighted the impact Barrett could have on a woman's right to an abortion on the second day of confirmation hearings."
     publishedDateTime: 2020-10-14T02:18:00Z
@@ -8137,6 +8146,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "kQ+nEqUskUh6Z+61qLPMNGNf/QStuGNI49AdQY1oBF3zIXefJvN5VGgoxdIkWzVhZv7YZrat7fxV7GTIVTFkukTldifj5z+dlE76iEiApppKnQAYO6hIFuu5ATV0zj/XchUssZN4FpdbUhxwNXGRplB1oVaOIkwgTscIDx7L258hxgyDMuejemrkXYiQx8zlF/S6sOciz4ITjoMbewB0lfQZP7sIulX/GOPoDw1Gv7+sepoFHiN71bEscR3g5qAAhyv14VOGXqdWvbjQr7dbqLJfJQxlCGMEhT+CPqWOtuHja9q+AFUCoUmLMuaKSaOaINNfY7c0hZCF3TDLltWZ4iLGQkoXh7hUZzwsmt79ycw=;gLdJB2MvJAAVtkhYEihjrA=="
+secured: "kVxTWeyBy0iaAKBhYSM7Mpc8OLrXjNtdYfp4ikZLInSLllKmiMZ3qJFUuL6IVDqVMB+iTV4NlQYOYBVLWPrXuv7kRejVMq5rmFMESeLqs23KR7RiICRgOBru0Sej5Yc6zbJ6my2U9rU3GaIehc7DeDlWEu2UPN+f4i36yPGbNSo5jdF+Q2yhiqiaBEW9SJ3mK92aUtPDeOpZkA71Y+zN+48+59+dRz8talzxf87wYkfe4O/wX9FqKlAW+dLZ5GzN+O3Q3TUMIiMDlQshLZkO7suIPCB7skVWY27n2G3E9bv3IcDfUBke1IBC0ZjGbHsqnG+mL08hF6E6Pt3HphMUxkIi4RuFONSpi5WfkXrsaU8GFIKyhFJ6edZbhVXcpXkqzztJekHoKwWaQ2bAOptH67NT8wm8bHM/qAZtHsAixwAXlNMGw5t4dv2H+20zaZbev6dTcyvMCiN0cCjWrKJxS7vlLuVNCNy8+wJtpyQPlUWavei3tDMyaLl+jwwESYiYhvpgMkYDp96P8EQ/WYz8oA==;kXwMzy2r2UoRBS2vRyFhew=="
 ---
 

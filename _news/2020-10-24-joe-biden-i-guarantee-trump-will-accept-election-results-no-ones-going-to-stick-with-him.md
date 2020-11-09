@@ -491,6 +491,22 @@ related:
         width: 1200
         height: 851
         isCached: true
+  - title: "Live election updates: Biden visits church day after victory; Trump golfs again after defeat"
+    excerpt: "Romney says Trump is \"not disappearing by any means\" after defeat; the president golfs for a second day, and AOC says she almost didn't run again."
+    publishedDateTime: 2020-11-08T17:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/mitt-romney-calls-trump-900-pound-gorilla-republicans-future/6212881002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6212881002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6212881002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 144
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e1eb8e40-2115-406e-b439-eed892cee462-GTY_1284581020.jpg?auto=webp&crop=2999,1687,x0,y72&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Maryland man charged with threatening Biden, Harris in letter on supporter's doorstep"
     excerpt: "Federal prosecutors on Wednesday charged a Maryland man with threatening Democratic presidential candidate Joe Biden and running mate Kamala Harris in a letter left on the doorstep of a someone with a yard sign supporting their campaign."
     publishedDateTime: 2020-10-21T17:31:00Z
@@ -5451,6 +5467,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 97
+  - title: "Biden calls for healing in appeal to Trump voters after winning U.S. presidency"
+    excerpt: "President-elect Joe Biden declared it was \"time to heal\" a deeply divided America in his first speech after winning in a bitter election, even as President Donald Trump refused to concede and pressed ahead with legal fights against the outcome."
+    publishedDateTime: 2020-11-08T19:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/biden-wins-u-s-presidency-calls-for-healing-in-appeal-to-trump-voters-idUSKBN27O06Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
   - title: "Election update: GOP hunts for new voters in Trump territory; Biden briefed on virus' spread"
     excerpt: "To win Pennsylvania, President Donald Trump needs blowout victories and historic turnout across the state in conservative strongholds such as Butler County. SLIPPERY ROCK, Pa. (AP) — President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time."
     publishedDateTime: 2020-10-28T17:15:00Z

@@ -271,6 +271,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump will lose special Twitter protections in January"
+    excerpt: "U.S. President Donald Trump will be subject to the same Twitter Inc rules as any other user when President-elect Joe Biden takes office on Jan. 20, the social media company confirmed this week."
+    publishedDateTime: 2020-11-08T22:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-socialmedia-idINKBN27O0R1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27O0R1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27O0R1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540443498&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70IW"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Overview: Trump calls for vote counting to stop as path to victory narrows"
     excerpt: "President Donald Trump is calling for counting to stop while his opponent, Joe Biden, projects patience ahead of a handful of key states releasing new counts Thursday."
     publishedDateTime: 2020-11-05T18:36:00Z
@@ -375,6 +391,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539995932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA319V"
         width: 870
         height: 545
+        isCached: true
+  - title: "Trump is apparently confused as to why news outlets projected the election winner as he rails against the results"
+    excerpt: "Trump has refused to accept his loss, and on Sunday expressed confusion at the longstanding process of news outlets calling the election."
+    publishedDateTime: 2020-11-08T21:45:00Z
+    webUrl: "https://www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5fa85c1d1df1d500182197ce?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump: We'll send in lawyers if Pennsylvania election is unfair. But votes are regularly counted after Election Day"
     excerpt: "States never count all the votes by Election Day. Absentee and military ballots, especially, are counted for days afterward."
