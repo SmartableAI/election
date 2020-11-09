@@ -1934,6 +1934,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "An Early Test for Biden: Managing a Divided Democratic Party"
+    excerpt: "Moderates and progressives were mostly united during the campaign. Their deep differences will now present a significant challenge for the president-elect."
+    publishedDateTime: 2020-11-09T08:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/democrats-biden-win.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/democrats-biden-win.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/democrats-biden-win.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/us/politics/90dems-whathappensnext-2/merlin_179536902_c0edbba7-064e-4be1-899d-6eff5d061da1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "As Trump Refuses to Concede, G.O.P. Remains Divided"
     excerpt: "White House advisers have warned President Trump of his narrow chances in any legal fight. The Biden team turned its focus to the transition. And world leaders offered their congratulations to the president-elect."
     publishedDateTime: 2020-11-08T21:09:00Z

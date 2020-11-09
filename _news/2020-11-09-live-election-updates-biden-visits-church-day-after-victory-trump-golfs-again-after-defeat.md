@@ -4586,6 +4586,20 @@ related:
         width: 810
         height: 539
         isCached: true
+  - title: "Biden, Like Trump, Will Deepen Integration With China"
+    excerpt: "Over the past four years, economic ties between Beijing and the rest of the world have only strengthened. That’s likely to continue."
+    publishedDateTime: 2020-11-09T07:08:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-like-trump-will-deepen-integration-with-china/2020/11/09/b11ccbd4-225a-11eb-9c4a-0dc6242c4814_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z
@@ -7741,6 +7755,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "eBvl4ViWCq9/xBgJG9AhUvkJakqvfdCr89AUO4/gquVU/cPB+Wjca1eg51JgU0Tx/wUZpmgZIzjzqCGv9Gp/SqAwHKyB3yGmuDkB8yjgvFnIib6XW9Vf0N3xBecokdk8KwUckeBeGzwMomCZIJ4ESJ0npDdy5lgf/D879R0lwC5WZSX4oqDJ8lsJyUtHj+E3ZRKti5OC6H3yRoUKqDd4MnQVdpstHvund/5/jg+/hfho7YOj6hc96nnKWfx7gw65ov3gaApZczUCeF+ebBygg+YDmAwTiAV7gs08lANu+cbzu5JqvkD3s8NUymiIma+rvsVSjzchtoIyZ2kG1PaDeRQzZ2VHzO77y9E44nTRdyE=;dYrXRxBGRFUFwPfLFOocBw=="
+secured: "uiAhAHSWtNn/6H8spj4Iz7S3gO57D+gwTNdemNkn+vU2WoasbI9U7kPKF+8WcSZekivjL4eqkKrrJekUMnZPMV+ElljC4pu2MLLGLCGO34dHvmwn4Auvsn5Zq9AHoAcuSkB7srk3T1Jg5SyttFFzhUkdUd0x8kbRexu+tCqF/ILVYI8j7G52Q7Uz10fyyi1XOX0re7ogQhuhhTElox5bTEYhTlWdF5K7rxeHRXwHHGpHq6McRAhOyo3URufjLOkIZExYrqo+L7r5FF7Wts2Rkm8GdhqgoEB3feuqqlVse3Lx93AG/cDROXfLBLB9VDUNO1qICfKYDMLxiX4sfFqTwAhX2Pj2aTQPYm7k06+aurj4oMrpk1SsBc6uTpYmJ8DrCtSTjBi1UDYz/YWWGHHV+KC3zQ1w1U/wPaqh/Eus1EYQ1oVa2v592wP1JZ3/J7fmXrgmvHeuq2DT1RXIwMUiWe8hbr5Xojc3UQMxoLN91qErxevN+TU/FuHjBPhKUPKLikAL2QJGf4yuT+2UJKmgrA==;LfROwsFjL0GAPhZGhzoQzQ=="
 ---
 

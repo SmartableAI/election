@@ -2130,6 +2130,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump vs. Joe Biden Net Worth: How Do Their Wealth Stack Up?"
+    excerpt: "Joe Biden is the new president of the U.S. Although he won the election, Donald Trump still enjoys a large advantage in terms of personal wealth over his rival."
+    publishedDateTime: 2020-11-09T06:13:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-net-worth-how-do-their-wealth-stack-3077904"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-net-worth-how-do-their-wealth-stack-3077904?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-joe-biden-net-worth-how-do-their-wealth-stack-3077904?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/06/democratic-presidential-candidate-joe-biden-has-taken-the.jpg"
+        width: 1024
+        height: 702
+        isCached: true
   - title: "Joe Biden and the politics of belief"
     excerpt: "It was early June, 1987. Joe Biden had not yet officially announced his first run for president and was polling at 1% in Iowa. \"I'm going to win this thing. I really am,\" Biden said. Why was he so confident?"
     publishedDateTime: 2020-11-07T21:35:00Z

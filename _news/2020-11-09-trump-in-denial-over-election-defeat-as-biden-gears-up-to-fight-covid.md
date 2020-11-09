@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 3125
+heat: 3145
 published: true
 
 provider:
@@ -1916,6 +1916,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/06/us/politics/06biden-transition-1/merlin_179586213_c3fd24a0-50dc-4bb2-a788-843bc2c22da6-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "An Early Test for Biden: Managing a Divided Democratic Party"
+    excerpt: "Moderates and progressives were mostly united during the campaign. Their deep differences will now present a significant challenge for the president-elect."
+    publishedDateTime: 2020-11-09T08:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/democrats-biden-win.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/democrats-biden-win.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/democrats-biden-win.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/us/politics/90dems-whathappensnext-2/merlin_179536902_c0edbba7-064e-4be1-899d-6eff5d061da1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "As Biden's victory hailed, some prominent world leaders remain silent"
     excerpt: "LONDON — As Joe Biden was declared President-elect Saturday, congratulatory messages poured in from from leaders across the world. But several have remained notably silent, including some of President Donald Trump’s long-term allies."

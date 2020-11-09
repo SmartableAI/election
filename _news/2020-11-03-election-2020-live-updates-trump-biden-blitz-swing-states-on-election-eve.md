@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73960671"
 type: article
 quality: 153
-heat: 3313
+heat: 3333
 published: true
 
 provider:
@@ -2115,6 +2115,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2UI5GH5KIBBXHPW76VNZHDOGZE.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Donald Trump vs. Joe Biden Net Worth: How Do Their Wealth Stack Up?"
+    excerpt: "Joe Biden is the new president of the U.S. Although he won the election, Donald Trump still enjoys a large advantage in terms of personal wealth over his rival."
+    publishedDateTime: 2020-11-09T06:13:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-net-worth-how-do-their-wealth-stack-3077904"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-net-worth-how-do-their-wealth-stack-3077904?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-joe-biden-net-worth-how-do-their-wealth-stack-3077904?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/06/democratic-presidential-candidate-joe-biden-has-taken-the.jpg"
+        width: 1024
+        height: 702
         isCached: true
   - title: "Arthur Blank donated thousands to Biden while his Home Depot cofounder was a major Trump donor, but Blank says it never came between them"
     excerpt: "Joe Biden supporter Arthur Blank says business isn't \"a red issue or a blue issue\" and politics never challenged his rapport with Home Depot partners."

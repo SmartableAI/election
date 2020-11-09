@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/mark-esper-trump/index.h
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/mark-esper-trump/index.html"
 type: article
 quality: 166
-heat: 166
+heat: 167
 published: true
 
 provider:

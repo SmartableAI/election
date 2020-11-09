@@ -4586,6 +4586,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden, Like Trump, Will Deepen Integration With China"
+    excerpt: "Over the past four years, economic ties between Beijing and the rest of the world have only strengthened. That’s likely to continue."
+    publishedDateTime: 2020-11-09T07:08:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-like-trump-will-deepen-integration-with-china/2020/11/09/b11ccbd4-225a-11eb-9c4a-0dc6242c4814_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z

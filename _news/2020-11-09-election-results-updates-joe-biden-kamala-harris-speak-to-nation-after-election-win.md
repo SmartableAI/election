@@ -2112,6 +2112,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump vs. Joe Biden Net Worth: How Do Their Wealth Stack Up?"
+    excerpt: "Joe Biden is the new president of the U.S. Although he won the election, Donald Trump still enjoys a large advantage in terms of personal wealth over his rival."
+    publishedDateTime: 2020-11-09T06:13:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-net-worth-how-do-their-wealth-stack-3077904"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-net-worth-how-do-their-wealth-stack-3077904?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-joe-biden-net-worth-how-do-their-wealth-stack-3077904?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/06/democratic-presidential-candidate-joe-biden-has-taken-the.jpg"
+        width: 1024
+        height: 702
+        isCached: true
   - title: "Arthur Blank donated thousands to Biden while his Home Depot cofounder was a major Trump donor, but Blank says it never came between them"
     excerpt: "Joe Biden supporter Arthur Blank says business isn't \"a red issue or a blue issue\" and politics never challenged his rapport with Home Depot partners."
     publishedDateTime: 2020-11-04T00:21:00Z
@@ -2425,6 +2441,6 @@ related:
         height: 358
         isCached: true
 
-secured: "dwQuEZM10KTpcbzFya8mZDy43basOiE6dO1iuFdgs+8acqbO0ac6FcTueMl3ms+R4jS5mUeLbUtVDdXwq7rVAC6wGcaI+uEdz1n+KqVL1vhDqEJJnd7LMtHkptvbPbQzCVxVA78FOwDvR03WN5oYzbsw7HzLFCOWbmNA613QnwVMQTQDyl4mwcNg5oDlw4b1UxnzE/mGkkGbkc2fFYxtZ3sk/dlhWP85V2C0BOz8mHLnzhZOwE5W8Y1K8LltQ2VG6UtrnxBMcKj1XXcSTMQNIzpORWYD9QTQiilb+PtArPR8lVGubo62RQj/rTsLdS39wvmnLf+Glkt1gf/WPojpxvL4OV0TXeCGnYI38FWWVMU=;AFXyI7JAzon3fMWnOacNjQ=="
+secured: "wrHYdvJlFhyX4ppkZksvnTgo8J5hcBS8mH88hGXygBZ32RB1KW9uh9Vcqsd+8Ey8uTMYZA78m1vUNPWb6J0xwhtlfr7a0NhCWeGD7R0bPBHfex/7ZtTTlo4mYFVDhHWPBO9SU1o6NLW023/If4YM0WtE/b8AVn4YX5MEsDm42v9rybM32HikB9FLQoYn59u5AavXbBJJpgOid6VZg61YEQSarR/CN9cv4fEboSvMLcHm0RbJFtiJo/B7HV/G9EDl3+NVNVdLGfn7Y2Enrro9s4dbDTaE6zVGzoqq37mwV8Nsqt9IbJXlCC0krsVQH0mXsWIcGuyGQtlnzxNGH4ahWxcg2Ko1r2MO+NfDkv/UUYoI1L+I75I/13r2ewMlN4AYeLuyMkjVx0O6LQaEOa3DDlAXtQvYmx9RLfSn9SxBL1lG1F7VtUmJ+MOokRXGjii0s1FVFaG/W/dMkqRrc2pCLFgp9kaijtmYFLbgPJN8P47cvenrwNKfExeQoh0wCXhJ2S+EjuY1ojDuypv8zXYdyg==;bfCjEdJ4xVqTmncv92OLDQ=="
 ---
 

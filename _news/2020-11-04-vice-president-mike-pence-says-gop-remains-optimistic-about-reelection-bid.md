@@ -2,17 +2,17 @@
 category: news
 title: "Vice President Mike Pence says GOP remains optimistic about reelection bid"
 excerpt: "With just hours left for voters to cast their ballot, our sister station WXII in North Carolina did a one-on-one interview with Vice President Mike Pence and former South Bend, Indiana, mayor and former Democratic presidential candidate Pete Buttigieg."
-publishedDateTime: 2020-11-03T22:37:00Z
-originalUrl: "https://www.lmtonline.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
-webUrl: "https://www.lmtonline.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
+publishedDateTime: 2020-11-03T22:50:00Z
+originalUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
+webUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Laredo Morning Times
-  domain: lmtonline.com
+  name: The Telegraph
+  domain: thetelegraph.com
 
 topics:
   - Election
@@ -169,6 +169,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "K8jIXav7+aoxABejFLlIF2BbJeXG/ZYlgk+ckiMUiuCEBvEosSN1s2hpC2PLlCBZpqxAFGis/YKE+2NawZYLDqMLmEuH3eWR0zdfN9EbTrXb24cO/TRQ5J+/pICIh/cSaFQdKXRKNxh9zHheKJMXv1kh3vUZR0jRTHVDEyZJ17y+yFgttCSVY1OoDxrppHkO5WXINbVYoKKgV0Ra8VHYY9LNSuvVusnvtGbm02LeDQMn5bt0SLG3WgZvO1M2q98a6lzlV99VX8rx089t91Z1H9G1RAA61SwESI+XiaQaD/qMPDHpCYb6RMaW+m7jn9hpbAmx0S7FsSRdcqMvfyszbk6YCq76JQLUFhTjQVYpP3XOOBVfKtXQzwuc7OL5ST1XxExA6j29jTy71WiIKlJBw1M0eMCnsQQZHJBcMtL6O9CLq/ICfzxEx/7u5jlvdhs+ApsFxRUL0YR2tKjEMAw2B5GEHwA11jsteSB38GbXPvxNbFXScdRrqN4neYHkFjUDBI4RwBIO4tt96kBG1idb5A==;8a/Hga6slkr5xtg9DBj2XQ=="
+secured: "rDpRcfzD2Y85aP2GfqYsHRt0Qei1gPUcfqYO1uej1R0TQ20iGwtaFOY4vohzwtyTBUkSRIx5m5odXN5ga3FW5DvcgQ1K49y3r/zDO28oAzUYOLKF2+5MZ0nDs6NSegS5/ZVnFvWzCeKHEjLDU7T3KX+7Z8D7iL+feBSjztafG45W1u0LVnDsoEi5+M3kaEiZOA+LkMFEErzx0cWyaMuLjPfLKf6sJ+Kvaeg+lO4onmK2T+kgZby82ZxRgghfkjuLXcCJNoq1xqEtk7ugRAab3k8ZLl01GPp7YPXbpUuAltkkYat0YGGLSZXC0SxjweVk2tSNR25jUULayR3Nlh39e2WHLqhG2zSd8IdbZxltac4=;CMEZz38jUt0odI3sQ2+Pkg=="
 ---
 

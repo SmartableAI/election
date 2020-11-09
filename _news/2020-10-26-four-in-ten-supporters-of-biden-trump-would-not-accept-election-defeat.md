@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27A0BB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27A0BB"
 type: article
 quality: 155
-heat: 10495
+heat: 10515
 published: true
 
 provider:
@@ -4585,6 +4585,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540409531&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-11-08T045359Z_37417_MRPRC2IYJ9OM2EG_RTRMADP_0_USA-ELECTION-REACTION"
         width: 810
         height: 539
+        isCached: true
+  - title: "Biden, Like Trump, Will Deepen Integration With China"
+    excerpt: "Over the past four years, economic ties between Beijing and the rest of the world have only strengthened. That’s likely to continue."
+    publishedDateTime: 2020-11-09T07:08:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-like-trump-will-deepen-integration-with-china/2020/11/09/b11ccbd4-225a-11eb-9c4a-0dc6242c4814_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
 type: article
 quality: 140
-heat: 760
+heat: 780
 published: true
 
 provider:
@@ -456,6 +456,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2d765f1d-35e6-4a14-a864-8d62527bd69f_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Referendum on Trump shatters turnout records"
+    excerpt: "Trump received more than 70 million — the highest total for a losing candidate. The numbers are certain to rise as election officials continue to count more ballots. But election experts and partisans already are debating the forces behind the swell of civic participation."
+    publishedDateTime: 2020-11-09T06:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/referendum-trump-shatters-turnout-records-74101573"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_aea27a10b04e4ad39430db2b5428bf92_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump returns to White House after golf outing"
     excerpt: "President Donald Trump returned to the White House Sunday from his golf Club in suburban Virginia. he president's motorcade passed a group of cheering demonstrators at the entrance to the golf club and passed more near the White House."

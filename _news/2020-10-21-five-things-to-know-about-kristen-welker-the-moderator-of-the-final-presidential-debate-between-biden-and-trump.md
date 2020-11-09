@@ -4602,6 +4602,20 @@ related:
         width: 810
         height: 539
         isCached: true
+  - title: "Biden, Like Trump, Will Deepen Integration With China"
+    excerpt: "Over the past four years, economic ties between Beijing and the rest of the world have only strengthened. That’s likely to continue."
+    publishedDateTime: 2020-11-09T07:08:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-like-trump-will-deepen-integration-with-china/2020/11/09/b11ccbd4-225a-11eb-9c4a-0dc6242c4814_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pollster Frank Luntz: If Trump defies polls again in 2020, 'my profession is done'"
     excerpt: "Pollster Frank Luntz told Fox News on Thursday night that poll predictions are wrong about the 2020 election between President Trump and former Vice President Joe Biden, his \"profession is done\" in terms of faith and confidence from the public."
     publishedDateTime: 2020-10-23T13:03:00Z
