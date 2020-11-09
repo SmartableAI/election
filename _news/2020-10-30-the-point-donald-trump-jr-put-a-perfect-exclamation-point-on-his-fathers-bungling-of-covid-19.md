@@ -31,149 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "The Point: Marco Rubio goes full Trump on election eve"
-    excerpt: "Even as some ambitious 2024 Republicans have begun to distance themselves from Donald Trump's version of, uh, conservatism, Florida's Sen. Marco Rubio offered the equivalent of a bear hug for the incumbent just 48 hours before Election Day. \n    \n"
-    publishedDateTime: 2020-11-02T23:30:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190128124838-01-marco-rubio-dec2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: Donald Trump just admitted what everyone else already knows about the 2020 election"
-    excerpt: "What the last four years have proven is that if you listen closely enough to President Donald Trump, he often accidentally reveals a deeper truth about his time in the White House -- and his campaign for a second term, which, win or lose, ends today.\n    \n"
-    publishedDateTime: 2020-11-03T16:40:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/88mONQHKjPw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/trump-kenosha-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/trump-kenosha-speech/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 178
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102140345-03-trump-nc-1101-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: Donald Trump just keeps driving in the wrong direction"
-    excerpt: "With just 23 days until the 2020 election, here's my latest roundup of the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
-    publishedDateTime: 2020-10-11T20:05:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2SonSDP_rus/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/us-election-2020-week-ahead/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/us-election-2020-week-ahead/index.html"
+  - title: "Trump shirks Covid-19 guidelines while greeting a nearly maskless crowd"
+    excerpt: "During a campaign stop in Maine, President Donald Trump, without a mask, greeted a largely maskless crowd and signed autographs while in close proximity. CNN medical analyst Dr. Jonathan Reiner says the President's messaging undermines the effort of health professionals advising their patients.\n    \n"
+    publishedDateTime: 2020-10-25T22:02:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7YgfpVAODTk/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/25/trump-campaign-maine-crowd-no-mask-reiner-nr-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011150015-donald-trump-1010-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025173013-trump-campaign-maine-crowd-no-mask-reiner-nr-vpx-00001905-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: This chart shows why Trump is *so* dangerous to the GOP"
-    excerpt: "Win or lose in eight days' time, President Donald Trump's lasting legacy on the Republican Party will be a shrinking base that looks less and less like the country.\n    \n"
-    publishedDateTime: 2020-10-26T22:32:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/clzMhlHtFIQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-trump-graph/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/gop-shrinking-support-trump-graph/index.html"
+  - title: "Trump seems to strike a new tone on masks: 'If you get close, wear a mask'"
+    excerpt: "President Donald Trump struck a slightly a new tone on mask-wearing at a rally on Thursday, telling a group of largely maskless, shoulder-to-shoulder supporters that he thinks wearing a mask is appropriate when social distancing isn't possible.\n    \n"
+    publishedDateTime: 2020-10-29T21:53:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/320rlFYwXBY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/trump-masks-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/trump-masks-election-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142442-02-trump-rally-pa-1026-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029155018-01-trumps-tampa-1029-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: The absolutely bonkers threat Donald Trump made this week"
-    excerpt: "At a rally in Allentown, Pennsylvania, on Tuesday, President Donald Trump said something incredible -- even by his standards.\n    \n"
-    publishedDateTime: 2020-10-27T18:22:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0kZocpA_jeU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/tom-wolf-donald-trump-pennsylvania/index.html"
+  - title: "Trump uses Midwestern swing to launch false attacks on doctors while Covid cases rise"
+    excerpt: "With three days to go in a campaign that's been dominated by the pandemic, President Donald Trump made the baseless and politically perilous claim that American doctors are profiting from Covid-19 deaths during a visit to the critical electoral region of the Midwest, where former Vice President Biden"
+    publishedDateTime: 2020-10-31T11:59:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0PIrRDt7Cvc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142449-03-trump-rally-pa-1026-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030194342-trump-kasparov-oped-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "With Senate at risk, Trump focuses on himself"
-    excerpt: "After President Donald Trump took the controversial step of commuting the jail sentence of his longtime friend Roger Stone, Sen. Susan Collins was again stuck between the leader of her party and the Trump-aligned voters she needs to win a tough reelection.\n    \n"
-    publishedDateTime: 2020-10-29T21:19:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1jGI_2y8jkc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/donald-trump-senate-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/donald-trump-senate-election-2020/index.html"
+  - title: "Minnesota reports three Covid-19 outbreaks related to Trump campaign events in September"
+    excerpt: "The Minnesota Department of Health is reporting three Covid-19 outbreaks related to Trump campaign events held in the state in September.\n    \n"
+    publishedDateTime: 2020-10-26T22:29:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HYxcc82-A9o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/covid-outbreaks-trump-campaign-events/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/covid-outbreaks-trump-campaign-events/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013163336-martha-mcsally-donald-trump-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924114945-01-trump-bemidji-mn-rally-0918-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: This is how Donald Trump gets to 270"
-    excerpt: "With just 2 days until the 2020 election, this is the last Sunday newsletter before the country votes. The 5 BIG storylines you need to know to understand the last week on the campaign trail are below. They're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
-    publishedDateTime: 2020-11-01T19:51:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mu9IWOs20X4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/us-election-2020-week-ahead/index.html"
+  - title: "'Saturday Night Live' sees Trump as a man without a Covid-19 plan"
+    excerpt: "Live\" hammered President Donald Trump for his lack of a clear plan to combat the spread of Covid-19, opening with a spoof of the last presidential debate. It featured Alec Baldwin as Trump, Jim Carrey as Joe Biden and SNL alum Maya Rudolph as moderator Kristen Welker,"
+    publishedDateTime: 2020-10-25T12:27:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/saturday-night-live-sees-trump-man-without-covid-19-plan-n1244669"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244669"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244669"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031142107-02-trump-1030-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422815/201024-snl-er-1130p_8ac48ecc58e5def06a87409bf66b93ce.png"
+        width: 1920
+        height: 1077
         isCached: true
-  - title: "The Point: This Republican senator is taking being pro-Trump to a whole other level"
-    excerpt: "Georgia Republican Sen. Kelly Loeffler was apparently on another planet or something during the 2016 presidential race.\n    \n"
-    publishedDateTime: 2020-10-29T14:27:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnE3hm97Sm4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/kelly-loeffler-donald-trump-georgia-senate-race/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/kelly-loeffler-donald-trump-georgia-senate-race/index.html"
+  - title: "Donald Trump Jr. says Covid numbers are 'almost nothing' on day reporting 90,000 infected, 1,000 dead"
+    excerpt: "Donald Trump Jr. falsely claimed Thursday that Covid-19 infection numbers have dwindled to \"almost nothing,\" despite there being around 1,000 deaths reported in the U.S. the same day. In an interview on Fox News' “The Ingraham Angle,"
+    publishedDateTime: 2020-10-30T11:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-says-covid-numbers-are-almost-nothing-day-n1245449"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245449"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245449"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016183832-kelly-loeffler-1015-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump has cast doubt on a peaceful transfer of power, but the preparation for one is well underway"
-    excerpt: "President Donald Trump has cast doubt on whether he will commit to a peaceful transfer of power should Democrat Joe Biden win the election, but the secretive process to prepare a would-be Biden administration has been underway for months with help from top Trump officials.\n    \n"
-    publishedDateTime: 2020-10-31T20:07:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SDfDUYsH6S4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030141258-03-biden-trump-election-night-split-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/nn_ggu_exclusive_inside_covid_icu_201029_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "nKSTXAoSqjvPXwU5x+X+VL8VJ2m3CFySrJ0hDbACovU6nQwjAeEKVRDPuEkf8a5sMLDFBnPRyaUTaSZmNivH++RyjAktq7WquQPRCNtgLgM4C+AeCp+f1RAfpi2+YK1eoeUQrGJ0/+9c2OesM/8/03tQefCf4MJErh/gV6MN2+QEN4CAJfpQEef02YuhOKrP4XlC8bQwoIaG0kgWS4EXWwLIFzH0dHnVBk0wAQ9z0PuxNtc/FMPCOW44LPK7bxBDDjO9+u/Q/VCdmRXepxukFm2zqEajhAGII+7BnEmkY5CimMPqzBDDe7AwA0NHjfEIleHeWycUXcUnAmsmyiXi6Pm5HjGzkFZ9dZwBilcgJro=;OwL+Bg4gqGskVJnSsPGnfQ=="

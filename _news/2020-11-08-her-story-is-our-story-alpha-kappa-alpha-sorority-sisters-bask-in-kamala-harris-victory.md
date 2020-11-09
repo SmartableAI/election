@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorori
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "See Kamala Harris' ancestral village in India celebrate her election win"
+    excerpt: "The village of Thulasendrapuram celebrated Harris' election win with fireworks, music and a mural in her honor."
+    publishedDateTime: 2020-11-08T18:43:00Z
+    webUrl: "https://www.cnn.com/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108133459-india-celebrates-harris-win-thumbnail-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
     excerpt: "A group of Howard University alums and Alpha Kappa Alpha sorority sisters explain what electing the nation's first black woman vice president means to them and the generations ahead."
     publishedDateTime: 2020-11-08T21:45:00Z

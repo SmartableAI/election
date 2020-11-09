@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Vulnerable Senate Republicans tie themselves to Barrett with Trump's numbers eroding "
-    excerpt: "Endangered Senate Republicans have a new running mate in the battle to keep their narrow majority: Amy Coney Barrett.\n    \n"
-    publishedDateTime: 2020-10-14T02:59:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vnev-xi5RxM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013092118-04-barrett-hearing-1013-graham-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Fearing a loss, GOP senators keep distance from Trump and begin to ponder party's future"
     excerpt: "For four years, Republican senators have shrugged off President Donald Trump's constant string of controversies and scandals. They've ignored his Twitter outbursts and endless grievances. And they've avoided confronting him, while voting mostly in lockstep for his agenda and protecting him during his"
     publishedDateTime: 2020-10-20T19:12:30Z

@@ -47,6 +47,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "For Biden, how to help mangled economy is next obstacle"
+    excerpt: "Joe Biden will inherit a mangled U.S. economy — one that never fully healed from the coronavirus and could suffer again as new infections are climbing"
+    publishedDateTime: 2020-11-09T05:58:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/for-biden-how-to-help-mangled-economy-is-next-obstacle/2020/11/09/a1934594-2250-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/for-biden-how-to-help-mangled-economy-is-next-obstacle/2020/11/09/a1934594-2250-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/for-biden-how-to-help-mangled-economy-is-next-obstacle/2020/11/09/a1934594-2250-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden widens lead on Friday. Here's why it's unclear when Nevada will be called."
     excerpt: "Joe Biden added 8,000 votes to his lead over President Trump in Nevada on Friday, inching closer to winning the state."
     publishedDateTime: 2020-11-06T20:45:00Z

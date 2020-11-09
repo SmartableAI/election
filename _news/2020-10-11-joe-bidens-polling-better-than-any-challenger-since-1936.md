@@ -32,19 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Biden campaign launches first ad featuring Cindy McCain "
-    excerpt: "Joe Biden's presidential campaign is unveiling its first television ad featuring Cindy McCain, the widow of Republican Sen. John McCain of Arizona, as the Democratic nominee seeks to gain ground with independents and disaffected Republicans in the battleground state.\n    \n"
-    publishedDateTime: 2020-10-10T14:07:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yunu3yVxkjg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-ad-cindy-mccain/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-ad-cindy-mccain/index.html"
+  - title: "Biden says he'll answer court-packing question 'when the election is over'"
+    excerpt: "Democratic presidential nominee Joe Biden again ducked questions Thursday about whether he would seek to add seats to the Supreme Court, telling reporters he would not address the issue until after the November 3 election.\n    \n"
+    publishedDateTime: 2020-10-09T00:01:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0zHRjIHTFqs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006165347-02-biden-gettysburg-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Joe Biden's polling better than any challenger since 1936"
+    excerpt: "Former Vice President Joe Biden is dominating President Donald Trump in the latest polls. No, the election is not over yet, and Trump still has a non-negligible chance of winning.\n    \n"
+    publishedDateTime: 2020-10-11T21:17:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d7b55ymY66I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923170004-cindy-mccain-intv-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden is ahead. Democrats are still stressed"
+    excerpt: "Joe Biden leads President Donald Trump nationally and is running ahead or even with him in most swing state polls. He is besting Trump on just about every question atop voters' minds, from the coronavirus and health care to \"law and order.\"\n    \n"
+    publishedDateTime: 2020-10-11T21:16:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u5H5a8-1oAY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/democrats-stressed-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/democrats-stressed-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002131552-joe-biden-debate-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: A peek inside a potential Biden Cabinet"
+    excerpt: "Amid consistent polling showing Democratic nominee Joe Biden with a yawning lead, insiders are starting to game out the question that comes after a win: What would a Biden administration look like?\n    \n"
+    publishedDateTime: 2020-10-12T22:31:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eNyq3UdwMyc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/joe-biden-potential-cabinet-2020-elizabeth-warren-susan-rice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/joe-biden-potential-cabinet-2020-elizabeth-warren-susan-rice/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190424174959-20190424-the-point-biden-cutout-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,38 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden crosses 270 threshold in CNN's Electoral College outlook for first time "
-    excerpt: "Joe Biden is surging in the battle for the White House with less than four weeks to go until Election Day.\n    \n"
-    publishedDateTime: 2020-10-07T23:51:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2E8_r9CBU_Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'A moment to put country above party': Biden makes appeal to disaffected Republican and independent voters"
-    excerpt: "Joe Biden is making a clear attempt to appeal to disaffected Republicans and independent voters in the final weeks of the election, promising he'd be a president that would work hard not just for those who support him, but also for those who do not.\n    \n"
-    publishedDateTime: 2020-10-11T00:17:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NNzZYmKbATo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/joe-biden-disaffected-republicans-independents/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/joe-biden-disaffected-republicans-independents/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006165347-02-biden-gettysburg-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden tops 270 in POLITICO's Election Forecast"
     excerpt: "To win reelection, Trump would now have to sweep five toss-up states, plus a “lean Democratic” state like Wisconsin or Pennsylvania."
     publishedDateTime: 2020-10-12T08:36:00Z
@@ -112,19 +128,67 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Joe Biden campaigns in Miami ahead of NBC News town hall"
-    excerpt: "A new NBC News/Wall Street Journal poll shows Joe Biden opening a 14-point lead on President Trump nationally, with the election less than a month away. Biden told reporters that he’d listen to scientists about the next debate after President Trump’s Covid-19 diagnosis."
-    publishedDateTime: 2020-10-06T00:02:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/joe-biden-campaigns-in-miami-ahead-of-nbc-news-town-hall-93193797761"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93193797761"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93193797761"
+  - title: "'I'm not a fan of court packing': Biden responds after Trump, GOP attacks"
+    excerpt: "After coming under fire from President Donald Trump and Republicans about whether he backed expanding the Supreme Court to more than nine justices, Joe Biden said Monday that he's \"not a fan of court packing."
+    publishedDateTime: 2020-10-13T11:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/i-m-not-fan-court-packing-biden-responds-after-trump-n1243077"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243077"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243077"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_42/3419620/201013-joe-biden-mc-1131_120b0136ec99b7cfd936768f8c02c520.JPG"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "Watch live: NBC News Town Hall with Joe Biden"
+    excerpt: "NBC News’ Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday, October 5th in Miami, Fla. A socially-distanced audience of undecided voters will be asking Biden where he stands on the critical issues impacting their lives."
+    publishedDateTime: 2020-10-02T19:59:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-nbc-news-town-hall-with-joe-biden-93026373600"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93026373600"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93026373600"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_gha_covid_and_the_campaign_201005_1920x1080.nbcnews-fp-1200-630.jpg"
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_holt_TH_monday.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden begins to pull away in Pennsylvania"
+    excerpt: "With 28 days till the election, Pennsylvania is looking further and further out of reach for President Donald Trump. Democratic presidential nominee Joe Biden is ahead by 12 percentage points among registered voters here,"
+    publishedDateTime: 2020-10-06T16:00:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d1/ff/e233f90e4037b175cd8ff9ab1fff/ap20280155144908-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden discusses how to combat racial injustice"
+    excerpt: "Joe Biden discusses his work with the civil rights movement and the change he has seen in the country while also addressing how he would hope to fight racial injustice if elected president."
+    publishedDateTime: 2020-10-06T00:59:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-discusses-how-to-combat-racial-injustice-93196869645"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93196869645"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93196869645"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_hate_201005_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -176,37 +240,65 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "'Hamilton' cast to host virtual fundraiser for Joe Biden's campaign"
-    excerpt: "The world may be turned upside down, but the “Hamilton” cast is not letting Joe Biden throw away his shot. Biden’s presidential campaign announced Monday night that it will be holding a virtual grassroots fundraiser with the cast of the hit musical on Oct."
-    publishedDateTime: 2020-10-15T08:50:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/hamilton-cast-host-virtual-fundraiser-joe-biden-s-campaign-n1243226"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243226"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243226"
+  - title: "Allegation on Biden Prompts Pushback From Social Media Companies"
+    excerpt: "Joe Biden’s campaign rejected assertions made in a published report that were based on unverified material from Trump allies. Facebook and Twitter found the story dubious enough to limit access to it on their platform."
+    publishedDateTime: 2020-10-15T02:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_20/3346401/200512-hamilton-al-1112_c856a6acd5b1adf1863e270d3441f211.jpg"
-        width: 2500
-        height: 1839
+      - url: "https://static01.nyt.com/images/2020/10/14/us/politics/14biden1/14biden1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad."
-    excerpt: "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me."
-    publishedDateTime: 2020-10-09T21:39:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241727"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241727"
+  - title: "Biden says small groups, PPE, necessary for schools to be open during pandemic"
+    excerpt: "Former Vice President Joe Biden outlines his plan for reopening schools safely during the coronavirus pandemic and focused on rate of transmission in the community, making sure teachers and proper PPE,"
+    publishedDateTime: 2020-10-06T01:04:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-says-small-groups-ppe-necessary-for-schools-to-be-open-during-pandemic-93197381884"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93197381884"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93197381884"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 132
+    quality: 131
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417006/201002-think-randy-lewellen-with-daughter-se-1059a_3350f9af48be7d86da91e68a1315f0d2.jpg"
-        width: 2404
-        height: 1533
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_schools_201005_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "‘I Don’t Want to Be Attacking the President,’ Joe Biden Says"
+    excerpt: "In a town hall for union workers, Mr. Biden was asked about how he would handle the pandemic, but he said he did not want to take shots at President Trump."
+    publishedDateTime: 2020-10-03T22:31:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007376626/biden-trump-coronavirus.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/03/us/politics/03election-biden-vidcover/03election-biden-vidcover-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden, from Gettysburg, appeals to soul of the nation"
+    excerpt: "Privacy Policy Democratic presidential candidate former Vice President Joe Biden holds up his mask as he speaks at Gettysburg National Military Park in Gettysburg, Pa., Tuesday, Oct. 6, 2020. | AP Photo/Andrew Harnik Joe Biden on Tuesday implored Americans to appeal to their higher nature,"
+    publishedDateTime: 2020-10-06T18:13:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/biden-appeals-to-soul-of-nation-gettysburg-426867"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/48/d6/a89b9ee94fe2afef6229e7c7aa00/20201006-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "Yddyl3Ir+HX4gszxKFFU/ZSY6DWNIa5j0jrD3JDavPhvdKduqNu9zMHFJv0kW6Jr7mAUfoaJIAcxYIj7oQZsvSV4r4PlOHx1vOgVwio82sQ1P8ky7D4A6cFJcgSuDzbcI2szlO+upax9fVDZ6GQFk2bsu0ME0mqD0BCJXNwvR+meN0oKOQt69YJAKulrYdSt6oCBtKjcPR1TKgD+v9Cb+KLUQxkjrp4Jyl0yzyG/HfC/JcL3eSG0GyjmFTtKdVOQFIe90f2tXTxTBr7QKboOABimYI7NMJyBVGbKo7V3kRBQQN3V3ZIR06aWo9PB7zU7IsbHoJGZIn0W1usSXEL2FzCm47b8Mw+1qe1RCO7iQIw=;Lej7hAwTYAuGr9c147GLyA=="

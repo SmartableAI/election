@@ -32,53 +32,133 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Trump's loss: A culmination of self-destructive decisions"
-    excerpt: "When the White House essentially relocated to Air Force One over the final weeks of the campaign, President Donald Trump had a common reaction whenever he saw his rival Joe Biden appear on one of the airplane's many televisions.\n    \n"
-    publishedDateTime: 2020-11-08T12:43:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o3U0Y8H2lRQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/donald-trump-loss-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/donald-trump-loss-election-2020/index.html"
+  - title: "Trump supporters at rallies continue to get stranded in chilly temperatures"
+    excerpt: "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n"
+    publishedDateTime: 2020-11-02T18:16:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A6aP7hMdzj8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200708163605-donald-trump-threatens-school-funding-cut-cdc-guidelines-diamond-dnt-lead-vpx-00001129-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump might have lost but his legacy lives on with congressional Republicans"
-    excerpt: "President Donald Trump may be defeated, but Trumpism -- the political coalition the President built, the allegiance he demanded from his allies and the policies he heralded -- will be with Republicans for years to come.\n    \n"
-    publishedDateTime: 2020-11-07T17:20:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ylo5i0R6Wao/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/republican-lawmakers-trump-legacy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/republican-lawmakers-trump-legacy/index.html"
+  - title: "Trump supporters seen blocking traffic on a New Jersey highway and a New York City bridge"
+    excerpt: "Hundreds of vehicles flying Trump, MAGA and American flags caused delays around the New York metropolitan area on Sunday after they were seen stopping traffic to cheer and chant.\n    \n"
+    publishedDateTime: 2020-11-02T02:32:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hRLcTpDxGQ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/us/trump-caravan-new-jersey-highway-new-york/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/us/trump-caravan-new-jersey-highway-new-york/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201101180345-trump-car-rally-stops-traffic-in-nj-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Donald Trump won in Oklahoma."
-    excerpt: "Oklahoma election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
-    publishedDateTime: 2020-11-04T01:39:00Z
-    webUrl: "https://www.politico.com/2020-election/results/oklahoma/"
-    ampWebUrl: "https://www.politico.com/2020-election/results/oklahoma/amp/"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/2020-election/results/oklahoma/amp/"
+  - title: "New Jersey congressman's pledge of 'undying support' for Trump hangs over close House race"
+    excerpt: "The congressman who represents Atlantic City made a risky political gamble last year. Now he's waiting to see whether it will pay off -- or if he's going home broke.\n    \n"
+    publishedDateTime: 2020-10-28T14:47:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JJitFMueHGk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191219162951-trump-jeff-van-drew-12192019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
+    excerpt: "President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that he can't seem to shake.\n    \n"
+    publishedDateTime: 2020-10-29T01:47:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pme6VdvQOfg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'It's a little tough out here': Trump blitzes must-win states with perfected rally routine"
+    excerpt: "President Donald Trump was running late when he arrived here Sunday morning, wind howling and tiny drops of ice sticking to his face, to begin the second-to-last day of his final run for office.\n    \n"
+    publishedDateTime: 2020-11-02T14:53:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027121426-donald-trump-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Despite the Trump administration's new policy, many pharmacies still won't vaccinate children against flu "
+    excerpt: "As a dark winter approaches with \"twindemics\" of Covid-19 and the flu, an effort by the Trump administration to increase the number of children receiving flu shots is not working, according to a CNN investigation.\n    \n"
+    publishedDateTime: 2020-10-26T14:58:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXUl-9swsd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025074215-kid-flu-shot-stock-3-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "For Trump voters, shock, disappointment and disbelief."
+    excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
+    publishedDateTime: 2020-11-07T22:53:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/40.jpg"
-        width: 600
-        height: 325
+      - url: "https://static01.nyt.com/images/2020/11/07/nyregion/07election-live-blog-trump-disbelief/07election-live-blog-trump-disbelief-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "In a historically Republican suburb of Pittsburgh, voters debate whether to give Trump a second term."
+    excerpt: "Long lines of voters moved steadily in the first hour of voting at the Municipal Center in this town of about 30,000 people in Butler County, a historically Republican county. Cranberry Township, home to the headquarters of Westinghouse Electric and many engineers,"
+    publishedDateTime: 2020-11-03T16:48:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 120
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "N4Rf/kHg/51m4fTL8iL7dMhrrXQ/vUFb+C9Spx/sM0PPfEzcfufrFMQlatVDgfk2+WG01aIMcsAyNA9+i28KwlHj/V2hLEIykYGfFgYZLrbveOgIBFfRbthWWPw8KQaYCYHgmzDklijhztJDlRwXdqk+Y1HffSjtWqzW8Vmq/WIjyPYnwD4JoxKLddavDeyM5QYYvi6dfGNpIHZnBBOxtO/G15H8LYaCzAtBS6Wuher0+P8qVwJrkrKMSTUhrJUNowKUgRDf0WlVbUqeNJ6QWXrXwHUS0gApzTh/GsUMsvhFf7gaTB/tTL/6YV84Qv+4uLsQe0C1Y0RDXYAYAN7XidXmTKJa9JWp4h2kRgCpLiea9lpWBM03YiTZHk7NRYcKUZ3rw1qQrucHpnKGBrKUyJZIVgycLwVeragyVwHcEEgisIxw2z6fpIg67rwQc0WEDUJvx9ZPOBOw/K3GZ2IPEia1KjpT3s6QeB7Vf4Nfmf4HMwfbk20iNJmQNanCOZjgJAhL8wTChyTTWRJu4ovmWQ==;FuMq/n95ytOLH4uewWoPqA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvani
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
 type: article
 quality: 175
-heat: 575
+heat: 635
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200727212235-melania-trump-rose-garden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's doctor says the President has tested negative on consecutive days"
+    excerpt: "White House physician Sean Conley said Monday President Donald Trump has tested negative for Covid-19 on consecutive days, as the President heads to a crowded campaign rally in Florida.\n    \n"
+    publishedDateTime: 2020-10-12T23:39:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oZfst1Abrhg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -255,6 +271,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "In Pennsylvania, Trump Voter Fury Foretells a Nation Still Divided"
+    excerpt: "President Trump has presented no hard evidence of voter fraud, but his charges have riled supporters in Pennsylvania who now insist the election has been stolen."
+    publishedDateTime: 2020-11-08T10:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/politics/06pa-trump-voters1/06pa-trump-voters1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Melania Trump slams former friend who wrote tell-all: 'She hardly knew me'"
     excerpt: "The first lady blasted Stephanie Winston Wolkoff's book as \"idle gossip\" and said she needs to look \"within\" at \"her own dishonest behavior.\""
     publishedDateTime: 2020-10-16T17:20:00Z
@@ -302,6 +334,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420164/201014-mccloskey-court-hearing-se-143p_7b68a0bea8cb98aebd86e91b93602446.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump’s Taxes Show He Engineered a Sudden Windfall in 2016"
+    excerpt: "Over $21 million in highly unusual payments from the Las Vegas hotel Donald Trump owns with Phil Ruffin were routed through other Trump companies, then directed to Mr. Trump. Tax records expose ..."
+    publishedDateTime: 2020-10-09T11:26:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/10/09/us/donald-trump-taxes-las-vegas.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/us/donald-trump-taxes-las-vegas-1602094433672/donald-trump-taxes-las-vegas-1602094433672-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women"
     excerpt: "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit."

@@ -142,22 +142,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Chuck Todd: “This path is more treacherous by the day for Donald Trump”"
-    excerpt: "To win re-election, Chuck Todd shows that President Trump would have to win in all four of the following close states: Arizona, Pennsylvania, North Carolina and Florida."
-    publishedDateTime: 2020-10-23T00:06:00Z
-    webUrl: "https://www.nbcnews.com/now/video/chuck-todd-this-path-is-more-treacherous-by-the-day-for-donald-trump-94442053697"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94442053697"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94442053697"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/ott_now_debate_trumppath_201022_1603413994454.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Trump flails and shows no ability to reset as some Republicans voice their concerns"
     excerpt: "(CNN)As President Donald Trump began a packed day of events Friday, he delivered an unusually somber message to seniors -- a group he won in 2016 and desperately needs to win back -- speaking of ..."
     publishedDateTime: 2020-10-17T04:50:00Z

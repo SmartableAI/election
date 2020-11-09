@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html"
 type: article
 quality: 174
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/27/multimedia/27elections-briefing-polls/27elections-briefing-polls-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden takes the lead in Pennsylvania as vote count continues"
+    excerpt: "Joe Biden has taken the lead in Pennsylvania as mail-in votes continue to be counted and reported Friday morning."
+    publishedDateTime: 2020-11-06T14:13:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-takes-the-lead-in-pennsylvania-as-vote-count-continues-95441477990"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95441477990"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95441477990"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_2020_biden_lead_pa_201106_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "pwtq+9RfM5eChh/gPNaDld28Ou3DdzwsfNQrxTuWq6kttbGxyM+miQmEyrUgdy1KSQeFk6kkG1q14rjJNKFl/IVSfeiftyNyph2vSB/Aq3j+k0W1Jrj4IiIfMqqmD3n2ZjMUWxlDRuN40z0e9UoHM2O5h6oRz/gOBH+PUSMbtDq33wTDHohsapjQduIIZ2DLzCtDx2hkXXXxT4HihJagr8h8svv7J3LWHqTkDIdKfLnO77DgvaNLTuCP6P8LFBySUHBv17EzGkSbjZXA6CQsEyo1TI0kHPMZ7Qp8BJhOzj3CCbeM6ldBKJNKQITbI22C0GYNF1EB+sEVZmRXcL/C8kaKXQAjROirWQoqQGOf1cQ=;Z/lEfNOSrKyhh9Mx6kW5xQ=="

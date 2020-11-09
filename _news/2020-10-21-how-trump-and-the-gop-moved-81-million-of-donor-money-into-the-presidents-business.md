@@ -221,6 +221,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to launch COVID-19 task force, Trump plans rallies to protest election"
+    excerpt: "President-elect Joe Biden will convene a coronavirus task force on Monday to examine the No. 1 problem confronting him when he takes office in January, while President Donald Trump pursues several long-shot gambits to hold on to his job."
+    publishedDateTime: 2020-11-09T05:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUKKBN27P0D8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P0D8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P0D8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 152
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540479003&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA806Z"
+        width: 808
+        height: 545
+        isCached: true
   - title: "Biden approaches U.S. election victory as Trump presses unfounded fraud claims"
     excerpt: "Democrat Joe Biden edged closer to winning the White House on Friday, expanding his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia even as Republicans sought to raise $60 million to fund lawsuits challenging the results."
     publishedDateTime: 2020-11-07T02:09:00Z

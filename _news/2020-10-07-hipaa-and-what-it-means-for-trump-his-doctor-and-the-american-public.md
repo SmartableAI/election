@@ -31,37 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "See Tapper's direct message to Americans after Trump's 'callous' tweet"
-    excerpt: "CNN's Dr. Sanjay Gupta and Jake Tapper react to President Donald Trump's tweet telling Americans not to be afraid of Covid-19.\n    \n"
-    publishedDateTime: 2020-10-05T21:13:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBefDRw1-nk/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
+  - title: "Trump pitches economic plan for Hispanic Americans -- 6 days before the election"
+    excerpt: "President Donald Trump announced a two-page second-term vision for the Hispanic American community -- the \"American Dream Plan\" -- to rallygoers in Arizona on Wednesday, six days before Election Day.\n    \n"
+    publishedDateTime: 2020-10-29T00:37:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ia8fFmnVjdg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-american-dream-plan-hispanics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-american-dream-plan-hispanics/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005163054-tapper-gupta-lead-10052020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028191318-trump-phoenix-1028-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump hopes for Monday discharge as Americans wonder about his health"
-    excerpt: "It's been more than two days since President Donald Trump was airlifted to Walter Reed National Military Medical Center, but Americans remain largely in the dark about the trajectory of his infection with Covid-19 and the specifics of his condition as the White House tries to control the optics of his"
-    publishedDateTime: 2020-10-05T13:18:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Mz23KP1Wmo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
+  - title: "Lil Wayne met with Trump and praised the President's plan for Black Americans"
+    excerpt: "Rapper Lil Wayne met with President Donald Trump to discuss the President's plan for Black Americans -- and apparently liked what he heard.\n    \n"
+    publishedDateTime: 2020-10-30T14:04:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lOt6ZitcBDY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/lil-wayne-trump-meeting-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/lil-wayne-trump-meeting-trnd/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004234718-04-trump-walter-reed-morotcade-1004-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030071301-restricted-donald-trump-lil-wayne-1029-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump is taking credit for the 'biggest and best' GDP  in American history. Here are the facts"
+    excerpt: "The US government just published an eye-popping report: Gross domestic product, the broadest measure of the country's economic growth, grew at a stunning 33.1% annual rate in the third quarter.\n    \n"
+    publishedDateTime: 2020-10-29T15:18:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEqNM0jKFkw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/economy/gdp-report-trump-biggest-best-factcheck/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/economy/gdp-report-trump-biggest-best-factcheck/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028225743-01-trump-fastest-gdp-growth-history-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump and the Boaty McBoatfacing of America"
+    excerpt: "Mr. Trump and his circle dumbfounded and afraid. Don Jr. told a friend that his father “looked as if he had seen a ghost. Melania was in tears — and not of joy.” Steve Bannon, according to Mr. Wolff,"
+    publishedDateTime: 2020-10-28T09:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/28/opinion/trump-boaty-mcboatface.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/28/opinion/trump-boaty-mcboatface.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/28/opinion/trump-boaty-mcboatface.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/28/opinion/28boylan-01/28boylan-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The One Pollster in America Who Is Sure Trump Is Going to Win"
+    excerpt: "Robert Cahaly’s polls have Arizona, Michigan and Florida in the president’s column. It’s hard to find another pollster who agrees with him. But they didn’t believe him in 2016 either."
+    publishedDateTime: 2020-11-03T02:21:00Z
+    webUrl: "https://www.nytimes.com/article/trump-polls-trafalgar-group.html?pageType=LegacyCollection&collectionName=Polls+and+Voters&label=Polls+and+Voters&template=storyline_band_recirc"
+    ampWebUrl: "https://www.nytimes.com/article/trump-polls-trafalgar-group.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-polls-trafalgar-group.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/03trafalgar-promo/03trafalgar-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Undeterred by Pandemic, Americans Prepare to Deliver Verdict on Trump"
     excerpt: "President Trump and Joseph R. Biden Jr. barnstormed through battleground states, concluding an extraordinary campaign conducted amid a health crisis and deep economic anxiety."
@@ -79,29 +127,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "On economic aid, Trump seems to realize he 'messed up tactically'"
-    excerpt: "It dawned on the oft-confused president that sabotaging himself in the final four weeks of re-election campaign wasn't such a good idea."
-    publishedDateTime: 2020-10-09T13:33:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/economic-aid-trump-seems-realize-he-messed-tactically-ncna1242704"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2018_50/2679261/181211-trump-pence-pelosi-schumer-ew-1206p_98b6b0120df347aa6749aa6f649f6587.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
-    excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
-    publishedDateTime: 2020-10-04T09:02:00Z
-    webUrl: "https://www.thedailybeast.com/donald-trump-might-lose-but-his-judges-will-keep-wrecking-america-for-years-to-come"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 38
 
 secured: "atWJFh6UoPQ8CpyiUBYSGbM/XQ6iOyeiGN9ORNJKCfPiK1zif1MR59ikoULXtd0b13+ISyHxwNBs9WJj003fVeMdooPruAh9v5dymw/MI+dJJCWBHhsUz0S6IBMDxL3rKSTM1wkyr7n8BEaLyRZVHlf5rZT+vIZAjmRGaCfWC7VpyUFko2kUBKKrjFeQytoQf7btdbqZEep5ipcT0bbr/l+z7KrXytcyb4hPcFtQq7sMnQ6iExtjhqmg9P+6UaZ8WB3Jzo75Y4F+pAQy9LXeLK79u7dCznwSmBkH6gKe53FaVmhCSy5Yf0oflVON2hHAu3XkUxB45qr24VDylZTlzxhlte8wHpFPZvAoizZqRVs=;MpNcAbOq9KHH2laFpjW24w=="
 ---

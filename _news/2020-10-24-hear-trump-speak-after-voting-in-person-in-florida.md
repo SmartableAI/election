@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-fl
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
 type: article
 quality: 175
-heat: 375
+heat: 415
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's unhappy warrior pitch to voters includes insults and highly specific grievances"
+    excerpt: "President Donald Trump is ending his reelection bid in a frenzied cross-country push for votes in states he won -- some handily -- four years ago. But he is not pretending to be happy about it.\n    \n"
+    publishedDateTime: 2020-10-28T15:32:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A_PvDI_mF7M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/trump-election-2020-insults/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/trump-election-2020-insults/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028010254-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump signs law designating 9-8-8 as universal number for national suicide hotline starting in 2022"
     excerpt: "President Donald Trump on Saturday signed into a law a bipartisan bill that will make 9-8-8 the universal telephone number to reach the national suicide prevention hotline starting in 2022.\n    \n"
     publishedDateTime: 2020-10-17T23:42:22Z
@@ -94,6 +110,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump has cast doubt on a peaceful transfer of power, but the preparation for one is well underway"
+    excerpt: "President Donald Trump has cast doubt on whether he will commit to a peaceful transfer of power should Democrat Joe Biden win the election, but the secretive process to prepare a would-be Biden administration has been underway for months with help from top Trump officials.\n    \n"
+    publishedDateTime: 2020-10-31T20:07:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SDfDUYsH6S4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030141258-03-biden-trump-election-night-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "These white women voted for Trump in 2016. They’re having second thoughts."
+    excerpt: "The trend as we’ve gotten closer to the election has been just how many people aren’t voting for Trump again.”"
+    publishedDateTime: 2020-10-28T22:32:00Z
+    webUrl: "https://www.politico.com/news/2020/10/28/white-women-trump-second-thoughts-433118"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/28/white-women-trump-second-thoughts-433118"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/28/white-women-trump-second-thoughts-433118"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/ab/d1/643fba9447c8b66a865b46a2c673/gettyimages-1222154946-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Flashbacks to Florida in 2000 as Trump Heads to Court to Save His Presidency"
     excerpt: "While the White House seeks a “James Baker-like” figure to lead its postelection legal battle, the real James Baker says President Trump should not try to stop votes from being counted."
@@ -111,19 +159,21 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Florida’s top prosecutor once sued Trump. Now she’s fighting for his reelection."
-    excerpt: "Ashley Moody ran on a promise to keep her office out of politics. She has quietly become a major Republican player in the must-win state."
-    publishedDateTime: 2020-10-28T02:04:00Z
-    webUrl: "https://www.politico.com/news/2020/10/27/florida-ashley-moody-trump-432617"
+  - title: "James Baker, a veteran of the 2000 Florida recount, says Trump should not try to stop vote counting."
+    excerpt: "Mr. Baker, the former secretary of state who led the legal and political team during the Florida recount battle in 2000 that secured the presidency for George W. Bush, said in an interview on Thursday that President Trump may have legitimate issues to pursue but they should not be used to justify a halt to the initial tabulation of ballots."
+    publishedDateTime: 2020-11-05T22:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 125
+      name: New York Times
+      domain: nytimes.com
+    quality: 120
     images:
-      - url: "https://static.politico.com/5b/c8/bc1c3d7e4e74986946d4a7e37373/201026-ashley-moody-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/11/05/multimedia/05elections-briefing-Baker/05elections-briefing-Baker-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Bloomberg knocks Trump back on his heels in Florida"
     excerpt: "The former New York City mayor’s spending is forcing the president to dig deep in the key swing state and enabling the Biden campaign to spend ad dollars elsewhere."
@@ -167,15 +217,6 @@ related:
         width: 3000
         height: 1999
         isCached: true
-  - title: "Jim Crow Wins Florida for Donald Trump"
-    excerpt: "More than anything else, it was the Florida legislature’s naked voter suppression that tilted the state for the Republicans."
-    publishedDateTime: 2020-11-04T09:37:00Z
-    webUrl: "https://www.thedailybeast.com/jim-crow-wins-florida-for-donald-trump"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
 
 secured: "bZljEecdWsKT2R+kvHShoVtvKqFnBd8kRe1zYFdUKch4FVrSH8rTo6ro5KGCd6erB0VBCkMDSZo/uAWpQQTMKnf4vYWoOfQ9AoP45SBZa4hZ6lSABprXA5s5SEFnEm633pwh8/VzjfTiMTLcmi4RCVnSV3KW6B12f6pAOWK1qKvloHeAvpTjKvfrYsRluC1WnGz+l1q+DIVAU2zSbwpn9TR8gK/lTStnmptHKvt7m1ZlLfa3SVEVtXmG8mHMyRYu/H7hkNWLFSAyTW0GHQMnCeDJuOCrarl0vL5SsYBIerqud2fSsFa5jN1F861SBt0EvwDnJNeBNYXWfGCZWI9sWKfMqGTKBJens9ng0fY6y/o=;ytrFaor+NQPDql8U8miPug=="
 ---

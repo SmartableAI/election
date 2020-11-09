@@ -72,6 +72,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden discloses names of elite fundraisers"
+    excerpt: "More than 800 individuals and couples each raised at least $100,000 to help fund former Vice President Joe Biden's presidential bid, according to a list of fundraisers the Democrat's campaign released Saturday night, just days before the election.\n    \n"
+    publishedDateTime: 2020-11-01T04:19:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6UeyPr2QAdY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/joe-biden-bundlers-released/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/joe-biden-bundlers-released/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030163620-02-joe-biden-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden goes all in on rebuilding 'blue wall' in campaign's closing stretch "
     excerpt: "Joe Biden is making his final stand on the \"blue wall\" that President Donald Trump toppled four years ago.\n    \n"
     publishedDateTime: 2020-11-01T00:09:06Z
@@ -136,21 +152,37 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden campaign: Joe Biden 'not going to end fossil fuel industry'"
-    excerpt: "In an exclusive interview with Meet the Press, Kate Bedingfield, Biden Deputy Campaign Manager, says that former Vice President wants to end energy subsidies but doesn't want to see people lose their jobs."
-    publishedDateTime: 2020-10-25T14:02:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/biden-campaign-joe-biden-not-going-to-end-fossil-fuel-industry-94604869798"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94604869798"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94604869798"
+  - title: "Biden makes late push to flip the Senate"
+    excerpt: "The Democratic nominee is hitting Georgia and Iowa this week, while Jill Biden campaigned with the Democratic Senate candidate in Maine."
+    publishedDateTime: 2020-10-28T20:10:00Z
+    webUrl: "https://www.politico.com/news/2020/10/27/biden-democrats-senate-433032"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/27/biden-democrats-senate-433032"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/27/biden-democrats-senate-433032"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/mtp_clip_bedsenergy_201025_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.politico.com/89/67/b3640b0c42d5afcfc67a0dcd7655/201027-biden-ga-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden Hopes to Fight Autocracy Abroad. He’ll Have to Start at Home."
+    excerpt: "It was her job to help coordinate administration efforts to support democracy, encourage free and fair elections, and oppose authoritarianism abroad. Among America’s most important tools in this regard,"
+    publishedDateTime: 2020-10-30T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/10/30/opinion/biden-trump-foreign-policy.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/30/opinion/biden-trump-foreign-policy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/30/opinion/biden-trump-foreign-policy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/30/opinion/30goldberg1a/30goldberg1a-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden campaign manager urges supporters to ‘campaign like we’re trailing’"
     excerpt: "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina."
@@ -167,22 +199,6 @@ related:
       - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_avi_biden_on_the_trail_201018_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "At End of Bitter Campaign, Joe Biden Anguishes Over ‘My Only Surviving Son’"
-    excerpt: "Hunter Biden’s business dealings have provided President Trump with plenty of political ammunition, while making an already complicated father-son relationship even more so."
-    publishedDateTime: 2020-10-30T22:37:00Z
-    webUrl: "https://www.nytimes.com/2020/10/30/us/hunter-biden-joe-biden-relationship.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/30/us/hunter-biden-joe-biden-relationship.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/30/us/hunter-biden-joe-biden-relationship.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/29/us/29dc-hunter5/29dc-hunter5-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Hey, SNL: Jim Carrey’s Joe Biden Just Isn’t Working"
     excerpt: "Bring back Jason Sudeikis already! Senior Entertainment Editor Some years back, Jim Carrey’s team reached out to me about placing an op-ed in The Daily Beast. The piece, written by Carrey, discussed the supposed dangers of vaccines,"

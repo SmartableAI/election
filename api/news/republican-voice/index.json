@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-09-biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley.md",
+      "title": "Biden should support push for transparency in vote as ‘ultimate presidential act’: Turley",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzLKyzFSgdU/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzLKyzFSgdU/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley.amp",
+      "publishedDateTime": "2020-11-08T22:48:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-biden-campaign-manager-says-hes-going-to-make-good-on-progressive-agenda.md",
       "title": "Biden campaign manager says he's 'going to make good' on 'progressive' agenda",
       "excerpt": "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won.",
@@ -847,7 +903,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1345,
+      "heat": 1385,
       "tags": null,
       "images": [
         {
@@ -1594,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/election-2020-polling-malpractice-frank-luntz-trump-biden.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-polling-malpractice-frank-luntz-trump-biden.amp",
       "publishedDateTime": "2020-11-04T13:37:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-pennsylvania-dems-using-official-positions-to-stack-the-deck-against-trump-state-gop-chair.md",
-      "title": "Pennsylvania Dems using official positions to 'stack the deck' against Trump: state GOP chair",
-      "excerpt": "President Trump will win Pennsylvania despite Democratic state officials' best efforts to \"stack the deck,\" the battleground state's GOP chairman and election law attorney Lawrence Tabas tells Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mpp7SIRMuxI/pennyslvania-trump-biden-ballots-results-election-gop-chair-lawrence-tabas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mpp7SIRMuxI/pennyslvania-trump-biden-ballots-results-election-gop-chair-lawrence-tabas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pennyslvania-trump-biden-ballots-results-election-gop-chair-lawrence-tabas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennyslvania-trump-biden-ballots-results-election-gop-chair-lawrence-tabas.amp",
-      "publishedDateTime": "2020-11-04T11:04:18-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -330,6 +330,22 @@ related:
         width: 778
         height: 545
         isCached: true
+  - title: "Biden campaign urges federal agency to approve official transition"
+    excerpt: "President-elect Joe Biden's campaign on Sunday urged the Trump political appointee who heads the U.S. General Services Administration to approve an official transition of power despite President Donald Trump's refusal to concede."
+    publishedDateTime: 2020-11-09T05:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-transition-idUSKBN27P0DS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P0DS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P0DS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540479094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA8074"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Indian village where Kamala Harris' grandfather was born prays for her win"
     excerpt: "People gathered Tuesday in a village in India that was once home to the forebears of D Kamala Harris to pray for her ticket's victory in the U.S. presidential election, Reuters news agency reported ."
     publishedDateTime: 2020-11-03T23:10:00Z

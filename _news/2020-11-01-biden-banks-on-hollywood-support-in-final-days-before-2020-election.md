@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
 type: article
 quality: 190
-heat: 370
+heat: 390
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313085958169.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Seattle man fatally shot near Biden celebration rally: report"
+    excerpt: ""
+    publishedDateTime: 2020-11-09T05:02:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWT-Ov3cd38/seattle-man-fatally-shot-near-biden-celebration-rally-report"
+    ampWebUrl: "https://www.foxnews.com/politics/seattle-man-fatally-shot-near-biden-celebration-rally-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/seattle-man-fatally-shot-near-biden-celebration-rally-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Joe Biden 'has been caught in repeated lies over Biden Inc': Sen. Johnson"
     excerpt: "Johnson's report claims Hunter Biden's businesses received $5 million from a Chinese company."

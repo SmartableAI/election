@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/mitt-romney-trump-pelosi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/mitt-romney-trump-pelosi-kamala-harris-attacks/index.html"
 type: article
 quality: 171
-heat: 291
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,102 +31,191 @@ images:
     isCached: true
 
 related:
-  - title: "Top Trump administration official met with Assad regime over imprisoned Americans"
-    excerpt: "A top Trump administration official met with the Assad regime in Damascus this fall in an effort to secure the release of American prisoners believed to be held by the Syrian dictator, two administration officials confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-10-19T02:20:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EZf3VcMsLas/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html"
+  - title: "Former CIA Director Hayden backs Biden, warns reelecting Trump would be 'very bad' for America"
+    excerpt: "Former CIA and NSA Director Michael Hayden on Wednesday warned that reelecting President Donald Trump would be \"very bad for America\" while endorsing Democratic nominee Joe Biden for president.\n    \n"
+    publishedDateTime: 2020-10-07T15:25:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rOzNwIzIq1o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 178
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170406214544-syria-bashar-al-assad-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190628103419-general-michael-hayden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Federal judge strikes down Trump rule that could have cut food stamps for nearly 700,000 unemployed Americans "
-    excerpt: "A federal judge Sunday struck down a Trump administration rule that could have stripped food stamps from nearly 700,000 people, saying the US Department of Agriculture has been \"icily silent\" about how many Americans would have been denied benefits had the changes been in effect during the pandemic.\n"
-    publishedDateTime: 2020-10-19T01:48:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o9aQ1SERkpU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/food-stamps-trump-administration-work-requirements/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/food-stamps-trump-administration-work-requirements/index.html"
+  - title: "Fact check: At Florida rally, Trump continues his attacks against imaginary version of Joe Biden"
+    excerpt: "President Donald Trump returned to the rally stage on Monday with a slew of attacks on opponent Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-13T14:32:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lzBHscJU56c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/fact-check-trump-biden-sanford-florida-rally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/fact-check-trump-biden-sanford-florida-rally/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191650-03-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "2020 Election Live Updates: Biden Agrees to Virtual Debate, Setting Up Standoff With Trump"
+    excerpt: "Vice President Biden looks forward to speaking directly to the American people,” his campaign said after the debate commission announced the next debate would be remote. But President Trump said, “I’m not going to waste my time on a virtual debate."
+    publishedDateTime: 2020-10-08T13:08:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001121600-snap-food-stamps-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/10/08/multimedia/08elections-briefing-virtualdebate/08elections-briefing-virtualdebate-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Trump and Biden and America's two, polarized political realities live on prime time"
-    excerpt: "(CNN)More than 800 Americans died from Covid-19 Thursday, yet President Donald Trump still played the victim. On a night of simultaneous town halls on rival TV channels, Trump and Democratic ..."
-    publishedDateTime: 2020-10-16T06:21:00Z
-    webUrl: "https://www.cnn.com/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 144
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015230410-biden-trump-town-halls-2-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Whitmer says Trump 'inciting' domestic terrorism as Trump campaign adviser dismisses President's incendiary rhetoric as 'having fun' at rallies"
-    excerpt: "Michigan Gov. Gretchen Whitmer called out President Donald Trump on Sunday for incendiary comments he made about her during a weekend campaign rally, saying the President's heightened rhetoric just days after authorities foiled a plot by extremists to kidnap her is \"inciting this kind of domestic terrorism.\"\n"
-    publishedDateTime: 2020-10-18T15:02:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1LPyD80W_A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-trump-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-trump-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 139
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008124357-01-gretchen-whitmer-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump is 'legitimizing' hate incidents against Asian Americans: U.N. experts"
-    excerpt: "The experts wrote that “U.S. authorities have utterly failed to take the steps required to detect, monitor, and prevent racist and xenophobic incidents” toward Asian Americans."
-    publishedDateTime: 2020-10-17T08:13:00Z
-    webUrl: "https://www.nbcnews.com/news/asian-america/u-n-experts-trump-legitimizing-hate-incidents-against-asian-americans-n1243791"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243791"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243791"
+  - title: "Biden signals next debate may not happen if Trump remains contagious"
+    excerpt: "CDC guidelines say people should isolate for 10 days from the point of showing symptom — 20 days in severe cases."
+    publishedDateTime: 2020-10-07T01:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-battling-covid-19-says-he-s-looking-forward-next-n1242269"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242269"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242269"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 132
+    quality: 150
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3413558/200921-un-anniversary-mc-9473_e1dfda68f626dc90d8518a14ef374869.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417851/201006-donald-trump-white-house-jm-1102_2bcaae8442c05d722093781920bf7740.jpg"
         width: 2500
-        height: 1667
+        height: 1663
         isCached: true
-  - title: "Romney decries state of America's 'vile, vituperative, hate-filled' politics, puts blame largely on Trump"
-    excerpt: "Romney said he's \"troubled\" by U.S. politics having \"moved away from spirited debate to a vile, vituperative, hate-filled morass\" unbecoming of America."
-    publishedDateTime: 2020-10-13T15:28:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/romney-decries-state-america-s-vile-vituperative-hate-filled-politics-n1243154"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243154"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243154"
+  - title: "Biden hits Trump on trade, economy in Ohio speech: 'He's let you down'"
+    excerpt: "Joe Biden on Monday slammed President Donald Trump for having \"let down\" American workers and unions, while pledging to utilize a \"trade strategy\" that \"gets results.\" Speaking to a group of autoworkers Biden claimed Trump’s \"chaotic trade threats,"
+    publishedDateTime: 2020-10-12T20:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-hits-trump-trade-economy-ohio-speech-he-s-let-n1243013"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243013"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243013"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 118
+    quality: 150
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2019_43/3066261/191023-mitt-romney-ew-354p_c77d2968ce9850c2647d31469de00994.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3419466/201012-joe-biden-ohio-jm-1536_ee7d5f08fcc1e8e7707fb9998bdae79b.jpg"
         width: 2500
-        height: 1667
+        height: 1632
         isCached: true
+  - title: "Democrats in Trump Country: They’re Not Shy Anymore About Liking Biden"
+    excerpt: "As the campaign enters the final stretch, some Democrats in Trump country are less hesitant than before to express their preference. The surge in enthusiasm reflects an urgency for Democrats desperate to oust the president."
+    publishedDateTime: 2020-10-12T23:55:00Z
+    webUrl: "https://www.nytimes.com/2020/10/12/us/politics/biden-trump-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/politics/biden-trump-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/politics/biden-trump-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12shybidenvoter1/12shybidenvoter1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Hosts White House Event After Hospitalization; Biden Speaks in Pennsylvania"
+    excerpt: "In a blow to the Trump campaign, a federal judge threw out an attempt to block drop boxes in Pennsylvania. Chris Christie, the former governor of New Jersey, was released from the hospital this morning."
+    publishedDateTime: 2020-10-11T00:57:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/10/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/10/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/10/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10elections-brief-bidenpenn/10elections-brief-bidenpenn-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Top Trump campaign official ridicules Joe Biden's mask-wearing after president, allies infected"
+    excerpt: "A top adviser to President Donald Trump's campaign on Sunday ridiculed 2020 Democratic presidential nominee Joe Biden's mask-wearing even as President Donald Trump remains hospitalized with Covid-19."
+    publishedDateTime: 2020-10-04T14:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/top-trump-campaign-official-ridicules-joe-biden-s-mask-wearing-n1242041"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242041"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242041"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 138
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417375/201004-jason-miller-nbc-mtp-jm-1120_51996a489e320063ba7030e9fc079abf.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Watch live: Joe Biden delivers remarks on vision for older Americans"
+    excerpt: "Watch live coverage as former Vice President Joe Biden delivers remarks on his vision for older Americans in Pembroke Pines, Fla."
+    publishedDateTime: 2020-10-13T17:46:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-on-vision-for-older-americans-93755973895"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93755973895"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93755973895"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/2020-10-12T190715Z_1179308835_RC27HJ9P5VQL_RTRMADP_3_USA-ELECTION-BIDEN.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden leads Trump by 5 points in Iowa poll"
+    excerpt: "Theresa Greenfield, the Democratic challenger in the state’s Senate contest, leads incumbent Sen. Joni Ernst by the identical margin in the Quinnipiac survey."
+    publishedDateTime: 2020-10-07T20:16:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/biden-theresa-greenfield-iowa-poll-427373"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/b2/39/20bc8774471e8cbc76ab33dc4b89/200520-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden Allies Ponder: Skip Debate or Let Trump Blow Himself Up Again?"
+    excerpt: "If Trump is going to take his football and go home, I say good riddance to bad rubbish,” said one longtime Biden confidant."
+    publishedDateTime: 2020-10-12T07:28:00Z
+    webUrl: "https://www.thedailybeast.com/joe-biden-allies-ponder-skip-debate-or-let-trump-blow-himself-up-again"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
+  - title: "SNL Premiere: Jim Carrey’s Joe Biden Basks in Trump’s COVID-19 Diagnosis"
+    excerpt: "I’m not saying I want it to happen. Just imagine if it did,” the former vice president said during the SNL premiere’s opening debate sketch."
+    publishedDateTime: 2020-10-04T08:07:00Z
+    webUrl: "https://www.thedailybeast.com/snl-premiere-sees-jim-carreys-joe-biden-bask-in-trumps-covid-19-diagnosis"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 59
+  - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
+    excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
+    publishedDateTime: 2020-10-04T09:02:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trump-might-lose-but-his-judges-will-keep-wrecking-america-for-years-to-come"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 38
 
 secured: "4UU8busWMIvweLcesxGnsLIMrfxPfEQ28kVCs6tLO0gOy3x2iWJzvhymiEz9BTFOQT9Lw47g4B2qdAVKXno2mvjc8fh0D8RB5H7B6iOqwFjUyKV8EfY6ycZfyxa/SRlylmXxSW+wUbLiQeeyN7z9m6I6Iww+iF5xtt2YYt55NIPVHvLoy85eeAUX0qZIGndkLTOH6ID2vQfDajciXCx6ullHb17nINf/EtEKLDNRNSBJpXxKvXFAOJeXHti4/R8B9DKTB8/37T2qSksn3sFAoiuBlh5wDchqFRXNMYg/jJhp+9JMz8cSywDBGJNkDY6drceebZfXi1BdiX+WlfK4pGU7p09x0NHvJuZh/b8tgl8=;MvPredg//CO1G3PtHIu4YA=="
 ---

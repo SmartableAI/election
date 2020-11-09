@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/kamala-harris-female-pol
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/kamala-harris-female-politicians-of-color-reaction-cnntv/index.html"
 type: article
 quality: 170
-heat: 170
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -30,6 +30,40 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Kamala Harris, as first woman elected VP, says she 'won't be the last' "
+    excerpt: "On the night Vice President-elect Kamala Harris made history, she recognized the long battle women had faced for the right to vote and to break into the highest ranks of American politics -- and said that \"every little girl watching\" across the country now knows they can do so, too.\n    \n"
+    publishedDateTime: 2020-11-08T02:47:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107204230-20-biden-harris-address-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "‘Vote like our lives depend on it because they do,’ Kamala Harris says in Philadelphia."
+    excerpt: "Senator Kamala Harris on Monday evening made an impassioned final pitch before Election Day, casting the race as “the most consequential election of our lifetimes” as she urged Americans to turn out to the polls."
+    publishedDateTime: 2020-11-03T07:54:00Z
+    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02elections-briefing-harris/02elections-briefing-harris-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "h6Ajy4VAOEeSWX96PF0TfvXGtSTwTqaTarITb+3QfyFEgZqjmuqUFW/FkslhYgnYhDMfHiv7eFmA9No4popiz+CIZSCOsg8tLLBV7ZsQQZReR7+7y9jzbIcPUgyj28jbVQAtgpB37OrniVa5fznIBeU9JRYqCYRBGI4T4hgbUvMNaP7/wExnUZMl1n0lmkysuCBiB3Bq7FG3eFzJTHE0q9+sKWjFC1AARjo37RWOfXcCclHfTys4ks7or68baHcKTHQHLksJP5iFpzK2i/r2m0CcGRQUr6WJeHeIurJ8Vizbh1RMiLfs6bTTAbfyD635wIyiuVWIQFFtM1ZZ80xzLXVq1ASGythukOLKSu4ChKk=;5hjuL6qp78Rfy93i2vShKQ=="
 ---

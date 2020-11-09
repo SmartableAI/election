@@ -239,22 +239,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "20 former Republican US attorneys endorse Biden campaign"
-    excerpt: "Twenty US attorneys, who were appointed and served under Republican presidents as far back as Dwight Eisenhower, announced on Tuesday their endorsement of Democratic presidential nominee Joe Biden.\n    \n"
-    publishedDateTime: 2020-10-27T22:35:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M_UbOryJkAE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/republican-us-attorneys-endorse-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/republican-us-attorneys-endorse-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden says he's 'not a fan' of court-packing and that he doesn't want to make the election about the issue"
     excerpt: "Democratic presidential nominee Joe Biden said Monday that he's \"not a fan\" of court-packing, providing his clearest position on an issue he has sought to avoid discussing following the death of Justice Ruth Bader Ginsburg.\n    \n"
     publishedDateTime: 2020-10-13T12:54:33Z
@@ -284,6 +268,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016184912-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "AOC isn't concerned Biden's opposition to fracking ban will hurt young voter turnout"
+    excerpt: "Democratic Rep. Alexandria Ocasio-Cortez said Sunday that she isn't concerned that Joe Biden's opposition to a nationwide ban on fracking will hurt young voter turnout, arguing that they will support the Democratic presidential nominee because they are \"realistic and pragmatic in their vote.\"\n    \n"
+    publishedDateTime: 2020-10-25T18:01:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ADwokQ0dme8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/alexandria-ocasio-cortez-biden-fracking-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/alexandria-ocasio-cortez-biden-fracking-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200730182231-aoc-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

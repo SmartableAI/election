@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dr. Sanjay Gupta: Trump shouldn't be discharged tomorrow"
+    excerpt: "CNN's Dr. Sanjay Gupta reacts to a presser given by President Trump's medical team in which one of the doctors said Trump might be discharged from Walter Reed medical center as early as tomorrow, despite the fact that the President has had at least two concerning drops in oxygen levels.\n    \n"
+    publishedDateTime: 2020-10-04T16:41:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQQGDZdKZeM/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004121844-gupta-10042020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "See Tapper's direct message to Americans after Trump's 'callous' tweet"
     excerpt: "CNN's Dr. Sanjay Gupta and Jake Tapper react to President Donald Trump's tweet telling Americans not to be afraid of Covid-19.\n    \n"
     publishedDateTime: 2020-10-05T21:13:54Z
@@ -47,61 +63,86 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "HIPAA and what it means for Trump, his doctor and the American public"
-    excerpt: "Lots of questions have surrounded President Donald Trump's health after he announced last week that he had tested positive for coronavirus.\n    \n"
-    publishedDateTime: 2020-10-07T11:25:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Undeterred by Pandemic, Americans Prepare to Deliver Verdict on Trump"
-    excerpt: "President Trump and Joseph R. Biden Jr. barnstormed through battleground states, concluding an extraordinary campaign conducted amid a health crisis and deep economic anxiety."
-    publishedDateTime: 2020-11-03T02:27:00Z
-    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/trump-covid.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/trump-covid.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/trump-covid.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02campaign1/02campaign1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "On economic aid, Trump seems to realize he 'messed up tactically'"
-    excerpt: "It dawned on the oft-confused president that sabotaging himself in the final four weeks of re-election campaign wasn't such a good idea."
-    publishedDateTime: 2020-10-09T13:33:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/economic-aid-trump-seems-realize-he-messed-tactically-ncna1242704"
+  - title: "'A bit of a red flag': Trump receives steroid treatment for Covid-19"
+    excerpt: "The White House physician said on Sunday that President Donald Trump is now taking another drug for Covid-19, adding to his growing list of treatments for his illness. Dr. Sean Conley said the president was given a steroid called dexamethasone following “two episodes of transient drops in his oxygen saturation,"
+    publishedDateTime: 2020-10-04T18:31:00Z
+    webUrl: "https://www.nbcnews.com/health/health-news/bit-red-flag-trump-receives-steroid-treatment-covid-19-n1242069"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242069"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242069"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 115
+    quality: 135
     images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2018_50/2679261/181211-trump-pence-pelosi-schumer-ew-1206p_98b6b0120df347aa6749aa6f649f6587.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_25/3390382/200616-dexamethasone-al-1354_8fa7f50045bd54e384cc04a4191c4926.jpg"
+        width: 2500
+        height: 1666
         isCached: true
-  - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
-    excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
-    publishedDateTime: 2020-10-04T09:02:00Z
-    webUrl: "https://www.thedailybeast.com/donald-trump-might-lose-but-his-judges-will-keep-wrecking-america-for-years-to-come"
+  - title: "Hear what these Trump supporters say about Covid and the president"
+    excerpt: "Donald Trump's coronavirus case received a sympathetic response from his supporters rallying on Maryland's Choptank River."
+    publishedDateTime: 2020-10-05T10:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-briefly-leaves-hospital-drive-supporters-n1242088/ncrd1242091"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242088"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 38
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3417432/201005-trump-cavalcade-mc-909_442fae005aa65d204c8c6cf3ad2cb39e.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Drugmaker says White House doctor described Trump treatment inaccurately"
+    excerpt: "Dr. Sean Conley's statement today — and yesterday — described one of the president's coronavirus treatments as a polyclonal antibody cocktail, but the makers of the drug therapy told NBC News in an email that's the wrong term for the treatment."
+    publishedDateTime: 2020-10-05T17:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241998"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Live updates: Trump's allies defend drive-by; doctors to consider hospital discharge"
+    excerpt: "President Donald Trump was up and tweeting Monday morning as his doctors prepare to evaluate him and weigh whether he should be discharged from Walter Reed National Military Medical Center. The president's allies,"
+    publishedDateTime: 2020-10-05T14:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-05-trump-covid-n1242088"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417533/201006-walter-reed-conley-mn-1035_82dc2393430328076e52325588f463c9.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Hours after Trump's dark and divisive White House speech, his doctor still won't say if he's tested negative"
+    excerpt: "(CNN)Seven hours after a defiant President Donald Trump resumed public events Saturday with a divisive speech from a White House balcony in front of hundreds of guests, his doctor released a memo ..."
+    publishedDateTime: 2020-10-10T14:26:00Z
+    webUrl: "https://edition.cnn.com/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/donald-trump-covid-white-house-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 116
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010151101-08b-trump-white-house-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "d7Ie6ALDMBi4n5gKTVBhWu1LJi3WibKj2qn8+AUP+E7EcgWo/rfOJThG3CGaq+Fj1t6Drbw4/tpqYjRkw2gaT0pJkAHH6m6nSHfFnd7t+CJVDzLeIyKrJbwQM3tT13Tz7QGeEL5XyRiobOJrcewLfIqs+JNcV0/evfns9gJoSgjcjsQ4AsoeP+wLjOfb9E76Xc6Eb/lqe5AttCcguCO1Oah0UsWcLhEB11HmNZdVGhpGW7raGIT47sTM/xHTsh1nkk5NAKx3HyIsWEx+P1kdM87WSUA1+qvmm3DgmqY+8ySyjs1kvHmrXMvthWkDP6vlF8wKpD7bSXxzsdHTWK8w2pm7mUFJavaAFtBboWZTeh4=;4BfMrrVz1IAzhFx56KMieQ=="
 ---

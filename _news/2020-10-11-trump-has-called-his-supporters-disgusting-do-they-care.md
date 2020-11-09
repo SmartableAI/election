@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.am
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "North Carolina Voters Distrust Trump and Tillis, Poll Finds, Imperiling G.O.P."
+    excerpt: "President Trump trails Joseph R. Biden Jr. by four points in the latest Times/Siena survey of North Carolina, and Senator Thom Tillis is lagging behind his Democratic challenger in a crucial Senate race."
+    publishedDateTime: 2020-10-15T03:26:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/north-carolina-trump-polls.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/north-carolina-trump-polls.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/north-carolina-trump-polls.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/14/us/-promo-1602694963683/-promo-1602694963683-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "kSmsQZc8qVSaeFAQ64itxhPhzosogz4p56QrWaAcpkobNzP9WCu2M9Xidbjszqgh8WxrI5lyb59MktbOuDNmMYxv91wAompEmybZMbeyjy/dXZzQN1cCXqfQTmbji6ULIG42TiFOvDym/4mS7v6xe6ZRkoOdA6g1Q2HLBnfD59POvDO70tv81mInZ6JnLagLf+Ra+iy9a5aVPdo+/nuZGTVvfSB3S3uXZBDC1EY5CNy4HJseCzw/DGX5RqmajMUQgRJ6yZJ1EoGOsLxoSAfF2u+GC4WUlr3r2bmlNZicLpo1YRcQH7x+vJVE4t0GAqbyh0HxtjsJslHzSJTODnAm8twGQh4Q2Xhi0VsF15CMKlU=;g0nYVfG6RGDDXQAx8s4gtg=="
 ---

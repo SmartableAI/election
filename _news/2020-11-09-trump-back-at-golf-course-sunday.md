@@ -312,6 +312,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Bipartisan group urges Trump administration to begin post-election transition process"
+    excerpt: "The Center for Presidential Transition advisory board is urging the Trump administration to move forward “to immediately begin the post-election transition process.”"
+    publishedDateTime: 2020-11-09T04:58:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FDwNcFKL93A/live-updates-bipartisan-urges-trump-administration-to-begin-post-election-transition-process"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-bipartisan-urges-trump-administration-to-begin-post-election-transition-process.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bipartisan-urges-trump-administration-to-begin-post-election-transition-process.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7994c178-a9a3-49b0-b7c5-c6545797cb45/cf423e11-3eb9-4c8a-87fb-7ac318808722/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden announces 'fight fund' for vote count battle"
     excerpt: "Democratic presidential nominee Joe Biden on Wednesday announced the formation of what he's calling the “Biden Fight Fund,” touting it as the “largest election protection effort ever assembled” as he and President Trump compete for key battleground states in the 2020 presidential race."
     publishedDateTime: 2020-11-04T19:40:42Z
@@ -405,6 +421,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b7c3eb7-f9bf-44f3-b8e5-d61b2e829de8/1f72c549-5888-45a0-afff-e692e658f109/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Legal fights continue after Biden named president-elect"
+    excerpt: "President Trump is planning to bring back his large-scale rallies which will focus on his “ongoing litigation” as he challenges the results of last week’s election."
+    publishedDateTime: 2020-11-09T04:58:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OV6esyROh0s/live-updates-election-legal-fights-after-biden-victory"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-fights-after-biden-victory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-fights-after-biden-victory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb3c427-e2dd-4e89-8b70-c65820bfcf82/9a2421f7-c8d1-4e3a-98f0-4dc455f9d172/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

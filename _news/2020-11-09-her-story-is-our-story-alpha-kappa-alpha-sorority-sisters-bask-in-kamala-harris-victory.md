@@ -42,6 +42,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "See Kamala Harris' ancestral village in India celebrate her election win"
+    excerpt: "The village of Thulasendrapuram celebrated Harris' election win with fireworks, music and a mural in her honor."
+    publishedDateTime: 2020-11-08T18:43:00Z
+    webUrl: "https://www.cnn.com/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108133459-india-celebrates-harris-win-thumbnail-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "H5KicEWQUfJD1+N8k5pmZxWVDhAA/RCjttT+Rldqwtrna1BibsccJK7yDvpKFuj4MCe+jxKY+/sMer68iR2iT/YWm5y5Nb4ul0DgHdawh5NDbqaj71q2h5AwA9WLRZLV7k2OoTvAUPUInEqGrQFANwawA34zc3So59jmZxRlE30JAb/fZuWAPz6lqZx1N8A+me5eoMWzd9z1TLgUFHBzyBfsCdgUZzuxtI8t5JdN764+cjqj2L03aksqOcXbbkvHUVk7l+TaMA6yWviq5O+d6V2rXxf6C6MnItCY9ApUPE/OeRt8xtMB0rMMO9mL6WTGW/dnqZYu3bE6Nf1mEeKAYMCq4MIUfpTNfz3sAFekrenoi6MPKizSSlXwvSWtO5bN8+UKBPBeAk+2y3fW8tT4zmhOAXZxr+PrnGl6ZxL4a0HrcMaD1jsGkcsNlvG6HFLm/SyVkrKB90hlJ7uu/QhFq6aF/TX1Vs7rVT9xsdURaJO8OUS8GIJGkp2YSu2pPCRmmTk/2GjrUpTv+QFZhkTUew==;ykp5acP4b8kTQimKC6ra8A=="
 ---

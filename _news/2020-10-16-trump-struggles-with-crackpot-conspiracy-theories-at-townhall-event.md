@@ -62,22 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Member of debate commission rebukes Trump and says President's attacks are 'just wrong'"
-    excerpt: "A member of the Commission on Presidential Debates said President Donald Trump's attacks on the commission are \"just wrong,\" a rare rebuke coming from a member of an organization that strives to stay neutral.\n    \n"
-    publishedDateTime: 2020-10-21T14:45:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kfzzLd4sbt4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/debate-commissioner-john-danforth-trump-attacks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/debate-commissioner-john-danforth-trump-attacks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930151257-02-commission-on-presidential-debates-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "‘Daily Show’s’ Trevor Noah Rips Trump and Rudy’s Lame ‘October Surprise’"
     excerpt: "If these were my sons,” the “Daily Show” host said of Eric and Don Jr., “I’d maintain a strict ‘kids are off-limits’ policy.”"
     publishedDateTime: 2020-10-16T04:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-bal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html"
 type: article
 quality: 187
-heat: 307
+heat: 327
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029162343-trump-arizona-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump calls for ballot counting scenario where votes legally cast by military would be thrown out "
+    excerpt: "As President Donald Trump baselessly claimed that all votes received after Election Day are illegal, he attacked the absentee ballots of military members and their spouses that, by law, must be counted.\n    \n"
+    publishedDateTime: 2020-11-07T00:29:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sgcUq2qFSx8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/homefront-trump-military-ballots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/homefront-trump-military-ballots/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

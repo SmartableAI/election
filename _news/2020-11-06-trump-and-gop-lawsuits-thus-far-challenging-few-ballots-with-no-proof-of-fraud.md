@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump calls for ballot counting scenario where votes legally cast by military would be thrown out "
+    excerpt: "As President Donald Trump baselessly claimed that all votes received after Election Day are illegal, he attacked the absentee ballots of military members and their spouses that, by law, must be counted.\n    \n"
+    publishedDateTime: 2020-11-07T00:29:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sgcUq2qFSx8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/homefront-trump-military-ballots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/homefront-trump-military-ballots/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
     excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
     publishedDateTime: 2020-11-05T15:37:51Z

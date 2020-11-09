@@ -30,21 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Gets an Endorsement From Silicon Valley: Live Business Updates"
-    excerpt: "A group of 11 founders, investors and business leaders from the technology industry endorsed Democratic presidential nominee Joseph R. Biden Jr. in a letter published on Monday, s"
-    publishedDateTime: 2020-11-02T18:50:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
+  - title: "Biden vows to pass LGBTQ rights legislation in first 100 days"
+    excerpt: "Democratic presidential candidate Joe Biden has promised to make the Equality Act a \"top legislative priority\" should he win Tuesday’s election."
+    publishedDateTime: 2020-10-29T13:46:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-vows-pass-lgbtq-rights-legislation-first-100-days-n1245244"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245244"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245244"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/30/business/30markets-brf-markets/merlin_179245557_12422739-1663-479d-9813-613dc9789fb3-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3423960/201029-biden-mn-0855_646bb7d78a687f1b97f15b66b2c76c74.JPG"
+        width: 2500
+        height: 1376
+        isCached: true
+  - title: "In Miami, coalition of Latino evangelical leaders endorses Biden"
+    excerpt: "One pastor said that although the coalition is a nonprofit and nonpartisan, “in moments of crisis, the church has to unite the people.”"
+    publishedDateTime: 2020-10-31T06:59:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/miami-coalition-latino-evangelical-leaders-endorses-biden-n1245530"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245530"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245530"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3424487/201030-joe-biden-florida-se-402p_3db85e6a3fcbebeb652c49735b272ec4.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "YI7zdkLzCcYSEX2gszt8Y1bLNL14+3Lsgh0jyvHkXT5YxFG5HTrV6jt+8adihHcxrNPlrKwejAIRcdm3t6APsTB5inHvvAyecFFJaPIbI81vc0Sh8MNT9jXrpItLhspRPe9woxSo6uXWsxOdydK4klOOM74E+aen3vCzThsk3p/3CJsC3OW7bzco1d/8vW1eOZhVHkhoWkJTdJSSPk65g/xI62ciC7w7hylIVCJ9IOq5bo1qGPeJgEFserQ58LRjcB9IDATvsbRwE3yI4EGEd7bcUovM8lpKZJrJZOAVBfh06S5Fzv4ut/gkaDWjt1j48g0S262uBCuijaHhF+BsEw5Tz7MQRGgXVVIDkRvnxU0mnSojeBCqHmZ1IXfxTU485pCO7I9xLLbsFzPgKouriHJ5BVeRRMD+spz6BueUIYQ4LxE6jJU8Dd00vpYi/liRwI4oCfo9Heb+HaOHoDS5nw13BTrp/P5XLTXzNf+EcIN1bEzLVQnBCwG3mlBkbFuAOFtaBINZqTT3ua7evEN+YQ==;InM3MWRDKVy3XPkvVgPnsA=="

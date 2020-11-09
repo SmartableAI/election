@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "POLITICO Playbook PM: The right previews its attacks on a President Biden"
-    excerpt: "THE RIGHT HAS AMPLIFIED the story, but the mainstream press has shot down BOBULINSKI’S claims at every turn. For example, the news pages of The Wall Street Journal reported they couldn’t establish that BIDEN was involved or received money as part of the defunct arrangement."
-    publishedDateTime: 2020-10-28T17:02:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/28/the-right-previews-its-attacks-on-a-president-biden-490735"
+  - title: "Biden Flips Wisconsin, Fueled by Support From Cities and Suburbs"
+    excerpt: "Rural voters continued to support President Trump, but some counties that swung far to the right in 2016 moved left in 2020."
+    publishedDateTime: 2020-11-05T06:31:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/05/us/wisconsin-election-battleground-state-counties.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 114
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
     images:
-      - url: "https://static.politico.com/f7/f6/65fb39804164964ac0bf55341584/gettyimages-1139127483.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/11/05/us/wisconsin-election-battleground-state-counties-promo-1604552575062/wisconsin-election-battleground-state-counties-promo-1604552575062-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "vrHKAqIemrvN7s3YRh0iMqh+74dNtrA7DWn+vJfXD2SCx9FVpIjF4nRboTEtMeNRfQeKnPw3AY8CAPmV/XMHNwkF0UuVkXFE+Jx3ZcoT/ELgndCiUWMe84SdsXPMScpLS1EG/DH2nYLU1J0e6UFmoxzSzl3R1ycUP7bFOL7iWOcFLuqXz2A4AVSlTJhb7DGfrAsua9bzwCWnllrylVsydfQuBsGydPQN2JDHc9FXZ9qDYf2b8jfIgaQ7Cd9fvAE6dG0EI0Pkj8ra/jVC1GqEdD7wknBzY6k5oRnsSkm/8GcoY7SG28UXct+3IzQ96a+5OMqUqccZZnaAnciHjcns7DAaf+HQzOpD+vgA/gx7IObiQ4qAuCh3L/bzrxgIkBOnkVD8JzwcDvXqqGYVFt5pdEve7l5GSxlavKsc/UyaTD2YDPmveImVZI/ecWjc8hv6zhDZJWpC5P7l+mODci/Fno6EAYA56+J71sxwizYb2NfzPdZvtnvAiwOsF+jWkocDM0l/nGGkKoiVMjx4Vu90hg==;fqAhxm2Tww+x+kKln6g01g=="

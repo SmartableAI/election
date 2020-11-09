@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Vulnerable Senate Republicans tie themselves to Barrett with Trump's numbers eroding "
-    excerpt: "Endangered Senate Republicans have a new running mate in the battle to keep their narrow majority: Amy Coney Barrett.\n    \n"
-    publishedDateTime: 2020-10-14T02:59:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vnev-xi5RxM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013092118-04-barrett-hearing-1013-graham-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "DOJ says Trump acted in his official capacity when denying E. Jean Carroll's rape allegation"
     excerpt: "The Justice Department said Monday that President Donald Trump had acted in his official capacity when denying a rape claim made by a longtime magazine columnist, and therefore shouldn't be sued personally for defamation.\n    \n"
     publishedDateTime: 2020-10-19T23:26:22Z

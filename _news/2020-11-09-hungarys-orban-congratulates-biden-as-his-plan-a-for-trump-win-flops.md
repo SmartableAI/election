@@ -463,6 +463,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "'Don't worry' - pro-Trump Taiwan seeks to reassure over Biden"
+    excerpt: "Taiwan's top China policy maker on Monday sought to reassure nervous lawmakers that Democrat Joe Biden will continue U.S. support for the Chinese-claimed island, which has benefited from strong backing by the outgoing administration of Donald Trump."
+    publishedDateTime: 2020-11-09T05:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-taiwan-idUSKBN27P0BZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P0BZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P0BZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540477202&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA8064"
+        width: 816
+        height: 545
+        isCached: true
   - title: "After acrimonious campaign, uneasy Americans choose between Biden, Trump"
     excerpt: "After a rancorous presidential campaign that exposed the depth of the political divisions in the United States, Americans streamed to the polls on Tuesday to choose either incumbent Donald Trump or challenger Joe Biden to lead a pandemic-battered nation for the next"
     publishedDateTime: 2020-11-03T20:29:00Z

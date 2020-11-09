@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/index.html"
 type: article
 quality: 190
-heat: 1770
+heat: 1730
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 187
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002181954-01-trump-walter-reed-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump campaign adviser claims Biden's mask is a 'prop' as President hospitalized with Covid-19"
-    excerpt: "A senior adviser to President Donald Trump's reelection campaign claimed that Democratic presidential nominee Joe Biden uses face masks as a \"prop,\" two days after the President was hospitalized after contracting the coronavirus.\n    \n"
-    publishedDateTime: 2020-10-04T14:34:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5c5tcOMzxGw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 178
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002150006-01-biden-1002-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1209,15 +1193,6 @@ related:
       name: Politico
       domain: politico.com
     quality: 91
-  - title: "Trump Campaign Attacks Joe Biden for Not Having COVID-19"
-    excerpt: "He has experience, now, fighting the coronavirus as an individual,” a campaign spokesperson said of Trump. “Those firsthand experiences, Joe Biden, he doesn’t have those.”"
-    publishedDateTime: 2020-10-05T20:01:00Z
-    webUrl: "https://www.thedailybeast.com/trump-campaign-attacks-joe-biden-for-not-having-covid-19"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 60
   - title: "Both Sides Contradict Trump: Abortion Is on the Ballot in 2020"
     excerpt: "During the debate, President Trump feigned ignorance about abortion as an election issue in 2020 but everyone with any passing familiarity with the issue knows better."
     publishedDateTime: 2020-10-05T09:33:00Z

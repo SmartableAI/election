@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden takes the lead in Pennsylvania as vote count continues"
+    excerpt: "Joe Biden has taken the lead in Pennsylvania as mail-in votes continue to be counted and reported Friday morning."
+    publishedDateTime: 2020-11-06T14:13:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-takes-the-lead-in-pennsylvania-as-vote-count-continues-95441477990"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95441477990"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95441477990"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_2020_biden_lead_pa_201106_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "RSrh55f8cyNApja5DZkiIyI7a1HypJsd3tzDLOFpkI9gP0WNEaSALq9j/zEDZb0pKMpeiydkMXcmVfFpZ34sgVbHao3zVhkyGAK6QBs/Q/08ugW6gzX+6MIFHcctg9NTLs5s5CaviK8SnxzjLAk7/8toUHApNshphs4vJRPsechn+SAvnhGThOuNlS7dk2fHKbjiafidoOmB4HXmlXmNcBciNefqTOfbWTm69mx4lHT/SRoSeVMNFU8oyyPUSQxNyoOsisUWBysnyyWYA9P7TLg8MVKYS9I70K+ROfGs450d0qP6W6FR+xgsXdBh7BnYJE+SfdRuPMmMnZT8/UKh/LjZiaDdm0KVxd/DozfnyC09SDYwNKsuk+vZmOSXmjbKjySAr9Pg7BVxAYx9PY3w3rCdMqyN4sQjVWY8AueRnVGpHHgu2gVEMdQtCStbZoFmM6YP0zsN0HfDsIQCudIOYcipEE56PLKf0knzh0pOIQSzMncy3wlQe4OiK3GzJIqIX41EyNtobfHtk495WHacqg==;1rQi5MLqm14nJo/RUJuiXQ=="
 ---

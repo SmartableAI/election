@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
+    excerpt: "President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that he can't seem to shake.\n    \n"
+    publishedDateTime: 2020-10-29T01:47:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pme6VdvQOfg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'It's a little tough out here': Trump blitzes must-win states with perfected rally routine"
     excerpt: "President Donald Trump was running late when he arrived here Sunday morning, wind howling and tiny drops of ice sticking to his face, to begin the second-to-last day of his final run for office.\n    \n"
     publishedDateTime: 2020-11-02T14:53:07Z
@@ -76,22 +92,6 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027121426-donald-trump-1024-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "At least 5 people in Trump's orbit, including his chief of staff, have tested positive for Covid-19"
-    excerpt: "White House chief of staff Mark Meadows has tested positive for coronavirus, two officials confirm to CNN.\n    \n"
-    publishedDateTime: 2020-11-07T15:52:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UO2LbEHIA_4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/mark-meadows-coronavirus-positive-test/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/mark-meadows-coronavirus-positive-test/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106235753-mark-meadows-miami-opa-locka-1101-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,37 +111,37 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The One Pollster in America Who Is Sure Trump Is Going to Win"
-    excerpt: "Robert Cahaly’s polls have Arizona, Michigan and Florida in the president’s column. It’s hard to find another pollster who agrees with him. But they didn’t believe him in 2016 either."
-    publishedDateTime: 2020-11-03T02:21:00Z
-    webUrl: "https://www.nytimes.com/article/trump-polls-trafalgar-group.html?pageType=LegacyCollection&collectionName=Polls+and+Voters&label=Polls+and+Voters&template=storyline_band_recirc"
-    ampWebUrl: "https://www.nytimes.com/article/trump-polls-trafalgar-group.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-polls-trafalgar-group.amp.html"
+  - title: "For Trump voters, shock, disappointment and disbelief."
+    excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
+    publishedDateTime: 2020-11-07T22:53:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/03trafalgar-promo/03trafalgar-promo-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/07/nyregion/07election-live-blog-trump-disbelief/07election-live-blog-trump-disbelief-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump and the Paris Climate Accord"
-    excerpt: "A reader says that by withdrawing from the agreement, the president “added one more reckless decision to his extensive record.”"
-    publishedDateTime: 2020-11-04T18:34:00Z
-    webUrl: "https://www.nytimes.com/2020/11/04/opinion/letters/trump-climate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/04/opinion/letters/trump-climate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/opinion/letters/trump-climate.amp.html"
+  - title: "What’s Next for Trump? The Family Business Awaits His Return"
+    excerpt: "President Trump has long complained that public office cost him billions. Now he faces the challenge of jump-starting the company that bears his name, while television also beckons."
+    publishedDateTime: 2020-11-09T01:09:00Z
+    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/04/climate/04CLI-PARISFAQ1/04CLI-PARISFAQ1-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static01.nyt.com/images/2020/11/07/multimedia/00TrumpOrg-Lose-2/merlin_174048489_c65deb2b-cda2-403e-a1b3-1fd5d90d39ad-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1687
         isCached: true
   - title: "In a historically Republican suburb of Pittsburgh, voters debate whether to give Trump a second term."
     excerpt: "Long lines of voters moved steadily in the first hour of voting at the Municipal Center in this town of about 30,000 people in Butler County, a historically Republican county. Cranberry Township, home to the headquarters of Westinghouse Electric and many engineers,"
@@ -158,20 +158,6 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Protests sweep U.S. cities, as pro-Trump demonstrators bring guns to vote counting center in Arizona."
-    excerpt: "A crowd of more than 150 supporters of President Trump gathered Wednesday night in front of the Recorder’s building near downtown Phoenix to protest against what they described as efforts to cast President Trump as losing Arizona."
-    publishedDateTime: 2020-11-05T06:42:00Z
-    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/protests-sweep-us-cities-as-pro-trump-demonstrators-bring-guns-to-vote-counting-center-in-arizona.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 100
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04elections-briefing-protests/04elections-briefing-protests-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "2SLHEiZsVvgDEPRnVHO2a+c9o960kSARb/eKi0aMp5p4EPloQ1PI8Lo6vzfjOmBcbzmRAyAuaZyCJLm8XKX6rHzxECi+A2q7ZJpxQ01bu/MyCGDOz68UVWukio42HzLKSYGCdNEX/CUe6uAUVbnGFWv3znexXg4HjkxBS59aaHL39w3aMh4/q9eYck1lwQJ/WATw14KAEjM2/obcdkt7OeJbhNxFTXaMep6br0lUp6kyns3I0rTdITxWzNYR2laz9zghI08n4YMeo52jmSJxNlznCAHR8RhMwkK1hgl4NrbC54Pvn2ocyT/rbfu6yxu9nRgRiB+w36Z0OOYeZnBBZvqDQUC/oBXAgpQl5if55nE=;pSQqDwRciJfQ2zQXBd0Ctw=="

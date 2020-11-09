@@ -32,35 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden and Harris launch new transition website"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are moving ahead with planning for his forthcoming administration on Sunday, launching a transition website and preparing a team of people to begin working with federal agencies this week.\n    \n"
-    publishedDateTime: 2020-11-08T14:48:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0tlU_tadnco/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/biden-transition-website/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/biden-transition-website/index.html"
+  - title: "Lady Gaga and John Legend to join Joe Biden and Kamala Harris for final campaign events"
+    excerpt: "Superstars Lady Gaga and John Legend will join Joe Biden and Kamala Harris for their final respective events on the campaign trail on the eve of Election Day, the Biden campaign announced Sunday.\n    \n"
+    publishedDateTime: 2020-11-01T20:51:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/36z-f9SM6zk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 200
+    quality: 192
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108003632-biden-address-1107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Kamala Harris, as first woman elected VP, says she 'won't be the last' "
-    excerpt: "On the night Vice President-elect Kamala Harris made history, she recognized the long battle women had faced for the right to vote and to break into the highest ranks of American politics -- and said that \"every little girl watching\" across the country now knows they can do so, too.\n    \n"
-    publishedDateTime: 2020-11-08T02:47:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gy5J6LV7xi8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/kamala-harris-speech/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107204230-20-biden-harris-address-1107-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160225091736-lady-gaga-joe-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -77,6 +61,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107203713-07-biden-harris-address-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "20 former Republican US attorneys endorse Biden campaign"
+    excerpt: "Twenty US attorneys, who were appointed and served under Republican presidents as far back as Dwight Eisenhower, announced on Tuesday their endorsement of Democratic presidential nominee Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-27T22:35:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M_UbOryJkAE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/republican-us-attorneys-endorse-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/republican-us-attorneys-endorse-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,21 +128,37 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "See Kamala Harris' ancestral village in India celebrate her election win"
-    excerpt: "The village of Thulasendrapuram celebrated Harris' election win with fireworks, music and a mural in her honor."
-    publishedDateTime: 2020-11-08T18:43:00Z
-    webUrl: "https://www.cnn.com/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
+  - title: "Biden campaign: Joe Biden 'not going to end fossil fuel industry'"
+    excerpt: "In an exclusive interview with Meet the Press, Kate Bedingfield, Biden Deputy Campaign Manager, says that former Vice President wants to end energy subsidies but doesn't want to see people lose their jobs."
+    publishedDateTime: 2020-10-25T14:02:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/biden-campaign-joe-biden-not-going-to-end-fossil-fuel-industry-94604869798"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94604869798"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94604869798"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 149
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108133459-india-celebrates-harris-win-thumbnail-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/mtp_clip_bedsenergy_201025_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Stevie Wonder campaigns for Joe Biden in Michigan"
+    excerpt: "Stevie Wonder went back to his home state to support Joe Biden's presidential campaign, calling the election “the most important one in my lifetime.”"
+    publishedDateTime: 2020-11-02T09:40:00Z
+    webUrl: "https://www.nbcnews.com/video/stevie-wonder-campaigns-for-joe-biden-in-michigan-95135301847"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95135301847"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95135301847"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/8be22.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "In Detroit, Kamala Harris makes a final pitch."
     excerpt: "Standing in the parking lot of Sheet Metal Workers Local 80 in Southfield, a suburb of Detroit, Sen. Kamala Harris issued a late call to action on Tuesday. “Today is a day that many of us have been waiting for four years,"
@@ -304,21 +320,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Kamala Harris’ ancestral village in Indian celebrates politicians success"
-    excerpt: "Kamala Harris’ ancestral village in Indian lit fireworks and played music to celebrate the California politician’s success in the U.S. elections. Harris, who will become Vice President, has Indian and Jamaican heritage,"
-    publishedDateTime: 2020-11-09T00:08:00Z
-    webUrl: "https://www.nbcnews.com/video/kamala-harris-ancestral-village-in-indian-celebrates-politicians-success-95555141952"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95555141952"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95555141952"
+  - title: "At End of Bitter Campaign, Joe Biden Anguishes Over ‘My Only Surviving Son’"
+    excerpt: "Hunter Biden’s business dealings have provided President Trump with plenty of political ammunition, while making an already complicated father-son relationship even more so."
+    publishedDateTime: 2020-10-30T22:37:00Z
+    webUrl: "https://www.nytimes.com/2020/10/30/us/hunter-biden-joe-biden-relationship.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/30/us/hunter-biden-joe-biden-relationship.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/30/us/hunter-biden-joe-biden-relationship.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
     images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/India-celebrations-thumbnail.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static01.nyt.com/images/2020/10/29/us/29dc-hunter5/29dc-hunter5-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Kamala Harris’s ancestral village in India offers prayers for her victory."
     excerpt: "More than 8,000 miles from the White House, in a small Indian village ringed by lush green rice paddies, several dozen people flocked into a Hindu temple, carrying roses and strings of sweet-smelling jasmine,"
@@ -335,6 +351,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/03/multimedia/03elections-briefing-harrisIndia/03elections-briefing-harrisIndia-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Julián Castro campaigns for Biden in Phoenix, visits a Day of the Dead altar"
+    excerpt: "Michigan, Iowa, North Carolina, Georgia, and Florida — while Biden is holding two events in Philadelphia. This live coverage has ended. Continue reading election news for Monday, Nov. 2, 2020. Julián Castro,"
+    publishedDateTime: 2020-11-02T23:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-01-trump-biden-election-n1245634/ncrd1245726"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1245634"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1245634"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "NBC News Exit Poll: Kamala Harris viewed favorably by just over half of voters"
     excerpt: "If elected vice president, Sen. Kamala Harris would be the first woman and the first person of color to serve in that role."
@@ -368,22 +400,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "‘Vote like our lives depend on it because they do,’ Kamala Harris says in Philadelphia."
-    excerpt: "Senator Kamala Harris on Monday evening made an impassioned final pitch before Election Day, casting the race as “the most consequential election of our lifetimes” as she urged Americans to turn out to the polls."
-    publishedDateTime: 2020-11-03T07:54:00Z
-    webUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/02/us/politics/vote-like-our-lives-depend-on-it-because-they-do-kamala-harris-says-in-philadelphia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 127
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02elections-briefing-harris/02elections-briefing-harris-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Kamala Harris, elected V.P., has risen higher in national politics than any woman before her."
     excerpt: "Question, I will repeat —” — and music — ♫ “One nation under a groove —” ♫ California Senator Kamala Harris is making history as the first woman, and first woman of color, elected vice president. “Let’s talk about who is prepared to lead our country over the course of the next four years."
     publishedDateTime: 2020-11-08T08:12:00Z
@@ -400,20 +416,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Joe Biden is leading in Virginia."
-    excerpt: "Virginia election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
-    publishedDateTime: 2020-11-04T00:52:00Z
-    webUrl: "https://www.politico.com/2020-election/results/virginia/"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://www.politico.com/2020-election/cdn/img/2020-general/share/states/51.jpg"
-        width: 600
-        height: 325
-        isCached: true
   - title: "Read Kamala Harris’ Vice-Presidential Acceptance Speech"
     excerpt: "In her remarks Saturday night, Vice President-elect Kamala Harris acknowledged “all the women who have worked to secure and protect the right to vote” and said: “And I stand on their shoulders.”"
     publishedDateTime: 2020-11-08T02:14:00Z
@@ -425,6 +427,24 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 115
+  - title: "Kamala Harris Shuts Down ‘Childish’ Men Who Mispronounce Her Name"
+    excerpt: "Why does it seem like it becomes harder to pronounce your name the more conservative a person is?” “Daily Show” host Trevor Noah asked the vice presidential candidate."
+    publishedDateTime: 2020-10-30T06:27:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-shuts-down-childish-men-who-mispronounce-her-name"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
+  - title: "Most Democrats are Scared to Say So, but Joe Biden Is Poised for a Landslide Win"
+    excerpt: "Democrats were in denial about their Hillary Clinton’s weaknesses. Now, they’re afraid to acknowledge Biden’s strengths."
+    publishedDateTime: 2020-10-28T12:55:00Z
+    webUrl: "https://www.thedailybeast.com/most-democrats-are-scared-to-say-so-but-joe-biden-is-poised-for-a-landslide-win"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 40
 
 secured: "S8SEKWRsREbMXQiOqPawrvL6FG+KO8w4yoGCkNdY7rtogEY3Ww93wtvbDBszHCkXYO88srcQ3axxJES9Ut7gSNdK622dfhEINQEK4Znr6SesK2hkM59IfOcbxnatJhBkojWpDNPG5WgIm90jc9LeRElsAj+IflVJ6NVjIKixu6AW4lszXaM2y3ioDhDtNna+tuWrAyGBmtho+G1lOakNdxse/wubwJbdozIC9uw8IINLmieErUQuH6lpbX+JdC57ERUUNIM6zBgrxDB/w/uwFEESYZJjmUlL9VXktO0tgDMh4bRwSN8XLey3AZp78FHNIcQmjIa+PqgSSs7rD0igP2IFBIkCedrmL8roi1i6NMjDMio+SCwnA6cyYdt3uBvjp9s6w+fj5F8yHsirTLI92tBuqwlc+KTNxATykvTdhLQlSpnP9SbCoxhAgz5i+RxxZCJbNRmecqpGulAIjpfhzI5V/3DXChRla4JssTJQouefm5QZjwkGSLTIw9hm8JQYDrDlta8A4WJnLKiXduGqfQ==;kBi98SBf2UaSLJ7e20Ht8Q=="
 ---

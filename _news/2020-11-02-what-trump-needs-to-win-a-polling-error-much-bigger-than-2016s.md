@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Killed the Pax Americana"
-    excerpt: "The Pax Americana arguably dated from the enactment of the Marshall Plan in 1948; that is, from the moment when a conquering nation chose to help its defeated foes rebuild rather than demanding that they pay tribute."
-    publishedDateTime: 2020-10-29T09:03:00Z
-    webUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/01/opinion/sunday/01-icon-krugman/01-icon-krugman-facebookJumbo-v9.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "enYm0qDqNua3IqZMtIQe1csq5heljC8LQykXw8RRZjMIA5S3FYzn1Dssb6FB7g9wQ0/vDQB/f3MV8whBhr9pemkVH0u6Tv3RX21G0H9nqECPORjCeheSEw0rodJbOD5141qSTnSGrywkjNsNOOhwMLUqh2k0hmOVZ2LT6N1kqJXbwWWsHZPU9pP/ggOoiFfyvPPI4LiB0lICh4AfRT2tA+PTBAvIkh9O8BvR6G47oDUwIigBoB1y31NUAH9j8CRm69CrRGqEWrHMTnwmDmWQD/RHm6juXem7nAQy9htqz/DXlwUrK4w+m3f1qNonYdoXfg2VSiOonYED6fPR0Dw/M8VY06cykT+TwWX+IVuFQIg=;9tXVV2PlKE+irx7lbTOOXA=="
 ---

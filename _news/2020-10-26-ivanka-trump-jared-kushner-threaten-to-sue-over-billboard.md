@@ -63,69 +63,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: Almost everything Trump has said after Election Day is wrong"
-    excerpt: "President Donald Trump spent much of the year laying the groundwork for the strategy of concerted dishonesty he has deployed in the hours after Election Day.\n    \n"
-    publishedDateTime: 2020-11-05T02:31:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H4sNQISktN0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/fact-check-trump-election-day-tweets/index.html"
+  - title: "As mail-in votes are still being counted, Trump's lead in Pennsylvania has shrunk dramatically"
+    excerpt: "The race for the White House is still close to call, with tightening races in Georgia, Arizona and Pennsylvania as former Vice President Joe Biden edged close to the 270-electoral-vote threshold needed to win and President Donald Trump's hopes of clinching reelection appeared to be slipping away.\n  "
+    publishedDateTime: 2020-11-05T12:02:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CjxcQDS8Z_g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/presidential-election-2020-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/presidential-election-2020-biden-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 189
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104114255-02-election-1103-philadelphia-pa-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104194549-georgia-fulton-county-vote-counting-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Bolton: Trump trying to set up con on his own supporters"
-    excerpt: "CNN's Jake Tapper speaks with former national security adviser John Bolton about President Donald Trump's rhetoric around when mail-in ballots should be counted and Trump's threats of legal action after polls close on Election Day.\n    \n"
-    publishedDateTime: 2020-11-02T22:49:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tHrXL4FJL0/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/02/donald-trump-ballot-counting-bolton-tapper-lead-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102171610-bolton-tapper-split-for-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "A distressed Trump has told people he has no plans to concede even if his path to victory is blocked"
-    excerpt: "Facing a disappearing pathway to victory, President Donald Trump offered little indication on Friday he was prepared to concede defeat, leading those around him to wonder who might be able to reckon with a leader who has given virtually no thought to leaving the White House.\n    \n"
-    publishedDateTime: 2020-11-06T14:37:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OE3eQ4tovK4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/donald-trump-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/donald-trump-election-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105115359-donald-trump-november-4-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump is turning to the courts as his options narrow."
-    excerpt: "The Trump campaign laid out an aggressive legal strategy to challenge votes in key states. Republican lawyers and Trump campaign officials on Wednesday began a wide-ranging legal assault to challenge Democratic votes in key swing states,"
-    publishedDateTime: 2020-11-05T18:14:00Z
-    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-is-turning-to-the-courts-as-his-options-narrow.amp.html"
+  - title: "We followed one Trump supporter from elation to resignation."
+    excerpt: "When someone stole the Trump sign from his yard, he replaced it with half a dozen new ones, one featuring an expletive. At his wedding last month, guests sauntered out in oversize Donald and Melania masks,"
+    publishedDateTime: 2020-11-08T05:17:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/we-followed-one-trump-supporter-from-elation-to-resignation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/we-followed-one-trump-supporter-from-elation-to-resignation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/we-followed-one-trump-supporter-from-elation-to-resignation.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/04/multimedia/04elections-briefing-trumplawyers/04elections-briefing-trumplawyers-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/12/07/business/07election-briefing-gopfamily/07election-briefing-gopfamily-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "How the Suburbs Moved Away From Trump"
+    excerpt: "Suburban counties across the country turned away from President Trump in this election. That includes suburbs in the Midwest and the Sun Belt, in inner-ring counties and those farther out, in predominantly white communities and more diverse ones."
+    publishedDateTime: 2020-11-06T18:54:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/06/upshot/suburbs-shifted-left-president.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/up-suburbs-promo-1604680621134/up-suburbs-promo-1604680621134-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "0AE1+USRYrdOgPeBgoxsMXH1MAG8MzxuODfAVaRRqvzjXXdgwIXUOzMNvsKG8KaNGYwxxivSU6t1Vyb2b2tJiajhWEcI8UrWcfNjiDybnRfictRfLFZDJonYQGahYNCix1LYHLKX4IX/TVXj9bMGCTJs7kB2SaxdObC7/glcMrxpMqCc4pMI6Uo6JBAX2EbqEF4UgVHHO6U8dDLmBTCaj4NI2+FvwlZDS+oIbB2fGWKKl3VPwT/LB8HvA+lgMW5VxQqNgTBnHrfy/rbxBXlZnmwLaOtopu/vCK3611ZZbAAuiB5MqviM9XLapGpOGA1wNTy/mkKBt+0aTFuxs+XnGwQgMUtiDv2o2J7zQtmKCRY=;QxOa1kAA7Jxzl8zy5WAWQg=="

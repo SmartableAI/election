@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump calls for ballot counting scenario where votes legally cast by military would be thrown out "
+    excerpt: "As President Donald Trump baselessly claimed that all votes received after Election Day are illegal, he attacked the absentee ballots of military members and their spouses that, by law, must be counted.\n    \n"
+    publishedDateTime: 2020-11-07T00:29:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sgcUq2qFSx8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/homefront-trump-military-ballots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/homefront-trump-military-ballots/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump doubles down on groundless conspiracy\ntheory that GOP poll watchers across the country were sidelined"
     excerpt: "President Donald Trump has falsely claimed there were widespread abuses against his poll watchers across the country, and is using these false allegations to dispute the election results.\n    \n"
     publishedDateTime: 2020-11-06T23:01:58Z
