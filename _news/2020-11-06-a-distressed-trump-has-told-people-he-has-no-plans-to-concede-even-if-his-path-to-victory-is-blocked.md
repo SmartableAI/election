@@ -943,6 +943,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Government agency tasked with transition process has yet to recognize Biden's victory"
+    excerpt: "As President Donald Trump continues to baselessly claim election fraud and refuses to concede the presidential election, the Trump administration also has yet to sign off on a key document needed to formally begin the transition process.\n    \n"
+    publishedDateTime: 2020-11-09T14:03:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kjBSFkWn7uU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/ascertainment-trump-biden-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/ascertainment-trump-biden-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107121330-joe-biden-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Viral photo of Biden on a plane without a mask is from before the pandemic"
     excerpt: "On Sunday, Richard Grenell, President Donald Trump's former ambassador to Germany and former acting director of national intelligence, tweeted two photos side by side: one of former Vice President Joe Biden standing on an airplane without a mask and one of Biden standing outdoors while wearing a mask.\n"
     publishedDateTime: 2020-11-02T17:09:03Z
@@ -972,6 +988,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031142109-01-trump-1030-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden transition team announces coronavirus advisers, including whistleblower Rick Bright"
+    excerpt: "President-elect Joe Biden's transition team announced the group of public health experts that will make up his coronavirus advisory board, which includes Rick Bright, a whistleblower from the Trump administration who alleged that his early warnings about the pandemic were ignored and ultimately led to"
+    publishedDateTime: 2020-11-09T12:00:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C-l3sOUVcYw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-coronavirus-advisers-experts-rick-bright/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-coronavirus-advisers-experts-rick-bright/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006175419-02-rick-bright-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1118,6 +1150,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_mo_2020_trump_texas_201103_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Joe Biden's climate plan could put Paris Agreement targets 'within striking distance,' experts say  "
+    excerpt: "US President-elect Joe Biden's climate plan could put the Paris Agreement's goal of limiting global warming to 1.5˚C \"within striking distance,\" according to The Climate Action Tracker.\n    \n"
+    publishedDateTime: 2020-11-09T06:20:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kj_agdecE-M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-climate-plan-election-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-climate-plan-election-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden campaign: ‘Under no scenario’ will Trump be declared a winner on election night."
     excerpt: "Under no scenario will Donald Trump be declared a victor on election night,” said Jennifer O’Malley Dillon, Joseph R. Biden Jr.’s campaign manager, in a briefing on Monday. “When Donald Trump says that ballots counted after midnight should be invalidated,"

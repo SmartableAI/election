@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6101540002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6101540002"
 type: article
 quality: 115
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump cheers Pfizer Inc's experimental COVID-19 vaccine results"
+    excerpt: "President Donald Trump on Monday welcomed Pfizer Ic's experimental COVID-19 vaccine results, and the stock market boost it brought."
+    publishedDateTime: 2020-11-09T12:55:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1KP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540528434&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80VA"
+        width: 742
+        height: 545
+        isCached: true
   - title: "Twitter Reacts To Melania Trump Voting With No Mask After Contracting COVID-19: ‘Disrespectful'"
     excerpt: "Melania Trump voted in Florida without a mask on Tuesday, and Twitter is not happy. Some netizens pointed out that it was \"disrespectful\" of her to ditch a face covering after having contracted COVID-19 herself."
     publishedDateTime: 2020-11-04T08:06:00Z

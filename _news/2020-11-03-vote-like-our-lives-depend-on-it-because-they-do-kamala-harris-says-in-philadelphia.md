@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris Makes California History"
+    excerpt: "His vice president will be Senator Kamala Harris. Her rise to the highest office in the nation ever occupied by a woman has been full of historic milestones: the first Black woman to become San Francisco’s and then California’s top prosecutor,"
+    publishedDateTime: 2020-11-09T13:35:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/kamala-harris-california-history.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/kamala-harris-california-history.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/kamala-harris-california-history.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/00californiatoday-hfo-4/merlin_159211332_833d2586-6947-4f82-8d4d-33ca77209363-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "YO+f9ZDkN+v+H/lQWPxEFeS3O9WhwTgQClQk91QshhjdnPc9bqojCBAyPBsPdmqgzQ8OVt2wPmfcSG74zSYDRHie3EN65s3sg20uclLZprbLwB+D9yXgI5GbxdUmsAIwHs7cQtzXaxf7SHp0MZ5QlideJLdrMoANm4hK6KvQCgoLN+xSE0s6hx15l7loCYqwo0cO83o/d5+N7yKUNxWG3jqHRilTB4kQ++wdT/yAW54wm59dR7KfFssZuIApbvXBJNleDi1RT25Hu3SwXCMY6mCwp5FSt2Rcn16OzIUdzgZij4dTI1SngmlWPz6tvUwJ51FrYPjtgkjQW3j5WPpT9P3pdSuOtt+6qPqFLUByhLAMPPcDsNSKhghaGGxUjNX1Gqsxrl8lpm78wnP/MsgaGRWV979zEe3pIE2vfk981rrPANNO5Sr/K/IHgZAhf7cCaJUdBYJGacHY4H81Gf5Anht4fcqVkGHLkbIoZWNrgaqHKE7YdAVJboVzup90HymIEf72Th1yn9ZISQkF0IujJg==;jZOI/9rrUHcqrCYRBYexjQ=="
 ---

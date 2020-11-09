@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris Makes California History"
+    excerpt: "His vice president will be Senator Kamala Harris. Her rise to the highest office in the nation ever occupied by a woman has been full of historic milestones: the first Black woman to become San Francisco’s and then California’s top prosecutor,"
+    publishedDateTime: 2020-11-09T13:35:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/kamala-harris-california-history.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/kamala-harris-california-history.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/kamala-harris-california-history.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/00californiatoday-hfo-4/merlin_159211332_833d2586-6947-4f82-8d4d-33ca77209363-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "‘Vote like our lives depend on it because they do,’ Kamala Harris says in Philadelphia."
     excerpt: "Senator Kamala Harris on Monday evening made an impassioned final pitch before Election Day, casting the race as “the most consequential election of our lifetimes” as she urged Americans to turn out to the polls."
     publishedDateTime: 2020-11-03T07:54:00Z

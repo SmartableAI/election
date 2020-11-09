@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/a-presidential-inauguration-amid-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp"
 type: article
 quality: 172
-heat: 212
+heat: 192
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden unveils Transition COVID-19 Advisory Board to 'help shape' approach to coronavirus pandemic"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Monday announced the formation of the Transition COVID-19 Advisory Board which will “help shape” the incoming administration’s approach to managing the coronavirus pandemic."
-    publishedDateTime: 2020-11-09T10:00:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bjn2u51sdgc/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "MLRswtehpNUIL1oOlfQfEwWNoQRrqDkiKMYp2B+umGtFbfTAhiIlV73N3q1DMAiYaX4Vp3Tldw1P/zsYZg+8qNR401v4z8+N9YKX/Nql4QpwG8navbsWv+S1neh/fQXbjP1f4NgYX/VQs1tCys4Yf9WABK1x1TeKRZR0FlBg1ZARrL6UrtPFZh276ZsePEyilCsFSl9bmL4694NZWJubR5CS7JP3BbHzeRxZBgxBPRezy2wP/IiIyz5ERFyLwt9ah8F2cjx5oonJJAM0FkclxwTszE4w6/+XRIwsrVeP6vSnvmqjmIomYzy26V2cBTcYcmYwOJGL5eqqqbFxxem1nKzwFdL4ipesmqdJ1AyThnY=;9Y9KeQInaB7eDS9x7COyGw=="

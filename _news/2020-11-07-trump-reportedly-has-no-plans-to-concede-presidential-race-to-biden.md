@@ -172,6 +172,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump, Biden celebrate Pfizer revealing coronavirus vaccine progress"
+    excerpt: "President Trump and President-elect Joe Biden both celebrated the news that a coronavirus vaccine being developed by Pfizer and BioNTech was found to be more than 90% effective in preventing COVID-19 in their Phase 3 clinical trial."
+    publishedDateTime: 2020-11-09T14:13:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RUbHFRsOLvw/trump-biden-reactions-pfizer-coronavirus-vaccine-progress"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-reactions-pfizer-coronavirus-vaccine-progress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-reactions-pfizer-coronavirus-vaccine-progress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bbc13b4-1f56-4e92-bf92-f59eae3e2c72/ba2b00a5-6919-4658-b791-69cb020dc983/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump 'undermining' his legal team with claims of stolen election: Turley"
     excerpt: "President Trump needs to \"tap down the rhetoric\" about claims of Democrats stealing the election, Fox News contributor Jonathan Turley argued Friday."
     publishedDateTime: 2020-11-06T15:16:07Z
@@ -761,6 +777,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-256986/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Many Republicans Back Trump on Challenges to Election Result"
+    excerpt: "As Joe Biden prepares his White House transition plans and President Trump continues to fight the election results, many Republican lawmakers are sticking with Mr. Trump for now and declining to call the Democratic winner the president-elect."
+    publishedDateTime: 2020-11-09T12:46:00Z
+    webUrl: "https://www.wsj.com/articles/many-republicans-back-trump-on-challenges-to-election-result-11604925680"
+    ampWebUrl: "https://www.wsj.com/amp/articles/many-republicans-back-trump-on-challenges-to-election-result-11604925680"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/many-republicans-back-trump-on-challenges-to-election-result-11604925680"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-257088/social"
         width: 1280
         height: 640
         isCached: true

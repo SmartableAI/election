@@ -225,17 +225,17 @@ related:
         isCached: true
   - title: "Biden to launch COVID-19 task force, Trump plans rallies to protest election"
     excerpt: "President-elect Joe Biden will convene a coronavirus task force on Monday to examine the No. 1 problem confronting him when he takes office in January, while President Donald Trump pursues several long-shot gambits to hold on to his job."
-    publishedDateTime: 2020-11-09T05:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUKKBN27P0D8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P0D8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P0D8"
+    publishedDateTime: 2020-11-09T12:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idCAKBN27P0D8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27P0D8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27P0D8"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 152
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540479003&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA806Z"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540510153&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA806Z"
         width: 808
         height: 545
         isCached: true
@@ -558,6 +558,22 @@ related:
       - url: "https://i.insider.com/5fa586911df1d5001821950d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Russia refuses to acknowledge Biden's election win because of Trump's 'ongoing legal processes'"
+    excerpt: "\"There are ongoing legal processes,\" the Kremlin's spokesperson said. \"We believe the correct thing to do is wait for the official election result.\""
+    publishedDateTime: 2020-11-09T11:57:00Z
+    webUrl: "https://www.businessinsider.com/russia-will-not-accept-biden-election-win-trump-legal-processes-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/russia-will-not-accept-biden-election-win-trump-legal-processes-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/russia-will-not-accept-biden-election-win-trump-legal-processes-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 143
+    images:
+      - url: "https://i.insider.com/5f3e645e42f43f001ddfdf5d?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Husband likes Biden, wife likes Trump. How the 2020 election is testing families and friendships"
     excerpt: "While this isn’t new – the troupe of an opinionated uncle at the Thanksgiving table does exist for a reason – the fallout families face over these differences has worsened as the discourse around modern American politics has intensified."
@@ -1361,10 +1377,10 @@ related:
         isCached: true
   - title: "'Don't worry' - pro-Trump Taiwan seeks to reassure over Biden"
     excerpt: "Taiwan's top China policy maker on Monday sought to reassure nervous lawmakers that Democrat Joe Biden will continue U.S. support for the Chinese-claimed island, which has benefited from strong backing by the outgoing administration of Donald Trump."
-    publishedDateTime: 2020-11-09T05:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-taiwan-idUSKBN27P0BZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P0BZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P0BZ"
+    publishedDateTime: 2020-11-09T12:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-taiwan-idUKKBN27P0C5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P0C5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P0C5"
     type: article
     provider:
       name: Reuters
@@ -1374,6 +1390,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540477202&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA8064"
         width: 816
         height: 545
+        isCached: true
+  - title: "Dow futures climb 150 points after Biden defeats Trump for White House"
+    excerpt: "U.S. stock futures added to their post-election gains on Sunday evening after Democrat Joe Biden defeated incumbent Donald Trump in the U.S. presidential election."
+    publishedDateTime: 2020-11-09T11:46:00Z
+    webUrl: "https://www.usatoday.com/story/money/markets/2020/11/08/biden-dow-futures-election-results-stock-market-stimulus/6216110002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6216110002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6216110002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/46f7e403043835190ce8bf69a24d3e998284371e/c=0-511-2634-1993/local/-/media/2020/10/08/USATODAY/usatsports/wall-street-gettyimages-488263377.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Hungary's Orban congratulates Biden as his 'Plan A' for Trump win flops"
     excerpt: "Hungarian Prime Minister Viktor Orban congratulated Joe Biden on his U.S. presidential election victory, an outcome that could complicate ties with Washington after the nationalist leader accused U.S."
@@ -2000,6 +2032,22 @@ related:
         width: 921
         height: 545
         isCached: true
+  - title: "The Health 202: Biden is expected to unwind dozens of Trump-era health-care changes"
+    excerpt: "Hitting rewind will be President-elect Joe Biden’s chief way of acting on health-care policy — at least for the next two years. Biden appointees in the White House and federal health agencies are expected to unwind dozens of Trump administration regulations on Obamacare,"
+    publishedDateTime: 2020-11-09T12:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/09/health-202-biden-is-expected-unwind-dozens-trump-era-health-care-changes/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/09/health-202-biden-is-expected-unwind-dozens-trump-era-health-care-changes/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/09/health-202-biden-is-expected-unwind-dozens-trump-era-health-care-changes/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/63JQPABCEYI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden Receives More Than Twice As Much Money From Billionaires As Trump In Final Push"
     excerpt: "Joe Biden picked up contributions from new donors like Yahoo cofounder Jerry Yang and Palantir chief Alex Karp. Meanwhile, old pals of Donald Trump, like Phil Ruffin and Andy Beal, sent his reelection committees big checks."
     publishedDateTime: 2020-10-25T00:28:00Z
@@ -2122,6 +2170,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/06/PDTF/f7f8a082-25b6-4ee7-b10e-ed123501677d-Protest_110620_ES03.JPG?auto=webp&crop=1199,675,x0,y130&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "President-elect Joe Biden unveils COVID-19 task force. It includes a Trump whistleblower."
+    excerpt: "The task force, almost all doctors, will offer guidance to President-elect Joe Biden and his staff as they prepare to take over the presidency."
+    publishedDateTime: 2020-11-09T12:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/biden-covid-19-task-force-includes-trump-whistleblower-rick-bright/6218601002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6218601002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6218601002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/27/USAT/7bbff681-213b-4338-8200-0cc2c23e98b9-VPC_TRUMP_BIDEN_MASKS_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Why this conservative voted for Biden and you should too: Trump is a morally defective man"
     excerpt: "I'm a conservative and former Republican who did not vote based on policy. Neither should you. The 2020 election is about the moral future of America."
@@ -3078,18 +3142,18 @@ related:
         height: 545
         isCached: true
   - title: "Biden campaign urges federal agency to approve official transition"
-    excerpt: "President-elect Joe Biden's campaign on Sunday urged the Trump political appointee who heads the U.S. General Services Administration to approve an official transition of power despite President Donald Trump's refusal to concede."
-    publishedDateTime: 2020-11-09T05:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-transition-idUSKBN27P0DS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P0DS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P0DS"
+    excerpt: "WASHINGTON (Reuters) - President-elect Joe Biden’s campaign on Sunday urged the Trump political appointee who heads the U.S. General Services Administration to approve an official transition of power despite President Donald Trump’s refusal to concede."
+    publishedDateTime: 2020-11-09T10:33:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-transition-idUKKBN27P0DN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P0DN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P0DN"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540479094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA8074"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540510147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA8074"
         width: 817
         height: 545
         isCached: true
@@ -3109,6 +3173,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden expected to unveil executive orders on Day 1"
+    excerpt: "\"Now the work of making this vision real is the task of our time,\" Biden said in his first address to the nation as president-elect."
+    publishedDateTime: 2020-11-09T12:20:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-executive-orders-presidency-day-1/?intcid=CNI-00-10aaa3b"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-executive-orders-presidency-day-1/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-executive-orders-presidency-day-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/08/c0a5da7c-40b3-416a-9d18-94aac3666ef9/thumbnail/1200x630/3bc03114f6c396366a93a8af6896f88b/gettyimages-1229538775.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "China holds off on sending congratulations to Biden"
+    excerpt: "China, which has held off on congratulating U.S. presidential election winner Joe Biden even as leaders of other countries have done so, said on Monday it would follow custom in responding to the result."
+    publishedDateTime: 2020-11-09T11:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-china-reaction-idUKKBN27P0OY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P0OY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P0OY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540503265&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80D2"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Palestinian President Abbas congratulates Joe Biden - statement"
     excerpt: "Palestinian President Mahmoud Abbas on Sunday congratulated U.S. President-elect Joe Biden in a statement issued from his headquarters in the West Bank city of Ramallah.\"I congratulate President-elect Joe Biden on his victory as President of the United States of"
     publishedDateTime: 2020-11-08T16:35:00Z
@@ -3124,6 +3220,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540426012&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70DW"
         width: 778
         height: 545
+        isCached: true
+  - title: "Putin won’t congratulate Biden until legal action resolved"
+    excerpt: "The Kremlin says Russian President Vladimir Putin won’t congratulate President-elect Joe Biden until legal challenges to the U.S. election are resolved and the result is official"
+    publishedDateTime: 2020-11-09T13:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/putin-wont-congratulate-biden-until-legal-action-resolved/2020/11/09/e1ea7ce4-2290-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/putin-wont-congratulate-biden-until-legal-action-resolved/2020/11/09/e1ea7ce4-2290-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/putin-wont-congratulate-biden-until-legal-action-resolved/2020/11/09/e1ea7ce4-2290-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Rally during the tally: Trump fans show support on West Palm Beach"
     excerpt: "While the nation awaited election results Thursday night, Trump supporters took to the streets of West Palm Beach to show support for the president."
@@ -4464,6 +4576,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Concede or fight? What Trump's lawyers, family, and allies in Congress and the media are telling him to do after losing to Joe Biden"
+    excerpt: "From Melania Trump to his most loyal news outlets, some of Trump's staunchest allies are reportedly advising him to concede. Others tell him to fight."
+    publishedDateTime: 2020-11-09T14:24:00Z
+    webUrl: "https://www.businessinsider.com/what-trumps-inner-circle-says-him-conceding-or-fighting-result-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/what-trumps-inner-circle-says-him-conceding-or-fighting-result-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-trumps-inner-circle-says-him-conceding-or-fighting-result-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5fa93d1bf7d1cb0019e3a74d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "China Is Getting Ready for a World Without Trump"
     excerpt: "Now that Trump appears to be on his way out, and China’s economy is growing again — with parts of Europe and the U.S. resuming lockdowns — the yuan’s outlook is rosy. Reining in excessive currency volatility will be critical if Beijing wants to keep a steady inflow of foreign money."
     publishedDateTime: 2020-11-02T09:58:00Z
@@ -4961,6 +5089,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43f221d5-8ea4-4f0a-8d0b-766a6c73cda5_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump's bogus voter fraud accusations are mainly to give him an excuse for a loss he 'can't grasp', say allies"
+    excerpt: "Sources close to Trump described his unsupported accusations as a desperate way to save face after a bruising defeat, per the Associated Press."
+    publishedDateTime: 2020-11-09T13:04:00Z
+    webUrl: "https://www.businessinsider.com/voter-fraud-claims-cover-trump-accept-loss-allies-ap-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/voter-fraud-claims-cover-trump-accept-loss-allies-ap-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voter-fraud-claims-cover-trump-accept-loss-allies-ap-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5fa7bb38f7d1cb0019e3a691?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden moves ahead in Georgia and Pennsylvania, moving closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to"

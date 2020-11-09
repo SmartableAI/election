@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-celebrations-coronavirus-lack
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrations-coronavirus-lack-of-social-distancing.amp"
 type: article
 quality: 170
-heat: 190
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "De Blasio breaks social distancing, poses for Biden win selfies as thousands gather shoulder-to-shoulder"
-    excerpt: "In New York City, outspoken Trump critic Mayor Bill de Blasio shared selfies of himself and other New Yorkers, wearing masks but standing without social distancing with a crowd of people in the background."
-    publishedDateTime: 2020-11-08T03:13:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Y8Vy-3yZjg/de-blasio-social-distancing-selfies-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-social-distancing-selfies-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-social-distancing-selfies-coronavirus.amp"
+  - title: "Biden coronavirus team to include Rick Bright, ousted HHS official"
+    excerpt: "Rick Bright, the ousted Health and Human Services official, will be one of 10 advisory board members on Democratic President-elect Joe Biden's coronavirus task force, Biden's transition team announced on Monday."
+    publishedDateTime: 2020-11-09T12:25:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNJ_j8adYkU/biden-coronavirus-task-force-rick-rick-bright"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313091963041.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/RickBright051820.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden unveils Transition COVID-19 Advisory Board to 'help shape' approach to coronavirus pandemic"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Monday announced the formation of the Transition COVID-19 Advisory Board which will “help shape” the incoming administration’s approach to managing the coronavirus pandemic."
+    publishedDateTime: 2020-11-09T10:00:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bjn2u51sdgc/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-unveils-transition-covid-19-advisory-board-to-help-shape-approach-to-coronavirus-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "u+Z5ns3XHSg0eUDBwqLzkniuXLSplLTkgTa8LueNec1eEP3enHyiJxrcvyFny22+W/yOu8orwWNYvSlvbWD+Bm9SSxGqlxWpazcp91rrCeIzPk0MYM3MAJelQ+rhFq4+BoRObdZhq4gUVLZyl8qHxC2O/EuKxu6C0PKqKlg4JNITay4diIivpdBPuAbCrgcMloFd0fNdlvtQK647oqrQ7R9vzo3+UNdjFPL7AJG0qfD//e4kH7jawuuHfUaEZDcMUgqBDm1KB0pof045kp038x434JyxD16rZmC2GbbBB8uDG2QrhNkn5Aj2izE+9wn1k/h3RgmaLybDA/MVB1yqNUEg15VpF1zguuAmWJbSm0c=;0/x0IQyoaFnWQaJ8SvNYtw=="

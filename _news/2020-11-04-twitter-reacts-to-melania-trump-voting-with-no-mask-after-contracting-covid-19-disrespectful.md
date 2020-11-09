@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump cheers Pfizer Inc's experimental COVID-19 vaccine results"
+    excerpt: "President Donald Trump on Monday welcomed Pfizer Ic's experimental COVID-19 vaccine results, and the stock market boost it brought."
+    publishedDateTime: 2020-11-09T12:55:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1KP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540528434&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80VA"
+        width: 742
+        height: 545
+        isCached: true
   - title: "Doctors groups rip Trump for touting 'baseless' conspiracy theory over COVID-19 death count"
     excerpt: "Medical groups such as the American Medical Association denounced President Trump's claim that doctors inflate COVID-19 deaths, calling it \"malicious.\""
     publishedDateTime: 2020-11-03T00:58:00Z

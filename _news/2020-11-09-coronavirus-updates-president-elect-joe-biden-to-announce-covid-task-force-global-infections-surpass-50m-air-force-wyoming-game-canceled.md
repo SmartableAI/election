@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Putin won't congratulate Biden before 'official results' and 'legal procedures' are completed"
+    excerpt: "A Putin spokesman said there was an \"absolutely obvious\" difference from 2016, when Putin congratulated Trump based on media projections."
+    publishedDateTime: 2020-11-09T14:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6218660002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6218660002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/5811c7a4-3d17-4645-a9a8-35817e826495-AP_Russia_Putin.jpg?auto=webp&crop=2892,1627,x430,y876&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments"
     excerpt: "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration."
     publishedDateTime: 2020-11-08T16:28:00Z
@@ -92,6 +108,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "dqEO036iYj4Bz5SiANP1kvFO1NywzNOeUU0hEbwKfFn5L73XPIcAvlYH6k6w5S4D6gr964X7Oyk4cLRMDJ4Olt+jyGCOU74vcKVj3NZqh048CPpPLD21N2pk2h0RhMJAsAYyBJGzNnlCeW9p0wtI+TGQG8r1L2TOLDO5u+ZDZZNvDPU9ewyFBBxDIhnR7OCBz44dc2GxKuffZJ/8ApgyzLhS5gDvQSEoM85/IgxvR4ppXQ547/Yi6jQitdBxh6iwuLs4nF1AeTv+hpMlJ/Iu4idg5+P1iqE3k1m5pR0A/e9wB2bUsDNJnxNOcBxTy9ooMyESnpsItacqcCkuSm7wWytRDRMXDXG2MD3FM26+0Qg=;T0GuT6cE+bEjjRsOE0djrg=="
+secured: "kVzYgCvgFwPW/LNibwf3GBVfzlbuUqlco772P+TSnqBwOQvbzBlrTzRU3bAn6JTmWmD4jKJmeMUAwmHIl53djGgFwhVXCk3oOB9UJYgFX/zEHjljH4Fv5CAnXEdwdrl/pJbM2YuHPABczs3NC1mk2JSgt3haimNA7Qkpv/TlpIN8g1OQpvZ/KYT5U96YHOKYHEmKFM11SZ6xXvueuxNr3hmUham7H1MmqFc5PK/Vqt8xS5RBvmMRetoJlJb7VRXn9r62UfwfeD9ZOgahc9D9rboCw3tFDKOWDyukThFgwotMt0MI2HnrzqkR93r6T1emXU39Zo8g8b/yL2b1qYdGyZK/cOz00UoOt470GkLTqNQsDdUzN6F6FYqD543KcpZYbPLRB+fIjv4IESVRs1dAR6F8KaF6tgPNYpi4dwxXo1Ham9Lh+ARLsSwXV6zK1qo8EVeIZ/PX41Ub2HcVrGoCsk0ryPqUwnDDrhPs2tbpvYOTuyVzq7bTJqESvDekg99w6SjzV7sD9w7fR8g1U0auGA==;s/YmxxizHrq1tth79QW5JA=="
 ---
 

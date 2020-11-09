@@ -197,6 +197,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Indian-Americans Celebrate Vice President-Elect Kamala Harris"
+    excerpt: "Harris will not only be the first Black, and first female, vice president. She's also the first Indian American and the first Asian American elected to the office."
+    publishedDateTime: 2020-11-08T18:21:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-2020-election-results/2020/11/08/932824125/indian-americans-rejoice-as-kamala-harris-prepares-to-become-the-next-vice-presi"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/08/gettyimages-1229520920_wide-5986925f0c5feb3f27267ddfb075420cacb31e92.jpg?s=1400"
+        width: 1400
+        height: 786
+        isCached: true
   - title: "Kamala Harris to visit Detroit on Election Day"
     excerpt: "Democratic vice presidential candidate Kamala Harris will visit Detroit during a final campaign swing through Michigan on Election Day. Harris is returning to Michigan, a key battleground state, a day after President Donald Trump scheduled rallies in Traverse City and Grand Rapids."
     publishedDateTime: 2020-11-02T19:53:00Z
@@ -334,6 +348,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "How Black women lifted Kamala Harris to achieve a ‘collective, profound win’"
+    excerpt: "Seattle-area women reflect on political possibilities before and after the election of Kamala Harris to the office of vice president. The Democratic ticket's victory was fueled by women overall, who voted for Biden-Harris by 13 points and by Black"
+    publishedDateTime: 2020-11-09T13:00:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/how-black-women-lifted-kamala-harris-to-achieve-a-collective-profound-win/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/how-black-women-lifted-kamala-harris-to-achieve-a-collective-profound-win/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/how-black-women-lifted-kamala-harris-to-achieve-a-collective-profound-win/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 52
   - title: "Senator Kamala Harris Remarks to Reporters in Pennsylvania"
     excerpt: "Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign. Democratic Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign."
     publishedDateTime: 2020-11-02T18:30:00Z
