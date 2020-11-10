@@ -377,6 +377,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Menlo Park school board president resigns after wife’s racist tweets about Kamala Harris"
+    excerpt: "School board president Jon Venverloh announced his retirement Sunday after racist and misogynistic remarks made by his wife."
+    publishedDateTime: 2020-11-10T00:43:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/09/menlo-park-school-board-president-resigns-after-wifes-racist-tweets-about-kamala-harris/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/09/menlo-park-school-board-president-resigns-after-wifes-racist-tweets-about-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/09/menlo-park-school-board-president-resigns-after-wifes-racist-tweets-about-kamala-harris/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 66
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/mvschool_list.jpg?w=369&h=224"
+        width: 369
+        height: 224
+        isCached: true
   - title: "Kamala Harris blazes trail that women and people of color hope will make their journeys easier"
     excerpt: "California Sen. Kamala Harris’ election as vice president is more than a data point for the history books — it’s a long-sought achievement for women and people of color that some say could forever change the face of politics."
     publishedDateTime: 2020-11-07T16:45:00Z

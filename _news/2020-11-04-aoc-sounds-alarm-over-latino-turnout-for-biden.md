@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turno
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88e0d269-4e91-494c-900e-19aeafdf304c/00f19cd3-db29-413f-82f6-4071fcca4347/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How Sanders, AOC and 'The Squad' plan to make Biden the most liberal president ever"
+    excerpt: "Progressive Democrats like \"Squad\" member Rep. Alexandria Ocasio-Cortez, D-N.Y., and Sen. Bernie Sanders, D-Vt., are already gearing up to lobby a Biden-Harris administration for policies like the Green New Deal and Medicare for all."
+    publishedDateTime: 2020-11-10T11:25:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcDqqNBqmlc/biden-lobby-progressive-bernie-sanders-squad-aoc"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-lobby-progressive-bernie-sanders-squad-aoc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-lobby-progressive-bernie-sanders-squad-aoc.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Squad-GETTY-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
     excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"

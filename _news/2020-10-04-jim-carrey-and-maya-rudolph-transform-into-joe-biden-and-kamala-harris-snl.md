@@ -185,6 +185,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 130
+  - title: "Kamala Harris wore a white suit; Dr. Jill Biden a navy dress. Both were designed by immigrants."
+    excerpt: "Kamala Harris and Dr. Jill Biden made history on Saturday night in their first public appearances as vice president-elect and future first lady. Immigrant designers Carolina Herrera and Oscar de la Renta helped them look the part."
+    publishedDateTime: 2020-11-10T12:25:00Z
+    webUrl: "https://www.houstonchronicle.com/life/article/kamala-harris-suit-jill-biden-dress-immigrants-15713625.php"
+    ampWebUrl: "https://www.houstonchronicle.com/life/amp/kamala-harris-suit-jill-biden-dress-immigrants-15713625.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/life/amp/kamala-harris-suit-jill-biden-dress-immigrants-15713625.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 128
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/14/21/20235374/3/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Joe Biden's Battle Rap Video Has Not Gone Down Well"
     excerpt: "The Biden Harris campaign has implemented an unusual tactic and has recruited the help of a well-known battle rap league."
     publishedDateTime: 2020-10-14T16:07:00Z

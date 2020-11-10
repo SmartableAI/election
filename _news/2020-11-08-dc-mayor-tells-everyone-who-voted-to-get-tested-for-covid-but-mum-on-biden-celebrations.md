@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Sanders, AOC and 'The Squad' plan to make Biden the most liberal president ever"
+    excerpt: "Progressive Democrats like \"Squad\" member Rep. Alexandria Ocasio-Cortez, D-N.Y., and Sen. Bernie Sanders, D-Vt., are already gearing up to lobby a Biden-Harris administration for policies like the Green New Deal and Medicare for all."
+    publishedDateTime: 2020-11-10T11:25:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcDqqNBqmlc/biden-lobby-progressive-bernie-sanders-squad-aoc"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-lobby-progressive-bernie-sanders-squad-aoc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-lobby-progressive-bernie-sanders-squad-aoc.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Squad-GETTY-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "If elected, Biden plans task force to reunite 545 children separated from parents at border"
     excerpt: "Democratic nominee Joe Biden pledges that his campaign will create a task force to reunite 545 migrant children who were separated from their parents at the border if he is elected president. "
     publishedDateTime: 2020-10-30T00:04:29Z

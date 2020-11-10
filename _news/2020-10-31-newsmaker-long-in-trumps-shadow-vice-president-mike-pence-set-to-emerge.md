@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27G0F3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27G0F3"
 type: article
 quality: 139
-heat: 919
+heat: 899
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/02/NLED/391a71ca-8580-45d5-9b96-8d0ab452c96f-AP20307617419308.jpg?auto=webp&crop=5999,3374,x0,y43&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Long in Trump's shadow, Vice President Mike Pence set to emerge"
-    excerpt: "U.S. Vice President Mike Pence speaks at a rally in Kinston, North Carolina, U.S., October 25, 2020. REUTERS/Jonathan Drake"
-    publishedDateTime: 2020-10-31T15:40:00Z
-    webUrl: "https://www.reuters.com/news/picture/long-in-trumps-shadow-vice-president-mik-idUSKBN27G0F3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09G"
-        width: 810
-        height: 540
         isCached: true
   - title: "Vice President Mike Pence responds: I stand with President Donald Trump"
     excerpt: "Vice President Mike Pence was not with President Donald Trump during his press conference this afternoon. He later tweeted he stands with the president and that we must count every legal vote. Eamon Javers joins Shep Smith to talk about the various responses from members of the Republican Party in support of President Trump."

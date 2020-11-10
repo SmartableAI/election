@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Long in Trump's shadow, Vice President Mike Pence set to emerge"
+    excerpt: "Vice President Mike Pence, a Christian conservative and one of the few constants in Donald Trump's tumultuous White House, has kept his boss's confidence by being careful never to step out of the president's shadow."
+    publishedDateTime: 2020-10-31T15:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pence-profile-newsmaker-idUSKBN27G0F3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27G0F3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27G0F3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9U09G"
+        width: 817
+        height: 545
+        isCached: true
   - title: "AP Explains: What's next for Trump's Supreme Court nominee"
     excerpt: "S.C., said in a statement after the Democrats' announcement that Barrett “deserves to be on the Supreme Court and she will be confirmed.\" In a statement Wednesday with Senate Democratic Leader Chuck Schumer,"
     publishedDateTime: 2020-10-22T18:22:00Z

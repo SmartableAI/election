@@ -31,35 +31,78 @@ images:
     isCached: true
 
 related:
-  - title: "Kid Rock responds to Lady Gaga's Biden endorsement, shows 'what camo is really worn for'"
-    excerpt: "Kid Rock seemed to have a go at Lady Gaga on Tuesday, days after the pop star went viral with her own pro-Joe Biden video."
-    publishedDateTime: 2020-11-04T08:09:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/11/03/kid-rock-reacts-lady-gaga-biden-endorsement-hunting-picture/6148835002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6148835002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6148835002"
+  - title: "Biden may face pressure to reshape Powell's Fed in first year"
+    excerpt: "Washington - U.S. monetary policy won't be a top-of-mind concern for President-elect Joe Biden as he prepares to take office in January, with the Federal Reserve's economic arsenal already deployed against an ongoing recession and decisions about federal spending more"
+    publishedDateTime: 2020-11-10T11:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-fed/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-idUSKBN27Q1FR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q1FR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q1FR"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/91320599-eef8-433c-bd30-735bc2b79fec-trump_091420_kd2242.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540687400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90SI"
+        width: 806
+        height: 545
         isCached: true
-  - title: "Verbum Ultimum: Joe Biden for President"
-    excerpt: "Joe Biden is the only acceptable option on Nov. 3. by The Dartmouth Editorial Board \\| 28 minutes ago. With Election Day a mere four days"
-    publishedDateTime: 2020-10-30T06:33:00Z
-    webUrl: "https://www.thedartmouth.com/article/2020/10/verbum-ultimum-biden-for-president"
+  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
+    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
+    publishedDateTime: 2020-11-03T20:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
     type: article
     provider:
-      name: The Dartmouth
-      domain: thedartmouth.com
-    quality: 55
+      name: Reuters
+      domain: reuters.com
+    quality: 108
     images:
-      - url: "https://snworksceo.imgix.net/drt/f6e05d55-b92b-4d73-be17-06d62e8be61a.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 534
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
+    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
+    publishedDateTime: 2020-11-06T13:17:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
+        width: 1484
+        height: 989
+        isCached: true
+  - title: "'This is proof': Biden's win reveals power of Black voters"
+    excerpt: "Power. Respect. Finally."
+    publishedDateTime: 2020-11-09T22:25:00Z
+    webUrl: "https://www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Chrissy Teigen Makes First Public Appearance Since Pregnancy Loss at Joe Biden Campaign Rally"
+    excerpt: "Chrissy Teigen made her first public appearance since her pregnancy loss in September. The 34-year-old cookbook author joined her husband, John Legend, and their two children, Luna and Miles, at Joe Biden’s campaign rally in Philadelphia."
+    publishedDateTime: 2020-11-03T21:44:00Z
+    webUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden"
+    ampWebUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 64
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/eto_trending_chrissy_biden_rally_110320.jpg?h=d1cb525d&itok=eWlNVjNb"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "kgxGfSdZs1t4IOe7F2VvkJcp3sGw8XpHUbaD0YdD3JxPyhAIevkkgvpDe75GgLMebvp+cdajNwmNDlTXhpJtj2mAj/TIUuRyY4Ymue3gCnuAJPThoCWpE29ESwmqda4nRF3tgrydJ+PYCO6ttdmd9GVWJOWMdIWysESlXMXJehB98+yLUqOxKKOEBwXUnEYC0Y1ucvDyIkwM1QLiTMDbPO18YhAZaDbh8ACtbSrYehkli5TekcDbpHrUh+tJF+u3TCvGXarzivzKaFrLmyPTKiJ2ddejBshKSGl8UwshiHEl73taolFg8DNS523j457oj+/BVS7pgH/0BHJrgbvpZ8hTs4VTID6k5gOjtctcAxw=;s6jB+g2ru9tEegc5H6VPxQ=="

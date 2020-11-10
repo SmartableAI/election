@@ -141,20 +141,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Long in Trump's shadow, Vice President Mike Pence set to emerge"
-    excerpt: "U.S. Vice President Mike Pence speaks at a rally in Kinston, North Carolina, U.S., October 25, 2020. REUTERS/Jonathan Drake"
-    publishedDateTime: 2020-10-31T15:40:00Z
-    webUrl: "https://www.reuters.com/news/picture/long-in-trumps-shadow-vice-president-mik-idUSKBN27G0F3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09G"
-        width: 810
-        height: 540
-        isCached: true
   - title: "How Donald Trump won Ohio: A closer look at the campaign in a battleground state"
     excerpt: "President Donald Trump improved on his 2016 map; former Vice President Joe Biden couldn't make up the difference in the cities and suburbs."
     publishedDateTime: 2020-11-06T21:19:00Z

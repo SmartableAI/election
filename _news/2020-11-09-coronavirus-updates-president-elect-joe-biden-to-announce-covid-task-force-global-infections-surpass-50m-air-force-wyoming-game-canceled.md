@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
-    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
-    publishedDateTime: 2020-11-06T13:17:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
-        width: 1484
-        height: 989
-        isCached: true
 
 secured: "kVzYgCvgFwPW/LNibwf3GBVfzlbuUqlco772P+TSnqBwOQvbzBlrTzRU3bAn6JTmWmD4jKJmeMUAwmHIl53djGgFwhVXCk3oOB9UJYgFX/zEHjljH4Fv5CAnXEdwdrl/pJbM2YuHPABczs3NC1mk2JSgt3haimNA7Qkpv/TlpIN8g1OQpvZ/KYT5U96YHOKYHEmKFM11SZ6xXvueuxNr3hmUham7H1MmqFc5PK/Vqt8xS5RBvmMRetoJlJb7VRXn9r62UfwfeD9ZOgahc9D9rboCw3tFDKOWDyukThFgwotMt0MI2HnrzqkR93r6T1emXU39Zo8g8b/yL2b1qYdGyZK/cOz00UoOt470GkLTqNQsDdUzN6F6FYqD543KcpZYbPLRB+fIjv4IESVRs1dAR6F8KaF6tgPNYpi4dwxXo1Ham9Lh+ARLsSwXV6zK1qo8EVeIZ/PX41Ub2HcVrGoCsk0ryPqUwnDDrhPs2tbpvYOTuyVzq7bTJqESvDekg99w6SjzV7sD9w7fR8g1U0auGA==;s/YmxxizHrq1tth79QW5JA=="
 ---

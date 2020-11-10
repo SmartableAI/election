@@ -24,22 +24,15 @@ topics:
   - Democratic Voice
 
 related:
-  - title: "Biden tells supporters, 'We're on track to win'"
-    excerpt: "Joe Biden speaks to supporters in Delaware as votes are still being counted and says they \"feel very good about where we are.\""
-    publishedDateTime: 2020-11-04T07:34:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-tells-supporters-we-re-on-track-to-win-95284805763"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95284805763"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95284805763"
+  - title: "The Media’s New Rule: No Biden Criticism Until November 4th"
+    excerpt: "The sense in the media is that Donald Trump is so bad that we have to protect Biden lest we end up helping Trump. This is a bad idea."
+    publishedDateTime: 2020-10-22T09:04:00Z
+    webUrl: "https://www.thedailybeast.com/the-medias-new-rule-no-joe-biden-criticism-until-november-4th"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_full_2020_biden_speech_201103_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "Yzm0tTBMuZSPVgoQyvhrm3oKkSXTZzPEsOAvmAkjFSsu12EFnuAhgh3ElbiaFy+qtwyR2neodih0PjpLKGPL00qaHxdo4DjbWdhIQWzA6GK0Z0Yo3gHmQcknFUP89D61acT4xlpN0cRsXnKuxzj3uQwRAwVN9+pn8FdzQ4ErQ6/jUkOBB0HDbURtT/GLiV8/4Zli0HLAwSqZAa6fdnhtbUoRFoEo7ljjM5PaUsTty/3h6xK3ymOEIxPi/9Fun0sk0y+8dUzmKz0/jPR32mwp1E9GTYa5izjAJFGi6dQwcNxEv7yjRKGGExyp+LfxHymivLUP2ENHhYt43gSs2ha0vfToQkuBPWn/S9aKT58gT76EvcfFuMCp3+/ywiqWr0D8IhEHH6cGUHyuVayIZHpppJ3QUl78SaKmPYKmqqAKtnuuL1/bo0krxkPG0K+Lcat9sA3ZtXyDSOcfmk2k+d3U1AdaOnmfCopDOXHGf0ApTYcjZnI9bRnOEYvo+ZR2dHp+uh47F0okcePUwU2Fre1R/Q==;anaoH3zX4A1kWyQr2Sm8ag=="
 ---

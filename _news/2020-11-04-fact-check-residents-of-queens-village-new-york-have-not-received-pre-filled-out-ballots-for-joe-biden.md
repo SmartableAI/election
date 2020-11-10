@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
 type: article
 quality: 108
-heat: 148
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,35 +31,78 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says he's 'honored and humbled' and calls for unity after major networks declare him the 46th president"
-    excerpt: "President-elect Biden said in a statement it was time for \"America to heal.\" Vice President-elect Harris said, \"we have a lot of work ahead of us.\""
-    publishedDateTime: 2020-11-07T17:44:00Z
-    webUrl: "https://www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11?amp"
+  - title: "Biden may face pressure to reshape Powell's Fed in first year"
+    excerpt: "Washington - U.S. monetary policy won't be a top-of-mind concern for President-elect Joe Biden as he prepares to take office in January, with the Federal Reserve's economic arsenal already deployed against an ongoing recession and decisions about federal spending more"
+    publishedDateTime: 2020-11-10T11:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-fed/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-idUSKBN27Q1FR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q1FR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q1FR"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fa6d755f7d1cb0019e3a60f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540687400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90SI"
+        width: 806
+        height: 545
         isCached: true
-  - title: "Pelosi: 'Confident' Biden to be elected President"
-    excerpt: "Speaker of the House Nancy Pelosi says she's confident the Democratic Presidential nominee Joe Biden will be elected president. She says while she doesn't want to be \"overconfident,\" she wants to be ready to \"go down a different path."
-    publishedDateTime: 2020-10-30T06:22:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/29/pelosi-confident-biden-elected-president/6074216002/"
+  - title: "Read former President George W. Bush's full statement congratulating President-elect Joe Biden"
+    excerpt: "\"Though we have political differences, I know Joe Biden to be a good man, who has won his opportunity to lead and unify our country,\" he said."
+    publishedDateTime: 2020-11-08T18:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/read-george-w-bushs-full-statement-congratulating-joe-biden/6214070002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6214070002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6214070002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/93529e1e-bf69-405c-ac3a-5ad8a1a615f7-AFP_AFP_8UV2MW.jpg?auto=webp&crop=2705,1521,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
+    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
+    publishedDateTime: 2020-11-06T13:17:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/74c82bc6-1200-4500-92ad-131a2db60975_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
+        width: 1484
+        height: 989
+        isCached: true
+  - title: "'This is proof': Biden's win reveals power of Black voters"
+    excerpt: "Power. Respect. Finally."
+    publishedDateTime: 2020-11-09T22:25:00Z
+    webUrl: "https://www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Chrissy Teigen Makes First Public Appearance Since Pregnancy Loss at Joe Biden Campaign Rally"
+    excerpt: "Chrissy Teigen made her first public appearance since her pregnancy loss in September. The 34-year-old cookbook author joined her husband, John Legend, and their two children, Luna and Miles, at Joe Biden’s campaign rally in Philadelphia."
+    publishedDateTime: 2020-11-03T21:44:00Z
+    webUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden"
+    ampWebUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 64
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/eto_trending_chrissy_biden_rally_110320.jpg?h=d1cb525d&itok=eWlNVjNb"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "SSCYfXGChR3t/Fk6v/Yx8fbOXE5YSBbbOByx62ldgxNMR7POFpOuBPWTTjlC+xA10FcN3XwPHXH3tOv0mUps/8fdia3wIeoXXlQJgu7O1tJq2416aLDnJimvZIJR3DNekJIPF1CT3CL59cLNHbCxDY/8LpVXQkmp+BAneH+EVx7Z6XlHCqR93v/eGoXwTkUm78PxwwFDXJoo/iuroOu5jrLG6gD8ZVrf7yrji2QB9f3sbhvcr8EDTztXQUV2RjgAdAyrj/bm0nDNZ5/E0L8sc+mYAQdZXgVfk5tvnyyRKzU16Tu+99nUvOwjQ/T/pIhbSqqyIhFNrKOD1j0aR/pZ9e7FcfhoEtEGWPXDhRTjaVk=;bSTO9l/VwMROAizP3PyjNA=="

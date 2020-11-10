@@ -393,6 +393,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Menlo Park school board president resigns after wife’s racist tweets about Kamala Harris"
+    excerpt: "School board president Jon Venverloh announced his retirement Sunday after racist and misogynistic remarks made by his wife."
+    publishedDateTime: 2020-11-10T00:43:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/09/menlo-park-school-board-president-resigns-after-wifes-racist-tweets-about-kamala-harris/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/09/menlo-park-school-board-president-resigns-after-wifes-racist-tweets-about-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/09/menlo-park-school-board-president-resigns-after-wifes-racist-tweets-about-kamala-harris/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 66
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/mvschool_list.jpg?w=369&h=224"
+        width: 369
+        height: 224
+        isCached: true
   - title: "Cookies, bacon fried apples and tuna sandwiches: Kamala Harris turns to food videos to soften image"
     excerpt: "Her videos showing how to make Masala Dosa and tuna sandwiches have been watched by millions “Usually I stuff under the skin and then let it sit in the fridge for a day or two with a lot of salt outside,"
     publishedDateTime: 2020-11-02T12:03:00Z

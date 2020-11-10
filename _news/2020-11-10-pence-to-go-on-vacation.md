@@ -37,17 +37,17 @@ related:
         isCached: true
   - title: "Mike Pence heading to Florida for some time off"
     excerpt: "Vice President Mike Pence appears ready to take some time off a week after the election and is scheduled to travel to Sanibel this week."
-    publishedDateTime: 2020-11-09T17:36:00Z
-    webUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/elections/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
+    publishedDateTime: 2020-11-09T20:30:00Z
+    webUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
     type: article
     provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
     quality: 75
     images:
-      - url: "https://www.sun-sentinel.com/resizer/QdFXkmhBXzHQxxU8fmvKKjwxr2w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEX4UHCYTJSBVUHFJBBID32F7M.jpg"
+      - url: "https://www.orlandosentinel.com/resizer/QdFXkmhBXzHQxxU8fmvKKjwxr2w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEX4UHCYTJSBVUHFJBBID32F7M.jpg"
         width: 1200
         height: 800
         isCached: true

@@ -2329,6 +2329,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "For Biden, unwinding the Trump presidency could be a full-time job fraught with politics"
+    excerpt: "From Trump's travel ban to a deluge of regulatory changes, Biden will inherit the results of one of the most controversial administrations in history."
+    publishedDateTime: 2020-11-10T11:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/10/joe-biden-unwind-donald-trump-policies/6067776002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6067776002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6067776002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e9d74e13-8c86-4335-b776-d7a1cf32a954-bidens.jpg?auto=webp&crop=4304,2421,x0,y218&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why this conservative voted for Biden and you should too: Trump is a morally defective man"
     excerpt: "I'm a conservative and former Republican who did not vote based on policy. Neither should you. The 2020 election is about the moral future of America."
     publishedDateTime: 2020-10-30T07:47:00Z
@@ -3459,6 +3475,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Barr urges probes of vote irregularities as Trump mounts legal assault"
+    excerpt: "U.S. Attorney General William Barr told federal prosecutors on Monday to look into \"substantial\" allegations of irregularities in last week's election, prompting the top lawyer overseeing voter fraud investigations to resign in protest."
+    publishedDateTime: 2020-11-10T11:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-legal-idUSKBN27Q05A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q05A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q05A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540628628&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA9032"
+        width: 844
+        height: 545
+        isCached: true
   - title: "Biden convenes U.S. pandemic task force and hails vaccine progress"
     excerpt: "President-elect Joe Biden convened a task force on Monday to devise a blueprint for tackling the coronavirus pandemic in the United States and hailed progress on a vaccine, while President Donald Trump steadfastly refused to acknowledge his defeat."
     publishedDateTime: 2020-11-09T21:30:00Z
@@ -3744,18 +3776,18 @@ related:
         isCached: true
   - title: "Trump mounts legal assault as Barr authorizes probes of vote irregularities"
     excerpt: "President Donald Trump will push ahead on Tuesday with legal challenges to the results of last week's election after U.S. Attorney General William Barr told federal prosecutors to look into any \"substantial\" allegations of voting irregularities."
-    publishedDateTime: 2020-11-10T10:51:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Q0L4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Q0L4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Q0L4"
+    publishedDateTime: 2020-11-10T10:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27Q0LI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0LI"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 123
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540680206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90D1"
-        width: 787
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540689619&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90W6"
+        width: 796
         height: 545
         isCached: true
   - title: "What will a Biden presidency mean for travel? Here's what changes to expect"
@@ -4782,6 +4814,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "With Biden headed to White House, Afghan government hopes for tougher stance on Taliban"
+    excerpt: "Slight changes could provide more leverage to government negotiators in Doha and move stalled peace talks forward."
+    publishedDateTime: 2020-11-10T10:33:00Z
+    webUrl: "https://www.washingtonpost.com/world/asia_pacific/afghanistan-peace-talks-biden/2020/11/09/713498e0-1de5-11eb-ad53-4c1fda49907d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/afghanistan-peace-talks-biden/2020/11/09/713498e0-1de5-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/afghanistan-peace-talks-biden/2020/11/09/713498e0-1de5-11eb-ad53-4c1fda49907d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBYKMUBCZEI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 1004
+        isCached: true
   - title: "ABC, CBS, and NBC cut away from Trump's White House address riddled with unfounded accusations about the 2020 election"
     excerpt: "President Donald Trump, at the White House, made an unfounded accusation that the election was being stolen from him. ABC, CBS, and NBC cut away."
     publishedDateTime: 2020-11-06T03:09:00Z
@@ -5580,6 +5628,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "As an ex-president, Trump could disclose the secrets he learned while in office, current and former officials fear"
+    excerpt: "But no new president has ever had to fear that his predecessor might expose the nation’s secrets as President-elect Joe Biden must with Trump, current and former officials said."
+    publishedDateTime: 2020-11-10T12:00:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-possible-security-risk/2020/11/09/f19c853e-229e-11eb-952e-0c475972cfc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-possible-security-risk/2020/11/09/f19c853e-229e-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-possible-security-risk/2020/11/09/f19c853e-229e-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GA3SUWA7YMI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Iowa live election results for president in Iowa: Donald Trump vs. Joe Biden"
     excerpt: "Find live reporting of election results by county in Iowa for the race for president between Donald Trump and Joe Biden."
     publishedDateTime: 2020-11-04T08:17:00Z
@@ -5621,6 +5685,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 102
+  - title: "A team of 28 international election observers said it found no evidence of voter fraud in the 2020 election, contrary to what Trump keeps insisting"
+    excerpt: "The report from the Organization of American States came shortly after another elections watchdog accused Trump of undermining democracy in the US."
+    publishedDateTime: 2020-11-10T12:39:00Z
+    webUrl: "https://www.businessinsider.com/international-observers-say-no-voter-fraud-us-election-oas-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/international-observers-say-no-voter-fraud-us-election-oas-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/international-observers-say-no-voter-fraud-us-election-oas-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5faa7186f7d1cb0019e3ab9a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Election Results: Biden Has 'No Doubt' He Will Beat Trump, Become US President"
     excerpt: "Joe Biden's optimism comes as the Trump campaign files multiple lawsuits in swing states where the Democratic challenger is leading or projected to win."
     publishedDateTime: 2020-11-06T01:19:00Z

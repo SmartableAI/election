@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C1DC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1DC"
 type: article
 quality: 140
-heat: 360
+heat: 380
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Long in Trump's shadow, Vice President Mike Pence set to emerge"
+    excerpt: "Vice President Mike Pence, a Christian conservative and one of the few constants in Donald Trump's tumultuous White House, has kept his boss's confidence by being careful never to step out of the president's shadow."
+    publishedDateTime: 2020-10-31T15:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pence-profile-newsmaker-idUSKBN27G0F3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27G0F3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27G0F3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9U09G"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Analysis: A newly restrained Trump faces the same old problems"
     excerpt: "President Donald Trump turned in the restrained and consistent performance his advisers said he needed in his final debate with Democratic challenger Joe Biden, but it was unlikely to alter the U.S. presidential race in any fundamental way."
     publishedDateTime: 2020-10-23T06:14:00Z

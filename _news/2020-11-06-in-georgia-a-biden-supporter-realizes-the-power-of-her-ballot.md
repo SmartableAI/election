@@ -29,69 +29,80 @@ images:
     isCached: true
 
 related:
-  - title: "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden"
-    excerpt: "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\""
-    publishedDateTime: 2020-11-08T17:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
+  - title: "Biden may face pressure to reshape Powell's Fed in first year"
+    excerpt: "Washington - U.S. monetary policy won't be a top-of-mind concern for President-elect Joe Biden as he prepares to take office in January, with the Federal Reserve's economic arsenal already deployed against an ongoing recession and decisions about federal spending more"
+    publishedDateTime: 2020-11-10T11:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-fed/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-idUSKBN27Q1FR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q1FR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q1FR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540687400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90SI"
+        width: 806
+        height: 545
+        isCached: true
+  - title: "Read former President George W. Bush's full statement congratulating President-elect Joe Biden"
+    excerpt: "\"Though we have political differences, I know Joe Biden to be a good man, who has won his opportunity to lead and unify our country,\" he said."
+    publishedDateTime: 2020-11-08T18:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/read-george-w-bushs-full-statement-congratulating-joe-biden/6214070002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6214070002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6214070002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 115
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/93529e1e-bf69-405c-ac3a-5ad8a1a615f7-AFP_AFP_8UV2MW.jpg?auto=webp&crop=2705,1521,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Putin won't congratulate Biden before 'official results' and 'legal procedures' are completed"
-    excerpt: "A Putin spokesman said there was an \"absolutely obvious\" difference from 2016, when Putin congratulated Trump based on media projections."
-    publishedDateTime: 2020-11-09T14:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6218660002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6218660002"
+  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
+    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
+    publishedDateTime: 2020-11-03T20:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
+      name: Reuters
+      domain: reuters.com
+    quality: 108
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/5811c7a4-3d17-4645-a9a8-35817e826495-AP_Russia_Putin.jpg?auto=webp&crop=2892,1627,x430,y876&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
+        width: 818
+        height: 545
         isCached: true
-  - title: "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments"
-    excerpt: "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration."
-    publishedDateTime: 2020-11-08T16:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3748535001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001"
+  - title: "'This is proof': Biden's win reveals power of Black voters"
+    excerpt: "Power. Respect. Finally."
+    publishedDateTime: 2020-11-09T22:25:00Z
+    webUrl: "https://www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
-    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
-    publishedDateTime: 2020-11-09T09:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Chrissy Teigen Makes First Public Appearance Since Pregnancy Loss at Joe Biden Campaign Rally"
+    excerpt: "Chrissy Teigen made her first public appearance since her pregnancy loss in September. The 34-year-old cookbook author joined her husband, John Legend, and their two children, Luna and Miles, at Joe Biden’s campaign rally in Philadelphia."
+    publishedDateTime: 2020-11-03T21:44:00Z
+    webUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden"
+    ampWebUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 91
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 64
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/eto_trending_chrissy_biden_rally_110320.jpg?h=d1cb525d&itok=eWlNVjNb"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "GzqyBy9AgDdZijAXVgrexXHYZi2NVGzoD2EfmZ+r+0pO6hqf+N7UGic0B56qMO8TXvn7vn9qIJm1ojE/xUAOkdclFuiFiTaV8+Spc0nEx4GSuNr2IY4Nh+vIIWRT6oNlIWBJofuCUU3ykeyNLcAIsG+xpduG66pTdpho+R0SPraITmDGgVEFwXTvDrzPHBTcn2WYDPWkWS42qtzIlQXRIKCJI8jcwWRpUV8dCw0Cd/7rVwPV48uSiMz/L2XxLkly4h1grBw8+0fYaVCCpSbSFdAkxHFB7ReBfDunTqadimrHocMYl/GHrfwGNvC9omtvJsqBSj5Uolu+KKYxGw/nbB35xwO5Nkx6YEZiOhwg7hW5JPOTAxqHUbX7ANhYF9o/kUrfaUfMA7yxP/wWiuqrzU8VjIZi+8xuCEdDxWzofOE5WYM5ezhh8egZuARW2LLm8jin+S4armEqnB6q/vHSNsdzPfXLe59hTXDKt/29ZFuAZVUvycjVspCM0aLRGHfqR5okDIyYXn3UaTaj6UEiUA==;dgjedh1w9D9n5gHvTpTtJA=="

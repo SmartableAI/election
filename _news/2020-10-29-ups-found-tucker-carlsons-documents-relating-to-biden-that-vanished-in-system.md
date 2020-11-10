@@ -106,6 +106,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Sanders, AOC and 'The Squad' plan to make Biden the most liberal president ever"
+    excerpt: "Progressive Democrats like \"Squad\" member Rep. Alexandria Ocasio-Cortez, D-N.Y., and Sen. Bernie Sanders, D-Vt., are already gearing up to lobby a Biden-Harris administration for policies like the Green New Deal and Medicare for all."
+    publishedDateTime: 2020-11-10T11:25:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcDqqNBqmlc/biden-lobby-progressive-bernie-sanders-squad-aoc"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-lobby-progressive-bernie-sanders-squad-aoc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-lobby-progressive-bernie-sanders-squad-aoc.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Squad-GETTY-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
     excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
     publishedDateTime: 2020-11-08T23:45:34Z

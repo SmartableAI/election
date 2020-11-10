@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "After Biden win, GOP eyes investigations into the 2020 election"
+    excerpt: "With President-elect Joe Biden winning the White House, a Republican-led Senate is poised to keep its investigative gaze on the FBI's handling of the 2016 election and Russia next year, and GOP senators are already discussing probes into the 2020 election, too.\n    \n"
+    publishedDateTime: 2020-11-10T12:30:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qHpLRJhmrAc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/republican-congress-investigation-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/republican-congress-investigation-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003135536-01b-sen-ron-johnson-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump's top election falsehoods to watch for on Election Day"
     excerpt: "President Donald Trump has spent months making false claims in a baseless attempt to raise questions over the integrity of the presidential election.\n    \n"
     publishedDateTime: 2020-11-02T14:52:54Z
@@ -396,6 +412,22 @@ related:
     quality: 184
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109161922-biden-mask-1109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump push to fight election uses courts in attempt to legitimize unfounded claims"
+    excerpt: "Sometimes a legal complaint can be mostly complaining. Over the past week, a series of Trump campaign and Republican National Committee public statements and even court filings have fanned the idea -- with little evidence -- that last Tuesday's election could and should be contested.\n    \n"
+    publishedDateTime: 2020-11-10T04:46:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g8Zs7Ohszrw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-trump-court-push-claims/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-trump-court-push-claims/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107151334-detroit-ballots-1104-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -831,6 +863,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump shows transition will be as turbulent as his presidency"
+    excerpt: "The question is not whether President Donald Trump is leaving. It's how much destruction, revenge and chaos he will wreak on the way out the door.\n    \n"
+    publishedDateTime: 2020-11-10T06:19:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5S0ik8eOLuY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-transition-joe-biden-presidency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-transition-joe-biden-presidency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107010731-01-biden-trump-1106-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top congressional Republicans still haven't acknowledged Biden's victory"
     excerpt: "President-elect Joe Biden urged the country \"to lower the temperature\" in his victory speech on Saturday night, but Republican leaders he'll have to work with in Congress have either urged President Donald Trump to not concede or stayed silent despite no widespread evidence of fraud in the election.\n"
     publishedDateTime: 2020-11-08T22:24:55Z
@@ -1020,6 +1068,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107121330-joe-biden-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden moves quickly to tackle coronavirus, the issue that could define his presidency"
+    excerpt: "Joe Biden was hours away from winning the job he had always wanted, but inside his corps of top advisers and close friends, planning was already shifting past the fireworks and confetti canons used to celebrate his victory and back to the issue that could define the highpoint of his long career: The"
+    publishedDateTime: 2020-11-10T11:02:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3Oe4vjZAc1Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109161922-biden-mask-1109-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden and Cunningham Hold Slim Leads in North Carolina, Poll Finds"
-    excerpt: "Joe Biden and Cal Cunningham both led their Republican rivals by three points, a Times/Siena College survey found. Perhaps most notably, 64 percent of respondents said they had already voted."
-    publishedDateTime: 2020-10-29T18:09:00Z
-    webUrl: "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html"
+  - title: "What can Joe Biden do to save Obamacare in the Supreme Court? Not much."
+    excerpt: "The fate of the Affordable Care Act lies in the Supreme Court's hands, and there's not much President-elect Joe Biden can do about it.\n    \n"
+    publishedDateTime: 2020-11-10T11:03:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ivsE9l3kocw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/joe-biden-affordable-care-act-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/joe-biden-affordable-care-act-supreme-court/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109160916-joe-biden-obamacare-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden tells supporters, 'We're on track to win'"
+    excerpt: "Joe Biden speaks to supporters in Delaware as votes are still being counted and says they \"feel very good about where we are.\""
+    publishedDateTime: 2020-11-04T07:34:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-tells-supporters-we-re-on-track-to-win-95284805763"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95284805763"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95284805763"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/28/us/-promo-1603923638541/-promo-1603923638541-facebookJumbo.png"
-        width: 1050
-        height: 549
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_full_2020_biden_speech_201103_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "iNb6S0p7qYI7J7+8120d89F+d8ujPTZNKop49zhyAKFw2CEMzh6LUtLhCwOTYnfJDip+7viKCb59SfQiweS/gPU5+ISdb67kB+hgO5+BDI+IzLNRhnndhWkDBp+QBKwLYXu9rHFTMF01tGkesME3+P/0o76iFJ7+RnkYGeivOGPmGSF92yTM/pUtQTyl33ZGGmmJaL/EZSv5AtGZPFYsG7P//BTn4hpHZz8VGSO+jWcL7vGxV8c6LxyFXc7ZkcOOQXqzJJvjuoE7K/erzKn6U1h6nd6qautQeLSmMdrWd1nmMtMwImGMgGcd+pT28W9kM6yIJTN0ZyBe4YyntCprLXV2FLJPIBK/ZYkIndCKukE=;mQf2cR5whz2FVgzOqysLgw=="

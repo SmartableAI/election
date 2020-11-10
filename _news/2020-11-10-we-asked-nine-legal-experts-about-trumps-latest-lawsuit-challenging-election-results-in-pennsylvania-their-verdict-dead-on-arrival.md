@@ -287,6 +287,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Lawyers at the firms helping Trump challenge the election results fear they're undermining the law and US elections, report says"
+    excerpt: "The New York Times reported that lawyers for Jones Day and Porter Wright Morris & Arthur are worried about their firms' work with Trump."
+    publishedDateTime: 2020-11-10T11:42:00Z
+    webUrl: "https://www.businessinsider.com/staff-at-firms-helping-trump-dispute-election-results-conflicted-nyt-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/staff-at-firms-helping-trump-dispute-election-results-conflicted-nyt-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/staff-at-firms-helping-trump-dispute-election-results-conflicted-nyt-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5faa71cb1df1d50018219c6e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump campaign says 'illegally cast' ballots should not be counted"
     excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
     publishedDateTime: 2020-11-04T16:13:00Z

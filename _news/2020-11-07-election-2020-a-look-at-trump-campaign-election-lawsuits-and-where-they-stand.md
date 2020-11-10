@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/election-2020-trump-campaign-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748"
 type: article
 quality: 136
-heat: 536
+heat: 556
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 114
     images:
       - url: "https://i.insider.com/5fa57b22f7d1cb0019e3a399?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Lawyers at the firms helping Trump challenge the election results fear they're undermining the law and US elections, report says"
+    excerpt: "The New York Times reported that lawyers for Jones Day and Porter Wright Morris & Arthur are worried about their firms' work with Trump."
+    publishedDateTime: 2020-11-10T11:42:00Z
+    webUrl: "https://www.businessinsider.com/staff-at-firms-helping-trump-dispute-election-results-conflicted-nyt-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/staff-at-firms-helping-trump-dispute-election-results-conflicted-nyt-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/staff-at-firms-helping-trump-dispute-election-results-conflicted-nyt-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5faa71cb1df1d50018219c6e?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

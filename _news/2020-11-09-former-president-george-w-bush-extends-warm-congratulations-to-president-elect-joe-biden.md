@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
 type: article
 quality: 115
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
-    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
-    publishedDateTime: 2020-11-06T13:17:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
-        width: 1484
-        height: 989
         isCached: true
   - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
     excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."

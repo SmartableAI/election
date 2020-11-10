@@ -141,20 +141,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Long in Trump's shadow, Vice President Mike Pence set to emerge"
-    excerpt: "U.S. Vice President Mike Pence speaks at a rally in Kinston, North Carolina, U.S., October 25, 2020. REUTERS/Jonathan Drake"
-    publishedDateTime: 2020-10-31T15:40:00Z
-    webUrl: "https://www.reuters.com/news/picture/long-in-trumps-shadow-vice-president-mik-idUSKBN27G0F3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09G"
-        width: 810
-        height: 540
-        isCached: true
   - title: "Vice President Mike Pence responds: I stand with President Donald Trump"
     excerpt: "Vice President Mike Pence was not with President Donald Trump during his press conference this afternoon. He later tweeted he stands with the president and that we must count every legal vote. Eamon Javers joins Shep Smith to talk about the various responses from members of the Republican Party in support of President Trump."
     publishedDateTime: 2020-11-06T01:48:00Z
