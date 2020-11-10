@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6038318002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038318002"
 type: article
 quality: 140
-heat: 620
+heat: 640
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Election 2020 live updates: Trump forming PAC; Barr OKs voting probe"
+    excerpt: "While not conceding the election, Trump is forming his own PAC to give money to local, state and federal candidates he supports."
+    publishedDateTime: 2020-11-10T16:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/10/election-2020-updates-trump-continues-legal-fight-biden-talks-covid/6231519002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6231519002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6231519002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/1ee1a838-164b-4fbc-b60f-1040fd969561-bidens_flag.jpg?auto=webp&crop=4963,2792,x0,y330&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election live updates: Donald Trump says he's not nervous: 'I've been here before'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden are in the home stretch of this campaign with just hours to go before Election Day."
     publishedDateTime: 2020-11-03T03:13:00Z
@@ -338,7 +354,7 @@ related:
       domain: heraldnews.com
     quality: 75
     images:
-      - url: "https://www.heraldnews.com/apps/pbcsi.dll/bilde?Site=ZZ&Date=20201109&Category=NEWS&ArtNo=311099982&Ref=AR"
+      - url: "https://www.heraldnews.com/storyimage/ZZ/20201109/NEWS/311099982/AR/0/AR-311099982.jpg?MaxW=600"
         width: 512
         height: 341
         isCached: true

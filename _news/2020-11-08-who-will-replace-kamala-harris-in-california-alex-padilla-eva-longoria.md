@@ -69,6 +69,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris"
+    excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."
+    publishedDateTime: 2020-11-10T15:19:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article247096792.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article247096792.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article247096792.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c40ec35b-ceac-4134-870a-9fcc454e83ec/c75b6003-d661-4571-9b8c-1c6bd6b3e702/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "What it reveals when senators repeatedly mispronounce the names of Kamala Harris and Sundar Pichai"
     excerpt: "CNN It is a truth universally acknowledged that if you live in the US and have a non-English name, someone at some point is bound to butcher the pronunciation. People across"
     publishedDateTime: 2020-11-01T12:48:00Z
@@ -84,6 +100,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_aaabf9408d54ffe0ad32c8318f6c537e-h_77d46bc633d10a1d5e1af0d83b0cff8f.jpg?w=1024&h=576"
         width: 1024
         height: 576
+        isCached: true
+  - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris | Charlotte Observer"
+    excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."
+    publishedDateTime: 2020-11-10T16:52:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article247096792.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article247096792.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article247096792.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 57
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c40ec35b-ceac-4134-870a-9fcc454e83ec/c75b6003-d661-4571-9b8c-1c6bd6b3e702/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "‘It’s our time’: Women of color around Connecticut celebrate the significance of Kamala Harris’s historic VP win"
     excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."

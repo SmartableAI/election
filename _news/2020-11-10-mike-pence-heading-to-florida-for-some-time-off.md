@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Mike Pence heading to Florida vacation island for the rest of the week"
+    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
+    publishedDateTime: 2020-11-09T16:08:00Z
+    webUrl: "https://fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/"
+    ampWebUrl: "https://fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/amp/"
+    cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/amp/"
+    type: article
+    provider:
+      name: FOX40
+      domain: fox40.com
+    quality: 75
+    images:
+      - url: "https://fox40.com/wp-content/uploads/sites/13/2020/11/pence2b.jpg?w=1280"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence to go on vacation"
     excerpt: "According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday. Pence has vacationed on the island along Florida’s Gulf Coast several times previously."
     publishedDateTime: 2020-11-09T19:43:00Z
@@ -62,6 +78,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "wME2uachjnk9/EYcZMrZDUxhIPjtfHKEt6lJKEoALSzxGriDJCTiHvGl56mzR9vgut+JL45u6hkLpRlDRjuyeCRUIZqg17hA6TqRVqyWHucDBIjoN7ICwLjM5uxm6DJnnN7ACEJD/O3xhAyRTp1gMpOrTbbWhSOA5mKL09KWuLOheb+w5RpcogLuyLEf1mpsqOhPJeFYOAKtvKxuRg4ytX4qEzcZYSOTq7pBoblQ61jtYJ+FfV+h0WoRzMrVkGuUkgW+YG8K8h3RCDjQvWA8RL339//yDskTjgCDGM8BPEeCiS0Xi3LOHvPlr2qVVvcJlU6AwrvLloxFJ6Ukiv1VauYfLtEEMJHipFYUwW/jGYw=;Ft5EtAugfNk6U5/Zcc2pcg=="
+secured: "rajbxlzQhMzFErwzM29SFpt9fnAdsRm7BznIsxLnGQBqUmmxK+PUzktOCtdP5ke47mZQaQnOdqxUjsyXGZqAHfmKgBl7LK0OGyk0mZzdPHYU+Cx5VTEqLNqsVTlpXCMvTePiUFH6ijwclJnyJFadU8goYaExVyfFKWCMjfHnU5m23ensLRq8XrAaMGUEdLNga1y2SisCyONGNQFO9Tb4wuCfBdmWr7WMBAz+cFxXUoBiO1GWxc39dj2gPUqNko4H0iwxjZyMK7/sCzIk9kBjbguiK32iPaBKNd9SxvWke9QcOuGEZbev7Rrs5Ue4YgTTlSTGfNV6+QjJWUCkcHnGlCa+w1QHdzcqFV87/ynK0U3eYcz2LKvzsGhk19gYKVt7iYgolK/7SUpbfTSgYZAZf0CkUdy3j6CZO1fTYAOMO51mPk6AyN8QC76ZOcwWva/Qv/lDHuzPTje+mphT6CbFSSImZrSIckl8RVPRAzqd48bCVeKWrSCuAyBCKx10tUp9j4L3NuXZoVtb4/vD2oUjnA==;Cift/WF94cu1XiCXTfDalA=="
 ---
 

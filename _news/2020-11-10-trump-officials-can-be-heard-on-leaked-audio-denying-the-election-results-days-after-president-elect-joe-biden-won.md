@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/trump-officials-heard-on-leaked-audio-d
 ampWebUrl: "https://www.businessinsider.com/trump-officials-heard-on-leaked-audio-denying-the-election-results-2020-11?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-heard-on-leaked-audio-denying-the-election-results-2020-11?amp"
 type: article
-quality: 133
+quality: 143
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://i.insider.com/5fa9c4b21df1d50018219bc7?width=1200&format=jpeg"
@@ -1485,6 +1486,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540621733&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81XY"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Trump touted the economy; the economy voted for Biden"
+    excerpt: "U.S. President Donald Trump leaned on economic arguments in his reelection bid. The economy favored Democratic challenger Joe Biden."
+    publishedDateTime: 2020-11-10T16:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-gdp/trump-touted-the-economy-the-economy-voted-for-biden-idUSL1N2HW13G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HW13G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HW13G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721678&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91EY"
+        width: 806
         height: 545
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
@@ -3760,6 +3777,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Biden presses to expand health insurance on uncertain congressional terrain"
+    excerpt: "The president-elect plans to invoke the coronavirus pandemic and the Affordable Care Act’s uncertain future as justifications for his agenda."
+    publishedDateTime: 2020-11-10T14:47:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-health-insurance-plan/2020/11/10/10570b3e-22b3-11eb-8672-c281c7a2c96e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-health-insurance-plan/2020/11/10/10570b3e-22b3-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-health-insurance-plan/2020/11/10/10570b3e-22b3-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45GZBKBCV4I6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump mounts legal assault as Barr authorizes probes of vote irregularities"
     excerpt: "President Donald Trump will push ahead on Tuesday with legal challenges to the results of last week's election after U.S. Attorney General William Barr told federal prosecutors to look into any \"substantial\" allegations of voting irregularities."
     publishedDateTime: 2020-11-10T10:59:00Z
@@ -3791,6 +3824,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/8b4d91cf-761f-43d2-a42f-9dbd9ac1cdb1-AP_Election_2020_Biden_2.jpg?auto=webp&crop=3650,2054,x0,y185&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump mounts legal assault as Barr authorizes probes of vote irregularities"
+    excerpt: "President Donald Trump will push ahead on Tuesday with legal challenges to the results of last week's election after U.S. Attorney General William Barr told federal prosecutors to look into any \"substantial\" allegations of voting irregularities."
+    publishedDateTime: 2020-11-10T16:57:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27Q0L2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540689619&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90W6"
+        width: 796
+        height: 545
         isCached: true
   - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
     excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
@@ -5877,6 +5926,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump dramatically changed the presidency. Here’s a list of the 20 most important norms he broke — and how Biden can restore them"
+    excerpt: "The election was a referendum on Trump’s norm-breaking. We examine what’s been ignored and undermined and why preserving presidential norms is essential."
+    publishedDateTime: 2020-11-10T14:49:00Z
+    webUrl: "https://www.washingtonpost.com/graphics/2020/lifestyle/magazine/trump-presidential-norm-breaking-list/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 91
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://www.washingtonpost.com/resizer/Fm3AbqGJ4NkN-4FO1QT1xYMiqEQ=/arc-anglerfish-washpost-prod-washpost/public/T4EDIHXKOJHKNDWRR3YSCHYF2A.jpg&w=1200"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump does what he says he will do. Joe Biden waffles."
     excerpt: "Worse than his contradictions, Joe Biden is too beholden to the radicals in his party. If he’s elected, we’ll never know who’s really in charge, writes Ed Kovacic of Westlake in a letter to the editor."
     publishedDateTime: 2020-10-03T16:07:00Z
@@ -7042,6 +7105,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Oxx5UBibHJirczFrQyASPbK7ElT8PVT0KnQwUOpIWtv0sUnc5La52rxg/hPx/RrPYPRQtuBThsvjwxMPPd7P5GEPNQu3ACx6UwUBODi1LHkBXRB+e+RJ5nSb4EDjeFogaFX3+YlSiYf2rKYX4kiXxAGHbFNpdN71vX5UUGsbD8sbRDpap1WEe7fOrBoUExouYLSxBQBjKEdGL0thCf0deT/OM1aIusbPueMMDsBEU9/x/5LLVbN6U4QGMxy3g7tPDHz1BBUou2I4zRKzVgxFV3ZKPDlhYp/gNOp/IZegNl9qXxicHErmd0B5Hv1K7sHbw/47CQ1VKde5rp7zK/heP6KVzdjMtx6f2L3rd1lVG/s=;Umh3MiJCGhr9GeoaFNLAqQ=="
+secured: "YYZj5CyWQHkgTevSAB7EtKzW06+cSsJkdDj41mE3TOVyidpsfzIXdu4puR9Y8OfgTupOgjcTAMfkXE8qayz0vBFzCmCDFSfY4moZoyylyCorn1fsxPzSpSagKyZ1vxJWiQQrlx7hAc0SFB6aRZHHnF/6Qk5bkps3xvhYYR7MtA33Q5c8mrrDg2vrC9OxpAzbC5/n3VBGoQkbmV6EEoeLYOr32JAJ7OE7Gnj7TVPeuhLoZON2+t3oPKTdZmCTks/hm9NOdEW75RFravnAXI0oobX48TqV/2uyirZCxuzqWUHB7/t+1oZSSIU+3G6U1/m1dKFUvdZfBpCEZgcgKyd15FXGQY4GA+19W91KZnrxbRv7ermX0FZhecX3NA6qNcnhwHJ97AeKc0SZw6Cli79dvcgMPgCE1eo9ypG07nqg/IzYoyKd8CvZyRqCuI5kSklmst1+OLcnTFIXkDp4HjRItL3vGisCS1yT72xlTGBJVxdnSWZz+HpIdoNzmti83EHft5Vdf5PKjwc15NwXw1n8gQ==;srScIEQvZw6hpuYbD+IxOQ=="
 ---
 

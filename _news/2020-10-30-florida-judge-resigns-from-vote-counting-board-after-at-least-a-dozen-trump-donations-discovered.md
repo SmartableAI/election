@@ -237,6 +237,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign presses Georgia to hand count every ballot"
+    excerpt: "Republican Georgia Rep. Doug Collins is calling on his state to conduct a manual recount of the 2020 election, as President Trump and President-elect Joe Biden were roughly 0.2% apart as counting continued Tuesday morning."
+    publishedDateTime: 2020-11-10T15:28:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WM4ATI6UeL8/trump-campaign-georgia-hand-count-every-ballot"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-hand-count-every-ballot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-hand-count-every-ballot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20311597153404-e1605021250668.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump’s comment at rally raises speculation about Fauci’s future at NIAID"
     excerpt: "President Trump suggested during a Florida rally early Monday that he may fire Dr. Anthony Fauci, the nation's top infectious disease expert, after the election."
     publishedDateTime: 2020-11-02T08:32:36Z

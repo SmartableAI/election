@@ -127,6 +127,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump faith adviser Bishop Harry Jackson dead at 66"
+    excerpt: "Bishop Harry Jackson Jr., a Maryland pastor and unofficial faith adviser for President Trump, died Monday at age 66, his church announced."
+    publishedDateTime: 2020-11-10T15:48:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yMpCcQqhy4/bishop-harry-jackson-jr-dead-white-house-faith-adviser"
+    ampWebUrl: "https://www.foxnews.com/politics/bishop-harry-jackson-jr-dead-white-house-faith-adviser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bishop-harry-jackson-jr-dead-white-house-faith-adviser.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-Bishop-Harry-Jackson-Trump.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Graham announces $500G donation to Trump campaign legal efforts, calls Philly elections 'crooked as a snake'"
     excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., told \"Hannity\" Thursday he will donate $500,000 to the Trump campaign's legal efforts to challenge election procedures in multiple states, including Pennsylvania, Michigan and Nevada."
     publishedDateTime: 2020-11-06T03:49:16Z
@@ -170,6 +186,20 @@ related:
     quality: 130
     images:
       - url: "https://images.wsj.net/im-257625?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Trump Campaign Asks Federal Judge to Block Pennsylvania From Certifying Election Results"
+    excerpt: "President Trump’s presidential campaign on Monday asked a federal judge to block Pennsylvania election officials from certifying the results of the election. Matthew Morgan, a Trump campaign lawyer, a"
+    publishedDateTime: 2020-11-10T14:28:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/h0Q6kNeLacvLiLqou8ra"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 121
+    images:
+      - url: "https://images.wsj.net/im-257641?size=1.5"
         width: 1280
         height: 853
         isCached: true

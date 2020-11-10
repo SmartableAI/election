@@ -1392,6 +1392,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Senate Democrat says Republican colleagues are privately asking him to congratulate Biden on winning election because they can't do so publicly"
+    excerpt: "Delaware Democratic Sen. Chris Coons said Tuesday his Republican colleagues are privately asking him to congratulate President-elect Joe Biden on winning the election because they can't do so publicly.\n    \n"
+    publishedDateTime: 2020-11-10T15:01:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iiK0CqKMYiQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/chris-coons-republicans-joe-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/chris-coons-republicans-joe-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190412142059-chris-coons-democrat-republicans-senate-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "A bullish Biden campaign invades Trump territory"
     excerpt: "In a move that would have been far-fetched even a few months ago, Joe Biden is set to spend $6.2 million on ads in the state over the next month — attempting to put the state in play for the first time in decades."
     publishedDateTime: 2020-10-07T08:34:00Z

@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "European countries' new coronavirus measures may influence the US' recovery plan being laid out by President-elect Joe Biden"
+    excerpt: "European countries have implemented new coronavirus measures to mitigate economic risk, which may influence Biden's US' recovery plan."
+    publishedDateTime: 2020-11-10T13:55:00Z
+    webUrl: "https://www.businessinsider.com/europe-new-coronavirus-measures-may-influence-us-recovery-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/5f96c971f21803001222be00?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "CuT8KlUzWFc3wzbsrzUsxRbmmdK5JpeS/PHmhb9e+swdnNdg+evUdO1S01ED8dNow+nX9si1lH5Rs0oZjTOcGqIT7CIsnv1xP5Z34jJX4TELLdltiHiMkb6XPHXz2sCvi5twYnarHw7WgI4+lwDmtPI2v1iOFkajlaGXrQKzuZQp8SlGiUtt0zUKXCBgkUMQmaxA9asItlJB9K6RDood49rjkigQH9ywt4yNxw5mq9ZjpDs32le12JBtm9zbU6+fkhC/1i27o6ZjEqTl8i9K3tApwkkrPAlccgKWPlHkdNgzI7aRPs3TwZ8nEMt4H1Rabg3WHHAsVNTP567WMUPibPreoZW0xdeOw4KLJn9kOqs=;XO+/z6+oCNVUmlt2ugfRag=="
 ---

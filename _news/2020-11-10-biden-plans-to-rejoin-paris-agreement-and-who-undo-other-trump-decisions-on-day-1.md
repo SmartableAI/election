@@ -543,6 +543,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden calls for unity, but some fellow Democrats contradict message with spite toward Trump supporters"
+    excerpt: "The message of unity in the president-elect's victory speech was consistent with much of the rhetoric of his presidential campaign. It was also in line with how Biden comported himself during his many years in the Senate -- he was a dealmaking moderate, not a rancorous partisan. "
+    publishedDateTime: 2020-11-10T15:36:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDgpO3I8NnM/biden-calls-for-unity-but-some-fellow-democrats-contradict-message-with-spite-toward-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-for-unity-but-some-fellow-democrats-contradict-message-with-spite-toward-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-for-unity-but-some-fellow-democrats-contradict-message-with-spite-toward-trump-supporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's sister, despite calls for unity, scoffs at suggestion Biden, Trump could work together: 'Why?'"
+    excerpt: "Not everyone close to Joe Biden is on board with the president-elect's recent message of political unity."
+    publishedDateTime: 2020-11-10T16:34:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo7NDG524OM/biden-sister-valerie-owens-trump-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sister-valerie-owens-trump-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sister-valerie-owens-trump-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313107857951.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden family joins president-elect on victory speech stage, Hunter included"
     excerpt: "Ahead of President-elect Joe Biden’s 2020 election victory speech Saturday night, he said his family would be present for the event, raising questions about whether that included his son Hunter would be involved."
     publishedDateTime: 2020-11-08T02:57:34Z
@@ -910,6 +942,22 @@ related:
       - url: "https://images.wsj.net/im-257208/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Latest Updates: Biden Elected President but Trump Challenging Result"
+    excerpt: "Latest updates from the transition period after the election."
+    publishedDateTime: 2020-11-10T16:29:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020"
+    ampWebUrl: "https://www.wsj.com/amp/livecoverage/latest-updates-biden-trump-election-2020"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/livecoverage/latest-updates-biden-trump-election-2020"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump wants Supreme Court to decide election, cites unfounded fraud claims"
     excerpt: "President Trump said the US Supreme Court should decide the presidential election due unfounded claims of “illegal voting.” Trump made the allegations in a tweet issued early Friday"

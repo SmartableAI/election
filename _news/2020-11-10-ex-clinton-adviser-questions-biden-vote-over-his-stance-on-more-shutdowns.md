@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-biden-economic-lockdowns-corona
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-economic-lockdowns-coronavirus.amp"
 type: article
 quality: 174
-heat: 214
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Israeli UN Ambassador Danon on what a Biden presidency means for Middle East peace"
-    excerpt: "Israel's former ambassador to the United Nations Danny Danon provided insight on Monday into what a Biden presidency could mean for Middle East peace."
-    publishedDateTime: 2020-11-09T20:06:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dPucYgxA6U/israeli-un-ambassador-danon-biden-presidency-middle-east-peace"
-    ampWebUrl: "https://www.foxnews.com/politics/israeli-un-ambassador-danon-biden-presidency-middle-east-peace.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israeli-un-ambassador-danon-biden-presidency-middle-east-peace.amp"
+  - title: "Cindy McCain joins Joe Biden transition team advisory board"
+    excerpt: "Cindy McCain, the widow of Republican Sen. John McCain, is reportedly joining the board of Joe Biden’s presidential transition team"
+    publishedDateTime: 2020-11-10T16:02:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden Closing Message: \"We Choose Hope Over Fear, Unity Over Division, Science Over Fiction\""
-    excerpt: "Joe Biden visited Beaver County, Pennsylvania Monday afternoon to rally voters ahead of tomorrow's election. Remarks as prepared by former Vice President Joe Biden at a voter mobilization event in Monaca,"
-    publishedDateTime: 2020-11-02T21:20:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/02/biden_closing_message_we_choose_hope_over_fear_unity_over_division_science_over_fiction.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 54
-    images:
-      - url: "https://assets.realclear.com/images/52/525933.jpg"
-        width: 750
-        height: 562
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "eUuduzHc3tNlNFyaPR39dMuiGo4LZOH+EPp9xgwidRd0iCetoNcyomjoGiuUtMeA96COoR5tQBNgBcotIMo9thbqkoNvZTutQQY5rkWS3lkYONLk65sOXHTzJD5Ar1dkdUz8r03wMgsAPiqbIWhidQEMAjgl3phulR4Ohd5NKGidFMFy3aQCjYpiXC4F8mqW4u+wY6T6G80RFqAUcEEeWgzWEyHeameQwth6tLIcmEA7fO9FNkMfjojBrxkNHm3BRk+yH+tOPUU44GzOKzDS2Hd3OS/lQP4uAGCU80S8JcoZaAgv5oC6zAAwrG/1q+I9WcwCqh99chxHLUeqUyuvOb4Pvr75b7fIweOfP/Xxbw8=;5o9BA3NsJeiqAnifFCEoDg=="

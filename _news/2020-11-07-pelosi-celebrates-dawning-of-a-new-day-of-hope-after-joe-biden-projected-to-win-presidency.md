@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ex-ICE chief Homan: 'It's terrible what's about to happen' at border under Joe Biden"
+    excerpt: "Former Immigration and Customs Enforcement (ICE) Director Tom Homan warned that President Trump’s “unprecedented success” in curbing illegal immigration “all goes away” when President-elect Joe Biden takes office saying, “It's terrible what's about to happen to this border.”"
+    publishedDateTime: 2020-11-10T14:36:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sN2_NP1sCeo/tom-homan-biden-will-reverse-trump-immigration-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-homan-biden-will-reverse-trump-immigration-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-biden-will-reverse-trump-immigration-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "s7hzK6BVkwNqh/so7muwzwuBCu94fuOuRTxvsJLkbWe0rerueZvvLihXKTYRGY1fZKiwMRVtyZgc6AlUPsvdiCbTeRm1yYuT7ckqD8omU9sOQ3CBCvWwYoohodrdHbGpIluVVN3ObwahX7O/l1YWMYTUfj5dGz3bNSvPqObhvD6LgOEWfhIrpNC3Rcr6b8KvZAg1sJLfhn81jcDqPvDG7JCHhEbjm7DFCX/oBTdTIsit2yXUmFwva88rIBlMNg2tvrC5M/l97iaD4MNww/Cpb42XphadBaj84zJU4tWo4PDHqQIqJlM3HFoUNloEpBrnpPtoC1ZcMN0hJUc96ZN6DBlQLJZdj5YT6SOcAuafNGI=;fmYiQ0PqB86eWchyi2Wt1A=="
 ---

@@ -603,6 +603,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Trump officials can be heard on leaked audio denying the election results days after President-elect Joe Biden won"
+    excerpt: "USAID Acting Administrator John Barsa reportedly threatened staffers who sought to find another job following Joe Biden's election."
+    publishedDateTime: 2020-11-10T04:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-officials-heard-on-leaked-audio-denying-the-election-results-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/trump-officials-heard-on-leaked-audio-denying-the-election-results-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-heard-on-leaked-audio-denying-the-election-results-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 143
+    images:
+      - url: "https://i.insider.com/5fa9c4b21df1d50018219bc7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Husband likes Biden, wife likes Trump. How the 2020 election is testing families and friendships"
     excerpt: "While this isn’t new – the troupe of an opinionated uncle at the Thanksgiving table does exist for a reason – the fallout families face over these differences has worsened as the discourse around modern American politics has intensified."
     publishedDateTime: 2020-10-21T14:44:00Z
@@ -1483,6 +1499,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump touted the economy; the economy voted for Biden"
+    excerpt: "U.S. President Donald Trump leaned on economic arguments in his reelection bid. The economy favored Democratic challenger Joe Biden."
+    publishedDateTime: 2020-11-10T16:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-gdp/trump-touted-the-economy-the-economy-voted-for-biden-idUSL1N2HW13G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HW13G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HW13G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721678&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91EY"
+        width: 806
+        height: 545
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -2235,22 +2267,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/05/USAT/f1a0fffe-a198-487a-940a-aacfa19f03c1-AP_Election_2020_Protests_Detroit.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump officials can be heard on leaked audio denying the election results days after President-elect Joe Biden won"
-    excerpt: "USAID Acting Administrator John Barsa reportedly threatened staffers who sought to find another job following Joe Biden's election."
-    publishedDateTime: 2020-11-10T04:37:00Z
-    webUrl: "https://www.businessinsider.com/trump-officials-heard-on-leaked-audio-denying-the-election-results-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/trump-officials-heard-on-leaked-audio-denying-the-election-results-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-heard-on-leaked-audio-denying-the-election-results-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 133
-    images:
-      - url: "https://i.insider.com/5fa9c4b21df1d50018219bc7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Lawyers favor Biden in campaign donations, including Trump's re-election firm"
     excerpt: "Lawyers at Jones Day, a firm that has earned millions of dollars as outside counsel to U.S. President Donald Trump's re-election campaign, have donated nearly $90,000 to his Democratic rival Joe Biden's campaign since last year compared to $50 to Trump's campaign,"
@@ -3772,6 +3788,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Biden presses to expand health insurance on uncertain congressional terrain"
+    excerpt: "The president-elect plans to invoke the coronavirus pandemic and the Affordable Care Act’s uncertain future as justifications for his agenda."
+    publishedDateTime: 2020-11-10T14:47:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-health-insurance-plan/2020/11/10/10570b3e-22b3-11eb-8672-c281c7a2c96e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-health-insurance-plan/2020/11/10/10570b3e-22b3-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-health-insurance-plan/2020/11/10/10570b3e-22b3-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45GZBKBCV4I6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump mounts legal assault as Barr authorizes probes of vote irregularities"
     excerpt: "President Donald Trump will push ahead on Tuesday with legal challenges to the results of last week's election after U.S. Attorney General William Barr told federal prosecutors to look into any \"substantial\" allegations of voting irregularities."
     publishedDateTime: 2020-11-10T10:59:00Z
@@ -3803,6 +3835,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/8b4d91cf-761f-43d2-a42f-9dbd9ac1cdb1-AP_Election_2020_Biden_2.jpg?auto=webp&crop=3650,2054,x0,y185&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump mounts legal assault as Barr authorizes probes of vote irregularities"
+    excerpt: "President Donald Trump will push ahead on Tuesday with legal challenges to the results of last week's election after U.S. Attorney General William Barr told federal prosecutors to look into any \"substantial\" allegations of voting irregularities."
+    publishedDateTime: 2020-11-10T16:57:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27Q0L2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540689619&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90W6"
+        width: 796
+        height: 545
         isCached: true
   - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
     excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
@@ -5889,6 +5937,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump dramatically changed the presidency. Here’s a list of the 20 most important norms he broke — and how Biden can restore them"
+    excerpt: "The election was a referendum on Trump’s norm-breaking. We examine what’s been ignored and undermined and why preserving presidential norms is essential."
+    publishedDateTime: 2020-11-10T14:49:00Z
+    webUrl: "https://www.washingtonpost.com/graphics/2020/lifestyle/magazine/trump-presidential-norm-breaking-list/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 91
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://www.washingtonpost.com/resizer/Fm3AbqGJ4NkN-4FO1QT1xYMiqEQ=/arc-anglerfish-washpost-prod-washpost/public/T4EDIHXKOJHKNDWRR3YSCHYF2A.jpg&w=1200"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump does what he says he will do. Joe Biden waffles."
     excerpt: "Worse than his contradictions, Joe Biden is too beholden to the radicals in his party. If he’s elected, we’ll never know who’s really in charge, writes Ed Kovacic of Westlake in a letter to the editor."
     publishedDateTime: 2020-10-03T16:07:00Z
@@ -7038,6 +7100,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "+C4cOYixvLifbB9iXSQwiRwYnnpppgAwtZOKz43UG30rP1I4ksVhFwQSmgM2hlCZWJL7KVSpEsGlfe9McBfJghaTPjCkWwWG0BVZii1xO3524xwZ+02I7hTdcaRzjVidBjq0YZzFOrGgqhHSxKulyo0cyKr1+AzTpNZ84uy5oBjpzChGF6v9Rp93Appc5UJkYXRko9r8qE+pmktKea3PoUvmIUo5+PUQ4IavkkL3EXZ4ky0xFWgcVNCzHZrSomTSaMc9DzCyVx021HS/8WSCa3PG/ekeD/2yuYk92wLNwKdfddk3Hqqnu/zzsihKnyG7EhVO6mEn8ugKO2Jo6q5tdiQ1KJ7q1437fbcReMoZfNc=;/TfrvTNhFyjchujYOf5c1A=="
+secured: "2iXUq2vQRHFzMa+my+HY5slj6H2qhg0wb1hgzWY0hOZfcpX87EsRvfq5Mtu82FeZFxVKJWVyzh1WHa8vNlgONs5fGnwIEO1lZpVdybnjh5Eg7lBFeTt3kagmPBoWuTbZuying7f7O4iAr4bkQDNLZy0CXTgsYjz1SJfsG0VE/wu1durZWFsv2sjDGNVaSkW6XGTTkj+AZ5oRzL8kokiUJh0b852WAXJ/VqKDKJ4NcPVwMF3+nUx3uQwGxPr0HPxvhnqXImbIAHeQw6UeaAq5dMnzRPIxBnoMkRcv0ve33ccy9i004+jlW/nksVdICNnwOC9rXLkk/l9agcx/66X7wem8pqAQ8kMo5Z9j5/8tQBdZ/wYteX1oa1AT45c0U5oEJRhF64OsEVQHZ67XFtr7f8HIP0B5fWUgQeuOXwBUqoV6Wii4FV9UZVI9g7io5ZB0VB80mykOdizUKoVZ8sofWtb84JFddnAOt932rjeGdJYc9GKpgwOAiEZowWyDSid4+P1MAqCtfxyjQ6R/iGyguA==;GqDezDzsowWaK0aj/iosqA=="
 ---
 

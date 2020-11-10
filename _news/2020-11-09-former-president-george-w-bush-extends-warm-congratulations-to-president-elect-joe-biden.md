@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
 type: article
 quality: 115
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "European countries' new coronavirus measures may influence the US' recovery plan being laid out by President-elect Joe Biden"
+    excerpt: "European countries have implemented new coronavirus measures to mitigate economic risk, which may influence Biden's US' recovery plan."
+    publishedDateTime: 2020-11-10T13:55:00Z
+    webUrl: "https://www.businessinsider.com/europe-new-coronavirus-measures-may-influence-us-recovery-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/5f96c971f21803001222be00?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Lnv2CxdvT68FpmzaktKD1D++fdCC6aWV9tqlEtMxIb3/lNVp2ipq4XLmfE6NtKLt+lh/AoJZ7VTZxx6799sR61SQkMnZGLWCMoqBbljTCVUhKQn69y+jhYcGaR3o2Nch7Xf7rZlRih8XyogyhGNpg44BD9PRc/Jjnq/WtYtAxyHL5QWaBYSBW9u+aGlpJJmhFPiyEepbrhNZd0DHDto6G5otS9rLREOzIxPStZMwJrXDYedGwPrrjhaH5ZXiOwH6quV2fCJ6RYo6B1CGbkmtKY+5H9j3bDS8JxHZWPU1KYHN84OLi5PtFlF7k9OS4RXwSUcc3t1DjCJnj2DfIa/TrvD7B6U/O5vWPwvKaZnQJk0e/lDu0kjwUI5/JdyfBZ7J04AlBjLBXaZfxKGlF43qL8nLyaRRukXcFkHK+BmM4u4pzKQ4dqTG2aqlqEkfgshvPAJU3pmqDJOKO7miar8hG9ulubVw58gomRXHmhHaageCb64/yOnnrom+BJyrWycgbNTd4KNLMDgr+84xGeLuGg==;AJnLWkSYfx4P1E8cDlMjeQ=="

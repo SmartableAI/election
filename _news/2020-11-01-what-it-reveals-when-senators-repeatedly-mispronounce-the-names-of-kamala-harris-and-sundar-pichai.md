@@ -75,6 +75,38 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris"
+    excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."
+    publishedDateTime: 2020-11-10T15:19:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article247096792.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article247096792.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article247096792.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c40ec35b-ceac-4134-870a-9fcc454e83ec/c75b6003-d661-4571-9b8c-1c6bd6b3e702/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris | Charlotte Observer"
+    excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."
+    publishedDateTime: 2020-11-10T16:52:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article247096792.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article247096792.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article247096792.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 57
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c40ec35b-ceac-4134-870a-9fcc454e83ec/c75b6003-d661-4571-9b8c-1c6bd6b3e702/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Who will replace Kamala Harris in California? Alex Padilla? Eva Longoria?"
     excerpt: "A group of Latino organizations has lobbied Newsom since August to select Secretary of State Alex Padilla. Such a move would end 170 years without a Latino/a Senator from California. Of course, with wildfires,"
     publishedDateTime: 2020-11-07T17:35:00Z

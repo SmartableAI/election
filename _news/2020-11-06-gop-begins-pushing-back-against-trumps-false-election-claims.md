@@ -1390,6 +1390,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Senate Democrat says Republican colleagues are privately asking him to congratulate Biden on winning election because they can't do so publicly"
+    excerpt: "Delaware Democratic Sen. Chris Coons said Tuesday his Republican colleagues are privately asking him to congratulate President-elect Joe Biden on winning the election because they can't do so publicly.\n    \n"
+    publishedDateTime: 2020-11-10T15:01:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iiK0CqKMYiQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/chris-coons-republicans-joe-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/chris-coons-republicans-joe-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190412142059-chris-coons-democrat-republicans-senate-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden surges ahead of Trump after first debate"
     excerpt: "Joe Biden leads Donald Trump among registered voters by 14 points, his biggest lead in our poll so far: Oct. 4, 2020"
     publishedDateTime: 2020-10-04T13:22:00Z

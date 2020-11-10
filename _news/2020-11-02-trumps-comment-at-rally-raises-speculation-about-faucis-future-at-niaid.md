@@ -239,6 +239,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign presses Georgia to hand count every ballot"
+    excerpt: "Republican Georgia Rep. Doug Collins is calling on his state to conduct a manual recount of the 2020 election, as President Trump and President-elect Joe Biden were roughly 0.2% apart as counting continued Tuesday morning."
+    publishedDateTime: 2020-11-10T15:28:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WM4ATI6UeL8/trump-campaign-georgia-hand-count-every-ballot"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-hand-count-every-ballot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-hand-count-every-ballot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20311597153404-e1605021250668.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Russian hackers 'can't change votes,' Trump's national security adviser says"
     excerpt: "U.S. officials said that Russian hackers have targeted the networks of dozens of state and local governments in the United States in recent days, stealing data from at least two servers."
     publishedDateTime: 2020-10-25T20:30:55Z

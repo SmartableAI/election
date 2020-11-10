@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ex-ICE chief Homan: 'It's terrible what's about to happen' at border under Joe Biden"
+    excerpt: "Former Immigration and Customs Enforcement (ICE) Director Tom Homan warned that President Trump’s “unprecedented success” in curbing illegal immigration “all goes away” when President-elect Joe Biden takes office saying, “It's terrible what's about to happen to this border.”"
+    publishedDateTime: 2020-11-10T14:36:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sN2_NP1sCeo/tom-homan-biden-will-reverse-trump-immigration-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-homan-biden-will-reverse-trump-immigration-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-biden-will-reverse-trump-immigration-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pelosi celebrates 'dawning of a new day of hope' after Joe Biden projected to win presidency"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., released a statement following Joe Biden’s projected win of the presidency celebrating the “dawning of a new day of hope for America.” "
     publishedDateTime: 2020-11-07T18:20:00Z

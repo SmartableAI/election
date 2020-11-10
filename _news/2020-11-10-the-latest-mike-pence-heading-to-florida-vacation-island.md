@@ -21,7 +21,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://www.heraldnews.com/apps/pbcsi.dll/bilde?Site=ZZ&Date=20201109&Category=NEWS&ArtNo=311099982&Ref=AR"
+  - url: "https://www.heraldnews.com/storyimage/ZZ/20201109/NEWS/311099982/AR/0/AR-311099982.jpg?MaxW=600"
     width: 512
     height: 341
     isCached: true
@@ -40,6 +40,22 @@ related:
     quality: 140
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/02/NPPP/5c24e614-5e1a-445b-94a7-cad671b83233-Early_Voting_2020_41.jpg?auto=webp&crop=3617,2035,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election 2020 live updates: Trump forming PAC; Barr OKs voting probe"
+    excerpt: "While not conceding the election, Trump is forming his own PAC to give money to local, state and federal candidates he supports."
+    publishedDateTime: 2020-11-10T16:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/10/election-2020-updates-trump-continues-legal-fight-biden-talks-covid/6231519002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6231519002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6231519002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/1ee1a838-164b-4fbc-b60f-1040fd969561-bidens_flag.jpg?auto=webp&crop=4963,2792,x0,y330&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -389,6 +405,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Ys7W7Vq17nKMXW1O7oBuJC5QURcQ+I7ZSxSvKSDijannHfRNBrhNCw3rZHwoPePmzrL3vhmkITc8+64o2w8BxAwG5MwDJE6ezEekCQSJVmtdXOY8Y6IOb5OLvnCwhpwGbAa5f0NFTL1OzX3b2BOu3SGpXzdAs1qyG1j7kyhino1aFPjcdQQx20xnSD3YeI41txsl8RNlMBSg04SKt8tOpYy0nPHnHJEekvvFd9w29S/peJOxMJf1yLPsVmrA0zsxUAGwwx+xmzZDckplJax+rn3xSl7z6beyDCbbbeXRgnItbgUfaKxMve5N0L2FX5csG+92o6mDyxk+pkedkiyiEPCv9FGzCOa+eu1KhskH0W+PO6yCnRoE3qDNgXtvaF4OiHcSoT8W8kDvnioRMF7rn+40kWMvy06hwWbQUcCtXplZkheSWulu525mB8Zo/DJBudFYSbRWUKVvhSnfkKZxr9LcJFf5tpbFDXOq8jEa0b3fr+awEVoXFQWID+faTBHqMOMderkR02RVLi8iTZf+rA==;cVTZnwDQBTLrerIT9aU+6g=="
+secured: "xi+Mv0ORffZGmjWBPVgoB1K8V5COsEu8Y1EwGslINtbf7QPIcdA8566UE8GGMcVgptIJ1IzUop0TCzEGdQC0E9qE1qllcEUilSLoymv/hwIWFMSfoEQJA5tJJ4HpBLHElsu0LgsOsSIHzGIfAXEFUwHUYTrH5qGYUmEDytKQGFuQyqpv+XyrPu4mSs/e5rTaktJRv2skvPCwZhzRQxmvS+lvhy3sJ+PLHwA/3NYlycLkAvA7BMB/wjOG52v/k6cnclYoS4fd2MBAQ89npc1rh/Ardx1m07LtojW9uBVqxnTqnpApdsmIkE/AoM9BuoA4fw0GLJAEal7QaqRE9KaPABOWHW2YwPDW0H1ZoyBqtCI=;dPNA5+WOLYbfQYiuQlV58Q=="
 ---
 

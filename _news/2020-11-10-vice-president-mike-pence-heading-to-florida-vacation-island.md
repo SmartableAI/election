@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mike Pence heading to Florida vacation island for the rest of the week"
+    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
+    publishedDateTime: 2020-11-09T16:08:00Z
+    webUrl: "https://fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/"
+    ampWebUrl: "https://fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/amp/"
+    cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/amp/"
+    type: article
+    provider:
+      name: FOX40
+      domain: fox40.com
+    quality: 75
+    images:
+      - url: "https://fox40.com/wp-content/uploads/sites/13/2020/11/pence2b.jpg?w=1280"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence to go on vacation"
     excerpt: "According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday. Pence has vacationed on the island along Florida’s Gulf Coast several times previously."
     publishedDateTime: 2020-11-09T19:43:00Z
