@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-15
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -277,6 +277,20 @@ related:
       - url: "https://www.heraldnet.com/wp-content/uploads/2020/10/23074911_web1_TSR-201022-edh-opi-EndorseBiden2.jpg"
         width: 1302
         height: 868
+        isCached: true
+  - title: "Biden: It’s time to stand up and take back our democracy"
+    excerpt: "DALLAS — Vice President Joe Biden, his wife, Jill Biden, and Rock and Roll Hall of Famer Bon Jovi are participating in a drive-in campaign event 3 p.m. Saturday at Dallas High School."
+    publishedDateTime: 2020-10-25T20:52:00Z
+    webUrl: "https://www.citizensvoice.com/news/election/biden-it-s-time-to-stand-up-and-take-back-our-democracy/article_55d5fb96-9a63-51e6-8bc4-7794cf5d6053.html"
+    type: article
+    provider:
+      name: Citizen's Voice
+      domain: citizensvoice.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/citizensvoice.com/content/tncms/assets/v3/editorial/d/04/d0408d6a-42a7-5cae-a8d0-dc736d3a2e96/5f94982a032c8.image.jpg?resize=840%2C630"
+        width: 840
+        height: 630
         isCached: true
   - title: "Joe Biden Says He Plans to Push New Health Care Legislation If Elected"
     excerpt: "Speaking to reporters after voting in Wilmington, Delaware, Joe Biden says he has new legislation ready to go, if elected, that would improve the Obama-era Affordable Care Act that includes a public option and reduces prescription drug prices."

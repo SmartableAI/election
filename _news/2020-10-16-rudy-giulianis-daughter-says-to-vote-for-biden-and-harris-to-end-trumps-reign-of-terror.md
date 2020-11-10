@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 1865
+heat: 1885
 published: true
 
 provider:
@@ -991,6 +991,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Dialed down, Biden, Trump clash over Covid-19 response, fracking in final debate"
+    excerpt: "The final debate between President Donald Trump and former Vice President Joe Biden was a departure from the rancorous first clash in Cleveland. Instead, the two candidates sparred over federal ..."
+    publishedDateTime: 2020-10-22T22:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-prepare-final-bout-debate-focus-covid-19-race-n1244360"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244360"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244360"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421567/201020-presidential-debate-main-bar-cs_0d3f2497cd6524135c5b27e46d8662a1.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "With Biden-Harris victory, SNL takes parting shots at Donald Trump"
     excerpt: "Live” celebrated President-elect Biden’s victory. Trump sings “Macho Man” in defeat and Jim Carrey reprises Ace Ventura."

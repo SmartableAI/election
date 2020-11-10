@@ -991,6 +991,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Dialed down, Biden, Trump clash over Covid-19 response, fracking in final debate"
+    excerpt: "The final debate between President Donald Trump and former Vice President Joe Biden was a departure from the rancorous first clash in Cleveland. Instead, the two candidates sparred over federal ..."
+    publishedDateTime: 2020-10-22T22:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-prepare-final-bout-debate-focus-covid-19-race-n1244360"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244360"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244360"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421567/201020-presidential-debate-main-bar-cs_0d3f2497cd6524135c5b27e46d8662a1.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "With Biden-Harris victory, SNL takes parting shots at Donald Trump"
     excerpt: "Live” celebrated President-elect Biden’s victory. Trump sings “Macho Man” in defeat and Jim Carrey reprises Ace Ventura."
     publishedDateTime: 2020-11-08T17:42:00Z

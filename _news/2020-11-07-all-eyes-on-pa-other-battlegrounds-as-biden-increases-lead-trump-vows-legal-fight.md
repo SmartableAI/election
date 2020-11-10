@@ -351,6 +351,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden transition team not ruling out legal action if Trump admin doesn't cooperate"
+    excerpt: "A transition official told Fox News the Biden transition team isn't taking legal action off the table to ensure a smooth transition from Trump's administration."
+    publishedDateTime: 2020-11-10T08:56:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/prqMAtunrs0/biden-transition-team-not-ruling-out-legal-action-if-trump-admin-doesnt-cooperate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-team-not-ruling-out-legal-action-if-trump-admin-doesnt-cooperate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-team-not-ruling-out-legal-action-if-trump-admin-doesnt-cooperate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20314637667262.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump claims Dems are trying to 'steal' election, says he'll win if 'legal votes' are counted"
     excerpt: "A defiant President Trump on Thursday said he and his campaign will “not allow corruption to steal” the election during a press conference at the White House, while maintaing that he will win the 2020 presidential race despite a dwindling path toward reelection as votes continue to come in."
     publishedDateTime: 2020-11-06T01:33:44Z
@@ -1018,6 +1034,20 @@ related:
       - url: "http://m.wsj.net/video/20201109/110920gopreax2/110920gopreax2_1280x720.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden Weighs Legal Action to Force Trump Administration to Recognize Win"
+    excerpt: "President-elect Joe Biden’s transition team is considering legal action if the Trump administration doesn’t formalize Mr. Biden’s win and give him access to crucial government resources. The General Services Administration,"
+    publishedDateTime: 2020-11-10T10:36:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/wAHSpKqHqtGFucQhwbur"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 129
+    images:
+      - url: "https://images.wsj.net/im-257657?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Trump campaign predicts victory as early as Friday: 'Donald Trump is alive and well'"
     excerpt: "President Trump's campaign remained confident Thursday, predicting not only that the incumbent Republican will win the 2020 election, but that the result could become apparent as soon as Friday."

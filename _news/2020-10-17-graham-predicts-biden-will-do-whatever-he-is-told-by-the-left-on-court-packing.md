@@ -913,6 +913,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Longstanding claims of Biden corruption all but confirmed with Hunter’s emails"
+    excerpt: "As the New York Post reported, emails on Hunter Biden’s hard drive reveal that on April 16, 2015, Joe Biden met with a high-level official of a controversial Ukrainian energy company, Burisma ..."
+    publishedDateTime: 2020-10-24T18:38:00Z
+    webUrl: "https://nypost.com/2020/10/24/biden-corruption-claims-all-but-confirmed-with-hunter-emails/"
+    ampWebUrl: "https://nypost.com/2020/10/24/biden-corruption-claims-all-but-confirmed-with-hunter-emails/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/24/biden-corruption-claims-all-but-confirmed-with-hunter-emails/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/joe-biden-70.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Michael Moore tells progressives Biden could be pressured to pass Medicare-for-all"
     excerpt: "Filmmaker Michael Moore urged backers of Sen. Bernie Sanders to get out and vote for Democratic presidential nominee Joe Biden, arguing they could help push the former vice president leftward to pass progressive priorities like Medicare-for-all."
     publishedDateTime: 2020-10-21T20:17:00Z

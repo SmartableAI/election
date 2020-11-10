@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
 type: article
 quality: 197
-heat: 857
+heat: 877
 published: true
 
 provider:
@@ -383,6 +383,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427057/201109-kamala-harris-se-115p_098c1eeb5120d5f52c86b5f55ddad42e.jpg"
         width: 2500
         height: 1731
+        isCached: true
+  - title: "Kamala Harris’ ancestral village in India celebrates her success"
+    excerpt: "Kamala Harris’ ancestral village in India lit fireworks and played music to celebrate the California politician’s success in the U.S. elections. Harris, who will become Vice President, has Indian and Jamaican heritage,"
+    publishedDateTime: 2020-11-10T10:49:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-ancestral-village-in-indian-celebrates-politicians-success-95555141952"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95555141952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95555141952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/India-celebrations-thumbnail.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote"
     excerpt: "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”"

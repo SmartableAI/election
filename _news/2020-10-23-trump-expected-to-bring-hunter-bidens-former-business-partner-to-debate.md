@@ -1471,6 +1471,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump campaign sues to halt Pennsylvania from certifying Biden win"
+    excerpt: "U.S. President Donald Trump's campaign on Monday filed a lawsuit in a Pennsylvania federal court, seeking to block state officials from certifying President-elect Joe Biden's victory in the state."
+    publishedDateTime: 2020-11-10T05:23:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-pennsylvania-lawsuit-idUKKBN27P30J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P30J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P30J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540621733&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81XY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Final presidential Trump-Biden debate scores more than 55 million viewers"
     excerpt: "The final number for the first debate on Sept. 29 was 73.1 million viewers. Second presidential debates typically draw a smaller audience than the first."
     publishedDateTime: 2020-10-23T19:42:00Z
@@ -3461,6 +3477,38 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Despite Biden win, Senate and Electoral College need reform"
+    excerpt: "Barring some unimaginably potent Trumpian intervention, Joe Biden will become America’s 46th president. That does not mean the nation should rest easy. Four years of chaos culminating with Donald Trump refusing to concede have laid bare the fragility of our republic."
+    publishedDateTime: 2020-11-10T10:16:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/11/10/outdated-constitutional-relics-systems-government-need-reform-column/6212746002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6212746002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6212746002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump books will continue after the president leaves office"
+    excerpt: "One of publishing's most thriving genres of the past four years, books about President Donald Trump, is not going to end when he leaves office."
+    publishedDateTime: 2020-11-10T00:13:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/11/09/donald-trump-books-continue-after-president-leaves-office/6229112002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6229112002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6229112002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mexico president sees no beef with Biden, waits to send congratulations"
     excerpt: "Mexico's president on Monday reiterated he would not recognize the U.S. presidential election winner until pending legal disputes are resolved, but said he had no problem with Joe Biden, who many world leaders have already have congratulated."
     publishedDateTime: 2020-11-09T16:24:00Z
@@ -3476,6 +3524,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540554565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA818P"
         width: 817
         height: 545
+        isCached: true
+  - title: "The world recognizes Joe Biden as the president-elect"
+    excerpt: "Joe Biden made vague references to restoring respect for the United States in the world. President Trump made vague references to the great deals he had cut. None of this is surprising. Tip O’Neill’s famous aphorism is “all politics is local,"
+    publishedDateTime: 2020-11-09T17:00:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/11/09/world-recognizes-joe-biden-president-elect/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/09/world-recognizes-joe-biden-president-elect/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/09/world-recognizes-joe-biden-president-elect/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/INYQOLRB5YI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
@@ -3662,6 +3726,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540411977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA703U"
         width: 816
+        height: 545
+        isCached: true
+  - title: "Trump mounts legal assault as Barr authorizes probes of vote irregularities"
+    excerpt: "President Donald Trump will push ahead on Tuesday with legal challenges to the results of last week's election after U.S. Attorney General William Barr told federal prosecutors to look into any \"substantial\" allegations of voting irregularities."
+    publishedDateTime: 2020-11-10T10:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Q0L4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Q0L4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Q0L4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540680206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90D1"
+        width: 787
         height: 545
         isCached: true
   - title: "What will a Biden presidency mean for travel? Here's what changes to expect"
@@ -5796,6 +5876,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "8 Highlights From Second Biden-Trump Debate"
+    excerpt: "President Donald Trump and his challenger, former Vice President Joe Biden, clashed Thursday night in the second and final presidential debate before the Nov. 3 election. Trump and Biden traded ..."
+    publishedDateTime: 2020-10-23T00:00:00Z
+    webUrl: "https://www.dailysignal.com/2020/10/23/8-highlights-from-the-second-biden-trump-debate/"
+    ampWebUrl: "https://www.dailysignal.com/2020/10/23/8-highlights-from-the-second-biden-trump-debate/amp/"
+    cdnAmpWebUrl: "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2020/10/23/8-highlights-from-the-second-biden-trump-debate/amp/"
+    type: article
+    provider:
+      name: The Daily Signal
+      domain: dailysignal.com
+    quality: 90
+    images:
+      - url: "https://www.dailysignal.com/wp-content/uploads/201022_Debate_Staff-1.jpg"
+        width: 1250
+        height: 600
         isCached: true
   - title: "The Latest: Final Trump-Biden presidential debate begins"
     excerpt: "The second and final presidential debate of the 2020 election has begun. President Donald Trump and his Democratic challenger, Joe Biden, are facing off Thursday night in Nashville, Tennessee, more than three weeks after their first debate."

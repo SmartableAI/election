@@ -400,6 +400,22 @@ related:
         width: 2500
         height: 1731
         isCached: true
+  - title: "Kamala Harris’ ancestral village in India celebrates her success"
+    excerpt: "Kamala Harris’ ancestral village in India lit fireworks and played music to celebrate the California politician’s success in the U.S. elections. Harris, who will become Vice President, has Indian and Jamaican heritage,"
+    publishedDateTime: 2020-11-10T10:49:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-ancestral-village-in-indian-celebrates-politicians-success-95555141952"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95555141952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95555141952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/India-celebrations-thumbnail.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris’ ancestral village in Indian celebrates politicians success"
     excerpt: "Kamala Harris’ ancestral village in Indian lit fireworks and played music to celebrate the California politician’s success in the U.S. elections. Harris, who will become Vice President, has Indian and Jamaican heritage,"
     publishedDateTime: 2020-11-09T00:08:00Z

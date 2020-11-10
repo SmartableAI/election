@@ -326,6 +326,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "The Latest: Mike Pence heading to Florida vacation island"
+    excerpt: "WASHINGTON (AP) \" The Latest on President-elect Joe Biden (all times local): 9 p.m. International observers from the Organization of American States"
+    publishedDateTime: 2020-11-10T03:52:00Z
+    webUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote"
+    ampWebUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
+    cdnAmpWebUrl: "https://www-heraldnews-com.cdn.ampproject.org/c/s/www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
+    type: article
+    provider:
+      name: The Herald News
+      domain: heraldnews.com
+    quality: 75
+    images:
+      - url: "https://www.heraldnews.com/apps/pbcsi.dll/bilde?Site=ZZ&Date=20201109&Category=NEWS&ArtNo=311099982&Ref=AR"
+        width: 512
+        height: 341
+        isCached: true
   - title: "ELECTION UPDATE: Joe Biden's lead in Arizona tightens in updated results"
     excerpt: "Former Vice President Joe Biden kept his lead in Arizona over President Donald Trump, but with a more narrow margin following the latest results posted overnight. The results posted early Thursday morning were mostly mail ballots from Maricopa County that had been dropped off at vote centers on Tuesday."
     publishedDateTime: 2020-11-05T12:30:00Z
@@ -376,20 +392,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "The Latest: Mike Pence heading to Florida vacation island"
-    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
-    publishedDateTime: 2020-11-09T16:48:00Z
-    webUrl: "https://www.wsoctv.com/news/politics/latest-mike-pence/6OSLBP2S4CBICWJBNASXNXTL6Q/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
-    images:
-      - url: "https://www.wsoctv.com/resizer/8MfBsRjHRaOrzP5ejrWW1wnjODs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/MUQ5NPQXWVZFWDTHREQEMOYH7U.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "n5aJs5SoN3nNjz2rXFQ+mSv6/n6ObNUXIqsA1A7Iq+5ICWhQCmR8c6b9Dyjn5h6XMqOM3AL7rlg/dFgIk9G0LGVmLVbuhgFcNPIpHtQanWfRAuQsceNLBhex7ndnHSWqN5s7pmLV8Uh01xaqAbYTUrIMd6DzySBfacaOY0nPyBlZDr/vspaq9+tYHKc9mItILpjVk9wtya8933XjEcwJ1U3A8Nn1nwA7wm4bURFXZYo1LwLx7dxQJbIw1yeSnU2jri4R5BLHakL/wO4O8zB1yXEoU5tdtP1aampzLsdTuKyJQVZGbELBVhJBxnqqVVGSOdAZAVzi1tbYoGE+4cCvmLnsl+IczQKIF2kjAc7NyaY=;Epx4CSh0FxZb8nS7q/mF/g=="
 ---

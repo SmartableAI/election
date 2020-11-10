@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "'I am home': Biden’s roots could run from a Scranton kitchen table to the presidency"
+    excerpt: "SCRANTON – This is where Joe Biden said he learned everything he needed to know about politics. The general election on Nov. 3 will determine if North Washington Avenue is just the leafy street ..."
+    publishedDateTime: 2020-10-23T18:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/joe-bidens-scranton-pennsylvania-roots-could-stretch-to-the-white-house/6007590002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6007590002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007590002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/PPYR/b096941f-08b7-402c-bef2-164059312d2f-HES-DR-101420-scranton-07.jpg?auto=webp&crop=3507,1973,x0,y116&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Black lives matter': Navy SEAL who oversaw bin Laden raid says he voted for Joe Biden"
     excerpt: "The retired Navy SEAL did not specifically name President Trump, but ended the op-ed by saying \"I voted for Joe Biden.\""
     publishedDateTime: 2020-10-21T05:12:00Z

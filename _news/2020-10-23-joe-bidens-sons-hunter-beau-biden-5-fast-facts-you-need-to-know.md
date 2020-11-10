@@ -564,6 +564,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden makes the case for why he should be president"
+    excerpt: "When we spoke with Joe Biden this past week in Wilmington, Delaware, the former vice president was ahead in the polls, but confronting a withering final assault from President Trump. As the ..."
+    publishedDateTime: 2020-10-25T00:01:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-democratic-presidential-candidate-kamala-harris-60-mintues-interview-norah-odonnell-2020-10-25/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-democratic-presidential-candidate-kamala-harris-60-mintues-interview-norah-odonnell-2020-10-25/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-democratic-presidential-candidate-kamala-harris-60-mintues-interview-norah-odonnell-2020-10-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/25/a8177534-6d8a-4a43-bded-162b972b0420/thumbnail/1200x630/7d29cdd8a46ad0811b779d83e9b604ef/bidenarticle0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Man accused of stealing bulldozer to tear down Biden signs in Florida"
     excerpt: "A man is facing charges of grand theft and trespassing after police say he stole a bulldozer from a construction site and drove around Haines City, Fla., destroying signs supporting former Vice President Joe Biden's (D) campaign."
     publishedDateTime: 2020-10-26T16:50:00Z
@@ -2178,6 +2194,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Here’s Who Biden Is Considering for Top Jobs in His Administration"
+    excerpt: "This group, made up of people like former Delaware senator Ted Kaufman and former Barack Obama economic adviser Jeffrey Zients, are helping steer Joe Biden’s presidential transition team."
+    publishedDateTime: 2020-10-23T11:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/10/who-biden-is-considering-for-top-jobs-if-he-wins.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/10/who-biden-is-considering-for-top-jobs-if-he-wins.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/who-biden-is-considering-for-top-jobs-if-he-wins.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/715/414/714c9a8ee629750b05cdff96709a683788-joe-biden-cabinet-3.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "3 Important Social Security Changes That Joe Biden Wants to Make"
     excerpt: "The Democratic presidential candidate has big plans for Social Security. Here are a few key points all voters should know about."
     publishedDateTime: 2020-10-24T11:36:00Z
@@ -2721,6 +2753,22 @@ related:
       - url: "https://media.glamour.com/photos/5f906c0f19d32117ccce71f2/master/pass/l_s.jpg"
         width: 3200
         height: 1800
+        isCached: true
+  - title: "Biden in the White House will need to keep his own house in order, and that means his family"
+    excerpt: "Hunter Biden, son of Democratic presidential nominee Joe Biden, addresses the virtual Democratic National Convention on Aug. 20. Getty Images I need to get something off my chest before the election."
+    publishedDateTime: 2020-10-23T21:34:00Z
+    webUrl: "https://chicago.suntimes.com/columnists/2020/10/23/21531063/joe-biden-hunter-biden-jim-biden-donald-trump-burisma-ukraine-ethics-presidential-election"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/columnists/2020/10/23/21531063/joe-biden-hunter-biden-jim-biden-donald-trump-burisma-ukraine-ethics-presidential-election"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/columnists/2020/10/23/21531063/joe-biden-hunter-biden-jim-biden-donald-trump-burisma-ukraine-ethics-presidential-election"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 64
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/f1uCI5Qxe0-dRbFqYLNOib7adB0=/0x0:5120x2880/1400x1050/filters:focal(2151x1031:2969x1849):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67680600/1267429364.jpg.0.jpg"
+        width: 1400
+        height: 1050
         isCached: true
   - title: "Will Kamala Harris increase turnout among Black voters? Some Democrats see encouraging signs"
     excerpt: "Democratic vice presidential candidate Kamala Harris hosted a drive-in rally at Morehouse College, an historic Black school. On Saturday, she visited Cleveland, where she gave a rousing shout-out to Rep."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-to-stump-for-biden-less-than-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp"
 type: article
 quality: 190
-heat: 1770
+heat: 1790
 published: true
 
 provider:
@@ -895,6 +895,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6a46028-f3c3-4be2-9d43-54f48ffdfdbb/c6a46efd-f929-44a8-8804-82814e2e51dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Longstanding claims of Biden corruption all but confirmed with Hunter’s emails"
+    excerpt: "As the New York Post reported, emails on Hunter Biden’s hard drive reveal that on April 16, 2015, Joe Biden met with a high-level official of a controversial Ukrainian energy company, Burisma ..."
+    publishedDateTime: 2020-10-24T18:38:00Z
+    webUrl: "https://nypost.com/2020/10/24/biden-corruption-claims-all-but-confirmed-with-hunter-emails/"
+    ampWebUrl: "https://nypost.com/2020/10/24/biden-corruption-claims-all-but-confirmed-with-hunter-emails/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/24/biden-corruption-claims-all-but-confirmed-with-hunter-emails/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/joe-biden-70.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
     excerpt: "Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,"

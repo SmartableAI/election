@@ -2504,6 +2504,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden Accuses Trump of Using Russian ‘Plant’ in Final Debate"
+    excerpt: "Democratic challenger Joe Biden accused President Trump of trafficking in Russian disinformation in the final debate on Thursday, and asked Americans to weigh each candidate’s character in ..."
+    publishedDateTime: 2020-10-23T14:15:00Z
+    webUrl: "https://variety.com/2020/tv/news/donald-trump-joe-biden-covid-coronavirus-debate-1234813873/#!"
+    ampWebUrl: "https://variety.com/2020/tv/news/donald-trump-joe-biden-covid-coronavirus-debate-1234813873/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/tv/news/donald-trump-joe-biden-covid-coronavirus-debate-1234813873/amp/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 90
+    images:
+      - url: "https://variety.com/wp-content/uploads/2020/10/AP20297044686582.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Donald Trump Jr. attacks Joe Biden to cheers at Volusia Top Gun"
     excerpt: "Donald Trump Jr. ripped into Joe Biden for most of the 30 minutes he spoke Wednesday at Volusia Top Gun, a shooting range/bar in Daytona Beach."
     publishedDateTime: 2020-10-29T12:08:00Z
