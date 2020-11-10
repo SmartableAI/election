@@ -90,6 +90,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Douglas Emhoff, Harris' husband, to sever ties with law firm by Inauguration Day"
+    excerpt: "Douglas Emhoff, the husband of Vice President-elect Kamala Harris, will sever all ties with his law firm DLA Piper by Inauguration Day, according to a campaign spokesperson.\n    \n"
+    publishedDateTime: 2020-11-10T20:49:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W4aqWbhPVHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/douglas-emhoff-law-firm/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/douglas-emhoff-law-firm/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110145840-harris-emhoff-0812-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
     excerpt: "Michelle Arrington was on a plane headed to a beach reunion with her Alpha Kappa Alpha Sorority sisters Saturday when American history happened.\n    \n"
     publishedDateTime: 2020-11-08T22:19:59Z

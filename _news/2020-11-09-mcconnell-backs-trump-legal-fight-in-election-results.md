@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-legal-fight-electio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp"
 type: article
 quality: 190
-heat: 470
+heat: 490
 published: true
 
 provider:
@@ -228,6 +228,20 @@ related:
     quality: 115
     images:
       - url: "https://images.wsj.net/im-257589?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "More GOP Senators Side With McConnell, Trump"
+    excerpt: "More GOP senators sided with Majority Leader Mitch McConnell’s position on President Trump's continuing election challenge and said they saw no risk that the Kentucky Republican had damaged future negotiations with President-elect Joe Biden."
+    publishedDateTime: 2020-11-10T18:49:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/A2xEt3NxOxRpgsE2ab9a"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-257910?size=1.5"
         width: 1280
         height: 853
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
 type: article
 quality: 197
-heat: 877
+heat: 897
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107203713-07-biden-harris-address-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Douglas Emhoff, Harris' husband, to sever ties with law firm by Inauguration Day"
+    excerpt: "Douglas Emhoff, the husband of Vice President-elect Kamala Harris, will sever all ties with his law firm DLA Piper by Inauguration Day, according to a campaign spokesperson.\n    \n"
+    publishedDateTime: 2020-11-10T20:49:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W4aqWbhPVHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/douglas-emhoff-law-firm/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/douglas-emhoff-law-firm/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110145840-harris-emhoff-0812-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

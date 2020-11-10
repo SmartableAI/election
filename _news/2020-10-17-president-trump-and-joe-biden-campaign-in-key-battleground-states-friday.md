@@ -3293,6 +3293,20 @@ related:
       name: Time
       domain: time.com
     quality: 120
+  - title: "Joe Biden and Kamala Harris: The Post’s Stories"
+    excerpt: "With the Democrat’s win on Nov. 7, Biden will resume a decades-long career in public service, while Sen. Kamala D. Harris (D-Calif.) will become the first Black and Asian American female vice president. We’ve compiled some of our most deeply reported ..."
+    publishedDateTime: 2020-11-10T16:52:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/11/10/biden-harris-background/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/resizer/w29vakFJD5g-rcE8gEB8MYQHFNc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SGF7KP6EHJHHHNUEX6ZM2T5XUQ.jpg"
+        width: 1484
+        height: 989
+        isCached: true
   - title: "2 days before final debate, Trump shuns formal practice in favor of Pennsylvania rally as Biden holes up for prep"
     excerpt: "Trump, trailing in polls in most battleground states, continued his travel blitz in the race’s final fortnight."
     publishedDateTime: 2020-10-21T01:19:00Z

@@ -19,6 +19,22 @@ topics:
   - Mike Pence
 
 related:
+  - title: "Vice President Mike Pence expected in Sanibel on Tuesday"
+    excerpt: "An FAA alert suggests that Pence's visit will span Tuesday through Saturday. Pence has a long history of vacationing on the island."
+    publishedDateTime: 2020-11-10T20:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/2020/11/10/mike-pence-visiting-lee-county-florida/6226614002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6226614002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226614002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/06/02/PFTM/b0ded584-03ed-4b97-b26a-18363eead202-pence.jpg?auto=webp&crop=599,337,x1,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election over, Mike Pence headed to Sanibel"
     excerpt: "According to the Federal Aviation Administration, Pence is set to visit the island off Fort Myers from Tuesday through Saturday."
     publishedDateTime: 2020-11-09T17:20:00Z
@@ -35,37 +51,19 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Mike Pence heading to Florida for some time off"
-    excerpt: "Vice President Mike Pence appears ready to take some time off a week after the election and is scheduled to travel to Sanibel this week."
-    publishedDateTime: 2020-11-09T20:30:00Z
-    webUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
+  - title: "Vice President Mike Pence Attends Republican Luncheon"
+    excerpt: "United States Vice President Mike Pence walks with Becky Schaaf, Protocol Officer U.S. Senate Sergeant of Arms out of the Republican Policy lunch on Capitol Hill in Washington, DC on Tuesday, November 10,"
+    publishedDateTime: 2020-11-10T20:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8cc7194d3a31d11d7aa74677c657a354/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 75
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://www.orlandosentinel.com/resizer/QdFXkmhBXzHQxxU8fmvKKjwxr2w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEX4UHCYTJSBVUHFJBBID32F7M.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Mike Pence heading to Florida vacation island for the rest of the week"
-    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
-    publishedDateTime: 2020-11-09T16:08:00Z
-    webUrl: "https://fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/"
-    ampWebUrl: "https://fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/amp/"
-    cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/amp/"
-    type: article
-    provider:
-      name: FOX40
-      domain: fox40.com
-    quality: 75
-    images:
-      - url: "https://fox40.com/wp-content/uploads/sites/13/2020/11/pence2b.jpg?w=1280"
-        width: 1200
-        height: 630
+      - url: "https://cdnph.upi.com/pv/upi/8cc7194d3a31d11d7aa74677c657a354/REBUBLICAN-POLICY-LUNCH.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Vice President Mike Pence heading to Florida vacation island"
     excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Fla., from Tuesday through Saturday."

@@ -175,6 +175,22 @@ related:
         width: 782
         height: 545
         isCached: true
+  - title: "Biden calls Trump's refusal to concede election an 'embarrassment'"
+    excerpt: "Elect Joe Biden said on Tuesday that he thinks it is an \"embarrassment\" that President Donald Trump has not conceded the election."
+    publishedDateTime: 2020-11-10T20:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-trump-idUSKBN27Q35L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q35L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q35L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540753912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91VK"
+        width: 873
+        height: 545
+        isCached: true
   - title: "Trump, Biden vie for votes in battleground Pennsylvania as election nears"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania on Monday, while Democrat Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
     publishedDateTime: 2020-10-27T01:22:00Z
@@ -462,6 +478,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/06/USAT/454493ca-7224-4439-b619-49085d0f9232-USP_News__Pence_Wisconsin.jpg?auto=webp&crop=3084,1735,x1,y144&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Factbox: Trump campaign sues Pennsylvania to stop Biden win, adds to election lawsuits"
+    excerpt: "U.S. President Donald Trump's campaign sued Pennsylvania Secretary of State Kathy Boockvar on Monday to prevent her from certifying Democratic challenger Joe Biden as the winner of the state's 20 electoral votes in last week's presidential election."
+    publishedDateTime: 2020-11-10T18:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-legal-challenges-factbox/factbox-trump-campaign-sues-pennsylvania-to-stop-biden-win-adds-to-election-lawsuits-idUSKBN27Q2VS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2VS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2VS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 147
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540742265&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91ON"
+        width: 811
+        height: 545
         isCached: true
   - title: "Election 2020 live updates: Biden takes lead over Trump in battleground state of Georgia"
     excerpt: "Democrat Joe Biden is now leading President Donald Trump in the battleground state of Georgia. By Friday morning, Biden overtook Trump in the number of ballots counted in the battleground, a must-win state for Trump that has long been a Republican stronghold."
@@ -2095,6 +2127,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. Republicans hint at limited time for Trump to make his post-election case"
+    excerpt: "Top Republicans in the U.S. Congress for now are supporting President Donald Trump's attempt to challenge President-elect Joe Biden's victory, but some senior aides said Trump must soon produce significant evidence or exit the stage."
+    publishedDateTime: 2020-11-10T20:24:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Q350"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q350"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q350"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540757430&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91UX"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump, Biden frame closing appeals for sprint to election"
     excerpt: "Their final debate behind them, President Donald Trump and Democrat Joe Biden are packaging their divergent personal styles and policy prescriptions into closing messages for the final sprint to Election Day."
     publishedDateTime: 2020-10-24T21:01:00Z
@@ -3589,6 +3637,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Ukraine eyes seat at Biden inauguration despite impeachment saga"
+    excerpt: "Ukraine hopes to receive an invitation to President-elect Joe Biden's inauguration, a presidential adviser told Reuters, with Kyiv betting its attempts to stay neutral in last year's U.S. impeachment saga will pay dividends."
+    publishedDateTime: 2020-11-10T16:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-ukraine-idUSKBN27Q2IV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2IV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2IV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540723178&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91GO"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
     publishedDateTime: 2020-11-02T08:20:00Z
@@ -4974,6 +5038,22 @@ related:
         width: 1164
         height: 582
         isCached: true
+  - title: "Trump to create a political action committee that he can use to retain power over Republicans"
+    excerpt: "Trump has told aides he's considering running for president in 2024. The PAC could help fund some of his political activity for the next few years."
+    publishedDateTime: 2020-11-10T16:59:00Z
+    webUrl: "https://www.businessinsider.com/trump-will-create-political-action-committee-retain-gop-power-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-will-create-political-action-committee-retain-gop-power-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-will-create-political-action-committee-retain-gop-power-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5faab0d31df1d50018219d38?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump holds 5 rallies in 4 swing states in bid to woo last-minute Election Day votes"
     excerpt: "With Election Day finally here, President Trump spent Monday in a final attempt to win over swing state voters. The president says he's confident, but he is also threatening legal action in some states if results are not announced on Election Day."
     publishedDateTime: 2020-11-03T22:33:00Z
@@ -5664,6 +5744,36 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WK43OKRC7QI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 922
+        isCached: true
+  - title: "Pompeo: US ready for transition to 2nd Trump term"
+    excerpt: "Secretary of State Mike Pompeo is brushing aside results of last week’s presidential election, saying with a grin that the “transition” to a second Trump term would be “smooth,” before saying the State Department is ready for any eventuality."
+    publishedDateTime: 2020-11-10T20:03:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/10/pompeo-us-ready-transition-2nd-trump-term/6238851002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9756901c-8b74-48d5-9d05-5adef2637c40_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
+    excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
+    publishedDateTime: 2020-11-10T20:21:00Z
+    webUrl: "https://www.businessinsider.com/pompeo-smooth-transition-2nd-trump-administration-joke-video-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pompeo-smooth-transition-2nd-trump-administration-joke-video-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pompeo-smooth-transition-2nd-trump-administration-joke-video-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5faaef93f7d1cb0019e3af11?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden moves ahead in Georgia and Pennsylvania, moving closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to"

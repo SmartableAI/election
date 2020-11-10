@@ -9,8 +9,8 @@ ampWebUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-san
 cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: Orlando Sentinel
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Election over, Mike Pence headed to Sanibel"
-    excerpt: "According to the Federal Aviation Administration, Pence is set to visit the island off Fort Myers from Tuesday through Saturday."
-    publishedDateTime: 2020-11-09T17:20:00Z
-    webUrl: "https://www.tampabay.com/news/nation-world/2020/11/09/election-over-mike-pence-headed-to-sanibel/"
-    ampWebUrl: "https://www.tampabay.com/news/nation-world/2020/11/09/election-over-mike-pence-headed-to-sanibel/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2020/11/09/election-over-mike-pence-headed-to-sanibel/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 90
-    images:
-      - url: "https://www.tampabay.com/resizer/SHJv7SE6gvMwOnk29GmDooUckK0=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/3P66GXS2INHWFLRANO2RQSHNTI.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Mike Pence heading to Florida vacation island for the rest of the week"
     excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
     publishedDateTime: 2020-11-09T16:08:00Z
@@ -59,24 +43,54 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pence to go on vacation"
-    excerpt: "According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday. Pence has vacationed on the island along Florida’s Gulf Coast several times previously."
-    publishedDateTime: 2020-11-09T19:43:00Z
-    webUrl: "https://journalgazette.net/article/20201109/WEB/201109824"
+  - title: "Mike Pence is already on vacation"
+    excerpt: "Like many Americans, Vice President Mike Pence needed a vacation after the year that was last week. And so he's making like a man who isn't partially embroiled in a complicated but ultimately doomed legal battle to try to wrench back an election victory from the legitimate winners,"
+    publishedDateTime: 2020-11-09T21:50:00Z
+    webUrl: "https://theweek.com/speedreads/948953/mike-pence-already-vacation"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/948953/mike-pence-already-vacation"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/948953/mike-pence-already-vacation"
     type: article
     provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 35
-  - title: "Vice President Mike Pence heading to Florida vacation island"
-    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Fla., from Tuesday through Saturday."
-    publishedDateTime: 2020-11-09T16:02:00Z
-    webUrl: "https://triblive.com/news/world/vice-president-mike-pence-heading-to-florida-vacation-island/"
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1158244766.jpg?itok=sy8XlQ2y&resize=450x300"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "Mike Pence plans trip to Florida for 'time off'"
+    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
+    publishedDateTime: 2020-11-09T22:33:00Z
+    webUrl: "https://www.wtsp.com/article/news/regional/florida/mike-pence-florida-vacation/67-4ca958b6-0ef5-4dc8-b3e2-427b812ac721"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/regional/florida/mike-pence-florida-vacation/67-4ca958b6-0ef5-4dc8-b3e2-427b812ac721"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/regional/florida/mike-pence-florida-vacation/67-4ca958b6-0ef5-4dc8-b3e2-427b812ac721"
     type: article
     provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 35
+      name: WTSP
+      domain: wtsp.com
+    quality: 75
+    images:
+      - url: "https://media.wtsp.com/assets/CCT/images/cda447ca-7445-437f-a89f-b81ed988e2d3/cda447ca-7445-437f-a89f-b81ed988e2d3_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "VP Mike Pence is taking a vacation in Florida. But he’s not going to Disney World"
+    excerpt: "Being vice president is a tough job. Especially one who has just been voted out of office and is fighting to stay in it."
+    publishedDateTime: 2020-11-09T20:41:00Z
+    webUrl: "https://www.miamiherald.com/news/state/florida/article247080332.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article247080332.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article247080332.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/0eabdea8-12fd-4d78-bf4c-3e9465379cee/8108ba07-9c58-4a4f-acc8-5c09bbe4d436/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "rajbxlzQhMzFErwzM29SFpt9fnAdsRm7BznIsxLnGQBqUmmxK+PUzktOCtdP5ke47mZQaQnOdqxUjsyXGZqAHfmKgBl7LK0OGyk0mZzdPHYU+Cx5VTEqLNqsVTlpXCMvTePiUFH6ijwclJnyJFadU8goYaExVyfFKWCMjfHnU5m23ensLRq8XrAaMGUEdLNga1y2SisCyONGNQFO9Tb4wuCfBdmWr7WMBAz+cFxXUoBiO1GWxc39dj2gPUqNko4H0iwxjZyMK7/sCzIk9kBjbguiK32iPaBKNd9SxvWke9QcOuGEZbev7Rrs5Ue4YgTTlSTGfNV6+QjJWUCkcHnGlCa+w1QHdzcqFV87/ynK0U3eYcz2LKvzsGhk19gYKVt7iYgolK/7SUpbfTSgYZAZf0CkUdy3j6CZO1fTYAOMO51mPk6AyN8QC76ZOcwWva/Qv/lDHuzPTje+mphT6CbFSSImZrSIckl8RVPRAzqd48bCVeKWrSCuAyBCKx10tUp9j4L3NuXZoVtb4/vD2oUjnA==;Cift/WF94cu1XiCXTfDalA=="
 ---

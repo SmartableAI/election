@@ -231,6 +231,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blunt falsely claims Trump 'may not have been defeated' in election"
+    excerpt: "Sen. Roy Blunt (R-Mo.) claimed Nov. 10 that \"every predictor\" of the election \"was wrong,\" adding that President Trump may have won."
+    publishedDateTime: 2020-11-10T18:28:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/blunt-falsely-claims-trump-may-not-have-been-defeated-in-election/2020/11/10/d4abd09b-c76e-4022-a240-1ec9e6f88dec_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-10-2020/t_ec2a81a98eb4453888a3a62cdd9e64a5_name_20201110_Blunt_1.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "Inside the Dems' Florida flop: Turnout, rural success propelled Trump in the Sunshine State"
     excerpt: "But that alone does not explain why Biden lost the state by about 375,000 votes, a substantial gap in a state known for paper-thin margins. An analysis of post-election data shows that several factors played into the Democrats' bad day."
     publishedDateTime: 2020-11-08T18:39:00Z
@@ -340,6 +354,22 @@ related:
       - url: "https://cdn.newsday.com/polopoly_fs/1.50061090.1604940614!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
         width: 1280
         height: 719
+        isCached: true
+  - title: "Mike Pence heading to Florida vacation island"
+    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
+    publishedDateTime: 2020-11-09T20:09:00Z
+    webUrl: "https://www.kron4.com/news/national/mike-pence-heading-to-florida-vacation-island/"
+    ampWebUrl: "https://www.kron4.com/news/national/mike-pence-heading-to-florida-vacation-island/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/national/mike-pence-heading-to-florida-vacation-island/amp/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 75
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2020/11/pence2b.jpg?w=1280"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Latest: Mike Pence heading to Florida vacation island"
     excerpt: "WASHINGTON (AP) \" The Latest on President-elect Joe Biden (all times local): 9 p.m. International observers from the Organization of American States"

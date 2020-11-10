@@ -7,7 +7,7 @@ originalUrl: "https://www.c-span.org/video/?477692-1/senator-kamala-harris-doug-
 webUrl: "https://www.c-span.org/video/?477692-1/senator-kamala-harris-doug-emhoff-hold-drive-rally-philadelphia"
 type: article
 quality: 34
-heat: 54
+heat: 34
 published: false
 
 provider:

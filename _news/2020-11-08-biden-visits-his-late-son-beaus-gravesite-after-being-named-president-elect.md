@@ -671,6 +671,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden takes calls with leaders of UK, France, Germany as transition gets underway"
+    excerpt: "President-elect Joe Biden on Tuesday spoke to foreign leaders and key allies as he moved ahead with his presidential transition — with the leaders of the U.K. and France among those first to speak to the incoming president."
+    publishedDateTime: 2020-11-10T20:19:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQYSojMRAUc/biden-uk-france-germany-as-transition-gets-underway"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-uk-france-germany-as-transition-gets-underway.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-france-germany-as-transition-gets-underway.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae6a8da7-031f-4f6a-8706-76b1845676c5/d5243f3e-9afd-4d22-b217-b5218052c03e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign predicts victory as early as Friday: 'Donald Trump is alive and well'"
     excerpt: "President Trump's campaign remained confident Thursday, predicting not only that the incumbent Republican will win the 2020 election, but that the result could become apparent as soon as Friday."
     publishedDateTime: 2020-11-05T17:51:50Z
@@ -718,6 +734,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7421506b-3c80-471a-9cde-a73afeeafe0c/b6f05093-8627-4221-affe-14df9dac7fbb/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden’s Team Pressures Trump Administration to Declare Him Election Winner"
+    excerpt: "A standoff between Joe Biden and President Trump over the results of the election is complicating the president-elect’s ability to prepare for the White House."
+    publishedDateTime: 2020-11-10T20:20:00Z
+    webUrl: "https://www.wsj.com/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 163
+    images:
+      - url: "https://images.wsj.net/im-257774/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Hunter Biden allegations likely why Obama didn’t encourage Biden to run for president: Sen. Johnson"
     excerpt: "The allegations against Hunter Biden are likely the reason why former President Obama “did not encourage the vice president to run” for president, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Sunday Morning Futures” in an exclusive interview."

@@ -43,6 +43,22 @@ related:
         width: 806
         height: 545
         isCached: true
+  - title: "Biden may face pressure to reshape Powell's Fed in first year"
+    excerpt: "Washington - U.S. monetary policy won't be a top-of-mind concern for President-elect Joe Biden as he prepares to take office in January, with the Federal Reserve's economic arsenal already deployed against an ongoing recession and decisions about federal spending more"
+    publishedDateTime: 2020-11-10T16:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-fed-idUSKBN27Q1FR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q1FR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q1FR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540732015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91MD"
+        width: 794
+        height: 545
+        isCached: true
   - title: "Read former President George W. Bush's full statement congratulating President-elect Joe Biden"
     excerpt: "\"Though we have political differences, I know Joe Biden to be a good man, who has won his opportunity to lead and unify our country,\" he said."
     publishedDateTime: 2020-11-08T18:01:00Z

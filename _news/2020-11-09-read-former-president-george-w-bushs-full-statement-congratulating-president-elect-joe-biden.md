@@ -47,6 +47,22 @@ related:
         width: 806
         height: 545
         isCached: true
+  - title: "Biden may face pressure to reshape Powell's Fed in first year"
+    excerpt: "Washington - U.S. monetary policy won't be a top-of-mind concern for President-elect Joe Biden as he prepares to take office in January, with the Federal Reserve's economic arsenal already deployed against an ongoing recession and decisions about federal spending more"
+    publishedDateTime: 2020-11-10T16:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-fed-idUSKBN27Q1FR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q1FR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q1FR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540732015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91MD"
+        width: 794
+        height: 545
+        isCached: true
   - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
     excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
     publishedDateTime: 2020-11-03T20:31:00Z

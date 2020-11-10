@@ -153,6 +153,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "US election: Kamala Harris' ancestral Indian village celebrate vice-president-elect"
+    excerpt: "US Vice-President-elect Kamala Harris' ancestral Indian village has been celebrating her election victory. Thulasendrapuram, in the southern Indian state of Tamil Nadu, was the home of Ms Harris' maternal grandfather."
+    publishedDateTime: 2020-11-10T18:44:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-54896643"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 114
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y0zpt.jpg"
+        width: 400
+        height: 224
+        isCached: true
   - title: "Kamala Harris's husband tweets photo of couple after presidential race called: 'So proud of you'"
     excerpt: "Vice President-elect Kamala Harris’s husband, Doug Emhoff, went viral on Saturday after sharing a photo of the couple embracing after the race for the White House was called for President-elect Joe Biden."
     publishedDateTime: 2020-11-07T19:05:00Z

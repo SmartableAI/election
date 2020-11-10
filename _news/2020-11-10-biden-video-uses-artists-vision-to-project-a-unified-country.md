@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pompeo refuses to acknowledge Biden has won election, enables Trump's denial"
+    excerpt: "Secretary of State Mike Pompeo refused to acknowledge Joe Biden's victory as President-elect, saying at the State Department Tuesday that \"there will be a smooth transition to a second Trump administration.\"\n    \n"
+    publishedDateTime: 2020-11-10T20:14:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gx5RW1wReKk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/pompeo-transition-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/pompeo-transition-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 202
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110145136-pompeo-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Harris launch new transition website"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are moving ahead with planning for his forthcoming administration on Sunday, launching a transition website and preparing a team of people to begin working with federal agencies this week.\n    \n"
     publishedDateTime: 2020-11-08T14:48:28Z
@@ -461,6 +477,22 @@ related:
     quality: 183
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/160404193444-marco-rubio-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says Trump's actions are 'an embarrassment' but won't impede transition effort "
+    excerpt: "President-elect Joe Biden projected confidence about a transition effort that he said is \"well underway\" even as outgoing President Donald Trump and his administration attempt to impede it.\n    \n"
+    publishedDateTime: 2020-11-10T20:58:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dpIAUEOJFTI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/biden-trump-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/biden-trump-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110150927-02-biden-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -880,6 +912,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's who could serve in top roles in the Biden administration"
+    excerpt: "President-elect Joe Biden is set to announce who will serve in top roles in his administration in the coming days and weeks.\n    \n"
+    publishedDateTime: 2020-11-10T20:02:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BXaUX-SKcIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/biden-harris-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/biden-harris-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110111709-biden-cabinet-possibilities-split-buttigieg-flournoy-klain-rice-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump blocks transition as he refuses to accept loss"
+    excerpt: "President Donald Trump implied Tuesday he would continue contesting election results for at least another week, forestalling for days the required steps to transition government to President-elect Joe Biden and signaling to his administration that any moves toward a hand-off are on hold.\n    \n"
+    publishedDateTime: 2020-11-10T18:41:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3A4n9v3kGgw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-transition-biden-block/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-transition-biden-block/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200120121345-04-trump-0109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump shows transition will be as turbulent as his presidency"
     excerpt: "The question is not whether President Donald Trump is leaving. It's how much destruction, revenge and chaos he will wreak on the way out the door.\n    \n"
     publishedDateTime: 2020-11-10T06:19:03Z
@@ -893,6 +957,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107010731-01-biden-trump-1106-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "With the Senate at risk, Trump still holds leverage over the GOP"
+    excerpt: "Senate Majority Leader Mitch McConnell became on Monday the highest-ranking Republican in Congress to rally behind President Donald Trump's effort to dispute the election results and invalidate Joe Biden's victory.\n    \n"
+    publishedDateTime: 2020-11-10T20:16:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2OTyFn5c_xE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-mcconnell-senate-gop-leverage/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-mcconnell-senate-gop-leverage/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207001437-trump-mcconnell-sotu-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -957,6 +1037,38 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107121330-joe-biden-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to deliver Obamacare speech as Supreme Court weighs law's future"
+    excerpt: "President-elect Joe Biden, who campaigned on a promise to keep and build on Obamacare, is set to deliver a health care-focused speech Tuesday as the Supreme Court hears a case that could overturn the law.\n    \n"
+    publishedDateTime: 2020-11-10T18:23:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L38Cb6x_cRg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/biden-obamacare-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/biden-obamacare-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109141542-joe-biden-1109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's refusal to concede leaves diplomats unclear on what to tell allies"
+    excerpt: "As President Donald Trump refuses to acknowledge Joe Biden's presidential election victory, he has put American diplomats in an awkward and untenable position -- leaving them confused about what they can say to foreign counterparts about the election results and distressed about the possibility of waning"
+    publishedDateTime: 2020-11-10T18:06:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rZpCh9YPmkg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/diplomats-post-election-guidance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/diplomats-post-election-guidance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160330182055-state-department-logo-2007-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1053,6 +1165,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106155224-donald-trump-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's ousting of officials and elevation of loyalists could have lasting effects"
+    excerpt: "President Donald Trump and his allies in the administration are dislodging officials across the government and burrowing loyalists into agencies in a way that could make them difficult for President-elect Joe Biden to remove next year.\n    \n"
+    publishedDateTime: 2020-11-10T20:26:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wy2iONiq9UA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-officials-ousted-burrowing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-officials-ousted-burrowing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110094018-01-donald-trump-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1181,6 +1309,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106155224-donald-trump-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "4 years ago, Obama invited Trump to the White House to discuss transfers of power. Trump hasn't done the same for Biden"
+    excerpt: "On November 10, 2016, President Barack Obama invited Donald Trump, then President-elect, to the White House.\n    \n"
+    publishedDateTime: 2020-11-10T17:33:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/imhl1MpsIQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/obama-trump-biden-white-house-meeting-2016-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/obama-trump-biden-white-house-meeting-2016-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110091908-05-obama-trump-2016-transition-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

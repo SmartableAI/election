@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wtsp.com/amp/article/news/regional/florida/mike-pence-fl
 cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/regional/florida/mike-pence-florida-vacation/67-4ca958b6-0ef5-4dc8-b3e2-427b812ac721"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: WTSP
@@ -27,6 +27,54 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence heading to Florida for some time off"
+    excerpt: "Vice President Mike Pence appears ready to take some time off a week after the election and is scheduled to travel to Sanibel this week."
+    publishedDateTime: 2020-11-09T20:30:00Z
+    webUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 75
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/QdFXkmhBXzHQxxU8fmvKKjwxr2w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEX4UHCYTJSBVUHFJBBID32F7M.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Mike Pence heading to Florida vacation island for the rest of the week"
+    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
+    publishedDateTime: 2020-11-09T16:08:00Z
+    webUrl: "https://fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/"
+    ampWebUrl: "https://fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/amp/"
+    cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/political-connection/mike-pence-heading-to-florida-vacation-island-for-the-rest-of-the-week/amp/"
+    type: article
+    provider:
+      name: FOX40
+      domain: fox40.com
+    quality: 75
+    images:
+      - url: "https://fox40.com/wp-content/uploads/sites/13/2020/11/pence2b.jpg?w=1280"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mike Pence is already on vacation"
+    excerpt: "Like many Americans, Vice President Mike Pence needed a vacation after the year that was last week. And so he's making like a man who isn't partially embroiled in a complicated but ultimately doomed legal battle to try to wrench back an election victory from the legitimate winners,"
+    publishedDateTime: 2020-11-09T21:50:00Z
+    webUrl: "https://theweek.com/speedreads/948953/mike-pence-already-vacation"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/948953/mike-pence-already-vacation"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/948953/mike-pence-already-vacation"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1158244766.jpg?itok=sy8XlQ2y&resize=450x300"
+        width: 450
+        height: 300
+        isCached: true
   - title: "VP Mike Pence is taking a vacation in Florida. But he’s not going to Disney World"
     excerpt: "Being vice president is a tough job. Especially one who has just been voted out of office and is fighting to stay in it."
     publishedDateTime: 2020-11-09T20:41:00Z

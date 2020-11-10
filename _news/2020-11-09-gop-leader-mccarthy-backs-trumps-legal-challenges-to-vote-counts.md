@@ -240,6 +240,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "More GOP Senators Side With McConnell, Trump"
+    excerpt: "More GOP senators sided with Majority Leader Mitch McConnell’s position on President Trump's continuing election challenge and said they saw no risk that the Kentucky Republican had damaged future negotiations with President-elect Joe Biden."
+    publishedDateTime: 2020-11-10T18:49:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/A2xEt3NxOxRpgsE2ab9a"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-257910?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "A3Bu5KIEWZ0R5jJTfP0sJPAtQq0xihz9xY6IIcJ3nMi9q3ejesBkiifjwN3TlJUjaBhKgNsryR8fdXFOtWX640hALzlzku8/zkI2aZEMuOxMWwN1jQsw7PlkDLVuASsuH/yfjoqkuvcrI5UjFg6QBgsNDPl679q1WkHDogZyzO3UEEj9PLSKZ+Aq1CF7W2DuOaY6awtLVZbirkjfqFQR2Gp7z3MjFkdBDCceUbs25l3o9d3Zf/t+LdeEO3a1N6bQJm3nERLYJS9KlbarnytAELP9ba3AwENer8ewslzYv9SNkiV53v6WSOCJiieceoVzD62O72WgFhylT/1Uttd0jISUNyC5eYjE1LpUkxmJpPW4oD1gnY5CH3dW+nhVAhzVZCmkh+5KI0QyedU2dA53af8CBbYrbdEhIET2sELdc+U57RpWSET+JAOFh7fwcy4pE5+Ae8zciUwMfab74MyQuT4Q++dW1Kgm68+a5fkgsJipqWS61+CFth/aezUsnthOAvKzzax04Od0fUHEe9j4gQ==;VgahwXz9xzn24GXKt7PQ2A=="
 ---

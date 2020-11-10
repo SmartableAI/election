@@ -1,0 +1,35 @@
+---
+category: news
+title: "Defiant Pompeo predicts 'smooth transition' to a 2nd Trump administration"
+excerpt: "A defiant Secretary of State Mike Pompeo on Tuesday predicted a “smooth transition” to a second Trump administration, as members of the administration continued to express doubt that President-elect Joe Biden won the presidential election."
+publishedDateTime: 2020-11-10T19:42:09Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/myBrIa-VGtA/pompeo-smooth-transition-second-trump-administration"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/myBrIa-VGtA/pompeo-smooth-transition-second-trump-administration"
+ampWebUrl: "https://www.foxnews.com/politics/pompeo-smooth-transition-second-trump-administration.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-smooth-transition-second-trump-administration.amp"
+type: article
+quality: 174
+heat: 174
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c008d21d-d7d5-4ea0-b56d-07090579f222/1f5d28f4-cedf-4547-8612-5a42e025facd/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "1sUOYm7lQ2xHF3u4GFWykPwg1yrgT8xbTAyW60BQp1uvFW7vLGO3/flx0/exsnvMIQVdwdCU/3ZCoiNdQhpIP3ApaLUW2lmAA2+vav/ZmXtLkoIkc9g/xo6wOPDRNQa1U8UJz6wuej1tvZufc4meOhcFEfFoVHCtCOx7l7D0PtqqJeTGgLta1iIugogibGlOMJMe0TMunKnUj5eZsgcy0O2n1KAFHd9LPsylOt+8xB+N7vO244wqfMohr5LDJmbKso3hVOcR9xo6CIOxz4PkivwE/gd3A3sy7v/xOozSJzsLUsIbD9jBkm9Q6ErlYsY0vmJgXHStGbgY4/K2R3fmMWOvVekoQ3qAJ32EnJC5/Yg=;SUzi1VYNyFH/jrsdyr1GLA=="
+---
+
