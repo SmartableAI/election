@@ -2,26 +2,26 @@
 category: news
 title: "Mike Pence heading to Florida for some time off"
 excerpt: "Vice President Mike Pence appears ready to take some time off a week after the election and is scheduled to travel to Sanibel this week."
-publishedDateTime: 2020-11-09T20:30:00Z
-originalUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html"
-webUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html"
-ampWebUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
+publishedDateTime: 2020-11-09T17:36:00Z
+originalUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html"
+webUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html"
+ampWebUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/politics/elections/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: Sun Sentinel
+  domain: sun-sentinel.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.orlandosentinel.com/resizer/QdFXkmhBXzHQxxU8fmvKKjwxr2w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEX4UHCYTJSBVUHFJBBID32F7M.jpg"
+  - url: "https://www.sun-sentinel.com/resizer/QdFXkmhBXzHQxxU8fmvKKjwxr2w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEX4UHCYTJSBVUHFJBBID32F7M.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -62,6 +62,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "COYtIhtKPn2G2bwnXRjv+eXUtzLICO1dZMXSbSTmlIy2NrFYri+RlQqARwLC4eyQBb/s+DSvB9G03MdEAGRWAo/92Gn18IhL9OiUTNnzVk48rd4y6DYA1DeuOfmFa9mt8Ke2/cBQ+erMbL1hZLEi1u61hXKwW6GzQ1csqaDZQb3O6dBwP3VN3EPu6kj0W4FlVdQBGET9V+DSqSJqyVE/8I7YWEQm52Q76xNQPy/XrG/pi64J3dlj0MIwKlCoSFFVyB6rF/38RHfMND1JYXR8LhkOHfpyyLTLtzQCUAU/WI8EMW6Z+6jFUunYYmGue39l2j5XGNr8EqhUCwF9IvqyaPvD5opMuZMiEZ3fqd7q2sg6tx5XQ5/A6JHwHYpSNVKMStXxVVcOymi1BDw+x+QSrr1ptOV4LrVLEZB9T42iV6PJXqXCkNPgNvZ+TZC1nzEALlrZEOCU9004bPV4ki5Z/gQxFhv5fbDBmzX4UuamqOkGXsD3BK/lc8OD9ja++3MCD2IKV+yZcM44m+7mgHeAuw==;dOwT/MGE2BabRilNpCAGfg=="
+secured: "z36CMMd7vv4eW05HzZyf9q6iFPFrXmkLUOKqtPgNb1RjgpvXIECRfPwmIZh3LXT9BoaK8hdYEsMgKiALgNUaq0zTRBcFbDFIaVERbShgOIOJMAwNfZcYp6sAJGz3qgzUjaqLD5h6ED2pEudDhVvP3xZcMBX8lZh64WPwk98uRAZLEGoO7VPKhZY1AndikGrnlYRTVwcm7aPi8Xp2Swmu5KtqYa38ucbpLYr3Kp2eSsHpUUWrl8YXkHAbgXt62MiZRQLDxZw6La3hm0fCSmjru7gCmmO3ChUwOvCOnWWDHSrnU7G3hBuBvVPLV9jTwY4LQ+K4efmyNmgsjhfu3tBgOyl2kntUWPFABKpE5YDsCOQ=;kuAazRgqmgNTTiXGOnx8pw=="
 ---
 

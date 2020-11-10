@@ -241,6 +241,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Gavin Newsom's shortlist to replace Kamala Harris in the Senate starts to take shape"
+    excerpt: "Gavin Newsom will have to name a replacement for Vice President-elect Kamala Harris in the United States Senate, and his shortlist appears to be taking shape. In the days after Joe Biden was declared president-elect by news networks,"
+    publishedDateTime: 2020-11-10T08:19:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Gavin-Newsom-Kamala-Harris-Senate-replacement-who-15713045.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 98
+    images:
+      - url: "https://s.hdnux.com/photos/76/55/53/16440015/5/rawImage.jpg"
+        width: 2048
+        height: 1396
+        isCached: true
   - title: "Kamala Harris to visit Detroit on Election Day"
     excerpt: "Democratic vice presidential candidate Kamala Harris will visit Detroit during a final campaign swing through Michigan on Election Day. Harris is returning to Michigan, a key battleground state, a day after President Donald Trump scheduled rallies in Traverse City and Grand Rapids."
     publishedDateTime: 2020-11-02T19:53:00Z

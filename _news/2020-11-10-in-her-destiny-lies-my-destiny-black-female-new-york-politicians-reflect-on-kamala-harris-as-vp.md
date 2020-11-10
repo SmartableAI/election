@@ -239,6 +239,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Gavin Newsom's shortlist to replace Kamala Harris in the Senate starts to take shape"
+    excerpt: "Gavin Newsom will have to name a replacement for Vice President-elect Kamala Harris in the United States Senate, and his shortlist appears to be taking shape. In the days after Joe Biden was declared president-elect by news networks,"
+    publishedDateTime: 2020-11-10T08:19:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Gavin-Newsom-Kamala-Harris-Senate-replacement-who-15713045.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 98
+    images:
+      - url: "https://s.hdnux.com/photos/76/55/53/16440015/5/rawImage.jpg"
+        width: 2048
+        height: 1396
+        isCached: true
   - title: "Kamala Harris to spend part of Election Day in Detroit"
     excerpt: "The last-minute swing through Michigan signifies the importance of the state in deciding the ultimate outcome of the presidential election."
     publishedDateTime: 2020-11-03T08:16:00Z
@@ -456,6 +470,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "e/L3MNQzY77Im6CY6TxYea439/F81ogNxpk8E03twA9Xckc4pLpsI78loqzIitiacQF72lCUr1UNWSNC87XsoggmOjROiqBzjjH0NhNwY4L0utYKhjsSJQueZn0vEcnKxnVrCcnNi0vsBWB9zHJS/lxFDeJ+ewrkt6KBzA/NLmPw1xyZrcGgjydIVjlF8/vLnsY4+8BWLdElxAqwe8Qec4HMxlSdny1DRW0pSOajhAXxO6WWj4gNV/rYGuXAjpCTaxvSg3PwcK6NwsW32QPwgQqMBiSZqlryqThgV2WoHWVQf8bsT7Hg6rtR90YEseFiuBtP5tY7XtXMNOEEpVcWkZ/+NOAXXwogncaUo3PzuV4=;o+UXNoM35SEzVCJ91iRklg=="
+secured: "AnS2U3NXEgnGpGuW/gw1MeSg/Lxlv+YVqop2WTx2ElKxwkFTqzWIkfWZsxUhyCKaeKEeIkh2x+a4kbEL65jbxzKeQX3JAzoWXbLaJU9RdE0ULkPoUr/HNyMSnYjNY8tB7yutG3jqGvTJlKpxpknyDsU42QJN3XU0w+AadoFXXzcJJBxd9ak4vo9oGmCNK8xMOx+ESja17M/EzlxVE/pIimSr3SVA+nsXA/A+dIemU7JG2O+KU8BAXpY/Rbcugx65x4fEjJP2hHe9ay6v58dAjFcG1otJjzRCAQCf1yE0bs1E9MryK2Y8r8pyrtQjlzFJiBNrcU01YB55eOql8Li1vVgedOelqYQWiFpYEWThC1zLDQpfRGEL2BHnAei1DG50rCrIW/3ghRbbb6qarOQnJ262zIV+MsdySBAXD9yOFpun5W1cjtyety4bZZZf8Ip2A1gSY3zPIcQmV2IlDkFsznA2E8LKbcBXjupzjli2gfjVpj5Bxv5M+H/gpjgBuG4lXdiFugoGGhZR+4y/3u/xLg==;lTVhr8hsB1pitSk2FC+GVQ=="
 ---
 

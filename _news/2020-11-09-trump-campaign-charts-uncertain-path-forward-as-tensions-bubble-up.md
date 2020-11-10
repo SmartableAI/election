@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Plans PAC in Hopes of Keeping Hold on G.O.P."
+    excerpt: "The PAC could accept donations from an unlimited number of people and spend to benefit other candidates, allowing the president to retain influence in a party remade largely in his image."
+    publishedDateTime: 2020-11-10T08:56:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-pac.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-pac.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/trump-pac.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/us/politics/09dc-trump1/09dc-trump1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "EjbeD6k/57LFUuOFdaBt9auwxSoBZX1TckiXfteqgFTT4rCto4X2OaGLat5ATiX9gv+WLL5mcmZ25izdbZdqE79fd2YPMgPfuawhJ+Jc7hSxindkzrMtcyuIxVsLS3J+2fyvOkB9mqkuyMqTedXRLT8RBs5qwC5apOCNK/njxgXK/BQnSeRoVhUeG4jr3gdoUkXk5+uErV7jMZa5zZOxhWmiiSm4rz6pmEQ86PYGmPZp2v2d7xwAMep3mYUarK7njeRy/xJVToy+ta/Wyl6lj/tu0hHtAE+Pdnd++kemOYGQm+9ccYahK4CNreq3sX7eKekAL/AwuqIifrIVr7o4jHFeW2r+OJ3Tpcho0YLj/SA=;2SaLF8pX/RU07zt0b87etg=="
 ---

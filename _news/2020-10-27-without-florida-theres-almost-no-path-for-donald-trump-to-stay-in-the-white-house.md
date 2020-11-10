@@ -195,6 +195,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Let the Right Make Him the Herbert Hoover of the Coronavirus"
+    excerpt: "Perhaps we will look back at the 2020 election and conclude that Donald Trump, who was always going to be Donald Trump, never had a chance to beat an opponent who led him in virtually every poll ..."
+    publishedDateTime: 2020-10-26T15:54:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c35/fbc/be3c8f77bbd298d4996104b93d272c6164-donald-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Man arrested at Trump rally with South Dakota's Noem"
     excerpt: "Police in Maine on Wednesday arrested a man who displayed two weapons at a campaign rally for President Donald Trump where South Dakota Gov. Kristi Noem was appearing. Noem spokeswoman Maggie Seidel said Noem's security detail engaged a man who had two weapons."
     publishedDateTime: 2020-10-28T17:57:00Z

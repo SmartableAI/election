@@ -285,6 +285,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "We asked nine legal experts about Trump's latest lawsuit challenging election results in Pennsylvania. Their verdict: Dead on arrival."
+    excerpt: "President Donald Trump's campaign has sued Pennsylvania elections officials over mail balloting. Legal experts say the case is baseless."
+    publishedDateTime: 2020-11-10T04:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/legal-experts-say-trumps-election-lawsuit-pennsylvania-baseless/6228914002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6228914002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228914002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump campaign says 'illegally cast' ballots should not be counted"
     excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
     publishedDateTime: 2020-11-04T16:13:00Z
@@ -322,6 +338,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "uVkgQSQ2HDnyP3yuu6H6Acdh2DGcdk0y+J3cc8tjLXzsIGRkaPFIYW6+EmGODaUPh3U6rEPhnom+vw6Oeo8O/A832tmgSo3Xry+uuEZ17hQDr5jTP1HEupTXJ/KrAC+OR3/DC1OfpfpSltoPEj9CUAyBZ4CLwBABUqqNv0ANY+dVhCCQOX8GHlYJkVaQfhhJm6qYRSKjDAXu3BRNZp7j9b7ApGABn3y/A+miu3v52VB3+AZ+Cqc6e0YEcfft5Wr+WiJnZwsjYS7proPakVNJAvE8fjBtrPuVnXFi1zKvBji+Np8A/WcNfqb0yW+NyfnGRPO2HomEb6sL0q9BWSTXcESqwuFfV9FRaK+aJU7ikrI=;/GqsptqJopW0FeHGDaNzaQ=="
+secured: "dJkOyyH87prSbs+KPnt0NqJAoMpyjK7NphXdeI0dw8Z3n1C0RDC95WFD90WSiAtLcEZ/JUzyWvsTbIYfdrNh64/gaFpzLfLibf9Fy5Qi0/IqWHPWW7+4JxBNDJAh59iILRiZtyr3kPNnle8RLMUHVR4Zb84QXjyg4nE9CVw5uZnblXOQmlZNinuIvtQObtNIvYTP8g0jGf/DgBJtOZRqkoho3r+ujrTWc7IdF2w9VtrmaN6Atn8ptU12+QTccWAaOrzZzR31ehnLZVFLsQfKIf/x4ChAhGsVjPAuQitTKmnnTamiyXOyzPFHGUG1eouLNq1oZB6kIYyAMnUSnjaavYBtHETanEUu91yw6kyS8hJm7dgXzpDhkfWyKXcw+YFru9hgx3RK2vD2QKV9tF/dwHdMnK+wNOIJotQSyTWcp9Ik4Y3QE+4i3yLbI1/K15MiJYwT9p+Gff1MKIn711resDhBHjRx2FYm95HDJgVIM1sHoqDsgpin+DK/+Qmcx7bbTNFFiK+tWj4FJPltyrYtUw==;nSygjaS3s9N/1Rls3E858w=="
 ---
 

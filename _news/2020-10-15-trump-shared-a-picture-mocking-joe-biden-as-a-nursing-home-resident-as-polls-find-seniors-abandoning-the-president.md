@@ -3325,6 +3325,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here’s what Kamala Harris is likely to take on as Biden’s vice president"
+    excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second in the White House."
+    publishedDateTime: 2020-11-10T05:31:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-poised-to-be-influential-vice-15713767.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 119
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/64/20229416/3/rawImage.jpg"
+        width: 1700
+        height: 1296
+        isCached: true
   - title: "'What the hell is wrong with this guy?' Biden slams Trump for his response to the plot to kidnap Michigan governor"
     excerpt: "\"To kidnap an American leader is the sort of behavior you might expect from ISIS and should shock the conscience of every American,\" Biden said."
     publishedDateTime: 2020-10-18T01:10:00Z

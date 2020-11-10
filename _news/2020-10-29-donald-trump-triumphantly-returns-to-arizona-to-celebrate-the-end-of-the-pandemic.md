@@ -63,6 +63,20 @@ related:
         width: 837
         height: 545
         isCached: true
+  - title: "For Trump, Conservative Catholics Are The New Evangelicals"
+    excerpt: "Four years ago, white evangelicals rallied behind Donald Trump's presidential candidacy, and he reveled in their adulation. \"The evangelicals love me, and I love them,\" Trump said repeatedly on ..."
+    publishedDateTime: 2020-10-26T05:00:00Z
+    webUrl: "https://www.npr.org/2020/10/26/926659149/for-trump-conservative-catholics-are-the-new-evangelicals"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/23/ap_20297618484329_wide-29697d544a762f45f36e90005d5fb15c8f3a217a.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Donald Trump Wins Wyoming"
     excerpt: "Donald Trump wins Wyoming."
     publishedDateTime: 2020-11-04T02:54:00Z

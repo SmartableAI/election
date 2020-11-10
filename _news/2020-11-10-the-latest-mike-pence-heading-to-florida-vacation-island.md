@@ -1,29 +1,27 @@
 ---
 category: news
 title: "The Latest: Mike Pence heading to Florida vacation island"
-excerpt: "WASHINGTON (AP) \" The Latest on President-elect Joe Biden (all times local): 9 p.m. International observers from the Organization of American States"
-publishedDateTime: 2020-11-10T03:52:00Z
-originalUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote"
-webUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote"
-ampWebUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
-cdnAmpWebUrl: "https://www-heraldnews-com.cdn.ampproject.org/c/s/www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
+excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
+publishedDateTime: 2020-11-09T16:48:00Z
+originalUrl: "https://www.wsoctv.com/news/politics/latest-mike-pence/6OSLBP2S4CBICWJBNASXNXTL6Q/"
+webUrl: "https://www.wsoctv.com/news/politics/latest-mike-pence/6OSLBP2S4CBICWJBNASXNXTL6Q/"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Herald News
-  domain: heraldnews.com
+  name: WSOC-TV
+  domain: wsoctv.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.heraldnews.com/apps/pbcsi.dll/bilde?Site=ZZ&Date=20201109&Category=NEWS&ArtNo=311099982&Ref=AR"
-    width: 512
-    height: 341
+  - url: "https://www.wsoctv.com/resizer/8MfBsRjHRaOrzP5ejrWW1wnjODs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/MUQ5NPQXWVZFWDTHREQEMOYH7U.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -389,6 +387,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "w66xIyany6I+qkiCz6JClLE36IuoG+rH0WQK2z90EGmwl2yzhN1GYtnOtvIxi6FDq2f/EhfLEYIQWwwE3BpC+QDlQyOVohXSnF52QIYXuV4tD+H61pOnzCNWGJy43BFLmONpoxwMusvI1bYKlKdemzD6PURMYkCCR6TEsCg9zlQywZbRXp1KmVrFBaLFd3M5eEYRXEsGkgNeXHOIgp62V2NFB2dt8sAMMy1tLLG4VZVsc5dQlBxd3gGbjnTAqNgNPB894xMHCc13nm/2CLofiFE90R8um3Fa2xlSvwbdbKU/KXluuDUV8BdAEMopCpdycdnPUuNbsEBCgu477t6QiXMYOUU73r5OVeqts91byMM=;cDOI2+aHXZxo8PlHFv3CeA=="
+secured: "NNSUcIAawtHCWYLUcY0x1LTFfj0lNxyjJF0ZjUb+C+aqq4veCePpHlN6tA0ZlSqRMtd1e1teyXn16GuKB2jozdxLY2v0oJJrhoUEPzpBeK9Soi1RKV4PuLHQB4NvHzk+kpYx4au+lkuzZMVKCMO21Whzz9gXAKUABQjmX0kTnoDVAomnzZLue73YC7T4bL1HShRqFKNxTkg+z2Q8BqvOaLArvuH9lo5Y6ANGEA9tTH56sz6sGc3NaGLAy6CQ0mHOYbnZO2CK+xhjTxOn0M0pdumCnV+yJ0B+O3SM42yoabOYuTCOxkv7+u13f0imZUGPM5psRICoqGivCwN/PomsEooeg1nIJZZCHZJbmp7af4RUlb4CdzUG7KMI5J75PhC9U3bgedFpUAeRZhMMW4p7S00xb0ilTJvidIf23bKs1/TvvvyL2vjUBfH5TBvLzBZvBzuFTZ6U1fMCDajeH3myY8Ifu1vZJw0qs300Eqi7DSmSfKE9qwEaL9eavLDHhMDmwPb4UgD3FcAMLZj421xVCg==;jiY15kqJobOoPRIE+u52ww=="
 ---
 

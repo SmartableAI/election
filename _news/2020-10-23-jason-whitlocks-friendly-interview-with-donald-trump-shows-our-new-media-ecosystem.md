@@ -112,11 +112,11 @@ related:
         height: 630
         isCached: true
   - title: "The 60 Minutes interview that President Trump cut short"
-    excerpt: "In an interview that's made headlines this week, Lesley Stahl presses President Trump on once-again rising coronavirus cases and what his priorities would be if re-elected. Stahl also speaks with Mr."
-    publishedDateTime: 2020-10-25T23:43:00Z
-    webUrl: "https://www.cbsnews.com/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
+    excerpt: "We begin with President Donald Trump and Vice President Mike Pence. I spoke with the president on Tuesday in the Roosevelt Room at the White House. We had prepared to talk about the many issues ..."
+    publishedDateTime: 2020-10-26T07:09:00Z
+    webUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-lesley-stahl/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/president-trump-60-minutes-interview-lesley-stahl/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-60-minutes-interview-lesley-stahl/"
     type: article
     provider:
       name: CBS News

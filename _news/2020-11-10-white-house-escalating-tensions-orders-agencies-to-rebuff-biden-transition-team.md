@@ -4507,6 +4507,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "McConnell backs Trump's election legal fight"
+    excerpt: "Top News McConnell backs Trump's election legal fight. Posted [NFA] The top Republican in the U.S. Congress on Monday said President Donald Trump was well within his rights to loo"
+    publishedDateTime: 2020-11-10T04:55:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD3UQ9JZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201110&i=OVD3UQ9JZ&r=OVD3UQ9JZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z
@@ -4521,6 +4535,22 @@ related:
   - title: "Trump is apparently confused as to why news outlets projected the election winner as he rails against the results"
     excerpt: "Trump has refused to accept his loss, and on Sunday expressed confusion at the longstanding process of news outlets calling the election."
     publishedDateTime: 2020-11-08T21:45:00Z
+    webUrl: "https://www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5fa85c1d1df1d500182197ce?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump is apparently confused about why news outlets projected the election winner as he rails against the results"
+    excerpt: "President Donald Trump has refused to accept his loss and on Sunday questioned the long-standing process of news outlets calling the election."
+    publishedDateTime: 2020-11-10T07:25:00Z
     webUrl: "https://www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11"
     ampWebUrl: "https://www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-is-confused-that-news-outlets-declared-biden-the-winner-2020-11?amp"
@@ -4827,6 +4857,22 @@ related:
     quality: 111
     images:
       - url: "https://i.insider.com/5fa717daf7d1cb0019e3a66f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden could lose out on important national security information and personal protection if Trump's continues to refuse to concede"
+    excerpt: "Trump can prevent Biden's team from getting presidential daily briefings, the latest secrets, and intelligence insights during the transition period."
+    publishedDateTime: 2020-11-10T05:32:00Z
+    webUrl: "https://www.businessinsider.com/trumps-refusal-concede-could-mean-biden-cant-national-security-information-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-refusal-concede-could-mean-biden-cant-national-security-information-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-refusal-concede-could-mean-biden-cant-national-security-information-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fa9fd781df1d50018219c09?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -5404,6 +5450,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden prepares to take over the presidency"
+    excerpt: "Watch \"Joe Biden prepares to take over the presidency for Donald Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-10T02:30:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201110061606-joe-biden-prepares-to-take-over-the-presidency-for-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/10/story_07617739_1604990224.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Putin won't congratulate Biden until legal action resolved"
     excerpt: "Russian President Vladimir Putin won’t congratulate President-elect Joe Biden until legal challenges to the U.S. election are resolved and the result is official, the Kremlin announced Monday."
     publishedDateTime: 2020-11-09T16:07:00Z
@@ -5976,6 +6036,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/06/democratic-presidential-candidate-joe-biden-has-taken-the.jpg"
         width: 1024
         height: 702
+        isCached: true
+  - title: "Mike Pence fails the lesson Joe Biden taught him in 2016"
+    excerpt: "However, four years ago, after the presidential candidate from his party trounced Donald Trump by nearly three million votes, but wouldn’t become president owing to a loss in the Electoral College, Joe Biden showed what it means to put country over party."
+    publishedDateTime: 2020-11-09T22:02:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/11/09/mike-pence-fails-lesson-joe-biden-taught-him-2016/6227279002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6227279002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6227279002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/f7def4d1-394b-49c5-a0fd-c130cf1a6238-pence-biden.jpg?auto=webp&crop=899,506,x0,y45&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Pence, absent from Trump's press conference, tweets his support from afar"
     excerpt: "Vice President Mike Pence wasn't at President Trump's White House press conference on Thursday evening, but he approved of his message. Trump made multiple baseless claims about the election, including that Democrats are trying to \"steal the election from us."
@@ -6790,6 +6866,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "bCA63HWL10LoGG5EFu6R1ipa/a+o70PucB2R1MLeBP82sPSwRssMCynU89eveca08A0WNtNlO0qvsgnN0LTURYveMWHc1v1OijkzRLdF5phxKxRvqqwzkMz48V+pmC6R973qVsrr3MIpDkNbaTUaW+ozkdl4WGrQmavI2BKTEVz06hTMobe1H3nq07T1jN5gQDCU5Rm2Qcrb8GCu30QlW4LF1jNkHHUQV2Gn1wPcj/0D1XZuKAREi2HldBTt2xZsHvJIUv6JYZLPQABUXWQHK9Nn6QfR85DAvfxm4iNr/UCZ8ZhaY5gU8FyQrBXPoukF7g6yRLhaxZMIVHYFaR0BAPKfUCqFfZ8eXX8YXSbZ+r8=;l9i8sVeAXKsEbGLYCWJ3ng=="
+secured: "HfMpnBnlsKyVceBVfHgNdtvLdYRJhXC4hvXy9zIzrR1bgM/OAPUwOfJKJJb6MG8BPQqp1AYW2FhvyWG7euM9cEyFurB71AwAlI69HC99p0D8aybJZJT4bK64GkOho0CRS64uK0iqw+J1suMVCIvbJhywXROwYwxsLwvEt5F1emHc1+5q0P8qS1zed8o/bvSCm19bEDa2IHJ6zn8Dg2/AA2o5gv6mRpBoJSTOjhsxHJbxG7YWadEGAxq0VE4206UudnscJCDJnsoB7lMW3vyNYNv6PKPdNt/Pxb7slPt9oiJXaD7J7U0XemVgPAqRbpD4Nt0HEL/p6wpOrUgJ6+bRAgUZikJQya+5nDP5IoPPHleaH/OmULo0Uu+hXtJSWlvU6QbuSiYr+J6IrAUBIU2MEUPN3T1iwl0pSsfm5bF4AxOlvHNOQK8dpe5eqbQ84DnEFcLxLaPUHlptuEUhk0sJyPZdbIq3Nx42ZY4+igM47kDbPJ1hg0SHmG9VlR58JtKSGioNW+eDlrPiY73c7kK2pA==;l4IHssoS49JbOefSqFmaoQ=="
 ---
 

@@ -165,6 +165,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Menlo Park school official resigns following wife’s vulgar tweet about Kamala Harris"
+    excerpt: "Jon Venverloh announced his immediate resignation in a statement to the Las Lomitas school community, in which he said that he needed to focus on and support his family during this time."
+    publishedDateTime: 2020-11-10T08:09:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/article/Menlo-Park-school-official-resigns-following-15714234.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/amp/Menlo-Park-school-official-resigns-following-15714234.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Menlo-Park-school-official-resigns-following-15714234.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 68
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/14/42/20236452/5/rawImage.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "‘Who would have thought?’: Kamala Harris’ win sparks joy in Bay Area Indian community"
     excerpt: "Many Indian Americans couldn’t help but to feel giddy at how they recognized flickers of themselves in the new vice president. They were astonished to see a woman of Indian heritage ascend to the highest levels of the U."
     publishedDateTime: 2020-11-10T00:57:00Z
@@ -180,6 +196,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/14/47/20236766/5/375x250.jpg"
         width: 375
         height: 249
+        isCached: true
+  - title: "How ‘SNL' Perfectly Recreated Kamala Harris' White Pantsuit With Just Minutes to Spare"
+    excerpt: "After more than 30 years on air, “Saturday Night Live” has accumulated quite the wardrobe, with nearly every piece of clothing one could need."
+    publishedDateTime: 2020-11-10T06:14:00Z
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/how-snl-perfectly-recreated-kamala-harris-white-pantsuit-with-just-minutes-to-spare/2714413/"
+    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/how-snl-perfectly-recreated-kamala-harris-white-pantsuit-with-just-minutes-to-spare/2714413/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/how-snl-perfectly-recreated-kamala-harris-white-pantsuit-with-just-minutes-to-spare/2714413/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 67
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/Maya-Rudolph-VP-elect-SNL.jpg?crop=296px%2C38px%2C2599px%2C1462px&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Dem VP nominee Kamala Harris’ Texas visit will include stops in Houston, Fort Worth and McAllen"
     excerpt: "Kamala Harris, the Democratic nominee for vice president, will make campaign stops in Fort Worth, McAllen, and Houston on Friday. Harris’ visit is a major statement as her swing through Texas will come just four days before Election Day."

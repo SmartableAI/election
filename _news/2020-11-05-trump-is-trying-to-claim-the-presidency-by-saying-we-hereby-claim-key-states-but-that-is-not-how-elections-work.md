@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
 type: article
 quality: 119
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: Business Insider
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
-    excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
-    publishedDateTime: 2020-11-06T08:03:00Z
-    webUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5fa4f4c11df1d50018219377?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump dropped 3 agency heads in the days following the election, amid reports that more departures could be coming"
     excerpt: "The departures came amid speculation that other agency heads and government officials may be fired or resign from the Trump administration."
     publishedDateTime: 2020-11-08T05:40:00Z
@@ -60,22 +44,6 @@ related:
     quality: 118
     images:
       - url: "https://i.insider.com/5fa777b71df1d5001821977a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'"
-    excerpt: "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted."
-    publishedDateTime: 2020-11-03T14:30:00Z
-    webUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

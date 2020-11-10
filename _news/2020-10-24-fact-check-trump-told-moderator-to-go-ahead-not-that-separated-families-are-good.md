@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Report: Donald Trump, Grifter Incarnate, Charges Taxpayers for Water He Drinks at Mar-a-Lago"
+    excerpt: "Should the results be contested—and Trump has made it clear he hopes they will be—Justice Beer Bong has a plan: Moments before Amy Coney Barrett was confirmed as Donald Trump’s third ..."
+    publishedDateTime: 2020-10-27T00:00:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-mar-a-lago-water"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-mar-a-lago-water/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-mar-a-lago-water/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 64
+    images:
+      - url: "https://media.vanityfair.com/photos/591c80a99f80a24c7fb1c174/master/pass/Trump-Mansion-Sell.jpg"
+        width: 1544
+        height: 1029
+        isCached: true
 
 secured: "KR2l2eowoaSlvQlfN8t01QSz1c6a4oIvyYuoazRjcFKC52YLKG0kTn+V4x+MCSwm2zTwI4D2OOQR3LMW+T9nIJiZxe7grNHPdy526FjQgx0ofwg5bZuRNvBphCtEdiZChuTaFcJyt+aNX4f3t0r0Q+Hvqf+6DlA32AvUnH5w9driM4NNwFgpmAgkIWpO09my6VW4svbikZPK9n7NVT7n46UQhIIpxiX6aQ32I1XifB06v1Q+pEWCNrw4BU7yGhaAgOQnnZTkFBVUmMtva5Q3j30PW5B4g3ZoRp6ww2rxkSRGrRf56hARwtDrqYk5zVuzffBCsj7O0T4TdMVIgnU6hTW0Ifd0M2uMzCVpPRlvLPw=;cFL5lERxcPC7orH7tOEhrg=="
 ---

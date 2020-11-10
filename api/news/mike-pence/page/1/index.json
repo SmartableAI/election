@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-10-mike-pence-plans-trip-to-florida-for-time-off.md",
+      "title": "Mike Pence plans trip to Florida for 'time off'",
+      "excerpt": "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtsp.com/article/news/regional/florida/mike-pence-florida-vacation/67-4ca958b6-0ef5-4dc8-b3e2-427b812ac721",
+      "originalUrl": "https://www.wtsp.com/article/news/regional/florida/mike-pence-florida-vacation/67-4ca958b6-0ef5-4dc8-b3e2-427b812ac721",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wtsp.com/assets/CCT/images/cda447ca-7445-437f-a89f-b81ed988e2d3/cda447ca-7445-437f-a89f-b81ed988e2d3_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtsp.com/amp/article/news/regional/florida/mike-pence-florida-vacation/67-4ca958b6-0ef5-4dc8-b3e2-427b812ac721",
+      "cdnAmpWebUrl": "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/regional/florida/mike-pence-florida-vacation/67-4ca958b6-0ef5-4dc8-b3e2-427b812ac721",
+      "publishedDateTime": "2020-11-09T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTSP",
+        "domain": "wtsp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-mike-pence-is-already-on-vacation.md",
       "title": "Mike Pence is already on vacation",
       "excerpt": "Like many Americans, Vice President Mike Pence needed a vacation after the year that was last week. And so he's making like a man who isn't partially embroiled in a complicated but ultimately doomed legal battle to try to wrench back an election victory from the legitimate winners,",
@@ -31,49 +74,6 @@
       "provider": {
         "name": "THE WEEK",
         "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-vp-mike-pence-is-taking-a-vacation-in-florida-but-hes-not-going-to-disney-world.md",
-      "title": "VP Mike Pence is taking a vacation in Florida. But he’s not going to Disney World",
-      "excerpt": "Being vice president is a tough job. Especially one who has just been voted out of office and is fighting to stay in it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/state/florida/article247080332.html",
-      "originalUrl": "https://www.miamiherald.com/news/state/florida/article247080332.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/0eabdea8-12fd-4d78-bf4c-3e9465379cee/8108ba07-9c58-4a4f-acc8-5c09bbe4d436/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/state/florida/article247080332.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article247080332.html",
-      "publishedDateTime": "2020-11-09T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
         "images": null,
         "publishers": null,
         "authors": null

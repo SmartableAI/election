@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J01O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J01O"
 type: article
 quality: 121
-heat: 221
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,83 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Under Trump asylum policy, hundreds of Cubans remain locked up in US detention centers"
-    excerpt: "Trump won Florida with help from Cuban Americans who liked his tough talk against socialism. But hundreds of Cuban migrants who fled communism are languishing in detention centers."
-    publishedDateTime: 2020-11-09T15:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/immigration/2020/11/09/under-trump-policy-100-s-cubans-who-fled-communism-remain-locked-up/6174737002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6174737002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174737002"
+  - title: "Republicans: Unshackle yourselves from the Trump craziness"
+    excerpt: "Here you are, anxiously waiting for Donald Trump and his royal family to accept reality, not wanting to say anything that might upset him or his followers, because somehow the thing you fear most in the world — more than any virus,"
+    publishedDateTime: 2020-11-10T06:00:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43AIRZRC3YI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Deutsche Bank plans to cut ties with Trump after the election and could seize his assets if he can't pay back his debts, Reuters reports"
-    excerpt: "The German lender is seeking to dump millions of dollars of Trump debt and sees a Trump loss as its best exit strategy, officials told Reuters."
-    publishedDateTime: 2020-11-03T20:12:00Z
-    webUrl: "https://www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11?amp"
+  - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
+    excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
+    publishedDateTime: 2020-11-06T08:03:00Z
+    webUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 107
+    quality: 122
     images:
-      - url: "https://i.insider.com/5fa12e611df1d500182187c3?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa4f4c11df1d50018219377?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out"
-    excerpt: "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits."
-    publishedDateTime: 2020-11-09T15:56:00Z
-    webUrl: "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp"
+  - title: "Donald Trump Jr. compares the US to a 'banana republic' over uncorroborated election fraud claims and gets tagged by Twitter"
+    excerpt: "Donald Trump Jr., the President's son has called for \"total war\" over election fraud claims and for fellow Republicans to show support for his father."
+    publishedDateTime: 2020-11-06T14:38:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 107
+    quality: 113
     images:
-      - url: "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa54b4c1df1d500182193c6?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Living statues paint Trump as racist 'relic'"
-    excerpt: "A week before Election Day, living statues depicting a golden Donald Trump in unflattering poses were on temporary display at the Lincoln Memorial and Trump International Hotel. (Oct. 27)"
-    publishedDateTime: 2020-10-28T15:14:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/28/living-statues-paint-trump-racist-relic/6054246002/"
+  - title: "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump"
+    excerpt: "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him."
+    publishedDateTime: 2020-11-08T11:19:00Z
+    webUrl: "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/33913ed7-8dc4-4054-977e-0a6d261e32d3_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat"
-    excerpt: "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly."
-    publishedDateTime: 2020-11-07T18:32:00Z
-    webUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency"
-    ampWebUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
 
 secured: "oOP4wc9nv1u5Ur8FBWEiIojA9nh0TgWVyrj25Ct4Bh64ikVfKuZcJm6N/5dkYkk/LGhmQkUASXZyJBbJfyf2ii4THwAHC69LxI2+Bfu4tswS+NXl/D9f65BYFuyJodY2aHjPaNPyIEf0EPsclYpx14g0ZZ8XTXQPc0b/d/nmVeuMsJmGHO3fmd5vYUdJRpeMS2al57w32E8K/HhldCr856xrqHYlHOCVGenj9R6rwziF9mlHDjRZM2lXsHCBy3LCEy8w/BT3BRuoexFNqEJVB0z3sZT2xYkwzrK3Cx32j6xhx+ynxyw6CTuzUciWnfyzN+Gq/JX5kqlVMMr8XYH+T6rZiSeZe6rNWJ9cHREMrYk=;h2O9yyU+AutZHSMntufu4Q=="

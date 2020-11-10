@@ -336,22 +336,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "The Latest: Mike Pence heading to Florida vacation island"
-    excerpt: "WASHINGTON (AP) \" The Latest on President-elect Joe Biden (all times local): 9 p.m. International observers from the Organization of American States"
-    publishedDateTime: 2020-11-10T03:52:00Z
-    webUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote"
-    ampWebUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
-    cdnAmpWebUrl: "https://www-heraldnews-com.cdn.ampproject.org/c/s/www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
-    type: article
-    provider:
-      name: The Herald News
-      domain: heraldnews.com
-    quality: 75
-    images:
-      - url: "https://www.heraldnews.com/apps/pbcsi.dll/bilde?Site=ZZ&Date=20201109&Category=NEWS&ArtNo=311099982&Ref=AR"
-        width: 512
-        height: 341
-        isCached: true
   - title: "The Latest: Trump heaping attention on 1 Nebraska district"
     excerpt: "President Donald Trump talks with the traveling press as first lady Melania Trump waits near Air Force One at Andrews Air Force Base, Md., Tuesday, Oct. 27, 2020. They flew"
     publishedDateTime: 2020-10-28T01:26:00Z
@@ -388,6 +372,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "The Latest: Mike Pence heading to Florida vacation island"
+    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
+    publishedDateTime: 2020-11-09T16:48:00Z
+    webUrl: "https://www.wsoctv.com/news/politics/latest-mike-pence/6OSLBP2S4CBICWJBNASXNXTL6Q/"
+    type: article
+    provider:
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
+    images:
+      - url: "https://www.wsoctv.com/resizer/8MfBsRjHRaOrzP5ejrWW1wnjODs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/MUQ5NPQXWVZFWDTHREQEMOYH7U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "4IXIP6Qs7gdekOhsun7TTyKU8xv9c1vYmFaWDzhAvEfSrbBdTMWpsYD4CpDJQz7/MoLCgVYXM5CGullhydArOLvVeexIWs8F/Ft4DTgCl3Mxw/WWyP0ykusElfpTTX17AF9vUod+ri5NmXFpeMJnNHuFDFaeO8bUA81LamzgsTr6KoZR6SEnRetbidVIT4ssv8zZq6BZmZBFgw7DTOWy82fRY+mjRb7l4lM5CkHuogf8M3jVFRkYOlv1HqXbx20uzfVnOCQ3NyrfLR3k/mfd12RWy3GCxKx9gtcARuUwtDKmOyU943ToJ4ZxFQL6bWwPcY4XtAOZFf1v2+CqZUw+x6YAQYIjClbnH5X73rLGRZCmjNUcZblACun46t1SMlny869cj+5B2r/hR5B2MoOGHYOv7MuFSZzRDiEsLCzzpx/OCXJXm5xCbjjNfbZLAMHtsdUUaIGaNgjZrA5qBLe7rAWCMHiIhmqcTXNjLxlh5Q8mjcVgHs2jRvAX43iPFMC2dGECAqq88F4A3KCrtzq9Xg==;mrR4hz38XPdFqvHZ5v05vA=="
 ---

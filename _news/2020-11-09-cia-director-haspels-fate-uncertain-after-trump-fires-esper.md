@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-dir
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714171734-02-mark-esper-0709-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump Plans PAC in Hopes of Keeping Hold on G.O.P."
+    excerpt: "The PAC could accept donations from an unlimited number of people and spend to benefit other candidates, allowing the president to retain influence in a party remade largely in his image."
+    publishedDateTime: 2020-11-10T08:56:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-pac.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-pac.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/trump-pac.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/us/politics/09dc-trump1/09dc-trump1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "D9OCIlJ09Ggy6B1Fd+0c6Fh2XPmeA5tnXTg9K/aYGd47BxJazR9qsyqdwktcBz/MTqsWKvuW0IOc/Z0ZXT2uPZCIHmYc/h4yLDqoQ2HeZluMFC4SyV9Sz3+KsktCe6Ve8xkGoSefLGIVARqwfztFv1JfMTY+o1Ibuo8swubWvIkLB2aaE4XLVRGJt/KL+tY713kbOJvp3cmwr6ppFjSRt2nSKCmSj+ejnUnp4pbYPcZHDPHG71S7O1E9euSKeXMoCKRiP7Y4sBNVCwItfzsXYgpItAuJIBhfnQ2uDy4j0S0BraXY9+wXRkS53lQB98QKcdQE/I5hPMyT/2YRtQWUR3f/NJ3dvD7lZnAdr/98owg=;cAOZxlrjFdG9F8tOHU6rkg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-senate-runoff-elections-per
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/"
 type: article
 quality: 143
-heat: 743
+heat: 763
 published: true
 
 provider:
@@ -229,6 +229,20 @@ related:
       - url: "https://s.abcnews.com/images/GMA/parents-share-kids-kamala-harris-ht-MAIN-np-202209_1604950655470_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Gavin Newsom's shortlist to replace Kamala Harris in the Senate starts to take shape"
+    excerpt: "Gavin Newsom will have to name a replacement for Vice President-elect Kamala Harris in the United States Senate, and his shortlist appears to be taking shape. In the days after Joe Biden was declared president-elect by news networks,"
+    publishedDateTime: 2020-11-10T08:19:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Gavin-Newsom-Kamala-Harris-Senate-replacement-who-15713045.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 98
+    images:
+      - url: "https://s.hdnux.com/photos/76/55/53/16440015/5/rawImage.jpg"
+        width: 2048
+        height: 1396
         isCached: true
   - title: "Kamala Harris to spend part of Election Day in Detroit"
     excerpt: "The last-minute swing through Michigan signifies the importance of the state in deciding the ultimate outcome of the presidential election."

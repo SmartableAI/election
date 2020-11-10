@@ -3309,6 +3309,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Here’s what Kamala Harris is likely to take on as Biden’s vice president"
+    excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second in the White House."
+    publishedDateTime: 2020-11-10T05:31:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-poised-to-be-influential-vice-15713767.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 119
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/64/20229416/3/rawImage.jpg"
+        width: 1700
+        height: 1296
+        isCached: true
   - title: "Trump shared a picture mocking Joe Biden as a nursing-home resident as polls find seniors abandoning the president"
     excerpt: "The tweet, which appeared to mock Biden's age and health, came as Trump and Biden battle for older Americans' votes."
     publishedDateTime: 2020-10-14T22:32:00Z

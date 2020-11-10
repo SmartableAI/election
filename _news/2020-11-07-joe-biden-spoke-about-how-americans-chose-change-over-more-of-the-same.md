@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/politics/2020/11/07/election-
 webUrl: "https://www.usatoday.com/videos/news/politics/2020/11/07/election-2020-biden-says-record-number-americans-chose-change/6198577002/"
 type: article
 quality: 104
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "U.S. to see more Chinese listings as Biden will make art of deal easier, advisors say"
+    excerpt: "Chinese companies' stock market listings in the United States reached a six-year high in 2020 and advisors expect the trend to accelerate in the year ahead in expectation of a stable regulatory regime under U."
+    publishedDateTime: 2020-11-10T07:23:00Z
+    webUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
 
 secured: "StXpzIwUKnG9qkCMI8boOZsNzA1YbzJ2qKrPvn0+SYBY0EdfIPxMCr8xBu+wfQBINyaoyzLSMUA3CDIrV5Ga3+bhTSfGCjZ63A/1YQ8eKoKp/Ziv47IDBVuRCBSIIjuiW0bBA8c9Cf0XVCAmHwazBkHF9jw8DsvJGe0eQGB2MPIFoojqCUoXZL0zJ1uVdI4q3PqTyaP5g5lxxBK76LICtUMUb7h+M1EjWZG+9LZfqB7q9tvuyGAL/5/iId9cz3oX42LXakYzowg13UlItCbqIXd6lfSjlsAAa033A7MmmBrq3f05i6N/oBdrVarxqMbmJKbDaSVTjpykyYIEskJDrU32Ki8MnaTrC17UwK3BZA/UqWhZSKFrbOVNBMWSPY8ScLrLBBb3AG7ptTszZa2b4x7ZWoKZ+YsHnoW5JHv3RsTeLuRDjs/LEDG3MQKrvkFSqfgSdyfhooiynJCKtraYRToR/RInTdxIRg5Z3CztnUbvp5IGF+fJpRbhyLFIf++AT9ekxEgyIKb4+7U21VJfhg==;Xv+O7cc6Yw/WY/h1ILrc2w=="
 ---

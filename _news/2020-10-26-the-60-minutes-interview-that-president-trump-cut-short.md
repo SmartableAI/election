@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The 60 Minutes interview that President Trump cut short"
-excerpt: "In an interview that's made headlines this week, Lesley Stahl presses President Trump on once-again rising coronavirus cases and what his priorities would be if re-elected. Stahl also speaks with Mr."
-publishedDateTime: 2020-10-25T23:43:00Z
-originalUrl: "https://www.cbsnews.com/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
-webUrl: "https://www.cbsnews.com/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-vice-president-pence-60-minutes-interview-lesley-stahl-2020-10-25/"
+excerpt: "We begin with President Donald Trump and Vice President Mike Pence. I spoke with the president on Tuesday in the Roosevelt Room at the White House. We had prepared to talk about the many issues ..."
+publishedDateTime: 2020-10-26T07:09:00Z
+originalUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-lesley-stahl/"
+webUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-lesley-stahl/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/president-trump-60-minutes-interview-lesley-stahl/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-60-minutes-interview-lesley-stahl/"
 type: article
 quality: 125
 heat: -1
@@ -396,6 +396,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8QW7r2MDm32QrR9ewXKJX35r8VogBy+B7dY+dFpdQbut+lghvdsX6iVJKw5jFPjcmT8alw2idz6H52WWTz5b3/zhbOvc2GM8NTDrw6/4yaLKQ7gtWjkGWu0t6Lg/kAsh/ViBFiac4mOxYEUsjeAAzyLdMVa7b9hS4ZSsBTWG9eQ50xYNvEXH6nhqM93i9VUH8OnFmSA6yaitOGu7JQUBUHClexbVomKPRbDs1MMwVTSqNgEyLBmr1TMma8kzdFx5spS5Tz3N91uBLU6kR0Zy2WhHkUQ3wchkyBTeSJ9GBPTAdTwoO0ae0KJOCIRbbN4t9GkbZTI/yPjAmHMPvpKQ3z307rmRxgI278FkKp0M6YIJINxfRcwhDcjuI9cXWXwDrlil0wfH+zDCRF7pe3oPuxhIVcRFWyFdwXyxcqDUWS1xa7gZSBUQRjNm5ZEwegnhAae5+zm8hViEn+h0GctRwni4ZRKHT2embDQWQzdpFKIg7U5/bGrMPVZ8OyDzJxgR2Q4JmlLAOUJHUyLNQ9MZiQ==;+azCQTJqh1qgkjUQ15XabA=="
+secured: "AYnMFLeT0h/SGnkC7PFUy9LoqfObh3J6Zx/MYcwfOzDHZ7moW0nJeyb1dMYckqB7bIiR6P/xe2l3qgOhQ0vtssfWc2UTEnrRvulJ+nH1/3ohuKEKwZvCWSsThFnVbQ9rUhzov2oCtVn8xDaN3tbzN2PLAFURPfAYNaCRvBgCzQyn/Tx/pNo3ywLLPXPNEK9f4Y6lMOHMGCmvb/cqXYOu/8O/VPId6hzqE8ZoJlXLYhrUOtZqgMMVEMOyZA0tPZhCSqNQZVVq6Ggc7i3u4nl2ogXm6EPiDOXreWw1qxcJjkiAeW8OvR/snzWBrv5BCA2swhAioIbQjC0Z/DCuMYAUmKon3kyV4xnXRpjFU0G/Q2c=;mJlpfDgjZ6p1w5KghCT8zQ=="
 ---
 
