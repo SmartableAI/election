@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-07-flashback-trump-in-october-said-could-you-imagine-if-i-lose.md",
+      "title": "Flashback: Trump in October said, 'Could you imagine if I lose?'",
+      "excerpt": "President Trump mocked the idea of losing to former Vice President Joe Biden during a campaign rally less than a month before Election Day, pointing to rival Joe Biden as the \"worst candidate in the history of presidential politics.\" ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3PDf4AQ6o2g/flashback-trump-in-october-could-you-imagine-if-i-lose",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3PDf4AQ6o2g/flashback-trump-in-october-could-you-imagine-if-i-lose",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/894e4893-60bc-44d1-9a2a-992bc507bd03/a6a063e7-81ee-4639-9a91-04cee56bee22/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flashback-trump-in-october-could-you-imagine-if-i-lose.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-trump-in-october-could-you-imagine-if-i-lose.amp",
+      "publishedDateTime": "2020-11-07T12:17:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-photos-after-biden-declared-president-crowds-take-to-streets-in-nyc-washington-dc.md",
       "title": "PHOTOS: After Biden declared president, crowds take to streets in NYC, Washington, DC",
       "excerpt": "",
@@ -70,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1725,
+      "heat": 1745,
       "tags": null,
       "images": [
         {
@@ -1080,7 +1136,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 455,
+      "heat": 475,
       "tags": null,
       "images": [
         {
@@ -1628,63 +1684,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.md",
-      "title": "Biden to campaign in Pennsylvania, Harris to Michigan on Election Day",
-      "excerpt": "Democratic presidential nominee Joe Biden will travel to Pennsylvania Tuesday while his running mate Sen. Kamala Harris will campaign in Michigan, in their final push to get out the vote on Election Day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iZuSuvCuPqg/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iZuSuvCuPqg/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1715,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-campaign-in-pennsylvania-harris-to-michigan-on-election-day.amp",
-      "publishedDateTime": "2020-11-02T14:16:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6226614002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226614002"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -47,17 +47,33 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Vice President Pence cancels Sanibel vacation"
+    excerpt: "Pence was expected to stay on Sanibel through Saturday. He will reportedly now stay in Washington while President Trump challenges his apparent loss."
+    publishedDateTime: 2020-11-10T22:58:00Z
+    webUrl: "https://www.news-press.com/story/news/local/2020/11/10/vice-president-mike-pence-cancels-southwest-florida-sanibel-island-vacation/6235372002/"
+    ampWebUrl: "https://amp.news-press.com/amp/6235372002"
+    cdnAmpWebUrl: "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/6235372002"
+    type: article
+    provider:
+      name: News-Press
+      domain: news-press.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/06/02/PFTM/b0ded584-03ed-4b97-b26a-18363eead202-pence.jpg?auto=webp&crop=599,337,x1,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence Attends Republican Luncheon"
     excerpt: "United States Vice President Mike Pence walks with Becky Schaaf, Protocol Officer U.S. Senate Sergeant of Arms out of the Republican Policy lunch on Capitol Hill in Washington, DC on Tuesday, November 10,"
     publishedDateTime: 2020-11-10T20:34:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/8cc7194d3a31d11d7aa74677c657a354/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/de51caa1fe4909c17eb55be1315139bf/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/8cc7194d3a31d11d7aa74677c657a354/REBUBLICAN-POLICY-LUNCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/de51caa1fe4909c17eb55be1315139bf/REBUBLICAN-POLICY-LUNCH.jpg"
         width: 650
         height: 433
         isCached: true
@@ -80,6 +96,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "7x4k0z4AIZbLyI1VmXOELH+INIdI6K1A68vWEY9MEYZhTny1Y5d/y12QERm/9/WP0NpaqLJGjyI7qM9KHivQxAxr9o6vTjGcuqf+ponPsCSdc9pJwhpEnq1mmP+fWqb8jnH8pmTc2Lb7pKZTi95ksBMzo2Agszpu9QjgowiurcSPmS1AsKzJvyvnOXIg+0d+Mr1Lxv0KaVPKAzhImyGKK3l222m5D8PLQ6tYA8XtEmu6ZT/5D5SaOAFSyS7761HEHOWdpfd29+WoFSH2JlAmd3buPzlAPdJRbl4P1k6XlO1xclZjPy888flVebFc+7FV9Gj1xTxBp2ZzHB39JrkOZ6hYuMoFKRXR1lheI+R2NxA=;aonR64yfeXd97TM8z2RAMA=="
+secured: "Z4kxsLfAM9ngUveK38YenWU7l4tDWmkc7zRiWf0Dz7huxaDIgO/FGJLb5iFu5gM7I11e3Iqj4DrLBLhFH8Y0RcYJ2zf2Zv39oK9hhvpVUGoiUheUjntu8DKba+yRhkvnS2x1tnew4NT1BK3Z4IvVk4+gjH2xyn2roxThkUCTr7SOg/NkXR4kDWL7xu3tKB/v939jWdqOMwb43IyMWzUr1zWsDCCYSe0NLm32Rn/k2iX07IS0GbpR14rx4kE7ID+U7CilTybGsLgS7mMPaSyTTQpf7o8ugcYd4kB9JNCBeiowCAPo86p3UJlq/SW6379bbgJj+obiKxyx+hwYYXmYUFwrXamhEWg4Zcq5GEZuppfKZx/cdOrIGKzIywYK4hbNDjkoWf7iOgClFqcFVHRW7OtlU6Pe3C3iVHn3yEQyo5RCLJLnULe34im8gAQgujkVwhbtuY5dDwi3cR7q4MqiUdQPkMV7HIR4pVcbI7YVF4OaKzTTshvEq2l9yLZSlS+5oDtAtfww1WUqNMJvfW4nKw==;ZH9eIk8iZ9vwwZzmyCGxiQ=="
 ---
 

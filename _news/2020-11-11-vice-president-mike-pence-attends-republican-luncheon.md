@@ -3,8 +3,8 @@ category: news
 title: "Vice President Mike Pence Attends Republican Luncheon"
 excerpt: "United States Vice President Mike Pence walks with Becky Schaaf, Protocol Officer U.S. Senate Sergeant of Arms out of the Republican Policy lunch on Capitol Hill in Washington, DC on Tuesday, November 10,"
 publishedDateTime: 2020-11-10T20:34:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/8cc7194d3a31d11d7aa74677c657a354/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/8cc7194d3a31d11d7aa74677c657a354/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/de51caa1fe4909c17eb55be1315139bf/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/de51caa1fe4909c17eb55be1315139bf/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/8cc7194d3a31d11d7aa74677c657a354/REBUBLICAN-POLICY-LUNCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/de51caa1fe4909c17eb55be1315139bf/REBUBLICAN-POLICY-LUNCH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -57,6 +57,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Vice President Pence cancels Sanibel vacation"
+    excerpt: "Pence was expected to stay on Sanibel through Saturday. He will reportedly now stay in Washington while President Trump challenges his apparent loss."
+    publishedDateTime: 2020-11-10T22:58:00Z
+    webUrl: "https://www.news-press.com/story/news/local/2020/11/10/vice-president-mike-pence-cancels-southwest-florida-sanibel-island-vacation/6235372002/"
+    ampWebUrl: "https://amp.news-press.com/amp/6235372002"
+    cdnAmpWebUrl: "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/6235372002"
+    type: article
+    provider:
+      name: News-Press
+      domain: news-press.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/06/02/PFTM/b0ded584-03ed-4b97-b26a-18363eead202-pence.jpg?auto=webp&crop=599,337,x1,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence to go on vacation"
     excerpt: "According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday. Pence has vacationed on the island along Florida’s Gulf Coast several times previously."
     publishedDateTime: 2020-11-09T19:43:00Z
@@ -76,6 +92,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "9NjrzZ+wfAxyDnQcKSoJ/tDNoYY9B8AyZ5xQpSzcoj01zlnES8oJLGOlPrX2vdMUSpK7VAwTm5ADICrhzQuNtTuZX9qpFoFPoetU7yhLGYIEMaISXxkSBxMS45Hxc0VcXoyvJ6cwH9rNiZVwkmeghUOvtzQL6/FwgFHz72P9SReqj9E3w4/SB8KXrHEBzntcDLIlYJhP7bqXbov4yJsDvuIPviJDEEQtWRZoGCVdq0TbKARb2SSdw+InPAqkS/r4TpwlzJ+rqRjEsOdt0GDe74xAelDVLhqp1aEuLQHAWdQzCWVb+TwnUdtiVLfvTqMAkSmoWBjscSJXNmxhpU5Bwc6qElM+WXCjVbby3gAmVvI=;T2Ay51gDnN3byhCJL7ywxQ=="
+secured: "VacjroHHANX8OF7K7W1fISe0+qDPSfAP0PBEqgnaUNFPmu1RYiwhJkLw+mzSvpKBCydHQTDTf+h17LdMl/M4KlvP1evlp3LAP1O15FW+u1GESIp0B4uJe5tXVa1KkuTnHdM/fuUFIS0SFprpEbmWjVWd3Bgx5koAnGukLhcuyTfQ5VbBnQVYsxBPLaaNGu0rjaamflGK9bDQatLPHV8k+KQVOf7WkUmTfEmtnkRVNFcPSU4oYNnsRG865QXSH2dAgqGVzDUZCZIkwl3Lc/x5zp3+Xua1mWtFpQZvwPJ+KPKi+rEymCc+ORGbbdJQlpcDPC0HrBErbX1A4f0uWqz1o18zJgz80qv2a2Ta1qAnyp8=;813Y1Fvft4/2DMnShEJlaA=="
 ---
 

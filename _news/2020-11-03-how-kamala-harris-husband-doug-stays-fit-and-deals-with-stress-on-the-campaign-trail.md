@@ -63,6 +63,20 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "US election: Kamala Harris' ancestral Indian village celebrates vice-president-elect"
+    excerpt: "US Vice-President-elect Kamala Harris' ancestral Indian village has been celebrating her election victory. Thulasendrapuram, in the southern Indian state of Tamil Nadu, was the home of Ms Harris' maternal grandfather."
+    publishedDateTime: 2020-11-10T22:32:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-54897449"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 113
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Kamala Harris makes history as the first ever female, Black, and Asian-American vice president-elect"
     excerpt: "Harris is no stranger to making history. She is the second ever Black female senator and was California's first female and Black attorney general."
     publishedDateTime: 2020-11-07T00:15:00Z
@@ -233,6 +247,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "'People Are Going to Take My Daughters Seriously Too.' For Women of Color Who See Themselves in Kamala Harris, Her Historic Win Is Personal"
+    excerpt: "Now, having helped push the ticket to victory, many of those voters say that bearing witness to Harris’ win was a moment they’ll always remember—and, they hope, that will shape generations to come. “As a mother and as an immigrant,"
+    publishedDateTime: 2020-11-10T22:47:00Z
+    webUrl: "https://time.com/5910084/kamala-harris-historic-win-women/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 51
   - title: "VP-elect Kamala Harris, first woman, black and Asian-American in role, delivers victory speech"
     excerpt: "Addressing her historic win, she predicted, \"While I may be the first...I will not be the last.\""
     publishedDateTime: 2020-11-08T02:34:11Z

@@ -559,6 +559,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden moves ahead by announcing transition teams despite Trump's efforts to block process"
+    excerpt: "Joe Biden's transition team on Tuesday announced the teams of people who will work to prepare the incoming administration to take control of the federal government, even as outgoing President Donald Trump and his administration fight the election results and decline to give access to the incoming President-elect's"
+    publishedDateTime: 2020-11-10T21:57:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fTIrXXavGbc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/transition-teams-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/transition-teams-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110144442-01-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Eric Trump and Donald Trump Jr. spread false information in run up to election"
     excerpt: "As two of his top surrogates, President Donald Trump's eldest sons, Donald Trump Jr. and Eric Trump, have spread a significant amount of false information this campaign season on topics ranging from the coronavirus, to their father's alleged successes, to attacks against his Democratic opponent former"
     publishedDateTime: 2020-11-02T23:47:54Z

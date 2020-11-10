@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 3725
+heat: 3745
 published: true
 
 provider:
@@ -540,6 +540,22 @@ related:
     quality: 181
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105115359-donald-trump-november-4-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden moves ahead by announcing transition teams despite Trump's efforts to block process"
+    excerpt: "Joe Biden's transition team on Tuesday announced the teams of people who will work to prepare the incoming administration to take control of the federal government, even as outgoing President Donald Trump and his administration fight the election results and decline to give access to the incoming President-elect's"
+    publishedDateTime: 2020-11-10T21:57:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fTIrXXavGbc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/transition-teams-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/transition-teams-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110144442-01-biden-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

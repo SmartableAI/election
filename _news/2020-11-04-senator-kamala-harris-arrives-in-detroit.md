@@ -441,6 +441,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 52
+  - title: "Vice President-Elect Kamala Harris' Husband Leaves Job at Powerhouse Law Firm DLA Piper"
+    excerpt: "Douglas Emhoff, the husband of U.S. Vice President-Elect Kamala Harris, will leave his job at one of the country's largest law firms by January to focus on supporting the incoming Biden administration,"
+    publishedDateTime: 2020-11-10T22:12:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "'In her destiny lies my destiny': Black female New York politicians reflect on Kamala Harris as VP"
     excerpt: "Three women, who broke barriers as Black female leaders at the city, county and state levels of New York government, spoke to the Times Union on Sunday afternoon about their reaction to the earthquake in national politics Saturday morning when Biden and Harris were declared the presumptive victors of the presidential election."
     publishedDateTime: 2020-11-10T02:59:00Z

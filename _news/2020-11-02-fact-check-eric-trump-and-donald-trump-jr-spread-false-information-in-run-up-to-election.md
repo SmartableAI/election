@@ -559,6 +559,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden moves ahead by announcing transition teams despite Trump's efforts to block process"
+    excerpt: "Joe Biden's transition team on Tuesday announced the teams of people who will work to prepare the incoming administration to take control of the federal government, even as outgoing President Donald Trump and his administration fight the election results and decline to give access to the incoming President-elect's"
+    publishedDateTime: 2020-11-10T21:57:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fTIrXXavGbc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/transition-teams-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/transition-teams-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110144442-01-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Bush congratulates Biden, says election was 'fundamentally fair' and 'its outcome is clear' "
     excerpt: "Former President George W. Bush congratulated President-elect Joe Biden in a phone call Sunday and said that, while President Donald Trump has the right to pursue legal challenges and recounts, the 2020 race was \"fundamentally fair\" and \"its outcome is clear.\"\n    \n"
     publishedDateTime: 2020-11-08T18:01:19Z

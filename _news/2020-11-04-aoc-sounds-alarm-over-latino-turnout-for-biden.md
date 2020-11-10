@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turno
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -206,6 +206,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "House minority leader says he did not speak with Biden"
+    excerpt: "Biden said during a press conference on Tuesday that he had spoken with both leaders of the House, which would appear to indicate Rep. Kevin McCarthy, the minority leader, and Speaker Nancy Pelosi."
+    publishedDateTime: 2020-11-10T22:21:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0QZRHv8suY/leader-mccarthy-president-elect-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20309644010679-e1604514837386.jpg"
+        width: 1280
+        height: 675
         isCached: true
   - title: "Vote for Joe Biden? Seriously?"
     excerpt: "Biden is Bernie Sanders’s grim party in sheep's clothing."

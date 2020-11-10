@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell blasts Dems for accepting Biden win after questioning validity of 2016 election"
+    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., told reporters Tuesday that there is “no reason for alarm” as to why Republican leadership has not called to congratulate President-elect Joe Biden as they wait for the Electoral College to officially vote."
+    publishedDateTime: 2020-11-10T21:46:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w1RqL6pkmDE/mcconnell-blasts-dems-for-accepting-biden-win-after-questioning-validity-of-2016-election"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blasts-dems-for-accepting-biden-win-after-questioning-validity-of-2016-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blasts-dems-for-accepting-biden-win-after-questioning-validity-of-2016-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa5c7934-85bb-4788-b374-52cbf1f52bcb/e5cd23c7-9e75-4995-8053-9b01c5cc43a4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nevada election worker alleges voting irregularities, Trump campaign submits affidavit to DOJ"
     excerpt: "The election worker, whose name was redacted, said they “had concerns over election polling place and intimation and voter fraud.\""
     publishedDateTime: 2020-11-09T15:35:41Z

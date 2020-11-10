@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/schumer-god-bless-america-biden-pro
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-god-bless-america-biden-projected-winner.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden says he's telling foreign leaders it’s 'not America alone' anymore"
+    excerpt: "President-elect Joe Biden on Tuesday pledged to work closely with foreign leaders, telling them in phone calls that “it’s not America alone,” in a thinly-veiled swipe at President Donald Trump’s “America First” foreign policy."
+    publishedDateTime: 2020-11-10T21:58:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oz4BZRWDtIY/biden-foreign-leaders-not-america-alone"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20314631482354.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Ingraham: Biden 'ordering' Americans around with COVID mandates could 'backfire'"
     excerpt: "In her \"Ingraham Angle\" monologue on Monday, host Laura Ingraham responded to President-elect Joe Biden's call to unite the country by way of a potential national mask mandate -- as well as his announcement of a coronavirus response task force similar to the one President Trump has utilized."

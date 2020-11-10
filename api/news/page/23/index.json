@@ -2,6 +2,174 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-10-16-trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.md",
+      "title": "Trump says if he and Pelosi agree on stimulus package, Senate GOP will get on board",
+      "excerpt": "President Trump said Thursday that he is “ready to sign” a fourth coronavirus stimulus package, and said that if he and House Speaker Nancy Pelosi are able to come to an agreement, he believes Senate Republicans will get on board.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 329,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
+      "publishedDateTime": "2020-10-15T18:14:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-biden-said-its-absolutely-ok-to-raise-taxes-during-economic-downturn.md",
+      "title": "Biden said it's 'absolutely' OK to raise taxes during economic downturn",
+      "excerpt": "Former Vice President Joe Biden defended his plan to repeal President Trump's tax cuts on the wealthy and said it's \"absolutely\" appropriate to raise taxes during a struggling economy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0V75ExXRaPQ/biden-absolutely-ok-raise-taxes-economic-downturn",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0V75ExXRaPQ/biden-absolutely-ok-raise-taxes-economic-downturn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8f66c7a-be69-4034-b3d3-230f8b3654d6/b726d4b2-1d50-4804-9dde-0078e85158ae/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-absolutely-ok-raise-taxes-economic-downturn.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-absolutely-ok-raise-taxes-economic-downturn.amp",
+      "publishedDateTime": "2020-10-15T18:07:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-trump-denounces-white-supremacy-says-he-will-accept-a-peaceful-transfer-of-power-but-wants-to-win.md",
+      "title": "Trump denounces White supremacy, says he will accept a 'peaceful transfer of power' but wants 'to win'",
+      "excerpt": "President Trump again denounced White supremacy on Thursday, while assuring that he will accept a peaceful transfer of power should Democratic presidential nominee win on Nov. 3, while saying he doesn’t want a transfer, but wants “to win.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nip1rxnYnow/trump-denounces-white-supremacy-says-he-will-accept-a-peaceful-transfer-of-power-but-wants-to-win",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nip1rxnYnow/trump-denounces-white-supremacy-says-he-will-accept-a-peaceful-transfer-of-power-but-wants-to-win",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-denounces-white-supremacy-says-he-will-accept-a-peaceful-transfer-of-power-but-wants-to-win.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-denounces-white-supremacy-says-he-will-accept-a-peaceful-transfer-of-power-but-wants-to-win.amp",
+      "publishedDateTime": "2020-10-15T17:37:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-pence-touts-anti-socialism-in-miami-campaign-stop.md",
       "title": "Pence touts anti-socialism in Miami campaign stop",
       "excerpt": "Vice President Mike Pence traveled to Florida on Thursday to rally Hispanic voters by highlighting President Donald Trump's record opposing socialist leaders across Latin America. (Oct. 15)",
@@ -1176,157 +1344,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week.md",
-      "title": "2020 Daily Trail Markers: Trump and Pence return to critical battleground Michigan this week",
-      "excerpt": "CBS News Battleground Tracker poll shows Democratic presidential nominee Joe Biden leading Mr. Trump in the state, 52% to 46% among likely voters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
-      "originalUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 509,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
-      "publishedDateTime": "2020-10-14T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-vp-mike-pence-speaks-at-make-america-great-again-event-in-grand-rapids.md",
-      "title": "VP Mike Pence speaks at 'Make America Great Again' event in Grand Rapids",
-      "excerpt": "Grand Rapids is once again a stop on the campaign trail. Vice President Mike Pence visited Grand Rapids Wednesday, Oct. 14 for a “Make America Great Again” event. The vice president touched down in Air Force Two at the Gerald R.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkyc.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "originalUrl": "https://www.wkyc.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wkyc.com/assets/WZZM/images/f718784b-362c-4aa8-950d-55cb610ad3b2/f718784b-362c-4aa8-950d-55cb610ad3b2_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "cdnAmpWebUrl": "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "publishedDateTime": "2020-10-14T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKYC3",
-        "domain": "wkyc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-governor-cuomo-claims-trump-convinced-american-their-loved-ones-died-due-to-nursing-home-policy.md",
-      "title": "Governor Cuomo claims Trump convinced American their loved ones died due to nursing home policy",
-      "excerpt": "New York Gov. Andrew Cuomo on Wednesday blamed President Donald Trump for convincing people that the governor’s controversial March 25 nursing home mandate was responsible for 6,600 deaths",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/esR8Q-gvFHs/governor-cuomo-trump-nursing-home-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/esR8Q-gvFHs/governor-cuomo-trump-nursing-home-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288757069959.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/governor-cuomo-trump-nursing-home-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/governor-cuomo-trump-nursing-home-policy.amp",
-      "publishedDateTime": "2020-10-14T14:56:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: 6 lawsuits Donald Trump is going to have to deal with when he leaves office"
+    excerpt: "President Donald Trump will return to just plain old Donald Trump in 71 days.\n    \n"
+    publishedDateTime: 2020-11-10T22:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6WTJDylHvPM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-lawsuits/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-lawsuits/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160218203016-donald-trump-lawsuits-casarez-dnt-erin-00015224-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: How professional wrestling perfectly explains Donald Trump's 'Superman' stunt"
     excerpt: "This paragraph, from The New York Times, might at first shock you:\n    \n"
     publishedDateTime: 2020-10-12T01:43:58Z

@@ -383,6 +383,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Spoiler alert? Difference between Trump, Biden in key swing states is Libertarian votes"
+    excerpt: "Election results revealed a striking data point: votes cast for third-party Libertarian candidate Jo Jorgensen in key swing states exceeded the margin between votes for President Trump and President-elect Joe Biden. "
+    publishedDateTime: 2020-11-10T21:45:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E3PVvuzPnMs/libertarian-jo-jorgensen-difference-for-joe-biden-key-swing-states"
+    ampWebUrl: "https://www.foxnews.com/politics/libertarian-jo-jorgensen-difference-for-joe-biden-key-swing-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/libertarian-jo-jorgensen-difference-for-joe-biden-key-swing-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20313107857951.jpg"
+        width: 5094
+        height: 3396
+        isCached: true
   - title: "Graham encourages Trump to mount presidential bid in 2024 should election challenges 'fall short'"
     excerpt: "Sen. Lindsey Graham said Monday he would encourage President Trump to consider running again for the White House in 2024 if his efforts challenging the results of the 2020 presidential election \"fall short.\""
     publishedDateTime: 2020-11-09T16:34:51Z

@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump"
+    excerpt: "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia."
+    publishedDateTime: 2020-11-10T22:15:00Z
+    webUrl: "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021"
+    ampWebUrl: "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "oOP4wc9nv1u5Ur8FBWEiIojA9nh0TgWVyrj25Ct4Bh64ikVfKuZcJm6N/5dkYkk/LGhmQkUASXZyJBbJfyf2ii4THwAHC69LxI2+Bfu4tswS+NXl/D9f65BYFuyJodY2aHjPaNPyIEf0EPsclYpx14g0ZZ8XTXQPc0b/d/nmVeuMsJmGHO3fmd5vYUdJRpeMS2al57w32E8K/HhldCr856xrqHYlHOCVGenj9R6rwziF9mlHDjRZM2lXsHCBy3LCEy8w/BT3BRuoexFNqEJVB0z3sZT2xYkwzrK3Cx32j6xhx+ynxyw6CTuzUciWnfyzN+Gq/JX5kqlVMMr8XYH+T6rZiSeZe6rNWJ9cHREMrYk=;h2O9yyU+AutZHSMntufu4Q=="
 ---

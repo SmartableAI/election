@@ -3653,6 +3653,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'Nothing's going to stop' transition of power in U.S., Biden says"
+    excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, even as President Donald Trump says without evidence the election was marred by fraud and some of his Republican allies back probes."
+    publishedDateTime: 2020-11-10T22:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/nothings-going-to-stop-handover-of-power-in-us-biden-says-idUSKBN27Q0LI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540755709&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91WM"
+        width: 823
+        height: 545
+        isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
     publishedDateTime: 2020-11-02T08:20:00Z
@@ -4745,6 +4761,20 @@ related:
         width: 1440
         height: 1021
         isCached: true
+  - title: "Biden says transition will move on, despite Trump"
+    excerpt: "President-elect Joe Biden says President Donald Trump’s failure to recognize his victory is an “embarrassment\" and \"will not help\" Trump's legacy. But Biden says Trump's actions will not interfere with his plans to assume power on Jan."
+    publishedDateTime: 2020-11-10T22:08:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/10/biden-says-transition-move-on-despite-trump/6241311002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5440a64b-e817-4b6b-9e73-4aab249e7540_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z
@@ -5147,6 +5177,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540305028&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51PN"
         width: 817
         height: 545
+        isCached: true
+  - title: "The Trump campaign has identified 14,000 votes in Pennsylvania it wants to invalidate. It's still less than Biden's victory margin."
+    excerpt: "President-elect Joe Biden is 45,000 votes ahead in Pennsylvania. Even if President Donald Trump's allegations were true, he'd still lose."
+    publishedDateTime: 2020-11-10T22:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-lawsuit-pennsylvania-votes-biden-enough-win-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-lawsuit-pennsylvania-votes-biden-enough-win-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuit-pennsylvania-votes-biden-enough-win-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fab08b9f7d1cb0019e3afea?width=1200&format=jpeg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Legal problems galore await Donald Trump if he loses reelection and his presidential immunity"
     excerpt: "President Trump, his campaign, and his business already face legal scrutiny. Things could get much worse if he loses the White House and its immunity from prosecution."

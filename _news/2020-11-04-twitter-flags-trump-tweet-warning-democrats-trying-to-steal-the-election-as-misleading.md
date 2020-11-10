@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Schumer calls out GOP for standing by Trump"
+    excerpt: "Senate Democratic Leader Chuck Schumer  blasted Republicans for standing by President Trump's claims of fraud and refusing to accept the outcome of the presidential election."
+    publishedDateTime: 2020-11-10T22:35:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mOlB1BKeINI/schumer-calls-out-gop-for-standing-by-trump-move-on"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-calls-out-gop-for-standing-by-trump-move-on.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-calls-out-gop-for-standing-by-trump-move-on.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c604f4c-7bc8-4491-a4df-31345acddf87/97d494c9-9fe0-49cc-9ce1-61975d64d521/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign to announce Nevada lawsuit alleging nonresidents voted there"
     excerpt: "The Trump campaign is filing a federal lawsuit in Las Vegas Thursday, suing to stop the counting of what it calls “illegal votes” in Nevada, claiming to have evidence that people who are deceased and nonresidents have cast ballots in the 2020 election."
     publishedDateTime: 2020-11-05T15:46:13Z

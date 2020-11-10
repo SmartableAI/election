@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says he's telling foreign leaders it’s 'not America alone' anymore"
+    excerpt: "President-elect Joe Biden on Tuesday pledged to work closely with foreign leaders, telling them in phone calls that “it’s not America alone,” in a thinly-veiled swipe at President Donald Trump’s “America First” foreign policy."
+    publishedDateTime: 2020-11-10T21:58:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oz4BZRWDtIY/biden-foreign-leaders-not-america-alone"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20314631482354.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Ex-ICE chief Homan: 'It's terrible what's about to happen' at border under Joe Biden"
     excerpt: "Former Immigration and Customs Enforcement (ICE) Director Tom Homan warned that President Trump’s “unprecedented success” in curbing illegal immigration “all goes away” when President-elect Joe Biden takes office saying, “It's terrible what's about to happen to this border.”"
     publishedDateTime: 2020-11-10T14:36:05Z

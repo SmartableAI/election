@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden may face pressure to reshape Powell's Fed in first year"
-excerpt: "Washington - U.S. monetary policy won't be a top-of-mind concern for President-elect Joe Biden as he prepares to take office in January, with the Federal Reserve's economic arsenal already deployed against an ongoing recession and decisions about federal spending more"
-publishedDateTime: 2020-11-10T16:07:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-fed-idUSKBN27Q1FR"
-webUrl: "https://www.reuters.com/article/us-usa-election-fed-idUSKBN27Q1FR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q1FR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q1FR"
+excerpt: "But over his first year in office Biden will have to decide how deep an imprint he wants to put on the U.S. central bank, and particularly whether Fed Chair Jerome Powell's push this year to refocus it on job growth has earned enough credibility among Democrats to be reappointed."
+publishedDateTime: 2020-11-10T21:24:00Z
+originalUrl: "https://www.businessinsider.com/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-2020-11"
+webUrl: "https://www.businessinsider.com/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-2020-11"
+ampWebUrl: "https://www.businessinsider.com/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-2020-11?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540732015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91MD"
-    width: 794
-    height: 545
-    isCached: true
 
 related:
   - title: "Biden may face pressure to reshape Powell's Fed in first year"
@@ -121,6 +115,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Nin3X0alN2N+yYswZyFgEC+qLvya3kMD8h6M92ly+CHeHVdnYCrEkna55YMib/OMu1MRgLN9hJJsceZQSW296G9cHzcbwNMzpHA3vndlJ8cox6N4tyrlrgCJgLex2u/Hxio/hD75BcqCKHDaoGYsT5Cn7H4fFgkjpG9aQ4imKcupqAz6c0VQgP5FX5FIwHV2/z2ncngykduOiPLnm0VWjsu+0p9BFcXjT3cXEcmcU8imGWIb/xkqxw9OsnrYbGQ0Q4CxQ4/WtKuermaSXzuICQN+XkwUo5EzV0jX0ZncGnlO0IsRs1d4dQfI2ky8oQl4E81JjMkuXq/VmxP2IoDkuYxZCMlrPJFpMWRrvWOxgP8=;gUU7/lvI2k38ZfobzGlBvQ=="
+secured: "tW61Nb59rv9UpkVs1tJHGA+bNc7snEC++ENmD3mIUACF1bYKx6chxAOzjq3f5D3XzKlu61LwLJRoe0mFR7VIvg5azmLFo+RFoG9RUF5EPsJaSAVCQeaIiYaedbjUmeJYwGGYHOucs+nu+iK2BUBqi44fVi5tlWMyKN8wJQir9xpp9zLTSwlgZtpVjL0XaEjxa0uFtDcCONs2PqNAVKXF+sFtdmTVwPpDENQYcVuB235PYNmDi8hRO5KAPuoIGOsb0Y4D5MyZnnKcJ4joB2sGaoUsGiY/6c/Q5RvWt+EJmne9IHtCL0gpc17eHayycHrQygQT05NezsQ3jiPMjk82iYTPS8TB5V/QbNMyyF1I+LM=;hQkXlM4kgWdsyRxobOBqOw=="
 ---
 

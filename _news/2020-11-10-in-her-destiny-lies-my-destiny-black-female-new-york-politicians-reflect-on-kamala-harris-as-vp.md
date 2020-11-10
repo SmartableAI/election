@@ -447,6 +447,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 52
+  - title: "Vice President-Elect Kamala Harris' Husband Leaves Job at Powerhouse Law Firm DLA Piper"
+    excerpt: "Douglas Emhoff, the husband of U.S. Vice President-Elect Kamala Harris, will leave his job at one of the country's largest law firms by January to focus on supporting the incoming Biden administration,"
+    publishedDateTime: 2020-11-10T22:12:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Senator Kamala Harris Remarks to Reporters in Pennsylvania"
     excerpt: "Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign. Democratic Vice Presidential candidate Kamala Harris speaks to reporters after landing in Pennsylvania and responds to questions on the final full day of the presidential campaign."
     publishedDateTime: 2020-11-02T18:30:00Z

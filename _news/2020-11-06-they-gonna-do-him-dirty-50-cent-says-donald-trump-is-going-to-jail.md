@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "‘What’s the downside for humoring him?’: A GOP official’s unintentionally revealing quote about the Trump era"
+    excerpt: "What is the downside for humoring him for this little bit of time? No one seriously thinks the results will change,” the official said. “He went golfing this weekend. It’s not like he’s plotting how to prevent Joe Biden from taking power on Jan."
+    publishedDateTime: 2020-11-10T22:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BABJHWE75EI6VPQGV5KRJ3QDQU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Lil Wayne Shows His Support for Donald Trump After Having a 'Great Meeting' with the President"
     excerpt: "Lil Wayne is expressing support for Donald Trump. The rapper, 38, shared a photo with Trump, 74, on Twitter Thursday, saying that they had a \"great meeting.\" Lil Wayne (né Dwayne Michael Carter Jr.) also praised the president's Platinum Plan,"
