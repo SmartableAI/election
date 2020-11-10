@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Why Trump is (still) forever"
+    excerpt: "Whether he's willing to admit it, Donald Trump has lost the presidency. And in 72 days, he will be gone from the White House.\n    \n"
+    publishedDateTime: 2020-11-09T23:31:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o1yx4pRG47c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-gop-after-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-gop-after-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106225744-donald-trump-rally-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: The most important line in Barack Obama's takedown of Donald Trump"
     excerpt: "Former President Barack Obama reemerged on the campaign trail Wednesday in Philadelphia, delivering an across-the-board indictment of his successor's first four years in office.\n    \n"
     publishedDateTime: 2020-10-22T15:23:14Z

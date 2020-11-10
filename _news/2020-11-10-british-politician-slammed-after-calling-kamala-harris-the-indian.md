@@ -368,6 +368,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "British Peer Criticized for Calling Kamala Harris ‘the Indian’"
+    excerpt: "Lord Kilclooney, a member of the House of Lords, claimed not to know the vice president-elect’s name when he wrote the offending Twitter post."
+    publishedDateTime: 2020-11-09T20:48:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/world/europe/lord-kilclooney-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/world/europe/lord-kilclooney-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/world/europe/lord-kilclooney-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/world/09uk-lord-1/09uk-lord-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote"
     excerpt: "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”"
     publishedDateTime: 2020-11-03T02:30:00Z
@@ -415,6 +431,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/03/multimedia/03elections-briefing-harrisIndia/03elections-briefing-harrisIndia-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Girls, young women and mothers react to Kamala Harris as vice president elect"
+    excerpt: "Kamala Harris is the vice president-elect, according to NBC News projections. It makes her the first woman in U.S. history to achieve the position. Here’s what mothers, young women and girls had to say about the landmark moment."
+    publishedDateTime: 2020-11-10T00:41:00Z
+    webUrl: "https://www.nbcnews.com/now/video/girls-young-women-and-mothers-react-to-kamala-harris-as-vice-president-elect-95615557650"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95615557650"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95615557650"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_girlsreact_harris_201109.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "NBC News Exit Poll: Kamala Harris viewed favorably by just over half of voters"
     excerpt: "If elected vice president, Sen. Kamala Harris would be the first woman and the first person of color to serve in that role."

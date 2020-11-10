@@ -400,6 +400,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How the Trump administration's roadblocks could cause problems for Biden"
+    excerpt: "President Donald Trump's refusal to accept the election results will do nothing to keep President-elect Joe Biden from taking the oath of office January 20. But the roadblocks that members of his administration are placing in the way of an orderly transition could cause serious problems.\n    \n"
+    publishedDateTime: 2020-11-10T02:25:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yp5sK4d_yT8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/what-matters-november-9/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/what-matters-november-9/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109161922-biden-mask-1109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republicans eye 2024 White House bids and debate post-Trump era as 2020 election ends"
     excerpt: "Four years ago, Sen. Marco Rubio made a bid for the White House. And four years from now, the Florida Republican might do it again.\n    \n"
     publishedDateTime: 2020-11-02T22:16:21Z
@@ -429,6 +445,22 @@ related:
     quality: 182
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103125256-01-election-day-voters-louisville-ky-1103-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact Check: Trump continues to tweet baseless claims of election fraud in swing states "
+    excerpt: "In a series of tweets on Monday, President Donald Trump continued to question the legitimacy of the vote count in Pennsylvania, Nevada, Georgia and Wisconsin, four battleground states that have been the subject of much scrutiny this election.\n    \n"
+    publishedDateTime: 2020-11-10T02:49:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qWx8S70Wpqk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-tweets-swing-state-fraud-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-tweets-swing-state-fraud-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200806175925-trump-twitter-facebook-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -800,6 +832,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden allies brace for a contentious transition"
+    excerpt: "Reality is setting in among President-elect Joe Biden's allies that the transition leading up to his January 20 inauguration may be more difficult than many inside Biden-world had assumed, two officials said Monday, with a legal fight now a possibility.\n    \n"
+    publishedDateTime: 2020-11-10T02:21:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b_FfzFVID2Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-transition-delay/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-transition-delay/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109160306-biden-coronavirus-briefing-1109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top congressional Republicans still haven't acknowledged Biden's victory"
     excerpt: "President-elect Joe Biden urged the country \"to lower the temperature\" in his victory speech on Saturday night, but Republican leaders he'll have to work with in Congress have either urged President Donald Trump to not concede or stayed silent despite no widespread evidence of fraud in the election.\n"
     publishedDateTime: 2020-11-08T22:24:55Z
@@ -1005,6 +1053,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200826220342-25-rnc-wednesday-offset-grenell-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's who's on President-elect Biden's newly formed Transition Covid-19 Advisory Board"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris' newly appointed Transition Covid-19 Advisory Board is led by established public health officials and staffed by a mix of doctors and current and former government officials, some with high-profile media visibility.\n    \n"
+    publishedDateTime: 2020-11-09T22:03:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LWCzyISwcEw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/health/members-of-biden-covid-19-advisory-board/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/health/members-of-biden-covid-19-advisory-board/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109112817-biden-coronavirus-task-force-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1567,6 +1631,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump Appointee Stands Between Biden’s Team and a Smooth Transition"
+    excerpt: "Emily W. Murphy, the administrator of the General Services Administration, must formally recognize President-elect Joseph R. Biden Jr. for the transfer of power to begin."
+    publishedDateTime: 2020-11-10T02:49:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-biden-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-biden-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/trump-biden-transition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/us/politics/09dc-murphy/09dc-murphy-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."
@@ -2139,6 +2219,38 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/06/upshot/06up-whats-left/06up-whats-left-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Biden Moves to Confront a Pandemic Racing Out of Control"
+    excerpt: "President-elect Joseph R. Biden Jr. named a panel of health care experts to draft policies to address the coronavirus pandemic, as he implored Americans to wear masks."
+    publishedDateTime: 2020-11-10T00:46:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/biden-coronavirus-pandemic.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/biden-coronavirus-pandemic.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/biden-coronavirus-pandemic.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/us/politics/09dc-virus-biden-top/09dc-virus-biden-top-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Video Uses Artist’s Vision to Project a Unified Country"
+    excerpt: "This postelection campaign offering employs Lorraine O’Grady’s concept of placing people inside frames to promote images of an inclusive, diverse America."
+    publishedDateTime: 2020-11-10T02:50:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/arts/biden-unity-video-uses-artists-vision.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/arts/biden-unity-video-uses-artists-vision.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/arts/biden-unity-video-uses-artists-vision.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/arts/09biden-artist-ad4/09biden-artist-ad4-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true

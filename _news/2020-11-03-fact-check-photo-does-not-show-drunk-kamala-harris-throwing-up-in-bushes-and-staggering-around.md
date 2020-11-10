@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 855
         isCached: true
+  - title: "Moving illustration of Kamala Harris walking alongside Ruby Bridges goes viral"
+    excerpt: "An illustration of Kamala Harris walking next to a young Ruby Bridges, the first African American student to integrate an elementary school in the South, has gone viral."
+    publishedDateTime: 2020-11-10T00:32:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/moving-illustration-kamala-harris-walking-alongside-ruby-bridges/story?id=74105382"
+    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/moving-illustration-kamala-harris-walking-alongside-ruby-bridges-74105382"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/moving-illustration-kamala-harris-walking-alongside-ruby-bridges-74105382"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-harris-26-ap-jc-201107_1604803158311_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Where is California native Kamala Harris spending Election Day?"
     excerpt: "Kamala Harris is spending part of her last day on the campaign trail in Detroit. She'll be touring the Motor City on Election Day, encouraging supporters to go to the polls, according to reports. The California native's last-minute visit in Michigan signals the importance of this state."
     publishedDateTime: 2020-11-03T19:17:00Z
@@ -332,6 +348,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/Election_2020_Harris_India_08208.jpg?w=1024&h=708"
         width: 1024
         height: 708
+        isCached: true
+  - title: "What a Vice President Kamala Harris means for California"
+    excerpt: "The Golden State will gain a strong ally in the White House and new national influence with a Californian as Joe Biden’s second-in-command."
+    publishedDateTime: 2020-11-09T10:34:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/09/home-state-advantage-what-a-vice-president-kamala-harris-means-for-california/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/09/home-state-advantage-what-a-vice-president-kamala-harris-means-for-california/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/09/home-state-advantage-what-a-vice-president-kamala-harris-means-for-california/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/AP_20312146734383.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Pride at Kamala Harris’ childhood elementary school as Bay Area native makes history"
     excerpt: "Berkeley’s Kamala Harris was “that little girl” bused in the late 1960s from her flatlands neighborhood on Bancroft Way to help integrate this school in Berkeley’s upscale foothills."

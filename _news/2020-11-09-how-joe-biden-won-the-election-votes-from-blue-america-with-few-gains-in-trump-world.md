@@ -176,6 +176,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden beat Trump by less than 276,000 votes in key swing states"
+    excerpt: "They’re still counting the votes in a handful of the key battleground states in the presidential election – but a look at where the current vote totals stand points to a second straight White House race decided by razor thin margins."
+    publishedDateTime: 2020-11-09T23:52:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IDVuki1p9Wk/biden-beat-trump-votes-swing-states"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-beat-trump-votes-swing-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-beat-trump-votes-swing-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump, Biden celebrate Pfizer revealing coronavirus vaccine progress"
     excerpt: "President Trump and President-elect Joe Biden both celebrated the news that a coronavirus vaccine being developed by Pfizer and BioNTech was found to be more than 90% effective in preventing COVID-19 in their Phase 3 clinical trial."
     publishedDateTime: 2020-11-09T14:13:49Z
@@ -256,6 +272,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: Biden beat Trump by less than 276,000 votes in key swing states"
+    excerpt: "They’re still counting the votes in a handful of the key battleground states in the presidential election – but a look at where the current vote totals stand points to a second straight White House race decided by razor thin margins."
+    publishedDateTime: 2020-11-10T03:26:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p5QtbmWflKQ/live-updates-biden-beat-trump-by-less-than-276000-votes-in-key-swing-states"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-beat-trump-by-less-than-276000-votes-in-key-swing-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-beat-trump-by-less-than-276000-votes-in-key-swing-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b99a4e3-6bcd-43e9-a247-8a7918778ec3/a6b15013-5673-4df4-9c59-2299f9efc77c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden wins presidency, Trump denied second term in White House, Fox News projects"
     excerpt: "Democratic presidential nominee Joe Biden has defeated incumbent President Donald Trump, denying him a second term in the White House, Fox News projects."
     publishedDateTime: 2020-11-07T16:39:53Z
@@ -303,6 +335,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310605572803.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden plans to rejoin Paris Agreement and WHO, undo other Trump decisions on Day 1"
+    excerpt: "President-elect Joe Biden plans, on his first day in the White House, to enact four executive orders rolling back President Trump's efforts on a number of issues, the campaign told Fox News on Monday."
+    publishedDateTime: 2020-11-10T01:12:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OcphD_JBmgQ/biden-executive-orders-day-one"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-day-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-day-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38efdbc8-5532-4aa4-8110-6895c604cb59/7f9a67ed-ea23-4f99-a30e-fed73ec9286f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "All eyes on Pa., other battlegrounds as Biden increases lead, Trump vows legal fight"
     excerpt: "Democratic nominee Joe Biden was on the brink of securing the 270 electoral votes needed to win the presidency Saturday as he increased his lead in Pennsylvania and other key battleground states -- while President Trump forged ahead with a legal fight."
@@ -958,6 +1006,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "McConnell, Other GOP Leaders Back Trump in Questioning Election Results"
+    excerpt: "In his first comments since President-elect Joe Biden secured enough electoral votes to win the White House, Sen. Mitch McConnel (R., Ky.) joined other senior Republican lawmakers backing President Trump’s decision not to concede the election."
+    publishedDateTime: 2020-11-10T00:11:00Z
+    webUrl: "https://www.wsj.com/video/mcconnell-other-gop-leaders-back-trump-in-questioning-election-results/8BDD420F-44B1-4B03-99EE-E69D908908C1.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "http://m.wsj.net/video/20201109/110920gopreax2/110920gopreax2_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign predicts victory as early as Friday: 'Donald Trump is alive and well'"
     excerpt: "President Trump's campaign remained confident Thursday, predicting not only that the incumbent Republican will win the 2020 election, but that the result could become apparent as soon as Friday."
     publishedDateTime: 2020-11-05T18:51:00Z
@@ -973,6 +1035,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5710a1ac-db7a-49d3-a506-14afea4ee0a5/42e2636e-cea3-4feb-934a-e956db5e7c88/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "NBA player J.R. Smith blasts 'F--k Donald Trump' song, flips off pro-Trump supporters"
+    excerpt: "Los Angeles Lakers guard J.R. Smith was excited about former Vice President Joe Biden’s victory over President Trump in the 2020 presidential election."
+    publishedDateTime: 2020-11-09T22:51:00Z
+    webUrl: "https://www.foxnews.com/sports/lakers-jr-smith-donald-trump-song-flips-off-pro-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/sports/lakers-jr-smith-donald-trump-song-flips-off-pro-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/lakers-jr-smith-donald-trump-song-flips-off-pro-trump-supporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/Daniel-Canova.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Republicans Hold Top Election Roles in Some States Trump Says Are Skewing Counts"
     excerpt: "President Trump complained during his Thursday press conference that vote-counting in the outstanding states is being overseen by Democrats, even though Republicans occupy key roles in several battlegrounds."

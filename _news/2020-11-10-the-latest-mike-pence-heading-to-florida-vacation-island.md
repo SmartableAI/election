@@ -1,29 +1,29 @@
 ---
 category: news
 title: "The Latest: Mike Pence heading to Florida vacation island"
-excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
-publishedDateTime: 2020-11-09T17:01:00Z
-originalUrl: "https://madison.com/news/national/govt-and-politics/the-latest-mike-pence-heading-to-florida-vacation-island/article_5bf6f084-054f-5893-8ac4-037f14a960c1.html"
-webUrl: "https://madison.com/news/national/govt-and-politics/the-latest-mike-pence-heading-to-florida-vacation-island/article_5bf6f084-054f-5893-8ac4-037f14a960c1.html"
-ampWebUrl: "https://madison.com/news/national/govt-and-politics/the-latest-housing-secretary-ben-carson-positive-for-virus/article_5bf6f084-054f-5893-8ac4-037f14a960c1.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/govt-and-politics/the-latest-housing-secretary-ben-carson-positive-for-virus/article_5bf6f084-054f-5893-8ac4-037f14a960c1.amp.html"
+excerpt: "WASHINGTON (AP) \" The Latest on President-elect Joe Biden (all times local): 9 p.m. International observers from the Organization of American States"
+publishedDateTime: 2020-11-10T03:52:00Z
+originalUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote"
+webUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote"
+ampWebUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
+cdnAmpWebUrl: "https://www-heraldnews-com.cdn.ampproject.org/c/s/www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: The Herald News
+  domain: heraldnews.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/4/17/41737f28-bfd9-54e9-a4b8-cbc8a6843480/5fa9452fa6d07.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://www.heraldnews.com/apps/pbcsi.dll/bilde?Site=ZZ&Date=20201109&Category=NEWS&ArtNo=311099982&Ref=AR"
+    width: 512
+    height: 341
     isCached: true
 
 related:
@@ -389,6 +389,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "P8kf9cJxTidVdGp9GbWYoZ/m/hBcwk5SnU+DR17Wuv5FBymq3ikejdi2HadoWZAqdwJP7w8JGkTqB4bfYlMXCGOfQH0h6R7U1ATkwNUdosJ9GuSdwDr3bMEdvxyW6h2gx3M3M9WBbVxOrhU5Dz9yECI8AiV8jY8j7IQFtO/xK+zVnKPvsd/52oAwd9xOaqg6Hb5LibdDfk159IAnoxMKjkOTRx0s05Kbc9yYjh/FXU2TqGQ064g/LSdUPguwxKS4X4ff9hN09m+FZ1rCh6Xe7ikFwa+b5QkxvVx/20KjBq5J1pw8jfhqmUUajSZ5gL1aRY2/4iDjsdLqm0tOC/GuwPIF6M3Ko+dzob+9Gm0+/HMHBQQRs6g7LGBvalMk9WRqwHiO++2jYBtiTq9eFTUVxTwkBQYL4pjDEDitepjEEBY7MD0cKDK1cJuD6Yba61zxORj1f/smAlvPgHSM6EPGJxkLRsdLIc659gBwitocDbgVF3nzxHy4Fe3i7J6luVM/j8XwPxiy5Di+hJRfJuLzGw==;aY921fphq9q30OWXNlkBYg=="
+secured: "w66xIyany6I+qkiCz6JClLE36IuoG+rH0WQK2z90EGmwl2yzhN1GYtnOtvIxi6FDq2f/EhfLEYIQWwwE3BpC+QDlQyOVohXSnF52QIYXuV4tD+H61pOnzCNWGJy43BFLmONpoxwMusvI1bYKlKdemzD6PURMYkCCR6TEsCg9zlQywZbRXp1KmVrFBaLFd3M5eEYRXEsGkgNeXHOIgp62V2NFB2dt8sAMMy1tLLG4VZVsc5dQlBxd3gGbjnTAqNgNPB894xMHCc13nm/2CLofiFE90R8um3Fa2xlSvwbdbKU/KXluuDUV8BdAEMopCpdycdnPUuNbsEBCgu477t6QiXMYOUU73r5OVeqts91byMM=;cDOI2+aHXZxo8PlHFv3CeA=="
 ---
 

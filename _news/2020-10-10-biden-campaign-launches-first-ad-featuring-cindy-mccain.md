@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-ad-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-ad-cindy-mccain/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cindy McCain: John McCain 'would be very pleased' at Biden's win"
+    excerpt: "The late Arizona Republican Sen. John McCain would be happy that Joe Biden has won the presidency, his widow Cindy McCain said Monday.\n    \n"
+    publishedDateTime: 2020-11-10T03:00:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/op2hrklDPAA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/cindy-mccain-john-mccain-pleased-biden-win-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/cindy-mccain-john-mccain-pleased-biden-win-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109214113-cindy-mccain-clip-ac360-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden crosses 270 threshold in CNN's Electoral College outlook for first time "
     excerpt: "Joe Biden is surging in the battle for the White House with less than four weeks to go until Election Day.\n    \n"
     publishedDateTime: 2020-10-07T23:51:23Z

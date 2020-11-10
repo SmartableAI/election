@@ -31,115 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign charts uncertain path forward as tensions bubble up"
-    excerpt: "President Donald Trump's campaign team huddled in their Virginia headquarters on Monday to discuss their ongoing efforts to contest the election results but tension remains high as the staff faces an uncertain future.\n    \n"
-    publishedDateTime: 2020-11-09T18:52:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BMBAJpSP8i4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-campaign-future/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-campaign-future/index.html"
+  - title: "Top Democrat says Trump administration moving ahead with sale of F-35 jets to the UAE"
+    excerpt: "The chairman of the House Foreign Affairs Committee said Thursday that the Trump administration has informally notified Congress of its intent to move forward with a major arms sale to the United Arab Emirates involving advanced F-35 jets.\n    \n"
+    publishedDateTime: 2020-10-29T17:50:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfsYpxzAR3E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/f-35-jets-uae/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/f-35-jets-uae/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103164319-donald-trump-election-day-campaign-staff-0311-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029133251-01-f-35-lightning-ii-joint-strike-fighter-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump supporters at rallies continue to get stranded in chilly temperatures"
-    excerpt: "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n"
-    publishedDateTime: 2020-11-02T18:16:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A6aP7hMdzj8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
+  - title: "Obama heads to Georgia as Democrats seek breakthrough that has eluded them in Trump era "
+    excerpt: "Joe Biden's campaign is dispatching former President Barack Obama to Atlanta on Monday in a bid to finish Democrats' four-year project of turning Georgia blue.\n    \n"
+    publishedDateTime: 2020-11-02T14:17:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x_tWL_xhAOE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/georgia-biden-obama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/georgia-biden-obama/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031141838-01-obama-flint-michigan-1031-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "For Trump voters, shock, disappointment and disbelief."
-    excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
-    publishedDateTime: 2020-11-07T22:53:00Z
-    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+  - title: "'We had a shortage last night of beds for babies': House report outlines chaos of Trump administration's family separation policy"
+    excerpt: "\"We had a shortage last night of beds for babies,\" an official at the Office of Refugee Resettlement wrote to the agency's director on November 11, 2017.\n    \n"
+    publishedDateTime: 2020-10-29T13:31:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gu6UCAaICEU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/family-separation-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/family-separation-report/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190821121231-01-cbp-migrant-family-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump finds yet another Democrat he's eager to 'lock up'"
+    excerpt: "Trump now wants to \"lock up\" the chairman of the House Intelligence Committee. Adam Schiff at least has quite a bit of company."
+    publishedDateTime: 2020-10-22T15:02:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-finds-yet-another-democrat-he-s-eager-lock-ncna1244285"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244285"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244285"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/07/nyregion/07election-live-blog-trump-disbelief/07election-live-blog-trump-disbelief-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_07/3224556/schiff_trump_russia_probe_60450-78995-maddowblog_f880ee5abeaa8d630c9e91def873f2fd.jpg"
+        width: 830
+        height: 553
         isCached: true
-  - title: "Trump Lost the Race. But Republicans Know It’s Still His Party."
-    excerpt: "Inside the Zoom salons, Senate-office conversations and 2024 jockeying that will shape the future of the G.O.P."
-    publishedDateTime: 2020-11-09T09:32:00Z
-    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
+  - title: "Is the Trump administration really 'working very hard' to reunite migrant parents and children?"
+    excerpt: "Advocates say Trump admin is only offering assistance now to reunite parents and kids because of \"backlash\" over reports about 545 kids still separated."
+    publishedDateTime: 2020-10-24T01:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/trump-administration-really-working-very-hard-reunite-migrant-parents-children-n1244530"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244530"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244530"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
     images:
-      - url: "https://static01.nyt.com/images/2020/11/07/us/politics/0gop-whathappensnext-1/merlin_179715216_006831f4-4064-4500-afbf-0577732f6f43-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "What’s Next for Trump? The Family Business Awaits His Return"
-    excerpt: "President Trump has long complained that public office cost him billions. Now he faces the challenge of jump-starting the company that bears his name, while television also beckons."
-    publishedDateTime: 2020-11-09T01:09:00Z
-    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/07/multimedia/00TrumpOrg-Lose-2/merlin_174048489_c65deb2b-cda2-403e-a1b3-1fd5d90d39ad-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "The Trump campaign has set up two ‘war rooms’ in the White House complex"
-    excerpt: "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration."
-    publishedDateTime: 2020-11-03T22:05:00Z
-    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-trump-war-rooms/merlin_179500989_407a05bc-4770-455e-9b3a-43a7dc7f816b-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Hispanic Voters Deliver a Texas Win for Trump"
-    excerpt: "The Rio Grande Valley shifted decisively toward President Trump, cancelling out votes for Joseph R. Biden Jr. in urban and suburban areas."
-    publishedDateTime: 2020-11-08T02:19:00Z
-    webUrl: "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/04/us/texas-election-battleground-state-counties-promo-1604498818927/texas-election-battleground-state-counties-promo-1604498818927-facebookJumbo-v17.jpg"
-        width: 1050
-        height: 549
+      - url: "https://media2.s-nbcnews.com/i/newscms/2019_04/2726386/190123-detention-center-texas-immigrant-children-cs-1239a_4a8e6a6b23bb0473b8e741417341d891.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "wV7wIMg5NL6QGl5UDTHcTLkLJ5klKeObLQ16R/1RvMh9cGLg3fh6e+zoqshHfZ3uI6pJt8rZVtL5ePbJDwkwN7sD+2dUEdIL5Hg63rZ8LucmA52NTb4iWW7uJXIPxnBByEILyOkfPSrZ2g8k3CQzsiEONkIpb3EzJtrwU5jMsurOfa09kRcbUNTu9RiJmpgI5sNCbzqflaUFQtTjFFiPCyte53G9daIA18q6bRkesEFhz8kOI4rpjLVdFnnJQZomwJAFR6yJ51Nc5PsYKWmkw+GksYA+VukZhhlti16frFPe7Fj/ZgrQkwuYl5ehbJ3WZgc6x8Pd60TXNIVbo2YZuzUK1DhXEd2usG8mR1v6KH0=;t0QgvmHf7ZH9kTkON6bCKw=="

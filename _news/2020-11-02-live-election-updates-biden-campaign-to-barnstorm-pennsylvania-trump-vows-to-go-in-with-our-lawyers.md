@@ -1615,6 +1615,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "How COVID-19 shaped the 2020 election: It swung some voters to Biden but bolstered Trump with his base"
+    excerpt: "Voters were torn over a virus that threatens their lives and livelihoods, but 59% viewed it as an even higher priority than the economy, data showed."
+    publishedDateTime: 2020-11-10T00:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/covid-19-shaped-2020-election-amid-split-biden-trump-response/3729201001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3729201001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3729201001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 139
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/31/USAT/0ce85bbb-a038-4cb3-81db-03efe11419d1-Biden_Trump_Campaign.jpg?auto=webp&crop=3999,2249,x1,y151&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lawyers from both parties puzzled by Donald Trump's election legal strategy"
     excerpt: "After weeks of speculation about the potential for a tight 2020 presidential contest to wind up in court, the Trump campaign appears to have unveiled its strategy: a succession of lawsuits in hard-fought swing states and a full-court press to give the impression that the election and ballot-counting process were rife with fraud."
     publishedDateTime: 2020-11-06T12:11:00Z
@@ -1710,6 +1726,22 @@ related:
       - url: "https://i.insider.com/5fa6f492f7d1cb0019e3a64c?width=1200&format=jpeg"
         width: 689
         height: 344
+        isCached: true
+  - title: "Senate's McConnell says Trump has right to probe election 'irregularities'"
+    excerpt: "The top Republican in the U.S. Congress on Monday said President Donald Trump was well within his rights to look into charges of \"irregularities\" in last week's election, which has been called for Democrat Joe Biden,"
+    publishedDateTime: 2020-11-10T04:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-republicans-idUSKBN27P2NE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P2NE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P2NE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540604210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81TY"
+        width: 817
+        height: 545
         isCached: true
   - title: "How to watch the last presidential debate between Joe Biden and Donald Trump"
     excerpt: "The first debate was combative. The second debate was cancelled. Now, the final debate between Trump and Biden is finally here."
@@ -2048,6 +2080,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 135
+  - title: "Mitch McConnell supports Trump's refusal to concede to President-elect Joe Biden"
+    excerpt: "\"President Trump is 100% within his rights to look into allegations of irregularities and weigh his legal options,\" the Senate Majority Leader said."
+    publishedDateTime: 2020-11-09T23:48:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-declines-to-acknowledge-joe-biden-presidential-victory-trump-2011-11"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-declines-to-acknowledge-joe-biden-presidential-victory-trump-2011-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-declines-to-acknowledge-joe-biden-presidential-victory-trump-2011-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fa9c1831df1d50018219bbb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump says he will score a 'big win,' accuses Democrats of trying to steal election"
     excerpt: "Republican President Donald Trump, in a tweet early on Wednesday, predicted he will win a second four-year term and accused Democrats of attempting to \"steal\" the election from him, without citing any evidence."
     publishedDateTime: 2020-11-04T06:28:00Z
@@ -2159,6 +2207,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/05/USAT/f1a0fffe-a198-487a-940a-aacfa19f03c1-AP_Election_2020_Protests_Detroit.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump officials can be heard on leaked audio denying the election results days after President-elect Joe Biden won"
+    excerpt: "USAID Acting Administrator John Barsa reportedly threatened staffers who sought to find another job following Joe Biden's election."
+    publishedDateTime: 2020-11-10T04:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-officials-heard-on-leaked-audio-denying-the-election-results-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/trump-officials-heard-on-leaked-audio-denying-the-election-results-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-heard-on-leaked-audio-denying-the-election-results-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 133
+    images:
+      - url: "https://i.insider.com/5fa9c4b21df1d50018219bc7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Lawyers favor Biden in campaign donations, including Trump's re-election firm"
     excerpt: "Lawyers at Jones Day, a firm that has earned millions of dollars as outside counsel to U.S. President Donald Trump's re-election campaign, have donated nearly $90,000 to his Democratic rival Joe Biden's campaign since last year compared to $50 to Trump's campaign,"
@@ -2354,6 +2418,22 @@ related:
     quality: 130
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/06/USAT/fa9a86cc-7bef-4872-a16e-69c9d16d22cf-AFP_AFP_8UN3CN.jpg?auto=webp&crop=6047,3401,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Call off the legal dogs.' Some GOP donors aren't keen to help Trump with election lawsuits"
+    excerpt: "\"Republican donors are about to seek extreme social distance from Donald J. Trump,” one donor said, adding he should \"call off the legal dogs.”"
+    publishedDateTime: 2020-11-10T01:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/trump-legal-fight-over-election-pricey-some-donors-arent-sold/6228092002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6228092002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228092002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/29/USAT/95eda6cb-d6de-4681-af51-0488a19e59f5-AP_Electon_2020_Trump.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -3351,8 +3431,24 @@ related:
         isCached: true
   - title: "Biden convenes U.S. pandemic task force and hails vaccine progress"
     excerpt: "President-elect Joe Biden convened a task force on Monday to devise a blueprint for tackling the coronavirus pandemic in the United States and hailed progress on a vaccine, while President Donald Trump steadfastly refused to acknowledge his defeat."
-    publishedDateTime: 2020-11-09T21:53:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/biden-focuses-on-us-coronavirus-pandemic-and-hails-vaccine-progress-idUSKBN27P0D4"
+    publishedDateTime: 2020-11-09T21:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/biden-focuses-on-us-coronavirus-pandemic-and-hails-vaccine-progress-idUSKBN27P11Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P11Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P11Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540574554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81DO"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden lauds COVID-19 vaccine progress, White House seeks credit"
+    excerpt: "President-elect Joe Biden hailed Pfizer Inc's <PFE.N> progress toward a COVID-19 vaccine on Monday but urged Americans to wear masks because it may not be widely available for many months, as President Donald Trump's administration tried to claim credit."
+    publishedDateTime: 2020-11-09T23:09:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-welcomes-covid-19-vaccine-breakthrough-white-house-seeks-credit-idUSKBN27P0D4"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P12Z"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P12Z"
     type: article
@@ -3459,6 +3555,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540187312&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA41ZI"
         width: 833
+        height: 545
+        isCached: true
+  - title: "Miller arrives at Pentagon after Trump names him acting defense secretary"
+    excerpt: "President Donald Trump's pick to replace Defense Secretary Mark Esper arrived at the Pentagon on Monday about an hour after the president tweeted his decision to remove Esper from the job, offering an unceremonious exit for the Pentagon chief after public policy clashes."
+    publishedDateTime: 2020-11-10T00:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-defense-miller-esper/miller-arrives-at-pentagon-after-trump-names-him-acting-defense-secretary-idUSKBN27P2PF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P2PF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P2PF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540589176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81OP"
+        width: 817
         height: 545
         isCached: true
   - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
@@ -4379,6 +4491,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "White House, escalating tensions, orders agencies to rebuff Biden transition team"
+    excerpt: "With high stakes during one of the most volatile periods in U.S. history, a shadow transition is beginning to take shape."
+    publishedDateTime: 2020-11-10T03:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-transition-agencies-biden/2020/11/09/ad9f2ba2-22b7-11eb-952e-0c475972cfc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-transition-agencies-biden/2020/11/09/ad9f2ba2-22b7-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-transition-agencies-biden/2020/11/09/ad9f2ba2-22b7-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A2GH47RCEUI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 1021
+        isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z
@@ -5262,6 +5390,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden begins transition with focus on coronavirus pandemic"
+    excerpt: "President-elect Joe Biden has assembled his own coronavirus task force, which includes members of both the Obama and Bush administrations, plus Rick Bright, a former Trump administration official. Ed O'Keefe reports."
+    publishedDateTime: 2020-11-10T00:10:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-begins-transition-with-focus-on-coronavirus-pandemic/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/09/8fffac7b-0d11-499e-be00-3998fa146623/thumbnail/1200x630/02295f338c74b876a59136c34f9e063a/1109-en-okeefe-584497-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Putin won't congratulate Biden until legal action resolved"
     excerpt: "Russian President Vladimir Putin won’t congratulate President-elect Joe Biden until legal challenges to the U.S. election are resolved and the result is official, the Kremlin announced Monday."
     publishedDateTime: 2020-11-09T16:07:00Z
@@ -5273,6 +5415,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump Gets Help Again From Appointee Holding Up Transition"
+    excerpt: "A little-known agency head who has delayed triggering a formal government transition to the Biden administration has been a top official at the organization when it sided with President Donald Trump in disputes."
+    publishedDateTime: 2020-11-10T02:27:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-gets-help-again-from-appointee-holding-up-transition/2020/11/09/c76be346-22fc-11eb-9c4a-0dc6242c4814_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WK43OKRC7QI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 922
+        isCached: true
   - title: "Biden moves ahead in Georgia and Pennsylvania, moving closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to"
     publishedDateTime: 2020-11-06T14:54:00Z

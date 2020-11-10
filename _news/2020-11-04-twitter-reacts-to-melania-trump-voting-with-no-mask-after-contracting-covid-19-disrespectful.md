@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "David Bossie, Trump campaign adviser overseeing campaign legal challenges, has COVID-19"
+    excerpt: "Bossie was tapped just a few days ago to head the Trump campaign's legal challenges in contesting the outcome of the presidential election."
+    publishedDateTime: 2020-11-09T23:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/covid-19-campaign-adviser-david-bossie-tests-positive/6228110002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6228110002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228110002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/dacb6498-dfd3-4970-bc6c-0276d4238ff6-AP_Election_2020_Protests_Phoenix.jpg?auto=webp&crop=5081,2859,x0,y169&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Doctors groups rip Trump for touting 'baseless' conspiracy theory over COVID-19 death count"
     excerpt: "Medical groups such as the American Medical Association denounced President Trump's claim that doctors inflate COVID-19 deaths, calling it \"malicious.\""
     publishedDateTime: 2020-11-03T00:58:00Z

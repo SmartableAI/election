@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1500
         height: 781
         isCached: true
+  - title: "'They Deserve Any Mockery They Get.' Prank Callers Flood Trump's Voter Fraud Hotline, Forcing the President's Campaign to Create New Ones"
+    excerpt: "In response, prank callers have been flooding the number—as well as additional numbers the campaign has set up—with spam calls. Despite the fact that there have been no legitimate allegations of widespread voter fraud,"
+    publishedDateTime: 2020-11-09T23:19:00Z
+    webUrl: "https://time.com/5909443/trump-hotline-prank-calls-voter-fraud-election-tiktok/?linkId=104031968"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 52
 
 secured: "W2FuqDg8dTWVMsm4XCJfinORswYgVvIXdfHAcD12RDEPdm+E+j+EL/gTSWH8zLN+P2khD7s+E4nE5yGLRDrLhjBw8jsc2uEC3H+MwrH4n0IDqVP97jdu5D1DAPfWScr6DCHxUxib/9Y/Xx7KvocYBvAJBTXxeS6/4cHq+OBJ80TTV3i9i84rUjA53uPBn9/pRT8GwgHcAfHicQCOCW/eYA7XvzTWO8Cv8MhtN36MzxX2PJVNRddPwxY1xwq30rvP9pWGnI5hgTpGI296VU+WbDvtPVb8dlf9xonFv6RjwfgMgqWjq2Ta6BIKOzOn1Mjo25+CqNcrHwKJlefHT4PfB/uKnJI9uMlCg5qIe8/DokbupAkyIdSWJ4dkbUhdMcTDoI2QjD/OaMd0U+sgiH0mFltEKKn+Updp+HLo15HxF1Si6VCyQ4llTHvvZ4dHyrXqRP+1uWeTqdNbHtERY27+oayAMSJOLVMHLfdOzD65eUdRmboCO7apaVjA5mXBWmRQYkGQQABw+FRqd9GaTWAJZQ==;bIVx1wReM1CvGhHyEfKhHw=="
 ---

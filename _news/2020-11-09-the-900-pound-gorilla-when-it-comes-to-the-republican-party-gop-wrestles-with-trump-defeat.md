@@ -63,6 +63,15 @@ related:
         width: 1500
         height: 781
         isCached: true
+  - title: "'They Deserve Any Mockery They Get.' Prank Callers Flood Trump's Voter Fraud Hotline, Forcing the President's Campaign to Create New Ones"
+    excerpt: "In response, prank callers have been flooding the number—as well as additional numbers the campaign has set up—with spam calls. Despite the fact that there have been no legitimate allegations of widespread voter fraud,"
+    publishedDateTime: 2020-11-09T23:19:00Z
+    webUrl: "https://time.com/5909443/trump-hotline-prank-calls-voter-fraud-election-tiktok/?linkId=104031968"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 52
 
 secured: "7rY8LEbMnDHiD73SRcDaFq1tlcIZtW4OnN4kLmOCeXib4oDCap5nYkBtULyD9wYqoI9DQrBftdXSZrwXmjGCsbo51XjNm5A0j3gD4vFkT0jj9pFUb60XR6+wrFPjp8tBBRL9psEsQ+zhTJU5iXlm5IcYPbzCoUgyCyLKPhTr8yKFDMxFLaTNWt7f2JxFC+DQespWTPLD5K3l2OJeA0slVXZEBrSxiERjvrBn6TGhf+SglmIvg/fv+/3/zxGMoLcyR2FXrv87G+OKliaNCCaMrSwC9yOX/wMax/lT9zxNERJikLCqhLnh20aoAYdIx2ZLSe9kRTkf6P7+Xg0tPNAWsl77GJIALaiJk9AzHNvJ8ko=;j9PamPPGva7h2LroiYpIKw=="
 ---

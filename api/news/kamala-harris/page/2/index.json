@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-17-facebook-reversing-ban-on-ad-that-claimed-biden-harris-supports-abortion-up-to-the-moment-of-birth.md",
+      "title": "Facebook reversing ban on ad that claimed Biden-Harris supports 'abortion up to the moment of birth'",
+      "excerpt": "Facebook is reinstating advertising it previously blocked from an anti-abortion organization claiming that former Vice President Joe Biden and his running mate, Sen. Kamala Harris, D-Calif., supported abortion up until the moment of birth.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Screen-Shot-2020-10-16-at-5.03.33-PM.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp",
+      "publishedDateTime": "2020-10-16T18:07:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-georgia-sen-david-perdues-mispronunciation-of-kamala-harris-name-draws-outrage.md",
       "title": "Georgia Sen. David Perdue's mispronunciation of Kamala Harris' name draws outrage",
       "excerpt": "Georgia Sen. David Perdue is drawing outrage after appearing to mock Democratic vice presidential nominee Kamala Harris' name while warming up the crowd ahead of a rally for President Donald Trump speech on Friday night.",
@@ -921,7 +978,7 @@
       "originalUrl": "https://www.cbsnews.com/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2146,
+      "heat": 2166,
       "tags": null,
       "images": [
         {

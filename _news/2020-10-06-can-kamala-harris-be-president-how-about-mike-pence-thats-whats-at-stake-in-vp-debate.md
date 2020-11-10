@@ -1113,6 +1113,22 @@ related:
         width: 962
         height: 680
         isCached: true
+  - title: "Kamala Harris poised to be influential vice president"
+    excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second at the White House."
+    publishedDateTime: 2020-11-09T22:01:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-poised-to-be-influential-vice-15713767.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-poised-to-be-influential-vice-15713767.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-poised-to-be-influential-vice-15713767.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/64/20229416/3/375x250.jpg"
+        width: 327
+        height: 250
+        isCached: true
   - title: "Siri Says How Old Kamala Harris Is When Asked The President's Age [WATCH]"
     excerpt: "When Siri was asked how old the president is Sunday, it gave users information about Vice-President-elect Kamala Harris instead of properly noting that Donald Trump is 74. The more conspiratorially-minded jumped on the issue,"
     publishedDateTime: 2020-11-09T16:59:00Z

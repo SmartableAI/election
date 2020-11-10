@@ -219,19 +219,19 @@ related:
         width: 1400
         height: 786
         isCached: true
-  - title: "'In her destiny lies my destiny': Black female New York politicians reflect on Kamala Harris as VP"
-    excerpt: "Three women, who broke barriers as Black female leaders at the city, county and state levels of New York government, spoke to the Times Union on Sunday afternoon about their reaction to the earthquake in national politics Saturday morning when Biden and Harris were declared the presumptive victors of the presidential election."
-    publishedDateTime: 2020-11-09T19:10:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/In-her-destiny-lies-my-destiny-Black-women-in-15711393.php"
+  - title: "Parents share kids witnessing Kamala Harris’ historic win as vice president"
+    excerpt: "Families were glued to screens Saturday night when Kamala Harris made history as the first woman and woman of color to become vice president of the United States."
+    publishedDateTime: 2020-11-09T23:05:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/parents-share-kids-witnessing-kamala-harris-historic-win/story?id=74105208"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 91
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
     images:
-      - url: "https://s.hdnux.com/photos/01/14/17/37/19986409/3/rawImage.jpg"
-        width: 2048
-        height: 1638
+      - url: "https://s.abcnews.com/images/GMA/parents-share-kids-kamala-harris-ht-MAIN-np-202209_1604950655470_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Kamala Harris to spend part of Election Day in Detroit"
     excerpt: "The last-minute swing through Michigan signifies the importance of the state in deciding the ultimate outcome of the presidential election."
@@ -413,6 +413,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 52
+  - title: "'In her destiny lies my destiny': Black female New York politicians reflect on Kamala Harris as VP"
+    excerpt: "Three women, who broke barriers as Black female leaders at the city, county and state levels of New York government, spoke to the Times Union on Sunday afternoon about their reaction to the earthquake in national politics Saturday morning when Biden and Harris were declared the presumptive victors of the presidential election."
+    publishedDateTime: 2020-11-10T02:59:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/In-her-destiny-lies-my-destiny-Black-women-in-15711393.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 41
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/17/37/19986409/3/rawImage.jpg"
+        width: 2048
+        height: 1638
+        isCached: true
   - title: "Senator Kamala Harris Arrives in Detroit"
     excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to reporters as she arrives in Detroit to help get out the vote for the Biden-Harris ticket. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to reporters as she arrives in Detroit to help get out the vote for the Biden-Harris ticket."
     publishedDateTime: 2020-11-03T19:09:00Z

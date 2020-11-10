@@ -53,6 +53,22 @@ related:
         width: 1024
         height: 715
         isCached: true
+  - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
+    excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
+    publishedDateTime: 2020-11-10T02:38:00Z
+    webUrl: "https://chicago.suntimes.com/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 68
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "What it reveals when senators repeatedly mispronounce the names of Kamala Harris and Sundar Pichai"
     excerpt: "CNN It is a truth universally acknowledged that if you live in the US and have a non-English name, someone at some point is bound to butcher the pronunciation. People across"
     publishedDateTime: 2020-11-01T12:48:00Z

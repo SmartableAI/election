@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-cri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.amp"
 type: article
 quality: 175
-heat: 355
+heat: 395
 published: true
 
 provider:
@@ -156,6 +156,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Fires Mark Esper as Defense Secretary"
+    excerpt: "President Trump replaced Defense Secretary Mark Esper on Monday with a new acting secretary, Christopher Miller, announcing his decision on Twitter."
+    publishedDateTime: 2020-11-10T04:53:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-257312/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Remade the GOP. Now What?"
+    excerpt: "President Trump, despite losing re-election, is poised to remain a powerful influence on a Republican Party he helped shift from one rooted in a decades-old style of conservatism to populism and nationalism."
+    publishedDateTime: 2020-11-10T02:16:00Z
+    webUrl: "https://www.wsj.com/articles/trump-remade-the-gop-now-what-11604956604"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-257077/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Says He Has Terminated Mark Esper as Defense Secretary"
     excerpt: "President Trump replaced Defense Secretary Mark Esper on Monday with a new acting secretary, Christopher Miller, announcing his decision on Twitter."

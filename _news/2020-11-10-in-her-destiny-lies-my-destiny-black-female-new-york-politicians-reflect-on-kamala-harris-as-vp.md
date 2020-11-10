@@ -2,21 +2,17 @@
 category: news
 title: "'In her destiny lies my destiny': Black female New York politicians reflect on Kamala Harris as VP"
 excerpt: "Three women, who broke barriers as Black female leaders at the city, county and state levels of New York government, spoke to the Times Union on Sunday afternoon about their reaction to the earthquake in national politics Saturday morning when Biden and Harris were declared the presumptive victors of the presidential election."
-publishedDateTime: 2020-11-09T19:10:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/In-her-destiny-lies-my-destiny-Black-women-in-15711393.php"
-webUrl: "https://www.houstonchronicle.com/news/article/In-her-destiny-lies-my-destiny-Black-women-in-15711393.php"
+publishedDateTime: 2020-11-10T02:59:00Z
+originalUrl: "https://www.sfchronicle.com/news/article/In-her-destiny-lies-my-destiny-Black-women-in-15711393.php"
+webUrl: "https://www.sfchronicle.com/news/article/In-her-destiny-lies-my-destiny-Black-women-in-15711393.php"
 type: article
-quality: 91
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
@@ -228,6 +224,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/08/gettyimages-1229520920_wide-5986925f0c5feb3f27267ddfb075420cacb31e92.jpg?s=1400"
         width: 1400
         height: 786
+        isCached: true
+  - title: "Parents share kids witnessing Kamala Harris’ historic win as vice president"
+    excerpt: "Families were glued to screens Saturday night when Kamala Harris made history as the first woman and woman of color to become vice president of the United States."
+    publishedDateTime: 2020-11-09T23:05:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/parents-share-kids-witnessing-kamala-harris-historic-win/story?id=74105208"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/GMA/parents-share-kids-kamala-harris-ht-MAIN-np-202209_1604950655470_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Kamala Harris to spend part of Election Day in Detroit"
     excerpt: "The last-minute swing through Michigan signifies the importance of the state in deciding the ultimate outcome of the presidential election."
@@ -446,6 +456,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "umedwUeNtkOSFtGt2rv0u6pSsJVxNsY2MaobNZPSeBhcIiMb4LyHDpq1IpuGbxo/tkcuTiCUfEwlX0d/M3WX/I1KvL1LPmMmBoA+l0gSsgNtdY5gECmbMHRDaUg34iDvylhxv8s2KFchSiU3XyDZh0q6ByK99s9/gy6c2QBhPpT95ldICyLmio5LK5YlFrMMzKcePc0t5LioWNns1nNagCimDJvxyIhxyCGqc9dto7y58bCYPVZbEPUg/njK/VwO4qRw+QvdMTjl8JX7XPoLE5OKajyL1LcV0z/RdSUxoPrwVh3G3XyN+z9BsxyBI4AOYNmUCEhrvVU9C62I1YjJ4gijcM2vJmCm7+M8vzyQtT+aGyoMkiTKiOXAyOzrHaLSf1h9CBT9SyNwJbxa/BK+b9UXfBDA0DrblVQfLYlAYPdOc7bkNi+fEZ4k6vAGsb3lee12OX6wbAAzXqe0pNgsac95gxQp6nihY1c3ZecSbaDl11xWijEq4t70j53hcclAN+VWBkUQ4IJcyiaURMN7yQ==;0afYS/yCIryf6QUyCxdeJg=="
+secured: "e/L3MNQzY77Im6CY6TxYea439/F81ogNxpk8E03twA9Xckc4pLpsI78loqzIitiacQF72lCUr1UNWSNC87XsoggmOjROiqBzjjH0NhNwY4L0utYKhjsSJQueZn0vEcnKxnVrCcnNi0vsBWB9zHJS/lxFDeJ+ewrkt6KBzA/NLmPw1xyZrcGgjydIVjlF8/vLnsY4+8BWLdElxAqwe8Qec4HMxlSdny1DRW0pSOajhAXxO6WWj4gNV/rYGuXAjpCTaxvSg3PwcK6NwsW32QPwgQqMBiSZqlryqThgV2WoHWVQf8bsT7Hg6rtR90YEseFiuBtP5tY7XtXMNOEEpVcWkZ/+NOAXXwogncaUo3PzuV4=;o+UXNoM35SEzVCJ91iRklg=="
 ---
 

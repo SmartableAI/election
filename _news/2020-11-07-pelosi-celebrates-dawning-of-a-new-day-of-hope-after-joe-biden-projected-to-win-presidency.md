@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ingraham: Biden 'ordering' Americans around with COVID mandates could 'backfire'"
+    excerpt: "In her \"Ingraham Angle\" monologue on Monday, host Laura Ingraham responded to President-elect Joe Biden's call to unite the country by way of a potential national mask mandate -- as well as his announcement of a coronavirus response task force similar to the one President Trump has utilized."
+    publishedDateTime: 2020-11-10T04:10:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-L4otzKsWgY/ingraham-biden-ordering-americans-around-with-covid-mandates-could-backfire"
+    ampWebUrl: "https://www.foxnews.com/politics/ingraham-biden-ordering-americans-around-with-covid-mandates-could-backfire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ingraham-biden-ordering-americans-around-with-covid-mandates-could-backfire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34b8b186-66c3-42e0-927b-a6ae6f5bee36/37a2e376-1023-4b4f-8f4a-db37547b2e4a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "s7hzK6BVkwNqh/so7muwzwuBCu94fuOuRTxvsJLkbWe0rerueZvvLihXKTYRGY1fZKiwMRVtyZgc6AlUPsvdiCbTeRm1yYuT7ckqD8omU9sOQ3CBCvWwYoohodrdHbGpIluVVN3ObwahX7O/l1YWMYTUfj5dGz3bNSvPqObhvD6LgOEWfhIrpNC3Rcr6b8KvZAg1sJLfhn81jcDqPvDG7JCHhEbjm7DFCX/oBTdTIsit2yXUmFwva88rIBlMNg2tvrC5M/l97iaD4MNww/Cpb42XphadBaj84zJU4tWo4PDHqQIqJlM3HFoUNloEpBrnpPtoC1ZcMN0hJUc96ZN6DBlQLJZdj5YT6SOcAuafNGI=;fmYiQ0PqB86eWchyi2Wt1A=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 715
         isCached: true
+  - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
+    excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
+    publishedDateTime: 2020-11-10T02:38:00Z
+    webUrl: "https://chicago.suntimes.com/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 68
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Who will replace Kamala Harris in California? Alex Padilla? Eva Longoria?"
     excerpt: "A group of Latino organizations has lobbied Newsom since August to select Secretary of State Alex Padilla. Such a move would end 170 years without a Latino/a Senator from California. Of course, with wildfires,"
     publishedDateTime: 2020-11-07T17:35:00Z

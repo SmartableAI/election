@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-09-mcconnell-trump-100-within-his-rights-to-look-into-allegations-of-irregularities.md",
+      "title": "McConnell: Trump '100% within his rights to look into allegations of irregularities'",
+      "excerpt": "Senate Majority Leader Mitch McConnell on Monday sided with and defended President Donald Trump, who has yet to concede the presidential election, saying that Trump is \"100% within his rights to look into allegations of irregularities and weigh his legal options.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJhxozrmQmI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJhxozrmQmI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023115840-35c-mitch-mcconnell-centered-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html",
+      "publishedDateTime": "2020-11-09T15:56:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-cia-director-haspels-fate-uncertain-after-trump-fires-esper.md",
+      "title": "CIA Director Haspel's fate uncertain after Trump fires Esper",
+      "excerpt": "President Donald Trump and some of his conservative allies have become increasingly frustrated with CIA Director Gina Haspel in recent weeks, accusing her of delaying the release of documents they believe would expose so-called \"deep state\" plots against Trump's campaign and transition during the Obama",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180514170841-getty-gina-haspel-senate-hearing-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html",
+      "publishedDateTime": "2020-11-09T14:29:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-biden-and-harris-share-the-spotlight-with-their-families-to-celebrate-victory.md",
       "title": "Biden and Harris share the spotlight with their families to celebrate victory",
       "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation for the first time Saturday night with their families by their side.\n    \n",
@@ -14,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 817,
+      "heat": 857,
       "tags": null,
       "images": [
         {
@@ -116,62 +228,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-trump-campaign-charts-uncertain-path-forward-as-tensions-bubble-up.md",
-      "title": "Trump campaign charts uncertain path forward as tensions bubble up",
-      "excerpt": "President Donald Trump's campaign team huddled in their Virginia headquarters on Monday to discuss their ongoing efforts to contest the election results but tension remains high as the staff faces an uncertain future.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BMBAJpSP8i4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BMBAJpSP8i4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201103164319-donald-trump-election-day-campaign-staff-0311-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/trump-campaign-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-campaign-future/index.html",
-      "publishedDateTime": "2020-11-09T10:52:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-trump-in-denial-over-election-defeat-as-biden-gears-up-to-fight-covid.md",
       "title": "Trump in denial over election defeat as Biden gears up to fight Covid",
       "excerpt": "Even with President Donald Trump still refusing to concede the election, President-elect Joe Biden will launch an aggressive plan on Monday to control the pandemic that is escalating at an alarming rate and will define his administration as soon as he takes office.\n    \n",
@@ -184,7 +240,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 3305,
+      "heat": 3445,
       "tags": null,
       "images": [
         {
@@ -427,6 +483,63 @@
       "ampWebUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.amp.html",
       "publishedDateTime": "2020-11-07T22:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-hispanic-voters-deliver-a-texas-win-for-trump.md",
+      "title": "Hispanic Voters Deliver a Texas Win for Trump",
+      "excerpt": "The Rio Grande Valley shifted decisively toward President Trump, cancelling out votes for Joseph R. Biden Jr. in urban and suburban areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/04/us/texas-election-battleground-state-counties-promo-1604498818927/texas-election-battleground-state-counties-promo-1604498818927-facebookJumbo-v17.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T18:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",
@@ -710,62 +823,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html",
       "publishedDateTime": "2020-11-06T17:21:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-officials-say-defense-secretary-mark-esper-is-prepared-for-possibility-trump-may-fire-him.md",
-      "title": "Officials say Defense Secretary Mark Esper is prepared for possibility Trump may fire him",
-      "excerpt": "Defense Secretary Mark Esper is attempting to fashion a graceful exit from office if President Donald Trump decides to fire him regardless of the result of the presidential election, according to several defense sources, including one senior defense official.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YWH3qf4boWA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YWH3qf4boWA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200714171734-02-mark-esper-0709-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/05/politics/mark-esper-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/mark-esper-trump/index.html",
-      "publishedDateTime": "2020-11-05T17:55:42-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1190,25 +1247,25 @@
       ]
     },
     {
-      "path": "_news/2020-11-04-in-a-historically-republican-suburb-of-pittsburgh-voters-debate-whether-to-give-trump-a-second-term.md",
-      "title": "In a historically Republican suburb of Pittsburgh, voters debate whether to give Trump a second term.",
-      "excerpt": "Long lines of voters moved steadily in the first hour of voting at the Municipal Center in this town of about 30,000 people in Butler County, a historically Republican county. Cranberry Township, home to the headquarters of Westinghouse Electric and many engineers,",
+      "path": "_news/2020-11-04-the-trump-campaign-has-set-up-two-war-rooms-in-the-white-house-complex.md",
+      "title": "The Trump campaign has set up two ‘war rooms’ in the White House complex",
+      "excerpt": "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.html",
+      "webUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 120,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-trump-war-rooms/merlin_179500989_407a05bc-4770-455e-9b3a-43a7dc7f816b-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1216,9 +1273,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html",
-      "publishedDateTime": "2020-11-03T08:48:00-08:00",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html",
+      "publishedDateTime": "2020-11-03T14:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",
@@ -1587,23 +1644,23 @@
       ]
     },
     {
-      "path": "_news/2020-11-02-its-a-little-tough-out-here-trump-blitzes-must-win-states-with-perfected-rally-routine.md",
-      "title": "'It's a little tough out here': Trump blitzes must-win states with perfected rally routine",
-      "excerpt": "President Donald Trump was running late when he arrived here Sunday morning, wind howling and tiny drops of ice sticking to his face, to begin the second-to-last day of his final run for office.\n    \n",
+      "path": "_news/2020-11-02-trump-supporters-at-rallies-continue-to-get-stranded-in-chilly-temperatures.md",
+      "title": "Trump supporters at rallies continue to get stranded in chilly temperatures",
+      "excerpt": "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A6aP7hMdzj8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A6aP7hMdzj8/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 165,
+      "heat": 353,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027121426-donald-trump-1024-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -1613,9 +1670,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html",
-      "publishedDateTime": "2020-11-02T06:53:07-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html",
+      "publishedDateTime": "2020-11-02T10:16:48-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1639,63 +1696,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-newsom-harris-hit-trail-for-final-weekend-google-ballot-search-issues-edd-head-hilliard-departing-khanna-backs-bobulinski.md",
-      "title": "NEWSOM, HARRIS hit trail for final weekend — GOOGLE ballot search issues — EDD head HILLIARD departing — KHANNA backs BOBULINSKI",
-      "excerpt": "Trump conflict that spawned scores of lawsuits; after ballot initiative campaigns breaking records as they spent hu",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/california-playbook/2020/11/01/newsom-harris-hit-trail-for-final-weekend-google-ballot-search-issues-edd-head-hilliard-departing-khanna-backs-bobulinski-490755",
-      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2020/11/01/newsom-harris-hit-trail-for-final-weekend-google-ballot-search-issues-edd-head-hilliard-departing-khanna-backs-bobulinski-490755",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Democratic Voice"
       ]
     }

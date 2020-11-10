@@ -153,6 +153,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "‘Who would have thought?’: Kamala Harris’ win sparks joy in Bay Area Indian community"
+    excerpt: "Many Indian Americans couldn’t help but to feel giddy at how they recognized flickers of themselves in the new vice president. They were astonished to see a woman of Indian heritage ascend to the highest levels of the U."
+    publishedDateTime: 2020-11-10T00:57:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Who-would-have-thought-Kamala-Harris-15714433.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Who-would-have-thought-Kamala-Harris-15714433.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Who-would-have-thought-Kamala-Harris-15714433.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 68
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/14/47/20236766/5/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Kamala Harris' Full Speech: ‘You Chose Hope and Unity, Decency, Science and, Yes, Truth'"
     excerpt: "Elect Kamala Harris delivered a victory address on Saturday night from Wilmington, Del., and introduced President-Elect Joe Biden. Read the full text of Harris’ speech here:"
     publishedDateTime: 2020-11-08T02:33:00Z
@@ -200,6 +216,6 @@ related:
         height: 2454
         isCached: true
 
-secured: "yg2H5m1LnwsGxueFAjG/0cVu9Xij7obHdyF2ZQFc843m/xx6s9YLC6SrV7N6RiHlDtbSp0VP3ldKyUAtve5dftMUBg1R2LI1i0DLv3xtqRuw0EVXnYa0tv8Vs+jpkXxTjpSfBy+aK6NrhpYVMH/1nFxbA9JFRXua+5wWlHJNWDGUGh1VAGtdH3IBkCv81k6ZJ7iWPZMif6yyAObzbfs5dAMOBOZ8CZvwdeA6rbHF0PdblJDxDawMiBhj2/iyO10nQoZ4i3Wl6Hb/rGpHM+zvMA2aXggMykl25BJeU5MNuMkke5QUIMMRTNQDE+GLf9wFndERwJV4VW4LJY56aSJRw/wSt0JMh7h6qpD2GXjtJPI=;hlsgsw/TDILYpE3NNH8hjQ=="
+secured: "DIoBPF0D/pc8mWrqrnKzWo+e2vbz3JQVDMVFSUD0kjoO18yaz4WhohDijTcHKyvBSlLUDRa7FzjSnkWt6jsTDwEPkU9y6reTuR8RJBkuUIA+UYgSt7Gid1PRb/a0q/KXlRzkD6I6Marqsv97YATPsb61AKZi0z6wUPVjACaO36ciSn7qHYzGoxIGDhuMNGlS80aXnNOw+qt94u4mj+Bt1Gf+TDHkKN1xp6wJrcYKAnQ+hSEDsqkQz1CvKm3Pp9cNMdn0lh+/Se/ky0Z0KNidErN1wuIfTx2JOL/KGdqUCEEGuLB8UMrNVRHxrEpH5yydFVQUU7H7D3JQyyRxwGHKJGlV6oaEWqlqHuBU1R16Yjips2iKEIo6uWaJnkMMnSJJ6e5yGbW90q/j2fsIqZ48iQXE/nqe++/JFORXXZo9bfw9EiH3HnxGR850PmwhbS7hNccP2o6tlPzO+ZmrP6vvUVZr2zgGGU6tQhblKGdDGrw+arL+T9ar7YOpsMHAyYyW947q1tAMLSJZ+JLc+65srA==;S3zBn1SIKG2er/U7kY9uog=="
 ---
 

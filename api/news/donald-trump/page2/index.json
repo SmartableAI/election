@@ -2,6 +2,115 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-05-kudlow-trumps-agenda-did-very-well-yesterday.md",
+      "title": "Kudlow: Trump's agenda 'did very well yesterday'",
+      "excerpt": "Kudlow predicted the Senate outcome, telling CNBC that Republicans \"may lose one seat, maybe not\" in the chamber.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
+      "originalUrl": "https://www.politico.com/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/17/f1/c6e742d142b5920d94d77807aea0/20201104-kudlow-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
+      "publishedDateTime": "2020-11-04T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-pennsylvanias-democratic-governor-calls-trump-remarks-partisan-attack.md",
+      "title": "Pennsylvania's Democratic governor calls Trump remarks 'partisan attack'",
+      "excerpt": "Pennsylvania's Democratic Governor Tom Wolf on Wednesday called President Donald Trump's unsubstantiated claim about fraud in the U.S. presidential election a \"partisan attack\", and said his state was working hard to count more than 1 million mail-in ballots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539943636&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30M5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27K0YU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU",
+      "publishedDateTime": "2020-11-04T00:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-latest-election-day-updates-trump-has-a-commanding-lead-in-florida.md",
       "title": "Latest Election Day updates: Trump has a commanding lead in Florida",
       "excerpt": "Our live coverage of Election Day includes updates on voter turnout, the latest on Trump and Biden, and news from polling places around Florida.",
@@ -215,63 +324,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-04-cnns-don-lemon-hits-network-for-airing-trumps-propaganda-visit-to-rnc-office.md",
-      "title": "CNN's Don Lemon hits network for airing Trump's 'propaganda' visit to RNC office",
-      "excerpt": "CNN anchor Don Lemon questioned the judgment of his own network Tuesday after it broadcast remarks President Trump made during his visit to a Republican National Committee office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc",
-      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81df12e9-89a4-4281-90fe-5e64638e305c/ebed9e3f-ad42-4ef4-847c-2443a3c03962/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp",
-      "publishedDateTime": "2020-11-03T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-04-trump-mistakenly-introduced-the-rapper-lil-pump-as-little-pimp-at-his-final-campaign-rally.md",
       "title": "Trump mistakenly introduced the rapper Lil Pump as 'Little Pimp' at his final campaign rally",
       "excerpt": "One of the big superstars of the world, Little Pimp!' said President Trump as he introduced the rapper Lil Pump.",
@@ -321,6 +373,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-the-trump-campaign-has-set-up-two-war-rooms-in-the-white-house-complex.md",
+      "title": "The Trump campaign has set up two ‘war rooms’ in the White House complex",
+      "excerpt": "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-trump-war-rooms/merlin_179500989_407a05bc-4770-455e-9b3a-43a7dc7f816b-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html",
+      "publishedDateTime": "2020-11-03T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -487,63 +596,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-in-a-historically-republican-suburb-of-pittsburgh-voters-debate-whether-to-give-trump-a-second-term.md",
-      "title": "In a historically Republican suburb of Pittsburgh, voters debate whether to give Trump a second term.",
-      "excerpt": "Long lines of voters moved steadily in the first hour of voting at the Municipal Center in this town of about 30,000 people in Butler County, a historically Republican county. Cranberry Township, home to the headquarters of Westinghouse Electric and many engineers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html",
-      "publishedDateTime": "2020-11-03T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1520,58 +1572,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-factbox-us-supreme-court-rules-against-trump-as-legal-battles-over-election-continue.md",
-      "title": "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue",
-      "excerpt": "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/topNews/idUSKBN27E1HY",
-      "originalUrl": "https://www.reuters.com/article/topNews/idUSKBN27E1HY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 352,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27E1HY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY",
-      "publishedDateTime": "2020-10-29T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

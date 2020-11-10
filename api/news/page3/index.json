@@ -2,6 +2,329 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-07-fact-check-trump-falsely-claims-illegal-ballots-are-changing-the-election.md",
+      "title": "Fact check: Trump falsely claims 'illegal ballots' are changing the election",
+      "excerpt": "In a tweet thread Saturday morning President Donald Trump threw out baseless claims suggesting that \"tens of thousands\" of illegal ballots are being used to change the results in key states.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQlMie3LeZI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQlMie3LeZI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 327,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106225744-donald-trump-rally-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html",
+      "publishedDateTime": "2020-11-07T14:47:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-rep-jim-clyburn-says-he-urged-biden-to-choose-a-black-woman-as-his-running-mate.md",
+      "title": "Rep. Jim Clyburn says he urged Biden to choose a Black woman as his running mate",
+      "excerpt": "House Majority Whip Jim Clyburn said Saturday that he had privately urged President-elect Joe Biden to pick a Black woman as his running mate before Biden chose Kamala Harris, America's first female, first Black and first South Asian vice president-elect.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OxO0kjOjcM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OxO0kjOjcM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200731220357-jim-clyburn-justice-donald-trump-hate-disrespect-sot-cpt-vpx-00000914-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/07/politics/clyburn-biden-black-woman-running-mate-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/clyburn-biden-black-woman-running-mate-cnntv/index.html",
+      "publishedDateTime": "2020-11-07T14:25:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-schumer-sings-god-bless-america-after-biden-projected-winner.md",
+      "title": "Schumer sings 'God Bless America' after Biden projected winner",
+      "excerpt": "Sen. Chuck Schumer celebrated President Trump's projected defeat by singing a rendition of \"God Bless America,\" and telling the former Manhattan resident it's time to pack up and go home to his new home state of Florida. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pz2Z5kTo-qk/schumer-god-bless-america-biden-projected-winner",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pz2Z5kTo-qk/schumer-god-bless-america-biden-projected-winner",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdefe646-10ca-45c5-be99-a9396a62ed53/07e6210c-520f-4b83-8fa9-f4057d386bb5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schumer-god-bless-america-biden-projected-winner.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-god-bless-america-biden-projected-winner.amp",
+      "publishedDateTime": "2020-11-07T13:57:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-bidens-inauguration-during-covid-19-what-the-january-event-could-look-like.md",
+      "title": "Biden's inauguration during COVID-19: What the January event could look like",
+      "excerpt": "Construction is already underway in Washington, D.C., in preparation for the presidential inauguration on Jan. 20, 2021. The date is set by the U.S. Constitution's 20th Amendment.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7gI8yaX7WO4/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7gI8yaX7WO4/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/SS-Chap001_fig001_9780063011243.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp",
+      "publishedDateTime": "2020-11-07T12:40:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-flashback-trump-in-october-said-could-you-imagine-if-i-lose.md",
+      "title": "Flashback: Trump in October said, 'Could you imagine if I lose?'",
+      "excerpt": "President Trump mocked the idea of losing to former Vice President Joe Biden during a campaign rally less than a month before Election Day, pointing to rival Joe Biden as the \"worst candidate in the history of presidential politics.\" ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3PDf4AQ6o2g/flashback-trump-in-october-could-you-imagine-if-i-lose",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3PDf4AQ6o2g/flashback-trump-in-october-could-you-imagine-if-i-lose",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/894e4893-60bc-44d1-9a2a-992bc507bd03/a6a063e7-81ee-4639-9a91-04cee56bee22/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flashback-trump-in-october-could-you-imagine-if-i-lose.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-trump-in-october-could-you-imagine-if-i-lose.amp",
+      "publishedDateTime": "2020-11-07T12:17:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-pence-continues-hoosier-streak-of-one-term-republican-vice-presidents.md",
+      "title": "Pence continues Hoosier streak of one-term Republican vice presidents",
+      "excerpt": "With Vice President Mike Pence projected to lose his reelection bid, none of the four Republican vice presidents hailing from Indiana ever have served more than one term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-republican-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.html",
+      "originalUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-republican-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/7b/a7be45ba-d9a8-566f-b4dc-15f0bd11e7a1/578803e54016d.image.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-republican-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html",
+      "cdnAmpWebUrl": "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-republican-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html",
+      "publishedDateTime": "2020-11-07T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Northwest Indiana Times",
+        "domain": "nwitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-photos-after-biden-declared-president-crowds-take-to-streets-in-nyc-washington-dc.md",
       "title": "PHOTOS: After Biden declared president, crowds take to streets in NYC, Washington, DC",
       "excerpt": "",
@@ -66,7 +389,7 @@
       "originalUrl": "https://www.cbsnews.com/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 723,
+      "heat": 743,
       "tags": null,
       "images": [
         {
@@ -171,7 +494,7 @@
       "originalUrl": "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -439,7 +762,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1485,
+      "heat": 1585,
       "tags": null,
       "images": [
         {
@@ -1013,335 +1336,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-election-2020-a-look-at-trump-campaign-election-lawsuits-and-where-they-stand.md",
-      "title": "Election 2020: A look at Trump campaign election lawsuits and where they stand",
-      "excerpt": "With votes still being counted in the 2020 election, here's a look at where the Trump campaign has filed lawsuits over ballot issues.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748",
-      "originalUrl": "https://abcnews.go.com/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 516,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/lewandowski-philly-ap-ps-201105_1604592275669_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748",
-      "publishedDateTime": "2020-11-06T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-trump-names-danly-to-head-ferc-replacing-chatterjee.md",
-      "title": "Trump Names Danly to Head FERC, Replacing Chatterjee",
-      "excerpt": "Neil Chatterjee, who has backed policies in support of clean energy, is being replaced as head of the Federal Energy Regulatory Commission by fellow commissioner James Danly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
-      "originalUrl": "https://www.wsj.com/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-256250/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-names-danly-to-head-ferc-replacing-chatterjee-11604684915",
-      "publishedDateTime": "2020-11-06T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-trump-likely-to-run-again-in-2024-if-he-loses-mick-mulvaney.md",
-      "title": "Trump 'likely' to run again in 2024 if he loses: Mick Mulvaney",
-      "excerpt": "Trump's former acting White House chief of staff Mick Mulvaney says the president isn't ready to bow out of politics.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-2024-mick-mulvaney",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-2024-mick-mulvaney",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-Mick-Mulvaney.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T09:54:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.md",
-      "title": "If Trump loses, he will regret 'denigrating mail-in voting': York",
-      "excerpt": "If President Trump loses the election to Joe Biden as current vote tallies indicate, he could regret warning against mail-in voting, Fox News contributor Byron York argued Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp",
-      "publishedDateTime": "2020-11-06T08:25:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-trump-jr-calls-out-2024-gop-hopefuls-for-total-lack-of-action-in-ballot-counting-fight.md",
-      "title": "Trump Jr. calls out '2024 GOP hopefuls' for 'total lack of action' in ballot-counting fight",
-      "excerpt": "Donald Trump Jr. pressured potential 2024 GOP contenders to vocally support President Trump as the president continues to air often unfounded grievances about alleged voter fraud. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp",
-      "publishedDateTime": "2020-11-06T07:44:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-donald-trump-jr-compares-the-us-to-a-banana-republic-over-uncorroborated-election-fraud-claims-and-gets-tagged-by-twitter.md",
-      "title": "Donald Trump Jr. compares the US to a 'banana republic' over uncorroborated election fraud claims and gets tagged by Twitter",
-      "excerpt": "Donald Trump Jr., the President's son has called for \"total war\" over election fraud claims and for fellow Republicans to show support for his father.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa54b4c1df1d500182193c6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp",
-      "publishedDateTime": "2020-11-06T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

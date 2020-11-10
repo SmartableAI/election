@@ -165,6 +165,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "‘Who would have thought?’: Kamala Harris’ win sparks joy in Bay Area Indian community"
+    excerpt: "Many Indian Americans couldn’t help but to feel giddy at how they recognized flickers of themselves in the new vice president. They were astonished to see a woman of Indian heritage ascend to the highest levels of the U."
+    publishedDateTime: 2020-11-10T00:57:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Who-would-have-thought-Kamala-Harris-15714433.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Who-would-have-thought-Kamala-Harris-15714433.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Who-would-have-thought-Kamala-Harris-15714433.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 68
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/14/47/20236766/5/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Kamala Harris' Full Speech: ‘You Chose Hope and Unity, Decency, Science and, Yes, Truth'"
     excerpt: "Elect Kamala Harris delivered a victory address on Saturday night from Wilmington, Del., and introduced President-Elect Joe Biden. Read the full text of Harris’ speech here:"
     publishedDateTime: 2020-11-08T02:33:00Z

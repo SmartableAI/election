@@ -174,6 +174,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Fires Mark Esper as Defense Secretary"
+    excerpt: "President Trump replaced Defense Secretary Mark Esper on Monday with a new acting secretary, Christopher Miller, announcing his decision on Twitter."
+    publishedDateTime: 2020-11-10T04:53:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-257312/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Remade the GOP. Now What?"
+    excerpt: "President Trump, despite losing re-election, is poised to remain a powerful influence on a Republican Party he helped shift from one rooted in a decades-old style of conservatism to populism and nationalism."
+    publishedDateTime: 2020-11-10T02:16:00Z
+    webUrl: "https://www.wsj.com/articles/trump-remade-the-gop-now-what-11604956604"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-257077/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "QvUj0bNCp9pvr6Q6z5EC65N8iWnV14lpzudktCh0e3pdlYWrrVksd/BazFySIJedHEXY46llC1aQAHsogn2jhMmcL+obM/kzl9inqZk7OCIBsLGOjgVMAMvFLmOFhjj5rGvrAGHrVTWnYnZI6ck1b91+pI4UoO0WVU+9Er04uYxyobe0GwLa+M4Eu7eXtd4S5HK4RUuaEMvfgwKTOTl9UkRHOZhY5PHt/NBmJcyPSy569YSFaLqtunPN86hV4ElrXTj3o/d0tMXt/MxV8G324+C3XAKsMXNFm3kURXOY0X35X+ujr6s4jVFcpnl7eEAg4KxT5KnKlrVHHSUfEoSmkbL/LuChvthWoffHG1ayEgQ=;btolI4+5VgS09KpVKtqIQg=="
 ---

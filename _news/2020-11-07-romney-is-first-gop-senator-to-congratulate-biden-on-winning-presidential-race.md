@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AOC says Biden picking Rahm Emanuel for cabinet would be ‘divisive’"
+    excerpt: "Progressive Democrats and activists will be warily watching Joe Biden’s cabinet choices, US Rep. Alexandria-Ocasio Cortez said Monday — while publicly weighing in against former White House chief of staff Rahm Emanuel."
+    publishedDateTime: 2020-11-10T02:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NVuNTYbCqG8/aoc-biden-picking-rahm-emanuel-for-cabinet-would-be-divisive"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-biden-picking-rahm-emanuel-for-cabinet-would-be-divisive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-picking-rahm-emanuel-for-cabinet-would-be-divisive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308808092420.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "NASA chief says he does not plan to serve in Biden administration"
+    excerpt: "Bridenstine said his decision was driven by a desire to support the “best interest” of NASA and the country’s space exploration goals as a whole, rather than any partisan leanings."
+    publishedDateTime: 2020-11-10T00:06:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGkcSa_wMmM/nasa-chief-jim-bridenstine-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3eab20e-c177-4588-88e1-fb00f152d84b/991fc9b6-c9b5-4eff-9e02-2a618cf47685/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
     excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
     publishedDateTime: 2020-11-08T23:45:34Z

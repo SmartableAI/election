@@ -337,20 +337,20 @@ related:
         height: 719
         isCached: true
   - title: "The Latest: Mike Pence heading to Florida vacation island"
-    excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
-    publishedDateTime: 2020-11-09T17:01:00Z
-    webUrl: "https://madison.com/news/national/govt-and-politics/the-latest-mike-pence-heading-to-florida-vacation-island/article_5bf6f084-054f-5893-8ac4-037f14a960c1.html"
-    ampWebUrl: "https://madison.com/news/national/govt-and-politics/the-latest-housing-secretary-ben-carson-positive-for-virus/article_5bf6f084-054f-5893-8ac4-037f14a960c1.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/govt-and-politics/the-latest-housing-secretary-ben-carson-positive-for-virus/article_5bf6f084-054f-5893-8ac4-037f14a960c1.amp.html"
+    excerpt: "WASHINGTON (AP) \" The Latest on President-elect Joe Biden (all times local): 9 p.m. International observers from the Organization of American States"
+    publishedDateTime: 2020-11-10T03:52:00Z
+    webUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote"
+    ampWebUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
+    cdnAmpWebUrl: "https://www-heraldnews-com.cdn.ampproject.org/c/s/www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote?template=ampart"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: The Herald News
+      domain: heraldnews.com
     quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/4/17/41737f28-bfd9-54e9-a4b8-cbc8a6843480/5fa9452fa6d07.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://www.heraldnews.com/apps/pbcsi.dll/bilde?Site=ZZ&Date=20201109&Category=NEWS&ArtNo=311099982&Ref=AR"
+        width: 512
+        height: 341
         isCached: true
   - title: "ELECTION UPDATE: Joe Biden's lead in Arizona tightens in updated results"
     excerpt: "Former Vice President Joe Biden kept his lead in Arizona over President Donald Trump, but with a more narrow margin following the latest results posted overnight. The results posted early Thursday morning were mostly mail ballots from Maricopa County that had been dropped off at vote centers on Tuesday."

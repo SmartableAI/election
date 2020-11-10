@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/flashback-trump-in-october-could-yo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-trump-in-october-could-you-imagine-if-i-lose.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Lindsey Graham: Democrats 'could give a damn' about election law and precedent, so long as Trump lost"
+    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., said Monday that many Democrats don't care about following election laws or precedents as long as their candidate wins or their enemy candidate loses."
+    publishedDateTime: 2020-11-10T03:54:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zsMelNt0XSc/lindsey-graham-democrats-could-give-a-damn-about-election-law-and-precedent-so-long-as-trump-lost"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-democrats-could-give-a-damn-about-election-law-and-precedent-so-long-as-trump-lost.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-democrats-could-give-a-damn-about-election-law-and-precedent-so-long-as-trump-lost.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2979f22e-6f42-409c-8a95-2f55a0223c7c/d16b46e6-ef8c-4966-a6b0-c7027078999b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "hagDNKtJY5hAH9f8MDkPSCXW4/okLN1lLudHzw53RoigStdXk3zHbzrDCEG/CMiL8orZt+bIkWRf8KmhWqhoRv/OOXB5XXSU7IWWk1PQZSYLctghq63WbYhGaSfuvLFiyrKFJhHrm2+mc4ETX3xJ810zsPMR+SpYIArp33h5xWe5JVVxNj3+tX5b869JbcsbGrw/8vQ9WGBMn8VMZIKtK4FMKO7hgSEG+8aiemTI+b4w5uywdTSHOYY0z+WadBPpIdrJGn3N6xIYjPd6euKLw7i4xSG+mNPKp8M2zvLa9/xqNgEMm41X9OXcFFHMf5OXVDG6Rfz6XVt9UQAHvRA00wRLrDUt7m6kkW7xbCnoOL4=;d0dyl8F0tICnDfx/gjObLA=="
 ---
