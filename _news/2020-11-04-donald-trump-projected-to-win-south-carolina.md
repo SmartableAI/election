@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/south-carolina-presidential-election
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -135,6 +135,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Psychological Toll of 4 Years of Donald Trump Will Linger. Disciplined Hope Can Help Us More Forward"
+    excerpt: "In our fight against the oppression intensified by the Trump Administration, we have resisted Muslim bans, family separations, police violence, natural disasters, man-made disasters, undermined protections and compromised social safety nets."
+    publishedDateTime: 2020-11-10T16:27:00Z
+    webUrl: "https://time.com/5909885/after-donald-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 88
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/michelle-gustafson-joe-biden-kamala-harris-victory-speech.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Vice President Mike Pence campaigns in Elm City, North Carolina on Saturday"
     excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."

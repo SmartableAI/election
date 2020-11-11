@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-legal-fight-electio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp"
 type: article
 quality: 190
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Blacks and Latinos for Trump"
+    excerpt: "The president lost, but he did a good deal better with minorities in 2020 than he did in 2016."
+    publishedDateTime: 2020-11-11T03:56:00Z
+    webUrl: "https://www.wsj.com/articles/blacks-and-latinos-for-trump-11605048999"
+    ampWebUrl: "https://www.wsj.com/amp/articles/blacks-and-latinos-for-trump-11605048999"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/blacks-and-latinos-for-trump-11605048999"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-258041?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
   - title: "Gingrich Says Trump Commitment to Election Legal Battle Has Intensified"
     excerpt: "Former House Speaker Newt Gingrich, a vocal proponent of the Trump campaign's continuing efforts to fight the election outcome, said President Trump's commitment to the legal battle has only intensified in recent days."

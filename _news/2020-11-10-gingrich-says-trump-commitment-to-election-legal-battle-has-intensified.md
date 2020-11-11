@@ -206,6 +206,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Blacks and Latinos for Trump"
+    excerpt: "The president lost, but he did a good deal better with minorities in 2020 than he did in 2016."
+    publishedDateTime: 2020-11-11T03:56:00Z
+    webUrl: "https://www.wsj.com/articles/blacks-and-latinos-for-trump-11605048999"
+    ampWebUrl: "https://www.wsj.com/amp/articles/blacks-and-latinos-for-trump-11605048999"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/blacks-and-latinos-for-trump-11605048999"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-258041?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Trump Campaign Asks Federal Judge to Block Pennsylvania From Certifying Election Results"
     excerpt: "President Trump’s presidential campaign on Monday asked a federal judge to block Pennsylvania election officials from certifying the results of the election. Matthew Morgan, a Trump campaign lawyer, a"
     publishedDateTime: 2020-11-10T14:28:00Z

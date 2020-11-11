@@ -4076,12 +4076,12 @@ related:
         width: 821
         height: 545
         isCached: true
-  - title: "Nearly 80% of Americans say Biden won White House, ignoring Trump's refusal to concede - Reuters/Ipsos poll"
+  - title: "Nearly 80% of Americans say Biden won White House, ignoring Trump's refusal to concede: Reuters/Ipsos poll"
     excerpt: "Nearly 80% of Americans, including more than half of Republicans, recognize President-elect Joe Biden as the winner of the Nov. 3 election after most media organizations called the race for the Democrat based on his leads in critical battleground states,"
-    publishedDateTime: 2020-11-10T23:46:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-poll-idUKKBN27Q3DW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Q3DW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Q3DW"
+    publishedDateTime: 2020-11-11T03:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27Q3ED"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q3ED"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q3ED"
     type: article
     provider:
       name: Reuters
@@ -6086,6 +6086,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Insiders at Fox News wonder what's next as they try to acknowledge Biden's victory without turning away Trump voters"
+    excerpt: "Insiders at Fox News and the New York Post are wondering what's next for the most vocal pro-Trump personalities inside Rupert Murdoch's media empire."
+    publishedDateTime: 2020-11-11T04:28:00Z
+    webUrl: "https://www.businessinsider.com/inside-fox-news-as-the-networks-seem-to-turn-against-trump-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5faab83d1df1d50018219d91?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Supporters across the country took to the streets in glee as Joe Biden secures presidency"
     excerpt: "People celebrated across the country as major media networks projected Joe Biden’s victory in the presidential election."
     publishedDateTime: 2020-11-07T22:28:00Z
@@ -6522,6 +6536,22 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229449886.jpg?itok=YK9SWsij"
         width: 840
         height: 560
+        isCached: true
+  - title: "Trump, Biden fight for Black votes as racial anger riles country, campaign"
+    excerpt: "TOP STORIES Biden sweeps Trump in Dixville Notch, N.H. Why we enthusiastically endorse Donald J. Trump for reelection Biden campaign: 'Under no scenario' will Donald Trump be declared a winner on ..."
+    publishedDateTime: 2020-10-28T00:14:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/27/donald-trump-joe-biden-fight-black-voters-support-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/27/donald-trump-joe-biden-fight-black-voters-support-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/27/donald-trump-joe-biden-fight-black-voters-support-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/26/Election_2020_Louisiana_89456.jpg-955d4_c0-0-4928-2874_s1200x700.jpg?ce9b828fe6111970e4190020c5e06c49f3fcfae3"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Donald Trump Jr. Slammed For Misspellings, Inaccuracies In Anti-Biden Tweet"
     excerpt: "Donald Trump Jr. tweeted out a quote supposedly from a working-class friend of his full of typos and incorrect claims; Social media quickly piled on the mistake, sayin"

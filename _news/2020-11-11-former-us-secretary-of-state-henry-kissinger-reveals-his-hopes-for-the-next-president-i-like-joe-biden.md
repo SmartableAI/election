@@ -2,9 +2,9 @@
 category: news
 title: "Former US Secretary of State Henry Kissinger reveals his hopes for the next president: 'I like Joe Biden'"
 excerpt: "Kissinger discussed what he expects from the new president, what successes he thinks Trump's administration had, and his longing for harmony."
-publishedDateTime: 2020-11-10T18:10:00Z
-originalUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?utmSource=twitter&utmContent=referral&utmTerm=topbar&referrer=twitter"
-webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?utmSource=twitter&utmContent=referral&utmTerm=topbar&referrer=twitter"
+publishedDateTime: 2020-11-11T03:28:00Z
+originalUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11"
+webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11"
 ampWebUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
 type: article
@@ -110,6 +110,6 @@ related:
         height: 600
         isCached: true
 
-secured: "/LF2GmhkgjR9jN0VyTzx1PjYL901N7O4oMBswgRmHqmLHyuKQCinZfWi8cmfYElaI9I4oTdG3wdBmalp837zbsfuMPoDN1AHF94bt0775MyBtPI8CiLi3X7V5RPhiNbsQihtjEcFBANtk/mQJF49TqeI9tC9C2uYqFio9HYUmHD8NEIOBmKZcwXzLLz5yn0JN/vPgbJKZu06dow4HICrUcy6eP2ohiIvOarYc5THhxWpXRcZLc/wKH0b1I92ZcT2M4FFQJSTOAHC9ILX8LRufPVAbHcFX69mVe70j7aiZqcLGItfYnSotCKlKVAjmVEHFNP54Y9Ga//cTVHDmqGGrtiJCyd/ERU4SFcS4aEg83UHR5exFCjuBMvpqfN9oGpwZQD2yHU/JF3phSj92VEPQDYSL47g7BuwECapMXHsqzUR2dRISA/vvKCSmPs/6I1MRHXW5FM9OlmbgQQSja2XEyteknMX9vAI9Opv3KjQPIglhGNnZlkekfaGDA/aUXONEVOXRCO9/+Ok/mtL2p3Nfw==;Ub6mOWaUq/rOd1ASUheqjw=="
+secured: "iY/bgWNBDpBwjjZBLiq3kjLoniEO2IzQxDiIOi3ZP8Ln+87ORtu0PCZ5sMYG8iwseAeRRHBpUaS5krVykQtsdyD8qfjG3VHR7+Bcc8Z2xlMhIGnjdCgL/23E3C88fhRf/LnE3/xvG1V+WfNwVnr9I+HSmhJPuhYK3kFUc5A7zk9x1SYNyKl9IFwaSKLOtK4eqObDIxlXCaM02fVmK6N87TWSMCqe1aeCNAueojPfXKimlDzadvJGtsWA/+CLRXDJfFem/26DhJD5uzYTUtfIv55W/XzDMwjcQIa1ShtR1UfcLJR9C4G4DspvrRCC7u3U9cG2U6XkuurysH4bvNXcM7kb6EVyuCylj+MpWU5N8LA=;dN13B+/UWcGO+mKM6Z279Q=="
 ---
 

@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: Biden team can’t get intelligence reports until Trump concedes election"
+    excerpt: "President Donald Trump’s unwillingness to concede the 2020 presidential election has delayed the process by which national security information can be shared with President-Elect Joe Biden, the national intelligence director’s office said on Tuesday."
+    publishedDateTime: 2020-11-11T03:36:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TMNvs08phtI/live-updates-biden-team-cant-get-intelligence-reports-until-trump-concedes-election"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-team-cant-get-intelligence-reports-until-trump-concedes-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-team-cant-get-intelligence-reports-until-trump-concedes-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 198
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef92bb4a-9427-41f5-923b-1b205b940f6c/d81fa819-7e7a-4d3d-acbc-e6a0b75618e1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former Trump rivals Jeb Bush, John Kasich congratulate Biden on projected election victory"
     excerpt: "Bush and Kasich each ran unsuccessful bids against Trump to secure the GOP nomination during the 2016 cycle."
     publishedDateTime: 2020-11-07T20:58:08Z
@@ -204,6 +220,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden camp asks for $30M in fundraising appeal to beat Trump's lawsuits"
+    excerpt: "President-elect Joe Biden's campaign is fundraising to fight the Trump campaign's legal efforts, vowing to \"re-launch\" its \"fight fund\" even as Biden has tried to downplay his opponent's lawsuits."
+    publishedDateTime: 2020-11-11T03:07:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HEBrSq3in58/biden-30-million-fight-fund-legal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-30-million-fight-fund-legal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-30-million-fight-fund-legal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c8dea53-4de8-40b4-8126-bb46a63e6869/070dd55d-34c0-4591-9d11-a475a63ecac4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden team can’t get intelligence reports until Trump concedes"
     excerpt: "The General Services Administration must first ascertain the winner of the election before providing intelligence briefings to the next administration."
     publishedDateTime: 2020-11-11T00:01:27Z
@@ -315,6 +347,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Live Updates: Biden camp seeks $30M in 'fight funds' to take on Trump's lawsuits"
+    excerpt: "President-elect Joe Biden's campaign is fundraising to fight the Trump campaign's legal efforts, vowing to \"re-launch\" its \"fight fund\" even as Biden has tried to downplay his opponent's lawsuits."
+    publishedDateTime: 2020-11-11T03:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FkIiNtD8eG8/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Concha: 'Shy Trump voters' missed again as polls overstated Joe Biden's support"
     excerpt: "The \"shy Trump voter\" emerged for a second straight presidential election, The Hill media reporter Joe Concha said on Thursday, as many polls ended up overstating the support for Democrat Joe Biden."

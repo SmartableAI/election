@@ -351,6 +351,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump, Biden spar in combative but less vitriolic presidential debate"
+    excerpt: "NASHVILLE, Tenn. – President Donald Trump and Democratic nominee Joe Biden tussled over health care, the economy and the nation’s response to the coronavirus pandemic in a final debate ..."
+    publishedDateTime: 2020-10-23T02:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/presidential-debate-donald-trump-joe-biden-face-off-one-last-time/3725267001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3725267001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3725267001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/6743cd11-cf07-4317-b2b0-4f54563b141a-GTY_1281735457.jpg?auto=webp&crop=6764,3805,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AP FACT CHECK: Trump and Biden in their last clash on stage"
     excerpt: "The past week in U.S. politics featured the final debate of the presidential campaign before the Nov. 3 election"
     publishedDateTime: 2020-10-24T11:57:00Z

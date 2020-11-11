@@ -383,6 +383,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump is dragging his whole administration into election rejection"
+    excerpt: "If you read all of those pre-election stories about the potential for President Donald Trump to deny the election results and muck up the government before he left office and thought there's no way he would actually do such a thing, prepare to be disappointed.\n    \n"
+    publishedDateTime: 2020-11-11T03:11:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VCjpu90rljY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/what-matters-november-10/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/what-matters-november-10/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110161603-101-trump-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump campaign planning messaging blitz to fuel unsupported election questions"
     excerpt: "President Donald Trump's campaign is planning a messaging blitz to fuel its argument -- unsupported by any evidence to date -- that the President's second term is being stolen from him through corrupt vote counts in battleground states, three sources familiar with the matter told CNN.\n    \n"
     publishedDateTime: 2020-11-09T04:43:35Z

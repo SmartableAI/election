@@ -148,6 +148,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Psychological Toll of 4 Years of Donald Trump Will Linger. Disciplined Hope Can Help Us More Forward"
+    excerpt: "In our fight against the oppression intensified by the Trump Administration, we have resisted Muslim bans, family separations, police violence, natural disasters, man-made disasters, undermined protections and compromised social safety nets."
+    publishedDateTime: 2020-11-10T16:27:00Z
+    webUrl: "https://time.com/5909885/after-donald-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 88
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/michelle-gustafson-joe-biden-kamala-harris-victory-speech.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Mike Pence making 2 more campaign stops in North Carolina | Charlotte Observer"
     excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump’s reelection bid."
     publishedDateTime: 2020-10-27T08:17:00Z

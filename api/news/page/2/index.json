@@ -292,7 +292,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 510,
+      "heat": 530,
       "tags": null,
       "images": [
         {
@@ -1098,7 +1098,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 9941,
+      "heat": 9981,
       "tags": null,
       "images": [
         {
@@ -1259,7 +1259,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 3905,
+      "heat": 3925,
       "tags": null,
       "images": [
         {

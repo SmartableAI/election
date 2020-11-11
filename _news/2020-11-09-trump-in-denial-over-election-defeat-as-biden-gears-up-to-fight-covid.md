@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 3905
+heat: 3925
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 187
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023120254-35d-mitch-mcconnell-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump is dragging his whole administration into election rejection"
+    excerpt: "If you read all of those pre-election stories about the potential for President Donald Trump to deny the election results and muck up the government before he left office and thought there's no way he would actually do such a thing, prepare to be disappointed.\n    \n"
+    publishedDateTime: 2020-11-11T03:11:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VCjpu90rljY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/what-matters-november-10/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/what-matters-november-10/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110161603-101-trump-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump is handling his election loss like every other setback. It can't work"
+    excerpt: "American voters have slammed President Donald Trump with the one thing he has always managed to avoid: a hard-stop of unyielding accountability.\n    \n"
+    publishedDateTime: 2020-11-11T03:08:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9Z8rpa83w0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-election-loss-setback/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-election-loss-setback/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110161604-102-trump-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump just admitted what everyone else already knows about the 2020 election"
     excerpt: "What the last four years have proven is that if you listen closely enough to President Donald Trump, he often accidentally reveals a deeper truth about his time in the White House -- and his campaign for a second term, which, win or lose, ends today.\n    \n"
     publishedDateTime: 2020-11-03T16:40:27Z

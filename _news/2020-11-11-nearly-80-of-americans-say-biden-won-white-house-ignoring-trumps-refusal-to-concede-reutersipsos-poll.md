@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Nearly 80% of Americans say Biden won White House, ignoring Trump's refusal to concede - Reuters/Ipsos poll"
+title: "Nearly 80% of Americans say Biden won White House, ignoring Trump's refusal to concede: Reuters/Ipsos poll"
 excerpt: "Nearly 80% of Americans, including more than half of Republicans, recognize President-elect Joe Biden as the winner of the Nov. 3 election after most media organizations called the race for the Democrat based on his leads in critical battleground states,"
-publishedDateTime: 2020-11-10T23:46:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-poll-idUKKBN27Q3DW"
-webUrl: "https://www.reuters.com/article/uk-usa-election-poll-idUKKBN27Q3DW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Q3DW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Q3DW"
+publishedDateTime: 2020-11-11T03:39:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27Q3ED"
+webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN27Q3ED"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q3ED"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q3ED"
 type: article
 quality: 122
 heat: -1
@@ -6074,6 +6074,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Insiders at Fox News wonder what's next as they try to acknowledge Biden's victory without turning away Trump voters"
+    excerpt: "Insiders at Fox News and the New York Post are wondering what's next for the most vocal pro-Trump personalities inside Rupert Murdoch's media empire."
+    publishedDateTime: 2020-11-11T04:28:00Z
+    webUrl: "https://www.businessinsider.com/inside-fox-news-as-the-networks-seem-to-turn-against-trump-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5faab83d1df1d50018219d91?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Election 2020: Democrat Joe Biden takes lead in Pennsylvania over President Donald Trump"
     excerpt: "Democratic presidential nominee Joe Biden has taken the lead in the commonwealth of Pennsylvania. Early Friday, Pennsylvania election officials said there were about 50,000 more mail-in votes to tabulate."
     publishedDateTime: 2020-11-06T13:57:00Z
@@ -6526,6 +6540,22 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229449886.jpg?itok=YK9SWsij"
         width: 840
         height: 560
+        isCached: true
+  - title: "Trump, Biden fight for Black votes as racial anger riles country, campaign"
+    excerpt: "TOP STORIES Biden sweeps Trump in Dixville Notch, N.H. Why we enthusiastically endorse Donald J. Trump for reelection Biden campaign: 'Under no scenario' will Donald Trump be declared a winner on ..."
+    publishedDateTime: 2020-10-28T00:14:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/27/donald-trump-joe-biden-fight-black-voters-support-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/27/donald-trump-joe-biden-fight-black-voters-support-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/27/donald-trump-joe-biden-fight-black-voters-support-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 88
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/26/Election_2020_Louisiana_89456.jpg-955d4_c0-0-4928-2874_s1200x700.jpg?ce9b828fe6111970e4190020c5e06c49f3fcfae3"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Donald Trump Jr. Slammed For Misspellings, Inaccuracies In Anti-Biden Tweet"
     excerpt: "Donald Trump Jr. tweeted out a quote supposedly from a working-class friend of his full of typos and incorrect claims; Social media quickly piled on the mistake, sayin"
@@ -7324,6 +7354,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "AaRkvu2MFMyxJZP3mG4abGjKZwOT1fDUU8eT+8GS+YnyATh0FrSWDjZo5qiWKIlIBh9iRA5SzgoPQce0wZg34F82NzCL+l0CLdgyIyjg53ooY3KcLuOuzxfiKai6rqdlKynKtSRYDXCdvjZsfq7TJSdNae9rDWeHFALmaJFuT5kVkWUi/nRqSSwt2UCz9KKTfwTxzuir1rIKht+Xff+S9ApgUki+GbXTd5dZ4O9H6Eam2wwhNb/B3G/v9sMkhpldBC8cPJ83LdmpiNXwI/gfh8JhGoEITb4klA7I3oFaqMIzbif5gEevDUE0vP89eP55cm49MQltRZTHACQPmBJIPjBRxGACsyynTWgNj6v6y1k=;l7vZQFHfArCZG2xBfaRXXw=="
+secured: "/aaGTSQh+UJsTQnYDuDSzOoSyFrPvV1j/ZLw56+mQ6QATPr+EsX0SO6kn76+vUzS1y/1IisZs8FAZKQ8b9/y+57BS/06g1BIKwP2QWkDh8y5PdILh/NJwz0BbhJEpYbWNkAvAkarazrxsVJ5gHqbn/9ujsO1wLGHaLZ8Bt7Stgj6evx87orgTFO+4qItVoOwgD+05nwEUMJPOtRdJ0lel28KnYdiVPaDsf2ZvwC5vEx3KYFlytWL7GiDy+bgwqlQx+E69/+gbkyLHS/MLIGKCZG3Q26o6Wn5x4l33HKuvCaRMh+Aq0d3ZrYKXGpljkkcyGZJfDDWejP007uPX1/bYg4yUCY6uAIY6g31Mo/XJJg=;erpTzkfTOVbHOc1LH7tqoQ=="
 ---
 

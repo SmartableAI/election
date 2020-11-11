@@ -79,6 +79,22 @@ related:
         width: 777
         height: 545
         isCached: true
+  - title: "Trump Pins Hopes on Rallies That Could Be Sealing His Defeat"
+    excerpt: "President Donald Trump’s push for a second poll-defying victory is relying on a hallmark of his first -- raucous campaign rallies that Trump sees as a crucial sign of voter enthusiasm but that ..."
+    publishedDateTime: 2020-10-27T08:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-27/trump-pins-hopes-on-rallies-that-could-be-sealing-his-defeat"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-27/trump-pins-hopes-on-rallies-that-could-be-sealing-his-defeat"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/trump-pins-hopes-on-rallies-that-could-be-sealing-his-defeat"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiKt14agS3Io/v0/360x-1.jpg"
+        width: 360
+        height: 230
+        isCached: true
   - title: "Trump remakes Supreme Court as Senate confirms Amy Coney Barrett"
     excerpt: "The Republican-led U.S. Senate handed President Donald Trump a major pre-election political victory on Monday by confirming his Supreme Court nominee Amy Coney Barrett as he delivered a dramatic conservative overhaul of the nation's top judicial body."
     publishedDateTime: 2020-10-27T00:30:00Z

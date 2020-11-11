@@ -384,6 +384,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump is dragging his whole administration into election rejection"
+    excerpt: "If you read all of those pre-election stories about the potential for President Donald Trump to deny the election results and muck up the government before he left office and thought there's no way he would actually do such a thing, prepare to be disappointed.\n    \n"
+    publishedDateTime: 2020-11-11T03:11:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VCjpu90rljY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/what-matters-november-10/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/what-matters-november-10/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110161603-101-trump-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "FBI investigating alleged harassment of Biden campaign bus by Trump supporters "
     excerpt: "The FBI is investigating the alleged harassment of a Joe Biden campaign bus last week by motorists displaying Trump 2020 flags, a law enforcement source familiar with the probe told CNN on Sunday.\n    \n"
     publishedDateTime: 2020-11-01T20:49:46Z
@@ -2940,6 +2956,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "QMTtdwI+dDkOkH/VqFJSv5QRUFc4ENzZky+g09Zvy3qA3Y8bs+sL2bIuAbNYbJRMlbn+SduqpvPFXXpMzE/MZymxA2qvNCo5DZHDWVJmhhFD5L2M1h9UyCxuw+tKegxSOpVa4Ihus76fVeYg3H9kJF4sfnhovCJqHO3ih1kWvXmwY+QC6yjMpTZdq/yFltPXBc00lpPKtSjnHD1l6+frhHS75R9PkIzEqLZMHEtbAqZwh7RgXQv6EGOVTHV6iE+iKGJzfqpIUZqGTY8/wiO19Vlp6MUoqJ5s2g7ezSqeQZsUY61gDJrh4r+Bo7hzbGhe1jhK9WV/dxmIMnAI88VZaN85li287mZTZUcFFRumFVc=;IzkC05Tf2BOYqseX5nry8Q=="
+secured: "AGdrVpfVeGz789h/yIKPi6nldxL9V7JmN6h4JooCp5cxSATR4DBfSx2qCfpiQswZQgb5ROcN3/BpjIvfIPz0j4a/R/7FmXqgioc1IMysw3Lyen0pXY/v6n/uDIey8cnsQYkROdEicEYkOvjKUD5xEZtCm4uf2Q3Q5xHJJRRdVcVAo/EU8KMXpKpBXPgtsPR0UrvFH1PXTChnWsihrae/O9uzVC4SQ57Pm5BjC1dU4jxspWLM8693RxjnFf/bl+Jy9OGHgpbh7AwaAJrPR+LqAm0iyMTBS3CMjc0r52WkPDrPVZLqD7DTFC9zPqwGdjG736cUhZBnhtWZ7zGH0s7OMBaWYNLK5KRCHhBm1Rqj84ZlcQw791rXe7gQjdkckEUPALAdcGSI/dQwGfQKbOGarrByeblo114dLiBhciFrLTjf7cc6sMhj6dSkotdP2MXMeLzUklqSo/QG4e7C+j3ij06/gsiy9t5ip5nMJNsvJ7tt4C96k1jI39tN4s2omhSiyrbQqOoQ1PPscJ38NqEmcw==;OdlsgMJY9ycwT2l/YSE3Qg=="
 ---
 

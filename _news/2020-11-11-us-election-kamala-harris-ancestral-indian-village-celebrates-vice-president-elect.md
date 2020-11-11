@@ -2,30 +2,26 @@
 category: news
 title: "US election: Kamala Harris' ancestral Indian village celebrates vice-president-elect"
 excerpt: "US Vice-President-elect Kamala Harris' ancestral Indian village has been celebrating her election victory. Thulasendrapuram, in the southern Indian state of Tamil Nadu, was the home of Ms Harris' maternal grandfather."
-publishedDateTime: 2020-11-10T22:32:00Z
-originalUrl: "https://www.bbc.com/news/av/election-us-2020-54897449"
-webUrl: "https://www.bbc.com/news/av/election-us-2020-54897449"
+publishedDateTime: 2020-11-11T03:27:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54896643"
+webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54896643"
 type: article
-quality: 113
+quality: 63
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+  - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y0zpt.jpg"
     width: 400
-    height: 225
+    height: 224
     isCached: true
 
 related:
@@ -271,6 +267,6 @@ related:
         height: 2454
         isCached: true
 
-secured: "Xzf2qXcfgO5wGE9J7XjR5Hz83FoQoQs7KN/0raPytfSP4TAseev5/pSbJ5IbXk+WcQwMYKTwOvPbxdFHTABpwil7XqAkC08m4qUgj8IMlJYSXWYfjf9jjOdJ+wLRjoVfEJxjn2anJquAKe7ss60tqXGSXxo0piofyfLeRsolEK3NqwMhI6p27jDi6HNZ1lWVgiM7IUclRA2RFTmBTTtlVYof1F8ah2rirVS9ncOv9pHF9QDlmSbwmZ7x2wR5Wzz94vTk66kqWWckJaVMH+5T+Ko4eHuG6dsLrvrvVK8rafTmKO7IYbDqez6dlmCkaDjXJhRdsvWD0zWtB2Y+gzcijH3IbIovVtB0++TaVEt2OXE=;5HWoB5gHjdxgWLf+NT0Ddw=="
+secured: "sdR5O+Slr9oEzKsHWeNvv8dS3R4YP5r9odTtwsO7MXdx/od3TpnGr4V1nO5Hz0rqMeC9P+aagVZGL3fHZO+TpegsSXwHp0f6v1+HyP2M5a0K6Lb0rr7J5Iwyfz96usSDuEbg3eHrnDFLfJaERpJURxeyh0JJp68SODan27fKvR8Dv8RGUQ0m9o2JKGC3lzzVn2cmeC9kOCBCqkFDpw/CmT9YzZXpRisVCtezDU6G0CXKO9xoWasyUR5WMzH5zCBKc9hCdCuw7Sl6SE9zht9r7GBid2EmnwzwXi+wBt1d2stDXCGj27RtnoQ6I3EOLhIY77sPXSQns7YYp/aUDqIUTEIp7xa6kwRuOSnSyRjHkjU=;Br0T0bWyGJLlKypjvmlQdA=="
 ---
 

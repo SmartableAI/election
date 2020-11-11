@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2020/10/28/living-stat
 webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/28/living-statues-paint-trump-racist-relic/6054246002/"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump plans election night party at his D.C. hotel: 'It will be absolutely EPIC'"
+    excerpt: "WASHINGTON — President Donald Trump has his eye on hosting an election night party at his own hotel in the nation’s capital. Over the weekend, the campaign pushed out fundraising emails in the ..."
+    publishedDateTime: 2020-10-27T18:36:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/26/donald-trump-plans-election-night-party-his-trump-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/26/donald-trump-plans-election-night-party-his-trump-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/26/donald-trump-plans-election-night-party-his-trump-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 85
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/21/Election_2020_Trump_92474.jpg-40751_c0-0-4140-2415_s1200x700.jpg?7d80f224ac3e9ad9770dfc5082c4de06f51ff5c2"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "The Latest: Trump Says Final Debate Went 'Really Well'"
     excerpt: "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”."
     publishedDateTime: 2020-10-23T19:33:00Z

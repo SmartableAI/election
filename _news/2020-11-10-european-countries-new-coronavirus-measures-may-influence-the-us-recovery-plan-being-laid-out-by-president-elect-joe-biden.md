@@ -79,8 +79,8 @@ related:
         isCached: true
   - title: "Former US Secretary of State Henry Kissinger reveals his hopes for the next president: 'I like Joe Biden'"
     excerpt: "Kissinger discussed what he expects from the new president, what successes he thinks Trump's administration had, and his longing for harmony."
-    publishedDateTime: 2020-11-10T18:10:00Z
-    webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?utmSource=twitter&utmContent=referral&utmTerm=topbar&referrer=twitter"
+    publishedDateTime: 2020-11-11T03:28:00Z
+    webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11"
     ampWebUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
     type: article
