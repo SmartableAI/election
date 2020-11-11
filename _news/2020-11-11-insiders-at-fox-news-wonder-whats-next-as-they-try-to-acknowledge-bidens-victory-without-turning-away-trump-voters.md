@@ -493,6 +493,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "For Trump and Biden, debate fuels allegations of improper family foreign deals"
+    excerpt: "President Donald Trump leveled new attacks at the son of former Vice President Joe Biden at Thursday night’s debate."
+    publishedDateTime: 2020-10-23T03:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-biden-debate-fuels-allegations-improper-family-foreign/story?id=73778317"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-debate-fuels-allegations-improper-family-foreign/story?id=73778317"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-debate-fuels-allegations-improper-family-foreign/story?id=73778317"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 146
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-biden-debate-nashville-24-rtr-jc-201022_1603416146080_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Election 2020 live updates: Biden takes lead over Trump in battleground state of Georgia"
     excerpt: "Democrat Joe Biden is now leading President Donald Trump in the battleground state of Georgia. By Friday morning, Biden overtook Trump in the number of ballots counted in the battleground, a must-win state for Trump that has long been a Republican stronghold."
     publishedDateTime: 2020-11-06T10:11:00Z
@@ -588,6 +604,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e1eb8e40-2115-406e-b439-eed892cee462-GTY_1284581020.jpg?auto=webp&crop=2999,1687,x0,y72&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump's allies are privately resigned to Joe Biden's election victory, according to a report"
+    excerpt: "Republicans and senior officials have publicly supported the president's refusal to concede the election to President-elect Joe Biden."
+    publishedDateTime: 2020-11-11T06:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-increasingly-resigned-to-biden-win-report-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-increasingly-resigned-to-biden-win-report-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-increasingly-resigned-to-biden-win-report-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 144
+    images:
+      - url: "https://i.insider.com/5faa9427f7d1cb0019e3abce?width=1200&format=jpeg"
+        width: 1020
+        height: 510
         isCached: true
   - title: "Biden gains ground on Trump in Georgia and Pennsylvania, edges closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden gained more ground on President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to the White House hours after Trump falsely claimed the election was being \"stolen\" from him."
@@ -2028,22 +2060,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2018/04/26/a94b1199-056b-47ac-b272-681ccbc8f949/thumbnail/1200x630/0007a00ff914d58ceb1b2ce81dd888e1/rtx24hqc.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "For Trump and Biden, debate fuels allegations of improper family foreign deals"
-    excerpt: "President Donald Trump leveled new attacks at the son of former Vice President Joe Biden at Thursday night’s debate."
-    publishedDateTime: 2020-10-23T03:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-biden-debate-fuels-allegations-improper-family-foreign/story?id=73778317"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-debate-fuels-allegations-improper-family-foreign/story?id=73778317"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-debate-fuels-allegations-improper-family-foreign/story?id=73778317"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 136
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-biden-debate-nashville-24-rtr-jc-201022_1603416146080_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump defends Texas drivers who swarmed Biden bus on highway; FBI investigating"
     excerpt: "According to the Biden campaign, the vehicles surrounded the bus trying to slow it down in the middle of the highway or run it off the road."
@@ -4942,6 +4958,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden just hired 4 people to tear down Trump's climate and energy policies"
+    excerpt: "Biden's transition team on Tuesday announced who he'd be sending into climate and energy agencies to trash Trump's policies."
+    publishedDateTime: 2020-11-11T05:20:00Z
+    webUrl: "https://www.businessinsider.com/biden-names-transition-teams-for-energy-environment-climate-agencies-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5faaed3bf7d1cb0019e3aee2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Ultimate Donald Trump Mystery That Couldn’t Be Solved Before Election Day"
     excerpt: "A s Americans vote today, they do so with a limited view of Donald Trump’s finances—especially at one project, the Trump International Hotel & Tower in Chicago, which offers the prospect of shedding light on many questions: who the president owes money to,"
     publishedDateTime: 2020-11-03T13:48:00Z
@@ -7354,6 +7384,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "cXIlqUKy9npnPwMKwgX3Vx41VaFkauxzNd02bvQ+keeHFacGBNuLHJD/NryehKy08ty6uU5kZmabo7XlorfFj3c9z1PhP/tj4124drcuuEWWe31vDP4hEZ7m+ATHZzCLNFiVLD0elqPnchEXSSJvJoSd9tytivOoHNTZMaZXo+T9hcVbbSeuURv8mRUP+/Ge5n7o5eYmMRsL+dLlu5FzqoahmwX9WiwWdx/7JxUUNQGg57aafgEoDgDf/Q5i2Zo1ZxvAx93F8U+ILLQHm3YWmSTRR8o6AIRMZhv7uamVwTRdlkc69m1Uy0rBkt6UR+zHKQJ5OXDoLJ8/+CRTwfdPL2WenIjEr+YhuRjr7rI0BQ4=;LqgWfsLfhEfOx2BFJrEJYg=="
+secured: "B3St8wPfGFAjQakecYluEWes88yxfdWuqOZpIV4WkY27L73MtwIHdtKF2wVXZVK2ob1ynrwlR5hnaa4+89iXafNxfcHWXs/Abnafw+GgW7rEqT0ZNYtE19bP2I5KRPj/9nWI3Ck0Qxs9wR/39s8UIKKZkTjc75FzgmztOn87Bq9t80sVyedefQTxP4alOW4JNKvZzvZdU0v0So238ZgtWkCGpDsKsfoZU209AM/ofv0XQl1vEp+m4UnBGMeyJ5LXJgW5eAZ93f60dMNMOuwXm1wAI2jDKmjE5m614kZ1LBlIICN+9JThNUNsP1JkOta7uhbD3ltkM+o5FBD3xw1Ag8rMRm0lUX5HEEVUFd0Y/TJPl67dbYFE5/JUUzqivmaBlk9iribFMmIO10ZobnorX7qIfc/QrZTpkjOWrg3H4c3fnUGE8Ui8cQf/lOpzCCNGsGSAgbx91mZQYEiuVKpW2GnBUBGEw4vmbQkheu5NpjjiwvNoVJ5dP6fHIdxeqaT8XC7nHyLsZSGGTwxE7l0PYg==;/c0W2uY6yYsDFmwH3YVp7g=="
 ---
 

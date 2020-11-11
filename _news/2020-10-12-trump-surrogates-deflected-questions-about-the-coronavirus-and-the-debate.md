@@ -1518,6 +1518,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Pledges Ambitious Climate Action. Here’s What He Could Actually Do."
+    excerpt: "Now they’re waiting to see one be vice president. In pivotal states that could put Biden over the top, the counting continues. Slowly. “Joe Biden has proved throughout his career that he can ..."
+    publishedDateTime: 2020-10-27T11:43:00Z
+    webUrl: "https://www.nytimes.com/2020/10/25/climate/biden-climate-change.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/25/climate/biden-climate-change.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/25/climate/biden-climate-change.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/16/climate/00CLI-BIDEN1/00CLI-BIDEN1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Twitter removes tweet from top Trump Covid adviser saying masks don't work"
     excerpt: "Twitter on Sunday removed a tweet from one of President Donald Trump's top Covid-19 advisers falsely claiming masks don't work to prevent the spread of coronavirus. The tweet no longer appeared on the site as of Sunday morning,"
     publishedDateTime: 2020-10-18T14:41:00Z

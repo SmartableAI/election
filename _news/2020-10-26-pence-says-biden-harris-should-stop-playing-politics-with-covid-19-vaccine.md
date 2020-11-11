@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp"
 type: article
 quality: 223
-heat: 703
+heat: 723
 published: true
 
 provider:
@@ -362,6 +362,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Yes, Joe Biden absolutely said he opposes fracking"
+    excerpt: "Democratic nominee Joe Biden is lying. On Thursday, during the final 2020 presidential debate, Biden denied ever saying he opposes fracking. But he absolutely did. To claim otherwise, as the ..."
+    publishedDateTime: 2020-10-23T00:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/yes-joe-biden-absolutely-said-he-opposes-fracking"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/yes-joe-biden-absolutely-said-he-opposes-fracking?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/yes-joe-biden-absolutely-said-he-opposes-fracking?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
   - title: "Kamala Harris's liberalism is no laughing matter"
     excerpt: "Vice presidential candidate Kamala Harris appeared shocked during an interview with 60 Minutes this weekend after being reminded that she is one of the most liberal senators in Washington. She co-sponsored Medicare for All and endorsed the Green New Deal,"
     publishedDateTime: 2020-10-27T04:00:00Z

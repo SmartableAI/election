@@ -66,14 +66,14 @@ related:
   - title: "Vice President Mike Pence Attends Republican Luncheon"
     excerpt: "United States Vice President Mike Pence walks with Becky Schaaf, Protocol Officer U.S. Senate Sergeant of Arms out of the Republican Policy lunch on Capitol Hill in Washington, DC on Tuesday, November 10,"
     publishedDateTime: 2020-11-10T20:34:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/de51caa1fe4909c17eb55be1315139bf/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8cc7194d3a31d11d7aa74677c657a354/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/de51caa1fe4909c17eb55be1315139bf/REBUBLICAN-POLICY-LUNCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8cc7194d3a31d11d7aa74677c657a354/REBUBLICAN-POLICY-LUNCH.jpg"
         width: 650
         height: 433
         isCached: true

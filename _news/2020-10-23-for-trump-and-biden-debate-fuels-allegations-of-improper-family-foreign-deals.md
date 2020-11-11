@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/Politics/trump-biden-debate-fuels-allegations-im
 ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-debate-fuels-allegations-improper-family-foreign/story?id=73778317"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-debate-fuels-allegations-improper-family-foreign/story?id=73778317"
 type: article
-quality: 136
+quality: 146
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://s.abcnews.com/images/Politics/trump-biden-debate-nashville-24-rtr-jc-201022_1603416146080_hpMain_16x9_992.jpg"
@@ -590,6 +591,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e1eb8e40-2115-406e-b439-eed892cee462-GTY_1284581020.jpg?auto=webp&crop=2999,1687,x0,y72&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump's allies are privately resigned to Joe Biden's election victory, according to a report"
+    excerpt: "Republicans and senior officials have publicly supported the president's refusal to concede the election to President-elect Joe Biden."
+    publishedDateTime: 2020-11-11T06:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-increasingly-resigned-to-biden-win-report-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-increasingly-resigned-to-biden-win-report-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-increasingly-resigned-to-biden-win-report-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 144
+    images:
+      - url: "https://i.insider.com/5faa9427f7d1cb0019e3abce?width=1200&format=jpeg"
+        width: 1020
+        height: 510
         isCached: true
   - title: "Biden gains ground on Trump in Georgia and Pennsylvania, edges closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden gained more ground on President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to the White House hours after Trump falsely claimed the election was being \"stolen\" from him."
@@ -4927,6 +4944,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/674ACOBDWEI6XBTSYKA4PIWJNY.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden just hired 4 people to tear down Trump's climate and energy policies"
+    excerpt: "Biden's transition team on Tuesday announced who he'd be sending into climate and energy agencies to trash Trump's policies."
+    publishedDateTime: 2020-11-11T05:20:00Z
+    webUrl: "https://www.businessinsider.com/biden-names-transition-teams-for-energy-environment-climate-agencies-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5faaed3bf7d1cb0019e3aee2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The Ultimate Donald Trump Mystery That Couldn’t Be Solved Before Election Day"
     excerpt: "A s Americans vote today, they do so with a limited view of Donald Trump’s finances—especially at one project, the Trump International Hotel & Tower in Chicago, which offers the prospect of shedding light on many questions: who the president owes money to,"

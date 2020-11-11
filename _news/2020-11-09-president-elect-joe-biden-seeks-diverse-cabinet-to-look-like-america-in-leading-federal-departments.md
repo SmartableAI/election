@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3748535001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001"
 type: article
 quality: 110
-heat: -1
-published: false
+heat: 170
+published: true
 
 provider:
   name: USA Today
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden"
-    excerpt: "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\""
-    publishedDateTime: 2020-11-08T17:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Putin won't congratulate Biden before 'official results' and 'legal procedures' are completed"
-    excerpt: "A Putin spokesman said there was an \"absolutely obvious\" difference from 2016, when Putin congratulated Trump based on media projections."
-    publishedDateTime: 2020-11-09T14:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6218660002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6218660002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/5811c7a4-3d17-4645-a9a8-35817e826495-AP_Russia_Putin.jpg?auto=webp&crop=2892,1627,x430,y876&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Former US Secretary of State Henry Kissinger reveals his hopes for the next president: 'I like Joe Biden'"
     excerpt: "Kissinger discussed what he expects from the new president, what successes he thinks Trump's administration had, and his longing for harmony."
     publishedDateTime: 2020-11-11T03:28:00Z
@@ -79,36 +47,31 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
-    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
-    publishedDateTime: 2020-11-09T09:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
+  - title: "Joe Biden spoke about how Americans 'chose change over more of the same'"
+    excerpt: "Joe Biden spoke to his supporters in Wilmington, Delaware about how Americans \"want the country to come together and not be pulled apart.\""
+    publishedDateTime: 2020-11-07T05:00:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/11/07/election-2020-biden-says-record-number-americans-chose-change/6198577002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 91
+    quality: 104
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/68c7b583-60ef-4302-931a-6bae25e82f21-VPC_BIDEN_SPEAKS_DESK.00_00_18_14.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "European countries' new coronavirus measures may influence the US' recovery plan being laid out by President-elect Joe Biden"
-    excerpt: "European countries have implemented new coronavirus measures to mitigate economic risk, which may influence Biden's US' recovery plan."
-    publishedDateTime: 2020-11-10T13:55:00Z
-    webUrl: "https://www.businessinsider.com/europe-new-coronavirus-measures-may-influence-us-recovery-2020-11"
+  - title: "U.S. to see more Chinese listings as Biden will make art of deal easier, advisors say"
+    excerpt: "Chinese companies' stock market listings in the United States reached a six-year high in 2020 and advisors expect the trend to accelerate in the year ahead in expectation of a stable regulatory regime under U."
+    publishedDateTime: 2020-11-10T07:23:00Z
+    webUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/5f96c971f21803001222be00?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+    quality: 98
 
 secured: "CRVWSJ7329BFHVSAtqugjgWKcNsIYW1sEqokWAcD4xffL8epkfs+TVLkA4KpAqpGdQE4xiZmlk9heZVY+8g4aKALQncquy5fo34Kt3yXMYSGGjw9HhccbWZcMtj5ojP8x7QCfny446tBAz7yK03IPeWxedcUi0OB7dmxJ9VJncCKPKqma3LzzOzFJK95NFmQLX3Hr9Euy59Rznb5x5AvvocV16h7PVpQqCKwl7oRDRJPr+WsNopOWCPgu19NpmLGRFdSixSSIkUYvwY7sdMgU2LfmNJiFdFrk8Np/A9SmZG6AZlOK2jGOlbUZYnStJ/5CB2r0gfiJU/vpmqAHPVm2wOklSBsEB05uIEfaCtk/qk=;8HkEf6aAxW1x1EsXxSYuyA=="
 ---

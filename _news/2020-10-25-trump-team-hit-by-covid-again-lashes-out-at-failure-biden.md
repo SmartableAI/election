@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump, Biden spar in combative but less vitriolic presidential debate"
+    excerpt: "NASHVILLE, Tenn. – President Donald Trump and Democratic nominee Joe Biden tussled over health care, the economy and the nation’s response to the coronavirus pandemic in a final debate ..."
+    publishedDateTime: 2020-10-23T02:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/presidential-debate-donald-trump-joe-biden-face-off-one-last-time/3725267001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3725267001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3725267001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 150
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/6743cd11-cf07-4317-b2b0-4f54563b141a-GTY_1281735457.jpg?auto=webp&crop=6764,3805,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden blasts Trump as U.S. COVID-19 cases mount and Pence staff endures outbreak"
     excerpt: "Vice President Mike Pence forged ahead with campaigning on Sunday despite a COVID-19 outbreak among his aides and President Donald Trump claimed progress as the United States set records for daily infections,"
     publishedDateTime: 2020-10-25T21:53:00Z
@@ -348,22 +364,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538558962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0AY"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump, Biden spar in combative but less vitriolic presidential debate"
-    excerpt: "NASHVILLE, Tenn. – President Donald Trump and Democratic nominee Joe Biden tussled over health care, the economy and the nation’s response to the coronavirus pandemic in a final debate ..."
-    publishedDateTime: 2020-10-23T02:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/presidential-debate-donald-trump-joe-biden-face-off-one-last-time/3725267001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3725267001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3725267001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/6743cd11-cf07-4317-b2b0-4f54563b141a-GTY_1281735457.jpg?auto=webp&crop=6764,3805,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Why Does Trump Think Biden Wants To Shrink Everybody’s Windows?"
     excerpt: "The president insisted during the presidential debate that his Democratic opponent wants to force buildings to install smaller windows. It’s unclear where Trump got this idea."
@@ -1500,6 +1500,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/25/46ae8717-8c38-4030-84bc-dbf4c833b39e/thumbnail/1200x630/d90ba7b812a4d1b3d439b605097676c8/gettyimages-1229228694.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden, the inspirational plodder"
+    excerpt: "Throughout his nearly 50 years in Washington, Joe Biden has been described as many things — influential, rambling, amiable, ambitious, error-prone and so on. But in all that time, virtually no ..."
+    publishedDateTime: 2020-10-26T00:30:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/25/joe-biden-inspirational-plodder/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/25/joe-biden-inspirational-plodder/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/25/joe-biden-inspirational-plodder/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OLKC7JQW4QI6XAW3MCYVZB2BAU.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "The secret to Biden's lead: People find him likable"
     excerpt: "Former Vice President Joe Biden heads into the final week before Election Day with a substantial advantage over President Trump, built on a careful foundation of Biden’s own personal image."
@@ -2834,6 +2850,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/gettyimages-1281728481.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "US Election 2020: Does Joe Biden have the stamina for the gruelling race for the White House?"
+    excerpt: "Joe Biden has tried to become president for three decades. That dream is within his grasp if the bookies and polls are right. But does he have the stamina for the final furlong of a gruelling race ..."
+    publishedDateTime: 2020-10-26T19:13:00Z
+    webUrl: "https://news.sky.com/story/us-election-2020-does-joe-biden-have-the-stamina-for-the-gruelling-race-for-the-white-house-12097725"
+    ampWebUrl: "https://news.sky.com/story/amp/us-election-2020-does-joe-biden-have-the-stamina-for-the-gruelling-race-for-the-white-house-12097725"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/us-election-2020-does-joe-biden-have-the-stamina-for-the-gruelling-race-for-the-white-house-12097725"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 79
+    images:
+      - url: "https://e3.365dm.com/20/10/1600x900/skynews-joe-biden-us-election-2020_5132250.jpg?20201008151557"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Watch live: Last presidential debate between Donald Trump and Joe Biden with live fact-checking"
     excerpt: "The debate will be hosted by Belmont University in Nashville, and NBC News’ Kristen Welker will serve as moderator."

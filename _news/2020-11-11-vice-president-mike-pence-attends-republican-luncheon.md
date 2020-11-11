@@ -3,8 +3,8 @@ category: news
 title: "Vice President Mike Pence Attends Republican Luncheon"
 excerpt: "United States Vice President Mike Pence walks with Becky Schaaf, Protocol Officer U.S. Senate Sergeant of Arms out of the Republican Policy lunch on Capitol Hill in Washington, DC on Tuesday, November 10,"
 publishedDateTime: 2020-11-10T20:34:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/de51caa1fe4909c17eb55be1315139bf/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/de51caa1fe4909c17eb55be1315139bf/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8cc7194d3a31d11d7aa74677c657a354/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8cc7194d3a31d11d7aa74677c657a354/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/de51caa1fe4909c17eb55be1315139bf/REBUBLICAN-POLICY-LUNCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8cc7194d3a31d11d7aa74677c657a354/REBUBLICAN-POLICY-LUNCH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -92,6 +92,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "iKGMrAkv7IIuOUyGRePDEzE4Lz5VDgaqTB689hcv+8laKpCkOICWcBjxN7BEt5AsyvpQgYGFwilBa6ZrRu161l9jmZhd2Ymh8mAI7jXprsHJ0arLyYSEHFMD0bdpTWwDI3QPlKbZFJd5+pfG4TTI7jvr8whri5xxdyPPUbnDgLHmZ0cY35A6jBl5hyDVnAYf+74vGrNa26kfdXyRcV9PTHH36SwPm1Hy93q1eM0NTRHu2qK5CVoCqpnJo8Yq2QBCmMS8nl7rXBdZVxTgdczfxTJKE7GTccI5QQV0TNxpiesdyk8aph3LEoOHMvDbGSn4aeUfqQGIOCKYLIFORMJwuvA3zLIMKUgnIuagQLOxKIbYMP6fjpqN3W9XcluNqoiVuotzapIOsbtfBkr4FPQuYLm9kIGZG1UmAWREdz1rRc9xNs4E3Hekq1TegezkzcS7w1KNQcdjSqjcrC2U2lzm2e7XZN+HPaIEHE0EejeXkPvJ/zyz1K5KPWHlU0Ga7FQ5UimEym6mh3Q+3/OAAw6W2Q==;cC7W3A5mH4ZeZG3RDmB4DA=="
+secured: "H/Hno1oX6Q9jdCi/KWmXrb7hRFP3n5qtawfLHTnAFX43Dzsoh127V+NVOPSkIlpXdlQoyLmZE2TgPwoIq65kJuqolFM5d4cte2i90zIknDUmpPnR3dBotD/5cwHtUVtnNVgBwb1iKnC/xfzy0pbZarceVXncyrXTpTqaQFrO2awLIpGotxIzniTODnmaa7aXr2h5DQaWa3uhKgCQHkOM9GPSqnklt5zZeKJ14j/KAVZ5pIeFm2rF0Ius+YTUZISkY4tkgdcC6Wx8BapQ7gK5upSFZwBuuM4lG15lMpCytJlduZatlGhHcTjnmeWRa83ph81nsnnXIarTMMQeDncl36PvZsLSZqPsQTS61rgtASQ=;OOt0lUB+ZD12d3UwXir2Eg=="
 ---
 

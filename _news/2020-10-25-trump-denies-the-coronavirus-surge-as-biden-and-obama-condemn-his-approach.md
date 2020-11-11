@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 2618
+heat: 2638
 published: true
 
 provider:
@@ -1501,6 +1501,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/24/us/24elections-briefing-trump/24elections-briefing-trump-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden Pledges Ambitious Climate Action. Here’s What He Could Actually Do."
+    excerpt: "Now they’re waiting to see one be vice president. In pivotal states that could put Biden over the top, the counting continues. Slowly. “Joe Biden has proved throughout his career that he can ..."
+    publishedDateTime: 2020-10-27T11:43:00Z
+    webUrl: "https://www.nytimes.com/2020/10/25/climate/biden-climate-change.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/25/climate/biden-climate-change.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/25/climate/biden-climate-change.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/16/climate/00CLI-BIDEN1/00CLI-BIDEN1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump surrogates deflected questions about the coronavirus and the debate."
     excerpt: "As President Trump continued to trail by double digits in polls, several of his surrogates tried on Sunday to shift attention away from the details of his coronavirus infection and his administration’s handling of the pandemic."

@@ -8,7 +8,7 @@ webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/presi
 ampWebUrl: "https://amp.usatoday.com/amp/3725267001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3725267001"
 type: article
-quality: 140
+quality: 150
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/6743cd11-cf07-4317-b2b0-4f54563b141a-GTY_1281735457.jpg?auto=webp&crop=6764,3805,x0,y0&format=pjpg&width=1200"
@@ -1487,6 +1488,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden, the inspirational plodder"
+    excerpt: "Throughout his nearly 50 years in Washington, Joe Biden has been described as many things — influential, rambling, amiable, ambitious, error-prone and so on. But in all that time, virtually no ..."
+    publishedDateTime: 2020-10-26T00:30:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/25/joe-biden-inspirational-plodder/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/25/joe-biden-inspirational-plodder/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/25/joe-biden-inspirational-plodder/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OLKC7JQW4QI6XAW3MCYVZB2BAU.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "The secret to Biden's lead: People find him likable"
     excerpt: "Former Vice President Joe Biden heads into the final week before Election Day with a substantial advantage over President Trump, built on a careful foundation of Biden’s own personal image."
     publishedDateTime: 2020-10-27T11:00:00Z
@@ -2820,6 +2837,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/gettyimages-1281728481.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "US Election 2020: Does Joe Biden have the stamina for the gruelling race for the White House?"
+    excerpt: "Joe Biden has tried to become president for three decades. That dream is within his grasp if the bookies and polls are right. But does he have the stamina for the final furlong of a gruelling race ..."
+    publishedDateTime: 2020-10-26T19:13:00Z
+    webUrl: "https://news.sky.com/story/us-election-2020-does-joe-biden-have-the-stamina-for-the-gruelling-race-for-the-white-house-12097725"
+    ampWebUrl: "https://news.sky.com/story/amp/us-election-2020-does-joe-biden-have-the-stamina-for-the-gruelling-race-for-the-white-house-12097725"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/us-election-2020-does-joe-biden-have-the-stamina-for-the-gruelling-race-for-the-white-house-12097725"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 79
+    images:
+      - url: "https://e3.365dm.com/20/10/1600x900/skynews-joe-biden-us-election-2020_5132250.jpg?20201008151557"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Watch live: Last presidential debate between Donald Trump and Joe Biden with live fact-checking"
     excerpt: "The debate will be hosted by Belmont University in Nashville, and NBC News’ Kristen Welker will serve as moderator."

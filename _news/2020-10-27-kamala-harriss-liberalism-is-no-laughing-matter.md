@@ -371,6 +371,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Yes, Joe Biden absolutely said he opposes fracking"
+    excerpt: "Democratic nominee Joe Biden is lying. On Thursday, during the final 2020 presidential debate, Biden denied ever saying he opposes fracking. But he absolutely did. To claim otherwise, as the ..."
+    publishedDateTime: 2020-10-23T00:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/yes-joe-biden-absolutely-said-he-opposes-fracking"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/yes-joe-biden-absolutely-said-he-opposes-fracking?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/yes-joe-biden-absolutely-said-he-opposes-fracking?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
   - title: "Kamala Harris encourages voters to reelect Kim Foxx in Cook County robocall"
     excerpt: "With less than a week until Election Day, Democratic vice presidential nominee Kamala Harris is encouraging residents in Cook County, Illinois, to support the reelection of State's Attorney Kim Foxx."
     publishedDateTime: 2020-10-29T14:37:00Z
