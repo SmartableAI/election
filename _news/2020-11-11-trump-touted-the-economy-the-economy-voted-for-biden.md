@@ -1583,6 +1583,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden says nothing will stop transition as Trump vows new legal action"
+    excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, while President Donald Trump pursued lawsuits in several states in a long-shot bid to hold on to power."
+    publishedDateTime: 2020-11-11T08:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/nothings-going-to-stop-handover-of-power-in-us-biden-says-idUSKBN27Q0LI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540785215&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA029"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z

@@ -352,6 +352,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "The Latest: Mike Pence heading to Florida vacation island"
+    excerpt: "President-elect Joe Biden has announced the members of his coronavirus task force, which will put together a blueprint for fighting the pandemic."
+    publishedDateTime: 2020-11-09T14:26:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/09/the-latest-mike-pence-heading-to-florida-vacation-island/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/09/the-latest-mike-pence-heading-to-florida-vacation-island/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/09/the-latest-mike-pence-heading-to-florida-vacation-island/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/Biden_53500-1.jpg?w=1024&h=799"
+        width: 1024
+        height: 799
+        isCached: true
   - title: "Mike Pence heading to Florida vacation island"
     excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
     publishedDateTime: 2020-11-09T20:09:00Z

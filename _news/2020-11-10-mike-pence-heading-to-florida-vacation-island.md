@@ -369,6 +369,22 @@ related:
         height: 719
         isCached: true
   - title: "The Latest: Mike Pence heading to Florida vacation island"
+    excerpt: "President-elect Joe Biden has announced the members of his coronavirus task force, which will put together a blueprint for fighting the pandemic."
+    publishedDateTime: 2020-11-09T14:26:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/09/the-latest-mike-pence-heading-to-florida-vacation-island/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/09/the-latest-mike-pence-heading-to-florida-vacation-island/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/09/the-latest-mike-pence-heading-to-florida-vacation-island/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/Biden_53500-1.jpg?w=1024&h=799"
+        width: 1024
+        height: 799
+        isCached: true
+  - title: "The Latest: Mike Pence heading to Florida vacation island"
     excerpt: "WASHINGTON (AP) \" The Latest on President-elect Joe Biden (all times local): 9 p.m. International observers from the Organization of American States"
     publishedDateTime: 2020-11-10T03:52:00Z
     webUrl: "https://www.heraldnews.com/ZZ/news/20201109/latest-international-observers-see-no-fraud-in-us-vote"

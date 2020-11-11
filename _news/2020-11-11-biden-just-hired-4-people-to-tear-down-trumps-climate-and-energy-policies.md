@@ -1581,6 +1581,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden says nothing will stop transition as Trump vows new legal action"
+    excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, while President Donald Trump pursued lawsuits in several states in a long-shot bid to hold on to power."
+    publishedDateTime: 2020-11-11T08:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/nothings-going-to-stop-handover-of-power-in-us-biden-says-idUSKBN27Q0LI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540785215&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA029"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump touted the economy; the economy voted for Biden"
     excerpt: "U.S. President Donald Trump leaned on economic arguments in his reelection bid. The economy favored Democratic challenger Joe Biden."
     publishedDateTime: 2020-11-10T16:17:00Z
@@ -7384,6 +7400,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VFkp9OD5J9lTUd7cgbAdZosd8Mn4TOXyX7aLu6VWqFqUHVuGgfu8YtvaGJoRznDVH5u3MYICirlz9CKqLZBBVCE+y3i1euAEMgfA0ilAqKyletzAixdROySesjlX3HC0VcjPHUIKO5AezwiNMtoo3P5XcDJUWuSFMU9UNJ3jK7wnVdBAFJxAach5JsWtzgiKl5UKOAv7Cns+p2AJk1HjIrntJlLqapegA0CV8jmARQUTzMVHAH3s3YfqlNxJhCWPl216UwqjMNKqZGGKUSM8HowRb9ihTQQ/K0hpS5Zfgfp5m0ekqOqFy0Gg92nRVpZChEkzuXfLZSGocbz+K9U9paCJwFx0ZYzjKLdfb7Tbjnk=;MUnd8fbjyBecrNGu/ZZjag=="
+secured: "01+O7kuc8nGeLgb3ZFIm1y4MVTMtlANxiD1K3RUCl5LVJctfHct7W3E59wQxpTPEER8RYr3VDskx4FnSdeA3wvV4N1GgIaBOy1FT2QE12BoWWUxdn7OtIRj4KxDKm5asAglexgorn/NuYDzINKR8d4XPKUgOaoQSFUkJn2SIS3oJPiTQgrqXw5VvfPKq09asDlus8I7uSUdBC8kw4xEndtbaoG5a0HiZyn9Lst4bKVnpLsw8+r57MFC6P3SmS8XCoo/1+rf75XPqewKIF/mnivp4xXknzuCIonGfFYmbT6uRj3j2DYZabJxpTJRWGcAfRHa44RT6eKk7ZOgW/MgUHW+Ozzm7oArAL8XB53yhk5SV/IUK3kYT8HqD3P01PmRqtcso1nKfxnhvpj4GrnRrKfjIGD7/oVz6+eAXnbVqZR1raPPL9t5r7BsX6buj/lMVR++ybPX7q0F3W2bAIpeuJBqiTR26qjtgYSGyoSKuedQjDRvp7v4DbfUzYy+8RXbu/m0Fotx8p2x7U+qw++8l3A==;Dgc8NdwIPCFWTFlcbedTRw=="
 ---
 

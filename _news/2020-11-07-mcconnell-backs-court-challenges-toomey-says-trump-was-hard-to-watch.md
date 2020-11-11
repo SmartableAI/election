@@ -1318,6 +1318,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Plans Veterans Day Appearance, His First Since Race Was Called for Biden"
+    excerpt: "President Trump is set tomorrow to make his first public appearance since the Associated Press declared Joe Biden the winner of the presidential election. On Wednesday, the president and first lady Melania Trump plan to visit Arlington National Cemetery to mark Veterans Day,"
+    publishedDateTime: 2020-11-11T08:58:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/IOiPfOSGjIiAk662pkue"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 126
+    images:
+      - url: "https://images.wsj.net/im-257950?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Republicans Hold Top Election Roles in Some States Trump Says Are Skewing Counts"
     excerpt: "President Trump complained during his Thursday press conference that vote-counting in the outstanding states is being overseen by Democrats, even though Republicans occupy key roles in several battlegrounds."
     publishedDateTime: 2020-11-06T02:30:00Z
