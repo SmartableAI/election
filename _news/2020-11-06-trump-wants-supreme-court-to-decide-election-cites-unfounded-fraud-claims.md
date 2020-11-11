@@ -1208,6 +1208,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden Faces Choice on Trump’s Economic Sanctions"
+    excerpt: "Among the foreign-policy challenges facing President-elect Joe Biden will be the question of what to do with an array of punitive economic sanctions that have been President Trump’s primary tool for confronting U."
+    publishedDateTime: 2020-11-11T18:27:00Z
+    webUrl: "https://www.wsj.com/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-257923/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Ex-ESPN host Jemele Hill says 'it's on White people' if Trump wins reelection: 'No one else'"
     excerpt: "ESPN host Jemele Hill declared Tuesday that only White people are to blame if President Trump defeats Democratic nominee Joe Biden."
     publishedDateTime: 2020-11-04T04:44:00Z

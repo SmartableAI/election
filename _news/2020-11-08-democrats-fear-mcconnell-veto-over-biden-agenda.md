@@ -359,6 +359,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "World leaders congratulate Biden as Trump refuses to concede"
+    excerpt: "Leaders around the world have offered their congratulations to President-elect Joe Biden even as President Donald Trump refuses to concede his election loss.\n    \n"
+    publishedDateTime: 2020-11-11T18:44:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XEu5j7HYynU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/world-leaders-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/world-leaders-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109141708-joe-biden-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says there shouldn't be a second debate if Trump still has Covid-19"
     excerpt: "Democratic presidential nominee Joe Biden said Tuesday that the second presidential debate should not be held if President Donald Trump is still infected with coronavirus, but that he would base his participation in the debate upon recommendations from medical experts.\n    \n"
     publishedDateTime: 2020-10-07T01:01:06Z
@@ -2102,6 +2118,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/10/us/politics/10dc-trump-power/10dc-trump-power-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Drudge Report, a Former Trump Ally, Looks to Biden"
+    excerpt: "Matt Drudge and Donald Trump boosted each other four years ago. Now his site says, in prominent type, “The World Moves On.”"
+    publishedDateTime: 2020-11-11T17:20:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/business/media/drudge-report-trump-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/business/media/drudge-report-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/business/media/drudge-report-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/11/business/11DRUDGE-01/11DRUDGE-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."

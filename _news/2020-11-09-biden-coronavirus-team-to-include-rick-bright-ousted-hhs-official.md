@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-task-force-rick-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Elizabeth Warren's ex-chief of staff, senior Bernie Sanders adviser among members of Biden transition team"
+    excerpt: "The transition organization for President-elect Joe Biden announced its \"agency review teams\" on Tuesday, and among those who will be laying the groundwork for the Biden-Harris administration are a senior adviser to Sen. Bernie Sanders and the former chief of staff to Sen. Elizabeth Warren."
+    publishedDateTime: 2020-11-11T18:51:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lic4MTWjabY/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team"
+    ampWebUrl: "https://www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "sDOzJxR3y/KRsIxWmCSk3roWgTDt68u9keqHgx9mlv6QMzRgfmRDSTzNY+7paN9Mb6vkat/O2Iz49ICVtvw+IMOamGlvapcReH6MS5bJrWNG3nJPYEau1AFyUgDITYVmJgnqk9FuvyNt6wVvBGJLdszdwtzW88Xwyhe29JWyIJvCKPJsKlGvY8t7gN1mCQMSB7sw+vwJajlyrc7G6jkr9sNiszqtTGswT4Mq6Z6rHFGm9FI0Qhekn8THmEs+iUR/pVOVFChsPRnD9j0R9ocXYgdbLB7NV41wnzmI44imP1uxzArPXlMruZC71h0lVyJff0Is4E1LyNj47qXklO8MPfM9gWeo8UfI+GmYc0RX0Rc=;ZS7Ohdiii9idK4XAlr3hTQ=="

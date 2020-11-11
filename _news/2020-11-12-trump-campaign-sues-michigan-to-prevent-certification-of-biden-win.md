@@ -351,6 +351,22 @@ related:
         width: 782
         height: 545
         isCached: true
+  - title: "Trump files fresh election-challenge suit as Biden plans presidential transition"
+    excerpt: "President Donald Trump's campaign pushed ahead on Wednesday with its long-shot litigation strategy to try to upend Joe Biden's victory in the Nov. 3 U.S. election by filing a lawsuit in Michigan even as the former vice president focused on laying the foundation for his"
+    publishedDateTime: 2020-11-11T17:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idCAKBN27R0JP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27R0JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27R0JP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 150
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540854500&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA16Q"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Biden on the cusp of U.S. election victory as Trump presses unfounded fraud claims"
     excerpt: "Democrat Joe Biden edged closer to winning the White House on Friday, expanding his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia even as Republicans sought to raise $60 million to fund lawsuits challenging the results."
     publishedDateTime: 2020-11-07T00:15:00Z
@@ -1648,11 +1664,11 @@ related:
         height: 545
         isCached: true
   - title: "Biden says nothing will stop transition as Trump vows new legal action"
-    excerpt: "President Donald Trump will push ahead on Tuesday with longshot legal challenges to his loss to Democratic President-elect Joe Biden in last week's election, as Republican officials at the state and federal level lined up behind him."
+    excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, while President Donald Trump pursued lawsuits in several states in a long-shot bid to hold on to power."
     publishedDateTime: 2020-11-11T08:23:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27Q0LI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0LI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27Q0L6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L6"
     type: article
     provider:
       name: Reuters
@@ -1677,6 +1693,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721678&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91EY"
         width: 806
+        height: 545
+        isCached: true
+  - title: "Wall Street is not overly worried Trump can overturn election"
+    excerpt: "U.S. stock investors have expressed concerns that President Donald Trump's effort to contest the U.S. election without evidence could roil markets temporarily, but few appeared seriously worried that challenges to the results will succeed."
+    publishedDateTime: 2020-11-11T17:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-markets-election-idUSKBN27R2IL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R2IL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R2IL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540872822&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA1G7"
+        width: 817
         height: 545
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
@@ -6122,6 +6154,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9756901c-8b74-48d5-9d05-5adef2637c40_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump honors Veterans Day at Tomb of the Unknown"
+    excerpt: "President Donald Trump has observed Veterans Day at Arlington National Cemetery. It was his first public appearance after spending the last several days holed up at the White House tweeting baseless claims of voter fraud after his election loss."
+    publishedDateTime: 2020-11-11T17:51:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/11/trump-honors-veterans-day-tomb-unknown/6250671002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/515268eb-7abe-475f-8a05-1b1e6dfdca05-af2cefd0-8536-421a-ae44-be578082f2ee_thumbnail.png?quality=10"
+        width: 852
+        height: 480
         isCached: true
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."

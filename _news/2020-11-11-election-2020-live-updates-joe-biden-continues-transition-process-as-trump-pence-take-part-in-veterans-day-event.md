@@ -336,6 +336,22 @@ related:
         width: 782
         height: 545
         isCached: true
+  - title: "Trump files fresh election-challenge suit as Biden plans presidential transition"
+    excerpt: "President Donald Trump's campaign pushed ahead on Wednesday with its long-shot litigation strategy to try to upend Joe Biden's victory in the Nov. 3 U.S. election by filing a lawsuit in Michigan even as the former vice president focused on laying the foundation for his"
+    publishedDateTime: 2020-11-11T17:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idCAKBN27R0JP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27R0JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27R0JP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 150
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540854500&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA16Q"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Biden on the cusp of U.S. election victory as Trump presses unfounded fraud claims"
     excerpt: "Democrat Joe Biden edged closer to winning the White House on Friday, expanding his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia even as Republicans sought to raise $60 million to fund lawsuits challenging the results."
     publishedDateTime: 2020-11-07T00:15:00Z
@@ -1633,11 +1649,11 @@ related:
         height: 545
         isCached: true
   - title: "Biden says nothing will stop transition as Trump vows new legal action"
-    excerpt: "President Donald Trump will push ahead on Tuesday with longshot legal challenges to his loss to Democratic President-elect Joe Biden in last week's election, as Republican officials at the state and federal level lined up behind him."
+    excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, while President Donald Trump pursued lawsuits in several states in a long-shot bid to hold on to power."
     publishedDateTime: 2020-11-11T08:23:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27Q0LI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0LI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27Q0L6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L6"
     type: article
     provider:
       name: Reuters
@@ -1677,6 +1693,22 @@ related:
     quality: 140
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540862964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA1B9"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Wall Street is not overly worried Trump can overturn election"
+    excerpt: "U.S. stock investors have expressed concerns that President Donald Trump's effort to contest the U.S. election without evidence could roil markets temporarily, but few appeared seriously worried that challenges to the results will succeed."
+    publishedDateTime: 2020-11-11T17:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-markets-election-idUSKBN27R2IL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R2IL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R2IL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540872822&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA1G7"
         width: 817
         height: 545
         isCached: true
@@ -6124,6 +6156,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump honors Veterans Day at Tomb of the Unknown"
+    excerpt: "President Donald Trump has observed Veterans Day at Arlington National Cemetery. It was his first public appearance after spending the last several days holed up at the White House tweeting baseless claims of voter fraud after his election loss."
+    publishedDateTime: 2020-11-11T17:51:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/11/trump-honors-veterans-day-tomb-unknown/6250671002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/515268eb-7abe-475f-8a05-1b1e6dfdca05-af2cefd0-8536-421a-ae44-be578082f2ee_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
     publishedDateTime: 2020-11-10T20:21:00Z
@@ -7639,6 +7685,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "IrzdVy7O/rRTeqM7hTyzg43ITzTMHC0V9R+FMsQcqlVXsH0GHQpwZ98UN3uag8MFS1nbfVpyM0EkTF8CdJ0xo7ABSHjq/McdnC8P6EW5pxC0UA+EajS6KinFdSQe7fZ9oDYl72fpCJJoXVh89kP5vRIyeB4Izpe8Pbjxk3nckHkDPRBpQ2NBFMevm+5+l5JVgKOvinwS2LgRie3mSFabe+Jvkw5xBl/OM82wxhy9c5CzfkY4WfrddZDpEWzH2JhDtm9E7r6uxg6zRFCXJiHj8aF8URz1fvq9uOCQzYzCDCFBn1V8XcYkmYz4C4V7tm4jOsHHjMilW/90mAiyVp0nJj4uAs4TF16IaBm+uoKcfNI=;SWL1IX9sV2JiCatmG1GWDQ=="
+secured: "YQfgukWzBRaDtWDesc4lyg4253Ur9+pSOiqOM2dhenFPB+3fsCHHOX8QNXWfD2600DFDxcGmy4OTlfEW0jXYRA8Lr5OWN3dX/SwHkNQvnrcHYy1aB8MEi/iCCrPwPTf0eGl1or8DVKxBcG2QeCQaY+/eceSUvU1KYWQuj5jtPHdIJun1ecT3H2LjBtT/5FAfmiJjSWQc5/U4x+WTUyK0V2bHocsCn3CvSBkAxn9QVT9q4p8IcwNxs2o8fiSdgRuJHCqGmuTaK/6sau7j819abxrxHloBhLci/tHbq+SfNJ5uXSPADqgZ68NG3Fb343nNa3vuoWJDrARgr0jaAVt2A3zxcPwZi9WmZY5w5mp1+jykCjCsVP5o4dgDyrC/N2ChtIius4e9MubbsqDu4Lh6VSya+MnD0F5vgCA5dszu6h/Cf970bd/IrUggom6ibDTAXsbTmaxpU5RvvqgPUEX7Z8TwrdPvj7AH4gACluEVeIy/rHUrKdZkCUhAMB1I9u0R4XXdFYgHgp9i4Sw/rlHd/w==;igR2Djl4QjmSAlaXX6CYFg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-speech-mandate-trump-undecide
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
 type: article
 quality: 205
-heat: 2005
+heat: 2025
 published: true
 
 provider:
@@ -1194,6 +1194,22 @@ related:
       - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden Faces Choice on Trump’s Economic Sanctions"
+    excerpt: "Among the foreign-policy challenges facing President-elect Joe Biden will be the question of what to do with an array of punitive economic sanctions that have been President Trump’s primary tool for confronting U."
+    publishedDateTime: 2020-11-11T18:27:00Z
+    webUrl: "https://www.wsj.com/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-257923/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump wants Supreme Court to decide election, cites unfounded fraud claims"
     excerpt: "President Trump said the US Supreme Court should decide the presidential election due unfounded claims of “illegal voting.” Trump made the allegations in a tweet issued early Friday"

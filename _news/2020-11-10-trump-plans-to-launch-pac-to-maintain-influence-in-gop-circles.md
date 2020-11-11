@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump puts his bottom line before the country. And the GOP is helping him do it."
+    excerpt: "Given what we know about Donald Trump, his refusal to accept loss as he begins a revenge purge of his perceived enemies should not surprise us. He is a tiny man, devoid of moral fiber and character, defined only by his self-interest.\n    \n"
+    publishedDateTime: 2020-11-11T18:22:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YO7po5GJkdM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/borger-analysis-trump-bottom-line/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/borger-analysis-trump-bottom-line/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102140343-02-trump-nc-1101-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Lost the Race. But Republicans Know It’s Still His Party."
     excerpt: "Inside the Zoom salons, Senate-office conversations and 2024 jockeying that will shape the future of the G.O.P."
     publishedDateTime: 2020-11-09T09:32:00Z

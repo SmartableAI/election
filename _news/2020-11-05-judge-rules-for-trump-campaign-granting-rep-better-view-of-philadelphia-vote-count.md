@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden honors veterans with stop at Philadelphia memorial"
+    excerpt: "President-elect Joe Biden marked Veterans Day by honoring America’s veterans during a stop at the Korean War Memorial in Philadelphia."
+    publishedDateTime: 2020-11-11T17:18:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5sOc2gHoj_E/biden-veterans-day-philadelphia-memorial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-veterans-day-philadelphia-memorial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-veterans-day-philadelphia-memorial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Federal judge dismisses Trump request to stop counting Philadelphia ballots"
     excerpt: "A federal judge reportedly dismissed an emergency injunction brought by the Trump campaign Thursday afternoon to stop the counting of votes in Philadelphia, claiming election workers were ignoring an earlier court ruling over election observers."
     publishedDateTime: 2020-11-06T10:05:54Z
@@ -46,6 +62,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310851009982.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden says 'no excuse' for looting in Philadelphia after Black man killed by police"
+    excerpt: "Democratic presidential nominee Joe Biden says there’s “no excuse whatsoever” for the ongoing looting and violence in Philadelphia."
+    publishedDateTime: 2020-10-28T18:44:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/veUG1aWqE84/biden-no-excuse-for-philadelphia-looting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19d8c899-c6f5-41b9-9d36-0ae911189500/6139a1db-2f01-4c1a-9325-b4d504a0cb23/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Giuliani ‘en route’ to Philadelphia with Trump legal team as ballot battle ramps up"
+    excerpt: "Rudy Giuliani, the personal attorney to President Trump, said he is \"en route\" to Phildelphia with the Trump campaign legal team, vowing to protect the vote and \"not let\" Democrats \"steal\" Pennsylvania in the 2020 presidential race as the ballot battle intensifies Wednesday. "
+    publishedDateTime: 2020-11-04T19:39:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8LrYUedURtg/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump's Pennsylvania lead dwindles as legal fight heats up over Philadelphia poll watchers"
     excerpt: "President Trump's lead over Joe Biden in Pennsylvania was shrinking Thursday, as state election workers continued to count mail-in ballots."
@@ -79,6 +127,33 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says 'no excuse' for looting in Philadelphia after Black man killed by police"
+    excerpt: "Democratic presidential nominee Joe Biden says there’s “no excuse whatsoever” for the ongoing looting and violence in Philadelphia."
+    publishedDateTime: 2020-10-28T18:57:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-excuse-for-philadelphia-looting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20302623949679.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Philadelphia-area Biden supporters confident they'll make the difference for him in Pennsylvania"
+    excerpt: "The path to the White House for Joe Biden could run through the suburbs of Philadelphia. While there's little doubt that the former vice president will win the liberal suburbs of Bucks, Chester, Delaware,"
+    publishedDateTime: 2020-10-21T19:07:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 52
 
 secured: "fPSk5rlx/2i+MEzuyViafedjvAfRTQqXf/1Pqlmjcfp1PmAbpuMp9ZlZRyvdkht9tgSlGWnnEmDtS3pXmQ4QE9O8txx0z7Og4Iv1Ao/DsCADI/6X9pIOEdis3980un6rKj3yq+UCHvWozSK6mHR1DcSYXHXXI1J8NkhR+aYUCpGd678PlLGDSdGRFXp23WFEVCJatS560ioxJugNOvYgV/SGCZmiNFmHKk4ONjymME9ex2aEx7E8UOURqxdXm1v5kZtL+uh0KlDJ7a0eaqmZtEuvvWMVmSd26LHRRFT37Uo/9PT9HUL2PxFbsU6aYMF5nQqULo/ahnJBs6TjaPCRlXXgPNnypi6Cx6qyhywOM4A=;xTh+Wy+Z4+6VfZP51vXeFQ=="
 ---

@@ -1196,6 +1196,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden Faces Choice on Trump’s Economic Sanctions"
+    excerpt: "Among the foreign-policy challenges facing President-elect Joe Biden will be the question of what to do with an array of punitive economic sanctions that have been President Trump’s primary tool for confronting U."
+    publishedDateTime: 2020-11-11T18:27:00Z
+    webUrl: "https://www.wsj.com/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-257923/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump wants Supreme Court to decide election, cites unfounded fraud claims"
     excerpt: "President Trump said the US Supreme Court should decide the presidential election due unfounded claims of “illegal voting.” Trump made the allegations in a tweet issued early Friday"
     publishedDateTime: 2020-11-06T08:22:00Z
