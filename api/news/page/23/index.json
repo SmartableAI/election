@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-10-16-get-the-kids-back-to-school-donald-trump-uses-sons-covid-19-diagnosis-to-push-for-reopening-classrooms.md",
+      "title": "'Get the kids back to school': Donald Trump uses son's COVID-19 diagnosis to push for reopening classrooms",
+      "excerpt": "Barron Trump’s positive COVID-19 test has become part of his father's push to physically reopen schools. The 14-year-old has since tested negative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/10/15/trump-uses-barrons-coronavirus-test-push-school-reopen/3667827001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/10/15/trump-uses-barrons-coronavirus-test-push-school-reopen/3667827001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3667827001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667827001",
+      "publishedDateTime": "2020-10-15T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-trump-gloats-about-us-marshals-killing-of-portland-antifa-suspect.md",
       "title": "Trump gloats about US Marshals' killing of Portland 'antifa' suspect",
       "excerpt": "President Donald Trump on Thursday gloated over the September killing of Portland, Oregon, murder suspect Michael Reinoehl by law enforcement officers who had been deputized as US Marshals.\n    \n",
@@ -1292,58 +1344,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-trump-tweet-gave-taliban-upper-hand-in-negotiations-afghan-peace-official-tells-financial-times.md",
-      "title": "Trump tweet gave Taliban upper hand in negotiations: Afghan peace official tells Financial Times",
-      "excerpt": "A tweet by President Donald Trump calling for U.S. troops to be home by Christmas has given the insurgent Taliban the upper hand in negotiations, the top Afghanistan peace official told the Financial Times newspaper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/afghanistan-taliban-int/trump-tweet-gave-taliban-upper-hand-in-negotiations-afghan-peace-official-tells-financial-times-idUSKBN2701Q5",
-      "originalUrl": "https://www.reuters.com/article/afghanistan-taliban-int/trump-tweet-gave-taliban-upper-hand-in-negotiations-afghan-peace-official-tells-financial-times-idUSKBN2701Q5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537585037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E13E",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701Q5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701Q5",
-      "publishedDateTime": "2020-10-15T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

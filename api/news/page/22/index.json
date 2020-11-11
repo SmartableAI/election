@@ -2,6 +2,63 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-10-17-facebook-reversing-ban-on-ad-that-claimed-biden-harris-supports-abortion-up-to-the-moment-of-birth.md",
+      "title": "Facebook reversing ban on ad that claimed Biden-Harris supports 'abortion up to the moment of birth'",
+      "excerpt": "Facebook is reinstating advertising it previously blocked from an anti-abortion organization claiming that former Vice President Joe Biden and his running mate, Sen. Kamala Harris, D-Calif., supported abortion up until the moment of birth.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Screen-Shot-2020-10-16-at-5.03.33-PM.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp",
+      "publishedDateTime": "2020-10-16T18:07:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-from-qanon-to-dictators-trump-embraces-those-who-embrace-him-back.md",
       "title": "From QAnon to dictators, Trump embraces those who embrace him back",
       "excerpt": "Throughout his presidency, Trump has struggled to condemn white supremacists and other extremists who show support for him, no matter their views or actions.",
@@ -1234,58 +1291,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-get-the-kids-back-to-school-donald-trump-uses-sons-covid-19-diagnosis-to-push-for-reopening-classrooms.md",
-      "title": "'Get the kids back to school': Donald Trump uses son's COVID-19 diagnosis to push for reopening classrooms",
-      "excerpt": "Barron Trump’s positive COVID-19 test has become part of his father's push to physically reopen schools. The 14-year-old has since tested negative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/10/15/trump-uses-barrons-coronavirus-test-push-school-reopen/3667827001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/10/15/trump-uses-barrons-coronavirus-test-push-school-reopen/3667827001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3667827001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667827001",
-      "publishedDateTime": "2020-10-15T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

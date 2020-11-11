@@ -2,6 +2,62 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-10-18-whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.md",
+      "title": "Whitmer tells Trump to stop focusing on her, start focusing on pandemic",
+      "excerpt": "Michigan Gov. Gretchen Whitmer had stern words for President Trump on Sunday – telling him to stop spending so much time criticizing her and instead spend more time on fighting the novel coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 435,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp",
+      "publishedDateTime": "2020-10-18T13:55:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-trump-attends-church-service-in-las-vegas.md",
       "title": "Trump attends church service in Las Vegas",
       "excerpt": "U.S. President Donald Trump made a rare visit to church Sunday as he and Democratic rival Joe Biden campaigned across the country from one another. (Oct. 18)",
@@ -1270,63 +1326,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-facebook-reversing-ban-on-ad-that-claimed-biden-harris-supports-abortion-up-to-the-moment-of-birth.md",
-      "title": "Facebook reversing ban on ad that claimed Biden-Harris supports 'abortion up to the moment of birth'",
-      "excerpt": "Facebook is reinstating advertising it previously blocked from an anti-abortion organization claiming that former Vice President Joe Biden and his running mate, Sen. Kamala Harris, D-Calif., supported abortion up until the moment of birth.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Screen-Shot-2020-10-16-at-5.03.33-PM.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp",
-      "publishedDateTime": "2020-10-16T18:07:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-28-hunter-biden-engaged-in-raw-influence-peddling-on-grand-global-scale-turley.md",
+      "title": "Hunter Biden engaged in ‘raw influence-peddling’ on grand, global scale: Turley",
+      "excerpt": "Joe Biden and his family engaged in \"legal corruption\" despite claims of no wrongdoing, Fox News contributor Jonathan Turley argued Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59uqOKu4B-c/hunter-biden-joe-scandal-election-corruption-jonathan-turley",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59uqOKu4B-c/hunter-biden-joe-scandal-election-corruption-jonathan-turley",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-joe-scandal-election-corruption-jonathan-turley.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-joe-scandal-election-corruption-jonathan-turley.amp",
+      "publishedDateTime": "2020-10-28T07:12:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-ricky-martin-says-its-super-sad-to-see-fellow-latinos-back-donald-trump.md",
       "title": "Ricky Martin says it's 'super sad' to see fellow Latinos back Donald Trump",
       "excerpt": "Ricky Martin discussed his support for Joe Biden and the “super sad” prospect of seeing fellow Latinos vote for Donald Trump.",
@@ -1294,49 +1350,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80.md",
-      "title": "Coal baron Murray, a Trump ally who fought environmental regulation, dead at 80",
-      "excerpt": "U.S. coal baron Robert Murray, an ally of President Donald Trump and a leading industry voice who called global warming a hoax, died on Sunday at age 80, U.S. media reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
-      "originalUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
-      "publishedDateTime": "2020-10-26T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

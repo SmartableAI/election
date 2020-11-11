@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-27-coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80.md",
+      "title": "Coal baron Murray, a Trump ally who fought environmental regulation, dead at 80",
+      "excerpt": "U.S. coal baron Robert Murray, an ally of President Donald Trump and a leading industry voice who called global warming a hoax, died on Sunday at age 80, U.S. media reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
+      "originalUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/coal-baron-murray-a-trump-ally-who-fought-environmental-regulation-dead-at-80-2020-10?amp",
+      "publishedDateTime": "2020-10-26T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-election-2020-both-trump-and-biden-campaign-in-battleground-pennsylvania.md",
       "title": "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania",
       "excerpt": "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday.",
@@ -1299,58 +1342,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-president-trump-casts-a-very-secure-vote-for-himself-in-person-in-florida.md",
-      "title": "President Trump casts a 'very secure vote' for himself in-person in Florida",
-      "excerpt": "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp",
-      "publishedDateTime": "2020-10-25T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

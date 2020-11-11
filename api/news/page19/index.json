@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-21-call-the-proposed-probe-of-trump-and-his-enablers-what-it-really-is-mccarthyism.md",
+      "title": "Call the proposed probe of Trump and his ‘enablers’ what it really is: McCarthyism",
+      "excerpt": "It’s one thing to investigate whether Trump officials broke any laws during their service; that’s appropriate and should be handled by the Justice Department. Reich’s goal is much broader: “name every official,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6TSBQMARNQI6XISYMFFM6K4QNU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/?outputType=amp",
+      "publishedDateTime": "2020-10-20T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-trump-says-were-up-in-nc-amid-reported-internal-worries-about-keeping-state-red.md",
       "title": "Trump says 'we're up' in NC amid reported internal worries about keeping state red",
       "excerpt": "Polls show Trump essentially tied with Democratic nominee Joe Biden",
@@ -1249,63 +1301,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-harris-spotlights-trumps-weird-obsession-with-obamas-legacy.md",
-      "title": "Harris spotlights Trump’s ‘weird obsession’ with Obama's legacy",
-      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris – campaigning in Florida on the first day of in-person early voting in the largest of the traditional general election battleground states – is taking aim once again at President Trump over his repeated moves to repeal the national health care law",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 680,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293628165220.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
-      "publishedDateTime": "2020-10-19T12:21:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

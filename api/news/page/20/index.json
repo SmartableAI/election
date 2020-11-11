@@ -2,6 +2,63 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-10-19-harris-spotlights-trumps-weird-obsession-with-obamas-legacy.md",
+      "title": "Harris spotlights Trump’s ‘weird obsession’ with Obama's legacy",
+      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris – campaigning in Florida on the first day of in-person early voting in the largest of the traditional general election battleground states – is taking aim once again at President Trump over his repeated moves to repeal the national health care law",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 680,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293628165220.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
+      "publishedDateTime": "2020-10-19T12:21:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.md",
       "title": "Sarah Sanders says Trump should ‘hammer home’ these 2 issues at last debate",
       "excerpt": "President Trump has two issues he needs to \"hammer home” at the next presidential debate, Fox News contributor Sarah Sanders said on Monday.",
@@ -1212,62 +1269,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/dems-take-nothing-granted-despite-bidens-lead-polls.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-take-nothing-granted-despite-bidens-lead-polls.amp",
       "publishedDateTime": "2020-10-18T13:58:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.md",
-      "title": "Whitmer tells Trump to stop focusing on her, start focusing on pandemic",
-      "excerpt": "Michigan Gov. Gretchen Whitmer had stern words for President Trump on Sunday – telling him to stop spending so much time criticizing her and instead spend more time on fighting the novel coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp",
-      "publishedDateTime": "2020-10-18T13:55:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -320,6 +320,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Alarm grows over Trump's 'dictator moves' as he denies election defeat"
+    excerpt: "President Donald Trump's administration is taking on the characteristics of a tottering regime --  with its loyalty tests, destabilizing attacks on the military chain of command, a deepening bunker mentality and increasingly delusional claims of political victory.\n    \n"
+    publishedDateTime: 2020-11-11T12:34:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-BL_DIJVTsI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/donald-trump-joe-biden-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/donald-trump-joe-biden-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107010731-01-biden-trump-1106-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says there shouldn't be a second debate if Trump still has Covid-19"
     excerpt: "Democratic presidential nominee Joe Biden said Tuesday that the second presidential debate should not be held if President Donald Trump is still infected with coronavirus, but that he would base his participation in the debate upon recommendations from medical experts.\n    \n"
     publishedDateTime: 2020-10-07T01:01:06Z

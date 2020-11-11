@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 3925
+heat: 3945
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110170413-melania-trump-jill-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Alarm grows over Trump's 'dictator moves' as he denies election defeat"
+    excerpt: "President Donald Trump's administration is taking on the characteristics of a tottering regime --  with its loyalty tests, destabilizing attacks on the military chain of command, a deepening bunker mentality and increasingly delusional claims of political victory.\n    \n"
+    publishedDateTime: 2020-11-11T12:34:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-BL_DIJVTsI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/donald-trump-joe-biden-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/donald-trump-joe-biden-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107010731-01-biden-trump-1106-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

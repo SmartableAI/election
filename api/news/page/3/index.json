@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-09-biden-coronavirus-team-to-include-rick-bright-ousted-hhs-official.md",
+      "title": "Biden coronavirus team to include Rick Bright, ousted HHS official",
+      "excerpt": "Rick Bright, the ousted Health and Human Services official, will be one of 10 advisory board members on Democratic President-elect Joe Biden's coronavirus task force, Biden's transition team announced on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNJ_j8adYkU/biden-coronavirus-task-force-rick-rick-bright",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNJ_j8adYkU/biden-coronavirus-task-force-rick-rick-bright",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/RickBright051820.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp",
+      "publishedDateTime": "2020-11-09T04:25:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-biden-plans-for-white-house-as-trump-plans-rallies-to-protest-his-election-loss.md",
       "title": "Biden plans for White House as Trump plans rallies to protest his election loss",
       "excerpt": "Democrat Joe Biden won the U.S. presidential election on Saturday after a bitter campaign, sparking street celebrations among his supporters in major cities even as President Donald Trump refused to accept defeat.",
@@ -10,7 +66,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10061,
+      "heat": 10141,
       "tags": null,
       "images": [
         {
@@ -171,7 +227,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 3925,
+      "heat": 3945,
       "tags": null,
       "images": [
         {
@@ -657,7 +713,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1296,58 +1352,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-rep-matt-gaetz-a-close-trump-ally-says-hes-tested-positive-for-coronavirus-antibodies.md",
-      "title": "Rep. Matt Gaetz, a close Trump ally, says he's tested positive for coronavirus antibodies",
-      "excerpt": "The Republican Florida lawmaker is one of Trump's staunchest defenders on Capitol Hill and is a fixture in conservative media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11",
-      "originalUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa6b3caf7d1cb0019e3a5f6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp",
-      "publishedDateTime": "2020-11-07T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

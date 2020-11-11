@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-08-rep-matt-gaetz-a-close-trump-ally-says-hes-tested-positive-for-coronavirus-antibodies.md",
+      "title": "Rep. Matt Gaetz, a close Trump ally, says he's tested positive for coronavirus antibodies",
+      "excerpt": "The Republican Florida lawmaker is one of Trump's staunchest defenders on Capitol Hill and is a fixture in conservative media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11",
+      "originalUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa6b3caf7d1cb0019e3a5f6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp",
+      "publishedDateTime": "2020-11-07T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-fox-news-chris-wallace-says-there-doesnt-seem-to-be-much-reason-to-believe-trumps-election-lawsuits-will-succeed.md",
       "title": "Fox News' Chris Wallace says there 'doesn't seem to be much reason to believe' Trump's election lawsuits will succeed",
       "excerpt": "He added Republican leaders who see \"their fortunes and their futures are no longer so directly tied to Donald Trump are gonna begin to pull back.\"",
@@ -1280,62 +1332,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-minnesota-squad-member-says-trump-attack-on-her-during-campaign-was-a-mistake.md",
-      "title": "Minnesota 'Squad' member says Trump attack on her during campaign was a mistake",
-      "excerpt": "Rep. Ilhan Omar, D-Minn., on Thursday said Trump \"effed around\" in deciding to attack her as a way to win over Minnesota voters.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CdNNITKehrY/ilhan-omar-trump-effed-around-minnesota",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CdNNITKehrY/ilhan-omar-trump-effed-around-minnesota",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308737052076.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-trump-effed-around-minnesota.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-effed-around-minnesota.amp",
-      "publishedDateTime": "2020-11-06T14:36:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

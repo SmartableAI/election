@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-10-13-against-all-enemies-trump-threatens-to-aim-the-power-of-the-federal-government-at-his-political-foes.md",
+      "title": "Against all enemies: Trump threatens to aim the power of the federal government at his political foes",
+      "excerpt": "It’s no surprise coming from the man who presided over “Lock her up” chants at his 2016 rallies, but it still shocks the conscience: As president, Donald Trump is doing all he can to use the force of the federal government to intimidate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/cmK2ixqKqNcqJxHnoL8GlF8_5BM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/D4SIBM7BQJENXLJDJSCIS4GCL4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-13T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-as-trump-holds-rally-fauci-urges-masks-avoiding-mass-gatherings.md",
       "title": "As Trump holds rally, Fauci urges masks, avoiding mass gatherings",
       "excerpt": "As President Donald Trump held his first campaign rally since disclosing he contracted the coronavirus this month, top U.S. infectious disease expert Anthony Fauci said the United States faced a \"whole lot of trouble\" if it did not encourage universal wearing of face",
@@ -1252,58 +1295,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-claims-he-is-now-immune-to-the-coronavirus-and-has-a-protective-glow-but-the-science-is-not-that-simple.md",
-      "title": "Trump claims he is now immune to the coronavirus and has 'a protective glow' — but the science is not that simple",
-      "excerpt": "The president said on Sunday he now has \"a protective glow\" — a concept which does not appear in medical or scientific research about the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f83204cbab422001979aa7c?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp",
-      "publishedDateTime": "2020-10-11T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

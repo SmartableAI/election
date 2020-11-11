@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-10-05-top-israeli-rabbis-and-us-envoy-pray-for-trump-recovery.md",
+      "title": "Top Israeli rabbis, and U.S. envoy, pray for Trump recovery",
+      "excerpt": "Israel's rabbis prayed for U.S. President Donald Trump to recover from COVID-19 on Monday, invoking his name in a Jewish holiday ceremony at Jerusalem's Western Wall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-jewish-bless/top-israeli-rabbis-and-u-s-envoy-pray-for-trump-recovery-idUSKBN26Q1IE",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-jewish-bless/top-israeli-rabbis-and-u-s-envoy-pray-for-trump-recovery-idUSKBN26Q1IE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536199207&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG940W5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26Q1IE",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1IE",
+      "publishedDateTime": "2020-10-05T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence.md",
       "title": "How to watch the vice presidential debate between Kamala Harris and Mike Pence",
       "excerpt": "Vice presidential debate between Vice President Mike Pence and Kamala Harris. Date: Wednesday, October 7, 2020. Location: Universi",
@@ -1272,58 +1324,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-doctors-say-giving-trump-the-antiviral-drug-remdesivir-is-a-sign-his-infection-may-be-serious-even-though-the-timeline-is-still-unclear.md",
-      "title": "Doctors say giving Trump the antiviral drug remdesivir is a sign his infection may be serious — even though the timeline is still unclear",
-      "excerpt": "Trump received an IV infusion of the antiviral drug remdesivir on Friday. The therapy is typically reserved for severe cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6c734ae3e76700117163ed?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10?amp",
-      "publishedDateTime": "2020-10-03T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

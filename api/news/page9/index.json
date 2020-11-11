@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-31-vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc.md",
+      "title": "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC",
+      "excerpt": "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/",
+      "originalUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp",
+      "publishedDateTime": "2020-10-31T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-31-newsmaker-long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge.md",
       "title": "NEWSMAKER-Long in Trump's shadow, Vice President Mike Pence set to emerge",
       "excerpt": "Vice President Mike Pence, a Christian conservative and one of the few constants in Donald Trump's tumultuous White House, has kept his boss's confidence by being careful never to step out of the president's shadow.",
@@ -1275,58 +1318,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-chuck-todd-slammed-for-saying-joe-biden-takes-covid-19-too-seriously.md",
-      "title": "Chuck Todd Slammed For Saying Joe Biden Takes COVID-19 'Too Seriously'",
-      "excerpt": "The MSNBC host said that Biden was accepting a smaller footprint by not engaging in high-risk campaign acitivities",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708",
-      "originalUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/09/09/chucktoddbig.jpg",
-          "width": 1200,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708?amp=1",
-      "publishedDateTime": "2020-10-29T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

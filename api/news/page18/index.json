@@ -2,6 +2,62 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-21-blackburn-trump-should-focus-on-his-incredible-record-at-presidential-debate-not-biden-inc.md",
+      "title": "Blackburn: Trump should focus on his 'incredible record' at presidential debate, not 'Biden Inc.'",
+      "excerpt": "President Trump should focus on his own accomplishments during Thursday night's second and final presidential debate against Joe Biden, Sen. Marsha Blackburn, R-Tenn., told \"Special Report\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tBqtjIl9JDM/presidential-debate-trump-biden-incorporated-marsha-blackburn",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tBqtjIl9JDM/presidential-debate-trump-biden-incorporated-marsha-blackburn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a0259c0-cd63-451e-9bfc-4b10f89422b0/6f81371c-788e-4c73-85c3-98b4d445127d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp",
+      "publishedDateTime": "2020-10-21T16:27:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-trump-campaign-nevada-gop-threaten-to-sue-clark-county-over-attempts-to-obstruct-election-observation.md",
       "title": "Trump campaign, Nevada GOP threaten to sue Clark County over attempts to ‘obstruct’ election observation",
       "excerpt": "The campaign and state Republicans claim that observers have been banned from certain areas where ballots are handled.",
@@ -1246,58 +1302,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-call-the-proposed-probe-of-trump-and-his-enablers-what-it-really-is-mccarthyism.md",
-      "title": "Call the proposed probe of Trump and his ‘enablers’ what it really is: McCarthyism",
-      "excerpt": "It’s one thing to investigate whether Trump officials broke any laws during their service; that’s appropriate and should be handled by the Justice Department. Reich’s goal is much broader: “name every official,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6TSBQMARNQI6XISYMFFM6K4QNU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/?outputType=amp",
-      "publishedDateTime": "2020-10-20T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

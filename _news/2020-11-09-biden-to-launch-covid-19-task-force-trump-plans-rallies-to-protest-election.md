@@ -239,6 +239,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Was Biden's win over Trump a landslide? Narrow? A look at previous elections"
+    excerpt: "President-elect Joe Biden's win over President Donald Trump was not a landslide. But it was also more than just a slim margin of victory."
+    publishedDateTime: 2020-11-11T11:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/11/how-joe-biden-win-compares-past-presidential-elections/6227238002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6227238002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6227238002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 152
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/b25e6355-ce09-455d-bdb9-67de0c698ccc-AP_Election_2020_Biden.jpg?auto=webp&crop=4895,2754,x0,y250&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden approaches U.S. election victory as Trump presses unfounded fraud claims"
     excerpt: "Democrat Joe Biden edged closer to winning the White House on Friday, expanding his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia even as Republicans sought to raise $60 million to fund lawsuits challenging the results."
     publishedDateTime: 2020-11-07T02:09:00Z
@@ -574,6 +590,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/7dc06773-6d9e-4e5f-908f-8a08320b119a-money-tech-icons_stock_market_news.png?auto=webp&crop=988,556,x9,y299&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Power Up: Biden plows ahead while Trump and allies continue to baselessly contest election"
+    excerpt: "KEEP CALM AND CARRY ON: President-elect Joe Biden largely dismissed intensifying efforts by President Trump and his GOP allies to stall Biden's transition to the White House. Biden said Trump's refusal to concede and insistence,"
+    publishedDateTime: 2020-11-11T12:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/power-up-biden-plows-ahead-while-trump-allies-continue-baselessly-contest-election/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/power-up-biden-plows-ahead-while-trump-allies-continue-baselessly-contest-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/power-up-biden-plows-ahead-while-trump-allies-continue-baselessly-contest-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 145
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YDLZVERD7QI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Live election updates: Biden visits church day after victory; Trump golfs again after defeat"
     excerpt: "Romney says Trump is \"not disappearing by any means\" after defeat; the president golfs for a second day, and AOC says she almost didn't run again."
@@ -2647,18 +2679,18 @@ related:
         isCached: true
   - title: "Trump campaign presses legal attack on election, as postal worker recants ballot fraud claims"
     excerpt: "President Donald Trump's campaign said on Tuesday it would file a lawsuit to stop the battleground state of Michigan from certifying its election results, as congressional Democrats said a witness who had raised accusations of ballot tampering in Pennsylvania recanted"
-    publishedDateTime: 2020-11-11T07:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-michigan-idUSKBN27Q3FY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q3FY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q3FY"
+    publishedDateTime: 2020-11-11T07:47:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-michigan-idUKKBN27Q3FW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Q3FW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Q3FW"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 129
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540772722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA923E"
-        width: 816
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540785862&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA923B"
+        width: 836
         height: 545
         isCached: true
   - title: "Biden is planning to declare victory if news organizations say he won the presidential election — even if Trump won't concede"
@@ -2834,6 +2866,22 @@ related:
     quality: 126
     images:
       - url: "https://i.insider.com/5dc2f8d43afd37552b3aca64?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "After 4 days, Trump's advisors are increasingly convinced that their efforts to overturn Biden's election will fail, report says"
+    excerpt: "President Trump continues to claim that the election was stolen from him, but advisors admit that the voter fraud evidence does not exist."
+    publishedDateTime: 2020-11-11T11:28:00Z
+    webUrl: "https://www.businessinsider.com/trump-advisors-pessimistic-about-overturning-biden-win-wapo-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-advisors-pessimistic-about-overturning-biden-win-wapo-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-advisors-pessimistic-about-overturning-biden-win-wapo-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/5fabbc0af7d1cb0019e3b09c?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -5111,6 +5159,22 @@ related:
     quality: 116
     images:
       - url: "https://i.insider.com/5fa4b8fdf7d1cb0019e3a23d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden said he doesn't need Trump's help to take over the presidency, as the White House continues to block a transition"
+    excerpt: "The White House is yet to acknowledge Biden's win, which is snarling up the usual process of transferring power to an incoming administration."
+    publishedDateTime: 2020-11-11T12:58:00Z
+    webUrl: "https://www.businessinsider.com/biden-trump-refusal-to-concede-wont-slow-down-transition-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-trump-refusal-to-concede-wont-slow-down-transition-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trump-refusal-to-concede-wont-slow-down-transition-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fabb6c7f7d1cb0019e3b096?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Former US Secretary of State Henry Kissinger reveals his hopes for the next president: 'I like Joe Biden'"
-    excerpt: "Kissinger discussed what he expects from the new president, what successes he thinks Trump's administration had, and his longing for harmony."
-    publishedDateTime: 2020-11-11T03:28:00Z
-    webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5faaca37f7d1cb0019e3ad4e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "U.S. to see more Chinese listings as Biden will make art of deal easier, advisors say"
     excerpt: "Chinese companies' stock market listings in the United States reached a six-year high in 2020 and advisors expect the trend to accelerate in the year ahead in expectation of a stable regulatory regime under U."
     publishedDateTime: 2020-11-10T07:23:00Z

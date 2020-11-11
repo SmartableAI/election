@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Who will Biden's Cabinet picks be? Here are some leading contenders"
+    excerpt: "With Inauguration Day on Jan. 20, President-elect Joe Biden has just over two months to chose a team that will help him steer the country and deal with the worst pandemic in a century and an economy deflated by the coronavirus."
+    publishedDateTime: 2020-11-11T11:57:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cf8kp4qVGwQ/biden-cabinet-picks-candidates"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-candidates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-candidates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden coronavirus adviser Dr. Zeke Emanuel once argued it's not worth living past 75"
     excerpt: "Oncologist Dr. Zeke Emanuel, one of 10 advisory board members named to Democratic President-elect Joe Biden's coronavirus task force, argued in a 2014 essay that he doesn't want to live past 75."
     publishedDateTime: 2020-11-09T15:42:59Z
