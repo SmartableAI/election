@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp"
 type: article
 quality: 111
-heat: 151
+heat: 171
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b3fd0232-3ab3-4b12-a045-181f80234537-AP_Biden.jpg?auto=webp&crop=3106,1748,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President-elect Kamala Harris inspires Black women in Prince George’s, highlights HBCU pride"
+    excerpt: "Vice President-elect Kamala Harris and Prince George's State's Attorney Aisha Braveboy are Howard University alumnae, Braveboy wore her Howard sweatshirt all day Saturday because she was so proud."
+    publishedDateTime: 2020-11-11T20:07:00Z
+    webUrl: "https://www.baltimoresun.com/politics/ac-cn-biden-election-black-women-prince-georges-county-20201111-walbbttal5f6rbqwhqtj3lek6a-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/ac-cn-biden-election-black-women-prince-georges-county-20201111-walbbttal5f6rbqwhqtj3lek6a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/ac-cn-biden-election-black-women-prince-georges-county-20201111-walbbttal5f6rbqwhqtj3lek6a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 62
+    images:
+      - url: "https://www.baltimoresun.com/resizer/m9ABc9St61I5DnQ0gdvGTey1lNE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FJPZBQM6XBH57G6UURSQQJNMF4.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "8e4kZwJ1EDqnq12XkaB5KuiNYFPDb67naz/6N0qfRXDUqDXOE98ngRk0SBrtamcHoQ8IBRV/8H9+8j1HG1YrMk/olw2DEMawIaERnMTPy3eLByBohlp8dV9XJPQXNY9IgKCIROxo6W7dukpI4Fsj4N1/yrOVqd78am8ZkBcTgwQrSSEWFghgnNqli64GU2Vs0fIPruXdfTqmzvGwSH69wI7VXKmenmwmJGPNYgFTQq4ENI6eKyeWswKkFSDsHuYDaLOiwVp+UaN/aZe9nsy7zCk32lDR9oru/qH4ET75STHE++PhIq/U0CoctMljc04KskRIGiYbZZMPnld8rrzFMV2HWHLstpN4ElkV5RwFGK9/KpiVFY1amveRvOFKmT7SDaMuY5wR8Pxfy1Ck/NNqp/+tN3C46NLpYk0geOt8s0FSXLrwnbTgVXDmfzjeASpwtnQ2dH/FbtPx/6Cl19bzLPSkURyu2Fkn+SeALUIFb5suxJ8B2IXIFK7K5NoVtVPqfx1Wo9Mulg887VIx7vFhHg==;4M+av5MEbJsQiRe9wPh7jg=="

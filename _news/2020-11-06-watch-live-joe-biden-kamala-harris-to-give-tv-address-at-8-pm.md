@@ -1176,6 +1176,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris Laughing at Socialism Question in '60 Minutes' Interview Prompts Wave of Memes"
+    excerpt: "Kamala Harris could not control her laughter when asked by TV journalist Norah O'Donnell on 60 Minutes if she had a \"socialist or progressive perspective.\" The Vice Presidential nominee burst out ..."
+    publishedDateTime: 2020-10-26T08:08:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-60-seconds-socialist-interview-prompts-memes-1542062"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-60-seconds-socialist-interview-prompts-memes-1542062?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-60-seconds-socialist-interview-prompts-memes-1542062?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1658247/kamala-harris.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Kamala Harris cancels events after flying with two people who tested positive for Covid – live"
     excerpt: "Harris’s communications director and a ‘non-staff flight crew member’ tested positive after she was in contact with them while wearing an N95 mask"
     publishedDateTime: 2020-10-15T18:52:00Z
@@ -3141,6 +3157,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/72/33/20162267/7/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Fact-check: Did Kamala Harris illegally campaign outside an Ohio polling station?"
+    excerpt: "On Saturday, Democratic vice presidential nominee Kamala Harris made an unexpected appearance outside the Cuyahoga County Board of Elections in Cleveland, Ohio. She was pictured thanking early ..."
+    publishedDateTime: 2020-10-27T15:43:00Z
+    webUrl: "https://www.euronews.com/2020/10/27/fact-check-did-kamala-harris-illegally-campaign-outside-an-ohio-polling-station-thecube"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 50
+    images:
+      - url: "https://static.euronews.com/articles/stories/05/08/87/16/1000x563_cmsv2_bc138690-500e-5e66-ac68-f552144390b6-5088716.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "A Fox News reporter just debunked the latest conservative effort to smear Joe Biden"
     excerpt: "The latest conservative effort to smear Democratic presidential nominee has now been debunked by a reporter at Fox News. On Thursday night, President Donald Trump invited Tony Bobulinski, an ex-business associate of Hunter Biden,"

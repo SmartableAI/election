@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris shows women can thrive in politics doing things their own way"
+    excerpt: "Kamala D. Harris shattered numerous glass ceilings with her historic election as vice president. In addition to becoming the first woman, the first Black American and the first Indian American elected to the second-highest office in the nation,"
+    publishedDateTime: 2020-11-10T18:04:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/11/10/kamala-harris-shows-women-can-thrive-politics-doing-things-their-own-way/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/10/kamala-harris-shows-women-can-thrive-politics-doing-things-their-own-way/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/10/kamala-harris-shows-women-can-thrive-politics-doing-things-their-own-way/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5GJB2FRBUEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Full Transcript of Kamala Harris' First Speech as Vice-President Elect in Delaware"
     excerpt: "Kamala Harris delivered her first speech as vice president-elect on Saturday evening in Democratic Presidential-Elect Joe Biden's hometown of: In her speech,"
     publishedDateTime: 2020-11-08T01:10:00Z

@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President-elect Kamala Harris inspires Black women in Prince George’s, highlights HBCU pride"
+    excerpt: "Vice President-elect Kamala Harris and Prince George's State's Attorney Aisha Braveboy are Howard University alumnae, Braveboy wore her Howard sweatshirt all day Saturday because she was so proud."
+    publishedDateTime: 2020-11-11T20:07:00Z
+    webUrl: "https://www.baltimoresun.com/politics/ac-cn-biden-election-black-women-prince-georges-county-20201111-walbbttal5f6rbqwhqtj3lek6a-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/ac-cn-biden-election-black-women-prince-georges-county-20201111-walbbttal5f6rbqwhqtj3lek6a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/ac-cn-biden-election-black-women-prince-georges-county-20201111-walbbttal5f6rbqwhqtj3lek6a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 62
+    images:
+      - url: "https://www.baltimoresun.com/resizer/m9ABc9St61I5DnQ0gdvGTey1lNE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FJPZBQM6XBH57G6UURSQQJNMF4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "F0ZZjLmEbWUQk2mlMJhRxawdCh2suHJPaBktinDo0VVv8tVJj3JdN5g6OB8SYos464s80/qxzd7Bf7YZXlALGe5HchIU0D87ztgZKPJ30DqQFtcwRHwU3Qrw+hn026K2HPzUcCi6yupnFCWhyONaCKC9mmIeBVCA74OGdQFSAMK+ox2XzOzCLjEGYJLHRSb1X1mQ13wi5FrjmU3AzRagW354xgUjz9IFKAEgUIH1lzSjQyfQqZ+tG+j+DAmKF+gVUYiEVEgbKQ5rkIyYRGmQ4906VdSmINav0d5nwRJ90pn4rUYOTT1mou5/LSalWUyK9sCCeRSFUaLVzs/zxiH37GY0j8hmv/tDellYcEQBTbsQzmmylsxZX3kvVzW+bJncuPvmx/21GM6BhuwZOIRw7vThY8aVATvTZsTOr3XAkEfjiGyA+jgP3S+y4ohtIqT4txIXsjjbb+bLgTO/2JODpJ+I15cVd5mSK4PaGeOKL8QZthue3rWDaZBwdp2Ga+nO9q2ekVM35lywXbz6Z+rPog==;mPj5QKowuPbx9QicRxz1TQ=="
 ---

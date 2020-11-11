@@ -48,6 +48,17 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "‘No timeline has been established’: California Gov. Newsom mum on Kamala Harris replacement"
+    excerpt: "The race to replace apparent Vice President-elect Kamala Harris’s open Senate seat is underway. Pressure is mounting on California Gov. Gavin Newsom to choose Harris’s replacement in the Senate should apparent President-elect Joe Biden’s victory be confirmed."
+    publishedDateTime: 2020-11-11T04:56:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 55
 
 secured: "BfE3q28SyMrtaakg+N/9G0h6PIhfbsbcSS+IOvYtmp56lGr/tfosycUAAIEIOvB8YBejQp4FqxKyx5ou6bdswbkoxiKQO7u+MKKX/Fr9HMATf8yJA8x3O25/KTh3NMBz+cF26EhaSwl3f8Y/b7ouFmd7D3kxmaP6b9Q6ZQcW9dC5pEWCVKoUuoaNG1vC6grJcAaqoT9KEl0aygQxtXmkgkSWCtC7kZLGE5H2vcMxgF6oyq+jaeN3i8P4TrsHrB6gMimM7bCUFzxYfl83MUg7i5ucCcM2umhlNRAcjaAhmnSAEmYmMqaeksUy0VNeisVovOSpgfi77fObS+OZ4y/Nqpikaw3jZXXU0sPNQIeIcJA=;xQLvMONQ8Djcv7opqjHuwA=="
 ---

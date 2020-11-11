@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Karl Rove: 'Reprehensible' for AOC, others on left to call for 'blacklist' of Trump staffers"
+    excerpt: "Fox News contributor Karl Rove on Wednesday criticized the people who called for consequences against Trump administration staffers."
+    publishedDateTime: 2020-11-11T19:32:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/enZCK-5KoaY/karl-rove-aoc-left-blacklist-trump-staffers"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-aoc-left-blacklist-trump-staffers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-aoc-left-blacklist-trump-staffers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "b4hCbp3kVCM6H6F7S1hZpEPQlBMUEFyHKSDQruwC/I3eyscNXts1QSO0lYR2XNQWSTQxz8RCTlTbl5eww7XLOsTnhn6HzX3IcKhYv3HecvAQiX7o6h4UbEnm0HaAYXxikuct/t2GP3daM4vBlle0r0aanhD+6Xyfxq6OTbrbyrFqtb7rc7gES0sE63pKOyIlxqpJNU5oJq7xIzpPs+3Tx5www9T5UOaxLA71M3LQl0RnTDCUHxf334Zkuo+H/FbChVeSS+/PxxbJG2yZUmQcMXjiD0JIdiPb6KtYTcRKWjTJRjWqYkdR8xUCm7h/k501lfiKdiU03QwJfM0kZvr4KcQGP8cRRifompW718Hr8xs=;90WvBzbYW/WAKQVSom84Bw=="
 ---

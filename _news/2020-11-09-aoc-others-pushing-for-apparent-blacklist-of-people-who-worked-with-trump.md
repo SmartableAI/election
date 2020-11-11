@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-blacklist-trump-supporters.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-blacklist-trump-supporters.amp"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Karl Rove: 'Reprehensible' for AOC, others on left to call for 'blacklist' of Trump staffers"
+    excerpt: "Fox News contributor Karl Rove on Wednesday criticized the people who called for consequences against Trump administration staffers."
+    publishedDateTime: 2020-11-11T19:32:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/enZCK-5KoaY/karl-rove-aoc-left-blacklist-trump-staffers"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-aoc-left-blacklist-trump-staffers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-aoc-left-blacklist-trump-staffers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "CNN's Don Lemon hits network for airing Trump's 'propaganda' visit to RNC office"
     excerpt: "CNN anchor Don Lemon questioned the judgment of his own network Tuesday after it broadcast remarks President Trump made during his visit to a Republican National Committee office."
     publishedDateTime: 2020-11-03T22:17:00Z

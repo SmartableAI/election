@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-ha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
 type: article
 quality: 182
-heat: 202
+heat: 222
 published: true
 
 provider:
@@ -48,6 +48,17 @@ related:
         width: 1024
         height: 712
         isCached: true
+  - title: "‘No timeline has been established’: California Gov. Newsom mum on Kamala Harris replacement"
+    excerpt: "The race to replace apparent Vice President-elect Kamala Harris’s open Senate seat is underway. Pressure is mounting on California Gov. Gavin Newsom to choose Harris’s replacement in the Senate should apparent President-elect Joe Biden’s victory be confirmed."
+    publishedDateTime: 2020-11-11T04:56:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 55
 
 secured: "wk9fT6eb7hA/vcFmYlgbGDKJHyZQ4zyQ5g3S/Pfj/ANtyJWcFuUZutQS3hZNV5IWI3/Vtsw9owEtPXQm1MtlGqcnKbbZq4ZXgPc8kyXrvckmrd2tvTjpNuCfx1LS1NilByyAamIQhzgciURhcetokQQEr4BqrHARgsLuKKibDlItvSac4PHez9D5O4HLBeZ9uFRWUNaoHF8wMRYKBKL6fWMFjprjEFw+PT1/tXCl585Fb3jdpXVcbzU22Ep6KaVdfPHuZrinpP9gkvIBGAa1O+7w3ZO4XObWZ39Rv6JAdmX+js8Gy1ppCQk9WvCiRfKdqXGZwVcE6qhrchhfeiYI9oq3Bv3qB08j0aOsUZ6MI5A=;Zns1qZqYRyI3y5QM1jP4sA=="
 ---

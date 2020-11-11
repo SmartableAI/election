@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-senate-runoff-elections-per
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/"
 type: article
 quality: 143
-heat: 803
+heat: 823
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/51c0fd32-c75e-4bf5-a826-67be9934342c/thumbnail/1200x630/c39dfd54a8c3a2e0ab45b66f8ab752ec/gettyimages-1267250943.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris shows women can thrive in politics doing things their own way"
+    excerpt: "Kamala D. Harris shattered numerous glass ceilings with her historic election as vice president. In addition to becoming the first woman, the first Black American and the first Indian American elected to the second-highest office in the nation,"
+    publishedDateTime: 2020-11-10T18:04:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/11/10/kamala-harris-shows-women-can-thrive-politics-doing-things-their-own-way/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/10/kamala-harris-shows-women-can-thrive-politics-doing-things-their-own-way/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/10/kamala-harris-shows-women-can-thrive-politics-doing-things-their-own-way/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5GJB2FRBUEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "Doug Emhoff, Kamala Harris' husband, will be the nation's first 'second gentleman'"
     excerpt: "Doug Emhoff, married to Vice President-elect Kamala Harris, will be the first male spouse of any vice president or president. Here's what to know."

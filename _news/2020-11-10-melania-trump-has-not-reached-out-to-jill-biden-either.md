@@ -1135,6 +1135,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are 10 climate executive actions Biden says he will take on day one"
+    excerpt: "President-elect Joe Biden is planning a flurry of executive actions when he takes office on January 20, and many focus on combating the global climate crisis.\n    \n"
+    publishedDateTime: 2020-11-11T20:34:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FR8Jtc2MlWM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/climate-executive-actions-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/climate-executive-actions-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163037-joe-biden-wilmington-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Mike Pence accuses Joe Biden of plagiarizing Trump’s Covid-19 response plan"
     excerpt: "Vice President Mike Pence accused Joe Biden of plagiarizing President Trump’s coronavirus response plan. Pence said Biden’s plan, “Looks a little bit like plagiarism..which is something Joe Biden knows a little bit about."
     publishedDateTime: 2020-10-08T01:33:00Z

@@ -1693,6 +1693,22 @@ related:
         width: 806
         height: 545
         isCached: true
+  - title: "AP Explains: Election's validity intact despite Trump claims"
+    excerpt: "The U.S. presidential election was not tainted by widespread voter fraud or irregularities in how ballots were counted, despite a huge effort by President Donald Trump to prove otherwise."
+    publishedDateTime: 2020-11-11T19:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-look-election-and-allegations-trump-has-made/6253290002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6253290002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6253290002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/PDEM/adc86d92-0f81-4e29-8a39-a7952ca2222a-AP20315761861175.jpg?auto=webp&crop=5555,3125,x0,y282&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump campaign sues Michigan to prevent certification of Biden win"
     excerpt: "Donald Trump's presidential campaign on Wednesday sued Michigan to block the U.S. state from certifying last week's election results, where the president has trailed Democrat Joe Biden."
     publishedDateTime: 2020-11-11T16:22:00Z
@@ -2898,6 +2914,22 @@ related:
       - url: "https://i.insider.com/5fa9c107f7d1cb0019e3aadf?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Ivanka Trump Touts AP’s Alaska Race Call As Trump Allies Dismiss Its Projection That Biden Won"
+    excerpt: "Since when does the Lamestream Media call who our next president will be?’ President Trump tweeted just days earlier."
+    publishedDateTime: 2020-11-11T19:15:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/11/ivanka-trump-touts-aps-alaska-race-call-as-trump-allies-dismiss-its-projection-that-biden-won/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/11/ivanka-trump-touts-aps-alaska-race-call-as-trump-allies-dismiss-its-projection-that-biden-won/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/11/11/ivanka-trump-touts-aps-alaska-race-call-as-trump-allies-dismiss-its-projection-that-biden-won/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 128
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fac36d7ebaf6cb0c9f9a43a%2F0x0.jpg%3FcropX1%3D1474%26cropX2%3D4235%26cropY1%3D198%26cropY2%3D1751"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden and Trump disagree on nearly everything — but here are three things they actually agree on"
     excerpt: "On Section 230, the promise of a large stimulus package, and a certain approach for lowering drug prices, Trump and Biden (mostly) see eye-to-eye."
@@ -5478,6 +5510,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pompeo hasn't recognized Biden as president-elect but is about to travel to 7 countries that have"
+    excerpt: "\"Congratulations @JoeBiden and @KamalaHarris,\" Israel's Benjamin Netanyahu tweeted Sunday. Leaders in all 7 countries have recognized their victory."
+    publishedDateTime: 2020-11-11T17:45:00Z
+    webUrl: "https://www.businessinsider.com/pompeo-traveling-7-countries-have-recognized-biden-as-president-elect-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pompeo-traveling-7-countries-have-recognized-biden-as-president-elect-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pompeo-traveling-7-countries-have-recognized-biden-as-president-elect-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fac1d337f8f4200182a645c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Erasing Trump policies on climate, immigration, and healthcare: Here's what Biden promised for his first day in the White House."
     excerpt: "Joe Biden promised to roll back major Trump policies on Day 1 of his administration. Even his supporters concede it'll be tough to do it all."
     publishedDateTime: 2020-11-07T22:39:00Z
@@ -7684,6 +7732,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "msbno0/B2BFeQI2RLqQJA5RLlrpP1u0iETY0CBNmWV7XuGjferXIUPlXXeDKAM7nv2wWPbWJU+LOfYULymm6QOCollZlnSF78qedAw2sJC6clFVY6on3YbVyX3D3gVqdVz7zmXmmYp5irLHv7DqqJDeqiNMNeZ29UolbbJqVNErVd90yqEW6qQO5XWh2NfK8KRHrcV2jy/aL7O7aIce4N9HCM+Q4y9/hVHycBe1RPhkxK430PLklmY4wnwxymqolqZS3amEK1Ek9NTDuyzo5LaLFxmByoFHAjT0bfT9b/A553qmntNpQnTt0q3FihumhAqZFYbcoKKoytLFOajam47E2LdhDNq8jUm0kdlozdNc=;aPY+bUBsBWxWX2YQUcp5RQ=="
+secured: "giDJazAssqXLfLzfzF1F7sa8WDzy4Yk6Z+bWWHzj4zOiaPQNbr20sk6fYMFeJn/zHGi1uGcPgYSUsHsJYEpdwJicE022RFQ6z88uN7jKB+/bDM0ik3stLmr192OZUK0WiRIEB1as7JtTLYHNMGX63WJwR+KIP2MLl4jRLXrrJS9uU9aao6onjmzhVT4BCOuwOtgZgMjJYm5mNmsuWEzDV2CE3xz3kDWXo9eYUKOHng2vHWGYYEk0OpQlXZ/3Qd07nsHSXfybFdsfgXfY4cKlOEUslKBMYSK/xV3fdsQ3wRiRN8nLMVrvI3meQAJ4HCnl+MsL1ZRfR+JwPi6t/SMrz6iNFWIMySh7WjXudLudXh7CXmZq2P4wPaO5ZARKjgvWG2jYnvE9b+zCYa3F16/kkUvhnTjCapDZMNh3iyvp7nbRztTTt+ZBgzAOJEAHqYsXHekOai+Imzf0NmzKeg7WF7AnZZoZ2Jh2JqnXhZFJkoAON6Pk92T4g3q3Xva0YkNgpnfovgXpBtp6RTkx6DMtbg==;rQ+uAVK8BARvQxuu+vb/DA=="
 ---
 
