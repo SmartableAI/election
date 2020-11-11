@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-29-retired-minnesota-police-officers-asked-to-be-trump-poll-watchers-in-rough-neighborhoods.md",
+      "title": "Retired Minnesota police officers asked to be Trump poll watchers in 'rough neighborhoods'",
+      "excerpt": "A volunteer attorney for the Trump 2020 campaign is seeking retired officers to work as poll challengers in Minnesota.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GAdwozvec64/minnesota-retired-police-officers-poll-watchers-rough-neighborhoods",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GAdwozvec64/minnesota-retired-police-officers-poll-watchers-rough-neighborhoods",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293590772685.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/minnesota-retired-police-officers-poll-watchers-rough-neighborhoods.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minnesota-retired-police-officers-poll-watchers-rough-neighborhoods.amp",
+      "publishedDateTime": "2020-10-29T14:57:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-chuck-todd-slammed-for-saying-joe-biden-takes-covid-19-too-seriously.md",
       "title": "Chuck Todd Slammed For Saying Joe Biden Takes COVID-19 'Too Seriously'",
       "excerpt": "The MSNBC host said that Biden was accepting a smaller footprint by not engaging in high-risk campaign acitivities",
@@ -1281,63 +1337,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-wsj-opinion-vote-for-joe-biden-seriously.md",
-      "title": "WSJ Opinion: Vote for Joe Biden? Seriously?",
-      "excerpt": "Joe Biden is Bernie Sanders in sheep’s clothing. Compared to the Democrats’ grim vision of America, President Trump is the optimist. Images: AFP/Ge",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987",
-      "originalUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20201028/102820opvidwonderland/102820opvidwonderland_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

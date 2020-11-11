@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-10-12-cuban-americans-hold-huge-pro-trump-parade-in-south-florida-as-elections-approach.md",
+      "title": "Cuban-Americans Hold Huge Pro-Trump Parade in South Florida as Elections Approach",
+      "excerpt": "\"Together with our Latin American brothers, we have a very clear message: Our moral priority is to defend the United States, the liberation of Cuba and the hemisphere with love,\" one organizer said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
+      "originalUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 815,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1649359/pro-trump-caravan.jpg",
+          "width": 594,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1",
+      "publishedDateTime": "2020-10-11T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-trump-claims-he-is-now-immune-to-the-coronavirus-and-has-a-protective-glow-but-the-science-is-not-that-simple.md",
       "title": "Trump claims he is now immune to the coronavirus and has 'a protective glow' — but the science is not that simple",
       "excerpt": "The president said on Sunday he now has \"a protective glow\" — a concept which does not appear in medical or scientific research about the coronavirus.",
@@ -1257,62 +1309,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-trump-picks-up-another-nobel-peace-prize-nomination-from-europe-after-diplomatic-victories.md",
-      "title": "Trump picks up another Nobel Peace Prize nomination from Europe after diplomatic victories",
-      "excerpt": "President Trump has picked up another nomination for the Nobel Peace Prize, after a Finnish member of the European Parliament (MEP) has called for the American president to be given the honor.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TBVo42WulqA/trump-nobel-peace-prize-europe-diplomatic",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TBVo42WulqA/trump-nobel-peace-prize-europe-diplomatic",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e8e094d-02fb-436e-b8c2-34d55254b703/1d37db9d-91f1-4844-8be6-32ccc9adf7b4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-10T13:33:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

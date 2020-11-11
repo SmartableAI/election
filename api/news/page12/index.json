@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-28-living-statues-paint-trump-as-racist-relic.md",
+      "title": "Living statues paint Trump as racist 'relic'",
+      "excerpt": "A week before Election Day, living statues depicting a golden Donald Trump in unflattering poses were on temporary display at the Lincoln Memorial and Trump International Hotel. (Oct. 27)",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/28/living-statues-paint-trump-racist-relic/6054246002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/28/living-statues-paint-trump-racist-relic/6054246002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/33913ed7-8dc4-4054-977e-0a6d261e32d3_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-hunter-biden-engaged-in-raw-influence-peddling-on-grand-global-scale-turley.md",
       "title": "Hunter Biden engaged in ‘raw influence-peddling’ on grand, global scale: Turley",
       "excerpt": "Joe Biden and his family engaged in \"legal corruption\" despite claims of no wrongdoing, Fox News contributor Jonathan Turley argued Wednesday.",
@@ -1293,63 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-stephen-colbert-mike-pence-is-americas-spare-tire.md",
-      "title": "Stephen Colbert: Mike Pence Is ‘America’s Spare Tire’",
-      "excerpt": "After the White House called the vice president an essential worker, Colbert said: “At best, he is vice essential. You want him in the trunk, but you hope to never have to use him.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/27/arts/27latenight/27latenight-facebookJumbo.png",
-          "width": 996,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.amp.html",
-      "publishedDateTime": "2020-10-27T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

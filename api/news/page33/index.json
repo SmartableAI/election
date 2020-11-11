@@ -2,6 +2,62 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-10-05-trump-told-woodward-in-march-he-didnt-have-a-lot-of-time-to-meet-with-fauci-in-newly-released-audio.md",
+      "title": "Trump told Woodward in March he didn't have 'a lot of time' to meet with Fauci in newly released audio",
+      "excerpt": "President Donald Trump in March said he didn't have \"a lot of time\" to meet with Dr. Anthony Fauci as the coronavirus pandemic surged across the US, according to newly released audio from an interview with journalist Bob Woodward.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/twjwNE554QM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/twjwNE554QM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201001100032-01-trump-0930-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/trump-coronavirus-woodward/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-coronavirus-woodward/index.html",
+      "publishedDateTime": "2020-10-05T04:26:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-top-israeli-rabbis-and-us-envoy-pray-for-trump-recovery.md",
       "title": "Top Israeli rabbis, and U.S. envoy, pray for Trump recovery",
       "excerpt": "Israel's rabbis prayed for U.S. President Donald Trump to recover from COVID-19 on Monday, invoking his name in a Jewish holiday ceremony at Jerusalem's Western Wall.",
@@ -1289,58 +1345,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-was-trump-ever-on-oxygen-health-security-experts-say-america-needs-total-honesty-on-presidents-condition.md",
-      "title": "Was Trump ever on oxygen? Health, security experts say America needs 'total honesty' on president's condition",
-      "excerpt": "Dr. Sean Conley created confusion about President Trump's COVID-19 diagnosis, which national security and health experts say is unnecessary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/03/USAT/d224b2f6-0e48-445e-8fad-f60dcb191eaa-AP_Trump.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3609196001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3609196001",
-      "publishedDateTime": "2020-10-03T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

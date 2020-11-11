@@ -2,6 +2,63 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-29-wsj-opinion-vote-for-joe-biden-seriously.md",
+      "title": "WSJ Opinion: Vote for Joe Biden? Seriously?",
+      "excerpt": "Joe Biden is Bernie Sanders in sheep’s clothing. Compared to the Democrats’ grim vision of America, President Trump is the optimist. Images: AFP/Ge",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987",
+      "originalUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://m.wsj.net/video/20201028/102820opvidwonderland/102820opvidwonderland_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-trump-pitches-economic-plan-for-hispanic-americans-6-days-before-the-election.md",
       "title": "Trump pitches economic plan for Hispanic Americans -- 6 days before the election",
       "excerpt": "President Donald Trump announced a two-page second-term vision for the Hispanic American community -- the \"American Dream Plan\" -- to rallygoers in Arizona on Wednesday, six days before Election Day.\n    \n",
@@ -1271,58 +1328,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-living-statues-paint-trump-as-racist-relic.md",
-      "title": "Living statues paint Trump as racist 'relic'",
-      "excerpt": "A week before Election Day, living statues depicting a golden Donald Trump in unflattering poses were on temporary display at the Lincoln Memorial and Trump International Hotel. (Oct. 27)",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/28/living-statues-paint-trump-racist-relic/6054246002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/28/living-statues-paint-trump-racist-relic/6054246002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/33913ed7-8dc4-4054-977e-0a6d261e32d3_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

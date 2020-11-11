@@ -2,6 +2,58 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-10-04-was-trump-ever-on-oxygen-health-security-experts-say-america-needs-total-honesty-on-presidents-condition.md",
+      "title": "Was Trump ever on oxygen? Health, security experts say America needs 'total honesty' on president's condition",
+      "excerpt": "Dr. Sean Conley created confusion about President Trump's COVID-19 diagnosis, which national security and health experts say is unnecessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/03/USAT/d224b2f6-0e48-445e-8fad-f60dcb191eaa-AP_Trump.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3609196001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3609196001",
+      "publishedDateTime": "2020-10-03T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-doctors-say-giving-trump-the-antiviral-drug-remdesivir-is-a-sign-his-infection-may-be-serious-even-though-the-timeline-is-still-unclear.md",
       "title": "Doctors say giving Trump the antiviral drug remdesivir is a sign his infection may be serious — even though the timeline is still unclear",
       "excerpt": "Trump received an IV infusion of the antiviral drug remdesivir on Friday. The therapy is typically reserved for severe cases.",
@@ -1283,58 +1335,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-federal-judge-says-census-count-must-keep-going-until-oct-31-despite-trump-administration-efforts-to-cut-it-short.md",
-      "title": "Federal judge says Census count must keep going until Oct. 31 despite Trump administration efforts to cut it short",
-      "excerpt": "A federal judge in California has ordered the Trump administration to continue counting for the 2020 Census through Oct. 31, overriding the administration's efforts to shorten the timeline to submit results.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671",
-      "originalUrl": "https://abcnews.go.com/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/census-2020-01-ap-llr-201002_1601660075177_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671",
-      "publishedDateTime": "2020-10-02T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

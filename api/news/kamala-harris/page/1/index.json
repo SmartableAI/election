@@ -2,21 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-11-ayala-we-did-it-kamala-harris-shatters-a-glass-ceiling-but-a-big-one-remains.md",
-      "title": "Ayala: ‘We did it’ — Kamala Harris shatters a glass ceiling, but a big one remains",
-      "excerpt": "Major events, both tragic and uplifting, unite us in front of our TV screens. They create indelible shared memories.",
+      "path": "_news/2020-11-11-california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.md",
+      "title": "California governor quiet on Kamala Harris replacement: 'No timeline has been established'",
+      "excerpt": "The race to fill Vice President-elect Kamala Harris' open Senate seat is underway, but California Gov. Gavin Newsom has so far remained mum about potential contenders.",
       "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/news_columnists/elaine_ayala/article/Ayala-We-did-it-Kamala-Harris-shatters-15714523.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/news_columnists/elaine_ayala/article/Ayala-We-did-it-Kamala-Harris-shatters-15714523.php",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "https://s.hdnux.com/photos/01/15/14/51/20236926/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1355,
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20272849406731.jpg",
+          "width": 1024,
+          "height": 712,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,69 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T22:33:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
+      "publishedDateTime": "2020-11-11T06:51:43-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-kamala-harris-blm-protests-put-a-new-spotlight-on-hbcus-many-now-hope-for-a-financial-reckoning.md",
+      "title": "Kamala Harris, BLM protests put a new spotlight on HBCUs. Many now hope for a financial reckoning.",
+      "excerpt": "The presidential campaign have raised HBCUs' profile, while calls for racial justice following nationwide protests have delivered record donations. But will it last? And is it enough to address generations of disenfranchisement at the hands and states and the federal government?",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/",
+      "originalUrl": "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TOR7ABBLAI6XLKTJQP5USMQPU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp",
+      "publishedDateTime": "2020-11-11T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1506,63 +1563,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-harris-spotlights-trumps-weird-obsession-with-obamas-legacy.md",
-      "title": "Harris spotlights Trump’s ‘weird obsession’ with Obama's legacy",
-      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris – campaigning in Florida on the first day of in-person early voting in the largest of the traditional general election battleground states – is taking aim once again at President Trump over his repeated moves to repeal the national health care law",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 680,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293628165220.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
-      "publishedDateTime": "2020-10-19T12:21:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     }

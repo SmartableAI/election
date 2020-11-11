@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-08-hispanic-voters-deliver-a-texas-win-for-trump.md",
+      "title": "Hispanic Voters Deliver a Texas Win for Trump",
+      "excerpt": "The Rio Grande Valley shifted decisively toward President Trump, cancelling out votes for Joseph R. Biden Jr. in urban and suburban areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/04/us/texas-election-battleground-state-counties-promo-1604498818927/texas-election-battleground-state-counties-promo-1604498818927-facebookJumbo-v17.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-rep-matt-gaetz-a-close-trump-ally-says-hes-tested-positive-for-coronavirus-antibodies.md",
       "title": "Rep. Matt Gaetz, a close Trump ally, says he's tested positive for coronavirus antibodies",
       "excerpt": "The Republican Florida lawmaker is one of Trump's staunchest defenders on Capitol Hill and is a fixture in conservative media.",
@@ -918,7 +975,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1925,
+      "heat": 1985,
       "tags": null,
       "images": [
         {
@@ -1289,49 +1346,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-kamala-harris-in-detroit-on-election-day-to-rally-support-have-faith-in-the-american-people.md",
-      "title": "Kamala Harris in Detroit on Election Day to rally support: 'Have faith in the American people'",
-      "excerpt": "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/PDTF/f6c9f117-74cf-4558-a513-e8dc14dfdc70-AP20308672071807.jpg?auto=webp&crop=4361,2454,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/6129769002",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6129769002",
-      "publishedDateTime": "2020-11-06T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

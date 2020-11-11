@@ -2,6 +2,63 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-26-nypd-officer-suspended-for-saying-trump-2020-over-patrol-vehicle-speaker.md",
+      "title": "NYPD officer suspended for saying 'Trump 2020' over patrol vehicle speaker",
+      "excerpt": "The department said that the Brooklyn South Investigation Unit was looking into the matter after videos were posted to social media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/nypd-investigating-videos-officer-who-said-trump-2020-over-patrol-n1244693",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/nypd-investigating-videos-officer-who-said-trump-2020-over-patrol-n1244693",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_43/3422855/201025-nypd-vehicle-jm-1145_2eb1389e277db3a2f3a947b9b549e0ca.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244693",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244693",
+      "publishedDateTime": "2020-10-25T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-president-trump-casts-a-very-secure-vote-for-himself-in-person-in-florida.md",
       "title": "President Trump casts a 'very secure vote' for himself in-person in Florida",
       "excerpt": "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida.",
@@ -1311,62 +1368,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-once-presbyterian-now-says-hes-a-nondenominational-christian.md",
-      "title": "Trump, once Presbyterian, now says he's a 'nondenominational Christian'",
-      "excerpt": "Trump emphasized that his parents taught him the importance of faith and prayer throughout his life.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lP9Gdf_h2As/trump-identifies-non-denominational-christian",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lP9Gdf_h2As/trump-identifies-non-denominational-christian",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/811ca535-be57-4b71-adc1-4fe7047b47b8/85e13a02-9e52-4c03-8d4d-1e3635b6692c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-identifies-non-denominational-christian.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-identifies-non-denominational-christian.amp",
-      "publishedDateTime": "2020-10-24T12:52:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

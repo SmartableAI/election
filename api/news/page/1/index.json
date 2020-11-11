@@ -2,6 +2,163 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-11-california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.md",
+      "title": "California governor quiet on Kamala Harris replacement: 'No timeline has been established'",
+      "excerpt": "The race to fill Vice President-elect Kamala Harris' open Senate seat is underway, but California Gov. Gavin Newsom has so far remained mum about potential contenders.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20272849406731.jpg",
+          "width": 1024,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
+      "publishedDateTime": "2020-11-11T06:51:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-pence-dumps-florida-vacation-to-stay-in-washington-amid-election-challenge.md",
+      "title": "Pence dumps Florida vacation to stay in Washington amid election challenge",
+      "excerpt": "Vice President Mike Pence canceled plans for a Florida getaway this week to stay in Washington as President Trump continues to challenge election results, according to a report. Pence, who",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/",
+      "originalUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/201111-pence-cancels-florida-vacation.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/amp/",
+      "publishedDateTime": "2020-11-11T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-kamala-harris-blm-protests-put-a-new-spotlight-on-hbcus-many-now-hope-for-a-financial-reckoning.md",
+      "title": "Kamala Harris, BLM protests put a new spotlight on HBCUs. Many now hope for a financial reckoning.",
+      "excerpt": "The presidential campaign have raised HBCUs' profile, while calls for racial justice following nationwide protests have delivered record donations. But will it last? And is it enough to address generations of disenfranchisement at the hands and states and the federal government?",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/",
+      "originalUrl": "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TOR7ABBLAI6XLKTJQP5USMQPU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp",
+      "publishedDateTime": "2020-11-11T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-mississippi-republican-calls-for-his-state-to-succeed-from-the-union-after-biden-victory.md",
       "title": "Mississippi Republican calls for his state to ‘succeed from the union’ after Biden victory",
       "excerpt": "The Magnolia State voted to remove the Confederate battle flag symbol from its own state flag earlier this year.",
@@ -212,58 +369,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-ayala-we-did-it-kamala-harris-shatters-a-glass-ceiling-but-a-big-one-remains.md",
-      "title": "Ayala: ‘We did it’ — Kamala Harris shatters a glass ceiling, but a big one remains",
-      "excerpt": "Major events, both tragic and uplifting, unite us in front of our TV screens. They create indelible shared memories.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/news_columnists/elaine_ayala/article/Ayala-We-did-it-Kamala-Harris-shatters-15714523.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/news_columnists/elaine_ayala/article/Ayala-We-did-it-Kamala-Harris-shatters-15714523.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/15/14/51/20236926/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T22:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -1237,114 +1342,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-biden-may-face-pressure-to-reshape-powells-fed-in-first-year.md",
-      "title": "Biden may face pressure to reshape Powell's Fed in first year",
-      "excerpt": "Washington - U.S. monetary policy won't be a top-of-mind concern for President-elect Joe Biden as he prepares to take office in January, with the Federal Reserve's economic arsenal already deployed against an ongoing recession and decisions about federal spending more",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-fed/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-idUSKBN27Q1FR",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-fed/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-idUSKBN27Q1FR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540687400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90SI",
-          "width": 806,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Q1FR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q1FR",
-      "publishedDateTime": "2020-11-10T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-what-can-joe-biden-do-to-save-obamacare-in-the-supreme-court-not-much.md",
-      "title": "What can Joe Biden do to save Obamacare in the Supreme Court? Not much.",
-      "excerpt": "The fate of the Affordable Care Act lies in the Supreme Court's hands, and there's not much President-elect Joe Biden can do about it.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ivsE9l3kocw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ivsE9l3kocw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109160916-joe-biden-obamacare-1028-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/joe-biden-affordable-care-act-supreme-court/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/joe-biden-affordable-care-act-supreme-court/index.html",
-      "publishedDateTime": "2020-11-10T03:03:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

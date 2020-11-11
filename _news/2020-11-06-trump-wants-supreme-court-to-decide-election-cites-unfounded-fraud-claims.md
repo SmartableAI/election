@@ -92,6 +92,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Top Republicans line up behind Trump election fight, as Biden rips president for not conceding"
+    excerpt: "Top Republican officials are continuing to back President Trump's quest to challenge the 2020 presidential election via recounts and allegations of voter fraud, days after Fox News and other media outlets projected Democrat Joe Biden as the winner."
+    publishedDateTime: 2020-11-11T14:27:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8JDukxKRMpE/top-republicans-behind-trump-election-fight-biden-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/top-republicans-behind-trump-election-fight-biden-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-republicans-behind-trump-election-fight-biden-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 193
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c089f5f-64da-4671-bc70-be102e4a6f54/4b72dbdd-364c-4688-91ac-b5c0c9a95738/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Businessman wagers $5M on Trump winning election: report"
     excerpt: ""
     publishedDateTime: 2020-11-03T04:56:04Z
@@ -684,6 +700,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden lawyer accuses Trump of trying to 'interfere with the inevitable' as transition awaits GSA funds"
+    excerpt: "Lawyers for President-elect Joe Biden's transition team accused President Trump and his allies of trying to \"interfere with the inevitable\" as the president refuses to concede the election and continues to pursue legal challenges to ballots in several states."
+    publishedDateTime: 2020-11-11T13:04:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/27mVMsDGMnI/biden-lawyer-accuses-trump-interfering-inevitable-transition-gsa-funds"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-lawyer-accuses-trump-interfering-inevitable-transition-gsa-funds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-lawyer-accuses-trump-interfering-inevitable-transition-gsa-funds.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden family joins president-elect on victory speech stage, Hunter included"
     excerpt: "Ahead of President-elect Joe Biden’s 2020 election victory speech Saturday night, he said his family would be present for the event, raising questions about whether that included his son Hunter would be involved."
     publishedDateTime: 2020-11-08T02:57:34Z
@@ -825,6 +857,20 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5710a1ac-db7a-49d3-a506-14afea4ee0a5/42e2636e-cea3-4feb-934a-e956db5e7c88/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pennsylvania GOP senator calls on Trump to cooperate with Biden transition"
+    excerpt: "Sen. Pat Toomey called on President Trump to start cooperating with President-elect Joe Biden's transition team, becoming one of the few sitting GOP lawmakers to do so."
+    publishedDateTime: 2020-11-11T13:27:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVEzIhDVN4I/gop-senator-calls-on-trump-to-cooperate-with-biden-transition"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Toomey-.jpeg"
         width: 1280
         height: 720
         isCached: true

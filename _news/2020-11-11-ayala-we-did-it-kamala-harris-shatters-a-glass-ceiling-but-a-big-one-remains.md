@@ -7,8 +7,8 @@ originalUrl: "https://www.houstonchronicle.com/news/news_columnists/elaine_ayala
 webUrl: "https://www.houstonchronicle.com/news/news_columnists/elaine_ayala/article/Ayala-We-did-it-Kamala-Harris-shatters-15714523.php"
 type: article
 quality: 99
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -27,6 +27,24 @@ images:
     width: 2048
     height: 1355
     isCached: true
+
+related:
+  - title: "Kamala Harris, BLM protests put a new spotlight on HBCUs. Many now hope for a financial reckoning."
+    excerpt: "The presidential campaign have raised HBCUs' profile, while calls for racial justice following nationwide protests have delivered record donations. But will it last? And is it enough to address generations of disenfranchisement at the hands and states and the federal government?"
+    publishedDateTime: 2020-11-11T13:20:00Z
+    webUrl: "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TOR7ABBLAI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "F0ZZjLmEbWUQk2mlMJhRxawdCh2suHJPaBktinDo0VVv8tVJj3JdN5g6OB8SYos464s80/qxzd7Bf7YZXlALGe5HchIU0D87ztgZKPJ30DqQFtcwRHwU3Qrw+hn026K2HPzUcCi6yupnFCWhyONaCKC9mmIeBVCA74OGdQFSAMK+ox2XzOzCLjEGYJLHRSb1X1mQ13wi5FrjmU3AzRagW354xgUjz9IFKAEgUIH1lzSjQyfQqZ+tG+j+DAmKF+gVUYiEVEgbKQ5rkIyYRGmQ4906VdSmINav0d5nwRJ90pn4rUYOTT1mou5/LSalWUyK9sCCeRSFUaLVzs/zxiH37GY0j8hmv/tDellYcEQBTbsQzmmylsxZX3kvVzW+bJncuPvmx/21GM6BhuwZOIRw7vThY8aVATvTZsTOr3XAkEfjiGyA+jgP3S+y4ohtIqT4txIXsjjbb+bLgTO/2JODpJ+I15cVd5mSK4PaGeOKL8QZthue3rWDaZBwdp2Ga+nO9q2ekVM35lywXbz6Z+rPog==;mPj5QKowuPbx9QicRxz1TQ=="
 ---

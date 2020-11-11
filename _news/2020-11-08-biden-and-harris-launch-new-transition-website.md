@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence under the radar as Trump fights for power "
+    excerpt: "President Donald Trump continues to baselessly contest the election results and top Republicans have been circling the wagons to amplify that message. But one key ally has been publicly absent from the conversation: Vice President Mike Pence.\n    \n"
+    publishedDateTime: 2020-11-11T14:12:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UMUExN1JwPc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/mike-pence-election-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/mike-pence-election-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030113415-50-pence-unfurl-1021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden defeats Trump in an election he made about character of the nation and the President"
     excerpt: "America has chosen Democrat Joe Biden as its 46th president, CNN projects, turning to a veteran voice who has projected calm and compassion, promised a more empathetic and scientific approach to the pandemic, and pledged to stabilize American politics after four years of Donald Trump's White House chaos.\n"
     publishedDateTime: 2020-11-07T16:49:36Z
@@ -1056,6 +1072,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Will your taxes go up under Biden? It's unlikely"
+    excerpt: "The vast majority of Americans are unlikely to see their taxes go up under President-elect Joe Biden, despite false claims by President Donald Trump to the contrary.\n    \n"
+    publishedDateTime: 2020-11-11T12:14:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KHDTeHd3j_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/biden-tax-plan-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/biden-tax-plan-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163037-joe-biden-wilmington-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top congressional Republicans still haven't acknowledged Biden's victory"
     excerpt: "President-elect Joe Biden urged the country \"to lower the temperature\" in his victory speech on Saturday night, but Republican leaders he'll have to work with in Congress have either urged President Donald Trump to not concede or stayed silent despite no widespread evidence of fraud in the election.\n"
     publishedDateTime: 2020-11-08T22:24:55Z
@@ -1165,6 +1197,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Joe Biden's win grows more decisive each day as votes are counted "
+    excerpt: "President Donald Trump's efforts to deny the outcome of the 2020 election cannot change an undeniable reality: Joe Biden won decisively, and his lead nationally and in key states has grown over time as more votes have been counted.\n    \n"
+    publishedDateTime: 2020-11-11T14:43:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VxQ8AoI_qeE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/joe-biden-2020-election-win/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/joe-biden-2020-election-win/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163403-01-joe-biden-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2139,6 +2187,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/02/business/02election-day-briefing-dixville-notch-voting/02election-day-briefing-dixville-notch-voting-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden differs from Trump on North Korea, but Kim's nukes are most likely here to stay"
+    excerpt: "\"No credible North Korean leader — and certainly not this one — could really entertain the possibility of full denuclearization,\" one expert said."
+    publishedDateTime: 2020-11-11T10:32:00Z
+    webUrl: "https://www.nbcnews.com/news/world/biden-differs-trump-north-korea-kim-s-nukes-are-most-n1247260"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247260"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247260"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427256/201110-us-north-korea-mc-13502_1eadc3d1ab1792b7a73d0661e0ebe08d.JPG"
+        width: 2500
+        height: 1524
         isCached: true
   - title: "In midnight vote, Biden sweeps Dixville Notch. Trump takes another New Hampshire town."
     excerpt: "In Dixville Notch, where a handful of masked residents voted shortly after midnight on Tuesday, all five votes for president went to Joseph R. Biden Jr., the Democratic nominee. He is the first presidential candidate to sweep the general election vote in Dixville Notch since the midnight voting tradition began there in 1960,"

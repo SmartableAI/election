@@ -1611,6 +1611,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden plans move into White House as Trump clings to hope"
+    excerpt: "U.S. President-elect Joe Biden will further lay the groundwork for his new administration on Wednesday as President Donald Trump pursues a flurry of longshot lawsuits challenging the election results in an effort to cling to power."
+    publishedDateTime: 2020-11-11T12:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27R0JP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R0JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R0JP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540854500&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA16Q"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Biden says nothing will stop transition as Trump vows new legal action"
     excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, while President Donald Trump pursued lawsuits in several states in a long-shot bid to hold on to power."
     publishedDateTime: 2020-11-11T08:23:00Z
@@ -5426,6 +5442,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden wants masks mandates nationwide, but he can't actually enforce them. Here's what he could do instead."
+    excerpt: "Throughout the presidential campaign, Joe Biden laid out several action items to combat COVID-19, including supporting face mask mandates nationwide."
+    publishedDateTime: 2020-11-11T13:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/11/joe-biden-national-face-mask-mandate-covid/6233249002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6233249002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6233249002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/4c2e84fc-eadb-42ce-b253-32800b6ebef6-Biden_double_mask.jpg?auto=webp&crop=2999,1687,x0,y151&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "China Is Getting Ready for a World Without Trump"
     excerpt: "Now that Trump appears to be on his way out, and China’s economy is growing again — with parts of Europe and the U.S. resuming lockdowns — the yuan’s outlook is rosy. Reining in excessive currency volatility will be critical if Beijing wants to keep a steady inflow of foreign money."
     publishedDateTime: 2020-11-02T09:58:00Z
@@ -6772,6 +6804,20 @@ related:
       - url: "https://i.insider.com/5f49491960bf1f0028079416?width=1200&format=jpeg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Here are the 26 most important centrists Joe Biden will need to advance his agenda when he starts governing a divided post-Trump America"
+    excerpt: "Joe Biden will need to win over several centrists on Capitol Hill, K Street, and in state governments to help move his agenda when he goes to the White House next year."
+    publishedDateTime: 2020-11-11T13:29:00Z
+    webUrl: "https://www.businessinsider.com/biden-senate-centrists-moderate-democrats-republicans-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5faafe34f24e720018a2ab10?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Ups Pressure on Barr to Probe Bidens as Election Nears"
     excerpt: "President Donald Trump is calling on Attorney General William Barr to launch an investigation into unverified claims about Democrat Joe Biden and his son Hunter, effectively demanding that the Justice Department muddy his political opponent and abandon the department's historic resistance to getting involved in elections."
