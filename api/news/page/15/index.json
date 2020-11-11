@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-25-live-coverage-mike-pence-to-hold-rally-at-lakeland-linder-international-airport.md",
+      "title": "Live coverage: Mike Pence to hold rally at Lakeland Linder International Airport",
+      "excerpt": "Some of the attendees waiting to hear Mike Pence speak today include residents, veterans and Lake Wales commissioner Allen Goldstein and Polk County Republican chairman J.C. Martin. Trump campaign volunteers are checking temperatures and handing out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
+      "originalUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NLED/0f5f4423-cbb5-4427-aec0-65063a141acf-2.jpg?auto=webp&crop=1535,864,x0,y204&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theledger.com/amp/6008696002",
+      "cdnAmpWebUrl": "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/6008696002",
+      "publishedDateTime": "2020-10-24T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Ledger",
+        "domain": "theledger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-pro-trump-high-schooler-sues-florida-district-for-censoring-support.md",
       "title": "Pro-Trump high schooler sues Florida district for censoring support",
       "excerpt": "A pro-Trump high school student was issued a temporary restraining order after suing his school district that took issue with his elephant statue supporting President Trump.",
@@ -1266,58 +1309,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-facebook-pulled-48-trump-election-campaign-ads-which-told-people-your-vote-has-not-been-counted.md",
-      "title": "Facebook pulled 48 Trump election campaign ads which told people 'your vote has not been counted'",
-      "excerpt": "Some 399,000 saw the ads from the Trump campaign before Facebook pulled it, which was potentially misleading to some voters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
-      "originalUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f92f8b4212113001874071a?width=1200&format=jpeg",
-          "width": 780,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp",
-      "publishedDateTime": "2020-10-23T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

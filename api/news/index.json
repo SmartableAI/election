@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-11-parler-mewe-gab-gain-momentum-as-conservative-social-media-alternatives-in-post-trump-age.md",
+      "title": "Parler, MeWe, Gab gain momentum as conservative social media alternatives in post-Trump age",
+      "excerpt": "The rise of conservative-friendly platform Parler raises the specter of further political polarization through digital means.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2020/11/11/parler-mewe-gab-social-media-trump-election-facebook-twitter/6232351002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2020/11/11/parler-mewe-gab-social-media-trump-election-facebook-twitter/6232351002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/18/USAT/8c399606-d7e9-41de-bdad-fa14b9a11576-AP_Election_2020_Social_Media.jpg?auto=webp&crop=2050,1154,x0,y50&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6232351002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6232351002",
+      "publishedDateTime": "2020-11-11T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-fox-news-cuts-away-from-trump-campaign-news-conference-cant-in-good-countenance-continue-showing-this.md",
+      "title": "Fox News cuts away from Trump campaign news conference: 'Can't in good countenance continue showing this'",
+      "excerpt": "Fox News anchor Neil Cavuto broke in and cut away from the news conference after \"explosive charges\" were made about voter fraud without evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/09/fox-cuts-coverage-kayleigh-mcenany-trump-campaign-press-conference/6228124002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/09/fox-cuts-coverage-kayleigh-mcenany-trump-campaign-press-conference/6228124002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/09/USAT/c71df6e1-0af4-437e-8010-343af0b5c535-Fox_News.PNG?auto=webp&crop=981,552,x207,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6228124002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228124002",
+      "publishedDateTime": "2020-11-11T01:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-jimmy-kimmel-trump-is-a-reality-show-host-who-cant-accept-reality.md",
       "title": "Jimmy Kimmel: Trump Is a Reality Show Host Who Can’t Accept Reality",
       "excerpt": "Republicans are handling the president with kid gloves because those are the only gloves that fit him,” Kimmel joked of President Trump’s refusal to concede to Joe Biden.",
@@ -381,58 +485,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-newsmax-hopes-conservative-anger-at-fox-news-and-a-few-trump-tweets-can-boost-the-much-smaller-network.md",
-      "title": "Newsmax hopes conservative anger at Fox News and a few Trump tweets can boost the much smaller network",
-      "excerpt": "Newsmax, which wants to draw viewers away from Fox News, has played up conservative criticisms of the network. An anchor said Fox is “jumping right into the tank for the left.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/media/2020/11/10/newsmax-fox-news-trump-tweets/",
-      "originalUrl": "https://www.washingtonpost.com/media/2020/11/10/newsmax-fox-news-trump-tweets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RYAKUOBDPYI6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/media/2020/11/10/newsmax-fox-news-trump-tweets/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/11/10/newsmax-fox-news-trump-tweets/?outputType=amp",
-      "publishedDateTime": "2020-11-10T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1284,58 +1336,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-why-texass-overwhelmingly-latino-rio-grande-valley-turned-toward-trump.md",
-      "title": "Why Texas’s overwhelmingly Latino Rio Grande Valley turned toward Trump",
-      "excerpt": "But something different happened along the Rio Grande. Republicans ran up their numbers in the overwhelmingly Hispanic, reliably Democratic counties along the border, taking advantage of the habitual underinvestment and lack of infrastructure there,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/texas-latino-republicans/2020/11/09/17a15422-1f92-11eb-ba21-f2f001f0554b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/texas-latino-republicans/2020/11/09/17a15422-1f92-11eb-ba21-f2f001f0554b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VT3Y6LBCZQI6XBTSYKA4PIWJNY.jpg&w=1440",
-          "width": 1440,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/texas-latino-republicans/2020/11/09/17a15422-1f92-11eb-ba21-f2f001f0554b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/texas-latino-republicans/2020/11/09/17a15422-1f92-11eb-ba21-f2f001f0554b_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-09T23:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

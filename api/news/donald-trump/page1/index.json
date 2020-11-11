@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-11-parler-mewe-gab-gain-momentum-as-conservative-social-media-alternatives-in-post-trump-age.md",
+      "title": "Parler, MeWe, Gab gain momentum as conservative social media alternatives in post-Trump age",
+      "excerpt": "The rise of conservative-friendly platform Parler raises the specter of further political polarization through digital means.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2020/11/11/parler-mewe-gab-social-media-trump-election-facebook-twitter/6232351002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2020/11/11/parler-mewe-gab-social-media-trump-election-facebook-twitter/6232351002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/18/USAT/8c399606-d7e9-41de-bdad-fa14b9a11576-AP_Election_2020_Social_Media.jpg?auto=webp&crop=2050,1154,x0,y50&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6232351002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6232351002",
+      "publishedDateTime": "2020-11-11T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-fox-news-cuts-away-from-trump-campaign-news-conference-cant-in-good-countenance-continue-showing-this.md",
+      "title": "Fox News cuts away from Trump campaign news conference: 'Can't in good countenance continue showing this'",
+      "excerpt": "Fox News anchor Neil Cavuto broke in and cut away from the news conference after \"explosive charges\" were made about voter fraud without evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/09/fox-cuts-coverage-kayleigh-mcenany-trump-campaign-press-conference/6228124002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/09/fox-cuts-coverage-kayleigh-mcenany-trump-campaign-press-conference/6228124002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/09/USAT/c71df6e1-0af4-437e-8010-343af0b5c535-Fox_News.PNG?auto=webp&crop=981,552,x207,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6228124002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228124002",
+      "publishedDateTime": "2020-11-11T01:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-jimmy-kimmel-trump-is-a-reality-show-host-who-cant-accept-reality.md",
       "title": "Jimmy Kimmel: Trump Is a Reality Show Host Who Can’t Accept Reality",
       "excerpt": "Republicans are handling the president with kid gloves because those are the only gloves that fit him,” Kimmel joked of President Trump’s refusal to concede to Joe Biden.",
@@ -141,58 +245,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp",
       "publishedDateTime": "2020-11-10T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-newsmax-hopes-conservative-anger-at-fox-news-and-a-few-trump-tweets-can-boost-the-much-smaller-network.md",
-      "title": "Newsmax hopes conservative anger at Fox News and a few Trump tweets can boost the much smaller network",
-      "excerpt": "Newsmax, which wants to draw viewers away from Fox News, has played up conservative criticisms of the network. An anchor said Fox is “jumping right into the tank for the left.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/media/2020/11/10/newsmax-fox-news-trump-tweets/",
-      "originalUrl": "https://www.washingtonpost.com/media/2020/11/10/newsmax-fox-news-trump-tweets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RYAKUOBDPYI6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/media/2020/11/10/newsmax-fox-news-trump-tweets/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/11/10/newsmax-fox-news-trump-tweets/?outputType=amp",
-      "publishedDateTime": "2020-11-10T13:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -981,7 +1033,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10041,
+      "heat": 10061,
       "tags": null,
       "images": [
         {
@@ -1534,58 +1586,6 @@
       "ampWebUrl": "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp",
       "publishedDateTime": "2020-11-07T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-bolsonaro-abandons-friend-trump-after-2020-election-says-hes-not-the-most-important-person-in-the-world.md",
-      "title": "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'",
-      "excerpt": "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11",
-      "originalUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp",
-      "publishedDateTime": "2020-11-06T20:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

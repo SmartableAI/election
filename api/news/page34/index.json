@@ -2,6 +2,62 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-10-03-michael-cohen-responds-to-trumps-positive-covid-19-test-this-was-all-preventable.md",
+      "title": "Michael Cohen responds to Trump’s positive COVID-19 test: 'This was all preventable'",
+      "excerpt": "President Trump’s former attorney Michael Cohen blasted the chief executive’s COVID-19 diagnosis Friday, claiming that the White House is to blame.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHjSvTPTw_s/michael-cohen-trump-covid-19-diagnosis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHjSvTPTw_s/michael-cohen-trump-covid-19-diagnosis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Michael-Cohen-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michael-cohen-trump-covid-19-diagnosis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-cohen-trump-covid-19-diagnosis.amp",
+      "publishedDateTime": "2020-10-03T13:33:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-bernie-sanders-wishes-trump-and-first-lady-full-and-speedy-recovery.md",
       "title": "Bernie Sanders wishes Trump and First Lady 'full and speedy recovery'",
       "excerpt": "Sen. Bernie Sanders, I-Vt., on Saturday wished President Trump and First Lady Melania Trump a “full and speedy recovery’ from COVID-19, after they were diagnosed with the virus earlier this week.",
@@ -1279,58 +1335,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-trump-has-more-in-common-with-lincoln-than-you-might-think.md",
-      "title": "Trump has more in common with Lincoln than you might think",
-      "excerpt": "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
-      "originalUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trump_lincoln_08042020_1.jpg",
-          "width": 980,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
-      "publishedDateTime": "2020-10-02T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

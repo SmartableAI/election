@@ -1587,7 +1587,7 @@ related:
   - title: "Biden says nothing will stop transition as Trump vows new legal action"
     excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, while President Donald Trump pursued lawsuits in several states in a long-shot bid to hold on to power."
     publishedDateTime: 2020-11-11T08:23:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/nothings-going-to-stop-handover-of-power-in-us-biden-says-idUSKBN27Q0LI"
+    webUrl: "https://www.reuters.com/article/us-usa-election/trump-mounts-legal-assault-as-barr-authorizes-probes-of-vote-irregularities-idUSKBN27Q0LI"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0LI"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0LI"
     type: article
@@ -2661,6 +2661,22 @@ related:
       - url: "https://i.insider.com/5fa614b31df1d500182196e5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump campaign presses legal attack on election, as postal worker recants ballot fraud claims"
+    excerpt: "President Donald Trump's campaign said on Tuesday it would file a lawsuit to stop the battleground state of Michigan from certifying its election results, as congressional Democrats said a witness who had raised accusations of ballot tampering in Pennsylvania recanted"
+    publishedDateTime: 2020-11-11T07:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-michigan-idUSKBN27Q3FY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q3FY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q3FY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 129
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540772722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA923E"
+        width: 816
+        height: 545
         isCached: true
   - title: "Biden is planning to declare victory if news organizations say he won the presidential election — even if Trump won't concede"
     excerpt: "The Democrat is planning to address the nation on Tuesday night, regardless of what the results show."

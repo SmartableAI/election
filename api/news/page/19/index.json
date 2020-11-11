@@ -2,6 +2,62 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-20-trump-says-were-up-in-nc-amid-reported-internal-worries-about-keeping-state-red.md",
+      "title": "Trump says 'we're up' in NC amid reported internal worries about keeping state red",
+      "excerpt": "Polls show Trump essentially tied with Democratic nominee Joe Biden",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFGyaaY0NdA/trump-north-carolina-biden-polls",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFGyaaY0NdA/trump-north-carolina-biden-polls",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20289760366040-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-north-carolina-biden-polls.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-biden-polls.amp",
+      "publishedDateTime": "2020-10-20T13:00:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-photo-altered-to-ice-cube-50-center-in-trump-2020-hats.md",
       "title": "Photo altered to Ice Cube, 50 Center in 'Trump 2020' hats",
       "excerpt": "An altered photo of rappers Ice Cube and 50 Cent in hats that appear to show support for President Donald Trump circulated widely on social media Tuesday, fueled in part by a tweet by Eric Trump",
@@ -1250,62 +1306,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.md",
-      "title": "Sarah Sanders says Trump should ‘hammer home’ these 2 issues at last debate",
-      "excerpt": "President Trump has two issues he needs to \"hammer home” at the next presidential debate, Fox News contributor Sarah Sanders said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mfb3BPew3FI/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mfb3BPew3FI/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.amp",
-      "publishedDateTime": "2020-10-19T11:24:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,63 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-10-state-dept-slams-china-for-censoring-pence-debate-answer-critical-of-chinese-communist-party.md",
+      "title": "State Dept. slams China for censoring Pence debate answer critical of Chinese Communist Party",
+      "excerpt": "China censors \"any sort of criticism\" of the Chinese Community Party fearing it is bad news if their citizens see \"what actually happens,\" State Department spokesperson Morgan Ortagus told \"Fox & Friends\" Saturday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g4EdopySh4k/china-censorship-debate-pence-communist-party-state-dept",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g4EdopySh4k/china-censorship-debate-pence-communist-party-state-dept",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77268e3d-4d5b-4ef5-b09f-a292d7986a5f/2e16936f-4f00-4966-b51e-78b1e333d164/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T11:50:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-biden-campaign-launches-first-ad-featuring-cindy-mccain.md",
       "title": "Biden campaign launches first ad featuring Cindy McCain ",
       "excerpt": "Joe Biden's presidential campaign is unveiling its first television ad featuring Cindy McCain, the widow of Republican Sen. John McCain of Arizona, as the Democratic nominee seeks to gain ground with independents and disaffected Republicans in the battleground state.\n    \n",
@@ -1269,58 +1326,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-president-trump-coughs-during-his-call-in-interview-on-hannity-but-says-hes-feeling-really-good.md",
-      "title": "President Trump coughs during his call-in interview on Hannity, but says he's feeling 'really good'",
-      "excerpt": "Caught between subjects, President Donald Trump coughed and had to pause for a few seconds before continuing on with no check-in from host Sean Hannity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10",
-      "originalUrl": "https://www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7fc1caea74820019ca6178?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10?amp",
-      "publishedDateTime": "2020-10-08T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
