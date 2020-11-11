@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-11-the-daily-202-biden-won-with-the-weakest-coattails-in-60-years-that-could-make-him-dependent-on-gop-senators.md",
+      "title": "The Daily 202: Biden won with the weakest coattails in 60 years. That could make him dependent on GOP senators.",
+      "excerpt": "I haven’t had a chance to speak to Mitch,” Biden told reporters at the Queen theater here. “My expectation is that I will do that in the not-too-distant future. I think that the whole Republican Party has been put in a position,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFLMPWRDSMI6XHCKBXDCILCICQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp",
+      "publishedDateTime": "2020-11-11T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-mississippi-republican-calls-for-his-state-to-succeed-from-the-union-after-biden-victory.md",
       "title": "Mississippi Republican calls for his state to ‘succeed from the union’ after Biden victory",
       "excerpt": "The Magnolia State voted to remove the Confederate battle flag symbol from its own state flag earlier this year.",
@@ -322,7 +374,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10201,
+      "heat": 10341,
       "tags": null,
       "images": [
         {
@@ -682,58 +734,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-doctors-say-theyre-hopeful-biden-will-handle-the-pandemic-better-but-disappointed-that-he-didnt-win-by-a-landslide.md",
-      "title": "Doctors say they’re ‘hopeful’ Biden will handle the pandemic better, but ‘disappointed’ that he didn’t win by a landslide",
-      "excerpt": "Three doctors spoke to Insider about the projection that Joe Biden has won the election, and what could happen next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11",
-      "originalUrl": "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa5d9e31df1d500182196d0?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp",
-      "publishedDateTime": "2020-11-06T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

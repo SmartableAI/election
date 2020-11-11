@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-se
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html"
 type: article
 quality: 167
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "The Point: Why a Republican-led Senate might not be *such* a bad thing for Joe Biden"
+    excerpt: "Conventional wisdom suggests that the best-case scenario for President-elect Joe Biden is for Democrats to sweep the two Senate runoffs in Georgia in January, wins that would hand Democrats control of both sides of the US Capitol, not to mention the White House.\n    \n"
+    publishedDateTime: 2020-11-11T15:42:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XWdsKA5gfrI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/senate-joe-biden-mcconnell-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/senate-joe-biden-mcconnell-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/121231031314-biden-mcconnell-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "EhlUju0DN6N2WOYAGXYxIN1pGbTEM2Gs9zfzhGvyoPYXPeIPqQK3jZ2+NpjxkQJtSkKbV4HkXOKn4IB8+CyxDTmmwNENwOSrUuD4hU3RNLX8tomwrtpx1x+f/SSwJb9UDyyt54aadwqKaoZc8/DVO+qPfMtHDYHppXUc80DU8U9MXYrHj56+L5mAyMwN8pElEqA9KOPswYiFT8EIVbiQHrJABNIm48kpTZBp47/QkhfL8JInttK8uGxx8oaoLmC0A/13plBBZw2nl1RAkfojUNgqobV3SYKs6P92ecfa8ZURYwFhOZ7raaKpHQC6VqtjicBiZCHrK3YsBoYWQ8PB890V7XN3za7QhG8weidbztA=;i2AhsU4SxNL8isKn/opSlg=="
 ---

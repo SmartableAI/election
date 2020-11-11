@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-speech-mandate-trump-undecide
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
 type: article
 quality: 205
-heat: 1985
+heat: 2005
 published: true
 
 provider:
@@ -734,6 +734,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump to participate in Veterans Day ceremony at Arlington National Cemetery"
+    excerpt: "President Trump on Wednesday is attending a ceremony at Arlington National Cemetery to mark Veterans Day -- Trump’s first public event since he was projected to have lost the presidential election to President-elect Joe Biden."
+    publishedDateTime: 2020-11-11T15:57:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyWqRCig5JI/trump-veterans-day-ceremony-arlington-national-cemetary"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-veterans-day-ceremony-arlington-national-cemetary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veterans-day-ceremony-arlington-national-cemetary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89208490-6f66-4e59-8e38-b11e83bcc088/92f41bd7-6f93-48d6-aca2-5568cb62f8b6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump campaign adviser Lewandowski predicts clear election winner with Trump victories in major swing states"
     excerpt: "President Trump has warned that Americans may not learn the results of the presidential election until well after Election Day due to certain battleground states extending the deadline for accepting mailed ballots, but Trump campaign senior adviser Corey Lewandowski predicted that Trump will win so decisively"

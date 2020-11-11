@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's public schedules show little interest in work as he protests Biden's legitimate election"
+    excerpt: "The President of the United States is absent without leave. President Donald Trump is set to make his first public appearance in six days Wednesday when he visits Arlington National Cemetery to commemorate Veterans Day alongside first lady Melania Trump and Vice President Mike Pence.\n    \n"
+    publishedDateTime: 2020-11-11T16:53:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nEqD0ZfpiYA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/donald-trump-schedule-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/donald-trump-schedule-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 192
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111003004-02-donald-trump-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Biden cross paths in final sprint as virus rages"
     excerpt: "Former Vice President Joe Biden and President Donald Trump went head-to-head in the mighty swing state of Florida on Thursday, as the US crossed a daily record with more than 88,000 new coronavirus cases and the two candidates showed their sharply divergent approaches to the virus at dueling rallies.\n"
     publishedDateTime: 2020-10-30T09:30:48Z
@@ -1711,6 +1727,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden differs from Trump on North Korea, but Kim's nukes are most likely here to stay"
+    excerpt: "\"No credible North Korean leader — and certainly not this one — could really entertain the possibility of full denuclearization,\" one expert said."
+    publishedDateTime: 2020-11-11T10:32:00Z
+    webUrl: "https://www.nbcnews.com/news/world/biden-differs-trump-north-korea-kim-s-nukes-are-most-n1247260"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247260"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247260"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 153
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427256/201110-us-north-korea-mc-13502_1eadc3d1ab1792b7a73d0661e0ebe08d.JPG"
+        width: 2500
+        height: 1524
+        isCached: true
   - title: "Biden surges ahead of Trump after first debate"
     excerpt: "Joe Biden leads Donald Trump among registered voters by 14 points, his biggest lead in our poll so far: Oct. 4, 2020"
     publishedDateTime: 2020-10-04T13:22:00Z
@@ -2186,22 +2218,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/02/business/02election-day-briefing-dixville-notch-voting/02election-day-briefing-dixville-notch-voting-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden differs from Trump on North Korea, but Kim's nukes are most likely here to stay"
-    excerpt: "\"No credible North Korean leader — and certainly not this one — could really entertain the possibility of full denuclearization,\" one expert said."
-    publishedDateTime: 2020-11-11T10:32:00Z
-    webUrl: "https://www.nbcnews.com/news/world/biden-differs-trump-north-korea-kim-s-nukes-are-most-n1247260"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247260"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247260"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 143
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427256/201110-us-north-korea-mc-13502_1eadc3d1ab1792b7a73d0661e0ebe08d.JPG"
-        width: 2500
-        height: 1524
         isCached: true
   - title: "In midnight vote, Biden sweeps Dixville Notch. Trump takes another New Hampshire town."
     excerpt: "In Dixville Notch, where a handful of masked residents voted shortly after midnight on Tuesday, all five votes for president went to Joseph R. Biden Jr., the Democratic nominee. He is the first presidential candidate to sweep the general election vote in Dixville Notch since the midnight voting tradition began there in 1960,"

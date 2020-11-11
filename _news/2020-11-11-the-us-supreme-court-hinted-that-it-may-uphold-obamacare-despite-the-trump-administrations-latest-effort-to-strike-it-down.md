@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
 type: article
 quality: 99
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Business Insider
@@ -29,24 +29,6 @@ images:
     width: 924
     height: 462
     isCached: true
-
-related:
-  - title: "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP"
-    excerpt: "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans."
-    publishedDateTime: 2020-11-10T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 994
-        isCached: true
 
 secured: "HxH5YWYKOEs3KPGZVdbemGjeIai2cfGbPXk/HSHOuCSSi62NRwlp1HJDy1ZwEXwBci84IEOXERphrrGagUKiGhA2Su2ivwpmhSeHRH+w6cBYoclhALWrVbgn4IF2OfT2a5u+0tyQG3nbfjiBAHkYWxsPZbUFCKwlAlKV/KHf9bMQkiaV0gDht7NX7aFzVmzAw82y+SiHHHfC2I3TlC5fOVWFzswaa11NcTSidCAtArJksxN60WL42jIFce1IOMBhogbCN/hwmxlaWwIFlxT9DKg4QjL14+3H+TBFNzU1Q1Ea8IiHP41cpjTnaw6BiXp1ZJaqNxa+ZGWeYtfpkEnCdk6z705tpQzCPveE7uuh17E=;SIz83oAYTu5MRd4xA+h33Q=="
 ---

@@ -2,6 +2,119 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-08-de-blasio-breaks-social-distancing-poses-for-biden-win-selfies-as-thousands-gather-shoulder-to-shoulder.md",
+      "title": "De Blasio breaks social distancing, poses for Biden win selfies as thousands gather shoulder-to-shoulder",
+      "excerpt": "In New York City, outspoken Trump critic Mayor Bill de Blasio shared selfies of himself and other New Yorkers, wearing masks but standing without social distancing with a crowd of people in the background.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Y8Vy-3yZjg/de-blasio-social-distancing-selfies-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Y8Vy-3yZjg/de-blasio-social-distancing-selfies-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313091963041.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/de-blasio-social-distancing-selfies-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-social-distancing-selfies-coronavirus.amp",
+      "publishedDateTime": "2020-11-07T19:13:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-harris-american-voters-chose-hope-unity-decency-and-yes-truth.md",
+      "title": "Harris: American voters chose 'hope, unity, decency and yes, truth'",
+      "excerpt": "Sen. Kamala Harris, in her victory speech as vice president-elect, said that in Tuesday’s election voters had chosen “hope, unity, decency and yes, truth.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7XZfNkLgmQ/harris-american-voters-chose-hope-unity-truth",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7XZfNkLgmQ/harris-american-voters-chose-hope-unity-truth",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/364d08d0-de65-4f3d-ab82-703859584a3b/a91619d4-445b-4a57-b799-ab1ea134a81b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-american-voters-chose-hope-unity-truth.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-american-voters-chose-hope-unity-truth.amp",
+      "publishedDateTime": "2020-11-07T18:21:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-hispanic-voters-deliver-a-texas-win-for-trump.md",
       "title": "Hispanic Voters Deliver a Texas Win for Trump",
       "excerpt": "The Rio Grande Valley shifted decisively toward President Trump, cancelling out votes for Joseph R. Biden Jr. in urban and suburban areas.",
@@ -975,7 +1088,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1985,
+      "heat": 2005,
       "tags": null,
       "images": [
         {
@@ -1238,114 +1351,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-gop-to-argue-georgia-senate-runoffs-would-be-key-to-check-biden-and-a-democratic-house.md",
-      "title": "GOP to argue Georgia Senate runoffs would be key to check Biden and a Democratic House",
-      "excerpt": "Georgia Republican Sens. David Perdue and Kelly Loeffler are bracing for a two-month slog in Georgia that could determine the next Senate majority, planning to argue that they need to keep their seats to prevent Democratic control of Washington.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpr-QIcIV9I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpr-QIcIV9I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201030205324-loeffler-perdue-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html",
-      "publishedDateTime": "2020-11-06T17:21:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-doctors-say-theyre-hopeful-biden-will-handle-the-pandemic-better-but-disappointed-that-he-didnt-win-by-a-landslide.md",
-      "title": "Doctors say they’re ‘hopeful’ Biden will handle the pandemic better, but ‘disappointed’ that he didn’t win by a landslide",
-      "excerpt": "Three doctors spoke to Insider about the projection that Joe Biden has won the election, and what could happen next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11",
-      "originalUrl": "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa5d9e31df1d500182196d0?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp",
-      "publishedDateTime": "2020-11-06T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

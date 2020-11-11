@@ -61,6 +61,22 @@ related:
         width: 846
         height: 545
         isCached: true
+  - title: "Trump attacks Philadelphia's Republican City Commissioner for saying he's seen no evidence of election fraud"
+    excerpt: "The president was incensed that a top Republican commissioner in Philadelphia would not substantiate any claims of widespread fraud in the city."
+    publishedDateTime: 2020-11-11T16:16:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-attacks-philadelphia-commissioner-al-schmidt-mail-voting-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-attacks-philadelphia-commissioner-al-schmidt-mail-voting-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-attacks-philadelphia-commissioner-al-schmidt-mail-voting-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5fac0991b09abb0018625f3d?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Fact check: Partly false claim about discarded ballots in Pennsylvania amplified by Eric Trump"
     excerpt: "Viral posts are partly false about less than a dozen discarded ballots in Pennsylvania. They weren't found in a ditch and aren't evidence of fraud."
     publishedDateTime: 2020-11-10T14:38:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/doctors-happy-for-bidens-projected-w
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp"
 type: article
 quality: 100
-heat: 100
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "The Daily 202: Biden won with the weakest coattails in 60 years. That could make him dependent on GOP senators."
+    excerpt: "I haven’t had a chance to speak to Mitch,” Biden told reporters at the Queen theater here. “My expectation is that I will do that in the not-too-distant future. I think that the whole Republican Party has been put in a position,"
+    publishedDateTime: 2020-11-11T15:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFLMPWRDSMI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "algS80BMIMhxVtO1ZvU3Qz55ZWRaZIT/RUq5kLASbdTSCsA+R4lzGTkoY6iSGiALWTEZO1VijazcIjaIUheSqALttkF09+8sZN9+4lrBhhKsvz2m3oOVca2wU1SYujrNwKg1DUrbt02DJVT7ZLIMUkkSpHyb4YNwKneM4KbPJkDjvbyinu5s2Ft5RDlZZxlq0dWRPzMpgE4h538HfvawVv8+AxD3SBN20TxVY1B2X8/u1e7S9miHIVMLxf0lGqvtP+2WCLyOrpZe7DxoZsn6SKqF/cZS3J3rYsMD41je4wfEAynxC3mvsRb8q7ab3B38N6QD3p/UBz23jXuqGF4icVwbZdT5kVVre4ZJQ9JLU7YzrC+Srbu1Db0IF+wEWsGhff8TJSCPXvmNj+xjTdB475F8WH8Fhd6uOgelGp4E/KV82+VrzpEf1tfuY9aUwYavZyB2jFGkOf/DLuN44bIMThajHn0XdvDTE7fCK8DmPTERp1fVbKyzWUAv/TLUZosbLqHwhem+vPevkgnevBlYrA==;xmRKWURr70F4Boq+KRUaXA=="
 ---

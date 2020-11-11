@@ -751,6 +751,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump to participate in Veterans Day ceremony at Arlington National Cemetery"
+    excerpt: "President Trump on Wednesday is attending a ceremony at Arlington National Cemetery to mark Veterans Day -- Trump’s first public event since he was projected to have lost the presidential election to President-elect Joe Biden."
+    publishedDateTime: 2020-11-11T15:57:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyWqRCig5JI/trump-veterans-day-ceremony-arlington-national-cemetary"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-veterans-day-ceremony-arlington-national-cemetary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veterans-day-ceremony-arlington-national-cemetary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89208490-6f66-4e59-8e38-b11e83bcc088/92f41bd7-6f93-48d6-aca2-5568cb62f8b6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Top GOPers say to wait for vote counts after Biden projected to beat Trump, others congratulate new president"
     excerpt: "Some Republicans are insisting that Americans wait for vote counts to be finalized and certified after the Fox News Decision Desk projected that President-elect Biden will beat President Trump and become the 46th president of the United States, while others congratulated Biden on his win Saturday."
     publishedDateTime: 2020-11-07T20:01:59Z

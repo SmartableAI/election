@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/news/world/biden-differs-trump-north-korea-kim-
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247260"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247260"
 type: article
-quality: 143
+quality: 153
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427256/201110-us-north-korea-mc-13502_1eadc3d1ab1792b7a73d0661e0ebe08d.JPG"
@@ -125,6 +126,22 @@ related:
     quality: 195
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107093022-02-centered-main-bar-final-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's public schedules show little interest in work as he protests Biden's legitimate election"
+    excerpt: "The President of the United States is absent without leave. President Donald Trump is set to make his first public appearance in six days Wednesday when he visits Arlington National Cemetery to commemorate Veterans Day alongside first lady Melania Trump and Vice President Mike Pence.\n    \n"
+    publishedDateTime: 2020-11-11T16:53:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nEqD0ZfpiYA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/donald-trump-schedule-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/donald-trump-schedule-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 192
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111003004-02-donald-trump-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/california-governor-quiet-on-kamala
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp"
 type: article
 quality: 175
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,24 @@ images:
     height: 712
     isCached: true
 
-secured: "gEv3rQV9ATH9DtySwTFIOMwXzTNTQqUivF6GJhf/QrDuvA82RdzkKXJeewPsR51ddMcWJlZ7kU6FXUHVFZfmke1qokN5rbKWtq0znRb1lxWnAqr2IPggYmnBhcUYn8vmkdk4DcLGUmrYfP7SUmPa+Bck/poKrbLKfMmNAF64OtbdGUD9pZxfXzv1Ij0nyeaYfUBodOazGAHmDXxQ+xkFH4UG3nt3CJGP48fB8ZN6nirrNhsz1/eGPbL7wlvba2XrOOL42mYeoEWas2Q7+v/v2gJ258/yRawtWXs7u2nUVZ+7wOSgDurdUJdt42W89zw5nEutJaVOUc+QkOmel6RhygSUww5+1YMRKBQmbKFcopg=;VzCG/9CPJ0AFLUmVyZ2spw=="
+related:
+  - title: "The race is on to succeed Kamala Harris in the Senate: Who the favorites are"
+    excerpt: "The race is on to succeed Vice President-elect Kamala Harris in the Senate."
+    publishedDateTime: 2020-11-11T16:35:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RIrVltIkObA/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are"
+    ampWebUrl: "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "BfE3q28SyMrtaakg+N/9G0h6PIhfbsbcSS+IOvYtmp56lGr/tfosycUAAIEIOvB8YBejQp4FqxKyx5ou6bdswbkoxiKQO7u+MKKX/Fr9HMATf8yJA8x3O25/KTh3NMBz+cF26EhaSwl3f8Y/b7ouFmd7D3kxmaP6b9Q6ZQcW9dC5pEWCVKoUuoaNG1vC6grJcAaqoT9KEl0aygQxtXmkgkSWCtC7kZLGE5H2vcMxgF6oyq+jaeN3i8P4TrsHrB6gMimM7bCUFzxYfl83MUg7i5ucCcM2umhlNRAcjaAhmnSAEmYmMqaeksUy0VNeisVovOSpgfi77fObS+OZ4y/Nqpikaw3jZXXU0sPNQIeIcJA=;xQLvMONQ8Djcv7opqjHuwA=="
 ---
 

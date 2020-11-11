@@ -47,6 +47,22 @@ related:
         width: 753
         height: 545
         isCached: true
+  - title: "Election 2020 live updates: Joe Biden continues transition process as Trump, Pence take part in Veterans Day event"
+    excerpt: "Democratic Sen. Chris Coons said GOP colleagues are privately asking him to congratulate Joe Biden on winning because they can't publicly do so."
+    publishedDateTime: 2020-11-11T12:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
+    type: article
+    provider:
+      name: The Clarion-Ledger
+      domain: usatoday.com
+    quality: 158
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/c0c9ae07-4d19-4d1f-8238-e71519ab3b5f-AP_Biden.jpg?auto=webp&crop=3711,2088,x0,y78&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Four in ten supporters of Biden, Trump would not accept election defeat"
     excerpt: "More than four in ten supporters of both President Donald Trump and his Democratic challenger, Joe Biden, said they would not accept the result of the November election if their preferred candidate loses,"
     publishedDateTime: 2020-10-25T21:22:00Z
@@ -1632,9 +1648,9 @@ related:
         height: 545
         isCached: true
   - title: "Biden says nothing will stop transition as Trump vows new legal action"
-    excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, while President Donald Trump pursued lawsuits in several states in a long-shot bid to hold on to power."
+    excerpt: "President Donald Trump will push ahead on Tuesday with longshot legal challenges to his loss to Democratic President-elect Joe Biden in last week's election, as Republican officials at the state and federal level lined up behind him."
     publishedDateTime: 2020-11-11T08:23:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/trump-mounts-legal-assault-as-barr-authorizes-probes-of-vote-irregularities-idUSKBN27Q0LI"
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27Q0LI"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0LI"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0LI"
     type: article
@@ -1661,6 +1677,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721678&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91EY"
         width: 806
+        height: 545
+        isCached: true
+  - title: "Trump campaign sues Michigan to prevent certification of Biden win"
+    excerpt: "Donald Trump's presidential campaign on Wednesday sued Michigan to block the U.S. state from certifying last week's election results, where the president has trailed Democrat Joe Biden."
+    publishedDateTime: 2020-11-11T16:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-legal-challenges-michiga-idUSKBN27R2AT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R2AT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R2AT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540862964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA1B9"
+        width: 817
         height: 545
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
@@ -1822,6 +1854,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/31/USAT/0ce85bbb-a038-4cb3-81db-03efe11419d1-Biden_Trump_Campaign.jpg?auto=webp&crop=3999,2249,x1,y151&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump wins Alaska after losing U.S. presidency to Biden: Edison Research"
+    excerpt: "U.S. President Donald Trump defeated President-elect Joe Biden in Alaska, Edison Research projected on Wednesday."
+    publishedDateTime: 2020-11-11T15:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-alaska/trump-wins-alaska-after-losing-u-s-presidency-to-biden-edison-research-idUSKBN27R23G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R23G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R23G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540853428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA16P"
+        width: 817
+        height: 545
         isCached: true
   - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
     excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
@@ -2917,6 +2965,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "New Pro-Trump Facebook Groups Arise To Support The President’s Efforts To Delegitimize The Election"
+    excerpt: "A week after Facebook tried to tamp down on groups seeking to cast doubt on the presidential election, several new pro-Trump groups have established roots on the platform, eager to show support for President Trump’s maneavuers to contest his loss."
+    publishedDateTime: 2020-11-11T15:59:00Z
+    webUrl: "https://www.forbes.com/sites/abrambrown/2020/11/11/new-pro-trump-facebook-groups-arise-to-support-the-presidents-efforts-to-delegitimize-the-election/"
+    ampWebUrl: "https://www.forbes.com/sites/abrambrown/2020/11/11/new-pro-trump-facebook-groups-arise-to-support-the-presidents-efforts-to-delegitimize-the-election/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abrambrown/2020/11/11/new-pro-trump-facebook-groups-arise-to-support-the-presidents-efforts-to-delegitimize-the-election/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 126
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fac0709cdc4c8903cf6ec72%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden looks to restore, expand Obama administration policies"
     excerpt: "Joe Biden is promising to take the country on a very different path from what it has seen over the past four years under President Donald Trump, on issues ranging from the coronavirus and health care to the environment,"
     publishedDateTime: 2020-11-02T10:01:00Z
@@ -3813,6 +3877,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "How Biden aims to amp up the government’s fight against climate change"
+    excerpt: "President-elect Joe Biden is poised to embed action on climate change across the breadth of the federal government, from the departments of Agriculture to Treasury and State— releasing it from the confines of environmental agencies to speed up U."
+    publishedDateTime: 2020-11-11T15:27:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2020/11/11/biden-climate-change/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2020/11/11/biden-climate-change/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2020/11/11/biden-climate-change/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MIEUNPBDQEI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 970
+        isCached: true
   - title: "'Nothing's going to stop' transition of power in U.S., Biden says"
     excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, even as President Donald Trump says without evidence the election was marred by fraud and some of his Republican allies back probes."
     publishedDateTime: 2020-11-11T02:17:00Z
@@ -3828,6 +3908,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540785215&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA029"
         width: 817
         height: 545
+        isCached: true
+  - title: "The Latest: Boris Johnson calls Trump ‘previous president’"
+    excerpt: "British Prime Minister Boris Johnson has called Donald Trump the “previous president” of the United States and said it was “refreshing” to talk to President-elect Joe Biden"
+    publishedDateTime: 2020-11-11T16:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-boris-johnson-calls-trump-previous-president/2020/11/11/c004f290-2438-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-boris-johnson-calls-trump-previous-president/2020/11/11/c004f290-2438-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-boris-johnson-calls-trump-previous-president/2020/11/11/c004f290-2438-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
@@ -6156,6 +6252,22 @@ related:
     quality: 101
     images:
       - url: "https://i.insider.com/5fa75e37f7d1cb0019e3a680?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "More than 100 elected tribal leaders plan to write a letter urging Biden to appoint an indigenous person to his cabinet"
+    excerpt: "The letter suggested appointing Rep. Deb Haaland of New Mexico, who was one of two Native American women elected to Congress."
+    publishedDateTime: 2020-11-11T06:16:00Z
+    webUrl: "https://www.businessinsider.com/elected-tribal-leaders-urge-biden-add-indigenous-person-cabinet-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/elected-tribal-leaders-urge-biden-add-indigenous-person-cabinet-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elected-tribal-leaders-urge-biden-add-indigenous-person-cabinet-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fab45f7f24e720018a2abe8?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

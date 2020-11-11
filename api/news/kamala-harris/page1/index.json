@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-11-california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.md",
-      "title": "California governor quiet on Kamala Harris replacement: 'No timeline has been established'",
-      "excerpt": "The race to fill Vice President-elect Kamala Harris' open Senate seat is underway, but California Gov. Gavin Newsom has so far remained mum about potential contenders.",
+      "path": "_news/2020-11-11-the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.md",
+      "title": "The race is on to succeed Kamala Harris in the Senate: Who the favorites are",
+      "excerpt": "The race is on to succeed Vice President-elect Kamala Harris in the Senate.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RIrVltIkObA/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RIrVltIkObA/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 202,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20272849406731.jpg",
-          "width": 1024,
-          "height": 712,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
-      "publishedDateTime": "2020-11-11T06:51:43-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp",
+      "publishedDateTime": "2020-11-11T08:35:43-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -67,7 +67,7 @@
       "originalUrl": "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -590,7 +590,7 @@
       "originalUrl": "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 118,
       "tags": null,
       "images": [
         {
