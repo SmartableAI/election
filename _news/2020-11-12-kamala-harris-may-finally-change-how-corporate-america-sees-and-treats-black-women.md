@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "‘Put Some Respect on Her Name': Army Vet and Comedian Rita Brent Performs Her Viral Rap About Kamala Harris"
+    excerpt: "Comedian Rita Brent’s rap video about Kamala Harris making history as the first Black woman Vice President-elect has gone viral. The rapper and Army veteran joined LX News to talk about the message behind her viral rap and drop some bars of “solidarity magic."
+    publishedDateTime: 2020-11-11T21:42:00Z
+    webUrl: "https://www.nbcnewyork.com/lx/put-some-respect-on-her-name-army-vet-and-comedian-rita-brent-performs-her-viral-rap-about-kamala-harris/2717847/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/lx/put-some-respect-on-her-name-army-vet-and-comedian-rita-brent-performs-her-viral-rap-about-kamala-harris/2717847/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/put-some-respect-on-her-name-army-vet-and-comedian-rita-brent-performs-her-viral-rap-about-kamala-harris/2717847/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 57
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/LXNewsRita-Brent20201111.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3QrZpz/pnvAnL7g1rt5vvniTmnM6L9ExbmZgdQu+hyxfI/XTamF2sS9NC3bStpWXkxF92e3ePrg+tLnkIXXMlMpKL6nMCgk3jc0y6JpFblc8Scru/qotcY51piGlNRaAV6G+r4nXeyRYqC3Q5LY7Be4nUU3zgiZekCD4660xk49kK1ckN6wfZVZlRUzep6f5ISiD3d3nVftN32udOCSxsfeWVZge0TiPUuS6om1fAzt4Zk6t1J82j//qRFfPnCBHM1HXfG0uQJKSA3d7fsW6DYy6TPZW3YHJ1drt3ky9XpEXlGDqBbo+wPDHiDADQgxFYq+XOUVGZpbi/13/+t97dsYVk3f8QvblTBjrDdM3mLg=;D+bNK6fmKU302RX4plsCDQ=="
 ---

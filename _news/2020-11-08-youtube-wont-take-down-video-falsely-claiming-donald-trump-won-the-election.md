@@ -1711,6 +1711,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Trump campaign’s bad-faith claims about the election, in two tweets"
+    excerpt: "Follow the latest on Election 2020 In short order, the Trump campaign tweeted out the result. Boom. There it was. Another state in the red column. Mind you, other outlets, including the Associated Press and Edison Research (which The Washington Post follows for its calls) weren’t yet as confident."
+    publishedDateTime: 2020-11-11T22:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-campaigns-bad-faith-claims-about-election-two-tweets/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-campaigns-bad-faith-claims-about-election-two-tweets/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/trump-campaigns-bad-faith-claims-about-election-two-tweets/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BHATXQA3CMI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump campaign sues Michigan to prevent certification of Biden win"
     excerpt: "Donald Trump's presidential campaign on Wednesday sued Michigan to block the U.S. state from certifying last week's election results, where the president has trailed Democrat Joe Biden."
     publishedDateTime: 2020-11-11T16:22:00Z
@@ -2206,6 +2222,22 @@ related:
       - url: "https://i.insider.com/5fa411bff7d1cb0019e39f31?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Donations under $8K to Trump ‘election defense’ instead go to president, RNC"
+    excerpt: "As President Donald Trump seeks to discredit last week's election with baseless claims of voter fraud, his team has bombarded his supporters with requests for money to help pay for legal challenges to the results: “The Left will try to STEAL this election!"
+    publishedDateTime: 2020-11-11T22:20:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27R309"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R309"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R309"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540901420&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA1UR"
+        width: 811
+        height: 545
         isCached: true
   - title: "Trump defends Texas drivers who swarmed Biden bus on highway; FBI investigating"
     excerpt: "According to the Biden campaign, the vehicles surrounded the bus trying to slow it down in the middle of the highway or run it off the road."
@@ -4367,6 +4399,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KHQ5TBRBIUI6XLKTJQP5USMQPU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Boris Johnson calls Trump the 'previous president' after an 'extremely exciting' conversation with Joe Biden"
+    excerpt: "The UK prime minister on Wednesday said it was \"refreshing\" to hear Joe Biden \"stick up for NATO\" in their phone call on Tuesday."
+    publishedDateTime: 2020-11-11T22:25:00Z
+    webUrl: "https://www.businessinsider.com/boris-johnson-calls-donald-trump-previous-president-and-praises-biden-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/boris-johnson-calls-donald-trump-previous-president-and-praises-biden-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boris-johnson-calls-donald-trump-previous-president-and-praises-biden-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5fabeafaf24e720018a2ac38?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden reluctant to comment on Trump's health"
     excerpt: "Democratic presidential nominee Joe Biden is declining to comment on President Donald Trump's drive outside of Walter Reed to greet supporters. \"I'm not going to comment on any of his conduct or his health,"

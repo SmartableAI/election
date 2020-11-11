@@ -494,6 +494,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "How Georgia voted: Biden bolstered by big cities, while Trump sees major turnout in rural areas"
+    excerpt: "For the first time in decades, Georgia was a crucial swing state in the presidential race."
+    publishedDateTime: 2020-11-11T21:25:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NBhul2O8FBc/how-georgia-voted-trump-biden-election"
+    ampWebUrl: "https://www.foxnews.com/politics/how-georgia-voted-trump-biden-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/how-georgia-voted-trump-biden-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/2020-Georgia-Voting-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Graham encourages Trump to mount presidential bid in 2024 should election challenges 'fall short'"
     excerpt: "Sen. Lindsey Graham said Monday he would encourage President Trump to consider running again for the White House in 2024 if his efforts challenging the results of the 2020 presidential election \"fall short.\""
     publishedDateTime: 2020-11-09T16:34:51Z
@@ -717,6 +733,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden snagged vast majority of Silicon Valley votes, regional data shows"
+    excerpt: "Nearly three-quarters of regional voters turned out for Biden."
+    publishedDateTime: 2020-11-11T22:05:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1QVVz3KmJrI/biden-won-silicon-valley-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-won-silicon-valley-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-won-silicon-valley-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c45b08f-c341-42d0-9197-8605f61f1988/5c039d53-2a9a-4699-8848-5afb02b4bff3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden family joins president-elect on victory speech stage, Hunter included"
     excerpt: "Ahead of President-elect Joe Biden’s 2020 election victory speech Saturday night, he said his family would be present for the event, raising questions about whether that included his son Hunter would be involved."
@@ -1335,6 +1367,20 @@ related:
       - url: "http://m.wsj.net/video/20201109/110920gopreax2/110920gopreax2_1280x720.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump and Biden Make Separate Veterans Day Appearances"
+    excerpt: "President Trump observed Veterans Day at Arlington National Cemetery, making his first official appearance since the election was called in favor of Joe Biden. As steady rain fell, Mr. Trump visited the Tomb of the Unknown Soldier,"
+    publishedDateTime: 2020-11-11T22:19:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/iXfSuKNfQPRRYUpTEmON"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-258521?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Biden Weighs Legal Action to Force Trump Administration to Recognize Win"
     excerpt: "President-elect Joe Biden’s transition team is considering legal action if the Trump administration doesn’t formalize Mr. Biden’s win and give him access to crucial government resources. The General Services Administration,"

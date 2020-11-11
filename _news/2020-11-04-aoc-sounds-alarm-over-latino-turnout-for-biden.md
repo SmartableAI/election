@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turno
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
 type: article
 quality: 175
-heat: 495
+heat: 535
 published: true
 
 provider:
@@ -110,6 +110,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Turner_Gillian.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Romney refutes rumors he will serve in Biden administration"
+    excerpt: "Sen. Mitt Romney, R-Utah, denied he's been contacted by President-elect Joe Biden to serve in his incoming administration, despite speculation that Biden will attempt to reach across the aisle and choose a prominent Republican to serve in his Cabinet in the spirit of bipartisanship. "
+    publishedDateTime: 2020-11-11T21:31:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T3DzveQwWyo/romney-refutes-rumors-he-will-serve-in-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/romney-refutes-rumors-he-will-serve-in-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-refutes-rumors-he-will-serve-in-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78efc78f-3851-47fe-8b98-54e57206d4c1/f47a57b8-5ad9-4cfc-b30b-578e99b72491/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Progressive groups push Biden to tap Warren, Sanders, Tlaib for Cabinet spots"
+    excerpt: "The President-elect may face a growing ideological split within the Democratic Party."
+    publishedDateTime: 2020-11-11T21:05:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcidXvazWg/progressive-groups-push-biden-cabinet-spots"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-groups-push-biden-cabinet-spots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-groups-push-biden-cabinet-spots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61246049-bb06-4ffe-a863-6d8fc55fd19a/64b0c1c5-010e-4a16-87b7-5d7dc3b2d4fb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Romney is first GOP senator to congratulate Biden on winning presidential race"
     excerpt: "Utah Sen. Mitt Romney became the first GOP senator to congratulate Joe Biden on his win. "

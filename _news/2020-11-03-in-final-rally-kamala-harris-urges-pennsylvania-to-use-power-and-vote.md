@@ -432,6 +432,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Young girls react as Vice President-elect Kamala Harris makes history"
+    excerpt: "President-elect Joe Biden on Tuesday is outlining more details of his transition plan even as President Donald Trump and other top Republicans continue to challenge the results of last week's election."
+    publishedDateTime: 2020-11-10T00:00:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-10-biden-harris-transition-n1247204/ncrd1247212"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1247204"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1247204"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_45/3426834/201107-election-live-blog-main-cover-cs_c1e29142255a740c891255566384f4a8.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Kamala Harris’ ancestral village in Indian celebrates politicians success"
     excerpt: "Kamala Harris’ ancestral village in Indian lit fireworks and played music to celebrate the California politician’s success in the U.S. elections. Harris, who will become Vice President, has Indian and Jamaican heritage,"
     publishedDateTime: 2020-11-09T00:08:00Z

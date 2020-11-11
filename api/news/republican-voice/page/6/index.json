@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-23-biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.md",
+      "title": "Biden will ‘campaign aggressively’ in final stretch, top aide insists",
+      "excerpt": "When it comes to the number of in-person campaign events being held in the White House race, President Trump is lapping Democratic nominee Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7S3hNtXlns/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7S3hNtXlns/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297057827109.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp",
+      "publishedDateTime": "2020-10-23T01:03:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-man-arrested-in-north-carolina-with-van-full-of-guns-explosives-planned-to-assassinate-joe-biden-report.md",
       "title": "Man arrested in North Carolina with van full of guns, explosives, planned to assassinate Joe Biden: Report",
       "excerpt": "A man arrested in North Carolina and being held in jail on child pornography charges allegedly also was plotting to carry out an act of terrorism, including an assassination attempt on Democratic presidential nominee Joe Biden.",
@@ -1610,62 +1666,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-americans-say-trump-vs-biden-most-important-election-in-decades-gallup-poll-finds.md",
-      "title": "Americans say Trump vs. Biden most important election in decades, Gallup poll finds",
-      "excerpt": "A recent Gallup poll found 77% of registered voters said the outcome of the November election between President Trump and Joe Biden matters more to them than prior U.S. elections. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PICO34t4BnY/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PICO34t4BnY/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1419,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp",
-      "publishedDateTime": "2020-10-19T13:59:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

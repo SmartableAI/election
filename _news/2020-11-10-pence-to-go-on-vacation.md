@@ -51,6 +51,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Vice President Mike Pence expected in Sanibel on Tuesday"
+    excerpt: "An FAA alert suggests that Pence's visit will span Tuesday through Saturday. Pence has a long history of vacationing on the island."
+    publishedDateTime: 2020-11-10T05:00:00Z
+    webUrl: "https://www.freep.com/story/news/local/2020/11/10/mike-pence-visiting-lee-county-florida/6226614002/"
+    ampWebUrl: "https://amp.freep.com/amp/6226614002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6226614002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/06/02/PFTM/b0ded584-03ed-4b97-b26a-18363eead202-pence.jpg?auto=webp&crop=599,337,x1,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Pence cancels Sanibel vacation"
     excerpt: "Pence was expected to stay on Sanibel through Saturday. He will reportedly now stay in Washington while President Trump challenges his apparent loss."
     publishedDateTime: 2020-11-10T22:58:00Z

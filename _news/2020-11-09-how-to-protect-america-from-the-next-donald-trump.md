@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-fr
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
 type: article
 quality: 135
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/11/books/review/11Fukuyama-combo/11Fukuyama-combo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Was Reagan a Precursor to Trump? A New Documentary Says Yes"
+    excerpt: "The Reagans,” a new Showtime docu-series, presents Ronald Reagan as an early practitioner of dog-whistle politics. But some historians and journalists disagree with that position."
+    publishedDateTime: 2020-11-11T21:47:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/arts/television/the-reagans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/arts/television/the-reagans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/the-reagans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/arts/11reagans2/11reagans2-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

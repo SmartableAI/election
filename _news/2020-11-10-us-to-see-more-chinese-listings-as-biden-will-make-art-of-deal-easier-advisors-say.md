@@ -25,35 +25,69 @@ topics:
   - Joe Biden
 
 related:
-  - title: "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments"
-    excerpt: "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration."
-    publishedDateTime: 2020-11-08T16:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3748535001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001"
+  - title: "The Health 202: Obamacare may be safer than ever. But Biden will struggle to expand it."
+    excerpt: "Obamacare appears to be on stable ground, after several pivotal Supreme Court justices hinted yesterday they won’t strike it down. Follow the latest on Election 2020 Yet that ground is also politically dry for further attempts by President-elect Joe Biden to expand the law,"
+    publishedDateTime: 2020-11-11T12:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2U4OT7RDTEI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Joe Biden spoke about how Americans 'chose change over more of the same'"
-    excerpt: "Joe Biden spoke to his supporters in Wilmington, Delaware about how Americans \"want the country to come together and not be pulled apart.\""
-    publishedDateTime: 2020-11-07T05:00:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/11/07/election-2020-biden-says-record-number-americans-chose-change/6198577002/"
+  - title: "The Daily 202: Biden won with the weakest coattails in 60 years. That could make him dependent on GOP senators."
+    excerpt: "I haven’t had a chance to speak to Mitch,” Biden told reporters at the Queen theater here. “My expectation is that I will do that in the not-too-distant future. I think that the whole Republican Party has been put in a position,"
+    publishedDateTime: 2020-11-11T15:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/68c7b583-60ef-4302-931a-6bae25e82f21-VPC_BIDEN_SPEAKS_DESK.00_00_18_14.Still001.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFLMPWRDSMI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Doctors say they’re ‘hopeful’ Biden will handle the pandemic better, but ‘disappointed’ that he didn’t win by a landslide"
+    excerpt: "Three doctors spoke to Insider about the projection that Joe Biden has won the election, and what could happen next."
+    publishedDateTime: 2020-11-06T23:23:00Z
+    webUrl: "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fa5d9e31df1d500182196d0?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down"
+    excerpt: "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act."
+    publishedDateTime: 2020-11-10T20:49:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5faac023f7d1cb0019e3ad00?width=1200&format=jpeg"
+        width: 924
+        height: 462
         isCached: true
 
 secured: "6pwluG3mRRthykBFCrV0VVkhQ8tJcUkwG4T+VdekbsfMNuYPF6ApEx3pxhQ7tQTC9XaAoW3dWc1KCky6ePGeYLdOEJEUVi8qXkA9Z2ts4S4NrAtW8KlHo+sPu/BWwtyLnPDuxC464ViHq6YnuaS1tRBbH03Q0lK0JsDQWsBEDl29/9XsJOoBYU+Ie1XwRZL7fGrtsPDEovBHoeVLS/eixpdIcMWDxmJDYMqlfbKfmPpTTqQPUMsGWjkF46I54dGChgS9j9F3S73O2M3CTDeV1Vv7I+VxGJBV0ax+YPXesLacTD2a/kftE6ghCLhTmjlY0bGA4VSrwzYDoBzKz6+zLLZkprA5MgjyqyhJ87qWD1g=;aQYTK3641cXPCD7aKsl/LQ=="

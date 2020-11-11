@@ -59,6 +59,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Vice President Mike Pence expected in Sanibel on Tuesday"
+    excerpt: "An FAA alert suggests that Pence's visit will span Tuesday through Saturday. Pence has a long history of vacationing on the island."
+    publishedDateTime: 2020-11-10T05:00:00Z
+    webUrl: "https://www.freep.com/story/news/local/2020/11/10/mike-pence-visiting-lee-county-florida/6226614002/"
+    ampWebUrl: "https://amp.freep.com/amp/6226614002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6226614002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/06/02/PFTM/b0ded584-03ed-4b97-b26a-18363eead202-pence.jpg?auto=webp&crop=599,337,x1,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence Attends Republican Luncheon"
     excerpt: "United States Vice President Mike Pence walks with Becky Schaaf, Protocol Officer U.S. Senate Sergeant of Arms out of the Republican Policy lunch on Capitol Hill in Washington, DC on Tuesday, November 10,"
     publishedDateTime: 2020-11-10T20:34:00Z

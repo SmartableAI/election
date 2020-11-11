@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-11-the-daily-202-biden-won-with-the-weakest-coattails-in-60-years-that-could-make-him-dependent-on-gop-senators.md",
-      "title": "The Daily 202: Biden won with the weakest coattails in 60 years. That could make him dependent on GOP senators.",
-      "excerpt": "I haven’t had a chance to speak to Mitch,” Biden told reporters at the Queen theater here. “My expectation is that I will do that in the not-too-distant future. I think that the whole Republican Party has been put in a position,",
+      "path": "_news/2020-11-11-the-health-202-obamacare-may-be-safer-than-ever-but-biden-will-struggle-to-expand-it.md",
+      "title": "The Health 202: Obamacare may be safer than ever. But Biden will struggle to expand it.",
+      "excerpt": "Obamacare appears to be on stable ground, after several pivotal Supreme Court justices hinted yesterday they won’t strike it down. Follow the latest on Election 2020 Yet that ground is also politically dry for further attempts by President-elect Joe Biden to expand the law,",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/",
+      "webUrl": "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 197,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFLMPWRDSMI6XHCKBXDCILCICQ.jpg&w=1440",
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2U4OT7RDTEI6XHCKBXDCILCICQ.jpg&w=1440",
           "width": 1440,
           "height": 960,
           "title": null,
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp",
-      "publishedDateTime": "2020-11-11T07:43:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp",
+      "publishedDateTime": "2020-11-11T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -374,7 +374,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10461,
+      "heat": 10521,
       "tags": null,
       "images": [
         {
@@ -427,7 +427,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 130,
       "tags": null,
       "images": [
         {

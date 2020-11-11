@@ -429,6 +429,22 @@ related:
         width: 992
         height: 557
         isCached: true
+  - title: "Vice President-elect Kamala Harris’s husband, Doug, to give up job to help his wife"
+    excerpt: "Doug Emhoff, the 56-year-old husband of Vice President-elect Kamala Harris, will leave his private law practice by Inauguration Day to focus on his role at the White House, a spokesperson said Tuesday."
+    publishedDateTime: 2020-11-11T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/kidspost/kamala-harriss-husband-doug-to-give-up-job-to-help-his-wife/2020/11/11/33c7b170-1e1e-11eb-b532-05c751cd5dc2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/kidspost/kamala-harriss-husband-doug-to-give-up-job-to-help-his-wife/2020/11/11/33c7b170-1e1e-11eb-b532-05c751cd5dc2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/kamala-harriss-husband-doug-to-give-up-job-to-help-his-wife/2020/11/11/33c7b170-1e1e-11eb-b532-05c751cd5dc2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JDJGDOREGUI6XFJOBRDVS4WPYA.jpg&w=1440"
+        width: 1440
+        height: 963
+        isCached: true
   - title: "Kanye West Tweets Video With 'Vote Kanye' Hat on Kamala Harris' Head During VP Debate"
     excerpt: "Kanye West's name will appear on ballots in 11 states, but people have wondered whether his presidential campaign is sincere, a spoiler attempt or just a publicity stunt."
     publishedDateTime: 2020-10-08T06:11:00Z

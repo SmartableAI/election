@@ -2782,6 +2782,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "After Biden Win, Right-Wing Sites Still Push False Vote-Fraud Claims"
+    excerpt: "Biden Jr. had won the 2020 presidential election. Since then a number of right-wing websites have refused to accept Mr. Biden’s victory, backing baseless accusations by President Trump and his allies of a stolen election,"
+    publishedDateTime: 2020-11-11T21:05:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/business/media/right-wing-sites-false-vote-fraud-claims.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/business/media/right-wing-sites-false-vote-fraud-claims.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/business/media/right-wing-sites-false-vote-fraud-claims.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/10/business/10vote-fraud-media-01/merlin_179670546_4f48f4a6-64b8-4d58-9802-619cb8c14709-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "NBC News projects Biden will win Nebraska's Second Congressional District"
     excerpt: "NBC News projects that Joe Biden will win an electoral vote from Nebraska's Second Congressional District in the 2020 presidential race."
     publishedDateTime: 2020-11-04T06:49:00Z
