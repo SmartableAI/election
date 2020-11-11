@@ -47,6 +47,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden transition reveals 'agency review teams' amid spat over transfer of power"
+    excerpt: "The teams are meant to ensure a smooth transfer to the incoming presidential administration."
+    publishedDateTime: 2020-11-11T02:24:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1sdntkJFJY/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42ba2bdd-cc7c-44ce-bc73-a64ff6d608d7/37ae05d5-a334-4987-aa8c-c64e46fc0b31/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden transition argues agency review teams represent 'diversity of ideology and background'"
+    excerpt: "President-elect Joe Biden’s transition team is naming members to its agency review teams in an apparent effort to appeal to progressives – although they can't officially get to work until the General Services Administration under President Trump acknowledges the 2020 election results."
+    publishedDateTime: 2020-11-11T01:51:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FeeG-PicFVo/biden-transition-agency-review-teams"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-agency-review-teams.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-agency-review-teams.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315762900391.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "eUuduzHc3tNlNFyaPR39dMuiGo4LZOH+EPp9xgwidRd0iCetoNcyomjoGiuUtMeA96COoR5tQBNgBcotIMo9thbqkoNvZTutQQY5rkWS3lkYONLk65sOXHTzJD5Ar1dkdUz8r03wMgsAPiqbIWhidQEMAjgl3phulR4Ohd5NKGidFMFy3aQCjYpiXC4F8mqW4u+wY6T6G80RFqAUcEEeWgzWEyHeameQwth6tLIcmEA7fO9FNkMfjojBrxkNHm3BRk+yH+tOPUU44GzOKzDS2Hd3OS/lQP4uAGCU80S8JcoZaAgv5oC6zAAwrG/1q+I9WcwCqh99chxHLUeqUyuvOb4Pvr75b7fIweOfP/Xxbw8=;5o9BA3NsJeiqAnifFCEoDg=="
 ---

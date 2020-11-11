@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump campaign to file lawsuit asking that Michigan election results not be certified"
+    excerpt: "Republican President Donald Trump's campaign said on Tuesday it would file a lawsuit in Michigan requesting the results of the U.S. election in the state not be certified until it could be verified that votes were cast lawfully."
+    publishedDateTime: 2020-11-10T23:46:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Q3FY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q3FY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q3FY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540772722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA923E"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Election 2020 exit polls: Political pundits utterly failed to predict Donald Trump's voters"
     excerpt: "How could the polling be so wrong that it seems Donald Trump gained support among women and racial minorities? There really was a shy Trump voter."
     publishedDateTime: 2020-11-07T10:15:00Z

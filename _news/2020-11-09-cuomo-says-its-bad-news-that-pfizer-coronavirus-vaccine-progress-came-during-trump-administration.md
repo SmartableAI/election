@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Twitter removes Lincoln Project tweet sharing contact info of Trump campaign attorneys"
+    excerpt: "Twitter has removed a malicious tweet from the Lincoln Project that shared the contact information of two attorneys representing the Trump camapign."
+    publishedDateTime: 2020-11-11T00:52:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3-_FJ17vf1I/twitter-lincoln-project-trump-campaign-attorneys"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-lincoln-project-trump-campaign-attorneys.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-lincoln-project-trump-campaign-attorneys.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture-6.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign ballot counting lawsuits: What to know"
     excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
     publishedDateTime: 2020-11-06T00:00:18Z

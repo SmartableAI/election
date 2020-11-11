@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-misleading-ballot-dumps-twitt
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55102a4f-6e35-4349-b50e-83e6b9601442/4036c90d-7074-4064-b8f1-1cd8f013fbc7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Twitter removes Lincoln Project tweet sharing contact info of Trump campaign attorneys"
+    excerpt: "Twitter has removed a malicious tweet from the Lincoln Project that shared the contact information of two attorneys representing the Trump camapign."
+    publishedDateTime: 2020-11-11T00:52:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3-_FJ17vf1I/twitter-lincoln-project-trump-campaign-attorneys"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-lincoln-project-trump-campaign-attorneys.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-lincoln-project-trump-campaign-attorneys.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture-6.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Cuomo says it's 'bad news' that Pfizer coronavirus vaccine progress came during Trump administration"
     excerpt: "New York Gov. Andrew Cuomo said that while it is \"good news\" that Pfizer has had a recent breakthrough in its coronavirus vaccine clinical trial, he believes it is \"bad news\" that the Trump administration will get to plan the distribution."

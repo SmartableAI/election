@@ -304,6 +304,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Melania Trump has not reached out to Jill Biden either"
+    excerpt: "First lady Melania Trump, much like her husband, is operating as though he didn't lose last week's election: She has yet to reach out to first lady-elect Jill Biden, a source familiar told CNN on Tuesday.\n    \n"
+    publishedDateTime: 2020-11-10T23:20:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rOilkF8mfbE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/melania-trump-jill-biden-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/melania-trump-jill-biden-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110170413-melania-trump-jill-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says there shouldn't be a second debate if Trump still has Covid-19"
     excerpt: "Democratic presidential nominee Joe Biden said Tuesday that the second presidential debate should not be held if President Donald Trump is still infected with coronavirus, but that he would base his participation in the debate upon recommendations from medical experts.\n    \n"
     publishedDateTime: 2020-10-07T01:01:06Z
@@ -496,6 +512,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "America's closest allies acknowledge Biden victory even as Trump refuses to concede "
+    excerpt: "America's closest allies are calling to congratulate President-elect Joe Biden even as President Donald Trump refuses to concede the presidential election.\n    \n"
+    publishedDateTime: 2020-11-11T00:44:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qFtjkSiL8xA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/world-leaders-congratulate-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/world-leaders-congratulate-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110161535-world-leaders-congratulate-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Trump duking it out in battleground states as polls close across the country"
     excerpt: "Millions of Americans lined up to add their votes to more than 100 million early ballots Tuesday as President Donald Trump and former Vice President Joe Biden awaited their fates after offering sharply divergent visions for the future amid a Covid-19 pandemic that shows no sign of abating.\n    \n"
     publishedDateTime: 2020-11-04T02:50:59Z
@@ -621,6 +653,22 @@ related:
     quality: 178
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002150006-01-biden-1002-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump asks for 'election defense' donations, but the money also benefits his new leadership PAC"
+    excerpt: "President Donald Trump is planning to establish a leadership PAC, a fundraising arm that could allow him to continue to exert influence in Republican politics even after he leaves office.\n    \n"
+    publishedDateTime: 2020-11-11T00:57:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1184,6 +1232,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump's transition of power delay threatens national security and public safety"
+    excerpt: "President Donald Trump is doing everything he can to obstruct and delay the transition of President-elect Joe Biden to the White House.\n    \n"
+    publishedDateTime: 2020-11-10T23:50:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p-Rh1F8WnE4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-biden-transition-of-power-delay/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-biden-transition-of-power-delay/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110094018-01-donald-trump-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's ousting of officials and elevation of loyalists could have lasting effects"
     excerpt: "President Donald Trump and his allies in the administration are dislodging officials across the government and burrowing loyalists into agencies in a way that could make them difficult for President-elect Joe Biden to remove next year.\n    \n"
     publishedDateTime: 2020-11-10T20:26:18Z
@@ -1552,6 +1616,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump administration removes senior defense officials and installs loyalists, triggering alarm at Pentagon"
+    excerpt: "The Pentagon's top policy official, James Anderson, resigned Tuesday, according to two US defense officials, a day after President Donald Trump fired Secretary of Defense Mark Esper.\n    \n"
+    publishedDateTime: 2020-11-11T00:53:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C3nC7iUGiB4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/pentagon-policy-official-resigns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/pentagon-policy-official-resigns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate Democrat says Republican colleagues are privately asking him to congratulate Biden on winning election because they can't do so publicly"
     excerpt: "Delaware Democratic Sen. Chris Coons said Tuesday his Republican colleagues are privately asking him to congratulate President-elect Joe Biden on winning the election because they can't do so publicly.\n    \n"
     publishedDateTime: 2020-11-10T15:01:01Z
@@ -1887,6 +1967,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/08/us/politics/08biden-voters1/08biden-voters1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Fighting Election Results, Trump Employs a New Weapon: The Government"
+    excerpt: "As President Trump and his administration insist he didn’t lose, the rest of the world has increasingly moved to accept Joe Biden’s victory."
+    publishedDateTime: 2020-11-11T00:44:00Z
+    webUrl: "https://www.nytimes.com/2020/11/10/us/politics/trump-election-results.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/10/us/politics/trump-election-results.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/us/politics/trump-election-results.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/10/us/politics/10dc-trump-power/10dc-trump-power-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."
@@ -2493,6 +2589,38 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/09/arts/09biden-artist-ad4/09biden-artist-ad4-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Biden Speaks to European Allies as Strongmen Stay Silent on U.S. Vote"
+    excerpt: "The president-elect’s calls with four Western European leaders signaled a return to diplomatic normalcy and their support for his election win."
+    publishedDateTime: 2020-11-11T00:53:00Z
+    webUrl: "https://www.nytimes.com/2020/11/10/us/politics/biden-european-allies-foreign-policy.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/10/us/politics/biden-european-allies-foreign-policy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/us/politics/biden-european-allies-foreign-policy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/10/us/politics/10dc-bidencalls/10dc-bidencalls-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Here are the world leaders who have congratulated Biden"
+    excerpt: "CNN's Brian Todd reports on reactions from leaders of US allies around the world to President-elect Joe Biden's victory in the 2020 election, from those who congratulated him to those who haven't."
+    publishedDateTime: 2020-11-11T00:44:00Z
+    webUrl: "https://www.cnn.com/videos/world/2020/11/10/world-leaders-congratulate-president-elect-biden-trump-todd-tsr-dnt-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2020/11/10/world-leaders-congratulate-president-elect-biden-trump-todd-tsr-dnt-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2020/11/10/world-leaders-congratulate-president-elect-biden-trump-todd-tsr-dnt-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163403-01-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "NBC News projects Biden will win Nebraska's Second Congressional District"
     excerpt: "NBC News projects that Joe Biden will win an electoral vote from Nebraska's Second Congressional District in the 2020 presidential race."

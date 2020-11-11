@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Black voters and simmering protests contributed to Trump's loss"
+    excerpt: "\"Trump: You're fired! Democracy saved! Thanks, Black voters!\"\n    \n"
+    publishedDateTime: 2020-11-10T22:14:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BapLtz6FTKM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/alicia-garza-black-lives-matter-election-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/alicia-garza-black-lives-matter-election-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605194819-03-black-lives-matter-painted-dc-street-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Growing Discomfort at Law Firms Representing Trump in Election Lawsuits"
     excerpt: "Some lawyers at Jones Day and Porter Wright, which have filed suits about the 2020 vote, said they were worried about undermining the electoral system."
     publishedDateTime: 2020-11-09T22:52:00Z

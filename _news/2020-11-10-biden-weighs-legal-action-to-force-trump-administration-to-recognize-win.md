@@ -206,6 +206,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden team can’t get intelligence reports until Trump concedes"
+    excerpt: "The General Services Administration must first ascertain the winner of the election before providing intelligence briefings to the next administration."
+    publishedDateTime: 2020-11-11T00:01:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JxO6Reicdbg/biden-team-cant-get-intelligence-reports-until-trump-concedes-says-national-intelligence-directors-office"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-cant-get-intelligence-reports-until-trump-concedes-says-national-intelligence-directors-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-cant-get-intelligence-reports-until-trump-concedes-says-national-intelligence-directors-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315708083434-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump 'undermining' his legal team with claims of stolen election: Turley"
     excerpt: "President Trump needs to \"tap down the rhetoric\" about claims of Democrats stealing the election, Fox News contributor Jonathan Turley argued Friday."
     publishedDateTime: 2020-11-06T15:16:07Z
@@ -558,6 +574,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden wins presidency but struggles with these voters"
+    excerpt: "Former Vice President Joe Biden may have crossed the Electoral College threshold to win the 2020 presidential race – but he did so while losing support from some demographics that Democrats had expected to help carry them to a landslide victory."
+    publishedDateTime: 2020-11-11T02:15:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xIRsx6cOSgA/biden-wins-presidency-struggles-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-wins-presidency-struggles-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wins-presidency-struggles-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315765327815.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump warns Dems aiming to take the Senate, double downs on final victory"
     excerpt: "President Trump took to Twitter early Friday to warn his followers that Democrats have their sights set on winning the Senate, but vowed that Republicans would ultimately prevail, despite what looked like an uphill climb."
     publishedDateTime: 2020-11-06T08:50:35Z
@@ -718,6 +750,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rubio, defeated in 2016 presidential bid, says Trump would be frontrunner in 2024"
+    excerpt: "Sen. Marco Rubio, who lost to President Trump in his 2016 White House bid, said Trump would likely clear the field again if he needed to run for a comeback second term in 2024."
+    publishedDateTime: 2020-11-11T00:08:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7no2jXBuGVE/rubio-says-trump-would-again-be-frontrunner-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-says-trump-would-again-be-frontrunner-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-says-trump-would-again-be-frontrunner-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb29866c-2b95-48fc-a56b-01a88cc60f21/126b8d97-2ce4-4707-9d37-9343a2d7451d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign predicts victory as early as Friday: 'Donald Trump is alive and well'"
     excerpt: "President Trump's campaign remained confident Thursday, predicting not only that the incumbent Republican will win the 2020 election, but that the result could become apparent as soon as Friday."
     publishedDateTime: 2020-11-05T17:51:50Z
@@ -781,6 +829,20 @@ related:
       - url: "https://images.wsj.net/im-257774/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Biden's lead over Trump in Arizona drops below 15K votes, but comeback unlikely: report"
+    excerpt: "The Fox News Decision Desk projected a Biden victory in Arizona on Nov. 3"
+    publishedDateTime: 2020-11-11T00:50:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lv7ljIpXwnc/biden-lead-trump-arizona-15k-comeback-unlikely"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Biden-Presser-AP-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Hunter Biden allegations likely why Obama didn’t encourage Biden to run for president: Sen. Johnson"
     excerpt: "The allegations against Hunter Biden are likely the reason why former President Obama “did not encourage the vice president to run” for president, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Sunday Morning Futures” in an exclusive interview."
@@ -1003,6 +1065,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-257208/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden Says Standoff With Trump Administration Won’t Stop Transition"
+    excerpt: "Joe Biden called President Trump’s unwillingness to concede the election an “embarrassment” but said it wouldn’t impede his White House transition, despite a standoff with the administration that is preventing the president-elect’s team from accessing key resources."
+    publishedDateTime: 2020-11-11T00:19:00Z
+    webUrl: "https://www.wsj.com/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649"
+    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-257774/social"
         width: 1280
         height: 640
         isCached: true

@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump campaign to file lawsuit asking that Michigan election results not be certified"
+    excerpt: "Republican President Donald Trump's campaign said on Tuesday it would file a lawsuit in Michigan requesting the results of the U.S. election in the state not be certified until it could be verified that votes were cast lawfully."
+    publishedDateTime: 2020-11-10T23:46:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Q3FY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q3FY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q3FY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540772722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA923E"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Why Donald Trump isn't Al Gore: How 2020 legal challenges to the election differ from 2000"
     excerpt: "What happened two decades ago in Florida in the race between George Bush and Al Gore is far from what's happening in 2020, legal experts say."
     publishedDateTime: 2020-11-09T21:44:00Z

@@ -681,6 +681,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden and Democrats push back against Trump and Republicans’ recalcitrance over election results"
+    excerpt: "The president-elect, still attempting to be a soothing presence, calls the president’s behavior “an embarrassment” and says the GOP will turn around after he departs."
+    publishedDateTime: 2020-11-11T01:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-transition-trump/2020/11/10/c88ed8de-236d-11eb-8672-c281c7a2c96e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-transition-trump/2020/11/10/c88ed8de-236d-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-transition-trump/2020/11/10/c88ed8de-236d-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 142
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RCA4TYRDSMI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Live Election Day coverage: Trump, Biden will both spend election night at home as results roll in"
     excerpt: "The polls are open. We have live updates of Election Day 2020 news from across the U.S. as the nation awaits the results of Trump vs Biden."
     publishedDateTime: 2020-11-03T20:39:00Z
@@ -2303,6 +2319,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump mounts legal assault as Barr authorizes probes of vote irregularities"
+    excerpt: "President Donald Trump will push ahead on Tuesday with legal challenges to the results of last week's election after U.S. Attorney General William Barr told federal prosecutors to look into any \"substantial\" allegations of voting irregularities."
+    publishedDateTime: 2020-11-10T16:57:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27Q0L2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540689619&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90W6"
+        width: 796
+        height: 545
+        isCached: true
   - title: "Lawyers favor Biden in campaign donations, including Trump's re-election firm"
     excerpt: "Lawyers at Jones Day, a firm that has earned millions of dollars as outside counsel to U.S. President Donald Trump's re-election campaign, have donated nearly $90,000 to his Democratic rival Joe Biden's campaign since last year compared to $50 to Trump's campaign,"
     publishedDateTime: 2020-10-21T18:22:00Z
@@ -3636,20 +3668,36 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "'Nothing's going to stop' transition of power in U.S., Biden says"
-    excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, even as President Donald Trump says without evidence the election was marred by fraud and some of his Republican allies back probes."
-    publishedDateTime: 2020-11-10T22:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/nothings-going-to-stop-handover-of-power-in-us-biden-says-idUSKBN27Q0LI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0LI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+  - title: "Biden hails progress on COVID-19 vaccine, White House seeks credit"
+    excerpt: "President-elect Joe Biden hailed Pfizer Inc's progress toward a COVID-19 vaccine on Monday but urged Americans to wear masks because it may not be widely available for many months, as President Donald Trump's administration tried to claim credit."
+    publishedDateTime: 2020-11-10T22:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/wrapup-4-biden-focuses-on-us-coronavirus-pandemic-and-hails-vaccine-progress-idUSL1N2HV0HT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P12Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P12Z"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540755709&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91WM"
-        width: 823
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540574554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81DO"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "'Nothing's going to stop' transition of power in U.S., Biden says"
+    excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, even as President Donald Trump says without evidence the election was marred by fraud and some of his Republican allies back probes."
+    publishedDateTime: 2020-11-11T02:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idCAKBN27Q0LI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27Q0LI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27Q0LI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540785215&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA029"
+        width: 817
         height: 545
         isCached: true
   - title: "Ukraine eyes seat at Biden inauguration despite impeachment saga"
@@ -3903,22 +3951,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump mounts legal assault as Barr authorizes probes of vote irregularities"
-    excerpt: "President Donald Trump will push ahead on Tuesday with legal challenges to the results of last week's election after U.S. Attorney General William Barr told federal prosecutors to look into any \"substantial\" allegations of voting irregularities."
-    publishedDateTime: 2020-11-10T16:57:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27Q0L2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540689619&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90W6"
-        width: 796
-        height: 545
-        isCached: true
   - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
     excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
     publishedDateTime: 2020-11-02T22:53:00Z
@@ -4029,6 +4061,22 @@ related:
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540443756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70M2"
         width: 821
+        height: 545
+        isCached: true
+  - title: "Nearly 80% of Americans say Biden won White House, ignoring Trump's refusal to concede - Reuters/Ipsos poll"
+    excerpt: "Nearly 80% of Americans, including more than half of Republicans, recognize President-elect Joe Biden as the winner of the Nov. 3 election after most media organizations called the race for the Democrat based on his leads in critical battleground states,"
+    publishedDateTime: 2020-11-10T23:46:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-poll-idUKKBN27Q3DW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Q3DW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Q3DW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540770459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA922T"
+        width: 817
         height: 545
         isCached: true
   - title: "Here are the GOP and Trump campaign’s allegations of election irregularities. So far, none have been proved."
@@ -4862,6 +4910,22 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/09/whatsapp-image-2020-11-07-at-7.26.46-pm-900x600_wide-dfefa0122d9d2100b5358812f8f18d6d6becf585.jpeg?s=1400"
         width: 900
         height: 506
+        isCached: true
+  - title: "As states press forward with vote counts, Trump advisers privately express pessimism about heading off Biden’s win"
+    excerpt: "Even the president’s most publicly pugilistic advisers are concerned about the lack of evidence of widespread electoral fraud."
+    publishedDateTime: 2020-11-11T01:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-challenges-state-count/2020/11/10/45148fac-2378-11eb-8672-c281c7a2c96e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-challenges-state-count/2020/11/10/45148fac-2378-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-challenges-state-count/2020/11/10/45148fac-2378-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/674ACOBDWEI6XBTSYKA4PIWJNY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "The Ultimate Donald Trump Mystery That Couldn’t Be Solved Before Election Day"
     excerpt: "A s Americans vote today, they do so with a limited view of Donald Trump’s finances—especially at one project, the Trump International Hotel & Tower in Chicago, which offers the prospect of shedding light on many questions: who the president owes money to,"

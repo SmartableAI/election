@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1KP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540597472&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81PZ"
         width: 818
         height: 545
+        isCached: true
+  - title: "Trump loyalists get top Pentagon jobs after Esper firing"
+    excerpt: "Three staunch loyalists to the president have been named to top defense jobs just a day after President Donald Trump fired Defense Secretary Mark Esper"
+    publishedDateTime: 2020-11-11T00:12:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/trump-loyalists-get-top-pentagon-jobs-after-esper-firing/2020/11/10/9287323c-23b2-11eb-9c4a-0dc6242c4814_story.html?amp%3Butm_medium=referral&amp%3Butm_campaign=wp_world"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-loyalists-get-top-pentagon-jobs-after-esper-firing/2020/11/10/9287323c-23b2-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-loyalists-get-top-pentagon-jobs-after-esper-firing/2020/11/10/9287323c-23b2-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump and Pence celebrate Pfizer's COVID-19 vaccine success, but the government didn't fund its development"
     excerpt: "The US government has ordered 100 milion doses of the vaccine, which will not be immediately distributed as it must still be evaulated by the FDA."
