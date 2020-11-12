@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "More New Yorkers Voted for Donald Trump in 2020 Than in 2016"
+    excerpt: "The Republican president received tens of thousands more votes in New York City in the 2020 presidential election than in 2016, and some of his largest gains came from the South Bronx."
+    publishedDateTime: 2020-11-12T13:05:00Z
+    webUrl: "https://www.wsj.com/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+    ampWebUrl: "https://www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-258710/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Ice Cube lashes out at 'SNL' for implying he's voting for Trump out of 'greed'"
     excerpt: "Ice Cube lashed out at “Saturday Night Live” for mocking him during its Halloween episode cold open about working with Donald Trump."
     publishedDateTime: 2020-11-03T20:20:00Z

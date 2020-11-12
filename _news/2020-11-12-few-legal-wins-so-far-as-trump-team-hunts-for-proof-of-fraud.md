@@ -2239,6 +2239,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden ignores Trump to build team; eyes on pandemic as hospitalizations soar"
+    excerpt: "President-elect Joe Biden will press on with building his governing team on Thursday, ignoring President Donald Trump's refusal to accept defeat."
+    publishedDateTime: 2020-11-12T14:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27Q0L2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540931667&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA16Q"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Donations under $8K to Trump ‘election defense’ instead go to president, RNC"
     excerpt: "As President Donald Trump seeks to discredit last week's election with baseless claims of voter fraud, his team has bombarded his supporters with requests for money to help pay for legal challenges to the results: “The Left will try to STEAL this election!"
     publishedDateTime: 2020-11-12T03:31:00Z
@@ -4115,6 +4131,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "NYT’s White House reporter Maggie Haberman has deal for Trump book"
+    excerpt: "One of the top chroniclers of the Trump administration, New York Times White House reporter Maggie Haberman, has a book deal, coming out 2022."
+    publishedDateTime: 2020-11-12T14:32:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/11/12/maggie-haberman-nyt-reporter-has-deal-donald-trump-book/6262777002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6262777002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6262777002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/2f98eb9c-ce0c-4e84-a4ae-c90d97d0f92a-AP_Books-Maggie-Haberman.jpg?auto=webp&crop=2999,1687,x0,y227&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "State Dept. sets business-as-usual course while ignoring Biden"
     excerpt: "The agency won’t deliver congratulatory messages to the president-elect from foreign leaders until the General Services Administration gives the go-ahead."
     publishedDateTime: 2020-11-12T00:11:00Z
@@ -4275,6 +4307,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Britain's Boris Johnson refers to Trump as America's 'previous president'"
+    excerpt: "As President Donald Trump refuses to concede to Joe Biden, Britain's Boris Johnson labels Trump America's 'previous president.'"
+    publishedDateTime: 2020-11-12T14:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/11/12/boris-johnson-donald-trump-previous-president/6262094002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6262094002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6262094002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/24/USAT/88d25c16-f7c7-44aa-9390-378b74589df2-AP_Trump.JPG?auto=webp&crop=5259,2958,x0,y163&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
     excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
     publishedDateTime: 2020-11-03T03:04:00Z
@@ -4413,6 +4461,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/8b4d91cf-761f-43d2-a42f-9dbd9ac1cdb1-AP_Election_2020_Biden_2.jpg?auto=webp&crop=3650,2054,x0,y185&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Upset and refusing to accept the election results, Trump appears to have forgotten he still has to govern"
+    excerpt: "President Donald Trump's keen focus on his reelection loss has placed the US at a standstill without proper governance."
+    publishedDateTime: 2020-11-12T13:23:00Z
+    webUrl: "https://www.businessinsider.com/upset-election-results-trump-seem-forget-he-still-has-govern-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/upset-election-results-trump-seem-forget-he-still-has-govern-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/upset-election-results-trump-seem-forget-he-still-has-govern-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
     excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
@@ -7220,6 +7284,20 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229449886.jpg?itok=YK9SWsij"
         width: 840
         height: 560
+        isCached: true
+  - title: "Republican power is up for grabs in the post-Trump world. Here are the 16 GOP power centers that Joe Biden will have to contend with."
+    excerpt: "Trump may leave the White House in January, but don't expect him or his allies to vanish into the night. Some Republicans will make things difficult for Biden, but a few may work across the aisle."
+    publishedDateTime: 2020-11-12T13:22:00Z
+    webUrl: "https://www.businessinsider.com/biden-administration-republicans-trump-murkowski-collins-romney-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5fabf878f7d1cb0019e3b115?width=600&format=jpeg&auto=webp"
+        width: 600
+        height: 450
         isCached: true
   - title: "Trump, Biden fight for Black votes as racial anger riles country, campaign"
     excerpt: "TOP STORIES Biden sweeps Trump in Dixville Notch, N.H. Why we enthusiastically endorse Donald J. Trump for reelection Biden campaign: 'Under no scenario' will Donald Trump be declared a winner on ..."

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-12-elders-group-of-ex-leaders-founded-by-mandela-urges-trump-to-accept-defeat.md",
+      "title": "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat",
+      "excerpt": "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540980986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB177",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S20C",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C",
+      "publishedDateTime": "2020-11-12T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-a-biden-covid-19-advisor-called-for-a-national-lockdown-lasting-up-to-6-weeks-the-us-had-a-big-pool-of-money-to-pay-for-any-lost-wages-he.md",
       "title": "A Biden COVID-19 advisor called for a national lockdown lasting up to 6 weeks. The US had a 'big pool of money' to pay for any lost wages, he said.",
       "excerpt": "Dr. Michael Osterholm said the US had a \"big pool of money\" that could get the economy back on track during lockdown while a vaccine rolls out.",
@@ -667,7 +719,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 298,
+      "heat": 318,
       "tags": null,
       "images": [
         {
@@ -1301,58 +1353,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-parler-mewe-gab-gain-momentum-as-conservative-social-media-alternatives-in-post-trump-age.md",
-      "title": "Parler, MeWe, Gab gain momentum as conservative social media alternatives in post-Trump age",
-      "excerpt": "The rise of conservative-friendly platform Parler raises the specter of further political polarization through digital means.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2020/11/11/parler-mewe-gab-social-media-trump-election-facebook-twitter/6232351002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2020/11/11/parler-mewe-gab-social-media-trump-election-facebook-twitter/6232351002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/18/USAT/8c399606-d7e9-41de-bdad-fa14b9a11576-AP_Election_2020_Social_Media.jpg?auto=webp&crop=2050,1154,x0,y50&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6232351002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6232351002",
-      "publishedDateTime": "2020-11-11T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

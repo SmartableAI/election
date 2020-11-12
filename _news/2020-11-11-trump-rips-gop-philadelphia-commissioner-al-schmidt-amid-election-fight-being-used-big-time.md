@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-rips-gop-philadelphia-commiss
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time.amp"
 type: article
 quality: 178
-heat: 298
+heat: 318
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump campaign appeals Philadelphia vote decision, alleging incomplete ballots were counted"
+    excerpt: "The Trump campaign is appealing after the Philadelphia County Board of Elections denied its objection to the counting of thousands of ballots that the campaign said should have been rejected under state law."
+    publishedDateTime: 2020-11-12T14:13:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AK5mLpy7N4E/trump-campaign-appeals-philadelphia-ballot-counting-decision"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-appeals-philadelphia-ballot-counting-decision.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-appeals-philadelphia-ballot-counting-decision.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04d67219-519c-45e6-b6f0-8f07602500ef/81f2d39a-1708-4498-8539-cf0620da8e66/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Philadelphia mayor tells Trump to 'put his big boy pants on' and concede, even as key states remain uncalled"
     excerpt: "Philadelphia Mayor Jim Kenney on Friday had some harsh words for President Trump, urging him to “put his big boy pants on” and “acknowledge the fact that he lost,” despite races not being called in key battleground states, including Pennsylvania, and neither he nor Democratic nominee Joe Biden having"

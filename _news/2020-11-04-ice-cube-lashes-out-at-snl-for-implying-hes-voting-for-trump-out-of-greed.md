@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "More New Yorkers Voted for Donald Trump in 2020 Than in 2016"
+    excerpt: "The Republican president received tens of thousands more votes in New York City in the 2020 presidential election than in 2016, and some of his largest gains came from the South Bronx."
+    publishedDateTime: 2020-11-12T13:05:00Z
+    webUrl: "https://www.wsj.com/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+    ampWebUrl: "https://www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-258710/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "MNVUBHKq5UocsY43P7a10CZrpTc5HO+7LFvjdp5GY7i0NvrWgY02xCX2Z7z4DSIQ6hxTk0Wi8GidU7cTbj2fL7ROCwpshtIiy7yFdilmYjJNWDeOFlXxjhxxrab1/QgTpTBn1sBYmqu8Tz/KD0r6jmebcyZixd0eLtpXvsjeDZDTW60u482ZSiLz9RWFiBM2aiXuMzx0HJTavLViO0phh5iaEn7g6YMMD+srCwgTFlBoh5D1KiJboirkVPU1NT+Rygr+immDnZfCJtmFQXdZm0WzuEjKUN55MAMdlHvygD03DEGJpt3o+MVpsQBan4ZNoWpAz7beAwqDuVUbj5Ghq8nfdQTd4pXFPN6E+DNQDpQ=;oa7QxKiTyZ3aKzn936GK8Q=="
 ---

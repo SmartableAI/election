@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ohio Governor DeWine on COVID-19 surge, Trump's handling of pandemic"
+    excerpt: "Ohio Governor Mike DeWine joins \"CBS This Morning\" to discuss the surge in COVID-19 cases in his state, Ohio's safety measures and President Trump's handling of the pandemic."
+    publishedDateTime: 2020-11-12T14:12:00Z
+    webUrl: "https://www.cbsnews.com/video/ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/12/0f65d96a-bfad-4897-b3ab-b9c13583cbee/thumbnail/1200x630/587b03637ada4a8fdfbc5424e83db1e2/cbsn-fusion-ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic-thumbnail-586552-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Twitter Reacts To Melania Trump Voting With No Mask After Contracting COVID-19: ‘Disrespectful'"
     excerpt: "Melania Trump voted in Florida without a mask on Tuesday, and Twitter is not happy. Some netizens pointed out that it was \"disrespectful\" of her to ditch a face covering after having contracted COVID-19 herself."
     publishedDateTime: 2020-11-04T08:06:00Z

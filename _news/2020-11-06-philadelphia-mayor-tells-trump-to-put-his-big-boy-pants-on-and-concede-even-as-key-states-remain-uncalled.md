@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign appeals Philadelphia vote decision, alleging incomplete ballots were counted"
+    excerpt: "The Trump campaign is appealing after the Philadelphia County Board of Elections denied its objection to the counting of thousands of ballots that the campaign said should have been rejected under state law."
+    publishedDateTime: 2020-11-12T14:13:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AK5mLpy7N4E/trump-campaign-appeals-philadelphia-ballot-counting-decision"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-appeals-philadelphia-ballot-counting-decision.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-appeals-philadelphia-ballot-counting-decision.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04d67219-519c-45e6-b6f0-8f07602500ef/81f2d39a-1708-4498-8539-cf0620da8e66/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "PA GOP leaders urge people to 'relax,' report fraud concerns to law enforcement amid Trump campaign objections"
     excerpt: "Top Pennsylvania Republicans, speaking with the press on Friday, urged people to \"relax\" as tensions run high in the battleground state and President Trump's campaign makes allegations of potential election-related wrongdoing, specifically in Philadelphia. "
     publishedDateTime: 2020-11-06T21:49:25Z

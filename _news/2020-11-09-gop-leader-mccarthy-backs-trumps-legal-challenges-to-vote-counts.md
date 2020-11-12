@@ -248,6 +248,22 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Trump Faces Legal Cases After White House Departure"
+    excerpt: "Trump is set to lose protections of the presidency as he deals with a criminal investigation in Manhattan, a New York state attorney general civil probe into alleged fraud and multiple lawsuits."
+    publishedDateTime: 2020-11-12T14:14:00Z
+    webUrl: "https://www.wsj.com/articles/trump-faces-legal-cases-after-white-house-departure-11605189609"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-faces-legal-cases-after-white-house-departure-11605189609"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-faces-legal-cases-after-white-house-departure-11605189609"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-254487?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Gingrich Says Trump Commitment to Election Legal Battle Has Intensified"
     excerpt: "Former House Speaker Newt Gingrich, a vocal proponent of the Trump campaign's continuing efforts to fight the election outcome, said President Trump's commitment to the legal battle has only intensified in recent days."
     publishedDateTime: 2020-11-10T02:34:00Z

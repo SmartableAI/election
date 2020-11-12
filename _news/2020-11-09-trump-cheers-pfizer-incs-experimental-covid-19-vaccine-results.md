@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1KP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ohio Governor DeWine on COVID-19 surge, Trump's handling of pandemic"
+    excerpt: "Ohio Governor Mike DeWine joins \"CBS This Morning\" to discuss the surge in COVID-19 cases in his state, Ohio's safety measures and President Trump's handling of the pandemic."
+    publishedDateTime: 2020-11-12T14:12:00Z
+    webUrl: "https://www.cbsnews.com/video/ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/12/0f65d96a-bfad-4897-b3ab-b9c13583cbee/thumbnail/1200x630/587b03637ada4a8fdfbc5424e83db1e2/cbsn-fusion-ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic-thumbnail-586552-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Twitter Reacts To Melania Trump Voting With No Mask After Contracting COVID-19: ‘Disrespectful'"
     excerpt: "Melania Trump voted in Florida without a mask on Tuesday, and Twitter is not happy. Some netizens pointed out that it was \"disrespectful\" of her to ditch a face covering after having contracted COVID-19 herself."

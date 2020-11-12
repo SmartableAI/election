@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-12-elders-group-of-ex-leaders-founded-by-mandela-urges-trump-to-accept-defeat.md",
+      "title": "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat",
+      "excerpt": "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540980986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB177",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S20C",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C",
+      "publishedDateTime": "2020-11-12T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-election-2020-live-updates-bolton-says-republicans-coddling-trump-georgia-will-do-hand-recount.md",
       "title": "Election 2020 live updates: Bolton says Republicans 'coddling' Trump; Georgia will do hand recount",
       "excerpt": "Both Trump and Biden took part in Veterans Day ceremonies Wednesday. Biden continues the transition process as Trump contests the election.",
@@ -1033,7 +1085,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1085,7 +1137,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10861,
+      "heat": 10961,
       "tags": null,
       "images": [
         {
@@ -1323,58 +1375,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-voices-from-the-fight-an-oral-history-of-the-four-year-movement-to-defeat-donald-trump.md",
-      "title": "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump",
-      "excerpt": "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
-      "originalUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-08T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

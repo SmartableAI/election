@@ -814,6 +814,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ronald Klain, Biden's new chief of staff, raises eyebrows with 2014 tweet saying elections are 'rigged'"
+    excerpt: "President-elect Biden's newly announced pick for White House chief of staff is raising eyebrows over a 2014 tweet that suggests elections are \"rigged.\""
+    publishedDateTime: 2020-11-12T13:04:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZdZOjh1xPc/ronald-klain-bidens-wh-chief-of-staff-raises-eyebrows-with-2014-tweet-saying-elections-are-rigged"
+    ampWebUrl: "https://www.foxnews.com/politics/ronald-klain-bidens-wh-chief-of-staff-raises-eyebrows-with-2014-tweet-saying-elections-are-rigged.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronald-klain-bidens-wh-chief-of-staff-raises-eyebrows-with-2014-tweet-saying-elections-are-rigged.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Screen-Shot-2020-11-11-at-9.47.20-PM.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump slams delay in North Carolina vote count, presses for Arizona audit"
+    excerpt: "President Trump on Thursday slammed the delay in counting votes from the 2020 presidential election in North Carolina — a state that has yet to declare the president or Joe Biden the winner — while urging an audit in Arizona, as he and his campaign continue to fight for recounts and mount legal battles"
+    publishedDateTime: 2020-11-12T14:14:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5XPiMn-N8y4/trump-slams-north-carolina-election-delay-vote-count-arizona-audit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden family joins president-elect on victory speech stage, Hunter included"
     excerpt: "Ahead of President-elect Joe Biden’s 2020 election victory speech Saturday night, he said his family would be present for the event, raising questions about whether that included his son Hunter would be involved."
     publishedDateTime: 2020-11-08T02:57:34Z

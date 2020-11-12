@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-09-south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same-consideration.md",
+      "title": "South Dakota Gov. Noem: Al Gore got his day in court -- Trump deserves the same consideration",
+      "excerpt": "South Dakota Gov. Kristi Noem urged the country to “afford the 70.6 million Americans that voted for President Trump the same consideration\" provided to former vice president Al Gore in the 2000 legal battle that resulted in a Supreme Court decision and a George W. Bush victory. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3NPbvsCk-Vc/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3NPbvsCk-Vc/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4689ca75-6f39-4bbe-b645-17162d916614/67040cce-933e-44d7-9ff7-b525665743e4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/south-dakota-gov-noem-al-gore-got-his-day-in-court-trump-deserves-the-same.amp",
+      "publishedDateTime": "2020-11-08T18:13:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-trump-campaign-holds-protest-in-las-vegas-to-decry-irregularities-claim-dead-people-non-nevadans-voted.md",
       "title": "Trump campaign holds protest in Las Vegas to decry irregularities, claim ‘dead people,’ non-Nevadans voted",
       "excerpt": "The Trump campaign held a Sunday afternoon press conference outside the Clark County Elections Department in Las Vegas to denounce alleged irregularities in last week’s election.  ",
@@ -675,58 +731,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-voices-from-the-fight-an-oral-history-of-the-four-year-movement-to-defeat-donald-trump.md",
-      "title": "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump",
-      "excerpt": "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
-      "originalUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-08T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

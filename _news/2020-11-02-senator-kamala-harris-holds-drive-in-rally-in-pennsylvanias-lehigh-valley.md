@@ -67,6 +67,22 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "California Senate sweepstakes: Who gets Kamala Harris' job?"
+    excerpt: "Election Day is over but California already is consumed with its next high-profile political contest — the competition to fill Kamala Harris’ soon-to-be-vacant U.S. Senate seat. In this race only one vote matters,"
+    publishedDateTime: 2020-11-12T14:10:00Z
+    webUrl: "https://www.chron.com/news/article/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+    ampWebUrl: "https://www.chron.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
     excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
     publishedDateTime: 2020-11-10T02:38:00Z
@@ -174,6 +190,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "California Senate sweepstakes: Who gets Kamala Harris’ job? | Charlotte Observer"
+    excerpt: "Sen. Kamala Harris’ ascendancy to the vice presidency next year has left California with a tantalizing question: Who will replace her in the Senate."
+    publishedDateTime: 2020-11-12T14:35:00Z
+    webUrl: "https://www.charlotteobserver.com/news/article247142269.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/article247142269.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article247142269.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 50
   - title: "Senator Kamala Harris Holds Canvas Kick Off Event in Luzerne County, Pennsylvania"
     excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County, Pennsylvania. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County,"
     publishedDateTime: 2020-11-02T17:36:00Z

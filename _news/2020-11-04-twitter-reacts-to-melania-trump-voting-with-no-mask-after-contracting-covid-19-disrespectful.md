@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ohio Governor DeWine on COVID-19 surge, Trump's handling of pandemic"
+    excerpt: "Ohio Governor Mike DeWine joins \"CBS This Morning\" to discuss the surge in COVID-19 cases in his state, Ohio's safety measures and President Trump's handling of the pandemic."
+    publishedDateTime: 2020-11-12T14:12:00Z
+    webUrl: "https://www.cbsnews.com/video/ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/12/0f65d96a-bfad-4897-b3ab-b9c13583cbee/thumbnail/1200x630/587b03637ada4a8fdfbc5424e83db1e2/cbsn-fusion-ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic-thumbnail-586552-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qvxnBOM2CSFUSPAw6Q4aHsgAQkLsF/NM3TR9VwsC47s202uXu7ws/rZ0Rz0SL7c6nKBbOLYteMvtuX7fuldQNS20NsFF0zxTd9pjEN99hcPs4LekWw2/+4Iqr/w3+tcUrSDgaJr/fhMNrlGld/GngfdYSewrF/IlUOrowY87+Ss5A7IezvIWygV8HSTdHV9y/enMz7DGsIEWN2xmUa9dez3wok5q7u4aOXlLJcRffzWDZMHiAEPKnLI93ItdkDk8PBQxVfKOuLInQ4Wnz2T+J6KtU8O+dQ89g/MAQEazH2dF3EbiJHGpKIvmAQvKV8B7fVYZfwe+ROFDYMEJVIluLcGtaJIj/uLccrl8ChAqdJI=;jzmrlxEuvpP8qVvq5TPnZw=="
 ---
