@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 4774
+heat: 4794
 published: true
 
 provider:
@@ -2268,6 +2268,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201023&i=OVD17UBJ3&r=OVD17UBJ3&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "The Top 5 Richest Backers Of Donald Trump"
+    excerpt: "During the second presidential debate last week, President Donald Trump and former Vice President Joe Biden argued (among many things) over who was more embedded in Wall Street. Biden accused ..."
+    publishedDateTime: 2020-10-28T00:01:00Z
+    webUrl: "https://www.forbes.com/sites/arielshapiro/2020/10/30/the-top-5-richest-backers-of-donald-trump-adelson-hendricks-peterffy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c38449f0f13c197c2b6c7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4200%26cropY1%3D40%26cropY2%3D2402"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden hold campaign event in Pennsylvania..."
     excerpt: "Watch \"Joe Biden hold campaign event in Pittsburgh, Pennsylvania\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

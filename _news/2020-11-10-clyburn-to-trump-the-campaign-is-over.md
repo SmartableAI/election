@@ -93,6 +93,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump Is Now Trashing Fox News. Here’s What May Be His Ulterior Motive"
+    excerpt: "The president says Fox is disloyal to him, and is actively steering his supporters to other fringe right-wing cable networks."
+    publishedDateTime: 2020-11-12T18:11:00Z
+    webUrl: "https://www.forbes.com/sites/joewalsh/2020/11/12/trump-is-now-trashing-fox-news-heres-what-may-be-his-ulterior-motive/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad7692974d4daa7a9ea73a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2423%26cropY1%3D96%26cropY2%3D1459"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lil Wayne Shows His Support for Donald Trump After Having a 'Great Meeting' with the President"
     excerpt: "Lil Wayne is expressing support for Donald Trump. The rapper, 38, shared a photo with Trump, 74, on Twitter Thursday, saying that they had a \"great meeting.\" Lil Wayne (né Dwayne Michael Carter Jr.) also praised the president's Platinum Plan,"
     publishedDateTime: 2020-10-30T02:03:00Z

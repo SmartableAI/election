@@ -80,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
-    excerpt: "President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that he can't seem to shake.\n    \n"
-    publishedDateTime: 2020-10-29T01:47:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pme6VdvQOfg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "'It's a little tough out here': Trump blitzes must-win states with perfected rally routine"
     excerpt: "President Donald Trump was running late when he arrived here Sunday morning, wind howling and tiny drops of ice sticking to his face, to begin the second-to-last day of his final run for office.\n    \n"
     publishedDateTime: 2020-11-02T14:53:07Z
@@ -143,6 +127,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/07/multimedia/00TrumpOrg-Lose-2/merlin_174048489_c65deb2b-cda2-403e-a1b3-1fd5d90d39ad-videoSixteenByNine3000.jpg"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
+    excerpt: "(CNN)President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that ..."
+    publishedDateTime: 2020-10-29T02:49:00Z
+    webUrl: "https://www.cnn.com/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 125
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "+HpZqWybNGwZ3XwoeXhCoQHQVQOOp2/H4q2z539OIuePUdv+ZU0FwNIjWNrZ7gXhJ1nb82pXYhlECc+D+El/R2t8n224y2jPFqyuSYm6btPq1AUBMzzqKrgzxUXaWhQfxKDguoIkSKkhZ3OPJFD9RaiVI82G8rO+zkQxDtObEykjv2vKm0MSoVLDS7f/F5PCI0MgprqshSbwFi5W3KGGfvxHBkMQNhykVTSgYMWp5GrzAbQNmRmIAZ9bMcWUNnkby+XNFO6nvaig/pqjl7fAxiPsRQeZBN/+3/kvREsZUVtGcvd72yFiBSvKvKfD8Tv8KLYTnqIYE+H43eY0NsdzkvWjJoLjlz0DlquLBsqHV4Y=;Tkomoi3n/a6K1OMmEWM8jQ=="

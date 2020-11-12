@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
-    excerpt: "President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that he can't seem to shake.\n    \n"
-    publishedDateTime: 2020-10-29T01:47:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pme6VdvQOfg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Despite the Trump administration's new policy, many pharmacies still won't vaccinate children against flu "
     excerpt: "As a dark winter approaches with \"twindemics\" of Covid-19 and the flu, an effort by the Trump administration to increase the number of children receiving flu shots is not working, according to a CNN investigation.\n    \n"
     publishedDateTime: 2020-10-26T14:58:16Z
@@ -126,6 +110,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/07/multimedia/00TrumpOrg-Lose-2/merlin_174048489_c65deb2b-cda2-403e-a1b3-1fd5d90d39ad-videoSixteenByNine3000.jpg"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
+    excerpt: "(CNN)President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that ..."
+    publishedDateTime: 2020-10-29T02:49:00Z
+    webUrl: "https://www.cnn.com/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 125
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "In a historically Republican suburb of Pittsburgh, voters debate whether to give Trump a second term."
     excerpt: "Long lines of voters moved steadily in the first hour of voting at the Municipal Center in this town of about 30,000 people in Butler County, a historically Republican county. Cranberry Township, home to the headquarters of Westinghouse Electric and many engineers,"

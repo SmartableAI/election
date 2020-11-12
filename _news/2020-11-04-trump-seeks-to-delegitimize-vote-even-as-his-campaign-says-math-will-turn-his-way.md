@@ -431,6 +431,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Dejected' Trump continues to waffle over waging baseless election fight"
+    excerpt: "How much longer President Donald Trump continues waging battle over an election he lost remained in question Thursday as more of his advisers voiced doubt his gambit to contest the results would succeed. One person who spoke to him called him \"dejected\" over the ordeal.\n    \n"
+    publishedDateTime: 2020-11-12T17:45:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IyKZlFe_wbY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/trump-election-future-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/trump-election-future-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190423072847-donald-trump-04182019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Few congressional Republicans publicly back Trump's charges of election fraud"
     excerpt: "Only a handful of congressional Republicans have spoken out in defense of President Donald Trump's cries of election fraud and calls to stop the counting in his race for reelection, which has drawn the wrath of the President's sons, who tweeted their frustration and anger about that lack of vocal support"
     publishedDateTime: 2020-11-06T00:44:46Z
@@ -1135,6 +1151,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As Trump wrestles with defeat, pardons loom for allies -- and himself"
+    excerpt: "President Donald Trump is refusing to concede the 2020 election to President-elect Joe Biden, but once Trump moves to the acceptance stage of his defeat, the urgent business of presidential pardons is likely to surge to the top of his checklist before leaving office.\n    \n"
+    publishedDateTime: 2020-11-12T18:33:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ci4sTiF8YYY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/trump-pardons-loom-defeat/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/trump-pardons-loom-defeat/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112121901-01-trump-1104-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Klain will bring years of Supreme Court smarts to Biden's White House"
+    excerpt: "If President-elect Joe Biden gets to choose a new Supreme Court justice, chief of staff Ron Klain would have the playbook ready.\n    \n"
+    publishedDateTime: 2020-11-12T18:29:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C7qSdCch7WU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/supreme-court-ron-klain-biden-chief-of-staff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/supreme-court-ron-klain-biden-chief-of-staff/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111195736-ron-kain-feb-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's stunning abdication of leadership comes as pandemic worsens"
     excerpt: "President Donald Trump had predicted in almost every campaign rally that the media would stop talking about the coronavirus pandemic the day after the election. But as it turns out, no one is ignoring the worsening tragedy more than the President himself.\n    \n"
     publishedDateTime: 2020-11-12T11:38:38Z
@@ -1356,6 +1404,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103174159-29-america-votes-1103-denver-colorado-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senior Republican senators say Biden should have access to classified briefings "
+    excerpt: "Two top GOP senators told CNN on Thursday that Joe Biden should have access to classified briefings, the latest indication that Republicans acknowledge the President-elect is likely on his way to the White House despite President Donald Trump's refusal to accept the results.\n    \n"
+    publishedDateTime: 2020-11-12T18:35:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ig2KukjR9hg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/republican-senators-biden-classified-briefings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/republican-senators-biden-classified-briefings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112131835-lankford-graham-grassley-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2970,6 +3034,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/11/opinion/11kristof1/11kristof1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "U.S. Troops Are Still Leaving, but Afghans Hope Biden Will Help"
+    excerpt: "Afghans fear the Taliban are subverting the peace process, and hope a Biden administration will bring more accountability."
+    publishedDateTime: 2020-11-12T18:50:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/world/asia/biden-afghanistan-withdrawal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/world/asia/biden-afghanistan-withdrawal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/world/asia/biden-afghanistan-withdrawal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/10/world/10afghan-biden-2/10afghan-biden-2-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true

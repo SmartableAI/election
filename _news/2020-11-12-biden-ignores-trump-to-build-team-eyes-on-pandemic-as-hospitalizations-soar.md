@@ -2,11 +2,11 @@
 category: news
 title: "Biden ignores Trump to build team; eyes on pandemic as hospitalizations soar"
 excerpt: "President-elect Joe Biden will press on with building his governing team on Thursday, ignoring President Donald Trump's refusal to accept defeat."
-publishedDateTime: 2020-11-12T14:38:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27Q0L2"
-webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27Q0L2"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+publishedDateTime: 2020-11-12T13:25:00Z
+originalUrl: "https://www.reuters.com/article/usa-election/corrected-wrapup-2-biden-ignores-trump-to-build-team-eyes-on-pandemic-as-hospitalizations-soar-idUSL1N2HY076"
+webUrl: "https://www.reuters.com/article/usa-election/corrected-wrapup-2-biden-ignores-trump-to-build-team-eyes-on-pandemic-as-hospitalizations-soar-idUSL1N2HY076"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0LV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0LV"
 type: article
 quality: 137
 heat: -1
@@ -22,7 +22,7 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540931036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
@@ -206,6 +206,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540753912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91VK"
         width: 873
         height: 545
+        isCached: true
+  - title: "What will Mike Pence do next after Trump's election loss?"
+    excerpt: "Pence may return to his roots in conservative talk radio as a way to remain relevant – and possibly plan a 2024 run for president"
+    publishedDateTime: 2020-11-12T15:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/12/mike-pence-after-trump-election-loss-2024-run-president"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/12/mike-pence-after-trump-election-loss-2024-run-president"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/12/mike-pence-after-trump-election-loss-2024-run-president"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 155
+    images:
+      - url: "https://i.guim.co.uk/img/media/3985a8d44fe3b87f5db2bd3de153902af589198a/0_0_4486_2991/master/4486.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fc889e04216a492a1c9b69926e75df6c"
+        width: 600
+        height: 400
         isCached: true
   - title: "Trump, Biden vie for votes in battleground Pennsylvania as election nears"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania on Monday, while Democrat Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
@@ -2079,6 +2095,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "President Joe Biden? Donald Trump tweets suggest he knows that will happen"
+    excerpt: "Intentionally or not, Trump re-tweeted warnings about a Democratic-controlled U.S. Senate – something that can only happen if Joe Biden is president."
+    publishedDateTime: 2020-11-12T18:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/12/president-joe-biden-donald-trumps-senate-tweets-suggest-much/3761274001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3761274001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3761274001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 138
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to watch the last presidential debate between Joe Biden and Donald Trump"
     excerpt: "The first debate was combative. The second debate was cancelled. Now, the final debate between Trump and Biden is finally here."
     publishedDateTime: 2020-10-22T10:06:00Z
@@ -2477,6 +2509,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540905907&r=LYNXMPEGAA1WO&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Biden focuses on transition, COVID-19 crisis, as Trump prolongs legal challenges"
+    excerpt: "President-elect Joe Biden will continue to lay the groundwork for his administration on Thursday against the backdrop of a resurgence of COVID-19 cases across the United States, while President Donald Trump refuses to accept the election's outcome."
+    publishedDateTime: 2020-11-12T16:07:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27S0LZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27S0LZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27S0LZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540931036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump says he will score a 'big win,' accuses Democrats of trying to steal election"
     excerpt: "Republican President Donald Trump, in a tweet early on Wednesday, predicted he will win a second four-year term and accused Democrats of attempting to \"steal\" the election from him, without citing any evidence."
@@ -4178,6 +4226,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/2f98eb9c-ce0c-4e84-a4ae-c90d97d0f92a-AP_Books-Maggie-Haberman.jpg?auto=webp&crop=2999,1687,x0,y227&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ron Klain to serve as Biden's chief of staff"
+    excerpt: "President-elect Joe Biden announced on Wednesday that Ronald Klain will serve as his chief of staff. Klain, who served as chief of staff to Mr. Biden when he was vice president, as well as to former Vice President Al Gore,"
+    publishedDateTime: 2020-11-12T15:58:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-ron-klain-white-house-chief-of-staff/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-ron-klain-white-house-chief-of-staff/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-ron-klain-white-house-chief-of-staff/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/12/799cc1f6-c5fa-4878-8f98-9899bded0dfb/thumbnail/1200x630/2631afff75d465fe691f3ac3dba022a3/gettyimages-1206476103.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "State Dept. sets business-as-usual course while ignoring Biden"
     excerpt: "The agency won’t deliver congratulatory messages to the president-elect from foreign leaders until the General Services Administration gives the go-ahead."
@@ -5989,20 +6053,20 @@ related:
         height: 675
         isCached: true
   - title: "AP source: President-elect Joe Biden chooses longtime adviser Ron Klain to reprise role as his chief of staff"
-    excerpt: "WASHINGTON — AP source: President-elect Joe Biden chooses longtime adviser Ron Klain to reprise role as his chief of staff. Copyright 2020 The Associated Press. All rights reserved. This material may not be published,"
-    publishedDateTime: 2020-11-12T00:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-source-president-elect-joe-biden-chooses-longtime-adviser-ron-klain-to-reprise-role-as-his-chief-of-staff/2020/11/11/b904b59a-2481-11eb-9c4a-0dc6242c4814_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-source-president-elect-joe-biden-chooses-longtime-adviser-ron-klain-to-reprise-role-as-his-chief-of-staff/2020/11/11/b904b59a-2481-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-president-elect-joe-biden-chooses-longtime-adviser-ron-klain-to-reprise-role-as-his-chief-of-staff/2020/11/11/b904b59a-2481-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    excerpt: "WASHINGTON -- AP source: President-elect Joe Biden chooses longtime adviser Ron Klain to reprise role as his chief of staff."
+    publishedDateTime: 2020-11-12T04:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-president-elect-joe-biden-chooses-longtime-74160406"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-president-elect-joe-biden-chooses-longtime-74160406"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-president-elect-joe-biden-chooses-longtime-74160406"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 106
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "China Is Getting Ready for a World Without Trump"
     excerpt: "Now that Trump appears to be on his way out, and China’s economy is growing again — with parts of Europe and the U.S. resuming lockdowns — the yuan’s outlook is rosy. Reining in excessive currency volatility will be critical if Beijing wants to keep a steady inflow of foreign money."
@@ -8174,6 +8238,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "m8gEQMJiXZLNHm1udFDgMxGOTZXg2k+1RcP4Abpo+JCwuhZYmKc0g1w+EFJEM8g8WCpD2Kux6LA0vFr4BPTeQ8KI9sOheimz4V5BCR5En7sWf2h3le/kJ/XwJ9WWmoCGqfxoXE7k05mJAniUoABDE+tKqMZ+yM5eGdz1CylM7IekA2t9xQ0OxiKr2GOMgVM1kGnyvUxtpx/taEVRh+ysrzVGSqHUdsg+VANhHLyjSJEqKEfWKrD4vDRUR0sGD1p4fpQI25HsJUeF2qaAitvUuCSbd7PyJR39SkLPUG7FZ6PxIktLCGLBcE5uPv/Alk3SYYwSRYUqbKfjzI3M6UKrPqArzQBWkKEMrNcpTqg4k+g=;qs3JhpEzbOT0biBcXwucDA=="
+secured: "Qoe1LCMzETgkW4w+CRkMWAWa1zVG2yzslIISRON5zcuz5duAdhJEVMxiCbNEZdbIFLEsf5k2UKsdVSrkWooeYDjAAwKa9rM5s8xnLcvVpXJ3HdsowEzjm5DEUVhs1nNWcr1mkWrMXyVih/PpBMewU10JfLVFrQKO1n2V/83k1srN1ATPQH6HEpuZuV77ggt+f+X8J2RjNj8cH9+d1d5SOb8Ymkjy+J70P0ywM0ncQox9e187Dub12nt8Mn4ByO5y2m4FNkaLcNk2Dxvtd5q2b2alJV5gb5BqmtlICnlj9iSm0NHdjbMRxBAQ5QdRu8K4OCnkzPJnkBTUL8A8FhGbaJST5ApF2ZFKTzOUUgPshrE=;ZtvjYuFXVzauxhNJFWO16Q=="
 ---
 

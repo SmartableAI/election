@@ -193,6 +193,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "How ‘SNL' Perfectly Recreated Kamala Harris' White Pantsuit With Just Minutes to Spare"
+    excerpt: "After more than 30 years on air, “Saturday Night Live” has accumulated quite the wardrobe, with nearly every piece of clothing one could need."
+    publishedDateTime: 2020-11-10T06:14:00Z
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/how-snl-perfectly-recreated-kamala-harris-white-pantsuit-with-just-minutes-to-spare/2714413/"
+    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/how-snl-perfectly-recreated-kamala-harris-white-pantsuit-with-just-minutes-to-spare/2714413/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/how-snl-perfectly-recreated-kamala-harris-white-pantsuit-with-just-minutes-to-spare/2714413/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 67
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/Maya-Rudolph-VP-elect-SNL.jpg?crop=296px%2C38px%2C2599px%2C1462px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris' Full Speech: ‘You Chose Hope and Unity, Decency, Science and, Yes, Truth'"
     excerpt: "Elect Kamala Harris delivered a victory address on Saturday night from Wilmington, Del., and introduced President-Elect Joe Biden. Read the full text of Harris’ speech here:"
     publishedDateTime: 2020-11-08T02:33:00Z

@@ -381,6 +381,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Corey Lewandowski the latest Trump ally to test positive for coronavirus"
+    excerpt: "Trump campaign adviser Corey Lewandowski tested positive for COVID-19 on Wednesday, making him the latest official in the Trump orbit to be diagnosed with the novel coronavirus."
+    publishedDateTime: 2020-11-12T18:07:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScdXQ781Rko/corey-lewandowski-tests-positive-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/corey-lewandowski-tests-positive-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corey-lewandowski-tests-positive-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Meadows slams Pelosi suggestion that steroids influencing Trump's judgement"
     excerpt: "White House Chief of Staff Mark Meadows fired back at House Speaker Nancy Pelosi, D-Calif., Wednesday after she questioned whether the president's use of steroids to treat his coronavirus infection had impacted his sudden decision to halt negotiations on another relief bill."
     publishedDateTime: 2020-10-07T23:45:48Z

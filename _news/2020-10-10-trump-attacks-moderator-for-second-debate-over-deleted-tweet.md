@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump adviser Corey Lewandowski contracts coronavirus"
+    excerpt: "Corey Lewandowski, an adviser to President Donald Trump's campaign, has tested positive for the coronavirus, he confirmed to CNN on Thursday.\n    \n"
+    publishedDateTime: 2020-11-12T18:45:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvX3xjIGFr4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/corey-lewandowski-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/corey-lewandowski-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190926114723-01-corey-lewandowski-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ben Carson is the latest Trump official to test positive for coronavirus"
     excerpt: "Housing and Urban Development Secretary Ben Carson tested positive for coronavirus Monday morning, his deputy chief of staff Coalter Baker confirmed to CNN.\n    \n"
     publishedDateTime: 2020-11-09T16:51:51Z

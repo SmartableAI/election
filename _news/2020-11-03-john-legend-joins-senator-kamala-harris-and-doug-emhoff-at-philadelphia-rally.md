@@ -28,24 +28,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 34
-  - title: "Senator Kamala Harris Holds Canvas Kick Off Event in Luzerne County, Pennsylvania"
-    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County, Pennsylvania. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County,"
-    publishedDateTime: 2020-11-02T17:36:00Z
-    webUrl: "https://www.c-span.org/video/?477690-1/senator-kamala-harris-holds-canvas-kick-event-luzerne-county-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 30
-  - title: "Senator Kamala Harris Holds Canvass Kick Off Event in Luzerne County, Pennsylvania"
-    excerpt: "Senator Kamala Harris (D-CA) campaigned in Reno, Nevada, one week ahead of Election… Democratic vice presidential nominee Senator Kamala Harris (D-CA) spoke at a Biden campaign event in Las Vegas, Nevada."
-    publishedDateTime: 2020-11-02T14:49:00Z
-    webUrl: "https://www.c-span.org/video/?477690-1/senator-kamala-harris-holds-canvass-kick-event-luzerne-county-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 29
 
 secured: "wD2oTy8NLHfueXeCUtPQUfTCNPODtp458D34sLxJFLaPqId+9DXzBqHbNwOQ2huZqUJ9ZbnhKtjJykGoZtJFrfMbokQ2nXJmvuAryUvJFY3oX6BlN/TkQg9jWcm52u0bOamMSfQb1Q+AFXyGcE6iOaOTV1WfhysvyCPsKRGQt3XdUtVcRbeEHLCxEuFwEX9/huxuB2bjuVPwigXFERte5u8ufP+Ks3HS1GvVx9kqdq2WEBmTps0Zns5shXlCIRr996tTbPy7gj0B0M//fiuMcnqt7gFv5lmsl4iOxDqYey3BQpG9xfEP+sdW9fUZqszyC2dcCGDuntFCrV9u7gGhnGbjggezsMsy2rSmrH43pjFu9mwr8T4pS1X4sKOEXgrudDbqF82szBFZxfn5Mcld2t1XF86jhLVS+FHECrKYvEKnEa2MLgM1cqLTFHLwZ/VPipgAC+XAi9SdfCTbq3llCTpmRSRid3pcGjYWxzxouConQOV3hFNCWyqKeykIKX/WNG7l5erkg/imif/y3WWYtg==;/qnF2pM+j+ECXRNLUcKysg=="
 ---

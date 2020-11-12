@@ -383,6 +383,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Corey Lewandowski the latest Trump ally to test positive for coronavirus"
+    excerpt: "Trump campaign adviser Corey Lewandowski tested positive for COVID-19 on Wednesday, making him the latest official in the Trump orbit to be diagnosed with the novel coronavirus."
+    publishedDateTime: 2020-11-12T18:07:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ScdXQ781Rko/corey-lewandowski-tests-positive-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/corey-lewandowski-tests-positive-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corey-lewandowski-tests-positive-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House physician to give update on Trump's condition after COVID diagnosis"
     excerpt: "White House physician Sean Conley will give an update on President Trump’s condition on Saturday, a day after Trump tested positive for COVID-19 and was moved to Walter Reed National Military Medical Center."
     publishedDateTime: 2020-10-03T14:50:02Z

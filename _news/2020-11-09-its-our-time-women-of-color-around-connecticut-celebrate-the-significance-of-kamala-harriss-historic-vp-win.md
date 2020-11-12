@@ -27,19 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Democrat in Greenwich 'ecstatic' Kamala Harris on cusp of being VP"
-    excerpt: "Joe Biden seemed poised on Friday to take Pennsylvania and, most likely, the presidency. The victory, if and when it comes, was applauded by local experts."
-    publishedDateTime: 2020-11-07T08:08:00Z
-    webUrl: "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php"
+  - title: "One of these people could be VP-elect Kamala Harris’ successor and California’s next senator"
+    excerpt: "The Times asked political strategists for a list of the most likely contenders from whom Newsom might choose to replace Harris for the final two years of her Senate term."
+    publishedDateTime: 2020-11-07T16:51:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 114
     images:
-      - url: "https://s.hdnux.com/photos/01/15/11/41/20224098/13/rawImage.jpg"
-        width: 1800
-        height: 1200
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6ac6595/2147483647/strip/true/crop/2048x1430+0+0/resize/840x587!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2F57%2F3e257e5f130c40ac25e6a9b9078e%2Fla-1518827091-m3b6svi2yw-snap-image"
+        width: 840
+        height: 587
+        isCached: true
+  - title: "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election"
+    excerpt: "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president."
+    publishedDateTime: 2020-11-08T19:32:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 83
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
+        width: 1024
+        height: 715
+        isCached: true
+  - title: "What Kamala Harris’ historic win means to Indian Americans"
+    excerpt: "Kamala Harris’ win has political significance for the Indian American community, which is still only about 1% of the nation’s population. Her August nomination highlighted unprecedented momentum for campaigning targeting our community."
+    publishedDateTime: 2020-11-11T12:14:00Z
+    webUrl: "https://www.sfchronicle.com/opinion/openforum/article/What-Kamala-Harris-historic-win-means-to-15717991.php"
+    ampWebUrl: "https://www.sfchronicle.com/opinion/openforum/amp/What-Kamala-Harris-historic-win-means-to-15717991.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/openforum/amp/What-Kamala-Harris-historic-win-means-to-15717991.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/15/47/20240890/7/rawImage.jpg"
+        width: 2048
+        height: 1366
         isCached: true
   - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
     excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
@@ -57,38 +91,121 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "‘Everything is at stake’: Kamala Harris rallies Miami Dems in final early voting weekend"
-    excerpt: "Kamala Harris urged voters to choose the candidate that says ‘Black Lives Matter.’ Harris visited South Florida in a final swing through the state, where the latest polling shows a razor-thin margin between her running mate, former Vice President Joe ..."
-    publishedDateTime: 2020-10-31T14:30:00Z
-    webUrl: "https://www.bradenton.com/news/politics-government/election/article246845437.html"
-    ampWebUrl: "https://amp.bradenton.com/news/politics-government/election/article246845437.html"
-    cdnAmpWebUrl: "https://amp-bradenton-com.cdn.ampproject.org/c/s/amp.bradenton.com/news/politics-government/election/article246845437.html"
+  - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris"
+    excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."
+    publishedDateTime: 2020-11-10T15:19:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article247096792.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article247096792.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article247096792.html"
     type: article
     provider:
-      name: Bradenton Herald
-      domain: bradenton.com
-    quality: 66
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 68
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/793e9f64-12cc-4895-b75e-19624c16d9ca/7d3fe203-cf75-49a5-a2ff-c7d83c285dd2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c40ec35b-ceac-4134-870a-9fcc454e83ec/c75b6003-d661-4571-9b8c-1c6bd6b3e702/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "‘Everything is at stake,’ Democratic VP candidate Kamala Harris tells supporters at Lehigh Valley drive-in rally"
-    excerpt: "Democratic vice presidential nominee Kamala Harris vowed Monday in Northampton County that she and Joe Biden would unite a polarized country, expand healthcare access and invest in working families if Pennsylvania voters help oust Donald Trump on Tuesday."
-    publishedDateTime: 2020-11-02T21:32:00Z
-    webUrl: "https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html"
-    ampWebUrl: "https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-presidential-election-kamala-harris-visit-dutch-springs-20201102-mk7ale6pknbafl5rsflqdrjtgi-story.html?outputType=amp"
+  - title: "Kamala Harris is the main event for millions of women in America and around the world"
+    excerpt: "I predicted 10 years ago that Harris would be a force in national life. She is now inspiring many women to imagine new possibilities for themselves."
+    publishedDateTime: 2020-11-11T10:13:00Z
+    webUrl: "https://www.desmoinesregister.com/story/opinion/2020/11/09/harris-breaks-glass-ceiling-women-black-asian-americans-column/6215430002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6215430002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6215430002"
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 54
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
     images:
-      - url: "https://www.mcall.com/resizer/ACiznIAwCTe5XlglrC6t_OWTMPs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q2NPYQZO6NBWNNODONLOG3ZS5Y.JPG"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/d613c32f-c6a5-4582-a1d4-48c2ac73a5a3-Lauzon_pic.jpg?auto=webp&crop=443,250,x0,y102&format=pjpg&width=1200"
         width: 1200
-        height: 836
+        height: 677
         isCached: true
+  - title: "What it reveals when senators repeatedly mispronounce the names of Kamala Harris and Sundar Pichai"
+    excerpt: "CNN It is a truth universally acknowledged that if you live in the US and have a non-English name, someone at some point is bound to butcher the pronunciation. People across"
+    publishedDateTime: 2020-11-01T12:48:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 61
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_aaabf9408d54ffe0ad32c8318f6c537e-h_77d46bc633d10a1d5e1af0d83b0cff8f.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris | Charlotte Observer"
+    excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."
+    publishedDateTime: 2020-11-10T16:52:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article247096792.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article247096792.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article247096792.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 57
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c40ec35b-ceac-4134-870a-9fcc454e83ec/c75b6003-d661-4571-9b8c-1c6bd6b3e702/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "California Senate Sweepstakes: Who Gets Kamala Harris' Job?"
+    excerpt: "Sen. Kamala Harris' ascendancy to the vice presidency next year has left California with a tantalizing question: Who will replace her in the Senate."
+    publishedDateTime: 2020-11-12T14:19:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-12/california-senate-sweepstakes-who-gets-kamala-harris-job"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-12/california-senate-sweepstakes-who-gets-kamala-harris-job?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-12/california-senate-sweepstakes-who-gets-kamala-harris-job?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Who will replace Kamala Harris in California? Alex Padilla? Eva Longoria?"
+    excerpt: "A group of Latino organizations has lobbied Newsom since August to select Secretary of State Alex Padilla. Such a move would end 170 years without a Latino/a Senator from California. Of course, with wildfires,"
+    publishedDateTime: 2020-11-07T17:35:00Z
+    webUrl: "https://www.sacbee.com/article247039432.html"
+    ampWebUrl: "https://amp.sacbee.com/article247039432.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/article247039432.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 54
+  - title: "California Senate sweepstakes: Who gets Kamala Harris’ job? | Charlotte Observer"
+    excerpt: "Sen. Kamala Harris’ ascendancy to the vice presidency next year has left California with a tantalizing question: Who will replace her in the Senate."
+    publishedDateTime: 2020-11-12T14:35:00Z
+    webUrl: "https://www.charlotteobserver.com/news/article247142269.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/article247142269.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article247142269.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 50
+  - title: "Senator Kamala Harris Holds Canvas Kick Off Event in Luzerne County, Pennsylvania"
+    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County, Pennsylvania. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County,"
+    publishedDateTime: 2020-11-02T17:36:00Z
+    webUrl: "https://www.c-span.org/video/?477690-1/senator-kamala-harris-holds-canvas-kick-event-luzerne-county-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 30
+  - title: "Senator Kamala Harris Holds Canvass Kick Off Event in Luzerne County, Pennsylvania"
+    excerpt: "Senator Kamala Harris (D-CA) campaigned in Reno, Nevada, one week ahead of Election… Democratic vice presidential nominee Senator Kamala Harris (D-CA) spoke at a Biden campaign event in Las Vegas, Nevada."
+    publishedDateTime: 2020-11-02T14:49:00Z
+    webUrl: "https://www.c-span.org/video/?477690-1/senator-kamala-harris-holds-canvass-kick-event-luzerne-county-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 29
 
 secured: "taleW9MjiR4lXqzjf+Sgpc7qRodBxphw4HXw1ryYqPpCHCBht617nTicvo7MeogLOyNMnAOsCa4hk9L+XnS1o6CVFapFZJ663M7aCfh6NqbYZ3HrEco2t+dv/1bf1w1nhWxfjXa53PWleMIe2XRpyAj7q+thVt77kZsJk7B3yevKS8WiJ84ku3CFxjePhauQ9MKrA35civOYthI+t5BjmzD+uS93jQKDFlX0CsD5iTF7NUIxoRM8+aCG/jj+Cjgh1GzZnbzHRLGwjzo8VCTAjKfZ1EOIf63zWamKbwVBYYo8b2D8xq3D2YDe+3SXebkIJs1sD5W86iEiY+9i7/NV54AqJkTT7lBHty14ZV9QGU4=;dbIESpszi7Ark9sZAXn/Rg=="
 ---

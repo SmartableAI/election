@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
-excerpt: "President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that he can't seem to shake.\n    \n"
-publishedDateTime: 2020-10-29T01:47:22Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pme6VdvQOfg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pme6VdvQOfg/index.html"
+excerpt: "(CNN)President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that ..."
+publishedDateTime: 2020-10-29T02:49:00Z
+originalUrl: "https://www.cnn.com/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+webUrl: "https://www.cnn.com/2020/10/28/politics/donald-trump-election-2020-women/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
 type: article
-quality: 165
+quality: 125
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
@@ -144,6 +145,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qa5TtWhzwhwCNYrTO3Ir6W4W5y8GLVhY/rutNpi6c1bY5BDqQLweSUGqVY2/S+7RHMQOEE+qpObFi2U+Fu9WsNS9kMm23tBmxOS/utZJhu/bGJJgpujn7X0hhoPn5uqr4/0y6bVWb+T1cHDEerF/4QPc0pDfhmAWXeV35EkMErINRGYrwB/q/2MiKgtdvagdM7rXTc1+EApGSw0l8iorNRVo9F42+idSzX34nu95sSz99S1DGqeKgVvlDhaqLgXQPt3UWK0sXNvvMtkxEdK4g88hNv+V6RsY9bR2IE5wHvVlCH+dzL8CmCS5A5MIo4IvHO/gd0CvOTd8YODZOcYWeRPLdVCbLaEoUV4XF25mHEw=;ZJ0uDHTmeKk7MygFq452Dg=="
+secured: "vvuuIe+qThBgBhtJ2V/erCXvn77OF4zZUYJTmsS2b2Li+jvPCtwnlBL648UNrjIP2BpjQf+8toX9FlcGLFNkk/Hfqc5kHOneLJdX0QZH/P+Loj3Ir+5w6fSdiUnOG7EUsbFLFu5k7Syf4lfJeLAi+ftS6OH+/rBJf6eNzfcHFUHz9Gq74fHHL1+c8/ZmaNpaMYbcBJkjg9+YHnu+XIcwwyCwKtebPLvktKL1uemoTxPNG7cs98u8aUn5Yh8IZPSDvVpnJmhc+mfSwdjMOMSAq04P21718fIc8TyAbSJuydccEMrvaimHv+jKK5Q4OQnpfsw0fNm77R31eEt5TEQArdw8S67YCdjUvLMF6CgXSTY=;bXzn5l/8tCsM7nfQe9b5Fg=="
 ---
 

@@ -2480,6 +2480,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump Is Again Going to Win"
+    excerpt: "Spectacularly, melodramatically wrong. In 2013, when I met Donald Trump for the first time, I concluded that he could be a successful politician. More than that, I concluded that if he ran for ..."
+    publishedDateTime: 2020-10-29T04:16:00Z
+    webUrl: "https://townhall.com/columnists/emmetttyrrell/2020/10/29/donald-trump-is-again-going-to-win-n2578949"
+    ampWebUrl: "https://townhall.com/columnists/emmetttyrrell/2020/10/29/donald-trump-is-again-going-to-win-n2578949?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/emmetttyrrell/2020/10/29/donald-trump-is-again-going-to-win-n2578949?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/289/c8815658-67e1-46ce-a8e6-122556745ab2.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Will Anti-Biden Attacks Boomerang Against Trump?"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2020-10-22T19:43:00Z
