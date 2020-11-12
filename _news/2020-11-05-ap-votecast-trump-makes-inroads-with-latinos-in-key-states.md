@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-votecast-trump-vote
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Latest: Trump backs McDaniel for another RNC chair term"
+    excerpt: "President Donald Trump is endorsing the chair of the Republican National Committee for another term, despite his electoral defeat"
+    publishedDateTime: 2020-11-12T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Despite Trump-Erdogan ties, Turkey says it will work with whoever wins U.S. vote"
     excerpt: "Turkey is ready to work with whoever wins the U.S. election, two top Turkish officials said on Friday, despite a friendship with President Donald Trump that has helped the two countries through turbulent times."
     publishedDateTime: 2020-11-06T13:57:00Z

@@ -687,6 +687,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden selects Ronald Klain as White House chief of staff"
+    excerpt: "The Biden-Harris transition team is expected to announce more cabinet picks over the next several days."
+    publishedDateTime: 2020-11-12T01:07:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2SxHdIX8kSM/biden-selects-ronald-klain-white-house-chief-of-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-selects-ronald-klain-white-house-chief-of-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-selects-ronald-klain-white-house-chief-of-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Ronald-Klain-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump warns Dems aiming to take the Senate, double downs on final victory"
     excerpt: "President Trump took to Twitter early Friday to warn his followers that Democrats have their sights set on winning the Senate, but vowed that Republicans would ultimately prevail, despite what looked like an uphill climb."
     publishedDateTime: 2020-11-06T08:50:35Z
@@ -783,6 +799,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Sanders confident Biden will follow through on progressive policy promises"
+    excerpt: "Sen. Bernie Sanders indicated on Tuesday that he was confident President-Elect Biden wouldn't abandon the progressive policies their two teams agreed to prior to the election. "
+    publishedDateTime: 2020-11-12T01:17:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s757465g1PY/bernie-sanders-biden-progressive-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-biden-progressive-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-biden-progressive-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38c15bac-b08b-4c27-ab09-f212508be9ca/4feba043-abda-40b4-a4c6-8931f9eb1eb8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden visits his late son Beau's gravesite after being named president-elect"
     excerpt: "President-elect Joe Biden on Sunday visited the cemetery where several family members, including his late son Beau, are buried at the Catholic church near his home in Delaware."
     publishedDateTime: 2020-11-08T20:47:56Z
@@ -862,6 +894,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5af99d19-0b2c-443c-9ed5-10c7bd64355f/50da4d6e-e09f-49a2-8cba-f32ab313007b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "FLASHBACK: Biden said two months ago he would not declare victory until election was independently certified"
+    excerpt: "Way back in the first 2020 presidential debate in September, former Vice President Joe Biden pledged that he would not declare victory in the election before the results were “independently certified.”"
+    publishedDateTime: 2020-11-12T01:31:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fW7agtzF6c4/biden-victory-election-independently-certified"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-victory-election-independently-certified.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-victory-election-independently-certified.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315794984780-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden takes calls with leaders of UK, France, Germany as transition gets underway"
     excerpt: "President-elect Joe Biden on Tuesday spoke to foreign leaders and key allies as he moved ahead with his presidential transition — with the leaders of the U.K. and France among those first to speak to the incoming president."

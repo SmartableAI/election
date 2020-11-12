@@ -1327,6 +1327,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "State Department is preventing Biden from accessing messages from foreign leaders"
+    excerpt: "A stack of messages from foreign leaders to President-elect Joe Biden are sitting at the State Department but the Trump administration is preventing him from accessing them, according to State Department officials familiar with the messages.\n    \n"
+    publishedDateTime: 2020-11-12T01:38:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kwDMVfuTO9M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/state-department-biden-messages/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/state-department-biden-messages/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Narrowing path leaves some aides facing reality even as Trump presses legal action"
     excerpt: "President Donald Trump was charging ahead Thursday with a strategy to force an election victory, or at least forestall a loss, through legal maneuvers and demands for recounts, a final-ditch effort to prevent states from tallying ballots that could decide the next president.\n    \n"
     publishedDateTime: 2020-11-05T18:36:27Z
@@ -1708,6 +1724,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: President Trump uses out of context video to spread false information about mail-in voting"
+    excerpt: "President Donald Trump wrongly claimed a video that showed election workers collecting legally cast ballots in Los Angeles the day after the election showed evidence of fraud.\n    \n"
+    publishedDateTime: 2020-11-12T01:55:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TOo6VLeyRi0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/trump-ballot-box-video-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/trump-ballot-box-video-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111200920-california-ballot-box-201019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2142,6 +2174,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/11/business/11DRUDGE-01/11DRUDGE-01-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "For Pence, the Future Is Tied to Trump as Much as the Present Is"
+    excerpt: "Vice President Mike Pence has walked the Trump tight rope more successfully than anyone else in the president’s orbit, staying on his good side without having to echo his most incendiary rhetoric. But in the final weeks of Mr."
+    publishedDateTime: 2020-11-12T01:08:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/us/politics/mike-pence-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/us/politics/mike-pence-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/us/politics/mike-pence-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/11/us/politics/11dc-pence-1/11dc-pence-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."

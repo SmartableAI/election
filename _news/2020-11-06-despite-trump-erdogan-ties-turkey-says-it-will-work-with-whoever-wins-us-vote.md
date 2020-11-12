@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Trump backs McDaniel for another RNC chair term"
+    excerpt: "President Donald Trump is endorsing the chair of the Republican National Committee for another term, despite his electoral defeat"
+    publishedDateTime: 2020-11-12T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The latest: Absentee voters urged to check ballots before it's too late; 'Trump trains' respect voter boundaries, officials say"
     excerpt: "Republicans and Democrats alike gathered at polling places to vote in hard-fought local, state and federal races — including for the presidency."
     publishedDateTime: 2020-11-04T02:58:00Z

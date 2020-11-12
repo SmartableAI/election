@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "US-China relationship remains a challenge for Biden amid Hong Kong struggles"
+    excerpt: "Chinese President Xi Jinping is one of the few major super powers yet to congratulate president-elect Joe Biden on his presidential win, though this is unlikely to further tamper the slew of foreign policy challenges facing U.S.-China relations."
+    publishedDateTime: 2020-11-12T02:48:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KxNaIm84qMs/us-china-relationship-challenge-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/us-china-relationship-challenge-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-china-relationship-challenge-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8419c359-d988-43d2-a50c-f30f8e478624/000564f8-cd7e-46c0-a921-27cb7fc5fc8c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Romney is first GOP senator to congratulate Biden on winning presidential race"
     excerpt: "Utah Sen. Mitt Romney became the first GOP senator to congratulate Joe Biden on his win. "
     publishedDateTime: 2020-11-07T21:05:57Z
@@ -172,6 +188,22 @@ related:
     quality: 171
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88e0d269-4e91-494c-900e-19aeafdf304c/00f19cd3-db29-413f-82f6-4071fcca4347/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Bernie Sanders confirms interest in Labor Secretary job under Biden administration"
+    excerpt: "Sanders was routinely critical of Biden's policy record on the campaign trail, but ultimately endorsed him for president."
+    publishedDateTime: 2020-11-12T02:28:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RmU2xvYx31Y/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76b2b0f-fcb9-48aa-b2b1-a51905a51954/44349009-d613-4890-9a79-b7cf9e14182a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -236,6 +268,22 @@ related:
     quality: 164
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1007850e-cc8b-4cc6-8339-50eda9a4041a/a8864c36-fcdf-4412-a2e3-2e6356478ae5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden cabinet favorite vouched for domestic abuser's character -- then he murdered his ex-wife"
+    excerpt: "Democratic Ohio Rep. Marcia Fudge, a frontrunner for a position in President-elect Joe Biden's cabinet, vouched for a man accused of domestic abuse, who then went on to murder his ex-wife after he got out of prison. "
+    publishedDateTime: 2020-11-12T01:37:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-9esCLufXv8/joe-biden-cabinet-secretary-marcia-fudge-murder"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-cabinet-secretary-marcia-fudge-murder.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-cabinet-secretary-marcia-fudge-murder.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38c15bac-b08b-4c27-ab09-f212508be9ca/4feba043-abda-40b4-a4c6-8931f9eb1eb8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -31,51 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump plans to launch PAC to maintain influence in GOP circles"
-    excerpt: "President Donald Trump is planning to establish a leadership PAC, a fundraising arm that could allow him to continue to exert influence in Republican politics even after he leaves office.\n    \n"
-    publishedDateTime: 2020-11-10T13:45:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html"
+  - title: "Trump officials mocked Democrats in 2016 as 'sore losers' for not accepting election results   "
+    excerpt: "Top Donald Trump campaign and White House officials continue to baselessly assert there was widespread election fraud in the 2020 election and refuse to acknowledge President-elect Joe Biden's victory, but four years ago, those close to Trump mocked Democrats who didn't accept his victory as \"sore losers.\"\n"
+    publishedDateTime: 2020-11-12T02:05:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yXiSBdobSfQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 178
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415235130-kellyanne-conway-false-novel-coronavirus-covid-19-claim-sot-ctn-vpx-00001507-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump puts his bottom line before the country. And the GOP is helping him do it."
-    excerpt: "Given what we know about Donald Trump, his refusal to accept loss as he begins a revenge purge of his perceived enemies should not surprise us. He is a tiny man, devoid of moral fiber and character, defined only by his self-interest.\n    \n"
-    publishedDateTime: 2020-11-11T18:22:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YO7po5GJkdM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/borger-analysis-trump-bottom-line/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/borger-analysis-trump-bottom-line/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102140343-02-trump-nc-1101-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Lost the Race. But Republicans Know It’s Still His Party."
-    excerpt: "Inside the Zoom salons, Senate-office conversations and 2024 jockeying that will shape the future of the G.O.P."
-    publishedDateTime: 2020-11-09T09:32:00Z
-    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
+  - title: "Win or Lose, Trump Will Remain a Powerful and Disruptive Force"
+    excerpt: "If President Trump loses his bid for re-election, as looked increasingly likely on Wednesday, it would be the first defeat of an incumbent president in 28 years. But one thing seemed certain: Win or lose,"
+    publishedDateTime: 2020-11-05T10:29:00Z
+    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/07/us/politics/0gop-whathappensnext-1/merlin_179715216_006831f4-4064-4500-afbf-0577732f6f43-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04dc-trump-1/04dc-trump-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "For Trump voters, shock, disappointment and disbelief."
+    excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
+    publishedDateTime: 2020-11-07T22:53:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/07/nyregion/07election-live-blog-trump-disbelief/07election-live-blog-trump-disbelief-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

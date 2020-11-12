@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/man-accused-threatenin
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399"
 type: article
 quality: 150
-heat: 4890
+heat: 4930
 published: true
 
 provider:
@@ -1204,6 +1204,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a494b17be81715d755d0be38d9345052ccc89706/0_149_4474_2685/master/4474.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8382397e597090c821b55af6b6b8a51c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Column: Critics say Kamala Harris is a giddy lightweight. The proof? She likes to dance and laugh"
+    excerpt: "One of the great pleasures of watching Sen. Kamala Harris on the campaign trail is the extraordinary amount of joy she exudes. She smiles, she laughs, she dances. She’s tough and smart ..."
+    publishedDateTime: 2020-10-28T13:21:00Z
+    webUrl: "https://www.latimes.com/opinion/story/2020-10-27/column-kamala-harris-lightweight-dance-laugh"
+    ampWebUrl: "https://www.latimes.com/opinion/story/2020-10-27/column-kamala-harris-lightweight-dance-laugh?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-10-27/column-kamala-harris-lightweight-dance-laugh?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 112
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/08b0775/2147483647/strip/true/crop/6448x4211+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffc%2Fbe%2F3ed2daaf44de8a927ee2299f34ff%2Fepa-rex-donald-trump-holds-a-cabinet-mee-10452202c.JPG"
+        width: 320
+        height: 209
         isCached: true
   - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
     excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
@@ -2518,6 +2534,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/2992b715-045d-48f6-bddb-ab1e2bc9bf7b/80add951-1771-42d7-8de7-29ba87bf123f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris and Trevor Noah Ponder Why Conservatives Botch Her Name (Video)"
+    excerpt: "Senator Kamala Harris stopped by “The Daily Show With Trevor Noah” on Thursday night to discuss an array of topics on the eve of an election in which she could become the first ever woman ..."
+    publishedDateTime: 2020-10-29T00:00:00Z
+    webUrl: "https://www.thewrap.com/kamala-harris-trevor-noah-daily-show-conservatives-botch-her-name/"
+    ampWebUrl: "https://www.thewrap.com/kamala-harris-trevor-noah-daily-show-conservatives-botch-her-name/amp/"
+    cdnAmpWebUrl: "https://www-thewrap-com.cdn.ampproject.org/c/s/www.thewrap.com/kamala-harris-trevor-noah-daily-show-conservatives-botch-her-name/amp/"
+    type: article
+    provider:
+      name: TheWrap
+      domain: thewrap.com
+    quality: 72
+    images:
+      - url: "https://www.thewrap.com/wp-content/uploads/2020/10/TREVOR-NOAH-KAMALA-HARRIS.jpg"
+        width: 612
+        height: 341
         isCached: true
   - title: "WATCH: Vice President nominee Kamala Harris speaks at Orlando 'drive-in rally'"
     excerpt: "Democratic vice presidential nominee Kamala Harris will be encouraging early voting during campaign stops in Orlando and Jacksonville."

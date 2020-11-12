@@ -298,6 +298,22 @@ related:
         width: 375
         height: 815
         isCached: true
+  - title: "Kamala Harris laughs when asked if she’d bring ‘socialist’ perspective to White House"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris burst into laughter when asked if she would bring a “socialist or progressive perspective” to the White House. The moment happened ..."
+    publishedDateTime: 2020-10-26T16:15:00Z
+    webUrl: "https://nypost.com/2020/10/26/kamala-harris-laughs-when-asked-if-shed-bring-socialist-perspective-to-white-house/"
+    ampWebUrl: "https://nypost.com/2020/10/26/kamala-harris-laughs-when-asked-if-shed-bring-socialist-perspective-to-white-house/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/26/kamala-harris-laughs-when-asked-if-shed-bring-socialist-perspective-to-white-house/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 128
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/kamala-harris-38.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sharon Stone says voting for Kamala Harris 'will save your families lives' amid ongoing coronavirus pandemic"
     excerpt: "Sharon Stone said that her expertise as an infectious disease worker leads her to believe that Kamala Harris will help curb the death toll of the coronavirus pandemic if elected"
     publishedDateTime: 2020-10-21T02:17:00Z

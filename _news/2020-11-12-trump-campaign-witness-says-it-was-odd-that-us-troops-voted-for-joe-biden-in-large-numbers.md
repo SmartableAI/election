@@ -2432,6 +2432,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump files new election challenge as Biden focuses on transition"
+    excerpt: "President Donald Trump's campaign filed a lawsuit in Michigan on Wednesday as part of its long-shot legal strategy to upend Joe Biden's Nov. 3 election win, even as the former vice president focused on laying the foundation of his incoming administration."
+    publishedDateTime: 2020-11-11T23:47:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/trump-files-new-election-challenge-as-biden-focuses-on-transition-idUSKBN27Q0L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540905907&r=LYNXMPEGAA1WO&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Trump says he will score a 'big win,' accuses Democrats of trying to steal election"
     excerpt: "Republican President Donald Trump, in a tweet early on Wednesday, predicted he will win a second four-year term and accused Democrats of attempting to \"steal\" the election from him, without citing any evidence."
     publishedDateTime: 2020-11-04T06:28:00Z
@@ -4021,6 +4035,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "AP source: Biden chooses Ron Klain as chief of staff"
+    excerpt: "Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience across Democratic presidential administrations in the top role in his White House."
+    publishedDateTime: 2020-11-12T01:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-source-biden-chooses-ron-klain-as-chief-of-staff/2020/11/11/6b41004c-2482-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-source-biden-chooses-ron-klain-as-chief-of-staff/2020/11/11/6b41004c-2482-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-chooses-ron-klain-as-chief-of-staff/2020/11/11/6b41004c-2482-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "State Dept. sets business-as-usual course while ignoring Biden"
+    excerpt: "The agency won’t deliver congratulatory messages to the president-elect from foreign leaders until the General Services Administration gives the go-ahead."
+    publishedDateTime: 2020-11-12T00:11:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/state-department-ignores-biden/2020/11/11/d206832c-2439-11eb-8672-c281c7a2c96e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/state-department-ignores-biden/2020/11/11/d206832c-2439-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/state-department-ignores-biden/2020/11/11/d206832c-2439-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JECHTMBENUI6XJUIKKMK2XKYBI.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
   - title: "The Latest: Boris Johnson calls Trump ‘previous president’"
     excerpt: "British Prime Minister Boris Johnson has called Donald Trump the “previous president” of the United States and said it was “refreshing” to talk to President-elect Joe Biden"
     publishedDateTime: 2020-11-11T16:12:00Z
@@ -5293,6 +5339,22 @@ related:
       - url: "https://i.insider.com/5faaed3bf7d1cb0019e3aee2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden transition team for environment, transportation includes former Obama officials"
+    excerpt: "President-elect Joe Biden's transition teams for the Environmental Protection Agency and Transportation Department will be run by several agency alumni who served under President Barack Obama and helped craft regulations like the Clean Power Plan and tougher fuel"
+    publishedDateTime: 2020-11-11T04:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-epa/biden-transition-team-for-environment-transportation-includes-former-obama-officials-idUSL1N2HW3K2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q3HB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q3HB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540776317&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA923Y"
+        width: 817
+        height: 545
         isCached: true
   - title: "The Ultimate Donald Trump Mystery That Couldn’t Be Solved Before Election Day"
     excerpt: "A s Americans vote today, they do so with a limited view of Donald Trump’s finances—especially at one project, the Trump International Hotel & Tower in Chicago, which offers the prospect of shedding light on many questions: who the president owes money to,"
@@ -7826,6 +7888,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "uCUAPvB3fA+tuMFgzVd8+W1lJWXSe2Z5M97fb4ozy180dL1FNOnE0eWmiCs+zMXhydvXSns2RFveCT4jhHivRZK1e8fYPv7eLPK3eZpH3ktkWHAxqZy9gEN0EuI93rn2zH+zGo3n/5ggkQ8qg+m62p2/MbzlpI/0seWACTGPXpsPxuqE3JRjqK0icxbCuda0sj2YAfEUTYBDtX7rktCKqplA+xJhME0JJHi6Sjof9SUKJ3wNjZ2DODHcEJc2dfXn+3udp38uqjoj3BkM+WsniZPCdg5hKfcwmKCy8fFm39ktJ6Wy9UW0HPeFNWaQilHu/mTJpStISqEq7OoLPEsUIUSu9vIGlhTkFdxnVq6lxPE=;2pLqnf5CFcuYMOuL95ieVg=="
+secured: "hIiTmiKP1tAT1xg9XvQJUjbO74T+NZu8IJDRtj0yWbvTpE6MNeT0UxdVXO589LqIYvmW90awH4lWINUrPqPsFKq6xTiX7zofhG68cLPwEu3H5aRZmaxWrmBlAwZwJQDXh2HYEvNRU1iwFQzmAxr3pY4L8NswYKfqfPdZUiym8FOSGRvEu97FDkpf39pImDL6CG5DDEwFeZ0bUA2xy57zBD2FMXHBKkVoNBuaVzk7Lb7NRKZ2u19bX+TQJJvBtZOyKlif/z+cPqzI2W6GWcSd+HbfwhjbPEhRzNehB+Q04G0Vi+AYg1cl497rRn6m272VAKXhkTlpMpa8Fg4I6kNvFD3rupFfC7r5JEa6BYlMhvLHM6afHCWiHtUsYQ25WewNUYOAxbZgzyMMcx00JVO6xVZBEvzGEzGYVgTalerqJ4PuYjyxxM6sLuEU3R2FuJ1ebp3hTtGU3MuvRxIL2FSjhP1bDBRe131OagL2/Diwm4l1GKGNs+H5oH8HsZ5qqnrA29x8UDnu/hOYv6wSwC+oUA==;0qPddsyQiEmatxTvmmBRPQ=="
 ---
 

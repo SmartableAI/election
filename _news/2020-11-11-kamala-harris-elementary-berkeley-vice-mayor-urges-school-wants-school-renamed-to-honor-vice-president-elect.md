@@ -36,6 +36,22 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 72
+  - title: "Kamala Harris Elementary? Berkeley vice mayor wants school renamed to honor vice president-elect"
+    excerpt: "Vice Mayor Sophie Hahn introduced the resolution to the City Council on Monday to urge the school district to begin the process of renaming Thousand Oaks Elementary School after vice president-elect Harris."
+    publishedDateTime: 2020-11-12T02:25:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/article/Kamala-Harris-Elementary-Berkeley-vice-mayor-15716915.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/amp/Kamala-Harris-Elementary-Berkeley-vice-mayor-15716915.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Kamala-Harris-Elementary-Berkeley-vice-mayor-15716915.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 62
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/15/51/20240964/5/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
 
 secured: "R5VNhJvNyEuXYu7702E1jb07AAbceYzir5i+SoFN2JQbJWN48YGbuEZFYZGfWuWt4+uu1dq8WioBmqHfMjHy3QTxKh9IU6KSSAiunluRlGpMd5J3B5m64GfIihx/IbGDQqGusFAywM/ATAEw2EpLa4FH4tX7MoPZ9b0vL2Ky5dFbGxdZosEuga/wnjml6zDfF5XIUOjz25nAkqtXXEEUpur84IrUUtJQUDzozYj+UQzqz6z13Jm5Rxp5OqyLS+1WJ8+Qd5sRDSQqprqQxcTLyDg34xIVV1JRTSU1Z5p64gXAiQ5ZGYbvmBLq5tzyKxQeHgpv1lrsF2jAWJde4hOqLxMp1ar7fWhfRisFArTJBV64Bi/Hkz/nfam6rYQs0jC5H4TAxUyLy4J5r7evSJQIc2QD1nNbPHQQXRjOlMDYVtySfneBz42vsNMdCA+4p3xvCOyxU39NRswAR3b0vEMwaMYcZqjnDYoEjy0dvX9RIvq7sYt9n7j3jtb/A80z86vcNbaloVDt5uo9JD3vTiwH2w==;ywrV+xCaE4X7PkTKP8xJHA=="
 ---
