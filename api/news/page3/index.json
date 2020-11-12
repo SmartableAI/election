@@ -2,6 +2,119 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-09-cia-director-haspels-fate-uncertain-after-trump-fires-esper.md",
+      "title": "CIA Director Haspel's fate uncertain after Trump fires Esper",
+      "excerpt": "President Donald Trump and some of his conservative allies have become increasingly frustrated with CIA Director Gina Haspel in recent weeks, accusing her of delaying the release of documents they believe would expose so-called \"deep state\" plots against Trump's campaign and transition during the Obama",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180514170841-getty-gina-haspel-senate-hearing-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html",
+      "publishedDateTime": "2020-11-09T14:29:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-biden-and-harris-share-the-spotlight-with-their-families-to-celebrate-victory.md",
+      "title": "Biden and Harris share the spotlight with their families to celebrate victory",
+      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation for the first time Saturday night with their families by their side.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3eyKXIy7iSs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3eyKXIy7iSs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 937,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201107211411-27-biden-harris-address-1107-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html",
+      "publishedDateTime": "2020-11-09T14:04:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-mcconnell-backs-trump-legal-fight-in-election-results.md",
       "title": "McConnell backs Trump legal fight in election results",
       "excerpt": "The Trump campaign has mounted legal challenges and alleged voting irregularities or outright fraud in several states.",
@@ -327,58 +440,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-mitch-mcconnell-is-reportedly-taking-the-lead-on-stimulus-negotiations-as-the-trump-administration-sits-out.md",
-      "title": "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out",
-      "excerpt": "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
-      "originalUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
-      "publishedDateTime": "2020-11-09T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-dr-nicole-saphier-raises-concern-for-biden-pledging-a-draconian-universal-mask-mandate.md",
       "title": "Dr. Nicole Saphier raises concern for Biden pledging a 'draconian' universal mask mandate",
       "excerpt": "After giving credit to the qualifications of President-elect Joe Biden’s coronavirus advisory board, Fox News medical contributor Nicole Saphier raised a concern about their move to potentially suppress Americans' civil liberties.",
@@ -432,58 +493,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-under-trump-asylum-policy-hundreds-of-cubans-remain-locked-up-in-us-detention-centers.md",
-      "title": "Under Trump asylum policy, hundreds of Cubans remain locked up in US detention centers",
-      "excerpt": "Trump won Florida with help from Cuban Americans who liked his tough talk against socialism. But hundreds of Cuban migrants who fled communism are languishing in detention centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/immigration/2020/11/09/under-trump-policy-100-s-cubans-who-fled-communism-remain-locked-up/6174737002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/immigration/2020/11/09/under-trump-policy-100-s-cubans-who-fled-communism-remain-locked-up/6174737002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6174737002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174737002",
-      "publishedDateTime": "2020-11-09T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -872,7 +881,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10661,
+      "heat": 10681,
       "tags": null,
       "images": [
         {
@@ -985,7 +994,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 4205,
+      "heat": 4225,
       "tags": null,
       "images": [
         {

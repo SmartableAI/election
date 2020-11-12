@@ -1759,6 +1759,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republican senator says he will step in if Biden doesn't have access to intelligence briefings by Friday"
+    excerpt: "Oklahoma Republican Sen. James Lankford said Wednesday that he will intervene if the Trump administration has not allowed President-elect Joe Biden access to presidential daily intelligence briefings by the end of the week, one of the first rights of a presidential candidate after winning the election.\n"
+    publishedDateTime: 2020-11-12T03:41:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RkjZCgoCYhE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/james-lankford-biden-intelligence-briefings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/james-lankford-biden-intelligence-briefings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191028163107-james-lankford-headshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden campaign: ‘Under no scenario’ will Trump be declared a winner on election night."
     excerpt: "Under no scenario will Donald Trump be declared a victor on election night,” said Jennifer O’Malley Dillon, Joseph R. Biden Jr.’s campaign manager, in a briefing on Monday. “When Donald Trump says that ballots counted after midnight should be invalidated,"
     publishedDateTime: 2020-11-03T15:21:00Z

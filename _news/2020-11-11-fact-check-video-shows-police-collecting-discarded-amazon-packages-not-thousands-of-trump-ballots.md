@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC"
 type: article
 quality: 111
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 818
     height: 545
     isCached: true
+
+related:
+  - title: "Pollster: Some Trump voters not reflected in polls"
+    excerpt: "The man who runs the Marquette University Law School poll says state polls were off this election because President Donald Trump's supporters declined to respond to surveys. (Nov. 11)"
+    publishedDateTime: 2020-11-11T21:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/11/pollster-some-trump-voters-not-reflected-polls/6257306002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/24bb0f9f-2c6d-4136-8921-1c1f2403cd48_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "zQxniCp0ODnPlZ9fQTq8ZewJIs2Gn5JJhoXdjSnyh1ehOTJytsXP+CAsPztjjZWtx1jrzZmfTFO071MzQE9Fj9LmxzYy5QXf4LJThsFzgBm8UzVjSB9bUMwXXK8XEtZFk5+RUd6q8StC2O6ou1z2AfHrVlZbDwQee1IVE2y2PSGsIEe3kJCRo5PfzVi82FlAM4h77QYGdw8pM5blM8kYR1H5rw/MjYHM2olE1rs0z+LfYq6ZYu4zSxDDPLsIB7rrnf+TyMSt2wwbAMcMie9+vgCX2vbQ1iwUaWHybbqSbCYQU7jNq4eqhNSTTE5Xts3cUUUwugKxhah4Ibj7lUcUNC0ZzS9vMXCRCPhNGiSk9/4=;zFCieuON11PmXU4YsJ9Fcg=="
 ---

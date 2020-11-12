@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-desp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/10/AP20299110164423.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "At least 5 of VP Mike Pence's aides test positive for COVID-19"
+    excerpt: "WASHINGTON -- At least five people in Vice President Mike Pence's orbit have tested positive for coronavirus in recent days, including chief of staff Marc Short, close aide Zach Bauer and outside ..."
+    publishedDateTime: 2020-10-25T21:56:00Z
+    webUrl: "https://abc7news.com/mike-pence-covid-19-white-house-aides/7332012/"
+    ampWebUrl: "https://abc7news.com/amp/mike-pence-covid-19-white-house-aides/7332012/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/mike-pence-covid-19-white-house-aides/7332012/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 75
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7332088_102520-cc-ap-pence-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Vice President Mike Pence to stay on campaign trail despite exposure to chief of staff Marc Short, who tested positive for COVID-19"
     excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."

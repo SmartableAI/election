@@ -230,7 +230,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 330,
+      "heat": 350,
       "tags": null,
       "images": [
         {
@@ -381,7 +381,7 @@
       "originalUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -457,6 +457,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-voices-from-the-fight-an-oral-history-of-the-four-year-movement-to-defeat-donald-trump.md",
+      "title": "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump",
+      "excerpt": "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
+      "originalUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-08T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1187,58 +1239,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-08-rudy-giuliani-releases-politics-video-pausing-for-a-sponsored-cigar-commercial-and-blaming-fox-news-for-trumps-defeat.md",
-      "title": "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat",
-      "excerpt": "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency",
-      "originalUrl": "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp",
-      "publishedDateTime": "2020-11-07T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-08-senate-gop-declare-senate-is-last-line-of-defense-after-biden-harris-projected-win.md",
       "title": "Senate GOP declare \"Senate is last line of defense\" after Biden-Harris projected win",
       "excerpt": "With President-elect Joe Biden's projected electoral college victory, the nation's attention will now turn to the races which could determine the partisan balance of the Senate — and so determine whether Biden's agenda is implemented in his first term in office.",
@@ -1300,7 +1300,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {

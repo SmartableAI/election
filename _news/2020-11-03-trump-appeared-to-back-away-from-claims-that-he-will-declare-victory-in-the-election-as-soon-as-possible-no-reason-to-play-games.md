@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-ga
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
 type: article
 quality: 110
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,56 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
+    excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
+    publishedDateTime: 2020-11-06T08:03:00Z
+    webUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5fa4f4c11df1d50018219377?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump is trying to claim the presidency by saying 'we hereby claim' key states but that is not how elections work"
+    excerpt: "\"We have claimed, for Electoral Vote purposes, the Commonwealth of Pennsylvania,\" the president tweeted on Wednesday."
+    publishedDateTime: 2020-11-05T08:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5fa32879f7d1cb0019e39e0f?width=1200&format=jpeg"
+        width: 975
+        height: 487
+        isCached: true
+  - title: "Trump dropped 3 agency heads in the days following the election, amid reports that more departures could be coming"
+    excerpt: "The departures came amid speculation that other agency heads and government officials may be fired or resign from the Trump administration."
+    publishedDateTime: 2020-11-08T05:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-dropped-3-agency-heads-in-days-after-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fa777b71df1d5001821977a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Bf+MFwuWCVBii3z7LC4SZCAwHhS00ZqK0mnKMtLPm8p4exC7II3UK4Lkz8TL6TL/plwxVEY4gcjXAzxtprANBI4COTo9fLLRlUeTXg4tnnQntzLMl9wBdChjE7XqQieQGO5F9n5tn6jzLRBSTpvQeAvl2jqGSCqPgvPJ9vACZnDWx96JWlJ1dOtp6zmFb4lkpYYlvFLEgUTsjisApLScKhqWNWfV9zAdvFt0Yr8z6/od5rqZd3lqhLNBfOFpZGqpEpjd+GtZS55iVyJMrNf+CojUvejR8ZU/VfX5xevdWEZNNgW7wAy/hrhbY6U6NB0S3o9MUTIFKCPHnWXuv4jaJIWa/ZBO0S4v5GCRhuaFB+U=;P8XYe+p7MpD0PT1tMpCDwg=="
 ---

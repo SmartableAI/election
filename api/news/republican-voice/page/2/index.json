@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-09-wonder-woman-star-lynda-carter-celebrates-kamala-harris-win-on-45th-anniversary-of-the-show.md",
+      "title": "'Wonder Woman' star Lynda Carter celebrates Kamala Harris' win on 45th anniversary of the show",
+      "excerpt": "Wonder Woman” actress Lynda Carter shared a congratulatory note to Vice President-elect Kamala Harris on a special day for fans of the superhero TV series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/wonder-woman-lynda-carter-kamala-harris-45-anniversary",
+      "originalUrl": "https://www.foxnews.com/entertainment/wonder-woman-lynda-carter-kamala-harris-45-anniversary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-08T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-clyburn-claims-trump-not-conceding-yet-means-this-democracy-is-teetering.md",
       "title": "Clyburn claims Trump not conceding yet means 'this democracy is teetering'",
       "excerpt": "House Majority Whip James Clyburn, D-S.C., said on Sunday that President Trump should concede the 2020 presidential election because \"democracy is teetering.\"",
@@ -1602,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60.amp",
       "publishedDateTime": "2020-11-03T22:56:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.md",
-      "title": "Biden surrogate Coons says campaign is 'cautiously optimistic' about election results",
-      "excerpt": "The Biden campaign is \"cautiously optimistic\" heading into election night and believes it will ultimately come out ahead in the key battleground of Pennsylvania, one of its surrogates told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aiajxzvDEo/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aiajxzvDEo/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-surrogate-coons-says-campaign-is-cautiously-optimistic-about-election-results.amp",
-      "publishedDateTime": "2020-11-03T17:40:35-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

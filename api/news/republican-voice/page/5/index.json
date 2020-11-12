@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-27-biden-makes-plea-to-unite-and-heal-the-country-during-stop-in-georgia.md",
+      "title": "Biden makes plea to ‘unite and heal’ the country during stop in Georgia",
+      "excerpt": "Joe Biden, playing offense in a long time red state turned crucial battleground this year, made a closing campaign pitch on Tuesday for national unity to rise above what he called the division President Trump’s sown during his four years in the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4K5BdjTl8Po/biden-plea-unite-and-heal-the-country-georgia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4K5BdjTl8Po/biden-plea-unite-and-heal-the-country-georgia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301662617518.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp",
+      "publishedDateTime": "2020-10-27T13:10:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome.md",
       "title": "Trump already chose Barrett successor on appeals court, confirmation possible regardless of election outcome",
       "excerpt": "With Justice Amy Coney Barrett now on the Supreme Court, a new vacancy has opened on the 7th U.S. Circuit Court of Appeals where she previously sat, and President Trump has already named the person he plans to have replace her on that bench. ",
@@ -1624,63 +1680,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-gregg-jarrett-hunter-biden-laptop-scandal-even-if-joe-biden-wins-theres-no-way-out-now.md",
-      "title": "Gregg Jarrett: Hunter Biden laptop scandal — Even if Joe Biden wins, there's no way out now",
-      "excerpt": "In the Hunter Biden laptop scandal, the unresolved and trenchant questions are: how much did Joe Biden know and to what extent was he involved",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
-      "originalUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

@@ -107,6 +107,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "At least 5 of VP Mike Pence's aides test positive for COVID-19"
+    excerpt: "WASHINGTON -- At least five people in Vice President Mike Pence's orbit have tested positive for coronavirus in recent days, including chief of staff Marc Short, close aide Zach Bauer and outside ..."
+    publishedDateTime: 2020-10-25T21:56:00Z
+    webUrl: "https://abc7news.com/mike-pence-covid-19-white-house-aides/7332012/"
+    ampWebUrl: "https://abc7news.com/amp/mike-pence-covid-19-white-house-aides/7332012/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/mike-pence-covid-19-white-house-aides/7332012/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 75
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7332088_102520-cc-ap-pence-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "GiCxN/v+j+FDEG0AFTfzUgTkkeQVvvvuIcGcRMWxZUR+T91P+ykxkGQp+MyrAAh612uxrmv5bmirQcVswzS+yaWfMlmZmELlRbSg8Lpya9/m4Ifmi9704dF2Uc5YSMxMHrgxYiVu59dqPGygd7YA1wcFTMzSKKI1vJrkrSNkzEQAR/LuYqh6CiXVQEiRWMIC+yl375Oy8qPaoRndaLVJIeCfs76uBh1/dV2J51Eg/Mq4CNuoVmIPJnl7fkIsqs0ooXVRLrv4Lt6G0MbqNybQ1LZJd2wx1LzjfjPUjpSSFuAKDsJJtri+q8fs6NljAhC5upQNsk6I7J6qWR2/WxPB1ajKJxqpXg7C9mGpOoob4A4=;T9VKfHGFLRVwzwBL4mNzhw=="
 ---

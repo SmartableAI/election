@@ -109,6 +109,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump Needs Pence on Campaign Trail Despite Staff COVID Crisis to Woo Evangelicals"
+    excerpt: "Mike Pence's decision to carry on with his campaign commitments despite COVID-19 cases among his staff comes with President Donald Trump trailing in the polls and looking to bolster support among ..."
+    publishedDateTime: 2020-10-27T14:38:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-donald-trump-campaign-evangelicals-1542353"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-donald-trump-campaign-evangelicals-1542353?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-donald-trump-campaign-evangelicals-1542353?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 134
+    images:
+      - url: "https://d.newsweek.com/en/full/1658765/pence.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
     excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
     publishedDateTime: 2020-10-21T03:08:00Z

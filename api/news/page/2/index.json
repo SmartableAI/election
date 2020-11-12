@@ -2,6 +2,166 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-11-keep-the-tough-approach-or-seek-cooperation-china-looms-large-for-biden.md",
+      "title": "Keep the tough approach or seek cooperation? China looms large for Biden.",
+      "excerpt": "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp",
+      "publishedDateTime": "2020-11-10T16:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-andrew-cuomo-says-he-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.md",
+      "title": "Andrew Cuomo says he 'would've decked' Trump over insults if he wasn't NY governor",
+      "excerpt": "Trump and Cuomo have exchanged insults in the media for months, with each politician accusing the other of poor leadership during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73918fbe-82d4-4470-b2f1-60013a0a9794/1a1fc4c2-4ce7-476b-b39b-88baee82ae59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
+      "publishedDateTime": "2020-11-10T14:18:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-join-us-at-1-pm-et-thursday-for-a-chat-with-insider-politics-reporter-tom-lobianco-about-whats-next-for-republicans-and-trump.md",
+      "title": "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump",
+      "excerpt": "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "originalUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "publishedDateTime": "2020-11-10T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-fact-check-video-shows-police-collecting-discarded-amazon-packages-not-thousands-of-trump-ballots.md",
       "title": "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots",
       "excerpt": "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages.",
@@ -10,7 +170,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -905,58 +1065,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-10-republicans-unshackle-yourselves-from-the-trump-craziness.md",
-      "title": "Republicans: Unshackle yourselves from the Trump craziness",
-      "excerpt": "Here you are, anxiously waiting for Donald Trump and his royal family to accept reality, not wanting to say anything that might upset him or his followers, because somehow the thing you fear most in the world — more than any virus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43AIRZRC3YI6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/?outputType=amp",
-      "publishedDateTime": "2020-11-09T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-10-hud-secretary-ben-carson-joins-list-of-trump-administration-officials-who-have-tested-positive-for-covid-19.md",
       "title": "HUD Secretary Ben Carson joins list of Trump administration officials who have tested positive for COVID-19",
       "excerpt": "Ben Carson joins a growing list of Trump administration officials, including President Donald Trump, who have contracted the highly contagious virus.",
@@ -1228,119 +1336,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-cia-director-haspels-fate-uncertain-after-trump-fires-esper.md",
-      "title": "CIA Director Haspel's fate uncertain after Trump fires Esper",
-      "excerpt": "President Donald Trump and some of his conservative allies have become increasingly frustrated with CIA Director Gina Haspel in recent weeks, accusing her of delaying the release of documents they believe would expose so-called \"deep state\" plots against Trump's campaign and transition during the Obama",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180514170841-getty-gina-haspel-senate-hearing-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html",
-      "publishedDateTime": "2020-11-09T14:29:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-biden-and-harris-share-the-spotlight-with-their-families-to-celebrate-victory.md",
-      "title": "Biden and Harris share the spotlight with their families to celebrate victory",
-      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation for the first time Saturday night with their families by their side.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3eyKXIy7iSs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3eyKXIy7iSs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 937,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201107211411-27-biden-harris-address-1107-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html",
-      "publishedDateTime": "2020-11-09T14:04:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/graphics/2020/elections/trump-oppos
 webUrl: "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/"
 type: article
 quality: 97
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Washington Post
@@ -27,88 +27,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Republicans: Unshackle yourselves from the Trump craziness"
-    excerpt: "Here you are, anxiously waiting for Donald Trump and his royal family to accept reality, not wanting to say anything that might upset him or his followers, because somehow the thing you fear most in the world — more than any virus,"
-    publishedDateTime: 2020-11-10T06:00:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43AIRZRC3YI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
-    excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
-    publishedDateTime: 2020-11-06T08:03:00Z
-    webUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kevin-mccarthy-trumps-false-claim-that-he-won-the-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5fa4f4c11df1d50018219377?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "After blocking its release, U.S. judge lets Trump policing panel publish report"
-    excerpt: "The Trump administration's law enforcement commission won approval from a federal judge on Monday night to release its controversial report on policing reforms, as long as the Justice Department includes a disclaimer stating that the report was drafted in violation of"
-    publishedDateTime: 2020-11-03T00:49:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-justice-policing-idUSKBN27J01O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J01O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J01O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539734467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA200H"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Donald Trump Jr. compares the US to a 'banana republic' over uncorroborated election fraud claims and gets tagged by Twitter"
-    excerpt: "Donald Trump Jr., the President's son has called for \"total war\" over election fraud claims and for fellow Republicans to show support for his father."
-    publishedDateTime: 2020-11-06T14:38:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5fa54b4c1df1d500182193c6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump"
-    excerpt: "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia."
-    publishedDateTime: 2020-11-10T22:15:00Z
-    webUrl: "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021"
-    ampWebUrl: "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "AZCf5WQkeMrX8sweGAXk+STJTrLVRgDEH+bTdQ4qIOSeW/uvMCQh55bnY9jV/bZ+Xm9FxiBCCJZE8l0jNyrm+iUyil8sOwQAHLSKdTTdZVv7GGjpywHEvvj9E4EOCaGybzBKIf+esDReP4Qevh9WupKZGPI9Y68H5Xm77JP+2Y+NgJV9fbSwiRyccyKGro3KozpYI8WYS5D7zwsUghS7aD/KEBdECU7NGwAdR/jmfHqIFlCE4TAMrAvsuUA+r8Hxc6IdECPXI4EzUItJ++P+TwmsukC5qbDAKVGO/6rxmBvcas92dPbYrJvV86uSjljfKxwXjYaZYQPn7IAl150uJ1XFfirXtsMuvmCpA0bFioPbbCwfKIa+J6/0oTCQLudQkIYCZFfvA1sfhR17CXlPJxFbdYq2NanQs/zQiLBuQzgGcHCd1dLs+UZeYJP2KO++sOZ8VjND0QI8/ZsC+fb6q5vqolyXXyPDhRP6jgiYDZWCk+sp5LhAjeWDejlpJ6+PyXh6lqqtzZGo7Zr8dwMeNQ==;hnPOfqwEhImUBVJRsWHTow=="
 ---

@@ -73,6 +73,22 @@ related:
         width: 753
         height: 545
         isCached: true
+  - title: "Biden insider Klain will bring virus-fighting expertise to chief of staff role"
+    excerpt: "Ron Klain was once tapped by Democratic President Barack Obama to safeguard the United States from the threat of a lethal virus. As President-elect Joe Biden's chief of staff, he will take on a similar mission."
+    publishedDateTime: 2020-11-12T02:43:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-klain-newsmaker-idINKBN27S0BY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27S0BY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27S0BY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540917097&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB04Z"
+        width: 809
+        height: 545
+        isCached: true
   - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
     excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."
     publishedDateTime: 2020-11-10T19:29:00Z

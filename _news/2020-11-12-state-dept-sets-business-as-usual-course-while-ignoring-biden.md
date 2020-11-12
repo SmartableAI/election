@@ -5464,6 +5464,22 @@ related:
         width: 1440
         height: 1004
         isCached: true
+  - title: "U.S. President-elect Biden holds phone calls with Australia, Japan, South Korea leaders"
+    excerpt: "U.S. President-elect Joe Biden has held separate congratulatory phone calls with the leaders of Australia, Japan and South Korea, his transition office said on Wednesday."
+    publishedDateTime: 2020-11-12T02:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-leaders-idUSKBN27S0A3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0A3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0A3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540918141&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB05N"
+        width: 817
+        height: 545
+        isCached: true
   - title: "ABC, CBS, and NBC cut away from Trump's White House address riddled with unfounded accusations about the 2020 election"
     excerpt: "President Donald Trump, at the White House, made an unfounded accusation that the election was being stolen from him. ABC, CBS, and NBC cut away."
     publishedDateTime: 2020-11-06T03:09:00Z
@@ -7888,6 +7904,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "+i/RMA4zYBH7/+yIE1saW3+5x0m/tZqjv14d6FvBAg2JWj8vBLQqvn28Sv/SRF7EH3gI3MlERGe7v1MlF9jyMLZVC66ySj8V+GWosIMV5Aa4agKSmxOXyomcwBrscJZsVvWdF/OIh/dIsqhZFmIJCaZidTTEybSAS2o9ZDmrz2yGNAMk4/tB89GPVBz70AFSrBg3kcRxCJJq/LcKn9VOO2Qe4gX1YOWZNSKnbmIlr2nnt647ak4hysU1r8NACG/W9Pk1Pyzi8JWSftmRstbjKDk2X1T6P466CH1hEX+BiNKXmo5CV85SsfYEWjGodqwo1+L4KdeqETHIpJLCjL7sPBYw3VBH3lSnTUQLLmo6orQ=;YjQe0Qc+LeKTGrbu+cNoFg=="
+secured: "bscnnhwSYxj530m9IgRxsAdwskpFq4JqvOvZ3ZJ+h5Yla3+P+VvIR4BwvToL6nRTh2glj9ZO1NrsJmFy2k13DEUMc4RSGQgyNXMP1vD7FD+F1ozGnOn1xcQi9isUexOXjPTepkYmD1iWfpBFvx66D8ota85fOb9SMBz+PzAsbWohn/PTsoi+hOZQtjdUISlJU7r+6NretdjlU8PtWEyJmm5hWeHZ2J7P/u9RNZiIKWBcsphf7Kv6ydYPBnDvToKbBdJKVsiLdw+kgpKXabQOGWevpcDW2d6GqrMURbS3SeLY9J9TGtyYXa8fyWiqeR35sA17kItq+yAUCvRJMC3m3B9e51ksjiQ9EO9G8Tkb0ACk3kbd4wE8fYxHqD3Nb9ik0S4rPOKnpc2zzYyfafywUruiqdhCeURF6BlFKAjMKm5LR/fh92NhkgQDDwEg8vf+Or00Nw/b55ZlopnFuNUBifcB56ye+uJp9gLmnHFhACuZ7RcPxGtbBcm5MHif5+l31DU8s2WPZBLyz15OaPXu7A==;0v1NDQyWkjRGnifY6gF2dQ=="
 ---
 

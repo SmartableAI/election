@@ -53,6 +53,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Mike Pence’s Indiana hometown built by a different kind of Republican"
+    excerpt: "A guest of honor was “Mike Hot-Pence.” The Pence doppelganger sported the veep’s white buzz cut and blue hot pants. He carried a plastic barrel to collect donations for gay and lesbian youth."
+    publishedDateTime: 2020-10-24T16:40:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-10-24/mike-pence-indiana-hometown"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-10-24/mike-pence-indiana-hometown?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-10-24/mike-pence-indiana-hometown?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a77e571/2147483647/strip/true/crop/5176x3381+0+35/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F58%2Fe4%2F03662790467988d9aa44019e669e%2Fla-photos-1staff-618709-la-na-trump-mar-a-lago-jja-004.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Vice President Mike Pence to vote Friday morning in Indianapolis"
     excerpt: "Vice President Mike Pence will vote in Indianapolis Friday morning. Pence had been scheduled to cast his ballot at the City-County Building Oct. 10 but abruptly canceled the trip without explanation."
     publishedDateTime: 2020-10-23T10:15:00Z

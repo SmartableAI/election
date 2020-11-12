@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-ha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
 type: article
 quality: 182
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20272849406731.jpg"
         width: 1024
         height: 712
+        isCached: true
+  - title: "The race is on to succeed Kamala Harris in the Senate: Who the favorites are"
+    excerpt: "The race is on to succeed Vice President-elect Kamala Harris in the Senate. Fox News has been told for months that  Secretary of State Alex Padilla is the odds-on favorite to step into Harris’ seat. But Fox News is also told to watch  Attorney General Xavier Becerra,"
+    publishedDateTime: 2020-11-12T03:10:00Z
+    webUrl: "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are"
+    ampWebUrl: "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/640/320/Newsom092019.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "‘No timeline has been established’: California Gov. Newsom mum on Kamala Harris replacement"
     excerpt: "The race to replace apparent Vice President-elect Kamala Harris’s open Senate seat is underway. Pressure is mounting on California Gov. Gavin Newsom to choose Harris’s replacement in the Senate should apparent President-elect Joe Biden’s victory be confirmed."

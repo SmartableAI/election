@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump Needs Pence on Campaign Trail Despite Staff COVID Crisis to Woo Evangelicals"
+    excerpt: "Mike Pence's decision to carry on with his campaign commitments despite COVID-19 cases among his staff comes with President Donald Trump trailing in the polls and looking to bolster support among ..."
+    publishedDateTime: 2020-10-27T14:38:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-donald-trump-campaign-evangelicals-1542353"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-donald-trump-campaign-evangelicals-1542353?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-donald-trump-campaign-evangelicals-1542353?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 134
+    images:
+      - url: "https://d.newsweek.com/en/full/1658765/pence.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Misinformation spikes as Trump confirms COVID-19 diagnosis"
     excerpt: "News that President Donald Trump and first lady Melania Trump had tested positive for COVID-19 sparked an explosion of rumors, misinformation and conspiracy theories that littered social media feeds"
     publishedDateTime: 2020-10-02T19:45:00Z

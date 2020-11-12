@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html"
 type: article
 quality: 190
-heat: 330
+heat: 350
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605194819-03-black-lives-matter-painted-dc-street-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why ex-CIA chief is more worried about Trump now"
+    excerpt: "Former CIA Director John Brennan tells CNN's Wolf Blitzer why he's more worried now than he has been during the past four years of President Trump's administration.\n    \n"
+    publishedDateTime: 2020-11-12T00:54:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iAUt3jAIlUA/john-brennan-trump-election-power-wolf-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/11/john-brennan-trump-election-power-wolf-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/11/john-brennan-trump-election-power-wolf-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111183926-john-brenan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

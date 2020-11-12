@@ -58,6 +58,22 @@ related:
         width: 1024
         height: 712
         isCached: true
+  - title: "The race is on to succeed Kamala Harris in the Senate: Who the favorites are"
+    excerpt: "The race is on to succeed Vice President-elect Kamala Harris in the Senate. Fox News has been told for months that  Secretary of State Alex Padilla is the odds-on favorite to step into Harris’ seat. But Fox News is also told to watch  Attorney General Xavier Becerra,"
+    publishedDateTime: 2020-11-12T03:10:00Z
+    webUrl: "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are"
+    ampWebUrl: "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/640/320/Newsom092019.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "OIevdN7ji5MTHmmA1/R1JZ9HFgjdzqPWM5rYLKqiBX6UaUAymhLI6+RrMi+tRyPXBGVY4ZcgUgxoLlbufo600YOJK2LjQosX/dYEO1CZpwKkHygeq9qsdRXgn/4PFvNIvKi2SZXqFcnw1dEwC8ryvfC2qGY+3PATrY8zk8G+8aI2qDoAjLNxJzXt0HHgN49DwnU1D0wnZsjWpjrh3eGiktADHph18wt7AawIAtVdBhhFd8qbAsjaO+oGkLkywSsSlrLnIOUXRjmnFCAx2dXnQVXamfxyXxgGT0X2dN8eV0nBJCkPXwGZBI8oPzF6gYCW49Fb3OzwhpcwK3ePMnLD6flErGE3XtymWkBpl9UGlY2f+h6ZqOOqKPLUveMomkcNQzFfYRPpWQWt3o7f5YpVqc6vKPQx38sInqw6ZQa7KQi9WUUjkdOeHQtG13ngUiIuPQY/G2BUDFsGBtShn2CtxJnOpGgFT8N4dlVrK/aWc4WRWB+u7cPCGlUXv7I3DJDZFS9DcPmGWMPJCzaaWsU+bg==;38NvE6wu4XTV0awNwt8Uwg=="
 ---

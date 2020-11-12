@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Under Trump asylum policy, hundreds of Cubans remain locked up in US detention centers"
-    excerpt: "Trump won Florida with help from Cuban Americans who liked his tough talk against socialism. But hundreds of Cuban migrants who fled communism are languishing in detention centers."
-    publishedDateTime: 2020-11-09T15:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/immigration/2020/11/09/under-trump-policy-100-s-cubans-who-fled-communism-remain-locked-up/6174737002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6174737002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174737002"
+  - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
+    excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
+    publishedDateTime: 2020-11-10T21:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: Reuters
+      domain: reuters.com
+    quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3"
+        width: 818
+        height: 545
         isCached: true
 
 secured: "KSfqhIGH3SR7uC7RrbY+M9OLhlDJgsnE0fQR1Mk6jGtkOe3bQq70ZA6hD3rS92es3a5bEXqYGuvw0iPKzfKb0CSzXOqxmdwTCNV2cxgRJHIC5MC4zjZ7beX4cqItW0LzaAaL4OPRIYC5BwTUTGbwaMch6abvEApYCqtmlro007La81IC8OSkK6niZCqC3TS3xXm/QN8+bS+MWCGdFy4eh0rRVVQHMw6VOrFhPelZJgyObMkIT+30vs+W1vEHb0DD7BaqJWuwy7QKL+dzWxp7NVw51NRMpuNh88a9BzK0Usg3bJdlrc932H2D6lJRHA9jsurCxI7G4bWka0vri6bqQK8jO/fXThpl8+uBKnsGwU0=;fG3MKLSEZSCr3/pH8haobw=="

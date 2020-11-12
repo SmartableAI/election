@@ -1760,6 +1760,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republican senator says he will step in if Biden doesn't have access to intelligence briefings by Friday"
+    excerpt: "Oklahoma Republican Sen. James Lankford said Wednesday that he will intervene if the Trump administration has not allowed President-elect Joe Biden access to presidential daily intelligence briefings by the end of the week, one of the first rights of a presidential candidate after winning the election.\n"
+    publishedDateTime: 2020-11-12T03:41:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RkjZCgoCYhE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/james-lankford-biden-intelligence-briefings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/james-lankford-biden-intelligence-briefings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191028163107-james-lankford-headshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden campaign: ‘Under no scenario’ will Trump be declared a winner on election night."
     excerpt: "Under no scenario will Donald Trump be declared a victor on election night,” said Jennifer O’Malley Dillon, Joseph R. Biden Jr.’s campaign manager, in a briefing on Monday. “When Donald Trump says that ballots counted after midnight should be invalidated,"
     publishedDateTime: 2020-11-03T15:21:00Z
@@ -3180,6 +3196,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "KX4+GGVlyhlE9DSB2C0TPcDIJpbkzhhDVMxQWabqd8LsJYkbxrIcTYlXqypjO1w7ENEbMmQ0gWeKQd+mmA55Ar3HlJ4r3yTx/agMiw0pyMVsOaxQuwpZCuWdLz549aPtxMs9qKeoJUf2iinVwZxUBa8q6IQlgW/ybhLEVOT/IxViMTdwJKxuBQzzxZWLdISqqkr6qAdsR70cYpxd7JRgCHiv7iSa3AqWgxIqbIcJRgywXMrPOuG3NQ9B1MqSFXVpRfg8CdTm3iVvciXd5LGlQV7chPcrcAHvdJscOBsfOiunOaPHYoGfLNNsdT89QTF0YSj6pOTElQBC8RPvweqiW8IP4EdMe3aqJa/Vt+dMpyo=;GfVqtbeZ/banF5AVKXRZ0A=="
+secured: "eFeMr1ucPL0H/m4H4VM4LMEHHzaR6iNWPLVaN4K4njCshjtAOjeoyMtaUkV31SV2GBdEqw0QF/jqrmIFlaVGviQN/ErZeSJXsmodJDHv49NhTFTdzRn1EciVqdvqF1A00obIi1IJKBWaIjyUFN2ufJVOfr6hk+ExKh9y9Eg1Zq60UUYYgK4doaLC86lRNfm236P4n6OMZlu4jWbR7JRdrkFBDUyXx8NzQzK6DJq9ir54FRAfS6oDuKHDxIhsu2TBKL7ZG56jnobXXFo/40qqjp4UxKPNPccqgUd2vcpNpnSHxcEtzqsFtO6B6osDJZLTAMAfkDyBu8y+wef2K5FObh1dovA77t0bnhGXqi9+zp3/XoxjGAsHcajZ8V1O+k4nzslB9zCfXSoQWhWTAu6AUH+cwZ7lwpXkLnqhwYoj5bUYRVXXCCisrqr3+9Oa/Xhvu4+2nLL/U4FRGsLWxjl70UIkrNdsFYUkYeQya4kXNIU3G0HpnzJkvKW3n1EKe6MginUxCL6tvV0rQUMIvLSPaQ==;Hy7nVIGQHEP6EhVYxr9oqQ=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Donald Trump Jr. compares the US to a 'banana republic' over uncorroborated election fraud claims and gets tagged by Twitter"
+    excerpt: "Donald Trump Jr., the President's son has called for \"total war\" over election fraud claims and for fellow Republicans to show support for his father."
+    publishedDateTime: 2020-11-06T14:38:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5fa54b4c1df1d500182193c6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP"
     excerpt: "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans."
     publishedDateTime: 2020-11-10T23:29:00Z

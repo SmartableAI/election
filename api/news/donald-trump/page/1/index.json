@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-12-election-2020-live-updates-bolton-says-republicans-coddling-trump-georgia-will-do-hand-recount.md",
+      "title": "Election 2020 live updates: Bolton says Republicans 'coddling' Trump; Georgia will do hand recount",
+      "excerpt": "Both Trump and Biden took part in Veterans Day ceremonies Wednesday. Biden continues the transition process as Trump contests the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/11/USAT/41cea45e-fe21-4819-aa48-7f740386034d-GTY_1285134487.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6246438002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002",
+      "publishedDateTime": "2020-11-11T20:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Clarion-Ledger",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-trump-endorses-ronna-mcdaniel-to-remain-rnc-chair.md",
       "title": "Trump endorses Ronna McDaniel to remain RNC chair",
       "excerpt": "U.S. President Donald Trump on Wednesday endorsed Republican National Commmittee chair Ronna McDaniel to stay on in her position, crediting her with much of the support Trump received in the presidential election that he lost but is contesting.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -324,6 +376,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-11-join-us-at-1-pm-et-thursday-for-a-chat-with-insider-politics-reporter-tom-lobianco-about-whats-next-for-republicans-and-trump.md",
+      "title": "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump",
+      "excerpt": "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "originalUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "publishedDateTime": "2020-11-10T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-fact-check-video-shows-police-collecting-discarded-amazon-packages-not-thousands-of-trump-ballots.md",
       "title": "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots",
       "excerpt": "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages.",
@@ -332,7 +436,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -510,58 +614,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/national/texas-latino-republicans/2020/11/09/17a15422-1f92-11eb-ba21-f2f001f0554b_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/texas-latino-republicans/2020/11/09/17a15422-1f92-11eb-ba21-f2f001f0554b_story.html?outputType=amp",
       "publishedDateTime": "2020-11-09T23:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-republicans-unshackle-yourselves-from-the-trump-craziness.md",
-      "title": "Republicans: Unshackle yourselves from the Trump craziness",
-      "excerpt": "Here you are, anxiously waiting for Donald Trump and his royal family to accept reality, not wanting to say anything that might upset him or his followers, because somehow the thing you fear most in the world — more than any virus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43AIRZRC3YI6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/09/republicans-unshackle-yourselves-trump-craziness/?outputType=amp",
-      "publishedDateTime": "2020-11-09T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -812,110 +864,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-mitch-mcconnell-is-reportedly-taking-the-lead-on-stimulus-negotiations-as-the-trump-administration-sits-out.md",
-      "title": "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out",
-      "excerpt": "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
-      "originalUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
-      "publishedDateTime": "2020-11-09T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-under-trump-asylum-policy-hundreds-of-cubans-remain-locked-up-in-us-detention-centers.md",
-      "title": "Under Trump asylum policy, hundreds of Cubans remain locked up in US detention centers",
-      "excerpt": "Trump won Florida with help from Cuban Americans who liked his tough talk against socialism. But hundreds of Cuban migrants who fled communism are languishing in detention centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/immigration/2020/11/09/under-trump-policy-100-s-cubans-who-fled-communism-remain-locked-up/6174737002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/immigration/2020/11/09/under-trump-policy-100-s-cubans-who-fled-communism-remain-locked-up/6174737002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6174737002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174737002",
-      "publishedDateTime": "2020-11-09T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-trump-staffers-tweeted-an-image-of-a-president-gore-front-page-from-2000-to-prove-the-media-gets-election-calls-wrong-but-the-image-was-fake.md",
       "title": "Trump staffers tweeted an image of a 'President Gore' front page from 2000 to prove the media gets election calls wrong. But the image was fake.",
       "excerpt": "Trump spokesman Tim Murtaugh said the image showed \"the media doesn't select the president.\" The paper said the image was \"doctored.\"",
@@ -1085,7 +1033,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10661,
+      "heat": 10681,
       "tags": null,
       "images": [
         {
@@ -1247,7 +1195,7 @@
       "originalUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1323,6 +1271,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-voices-from-the-fight-an-oral-history-of-the-four-year-movement-to-defeat-donald-trump.md",
+      "title": "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump",
+      "excerpt": "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
+      "originalUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-08T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1561,19 +1561,19 @@
       ]
     },
     {
-      "path": "_news/2020-11-08-rudy-giuliani-releases-politics-video-pausing-for-a-sponsored-cigar-commercial-and-blaming-fox-news-for-trumps-defeat.md",
-      "title": "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat",
-      "excerpt": "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly.",
+      "path": "_news/2020-11-07-bolsonaro-abandons-friend-trump-after-2020-election-says-hes-not-the-most-important-person-in-the-world.md",
+      "title": "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'",
+      "excerpt": "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency",
-      "originalUrl": "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency",
+      "webUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11",
+      "originalUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 121,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg",
+          "url": "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -1583,9 +1583,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp",
-      "publishedDateTime": "2020-11-07T10:32:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp",
+      "publishedDateTime": "2020-11-06T20:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

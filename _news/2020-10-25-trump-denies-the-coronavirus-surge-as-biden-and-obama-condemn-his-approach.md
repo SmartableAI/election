@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 2638
+heat: 2658
 published: true
 
 provider:
@@ -1765,6 +1765,22 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_Menendez_LorellaPraeli_BrittanyPacknettCunningham_DaveJacobson_2020election_201018_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Pence should quarantine after coronavirus exposure. He’s going to keep campaigning instead."
+    excerpt: "Vice President Mike Pence at a campaign rally in Waterford, Michigan, on October 22. Jeff Kowalsky/AFP via Getty Images On Saturday evening, news broke of yet another coronavirus case cluster at ..."
+    publishedDateTime: 2020-10-25T15:50:00Z
+    webUrl: "https://www.vox.com/2020/10/25/21532815/mike-pence-coronavirus-exposure-marc-short-campaigning"
+    ampWebUrl: "https://www.vox.com/platform/amp/2020/10/25/21532815/mike-pence-coronavirus-exposure-marc-short-campaigning"
+    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/2020/10/25/21532815/mike-pence-coronavirus-exposure-marc-short-campaigning"
+    type: article
+    provider:
+      name: Vox
+      domain: vox.com
+    quality: 125
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/1KfNtxPsrRNwy0AUfWQ1c_9n7SI=/0x0:4000x2984/1400x1050/filters:focal(1491x700:2131x1340):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67685953/1229222546.jpg.0.jpg"
+        width: 1400
+        height: 1050
         isCached: true
   - title: "It's not just Trump: US coronavirus cases on the rise again"
     excerpt: "Trump's ailment can help serve as a reminder that that the coronavirus crisis is far from over, and in many parts of the country, it's getting worse."

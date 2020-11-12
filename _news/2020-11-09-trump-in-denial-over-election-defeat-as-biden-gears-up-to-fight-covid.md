@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 4205
+heat: 4225
 published: true
 
 provider:
@@ -1740,6 +1740,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111200920-california-ballot-box-201019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republican senator says he will step in if Biden doesn't have access to intelligence briefings by Friday"
+    excerpt: "Oklahoma Republican Sen. James Lankford said Wednesday that he will intervene if the Trump administration has not allowed President-elect Joe Biden access to presidential daily intelligence briefings by the end of the week, one of the first rights of a presidential candidate after winning the election.\n"
+    publishedDateTime: 2020-11-12T03:41:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RkjZCgoCYhE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/james-lankford-biden-intelligence-briefings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/james-lankford-biden-intelligence-briefings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191028163107-james-lankford-headshot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

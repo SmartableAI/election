@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "At least 5 of VP Mike Pence's aides test positive for COVID-19"
+    excerpt: "WASHINGTON -- At least five people in Vice President Mike Pence's orbit have tested positive for coronavirus in recent days, including chief of staff Marc Short, close aide Zach Bauer and outside ..."
+    publishedDateTime: 2020-10-25T21:56:00Z
+    webUrl: "https://abc7news.com/mike-pence-covid-19-white-house-aides/7332012/"
+    ampWebUrl: "https://abc7news.com/amp/mike-pence-covid-19-white-house-aides/7332012/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/mike-pence-covid-19-white-house-aides/7332012/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 75
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7332088_102520-cc-ap-pence-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Mike Pence to stay on campaign trail despite exposure to chief of staff Marc Short, who tested positive for COVID-19"
     excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
     publishedDateTime: 2020-10-27T03:09:00Z

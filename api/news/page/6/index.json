@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-06-they-gonna-do-him-dirty-50-cent-says-donald-trump-is-going-to-jail.md",
+      "title": "'They Gonna Do Him Dirty': 50 Cent Says Donald Trump Is Going to Jail",
+      "excerpt": "\"You ever herd [sic] a president say stop counting the f**king votes. LOL SMH,\" the rapper tweeted on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/50-cent-donald-trump-election-1545225",
+      "originalUrl": "https://www.newsweek.com/50-cent-donald-trump-election-1545225",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1665432/50-cent-says-trumps-going-jail.jpg",
+          "width": 3256,
+          "height": 2163,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1",
+      "publishedDateTime": "2020-11-05T10:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-trump-agenda-won-up-and-down-the-ballot-as-pundits-and-polls-missed-the-mark-again-kellyanne-conway.md",
       "title": "'Trump agenda won up and down the ballot' as pundits and polls missed the mark again: Kellyanne Conway",
       "excerpt": "The pollsters and pundits got the 2020 presidential race wrong yet again, Kellyanne Conway, former Trump 2016 campaign manager, told \"Fox & Friends.\"",
@@ -90,58 +142,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-trump-is-trying-to-claim-the-presidency-by-saying-we-hereby-claim-key-states-but-that-is-not-how-elections-work.md",
-      "title": "Trump is trying to claim the presidency by saying 'we hereby claim' key states but that is not how elections work",
-      "excerpt": "\"We have claimed, for Electoral Vote purposes, the Commonwealth of Pennsylvania,\" the president tweeted on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa32879f7d1cb0019e39e0f?width=1200&format=jpeg",
-          "width": 975,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp",
-      "publishedDateTime": "2020-11-05T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
