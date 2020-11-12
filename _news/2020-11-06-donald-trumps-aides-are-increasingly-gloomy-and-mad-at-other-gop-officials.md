@@ -175,6 +175,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
+    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
+    publishedDateTime: 2020-11-11T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Health 202: Obamacare marketplaces survived Trump's term better than expected"
     excerpt: "The Trump administration is presiding over what could be its final Obamacare enrollment season, which started yesterday. As Election Day approaches, it's clear the much-hyped changes the administration made to the health insurance marketplaces over the past four years had far less impact — either positive or negative — than expected."
     publishedDateTime: 2020-11-02T12:06:00Z

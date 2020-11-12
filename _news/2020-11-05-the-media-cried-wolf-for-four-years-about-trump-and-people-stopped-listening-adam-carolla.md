@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New Pentagon adviser could push US troop withdrawals before Trump’s departure"
+    excerpt: "President Trump’s flurry of November changes at the Pentagon could have U.S. troops home from Afghanistan by Christmas, if one new adviser gets his way."
+    publishedDateTime: 2020-11-12T00:22:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/38uX1nJm9Vo/new-pentagon-adviser-troop-withdrawals-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/new-pentagon-adviser-troop-withdrawals-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-pentagon-adviser-troop-withdrawals-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Jack Brewer says Black Americans will turn out for Trump like no Republican before"
     excerpt: "The Platinum Plan was a great move by President Trump, Black Voices for Trump Jack Brewer said on Sunday."
     publishedDateTime: 2020-11-01T15:04:20Z

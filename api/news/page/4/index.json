@@ -2,6 +2,118 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-08-clyburn-claims-trump-not-conceding-yet-means-this-democracy-is-teetering.md",
+      "title": "Clyburn claims Trump not conceding yet means 'this democracy is teetering'",
+      "excerpt": "House Majority Whip James Clyburn, D-S.C., said on Sunday that President Trump should concede the 2020 presidential election because \"democracy is teetering.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O-vtaODnqmM/james-clyburn-joe-biden-trump-concede",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O-vtaODnqmM/james-clyburn-joe-biden-trump-concede",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/James-Clyburn-Joe-Biden-2-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp",
+      "publishedDateTime": "2020-11-08T08:02:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-romney-says-trump-should-follow-every-legal-option-he-has-but-choose-words-carefully.md",
+      "title": "Romney says Trump should 'follow every legal option he has,' but choose words 'carefully'",
+      "excerpt": "Sen. Mitt Romney, R-Utah, has no problem with President Trump challenging the 2020 election results in court, but said that he should tone down his public rhetoric.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aIPzEJwJ4M/romney-trump-election-legal-options-choose-words-carefully",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aIPzEJwJ4M/romney-trump-election-legal-options-choose-words-carefully",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2afb325-628d-4555-9f91-0f96e2a4c747/64e456b4-b4e1-4314-8170-0a961286f86f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/romney-trump-election-legal-options-choose-words-carefully.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-trump-election-legal-options-choose-words-carefully.amp",
+      "publishedDateTime": "2020-11-08T07:10:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-jared-kushner-has-approached-trump-about-conceding-2020-election.md",
       "title": "Jared Kushner has approached Trump about conceding 2020 election",
       "excerpt": "Jared Kushner, President Donald Trump's son-in-law and senior adviser, has approached the President about conceding the election, two sources told CNN.\n    \n",
@@ -1216,110 +1328,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-one-of-these-people-could-be-vp-elect-kamala-harris-successor-and-californias-next-senator.md",
-      "title": "One of these people could be VP-elect Kamala Harris’ successor and California’s next senator",
-      "excerpt": "The Times asked political strategists for a list of the most likely contenders from whom Newsom might choose to replace Harris for the final two years of her Senate term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator",
-      "originalUrl": "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/6ac6595/2147483647/strip/true/crop/2048x1430+0+0/resize/840x587!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2F57%2F3e257e5f130c40ac25e6a9b9078e%2Fla-1518827091-m3b6svi2yw-snap-image",
-          "width": 840,
-          "height": 587,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true",
-      "publishedDateTime": "2020-11-07T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-us-election-live-democracy-works-says-joe-biden-as-he-urges-patience-with-count-showing-him-on-verge-of-win.md",
-      "title": "US election live: 'Democracy works,' says Joe Biden as he urges patience with count showing him on verge of win",
-      "excerpt": "Georgia confirms recount while Democratic candidate leads president in two key battleground states – follow all the latest news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa683d58f0870a6e75f91a7",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa683d58f0870a6e75f91a7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d05d42e3e9b347488db3416c787e0484b7a50f47/0_0_640_716/master/640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78e6783bbbba423c2cd6a04bcd7519f7",
-          "width": 600,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates",
-      "publishedDateTime": "2020-11-07T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

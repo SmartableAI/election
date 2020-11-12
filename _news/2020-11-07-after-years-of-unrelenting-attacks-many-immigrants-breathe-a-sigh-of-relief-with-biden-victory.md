@@ -431,6 +431,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Girls, mothers inspired by Vice President-elect Kamala Harris"
+    excerpt: "NBC News speaks to Mothers, young women, and girls about the significance of Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-12T00:08:00Z
+    webUrl: "https://www.nbcnews.com/now/video/girls-mothers-inspired-by-vice-president-elect-kamala-harris-95743557724"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95743557724"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95743557724"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_harris_natpkg_201111_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote"
     excerpt: "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”"
     publishedDateTime: 2020-11-03T02:30:00Z

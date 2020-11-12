@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump allies clash with top intelligence officials in quest to declassify more Russia documents "
+    excerpt: "As President Donald Trump and his allies continue to publicly dispute the outcome of the election, they are also quietly seeking to discredit the Russia investigation that has cast a dark cloud over the administration for more than four years.\n    \n"
+    publishedDateTime: 2020-11-11T23:50:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gFhr7arr3A0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200701190301-president-trump-intelligence-briefings-russia-threats-sciutto-tsr-vpx-00000822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Lost the Race. But Republicans Know It’s Still His Party."
     excerpt: "Inside the Zoom salons, Senate-office conversations and 2024 jockeying that will shape the future of the G.O.P."
     publishedDateTime: 2020-11-09T09:32:00Z

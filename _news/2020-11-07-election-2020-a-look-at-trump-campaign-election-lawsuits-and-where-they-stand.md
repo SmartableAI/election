@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/election-2020-trump-campaign-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748"
 type: article
 quality: 136
-heat: 596
+heat: 616
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
         width: 817
         height: 545
+        isCached: true
+  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
+    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
+    publishedDateTime: 2020-11-11T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Donald Trump's aides are increasingly gloomy – and mad at other GOP officials"
     excerpt: "Some aides to President Donald Trump said they're not giving up on the election, but they're also bracing for the worst. They're also upset with other Republicans who have not spoken out against the ongoing election count as forcefully as Trump has."

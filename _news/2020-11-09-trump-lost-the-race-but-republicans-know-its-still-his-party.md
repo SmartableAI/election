@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump allies clash with top intelligence officials in quest to declassify more Russia documents "
+    excerpt: "As President Donald Trump and his allies continue to publicly dispute the outcome of the election, they are also quietly seeking to discredit the Russia investigation that has cast a dark cloud over the administration for more than four years.\n    \n"
+    publishedDateTime: 2020-11-11T23:50:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gFhr7arr3A0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200701190301-president-trump-intelligence-briefings-russia-threats-sciutto-tsr-vpx-00000822-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "pv/+0GYoS7Av+ITCnM5gUIxK1dfyGXMtvI5+6nw73aeUCX4Ts/oK4tbxXfUIMtBoiJM68egS1zt43gWigEkQD4876i4rSO5FqcrXdhT7SSAleE9RrDrTHNiL0s6eLVhOIggRyZO6xO+vHBVBL3jHCxsx6JhzZigpo+Oy1PsUtVGFMwMzmy6UgiNo9iRJ1aI97EHJsVhUxevDNxjGKhbPbxopwu95+gCmdANSrrMh01EsRsCvkYpop7CRbJkxr0xZUdwlZFH4pGV9cr2SVF+FeWUVcd3E01IkzFx/VchgYmQWIDivHhi2liM0v4B5rCoKhqX9fn+OA/Qsice3qbMz988d9lzOtNhWev4zeTtUMSc=;VJmgoWb/mXMR8oRGszV6Ag=="
 ---

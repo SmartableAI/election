@@ -2814,6 +2814,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "When Trump Vandalizes Our Country"
+    excerpt: "The president should grit his teeth and repeat Hillary Clinton’s line from 2016: “We must accept this result.”"
+    publishedDateTime: 2020-11-11T23:34:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/opinion/trump-election-fraud.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/opinion/trump-election-fraud.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/opinion/trump-election-fraud.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/11/opinion/11kristof1/11kristof1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "NBC News projects Biden will win Nebraska's Second Congressional District"
     excerpt: "NBC News projects that Joe Biden will win an electoral vote from Nebraska's Second Congressional District in the 2020 presidential race."
     publishedDateTime: 2020-11-04T06:49:00Z

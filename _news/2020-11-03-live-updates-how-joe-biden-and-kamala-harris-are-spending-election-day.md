@@ -1660,11 +1660,11 @@ related:
         height: 545
         isCached: true
   - title: "Biden says nothing will stop transition as Trump vows new legal action"
-    excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, while President Donald Trump pursued lawsuits in several states in a long-shot bid to hold on to power."
+    excerpt: "President Donald Trump will push ahead on Tuesday with longshot legal challenges to his loss to Democratic President-elect Joe Biden in last week's election, as Republican officials at the state and federal level lined up behind him."
     publishedDateTime: 2020-11-11T08:23:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27Q0L6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L6"
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27Q0LI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0LI"
     type: article
     provider:
       name: Reuters
@@ -1725,17 +1725,17 @@ related:
         isCached: true
   - title: "Trump campaign sues Michigan to prevent certification of Biden win"
     excerpt: "Donald Trump's presidential campaign on Wednesday sued Michigan to block the U.S. state from certifying last week's election results, where the president has trailed Democrat Joe Biden."
-    publishedDateTime: 2020-11-11T16:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-legal-challenges-michiga-idUSKBN27R2AT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R2AT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R2AT"
+    publishedDateTime: 2020-11-11T21:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-legal-challenges-michigan-idUSKBN27R2FL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R2FL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R2FL"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 140
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540862964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA1B9"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540869136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA1EG"
         width: 817
         height: 545
         isCached: true
@@ -2848,6 +2848,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540785862&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA923B"
         width: 836
         height: 545
+        isCached: true
+  - title: "Trump campaign witness says it was 'odd' that US troops voted for Joe Biden in large numbers"
+    excerpt: "Recent polls show active-duty troops were split on the presidential candidates, with one showing Biden taking a slight lead."
+    publishedDateTime: 2020-11-11T23:49:00Z
+    webUrl: "https://www.businessinsider.com/military-veteran-vote-joe-biden-trump-lawsuit-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/military-veteran-vote-joe-biden-trump-lawsuit-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-veteran-vote-joe-biden-trump-lawsuit-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5fac79e77f8f4200182a66cc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden is planning to declare victory if news organizations say he won the presidential election — even if Trump won't concede"
     excerpt: "The Democrat is planning to address the nation on Tuesday night, regardless of what the results show."
@@ -3988,9 +4004,9 @@ related:
   - title: "'Nothing's going to stop' transition of power in U.S., Biden says"
     excerpt: "President-elect Joe Biden said on Tuesday that nothing would stop the transfer of power in the U.S. government, even as President Donald Trump says without evidence the election was marred by fraud and some of his Republican allies back probes."
     publishedDateTime: 2020-11-11T02:17:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idCAKBN27Q0LI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27Q0LI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27Q0LI"
+    webUrl: "https://www.reuters.com/article/usa-election/nothings-going-to-stop-handover-of-power-in-us-biden-says-idUSKBN27Q0L6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0LI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0LI"
     type: article
     provider:
       name: Reuters
@@ -4128,6 +4144,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540589176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81OP"
         width: 817
         height: 545
+        isCached: true
+  - title: "Arizona’s Republican AG Says Biden ‘Will Win Arizona,’ Trump Campaign Lawsuit Won’t ‘Make A Difference’"
+    excerpt: "As President Donald Trump continues to promote baseless allegations of widespread voter fraud, Arizona Attorney General Mark Brnovich, a Republican, said Wednesday president-elect Joe Biden will win Arizona and criticized the Trump campaign for filing a lawsuit challenging just 180 votes."
+    publishedDateTime: 2020-11-11T23:21:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/11/11/arizonas-republican-ag-says-biden-will-win-arizona-trump-campaign-lawsuit-wont-make-a-difference/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/11/11/arizonas-republican-ag-says-biden-will-win-arizona-trump-campaign-lawsuit-wont-make-a-difference/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/11/11/arizonas-republican-ag-says-biden-will-win-arizona-trump-campaign-lawsuit-wont-make-a-difference/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 124
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fac6fb35740b3458946a09f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D83%26cropY2%3D1771"
+        width: 1200
+        height: 675
         isCached: true
   - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
     excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
@@ -6246,6 +6278,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9756901c-8b74-48d5-9d05-5adef2637c40_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden vows to press forward with transition"
+    excerpt: "Watch \"President-elect Joe Biden vows to press forward with transition\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-11T18:16:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201111194355-president-elect-joe-biden-vows-to-press-forward-with-transition/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/11/story_07647387_1605124084.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump honors Veterans Day at Tomb of the Unknown"
     excerpt: "President Donald Trump has observed Veterans Day at Arlington National Cemetery. It was his first public appearance after spending the last several days holed up at the White House tweeting baseless claims of voter fraud after his election loss."

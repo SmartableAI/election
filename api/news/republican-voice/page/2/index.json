@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-08-romney-says-trump-should-follow-every-legal-option-he-has-but-choose-words-carefully.md",
+      "title": "Romney says Trump should 'follow every legal option he has,' but choose words 'carefully'",
+      "excerpt": "Sen. Mitt Romney, R-Utah, has no problem with President Trump challenging the 2020 election results in court, but said that he should tone down his public rhetoric.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aIPzEJwJ4M/romney-trump-election-legal-options-choose-words-carefully",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aIPzEJwJ4M/romney-trump-election-legal-options-choose-words-carefully",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2afb325-628d-4555-9f91-0f96e2a4c747/64e456b4-b4e1-4314-8170-0a961286f86f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/romney-trump-election-legal-options-choose-words-carefully.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-trump-election-legal-options-choose-words-carefully.amp",
+      "publishedDateTime": "2020-11-08T07:10:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-buttigieg-republican-senate-would-go-against-will-of-the-people-by-opposing-biden-agenda.md",
       "title": "Buttigieg: Republican Senate would go against 'will of the people' by opposing Biden agenda",
       "excerpt": "Biden transition team member Pete Buttigieg said Sunday that even if they win enough races to maintain control of the Senate, Republicans would be opposing the will of the American people if they stand in the way of President-elect Joe Biden's agenda.",
@@ -463,7 +519,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2085,
+      "heat": 2105,
       "tags": null,
       "images": [
         {
@@ -856,7 +912,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 435,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -1626,62 +1682,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary.md",
-      "title": "Colorado Sen. Michael Bennet not interested in being Biden's education secretary",
-      "excerpt": "Colorado’s senior Democratic senator has said he would not be interested in serving as education secretary under a prospective Joe Biden’s administration, despite his background in public education.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/URD0qG8SsMk/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/URD0qG8SsMk/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f63ae9c-e71d-44c6-bb32-f901a0c56576/06f4d830-7558-44eb-9e75-5af937341bd4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-sen-michael-bennet-not-interested-in-being-bidens-education-secretary.amp",
-      "publishedDateTime": "2020-11-03T14:46:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

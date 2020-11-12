@@ -271,6 +271,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden lead in Pennsylvania over Trump has grown to more than 50,000 votes"
+    excerpt: "Presidential-elect Joe Biden is now leading President Trump by over 50,000 votes in Pennsylvania, a state where Trump is contesting the results of the election days after Biden was declared a winner. "
+    publishedDateTime: 2020-11-11T23:56:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FYUuD92nuMo/joe-bidens-lead-over-president-trump-has-grown-to-more-than-50000-votes-in-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-bidens-lead-over-president-trump-has-grown-to-more-than-50000-votes-in-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-bidens-lead-over-president-trump-has-grown-to-more-than-50000-votes-in-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/275b1a55-90dc-46ac-9fd8-cac793143d93/2f478fb5-5463-4a65-80c3-b39b2d46e698/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump vows more legal moves, as top Republicans mum on projected Biden win"
     excerpt: "Despite Joe Biden being projected as the next president-elect, President Trump is pushing forward with legal challenges as vote tallies continue, and Republican leaders have largely avoided weighing in on the latest developments."
     publishedDateTime: 2020-11-08T14:30:53Z
