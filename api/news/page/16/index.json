@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-24-vp-mike-pence-stops-in-swanton.md",
+      "title": "VP Mike Pence stops in Swanton",
+      "excerpt": "From hitting the links to hitting the trails -- it may not look like much from the highway, but a big project is underway on the former site of the Spuyten Duyval and Cottonwood Creek golf courses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.13abc.com/video/2020/10/23/vp-mike-pence-stops-swanton/",
+      "originalUrl": "https://www.13abc.com/video/2020/10/23/vp-mike-pence-stops-swanton/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/EmNxNTzTFXBObjoLmE5GcoFrZMM=/980x0/smart/do0bihdskp9dy.cloudfront.net/10-23-2020/t_5969b745094d4ac3a7e29582486f620c_name_file_1280x720_2000_v3_1_.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "13abc.com",
+        "domain": "13abc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-fact-check-post-claiming-joe-biden-wants-to-put-farms-in-land-banks-is-missing-context.md",
       "title": "Fact check: Post claiming Joe Biden wants to put farms in 'land banks' is missing context",
       "excerpt": "At a September town hall, Biden said he wants to put farms into \"land banks.\" Some have taken this to mean he wants a government takeover of farmland.",
@@ -1273,49 +1316,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-fact-check-is-kamala-harris-more-liberal-than-bernie-sanders-charlotte-observer.md",
-      "title": "Fact Check: Is Kamala Harris ‘more liberal than Bernie Sanders’? | Charlotte Observer",
-      "excerpt": "President Donald Trump said during Thursday’s debate that Kamala Harris is “more liberal than Bernie Sanders” and is eager to see government-run health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246645198.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246645198.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/b428e196-612e-452c-83b9-15d61114f11b/dcd15672-7f2e-445a-b020-202ff75ee139/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/politics-government/election/article246645198.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246645198.html",
-      "publishedDateTime": "2020-10-22T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

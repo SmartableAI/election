@@ -271,6 +271,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: Top Republicans back Trump's election fight"
+    excerpt: "Top Republican officials are continuing to back President Trump's quest to challenge the 2020 presidential election via recounts and allegations of voter fraud, days after Fox News and other media outlets projected Democrat Joe Biden as the winner."
+    publishedDateTime: 2020-11-12T05:20:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qc9Oee34M4Q/live-updates-top-republicans-back-trumps-election-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-top-republicans-back-trumps-election-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-top-republicans-back-trumps-election-fight.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/709b06b6-d533-4082-a1da-c929b8cf3b15/8fcfeb95-2900-464f-b5c4-b5a5ff9fe1cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump 'undermining' his legal team with claims of stolen election: Turley"
     excerpt: "President Trump needs to \"tap down the rhetoric\" about claims of Democrats stealing the election, Fox News contributor Jonathan Turley argued Friday."
     publishedDateTime: 2020-11-06T15:16:07Z
@@ -702,6 +718,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Ronald-Klain-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Live Updates: Biden's lead grows in Pennsylvania"
+    excerpt: "Presidential-elect Joe Biden is now leading President Trump by more than 50,000 votes in Pennsylvania."
+    publishedDateTime: 2020-11-12T05:20:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump warns Dems aiming to take the Senate, double downs on final victory"
     excerpt: "President Trump took to Twitter early Friday to warn his followers that Democrats have their sights set on winning the Senate, but vowed that Republicans would ultimately prevail, despite what looked like an uphill climb."

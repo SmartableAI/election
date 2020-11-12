@@ -224,6 +224,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Few Courts Have Intervened in Elections in Ways Sought by Trump Campaign"
+    excerpt: "The types of requests being made by the Trump campaign, such as keeping a state from certifying its election based on allegations that GOP poll observers lacked sufficient access, have rarely succeeded."
+    publishedDateTime: 2020-11-12T01:32:00Z
+    webUrl: "https://www.wsj.com/articles/few-courts-have-intervened-in-elections-in-ways-sought-by-trump-campaign-11605126759"
+    ampWebUrl: "https://www.wsj.com/amp/articles/few-courts-have-intervened-in-elections-in-ways-sought-by-trump-campaign-11605126759"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/few-courts-have-intervened-in-elections-in-ways-sought-by-trump-campaign-11605126759"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-258616/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Gingrich Says Trump Commitment to Election Legal Battle Has Intensified"
     excerpt: "Former House Speaker Newt Gingrich, a vocal proponent of the Trump campaign's continuing efforts to fight the election outcome, said President Trump's commitment to the legal battle has only intensified in recent days."
     publishedDateTime: 2020-11-10T02:34:00Z

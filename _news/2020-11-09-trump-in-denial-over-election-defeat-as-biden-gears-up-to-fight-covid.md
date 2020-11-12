@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 4225
+heat: 4245
 published: true
 
 provider:
@@ -2860,6 +2860,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/10/business/10vote-fraud-media-01/merlin_179670546_4f48f4a6-64b8-4d58-9802-619cb8c14709-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump's stunning abdication of leadership comes as pandemic worsens"
+    excerpt: "President Donald Trump had predicted in almost every campaign rally that the media would stop talking about the coronavirus pandemic the day after the election. But as it turns out, no one is ignoring the worsening tragedy more than the President himself."
+    publishedDateTime: 2020-11-12T05:02:00Z
+    webUrl: "https://www.cnn.com/2020/11/12/politics/donald-trump-coronavirus-leadership/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/donald-trump-coronavirus-leadership/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/donald-trump-coronavirus-leadership/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110094018-01-donald-trump-1105-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "When Trump Vandalizes Our Country"
     excerpt: "The president should grit his teeth and repeat Hillary Clinton’s line from 2016: “We must accept this result.”"

@@ -110,6 +110,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-donald-trump-supporters-can-get-free-food-at-kentucky-restaurants-owned-by-the-same-couple-but-theres-a-catch.md",
+      "title": "Donald Trump supporters can get free food at Kentucky restaurants owned by the same couple. But there's a catch.",
+      "excerpt": "Louisville restaurant owners Troy King and Selena Johnson are offering free food to anyone who trades in Donald Trump merchandise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/11/kentucky-restaurant-free-meal-donald-trump-maga-supporters/6261164002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/11/kentucky-restaurant-free-meal-donald-trump-maga-supporters/6261164002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/01/21/PLOU/959e4d35-d555-469a-98b0-632ce95f5d86-0116DINE_6ForksBurgerCo02_DRL.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6261164002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6261164002",
+      "publishedDateTime": "2020-11-11T20:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-flashback-bidens-chief-of-staff-pick-admits-obama-admin-did-everything-wrong-with-h1n1.md",
       "title": "FLASHBACK: Biden's chief of staff pick admits Obama admin did everything wrong with H1N1",
       "excerpt": "The former Obama administration official said it was pure luck H1N1 wasn’t one of the great mass casualty events in American history.",
@@ -1305,62 +1357,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-bernie-sanders-seeks-support-from-allies-in-push-to-lead-bidens-labor-department.md",
-      "title": "Bernie Sanders seeks support from allies in push to lead Biden's Labor Department",
-      "excerpt": "Sen. Bernie Sanders is seeking the support of top labor leaders as he ramps up a campaign for the Labor secretary post in President-elect Joe Biden's administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qIPtWi85f1E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qIPtWi85f1E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200722171810-bernie-sanders-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html",
-      "publishedDateTime": "2020-11-10T18:08:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

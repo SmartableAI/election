@@ -89,6 +89,22 @@ related:
         width: 809
         height: 545
         isCached: true
+  - title: "Man threatened to blow up people celebrating Biden victory, FBI building, prosecutors say"
+    excerpt: "A New York City man was arrested Tuesday and is facing federal charges after he allegedly made death threats against people celebrating President-elect Joe Biden's victory. Brian Maiorana, 54, of Staten Island,"
+    publishedDateTime: 2020-11-11T16:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/11/nyc-man-brian-maiorana-threatened-election-violence-against-democrats/6247339002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6247339002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6247339002"
+    type: article
+    provider:
+      name: Statesman Journal
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/29c0c1c0-f434-4b24-beca-761079809f1f-AFP_AFP_8UR76T.jpg?auto=webp&crop=1023,575,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
     excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."
     publishedDateTime: 2020-11-10T19:29:00Z

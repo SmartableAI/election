@@ -79,6 +79,22 @@ related:
         width: 753
         height: 545
         isCached: true
+  - title: "Man threatened to blow up people celebrating Biden victory, FBI building, prosecutors say"
+    excerpt: "A New York City man was arrested Tuesday and is facing federal charges after he allegedly made death threats against people celebrating President-elect Joe Biden's victory. Brian Maiorana, 54, of Staten Island,"
+    publishedDateTime: 2020-11-11T16:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/11/nyc-man-brian-maiorana-threatened-election-violence-against-democrats/6247339002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6247339002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6247339002"
+    type: article
+    provider:
+      name: Statesman Journal
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/29c0c1c0-f434-4b24-beca-761079809f1f-AFP_AFP_8UR76T.jpg?auto=webp&crop=1023,575,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
     excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."
     publishedDateTime: 2020-11-10T19:29:00Z
@@ -108,6 +124,6 @@ related:
         height: 485
         isCached: true
 
-secured: "6oZhj1xLM+2TOGBHDQU4gBUsYH3+5b7UPEE0eWbb4wGoKWuuuLOukkmUWeH/OKzRckuike/KiqKhv/NYDMgQKdWtOJi6PAzNyELHEsNlAPIQ0+Am872ACo5bDGOZ2D4zVjyxCjItyVKbSwfKB2Sswp/6WQJS+GosNHMv/3Y50skJqtF6fnQLEhdhuoXGW1bstTFH2FvjKSz8Ro+kw/br7no7pxQQu/a81y6JaOA9vyNrgTyNus1jVZhLRckYinh0PS1hdSswMupQ7MluyIK04EiUtQhpuexq+6HcXtMz+9fXOcPJz0WtlpQ7RL9Zf5j2C4YRF5e4CMue0L4aKhB581kcOPABlzwkd176/X2Fut0=;w3ArIhmfmMjvN3VxF9jwjg=="
+secured: "bPYG0CW8YnLqYgUqaeBv1ls6ZqHHMUNTwMnYhsnMb5S5s3p2ORm+oQlhO+ZdAd6EW5eqWmLVk7Wnql4lADBwrcoAo91k3jKofuzl6OHi4BvWCoPGRV9XD+wthzregoawTx0umDg7MfLe1H4INR1ThTpVLO0RDxWIIqF1h4SUCOj7hwsnEYtyAdr/w8RkJhSte4mNVzXggsM3zNz+1SCZtjVaKalY2KMreWbR77q2wDTUzhixppNXeyr8mtEdkcIohar+ZGh1NWCM/t4JoNHeGr2rEkledLq5VE9rTKVskt9HcDDY3LqOaR/aA2SGaWQcqMDPq0zdzXR0cu0WEPM+q0nNCdyDPhqVjvaMOFYKa+u9ddTdcc4YlRebfk5zjYORbYY3rwM0+kJe8kYqhBXXyp44wGfv9DyowGgUteo4XaYUhfPu8CHNcInmh4V2QpWE7SgY4mnXkwYMzssa3Ac+FZdahxVCbyx4AKRRp/YHYp9pmBMVXm0ejMMPhI2+8IE1OizdX3mFd7IgCpPzT1dDLg==;GQ9mnluOIWWDbOKQv3EApQ=="
 ---
 

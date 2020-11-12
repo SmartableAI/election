@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion
 webUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987"
 type: article
 quality: 115
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "WSJ Opinion: Joe Biden’s Florida Nightmare"
+    excerpt: "Want to know why no one will give an inch in 2020? Revisit Bush v. Gore in the 2000 election. Images: Newsmakers/Getty Images Composite: Mark Kelly"
+    publishedDateTime: 2020-11-12T06:04:00Z
+    webUrl: "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-joe-bidens-florida-nightmare/24732335-A732-4890-9AC9-41FA9851718F"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20201111/111120opvidwonderland/111120opvidwonderland_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "bhuuX1DBCqx9yYGDI8TVtPIuZUy2ut93Qzx7UL0CEbAd284+xFYH7LiGCeQCVUIOlJBYYB83qY7piFlaozWiT1LfBWYenX0kyTA4yGPFJBZCzc4Q1IfFdAmQmTrqNOzIOrn21IkzvE9q+SiK7j0kVFMTzTbxa7DGOBWdsOeyvkxgNNtolO30YdeqGY0h5Wb8NjMSMv3BRBpWULSIjfV5Juf9XEJcwu9zTeYq2vc1UlGcqBcL0BIBm61OZW/Vtu5Q9rBgqdXPRj6tg+5QVq2ioFRwtGH+DODSUvjutPFNMsklVvheNVCeQ6PAlV1k4RKyY4OCuhPt7OO+wXwNcnqLdjVE/1XAebxH2ovk/aBYUooYifV8ge1z49EmV6PwtLDtUEZWlNptJpR+5YqiNSvkjE+Lp7C0tn6nfKhPOFo18LF/HiHnI6ln90LZlXoa1BXO0TxNLVYN++77LGasBCRKGzUnuU587DU4/HKxnxIyYIjV7vz7a7WqoPL2R+gnl7SIjhEhSxFDLwCwThEwyCDgmw==;+Ad59FreDgzMIUY61b+f3w=="
 ---

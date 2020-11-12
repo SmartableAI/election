@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-10-14-trump-prays-for-wisdom-and-grace-to-lead-country-in-call-with-evangelical-leaders.md",
+      "title": "Trump prays for 'wisdom and grace' to lead country in call with evangelical leaders",
+      "excerpt": "President Trump thanked everyone who prayed for him after recovering from the coronavirus on a campaign prayer call with evangelical leaders.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTFNFuuJpe8/trump-prayer-call-evangelical-christian-leaders",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTFNFuuJpe8/trump-prayer-call-evangelical-christian-leaders",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp",
+      "publishedDateTime": "2020-10-14T10:42:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit.md",
       "title": "‘Socialist Nightmare’: Trump Casts Democratic Plans As Apocalyptic Amid Polling Deficit",
       "excerpt": "In a speech to a consortium of economic clubs, the president warned of a ‘catastrophe of unimaginable proportions’ under Biden.",
@@ -1289,58 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-betting-on-the-base-can-trump-win-again.md",
-      "title": "Betting on the 'base' — can Trump win again?",
-      "excerpt": "President Trump has said he intends to win the 2020 election the same way he won the 2016 election. Not with a popular vote strategy. With an electoral vote strategy. He expects his vaunted “base” — concentrated in a few crucial states — to deliver an electoral vote majority for him just as it did four years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
-      "originalUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trump_supporter_rally_101020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp",
-      "publishedDateTime": "2020-10-13T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

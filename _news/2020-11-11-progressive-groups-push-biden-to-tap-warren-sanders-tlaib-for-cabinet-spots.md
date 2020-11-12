@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Warren credits Biden win to ‘most progressive economic’ platform ever"
+    excerpt: "Joe Biden denied President Trump a second term in the White House last week in part because he ran on “the most progressive economic and racial justice platform” ever, a prominent Democrat wrote Wednesday."
+    publishedDateTime: 2020-11-12T06:10:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmFBOC-SLs0/warren-credits-biden-win-to-most-progressive-economic-platform-ever"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-credits-biden-win-to-most-progressive-economic-platform-ever.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-credits-biden-win-to-most-progressive-economic-platform-ever.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/gettyimages-warren.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "US-China relationship remains a challenge for Biden amid Hong Kong struggles"
     excerpt: "Chinese President Xi Jinping is one of the few major super powers yet to congratulate president-elect Joe Biden on his presidential win, though this is unlikely to further tamper the slew of foreign policy challenges facing U.S.-China relations."
     publishedDateTime: 2020-11-12T02:48:39Z

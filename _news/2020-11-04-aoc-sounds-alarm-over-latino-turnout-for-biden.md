@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turno
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78efc78f-3851-47fe-8b98-54e57206d4c1/f47a57b8-5ad9-4cfc-b30b-578e99b72491/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Warren credits Biden win to ‘most progressive economic’ platform ever"
+    excerpt: "Joe Biden denied President Trump a second term in the White House last week in part because he ran on “the most progressive economic and racial justice platform” ever, a prominent Democrat wrote Wednesday."
+    publishedDateTime: 2020-11-12T06:10:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmFBOC-SLs0/warren-credits-biden-win-to-most-progressive-economic-platform-ever"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-credits-biden-win-to-most-progressive-economic-platform-ever.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-credits-biden-win-to-most-progressive-economic-platform-ever.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/gettyimages-warren.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Progressive groups push Biden to tap Warren, Sanders, Tlaib for Cabinet spots"
     excerpt: "The President-elect may face a growing ideological split within the Democratic Party."

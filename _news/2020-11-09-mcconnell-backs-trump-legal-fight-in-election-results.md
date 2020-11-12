@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-legal-fight-electio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp"
 type: article
 quality: 190
-heat: 550
+heat: 570
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Few Courts Have Intervened in Elections in Ways Sought by Trump Campaign"
+    excerpt: "The types of requests being made by the Trump campaign, such as keeping a state from certifying its election based on allegations that GOP poll observers lacked sufficient access, have rarely succeeded."
+    publishedDateTime: 2020-11-12T01:32:00Z
+    webUrl: "https://www.wsj.com/articles/few-courts-have-intervened-in-elections-in-ways-sought-by-trump-campaign-11605126759"
+    ampWebUrl: "https://www.wsj.com/amp/articles/few-courts-have-intervened-in-elections-in-ways-sought-by-trump-campaign-11605126759"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/few-courts-have-intervened-in-elections-in-ways-sought-by-trump-campaign-11605126759"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-258616/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Blacks and Latinos for Trump"
     excerpt: "The president lost, but he did a good deal better with minorities in 2020 than he did in 2016."

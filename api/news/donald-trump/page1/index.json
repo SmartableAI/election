@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-donald-trump-supporters-can-get-free-food-at-kentucky-restaurants-owned-by-the-same-couple-but-theres-a-catch.md",
+      "title": "Donald Trump supporters can get free food at Kentucky restaurants owned by the same couple. But there's a catch.",
+      "excerpt": "Louisville restaurant owners Troy King and Selena Johnson are offering free food to anyone who trades in Donald Trump merchandise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/11/kentucky-restaurant-free-meal-donald-trump-maga-supporters/6261164002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/11/kentucky-restaurant-free-meal-donald-trump-maga-supporters/6261164002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/01/21/PLOU/959e4d35-d555-469a-98b0-632ce95f5d86-0116DINE_6ForksBurgerCo02_DRL.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6261164002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6261164002",
+      "publishedDateTime": "2020-11-11T20:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-trump-endorses-ronna-mcdaniel-to-remain-rnc-chair.md",
       "title": "Trump endorses Ronna McDaniel to remain RNC chair",
       "excerpt": "U.S. President Donald Trump on Wednesday endorsed Republican National Commmittee chair Ronna McDaniel to stay on in her position, crediting her with much of the support Trump received in the presidential election that he lost but is contesting.",
@@ -1033,7 +1085,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10681,
+      "heat": 10701,
       "tags": null,
       "images": [
         {
@@ -1534,58 +1586,6 @@
       "ampWebUrl": "https://www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11?amp",
       "publishedDateTime": "2020-11-07T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-bolsonaro-abandons-friend-trump-after-2020-election-says-hes-not-the-most-important-person-in-the-world.md",
-      "title": "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'",
-      "excerpt": "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11",
-      "originalUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp",
-      "publishedDateTime": "2020-11-06T20:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

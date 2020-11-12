@@ -6364,14 +6364,14 @@ related:
   - title: "Biden vows to press forward with transition"
     excerpt: "Watch \"President-elect Joe Biden vows to press forward with transition\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-11T18:16:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201111194355-president-elect-joe-biden-vows-to-press-forward-with-transition/"
+    webUrl: "https://www.cbsnews.com/live/video/20201111180538-president-elect-joe-biden-vows-to-press-forward-with-transition/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/11/story_07647387_1605124084.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/11/story_07647243_1605118204.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -6536,6 +6536,22 @@ related:
       - url: "https://i.insider.com/5fab45f7f24e720018a2abe8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "A Republican senator said he'll step in if the Trump administration does not grant Biden's transition team access to intelligence briefings by Friday"
+    excerpt: "\"There is no loss from him getting the briefings and to be able to do that,\" Sen. James Lankford said."
+    publishedDateTime: 2020-11-12T05:48:00Z
+    webUrl: "https://www.businessinsider.com/republican-senator-step-in-biden-isnt-given-intelligence-briefings-friday-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/republican-senator-step-in-biden-isnt-given-intelligence-briefings-friday-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republican-senator-step-in-biden-isnt-given-intelligence-briefings-friday-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5facbc987f8f4200182a670a?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 562
         isCached: true
   - title: "Here Are the States Joe Biden or Donald Trump Need to Win"
     excerpt: "As states continue counting their votes, here are the potential pathways to victory for Joe Biden or President Donald Trump."
@@ -7904,6 +7920,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "8h+hgWh80DV0jkt87Y9KOjcR6XDJzqm3dNTwu6+1GMcqpnHnxKYMq5qcFr6gnXTXoBcj11upCA0nQj/vQa/yPzRsbrryD6sKk0HRxb988kmIVIU3Y6AFYu0qE9HzjCHXjexVrkQRXLEwV4svWNx1fNmge+chfj0HGAYYrHY2o8llLFPjpYTZsA+/30aN8UsmePfSN0BzOTucli55ZNcP9+VjDqWPCYLeil329mfrx6yuIaTEQXA61UaVh4vab1WwOf1Z+WuEvRpSfqLGWAtLgrQfmW4z//pc5l3HwdWELc/I56fUOGVsdtm11yy9h90LYb1NbajyvxtUtaWuDyhkiNRLWiKGrfji5AuEw2ZqK1g=;e2Iq5mHQCQld5YJDE3Jrzw=="
+secured: "MU7Ja24nTHwevDRGHvYdPG/yNKD6Z/j3+slv74IBktZmF+zjsLw8GaSQvOzIpnPZ+pw/Lq83R8CiMDUb3K1/enYjwze9R7p+k2AyZe2wE3c852B8zYfozdbXavDQ+6zqoWEWxiN09csvBO0f/GjNyjekH56YgN63IP0nf4fwNVd72jgI8STKMjD30+u/+Zn3m5156C7hideHDmOTHifcB8ZotO0CQbDivvINIxmIHVLYh70zJUMvl6uNn38BefJuE6MQP9K8p1We0x7Clv99JIghyTUTTY/W02oxgGDfMc81lBqDCuofJGQ88XntYOVtQqCOG4vwd5i+h9loF6lx5enqfLbWIUBrlp9KfV4MTDNfapBBCQrMlveopMayDSxUXhKrJYeKEE8fOoZtRg6yg0W3wJJwRtPhiu+ETXWz9/qUarI+PSQsym+gvb1W2XQ5FC/mZ0Bh7RLUg/7lF2BybEItI2bUSD0HlTHpZ0fVVLqe8SI4xYrKrMQU/ssLjmkoy4L4SH8N4HK1Tr2W8T0v9A==;EI5t+5I9ael931O6yH/2Kw=="
 ---
 
