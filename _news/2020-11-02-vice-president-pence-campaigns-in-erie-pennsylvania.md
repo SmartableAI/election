@@ -867,6 +867,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden holds steady lead over Trump in Wisconsin, final Marquette poll finds"
+    excerpt: "Former Vice President Joe Biden continues to hold a steady lead over President Donald Trump in Wisconsin, according to a final preelection Marquette University Law School poll in the state."
+    publishedDateTime: 2020-10-28T19:50:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-donald-trump-joe-biden-wisconsin-poll-marquette-20201028-6juyb2pit5hbzezi7dfrhjr2ia-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-donald-trump-joe-biden-wisconsin-poll-marquette-20201028-6juyb2pit5hbzezi7dfrhjr2ia-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-donald-trump-joe-biden-wisconsin-poll-marquette-20201028-6juyb2pit5hbzezi7dfrhjr2ia-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 138
+    images:
+      - url: "https://www.chicagotribune.com/resizer/y4b6clW9-BG0EsDt7S3J4VkHqlQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6RUMCLPRJ5DKBHIQJTDYGHSX2E.jpg"
+        width: 1200
+        height: 834
+        isCached: true
   - title: "Is the stock market rooting for Trump or Biden? The answer may surprise you"
     excerpt: "It turns out the stock market cares more about which party controls Congress than it does about which party wins the presidency."
     publishedDateTime: 2020-10-29T04:07:00Z

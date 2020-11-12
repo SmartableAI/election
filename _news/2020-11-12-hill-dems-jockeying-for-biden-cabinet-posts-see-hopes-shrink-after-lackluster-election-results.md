@@ -303,6 +303,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pope Francis congratulates Biden on election win during phone conversation"
+    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
+    publishedDateTime: 2020-11-12T21:09:00Z
+    webUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation"
+    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/pope-biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "h0l9EuU8nIvFDlKHI56naU7+4Da1HdXLbLbPM1veJvHRwBuP8yz6MiweLz6ofFlIeBkS7boYIigcaHrPLPfG0OS8KZ8z1T1iqgL+odRLJO7GRpK54oSOA3a2kpljn6aDJ8eUE6diJKUUaWuKCXh7/4F7QxtDx7YAUpEiqLufwkVB9oEFO+ei9YXZS/ZtYBsdeSyWPTArrwn9wMWFHWyvjPfhZx9aO/unUcBMfFoWJAiVlREqTBtilB4Ezlp10WwslXx+6POta10ARcVp5Wo5rnCTsWA7NjhZoE1pCVfrA/FK1YaC/hePM7GBdOdXkEFxQarBusxsMyR+7nhLXOrpjhEh0n4GxpS2bkV7YqfXj34=;wKU4S1CIKo9qYyei7NLPOg=="
 ---

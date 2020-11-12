@@ -1070,6 +1070,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Chris Wallace: 'Joe Biden may have been done a favor if Republicans hold the Senate'"
+    excerpt: "The GOP holding the Senate majority would work in President-elect Joe Biden’s favor, \"Fox News Sunday\" host Chris Wallace told Fox News Radio's “The Brian Kilmeade Show” on Thursday."
+    publishedDateTime: 2020-11-12T21:26:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo_1sGtA8Xo/chris-wallace-joe-biden-gop-senate-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
     excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
     publishedDateTime: 2020-11-04T07:51:52Z

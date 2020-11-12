@@ -143,6 +143,22 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "Fact check: Some electoral maps show Trump leading with 232 votes. They're wrong."
+    excerpt: "A few electoral maps that show President Donald Trump in the lead at 232 electoral votes have spread around Facebook. They are wrong."
+    publishedDateTime: 2020-11-12T22:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/12/fact-check-electoral-maps-showing-donald-trump-lead-false/6261153002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6261153002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6261153002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The head of Trump's legal team that is challenging the 2020 election results reportedly tests positive for coronavirus"
     excerpt: "Several other officials in Trump's inner circle have recently contracted the virus, including HUD Secretary Ben Carson and chief of staff Mark Meadows."
     publishedDateTime: 2020-11-09T20:13:00Z

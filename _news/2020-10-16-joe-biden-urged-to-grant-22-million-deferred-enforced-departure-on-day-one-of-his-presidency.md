@@ -47,6 +47,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "If Biden wins what would the first 100 days of his presidency look like?"
+    excerpt: "If he succeeds in defeating Trump, the Democrat will have to urgently tackle the pandemic and rebuild global relationships Daniel Strauss and Julian Borger in Washington Joe Biden the last time he ..."
+    publishedDateTime: 2020-10-28T08:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/oct/28/joe-biden-presidency-first-100-days"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/28/joe-biden-presidency-first-100-days"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/28/joe-biden-presidency-first-100-days"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/b45e9e4eb9be53b8cd1a6f8880d89f598bafbd69/705_189_2291_1374/master/2291.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c2ba73d9e7a8ae7919b8339f117ce363"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Thursday briefing: Joe Biden with one hand on the prize"
     excerpt: "Photograph: Matt York/AP Hello, Warren Murray here with an electoral collage … By reliable, objective measures Joe Biden is winning the race to become the next US president. Overnight the Democrat has been projected to our satisfaction to be the victor ..."
     publishedDateTime: 2020-11-05T06:32:00Z

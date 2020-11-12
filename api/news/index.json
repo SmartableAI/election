@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-13-john-mccains-widow-says-its-time-for-trump-to-accept-the-results-and-get-on-with-the-healing.md",
+      "title": "John McCain's widow says it's time for Trump to 'accept the results and get on with the healing'",
+      "excerpt": "Cindy McCain described Joe Biden as \"a man of honor\" who would \"heal the wounds caused by the outgoing administration.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11",
+      "originalUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fad9cdf1e8d500019813396?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11?amp",
+      "publishedDateTime": "2020-11-12T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-pope-francis-congratulates-biden-on-election-win-during-phone-conversation.md",
       "title": "Pope Francis congratulates Biden on election win during phone conversation",
       "excerpt": "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect.",
@@ -14,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 528,
+      "heat": 548,
       "tags": null,
       "images": [
         {
@@ -446,7 +498,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 340,
       "tags": null,
       "images": [
         {
@@ -658,7 +710,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1296,58 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-australian-politics-live-scott-morrison-officially-congratulates-us-president-elect-joe-biden.md",
-      "title": "Australian politics live: Scott Morrison officially congratulates US president-elect Joe Biden",
-      "excerpt": "Energy Minister Angus Taylor declared #watergate over, after the Australian National Audit Office reported earlier this year on the government’s $80m purchase of water entitlements from Eastern Australian Agriculture in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news?page=with:block-5fac7f0c8f086b290cc55435",
-      "originalUrl": "https://www.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news?page=with:block-5fac7f0c8f086b290cc55435",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/74837c752551a67e91a327808668afe7bba30c91/0_137_3368_2022/master/3368.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10194d30e2d94cb9c370915a143f0403",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news",
-      "publishedDateTime": "2020-11-11T16:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

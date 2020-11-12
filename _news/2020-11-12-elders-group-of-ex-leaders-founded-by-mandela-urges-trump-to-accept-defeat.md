@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S20C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C"
 type: article
 quality: 122
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 817
     height: 545
     isCached: true
+
+related:
+  - title: "Nikki Haley, a high-profile Republican and possible 2024 presidential hopeful, has remained silent about Trump's unfounded election fraud claims"
+    excerpt: "UN ambassador hasn't commented on Trump's refusal to concede the election, sticking instead to tweets about GOP victories down ballot."
+    publishedDateTime: 2020-11-12T22:17:00Z
+    webUrl: "https://www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5fad69b4df90d000183781b4?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "BPcNlQ444JU3no6KS/9OHN8roWfhe3CEnbtB55oIrUQXAoq0el0pAEBX7mTWIyPc2QIA7VNCvbPpXqPyb35VCElxRVhLVYS/uk1d+jHFc9qL3wVZvFtAh8at/vhgVliPfrm4tV8gJ3YbIH4tHkoXTuo1heUKsF5cYhvJUnHOmF6R4+NCkwmuja7BLf/MeKoe0QPcjnhZkp73EiqbD6UnCo/Vt2htwAdsQHyg5BP5RAgGTnAF5t1XhgJJEirlap7N2f992BuB/+Fg9CWH6ZoBtmsW7m4zKCjlhZnyf3/ExbBtnjP392rntepvXlmia13JuNIWvQa7VcjUQV1yhQ1j3QS4epKaQj6eXidyvI097cY=;/g6uNQlHA5fwRscAJYapyA=="
 ---

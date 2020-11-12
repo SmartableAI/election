@@ -1,29 +1,29 @@
 ---
 category: news
-title: "California Senate sweepstakes: Who gets Kamala Harris’ job?"
-excerpt: "Election Day is over but California already is consumed with its next high-profile political contest () -- the competition to fill Kamala Harris' soon-to-be-vacant U.S. Senate seat. In this race only one"
-publishedDateTime: 2020-11-12T20:01:00Z
-originalUrl: "https://www.abqjournal.com/1517367/california-senate-sweepstakes-who-gets-kamala-harris-job.html"
-webUrl: "https://www.abqjournal.com/1517367/california-senate-sweepstakes-who-gets-kamala-harris-job.html"
-ampWebUrl: "https://www.abqjournal.com/1517367/california-senate-sweepstakes-who-gets-kamala-harris-job.html/amp"
-cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1517367/california-senate-sweepstakes-who-gets-kamala-harris-job.html/amp"
+title: "California Senate sweepstakes: Who gets Kamala Harris' job?"
+excerpt: "Election Day is over, but California already is consumed with its next high-profile political contest — the competition to fill Kamala Harris’ soon-to-be-vacant U.S. Senate seat."
+publishedDateTime: 2020-11-12T20:57:00Z
+originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/california-senate-sweepstakes-who-gets-kamala-harris-job/article_4ab5792e-9b95-5726-a8f5-a137bd9441ac.html"
+webUrl: "https://www.stltoday.com/news/national/govt-and-politics/california-senate-sweepstakes-who-gets-kamala-harris-job/article_4ab5792e-9b95-5726-a8f5-a137bd9441ac.html"
+ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/california-senate-sweepstakes-who-gets-kamala-harris-job/article_4ab5792e-9b95-5726-a8f5-a137bd9441ac.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/california-senate-sweepstakes-who-gets-kamala-harris-job/article_4ab5792e-9b95-5726-a8f5-a137bd9441ac.amp.html"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Albuquerque Journal
-  domain: abqjournal.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2020/11/12/AP-US-Senate-California-Harris-Replacement-IMG-630x429.jpg"
-    width: 630
-    height: 429
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/9a/99a930cd-5bc6-511e-961a-3e3f298c71e4/5fad4b8f4601f.image.jpg?resize=1024%2C698"
+    width: 1024
+    height: 698
     isCached: true
 
 related:
@@ -223,6 +223,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "D3VRZebjlCV5ylYXkZ2rvRtq4UWr67yxnMJYJ2m5yk2a4UwHShQ9OsA9KveqrIZhdUohvUC94SlvVZhBjJi+6gtEAii/lmeFAthDoZKWbzDkkASnm1UL8k6T38bLDlYu80yODij57XLrYahx2xQ5doKGkppspqf9IvhFxBN2gYzV/6RGXShEGtK47KuVrHmOV8PkeEPZMInXWgXoznBPcvOlrFXsa3ZcR2srp3nczdj2OALsKMYTJBUi3kIaDwJelH4xd4iulTgyWLoz+NNzP0DtgNoPAQO4dZWx40FwLf8x2xmDuFf6vmxZif96y0RL/8mAs850bGRIACm1YNlxKDE5VTHU64daCCd9ur61wec=;00xjUlDgPUYt7l7Unel7eg=="
+secured: "nF9/7wL7OCeFy9bSMzE9ZjjTa2ZOkoZiRcBwwHEltG4sSh8kTcmhIbLaeFAgcoEiHgVsH18HDDbBz3YkyR6U+PnqAnwNJY7RluOA4mBCs8hfJ3ORC5E0pANGPEr68W3cZKBV2IWFR5inYznVLh0xTh9WIsW3C3taJUj346WySaRYoVgul4DMNqOdlBSf8oj8lTTb2cLR2Rj64WgBwmmsSSeUvzTc/FiJg/DX3SF0/6/Oonqk626E0j9CfuDYVDM+JtYJ16bYlnWrgFhl7MPMXAlKJ25YiZBgkK+tHyXd6mcbYHMCNDFPaxAMfeLrDoL8xjGmKExDc6ifHc7ERC3taT8r5MSK/HFjhs1CKW729c0=;Pjzsx3o2amZbiX/jUeKfhg=="
 ---
 

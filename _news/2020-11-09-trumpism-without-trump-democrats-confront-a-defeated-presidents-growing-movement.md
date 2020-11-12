@@ -2383,6 +2383,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden begins transition plans as Trump refuses to concede"
+    excerpt: "President-elect Joe Biden has begun to outline transition plans as President Trump pursues legal challenges to election results. Follow here for the latest."
+    publishedDateTime: 2020-11-12T22:05:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-11-12-20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-trump-us-election-news-11-12-20/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-trump-us-election-news-11-12-20/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/57f9da18-d3ff-4322-a340-e33eeb863dfd.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "The Trump presidency is ending. What does that mean for Pence?"
+    excerpt: "Vice President Mike Pence has walked the Trump tightrope more successfully than anyone else in the president’s orbit, staying on his good side without having to echo his most incendiary language. But in the final weeks of Mr."
+    publishedDateTime: 2020-11-12T18:31:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/us/the-trump-presidency-is-ending-what-does-that-mean-for-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/the-trump-presidency-is-ending-what-does-that-mean-for-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/the-trump-presidency-is-ending-what-does-that-mean-for-pence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/us/politics/12transition-brief-pence/12transition-brief-pence-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."
     publishedDateTime: 2020-11-09T10:40:00Z
@@ -3050,6 +3082,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/11/us/politics/11DC-KLAIN/merlin_170307129_a46d8058-8ed2-4820-bb76-ceb60f360ce2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Joe Biden Will Face This Overlooked Crisis on Day 1"
+    excerpt: "Members of the new administration may have to reassemble a broken government before they can begin to use it for good."
+    publishedDateTime: 2020-11-12T14:00:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/opinion/biden-trump-federal-government.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/opinion/biden-trump-federal-government.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/opinion/biden-trump-federal-government.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/opinion/12schmitt-01/12schmitt-01-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

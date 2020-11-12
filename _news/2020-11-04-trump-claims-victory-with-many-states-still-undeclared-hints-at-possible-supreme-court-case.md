@@ -1069,6 +1069,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Chris Wallace: 'Joe Biden may have been done a favor if Republicans hold the Senate'"
+    excerpt: "The GOP holding the Senate majority would work in President-elect Joe Biden’s favor, \"Fox News Sunday\" host Chris Wallace told Fox News Radio's “The Brian Kilmeade Show” on Thursday."
+    publishedDateTime: 2020-11-12T21:26:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo_1sGtA8Xo/chris-wallace-joe-biden-gop-senate-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's first move as president-elect? Mask mandate for all. Here's how he plans on doing it."
     excerpt: "One of Joe Biden's first priorities as president-elect will be implementing mask mandates nationwide by working with governors. The future 46th president, however, says if they refuse than he will go to mayors and county executives and get local masking requirements in place."
     publishedDateTime: 2020-11-08T23:48:10Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-repu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/?outputType=amp"
 type: article
 quality: 140
-heat: 320
+heat: 340
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://i.insider.com/5fac0991b09abb0018625f3d?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
+        isCached: true
+  - title: "Fact check: Some electoral maps show Trump leading with 232 votes. They're wrong."
+    excerpt: "A few electoral maps that show President Donald Trump in the lead at 232 electoral votes have spread around Facebook. They are wrong."
+    publishedDateTime: 2020-11-12T22:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/12/fact-check-electoral-maps-showing-donald-trump-lead-false/6261153002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6261153002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6261153002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump dropped 3 agency heads in the days following the election, amid reports that more departures could be coming"
     excerpt: "The departures came amid speculation that other agency heads and government officials may be fired or resign from the Trump administration."

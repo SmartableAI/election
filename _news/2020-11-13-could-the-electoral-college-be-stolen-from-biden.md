@@ -351,6 +351,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Republicans urge Trump to allow Biden briefings as election challenges sputter"
+    excerpt: "More Republicans on Thursday broke with President Donald Trump's refusal to cooperate with Joe Biden, saying Biden is entitled to intelligence briefings even if they were not ready to recognize the Democrat as the winner of the Nov."
+    publishedDateTime: 2020-11-12T22:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27S0LV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0LV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0LV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 151
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541025758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Harris’s ancestral village in India gets festive as Biden leads count"
     excerpt: "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House."
     publishedDateTime: 2020-11-05T13:33:00Z
@@ -1790,6 +1806,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540931036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump, stewing over election loss, silent as virus surges"
+    excerpt: "President Donald Trump has publicly disengaged from the battle against the coronavirus at a time when the disease is tearing across the United States at an alarming pace"
+    publishedDateTime: 2020-11-12T22:32:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-stewing-election-loss-silent-virus-surges-74179709"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-stewing-election-loss-silent-virus-surges-74179709"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-stewing-election-loss-silent-virus-surges-74179709"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_9607da52354b4062bdccb699fb742fbe_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
@@ -4606,6 +4638,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden taps longtime aide Ron Klain, who led Ebola fight, as chief of staff"
+    excerpt: "U.S. President-elect Joe Biden appointed top Democratic official Ron Klain as his chief of staff and assistant to the president on Wednesday."
+    publishedDateTime: 2020-11-12T12:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-klain-idUSKBN27S02P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S02P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S02P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540912023&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB022"
+        width: 849
+        height: 545
+        isCached: true
   - title: "Upset and refusing to accept the election results, Trump appears to have forgotten he still has to govern"
     excerpt: "President Donald Trump's keen focus on his reelection loss has placed the US at a standstill without proper governance."
     publishedDateTime: 2020-11-12T13:23:00Z
@@ -6933,6 +6981,17 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Senior U.S. cybersecurity official asked to resign amid Trump transition tumult"
+    excerpt: "A senior U.S. cybersecurity official is leaving government after being asked to resign, an official familiar with the matter said Thursday, part of a wider thinning of President Donald Trump's administration following Joe Biden's election win."
+    publishedDateTime: 2020-11-12T22:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-cyber-resignation-idUSKBN27S2RW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2RW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2RW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
   - title: "Here Are the States Joe Biden or Donald Trump Need to Win"
     excerpt: "As states continue counting their votes, here are the potential pathways to victory for Joe Biden or President Donald Trump."
     publishedDateTime: 2020-11-04T13:59:00Z
@@ -6961,7 +7020,7 @@ related:
   - title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
     excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
     publishedDateTime: 2020-11-12T12:42:00Z
-    webUrl: "https://time.com/magazine/us/?fbclid=IwAR02kTXwD7PnzUdGPlzf8KOF_LUCextXSsYkK9k-N-iLyMs3T3z6LX6hBVEpage%2F2page%2F4page%2F6page%2F481page%2F7page%2F8page%2F7page%2F485page%2F3page/483"
+    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR3uwJnz4rx9ZJya1Vh03kolVQNbCkGdbF2ffCpqQFTEQt_uDRNDKC39zd4page%2F7page/23"
     type: article
     provider:
       name: Time
@@ -8344,6 +8403,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "kwvHssPrOZHzIR77YQA9xNp28S9wWphMKYU0nDVtmmXpt2Zi6x6EKfufT8S0rWUobef4Y1EzAUrxtl9i/HD3BEaw/rhhDy+ftXN5eWGbsibKS88sD9YviLf5tNZv67/5249BhwNr/8p618MxRW6qoOIlUalYP3DRnpRYH7H3Clh+42+l+Q73hh8BgApd9hkUTIi3ibCi329KNHk3bGfXM+Y6+HMJ4C/BaUyC18chTqK/GrfLW4qozp+ZmX3+gO/cpwEU2D4IC7fMrz7xCUkNjmhlXHMR8UHMsh/tsUppcusfAo9JMKksF4APOlxHDgyyOIgQrr6EnJj7YeVtYzGUu353ofMbhnys0AfXi7LpQGg=;qEpoiLgv3FMj19tn8l7WjQ=="
+secured: "58svU6rg6HHtskSjRaLKIApc6Z6z0srFQoC4o0IGjorrWtQ5W1Xr5xFku1osNXXwg/7rXaMwQ/W7TkJWI3NzbaElewPpkXrWXkUTkGnrUnK928HuIAH+Zy7xJ+GKDEe9FWw5aYhoP2mrqsN8iV3gJz4YCi9sKC7eCHXPdTiuwm6BJL2LJGXRoTbBroAGb/CVgOOorxE8HT76HkH5Notw59ldYUWIUiMdzD+2dozKhJ2hXIJ8JVlADOeXJFQIito4p1x6hdeUXYeE6ma4DvuUkuYwQVFhf0aD1hL8JjqxxWSIYH0XMB/s5zkveGvOjtzxYa293Aa1VGC09kB4vrBi+fH62dpIE97vwjbruwYPZKPbtqd+9YimYZlZTY6y3Fb6/OpqUsY9KWZawfrDnN5WBsUuKHZrk/s/WhejtCwbYitPOyIenY5vCOuItK2NpNORCcftSrjk8EXOyyDWHFagSUzsQQ+uFPB+ySJftmlcZFY90rfG/IMzecpTG1WqOkNbu1si+lAAKGA1y9SAjiDM4g==;mDwXCUVlslEFVojlYm34pw=="
 ---
 
