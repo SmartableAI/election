@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: What Joe Biden's choice for chief of staff says about his plans for the presidency"
+    excerpt: "RESOLVED: The single most important personnel decision a newly elected president makes is who will serve as their chief of staff.\n    \n"
+    publishedDateTime: 2020-11-12T15:11:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXpMh98YFM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/ron-klain-joe-biden-2020-biden-chief-of-staff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/ron-klain-joe-biden-2020-biden-chief-of-staff/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111221512-conclu-ron-klain-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden poised to announce his chief of staff as early as Thursday, with Ron Klain the leading finalist"
     excerpt: "President-elect Joe Biden is poised to name his White House chief of staff as early as Thursday, with longtime adviser Ron Klain the leading finalist for the post, three people familiar with the matter tell CNN.\n    \n"
     publishedDateTime: 2020-11-11T22:53:55Z

@@ -88,6 +88,15 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 80
+  - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
+    excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
+    publishedDateTime: 2020-10-15T18:30:00Z
+    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2020-10-15/trump-gop-leaders-will-appeal-north-carolina-ballot-ruling"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "tLrxnoWtI5f4WHXtmXaK//uBv/ajnuOmpR47N7r/1a3wnIy+LUWPl8WX7PJ/xpZ/pa0Vge7fqX5b9470rCkoDnUqh/WXMr0XLi3yzmtHADqiGIbVwZKp+vNEix+MrJ6RhfDVwfTsk+zSfCBbNa5SXZMN10kezZqcw7u+Z0WovZ1QkUNnZKkB4uzKfPW0lDNHikHUgAyrTovI1A1mHwJcqhdaue8mEgiJueoZ9kOug92lvngU6QqVnsqnkL7DpRaskQ67TzxJRtoLGMPTycAL6rgiv8FYKpqAcyIuyguNa2yZLcYvTjVj/RDcnMFRPHA0RyPy2MBHNzDYf7CTG002lfjNnTXeAaS5y31ylMlZutw=;4E4MEZbIO0LIB6XX7ccZiA=="
 ---

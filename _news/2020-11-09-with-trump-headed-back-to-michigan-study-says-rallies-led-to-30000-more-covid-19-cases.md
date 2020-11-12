@@ -47,6 +47,22 @@ related:
         width: 846
         height: 545
         isCached: true
+  - title: "Trump campaign loses lawsuit seeking to halt Michigan vote count"
+    excerpt: "A judge in Michigan on Thursday tossed out a lawsuit brought by U.S. President Donald Trump's campaign in hopes of halting vote-counting in the battleground state."
+    publishedDateTime: 2020-11-06T07:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-michigan-idUSKBN27M0A8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0A8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0A8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540205366&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA505Q"
+        width: 817
+        height: 545
+        isCached: true
   - title: "The Trump campaign is trying to stop ballot counting in Pennsylvania, Michigan, and Georgia"
     excerpt: "The effort is part of a mounting strategy from the Trump campaign to secure an Electoral College victory through the courts."
     publishedDateTime: 2020-11-05T00:24:00Z

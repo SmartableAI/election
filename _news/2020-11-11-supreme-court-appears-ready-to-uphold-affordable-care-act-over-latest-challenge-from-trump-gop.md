@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
+    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
+    publishedDateTime: 2020-11-10T20:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "Trump plans to share obituaries of dead people who he says voted, as he continues to push unproven voter fraud claims, Axios says"
     excerpt: "The president has continued to make unsubstantiated claims of mass voter fraud, contesting the results of the election."
     publishedDateTime: 2020-11-09T03:50:00Z
@@ -79,6 +95,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "YouTube Channels Making Money From Ads, Memberships Amplify Trump Voting Fraud Claims"
+    excerpt: "At least nine popular YouTube channels were promoting on Thursday debunked accusations about voting fraud in the U.S. presidential race, conspiratorial content that could jeopardize advertising and memberships revenue they get from the video service."
+    publishedDateTime: 2020-11-06T03:09:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
 
 secured: "QgoxYwsCPB8spAfoMCyfKkuqWRALTIF7ZTQ57nhxhtQHtjaLbjIxK5NEK4lvwDAr+toHKwDeeoWmAabX9RQUlJ6lvyEwQegIRc8RO3kjwRgip1NiZX2B49fdWuOvQyjJrj5Pxq2ufJWOFipcskdnqgrolrx+cxa7ez7JPJ0SgZXQHPDHcUFAWdQjEHwGvKM755KXyZzYFdOngb3GYE3JUwHdiLtjbU99NquRVWnKf74befJJ5vbRs3/YJIjXQAifrvSqmpU3siU5SaaUgAg7Vy6gGo5cWivaAvXNLl9Y9MoMbB2pYEz1McAs0OeCbWwdJCuPUmAKUYHYpnfBmMhthxvMpnuOShMl1ejJWRznViU=;E6J0GZrtSS4ctdpQF6R1Gg=="
 ---

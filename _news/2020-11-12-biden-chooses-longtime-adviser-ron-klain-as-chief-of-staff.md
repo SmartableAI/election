@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-choose
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c0291b17-7176-47ba-8d36-d4446279e516_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Joe Biden taps Ron Klain as chief of staff"
+    excerpt: "Watch \"President-elect Joe Biden taps Ron Klain as chief of staff as Trump continues election fight\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-12T12:10:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201112115930-president-elect-joe-biden-taps-ron-klain-as-chief-of-staff-as-trump-continues-election-fight/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07662910_1605183063.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "U.S. to see more Chinese listings as Biden will make art of deal easier, advisors say"
     excerpt: "Chinese companies' stock market listings in the United States reached a six-year high in 2020 and advisors expect the trend to accelerate in the year ahead in expectation of a stable regulatory regime under U."

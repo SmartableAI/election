@@ -25,77 +25,70 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump 'army' of poll watchers led by veteran of fraud claims"
-    excerpt: "President Donald Trump’s campaign is poised to deploy an “army” of volunteers and paid staff on Tuesday to watch elections precincts in Democratic-leaning areas"
-    publishedDateTime: 2020-11-03T04:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+  - title: "AP VoteCast: Trump makes inroads with Latinos in key states"
+    excerpt: "The U.S. presidential election highlighted sharply different views on the ongoing public health crisis, a stubborn economic downturn and racial inequality, while showing that candidates can’t always t"
+    publishedDateTime: 2020-11-05T09:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9e15415416f1452f9a81d63779b0dc5f_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_519142f97e0b49c58f372a548550a06a_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump's attacks on mail-in ballots rankle some military vets"
-    excerpt: "Now, with his presidency on the line, he’s casting suspicion on a tool of participatory democracy — the mail-in ballot — that has allowed U.S. military personnel to vote while serving far from home since the War of 1812."
-    publishedDateTime: 2020-11-07T09:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+  - title: "The Latest: Trump backs McDaniel for another RNC chair term"
+    excerpt: "President Donald Trump is endorsing the chair of the Republican National Committee for another term, despite his electoral defeat"
+    publishedDateTime: 2020-11-12T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-backs-mcdaniel-for-another-rnc-chair-term/2020/11/11/0dc39218-247d-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc26de5e50f468792853a8bf596bd40_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
-    excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
-    publishedDateTime: 2020-11-07T10:15:00Z
-    webUrl: "https://abcnews.go.com/US/pennsylvania-republicans-leaders-dismiss-trump-fraud-claims-call/story?id=74064448"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 101
-    images:
-      - url: "https://s.abcnews.com/images/Politics/boockvar_hpMain_20201106-235802_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
-    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
-    publishedDateTime: 2020-11-05T05:50:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
+  - title: "Despite Trump-Erdogan ties, Turkey says it will work with whoever wins U.S. vote"
+    excerpt: "Turkey is ready to work with whoever wins the U.S. election, two top Turkish officials said on Friday, despite a friendship with President Donald Trump that has helped the two countries through turbulent times."
+    publishedDateTime: 2020-11-06T13:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-turkey/despite-trump-erdogan-ties-turkey-says-it-will-work-with-whoever-wins-u-s-vote-idUSKBN27M1QF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M1QF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M1QF"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 100
+    quality: 120
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
-        width: 800
-        height: 533
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540259254&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50ZS"
+        width: 817
+        height: 545
         isCached: true
-  - title: "YouTube Channels Making Money From Ads, Memberships Amplify Trump Voting Fraud Claims"
-    excerpt: "At least nine popular YouTube channels were promoting on Thursday debunked accusations about voting fraud in the U.S. presidential race, conspiratorial content that could jeopardize advertising and memberships revenue they get from the video service."
-    publishedDateTime: 2020-11-06T03:09:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
+  - title: "The latest: Absentee voters urged to check ballots before it's too late; 'Trump trains' respect voter boundaries, officials say"
+    excerpt: "Republicans and Democrats alike gathered at polling places to vote in hard-fought local, state and federal races — including for the presidency."
+    publishedDateTime: 2020-11-04T02:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/11/03/latest-iowa-election-2020-election-day-live-updates-voting-issues-problems-president-congress-state/6125064002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6125064002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6125064002"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDEM/00e3dcb0-255d-409a-9ce9-d0162799a46f-20201103_002_election_bp.JPG?auto=webp&crop=3499,1969,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Fxs9kCtz0VX9O/nlI2epPt0eAZiic/LQcbFbYcnD1szasJb/ftydgAjiquVgmpn95F8MqD2z8rV4y+lMOWZWeSW64ltJQf8c2R5CupO9UTSUYOf/LKoTJ+wZ136+qZWblCJsGoTFFi/6UaZrrmsxMRt2Ohn82Me6UZ6sHMMPYdptqzhy7YR2CKAaAudD5JUgiILB5/KqOvLXVa7KovO+1iJYW7C6OC8TGx7M7+SAm9tUxsldJRpQ4UObrg5LiYiV9ap4RtOjkm00yJpGCOxcFYSfjRxISx6+DXz2op5of6arfdHYAIuTSQSr6YDi9c8iRrivKfMum9V8cIkuaKaYnbSaUC8F9iB2IpGYG5zY+0M=;Fx9E3R/zYa5Iv6MGp4rX6w=="
 ---

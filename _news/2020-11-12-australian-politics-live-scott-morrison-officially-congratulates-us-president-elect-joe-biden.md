@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/live/2020/nov/12/albanese
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news"
 type: article
 quality: 113
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: The Guardian
@@ -29,24 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "US election live: 'Democracy works,' says Joe Biden as he urges patience with count showing him on verge of win"
-    excerpt: "Georgia confirms recount while Democratic candidate leads president in two key battleground states – follow all the latest news"
-    publishedDateTime: 2020-11-07T12:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa683d58f0870a6e75f91a7"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/d05d42e3e9b347488db3416c787e0484b7a50f47/0_0_640_716/master/640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78e6783bbbba423c2cd6a04bcd7519f7"
-        width: 600
-        height: 672
-        isCached: true
 
 secured: "xtANpbGF0ckZmxMTPiySJWetH4Af87dybVq0U2yidJ6xVdzaZvAVMEqjbQlm62X+Zt3FtpoOjgH/DpJ24Qa9SuhAdCRetwBMjSBl7lUgEoGawHrEgkHngC1omG0lWMlyVyOtaJ7AR7CX42bOFCyp1qiS3XTz0LPtzgLRLABvPoeGbigzS/xucbpPt6h9brisFNdMt/PVXNM5vrmIEqpevrHdW2Yietjl2rafFW6Zy3+pm67E/FAap6VB/Wd53tjYO48D83sIIEbooW8wGY3+yzE5knD7BAl+dBllKWcIWrYKs732QO2J7gBBbwOtM4q8qmcO490S5dKJr39MXfcznobbqJ5F+bGsQ+x0x9OP3yw=;dvif9iNqia2PLsRHCJWgFQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
 type: article
 quality: 124
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
+    excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
+    publishedDateTime: 2020-10-15T18:30:00Z
+    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2020-10-15/trump-gop-leaders-will-appeal-north-carolina-ballot-ruling"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "PG12FNC4OlV/GGEyw3vBXH2KOcT86OzmmT66Zr1aNgQsisU2HXN9baHfmiBcpJmmu528xWz2ZiC6sQl4DBIMY1N/9E7wbSxxRf8O45rUdOKAOt4a2rArKUdBs+Qk9UzRbFuVXNBApXu1YQbsCEOCs5Px/yivkv1iXtXIhACTFWGM3wbFAQc8fsPav3DrcwhsFgqpAVV/8TDdokW9HaP8b4sKSaRyRpjnA9yVMLjhRILl2AiVCo/oAesgct+YwfQ8PdNio0Yd0pC+wluQQP3eABigCGLgEqcyYmgSquxLQjQua3IKOtkZQANS65fVYOSjecYw3dyL3p4Uo6QEo2Kw18+yj2u2WQNXsVmoZz8GCYtfAHv8zzhwoxN9lGfvTypMdKgJ2PTJp76UEFh+kUQaGkRqniqWQnH4FipUnROBEgb8qazxlsCr5m1u4lchn1u8CMYMcOPL+6g7G7UXwOIO7XN1gujkWVHJcp9a5nsLjkqWkBCzFmYX6GbgJdfFCi5RtBAiGom+gGhvN/BYJQRYQw==;3H1NOafNnwgF/xPT+OdAmQ=="
 ---

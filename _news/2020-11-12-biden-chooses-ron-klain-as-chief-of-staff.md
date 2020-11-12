@@ -45,6 +45,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden taps Ron Klain as chief of staff"
+    excerpt: "Watch \"President-elect Joe Biden taps Ron Klain as chief of staff as Trump continues election fight\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-12T12:10:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201112115930-president-elect-joe-biden-taps-ron-klain-as-chief-of-staff-as-trump-continues-election-fight/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07662910_1605183063.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "U.S. to see more Chinese listings as Biden will make art of deal easier, advisors say"
     excerpt: "Chinese companies' stock market listings in the United States reached a six-year high in 2020 and advisors expect the trend to accelerate in the year ahead in expectation of a stable regulatory regime under U."
     publishedDateTime: 2020-11-10T07:23:00Z

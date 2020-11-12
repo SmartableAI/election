@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020: A look at Trump campaign election lawsuits and where they stand"
-    excerpt: "With votes still being counted in the 2020 election, here's a look at where the Trump campaign has filed lawsuits over ballot issues."
-    publishedDateTime: 2020-11-06T20:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/election-2020-trump-campaign-election-lawsuits-stand/story?id=74041748"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 136
-    images:
-      - url: "https://s.abcnews.com/images/US/lewandowski-philly-ap-ps-201105_1604592275669_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump campaign to file lawsuit asking that Michigan election results not be certified"
-    excerpt: "Republican President Donald Trump's campaign said on Tuesday it would file a lawsuit in Michigan requesting the results of the U.S. election in the state not be certified until it could be verified that votes were cast lawfully."
-    publishedDateTime: 2020-11-10T23:46:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Q3FY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q3FY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q3FY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 133
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540772722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA923E"
-        width: 816
-        height: 545
-        isCached: true
   - title: "Election 2020 exit polls: Political pundits utterly failed to predict Donald Trump's voters"
     excerpt: "How could the polling be so wrong that it seems Donald Trump gained support among women and racial minorities? There really was a shy Trump voter."
     publishedDateTime: 2020-11-07T10:15:00Z
@@ -79,149 +47,53 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Donald Trump isn't Al Gore: How 2020 legal challenges to the election differ from 2000"
-    excerpt: "What happened two decades ago in Florida in the race between George Bush and Al Gore is far from what's happening in 2020, legal experts say."
-    publishedDateTime: 2020-11-09T21:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/trump-isnt-gore-how-2020-s-legal-challenges-arent-same-2000/6220157002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6220157002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6220157002"
+  - title: "Trump 'army' of poll watchers led by veteran of fraud claims"
+    excerpt: "President Donald Trump’s campaign is poised to deploy an “army” of volunteers and paid staff on Tuesday to watch elections precincts in Democratic-leaning areas"
+    publishedDateTime: 2020-11-03T04:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/06/USAT/70f0e7f9-61dc-4394-8651-951317877fe5-bush_gore.JPG?auto=webp&crop=1991,1120,x0,y10&format=pjpg&width=1200"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9e15415416f1452f9a81d63779b0dc5f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump projected to win South Carolina"
+    excerpt: "The state has nine electoral votes and was not expected by analysts to be particularly competitive."
+    publishedDateTime: 2020-11-04T02:47:00Z
+    webUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f9734c84743a3001216bc2a?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Trump campaign files lawsuit over Georgia county ballot sorting"
-    excerpt: "U.S. President Donald Trump's reelection campaign on Wednesday said it had filed a lawsuit in Georgia to require that Chatham County separate and secure late-arriving ballots to ensure they are not counted."
-    publishedDateTime: 2020-11-05T03:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN27L077"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L077"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L077"
+  - title: "After blocking its release, U.S. judge lets Trump policing panel publish report"
+    excerpt: "The Trump administration's law enforcement commission won approval from a federal judge on Monday night to release its controversial report on policing reforms, as long as the Justice Department includes a disclaimer stating that the report was drafted in violation of"
+    publishedDateTime: 2020-11-03T00:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-justice-policing-idUSKBN27J01O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J01O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J01O"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 121
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540058520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4045"
-        width: 641
-        height: 545
-        isCached: true
-  - title: "Trump campaign loses lawsuit seeking to halt Michigan vote count"
-    excerpt: "A judge in Michigan on Thursday tossed out a lawsuit brought by U.S. President Donald Trump's campaign in hopes of halting vote-counting in the battleground state."
-    publishedDateTime: 2020-11-06T07:40:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-michigan-idUSKBN27M0A8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0A8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0A8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540205366&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA505Q"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539734467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA200H"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump campaign files lawsuit over rejected vote claims in Arizona"
-    excerpt: "Republican President Donald Trump's campaign said Saturday it had filed suit in Arizona, alleging the Southwestern state's most populous county incorrectly rejected votes cast by some voters in the U."
-    publishedDateTime: 2020-11-08T04:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-arizona-idUSKBN27N10U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N10U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N10U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540401955&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA703A"
-        width: 830
-        height: 545
-        isCached: true
-  - title: "How and when will Trump leave office?"
-    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
-    publishedDateTime: 2020-11-09T14:24:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idUSKBN27P199"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P199"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P199"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540530760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OO"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "How and when will Trump leave office?"
-    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
-    publishedDateTime: 2020-11-09T16:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idINKBN27P199"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P199"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P199"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
-    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
-    publishedDateTime: 2020-11-11T22:45:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Donald Trump's aides are increasingly gloomy – and mad at other GOP officials"
-    excerpt: "Some aides to President Donald Trump said they're not giving up on the election, but they're also bracing for the worst. They're also upset with other Republicans who have not spoken out against the ongoing election count as forcefully as Trump has."
-    publishedDateTime: 2020-11-05T23:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-aides-gloomy-election-mad-gop/6181186002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6181186002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6181186002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/8e6c2ca7-73ee-4a93-b47f-7fc5415e3f65-AFP_AFP_8UJ3N7.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Health 202: Obamacare marketplaces survived Trump's term better than expected"
-    excerpt: "The Trump administration is presiding over what could be its final Obamacare enrollment season, which started yesterday. As Election Day approaches, it's clear the much-hyped changes the administration made to the health insurance marketplaces over the past four years had far less impact — either positive or negative — than expected."
-    publishedDateTime: 2020-11-02T12:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LMYV2VXGGEI6PK2QMIP6AWEDIA.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Trump demolished the walls between politics and sports. He might not like the result."
     excerpt: "Follow the latest on Election 2020 This rare unification of sport and state doesn’t reflect, as President Trump claims, the athletes’ desire to overplay their hand and turn political. It is a necessary reaction to the troubling times: to the unabashed hatred,"
@@ -239,129 +111,22 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Campaign leaders agree Ohio still a battleground despite Donald Trump's two victories"
-    excerpt: "Ohio campaign leaders for both President Donald Trump and former Vice President Joe Biden said Thursday that Ohio is still a battleground."
-    publishedDateTime: 2020-11-08T20:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6149084002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6149084002"
+  - title: "Under Trump asylum policy, hundreds of Cubans remain locked up in US detention centers"
+    excerpt: "Trump won Florida with help from Cuban Americans who liked his tough talk against socialism. But hundreds of Cuban migrants who fled communism are languishing in detention centers."
+    publishedDateTime: 2020-11-09T15:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/immigration/2020/11/09/under-trump-policy-100-s-cubans-who-fled-communism-remain-locked-up/6174737002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6174737002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174737002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 118
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/05/NCOD/313f5c19-f353-49b3-a68a-8ef0bfe7b9a8-vote_rally_JB_01.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "The head of Trump's legal team that is challenging the 2020 election results reportedly tests positive for coronavirus"
-    excerpt: "Several other officials in Trump's inner circle have recently contracted the virus, including HUD Secretary Ben Carson and chief of staff Mark Meadows."
-    publishedDateTime: 2020-11-09T20:13:00Z
-    webUrl: "https://www.businessinsider.com/david-bossie-trump-adviser-overturn-election-results-tests-positive-coronavirus-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/david-bossie-trump-adviser-overturn-election-results-tests-positive-coronavirus-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/david-bossie-trump-adviser-overturn-election-results-tests-positive-coronavirus-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5fa99dd61df1d50018219a9b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The long love affair between Fox News and Trump may be over. Here’s how it ended last week."
-    excerpt: "For months, the president fretted over a sense that the network’s loyalty was softening. After Fox called Arizona for Biden, the battle was on."
-    publishedDateTime: 2020-11-09T16:35:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZM2GYLRCUYI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Republican Sen. Pat Toomey says Trump's claims of 'large-scale fraud and theft of the election are just not substantiated'"
-    excerpt: "Following Trump's claims of voter fraud and theft, Republican officials and former Trump associates are in disagreement."
-    publishedDateTime: 2020-11-06T17:28:00Z
-    webUrl: "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fa57b22f7d1cb0019e3a399?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
-    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
-    publishedDateTime: 2020-11-10T20:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
-  - title: "Lawyers at the firms helping Trump challenge the election results fear they're undermining the law and US elections, report says"
-    excerpt: "The New York Times reported that lawyers for Jones Day and Porter Wright Morris & Arthur are worried about their firms' work with Trump."
-    publishedDateTime: 2020-11-10T11:42:00Z
-    webUrl: "https://www.businessinsider.com/staff-at-firms-helping-trump-dispute-election-results-conflicted-nyt-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/staff-at-firms-helping-trump-dispute-election-results-conflicted-nyt-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/staff-at-firms-helping-trump-dispute-election-results-conflicted-nyt-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5faa71cb1df1d50018219c6e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "We asked nine legal experts about Trump's latest lawsuit challenging election results in Pennsylvania. Their verdict: Dead on arrival."
-    excerpt: "President Donald Trump's campaign has sued Pennsylvania elections officials over mail balloting. Legal experts say the case is baseless."
-    publishedDateTime: 2020-11-10T04:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/legal-experts-say-trumps-election-lawsuit-pennsylvania-baseless/6228914002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6228914002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228914002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump campaign says 'illegally cast' ballots should not be counted"
-    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
-    publishedDateTime: 2020-11-04T16:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-ballots/trump-campaign-says-illegally-cast-ballots-should-not-be-counted-idUSKBN27K26E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K26E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K26E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Analysis: At pivotal moments of 2020, Trump failed to win over doubters"
     excerpt: "Donald Trump had reason to count on the loyalty of the large chunk of Americans who drove his improbable election victory in 2016. But in 2020, he needed a wider swath of voters to believe in his promise to \"Make America Great Again."
     publishedDateTime: 2020-11-08T16:31:00Z
@@ -373,34 +138,59 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Clyburn to Trump: 'The campaign is over'"
-    excerpt: "The highest-ranking Black member of Congress is urging President Donald Trump to stop challenging the results of the 2020 general election and start finding ways to work with the incoming administration."
-    publishedDateTime: 2020-11-09T20:34:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/09/clyburn-trump-the-campaign-over/6225991002/"
+  - title: "Pollster: Some Trump voters not reflected in polls"
+    excerpt: "The man who runs the Marquette University Law School poll says state polls were off this election because President Donald Trump's supporters declined to respond to surveys. (Nov. 11)"
+    publishedDateTime: 2020-11-11T21:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/11/pollster-some-trump-voters-not-reflected-polls/6257306002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/745c6da7-56ff-4258-841e-bdf763751241_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/24bb0f9f-2c6d-4136-8921-1c1f2403cd48_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "House Democrats will keep some of their Trump investigations and court fights active once the lame-duck president leaves the White House"
-    excerpt: "House Democrats plan to continue their high-profile investigations into President Donald Trump even after he leaves the White House. It's still unclear how each probe will look come next year when the new Congress gets sworn in,"
-    publishedDateTime: 2020-11-09T20:14:00Z
-    webUrl: "https://www.businessinsider.com/trump-financial-probes-to-continue-in-democrat-led-house-2020-11"
+  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
+    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
+    publishedDateTime: 2020-11-05T05:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: Reuters
+      domain: reuters.com
+    quality: 100
     images:
-      - url: "https://i.insider.com/5fa999ac1df1d50018219a83?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
+        width: 800
+        height: 533
         isCached: true
+  - title: "Dump Donald Trump: American voters' imperative"
+    excerpt: "Monday, we concluded a daily series begun 14 weeks ago. In 26,306 words spread out over 99 days, we detailed the case for why Donald Trump — his character, his corruption, his policies, his appointees,"
+    publishedDateTime: 2020-11-03T09:10:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/Enk164ZLvg71BWottnQ-c_T5_zs=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/MW6QQHIPYFCZ7NLZ3VV6LOCR4I.jpg"
+        width: 1200
+        height: 832
+        isCached: true
+  - title: "The Political Coronavirus Paradox: Where The Virus Was Worst, Voters Supported Trump the Most"
+    excerpt: "U.S. counties that have recently seen increased rates of coronavirus infections were more likely to vote for Trump in the 2020 election."
+    publishedDateTime: 2020-11-11T18:52:00Z
+    webUrl: "https://time.com/5910256/covid-19-presidential-election-outcome/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 74
 
 secured: "VYwnV65COcS3H3XAGhJIvoO0scjI0HaGsJiHDrkOzlAtRJp4iUmC2d6Q7udBSUn9EHW3na5kUWRNJLmOVUhqcs6vwShjp9O6i8JibJH/iMDc+1RDJDBb7cyPbVFfY388jwC4lB/+NLac3B1VIWagY694b/PfqXN7ej6SSoqfko+UAAIK0hl/ajNhTQ35ZYtyOpsJ814yLIhU8T95Wf7GUwAVsCEMoMuI049LBT/SIjt4QIKd+oRPqIpEoGqxpckGUJ/AwajgYBTBdnpF2os+QwT1HKL6Ypwm4YrvaLOEB1lkqTFgD/HxTVdfCjvYUgFY6125Pni0YclKkfS0T1gQDr1Gd2tYFeiVknxtbpe/nyA=;qOE/NlD/S9V9bc/E+n+SGQ=="
 ---

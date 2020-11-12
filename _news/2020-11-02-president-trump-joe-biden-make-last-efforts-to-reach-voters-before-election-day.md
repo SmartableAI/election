@@ -1753,6 +1753,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "WRAPUP 3-Biden ignores Trump to build team with eye on raging pandemic"
+    excerpt: "U.S. President-elect Joe Biden will press on with building his governing team on Thursday, ignoring President Donald Trump's refusal to concede."
+    publishedDateTime: 2020-11-12T15:04:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/wrapup-3-biden-ignores-trump-to-build-team-with-eye-on-raging-pandemic-idUSL1N2HY1LC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540931036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -2245,7 +2261,7 @@ related:
       domain: reuters.com
     quality: 137
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540931667&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA16Q"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540931036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
         width: 817
         height: 545
         isCached: true
@@ -3164,6 +3180,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fac0709cdc4c8903cf6ec72%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Daily 202: Readouts of Biden’s calls with foreign leaders signal a return to pre-Trump normalcy"
+    excerpt: "Martin had decried Trump’s comments that members of “the Squad” should “go back” to their ancestral lands and urged European leaders to “stand up” to the president. Follow the latest on Election 2020 After Martin sent congratulations to Joe Biden,"
+    publishedDateTime: 2020-11-12T16:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/12/daily-202-readouts-bidens-calls-with-foreign-leaders-signal-return-pre-trump-normalcy/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/12/daily-202-readouts-bidens-calls-with-foreign-leaders-signal-return-pre-trump-normalcy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/12/daily-202-readouts-bidens-calls-with-foreign-leaders-signal-return-pre-trump-normalcy/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 126
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4DNI4XBEHYI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden looks to restore, expand Obama administration policies"
     excerpt: "Joe Biden is promising to take the country on a very different path from what it has seen over the past four years under President Donald Trump, on issues ranging from the coronavirus and health care to the environment,"
@@ -5967,20 +5999,20 @@ related:
         height: 675
         isCached: true
   - title: "AP source: President-elect Joe Biden chooses longtime adviser Ron Klain to reprise role as his chief of staff"
-    excerpt: "WASHINGTON -- AP source: President-elect Joe Biden chooses longtime adviser Ron Klain to reprise role as his chief of staff."
-    publishedDateTime: 2020-11-12T04:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-president-elect-joe-biden-chooses-longtime-74160406"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-president-elect-joe-biden-chooses-longtime-74160406"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-president-elect-joe-biden-chooses-longtime-74160406"
+    excerpt: "WASHINGTON — AP source: President-elect Joe Biden chooses longtime adviser Ron Klain to reprise role as his chief of staff. Copyright 2020 The Associated Press. All rights reserved. This material may not be published,"
+    publishedDateTime: 2020-11-12T00:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-source-president-elect-joe-biden-chooses-longtime-adviser-ron-klain-to-reprise-role-as-his-chief-of-staff/2020/11/11/b904b59a-2481-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-source-president-elect-joe-biden-chooses-longtime-adviser-ron-klain-to-reprise-role-as-his-chief-of-staff/2020/11/11/b904b59a-2481-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-president-elect-joe-biden-chooses-longtime-adviser-ron-klain-to-reprise-role-as-his-chief-of-staff/2020/11/11/b904b59a-2481-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 106
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "China Is Getting Ready for a World Without Trump"
     excerpt: "Now that Trump appears to be on his way out, and China’s economy is growing again — with parts of Europe and the U.S. resuming lockdowns — the yuan’s outlook is rosy. Reining in excessive currency volatility will be critical if Beijing wants to keep a steady inflow of foreign money."
@@ -6841,6 +6873,22 @@ related:
       - url: "https://i.insider.com/5faab83d1df1d50018219d91?width=700"
         width: 700
         height: 525
+        isCached: true
+  - title: "Kayleigh McEnany, White House press secretary and Trump campaign spox, refuses to answer a question by referring it to herself"
+    excerpt: "\"That would be a question more for the White House,\" McEnany said when asked about Biden's access to briefings on \"Fox & Friends\" on Thursday."
+    publishedDateTime: 2020-11-12T16:01:00Z
+    webUrl: "https://www.businessinsider.com/kayleigh-mcenany-refuses-answer-question-by-referring-it-to-herself-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/kayleigh-mcenany-refuses-answer-question-by-referring-it-to-herself-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kayleigh-mcenany-refuses-answer-question-by-referring-it-to-herself-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5fad554e4044a00018f762b1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Election 2020: Democrat Joe Biden takes lead in Pennsylvania over President Donald Trump"
     excerpt: "Democratic presidential nominee Joe Biden has taken the lead in the commonwealth of Pennsylvania. Early Friday, Pennsylvania election officials said there were about 50,000 more mail-in votes to tabulate."

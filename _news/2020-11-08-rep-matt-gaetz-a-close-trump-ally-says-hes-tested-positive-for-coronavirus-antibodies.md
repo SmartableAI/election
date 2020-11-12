@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-ho
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp"
 type: article
 quality: 116
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "The Political Coronavirus Paradox: Where The Virus Was Worst, Voters Supported Trump the Most"
-    excerpt: "U.S. counties that have recently seen increased rates of coronavirus infections were more likely to vote for Trump in the 2020 election."
-    publishedDateTime: 2020-11-11T18:52:00Z
-    webUrl: "https://time.com/5910256/covid-19-presidential-election-outcome/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 74
 
 secured: "UrVupGkpoeE/+KxEUfOc2hSnRM/e/TlD8UX3Bbgw02/58vLkSsjxQ5bD3w3rze+oc0MZsW85bsYQvgnFfkwSnJsl6mvYI2ZzVue+b+uTEc/bMEWsaDZhKW/7SfZfbj58tXjos4uvoR/gudp+cbreLHCoYoLBdiSzTivHotcW2LZo7vmNBV5vdSeyy2AnfskLYQL1DzV1AlfF/pmZE+uasnpbscRlFYYAsJzGLAroYbx+SOg0aXhXepuv4crZ0l1bwdTI84eubDy5ka9RECV5JKk5+cJSHwtr3x5DwB3QdtaWVSohtfFaEeuvtt5d4hoWB6FKn0e0qW6ppu1qTYeoI8Y8Z8m5Eg/FxN0kE0iJ2RE=;3oAd00cy+hTHzOK300Q5JA=="
 ---

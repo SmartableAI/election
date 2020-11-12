@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-rips-gop-philadelphia-commiss
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time.amp"
 type: article
 quality: 178
-heat: 318
+heat: 338
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Criticizes Philadelphia GOP Election Official Over Ballots"
+    excerpt: "A Republican election official in Philadelphia was a target of President Trump’s complaints about the voting process on Twitter on Wednesday. In a tweet, Mr. Trump singled out “a guy named Al Schmidt,"
+    publishedDateTime: 2020-11-12T16:22:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/VCGCCgJJuffXidFoYcc3"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-258844?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "GWtQ973wg99ZOuFtC7Tfxxc1eriTdyS5V9iv/BH4vvH0N+kIkMF8Ykdv2DrRWwIV2JTfBh0r1+IBUg/XOIvTr3of5xNzjbtftHXhSN4hwqBZ/diEYzM6nCJwzWgMiJzrw8i7bMflkiHToLYel19ZYygkLho2LPMpdE5o3YWPCIP4bMkzQB/Wc+R6JgeJPHILME5XZbfMVVIVVNjbVsxV2hH7L2okmAK0DK3CJJ9QzdlgLEvcmPPdMSmqx4br4Pc2Z5zSvFuXBB+0nPYo1K+gNrwKDzQgnnyijGLq7KEitTTRXcAlWRBQz4rqpbpCuuaziP70TwAOzqRWBoWwPmdI6yNubTz6yP++6LC3cWE4ASw=;na9IMjLX7dBp9hP8wrCaeQ=="

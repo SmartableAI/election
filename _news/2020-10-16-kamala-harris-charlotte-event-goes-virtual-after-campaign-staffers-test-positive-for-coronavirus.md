@@ -59,6 +59,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Pence making 2 more campaign stops in North Carolina | Charlotte Observer"
+    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump’s reelection bid."
+    publishedDateTime: 2020-10-27T08:17:00Z
+    webUrl: "https://www.charlotteobserver.com/news/article246741486.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/article246741486.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article246741486.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
 
 secured: "Z9/e3l+JtyQaDWamhZFGeu/VCODAnSWmXwWR+stDg8LMDVFZrWFv8y3uv0Jk9MLY2SQUCywuE1zup1sW9M3bAS7NR4lHIZgb6W6p8hvNLSK2crxjEHlchPsmD0LeK4o2BPN6PVkhU/7w5f8b/bfH8QHVhfQLYQ8vSND18NUO4Loo6D/9BLHGi9e9VDPSv7d4PdJBFDbRCT+0/oKj6DYgcaSCat74RA2nZqD1qHP6u0eDqhXB/kHplclsMSHcd3Nw9FMZ2Y8vtGZJkPsg/wPv2X8Jb+8itYfTgQicsYVUUFYT4fj1PLb7NXOgezhqGx8Gdg0U/1ZXHe4PrUneUX46zsIUYxufXUv+mOPB6snkr+s=;ZWdTQ8RMjIn1Y5WjgcwGsQ=="
 ---

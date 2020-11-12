@@ -143,6 +143,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Criticizes Philadelphia GOP Election Official Over Ballots"
+    excerpt: "A Republican election official in Philadelphia was a target of President Trump’s complaints about the voting process on Twitter on Wednesday. In a tweet, Mr. Trump singled out “a guy named Al Schmidt,"
+    publishedDateTime: 2020-11-12T16:22:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/VCGCCgJJuffXidFoYcc3"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-258844?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "bCdXlXOUfeT6olLyOZFVawvyqqZMjs9P7anBSX2h+R42EzTKpVN1RvMqdmLXkuTK/262YnfFyQv1/qF8/T2PW+ZbZippN1C/N+MZ1Av8h5J4ZCt+EtGo+iSbGLvMuI4ijmCAuE0s/HXb7orkxPLo0sgrUrVBPNAIhmYLWWdm2ggTkxyG4cbSnoxBGwnmpQlEnP0rEilBQ8U6Ml36dh/a2Vvs62azuymVFxO8y/WmoSyuvrA8qOUPpzPg5B03P3Wi3wpLkpceLjhVHMgMq9dIEk47blyQrmsojBENDHsJYPUOyLrRQsq3zfywFCnRn5rtlNA0Eiex4hZMFQ5OeO2yCkGRekhok8GcJDVbfl6HVQc=;RYQRJk7R4GORlQ/8c4rHNw=="
 ---

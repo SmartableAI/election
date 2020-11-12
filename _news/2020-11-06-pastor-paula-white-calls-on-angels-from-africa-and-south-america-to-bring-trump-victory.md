@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Dr. Ben Carson: I knew Donald Trump before politics. I urge America to reelect my friend."
+    excerpt: "When I stepped aside during the 2016 presidential primary season, I knew I was stepping aside for Donald Trump. I'm proud to support him again."
+    publishedDateTime: 2020-11-02T10:23:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/11/02/ben-carson-donald-trump-vote-election-2020-column/6075169002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6075169002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6075169002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b6ff9508113af043b3879982ab1a0d41814aecfa/c=211-140-3001-1716/local/-/media/2018/05/07/USATODAY/USATODAY/636613284811814278-AP-Rental-Assistance-99433763.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
 
 secured: "3lXDWeN8EHvz4bKLRRQTKIXjfP36KwtNa6hOcgTihD3AFaE/Na0XS5wW2EmRy82ii94C9oT4gk3jRme9y8ipTSYCkR/CS35dyk0wi7UwwkQvl1B2XHZpLF9/9DzmFc1mWGQOcurAP0UqW7LUr1baQ44ixILkU+UnYTcyLTVM3S/Xb+uIk50LiBoVW/QAk91H1RM/iZlN5o2NcHtADIGr86BxsUiaeftvIdtnJ7teFgbpO/ZonmMgcTVwwn7iHUeSMnmX+TTs5wCpDI+tDOMMvYzD90dm0oxB1cHfZuv6S1np4gbXMahQlQ04GgSv6678whOKG66LzokjEYykYM8YKNI7l5iW7wfGAVf5AP9xLLI=;8CCDAr/pBQ+3mLO3+etNkA=="
 ---

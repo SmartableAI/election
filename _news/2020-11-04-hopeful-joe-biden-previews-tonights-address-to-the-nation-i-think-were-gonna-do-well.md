@@ -43,22 +43,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden"
-    excerpt: "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\""
-    publishedDateTime: 2020-11-08T17:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "4lx/0g4YOuTpUqB2uJQlVwHKolFEXvMrvPSDMdu+J71DarZeoxOtFKPt1Gczxz2KxoL/YbhCiRtzTySC6GP1BVOiip+GuO2h8ZUuntN7ZV/1DSI7L19lhSzqn8mbuwH3JRfJ9wlSRAanx/aewX+gQya0tjMlDlrua0Gy6kaH+HwNOjyDF5pQ6RWRvI0Ms+59gGwIaQQ5JBUsNCkfz/pf+7EsLKzh+vvq8fkSoyvk7uXZWLlHzSX52PrB/EHHIQ1GpQzkZHC1PJuVtIvWx7LK8ZFvAkkWno5dYK1gAeQXDZN8Gvz8+Qm10DRZwjBW0gjuXXljshoxIYoVq2BuYx5dItBcZggg2P6Rf7Iu1dE+QQ4=;JBfg99NZzO8HfhPCXBrNJQ=="
 ---

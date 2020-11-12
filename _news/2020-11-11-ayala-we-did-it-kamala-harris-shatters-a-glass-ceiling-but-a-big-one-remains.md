@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris is the main event for millions of women in America and around the world"
+    excerpt: "I predicted 10 years ago that Harris would be a force in national life. She is now inspiring many women to imagine new possibilities for themselves."
+    publishedDateTime: 2020-11-11T10:13:00Z
+    webUrl: "https://www.desmoinesregister.com/story/opinion/2020/11/09/harris-breaks-glass-ceiling-women-black-asian-americans-column/6215430002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6215430002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6215430002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/d613c32f-c6a5-4582-a1d4-48c2ac73a5a3-Lauzon_pic.jpg?auto=webp&crop=443,250,x0,y102&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "Vice President-elect Kamala Harris inspires Black women in Prince George’s, highlights HBCU pride"
     excerpt: "Vice President-elect Kamala Harris and Prince George's State's Attorney Aisha Braveboy are Howard University alumnae, Braveboy wore her Howard sweatshirt all day Saturday because she was so proud."
     publishedDateTime: 2020-11-11T20:07:00Z

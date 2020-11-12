@@ -1311,6 +1311,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ohio Republican governor says 'we need to consider' Biden the President-elect"
+    excerpt: "Ohio Republican Gov. Mike DeWine said Thursday that the country needs to consider Joe Biden the President-elect -- joining a growing list of Republican allies to President Donald Trump who say the 2020 race is over.\n    \n"
+    publishedDateTime: 2020-11-12T15:10:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M0qiuOlYpU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/ohio-governor-mike-dewine-joe-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/ohio-governor-mike-dewine-joe-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200910202307-dewine-presser-0910-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "More Latino voters support Trump in 2020 than 2016, but young Americans favor Biden, early CNN exit polls show"
     excerpt: "Voters are divided over the top issues in their vote for president, according to the preliminary results of a nationwide CNN exit poll.\n    \n"
     publishedDateTime: 2020-11-04T02:45:21Z

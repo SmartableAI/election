@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 4325
+heat: 4345
 published: true
 
 provider:
@@ -1292,6 +1292,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163403-01-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ohio Republican governor says 'we need to consider' Biden the President-elect"
+    excerpt: "Ohio Republican Gov. Mike DeWine said Thursday that the country needs to consider Joe Biden the President-elect -- joining a growing list of Republican allies to President Donald Trump who say the 2020 race is over.\n    \n"
+    publishedDateTime: 2020-11-12T15:10:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1M0qiuOlYpU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/ohio-governor-mike-dewine-joe-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/ohio-governor-mike-dewine-joe-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200910202307-dewine-presser-0910-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

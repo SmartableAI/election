@@ -19,206 +19,247 @@ topics:
   - Kamala Harris
 
 related:
-  - title: "One of these people could be VP-elect Kamala Harris’ successor and California’s next senator"
-    excerpt: "The Times asked political strategists for a list of the most likely contenders from whom Newsom might choose to replace Harris for the final two years of her Senate term."
-    publishedDateTime: 2020-11-07T16:51:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator"
-    ampWebUrl: "https://www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-07/kamala-harris-successor-california-senator?_amp=true"
+  - title: "Biden on verge of winning U.S. presidency, leads in Pennsylvania, Georgia"
+    excerpt: "Democrat Joe Biden stood on the verge of winning the U.S. presidency on Friday, as he expanded his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia three days after polls closed."
+    publishedDateTime: 2020-11-07T00:57:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27M0U5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0U5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0U5"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 114
+      name: Reuters
+      domain: reuters.com
+    quality: 124
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6ac6595/2147483647/strip/true/crop/2048x1430+0+0/resize/840x587!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2F57%2F3e257e5f130c40ac25e6a9b9078e%2Fla-1518827091-m3b6svi2yw-snap-image"
-        width: 840
-        height: 587
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
+        width: 846
+        height: 545
         isCached: true
-  - title: "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election"
-    excerpt: "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president."
-    publishedDateTime: 2020-11-08T19:32:00Z
-    webUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/"
-    ampWebUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+  - title: "Joe Biden Has 74 Percent Chance of Winning Pennsylvania, According to Bookmakers"
+    excerpt: "Biden has a 74 percent implied chance of taking the must-win state, while Trump is trailing with an implied chance of 28 per cent."
+    publishedDateTime: 2020-10-14T16:22:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 83
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
+      - url: "https://d.newsweek.com/en/full/1651800/joe-biden-pennsylvania.jpg"
         width: 1024
-        height: 715
+        height: 682
         isCached: true
-  - title: "What Kamala Harris’ historic win means to Indian Americans"
-    excerpt: "Kamala Harris’ win has political significance for the Indian American community, which is still only about 1% of the nation’s population. Her August nomination highlighted unprecedented momentum for campaigning targeting our community."
-    publishedDateTime: 2020-11-11T12:14:00Z
-    webUrl: "https://www.sfchronicle.com/opinion/openforum/article/What-Kamala-Harris-historic-win-means-to-15717991.php"
-    ampWebUrl: "https://www.sfchronicle.com/opinion/openforum/amp/What-Kamala-Harris-historic-win-means-to-15717991.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/openforum/amp/What-Kamala-Harris-historic-win-means-to-15717991.php"
+  - title: "US election live: 'Democracy works,' says Joe Biden as he urges patience with count showing him on verge of win"
+    excerpt: "Georgia confirms recount while Democratic candidate leads president in two key battleground states – follow all the latest news"
+    publishedDateTime: 2020-11-07T12:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa683d58f0870a6e75f91a7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/d05d42e3e9b347488db3416c787e0484b7a50f47/0_0_640_716/master/640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78e6783bbbba423c2cd6a04bcd7519f7"
+        width: 600
+        height: 672
+        isCached: true
+  - title: "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden"
+    excerpt: "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\""
+    publishedDateTime: 2020-11-08T17:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Joe Biden's leads in Georgia, Pennsylvania, Nevada, give him a clear path to 270 electoral votes"
+    excerpt: "Joe Biden's lead is growing in key states. Former Vice President Joe Biden is on the verge of reaching 270 electoral votes and winning the race for president after he surged ahead in Georgia early Friday morning and hours later in Pennsylvania."
+    publishedDateTime: 2020-11-06T20:48:00Z
+    webUrl: "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6191429002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191429002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/e4078510-fb31-4b52-87af-af0331e7e9fa-grid-promo2.png?auto=webp&crop=3137,1765,x521,y870&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'People are turning out at home': Biden arrives in Wilmington after final campaign push in Pennsylvania"
+    excerpt: "In the final days of the campaign, former Vice President Joe Biden asked voters to put an end to a presidency that has \"divided this nation,\" while President Donald Trump painted his challenger as a member of an \"arrogant,"
+    publishedDateTime: 2020-11-06T20:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/biden-vs-trump-who-lead-country-through-coronavirus-racial-unrest-recession/6127770002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6127770002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6127770002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/572eb25d-af11-4686-9704-0c37632b15a3-promo.jpg?auto=webp&crop=689,388,x41,y455&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Former US Secretary of State Henry Kissinger reveals his hopes for the next president: 'I like Joe Biden'"
+    excerpt: "Kissinger discussed what he expects from the new president, what successes he thinks Trump's administration had, and his longing for harmony."
+    publishedDateTime: 2020-11-11T03:28:00Z
+    webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5faaca37f7d1cb0019e3ad4e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden takes lead in Pennsylvania and Georgia, moves closer to win"
+    excerpt: "If Democratic presidential nominee Joe Biden wins Pennsylvania, the race is over. Biden's lead is also growing in Georgia, as absentee ballots are counted. Major Garrett takes a closer look."
+    publishedDateTime: 2020-11-06T23:56:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/06/7ecae65f-0970-42d5-b0ca-e845355beb89/thumbnail/1200x630/085d5ef1de243cdcbeaa60e00584ccd1/cbsn-fusion-biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win-thumbnail-582812-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
+    excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
+    publishedDateTime: 2020-11-06T01:06:00Z
+    webUrl: "https://www.cnbc.com/video/2020/11/05/uvas-larry-sabato-trend-is-very-favorable-to-joe-biden-in-pennsylvania.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106783131-UVAs-Larry-Sabato-Trend-is-very-favorable-to-Joe-Biden-in-Pennsylvania--jpg?v=1604623237"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
+    excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
+    publishedDateTime: 2020-11-07T10:15:00Z
+    webUrl: "https://abcnews.go.com/US/pennsylvania-republicans-leaders-dismiss-trump-fraud-claims-call/story?id=74064448"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
+    images:
+      - url: "https://s.abcnews.com/images/Politics/boockvar_hpMain_20201106-235802_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "In the Minneapolis neighborhood where George Floyd died, voters disagree with Biden on policing. But they're voting for him anyway."
+    excerpt: "Voters in Powderhorn Park told Insider they think President Donald Trump is even worse, so they voted for Joe Biden despite their reservations."
+    publishedDateTime: 2020-11-03T20:11:00Z
+    webUrl: "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5fa1b6d169331a0011bc712d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden in Pennsylvania, to visit historic Gettysburg Tuesday"
+    excerpt: "Democratic presidential nominee Joe Biden will campaign in southern Pennsylvania on Tuesday, in a state viewed as a critical battleground for next month's election."
+    publishedDateTime: 2020-10-06T15:18:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/15/15/47/20240890/7/rawImage.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7071601988862/2020/1/14c8efc4ed0991ebe7040bd1d12e25bf/v1.5/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "California Senate sweepstakes: Who gets Kamala Harris' job?"
-    excerpt: "Election Day is over but California already is consumed with its next high-profile political contest — the competition to fill Kamala Harris’ soon-to-be-vacant U.S. Senate seat. In this race only one vote matters,"
-    publishedDateTime: 2020-11-12T14:10:00Z
-    webUrl: "https://www.chron.com/news/article/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
-    ampWebUrl: "https://www.chron.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+  - title: "Kamala Harris tells Pennsylvania she's not going to talk about 'the other guy'"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris told supporters in Pennsylvania on Monday that she doesn’t want to talk about “the other guy” — President Trump — on the eve of Election Day."
+    publishedDateTime: 2020-11-02T17:59:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 71
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
-    excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
-    publishedDateTime: 2020-11-10T02:38:00Z
-    webUrl: "https://chicago.suntimes.com/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 68
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris"
-    excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."
-    publishedDateTime: 2020-11-10T15:19:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/national/article247096792.html"
-    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article247096792.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article247096792.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c40ec35b-ceac-4134-870a-9fcc454e83ec/c75b6003-d661-4571-9b8c-1c6bd6b3e702/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris is the main event for millions of women in America and around the world"
-    excerpt: "I predicted 10 years ago that Harris would be a force in national life. She is now inspiring many women to imagine new possibilities for themselves."
-    publishedDateTime: 2020-11-11T10:13:00Z
-    webUrl: "https://www.desmoinesregister.com/story/opinion/2020/11/09/harris-breaks-glass-ceiling-women-black-asian-americans-column/6215430002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/6215430002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6215430002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/d613c32f-c6a5-4582-a1d4-48c2ac73a5a3-Lauzon_pic.jpg?auto=webp&crop=443,250,x0,y102&format=pjpg&width=1200"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/01/Election_2020_Harris_92292.jpg-db0cf_c0-367-2978-2104_s1200x700.jpg?506e630bb31220cec079d3cb67e7d8cd1005e4b9"
         width: 1200
-        height: 677
+        height: 700
         isCached: true
-  - title: "What it reveals when senators repeatedly mispronounce the names of Kamala Harris and Sundar Pichai"
-    excerpt: "CNN It is a truth universally acknowledged that if you live in the US and have a non-English name, someone at some point is bound to butcher the pronunciation. People across"
-    publishedDateTime: 2020-11-01T12:48:00Z
-    webUrl: "https://www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/"
-    ampWebUrl: "https://www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/01/what-it-reveals-when-senators-repeatedly-mispronounce-the-names-of-kamala-harris-and-sundar-pichai/amp/"
+  - title: "Joe Biden quotes Sixers new head coach Doc Rivers while campaigning in Pennsylvania"
+    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
+    publishedDateTime: 2020-10-07T14:16:00Z
+    webUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html"
+    ampWebUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 61
+      name: NJ.com
+      domain: nj.com
+    quality: 69
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_aaabf9408d54ffe0ad32c8318f6c537e-h_77d46bc633d10a1d5e1af0d83b0cff8f.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GXOWXIVJL5AGHINVACOT7D2BLQ.jpg"
+        width: 5620
+        height: 3747
         isCached: true
-  - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris | Charlotte Observer"
-    excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."
-    publishedDateTime: 2020-11-10T16:52:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article247096792.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article247096792.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article247096792.html"
+  - title: "Vice President Pence will campaign in Georgia for GOP senators in runoff"
+    excerpt: "Vice President Mike Pence said he will visit Georgia later this month to campaign on behalf of U.S. Sens. David Perdue and Kelly Loeffler, who face runoff contests against Democratic opponents to retain their seats."
+    publishedDateTime: 2020-11-10T20:57:00Z
+    webUrl: "https://www.ajc.com/politics/politics-blog/vice-president-pence-will-campaign-in-georgia-for-gop-senators-in-runoff/6FXJHBVYLJGPXAY4BLC6G73WEQ/"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 57
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c40ec35b-ceac-4134-870a-9fcc454e83ec/c75b6003-d661-4571-9b8c-1c6bd6b3e702/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Who will replace Kamala Harris in California? Alex Padilla? Eva Longoria?"
-    excerpt: "A group of Latino organizations has lobbied Newsom since August to select Secretary of State Alex Padilla. Such a move would end 170 years without a Latino/a Senator from California. Of course, with wildfires,"
-    publishedDateTime: 2020-11-07T17:35:00Z
-    webUrl: "https://www.sacbee.com/article247039432.html"
-    ampWebUrl: "https://amp.sacbee.com/article247039432.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/article247039432.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 54
-  - title: "‘It’s our time’: Women of color around Connecticut celebrate the significance of Kamala Harris’s historic VP win"
-    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
-    publishedDateTime: 2020-11-09T15:37:00Z
-    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
-    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
     quality: 54
     images:
-      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
+      - url: "https://www.ajc.com/resizer/pbOdNqkyHcqh0kn5aevnLaU4l3s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/JP473P73HVH3D4OQD373MMVNR4.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "California Senate sweepstakes: Who gets Kamala Harris’ job? | Charlotte Observer"
-    excerpt: "Sen. Kamala Harris’ ascendancy to the vice presidency next year has left California with a tantalizing question: Who will replace her in the Senate."
-    publishedDateTime: 2020-11-12T14:35:00Z
-    webUrl: "https://www.charlotteobserver.com/news/article247142269.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/article247142269.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article247142269.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 50
-  - title: "Senator Kamala Harris Holds Canvas Kick Off Event in Luzerne County, Pennsylvania"
-    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County, Pennsylvania. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County,"
-    publishedDateTime: 2020-11-02T17:36:00Z
-    webUrl: "https://www.c-span.org/video/?477690-1/senator-kamala-harris-holds-canvas-kick-event-luzerne-county-pennsylvania"
+  - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
+    publishedDateTime: 2020-10-06T16:33:00Z
+    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pennsylvania"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 30
-  - title: "Senator Kamala Harris Holds Canvass Kick Off Event in Luzerne County, Pennsylvania"
-    excerpt: "Senator Kamala Harris (D-CA) campaigned in Reno, Nevada, one week ahead of Election… Democratic vice presidential nominee Senator Kamala Harris (D-CA) spoke at a Biden campaign event in Las Vegas, Nevada."
-    publishedDateTime: 2020-11-02T14:49:00Z
-    webUrl: "https://www.c-span.org/video/?477690-1/senator-kamala-harris-holds-canvass-kick-event-luzerne-county-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 29
+    quality: 35
 
 secured: "5TDSwkRzr/ZJ03gQooEoR/bPn3Eq2N4+1vxR2YUr8Rc2vdT79vBHhnWff9XKJceQaLirbeaTB812WoGKLDKBwCs66iFHNeaY6fuKJWqSdLTwXnf7Z9Hyi3fvAohGcCwGyyjsZudrLJYWys0aXRq3wux3QW0a9TD3CqxYQH/mLiWDZ824NuOj0nnZ2Z0+u522rRzAy4kPkJkLPkuQXk+6Q1ai+kN7jw8i1RFmwCs+xskmTlgI8d3xr768Jjt12HhjrvdOEEsSIe3xSPBXONwfKgRHtVHtqW91F2GV7nDMQ+tHuHGcNqkr5xyOlvbg9vsS4zOngFQ9JbBfp7tnZTXXe3sHR31cpyBV74UYqJuKObTJwwb7mKMOYvTd4C0otNIA/1dJRfQA91leuyl1BypwpcZk1zh1xh0b1T61RnXM9k82sSpOVGzb4kYjqK/Tu+FBOfuIrWHiY8dly99ol9jRcxRHlsRL4mPRgS1hOpdY1vODLoRvyuypsMY/YyOmQR5hCNKE5FDfUxEOi+fSKFK8tg==;ULSxquA2F5aZob1tUfWukg=="
 ---

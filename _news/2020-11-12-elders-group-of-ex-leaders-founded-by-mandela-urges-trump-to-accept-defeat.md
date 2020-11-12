@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S20C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C"
 type: article
 quality: 122
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 817
     height: 545
     isCached: true
-
-related:
-  - title: "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump"
-    excerpt: "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him."
-    publishedDateTime: 2020-11-08T11:19:00Z
-    webUrl: "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 97
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "BPcNlQ444JU3no6KS/9OHN8roWfhe3CEnbtB55oIrUQXAoq0el0pAEBX7mTWIyPc2QIA7VNCvbPpXqPyb35VCElxRVhLVYS/uk1d+jHFc9qL3wVZvFtAh8at/vhgVliPfrm4tV8gJ3YbIH4tHkoXTuo1heUKsF5cYhvJUnHOmF6R4+NCkwmuja7BLf/MeKoe0QPcjnhZkp73EiqbD6UnCo/Vt2htwAdsQHyg5BP5RAgGTnAF5t1XhgJJEirlap7N2f992BuB/+Fg9CWH6ZoBtmsW7m4zKCjlhZnyf3/ExbBtnjP392rntepvXlmia13JuNIWvQa7VcjUQV1yhQ1j3QS4epKaQj6eXidyvI097cY=;/g6uNQlHA5fwRscAJYapyA=="
 ---

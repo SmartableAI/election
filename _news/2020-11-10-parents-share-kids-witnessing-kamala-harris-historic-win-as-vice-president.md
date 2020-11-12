@@ -275,6 +275,20 @@ related:
         width: 1400
         height: 786
         isCached: true
+  - title: "President of Alpha Kappa Alpha sorority on Kamala Harris' historic win"
+    excerpt: "Kamala Harris' sorority sisters are celebrating as she prepares to make history as the first woman and first Black American to serve as vice president. Dr. Glenda Glover, the international president and CEO of Alpha Kappa Alpha,"
+    publishedDateTime: 2020-11-12T15:56:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-sorority-alpha-kappa-alpha-historic-win/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/12/981887bc-d40b-43e5-8adf-141e9ec19a05/thumbnail/1200x630/70dc6503a04da406baf9deae10e21b0f/cbsn-fusion-kamala-harris-sorority-alpha-kappa-alpha-historic-win-thumbnail-586635-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gavin Newsom's shortlist to replace Kamala Harris in the Senate starts to take shape"
     excerpt: "Gavin Newsom will have to name a replacement for Vice President-elect Kamala Harris in the United States Senate, and his shortlist appears to be taking shape. In the days after Joe Biden was declared president-elect by news networks,"
     publishedDateTime: 2020-11-10T08:19:00Z

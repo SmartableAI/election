@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-senate-runoff-elections-per
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/"
 type: article
 quality: 143
-heat: 843
+heat: 863
 published: true
 
 provider:
@@ -261,6 +261,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/08/gettyimages-1229520920_wide-5986925f0c5feb3f27267ddfb075420cacb31e92.jpg?s=1400"
         width: 1400
         height: 786
+        isCached: true
+  - title: "President of Alpha Kappa Alpha sorority on Kamala Harris' historic win"
+    excerpt: "Kamala Harris' sorority sisters are celebrating as she prepares to make history as the first woman and first Black American to serve as vice president. Dr. Glenda Glover, the international president and CEO of Alpha Kappa Alpha,"
+    publishedDateTime: 2020-11-12T15:56:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-sorority-alpha-kappa-alpha-historic-win/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/12/981887bc-d40b-43e5-8adf-141e9ec19a05/thumbnail/1200x630/70dc6503a04da406baf9deae10e21b0f/cbsn-fusion-kamala-harris-sorority-alpha-kappa-alpha-historic-win-thumbnail-586635-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Parents share kids witnessing Kamala Harris’ historic win as vice president"
     excerpt: "Families were glued to screens Saturday night when Kamala Harris made history as the first woman and woman of color to become vice president of the United States."

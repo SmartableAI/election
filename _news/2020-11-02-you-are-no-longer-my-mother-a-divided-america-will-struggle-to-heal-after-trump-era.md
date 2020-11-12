@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I15T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I15T"
 type: article
 quality: 117
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 117
     images:
       - url: "https://www.gannett-cdn.com/-mm-/521ae08a7377ec45278f26c565d0fd4a8774a1a8/c=0-161-4568-2742/local/-/media/2017/09/09/CarolinaGroup/Anderson/636405576418021285-Paula-2.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Dr. Ben Carson: I knew Donald Trump before politics. I urge America to reelect my friend."
+    excerpt: "When I stepped aside during the 2016 presidential primary season, I knew I was stepping aside for Donald Trump. I'm proud to support him again."
+    publishedDateTime: 2020-11-02T10:23:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/11/02/ben-carson-donald-trump-vote-election-2020-column/6075169002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6075169002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6075169002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b6ff9508113af043b3879982ab1a0d41814aecfa/c=211-140-3001-1716/local/-/media/2018/05/07/USATODAY/USATODAY/636613284811814278-AP-Rental-Assistance-99433763.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
         isCached: true

@@ -41,6 +41,22 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
+    excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
+    publishedDateTime: 2020-11-10T02:38:00Z
+    webUrl: "https://chicago.suntimes.com/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 68
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "‘Everything is at stake,’ Democratic VP candidate Kamala Harris tells supporters at Lehigh Valley drive-in rally"
     excerpt: "Democratic vice presidential nominee Kamala Harris vowed Monday in Northampton County that she and Joe Biden would unite a polarized country, expand healthcare access and invest in working families if Pennsylvania voters help oust Donald Trump on Tuesday."
     publishedDateTime: 2020-11-02T21:32:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://www.mcall.com/resizer/ACiznIAwCTe5XlglrC6t_OWTMPs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q2NPYQZO6NBWNNODONLOG3ZS5Y.JPG"
         width: 1200
         height: 836
+        isCached: true
+  - title: "‘It’s our time’: Women of color around Connecticut celebrate the significance of Kamala Harris’s historic VP win"
+    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
+    publishedDateTime: 2020-11-09T15:37:00Z
+    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
+    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 54
+    images:
+      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "XomYrUmQ/n55/G0+F1oexa8f3qxUoDFqlBMHDoRqiL+bZIl1i5UIT2CE5wExeZBoh8xcha/06X7MO3eggsk8ztEvzKIta9lc19C7l+lwRl2imPuOZP6Gq/JJWHVskJQQk5Sv1bXhCGhuVo2OWbEvRZu3AwEAqWlnaqaH4N+HyVI7WC/yyPaBgX8jyXMtkHy/tC2VEL6+Jfo7qDhkJsKRTonsYJwIeOEmNMoa7QzfRlUlNrAozXWDd/lcnfPfkuS8v/jvj8wbBLvAKY1nMypHrh03TLog7rcyIeQnrIziTFbjSXhOqinbqk5TnKPd7n4m6VGUwlBA9ryQdhNhKq6Im2huir5gy+ULVZ9MEvYVm8vFDIfndEpfO+I55dlR+a7a3V8izGl0in4vnvys7koLnNU7ZFnLPWlJ4vFdsazKn6IkNuPLzKxKkgbLchvWk1av/1H9RHcPq3eP9b3Mh+Lbs8YvfUqtf/NbGatGuQhJtuYEIIfKG44X8YS5BmEG2FUHF1upIAab73StARPuuCuPsQ==;LXEBjEsIENthbeS0QqmT6w=="

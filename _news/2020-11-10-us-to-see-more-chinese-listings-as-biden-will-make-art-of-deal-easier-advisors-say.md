@@ -55,6 +55,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Joe Biden taps Ron Klain as chief of staff"
+    excerpt: "Watch \"President-elect Joe Biden taps Ron Klain as chief of staff as Trump continues election fight\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-12T12:10:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201112115930-president-elect-joe-biden-taps-ron-klain-as-chief-of-staff-as-trump-continues-election-fight/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07662910_1605183063.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "6pwluG3mRRthykBFCrV0VVkhQ8tJcUkwG4T+VdekbsfMNuYPF6ApEx3pxhQ7tQTC9XaAoW3dWc1KCky6ePGeYLdOEJEUVi8qXkA9Z2ts4S4NrAtW8KlHo+sPu/BWwtyLnPDuxC464ViHq6YnuaS1tRBbH03Q0lK0JsDQWsBEDl29/9XsJOoBYU+Ie1XwRZL7fGrtsPDEovBHoeVLS/eixpdIcMWDxmJDYMqlfbKfmPpTTqQPUMsGWjkF46I54dGChgS9j9F3S73O2M3CTDeV1Vv7I+VxGJBV0ax+YPXesLacTD2a/kftE6ghCLhTmjlY0bGA4VSrwzYDoBzKz6+zLLZkprA5MgjyqyhJ87qWD1g=;aQYTK3641cXPCD7aKsl/LQ=="
 ---

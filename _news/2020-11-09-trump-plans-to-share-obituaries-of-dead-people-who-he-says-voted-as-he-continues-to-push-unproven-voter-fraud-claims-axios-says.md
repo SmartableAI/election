@@ -79,6 +79,33 @@ related:
         width: 1440
         height: 994
         isCached: true
+  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
+    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
+    publishedDateTime: 2020-11-10T20:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "YouTube Channels Making Money From Ads, Memberships Amplify Trump Voting Fraud Claims"
+    excerpt: "At least nine popular YouTube channels were promoting on Thursday debunked accusations about voting fraud in the U.S. presidential race, conspiratorial content that could jeopardize advertising and memberships revenue they get from the video service."
+    publishedDateTime: 2020-11-06T03:09:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
 
 secured: "mbUA6hLLlr4X15PiLcXkeDZbSpMK9FebWMR00SiNPwNnYy54omYvxl0GEHnfn4qQ+MTLuoFAiZUNy9V+t8poeHP7k/kGXAlZY+t7puAQhjBbYrny/6qCEdLJKSI5Y2rxwkcE68VwebRLsrDaHlSvp8M7pSvkiJ+E7wxVpopWf5q7Xw/rw5E919tH7qL37EjPOsqAcx3L+KOggqVYUoHJPERQJjJDKwCv8aNXRYlR3EaEmNMCPYSne/lKZjv93k9PdJbxzJgzkdJqh92qunu4/j6VDY7DMknyK67OSiE136jMiQ0JuQytNrTpNI2ZGpcRcog7AKGDGL2Rg/+NZKvUnttEe5hiB02Hx+QCuKyQsUFLuRTdY8aeUzQNriExHEWmN50bAp38BH1k3TPY3oowlEp/fYGz8aOSIDJRQvujeRCTMgubIrKUPmICQcyYCABRHS+CtQ8QG5UWukitQnakW7t2QXLSSzTz+pyX8p32T3OcpL8f1GHkK4N2hngENYaC5yWfbFBAO2rYfzINf4wQyQ==;WmylU6xgCIsucpeRlrnjIw=="
 ---
