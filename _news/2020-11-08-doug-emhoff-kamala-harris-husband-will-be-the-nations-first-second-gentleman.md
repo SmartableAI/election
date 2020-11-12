@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Rhor: Kamala Harris paid tribute to her immigrant mother. And I thought of mine."
+    excerpt: "In one of the most important moments of her life, Kamala Harris paid tribute to her mother. The vice president-elect’s eyes shone as she spoke of the “woman most responsible for my presence here”: Shyamala Gopalan Harris,"
+    publishedDateTime: 2020-11-12T09:11:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Rhor-Kamala-Harris-paid-tribute-to-her-immigrant-15720302.php"
+    ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Rhor-Kamala-Harris-paid-tribute-to-her-immigrant-15720302.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Rhor-Kamala-Harris-paid-tribute-to-her-immigrant-15720302.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/17/25/20247872/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Full Transcript of Kamala Harris' First Speech as Vice-President Elect in Delaware"
     excerpt: "Kamala Harris delivered her first speech as vice president-elect on Saturday evening in Democratic Presidential-Elect Joe Biden's hometown of: In her speech,"
     publishedDateTime: 2020-11-08T01:10:00Z

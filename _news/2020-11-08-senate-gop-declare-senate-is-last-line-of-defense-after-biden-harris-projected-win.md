@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-senate-runoff-elections-per
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/"
 type: article
 quality: 143
-heat: 863
+heat: 883
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5GJB2FRBUEI6XLKTJQP5USMQPU.jpg&w=1440"
         width: 1440
         height: 958
+        isCached: true
+  - title: "Rhor: Kamala Harris paid tribute to her immigrant mother. And I thought of mine."
+    excerpt: "In one of the most important moments of her life, Kamala Harris paid tribute to her mother. The vice president-elect’s eyes shone as she spoke of the “woman most responsible for my presence here”: Shyamala Gopalan Harris,"
+    publishedDateTime: 2020-11-12T09:11:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Rhor-Kamala-Harris-paid-tribute-to-her-immigrant-15720302.php"
+    ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Rhor-Kamala-Harris-paid-tribute-to-her-immigrant-15720302.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Rhor-Kamala-Harris-paid-tribute-to-her-immigrant-15720302.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/17/25/20247872/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Doug Emhoff, Kamala Harris' husband, will be the nation's first 'second gentleman'"
     excerpt: "Doug Emhoff, married to Vice President-elect Kamala Harris, will be the first male spouse of any vice president or president. Here's what to know."

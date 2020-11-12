@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris in Detroit on Election Day to rally support: 'Have faith in the American people'"
-    excerpt: "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit."
-    publishedDateTime: 2020-11-06T23:15:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/"
-    ampWebUrl: "https://amp.indystar.com/amp/6129769002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6129769002"
+  - title: "'Brown girl, brown girl' poem celebrates Kamala Harris making history as 1st woman of color vice president"
+    excerpt: "Honoré was in the car with her 20-year-old daughter and as they celebrated the victory that will make Harris the first woman and woman of color vice president, Honoré also began to pen an update to a poem she originally wrote in 2016 for her book of poetry,"
+    publishedDateTime: 2020-11-12T20:42:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/brown-girl-brown-girl-poem-celebrates-kamala-harris/story?id=74154696"
+    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/brown-girl-brown-girl-poem-celebrates-kamala-harris-74154696"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/brown-girl-brown-girl-poem-celebrates-kamala-harris-74154696"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 78
+      name: ABC
+      domain: abcnews.go.com
+    quality: 107
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDTF/f6c9f117-74cf-4558-a513-e8dc14dfdc70-AP20308672071807.jpg?auto=webp&crop=4361,2454,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/GMA/kamala-harris-grandnieces-ht-rc-201111_1605122335553_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Discussing Kamala Harris' Historic Vice Presidential Election and What It Means to Women in America"
     excerpt: "A diverse group of women joined LX News host Ashley Holt to discuss the historic election of Kamala Harris to the vice presidency and what it means to them, and all women in America."
@@ -59,21 +59,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris' VP win marks 'powerful, emotional' moment for African American and South Asian-American women"
-    excerpt: "African American and South Asian women celebrated the history-making win of Kamala Harris, the daughter of an Indian mother and Jamaican father."
-    publishedDateTime: 2020-11-07T16:48:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/kamala-harris-vp-win-historic-first-african-american-asian-women/6144619002/"
-    ampWebUrl: "https://amp.freep.com/amp/6144619002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6144619002"
+  - title: "‘It’s our time’: Black and brown women around Connecticut celebrate the significance of Kamala Harris’s historic win"
+    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
+    publishedDateTime: 2020-11-07T18:15:00Z
+    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
+    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 56
+      name: Hartford Courant
+      domain: courant.com
+    quality: 52
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/28/USAT/e88a30bd-a278-4c81-a022-0a5b54e3cedf-AP_APTOPIX_Election_2020_Harris.jpg?auto=webp&crop=4800,2700,x545,y769&format=pjpg&width=1200"
+      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
 
 secured: "TeXzoQJte/YYYWukbPl0Qv1Qsj1eri0ODY8poWqwj0YEtt/xBhGmbnxT08tIVK55SB/yygSoYDRwFOdLx51mXy493QuG/h1sgXBo5G44P5Uis9sblDF6pqXHT4csW17LhajDTib3k4ucf+GEdhuS7Qqe+DWNz42mXVR5OrPJrZQRqm3a3Gr7NYbKuNIvoD+nw4qFH/jP/yps55n0xos+B2nQOIKYkZgesbLa/pGMHD4QNe6ouC1xxdrSzKArUuafGapOOrb0QMQWh6SypOqvPglAG/ipzK1oiujGoIcjcUxUpH2GvSygyl7D7bYtiaj3uyyBM+tLG0EfBNxkVJRtusD5fbf+QBIgWS6M0a8V1Wg=;0bj/FLRp3LToOAC+Gw85vw=="

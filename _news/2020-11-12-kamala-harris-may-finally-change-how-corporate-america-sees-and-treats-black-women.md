@@ -57,6 +57,20 @@ related:
         width: 2048
         height: 1355
         isCached: true
+  - title: "'She'll Look Like A Boss': Vice President-Elect Kamala Harris Inspires Young Girls"
+    excerpt: "In her victory speech, Kamala Harris spoke directly to young girls, saying \"this is a country of possibilities.\" Girls who met Harris during the campaign say they're inspired by her as a pathbreaker."
+    publishedDateTime: 2020-11-12T19:00:00Z
+    webUrl: "https://www.npr.org/2020/11/12/934158680/shell-look-like-a-boss-vice-president-elect-kamala-harris-inspires-young-girls"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 99
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/12/isiserettes---kamala-harris_wide-1c66a342a6413be9e84f593667a776860e9902cd.jpg?s=1400"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Vice President-elect Kamala Harris inspires Black women in Prince George’s, highlights HBCU pride"
     excerpt: "Vice President-elect Kamala Harris and Prince George's State's Attorney Aisha Braveboy are Howard University alumnae, Braveboy wore her Howard sweatshirt all day Saturday because she was so proud."
     publishedDateTime: 2020-11-11T20:07:00Z

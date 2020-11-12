@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/man-accused-threatenin
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399"
 type: article
 quality: 150
-heat: 4930
+heat: 4950
 published: true
 
 provider:
@@ -2436,6 +2436,22 @@ related:
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/0dca2174-85db-4e5e-9665-dde8d5f7662a-AP20282802625010.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'This is doable,' Kamala Harris tells metro Detroiters at campaign stops"
+    excerpt: "With Election Day just a little more than a week away, Democratic vice presidential nominee Kamala Harris visited metro Detroit Sunday, with stops in several cities where she encouraged ..."
+    publishedDateTime: 2020-10-26T22:30:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/25/kamala-harris-michigan-election-2020/6032298002/"
+    ampWebUrl: "https://amp.freep.com/amp/6032298002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6032298002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/PDTF/debe5dfe-d5a9-4baf-b74a-e9fec2e905e4-GTY_AFP_8TU6WV.jpg_-_Copy.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

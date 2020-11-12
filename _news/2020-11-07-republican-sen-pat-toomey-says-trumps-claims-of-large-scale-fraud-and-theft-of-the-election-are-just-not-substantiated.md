@@ -47,6 +47,20 @@ related:
         width: 975
         height: 487
         isCached: true
+  - title: "'Shameful:' Trump-appointed chief election administrator says the president's voting fraud claim 'hurts the fabric of our nation.'"
+    excerpt: "Benjamin Hovland told Insider that the president and anyone else undermining the 2020 election results is doing exactly what the United States'"
+    publishedDateTime: 2020-11-12T20:08:00Z
+    webUrl: "https://www.businessinsider.com/nations-chief-election-administrator-calls-trumps-voting-fraud-claims-shameful-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/5fad827a343ad40018a9380e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "dhr7GrmlVhoYDZbFMtLpWgYLl/r/cuCdplwWcJcfMujR2llZjDfyI9ItoonEVB7vUh+oZJUp7lMU5UdwxhQ1SovvH5lEQG1JkiPXKuJmSuMHPm313CNYrZwJaUiS238QD091oj5grmIlbp4kxMCcZvwGTcIBOW+ujhCUA4TzEolRR27KsEY7+SSVTVlzlkyheI7E4o8+cnmJ0YCkjfIiLC1GVWHTzCy/i6YedDobi6oAX4UubumErhvIKSzrGVAa7x4PfHo3umbD1DrwUvkDQ1Mg3IPQT8/xrt/hvKy9LztQCBweiNmxflIGhnLwHIyms518C6ERZqIu+2thxHFmcbAG77sUh+8MCVneBgrdcJA=;1wkXkKPw3N6XEmWxux2c1w=="
 ---

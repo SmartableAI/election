@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pelosi celebrates 'dawning of a new day of hope' after Joe Biden projected to win presidency"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., released a statement following Joe Biden’s projected win of the presidency celebrating the “dawning of a new day of hope for America.” "
+    publishedDateTime: 2020-11-07T18:20:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MO6PqlJ_eCU/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7fce3aa-0eeb-48d7-b2f8-85720c30bafc/d2b3158d-d70e-492c-ab7f-789f4116989e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "6IQ0Z9nHPlymA8iSON3del8m2zVUEFlWsoyUNqjYX6E7cDhdUs2/sgSTrv55tf4LuOxbgs9l+/ePU1v24TAGmVg1xj0QTMuJAbyiz9P07diXaSjnYFlEYrsY2tdqfnM4tsT3+Oa7JlRa/X3v8hkQdPmE38jKFict4QLEGtGST/HGeeOkJrA+wssDH5JjNUaGwOvkkjlRZLzfhXawKOZZYpY27vjOHD7flY03+GRWiao1UvVro+ZdgARzXO1Z/rsyrezQe9epb0ebjBx9Pu/jRgBkGVAU2oHFzcHFcNMaHC9peRPiybrKFHd+nqc47eshX55ESEacG1nRknQTTDlLR//414kMLkVq0RBIMBQUB3o=;vt3WxVGlxf7VqmUQUgn0Qw=="
 ---

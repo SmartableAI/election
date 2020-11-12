@@ -2303,6 +2303,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Biden ignores Trump to build team; eyes on pandemic as hospitalizations soar"
+    excerpt: "President-elect Joe Biden will press on with building his governing team on Thursday, ignoring President Donald Trump's refusal to accept defeat."
+    publishedDateTime: 2020-11-12T19:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/wrapup-2-biden-ignores-trump-to-build-team-eyes-on-pandemic-as-hospitalizations-soar-idUSL1N2HY076"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541025758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump defends Texas drivers who swarmed Biden bus on highway; FBI investigating"
     excerpt: "According to the Biden campaign, the vehicles surrounded the bus trying to slow it down in the middle of the highway or run it off the road."
     publishedDateTime: 2020-11-03T15:11:00Z
@@ -2523,6 +2539,22 @@ related:
     quality: 135
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540931036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden moves forward as top Democrats blast Republican post-election 'shenanigans'"
+    excerpt: "U.S. President-elect Joe Biden moved ahead with planning his new administration on Thursday as his fellow Democrats in Congress blasted Republican \"shenanigans\" challenging Donald Trump's election loss and urged action on the coronavirus pandemic."
+    publishedDateTime: 2020-11-12T17:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27S0LV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0LV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0LV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541025758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
         width: 817
         height: 545
         isCached: true
@@ -4291,6 +4323,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Could the electoral college be stolen from Biden?"
+    excerpt: "She said she’s concerned Republicans are trying to use baseless claims of voter irregularities to take Biden’s 16 electoral votes away from him, even though he won the state by more than 148,000 votes."
+    publishedDateTime: 2020-11-12T19:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/12/could-electoral-college-be-stolen-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/12/could-electoral-college-be-stolen-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/12/could-electoral-college-be-stolen-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VDHTTMBDWUI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
     publishedDateTime: 2020-11-02T08:20:00Z
@@ -5504,6 +5552,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Growing number of Republicans say Biden should have access to classified briefings"
+    excerpt: "The Republicans stopped short of saying Biden won, but their comments stand as an acknowledgment of the election results despite Trump’s refusal to concede."
+    publishedDateTime: 2020-11-12T19:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-election-intelligence-briefings/2020/11/12/d1fcf4d4-250f-11eb-952e-0c475972cfc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-election-intelligence-briefings/2020/11/12/d1fcf4d4-250f-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-election-intelligence-briefings/2020/11/12/d1fcf4d4-250f-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RCA4TYRDSMI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Some Americans dance, others wield guns at vote-counting sites as Biden's lead widens"
     excerpt: "Joe Biden supporters danced in Philadelphia's streets on Friday, while armed backers of President Donald Trump in Phoenix shouted, \"Stop the steal\" as a third day of post-election ballot counting brought the Democratic former vice president closer to winning the White House."
     publishedDateTime: 2020-11-07T04:22:00Z
@@ -6677,6 +6741,34 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "GOP Sen. Lankford: Biden should receive briefings"
+    excerpt: "Republican Senator James Lankford of Oklahoma says it's time for President-elect Joe Biden to get the intelligence briefings traditionally provided during a presidential transition. And he says he'll step in if that doesn't begin by Friday."
+    publishedDateTime: 2020-11-12T20:33:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/12/gop-sen-lankford-biden-should-receive-briefings/6269199002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/50a22fef-8ad9-4342-ae1e-e2d2c6bbc881_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump could buck US tradition of conceding defeat"
+    excerpt: "For generations, losing U.S. presidential candidates have conceded to their opponents after bruising elections. President Donald Trump could be the first presidential candidate in modern times to ignore a tradition that supports peaceful transitions."
+    publishedDateTime: 2020-11-12T19:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/12/trump-could-buck-us-tradition-conceding-defeat/6267945002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/117fd1b9-b82d-4482-abbf-860e48821e58_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
     publishedDateTime: 2020-11-10T20:21:00Z
@@ -6865,6 +6957,20 @@ related:
       - url: "https://i.insider.com/5fa740dbf7d1cb0019e3a67e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
+    excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
+    publishedDateTime: 2020-11-12T12:42:00Z
+    webUrl: "https://time.com/magazine/us/?fbclid=IwAR02kTXwD7PnzUdGPlzf8KOF_LUCextXSsYkK9k-N-iLyMs3T3z6LX6hBVEpage%2F2page%2F4page%2F6page%2F481page%2F7page%2F8page%2F7page%2F485page%2F3page/483"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 99
+    images:
+      - url: "https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "President Trump, Joe Biden hold rallies in battleground states ahead of Election Day"
     excerpt: "President Trump and Joe Biden focused on key battleground states as election day approaches. The president held rallies in Iowa, North Carolina, Georgia and Florida. He began the day in Michigan, where he made an appeal to suburban women,"
@@ -8238,6 +8344,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "/c9sAa/MQxrpf09BBvYaoBMiYn2Lu+D6yMEm1ecbxYh+bWrIixeYwL+bRtZvMvBwFoLdrsfcDCKC2xU/mgSrUhxUPOcIxH7lfyUhz5bMxuojeVrU/xl9nfWO62ULekYfzHvM3tJiZJhsBIbQStx0r1k+GDU3ZpJPJixohfYzWJISDTmTNZ5zCAN00ZcSAMlCvPrubz77CBg2r4pivoitOvFMvgmxgVMAuKAE43Qky7eVO28TLjxmmQW9nkRbWzvfI6gNmwFTOY6+Xu65FM906ri+Pen0f4hd8jaxc5BovO0jNytEmYgux3Um4ePkXWSxsckzkTpSqYfz+2pE56wRzLCtmazbWwjbRRj+RL0UHnk=;+Sj1FAdLfpV4cmiN8SlYfA=="
+secured: "YbZh7C3o0jhncZwh3Df67FPcytNYCeX+hmYdiNHkCn6+9MbwieNybHaKnCY81RsH1Kq7+SkzaVwU/42KsmqUrBTSyPLbzBvP895q50p0OObHj1R447+DNzUppo/D0zEyn5Bg55EZYk9TtLgvSzJDt9QF4ukTo0bC34N97vW/DFFhbRh0HdaSQfv/tJVl8nW9mhIadcNZ3H/VZCaVBHWx+ex4OLv7WMhc+Te/zu+egVUSGabVSKFcwOar8vevivNNeUHWtAg2nIoUBchBJobE/bg1yyJkQP1EEA5gsG+dkYqBD2VQPurzzzsWxGTmt+MKwGNidWB6tR/e+ntFYOLPdqhuFC+iaOrZrWYljHyYG6iZV58bi4cMmE3yRapVpLEfp9K+z7PDkqrta1sfJ1XThB8MVY0oN1Jw3Fd9oE+IO7fdNlVnWo3qAslUNwNSmlU2TdgrzYa62JgvKMAJCLJ3/087/vCTzKszJSWrxIHKmIPXBPpNRU6uE55zcz6/W/xLUSIpyV9Wo1UlWmBnaNTEug==;rv+JYa7sMzWkq60gj0BbAA=="
 ---
 

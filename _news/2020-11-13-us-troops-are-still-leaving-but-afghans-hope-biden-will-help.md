@@ -1184,6 +1184,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's eldest children split on his path forward"
+    excerpt: "President Donald Trump has long sought advice from different perspectives throughout his career, but at a pivotal moment in defining his legacy as President, he is receiving conflicting advice from his closest and most trusted advisers -- his eldest children -- as he strategizes his next move in the"
+    publishedDateTime: 2020-11-12T20:38:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VNeMXT1VKf8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/trump-ivanka-jared-kushner-donald-jr-eric/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/trump-ivanka-jared-kushner-donald-jr-eric/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002094144-01-trump-family-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's stunning abdication of leadership comes as pandemic worsens"
     excerpt: "President Donald Trump had predicted in almost every campaign rally that the media would stop talking about the coronavirus pandemic the day after the election. But as it turns out, no one is ignoring the worsening tragedy more than the President himself.\n    \n"
     publishedDateTime: 2020-11-12T11:38:38Z
@@ -1446,6 +1462,22 @@ related:
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kwDMVfuTO9M/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/state-department-biden-messages/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/state-department-biden-messages/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "These Republicans are publicly recognizing Biden's legitimacy as President-elect"
+    excerpt: "A growing number of notable Republicans are beginning to recognize Joe Biden as President-elect, even as President Donald Trump and many GOP leaders are still refusing to do so.\n    \n"
+    publishedDateTime: 2020-11-12T20:13:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RYFKSZIJsJ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/republicans-recognizing-biden-legitimacy-president-elect/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/republicans-recognizing-biden-legitimacy-president-elect/index.html"
     type: article
     provider:
       name: CNN
@@ -3372,6 +3404,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "YMjDv1Rc2eHZNVbkKqbp/W3ZaC83myemtSyfWjqvxqBIc/aK1kXjkAm79F81q2SgHUQ//eg+5utilpGUdimhgPkdcEQdlSIIcakLWn4RfXKiLeXWiqr94EpOcZlnEjbEXMa84xhK6GHYcZ4ov7frenY6U1WES5TPeu6fcJSw/foCJMwILklhh5xzehYSRTSz6Y+fMoVOFckX+k74v5fH4Av8WKcNC+HpeSrUh7aPoF5xVYB03elCfaC6fnCASsb+g/CB1WbNYK6QMEObtNIGpxXAYyAmJqnp700IxfteOUimb+vI2+UDprPtk1AuU24+PurK589E441IbjSSaETffjFbYy/6/w2NR20WJjtIcOY=;O5fuIuibq2wN51UZuxp5Lw=="
+secured: "dLUyYjAnNwQ0o887CqWRXSdFMACKZGAn5RVOLfrHZMPWy/kkQtcZltTE8GBVYZC1jxpAfH0CX9ChhvjE7NWZ/IuTdq7slMALgyGTGsRZs5aNv77W+z9YIfRJJH3+/qzD/Ao1p2TGh7oW5xZ+lxV7VHZzcT6ekp3c0zWoPqbbz5IXd8HIVK1zb/cc+IYkYWjTW+pm/pmZPnkyYSZ3kHUwA66gvKKwoLKFnKMQ3THhXnCYjlOXpG1PYoehQfD7F3PboDwvFgfxPf+ZMlag+kzGM/UkrhxxCCmxLt1Sr/FEvd3sPIACB3/N7rbbEQwDlH6YFu5ohm5UFD0Zpjfd3Ejs1FFoX3o1wgl4xwvViGM7uYkZoGVnukbgt6BP1PAx2EJe9MTs/zAJwSu/n1FAbYHaa56eE0CPnAmgxCDJLjwvsKSiScj5m5hF1iB7WmMs0tXEG507Yr7alCvD69qEaq4DJb+3iq5MHqxwPe4BxV0ym/Odue0EQ3tARqU6Ef4mPIKAxYMnI3+EEqxJyIbzQqmXhg==;aCqcjVdki5isWjvdv5U/VQ=="
 ---
 

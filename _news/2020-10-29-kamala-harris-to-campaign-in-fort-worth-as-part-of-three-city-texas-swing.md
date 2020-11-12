@@ -2450,6 +2450,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'This is doable,' Kamala Harris tells metro Detroiters at campaign stops"
+    excerpt: "With Election Day just a little more than a week away, Democratic vice presidential nominee Kamala Harris visited metro Detroit Sunday, with stops in several cities where she encouraged ..."
+    publishedDateTime: 2020-10-26T22:30:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/25/kamala-harris-michigan-election-2020/6032298002/"
+    ampWebUrl: "https://amp.freep.com/amp/6032298002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6032298002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/PDTF/debe5dfe-d5a9-4baf-b74a-e9fec2e905e4-GTY_AFP_8TU6WV.jpg_-_Copy.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden’s contradictory statements show he’s not being honest with voters"
     excerpt: "Joe Biden is not up for the job and is anything but a model of integrity, writes Marcia S. Hanzal of Avon in a letter to the editor."
     publishedDateTime: 2020-10-16T15:23:00Z

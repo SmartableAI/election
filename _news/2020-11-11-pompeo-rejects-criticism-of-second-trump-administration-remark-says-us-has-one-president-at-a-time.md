@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden transition reveals 'agency review teams' amid spat over transfer of power"
+    excerpt: "The teams are meant to ensure a smooth transfer to the incoming presidential administration."
+    publishedDateTime: 2020-11-11T02:24:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1sdntkJFJY/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42ba2bdd-cc7c-44ce-bc73-a64ff6d608d7/37ae05d5-a334-4987-aa8c-c64e46fc0b31/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "lIeWzGxNGR/fzKTT3F5jwwGCOzPvmPwZo+XNnugDP7YtgCY1+A5a1tKNXzK8YK6TKRBKkJI480CGKdhKRMP67qrsbFZMKrMY9yswV3Mg8rFGfY1gaN+ab8ztBYcYUFYMRes7UlQovkhZ52c3NWAyHBmHoas77NFs+YHj2EppHW/A6L3UxCU6IpzE8oHzTkuuHaw7jQ6LkLBk3GcmDLUOBSZMvOtSsIgxS1ttCulIKeweFzEzRGi3UCxl66XrU44GWiU6Ty1X9hbTFN4YAqee8/PfkpFSPFYkKB5YikyZFIrUYDGIankw7YCvKhpKpm4+SiR3hNuAYG5SXmXuzwF+fNY5Fq3Vdkpw4mKymI3j0HM=;QGnL2HtA8RKPwEZ0Fg+Usw=="
 ---

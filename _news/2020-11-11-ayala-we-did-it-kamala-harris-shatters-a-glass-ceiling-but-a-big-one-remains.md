@@ -45,6 +45,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'She'll Look Like A Boss': Vice President-Elect Kamala Harris Inspires Young Girls"
+    excerpt: "In her victory speech, Kamala Harris spoke directly to young girls, saying \"this is a country of possibilities.\" Girls who met Harris during the campaign say they're inspired by her as a pathbreaker."
+    publishedDateTime: 2020-11-12T19:00:00Z
+    webUrl: "https://www.npr.org/2020/11/12/934158680/shell-look-like-a-boss-vice-president-elect-kamala-harris-inspires-young-girls"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 99
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/12/isiserettes---kamala-harris_wide-1c66a342a6413be9e84f593667a776860e9902cd.jpg?s=1400"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris may finally change how corporate America sees and treats Black women"
     excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
     publishedDateTime: 2020-11-11T16:28:00Z

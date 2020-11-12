@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden transition argues agency review teams represent 'diversity of ideology and background'"
+    excerpt: "President-elect Joe Biden’s transition team is naming members to its agency review teams in an apparent effort to appeal to progressives – although they can't officially get to work until the General Services Administration under President Trump acknowledges the 2020 election results."
+    publishedDateTime: 2020-11-11T01:51:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FeeG-PicFVo/biden-transition-agency-review-teams"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-agency-review-teams.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-agency-review-teams.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315762900391.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "XFuIAPa06uh/v8EBuqrS/KZpg/AMXCwjPQ0CJXx6pacQejWGm7GA0mmpORQ6SOflWc9dwv4+yQOBO+dwgMHh4tfHHCgAsnMagP9IYLGV44d+ln8nAcU5wVHKJ9anxS95+1BLA65Ufy0m6WoTfl0gp1K5FnzGQCw11tqRDXXffWFeRccD8CvV6BEaMkEETpPKJD9oxt/hcumK93+8r6syxiTvipmVwF1Isec0hxDcm1tI75MyGrF67vJxL2XnuvJJcYLA/47JvZTS3xXM6wYgfo/DvxaqHFGp7hgIVkOpzOrRoFksEdGprql6J2OpOQ5/3McuuMX8sdX8df0QiVtKSIM7YbsnYHzasLOKAZLO2N4tKgbQv4H0WFoukbJ6CWrn3GxnMlP4ClAk+dPmKs0caR2WdSJJMP6myUVt6Lnmr0ySzeDTn2M7Pt7NhfOtjUULDIV2ZePBPVkU8HQCOGWluLHuh4HDBsrXwEGmd1FhPjiYojtqTW+YRx2qQwNZ7P6GYs2n/uVXkCi08o8YFl2zzA==;thb2v9rXa9vb0tpwA2HBGg=="
 ---

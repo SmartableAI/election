@@ -9,7 +9,7 @@ ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice
 cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,56 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "'Brown girl, brown girl' poem celebrates Kamala Harris making history as 1st woman of color vice president"
+    excerpt: "Honoré was in the car with her 20-year-old daughter and as they celebrated the victory that will make Harris the first woman and woman of color vice president, Honoré also began to pen an update to a poem she originally wrote in 2016 for her book of poetry,"
+    publishedDateTime: 2020-11-12T20:42:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/brown-girl-brown-girl-poem-celebrates-kamala-harris/story?id=74154696"
+    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/brown-girl-brown-girl-poem-celebrates-kamala-harris-74154696"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/brown-girl-brown-girl-poem-celebrates-kamala-harris-74154696"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 107
+    images:
+      - url: "https://s.abcnews.com/images/GMA/kamala-harris-grandnieces-ht-rc-201111_1605122335553_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Discussing Kamala Harris' Historic Vice Presidential Election and What It Means to Women in America"
+    excerpt: "A diverse group of women joined LX News host Ashley Holt to discuss the historic election of Kamala Harris to the vice presidency and what it means to them, and all women in America."
+    publishedDateTime: 2020-11-11T15:10:00Z
+    webUrl: "https://www.nbcnewyork.com/lx/discussing-kamala-harris-historic-vice-presidential-election-and-what-it-means-to-women-in-america/2717163/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/lx/discussing-kamala-harris-historic-vice-presidential-election-and-what-it-means-to-women-in-america/2717163/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/discussing-kamala-harris-historic-vice-presidential-election-and-what-it-means-to-women-in-america/2717163/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 76
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/GettyImages-1229519794-1.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "This is America: Kamala Harris is America’s first Black, South Asian, woman vice president-elect"
+    excerpt: "She's the first woman vice president-elect. She is the first Black woman and the first South Asian woman vice president-elect. She's the first vice president-elect to have graduated from a historically Black university."
+    publishedDateTime: 2020-11-12T12:51:00Z
+    webUrl: "https://www.azcentral.com/story/news/2020/11/12/vice-president-kamala-harris-first-black-south-asian-woman-vp/6254489002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6254489002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6254489002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kFKMKGNFCaxxkWe24WQlvRfbd22ocN8jcjJiQZPTZjNNwG8eDc0hnQqV3Wgj3NUffgtTm1ayLFiWZwnjJy0zdIFHQDCipJJzIIhd1PxCqIN8Cxtju7TKEel1l3HmFQ4lmtG5LqvqAQHrPnikPfVrk/YarBfi/g4Ayi42oJ+RuNeUPruf8XoUkXuY2MTdL6JO1q+bB77dm6Yn1k+JcVawgoZVY/BR2mDMX9/VWreWoQclGP1Op3yCjlxysajbeGiFPpxKX6JS5a36vFqZPX03czNznEtKgB1nDRVWbpkHstdGOEAUR1NsGKj/R5mhO+0y20nCLip753p0qXBFrQQdYsIe5wq9PbIf7/aX+0Jwedg=;6C9zycl6jxAIT7QvfyAmkA=="
 ---

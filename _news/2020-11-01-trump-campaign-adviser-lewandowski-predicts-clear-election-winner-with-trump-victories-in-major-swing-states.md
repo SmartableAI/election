@@ -911,6 +911,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "More Senate Republicans say Biden should start receiving classified briefings"
+    excerpt: "A growing number of Senate Republicans this week have said that President-elect Joe Biden should begin receiving classified briefings, even as President Trump has refused to concede and as the General Services Administration has yet to officially certify the former vice president’s transition."
+    publishedDateTime: 2020-11-12T19:57:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0eXSka5I06g/senate-republicans-biden-classified-briefings"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-republicans-biden-classified-briefings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-republicans-biden-classified-briefings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Top GOPers say to wait for vote counts after Biden projected to beat Trump, others congratulate new president"
     excerpt: "Some Republicans are insisting that Americans wait for vote counts to be finalized and certified after the Fox News Decision Desk projected that President-elect Biden will beat President Trump and become the 46th president of the United States, while others congratulated Biden on his win Saturday."
     publishedDateTime: 2020-11-07T20:01:59Z

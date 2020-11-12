@@ -75,6 +75,22 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "California Senate sweepstakes: Who gets Kamala Harris’ job?"
+    excerpt: "Election Day is over but California already is consumed with its next high-profile political contest () -- the competition to fill Kamala Harris' soon-to-be-vacant U.S. Senate seat. In this race only one"
+    publishedDateTime: 2020-11-12T20:01:00Z
+    webUrl: "https://www.abqjournal.com/1517367/california-senate-sweepstakes-who-gets-kamala-harris-job.html"
+    ampWebUrl: "https://www.abqjournal.com/1517367/california-senate-sweepstakes-who-gets-kamala-harris-job.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1517367/california-senate-sweepstakes-who-gets-kamala-harris-job.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 75
+    images:
+      - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2020/11/12/AP-US-Senate-California-Harris-Replacement-IMG-630x429.jpg"
+        width: 630
+        height: 429
+        isCached: true
   - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris"
     excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."
     publishedDateTime: 2020-11-10T15:19:00Z
