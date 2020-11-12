@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-28-trump-administration-considers-early-biometric-screening-for-visa-seekers.md",
+      "title": "Trump administration considers early biometric screening for visa seekers",
+      "excerpt": "Some officials raise concerns about retaliation against American travelers",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzCY2C0kD0A/trump-administration-biometric-screening-visa-seekers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzCY2C0kD0A/trump-administration-biometric-screening-visa-seekers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297478049298.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-administration-biometric-screening-visa-seekers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-biometric-screening-visa-seekers.amp",
+      "publishedDateTime": "2020-10-28T12:02:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police.md",
       "title": "Trump Administration Uses Philadelphia Protests To Illustrate ‘Liberal Democrats’ War Against The Police’",
       "excerpt": "The Trump administration said the protests in Philadelphia are “the most recent consequence of the Liberal Democrats’ war against the police.” The administration said all incidents of lethal force must be investigated,",
@@ -1262,62 +1318,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-biden-makes-plea-to-unite-and-heal-the-country-during-stop-in-georgia.md",
-      "title": "Biden makes plea to ‘unite and heal’ the country during stop in Georgia",
-      "excerpt": "Joe Biden, playing offense in a long time red state turned crucial battleground this year, made a closing campaign pitch on Tuesday for national unity to rise above what he called the division President Trump’s sown during his four years in the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4K5BdjTl8Po/biden-plea-unite-and-heal-the-country-georgia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4K5BdjTl8Po/biden-plea-unite-and-heal-the-country-georgia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301662617518.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp",
-      "publishedDateTime": "2020-10-27T13:10:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,11 +2,11 @@
 category: news
 title: "Biden insider Klain will bring virus-fighting expertise to chief of staff role"
 excerpt: "Ron Klain was once tapped by Democratic President Barack Obama to safeguard the United States from the threat of a lethal virus. As President-elect Joe Biden's chief of staff, he will take on a similar mission."
-publishedDateTime: 2020-11-12T02:43:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-klain-newsmaker-idINKBN27S0BY"
-webUrl: "https://www.reuters.com/article/usa-biden-klain-newsmaker-idINKBN27S0BY"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27S0BY"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27S0BY"
+publishedDateTime: 2020-11-12T08:03:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-klain-newsmaker/biden-insider-klain-will-bring-virus-fighting-expertise-to-chief-of-staff-role-idUSKBN27S0BY"
+webUrl: "https://www.reuters.com/article/usa-biden-klain-newsmaker/biden-insider-klain-will-bring-virus-fighting-expertise-to-chief-of-staff-role-idUSKBN27S0BY"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0BY"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0BY"
 type: article
 quality: 121
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540917097&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB04Z"
-    width: 809
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540919752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB06G"
+    width: 794
     height: 545
     isCached: true
 
@@ -124,6 +124,6 @@ related:
         height: 485
         isCached: true
 
-secured: "bPYG0CW8YnLqYgUqaeBv1ls6ZqHHMUNTwMnYhsnMb5S5s3p2ORm+oQlhO+ZdAd6EW5eqWmLVk7Wnql4lADBwrcoAo91k3jKofuzl6OHi4BvWCoPGRV9XD+wthzregoawTx0umDg7MfLe1H4INR1ThTpVLO0RDxWIIqF1h4SUCOj7hwsnEYtyAdr/w8RkJhSte4mNVzXggsM3zNz+1SCZtjVaKalY2KMreWbR77q2wDTUzhixppNXeyr8mtEdkcIohar+ZGh1NWCM/t4JoNHeGr2rEkledLq5VE9rTKVskt9HcDDY3LqOaR/aA2SGaWQcqMDPq0zdzXR0cu0WEPM+q0nNCdyDPhqVjvaMOFYKa+u9ddTdcc4YlRebfk5zjYORbYY3rwM0+kJe8kYqhBXXyp44wGfv9DyowGgUteo4XaYUhfPu8CHNcInmh4V2QpWE7SgY4mnXkwYMzssa3Ac+FZdahxVCbyx4AKRRp/YHYp9pmBMVXm0ejMMPhI2+8IE1OizdX3mFd7IgCpPzT1dDLg==;GQ9mnluOIWWDbOKQv3EApQ=="
+secured: "zcJriBgYtOYYcpCuoL45HUWTvqWTZJKdSDyBW3xQcAoERiZwYn/k6pHWiY/+Ka2mZw1KhWQQsOQGUa1K5LeQSreJEjXxhr90OW09aqBsd5hOMoEyP/7DuNgO+UBefBWexgJpnG/+bLvBiZklhcbqjPNw2sNZvRG3pqSbqLmLzAM2g6DWXfy8K+JQZrIji3CGrxxE55gQxwV4ns7mQKAqB2SZgf9soDP5WC5lIFFKOOnqbGf9CNVtitCkh/25M0iK/FFXDh3ZYoHvrvFadLmLiHXk51oz2nTekNdY+t0zqjCY8BVC9oyTR18RKIzJE97pF55R5b3MACxIcFrb46WcQA2Taz9xBAFKtEaym/+Nmbc=;BicU6LSmOSb6bljNEnrQGQ=="
 ---
 

@@ -2237,10 +2237,10 @@ related:
         isCached: true
   - title: "Donations under $8K to Trump ‘election defense’ instead go to president, RNC"
     excerpt: "As President Donald Trump seeks to discredit last week's election with baseless claims of voter fraud, his team has bombarded his supporters with requests for money to help pay for legal challenges to the results: “The Left will try to STEAL this election!"
-    publishedDateTime: 2020-11-11T22:20:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27R309"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R309"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R309"
+    publishedDateTime: 2020-11-12T03:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-fundraising-insigh-idCAKBN27R309"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27R309"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27R309"
     type: article
     provider:
       name: Reuters
@@ -2427,6 +2427,22 @@ related:
       - url: "https://i.insider.com/5fa9c1831df1d50018219bbb?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden focuses on transition, COVID-19 crisis, as Trump prolongs legal challenges"
+    excerpt: "President-elect Joe Biden will continue to lay the groundwork for his administration on Thursday against the backdrop of a resurgence of COVID-19 cases across the United States, while President Donald Trump refuses to accept the election's outcome."
+    publishedDateTime: 2020-11-12T06:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-focuses-on-transition-covid-19-crisis-as-trump-prolongs-legal-challenges-idUSKBN27R0JF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540931667&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA16Q"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump files new election challenge as Biden focuses on transition"
     excerpt: "President Donald Trump's campaign filed a lawsuit in Michigan on Wednesday as part of its long-shot legal strategy to upend Joe Biden's Nov. 3 election win, even as the former vice president focused on laying the foundation of his incoming administration."
@@ -4063,6 +4079,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Few legal wins so far as Trump team hunts for proof of fraud"
+    excerpt: "Loyalists of President Donald Trump have filed at least 15 legal challenges in Pennsylvania alone in an effort to reclaim the state’s 20 electoral votes"
+    publishedDateTime: 2020-11-12T03:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/legal-wins-trump-team-hunts-proof-fraud-74156619"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/legal-wins-trump-team-hunts-proof-fraud-74156619"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/legal-wins-trump-team-hunts-proof-fraud-74156619"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b86fdbd2e1ee491099cf9028164311d2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "State Dept. sets business-as-usual course while ignoring Biden"
     excerpt: "The agency won’t deliver congratulatory messages to the president-elect from foreign leaders until the General Services Administration gives the go-ahead."
     publishedDateTime: 2020-11-12T00:11:00Z
@@ -4094,6 +4126,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "TikTok asks court to intervene as Trump order looms"
+    excerpt: "The popular video-sharing app TikTok, its future in limbo since President Donald Trump tried to shut it down earlier this fall, is asking a federal court to intervene"
+    publishedDateTime: 2020-11-12T05:07:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/tiktok-asks-court-intervene-trump-order-looms-74147300"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tiktok-asks-court-intervene-trump-order-looms-74147300"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tiktok-asks-court-intervene-trump-order-looms-74147300"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_5d6b73a8818349f482a67daf670f4390_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
@@ -5572,6 +5620,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Trump administration is reportedly withholding a stack of messages from foreign leaders to President-elect Joe Biden"
+    excerpt: "The State Department typically supports communications for the president-elect, but Biden has been independently in contact with other world leaders."
+    publishedDateTime: 2020-11-12T07:29:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-withholding-messages-from-foreign-leaders-to-biden-cnn-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-withholding-messages-from-foreign-leaders-to-biden-cnn-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-withholding-messages-from-foreign-leaders-to-biden-cnn-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5fac90b47f8f4200182a66ec?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Iran is Hoping for Biden Return to Nuclear Deal—But Trust Will Be Hard to Rebuild | Analysis"
     excerpt: "While the Trump administration has repeatedly said its door was open for talks, Iranian President Hassan Rouhani has insisted that the U.S. must first return to the nuclear deal and lift its unilateral sanctions."
     publishedDateTime: 2020-11-03T19:29:00Z
@@ -5791,6 +5855,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/4c2e84fc-eadb-42ce-b253-32800b6ebef6-Biden_double_mask.jpg?auto=webp&crop=2999,1687,x0,y151&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AP source: President-elect Joe Biden chooses longtime adviser Ron Klain to reprise role as his chief of staff"
+    excerpt: "WASHINGTON -- AP source: President-elect Joe Biden chooses longtime adviser Ron Klain to reprise role as his chief of staff."
+    publishedDateTime: 2020-11-12T04:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-president-elect-joe-biden-chooses-longtime-74160406"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-president-elect-joe-biden-chooses-longtime-74160406"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-president-elect-joe-biden-chooses-longtime-74160406"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 106
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "China Is Getting Ready for a World Without Trump"
     excerpt: "Now that Trump appears to be on his way out, and China’s economy is growing again — with parts of Europe and the U.S. resuming lockdowns — the yuan’s outlook is rosy. Reining in excessive currency volatility will be critical if Beijing wants to keep a steady inflow of foreign money."
@@ -6360,14 +6440,14 @@ related:
   - title: "Biden vows to press forward with transition"
     excerpt: "Watch \"President-elect Joe Biden vows to press forward with transition\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-11T18:16:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201111180538-president-elect-joe-biden-vows-to-press-forward-with-transition/"
+    webUrl: "https://www.cbsnews.com/live/video/20201111194355-president-elect-joe-biden-vows-to-press-forward-with-transition/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/11/story_07647243_1605118204.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/11/story_07647387_1605124084.jpg"
         width: 1280
         height: 720
         isCached: true

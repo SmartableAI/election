@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/de-blasio-social-distancing-selfies
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-social-distancing-selfies-coronavirus.amp"
 type: article
 quality: 158
-heat: 158
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Mississippi lawmaker apologizes after calling for state to leave US over Biden win"
+    excerpt: "The prospect of a Joe Biden presidency was a deal breaker, one Republican state lawmaker in Mississippi appeared to say last week."
+    publishedDateTime: 2020-11-12T08:02:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qhBo0ep2WUo/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8419c359-d988-43d2-a50c-f30f8e478624/000564f8-cd7e-46c0-a921-27cb7fc5fc8c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "SFMU2zN8WgsxnECDBm4H3FiLuJNfDzGkANn9KnRaEKhTpBHP4DWhzyhholrps8UhtMRn5QcFxGqgzdDBfAQ8QXkARZtNIiOGFyJ0QY9Nbh0SJY/YaH+gZGYWrwdHH+xzNWsCtFdoNeA2QWa8txJ5oqsiIrcQIvEvPujbbv6zL1MgqrMhen0IRk9lMSqYA3IErZlkIUkSi526dioz9MUu5VtqvWtZ391b9439ZyLPRsfAJ8K8uzBFytfBQYuUHd96Na7Rtu/eFN5Pm/74jVTQ7vF9Zbe+ttN9438yLghseaP8LCh6iwENdgOJUdn3QoPk65FVsSQfo3yGFFbDKZ4HLfp9SbM2G2qF0vJ56RKMT5g=;TRMnyfdy1k2Y9Y1zrHoeDQ=="
 ---

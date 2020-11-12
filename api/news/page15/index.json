@@ -2,6 +2,62 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-25-rnc-chair-mcdaniel-calls-out-biden-for-energy-comments-hes-lying-to-the-american-people.md",
+      "title": "RNC Chair McDaniel calls out Biden for energy comments: 'He's lying to the American people'",
+      "excerpt": "Republican National Committee Chair Ronna McDaniel accused Democratic presidential nominee Joe Biden of \"lying to the American people\" regarding his energy policies, specifically regarding fracking and the oil industry.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDKAnypyY1U/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDKAnypyY1U/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c12189ec-a656-4aec-b107-11d3bc0ac4f5/5ec31af4-90ba-4cb1-9c02-e0d45010d724/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp",
+      "publishedDateTime": "2020-10-25T06:46:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-biden-says-in-video-he-has-created-voter-fraud-organization.md",
       "title": "Biden says in video he has created 'voter fraud organization'",
       "excerpt": "Democratic nominee Joe Biden said his team has created \"the most extensive and inclusive voter fraud organization in the history of American politics\" in a recent video.",
@@ -1304,63 +1360,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-in-the-home-stretch-signs-trumps-hard-sell-seniors-pitch-may-be-falling-short.md",
-      "title": "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short",
-      "excerpt": "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_43/3421859/201021-donald-trump-ew-145p_33980ba252755dffd3445498e1c818e0.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244167",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167",
-      "publishedDateTime": "2020-10-23T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

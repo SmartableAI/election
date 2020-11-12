@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-21-lindsey-graham-says-joe-biden-is-in-his-basement-because-he-cant-carry-a-message.md",
+      "title": "Lindsey Graham Says Joe Biden Is 'In His Basement' Because He 'Can't Carry a Message'",
+      "excerpt": "\"President Trump is ... going all over the country with a lot of energy. He has really accomplished a lot in his first time,\" said the Republican senator.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893",
+      "originalUrl": "https://www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1656094/joe-biden-campaign.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893?amp=1",
+      "publishedDateTime": "2020-10-21T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-fbi-says-it-has-nothing-to-add-to-ratcliffes-remarks-about-hunter-biden-russian-disinformation.md",
       "title": "FBI says it has ‘nothing to add’ to Ratcliffe’s remarks about Hunter Biden, Russian disinformation",
       "excerpt": "In a carefully worded letter to Congress two weeks before Election Day, the bureau tries to avoid its 2016 errors.",
@@ -1502,49 +1554,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-joe-biden-to-campaign-in-cincinnati-and-toledo-on-monday.md",
-      "title": "Joe Biden to campaign in Cincinnati and Toledo on Monday",
-      "excerpt": "Joe Biden returns to Ohio on Monday, with stops in Cincinnati and Toledo, as Vice President Mike Pence campaigns in Columbus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/politics/elections/2020/10/11/joe-biden-campaign-cincinnati-and-toledo-monday/5960275002/",
-      "originalUrl": "https://www.cincinnati.com/story/news/politics/elections/2020/10/11/joe-biden-campaign-cincinnati-and-toledo-monday/5960275002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cincinnati.com/amp/5960275002",
-      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5960275002",
-      "publishedDateTime": "2020-10-11T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-08-senate-gop-declare-senate-is-last-line-of-defense-after-biden-harris-projected-win.md",
+      "title": "Senate GOP declare \"Senate is last line of defense\" after Biden-Harris projected win",
+      "excerpt": "With President-elect Joe Biden's projected electoral college victory, the nation's attention will now turn to the races which could determine the partisan balance of the Senate — and so determine whether Biden's agenda is implemented in his first term in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/",
+      "originalUrl": "https://www.cbsnews.com/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 823,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/07/28/f4bad5e6-062a-4dba-bd5f-176ceb6b96ac/thumbnail/1200x630/eae0cb8d8531d115bd303d5610704381/my-post-2020-07-28t175217-309.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/",
+      "publishedDateTime": "2020-11-07T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-breakingviews-biden-win-sets-scene-for-storm-before-the-calm.md",
       "title": "Breakingviews - Biden win sets scene for storm before the calm",
       "excerpt": "Americans chose Joe Biden as their 46th president. That should usher in a more predictable period for policymaking, and decisive action on containing Covid-19. But he faces three major challenges: voters’ effective rejection of his party’s punchier ideas,",
@@ -1257,58 +1310,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/6182029002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182029002",
       "publishedDateTime": "2020-11-05T18:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-greta-thunberg-mocks-donald-trump-with-his-own-words-in-twitter-revenge-chill-donald-chill.md",
-      "title": "Greta Thunberg mocks Donald Trump with his own words in Twitter revenge: 'Chill, Donald, Chill!'",
-      "excerpt": "Within four hours on her Twitter post, Thunberg's tweet had surpassed Trump's in both likes and retweets, and \"Greta\" was trending in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/05/greta-thunberg-mocks-donald-trump-twitter-his-own-words/6182026002/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/05/greta-thunberg-mocks-donald-trump-twitter-his-own-words/6182026002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/03/25/USAT/507f08a0-4b8d-4dff-a61a-1757fbcabf31-AFP_AFP_1PO044.JPG?auto=webp&crop=5388,3031,x0,y284&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6182026002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182026002",
-      "publishedDateTime": "2020-11-05T17:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
