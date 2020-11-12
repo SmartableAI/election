@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump's stunning abdication of leadership comes as pandemic worsens"
-excerpt: "President Donald Trump had predicted in almost every campaign rally that the media would stop talking about the coronavirus pandemic the day after the election. But as it turns out, no one is ignoring the worsening tragedy more than the President himself."
-publishedDateTime: 2020-11-12T05:02:00Z
-originalUrl: "https://www.cnn.com/2020/11/12/politics/donald-trump-coronavirus-leadership/index.html"
-webUrl: "https://www.cnn.com/2020/11/12/politics/donald-trump-coronavirus-leadership/index.html"
+excerpt: "President Donald Trump had predicted in almost every campaign rally that the media would stop talking about the coronavirus pandemic the day after the election. But as it turns out, no one is ignoring the worsening tragedy more than the President himself.\n    \n"
+publishedDateTime: 2020-11-12T11:38:38Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1uBRqe5aHOg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1uBRqe5aHOg/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/donald-trump-coronavirus-leadership/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/donald-trump-coronavirus-leadership/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
@@ -1136,6 +1135,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Trump is filing so many flimsy lawsuits in battleground states"
+    excerpt: "The Trump campaign is moving from state to state to overturn President-elect Joe Biden's win, in a series of increasingly wild legal maneuvers without credible claims that face astronomical odds and carry little precedent.\n    \n"
+    publishedDateTime: 2020-11-12T11:37:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sEJdxulj0pg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/trump-legal-electoral-college/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/trump-legal-electoral-college/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108113522-02-how-to-navigate-post-election-2020-trnd-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top congressional Republicans still haven't acknowledged Biden's victory"
     excerpt: "President-elect Joe Biden urged the country \"to lower the temperature\" in his victory speech on Saturday night, but Republican leaders he'll have to work with in Congress have either urged President Donald Trump to not concede or stayed silent despite no widespread evidence of fraud in the election.\n"
     publishedDateTime: 2020-11-08T22:24:55Z
@@ -1680,6 +1695,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama memoir confronts role his presidency played in Republican obstructionism and Trump's rise"
+    excerpt: "Barack Obama directly confronts the racist politics of President Donald Trump in the first volume of his post-presidency memoir, bluntly suggesting how he believes his historic election in 2008 opened a wave of bitter and divisive turmoil that fueled Republicans' obstructionism and ultimately changed"
+    publishedDateTime: 2020-11-12T12:52:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RdqoRNrcTXY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/obama-memoir-promised-land/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/obama-memoir-promised-land/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024165230-01-barack-obama-miami-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "At least 5 people in Trump's orbit, including his chief of staff, have tested positive for Covid-19"
     excerpt: "White House chief of staff Mark Meadows has tested positive for coronavirus, two officials confirm to CNN.\n    \n"
     publishedDateTime: 2020-11-07T15:52:57Z
@@ -2191,6 +2222,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/10/us/politics/10dc-trump-power/10dc-trump-power-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden Plans as Trump Holds Out"
+    excerpt: "Biden names a chief of staff as his lead only widens — but still Trump insists, “WE WILL WIN!” It’s Thursday, and this is your politics tip sheet. Sign up here to get On Politics in your inbox every weekday."
+    publishedDateTime: 2020-11-12T12:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/us/politics/biden-transition-klain.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/politics/biden-transition-klain.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/biden-transition-klain.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/05/26/us/onpolitics-text/onpolitics-text-facebookJumbo.jpg"
+        width: 788
+        height: 413
         isCached: true
   - title: "Drudge Report, a Former Trump Ally, Looks to Biden"
     excerpt: "Matt Drudge and Donald Trump boosted each other four years ago. Now his site says, in prominent type, “The World Moves On.”"
@@ -3228,6 +3275,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "csDR498oaYos0iKuYbfTlF5i/l071GGn9IihX4UP85MuVFwQh6J3zmmOZIXGWUnrY9zvFERosGpnxG7ZF7MukT9lExSGLsWLlLvfUqRxEFqrrmZ03Xr245TAvtfK9yVkUDmOqCMHivjToupE7myU+bxN8nT2eAWXZePXfh+rMFbaRJbWAQNh9IFOVBXsobY4Fdk4QZcf8hdV7LDAGtJBr1hbVzw+h2k7sE2XfU3LAqwTD7S50+cFo1SzxUnRi8MrBSbqLRfMmBpY9dxVZnpNF/y5NdfK7uunY3PHSxIMMkkmzdOqppRfDW4Y2xp9ZQeuBbKWfRFHg+pOOUwBrV/LU8AuIIavrX3XVUDagYWxDNC7Uq/ekRzm6OJr8rtziThFt0dsc9AlfQZiwJ3fO0KTMoDoKmbu67hUKsSbtH6Ue0jJ6nmJjNZao9GjCYAxJGJOnE4GxdqWD8CUdfKCd9fNctmPW2AYSs7eKMBgDfFIlww+Z44hkvC/vM1BPrIkHPgWYFOMk/fZOmCpqwVtfvBx7Q==;pxZKzWZI/S4+kubya3O5fQ=="
+secured: "P1NhjEBpF6/EkuSeWu+Z6F9F8Oif3XRnet8+qJsSwA62RwTRFHTUklIhbNpoyMeI0ap5IQt6ybTXxWAnC6d3CQ7dEYOV31H7aA6rnnWIx6vR7Iyg1I1dvS11l5luM47lV8w9PEPkhze4Of+aa0JMvMo91kpcHqPIVVHCF2yizMCBJaFzsGm3SSAdC2UQlgBCfszfMphyonL8FuEVrH7hXOeCmJwG+mM85M++/oMQFaqQLfT6qR17U1Yk27b/FQsUqivFEUMwkItFtIHTAoX9CP003DeO05XbahgTJdroSrGXMoQmt1cVwK/vx3F7Mr94RY5R305LLGLyK9JiF2UpTLEOWK3CjLKD6Zg/yt08obY=;lQr2SJwF4hH83aKC74wifQ=="
 ---
 

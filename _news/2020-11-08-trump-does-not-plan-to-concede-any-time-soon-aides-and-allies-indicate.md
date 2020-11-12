@@ -2835,6 +2835,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden's team says 'theatrics' of Trump's legal fights won't impede a smooth transition"
+    excerpt: "The Biden team is underscoring that it is getting down to business, announcing Wednesday the pick of Ron Klain as White House chief of staff."
+    publishedDateTime: 2020-11-12T11:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/12/joe-biden-barrels-toward-inauguration-trump-mounts-legal-challenges/6236070002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6236070002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6236070002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/1f2c0738-906c-49ec-b07b-e3b527269879-XXX_20201107_Biden_Election_Night_APS_USA_035.JPG?auto=webp&crop=4202,2364,x160,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Donald Trump looks to beat Joe Biden in Alaska for a second term in the Oval Office"
     excerpt: "Alaska has voted for a Republican president in every election since 1968."
     publishedDateTime: 2020-11-02T16:01:00Z
@@ -5841,6 +5857,22 @@ related:
     quality: 109
     images:
       - url: "https://i.insider.com/5fa93d1bf7d1cb0019e3a74d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump is telling allies he will run again for president in 2024 and could announce it before the New Year"
+    excerpt: "Trump's endorsement of Ronna McDaniel to continue as Republican National Committee chair is reportedly a sign that he plans to run again in 2024."
+    publishedDateTime: 2020-11-12T12:33:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-planning-2024-presidential-run-report-this-year-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-planning-2024-presidential-run-report-this-year-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-planning-2024-presidential-run-report-this-year-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fad25d07f8f4200182a6740?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

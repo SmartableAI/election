@@ -2,14 +2,14 @@
 category: news
 title: "FLASHBACK: Biden's chief of staff pick admits Obama admin did everything wrong with H1N1"
 excerpt: "The former Obama administration official said it was pure luck H1N1 wasn’t one of the great mass casualty events in American history."
-publishedDateTime: 2020-11-12T02:30:19Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7YpeM_t_-8/flashback-bidens-chief-of-staff-obama-admin-h1n1"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7YpeM_t_-8/flashback-bidens-chief-of-staff-obama-admin-h1n1"
+publishedDateTime: 2020-11-12T02:46:00Z
+originalUrl: "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1"
+webUrl: "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1"
 ampWebUrl: "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp"
 type: article
-quality: 166
-heat: 166
+quality: 126
+heat: 126
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FhD2yrEWJMjOGpL9/5gTl6FMrj4D9Jwzei6pX711K4rj4RSyT7HDi7G0nESq6OI+fJcHiATnmKuWi86hpGIG7li0iY/XuRKUIRm7H6Fqf4jRc2xwTrVizz/uGC06+11ZXeyKh/6bSceOJAukbiN6lKT45uWybS+Kv0Q5xA746CoLXMv3M14ScYiXD4y5ez5e3tpEXV571MIrdrAySZj0nqFvrlL1rWdYYJdFFoVSqqwWMMLB65erPonz+XqkxEHteXz1tD1cXaPXYfVC4xLsJ2GXsmGhflwN/UURkL+XS0rkYLdRbuqhPjYByhFfJrQOQQD8oyyPRExOC/OR7lDPRYrll7csW13T4OllSEFxyoQ=;pOBCQNDTGJtg42fTk6CqVA=="
+secured: "lJ4k006CIu528MvXfnigYre2oFI/A7dtPYuXfQNevTDyOd1bw01ZT82p+T3ZcOumX0rLLlu1ikPDb57FrjGMPsr4NYyNIdaDx+5zLfMLhehT6BpXZyBVruZRQdq96+YYMLEoze4uN0cNiRdwVc1W3ooHhya01mlgNcPDY5OW19SkzmNW2zqQwWHtfgQxN9mr0cjvEJpksYkoN02++plDqIcOMfnAVXxyXiIFXEFGC4aTKcD6GvCD395Hutsq3RFqMktEzOQpKY307ATvVvWpdsk2TX1drErb4ISFn7L4KGijGiZAvj944/5ssxkZ49QqtxF60c7Qq1MX0QQGNtBejRKHjSRwkHmaOX1+FUUD6Do=;+fzFRQ1Axh2Y0fLFVPMCpg=="
 ---
 

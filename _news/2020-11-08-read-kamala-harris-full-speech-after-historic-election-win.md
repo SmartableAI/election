@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Editorial: Kamala Harris made history. Let’s celebrate that."
+    excerpt: "Kamala Harris made history — the kind of history that should make all Americans proud, whether they voted for her and Joe Biden or not. When she is sworn in as vice president on Jan. 20, Harris, the daughter of a Jamaican father and Indian mother,"
+    publishedDateTime: 2020-11-12T09:11:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/editorials/article/Editorial-Kamala-Harris-made-history-Let-s-15720941.php"
+    ampWebUrl: "https://www.houstonchronicle.com/opinion/editorials/amp/Editorial-Kamala-Harris-made-history-Let-s-15720941.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/editorials/amp/Editorial-Kamala-Harris-made-history-Let-s-15720941.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/17/52/20249239/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Kamala Harris shows women can thrive in politics doing things their own way"
     excerpt: "Kamala D. Harris shattered numerous glass ceilings with her historic election as vice president. In addition to becoming the first woman, the first Black American and the first Indian American elected to the second-highest office in the nation,"
     publishedDateTime: 2020-11-10T18:04:00Z

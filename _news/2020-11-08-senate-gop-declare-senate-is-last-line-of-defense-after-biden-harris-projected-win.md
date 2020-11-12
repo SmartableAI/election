@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-senate-runoff-elections-per
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/"
 type: article
 quality: 143
-heat: 823
+heat: 843
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/51c0fd32-c75e-4bf5-a826-67be9934342c/thumbnail/1200x630/c39dfd54a8c3a2e0ab45b66f8ab752ec/gettyimages-1267250943.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Editorial: Kamala Harris made history. Let’s celebrate that."
+    excerpt: "Kamala Harris made history — the kind of history that should make all Americans proud, whether they voted for her and Joe Biden or not. When she is sworn in as vice president on Jan. 20, Harris, the daughter of a Jamaican father and Indian mother,"
+    publishedDateTime: 2020-11-12T09:11:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/editorials/article/Editorial-Kamala-Harris-made-history-Let-s-15720941.php"
+    ampWebUrl: "https://www.houstonchronicle.com/opinion/editorials/amp/Editorial-Kamala-Harris-made-history-Let-s-15720941.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/editorials/amp/Editorial-Kamala-Harris-made-history-Let-s-15720941.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/17/52/20249239/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Kamala Harris shows women can thrive in politics doing things their own way"
     excerpt: "Kamala D. Harris shattered numerous glass ceilings with her historic election as vice president. In addition to becoming the first woman, the first Black American and the first Indian American elected to the second-highest office in the nation,"

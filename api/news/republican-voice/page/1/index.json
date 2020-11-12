@@ -118,15 +118,15 @@
       "title": "FLASHBACK: Biden's chief of staff pick admits Obama admin did everything wrong with H1N1",
       "excerpt": "The former Obama administration official said it was pure luck H1N1 wasn’t one of the great mass casualty events in American history.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7YpeM_t_-8/flashback-bidens-chief-of-staff-obama-admin-h1n1",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7YpeM_t_-8/flashback-bidens-chief-of-staff-obama-admin-h1n1",
+      "webUrl": "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1",
+      "originalUrl": "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 166,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -142,7 +142,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp",
-      "publishedDateTime": "2020-11-11T18:30:19-08:00",
+      "publishedDateTime": "2020-11-11T18:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -166,6 +166,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
