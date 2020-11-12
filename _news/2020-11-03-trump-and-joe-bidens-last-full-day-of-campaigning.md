@@ -2509,6 +2509,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump-Biden transition live updates: GSA standoff continues as Biden moves forward"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-12T07:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=74125618"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-presser-01-gty-jef-201109_1604942856919_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Biden Receives More Than Twice As Much Money From Billionaires As Trump In Final Push"
     excerpt: "Joe Biden picked up contributions from new donors like Yahoo cofounder Jerry Yang and Palantir chief Alex Karp. Meanwhile, old pals of Donald Trump, like Phil Ruffin and Andy Beal, sent his reelection committees big checks."
     publishedDateTime: 2020-10-25T00:28:00Z

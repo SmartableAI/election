@@ -2862,6 +2862,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Names Ron Klain as White House Chief of Staff"
+    excerpt: "Mr. Klain, a lawyer and veteran Democratic operative who first worked for the president-elect in the late 1980s when he was a senator, has been a sharp critic of President Trump’s handling of the coronavirus."
+    publishedDateTime: 2020-11-12T06:45:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/us/politics/ron-klain-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/us/politics/ron-klain-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/us/politics/ron-klain-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/11/us/politics/11DC-KLAIN/merlin_170307129_a46d8058-8ed2-4820-bb76-ceb60f360ce2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump's stunning abdication of leadership comes as pandemic worsens"
     excerpt: "President Donald Trump had predicted in almost every campaign rally that the media would stop talking about the coronavirus pandemic the day after the election. But as it turns out, no one is ignoring the worsening tragedy more than the President himself."
     publishedDateTime: 2020-11-12T05:02:00Z

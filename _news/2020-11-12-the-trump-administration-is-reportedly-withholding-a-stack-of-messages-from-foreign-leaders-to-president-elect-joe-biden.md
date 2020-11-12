@@ -2510,6 +2510,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump-Biden transition live updates: GSA standoff continues as Biden moves forward"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-12T07:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=74125618"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-presser-01-gty-jef-201109_1604942856919_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Biden Receives More Than Twice As Much Money From Billionaires As Trump In Final Push"
     excerpt: "Joe Biden picked up contributions from new donors like Yahoo cofounder Jerry Yang and Palantir chief Alex Karp. Meanwhile, old pals of Donald Trump, like Phil Ruffin and Andy Beal, sent his reelection committees big checks."
     publishedDateTime: 2020-10-25T00:28:00Z
@@ -8000,6 +8016,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "vRbmO9VopnwP2nK37DGdFvoUO/zVSPjJVzgDBtdJRTbkCuUrKDiFksp3fDjt6G+C4x/ZB/dN0EgJRyeXVwbO0PZX8HNupl9vo7iGDfMKoFthYJovcDPFZHTz+SORg6oaikgFtB62gapratrDHASe3Z/u8AvmrZrIaKf9Mok8nCCR3S3tZRMjGUn5XJS9+D4c7vLZO/x1NZPUJZAmguBBGY/9WizkbEN3oT3jSMo8RTycvzmw8rSkKYuQImaxOxp23w8YNYOoHS6NwFvENenwJob05zzLkQwUdWF0ynLS5VW8z+NH60Z4GOiCfM67Eoj2qn1cD0gIaESLg035XcowxYlLmXmDTe9cetQ2Vns6EhI=;v/y9KrVCsdBpjagEIFVCLg=="
+secured: "8cEAaXKRem3Ex+32euZnPsU9tLQsN6pwHogp6SMUoaQAkCIfbGUhpqjv742PAmY0I2URrWKD2VO3jZBcuuDcW7UTYfoEFGkBSBpwHjLr1g8TBtTqMICeUGY9d+wf00Pq1YAAncGspzOZZptky4UEcMrOWM/zKQU8nN/f9lMFt/oPWmLDzGPyLp6vgOu0fxmW9pL1zTChkbd1Wuc7+68nL+9sags+v9FHY5PIhTs1uSdZxbVVYYKV2kyjn2CWPQN6OjOxD61713LQGq/DGVmy+rK23RWepuV5qQ9cZodOMt69k0HtG9+8JQhXB9RsLaw/jmjHLHW/PLDdXhX/uf74jNxbiFI6iAuTSQ1j1nGFfm/B5pusZu1MsJK3o51sr9pNPtCw8+l6nxkbfB837JFOSlvKpUSX2EuSptWMMRR5xQ923LWIWK7KLlrYbDu1OUzuWtIxMpble/iUtd98PVi+PNi4TGwXy01JCryl10L4a3+E7x+oluwe/rcSH0pHJ1/SAoZild06POJVHJR4s8eZrQ==;toaZbAPJPML709DpsbNFrQ=="
 ---
 
