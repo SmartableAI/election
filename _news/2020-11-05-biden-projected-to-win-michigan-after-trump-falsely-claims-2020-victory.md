@@ -686,6 +686,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden moves forward as top Democrats blast Republican post-election 'shenanigans'"
+    excerpt: "U.S. President-elect Joe Biden moved ahead with planning his new administration on Thursday as his fellow Democrats in Congress blasted Republican \"shenanigans\" challenging Donald Trump's election loss and urged action on the coronavirus pandemic."
+    publishedDateTime: 2020-11-12T17:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27S0LV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0LV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0LV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 145
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541025758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Live election updates: Biden visits church day after victory; Trump golfs again after defeat"
     excerpt: "Romney says Trump is \"not disappearing by any means\" after defeat; the president golfs for a second day, and AOC says she almost didn't run again."
     publishedDateTime: 2020-11-08T17:44:00Z
@@ -2352,10 +2368,10 @@ related:
         isCached: true
   - title: "Biden ignores Trump to build team; eyes on pandemic as hospitalizations soar"
     excerpt: "President-elect Joe Biden will press on with building his governing team on Thursday, ignoring President Donald Trump's refusal to accept defeat."
-    publishedDateTime: 2020-11-12T19:54:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/wrapup-2-biden-ignores-trump-to-build-team-eyes-on-pandemic-as-hospitalizations-soar-idUSL1N2HY076"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    publishedDateTime: 2020-11-12T19:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/biden-ignores-trump-to-build-team-eyes-on-pandemic-as-hospitalizations-soar-idUSKBN27Q0L2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R0JF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R0JF"
     type: article
     provider:
       name: Reuters
@@ -2589,22 +2605,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden moves forward as top Democrats blast Republican post-election 'shenanigans'"
-    excerpt: "U.S. President-elect Joe Biden moved ahead with planning his new administration on Thursday as his fellow Democrats in Congress blasted Republican \"shenanigans\" challenging Donald Trump's election loss and urged action on the coronavirus pandemic."
-    publishedDateTime: 2020-11-12T17:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27S0LV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0LV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0LV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 135
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541025758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump says he will score a 'big win,' accuses Democrats of trying to steal election"
     excerpt: "Republican President Donald Trump, in a tweet early on Wednesday, predicted he will win a second four-year term and accused Democrats of attempting to \"steal\" the election from him, without citing any evidence."
     publishedDateTime: 2020-11-04T06:28:00Z
@@ -2668,6 +2668,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/joe-biden-presser-01-gty-jef-201109_1604942856919_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "As Trump stews over election, he mostly ignores the public duties of the presidency"
+    excerpt: "The president has been mostly absent from view, focused on purging disloyal aides and tweeting grievances and misinformation even as the deadly pandemic rages."
+    publishedDateTime: 2020-11-13T00:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-ignores-duties/2020/11/12/02bfbc36-2507-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-ignores-duties/2020/11/12/02bfbc36-2507-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-ignores-duties/2020/11/12/02bfbc36-2507-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7T66HWRFAII6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden Receives More Than Twice As Much Money From Billionaires As Trump In Final Push"
     excerpt: "Joe Biden picked up contributions from new donors like Yahoo cofounder Jerry Yang and Palantir chief Alex Karp. Meanwhile, old pals of Donald Trump, like Phil Ruffin and Andy Beal, sent his reelection committees big checks."
@@ -4371,6 +4387,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VDHTTMBDWUI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Pope Francis discusses climate change on first call with Biden"
+    excerpt: "The two leaders spoke of “promoting peace, reconciliation, and the common bonds of humanity around the world.”"
+    publishedDateTime: 2020-11-12T22:58:00Z
+    webUrl: "https://thehill.com/changing-america/sustainability/climate-change/525774-pope-francis-discusses-climate-change-on-first"
+    ampWebUrl: "https://thehill.com/changing-america/sustainability/climate-change/525774-pope-francis-discusses-climate-change-on-first?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/climate-change/525774-pope-francis-discusses-climate-change-on-first?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_francisbidenclimate_111220getty.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
@@ -7021,7 +7053,7 @@ related:
   - title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
     excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
     publishedDateTime: 2020-11-12T12:42:00Z
-    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR3uwJnz4rx9ZJya1Vh03kolVQNbCkGdbF2ffCpqQFTEQt_uDRNDKC39zd4page%2F7page/23"
+    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR0OhWIplKoGzoYXNqWUj8_sDm_Umxelq-r4h4QC6ylD_v6uDiDsBmbCao4page%2F6page%2F7page%2F2page%2F24page/25"
     type: article
     provider:
       name: Time
@@ -7031,6 +7063,20 @@ related:
       - url: "https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Latest jobless numbers and the state of the economy facing the Biden administration"
+    excerpt: "Jobless claims declined last week, but 709,000 Americans still filed for first-time unemployment. Lori Bettinger, president of BancAlliance and former director of the Troubled Asset Relief Programs during the Obama administration,"
+    publishedDateTime: 2020-11-12T20:57:00Z
+    webUrl: "https://www.cbsnews.com/video/new-jobless-claims-economy-facing-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/12/760005f2-a91e-459f-a175-ed64c8f45728/thumbnail/1200x630/838d00cf7ee0ce50578969ce1c77a844/cbsn-fusion-new-jobless-claims-economy-facing-biden-administration-thumbnail-586864-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President Trump, Joe Biden hold rallies in battleground states ahead of Election Day"
     excerpt: "President Trump and Joe Biden focused on key battleground states as election day approaches. The president held rallies in Iowa, North Carolina, Georgia and Florida. He began the day in Michigan, where he made an appeal to suburban women,"

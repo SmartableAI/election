@@ -1231,6 +1231,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Election officials, including federal government, contradict Trump's voter-fraud conspiracy theories"
+    excerpt: "A group of national, state and private election officials said in a joint statement Thursday that there is no evidence of any voting system being compromised in the 2020 election despite President Donald Trump's deluge of election fraud conspiracies.\n    \n"
+    publishedDateTime: 2020-11-13T00:54:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UpRIZOiqtNI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/2020-election-trump-voter-conspiracies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/2020-election-trump-voter-conspiracies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009155342-01-voting-booth-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here are 10 climate executive actions Biden says he will take on day one"
     excerpt: "President-elect Joe Biden is planning a flurry of executive actions when he takes office on January 20, and many focus on combating the global climate crisis.\n    \n"
     publishedDateTime: 2020-11-11T20:34:22Z
@@ -1468,6 +1484,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP sees Trump's election challenges as likely to fail and urges White House to take steps towards transition  "
+    excerpt: "Cracks are growing in the GOP defense of President Donald Trump's long-shot effort to overturn the 2020 election outcome, with many top Republicans contending that Joe Biden should immediately get national security briefings, some calling for the official transition process to begin and others are acknowledging"
+    publishedDateTime: 2020-11-13T00:45:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oKvKRxk85Rg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/gop-strategy-trump-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/gop-strategy-trump-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170515101540-01-john-cornyn-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2536,6 +2568,22 @@ related:
     quality: 144
     images:
       - url: "https://static01.nyt.com/images/2020/12/02/business/02election-day-briefing-dixville-notch-voting/02election-day-briefing-dixville-notch-voting-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Rebuffs Biden Transition Team, Setting Off Virus and National Security Risks"
+    excerpt: "Some Senate Republicans said the president-elect should be given intelligence briefings, and transition team members found workarounds for the president’s stonewalling."
+    publishedDateTime: 2020-11-13T00:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/us/politics/biden-trump-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/politics/biden-trump-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/biden-trump-transition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 144
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-transition/12dc-transition-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

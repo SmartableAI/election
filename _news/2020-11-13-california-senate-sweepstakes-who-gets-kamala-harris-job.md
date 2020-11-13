@@ -1,29 +1,29 @@
 ---
 category: news
 title: "California Senate sweepstakes: Who gets Kamala Harris' job?"
-excerpt: "Election Day is over, but California already is consumed with its next high-profile political contest — the competition to fill Kamala Harris’ soon-to-be-vacant U.S. Senate seat."
-publishedDateTime: 2020-11-12T20:57:00Z
-originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/california-senate-sweepstakes-who-gets-kamala-harris-job/article_4ab5792e-9b95-5726-a8f5-a137bd9441ac.html"
-webUrl: "https://www.stltoday.com/news/national/govt-and-politics/california-senate-sweepstakes-who-gets-kamala-harris-job/article_4ab5792e-9b95-5726-a8f5-a137bd9441ac.html"
-ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/california-senate-sweepstakes-who-gets-kamala-harris-job/article_4ab5792e-9b95-5726-a8f5-a137bd9441ac.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/california-senate-sweepstakes-who-gets-kamala-harris-job/article_4ab5792e-9b95-5726-a8f5-a137bd9441ac.amp.html"
+excerpt: "Election Day is over, but California already is consumed with its next high-profile political contest - the competition to fill Kamala Harris' soon-to-be-vacant U.S. Senate seat. In this race, only one vote matters,"
+publishedDateTime: 2020-11-12T22:26:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/article/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+ampWebUrl: "https://www.stamfordadvocate.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/9a/99a930cd-5bc6-511e-961a-3e3f298c71e4/5fad4b8f4601f.image.jpg?resize=1024%2C698"
-    width: 1024
-    height: 698
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -223,6 +223,6 @@ related:
       domain: c-span.org
     quality: 29
 
-secured: "nF9/7wL7OCeFy9bSMzE9ZjjTa2ZOkoZiRcBwwHEltG4sSh8kTcmhIbLaeFAgcoEiHgVsH18HDDbBz3YkyR6U+PnqAnwNJY7RluOA4mBCs8hfJ3ORC5E0pANGPEr68W3cZKBV2IWFR5inYznVLh0xTh9WIsW3C3taJUj346WySaRYoVgul4DMNqOdlBSf8oj8lTTb2cLR2Rj64WgBwmmsSSeUvzTc/FiJg/DX3SF0/6/Oonqk626E0j9CfuDYVDM+JtYJ16bYlnWrgFhl7MPMXAlKJ25YiZBgkK+tHyXd6mcbYHMCNDFPaxAMfeLrDoL8xjGmKExDc6ifHc7ERC3taT8r5MSK/HFjhs1CKW729c0=;Pjzsx3o2amZbiX/jUeKfhg=="
+secured: "w89KsMQj1edga5aYGpW2AiRL8X76LPukbySFqbd4N4SKlHMKppPcme6okEMiojaz1V5R4bYnP05NlxJZbfg8MpIdCVFGwg43EvwUxWlbliReoRFIcBAcFCFi521q44PtbZ8/nMFayNagKhj6ZSGNGzw2bWgmlZq9MzSFiGoyPRyopKWu7P9jkIk5OY/IbxePvawOhdd4GMcWC77ZR87p/8+ys2ivP9s6wklPeo+QgajJ97cPHFb866lQ9v+UdBFUaBDoS/XTR+n/G+usrtb+GK9K0sRmj5yzXZ0KQPZqBlnw+TWlbhIWdRVkPxI/FDpim6Y7mGQ3Apl+iHEoy0F8airx3JXgkXy3cwMdPJ5VE1g=;DYaPlOTucq3XSubnfZPDwQ=="
 ---
 

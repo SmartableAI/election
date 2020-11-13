@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-dir
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103164319-donald-trump-election-day-campaign-staff-0311-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP lawmakers defend CIA Director Gina Haspel as Trump weighs firing her"
+    excerpt: "Several GOP lawmakers have publicly defended CIA Director Gina Haspel in recent days as it has become increasingly clear that President Donald Trump is considering firing her as part of his post-election government purge.\n    \n"
+    publishedDateTime: 2020-11-13T00:23:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYiwh2BamfM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/gop-defend-haspel-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/gop-defend-haspel-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180520165612-gina-haspel-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

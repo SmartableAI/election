@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'He knows how to work inside this government': How Ron Klain's experience prepares him to lead Biden's staff"
+    excerpt: "In selecting Ron Klain as his White House chief of staff, President-elect Joe Biden has tapped a veteran of some of the biggest moments in modern American political history.\n    \n"
+    publishedDateTime: 2020-11-12T22:47:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Rp08sExVRY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/ron-klain-biden-chief-of-staff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/ron-klain-biden-chief-of-staff/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111221512-conclu-ron-klain-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As States Fall His Way, Biden Vows ‘Every Vote Must Be Counted’"
     excerpt: "Joseph R. Biden Jr. picked up victories in Michigan and Wisconsin, giving him an advantageous position, as President Trump prepared legal challenges."
     publishedDateTime: 2020-11-05T05:27:00Z

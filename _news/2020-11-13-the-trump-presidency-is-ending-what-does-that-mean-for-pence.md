@@ -1232,6 +1232,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Election officials, including federal government, contradict Trump's voter-fraud conspiracy theories"
+    excerpt: "A group of national, state and private election officials said in a joint statement Thursday that there is no evidence of any voting system being compromised in the 2020 election despite President Donald Trump's deluge of election fraud conspiracies.\n    \n"
+    publishedDateTime: 2020-11-13T00:54:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UpRIZOiqtNI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/2020-election-trump-voter-conspiracies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/2020-election-trump-voter-conspiracies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009155342-01-voting-booth-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top congressional Republicans still haven't acknowledged Biden's victory"
     excerpt: "President-elect Joe Biden urged the country \"to lower the temperature\" in his victory speech on Saturday night, but Republican leaders he'll have to work with in Congress have either urged President Donald Trump to not concede or stayed silent despite no widespread evidence of fraud in the election.\n"
     publishedDateTime: 2020-11-08T22:24:55Z
@@ -1485,6 +1501,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP sees Trump's election challenges as likely to fail and urges White House to take steps towards transition  "
+    excerpt: "Cracks are growing in the GOP defense of President Donald Trump's long-shot effort to overturn the 2020 election outcome, with many top Republicans contending that Joe Biden should immediately get national security briefings, some calling for the official transition process to begin and others are acknowledging"
+    publishedDateTime: 2020-11-13T00:45:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oKvKRxk85Rg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/gop-strategy-trump-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/gop-strategy-trump-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170515101540-01-john-cornyn-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2540,6 +2572,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Rebuffs Biden Transition Team, Setting Off Virus and National Security Risks"
+    excerpt: "Some Senate Republicans said the president-elect should be given intelligence briefings, and transition team members found workarounds for the president’s stonewalling."
+    publishedDateTime: 2020-11-13T00:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/us/politics/biden-trump-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/politics/biden-trump-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/biden-trump-transition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 144
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-transition/12dc-transition-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "In midnight vote, Biden sweeps Dixville Notch. Trump takes another New Hampshire town."
     excerpt: "In Dixville Notch, where a handful of masked residents voted shortly after midnight on Tuesday, all five votes for president went to Joseph R. Biden Jr., the Democratic nominee. He is the first presidential candidate to sweep the general election vote in Dixville Notch since the midnight voting tradition began there in 1960,"
     publishedDateTime: 2020-11-03T08:47:00Z
@@ -3452,6 +3500,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "en/vQaW6y6uD3DHV3OBstc/+0YKxqfHVywrdrk9atDFMUZ+KiFTJkEThYFZHKd7474EihQ4nHY9T62FnsQvLvMLGD/h5N1f3bBYmKy5XoxZMFtx7LQy17mq7DdP8gsW/X7mHNG/YpPQYleajHTj+8PZEJ/lGq3+t6o1L4tedXMTVft4MEckawwoC+RT18aSISCCV2nhl5RTBiGRgdJOJFJ+G/94DC4ICQgZLVzW7lqO0cYiYxK0PkZYxvRkOvKAj0flGpJkS3za8C8Om9oQgFDm+K7LBdZxO609BWdL9YBaCcN1jSJgoRd8qhewLxylIsaY40hdLKOmRdiNoSAq/HTSdvhsUl0LiX2YzHDYktCQ=;WSYA/oWTiXKVw1gDnbwXdw=="
+secured: "O/rkRNJG05hjz0TLXub9GE4JCS1rYykBCFtEINpqUUJdLbjb+OGZ6C29Um9QPwTVlXyNp10azq0MCg2gTDLwS/CnbBZFF1uONi6cewBVn1DYk72YlsDxAHYxbZW/dfejXaF3y+vVUdqnVxud6nyBelCrtdjW5GEhm6WCiAV0M3YdxJqJ8T38I9it6oZ+kXKF+4XNq1V6qOfJdmO/hBiw+QIkM8tLpDMiqKOv4s99odcVaX4LMCufcqpdMysy/SE6IdSo04+IPUZF2RLPDw+WqOIEh4+gvbGTaoymlZ06a0otSh/volF/IN23G96O2y62mIX30vnojopuPa21WzeKyt7ZhIr2RqZvkEPBOlXkQBWzG8daRKvpAjH1IYE5Fk/X+Rb6oe9IO5lwWnwjChFYUBbdYyOs4BpoCFEshQAA1vdS99H6Ay1E/Aokftf5+DiphHXWWG/M4mPMaOC6F1hFtSIi62OxltB4fgLRYlZr13BHbGEbyAp0GZNAxUXnvtv7TyxyYJBAXzR6L9aQPCnXoA==;51AT4fmT3umU7SMgZ0rlsA=="
 ---
 

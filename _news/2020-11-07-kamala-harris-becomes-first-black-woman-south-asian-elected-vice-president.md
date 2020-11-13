@@ -411,6 +411,22 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "For some Bastrop residents, Kamala Harris inspires hope"
+    excerpt: "Clad in an American flag-print shirt, Dock Jackson headed to Downtown Bastrop on Nov. 7, shortly after Joe Biden was projected to become the 46th U.S."
+    publishedDateTime: 2020-11-12T23:17:00Z
+    webUrl: "https://www.statesman.com/news/20201112/for-some-bastrop-residents-kamala-harris-inspires-hope"
+    ampWebUrl: "https://www.statesman.com/news/20201112/for-some-bastrop-residents-kamala-harris-inspires-hope?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201112/for-some-bastrop-residents-kamala-harris-inspires-hope?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 75
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201112&Category=NEWS&ArtNo=201119820&Ref=AR"
+        width: 3024
+        height: 4032
+        isCached: true
   - title: "Who Gavin Newsom might pick for a U.S. Senate seat to replace Kamala Harris"
     excerpt: "Now that Sen. Kamala Harris is set to become the next vice president, Gov. Gavin Newsom has a big decision to make. Meet some of the top contenders."
     publishedDateTime: 2020-11-08T17:48:00Z

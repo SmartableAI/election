@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Karl Rove breaks from Trump in op-ed and says there's no evidence of voter fraud, marking one of the most notable GOP defections postelection"
+    excerpt: "President Donald Trump's legal challenges \"are unlikely to move a single state\" and \"certainly\" aren't enough to give Trump victory, Rove wrote."
+    publishedDateTime: 2020-11-13T00:34:00Z
+    webUrl: "https://www.businessinsider.com/karl-rove-op-ed-breaks-from-trump-election-overturned-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/karl-rove-op-ed-breaks-from-trump-election-overturned-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/karl-rove-op-ed-breaks-from-trump-election-overturned-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5fad508f8a86ff001880b261?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "4JYnpvprNk7DyiW9V5QhqYL1bAG8k9R49/ipwzv4zgOfj6GpIRsK83ZoRuWXWMUuE7GO0q8O8SK1zLmo8HDAngA6Jy62VZnuoitG09dcY/k9FadoDXS+JZXryd16BtNynWrPPUhND+vsMiL3Gxh/f1KxhRtgfDwxWlPsl8impm3nasTxERlTZ8vxLlHFyyedkyKd9ajGEKcc+LYx/ZRHlHEeEaj3+0f5R2xszRfPg6idiU3QaLnoHazIQ6IdrCzh7FcJAb/Y0yFO1vWodCV5YNTQQYVMWTEAnFi9b7pEK44gBJWAkuu9NwZsplTfSScl5EWYlkaUh+ssBLAx1Ml44bqBCYqhJeLYkfvuKKw56Ho=;KgVKmYEU0mxbYywW3h/uRw=="
 ---

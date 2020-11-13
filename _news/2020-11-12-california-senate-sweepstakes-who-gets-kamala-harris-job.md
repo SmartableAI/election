@@ -74,20 +74,20 @@ related:
         height: 1366
         isCached: true
   - title: "California Senate sweepstakes: Who gets Kamala Harris' job?"
-    excerpt: "Election Day is over, but California already is consumed with its next high-profile political contest — the competition to fill Kamala Harris’ soon-to-be-vacant U.S. Senate seat."
-    publishedDateTime: 2020-11-12T20:57:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/california-senate-sweepstakes-who-gets-kamala-harris-job/article_4ab5792e-9b95-5726-a8f5-a137bd9441ac.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/california-senate-sweepstakes-who-gets-kamala-harris-job/article_4ab5792e-9b95-5726-a8f5-a137bd9441ac.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/california-senate-sweepstakes-who-gets-kamala-harris-job/article_4ab5792e-9b95-5726-a8f5-a137bd9441ac.amp.html"
+    excerpt: "Election Day is over, but California already is consumed with its next high-profile political contest - the competition to fill Kamala Harris' soon-to-be-vacant U.S. Senate seat. In this race, only one vote matters,"
+    publishedDateTime: 2020-11-12T22:26:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 75
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/9a/99a930cd-5bc6-511e-961a-3e3f298c71e4/5fad4b8f4601f.image.jpg?resize=1024%2C698"
-        width: 1024
-        height: 698
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
     excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
