@@ -95,6 +95,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Joe Biden socks and Kamala Harris scrunchies: Washington’s gift shops prepare for a new administration"
+    excerpt: "Souvenir sellers are putting MAGA gear on clearance and looking to the President-elect Biden's inauguration — it’s like the \"Super Bowl for us” — for a sizable chunk of their annual sales."
+    publishedDateTime: 2020-11-13T20:16:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RWULUBF2QI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Rhor: Kamala Harris paid tribute to her immigrant mother. And I thought of mine."
     excerpt: "In one of the most important moments of her life, Kamala Harris paid tribute to her mother. The vice president-elect’s eyes shone as she spoke of the “woman most responsible for my presence here”: Shyamala Gopalan Harris,"
     publishedDateTime: 2020-11-12T09:11:00Z

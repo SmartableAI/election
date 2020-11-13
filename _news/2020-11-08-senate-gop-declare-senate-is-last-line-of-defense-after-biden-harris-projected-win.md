@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-senate-runoff-elections-per
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/"
 type: article
 quality: 143
-heat: 923
+heat: 943
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/17/52/20249239/3/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Joe Biden socks and Kamala Harris scrunchies: Washington’s gift shops prepare for a new administration"
+    excerpt: "Souvenir sellers are putting MAGA gear on clearance and looking to the President-elect Biden's inauguration — it’s like the \"Super Bowl for us” — for a sizable chunk of their annual sales."
+    publishedDateTime: 2020-11-13T20:16:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RWULUBF2QI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Kamala Harris shows women can thrive in politics doing things their own way"
     excerpt: "Kamala D. Harris shattered numerous glass ceilings with her historic election as vice president. In addition to becoming the first woman, the first Black American and the first Indian American elected to the second-highest office in the nation,"

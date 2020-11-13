@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/1
 type: article
 quality: 173
 heat: 173
+published: true
 
 provider:
   name: CNN

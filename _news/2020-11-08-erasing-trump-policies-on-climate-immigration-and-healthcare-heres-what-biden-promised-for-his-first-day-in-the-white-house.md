@@ -1919,6 +1919,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden solidifies U.S. victory over Trump, 306-232 electoral votes"
+    excerpt: "U.S. President-elect Joe Biden solidified his victory over President Donald Trump on Friday after the state of Georgia went his way, leaving Trump little hope of reversing the outcome through legal challenges and recounts."
+    publishedDateTime: 2020-11-13T20:33:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27T0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541139441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0A7"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -2094,6 +2110,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540853428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA16P"
         width: 817
         height: 545
+        isCached: true
+  - title: "Election updates: Trump to deliver first public remarks in a week; Biden projected to win GA, Trump NC"
+    excerpt: "The president has spent most of the week inside the White House, except for a Veteran's Day visit to Arlington National Cemetery on Wednesday."
+    publishedDateTime: 2020-11-13T20:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/13/election-updates-arizona-out-trumps-reach-georgia-starts-recount/6276221002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6276221002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276221002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 139
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/13/USAT/c8fba92d-cf25-45ff-8971-92ec3d229e55-AP_Trump.jpg?auto=webp&crop=1822,1025,x111,y130&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
     excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
@@ -3046,6 +3078,22 @@ related:
     quality: 131
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/e9d74e13-8c86-4335-b776-d7a1cf32a954-bidens.jpg?auto=webp&crop=4304,2421,x0,y218&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Dear news media: What Donald Trump tweets won't change that Joe Biden is president-elect"
+    excerpt: "Joe Biden will be the next President of the United States, despite Donald Trump's tweets. News media must recognize this, and tell the story that way."
+    publishedDateTime: 2020-11-13T19:40:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/media/2020/11/13/news-media-trump-biden-election/6272324002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6272324002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6272324002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/06/NOBD/975e3876-bff8-4543-bb1a-fb5fb9acae56-Trump.jpg?auto=webp&crop=2075,1168,x0,y127&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -4722,6 +4770,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EVPORYBFFAI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 958
+        isCached: true
+  - title: "It goes from bad to worse for the Trump legal team"
+    excerpt: "Prominent law firms have sought to withdraw from representing the Trump legal effort in both Arizona and Pennsylvania, while other efforts fizzle in court."
+    publishedDateTime: 2020-11-13T20:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/it-goes-bad-worse-trump-legal-team/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/it-goes-bad-worse-trump-legal-team/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/it-goes-bad-worse-trump-legal-team/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U2FKSUBF5II6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 930
+        isCached: true
+  - title: "Trump mulls a future outside the White House as 2020 options fade"
+    excerpt: "With his long-shot efforts to hang on for a second term dwindling, U.S. President Donald Trump is discussing with advisers several media ventures and appearances that would keep him in the spotlight ahead of a potential 2024 White House bid."
+    publishedDateTime: 2020-11-13T20:43:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-future-idUSL1N2HZ1YR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2TX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2TX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541159842&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1N4"
+        width: 787
+        height: 545
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
@@ -6470,6 +6550,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Evangelical pastor Robert Jeffress, a longtime Christian supporter of Trump, called on his followers to accept Biden's victory"
+    excerpt: "Leader of a megachurch, Robert Jeffress, said Joe Biden's win was a \"bitter pill to swallow,\" but added that if \"Biden succeeds, we all succeed.\""
+    publishedDateTime: 2020-11-13T13:30:00Z
+    webUrl: "https://www.businessinsider.com/texas-evangelical-pastor-robert-jeffress-biden-won-the-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/texas-evangelical-pastor-robert-jeffress-biden-won-the-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-evangelical-pastor-robert-jeffress-biden-won-the-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5fad24b67f8f4200182a673e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden could lose out on important national security information and personal protection if Trump's continues to refuse to concede"
     excerpt: "Trump can prevent Biden's team from getting presidential daily briefings, the latest secrets, and intelligence insights during the transition period."
     publishedDateTime: 2020-11-10T05:32:00Z
@@ -7235,14 +7331,14 @@ related:
   - title: "China congratulates President elect Biden"
     excerpt: "Watch \"China congratulates President-elect Joe Biden; State Dept. not taking role in calls with foreign leaders\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-13T15:20:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201113143612-china-congratulates-president-elect-joe-biden-state-dept-not-taking-role-in-calls-with-foreign-leaders/"
+    webUrl: "https://www.cbsnews.com/live/video/20201113173717-china-congratulates-president-elect-joe-biden-state-dept-not-taking-role-in-calls-with-foreign-leaders/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/13/story_07683062_1605278764.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/13/story_07685755_1605289504.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -7315,6 +7411,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/117fd1b9-b82d-4482-abbf-860e48821e58_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Latest on Joe Biden's transition to president..."
+    excerpt: "Watch \"Latest on Joe Biden's transition to president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-13T19:17:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201113190200-latest-on-joe-bidens-transition-to-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/13/story_07687030_1605294724.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
@@ -8474,6 +8584,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/us-president-donald-trump-pumps-his-fist-after.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Donald Trump wins battleground state of North Carolina"
+    excerpt: "President Donald Trump has won the presidential battleground state of North Carolina over Democratic nominee Joe Biden. Trump campaigned aggressively in North Carolina with in-person rallies at the height of the coronavirus pandemic,"
+    publishedDateTime: 2020-11-13T20:56:00Z
+    webUrl: "https://www.chron.com/news/article/Donald-Trump-wins-battleground-state-of-North-15725955.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Donald-Trump-wins-battleground-state-of-North-15725955.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Donald-Trump-wins-battleground-state-of-North-15725955.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Official Vote Count Continues Nationwide as Donald Trump Falsely Claims a Win From The White House"
     excerpt: "The Associated Press has not yet projected a winner of the race and states will not complete their exhaustive counts for several days."

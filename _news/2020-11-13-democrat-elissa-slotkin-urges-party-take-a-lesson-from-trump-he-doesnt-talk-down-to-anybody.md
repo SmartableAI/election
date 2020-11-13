@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/po
 type: article
 quality: 163
 heat: 163
+published: true
 
 provider:
   name: Fox News

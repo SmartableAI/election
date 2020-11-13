@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-speech-mandate-trump-undecide
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
 type: article
 quality: 205
-heat: 2325
+heat: 2345
 published: true
 
 provider:
@@ -574,6 +574,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7994c178-a9a3-49b0-b7c5-c6545797cb45/cf423e11-3eb9-4c8a-87fb-7ac318808722/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Dr. Ronny Jackson, new Texas congressman, says Joe Biden should have cognitive test like Trump did"
+    excerpt: "Dr. Ronny Jackson, the incoming Texas congressman and former White House physician to President Trump, called out the left for failing to demand a rigorous cognitive screening for President-elect Joe Biden, saying \"there's something going on\" with the Democrat's mental acuity."
+    publishedDateTime: 2020-11-13T20:26:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/peMBzY25gPQ/ronny-jackson-texas-joe-biden-needs-cognitive-test"
+    ampWebUrl: "https://www.foxnews.com/politics/ronny-jackson-texas-joe-biden-needs-cognitive-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronny-jackson-texas-joe-biden-needs-cognitive-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/ronny-jackson4.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Joe Biden announces 'fight fund' for vote count battle"
     excerpt: "Democratic presidential nominee Joe Biden on Wednesday announced the formation of what he's calling the “Biden Fight Fund,” touting it as the “largest election protection effort ever assembled” as he and President Trump compete for key battleground states in the 2020 presidential race."

@@ -335,6 +335,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "A law firm has stopped representing the Trump campaign in a Pennsylvania suit."
+    excerpt: "Porter Wright Morris & Arthur, the law firm leading the Trump campaign’s efforts to cast doubt on the presidential election results in Pennsylvania, abruptly withdrew from a federal lawsuit that it filed days earlier on behalf of President Trump."
+    publishedDateTime: 2020-11-13T20:16:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13transition-briefing-campaign-lawyers/merlin_179792331_959fa2b2-a4e4-4ce5-8a9c-96f0e32c9c81-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "St. Louis couple who waved guns at protest have spoken to Trump about their case"
     excerpt: "Mark and Patricia McCloskey were indicted by a St. Louis grand jury last week on charges of unlawful use of a weapon and tampering with evidence."
     publishedDateTime: 2020-10-14T18:11:00Z

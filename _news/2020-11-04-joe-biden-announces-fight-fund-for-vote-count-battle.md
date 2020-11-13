@@ -591,6 +591,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dr. Ronny Jackson, new Texas congressman, says Joe Biden should have cognitive test like Trump did"
+    excerpt: "Dr. Ronny Jackson, the incoming Texas congressman and former White House physician to President Trump, called out the left for failing to demand a rigorous cognitive screening for President-elect Joe Biden, saying \"there's something going on\" with the Democrat's mental acuity."
+    publishedDateTime: 2020-11-13T20:26:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/peMBzY25gPQ/ronny-jackson-texas-joe-biden-needs-cognitive-test"
+    ampWebUrl: "https://www.foxnews.com/politics/ronny-jackson-texas-joe-biden-needs-cognitive-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronny-jackson-texas-joe-biden-needs-cognitive-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/ronny-jackson4.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "More Americans voted for Donald Trump this year than in 2016"
     excerpt: "President Trump received more votes in the 2020 presidential election than he did in the 2016 presidential election as Joe Biden also surpassed the 2016 vote total for Hillary Clinton. "
     publishedDateTime: 2020-11-04T16:12:39Z

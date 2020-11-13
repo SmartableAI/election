@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "A Biden COVID-19 advisor suggested a national lockdown lasting up to 6 weeks, but said the idea was unlikely to gain support"
+    excerpt: "Michael Osterholm told ABC News that he had not discussed this idea with others and added he did not believe it would gain support."
+    publishedDateTime: 2020-11-13T20:41:00Z
+    webUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "4lx/0g4YOuTpUqB2uJQlVwHKolFEXvMrvPSDMdu+J71DarZeoxOtFKPt1Gczxz2KxoL/YbhCiRtzTySC6GP1BVOiip+GuO2h8ZUuntN7ZV/1DSI7L19lhSzqn8mbuwH3JRfJ9wlSRAanx/aewX+gQya0tjMlDlrua0Gy6kaH+HwNOjyDF5pQ6RWRvI0Ms+59gGwIaQQ5JBUsNCkfz/pf+7EsLKzh+vvq8fkSoyvk7uXZWLlHzSX52PrB/EHHIQ1GpQzkZHC1PJuVtIvWx7LK8ZFvAkkWno5dYK1gAeQXDZN8Gvz8+Qm10DRZwjBW0gjuXXljshoxIYoVq2BuYx5dItBcZggg2P6Rf7Iu1dE+QQ4=;JBfg99NZzO8HfhPCXBrNJQ=="
 ---

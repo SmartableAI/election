@@ -1281,6 +1281,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden becomes first Democrat in 28 years to win Georgia"
+    excerpt: "Joe Biden will win Georgia, CNN projected Friday, striking at the heart of what has been Republican presidential stronghold for nearly three decades. The former vice president is the first Democratic nominee to triumph in Georgia since Bill Clinton did it in 1992.\n    \n"
+    publishedDateTime: 2020-11-13T20:21:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fCLQlmKCVDg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/joe-biden-wins-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/joe-biden-wins-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden carries Arizona, flipping a longtime Republican stronghold"
     excerpt: "For just the second time in more than seven decades, a Democrat will carry Arizona in a presidential election, a monumental shift for a state that was once a Republican stronghold.\n    \n"
     publishedDateTime: 2020-11-13T04:46:20Z
@@ -3452,6 +3468,22 @@ related:
     quality: 134
     images:
       - url: "https://static01.nyt.com/images/2020/11/04/us/-promo-1604491386708/-promo-1604491386708-facebookJumbo.png"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Antitrust regulation will change under Biden, but don’t expect revolution."
+    excerpt: "The statement highlights how the agency’s approach to antitrust could change under a Biden administration, as the Democratic Party’s left wing pushes for even tougher enforcement, the DealBook newsletter reports."
+    publishedDateTime: 2020-11-13T19:55:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/us/antitrust-regulation-will-change-under-biden-but-dont-expect-revolution.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/us/antitrust-regulation-will-change-under-biden-but-dont-expect-revolution.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/us/antitrust-regulation-will-change-under-biden-but-dont-expect-revolution.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13transition-briefing-facebook/merlin_158730969_f2ac5240-7b79-4de1-a650-f0a3ea83edf4-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true

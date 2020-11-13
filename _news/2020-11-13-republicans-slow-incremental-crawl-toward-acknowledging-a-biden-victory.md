@@ -9,7 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/11/13/us/republicans-slow-incremental-c
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/us/republicans-slow-incremental-crawl-toward-acknowledging-a-biden-victory.amp.html"
 type: article
 quality: 133
-heat: 133
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -29,6 +30,40 @@ images:
     width: 1050
     height: 549
     isCached: true
+
+related:
+  - title: "The Point: Why a Republican-led Senate might not be *such* a bad thing for Joe Biden"
+    excerpt: "Conventional wisdom suggests that the best-case scenario for President-elect Joe Biden is for Democrats to sweep the two Senate runoffs in Georgia in January, wins that would hand Democrats control of both sides of the US Capitol, not to mention the White House.\n    \n"
+    publishedDateTime: 2020-11-11T15:42:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XWdsKA5gfrI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/senate-joe-biden-mcconnell-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/senate-joe-biden-mcconnell-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/121231031314-biden-mcconnell-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "GOP to argue Georgia Senate runoffs would be key to check Biden and a Democratic House"
+    excerpt: "Georgia Republican Sens. David Perdue and Kelly Loeffler are bracing for a two-month slog in Georgia that could determine the next Senate majority, planning to argue that they need to keep their seats to prevent Democratic control of Washington.\n    \n"
+    publishedDateTime: 2020-11-07T01:21:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpr-QIcIV9I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/2020-election-georgia-senate-race-runoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030205324-loeffler-perdue-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Avpjbk2/BMLK6OYlpd8Rw2nuVyhEflBuJ2MlILr2Kh85mVOM6qX7gYH7tFeGBSgid3kaWoz6QNqThJTDuBSsG1CHU8DCG9y3rCqoK7pIRgGNbCfkVf0sXLpHMqiH2ROwXc8QLWH4Jb55BjPGQxKTJbu57xgo/K34bvmEF0QKc0LYZv6MeJcNpAGUz5+bRfMfxiUSBcgt+43hXoTV4GDbrNZmwiKh/0CckpWP9WlTVq3YJGKGNf1f/IUl9h+ymjSBoM6akVFaEnl1+Oouc0kcwCL3FcbtLnmDGOSolBh488fP7lcK5dTxlvZGn5Wl945h4VzqaWOBtsr5IwPQerm/mfgGAuKnJ66wyO3VTZnpv0Y=;BxaZe5Ynl73v0TndBIZBpw=="
 ---

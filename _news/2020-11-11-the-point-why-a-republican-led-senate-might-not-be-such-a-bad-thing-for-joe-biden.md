@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/senate-joe-biden-mcconne
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/senate-joe-biden-mcconnell-georgia/index.html"
 type: article
 quality: 168
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030205324-loeffler-perdue-split-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Republicans’ slow, incremental crawl toward acknowledging a Biden victory."
+    excerpt: "Biden Jr.’s victory and specifically endorsed his receiving classified intelligence briefings, in particular, the President’s Daily Brief, the compendium of the nation’s most closely guarded intelligence secrets and assessments of threats like terrorist plots and cyberattack vulnerabilities."
+    publishedDateTime: 2020-11-13T13:26:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/us/republicans-slow-incremental-crawl-toward-acknowledging-a-biden-victory.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/us/republicans-slow-incremental-crawl-toward-acknowledging-a-biden-victory.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/us/republicans-slow-incremental-crawl-toward-acknowledging-a-biden-victory.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13dc-transition-briefing-hagel/13dc-transition-briefing-hagel-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "zYGLMeAD3bo8zfUEFLxWtjjnaSJuyeGauuSW+Q7aLvJ6+AP7eEvKL/EQDi4bxA5mbjv7CrB2Pzq02GiPmIaRaI4JM1qXeUNT9eX23V0OM46Dzw4hrDIIWYsAsYXIzTX/h49VwDypxuPjPmtY9Mjq7aexC0vcCvsQXr0pbVcXHvWdFB7UZRYomJMVwyfuhJHCPLTiokUPl+tN3tMkfYbxPUAcPUs8afFkGPHm9crWwPY9ptVSqoTvFr3m8IY9Jl+u6zTWdES71WnpWapDvV7BMEFv8t0Cwn5rdZGhYe9DaFE0eHLbWwLYXH+D0RVhr5WB8gmhIoATtRBMpW4Xv5+AdTWOTBXzV1xOVb+lFQxCg4c=;uTUHotH0Pt1H5IAzs1mMcg=="
