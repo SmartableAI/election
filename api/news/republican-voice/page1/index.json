@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-13-la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.md",
+      "title": "LA Mayor Garcetti caught between local troubles, possible Biden cabinet position",
+      "excerpt": "Los Angeles Mayor Eric Garcetti has avoided answering whether he’d leave his current position if a cabinet position was offered to him in President-elect Joe Biden's administration, but speculation has continued to mount, according to reports.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UdakTKT3mGU/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UdakTKT3mGU/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1198708520.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp",
+      "publishedDateTime": "2020-11-12T21:10:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-kyle-rittenhouses-mother-slams-biden-over-white-supremacist-ad-hes-not-a-racist-he-is-my-son.md",
       "title": "Kyle Rittenhouse's mother slams Biden over 'White supremacist' ad: 'He's not a racist, he is my son'",
       "excerpt": "Joe Biden's presidential campaign \"used my son's image to get votes,\" the mother of a man who shot and killed two demonstrators in Kenosha, Wis. over the summer told \"Tucker Carlson Tonight\" Thursday. ",
@@ -255,62 +311,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
       "publishedDateTime": "2020-11-12T15:28:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.md",
-      "title": "Possible Biden Cabinet pick Heidi Heitkamp once took fire for outing sexual assault survivors",
-      "excerpt": "Former Sen. Heidi Heitkamp, who faced backlash during the 2018 primaries that she ultimately lost after she mistakenly outed sexual assault survivors in a campaign ad, is on the shortlist for a position in President-elect Joe Biden's Cabinet. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ngXipgv4QY/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ngXipgv4QY/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8584a22-9b2b-40cf-ac7a-4bf9f5a394fe/111f8dad-4350-4347-b837-4e0d7316d4ed/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.amp",
-      "publishedDateTime": "2020-11-12T15:05:19-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1135,7 +1135,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 242,
+      "heat": 262,
       "tags": null,
       "images": [
         {

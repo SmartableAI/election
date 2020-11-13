@@ -2,6 +2,62 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-10-11-trump-has-met-cdc-criteria-to-end-isolation-and-is-cleared-to-return-to-an-active-schedule-by-his-physician.md",
+      "title": "Trump has met CDC criteria to end isolation and is cleared to return to an active schedule by his physician",
+      "excerpt": "President Donald Trump has been cleared to return to an active schedule, according to a new memo from his physician, Dr. Sean Conley, released Saturday night.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
+      "publishedDateTime": "2020-10-10T20:00:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-trump-has-called-his-supporters-disgusting-do-they-care.md",
       "title": "Trump Has Called His Supporters ‘Disgusting.’ Do They Care?",
       "excerpt": "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change.",
@@ -1275,49 +1331,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-verify-did-joe-biden-say-he-would-ban-fracking.md",
-      "title": "VERIFY: Did Joe Biden say he would ban fracking?",
-      "excerpt": "Vice President Mike Pence claimed that under a Biden administration, Joe Biden has said he wants to ban fracking. \"The American people can go look at the record, I know Joe Biden says otherwise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wusa9.com/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
-      "originalUrl": "https://www.wusa9.com/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wusa9.com/assets/WUSA/images/7ebf6abb-c393-470c-891b-b614125c3413/7ebf6abb-c393-470c-891b-b614125c3413_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wusa9.com/amp/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
-      "cdnAmpWebUrl": "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/verify/verify-does-joe-biden-want-to-end-fracking/65-1595c0c6-a90f-4e1b-ab55-5c516fa28240",
-      "publishedDateTime": "2020-10-09T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WUSA9",
-        "domain": "wusa9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

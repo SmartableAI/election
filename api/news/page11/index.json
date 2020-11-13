@@ -2,6 +2,63 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-30-people-are-going-to-be-shocked-return-of-the-shy-trump-voter.md",
+      "title": "‘People Are Going To Be Shocked’: Return of the ‘Shy’ Trump Voter?",
+      "excerpt": "In 2016, pollsters Arie Kapteyn and Robert Cahaly saw Trump coming. In 2020, they see polls again underestimating his support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/magazine/2020/10/29/2020-polls-trump-biden-prediction-accurate-2016-433619",
+      "originalUrl": "https://www.politico.com/news/magazine/2020/10/29/2020-polls-trump-biden-prediction-accurate-2016-433619",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/a2/06/89adb2314318aa14fbe43ae6e47f/trump-shy-voters-773.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/10/29/2020-polls-trump-biden-prediction-accurate-2016-433619",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/10/29/2020-polls-trump-biden-prediction-accurate-2016-433619",
+      "publishedDateTime": "2020-10-29T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish.md",
       "title": "Kamala Harris Says Political Figures Mispronouncing Her Name Are \"Predictable and Childish\"",
       "excerpt": "Kamala Harris joined Trevor Noah on The Daily Social Distancing Show Thursday night where she addressed those who mispronounce her name. \"Why does it seem like it becomes harder to pronounce your name the more conservative a person is?",
@@ -1271,63 +1328,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-biden-vows-to-pass-lgbtq-rights-legislation-in-first-100-days.md",
-      "title": "Biden vows to pass LGBTQ rights legislation in first 100 days",
-      "excerpt": "Democratic presidential candidate Joe Biden has promised to make the Equality Act a \"top legislative priority\" should he win Tuesday’s election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/biden-vows-pass-lgbtq-rights-legislation-first-100-days-n1245244",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/biden-vows-pass-lgbtq-rights-legislation-first-100-days-n1245244",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_44/3423960/201029-biden-mn-0855_646bb7d78a687f1b97f15b66b2c76c74.JPG",
-          "width": 2500,
-          "height": 1376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1245244",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245244",
-      "publishedDateTime": "2020-10-29T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

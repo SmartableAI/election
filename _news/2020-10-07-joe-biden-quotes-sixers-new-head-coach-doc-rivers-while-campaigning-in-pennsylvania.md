@@ -229,6 +229,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Mike Pence to visit Georgia next week"
+    excerpt: "Pence announced that he would visit Georgia on Twitter next week, though he did not provide specific details of when or where."
+    publishedDateTime: 2020-11-12T19:17:00Z
+    webUrl: "https://www.wsbtv.com/news/politics/vice-president-mike-pence-visit-georgia-next-week/F6S4DVVGNFAIPDDOEAGF3XCV5E/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 55
+    images:
+      - url: "https://www.wsbtv.com/resizer/QvVJtkN6R42VHSSARmsPJQglnQM=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/CNDUZKFY2U275REEJZVFDG37BQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Vice President Pence will campaign in Georgia for GOP senators in runoff"
     excerpt: "Vice President Mike Pence said he will visit Georgia later this month to campaign on behalf of U.S. Sens. David Perdue and Kelly Loeffler, who face runoff contests against Democratic opponents to retain their seats."
     publishedDateTime: 2020-11-10T20:57:00Z

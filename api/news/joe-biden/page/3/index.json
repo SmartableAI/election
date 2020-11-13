@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-22-tyler-perry-jennifer-lopez-more-stars-endorse-joe-biden-for-president.md",
+      "title": "Tyler Perry, Jennifer Lopez & More Stars Endorse Joe Biden For President",
+      "excerpt": "Joe Biden and Kamala Harris have gained endorsements from plenty of powerful celebrities, like Tyler Perry, Jennifer Lopez and Taylor Swift. Here’s who else is voting for them on November 3.",
+      "sourceUrl": null,
+      "webUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
+      "originalUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pmchollywoodlife.files.wordpress.com/2020/10/joe-biden-celebs-endorse-vote-ftr.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
+      "cdnAmpWebUrl": "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
+      "publishedDateTime": "2020-10-21T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hollywood Life",
+        "domain": "hollywoodlife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-biden-endorses-texas-democratic-house-candidate-julie-oliver.md",
       "title": "Biden endorses Texas Democratic House candidate Julie Oliver",
       "excerpt": "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas.",
@@ -1502,63 +1545,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week.md",
-      "title": "The Guilty History Behind Joe Biden and the Democrats Regarding Their SCOTUS Complaints This Week",
-      "excerpt": "As the confirmation hearing for Amy Coney Barrett’s appointment commences we are girding ourselves to be inundated with plenty of mewling and complaining from Democrats and the press. There will",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900",
-      "originalUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true",
-      "publishedDateTime": "2020-10-12T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

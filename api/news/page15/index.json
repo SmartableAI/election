@@ -2,6 +2,63 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-26-pence-tests-negative-for-coronavirus-again-as-democrats-push-him-to-skip-barrett-vote.md",
+      "title": "Pence tests negative for coronavirus again as Democrats push him to skip Barrett vote",
+      "excerpt": "Senate Democrats are telling Vice President Mike Pence to stay away from Judge Amy Coney Barrett's confirmation vote on Capitol Hill after five people in Pence's orbit tested positive for coronavirus last week, although the vice president tested negative again on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bvCvQgx_uzQ/mike-pence-coronavirus-test-barrett-vote-schumer",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bvCvQgx_uzQ/mike-pence-coronavirus-test-barrett-vote-schumer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pence-coronavirus-test-barrett-vote-schumer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-coronavirus-test-barrett-vote-schumer.amp",
+      "publishedDateTime": "2020-10-26T08:01:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-ben-shapiro-nothing-funny-about-kamala-harris-laughing-off-questions-about-socialism.md",
       "title": "Ben Shapiro: 'Nothing funny' about Kamala Harris laughing off questions about socialism",
       "excerpt": "Podcast host and author Ben Shapiro on Monday ripped Sen. Kamala Harris, D-Calif., for laughing at an interviewer who asked if she had socialist views.",
@@ -310,49 +367,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-amy-coney-barrett-mike-pence-tropical-storm-zeta-5-things-to-know-monday.md",
-      "title": "Amy Coney Barrett, Mike Pence, Tropical Storm Zeta: 5 things to know Monday",
-      "excerpt": "Amy Coney Barrett is poised to become the ninth Supreme Court justice, Tropical Storm Zeta expected to develop into a hurricane and more things to start your Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
-      "originalUrl": "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/6031654002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6031654002",
-      "publishedDateTime": "2020-10-26T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -747,6 +761,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-totally-irresponsible-dems-criticize-pence-presiding-over-amy-coney-barrett-vote-after-aides-contract-covid-19.md",
+      "title": "'Totally irresponsible': Dems criticize Pence presiding over Amy Coney Barrett vote after aides contract COVID-19",
+      "excerpt": "WASHINGTON – Senate Democrats on Sunday lodged harsh criticisms at Vice President Mike Pence who plans to preside over the chamber during a vote on Amy Coney Barrett's confirmation to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/mike-pence-preside-barrett-supreme-court-criticism-covid/6033173002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/mike-pence-preside-barrett-supreme-court-criticism-covid/6033173002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/7886176ab7bc20f7a65582243c3fe503189c1c03/c=0-276-5300-3257/local/-/media/2020/04/15/USATODAY/usatsports/1df6f0e1dd014a308cb7ae26374feaed.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6033173002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6033173002",
+      "publishedDateTime": "2020-10-25T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -1242,7 +1308,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1283,62 +1349,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-rnc-chair-mcdaniel-calls-out-biden-for-energy-comments-hes-lying-to-the-american-people.md",
-      "title": "RNC Chair McDaniel calls out Biden for energy comments: 'He's lying to the American people'",
-      "excerpt": "Republican National Committee Chair Ronna McDaniel accused Democratic presidential nominee Joe Biden of \"lying to the American people\" regarding his energy policies, specifically regarding fracking and the oil industry.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDKAnypyY1U/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jDKAnypyY1U/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c12189ec-a656-4aec-b107-11d3bc0ac4f5/5ec31af4-90ba-4cb1-9c02-e0d45010d724/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-chair-mcdaniel-biden-energy-comments-lying-american-people.amp",
-      "publishedDateTime": "2020-10-25T06:46:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

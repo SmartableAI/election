@@ -2175,6 +2175,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden finds support among Republicans as Trump scrambles to salvage his strategy to contest the election"
+    excerpt: "The former vice president should receive intelligence briefings, several Republicans said, despite the president’s claims that he is the winner."
+    publishedDateTime: 2020-11-13T06:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-transition-republicans/2020/11/12/c5899384-2509-11eb-8672-c281c7a2c96e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-transition-republicans/2020/11/12/c5899384-2509-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-transition-republicans/2020/11/12/c5899384-2509-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 138
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4W6ISBEMYI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden wins Arizona, boosting margin of victory over Trump: Edison Research"
     excerpt: "Democrat Joe Biden defeated U.S. President Donald Trump in Arizona, Edison Research projected on Thursday, increasing his margin of victory over the Republican incumbent by 11 Electoral College votes following the Nov."
     publishedDateTime: 2020-11-13T04:47:00Z
@@ -2413,6 +2429,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540901420&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA1UR"
         width: 811
+        height: 545
+        isCached: true
+  - title: "Biden cements victory by flipping Arizona, as Trump keeps transition in limbo"
+    excerpt: "President-elect Joe Biden cemented his electoral victory by capturing the battleground state of Arizona late on Thursday, but the transition to his administration remains in political stasis as President Donald Trump refuses to accept defeat."
+    publishedDateTime: 2020-11-13T06:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27T0IS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541070214&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0A7"
+        width: 817
         height: 545
         isCached: true
   - title: "Biden ignores Trump to build team; eyes on pandemic as hospitalizations soar"
@@ -4466,6 +4498,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VDHTTMBDWUI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Denying Biden victory, Pompeo heads to Europe, Mideast"
+    excerpt: "After refusing to acknowledge President Donald Trump’s loss in last week’s election, Secretary of State Mike Pompeo is heading overseas on a trip to Europe and the Middle East, where leaders have all"
+    publishedDateTime: 2020-11-13T05:42:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/denying-biden-victory-pompeo-heads-to-europe-mideast/2020/11/13/fdac6444-2572-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/denying-biden-victory-pompeo-heads-to-europe-mideast/2020/11/13/fdac6444-2572-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/denying-biden-victory-pompeo-heads-to-europe-mideast/2020/11/13/fdac6444-2572-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Pope Francis discusses climate change on first call with Biden"
     excerpt: "The two leaders spoke of “promoting peace, reconciliation, and the common bonds of humanity around the world.”"
@@ -7002,6 +7050,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Facebook CEO Mark Zuckerberg, who has dined with Trump at the White House, acknowledged Biden's projected victory in the 2020 election"
+    excerpt: "\"I believe the outcome of the election is now clear and Joe Biden is going to be our next president,\" Zuckerberg said, according to BuzzFeed News."
+    publishedDateTime: 2020-11-13T06:29:00Z
+    webUrl: "https://www.businessinsider.com/facebook-ceo-mark-zuckerberg-acknowledged-biden-as-next-president-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5fa912561df1d500182197f1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Iowa live election results for president in Iowa: Donald Trump vs. Joe Biden"
     excerpt: "Find live reporting of election results by county in Iowa for the race for president between Donald Trump and Joe Biden."
     publishedDateTime: 2020-11-04T08:17:00Z
@@ -7162,7 +7224,7 @@ related:
   - title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
     excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
     publishedDateTime: 2020-11-12T12:42:00Z
-    webUrl: "https://time.com/magazine/us/?fbclid=IwAR02kTXwD7PnzUdGPlzf8KOF_LUCextXSsYkK9k-N-iLyMs3T3z6LX6hBVEpage%2F2page%2F5page%2F6page%2F3page/11"
+    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR3uwJnz4rx9ZJya1Vh03kolVQNbCkGdbF2ffCpqQFTEQt_uDRNDKC39zd4page%2F5page%2F7page%2F22page%2F2page%2F5page%2F3page/22"
     type: article
     provider:
       name: Time

@@ -1449,21 +1449,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-amy-coney-barrett-mike-pence-tropical-storm-zeta-5-things-to-know-monday.md",
-      "title": "Amy Coney Barrett, Mike Pence, Tropical Storm Zeta: 5 things to know Monday",
-      "excerpt": "Amy Coney Barrett is poised to become the ninth Supreme Court justice, Tropical Storm Zeta expected to develop into a hurricane and more things to start your Monday.",
+      "path": "_news/2020-10-26-pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.md",
+      "title": "Pence says Biden, Harris should stop playing politics with COVID-19 vaccine",
+      "excerpt": "",
       "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
-      "originalUrl": "https://www.freep.com/story/news/2020/10/26/amy-coney-barrett-mike-pence-zeta-covid-19-5-things-know-monday/6031654002/",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V5wwFhiQcL0/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V5wwFhiQcL0/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 743,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1471,14 +1475,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/6031654002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6031654002",
-      "publishedDateTime": "2020-10-26T01:19:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp",
+      "publishedDateTime": "2020-10-25T20:52:11-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1488,7 +1501,9 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Republican Voice",
+        "Mike Pence",
+        "Kamala Harris"
       ]
     }
   ],

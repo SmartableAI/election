@@ -2496,6 +2496,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Election Officials Directly Contradict Trump on Voting System Fraud"
+    excerpt: "A group of federal, state and local officials working with a Department of Homeland Security agency declared flatly that the election was the most secure in the nation’s history."
+    publishedDateTime: 2020-11-13T06:58:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/us/politics/election-officials-contradict-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/politics/election-officials-contradict-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/election-officials-contradict-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/us/12dc-voting/12dc-voting-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The Trump presidency is ending. What does that mean for Pence?"
     excerpt: "Vice President Mike Pence has walked the Trump tightrope more successfully than anyone else in the president’s orbit, staying on his good side without having to echo his most incendiary language. But in the final weeks of Mr."
     publishedDateTime: 2020-11-12T18:31:00Z
@@ -3564,6 +3580,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "p54WxNn8lcmml01XtdvPsaecxl6UYfQIVVVWpyYJYKZJ5BYduEF3am4fapZq3qeYNJW4mN21b0yk5rD0qaNRbLc1jxx2Cn5JjfJKoP8wpoVqM09KiUfQAlX26LGgZl4iS6ZYyDW7+vaxcSanW98saUd5mQ/KaPfb3wc1vCyFvgbY5u+98RrN6vtHn77C7MgSOyfN9yAmkkGHJEYeOkjEOiiJV+nsg/W860eF4M+cqdcWS9BmFmBRHj2/6STf8bYSMsw26fmkfTQWxiPz2SUfY7TS4ja+/nyB/Emh4jej53LaCqX9Kvblnij0OC9+vbRhZ0yHVkXbgXp7+SAasL6U9HPqMWArlNZW8L0zMgNti1w=;hVgoXVmrsskWsM8MK1jJiw=="
+secured: "TMmIx29jxZA0GxUE+8hjKPhTDzvWFeFo4CJizBN8r6eNpU2dE5otFjMQ/NLi/B25U/0gTjZ1z5YCdYrzlyDyR1h1GYlaw6IJVmgWqvQpeDmzEgILHIJ+2JsBeFLRWx7njR8n3FN7ev9dGNc1C15OvPlS883H9/ZOq9D93XgEAvBuUo8BbVeDpQ9keu1470PbhPMr19AW74LVPtQfLGwucIEdl9JswMwckOgcbtT/N3Wqt60nii4RtS1nsBqCLvY1WHmpsPqg4iqZcgjbCbmI14QgP/qj4kkGSKwbf0WecvewkQ8abbLcbsMFgy8m0UbFqzGntYfSfLfY4Vk6suIAc23G5vARnGfyAo09TFPvkSKPyWHy6rVSTC0m4XAuqUEnSU2EMovHD2xZgEZjo1LV7Jeq2R8wnGLY794xN/6+2Zc6SZ1YlZhRa/HmXGBxMhINJryB+W+HbfJQADfdxw2utxi+Q6Rpaa6HDk9EOnNMTQrbBJkuSfI5NlxncewGE7V14zBCZxzegmkbzduLT2+LAA==;ph/475dkGcsECu/Hh0zaaQ=="
 ---
 

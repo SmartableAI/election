@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.amp"
 type: article
 quality: 164
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "LA Mayor Garcetti caught between local troubles, possible Biden cabinet position"
+    excerpt: "Los Angeles Mayor Eric Garcetti has avoided answering whether he’d leave his current position if a cabinet position was offered to him in President-elect Joe Biden's administration, but speculation has continued to mount, according to reports."
+    publishedDateTime: 2020-11-13T05:10:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UdakTKT3mGU/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position"
+    ampWebUrl: "https://www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1198708520.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "pwwzp+c02L9JA7SVEZ07geManz5dBP3dvZpe99amKKonlzdV7Hc4DrLHevUFr7eF0/33JQyhNTAoIqZls5c4AWSIKpGofC8LoOR3966B/GWlqcGPo59MqaITvvszS2ZK4rUxi3U9wswJLil41SceYMBufhokXQiBzadysOLLaIk8fbUKYcOoRHa3PuszFP76UDTOzfPHoSQTFj0/BjBW+oNk/vhM8W+fk1O9WZQGNmC//1sxpU5ayMNEnklRrPZWSrlLyrT9BLDwepWF5Kmy+yCUvz9VxMy1k40s5RrvUYaqwLEMKpTHB4WR89pYyb4m+CD48U4uwKQRmzTRUUIB+hJ3RRSigEAewDP5+nQCGc8=;nqSmsu0EF2DGshi+xcw86Q=="
 ---

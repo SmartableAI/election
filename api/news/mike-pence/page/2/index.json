@@ -2,64 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-26-pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.md",
-      "title": "Pence says Biden, Harris should stop playing politics with COVID-19 vaccine",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V5wwFhiQcL0/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V5wwFhiQcL0/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 743,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-biden-harris-should-stop-playing-politics-with-covid-19-vaccine.amp",
-      "publishedDateTime": "2020-10-25T20:52:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-at-least-5-people-in-pences-orbit-including-chief-of-staff-marc-short-are-positive-for-coronavirus.md",
       "title": "At least 5 people in Pence's orbit, including chief of staff Marc Short, are positive for coronavirus",
       "excerpt": "Marc Short, chief of staff to Vice President Mike Pence, has been diagnosed with Covid-19, the Vice President's office announced in a statement, marking the second top Pence aide to test positive this week.\n    \n",
@@ -113,6 +55,58 @@
       "topics": [
         "Election",
         "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-totally-irresponsible-dems-criticize-pence-presiding-over-amy-coney-barrett-vote-after-aides-contract-covid-19.md",
+      "title": "'Totally irresponsible': Dems criticize Pence presiding over Amy Coney Barrett vote after aides contract COVID-19",
+      "excerpt": "WASHINGTON – Senate Democrats on Sunday lodged harsh criticisms at Vice President Mike Pence who plans to preside over the chamber during a vote on Amy Coney Barrett's confirmation to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/mike-pence-preside-barrett-supreme-court-criticism-covid/6033173002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/25/mike-pence-preside-barrett-supreme-court-criticism-covid/6033173002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/7886176ab7bc20f7a65582243c3fe503189c1c03/c=0-276-5300-3257/local/-/media/2020/04/15/USATODAY/usatsports/1df6f0e1dd014a308cb7ae26374feaed.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6033173002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6033173002",
+      "publishedDateTime": "2020-10-25T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     },
@@ -177,7 +171,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-to-keep-up-travel-despite-contact-with-infected-aide/2020/10/24/7d0a850c-1675-11eb-a258-614acf2b906d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {

@@ -123,6 +123,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Pence Continues Campaign Travel Despite COVID-19 Exposure & Risk of Spreading the Virus"
+    excerpt: "Vice President Mike Pence traveled to Minnesota on Monday for a campaign rally and planned to be available for a key Senate vote that night, despite being exposed to the novel coronavirus (COVID ..."
+    publishedDateTime: 2020-10-26T21:12:00Z
+    webUrl: "https://people.com/politics/mike-pence-continues-campaign-travel-despite-covid-19-exposure/"
+    ampWebUrl: "https://people.com/politics/mike-pence-continues-campaign-travel-despite-covid-19-exposure/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/mike-pence-continues-campaign-travel-despite-covid-19-exposure/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 64
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B980%2C306%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F26%2Fmike-pence-1-2000.jpg"
+        width: 2000
+        height: 1047
+        isCached: true
 
 secured: "GiCxN/v+j+FDEG0AFTfzUgTkkeQVvvvuIcGcRMWxZUR+T91P+ykxkGQp+MyrAAh612uxrmv5bmirQcVswzS+yaWfMlmZmELlRbSg8Lpya9/m4Ifmi9704dF2Uc5YSMxMHrgxYiVu59dqPGygd7YA1wcFTMzSKKI1vJrkrSNkzEQAR/LuYqh6CiXVQEiRWMIC+yl375Oy8qPaoRndaLVJIeCfs76uBh1/dV2J51Eg/Mq4CNuoVmIPJnl7fkIsqs0ooXVRLrv4Lt6G0MbqNybQ1LZJd2wx1LzjfjPUjpSSFuAKDsJJtri+q8fs6NljAhC5upQNsk6I7J6qWR2/WxPB1ajKJxqpXg7C9mGpOoob4A4=;T9VKfHGFLRVwzwBL4mNzhw=="
 ---

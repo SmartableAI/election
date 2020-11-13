@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-30-pelosi-confident-biden-to-be-elected-president.md",
+      "title": "Pelosi: 'Confident' Biden to be elected President",
+      "excerpt": "Speaker of the House Nancy Pelosi says she's confident the Democratic Presidential nominee Joe Biden will be elected president. She says while she doesn't want to be \"overconfident,\" she wants to be ready to \"go down a different path.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/29/pelosi-confident-biden-elected-president/6074216002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/29/pelosi-confident-biden-elected-president/6074216002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/74c82bc6-1200-4500-92ad-131a2db60975_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-facebook-admits-it-improperly-blocked-some-political-ads-due-to-technical-issues-as-joe-bidens-campaign-slams-it-for-being-wholly-unprepared.md",
       "title": "Facebook admits it 'improperly' blocked some political ads due to 'technical issues' as Joe Biden's campaign slams it for being 'wholly unprepared'",
       "excerpt": "Facebook said no ads were blocked \"because of any partisan consideration,\" as Biden's camp accused the company of offering \"no clarity\" on the issue.",
@@ -1537,49 +1589,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-tyler-perry-jennifer-lopez-more-stars-endorse-joe-biden-for-president.md",
-      "title": "Tyler Perry, Jennifer Lopez & More Stars Endorse Joe Biden For President",
-      "excerpt": "Joe Biden and Kamala Harris have gained endorsements from plenty of powerful celebrities, like Tyler Perry, Jennifer Lopez and Taylor Swift. Here’s who else is voting for them on November 3.",
-      "sourceUrl": null,
-      "webUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
-      "originalUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pmchollywoodlife.files.wordpress.com/2020/10/joe-biden-celebs-endorse-vote-ftr.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
-      "cdnAmpWebUrl": "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
-      "publishedDateTime": "2020-10-21T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hollywood Life",
-        "domain": "hollywoodlife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

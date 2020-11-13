@@ -243,6 +243,20 @@ related:
         width: 5620
         height: 3747
         isCached: true
+  - title: "Vice President Mike Pence to visit Georgia next week"
+    excerpt: "Pence announced that he would visit Georgia on Twitter next week, though he did not provide specific details of when or where."
+    publishedDateTime: 2020-11-12T19:17:00Z
+    webUrl: "https://www.wsbtv.com/news/politics/vice-president-mike-pence-visit-georgia-next-week/F6S4DVVGNFAIPDDOEAGF3XCV5E/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 55
+    images:
+      - url: "https://www.wsbtv.com/resizer/QvVJtkN6R42VHSSARmsPJQglnQM=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/CNDUZKFY2U275REEJZVFDG37BQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
     publishedDateTime: 2020-10-06T16:33:00Z

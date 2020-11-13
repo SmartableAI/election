@@ -74,6 +74,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Ron Klain: Kamala Harris Will Be \"The Last Voice Biden Hears From Before He Makes Important Decisions\""
+    excerpt: "Democratic operative Ron Klain joined MSNBC host Lawrence O'Donnell on Thursday for his first interview as Joe Biden's Chief of Staff to discuss progress in the presidential transition process, the relationship between the president-elect and vice president-elect Kamala Harris,"
+    publishedDateTime: 2020-11-13T06:57:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 64
+    images:
+      - url: "https://assets.realclear.com/images/52/526989.jpg"
+        width: 1126
+        height: 844
+        isCached: true
 
 secured: "OIevdN7ji5MTHmmA1/R1JZ9HFgjdzqPWM5rYLKqiBX6UaUAymhLI6+RrMi+tRyPXBGVY4ZcgUgxoLlbufo600YOJK2LjQosX/dYEO1CZpwKkHygeq9qsdRXgn/4PFvNIvKi2SZXqFcnw1dEwC8ryvfC2qGY+3PATrY8zk8G+8aI2qDoAjLNxJzXt0HHgN49DwnU1D0wnZsjWpjrh3eGiktADHph18wt7AawIAtVdBhhFd8qbAsjaO+oGkLkywSsSlrLnIOUXRjmnFCAx2dXnQVXamfxyXxgGT0X2dN8eV0nBJCkPXwGZBI8oPzF6gYCW49Fb3OzwhpcwK3ePMnLD6flErGE3XtymWkBpl9UGlY2f+h6ZqOOqKPLUveMomkcNQzFfYRPpWQWt3o7f5YpVqc6vKPQx38sInqw6ZQa7KQi9WUUjkdOeHQtG13ngUiIuPQY/G2BUDFsGBtShn2CtxJnOpGgFT8N4dlVrK/aWc4WRWB+u7cPCGlUXv7I3DJDZFS9DcPmGWMPJCzaaWsU+bg==;38NvE6wu4XTV0awNwt8Uwg=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-12-elders-group-of-ex-leaders-founded-by-mandela-urges-trump-to-accept-defeat.md",
+      "title": "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat",
+      "excerpt": "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540980986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB177",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S20C",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C",
+      "publishedDateTime": "2020-11-12T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-a-biden-covid-19-advisor-called-for-a-national-lockdown-lasting-up-to-6-weeks-the-us-had-a-big-pool-of-money-to-pay-for-any-lost-wages-he.md",
       "title": "A Biden COVID-19 advisor called for a national lockdown lasting up to 6 weeks. The US had a 'big pool of money' to pay for any lost wages, he said.",
       "excerpt": "Dr. Michael Osterholm said the US had a \"big pool of money\" that could get the economy back on track during lockdown while a vaccine rolls out.",
@@ -1051,7 +1103,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 242,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -1277,58 +1329,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp",
       "publishedDateTime": "2020-11-11T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-mississippi-republican-calls-for-his-state-to-succeed-from-the-union-after-biden-victory.md",
-      "title": "Mississippi Republican calls for his state to ‘succeed from the union’ after Biden victory",
-      "excerpt": "The Magnolia State voted to remove the Confederate battle flag symbol from its own state flag earlier this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3WVC5I7Z3RBSDDNDGK4S3YOKSU.png&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/?outputType=amp",
-      "publishedDateTime": "2020-11-11T04:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

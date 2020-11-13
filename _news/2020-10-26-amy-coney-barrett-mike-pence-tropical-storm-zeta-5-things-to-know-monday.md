@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.freep.com/amp/6031654002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6031654002"
 type: article
 quality: 73
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: Detroit Free Press
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "'Totally irresponsible': Dems criticize Pence presiding over Amy Coney Barrett vote after aides contract COVID-19"
+    excerpt: "WASHINGTON – Senate Democrats on Sunday lodged harsh criticisms at Vice President Mike Pence who plans to preside over the chamber during a vote on Amy Coney Barrett's confirmation to the ..."
+    publishedDateTime: 2020-10-25T22:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/25/mike-pence-preside-barrett-supreme-court-criticism-covid/6033173002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6033173002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6033173002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/7886176ab7bc20f7a65582243c3fe503189c1c03/c=0-276-5300-3257/local/-/media/2020/04/15/USATODAY/usatsports/1df6f0e1dd014a308cb7ae26374feaed.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "cw0S1TO6HHy7YJ8fjyaMeMnrQqzZuFp/VDjupJbbGu2OIQ+KHovikRYb80MCSmAp8ZVuOWSkMbNh1mFWQXlZ0XUjtg+Pds9ZYND1Q6mRNZ7ua7QtwU9wffF7o6qylawO5GafV/pJ99QQwoeRMaLJSa532cnLcTr9IPxon3ctyaRK6HLij86FPkQcOYEKks7YYT6dGBH0fmQNtQflB2ctyW5sKIWD0z6rXxxptLK6ob/Dtt4fNwFdn8SB6DuKZIKaVBRJcSB0SM33TYSDkVTK2JxJWtn46C6mkll8hDJZyVeFk8y7wvVwXUmMv/DQdbGug7zR4RpvYd7NtFqrdw/GwnPXIAqmMbp6jbG4vVQ5C5U=;uPJAVZX9DWJITB8oQwa+ag=="
 ---

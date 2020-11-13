@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live updates: Trump campaign notches court win over Pennsylvania ballot deadline"
+    excerpt: "A Pennsylvania judge ruled in favor of the Trump 2020 Campaign on Thursday, ordering that the commonwealth may not count ballots where voters needed to provide proof of identification and failed to do so by Nov. 9."
+    publishedDateTime: 2020-11-13T05:38:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8lQ05vuAWZQ/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad4f7059-6a1c-4c13-8c56-1500f5e3194b/a32212e6-c4fe-472c-a36b-b568d020c8bc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says Pennsylvania plant 'thinking of shutting down,' company responds to 'untrue' claim: report"
     excerpt: "Democratic presidential nominee Joe Biden during a campaign stop in Pennsylvania over the weekend incorrectly said that a plant in the city was considering closing its doors, prompting the company to issue a response to calm workers' fears, Erie News Now reported Tuesday."
     publishedDateTime: 2020-10-14T12:50:55Z

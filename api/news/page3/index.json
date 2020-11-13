@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-11-mississippi-republican-calls-for-his-state-to-succeed-from-the-union-after-biden-victory.md",
+      "title": "Mississippi Republican calls for his state to ‘succeed from the union’ after Biden victory",
+      "excerpt": "The Magnolia State voted to remove the Confederate battle flag symbol from its own state flag earlier this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3WVC5I7Z3RBSDDNDGK4S3YOKSU.png&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/?outputType=amp",
+      "publishedDateTime": "2020-11-11T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-parler-mewe-gab-gain-momentum-as-conservative-social-media-alternatives-in-post-trump-age.md",
       "title": "Parler, MeWe, Gab gain momentum as conservative social media alternatives in post-Trump age",
       "excerpt": "The rise of conservative-friendly platform Parler raises the specter of further political polarization through digital means.",
@@ -1280,58 +1332,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-why-texass-overwhelmingly-latino-rio-grande-valley-turned-toward-trump.md",
-      "title": "Why Texas’s overwhelmingly Latino Rio Grande Valley turned toward Trump",
-      "excerpt": "But something different happened along the Rio Grande. Republicans ran up their numbers in the overwhelmingly Hispanic, reliably Democratic counties along the border, taking advantage of the habitual underinvestment and lack of infrastructure there,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/texas-latino-republicans/2020/11/09/17a15422-1f92-11eb-ba21-f2f001f0554b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/texas-latino-republicans/2020/11/09/17a15422-1f92-11eb-ba21-f2f001f0554b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VT3Y6LBCZQI6XBTSYKA4PIWJNY.jpg&w=1440",
-          "width": 1440,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/texas-latino-republicans/2020/11/09/17a15422-1f92-11eb-ba21-f2f001f0554b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/texas-latino-republicans/2020/11/09/17a15422-1f92-11eb-ba21-f2f001f0554b_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-09T23:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live updates: Trump campaign notches court win over Pennsylvania ballot deadline"
+    excerpt: "A Pennsylvania judge ruled in favor of the Trump 2020 Campaign on Thursday, ordering that the commonwealth may not count ballots where voters needed to provide proof of identification and failed to do so by Nov. 9."
+    publishedDateTime: 2020-11-13T05:38:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8lQ05vuAWZQ/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad4f7059-6a1c-4c13-8c56-1500f5e3194b/a32212e6-c4fe-472c-a36b-b568d020c8bc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pollster who predicted 2016 result says Trump on track to win again with help of 'hidden' support"
     excerpt: "With two weeks left until Election Day, 35 million Americans having already voted, and most polls showing Joe Biden leading President Trump, Trafalgar Group chief pollster Robert Cahaly told “Hannity” Tuesday the incumbent is likely to be reelected."
     publishedDateTime: 2020-10-21T03:53:06Z
@@ -111,6 +127,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Qs+eh3kbGa+UxP1aWt8r+VrNJNPDYFwYkwXKKu5r5LGwaHWKQ0R/cNYhafH/Iy//eXKh50YjFtzt1UxhE9nYuenj0/07Bx/8qgkrIRVuI31X/s+82O7S41PiZcxlYB/5IMP4iR8byP7fRZNEmV5prigRnYOvsKR5BNYiHM9YgURWjgkW/qvXhaYaS/fbV4ui8rt4tlHosGbgcqASq9Yosg9JzTj8unPPInPDy9iNrIWBUI0t4hY7/6lIzkfNGamu8GrVr0cknxckXVEnMR3fxuH5ps3+O6mslqgrFMu9Wg+vo6W4+AG7ugXzG0xjtExmS0i2geqL/VPxmbEakysD4n6Pi8HgoXE6P21o6KxUvjk=;zOPKiWS+7HNbvP0KXnliHQ=="
+secured: "L5zpff/sYyxLEQi8hALaFHcjM418iJFiF4ihx/UmPuCe++Ck9hDAbhcXVf08DUlYYBppa7KgGLRg9g5dicozwAV/XsUETWGpF3EjhwxH1LPoKm1WlqClsXjvyc2FxXGJGErwvJ9mOjBdpd0SvAcU9s0j0D+3cNGZGGPJtQya/vnPavfcwv1ZakGFKPft5Arqxubu8+t6BGK32tQa5IuVBi8gLpSblfkylc6Z5lJmyY/p5s9t6VqFTKPmhjL87euT/Sx1fqaRZ5P7R2AlRGQHX6cJfU+yj+e3KCPFIBuXmVxsCkmC2MFFowUmdAI/Vjnykic2z7V4IVhnDjP0dXbxsYPG7UjzoYQEDOWLvOepT2vBmQUCuH4wgxlLj2Df4fDGl9PZ4ZPmb6IecIBPBEToSs2hwWoWOCoDko6mZRauC/QOg2m9QR6p8kmorPd1txYyd1rrl/5CNFqw3Zi8fk/ddSvB5DaWT48VZ1eGMgQo45wPj3KfGATtaWTSiFXLPae4gsjMqKPDBlFkz1e42rx+Ag==;aDNXbYmOuAJEWVsMmDzOyA=="
 ---
 

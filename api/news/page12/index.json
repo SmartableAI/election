@@ -2,6 +2,63 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-29-biden-vows-to-pass-lgbtq-rights-legislation-in-first-100-days.md",
+      "title": "Biden vows to pass LGBTQ rights legislation in first 100 days",
+      "excerpt": "Democratic presidential candidate Joe Biden has promised to make the Equality Act a \"top legislative priority\" should he win Tuesday’s election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/biden-vows-pass-lgbtq-rights-legislation-first-100-days-n1245244",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/biden-vows-pass-lgbtq-rights-legislation-first-100-days-n1245244",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_44/3423960/201029-biden-mn-0855_646bb7d78a687f1b97f15b66b2c76c74.JPG",
+          "width": 2500,
+          "height": 1376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1245244",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245244",
+      "publishedDateTime": "2020-10-29T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-they-call-themselves-wives-of-the-deplorables-because-their-husbands-support-trump.md",
       "title": "They call themselves 'Wives of the Deplorables' because their husbands support Trump",
       "excerpt": "Carole Catherine did not know her husband, Tim, supported Donald Trump until the day after Hillary Clinton lost the 2016 election. She called him the next morning crying.\n    \n",
@@ -1306,62 +1363,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-administration-considers-early-biometric-screening-for-visa-seekers.md",
-      "title": "Trump administration considers early biometric screening for visa seekers",
-      "excerpt": "Some officials raise concerns about retaliation against American travelers",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzCY2C0kD0A/trump-administration-biometric-screening-visa-seekers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzCY2C0kD0A/trump-administration-biometric-screening-visa-seekers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297478049298.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-administration-biometric-screening-visa-seekers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-biometric-screening-visa-seekers.amp",
-      "publishedDateTime": "2020-10-28T12:02:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Pence Continues Campaign Travel Despite COVID-19 Exposure & Risk of Spreading the Virus"
+    excerpt: "Vice President Mike Pence traveled to Minnesota on Monday for a campaign rally and planned to be available for a key Senate vote that night, despite being exposed to the novel coronavirus (COVID ..."
+    publishedDateTime: 2020-10-26T21:12:00Z
+    webUrl: "https://people.com/politics/mike-pence-continues-campaign-travel-despite-covid-19-exposure/"
+    ampWebUrl: "https://people.com/politics/mike-pence-continues-campaign-travel-despite-covid-19-exposure/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/mike-pence-continues-campaign-travel-despite-covid-19-exposure/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 64
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B980%2C306%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F26%2Fmike-pence-1-2000.jpg"
+        width: 2000
+        height: 1047
+        isCached: true
   - title: "Vice President Mike Pence to stay on campaign trail despite exposure to chief of staff Marc Short, who tested positive for COVID-19"
     excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
     publishedDateTime: 2020-10-27T03:09:00Z

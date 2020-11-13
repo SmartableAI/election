@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 4685
+heat: 4705
 published: true
 
 provider:
@@ -2478,6 +2478,22 @@ related:
       - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/57f9da18-d3ff-4322-a340-e33eeb863dfd.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Election Officials Directly Contradict Trump on Voting System Fraud"
+    excerpt: "A group of federal, state and local officials working with a Department of Homeland Security agency declared flatly that the election was the most secure in the nation’s history."
+    publishedDateTime: 2020-11-13T06:58:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/us/politics/election-officials-contradict-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/politics/election-officials-contradict-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/election-officials-contradict-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/us/12dc-voting/12dc-voting-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "The Trump presidency is ending. What does that mean for Pence?"
     excerpt: "Vice President Mike Pence has walked the Trump tightrope more successfully than anyone else in the president’s orbit, staying on his good side without having to echo his most incendiary language. But in the final weeks of Mr."

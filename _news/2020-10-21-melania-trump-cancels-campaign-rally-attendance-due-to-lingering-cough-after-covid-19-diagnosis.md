@@ -701,6 +701,17 @@ related:
       name: Law360
       domain: law360.com
     quality: 70
+  - title: "Mike Pence: The Calm To Trump's Storm"
+    excerpt: "Vice President Mike Pence is the calm to Donald Trump's storm, bringing a sedate demeanor and the religious, conservative ballast the men hope will spare them from losing the White House."
+    publishedDateTime: 2020-10-30T00:00:00Z
+    webUrl: "https://www.barrons.com/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
+    ampWebUrl: "https://www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 70
   - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
     excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
     publishedDateTime: 2020-10-18T04:50:00Z

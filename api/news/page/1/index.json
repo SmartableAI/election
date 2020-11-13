@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-13-la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.md",
+      "title": "LA Mayor Garcetti caught between local troubles, possible Biden cabinet position",
+      "excerpt": "Los Angeles Mayor Eric Garcetti has avoided answering whether he’d leave his current position if a cabinet position was offered to him in President-elect Joe Biden's administration, but speculation has continued to mount, according to reports.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UdakTKT3mGU/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UdakTKT3mGU/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1198708520.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp",
+      "publishedDateTime": "2020-11-12T21:10:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-california-official-sees-state-auto-emissions-deal-as-template-for-biden.md",
+      "title": "California official sees state auto emissions deal as 'template' for Biden",
+      "excerpt": "California Air Resources Board Chair Mary Nichols, who sources say could be the next federal environment chief, said on Thursday her state's agreement with manor automakers for fuel efficiency requirements could serve as a \"good template\" for federal standards through 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-california-emissions-autos-idINKBN27S3AM",
+      "originalUrl": "https://www.reuters.com/article/us-california-emissions-autos-idINKBN27S3AM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541039899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB21E",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27S3AM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27S3AM",
+      "publishedDateTime": "2020-11-12T20:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-far-right-protesters-counterdemonstrators-plan-to-gather-saturday-in-dc-amid-pro-trump-rallies.md",
       "title": "Far-right protesters, counterdemonstrators plan to gather Saturday in D.C. amid pro-Trump rallies",
       "excerpt": "The events have been promoted by far-right media personalities, white nationalists and conspiracists — several of whom announced plans to attend. Counterdemonstrations organized by anti-fascist and anti-racism groups are being planned nearby.",
@@ -544,62 +652,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.md",
-      "title": "Possible Biden Cabinet pick Heidi Heitkamp once took fire for outing sexual assault survivors",
-      "excerpt": "Former Sen. Heidi Heitkamp, who faced backlash during the 2018 primaries that she ultimately lost after she mistakenly outed sexual assault survivors in a campaign ad, is on the shortlist for a position in President-elect Joe Biden's Cabinet. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ngXipgv4QY/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ngXipgv4QY/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8584a22-9b2b-40cf-ac7a-4bf9f5a394fe/111f8dad-4350-4347-b837-4e0d7316d4ed/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.amp",
-      "publishedDateTime": "2020-11-12T15:05:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1300,58 +1352,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-elders-group-of-ex-leaders-founded-by-mandela-urges-trump-to-accept-defeat.md",
-      "title": "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat",
-      "excerpt": "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540980986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB177",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S20C",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C",
-      "publishedDateTime": "2020-11-12T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

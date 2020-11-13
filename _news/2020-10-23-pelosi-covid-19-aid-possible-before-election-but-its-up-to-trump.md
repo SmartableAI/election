@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
 type: article
 quality: 140
-heat: 1120
+heat: 1140
 published: true
 
 provider:
@@ -684,6 +684,17 @@ related:
     provider:
       name: Law360
       domain: law360.com
+    quality: 70
+  - title: "Mike Pence: The Calm To Trump's Storm"
+    excerpt: "Vice President Mike Pence is the calm to Donald Trump's storm, bringing a sedate demeanor and the religious, conservative ballast the men hope will spare them from losing the White House."
+    publishedDateTime: 2020-10-30T00:00:00Z
+    webUrl: "https://www.barrons.com/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
+    ampWebUrl: "https://www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
     quality: 70
   - title: "Melania Trump Cancels Campaign Rally Attendance Due To ‘Lingering Cough’ After COVID-19 Diagnosis"
     excerpt: "Melania Trump decided to cancel her attendance at a campaign rally for her husband, President Donald Trump, due to a lingering cough. The POTUS and FLOTUS tested positive for coronavirus earlier this month."

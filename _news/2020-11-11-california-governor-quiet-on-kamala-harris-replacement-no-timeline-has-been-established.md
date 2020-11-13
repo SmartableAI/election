@@ -64,6 +64,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Ron Klain: Kamala Harris Will Be \"The Last Voice Biden Hears From Before He Makes Important Decisions\""
+    excerpt: "Democratic operative Ron Klain joined MSNBC host Lawrence O'Donnell on Thursday for his first interview as Joe Biden's Chief of Staff to discuss progress in the presidential transition process, the relationship between the president-elect and vice president-elect Kamala Harris,"
+    publishedDateTime: 2020-11-13T06:57:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 64
+    images:
+      - url: "https://assets.realclear.com/images/52/526989.jpg"
+        width: 1126
+        height: 844
+        isCached: true
   - title: "‘No timeline has been established’: California Gov. Newsom mum on Kamala Harris replacement"
     excerpt: "The race to replace apparent Vice President-elect Kamala Harris’s open Senate seat is underway. Pressure is mounting on California Gov. Gavin Newsom to choose Harris’s replacement in the Senate should apparent President-elect Joe Biden’s victory be confirmed."
     publishedDateTime: 2020-11-11T04:56:00Z
