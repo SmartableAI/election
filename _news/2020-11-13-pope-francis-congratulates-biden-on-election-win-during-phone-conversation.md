@@ -240,6 +240,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
+    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011. "
+    publishedDateTime: 2020-11-13T17:29:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zSbK1v5WsYk/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden silent on lack of social distancing, possible 'super spreader' celebrations"
     excerpt: "Democratic President-elect Joe Biden has not addressed concerns that some celebrations of his projected victory may contribute to the spread of coronavirus after his transition team declared Biden will always \"listen to science.\""
     publishedDateTime: 2020-11-08T19:53:20Z
@@ -367,6 +383,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "What Are Joe Biden’s Plans for Covid-19?"
+    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
+    publishedDateTime: 2020-11-13T18:27:00Z
+    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-259713/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
+    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011."
+    publishedDateTime: 2020-11-13T17:32:00Z
+    webUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "Dnm2trmAHUXKh5WTh5kHmyjC7sWhxybv+4QsOE7jAl9/7DA/CT+kj1NCFPYnD78aF9EGUd80ElbchQ1cJ+nruo54XMPnBhKF7SgyhsotVwKxhL61gIFk3j6Wg+KAY2XKRMFOOaYY3+/rOFScWWKnt3xEiExVNXt1gk6b0gf8EwQvskzeYhT83FEo5guGtIfkRNN/rna8l5SVFR6HeGxiSGghAucPYzsHgzmbSx46wm3mGcR1/7cYpC7GY+01O9gHxguwCCC3YvH0+2lE+/T6gZPi2jbyGxEVmba1u8SOJG9B74qm33rzRHmMsSpMzLKzfVht36kXwh6XL3zMLQ/H+qEootR8YgiVZTmQKclm6ctHUX1Ub7ynV2KRW3pihvDkigrXco/xu+nim4W29bnF+lrPDkr2uuyMUK7bo/s9y4ifzuHuaBUsOEsECS7+bRe9MtzW5Ckc6HojRCok34T89YKdHdblseQxVsNaPGP4CGa3nnEjiuJsLJRY3IJ+imvzJXve0kw9vwboVWHgpKRU6g==;gaPKgINuC0Tl9NK4jKxlmw=="

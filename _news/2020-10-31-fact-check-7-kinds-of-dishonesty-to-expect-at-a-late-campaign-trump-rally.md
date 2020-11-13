@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump campaign drops Arizona lawsuit requesting review of ballots"
+    excerpt: "Lawyers for the Trump campaign have dropped a lawsuit seeking a review of all ballots cast on Election Day after finding that the margin of victory for the presidential contest in Arizona could not be overcome.\n    \n"
+    publishedDateTime: 2020-11-13T18:36:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbibUwXYTqM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108084838-03-trump-country-goes-through-stages-of-grief-following-biden-win-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and GOP lawsuits thus far challenging few ballots with no proof of fraud"
     excerpt: "President Donald Trump and the Republican National Committee's vows to challenge the election results and win through the courts appear unlikely to be successful with so few ballots at issue in litigation to make any difference in enough states to matter.\n    \n"
     publishedDateTime: 2020-11-06T20:45:59Z

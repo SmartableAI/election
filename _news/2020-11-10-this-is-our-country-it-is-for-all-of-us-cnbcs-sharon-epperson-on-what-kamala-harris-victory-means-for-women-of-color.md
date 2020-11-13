@@ -619,6 +619,20 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 115
+  - title: "What Kamala Harris’ victory means for America"
+    excerpt: "The symbolic importance of Kamala Harris’ win as the first female, first Black and first Indian American VP is undeniable. But just as important is what it could mean in concrete terms for the country."
+    publishedDateTime: 2020-11-13T18:10:00Z
+    webUrl: "https://www.politico.com/newsletters/women-rule/2020/11/13/what-kamala-harris-victory-means-for-america-490897"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
     excerpt: "A group of Howard University alums and Alpha Kappa Alpha sorority sisters explain what electing the nation's first black woman vice president means to them and the generations ahead."
     publishedDateTime: 2020-11-08T21:45:00Z

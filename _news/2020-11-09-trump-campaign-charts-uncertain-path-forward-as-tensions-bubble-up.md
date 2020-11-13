@@ -127,6 +127,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Could State Legislatures Pick Their Own Electors to Vote for Trump? Not Likely"
+    excerpt: "Some Trump allies have suggested that Republican lawmakers should override the will of voters who elected Joe Biden the next president."
+    publishedDateTime: 2020-11-13T17:35:00Z
+    webUrl: "https://www.nytimes.com/article/electors-vote.html"
+    ampWebUrl: "https://www.nytimes.com/article/electors-vote.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/electors-vote.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13disinfo-electors1/13disinfo-electors1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "EjbeD6k/57LFUuOFdaBt9auwxSoBZX1TckiXfteqgFTT4rCto4X2OaGLat5ATiX9gv+WLL5mcmZ25izdbZdqE79fd2YPMgPfuawhJ+Jc7hSxindkzrMtcyuIxVsLS3J+2fyvOkB9mqkuyMqTedXRLT8RBs5qwC5apOCNK/njxgXK/BQnSeRoVhUeG4jr3gdoUkXk5+uErV7jMZa5zZOxhWmiiSm4rz6pmEQ86PYGmPZp2v2d7xwAMep3mYUarK7njeRy/xJVToy+ta/Wyl6lj/tu0hHtAE+Pdnd++kemOYGQm+9ccYahK4CNreq3sX7eKekAL/AwuqIifrIVr7o4jHFeW2r+OJ3Tpcho0YLj/SA=;2SaLF8pX/RU07zt0b87etg=="
 ---

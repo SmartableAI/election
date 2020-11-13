@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
 type: article
 quality: 197
-heat: 957
+heat: 977
 published: true
 
 provider:
@@ -603,6 +603,20 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 115
+  - title: "What Kamala Harris’ victory means for America"
+    excerpt: "The symbolic importance of Kamala Harris’ win as the first female, first Black and first Indian American VP is undeniable. But just as important is what it could mean in concrete terms for the country."
+    publishedDateTime: 2020-11-13T18:10:00Z
+    webUrl: "https://www.politico.com/newsletters/women-rule/2020/11/13/what-kamala-harris-victory-means-for-america-490897"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "'This is our country. It is for all of us': CNBC's Sharon Epperson on what Kamala Harris' victory means for women of color"
     excerpt: "\"The election of Sen. Kamala Harris as vice president of the United States means my daughter sees her future,\" writes CNBC’s senior personal finance correspondent."
     publishedDateTime: 2020-11-09T19:15:00Z

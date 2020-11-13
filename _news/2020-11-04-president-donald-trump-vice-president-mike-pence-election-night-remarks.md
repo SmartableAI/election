@@ -1893,6 +1893,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden faces repair job at U.S. spy agencies after tumult under Trump"
+    excerpt: "Shortly after comparing U.S. intelligence agencies to Nazis, Donald Trump tried to mend fences on his first full day as president."
+    publishedDateTime: 2020-11-13T16:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-intelligence-idUKKBN27T1C9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27T1C9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27T1C9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541099268&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0Q0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -2942,6 +2958,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541032453&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1Y4"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump keeps making arguments about the election on Twitter that he won't make in court"
+    excerpt: "While President Donald Trump claims massive fraud led to his electoral loss, his lawyers are saying something else entirely."
+    publishedDateTime: 2020-11-13T18:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-invalidate-election-results-lawsuits-differ-from-tweets-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-invalidate-election-results-lawsuits-differ-from-tweets-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-invalidate-election-results-lawsuits-differ-from-tweets-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/5faeb8b71c741f0019ac9aa6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden goes ahead of Trump in Michigan as vote count continues in state's largest counties"
     excerpt: "President Trump has tried to claim victory with millions of votes still to be tallied in key states such as Michigan and Pennsylvania."
@@ -6302,6 +6334,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden aide sees localized COVID-19 restrictions, not national lockdown, after inauguration"
+    excerpt: "With cities and states across the United States reimposing restrictions this week to tame alarming surges in coronavirus infections and hospitalizations, a senior adviser to President-elect Joe Biden said on Friday there were no plans for nationwide lockdowns next year."
+    publishedDateTime: 2020-11-13T17:13:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-idUKKBN27T2GL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27T2GL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27T2GL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541147753&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1E7"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Iran is Hoping for Biden Return to Nuclear Deal—But Trust Will Be Hard to Rebuild | Analysis"
     excerpt: "While the Trump administration has repeatedly said its door was open for talks, Iranian President Hassan Rouhani has insisted that the U.S. must first return to the nuclear deal and lift its unilateral sanctions."
     publishedDateTime: 2020-11-03T19:29:00Z
@@ -7190,6 +7238,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "China congratulates President elect Biden"
+    excerpt: "Watch \"China congratulates President-elect Joe Biden; State Dept. not taking role in calls with foreign leaders\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-13T15:20:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201113143612-china-congratulates-president-elect-joe-biden-state-dept-not-taking-role-in-calls-with-foreign-leaders/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/13/story_07683062_1605278764.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GOP Sen. Lankford: Biden should receive briefings"
     excerpt: "Republican Senator James Lankford of Oklahoma says it's time for President-elect Joe Biden to get the intelligence briefings traditionally provided during a presidential transition. And he says he'll step in if that doesn't begin by Friday."
     publishedDateTime: 2020-11-12T20:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/la-mayor-garcetti-caught-between-lo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8584a22-9b2b-40cf-ac7a-4bf9f5a394fe/111f8dad-4350-4347-b837-4e0d7316d4ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Chicago mayor defends appearing at large Biden celebration days before issuing Thanksgiving lockdown"
+    excerpt: "Chicago Mayor Lori Lightfoot on Friday defended her decision to implement a new round of lockdown orders days after she joined large crowds celebrating Joe Biden's election victory, saying that sometimes people need “relief” despite her recent calls to cancel traditional Thanksgiving plans."
+    publishedDateTime: 2020-11-13T17:51:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l03FIEyOSLs/lori-lightfoot-chicago-thanksgiving-lockdown-biden-celebration-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/lori-lightfoot-chicago-thanksgiving-lockdown-biden-celebration-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lori-lightfoot-chicago-thanksgiving-lockdown-biden-celebration-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "MlM3PFCtS5YxEKskrFZf74UpUnmjcYD57FGS7y7ytC5+S0k3XpzsAtdSA0ZSFqYP1ptW2LekssLAfWpJUr/mUgVxrDxOrls2LrEP/phbekw9CY4sPvOJ1O3wb8Z54uaSmPk280W1YCEjefB7zi2vgibNSVeTo+P5qeXFoQK4oBvx1sKRnELNgB4Z9vIWUYHY0bXeowOeXoOvIWJxM1uBfGWAOsM3IfuNKxuydauouXhgOI16sTbELj55wM0G5GrgPicmuYw+T+qE4Zn3SGYuYxMhqTr7O++TZMwel6GZTLveZygx3DEgGcq5YCRwt1jkV23q20w1qg/f9Unhp9Mx8U3IZCK3ueSJ2VPZ8CBPQcg=;qcqwQc5yJkPUWrDftv72Kg=="

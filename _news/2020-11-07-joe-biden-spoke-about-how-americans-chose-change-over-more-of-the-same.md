@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Cindy McCain: 'It's time we get behind Joe Biden as our next president'"
+    excerpt: "The wife of late Senator John McCain reacts as the traditionally Republican state of Arizona is called for Mr Biden."
+    publishedDateTime: 2020-11-13T18:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54937348"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08ydgdh.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "StXpzIwUKnG9qkCMI8boOZsNzA1YbzJ2qKrPvn0+SYBY0EdfIPxMCr8xBu+wfQBINyaoyzLSMUA3CDIrV5Ga3+bhTSfGCjZ63A/1YQ8eKoKp/Ziv47IDBVuRCBSIIjuiW0bBA8c9Cf0XVCAmHwazBkHF9jw8DsvJGe0eQGB2MPIFoojqCUoXZL0zJ1uVdI4q3PqTyaP5g5lxxBK76LICtUMUb7h+M1EjWZG+9LZfqB7q9tvuyGAL/5/iId9cz3oX42LXakYzowg13UlItCbqIXd6lfSjlsAAa033A7MmmBrq3f05i6N/oBdrVarxqMbmJKbDaSVTjpykyYIEskJDrU32Ki8MnaTrC17UwK3BZA/UqWhZSKFrbOVNBMWSPY8ScLrLBBb3AG7ptTszZa2b4x7ZWoKZ+YsHnoW5JHv3RsTeLuRDjs/LEDG3MQKrvkFSqfgSdyfhooiynJCKtraYRToR/RInTdxIRg5Z3CztnUbvp5IGF+fJpRbhyLFIf++AT9ekxEgyIKb4+7U21VJfhg==;Xv+O7cc6Yw/WY/h1ILrc2w=="
 ---

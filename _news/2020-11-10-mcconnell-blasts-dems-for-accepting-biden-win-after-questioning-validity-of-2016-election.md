@@ -341,6 +341,34 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Trump Drops Legal Challenge in Arizona"
+    excerpt: "Attorneys for the Trump campaign said Friday they’re no longer seeking a court’s intervention into the presidential race in Arizona. The Trump campaign, along with the state and national Republican party,"
+    publishedDateTime: 2020-11-13T18:00:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/jU8pMZdnj6SyRqNBnYgl"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-259539/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Tax Returns Fight Will Live On Beyond His Administration"
+    excerpt: "Don't expect the fight over President Trump's tax returns to disappear after he leaves office. House Democrats plan to renew their request for his tax returns and audit records next year. “Based on the principle of the issue,"
+    publishedDateTime: 2020-11-13T18:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/3663JHE4Sbz7N6mEixMV"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-259688?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "GOP Leader McCarthy Backs Trump's Legal Challenges to Vote Counts"
     excerpt: "House Minority Leader Kevin McCarthy expressed support Sunday for the Trump campaign’s legal challenges to the presidential election results, joining other Republican lawmakers who have taken a similar stance."
     publishedDateTime: 2020-11-08T20:13:00Z

@@ -239,6 +239,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
+    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011. "
+    publishedDateTime: 2020-11-13T17:29:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zSbK1v5WsYk/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Michigan Gov. Whitmer congratulates Biden, pledges to beat 'common enemy' COVID-19"
     excerpt: "“Now, with the election behind us, it is time for the American people to unite against our common enemy: COVID-19,” Whitmer said."
     publishedDateTime: 2020-11-07T18:39:44Z
@@ -364,6 +380,38 @@ related:
     quality: 148
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/pope-biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "What Are Joe Biden’s Plans for Covid-19?"
+    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
+    publishedDateTime: 2020-11-13T18:27:00Z
+    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-259713/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
+    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011."
+    publishedDateTime: 2020-11-13T17:32:00Z
+    webUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

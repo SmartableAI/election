@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3748535001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001"
 type: article
 quality: 110
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/68c7b583-60ef-4302-931a-6bae25e82f21-VPC_BIDEN_SPEAKS_DESK.00_00_18_14.Still001.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Cindy McCain: 'It's time we get behind Joe Biden as our next president'"
+    excerpt: "The wife of late Senator John McCain reacts as the traditionally Republican state of Arizona is called for Mr Biden."
+    publishedDateTime: 2020-11-13T18:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54937348"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08ydgdh.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "CRVWSJ7329BFHVSAtqugjgWKcNsIYW1sEqokWAcD4xffL8epkfs+TVLkA4KpAqpGdQE4xiZmlk9heZVY+8g4aKALQncquy5fo34Kt3yXMYSGGjw9HhccbWZcMtj5ojP8x7QCfny446tBAz7yK03IPeWxedcUi0OB7dmxJ9VJncCKPKqma3LzzOzFJK95NFmQLX3Hr9Euy59Rznb5x5AvvocV16h7PVpQqCKwl7oRDRJPr+WsNopOWCPgu19NpmLGRFdSixSSIkUYvwY7sdMgU2LfmNJiFdFrk8Np/A9SmZG6AZlOK2jGOlbUZYnStJ/5CB2r0gfiJU/vpmqAHPVm2wOklSBsEB05uIEfaCtk/qk=;8HkEf6aAxW1x1EsXxSYuyA=="

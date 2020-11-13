@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-dir
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/09/us/politics/09dc-trump1/09dc-trump1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Could State Legislatures Pick Their Own Electors to Vote for Trump? Not Likely"
+    excerpt: "Some Trump allies have suggested that Republican lawmakers should override the will of voters who elected Joe Biden the next president."
+    publishedDateTime: 2020-11-13T17:35:00Z
+    webUrl: "https://www.nytimes.com/article/electors-vote.html"
+    ampWebUrl: "https://www.nytimes.com/article/electors-vote.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/electors-vote.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13disinfo-electors1/13disinfo-electors1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "D9OCIlJ09Ggy6B1Fd+0c6Fh2XPmeA5tnXTg9K/aYGd47BxJazR9qsyqdwktcBz/MTqsWKvuW0IOc/Z0ZXT2uPZCIHmYc/h4yLDqoQ2HeZluMFC4SyV9Sz3+KsktCe6Ve8xkGoSefLGIVARqwfztFv1JfMTY+o1Ibuo8swubWvIkLB2aaE4XLVRGJt/KL+tY713kbOJvp3cmwr6ppFjSRt2nSKCmSj+ejnUnp4pbYPcZHDPHG71S7O1E9euSKeXMoCKRiP7Y4sBNVCwItfzsXYgpItAuJIBhfnQ2uDy4j0S0BraXY9+wXRkS53lQB98QKcdQE/I5hPMyT/2YRtQWUR3f/NJ3dvD7lZnAdr/98owg=;cAOZxlrjFdG9F8tOHU6rkg=="

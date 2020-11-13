@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/klain-covid-tweet-fear-epidemic-nyc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/klain-covid-tweet-fear-epidemic-nyc.amp"
 type: article
 quality: 162
-heat: 182
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "DC mayor disregarded own COVID restrictions to attend Biden victory speech, defends 'essential travel'"
-    excerpt: "Despite Delaware being on District of Columbia Mayor Muriel Bower’s list of high-risk states, the mayor and her staff attended President-elect Joe Biden’s victory speech in Delaware Saturday, reportedly defending the trip as “essential travel.”"
-    publishedDateTime: 2020-11-09T22:51:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E8eDQ7EKVHE/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel"
-    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel.amp"
+  - title: "Biden's incoming chief of staff Ron Klain opposed COVID-19 lockdowns early in pandemic"
+    excerpt: "President-elect Joe Biden’s incoming chief of staff, Ron Klain, once slammed the use of the word “lockdown” in the early days of the coronavirus pandemic in comments that have resurfaced in light of new calls for more restrictions to combat the spread of the virus. "
+    publishedDateTime: 2020-11-13T17:35:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w0dd7uOHLI8/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309671612203.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "6BiyHYZFkQML56BbwwxEwURLfL++yyqAfuWOHz6r/go6PlUO3hu92ojxLIw2yFyjrueCRqMRxo5xS0XMP/ayMy/wj4lHRVfkHMeIk9tE55aIjVrPr7l1ieJ9ixfxuNPHQarsNPBRH1yXNjQTNxnB6D/wpUkn8ntw5CDaWUR1OcOrwmvgM/71E1wOKBT1jmRfPaEE3ikDZRBymGHyessR1Jjty4Jf+6JpzjC8W2qBdIJRuuGh8zaQ8mroKKA8STq9MKWhScwFCfxvMAnF7hDMpqwSIkEXgrLIfCNKsG0kpknkDxVIjmD2tN0gSdlAukjf1o7Ye2TxqbgUHLZYXwIQK6gPaKvxFyTHIBqX8pSavFM=;TvEtB6eQ+efqH4U+pRsR9A=="

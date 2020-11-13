@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Chicago mayor defends appearing at large Biden celebration days before issuing Thanksgiving lockdown"
+    excerpt: "Chicago Mayor Lori Lightfoot on Friday defended her decision to implement a new round of lockdown orders days after she joined large crowds celebrating Joe Biden's election victory, saying that sometimes people need “relief” despite her recent calls to cancel traditional Thanksgiving plans."
+    publishedDateTime: 2020-11-13T17:51:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l03FIEyOSLs/lori-lightfoot-chicago-thanksgiving-lockdown-biden-celebration-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/lori-lightfoot-chicago-thanksgiving-lockdown-biden-celebration-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lori-lightfoot-chicago-thanksgiving-lockdown-biden-celebration-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "pwwzp+c02L9JA7SVEZ07geManz5dBP3dvZpe99amKKonlzdV7Hc4DrLHevUFr7eF0/33JQyhNTAoIqZls5c4AWSIKpGofC8LoOR3966B/GWlqcGPo59MqaITvvszS2ZK4rUxi3U9wswJLil41SceYMBufhokXQiBzadysOLLaIk8fbUKYcOoRHa3PuszFP76UDTOzfPHoSQTFj0/BjBW+oNk/vhM8W+fk1O9WZQGNmC//1sxpU5ayMNEnklRrPZWSrlLyrT9BLDwepWF5Kmy+yCUvz9VxMy1k40s5RrvUYaqwLEMKpTHB4WR89pYyb4m+CD48U4uwKQRmzTRUUIB+hJ3RRSigEAewDP5+nQCGc8=;nqSmsu0EF2DGshi+xcw86Q=="
 ---

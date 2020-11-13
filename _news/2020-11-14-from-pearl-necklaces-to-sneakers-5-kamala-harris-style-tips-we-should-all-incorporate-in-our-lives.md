@@ -603,6 +603,20 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 115
+  - title: "What Kamala Harris’ victory means for America"
+    excerpt: "The symbolic importance of Kamala Harris’ win as the first female, first Black and first Indian American VP is undeniable. But just as important is what it could mean in concrete terms for the country."
+    publishedDateTime: 2020-11-13T18:10:00Z
+    webUrl: "https://www.politico.com/newsletters/women-rule/2020/11/13/what-kamala-harris-victory-means-for-america-490897"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "'This is our country. It is for all of us': CNBC's Sharon Epperson on what Kamala Harris' victory means for women of color"
     excerpt: "\"The election of Sen. Kamala Harris as vice president of the United States means my daughter sees her future,\" writes CNBC’s senior personal finance correspondent."
     publishedDateTime: 2020-11-09T19:15:00Z
@@ -631,6 +645,6 @@ related:
       domain: cnn.com
     quality: 105
 
-secured: "ycBSi10YkkZ7pBMHNsm5h7uedafrUN8kGa5i1AEcTSbvK+0BT51MAroiN7j11TABsNfkLQ4lUAjndNVfDa6Z4CDNE3ryKMav6vtlrK3D1MrsG3Y3VpmWKKwIVdnA1LIpo2eKiJdGN+BQuokQ3T4jtevM50qKZF+afKcxxtYMra1wO7u/nmK3Ubcn7o2QIBjRGQos18b5OKisXtuFBfJ8RJY8KMHxgML+radBnCgEbJyEIDqDgHzPzGJDoIIz/28YHZdrlAFsK/1rfbjfV6GY5aYuQ8OE66UDwzGVt0IoAydaAxJlvkQxYeWHhLuaqUc7r8ovzMDWSVAmjU1xrNO6/vG04CbNEozVDEabRSEoJHE=;tYFXPGOs7UgBX6A/+QUifg=="
+secured: "tVu9IzOdzfP/9V6TgZVYtiW3kTDQSKm3bPRQstfznELxdjbClA6pR50E139y/rwf3WV9y1Vljhm69XDa0mYIeUSoE3N6faqQO/m8BrTdtkxwwKlHWUeOHHKegy3SUcqR9QwPwq0LboqKBdapBXfyKdtkmq1q8IMugA0q3gIj4rwGjNGA7vzCJ3SdtapodoGigI1Oh7zHV01UXMQW4PxlwaD4jjgKpTAEnpdVDkNxCP29U6aXokyCgELO8nHcOl50rICS03fBh5sTQkibKrW0o37eVvg7tHQyWtr5i8DQTIzdhd7pRNPbztU8o5ccGNcLQem8p81a+Akviy8YPY9hwGD1bdGIAduf5aqWfCiINqnBLLDkbSL8KyCOvaLd49kLuRLEsqs0mrkG4EYPikraKeMZmTE5mKx76SpapvprRBxcypdLcgm/zKlo/kpxlWFi27zUFDlB0O/1BwJcsHRosqOJtWo4N3VdeSiA8aVGa4EBqte5YE04ST0LwJSgqTwLbLNoixE1L8kwC/cQUrcSZw==;jCCP6TBguAspD9PqyJNdfw=="
 ---
 

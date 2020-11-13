@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 4825
+heat: 4905
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109141708-joe-biden-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Top DHS official ratchets up rebukes of Trump's false election claims"
+    excerpt: "The Trump administration official in charge of helping states secure their elections has ramped up his efforts to reject the false claims coming from President Donald Trump and his supporters to the point that he's telling associates he expects to be fired.\n    \n"
+    publishedDateTime: 2020-11-13T18:19:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G47gJCk8awY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/dhs-krebs-rebukes-trump-election-claims/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/dhs-krebs-rebukes-trump-election-claims/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113093243-04-chris-krebs-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1343,6 +1359,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to take characteristically deliberative approach to filling Cabinet"
+    excerpt: "President-elect Joe Biden will spend Friday and the weekend considering potential nominees to his Cabinet, aides said, but they cautioned that any major announcements were not expected to take place in the coming days.\n    \n"
+    publishedDateTime: 2020-11-13T18:53:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ioeF7oBByUc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/biden-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/biden-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112041647-06-joe-biden-1110-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Mike Pence accuses Joe Biden of plagiarizing Trump’s Covid-19 response plan"
     excerpt: "Vice President Mike Pence accused Joe Biden of plagiarizing President Trump’s coronavirus response plan. Pence said Biden’s plan, “Looks a little bit like plagiarism..which is something Joe Biden knows a little bit about."
     publishedDateTime: 2020-10-08T01:33:00Z
@@ -1468,6 +1500,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200910202307-dewine-presser-0910-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Michigan judge rejects demand to block certification of Biden win in Detroit"
+    excerpt: "A Michigan state judge has rejected an attempt by two poll challengers to block the certification of a Joe Biden win in Detroit, which helped carry his victory in the state. The judge also denied the request for an audit of the election.\n    \n"
+    publishedDateTime: 2020-11-13T18:36:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kk0aUiaFsCM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/trump-michigan-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/trump-michigan-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112025813-05-joe-biden-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -3354,6 +3402,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/10/world/10afghan-biden-2/10afghan-biden-2-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "As Soon as Trump Leaves Office, He Faces Greater Risk of Prosecution"
+    excerpt: "President Trump lost more than an election last week. When he After Jan. 20, Mr. Trump, who has refused to concede and is fighting to hold onto his office, will be more vulnerable than ever to a pending grand jury investigation by the Manhattan district attorney into the president’s family business and its practices,"
+    publishedDateTime: 2020-11-13T17:42:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/nyregion/trump-taxes.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/nyregion/trump-taxes.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/nyregion/trump-taxes.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/11/nyregion/13nytrump-vance11/13nytrump-vance11-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true
