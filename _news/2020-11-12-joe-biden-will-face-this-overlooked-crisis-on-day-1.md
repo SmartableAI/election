@@ -704,6 +704,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama: Trump's election fraud claims delegitimize 'not just the incoming Biden administration, but democracy generally'"
+    excerpt: "Former President Barack Obama slammed Republican officials for condoning President Donald Trump's false claims of election fraud in the wake of his loss to Joe Biden, saying in an interview clip released Thursday that such allegations endangered democracy.\n    \n"
+    publishedDateTime: 2020-11-13T00:59:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oVduN-bJ7r0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/obama-trump-fraud-delegitimizing-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/obama-trump-fraud-delegitimizing-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112191137-obama-cbs-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Eric Trump and Donald Trump Jr. spread false information in run up to election"
     excerpt: "As two of his top surrogates, President Donald Trump's eldest sons, Donald Trump Jr. and Eric Trump, have spread a significant amount of false information this campaign season on topics ranging from the coronavirus, to their father's alleged successes, to attacks against his Democratic opponent former"
     publishedDateTime: 2020-11-02T23:47:54Z
@@ -1725,6 +1741,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110091908-05-obama-trump-2016-transition-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Evidence undermines Trump campaign's claims of dead people voting in Georgia"
+    excerpt: "With CNN and other media outlets including Fox News having called the election for former Vice President Joe Biden, President Donald Trump and his allies continue to argue the results were somehow fraudulent.\n    \n"
+    publishedDateTime: 2020-11-13T02:00:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LKR6tR5SAYw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/trump-campaign-georgia-dead-voters-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/trump-campaign-georgia-dead-voters-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112160319-05-world-kindness-day-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -3166,6 +3198,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "How Biden Could Steer a Divided Government"
+    excerpt: "Mitch McConnell might still control the Senate, blocking every major Biden proposal. Donald Trump will be unleashed as National Narrator blasting everything that happens. Things don’t get much better in the unlikely event Democrats capture both of Georgia’s Senate seats to achieve a 50-50 tie,"
+    publishedDateTime: 2020-11-13T00:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/opinion/biden-romney-republicans-senate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/opinion/biden-romney-republicans-senate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/opinion/biden-romney-republicans-senate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/opinion/12Brooks/12Brooks-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "U.S. Troops Are Still Leaving, but Afghans Hope Biden Will Help"
     excerpt: "Afghans fear the Taliban are subverting the peace process, and hope a Biden administration will bring more accountability."
     publishedDateTime: 2020-11-12T18:50:00Z
@@ -3500,6 +3548,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "ydbIwTl6qw7ZUx+j9h5lI1oRv3WsxSqMi59IbE6UjCQSw5fbFPAJlf30IEAo+HkWVHHzHzi7tdWbnC/YHTiSvQRbhQQ9X91i02aW/jhIfiV5uVYSHprZ3yKmEqZ4093mwaz1PyguswsSTKjmVQCz47rz8/MEHBl0RIBO4VxByzpM8yiucQdSE1Yw2yJcSK/zXXN4XdypRokADtSH0taYA4j4NiQcw9Ti8/UsXpfno6SzkynYplkcmBDBhO05m9APgYYY989Z/6wqqRe4iIDkbBkeGyU9bZcSZtakJo/N22cZv443enCs7zBXBipG6gab/Mj3Q3TxUlHhHE1CYPp8dBCDEscZxLI00Lmu0MTWX+s=;Tlh2QaSFVU2Sa29kkPB3Hg=="
+secured: "b6LC3cAWwKoLoDDJQuWg4tKTmYpMkdepgrmqp9irI1XBSx0266ub/zaHkgoxXciPYCen5L4MlMNnyeyRsW4Iyu/MP1CvWr76A9eab8SVdfPrx6pOXi7Vh6BOOt0kXvBGeQScTjfMDscow2xvEGQ5eDZHkMe2i9FRKjvHIYbafWFffDMc10BUQoEUhnQurWL6Ri5+yTpZVnFOtPWv69W81J0o03ocewxjax17313Uu8/x/95MeN/7VXOJ9RDGQ+basVCkZTFTEg4Z3SY3A2Abdn/CWk716N294tlr8Hx/SM8xmzkpEXnWehlbY9k4uzhNx7OMg7bW54TSGlHu82stxI0Qk8T9lWINRrAjQjpuPsmirAZ+vq5z2rGVbgLPkCxWjKOwrEn/L18f7t5IeRMpCExKGnbc40RpqJOaOmq4MIV4GuiF3I4mbnoLSx0sjPrJFcOZLvhbftt6wFBqDOoOLL14+2u/DPM0Ux3avO+o8GvoKVXQUSEetzjQ4WZqDmV6uOLb0p53emmFXZi3hQPOVg==;us+nNpeeUD5knmvYrFe0Gg=="
 ---
 

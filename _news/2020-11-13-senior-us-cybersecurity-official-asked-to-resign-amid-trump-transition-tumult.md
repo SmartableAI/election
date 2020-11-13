@@ -347,8 +347,8 @@ related:
         isCached: true
   - title: "Republicans urge Trump to allow Biden briefings as election challenges sputter"
     excerpt: "More Republicans on Thursday broke with President Donald Trump's refusal to cooperate with Joe Biden, saying Biden is entitled to intelligence briefings even if they were not ready to recognize the Democrat as the winner of the Nov."
-    publishedDateTime: 2020-11-12T22:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27S0LV"
+    publishedDateTime: 2020-11-13T02:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/wrapup-5-republicans-urge-trump-to-allow-biden-briefings-as-election-challenges-sputter-idUSL1N2HY1LC"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0LV"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0LV"
     type: article
@@ -357,8 +357,8 @@ related:
       domain: reuters.com
     quality: 151
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541025758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541033841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1Z8"
+        width: 818
         height: 545
         isCached: true
   - title: "Harris’s ancestral village in India gets festive as Biden leads count"
@@ -1817,6 +1817,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump grasps at a new set of straws: Computers rigged his election loss"
+    excerpt: "President Trump has transitioned from insisting that he will win the 2020 presidential election once all the votes are counted (he will not) to claiming that the results were muddied by rampant voter fraud (they were not) to a new set of claims: The results were altered by the use of computers and perhaps,"
+    publishedDateTime: 2020-11-13T02:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/12/trump-grasps-new-set-straws-computers-rigged-his-election-loss/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/12/trump-grasps-new-set-straws-computers-rigged-his-election-loss/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/12/trump-grasps-new-set-straws-computers-rigged-his-election-loss/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FCGZFOBBG4I6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 985
+        isCached: true
   - title: "Trump, stewing over election loss, silent as virus surges"
     excerpt: "President Donald Trump has publicly disengaged from the battle against the coronavirus at a time when the disease is tearing across the United States at an alarming pace"
     publishedDateTime: 2020-11-12T22:32:00Z
@@ -2786,6 +2802,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZATPJKAT6UI6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1440
         height: 929
+        isCached: true
+  - title: "Factbox: Trump lawsuits seeks to stop Pennsylvania, Michigan from certifying Biden win"
+    excerpt: "U.S. President Donald Trump's campaign sued Michigan and Pennsylvania this week to prevent them from certifying Democratic challenger Joe Biden as the winner of the two states in the Nov. 3 presidential election."
+    publishedDateTime: 2020-11-13T02:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-legal-challenges-factbox-idUSKBN27S350"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S350"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S350"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541032453&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1Y4"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden goes ahead of Trump in Michigan as vote count continues in state's largest counties"
     excerpt: "President Trump has tried to claim victory with millions of votes still to be tallied in key states such as Michigan and Pennsylvania."
@@ -5970,6 +6002,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Va., Md. Republicans follow Trump playbook, questioning his defeat and refusing to concede."
+    excerpt: "Their claims are part of a cacophony of doubt Republicans have sown in the election since President Trump’s loss to President-elect Joe Biden. Across the region, some losing can"
+    publishedDateTime: 2020-11-13T02:01:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-politics/virginia-maryland-republican-election-fraud-trump/2020/11/12/889f5ff2-2438-11eb-952e-0c475972cfc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/virginia-politics/virginia-maryland-republican-election-fraud-trump/2020/11/12/889f5ff2-2438-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-politics/virginia-maryland-republican-election-fraud-trump/2020/11/12/889f5ff2-2438-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7372WOBFFEI6XJUIKKMK2XKYBI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Iran is Hoping for Biden Return to Nuclear Deal—But Trust Will Be Hard to Rebuild | Analysis"
     excerpt: "While the Trump administration has repeatedly said its door was open for talks, Iranian President Hassan Rouhani has insisted that the U.S. must first return to the nuclear deal and lift its unilateral sanctions."
     publishedDateTime: 2020-11-03T19:29:00Z
@@ -6845,6 +6893,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How religious voters helped power Biden to victory"
+    excerpt: "CBS News' early exit polls show President-elect Joe Biden made inroads with Catholic and White Evangelical voters in his path to victory. Michael Wear, a former faith outreach adviser for President Obama,"
+    publishedDateTime: 2020-11-13T01:00:00Z
+    webUrl: "https://www.cbsnews.com/video/religious-voters-helped-joe-biden-to-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/13/c901d11c-2c64-4ee1-ac85-c43894daf1c7/thumbnail/1200x630/0252cf3fdb7ba431e580ccb9952fa0af/cbsn-fusion-religious-voters-helped-joe-biden-to-victory-thumbnail-586941-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump could buck US tradition of conceding defeat"
     excerpt: "For generations, losing U.S. presidential candidates have conceded to their opponents after bruising elections. President Donald Trump could be the first presidential candidate in modern times to ignore a tradition that supports peaceful transitions."
     publishedDateTime: 2020-11-12T19:39:00Z
@@ -7051,7 +7113,7 @@ related:
   - title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
     excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
     publishedDateTime: 2020-11-12T12:42:00Z
-    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR0OhWIplKoGzoYXNqWUj8_sDm_Umxelq-r4h4QC6ylD_v6uDiDsBmbCao4page%2F6page%2F7page%2F2page%2F24page/25"
+    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR3uwJnz4rx9ZJya1Vh03kolVQNbCkGdbF2ffCpqQFTEQt_uDRNDKC39zd4page%2F5page%2F7page%2F22page%2F2page%2F5page%2F3page/22"
     type: article
     provider:
       name: Time

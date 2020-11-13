@@ -340,6 +340,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Tucker Carlson: The Biden Scandal Is Real And Not Going Away"
+    excerpt: "TUCKER CARLSON, FOX NEWS: It's been obvious for decades now that the Biden family has gotten rich from selling influence abroad. Joe Biden held a series of high level jobs in the U.S. government."
+    publishedDateTime: 2020-10-30T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/30/tucker_carlson_the_biden_scandal_is_real_and_not_going_away.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524284.jpg"
+        width: 998
+        height: 748
+        isCached: true
 
 secured: "W+vfBsv4z5cTjoIS+rl8e2+UTIJ0AoVLno7SI+22yYtjT8d+u4NDsuW6ZroduCDs2S8IbsRkmasKq3wdrwrxMr4WW1eFZNFf8Lf5EyNUivf2n6MJDTQm009lix7MXxh233q+J2Aa/CLodWlSiRtUhzoRo/LAjCKUlKCFw+wij3yaAg93qT7AgEKQxtLpl99T8ScAsth23fg08rnppBhpRtA3RI3/n9sHtUHGZ5uYAyPogXT7ThT+VApwzpNOuhPp9FQm91yrVprvZ9HSxQtyK4ii3CKYEaF9BCbqrb0VDqjDemmr+ykd2g30Fp84bsuSbaRle5fzbDkDaewuajg4GPgLIfdGax7CHtRoPcx21Jc=;bdufTaj578dYKtQb8uwgGg=="
 ---

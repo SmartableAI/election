@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Biden's won, nothing will change that: Schumer"
+    excerpt: "Senate Democratic leader Chuck Schumer on Wednesday doubled down on his argument that Republicans have no legal case in challenging the results of the U.S. presidential election that was called for Democrat Joe Biden over the weekend."
+    publishedDateTime: 2020-11-12T18:52:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD49PFQ7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201112&i=OVD49PFQ7&r=OVD49PFQ7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
     excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."
     publishedDateTime: 2020-11-10T19:29:00Z

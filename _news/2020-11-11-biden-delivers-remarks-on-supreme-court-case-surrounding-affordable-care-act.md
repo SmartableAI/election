@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Biden's won, nothing will change that: Schumer"
+    excerpt: "Senate Democratic leader Chuck Schumer on Wednesday doubled down on his argument that Republicans have no legal case in challenging the results of the U.S. presidential election that was called for Democrat Joe Biden over the weekend."
+    publishedDateTime: 2020-11-12T18:52:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD49PFQ7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201112&i=OVD49PFQ7&r=OVD49PFQ7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
     excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
     publishedDateTime: 2020-11-05T21:46:00Z

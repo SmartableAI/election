@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 4814
+heat: 4834
 published: true
 
 provider:
@@ -2164,6 +2164,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f970c061245dce9c958e810%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D0%26cropY2%3D1969"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Post-ABC polls: Biden leads Trump narrowly in Michigan, significantly in Wisconsin"
+    excerpt: "Former vice president Joe Biden continues to outpace President Trump in two crucial Midwest battlegrounds, currently holding a slight lead over the president in Michigan while showing a much more ..."
+    publishedDateTime: 2020-10-28T10:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/28/wisconsin-michigan-poll-post-abc/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/resizer/bR2jasQPJjb6kRvEY22kWFr4KRg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/46XUJVATWMI6XISYMFFM6K4QNU.jpg"
+        width: 1484
+        height: 1063
         isCached: true
   - title: "Judge throws out Trump campaign lawsuit over Pennsylvania poll-watching law and mail-in ballots"
     excerpt: "The Trump campaign had challenged the battleground state’s poll-watching law and how mail-in ballots are collected and counted."

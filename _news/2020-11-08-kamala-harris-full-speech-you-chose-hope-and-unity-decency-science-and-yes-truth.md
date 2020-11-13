@@ -197,22 +197,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "How ‘SNL' Perfectly Recreated Kamala Harris' White Pantsuit With Just Minutes to Spare"
-    excerpt: "After more than 30 years on air, “Saturday Night Live” has accumulated quite the wardrobe, with nearly every piece of clothing one could need."
-    publishedDateTime: 2020-11-10T06:14:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/how-snl-perfectly-recreated-kamala-harris-white-pantsuit-with-just-minutes-to-spare/2714413/"
-    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/how-snl-perfectly-recreated-kamala-harris-white-pantsuit-with-just-minutes-to-spare/2714413/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/how-snl-perfectly-recreated-kamala-harris-white-pantsuit-with-just-minutes-to-spare/2714413/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 67
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/Maya-Rudolph-VP-elect-SNL.jpg?crop=296px%2C38px%2C2599px%2C1462px&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Dem VP nominee Kamala Harris’ Texas visit will include stops in Houston, Fort Worth and McAllen"
     excerpt: "Kamala Harris, the Democratic nominee for vice president, will make campaign stops in Fort Worth, McAllen, and Houston on Friday. Harris’ visit is a major statement as her swing through Texas will come just four days before Election Day."
     publishedDateTime: 2020-10-28T15:21:00Z

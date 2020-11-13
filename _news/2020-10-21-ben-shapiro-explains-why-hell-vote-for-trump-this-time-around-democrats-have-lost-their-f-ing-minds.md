@@ -94,6 +94,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Campaign Presses Election Claims in Pennsylvania, Arizona"
+    excerpt: "The Trump campaign is seeking to invalidate more than 10,000 votes in the Philadelphia area and asking an Arizona judge to block certification of the ballot count there."
+    publishedDateTime: 2020-11-13T02:04:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-258970/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "9L0gqxChYrzNmpSd8UtSvjkofULblqccevb2DYlyV/FYOhX3ApMsTCwooCIZHTaurKui7mCnUTAYsFAh5fT6S4LaqRONI5PDvMy6Za0wpq+8UJc7/l3NOX8M/mSKZphuActYjkg9Zcf/UIN5U6bku5YyqeEXPmgMufBe2nxaAH6kvQ1uF5Dj2wYCTJvsL+eCjvUzZ5//7cc9iZFhIFXo/PffEnIJYHDSk5AIpvT1bFOeUMYWLpF+a4ImY6drbjiQRqtCiplRi96NspssazUvDnY/xnzAD5p9+/BRbwasveHoXqx1Fycq1lkA34zhFV8BOd0ayA2a78WqsoB1FbTszoy0o32O1kUph01r8rYOVsA=;W8bnYIy3aKLKDKpstGu16g=="
 ---
