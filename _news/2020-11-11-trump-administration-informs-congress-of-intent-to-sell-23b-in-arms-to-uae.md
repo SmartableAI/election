@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-no
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html"
 type: article
 quality: 173
-heat: 253
+heat: 273
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605122812-citizenship-ceremony-0504-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump Administration Gives TikTok More Time to Reach Deal"
+    excerpt: "The Chinese-owned social media app now has until Nov. 27 for a deal that would give American companies more ownership of the service."
+    publishedDateTime: 2020-11-13T22:36:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/technology/trump-tiktok.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/technology/trump-tiktok.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/technology/trump-tiktok.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/business/13tiktok/merlin_179880495_a14aeefd-f3ca-4d7c-b5e8-8077498d7251-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "WHhqSGWCnOf8GXJ0eD+sCYtB3qYp5b6kPZceKvdpXRW1c7vi5qq3vIL9yjyGVbfNwCUv+ZroT2h5C02xmqoTKp3Ud79U+Y0KQkwN6rUV3R8/7EFqrLc1ARWvYsFoU2dFK+zuTTk/+kF2b/UK/VV0crSrlE0Z5uJA2DC9k/A4O++e+7Fwlps2MJW3SKi2U2cmSz8BrHS3EKvajKQPJFhQtE930Zk6kbxEtYio2MnRBubo9PgAW2Yu287EUoWbZroue0LPMurPBj3F2rBTVfplz7hRJb4r2nsHQ7HxoK2V7qPwCQFD7I4Y/7r7Yxcep5Y7MPgFG+tfW+yPIYTNekZ3taDqTF9di3tvjtQPexYfT/Y=;+ldbtZy8X0d3CDElfED4Rg=="

@@ -1,0 +1,69 @@
+---
+category: news
+title: "EXPLAINER: Why AP called North Carolina for Trump"
+excerpt: "The Associated Press declared Donald Trump the winner in North Carolina after concluding there were not enough ballots left to be counted that would allow Joe Biden to overtake his lead"
+publishedDateTime: 2020-11-13T21:40:00Z
+originalUrl: "https://www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html"
+webUrl: "https://www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+type: article
+quality: 125
+heat: -1
+published: false
+
+provider:
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
+
+related:
+  - title: "Explainer: Can Trump pardon his associates — or himself?"
+    excerpt: "U.S. President Donald Trump could issue a flurry of pardons during his final days in power. Trump has granted clemency to supporters before, most notably earlier this year when he commuted the criminal sentence of Roger Stone,"
+    publishedDateTime: 2020-11-08T11:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN27O0FT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O0FT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0FT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540424251&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70D3"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Explainer: How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T16:22:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27P19X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P19X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P19X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
+        width: 817
+        height: 545
+        isCached: true
+
+secured: "YxV6aO6AucXtYwaC6SA3YUOrQPYAWXTortlU4RK1BsrylWq1v2J/0+nD3LB1zscMV8W3Cr2uRnOPkSzbkC0/vb4pnWG+qZmvyEQfa5VNj30Iw6y9eDUVm0gY3dZKzavhjgbSLkUWSSaUCaJ70tuftHdcCWwF59qwu0yfrAuUMXFSKVDkkq9CwlqhBkTXjLnutIEqqAJ/91rQ8hS9GkX6vXYbX9JrqcK2T+U/IkBclz/UTCGPIfeyZaiKEer9mvCQOQ5QMrT/O34V2btthGm+DHeO5xP42SHjwn6qepWCEOcG/AMhhNDgRgru0tXRnv7foekuKXxtvDPXlEH7JSxP/+66gRxcu/mVXA2Td/piznA=;IVX4KAhcJ4RCB8vejEeawQ=="
+---
+

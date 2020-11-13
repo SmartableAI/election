@@ -2640,6 +2640,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Once Loyal to Trump, Law Firms Pull Back From His Election Fight"
+    excerpt: "Porter Wright withdrew from a federal lawsuit it had filed days earlier. A top Jones Day lawyer said the firm wouldn’t take on new election litigation."
+    publishedDateTime: 2020-11-13T22:31:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/business/13porterwright/13porterwright-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."
     publishedDateTime: 2020-11-09T10:40:00Z

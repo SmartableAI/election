@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6191966002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191966002"
 type: article
 quality: 130
-heat: 370
+heat: 390
 published: true
 
 provider:
@@ -207,6 +207,20 @@ related:
       name: Time
       domain: time.com
     quality: 74
+  - title: "Tight spot: Donald Trump loss complicates Mike Pence’s political future"
+    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status. But with Trump’s loss — after Pence spent the last four years as his most loyal soldier and the past year doggedly campaigning on his behalf — the Vice President is contending with a far less certain future."
+    publishedDateTime: 2020-11-13T21:37:00Z
+    webUrl: "https://floridapolitics.com/archives/383296-trump-loss-pences-political-future"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/Mike-Pence-Donald-Trump-1000x563.jpeg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "EEwsM67dr4PAETGH1f5/tQm7UCrIh+GlI8gR31s8bSmxHuZX0FgbVmLKDZx6J2pN4d6i1EvXzAIqncVYk3oxy5fUvV1YBrI4ceb6nxu/Qpl4WIkup8QdgNPdn9EAiyBx/Y8/YAgf5KQ6VjT/3uQwACBBPnKSYBs0LMboC3WijlZ994zi1U2qNaYja+zSyTfpY2BqcnBclWoDwt+RDCY6+h3ZeEiLXosY8AK9avAx190KpPzhN360itQBn5aR0z0pAKOop/vZKV4Us9WC9R24haJvVzHgk77AZXgAx69t2pXaQHS6icvla6WDrrkHVW5Zi0b4ynQw1XpkmVB7AAxmPo65fHpJrf1JasDILvUCDBehKHWV+ls4ycrXI4+fX3kZmuo/Ts4nAJduYHVqvImthcxMhTCGgyCtYanKX6qkBLl9t3WZ0GESn+EZy6ElrCv0u7fbt+ZX2qrmqO4Gp5VH6mOiGhlvE3XqPffFYQ7GRWJbUG9iozmT9i47tKe1wnF18iOR3D1RTo0russNXqgj6g==;Kt8s93BZbkHjkBaAqoClhQ=="
 ---

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Administration Gives TikTok More Time to Reach Deal"
+    excerpt: "The Chinese-owned social media app now has until Nov. 27 for a deal that would give American companies more ownership of the service."
+    publishedDateTime: 2020-11-13T22:36:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/technology/trump-tiktok.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/technology/trump-tiktok.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/technology/trump-tiktok.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/business/13tiktok/merlin_179880495_a14aeefd-f3ca-4d7c-b5e8-8077498d7251-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "wV7wIMg5NL6QGl5UDTHcTLkLJ5klKeObLQ16R/1RvMh9cGLg3fh6e+zoqshHfZ3uI6pJt8rZVtL5ePbJDwkwN7sD+2dUEdIL5Hg63rZ8LucmA52NTb4iWW7uJXIPxnBByEILyOkfPSrZ2g8k3CQzsiEONkIpb3EzJtrwU5jMsurOfa09kRcbUNTu9RiJmpgI5sNCbzqflaUFQtTjFFiPCyte53G9daIA18q6bRkesEFhz8kOI4rpjLVdFnnJQZomwJAFR6yJ51Nc5PsYKWmkw+GksYA+VukZhhlti16frFPe7Fj/ZgrQkwuYl5ehbJ3WZgc6x8Pd60TXNIVbo2YZuzUK1DhXEd2usG8mR1v6KH0=;t0QgvmHf7ZH9kTkON6bCKw=="
 ---

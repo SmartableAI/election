@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-13-donald-trump-lost-the-presidency-residents-and-realtors-of-trump-tower-think-it-may-become-valuable-again.md",
+      "title": "Donald Trump lost the presidency. Residents and realtors of Trump Tower think it may become valuable again.",
+      "excerpt": "\"I'm hoping that if he doesn't come back there, and we take his name off the building, we could have a wonderful spot to live again,\" said one owner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fac0ab3b09abb0018625f46?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp",
+      "publishedDateTime": "2020-11-12T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-rubio-on-trumps-election-lawsuits-let-the-system-work-dont-know-what-the-freak-out-is-about.md",
+      "title": "Rubio on Trump’s election lawsuits: Let the system work, don’t know what the ‘freak-out’ is about",
+      "excerpt": "Sen. Marco Rubio, R-Fla., slammed Democrats for going after President Trump's election lawsuits after Joe Biden was projected to be the president-elect Saturday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gUFzVE51tBY/trump-election-2020-senate-georgia-lawsuit-marco-rubio",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gUFzVE51tBY/trump-election-2020-senate-georgia-lawsuit-marco-rubio",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-election-2020-senate-georgia-lawsuit-marco-rubio.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-election-2020-senate-georgia-lawsuit-marco-rubio.amp",
+      "publishedDateTime": "2020-11-12T10:00:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-chicago-mayor-hails-new-day-for-science-in-playful-video-swiping-at-trumps-coronavirus-response.md",
       "title": "Chicago mayor hails 'new day for science' in playful video swiping at Trump's coronavirus response",
       "excerpt": "Chicago Mayor Lori Lightfoot hailed a \"new day for science\" in the wake of President-elect Joe Biden's announcement of a new coronavirus task force, recording a mocking video to take a swipe at President Donald Trump, who has downplayed the virus and frequently disregarded his own health officials.\n",
@@ -126,7 +234,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1207,7 +1315,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1224,118 +1332,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/blm-co-founder-to-biden-we-want-something-for-our-vote.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-co-founder-to-biden-we-want-something-for-our-vote.amp",
       "publishedDateTime": "2020-11-11T12:34:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-trump-administration-informs-congress-of-intent-to-sell-23b-in-arms-to-uae.md",
-      "title": "Trump administration informs Congress of intent to sell $23B in arms to UAE",
-      "excerpt": "Secretary of State Mike Pompeo announced Tuesday that the Trump administration had formally notified Congress of its intent to sell approximately $23 billion in advanced weaponry to the United Arab Emirates.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vKmFIMWA-Z0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vKmFIMWA-Z0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170404153305-us-military-drone-mq-9-reaper-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html",
-      "publishedDateTime": "2020-11-11T09:40:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-biden-honors-veterans-with-stop-at-philadelphia-memorial.md",
-      "title": "Biden honors veterans with stop at Philadelphia memorial",
-      "excerpt": "President-elect Joe Biden marked Veterans Day by honoring America’s veterans during a stop at the Korean War Memorial in Philadelphia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5sOc2gHoj_E/biden-veterans-day-philadelphia-memorial",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5sOc2gHoj_E/biden-veterans-day-philadelphia-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-veterans-day-philadelphia-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-veterans-day-philadelphia-memorial.amp",
-      "publishedDateTime": "2020-11-11T09:18:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

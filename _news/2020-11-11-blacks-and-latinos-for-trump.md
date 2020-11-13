@@ -240,6 +240,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Campaign, Allies Face Legal Setbacks in Michigan, Arizona, Pennsylvania Election Suits"
+    excerpt: "A state judge in Michigan denied a bid by a conservative legal group to block the certification of election results and force an independent audit of votes in Detroit, calling the allegations of misconduct and voter fraud “incorrect and not credible."
+    publishedDateTime: 2020-11-13T22:57:00Z
+    webUrl: "https://www.wsj.com/articles/michigan-judge-denies-conservative-group-s-request-to-delay-detroit-election-certification-11605295879"
+    ampWebUrl: "https://www.wsj.com/amp/articles/michigan-judge-denies-conservative-group-s-request-to-delay-detroit-election-certification-11605295879"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/michigan-judge-denies-conservative-group-s-request-to-delay-detroit-election-certification-11605295879"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 139
+    images:
+      - url: "https://images.wsj.net/im-259583/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Faces Legal Cases After White House Departure"
     excerpt: "Trump is set to lose protections of the presidency as he deals with a criminal investigation in Manhattan, a New York state attorney general civil probe into alleged fraud and multiple lawsuits."
     publishedDateTime: 2020-11-12T14:14:00Z

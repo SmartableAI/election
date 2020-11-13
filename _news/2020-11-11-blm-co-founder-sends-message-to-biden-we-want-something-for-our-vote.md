@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/blm-co-founder-to-biden-we-want-som
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-co-founder-to-biden-we-want-something-for-our-vote.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden HUD secretary frontrunner praised top communist as her 'mentor'"
+    excerpt: "The potential frontrunner to head the Housing and Urban Development agency under President-elect Joe Biden's incoming administration could face opposition during the Senate confirmation process over her past praise for a Communist Party member."
+    publishedDateTime: 2020-11-13T21:48:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qx1aymiq0NI/biden-hud-communist-mentor"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hud-communist-mentor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hud-communist-mentor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20316781826951.jpg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "EWqZOXdk9ZArlLHaZbrVLhuHO9/BlTfYl9v0G1igOPLvQuRG64XUO5u0rKk5u8ddM7P24/N9eFBiZ2NOmvtX6IvQaCo3kkLWvwXRXso6UET62eza7r7vXjm/3Xd5eZ+tHvMVCx/0UXcyQ3FvZQ0xbyyfTUpqmjl4Vh54rxc1rm624LFWp1FIu9mmtiaJ9+9OHefSJVeHT/3JwVorMyyQ+JOgjApD6WNJL6AcCOsZOZzGteQbuOog0FlAu3qPs3v31iFlcjXq0tL4ZGhOYVnwapNH/SNkAkDvJLvXFUUtBtIHxYRadoUTwjukPOQXnnBDxVv/8QfbrqCOE3e3ekV5d4YJUBbHc7X7k98krkPNSaw=;+hAAKt6plgsnsQrzW9xKOQ=="
 ---

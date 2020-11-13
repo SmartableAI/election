@@ -3239,6 +3239,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2020 election ends at same electoral vote as 2016 — 306 to 232, with Trump losing this time"
+    excerpt: "The 2020 electoral vote has ended up exactly the same as the 2016 electoral vote. Only this time, President Trump is on the losing side. CBS News on Friday projected the final tally for the presidential race as 306 electoral votes for President-elect Joe Biden,"
+    publishedDateTime: 2020-11-13T22:28:00Z
+    webUrl: "https://www.cbsnews.com/news/presidential-election-results-2020-electoral-college-same-2016/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/presidential-election-results-2020-electoral-college-same-2016/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/presidential-election-results-2020-electoral-college-same-2016/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/13/e14c1da0-d38b-4c2a-aa7c-8dd30b3b69f6/thumbnail/1200x630/f1839fb6ff3e9c6932e0b7d5b583c5fc/race-map-president.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Obama says he's 'troubled' Republicans are backing Trump in his refusal to concede to Biden"
     excerpt: "Barack Obama says Donald Trump's refusal to concede and Republicans' support of his grievances over the outcome are causing \"damage\" to the nation."
     publishedDateTime: 2020-11-13T16:16:00Z
@@ -3332,6 +3348,22 @@ related:
     quality: 129
     images:
       - url: "https://i.insider.com/5fac79e77f8f4200182a66cc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "John Kelly says Trump delaying the transition process for Biden 'hurts our national security'"
+    excerpt: "\"It's about the nation. It hurts our national security,\" former White House chief of staff John Kelly said of the delay in the transition process."
+    publishedDateTime: 2020-11-13T22:19:00Z
+    webUrl: "https://www.businessinsider.com/john-kelly-trump-delaying-transition-for-biden-hurts-national-security-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/john-kelly-trump-delaying-transition-for-biden-hurts-national-security-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-kelly-trump-delaying-transition-for-biden-hurts-national-security-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5f4cd3667ffa48002894d16f?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -4775,6 +4807,22 @@ related:
         width: 1440
         height: 930
         isCached: true
+  - title: "Republicans face court setbacks, Trump law firm steps down"
+    excerpt: "Republicans suffered setbacks to court challenges over the presidential election in three battleground states on Friday as a national law firm that came under fire for its work for President Trump’s c"
+    publishedDateTime: 2020-11-13T21:47:00Z
+    webUrl: "https://www.washingtonpost.com/health/republicans-face-court-setbacks-trump-law-firm-steps-down/2020/11/13/e3e9ffe4-25f9-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/republicans-face-court-setbacks-trump-law-firm-steps-down/2020/11/13/e3e9ffe4-25f9-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/republicans-face-court-setbacks-trump-law-firm-steps-down/2020/11/13/e3e9ffe4-25f9-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump mulls a future outside the White House as 2020 options fade"
     excerpt: "With his long-shot efforts to hang on for a second term dwindling, U.S. President Donald Trump is discussing with advisers several media ventures and appearances that would keep him in the spotlight ahead of a potential 2024 White House bid."
     publishedDateTime: 2020-11-13T20:43:00Z
@@ -6025,6 +6073,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "CBS News projects Biden wins Georgia, Trump wins North Carolina"
+    excerpt: "CBS News projects that President-elect Joe Biden will win Georgia and President Trump will win in North Carolina, the final two states to be called in the 2020 race. CBSN breaks down the latest developments with political contributor and Washington Post national politics reporter Sean Sullivan."
+    publishedDateTime: 2020-11-13T22:11:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-north-carolna-election-results-biden-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/13/73ff088f-8ab1-41ae-8370-db880199f747/thumbnail/1200x630/f10d86a2fe1416c72288a25848c9d72c/cbsn-fusion-georgia-north-carolna-election-results-biden-trump-thumbnail-587679-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z
@@ -6297,6 +6359,22 @@ related:
     quality: 117
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540918141&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB05N"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "As Trump refuses to concede defeat, far right groups plan show of support in Washington"
+    excerpt: "Far right groups and other backers of U.S. President Donald Trump plan to rally in Washington on Saturday in a public show of support for his unsubstantiated claim of widespread voting fraud in the Nov."
+    publishedDateTime: 2020-11-13T21:23:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27T2VV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2VV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2VV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541163297&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1OV"
         width: 817
         height: 545
         isCached: true

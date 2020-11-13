@@ -2656,6 +2656,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Once Loyal to Trump, Law Firms Pull Back From His Election Fight"
+    excerpt: "Porter Wright withdrew from a federal lawsuit it had filed days earlier. A top Jones Day lawyer said the firm wouldn’t take on new election litigation."
+    publishedDateTime: 2020-11-13T22:31:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/business/13porterwright/13porterwright-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."
     publishedDateTime: 2020-11-09T10:40:00Z
@@ -3772,6 +3788,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "HByEsr7nTAR/2rYRMCjaD9RPT6P7iz5GNGTwqEicNUqCR52Gr71Qz7Xc9fftC0UIib39AyIjRmULFRktv0yxU/a/MZWZTmTrT1T81C3WnifV+drPWyE0MafBCrEgLbGSc0F3xlhU/7pyl5VXsdrqirzzbkCTVOaJIYXNtz0urEmke5BQLlsWtMw16r0ZBUadjkN74B2sVv5s+R5vM2icmZFi7oLjc5Wn2S/9ONgr06qp5bXsTic2e/T48yd0kUhmUJcZmvrRG80KxO8W/+0SBs4HCdhcSZ3f23IhR36RvpJh4wW6Tag8V+2YqUrnKc7oyCiPPTD5szN3hqpBHbXWxyS7jalwMg/Dlm24yNf1ZZg=;sCfjn1jxpqGuy0VpsSP3eQ=="
+secured: "LJ9Fj8Uv6/yHfaykT9Nj7fsw072EK/9PlYQkipL+nxVVC9KBfi8tbdCToPrKSj7PF3tdtPe3us6nA4htcmaEx29aR9JQ28CRt3R7Vwhj1kPkDGfhuMupFq0cEvf/5smBYZTPxYg9lKp58qJJQ11SN3iKN6bUwFj3yw5gljva1PIa+pq6lKwQH3cEJvTcJXodjSXvpVF7mo9eWQi3W7UjJvweLzrEFRrD6yQ3DUueJHG3NYW8l73Mj7L8vqFEsBYwEKNtOAZPSz7n3ejBm6dCMaPjdNZyJ3rxnN3zNEo35YP8bfkz0LM2WhSLFNrLK2UcNyHp0cqS1q+HpDlWGWSKwpxNeI9Wdz+k6fXII2GOLyip6PzkX4r1CmCJEU371kHCqKy9T/653JPlisf1CGH1askhnjIptp3pmFxi3Ao/v+2JJjZ11PbqfbCKL5R7QcBpN8Ct1iXuzvp3yu2tg29My8G/yZZbgMzp1BOlqmwxgbnJRqb4byPkWhkcS4/MIv+65zhc+nQutxcRZP0GowyO9g==;fKc5RcvNBOO4ltg82INc4w=="
 ---
 

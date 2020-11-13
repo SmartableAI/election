@@ -2,6 +2,114 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-02-donald-trump-threatens-to-fire-anthony-fauci-after-us-election.md",
+      "title": "Donald Trump threatens to fire Anthony Fauci after US election",
+      "excerpt": "President plays up to chants of ‘Fire Fauci’ at curfew-breaching Florida rally",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
+      "originalUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 500,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c8badd8268933ba924e08c538154c63169eb8efc/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c3b474212f71a4627a0c35b42391f3f6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
+      "publishedDateTime": "2020-11-01T22:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-conway-makes-case-for-trump-reelection-the-antidote-to-uncertainty-is-not-more-uncertainty.md",
+      "title": "Conway makes case for Trump reelection: 'The antidote to uncertainty is not more uncertainty'",
+      "excerpt": "Reelecting President Trump is in the best interest of the American people, former counselor to the president Kellyanne Conway told Fox News' \"Democracy 2020 Election Preview\" Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oG6FXJDDS1M/kellyanne-conway-trump-reelection-antidote-uncertainty",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oG6FXJDDS1M/kellyanne-conway-trump-reelection-antidote-uncertainty",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b045d9c2-5e4d-489e-9daa-1841a74800a9/976fc1ea-2106-43f2-aaa9-c2fcafcfb438/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kellyanne-conway-trump-reelection-antidote-uncertainty.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kellyanne-conway-trump-reelection-antidote-uncertainty.amp",
+      "publishedDateTime": "2020-11-01T19:37:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-trump-says-votes-should-be-counted-by-election-day-at-georgia-rally.md",
       "title": "Trump says votes should be counted by Election Day at Georgia rally",
       "excerpt": "Trump said extensions could allow “bad things happen in places like Pennsylvania and Nevada.”",
@@ -1263,101 +1371,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams.md",
-      "title": "Pence To Hold Rallies In Flagstaff, Tucson On Friday: Livestreams",
-      "excerpt": "With four days to go until Election Day, Vice President Mike Pence returns to Arizona to rally support from voters.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/arizona/tucson/pence-hold-rallies-flagstaff-tucson-friday-livestreams",
-      "originalUrl": "https://patch.com/arizona/tucson/pence-hold-rallies-flagstaff-tucson-friday-livestreams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/getty/566479/20201030/124208/styles/patch_image/public/gettyimages-1228965113___30124130047.jpg?width=984",
-          "width": 911,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams",
-      "publishedDateTime": "2020-10-30T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-criscrossing-texas-in-us-senate-race-hegar-joins-kamala-harris-cornyn-rolls-with-ted-cruz.md",
-      "title": "Criscrossing Texas: In U.S. Senate race, Hegar joins Kamala Harris, Cornyn rolls with Ted Cruz",
-      "excerpt": "U.S. Sen. John Cornyn and his challenger, former Air Force pilot MJ Hegar, are getting some big-name boosts in the final stretch of their Senate race",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/15/00/31/20186702/3/rawImage.jpg",
-          "width": 1935,
-          "height": 1290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "publishedDateTime": "2020-10-30T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

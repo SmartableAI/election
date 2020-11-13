@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Durbin, Pressley, Leahy, Booker to Trump administration: Suspend federal executions during transition period"
+    excerpt: "A group of congressional Democrats is urging the Trump administration to halt federal executions until the incoming administration of President-elect Joe Biden can \"evaluate and determine\" the future of the death penalty. "
+    publishedDateTime: 2020-11-13T22:47:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5GZ9gwxvliE/durbin-pressley-leahy-booker-to-trump-federal-executions"
+    ampWebUrl: "https://www.foxnews.com/politics/durbin-pressley-leahy-booker-to-trump-federal-executions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-pressley-leahy-booker-to-trump-federal-executions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Death-Row-Chamber-GETTY.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "e+ZmwolebTNxJnfo5VUEEf56RUftBpFK6ixUrl+zXYBILYvF6NzoUnoTznW/EcbWSTPlG+guiqjeSgpuKONOvxlhR06fGZyTqSmXSOdkigwGvxjXegeB9AFhCLouZb2WUmyDZ6x2P39yyiYZCbS/j00l2ZvBhRdMLWSVbtzHSDEOGLjoRx5TrDpqP759KpKkv05k+eAlyZp4PWzC2eC2Njgt6lvMRzaH2n6sadRVHIW3IBBHvRsrSyrfSUJwrX5051B6q7mBxl27RyPmbUnlpqAToJq3MKunqXeoR72/7xrML3rCtXx0WXua0P2MBxURW7IC0aBGjKluWxW8F4BKQk9IN8Ox7THV8t6SPNw2B0g=;jAntfwrvXKwfUW3njegd3w=="
 ---

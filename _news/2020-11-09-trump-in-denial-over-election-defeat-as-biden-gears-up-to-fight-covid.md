@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 4945
+heat: 4965
 published: true
 
 provider:
@@ -2636,6 +2636,22 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2020/11/12/us/politics/12transition-brief-pence/12transition-brief-pence-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Once Loyal to Trump, Law Firms Pull Back From His Election Fight"
+    excerpt: "Porter Wright withdrew from a federal lawsuit it had filed days earlier. A top Jones Day lawyer said the firm wouldn’t take on new election litigation."
+    publishedDateTime: 2020-11-13T22:31:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/business/13porterwright/13porterwright-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

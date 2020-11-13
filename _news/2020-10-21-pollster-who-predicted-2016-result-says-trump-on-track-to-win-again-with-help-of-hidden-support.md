@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump's Pennsylvania law firm pulls out of campaign case after online threats"
+    excerpt: "Two attorneys representing the Trump campaign in Pennsylvania have withdrawn from a lawsuit filed on behalf of the campaign."
+    publishedDateTime: 2020-11-13T21:37:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/reJAI5f7Rug/pennsylvania-law-firm-lincoln-project-withdraws-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-law-firm-lincoln-project-withdraws-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-law-firm-lincoln-project-withdraws-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture-6.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Live updates: Trump campaign notches court win over Pennsylvania ballot deadline"
     excerpt: "A Pennsylvania judge ruled in favor of the Trump 2020 Campaign on Thursday, ordering that the commonwealth may not count ballots where voters needed to provide proof of identification and failed to do so by Nov. 9."
     publishedDateTime: 2020-11-13T05:38:18Z
