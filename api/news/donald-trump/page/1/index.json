@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-13-sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable.md",
+      "title": "Sheldon Adelson’s Las Vegas Review-Journal Tells Trump To Stop Delaying ‘The Inevitable’",
+      "excerpt": "The billionaire casino tycoon was one of Trump’s biggest donors ahead of the presidential election. Now the newspaper he owns is saying that Trump should concede.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/",
+      "originalUrl": "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fadfccc6304390c09f137af%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/amp/",
+      "publishedDateTime": "2020-11-13T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-trump-floats-improbable-survival-scenarios-as-he-ponders-his-future.md",
       "title": "Trump Floats Improbable Survival Scenarios as He Ponders His Future",
       "excerpt": "President Trump is simply trying to survive from one news cycle to the next. At a meeting on Wednesday at the White House, President Trump had something he wanted to discuss with his advisers, many of whom have told him his chances of succeeding at changing the results of the 2020 election are thin as a reed.",
@@ -168,38 +220,29 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-senate-readies-vote-on-judy-shelton-granting-trump-another-opportunity-to-shape-federal-reserve.md",
-      "title": "Senate readies vote on Judy Shelton, granting Trump another opportunity to shape Federal Reserve",
-      "excerpt": "Shelton’s confirmation could mark Trump’s final imprint on the Fed board, just months before the Biden administration is inaugurated.",
+      "path": "_news/2020-11-13-senate-could-vote-on-trumps-fed-nominees-next-week-bloomberg-news.md",
+      "title": "Senate could vote on Trump's Fed nominees next week: Bloomberg News",
+      "excerpt": "The Republican leadership at the U.S. Senate has discussed holding a vote on U.S. President Donald Trump’s nominees to the Federal Reserve as early as next week, Bloomberg News reported Thursday, citing Republican Senator John Cornyn.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/",
-      "originalUrl": "https://www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/",
+      "webUrl": "https://www.reuters.com/article/usa-fed-nominees/senate-could-vote-on-trumps-fed-nominees-next-week-bloomberg-news-idUSL1N2HY2Q5",
+      "originalUrl": "https://www.reuters.com/article/usa-fed-nominees/senate-could-vote-on-trumps-fed-nominees-next-week-bloomberg-news-idUSL1N2HY2Q5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 105,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5POELBWLQEI6VGNQQQTOE3JAHM.jpg&w=1440",
-          "width": 1440,
-          "height": 945,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/?outputType=amp",
-      "publishedDateTime": "2020-11-12T16:31:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2HY2Q5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HY2Q5",
+      "publishedDateTime": "2020-11-12T16:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -384,7 +427,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 360,
+      "heat": 380,
       "tags": null,
       "images": [
         {
@@ -1530,58 +1573,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-how-and-when-will-trump-leave-office.md",
-      "title": "How and when will Trump leave office?",
-      "excerpt": "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-eviction-explainer-idUSKBN27P199",
-      "originalUrl": "https://www.reuters.com/article/usa-election-eviction-explainer-idUSKBN27P199",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540530760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OO",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27P199",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P199",
-      "publishedDateTime": "2020-11-09T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

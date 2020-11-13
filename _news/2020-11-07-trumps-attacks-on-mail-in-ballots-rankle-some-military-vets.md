@@ -33,17 +33,17 @@ images:
 related:
   - title: "Trump bans U.S. investments in firms linked to Chinese military"
     excerpt: "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U."
-    publishedDateTime: 2020-11-13T04:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUSKBN27S2X3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2X3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2X3"
+    publishedDateTime: 2020-11-13T12:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2X3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541018365&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1TB"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
         width: 817
         height: 545
         isCached: true

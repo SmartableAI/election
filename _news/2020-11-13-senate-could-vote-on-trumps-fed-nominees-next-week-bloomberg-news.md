@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HY2Q5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HY2Q5"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: Reuters
@@ -23,24 +23,6 @@ provider:
 topics:
   - Election
   - Donald Trump
-
-related:
-  - title: "Senate readies vote on Judy Shelton, granting Trump another opportunity to shape Federal Reserve"
-    excerpt: "Shelton’s confirmation could mark Trump’s final imprint on the Fed board, just months before the Biden administration is inaugurated."
-    publishedDateTime: 2020-11-13T00:31:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5POELBWLQEI6VGNQQQTOE3JAHM.jpg&w=1440"
-        width: 1440
-        height: 945
-        isCached: true
 
 secured: "oWygqkgOKGrfyKU4TgOcJJHstywMYsVrHrywUX5If6Ff5r9sUIfI44o7DlnUFuZnZxBHhEMGEeE51+356oHV+dcyUCqQUKZHV03TYqryq/HnoxO+aPQjomb6xoafPFUz4uBZmPo3jtHtud7MqFYPdJ9FC3pJgTdD1zJ2fXvjKgSiNX5lImxiDkGEUyVJMqguIg6NuiueGXsqG6r2/4KyRKig6Sk9T9CRy3D3Z4b7Qz3nTl3WkbJVCTM77dU/Td0lJQ22KPNJHwOWZcAaOMSX9UCTdyGNYYAel3taUm3fyYBBkj9edJmx8uRV8ebFFz+LOTukZbA2aeJ5iCuL4uaNEyQza3/Sjn0C3NXeZV4zmEY=;Gy+SMwEb6h26LJLBP7yROA=="
 ---

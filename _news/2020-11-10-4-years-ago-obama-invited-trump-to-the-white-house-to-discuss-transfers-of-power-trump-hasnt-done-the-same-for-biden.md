@@ -1263,6 +1263,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden team seeks Covid-19 back-channels with transition locked out"
+    excerpt: "President-elect Joe Biden's transition team is back-channeling with governors, the private sector and the medical community to prepare its Covid-19 response, as the Trump administration continues to block Biden's access to federal agencies, sources close to the transition tell CNN.\n    \n"
+    publishedDateTime: 2020-11-13T12:55:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FEy38rxkEXo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/joe-biden-coronavirus-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/joe-biden-coronavirus-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109112817-biden-coronavirus-task-force-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Election officials, including federal government, contradict Trump's voter-fraud conspiracy theories"
     excerpt: "A group of national, state and private election officials said in a joint statement Thursday that there is no evidence of any voting system being compromised in the 2020 election despite President Donald Trump's deluge of election fraud conspiracies.\n    \n"
     publishedDateTime: 2020-11-13T00:54:35Z
@@ -1276,6 +1292,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009155342-01-voting-booth-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "President Trump's GOP wall of support is cracking"
+    excerpt: "As President Donald Trump's lawyers cling to their far-fetched schemes to overturn the presidential election, it was increasingly clear Thursday that cracks are forming in Trump's Republican wall of support, as more GOP members stepped forward to say that President-elect Joe Biden should receive national"
+    publishedDateTime: 2020-11-13T12:30:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BVm75EWG2ZU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/donald-trump-joe-biden-republicans-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/donald-trump-joe-biden-republicans-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112225210-trump-peor-presidente-camilo-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -3242,6 +3274,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/11/nyregion/00NYTrumpliability/00NYTrumpliability-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "‘Hipster Antitrust’ Comes for Joe Biden"
+    excerpt: "Progressives want the president-elect to move leftward on competition rules, but he pursue a more moderate path"
+    publishedDateTime: 2020-11-13T12:15:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/business/dealbook/biden-hipster-antitrust.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/business/dealbook/biden-hipster-antitrust.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/business/dealbook/biden-hipster-antitrust.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/business/13db-newsletter-antitrust/merlin_176350800_8a9869f2-9a63-43d5-862d-d3dcf0ac9d0e-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

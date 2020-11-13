@@ -3,8 +3,8 @@ category: news
 title: "Ron Klain: Kamala Harris Will Be \"The Last Voice Biden Hears From Before He Makes Important Decisions\""
 excerpt: "Democratic operative Ron Klain joined MSNBC host Lawrence O'Donnell on Thursday for his first interview as Joe Biden's Chief of Staff to discuss progress in the presidential transition process, the relationship between the president-elect and vice president-elect Kamala Harris,"
 publishedDateTime: 2020-11-13T06:57:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html#!"
 type: article
 quality: 64
 heat: -1
@@ -86,6 +86,6 @@ related:
       domain: washingtonexaminer.com
     quality: 55
 
-secured: "WVYcANYnX1WmSoDVb/u3gVAd8jp7cRfpAXU2mSWVu0pgnDmyyoVdpLJys/C0h9eslRoYuv7NzWSjDIcvg4pQdA6P1axCYQJL4i195bN7fZq6RPiLV/H0InpynpkFmQbo95R9cahwX1CrhAC/DVS0gPSOcZstAdVj2rfSTf6yz1g7aMUAf+8QyeDtSFqE0sB4J0tpm7uf2rmyAdguDDFwP6YddAQQiQJsg3f1X0WbcBxpeLqroMFGlA7J0OCnDMza1q+PHtkghoRfEFF5KgQHpsQfaLU1oCSoSaNz+9bIYssJFqE6ufhQXoc2vBZnMRoasAvVpQnh2cSIvPybfxeyUKZ3WkIvsnL4p/Yi0vi0BUUGA5P8QIZmYjpq5rqOKeKcKir/Gk1uOuldmVIcidQQe9MEbT759rGSmedmmp8Hzj71l8iGP0wl0k3jwh4BM98physBymEE2O486vyzC014Wde7NjHwAfSzo7YTFooi/6IEKJFAfuYqtjldI7kBfnI4oHMsNjafCIQqVgVCRbw8qw==;QyKHVFIgXARzkNmViNDQdQ=="
+secured: "HxgHqcSeTKJs0Z/qVzTV+MFjq+hBXCsc1i9EJNYc/xqS+OvwYIoaWs+A6A1qTe8/tewtCSwWdESYYY70Q+BjJPtkA5xSe8qrVVBkOahzqZHsRBEsccez/juUUe3vGa+qaYEYrgpiwGEgzRMCzz+T1p7/cu0cZYpbDjj48uGOoddZ5zDXGNr7HHrN8IkwzGo34LDRwJl8sf7xMDOnwbMZCPjp74e81FgbhVGe4DsMhXb3ZQCoxZayLyy9stSvNDztLWj1xygmWwibj2YlK3nemeFqo1bb7O6dByTvckrow0fS7LclmxcaffzWFA7SbrClHpzwW+YLGfT6Nt9QJkXTDgCXNLrxuKOQFMmev5vKFvQ=;4BfP78dh+luHN5jvi5n3kQ=="
 ---
 

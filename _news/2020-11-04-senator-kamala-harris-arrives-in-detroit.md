@@ -419,6 +419,22 @@ related:
         width: 3024
         height: 4032
         isCached: true
+  - title: "Who gets Kamala Harris’ Senate seat?"
+    excerpt: "Election Day is over, but California already is consumed with its next high-profile political contest — the competition to fill Kamala Harris’ soon-to-be-vacant U.S. Senate seat."
+    publishedDateTime: 2020-11-13T10:29:00Z
+    webUrl: "https://www.masslive.com/politics/2020/11/who-gets-kamala-harris-senate-seat.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/11/who-gets-kamala-harris-senate-seat.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/11/who-gets-kamala-harris-senate-seat.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W6IKLOILWZGLFHPEYPHJLWEH5U.jpg"
+        width: 3612
+        height: 2408
+        isCached: true
   - title: "Kamala Harris becomes first Black woman, South Asian elected vice president"
     excerpt: "Kamala Harris made history Saturday as the first Black woman elected as vice president of the United States, shattering barriers that have kept men — almost all of them white —"
     publishedDateTime: 2020-11-07T15:53:00Z

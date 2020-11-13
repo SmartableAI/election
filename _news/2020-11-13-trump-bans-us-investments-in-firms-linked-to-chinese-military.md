@@ -2,11 +2,11 @@
 category: news
 title: "Trump bans U.S. investments in firms linked to Chinese military"
 excerpt: "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U."
-publishedDateTime: 2020-11-13T04:20:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUSKBN27S2X3"
-webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUSKBN27S2X3"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2X3"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2X3"
+publishedDateTime: 2020-11-13T12:58:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3"
+webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2X3"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541018365&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1TB"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
     width: 817
     height: 545
     isCached: true
@@ -221,6 +221,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "rg5LMZUiyOn2umda0/un3P/8K0Lw1kXCctJiUkxBidSRXlzFtSge4AYiij810R1WaWrNPRkg4Dxd2b/sCCpsWJYUaQQWMgl8JmUSQiap54oCnqp7HVSnZnoyZyXymA7MJARIAskYxJ1pTzC5Rpx33cVwXCfq5vh8B4cStqD14/Xpnee60DXGjuA/RngF+U9iHKX4qBTjQqAfssP1e28Iix6wG4KRUXj5i7uiCizFhMz6Ni4i7oo+XeU3e5ZN4xGtT3iVmkBrU4B7UaZS+eCOx9Rzm5EspqWieyX02w4TsSMutY5/6pjqWY039mfjuV/ZaCy41wkUazWREdro0+JSwxjfmLhsRYKxr3DrIDpGFzFbY0RfXu0O0PVFQNa8Xw8FkiFQ1rj6Diur/h4DBXdDHYJf8Pan2iFXKly+tpc2zDYMYMumaFVtoc0psnYkZI+nk2zx8kBL4pJpwHONBNGQNeB+9/qfHM3/UH3az1kZT47x0V+ZUGX9tJMOJqzlYbvgmOK4CHkwdHx9onav7DOb4g==;yKz17ovbyA/GJFkZ3saEYg=="
+secured: "wyJMmbkFnT54aC5IpBix+NWH+omW4fdzqwQ/770SOFQiyZPJ5uGLyxyKa/hGI8Cjin8eUp55WThhWdaOJt0NXE5rboIwZpMlB0sUU+XmNR3rNCil3MtSDgQpzXazD3q465iEsi0bTNTf8MGGnwed2HpoAbGHz3RO0y+nw/v51mLVTstidnYn5nbqMfNst1NzdojWp4QUagYMDGZ+XednO5pkK2czOwD/yk+3C/tqx2oSaf+dWXar2XPDs8SbYPJMNaIXDagazkOkTtjMZxj4x19TJiSKrN0giwdaGlaFaayWiU4rOuO4JFsvrAoh4CBmXSvrL/BjyaMHe2GuN23lhV+0W2Ti6ZqJk1N+XAu4RQk=;kYtHwMdHpSO0Cqh0I0h7wQ=="
 ---
 

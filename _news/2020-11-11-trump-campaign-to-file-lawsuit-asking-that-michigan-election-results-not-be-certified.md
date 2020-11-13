@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "YouTube defends leaving up videos that falsely claim Trump won the election"
+    excerpt: "YouTube was responding to Bloomberg journalist Mark Bergen, who criticized what he claimed was YouTube's slow moderation of election videos."
+    publishedDateTime: 2020-11-13T12:34:00Z
+    webUrl: "https://www.businessinsider.com/youtube-election-trump-won-misinformation-videos-defends-leave-up-rules-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/youtube-election-trump-won-misinformation-videos-defends-leave-up-rules-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/youtube-election-trump-won-misinformation-videos-defends-leave-up-rules-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 138
+    images:
+      - url: "https://i.insider.com/5fae7cbd4652d400197442f6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Election 2020: A look at Trump campaign election lawsuits and where they stand"
     excerpt: "With votes still being counted in the 2020 election, here's a look at where the Trump campaign has filed lawsuits over ballot issues."
     publishedDateTime: 2020-11-06T20:40:00Z

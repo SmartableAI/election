@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "YouTube defends leaving up videos that falsely claim Trump won the election"
+    excerpt: "YouTube was responding to Bloomberg journalist Mark Bergen, who criticized what he claimed was YouTube's slow moderation of election videos."
+    publishedDateTime: 2020-11-13T12:34:00Z
+    webUrl: "https://www.businessinsider.com/youtube-election-trump-won-misinformation-videos-defends-leave-up-rules-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/youtube-election-trump-won-misinformation-videos-defends-leave-up-rules-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/youtube-election-trump-won-misinformation-videos-defends-leave-up-rules-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 138
+    images:
+      - url: "https://i.insider.com/5fae7cbd4652d400197442f6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump campaign to file lawsuit asking that Michigan election results not be certified"
     excerpt: "Republican President Donald Trump's campaign said on Tuesday it would file a lawsuit in Michigan requesting the results of the U.S. election in the state not be certified until it could be verified that votes were cast lawfully."
     publishedDateTime: 2020-11-10T23:46:00Z

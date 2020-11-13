@@ -463,6 +463,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's endgame comes into view"
+    excerpt: "In the real world, President-elect Joe Biden continues to hurtle toward his January 20 inauguration.\n    \n"
+    publishedDateTime: 2020-11-13T04:00:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FDzjaGI737A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/what-matters-november-12/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/what-matters-november-12/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105185402-04-trump-presser-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump is playing up China's threat to the 2020 election. But the evidence shows, Russia is the real danger"
     excerpt: "For months, the Trump administration has been warning of the dangers of political interference by China in the US election.\n    \n"
     publishedDateTime: 2020-10-24T01:17:35Z
@@ -990,6 +1006,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/f_mo_mcsally_trump_201029.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "With Senate at risk, Trump focuses on himself"
+    excerpt: "(CNN)After President Donald Trump took the controversial step of commuting the jail sentence of his longtime friend Roger Stone, Sen. Susan Collins was again stuck between openly disagreeing with ..."
+    publishedDateTime: 2020-10-30T04:50:00Z
+    webUrl: "https://www.cnn.com/2020/10/29/politics/donald-trump-senate-election-2020/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/donald-trump-senate-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/donald-trump-senate-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013163336-martha-mcsally-donald-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "A view of a packed Trump rally"
     excerpt: "Biden is Michigan campaigning with former President Barack Obama, at two events while Trump has multiple rallies in Pennsylvania. MASSIVE crowd in Butler, Pennsylvania for President ⁦ @realDonaldTrump ⁩‼️ ZOOM IN ⬇️ 👀 pic."

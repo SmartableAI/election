@@ -1839,6 +1839,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden faces repair job at U.S. spy agencies after tumult under Trump"
+    excerpt: "Shortly after comparing U.S. intelligence agencies to Nazis, Donald Trump tried to mend fences on his first full day as president."
+    publishedDateTime: 2020-11-13T11:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-intelligence-idUSKBN27T1C9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T1C9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1C9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541099268&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0Q0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump grasps at a new set of straws: Computers rigged his election loss"
     excerpt: "President Trump has transitioned from insisting that he will win the 2020 presidential election once all the votes are counted (he will not) to claiming that the results were muddied by rampant voter fraud (they were not) to a new set of claims: The results were altered by the use of computers and perhaps,"
     publishedDateTime: 2020-11-13T02:31:00Z
@@ -4499,6 +4515,22 @@ related:
         width: 785
         height: 545
         isCached: true
+  - title: "Biden has room on health care, though limited by Congress"
+    excerpt: "President-elect Joe Biden is unlikely to get sweeping health care changes through a closely divided Congress, but there’s a menu of narrower actions he can choose from to make a tangible difference on"
+    publishedDateTime: 2020-11-13T05:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/health_care/biden-has-room-on-health-care-though-limited-by-congress/2020/11/13/7a896864-2572-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/health_care/biden-has-room-on-health-care-though-limited-by-congress/2020/11/13/7a896864-2572-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/health_care/biden-has-room-on-health-care-though-limited-by-congress/2020/11/13/7a896864-2572-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "China congratulates Biden, but few US policy changes seen"
     excerpt: "BEIJING — China on Friday became one of the last major countries to congratulate U.S. President-elect Joe Biden, who is expected to make few changes to U.S. policy in conflicts with Beijing over trade, technology and security. Follow the latest on ..."
     publishedDateTime: 2020-11-13T08:19:00Z
@@ -4562,6 +4594,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_francisbidenclimate_111220getty.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "The great knights of Donald Trump and their quest for the Voter Fraud"
+    excerpt: "Lo, it was a chill day of November and the wind did blow from the north, and then did President Trump gather all his great champions to the Resolute Table, for he waxed wroth. And the lieutenant governor of Texas did gather,"
+    publishedDateTime: 2020-11-13T03:22:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/11/12/great-knights-donald-trump-their-quest-voter-fraud/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/12/great-knights-donald-trump-their-quest-voter-fraud/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/12/great-knights-donald-trump-their-quest-voter-fraud/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TQZRW2CM5QI6VFT34B2NGAWH2Q.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
@@ -4861,6 +4909,22 @@ related:
       - url: "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden increases lead in Arizona, ending Trump's hopes that late vote count could put state in his column"
+    excerpt: "Biden leads Trump by 11,434 votes in the statewide tally – a margin greater than the estimated number of ballots remaining to be counted in Arizona."
+    publishedDateTime: 2020-11-13T11:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/13/biden-lead-over-trump-arizona-insurmountable/6276158002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6276158002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276158002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/PDEM/adc86d92-0f81-4e29-8a39-a7952ca2222a-AP20315761861175.jpg?auto=webp&crop=5555,3125,x0,y282&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
     excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
@@ -5764,6 +5828,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5440a64b-e817-4b6b-9e73-4aab249e7540_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden increases lead in Arizona, ending Trump's hopes that continuing vote count would put state in his column"
+    excerpt: "NBC News, CNN, CBS, New York Times and Washington Post called Arizona for President-elect Joe Biden on Thursday night."
+    publishedDateTime: 2020-11-13T11:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/13/president-elect-joe-biden-lead-arizona-now-greater-than-number-ballots-remaining-tally/6275382002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6275382002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6275382002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/PDEM/adc86d92-0f81-4e29-8a39-a7952ca2222a-AP20315761861175.jpg?auto=webp&crop=5555,3125,x0,y282&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
@@ -7013,6 +7093,17 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Biden win called a 'restoration of sanity' for women's rights"
+    excerpt: "With the election of Kamala Harris as U.S. vice president shattering a glass ceiling for women in political office, supporters are setting their sights on a fresh push for women's rights and equality under the presidency of Joe Biden."
+    publishedDateTime: 2020-11-13T03:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-women-rights-election-trfn-idUSKBN27S3AO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S3AO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S3AO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "GOP Sen. Lankford: Biden should receive briefings"
     excerpt: "Republican Senator James Lankford of Oklahoma says it's time for President-elect Joe Biden to get the intelligence briefings traditionally provided during a presidential transition. And he says he'll step in if that doesn't begin by Friday."
     publishedDateTime: 2020-11-12T20:33:00Z
@@ -7054,6 +7145,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/36e6f39d-cfd7-4def-a151-e339cea48a4d_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tony Blair: Very obvious Joe Biden will be president"
+    excerpt: "The general consensus, especially with the statement from US election officials, is that Joe Biden will be the next US president, the former UK Prime Minister Tony Blair has said. He told BBC World News: \"Even though people are saying isn't the present situation strange and unprecedented and so on,"
+    publishedDateTime: 2020-11-13T12:32:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-54933213"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08yc3my.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Trump could buck US tradition of conceding defeat"
     excerpt: "For generations, losing U.S. presidential candidates have conceded to their opponents after bruising elections. President Donald Trump could be the first presidential candidate in modern times to ignore a tradition that supports peaceful transitions."

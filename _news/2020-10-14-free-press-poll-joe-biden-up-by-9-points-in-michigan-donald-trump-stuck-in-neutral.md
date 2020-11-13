@@ -203,6 +203,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "China finally congratulates Joe Biden, Kamala Harris on election victory"
+    excerpt: "Beijing sent belated felicitations after Biden spoke with the leaders of U.S. allies Japan, South Korea and Australia."
+    publishedDateTime: 2020-11-13T10:05:00Z
+    webUrl: "https://www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 154
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DAONIORFQ4I6XJUIKKMK2XKYBI.jpg&w=1440"
+        width: 1440
+        height: 1049
+        isCached: true
   - title: "Mike Pence's Interruptions During VP Debate A 'Big Win' for Biden-Harris Campaign, Experts Say"
     excerpt: "The Trump campaign already had a major problem with women voters when Mike Pence strode onto the stage on Wednesday night to face Kamala Harris. His performance only made it worse. While more ..."
     publishedDateTime: 2020-10-08T19:07:00Z

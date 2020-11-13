@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/business/2020/11/12/fed-shelton-senat
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/?outputType=amp"
 type: article
 quality: 112
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,17 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Senate could vote on Trump's Fed nominees next week: Bloomberg News"
-    excerpt: "The Republican leadership at the U.S. Senate has discussed holding a vote on U.S. President Donald Trump’s nominees to the Federal Reserve as early as next week, Bloomberg News reported Thursday, citing Republican Senator John Cornyn."
-    publishedDateTime: 2020-11-13T00:11:00Z
-    webUrl: "https://www.reuters.com/article/usa-fed-nominees/senate-could-vote-on-trumps-fed-nominees-next-week-bloomberg-news-idUSL1N2HY2Q5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HY2Q5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HY2Q5"
+  - title: "Sheldon Adelson’s Las Vegas Review-Journal Tells Trump To Stop Delaying ‘The Inevitable’"
+    excerpt: "The billionaire casino tycoon was one of Trump’s biggest donors ahead of the presidential election. Now the newspaper he owns is saying that Trump should concede."
+    publishedDateTime: 2020-11-13T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/"
+    ampWebUrl: "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Forbes
+      domain: forbes.com
+    quality: 116
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fadfccc6304390c09f137af%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "4mUkJhsL4Cqjn1dtw7d6ihoenet8FAMgWyYBK42NUKVBMzXUs2HwV0qInIC1mxesToaYy2GQ7X8ffj7CM+W+bm0NPw74A4eHeh0wArqrzorHLVRtAXC2HFM5fAgUaoyxWm0NrjD55PLvkhBcyRDXZ1NyDDZ4oFShZOKoRl/lSHL2bvlj9d/1cNc+ZU4VodM23zpjivaRKleVoX6UbYd2zVHfZKeXlTE52chXFoSpheS2F+IIUHbVcVh1LQY4iXO3Q6hgWlGKc3JJdfYXHD1d72iEUmMT6viPcbC9izhiNmH8htLVmdfOecqklJRto+Ck0osdNUo+Fytap4Mds+E2wJN45CrmQrKE29CD8Xuh36A=;yG/ah1UwB0HC7FdYxuYvGg=="
 ---

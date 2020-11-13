@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-05-donald-trump-jr-among-names-floated-for-open-pennsylvania-senate-seat-report.md",
+      "title": "Donald Trump Jr. Among Names Floated for Open Pennsylvania Senate Seat [REPORT]",
+      "excerpt": "Media reports are conflicting about whether or not Donald Trump Jr.'s name is being considered for a 2022 Pennsylvania run.",
+      "sourceUrl": null,
+      "webUrl": "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/",
+      "originalUrl": "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228190343-e1601850280332.jpg?quality=65&strip=all",
+          "width": 3970,
+          "height": 2240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/",
+      "publishedDateTime": "2020-10-04T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-trumps-infection-shows-officials-must-take-virus-seriously-germanys-altmaier.md",
       "title": "Trump's infection shows officials must take virus seriously - Germany's Altmaier",
       "excerpt": "German Economy Minister Peter Altmaier said on Sunday that U.S. President Donald Trump's coronavirus infection showed that politicians must take the COVID-19 pandemic more seriously and stop minimizing its health risks.",

@@ -208,6 +208,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "China finally congratulates Joe Biden, Kamala Harris on election victory"
+    excerpt: "Beijing sent belated felicitations after Biden spoke with the leaders of U.S. allies Japan, South Korea and Australia."
+    publishedDateTime: 2020-11-13T10:05:00Z
+    webUrl: "https://www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 154
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DAONIORFQ4I6XJUIKKMK2XKYBI.jpg&w=1440"
+        width: 1440
+        height: 1049
+        isCached: true
   - title: "After Biden-Harris speeches, CNN's Don Lemon expresses emotional relief, rips 'PTSD' of Trump era"
     excerpt: "CNN's Don Lemon felt relief at news of apparent Biden election win, saying marginalized people have suffered 'PTSD,' 'whiplash' under President Trump."
     publishedDateTime: 2020-11-08T07:49:00Z
