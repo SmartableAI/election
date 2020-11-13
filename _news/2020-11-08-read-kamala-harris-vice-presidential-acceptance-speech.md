@@ -586,6 +586,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "From pearl necklaces to sneakers: 5 Kamala Harris style tips we should ALL incorporate in our lives"
+    excerpt: "Wardrobe stylist and author of “The Creatives’ Closet,” Monica Barnett, shares fashion tips inspired by our next vice president."
+    publishedDateTime: 2020-11-13T16:31:00Z
+    webUrl: "https://www.nbcnews.com/know-your-value/feature/pearl-necklaces-sneakers-5-kamala-harris-style-tips-we-should-ncna1247706"
+    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1247706"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1247706"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 121
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_46/3428176/201113-kamala-harris-converse-orlando-se-1112a_e62187753648eb7aa5c20393c25e240d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "'This is our country. It is for all of us': CNBC's Sharon Epperson on what Kamala Harris' victory means for women of color"
     excerpt: "\"The election of Sen. Kamala Harris as vice president of the United States means my daughter sees her future,\" writes CNBC’s senior personal finance correspondent."
     publishedDateTime: 2020-11-09T19:15:00Z

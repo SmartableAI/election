@@ -302,6 +302,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Law Firm Stops Representing Trump Campaign in Pennsylvania Suit"
+    excerpt: "Porter Wright said in a court filing that it would no longer represent the campaign in a federal lawsuit alleging widespread voter irregularities."
+    publishedDateTime: 2020-11-13T16:58:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/business/13porterwright/13porterwright-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Melania Trump slams former friend who wrote tell-all: 'She hardly knew me'"
     excerpt: "The first lady blasted Stephanie Winston Wolkoff's book as \"idle gossip\" and said she needs to look \"within\" at \"her own dishonest behavior.\""
     publishedDateTime: 2020-10-16T17:20:00Z

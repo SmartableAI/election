@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvani
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
 type: article
 quality: 175
-heat: 635
+heat: 655
 published: true
 
 provider:
@@ -284,6 +284,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/06/us/politics/06pa-trump-voters1/06pa-trump-voters1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Law Firm Stops Representing Trump Campaign in Pennsylvania Suit"
+    excerpt: "Porter Wright said in a court filing that it would no longer represent the campaign in a federal lawsuit alleging widespread voter irregularities."
+    publishedDateTime: 2020-11-13T16:58:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/business/13porterwright/13porterwright-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

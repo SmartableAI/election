@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-speech-mandate-trump-undecide
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
 type: article
 quality: 205
-heat: 2305
+heat: 2325
 published: true
 
 provider:
@@ -1416,6 +1416,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-257923/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "China Congratulates Joe Biden on Election Victory"
+    excerpt: "China congratulated U.S. President-elect Joe Biden and Vice President-elect Kamala Harris, becoming one of the last major powers to join an international chorus of well-wishes for their election victory."
+    publishedDateTime: 2020-11-13T16:23:00Z
+    webUrl: "https://www.wsj.com/articles/china-congratulates-joe-biden-on-election-victory-11605266618"
+    ampWebUrl: "https://www.wsj.com/amp/articles/china-congratulates-joe-biden-on-election-victory-11605266618"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-congratulates-joe-biden-on-election-victory-11605266618"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-259547/social"
         width: 1280
         height: 640
         isCached: true

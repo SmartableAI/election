@@ -304,6 +304,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Law Firm Stops Representing Trump Campaign in Pennsylvania Suit"
+    excerpt: "Porter Wright said in a court filing that it would no longer represent the campaign in a federal lawsuit alleging widespread voter irregularities."
+    publishedDateTime: 2020-11-13T16:58:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/business/13porterwright/13porterwright-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Donald Trump Is Losing His Touch. So Is the TV Producer Who Shaped His Image."
     excerpt: "Mark Burnett helped turn Donald Trump into a national figure with “The Apprentice.” But since 2016, his impact “has kind of gone bust.”"
     publishedDateTime: 2020-10-19T00:07:00Z

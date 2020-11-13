@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
 type: article
 quality: 197
-heat: 937
+heat: 957
 published: true
 
 provider:
@@ -575,6 +575,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "From pearl necklaces to sneakers: 5 Kamala Harris style tips we should ALL incorporate in our lives"
+    excerpt: "Wardrobe stylist and author of “The Creatives’ Closet,” Monica Barnett, shares fashion tips inspired by our next vice president."
+    publishedDateTime: 2020-11-13T16:31:00Z
+    webUrl: "https://www.nbcnews.com/know-your-value/feature/pearl-necklaces-sneakers-5-kamala-harris-style-tips-we-should-ncna1247706"
+    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1247706"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1247706"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 121
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_46/3428176/201113-kamala-harris-converse-orlando-se-1112a_e62187753648eb7aa5c20393c25e240d.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Read Kamala Harris’ Vice-Presidential Acceptance Speech"
     excerpt: "In her remarks Saturday night, Vice President-elect Kamala Harris acknowledged “all the women who have worked to secure and protect the right to vote” and said: “And I stand on their shoulders.”"

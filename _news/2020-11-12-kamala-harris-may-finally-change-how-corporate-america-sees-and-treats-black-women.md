@@ -71,6 +71,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "5 Howard University Women on Kamala Harris' Historic Election and the Impact of HBCUs"
+    excerpt: "Norwood attended a basketball game at her alma mater, Howard University, when Sen. Kamala Harris, who at the time had just launched her 2020 presidential campaign, greeted the crowd. \"It was so exciting to see her there,"
+    publishedDateTime: 2020-11-13T15:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/5-howard-university-women-on-kamala-harris-historic-election-and-the-impact-of-hbcus/2723374/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/5-howard-university-women-on-kamala-harris-historic-election-and-the-impact-of-hbcus/2723374/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/5-howard-university-women-on-kamala-harris-historic-election-and-the-impact-of-hbcus/2723374/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 83
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/106785969-1604799679242-106785969-16047995722020-11-08t013633z_969478698_hp1egb804gxkc_rtrmadp_0_usa-election-biden.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris is the main event for millions of women in America and around the world"
     excerpt: "I predicted 10 years ago that Harris would be a force in national life. She is now inspiring many women to imagine new possibilities for themselves."
     publishedDateTime: 2020-11-11T10:13:00Z

@@ -800,6 +800,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Law firm attempting to block Biden's win in Pennsylvania leaves controversial Trump campaign case"
+    excerpt: "A law firm representing the President's campaign in a controversial and long-shot attempt to block Pennsylvania's popular vote for Joe Biden is leaving the case.\n    \n"
+    publishedDateTime: 2020-11-13T14:52:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mGM-P_wvooc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/law-firm-biden-trump-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/law-firm-biden-trump-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106115842-02-election-counting-pennsylvania-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Bolton: Trump trying to set up con on his own supporters"
     excerpt: "CNN's Jake Tapper speaks with former national security adviser John Bolton about President Donald Trump's rhetoric around when mail-in ballots should be counted and Trump's threats of legal action after polls close on Election Day.\n    \n"
     publishedDateTime: 2020-11-02T22:49:54Z
@@ -1645,6 +1661,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110094018-01-donald-trump-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Cindy McCain says her husband would have wanted Biden recognized as President-elect"
+    excerpt: "The late Arizona Republican Sen. John McCain would have wanted Joe Biden to be recognized and supported as President-elect, his widow Cindy McCain said Friday, as President Donald Trump and other GOP leaders have largely refused to acknowledge the results of the election.\n    \n"
+    publishedDateTime: 2020-11-13T15:35:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PZOuoceqM_o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/cindy-mccain-joe-biden-supported-president-elect-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/cindy-mccain-joe-biden-supported-president-elect-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109214113-cindy-mccain-clip-ac360-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -3644,6 +3676,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "cjg0dNKDx9E+V9Gd+TpZNsxVjBJwJd6V9ba7u4IYeuoubI2x/Bm2ClyzxcpOAcBkqgitaXGMMtG8IckKBpeFrRSA9kA8TISxc/h34rb5E7OtImde/zFynMRlFXAhqh0wtoZhCLqov7qCb2C4bc4SRXjq77Y9zPzmdblRs2MsF/zThTv9F7o+RelMyM+B2FwgtjPjUScN0se3Nk5RHViUvEg8t8Az/XpidQ0hr8V8lQOsK5M4HJ4ULFACe8kSjTZFniavxn0Qp1gfmN678powfdmJu/2Doxm1GfaWvG5JheYl2mpanglNCPkRCuy+OnuOxLC3Ty/yH5+JPx/YKkxbnfp6Ti5a+ncNW5ZYtwVWgFY=;oQVkZbE3ssLAV2Yp3L8uUw=="
+secured: "8MMCwrZV9LghL/B02cnMJA6zAm7MLO4MAMJZhOqeQ6Br2AV+50ohPN3477W1XXx9lA7dg+sRWFAsfPH2L9HYTSk7ZXaB/FB76YR7wjAD3JASla+lTSWE1GLDAbMApbVRikzolSlaXVRkwOViH3wwsAJ89ZbwR3RQYlM34MRopxih6UPXSzoj5u0tlhNs9xsA0qxhPamlrgftGsGMZNa7zqhDeXL6nzgxSCBy00PYTBA8CVu5uWxVFUDL2MauU0M/hQQrDinjIBkLHZfHGdlwdECg7TUCYz3NGn69F8AGvJ75oGEEiMvOVJQwjynioZUKBo5HIGPZ4bif+XW5KVV2M9mV7FqL2vAyezBPxk0llqUf7nPfUyppEuBoWpIZMYcgVb/UHGSb42dJfLFAHqXJCJUMof4PWxtzzDfx8Qc0Q4IuSfQRkvROGVQb2NzghadHtYCSYWvlbqpbZjt3of8J+hNCzYKXoy9Wi9DNI7/OEhK16de/nWsbR29pufkV1VBeztJA675/zz74RtMEc/z6IQ==;LRAvCqKU3U9ouSm9rN2N+g=="
 ---
 

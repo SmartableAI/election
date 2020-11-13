@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact checking the baseless claim that millions of Trump votes were deleted"
+    excerpt: "A human error that briefly led to incorrect election results in a Michigan county has spiraled into a sprawling, baseless conspiracy theory suggesting that glitches in widely-used voting software led to millions of miscast ballots.\n    \n"
+    publishedDateTime: 2020-11-13T15:59:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ubxcctV7HyY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/dominion-voting-false-claim-delete-trump-votes-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/dominion-voting-false-claim-delete-trump-votes-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111113617-ballot-counting-georgia-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Growing Discomfort at Law Firms Representing Trump in Election Lawsuits"
     excerpt: "Some lawyers at Jones Day and Porter Wright, which have filed suits about the 2020 vote, said they were worried about undermining the electoral system."
     publishedDateTime: 2020-11-09T22:52:00Z

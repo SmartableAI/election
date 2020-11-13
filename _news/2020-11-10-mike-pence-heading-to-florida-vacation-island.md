@@ -2,26 +2,26 @@
 category: news
 title: "Mike Pence heading to Florida vacation island"
 excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
-publishedDateTime: 2020-11-09T20:09:00Z
-originalUrl: "https://www.kron4.com/news/national/mike-pence-heading-to-florida-vacation-island/"
-webUrl: "https://www.kron4.com/news/national/mike-pence-heading-to-florida-vacation-island/"
-ampWebUrl: "https://www.kron4.com/news/national/mike-pence-heading-to-florida-vacation-island/amp/"
-cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/national/mike-pence-heading-to-florida-vacation-island/amp/"
+publishedDateTime: 2020-11-09T17:31:00Z
+originalUrl: "https://www.wwlp.com/news/mike-pence-heading-to-florida-vacation-island/"
+webUrl: "https://www.wwlp.com/news/mike-pence-heading-to-florida-vacation-island/"
+ampWebUrl: "https://www.wwlp.com/news/mike-pence-heading-to-florida-vacation-island/amp/"
+cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/mike-pence-heading-to-florida-vacation-island/amp/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: KRON4
-  domain: kron4.com
+  name: WWLP
+  domain: wwlp.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.kron4.com/wp-content/uploads/sites/11/2020/11/pence2b.jpg?w=1280"
+  - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2020/11/pence2b.jpg?w=1280"
     width: 1200
     height: 630
     isCached: true
@@ -451,6 +451,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "BnPOnF56ywVWqUFjEfUiDmZWkm3Xwh/YTam70z01edcJ3YqiUE/Ov6SK+oily0eBu65z+zQMKNQYfqEbDIzweWCZnHgMa0rmIcqyOyfymKXAE6+4GeM+gwTkoYx9CHPfyPFAFgWnK90wZhwQWlUHMUUV8MgQV/7afY/UXU4N3nT6fSMEM5ajzHkKIpSmKvUNCrgTK4SdF6OESZQUhEc7/UmhBwktm6AOQ2ANNF+LRNzFO5Q33FbNstm+mdeUVRC6aBjM+6Kcv1xBSQx5wkOeKBfnsHYITReVTKxtwJDzjo4IR+hmcSF69X1kArghLFqWeH/HqAKKvrd0ORbOyJ/i2Y2Hrhk1Qs8ffqpr1+1R2+A=;NNG1vCrpQCdWOruiFFOAWg=="
+secured: "qUQyDXn67cYrT/lBIoNcYEmbQyNAJ3WsPg4+cRjqTl9sV5dTP5UQ2HMDxVsyUUyijnmuTu3kbqhj7bkL8FEaI/niqj6olTYQ4ogCYkiJbME2yfpcxdidNcSefndHZWzGPu4uGpoXiOl/yuT+U0WOmS9WFX+R2FtyvMIKYcZEXNrtzFrtHx15lR4IcNnpN/wVDx+8mYkH3GbYJYSyswknHDf5tnt8Rf2eOEoEt1ZJNQmUPPfeafqj7vcpuH/WfbRHRGWEzQsAy49kkHLRPJj3nFiofh8/4Tmw8BsHHvnUOS4Cf++1Iq3ItOo9nG09OccrIJuZl1bZue1Dwfh6v0N1Pl7XXZDRAFYu3fkwdH0z8hI=;CVQs3YurRTYJEcwY9YXmUg=="
 ---
 

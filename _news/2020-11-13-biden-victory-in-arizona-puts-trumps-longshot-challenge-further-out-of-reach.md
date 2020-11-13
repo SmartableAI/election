@@ -2799,6 +2799,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Explainer: Why Trump's lawsuits are unlikely to change the outcome of the election"
+    excerpt: "U.S. President Donald Trump's litigation campaign to discredit President-elect Joe Biden's victory is very unlikely to change the outcome of the election and is mostly about politics and fundraising,"
+    publishedDateTime: 2020-11-13T16:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuits-merits-explaine-idUSKBN27T1D1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T1D1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1D1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541099450&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0QC"
+        width: 748
+        height: 545
+        isCached: true
   - title: "Biden Receives More Than Twice As Much Money From Billionaires As Trump In Final Push"
     excerpt: "Joe Biden picked up contributions from new donors like Yahoo cofounder Jerry Yang and Palantir chief Alex Karp. Meanwhile, old pals of Donald Trump, like Phil Ruffin and Andy Beal, sent his reelection committees big checks."
     publishedDateTime: 2020-10-25T00:28:00Z
@@ -3137,6 +3153,22 @@ related:
     quality: 130
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/1f2c0738-906c-49ec-b07b-e3b527269879-XXX_20201107_Biden_Election_Night_APS_USA_035.JPG?auto=webp&crop=4202,2364,x160,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Obama says he's 'troubled' Republicans are backing Trump in his refusal to concede to Biden"
+    excerpt: "Barack Obama says Donald Trump's refusal to concede and Republicans' support of his grievances over the outcome are causing \"damage\" to the nation."
+    publishedDateTime: 2020-11-13T16:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/13/obama-troubled-gop-backing-trump-refusal-concede/6276474002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6276474002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276474002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/06/01/USAT/195abe67-14bf-4792-8ec0-a292567ea8d6-AFP_AFP_1RL4N1.JPG?auto=webp&crop=4499,2531,x1,y6&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -8851,6 +8883,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "NNXm43PF7MMwfGQIx8MKtjhecoYkcFazIYxx/ysK4Zyf7DhwBHB7JAUHX/XdrxCuF2y8jjkM2RjPGR53DLYaGdaMYAQjv2oXgknfZwStwBHXFeXbS3oM+SZE7DuS3rHBmpz1YkWlXq20axkV1Jsb61JUPSmPN1cms2AQCK5GutbO+/qnx+Zu3Owq24HNd3anQKwYFq6suiqQieroDC8FK3XYNxCMi5BMg6GEmlsmXqME0ylagMIZHqZOP2Ifpj0PYLMO3ii7pjsSA5yHc17zMFARCXfMJalxorP2O1Tb/BgeTRoclW58KV81/dHWLjoK8a8UA1USD6Ug0tFETPWyvl0VDRI1MGQn+Q3+Io1YmlQ=;gEkw3Jsw0QDqhxiBMIu7gw=="
+secured: "H5InIVPe8eRCH2LwRKnpCd9h4lQGMA7R/G00rzsmOVypE2t/y1uDwI+TCI0JqoIzVIEtJvNUDaTgzCJbNZ2b7G4ou7ujwLKJ3PD6wBSKNwCJbZo8KBMsykCCE1FfsWRZOHOEbVF6sHTGXjaZmdUt7GkGCslV5O1jDmJKaWAx5m5v2NgCLJfqlAXYW88wQx3yzvZr8DAmuEDb5nrulFaPXhwXw4miP0ZxC/ZFcuXuapvtlCMqgGfnIIMCCvGmmi3W4Kar6Ffdy9nyGPcciCdFa9zZO7sxlX2If/DOMZ0VM9aZvfXh5SaKLCBo7dM5BZaoSo4cEQ94qoG9ivGrrnv43ehdTq8gSs5wz24y7YzESs9QzSAGwAz4i2T/zzRfp3bd7tY2l+bynUuSM7GVxcz3HZxdTHEQmgG8fhLPywoZhKjvnLGIbKR59w/SK7gatjKIwKWb+UNp7qlnE3FWzpGStkgKYr2kVyq3iKHV7wtSoaMTHz2+p1GgN3dNd5qPUQYhgY5RTCq6Cc9xxFDeO40VXw==;T01vdqyngHi0A1R0twZ43w=="
 ---
 

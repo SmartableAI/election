@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B143"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B143"
 type: article
 quality: 121
-heat: 221
+heat: 241
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://i.insider.com/5f96d54b4743a3001216b920?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Amy Coney Barrett's confirmation is the start of Pence's accomplishment of a lifetime"
+    excerpt: "When President Donald Trump and Vice President Mike Pence attended a gathering of social and religious conservatives during the 2016 campaign for the White House, both tried to woo the voting bloc."
+    publishedDateTime: 2020-10-29T10:32:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/27/amy-coney-barrett-supreme-court-confirmation-abortion-mike-pence/5991035002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5991035002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5991035002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/d94c5929-c678-47d5-9e04-569b3d8d692d-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Evangelicals went all in on Trump and he played them like ‘suckers’: ex-White House advisor"
     excerpt: "In a column for the Atlantic, a former adviser to Republican President George W. Bush made the charge that evangelical Christians sold their souls to support Donald Trump while he secretly held them in contempt and used them to advance his political ambitions."

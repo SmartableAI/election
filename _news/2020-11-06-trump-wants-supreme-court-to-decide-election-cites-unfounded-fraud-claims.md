@@ -1432,6 +1432,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "China Congratulates Joe Biden on Election Victory"
+    excerpt: "China congratulated U.S. President-elect Joe Biden and Vice President-elect Kamala Harris, becoming one of the last major powers to join an international chorus of well-wishes for their election victory."
+    publishedDateTime: 2020-11-13T16:23:00Z
+    webUrl: "https://www.wsj.com/articles/china-congratulates-joe-biden-on-election-victory-11605266618"
+    ampWebUrl: "https://www.wsj.com/amp/articles/china-congratulates-joe-biden-on-election-victory-11605266618"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-congratulates-joe-biden-on-election-victory-11605266618"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-259547/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Ex-ESPN host Jemele Hill says 'it's on White people' if Trump wins reelection: 'No one else'"
     excerpt: "ESPN host Jemele Hill declared Tuesday that only White people are to blame if President Trump defeats Democratic nominee Joe Biden."
     publishedDateTime: 2020-11-04T04:44:00Z

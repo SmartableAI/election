@@ -384,17 +384,17 @@ related:
         isCached: true
   - title: "Mike Pence heading to Florida vacation island"
     excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to"
-    publishedDateTime: 2020-11-09T20:09:00Z
-    webUrl: "https://www.kron4.com/news/national/mike-pence-heading-to-florida-vacation-island/"
-    ampWebUrl: "https://www.kron4.com/news/national/mike-pence-heading-to-florida-vacation-island/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/national/mike-pence-heading-to-florida-vacation-island/amp/"
+    publishedDateTime: 2020-11-09T17:31:00Z
+    webUrl: "https://www.wwlp.com/news/mike-pence-heading-to-florida-vacation-island/"
+    ampWebUrl: "https://www.wwlp.com/news/mike-pence-heading-to-florida-vacation-island/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/mike-pence-heading-to-florida-vacation-island/amp/"
     type: article
     provider:
-      name: KRON4
-      domain: kron4.com
+      name: WWLP
+      domain: wwlp.com
     quality: 75
     images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2020/11/pence2b.jpg?w=1280"
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2020/11/pence2b.jpg?w=1280"
         width: 1200
         height: 630
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/jared-kushner-donald-trump-concession/index.html"
 type: article
 quality: 190
-heat: 350
+heat: 370
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111183926-john-brenan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact checking the baseless claim that millions of Trump votes were deleted"
+    excerpt: "A human error that briefly led to incorrect election results in a Michigan county has spiraled into a sprawling, baseless conspiracy theory suggesting that glitches in widely-used voting software led to millions of miscast ballots.\n    \n"
+    publishedDateTime: 2020-11-13T15:59:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ubxcctV7HyY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/dominion-voting-false-claim-delete-trump-votes-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/dominion-voting-false-claim-delete-trump-votes-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111113617-ballot-counting-georgia-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
