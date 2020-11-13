@@ -215,6 +215,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Trump's kids are said to be split over whether he should concede, with Ivanka looking for an off-ramp while Eric and Don Jr. want to fight to the end"
+    excerpt: "Ivanka Trump, Donald Trump Jr. and Eric Trump have different opinions on whether Trump should concede the presidential election, CNN said."
+    publishedDateTime: 2020-11-13T10:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5fae52c91e8d5000198134bb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "dJkOyyH87prSbs+KPnt0NqJAoMpyjK7NphXdeI0dw8Z3n1C0RDC95WFD90WSiAtLcEZ/JUzyWvsTbIYfdrNh64/gaFpzLfLibf9Fy5Qi0/IqWHPWW7+4JxBNDJAh59iILRiZtyr3kPNnle8RLMUHVR4Zb84QXjyg4nE9CVw5uZnblXOQmlZNinuIvtQObtNIvYTP8g0jGf/DgBJtOZRqkoho3r+ujrTWc7IdF2w9VtrmaN6Atn8ptU12+QTccWAaOrzZzR31ehnLZVFLsQfKIf/x4ChAhGsVjPAuQitTKmnnTamiyXOyzPFHGUG1eouLNq1oZB6kIYyAMnUSnjaavYBtHETanEUu91yw6kyS8hJm7dgXzpDhkfWyKXcw+YFru9hgx3RK2vD2QKV9tF/dwHdMnK+wNOIJotQSyTWcp9Ik4Y3QE+4i3yLbI1/K15MiJYwT9p+Gff1MKIn711resDhBHjRx2FYm95HDJgVIM1sHoqDsgpin+DK/+Qmcx7bbTNFFiK+tWj4FJPltyrYtUw==;nSygjaS3s9N/1Rls3E858w=="
 ---

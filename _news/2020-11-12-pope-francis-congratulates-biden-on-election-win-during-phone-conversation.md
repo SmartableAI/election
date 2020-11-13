@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-pho
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
 type: article
 quality: 188
-heat: 588
+heat: 608
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38efdbc8-5532-4aa4-8110-6895c604cb59/7f9a67ed-ea23-4f99-a30e-fed73ec9286f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Is Biden open to appointing socialists to high administration positions?"
+    excerpt: "As rumors buzz about who will top President-elect Joe Biden’s list of administration officials after his transition crew announced “agency review teams” this week, some are wondering if there will be room for notable far-left lawmakers in the Biden cabinet. "
+    publishedDateTime: 2020-11-13T10:00:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BitPTrwGFeU/biden-appointing-socialists-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-appointing-socialists-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-appointing-socialists-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden's inauguration during COVID-19: What the January event could look like"
     excerpt: "Construction is already underway in Washington, D.C., in preparation for the presidential inauguration on Jan. 20, 2021. The date is set by the U.S. Constitution's 20th Amendment."

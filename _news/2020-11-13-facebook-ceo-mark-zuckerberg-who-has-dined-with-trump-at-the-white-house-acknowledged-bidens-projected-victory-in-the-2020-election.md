@@ -4497,6 +4497,22 @@ related:
         width: 785
         height: 545
         isCached: true
+  - title: "China congratulates Biden, but few US policy changes seen"
+    excerpt: "BEIJING — China on Friday became one of the last major countries to congratulate U.S. President-elect Joe Biden, who is expected to make few changes to U.S. policy in conflicts with Beijing over trade, technology and security. Follow the latest on ..."
+    publishedDateTime: 2020-11-13T08:19:00Z
+    webUrl: "https://www.washingtonpost.com/world/asia_pacific/china-congratulates-biden-on-being-elected-us-president/2020/11/13/0c77685a-2589-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/china-congratulates-biden-on-being-elected-us-president/2020/11/13/0c77685a-2589-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/china-congratulates-biden-on-being-elected-us-president/2020/11/13/0c77685a-2589-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Could the electoral college be stolen from Biden?"
     excerpt: "She said she’s concerned Republicans are trying to use baseless claims of voter irregularities to take Biden’s 16 electoral votes away from him, even though he won the state by more than 148,000 votes."
     publishedDateTime: 2020-11-12T19:44:00Z
@@ -5019,6 +5035,22 @@ related:
       - url: "https://i.insider.com/5fabeafaf24e720018a2ac38?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "After Biden win, Black activists demand reparations for slavery, police reform"
+    excerpt: "When this campaign was at its lowest, the African American community stood up again for me,” Biden said. “They always have my back, and I’ll have yours.” Leading Black Lives Matter activists plan to hold him and Vice President-elect Kamala Harris to that I."
+    publishedDateTime: 2020-11-13T10:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/13/biden-embrace-black-lives-matter-activists-demand-police-reform/6224812002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6224812002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6224812002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/8617a30b-ca9b-4d82-af0e-c1bd8895e495-Hooks.jpeg?auto=webp&crop=834,470,x0,y28&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Biden reluctant to comment on Trump's health"
     excerpt: "Democratic presidential nominee Joe Biden is declining to comment on President Donald Trump's drive outside of Walter Reed to greet supporters. \"I'm not going to comment on any of his conduct or his health,"
@@ -8665,6 +8697,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "vP6cjflOZ+jiOBRVfpfIpLQ8kO65t75rTjml8Jy0AMcnOrg4+a1incSFBM4UBXLRJE7Z+MY7gijQjOCJkkX42uLf+PZ2WmIkVF+IUhqPI9jfCQfIgH6ISPQwNVtL76xRs+tT7szjPu53BDoehrxpXYZHNDpd9hOyeqAqok5qh4Glh6lFSU4vGgoil6Gxj/TwfD9j+A/2GAPhn7M638N+7gXw+7Vff7TECNsfTC35Gg99+M0gumSIrLC2d3XN/RijSXg8L9ZjVxdow8/zo6dbNtNn+1HD9eIos3WxtDbV7Ay653+XPb1hZNTTzPOu1NMZI/mF7w623aKxyzOqB3TR7VOU24vUnbSkWEgnFOG2POA=;rLgcg0V14w56ZHCsICMRmA=="
+secured: "FqjDRNXnr51MNUWmImXUClojFKeAULVyMbHCHwwGXK9mKzZ4eWrtN2Lnpy3vRcR8RJ2PCloJQxraVuzcnFAKo4wzT5yMGJQsDoVQoTY1XU570+TLUGVGuyhwU395CxdnDsJpbhi5ftiDSOOreMu17mVpcPE8RCrJUimQz3qTybB5UFym6QYBPe3bxayYKOWpwS0tRmxP8GhfMUVyxIBI3lx+KsDQTrp4H76SGWqi7600sgIDoHR2ZzaPO3gnVj+PfgOpVmfUNbTWLYZgaYkJY0BY5yVlnpMgMD/lhlINAfcHBzjPZaCjBXbPP3PyeVJpjvSDz7pkDDAi1QraP4c2aQm4YqpcujVZ4GYDXw8im/K4bXbivCupmgB2Qi4MakS0T34Fh/TIebgTzOeS4QTN4QJi2j9Sjh54BYR5PDfzqcyTmF/obZ/aLhe0ywKidSxPgjwys+Gc6bQIzxgWuHUdGrX6xDpjPUF0d21FlGYJYfdTsiEC0M4VWwNgo1n5liudN/mTMdBqmCEzGb0Al7MN3A==;lz/Pv/3Y6szXOycesCDrZw=="
 ---
 

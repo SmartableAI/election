@@ -3246,6 +3246,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "As Soon as Trump Leaves Office, He Faces Greater Risk of Prosecution"
+    excerpt: "President Trump lost more than an election last week. When he leaves the White House in January, he will also lose the constitutional protection from prosecution afforded to a sitting president. After Jan."
+    publishedDateTime: 2020-11-13T10:08:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/nyregion/trump-vance-grand-jury.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/nyregion/trump-vance-grand-jury.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/nyregion/trump-vance-grand-jury.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/11/nyregion/00NYTrumpliability/00NYTrumpliability-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "U.S. Troops Are Still Leaving, but Afghans Hope Biden Will Help"
     excerpt: "Afghans fear the Taliban are subverting the peace process, and hope a Biden administration will bring more accountability."
     publishedDateTime: 2020-11-12T18:50:00Z
