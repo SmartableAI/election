@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration renews push to confirm Wolf amid concerns over legitimacy and agency purge "
+    excerpt: "There's a renewed push to get Chad Wolf confirmed as Homeland Security secretary -- a position in which he's been serving in an acting capacity for a year -- before Inauguration Day, according to two sources familiar with the discussions.\n    \n"
+    publishedDateTime: 2020-11-13T13:01:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Hr6wUJPFa8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200821141222-01-chad-wolf-0806-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration's revisions to the naturalization exam could make the test harder for immigrants seeking citizenship"
     excerpt: "The Trump administration is planning to make the naturalization test, which immigrants must pass to become US citizens, longer, according to a draft memo obtained by CNN, a move that could make it more difficult and marks the latest in a string of actions intended to alter the citizenship process.\n "
     publishedDateTime: 2020-11-10T16:44:32Z

@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration renews push to confirm Wolf amid concerns over legitimacy and agency purge "
+    excerpt: "There's a renewed push to get Chad Wolf confirmed as Homeland Security secretary -- a position in which he's been serving in an acting capacity for a year -- before Inauguration Day, according to two sources familiar with the discussions.\n    \n"
+    publishedDateTime: 2020-11-13T13:01:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Hr6wUJPFa8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200821141222-01-chad-wolf-0806-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "vcm0TbAF+MJ/2RXZ1vGXYrIwGeRH7aUHr3/AEsaTmZhjFbz8hK5aVaD89vJQ4fbKtfO5eAd6jCQzbMVnqGjf9sjucSNDZU80fH6OAyF9AuwuRUHdf8cH0zQXwgRaul+2D4WuKehl7NcYTgTlvdpscWj+s7/TpkConncWCkpIga6sEjRg0cjV2kyv/1Hop0MXIzZ3ktMqcR0N5gtIty4n9EljNqUgxfT/oxub/3XNmajQaxeNtVcpiy8W931Dhu9a4lCxuQNhY6CnTxgVa14QD29KRAh252muAclOGvT+m9z7w277ZvMqLkRdu0NoHHprnQJeFiULkj8iHVxTo/77A4/MGpHnwZ4N6XCa/bypg60=;SPlIrHRSiZgRw3DItusfxw=="
 ---

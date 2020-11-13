@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-05-trump-agenda-won-up-and-down-the-ballot-as-pundits-and-polls-missed-the-mark-again-kellyanne-conway.md",
+      "title": "'Trump agenda won up and down the ballot' as pundits and polls missed the mark again: Kellyanne Conway",
+      "excerpt": "The pollsters and pundits got the 2020 presidential race wrong yet again, Kellyanne Conway, former Trump 2016 campaign manager, told \"Fox & Friends.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S2QHUutMvW4/2020-election-polls-race-trump-results-kellyanne-conway",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S2QHUutMvW4/2020-election-polls-race-trump-results-kellyanne-conway",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/2020-election-polls-race-trump-results-kellyanne-conway.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/2020-election-polls-race-trump-results-kellyanne-conway.amp",
+      "publishedDateTime": "2020-11-05T09:16:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.md",
       "title": "Biden's 1 electoral vote from Nebraska district could prove pivotal to his White House bid",
       "excerpt": "Omaha, Neb., became “Jomaha” as Democratic nominee Joe Biden won a single electoral vote from the state’s 2nd Congressional District.",
@@ -1596,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp",
       "publishedDateTime": "2020-11-01T11:55:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-trump-campaign-hits-back-at-buttigiegs-claim-that-trump-took-credit-for-obama-economy.md",
-      "title": "Trump campaign hits back at Buttigieg's claim that Trump 'took credit' for Obama economy",
-      "excerpt": "Mayor Pete Buttigieg was wrong about 2020 Democratic presidential hopeful Joe Biden's economic agenda being better for Americans, said Trump 2020 Communications Director Tim Murtaugh on Sunday, two days away from Election Day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-1LtxD5rTZE/tim-murtaugh-trump-obama-economy-pete-buttigieg",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-1LtxD5rTZE/tim-murtaugh-trump-obama-economy-pete-buttigieg",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tim-murtaugh-trump-obama-economy-pete-buttigieg.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-murtaugh-trump-obama-economy-pete-buttigieg.amp",
-      "publishedDateTime": "2020-11-01T11:30:45-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

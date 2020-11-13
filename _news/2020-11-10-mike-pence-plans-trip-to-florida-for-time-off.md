@@ -91,6 +91,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Mike Pence won’t be taking a Florida vacation after all. There’s a good reason why"
+    excerpt: "Vice President Mike Pence won’t be checking out seashells by the seashore after all. Pence has apparently canceled his planned trip to Sanibel, Florida. According to a Federal Aviation Administration advisory,"
+    publishedDateTime: 2020-11-11T15:49:00Z
+    webUrl: "https://www.miamiherald.com/news/state/florida/article247123166.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article247123166.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article247123166.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/e76df167-a648-4a31-ba10-cd22c9a2a219/b4e11277-7a56-4fbd-9feb-f4a5f539ac5d/1280x720/match/image.jpg"
+        width: 1275
+        height: 720
+        isCached: true
 
 secured: "/vX0k9j/oZ5/RhIJDH3XlkJy1nkqyn0B4V+5bVH+n2cuhfnwuSlpF/ukcZaOWLPgpkQ7V7egJjHFDQsE7Ck3xdwUi83AlXnSfKfehofqfzM6YApoH5J9zIvilRskJhxdiNx66xqycQDCntAIDRbn1+2RcmRJvAW3zCgKNYSkQlUpzuGaovWRzplkRqFpyNNadXvXsoHmEra3E+uJc8VodhCkndbMxM/K0X9ap6lHvq0ObIbKWaGblqXIda8lSdByvlH6J5FfcmrRxYOiZxJcC+HmmeJuM81EqRuO25PHEtewQdx3aYAL8MGRkxEsWdBEOwxgJmN0S7tl4zgLOpJMjeLaeV7OE+E6A4UfXf3MCkol1G6YPREFJTuODPVSBQT9+5rpYwx7ZDNvis0OVfkwfGI88VXVbbQj4NzLepGo1h9ZeiaqEi5gydcHMs6077pCSd0LYHa47dukQzeOWfKhV2zBRllo5QPr3ZAWcqjpHMMPIRrmb13xJ6uk3+/M3ZhXPfDNrnA+rlx9C2dQxbVimg==;TrpqsCWAJKfaYOL2kuKSJg=="
 ---

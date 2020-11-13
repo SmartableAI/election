@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-25-trump-told-donors-holding-republican-senate-would-be-very-tough-report.md",
+      "title": "Trump told donors holding Republican Senate would be 'very tough': report",
+      "excerpt": "President Trump privately told donors it would be “very tough” for Republicans to maintain control of the Senate come November because he cannot support all of the party’s candidates, according to a report. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U3V2jQYz-_M/trump-donors-republican-senate-very-tough",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U3V2jQYz-_M/trump-donors-republican-senate-very-tough",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-BT-1.jpg",
+          "width": 1280,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-donors-republican-senate-very-tough.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-donors-republican-senate-very-tough.amp",
+      "publishedDateTime": "2020-10-24T17:37:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-trump-once-presbyterian-now-says-hes-a-nondenominational-christian.md",
       "title": "Trump, once Presbyterian, now says he's a 'nondenominational Christian'",
       "excerpt": "Trump emphasized that his parents taught him the importance of faith and prayer throughout his life.",
@@ -1598,62 +1654,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp",
       "publishedDateTime": "2020-10-21T16:27:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trump-campaign-nevada-gop-threaten-to-sue-clark-county-over-attempts-to-obstruct-election-observation.md",
-      "title": "Trump campaign, Nevada GOP threaten to sue Clark County over attempts to ‘obstruct’ election observation",
-      "excerpt": "The campaign and state Republicans claim that observers have been banned from certain areas where ballots are handled.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vh2lB-nwdTU/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vh2lB-nwdTU/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e7c038-31e9-41ca-b866-bc48a70fc439/b27add3f-3eae-4088-beb9-957a3678512b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp",
-      "publishedDateTime": "2020-10-21T16:17:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,63 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-03-what-to-watch-in-battleground-florida-a-really-tough-state-to-call-biden-lashes-out-at-desantis.md",
+      "title": "What to watch in battleground Florida — A 'really tough state' to call — Biden lashes out at DeSantis",
+      "excerpt": "BY THE NUMBERS — So far, 4,649,919 vote-by-mail ballots have been cast for the November election, according to the latest information on the state Division of Elections website. Of those, 2,112,081 have come from Democrats and 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/03/what-to-watch-in-battleground-florida-a-really-tough-state-to-call-biden-lashes-out-at-desantis-490787",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/03/what-to-watch-in-battleground-florida-a-really-tough-state-to-call-biden-lashes-out-at-desantis-490787",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-exclusive-tired-of-trump-deutsche-bank-wants-out-but-sees-no-good-options-sources.md",
       "title": "Exclusive: Tired of Trump, Deutsche Bank wants out but sees no good options - sources",
       "excerpt": "Deutsche Bank AG is looking for ways to end its relationship with President Donald Trump after the U.S. elections, as it tires of the negative publicity stemming from the ties, according to three senior bank officials with direct knowledge of the matter.",
@@ -1275,62 +1332,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
       "publishedDateTime": "2020-11-01T14:07:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.md",
-      "title": "Biden's campaign bundlers include Wall Street billionaires, entertainment moguls",
-      "excerpt": "Democratic presidential candidate Joe Biden unveiled a list of his biggest fundraisers Saturday night, revealing a campaign powered in part by Wall Street executives, Silicon Valley billionaires and entertainment moguls. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WhT96bEV-YI/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WhT96bEV-YI/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dff98d6f-d7b1-4e88-ad74-8d152941afcd/77e1be30-e89f-49eb-9c49-1f1844ed2954/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp",
-      "publishedDateTime": "2020-11-01T13:04:50-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

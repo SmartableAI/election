@@ -9,7 +9,7 @@ ampWebUrl: "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-san
 cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp"
 type: article
 quality: 75
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -89,6 +89,22 @@ related:
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/0eabdea8-12fd-4d78-bf4c-3e9465379cee/8108ba07-9c58-4a4f-acc8-5c09bbe4d436/1280x720/match/image.jpg"
         width: 1280
+        height: 720
+        isCached: true
+  - title: "VP Mike Pence won’t be taking a Florida vacation after all. There’s a good reason why"
+    excerpt: "Vice President Mike Pence won’t be checking out seashells by the seashore after all. Pence has apparently canceled his planned trip to Sanibel, Florida. According to a Federal Aviation Administration advisory,"
+    publishedDateTime: 2020-11-11T15:49:00Z
+    webUrl: "https://www.miamiherald.com/news/state/florida/article247123166.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/state/florida/article247123166.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/state/florida/article247123166.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/e76df167-a648-4a31-ba10-cd22c9a2a219/b4e11277-7a56-4fbd-9feb-f4a5f539ac5d/1280x720/match/image.jpg"
+        width: 1275
         height: 720
         isCached: true
 

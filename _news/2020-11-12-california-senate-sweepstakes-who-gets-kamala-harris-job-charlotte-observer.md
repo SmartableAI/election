@@ -53,6 +53,22 @@ related:
         width: 840
         height: 587
         isCached: true
+  - title: "Kamala Harris: No parliamentary sanction for peer over tweet"
+    excerpt: "Lord Kilclooney, will not face any sanctions for calling US Kamala Harris \"the Indian\", The standards commissioner said that as the comment was made on Twitter, it was outside her power to investigate,"
+    publishedDateTime: 2020-11-13T14:06:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54928478"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54928478"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54928478"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1EEE/production/_113881970_gettyimages-1197732327.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris"
     excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."
     publishedDateTime: 2020-11-10T15:19:00Z

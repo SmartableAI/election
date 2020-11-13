@@ -563,6 +563,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Biden victory in Arizona puts Trump's longshot challenge further out of reach"
+    excerpt: "President-elect Joe Biden cemented his U.S. election victory by capturing the battleground state of Arizona late on Thursday, but the official transition to his administration remains stalled as President Donald Trump refuses to accept defeat."
+    publishedDateTime: 2020-11-13T14:18:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27Q0L2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 147
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541070214&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0A7"
+        width: 817
+        height: 545
+        isCached: true
   - title: "For Trump and Biden, debate fuels allegations of improper family foreign deals"
     excerpt: "President Donald Trump leveled new attacks at the son of former Vice President Joe Biden at Thursday night’s debate."
     publishedDateTime: 2020-10-23T03:34:00Z
@@ -2466,6 +2482,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541025758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
         width: 817
         height: 545
+        isCached: true
+  - title: "Donald Trump lost the 2020 election, but misinformation will continue to win"
+    excerpt: "President Trump lost the 2020 election to Joe Biden, but conspiracy theories and digital misinformation will endure and remain a force in politics."
+    publishedDateTime: 2020-11-13T09:25:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/11/13/trump-administration-ending-misinformation-age-continues-after-election/6128246002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6128246002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6128246002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/31/USAT/01de4803-719f-48f8-ac3c-873cfe894844-AFP_AFP_1WO5H1.jpg?auto=webp&crop=3474,1955,x0,y192&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump defends Texas drivers who swarmed Biden bus on highway; FBI investigating"
     excerpt: "According to the Biden campaign, the vehicles surrounded the bus trying to slow it down in the middle of the highway or run it off the road."
@@ -6453,6 +6485,22 @@ related:
     quality: 108
     images:
       - url: "https://i.insider.com/5fad25d07f8f4200182a6740?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "CEOs of top US firms held a private meeting to discuss what to do if Trump's refusal to concede to Biden becomes a threat to democracy"
+    excerpt: "The Fortune 500 CEOs discussed making public statements if President Donald Trump jeopardized a peaceful handover to President-elect Joe Biden."
+    publishedDateTime: 2020-11-13T14:57:00Z
+    webUrl: "https://www.businessinsider.com/trump-concede-biden-meeting-ceo-electoral-college-presidential-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-concede-biden-meeting-ceo-electoral-college-presidential-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-concede-biden-meeting-ceo-electoral-college-presidential-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5fae898f4652d40019744312?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

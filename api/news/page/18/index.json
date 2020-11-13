@@ -2,6 +2,62 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-23-biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.md",
+      "title": "Biden will ‘campaign aggressively’ in final stretch, top aide insists",
+      "excerpt": "When it comes to the number of in-person campaign events being held in the White House race, President Trump is lapping Democratic nominee Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7S3hNtXlns/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7S3hNtXlns/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297057827109.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp",
+      "publishedDateTime": "2020-10-23T01:03:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-fact-check-did-biden-get-35-million-from-russia.md",
       "title": "Fact check: Did Biden get $3.5 million from Russia?",
       "excerpt": "President Donald Trump claimed that former Vice President Joe Biden received $3.5 million from Russia and that it \"came through Putin because he was very friendly with the former mayor of Moscow, and it was the mayor of Moscow's wife. You got $3.5 million. Your family got $3.5 million.\"\n    \n",
@@ -1279,63 +1335,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trump-struggles-to-defend-lie-about-mexico-paying-for-the-wall.md",
-      "title": "Trump struggles to defend lie about Mexico 'paying for the wall'",
-      "excerpt": "Trump claims to have yet another idea to get Mexico to pay for a border wall. In reality, it's a fresh con, intended to take the place of an old con.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-struggles-defend-lie-about-mexico-paying-wall-ncna1244269",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-struggles-defend-lie-about-mexico-paying-wall-ncna1244269",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_40/3392970/200626-trump-border-wall-jm-1339_c2377799002c4533c808cda3853168ae.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244269",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244269",
-      "publishedDateTime": "2020-10-22T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],
