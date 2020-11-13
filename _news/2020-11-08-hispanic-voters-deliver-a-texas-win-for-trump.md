@@ -7,8 +7,8 @@ originalUrl: "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-r
 webUrl: "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html"
 type: article
 quality: 115
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -28,6 +28,24 @@ images:
     width: 1050
     height: 549
     isCached: true
+
+related:
+  - title: "Trump Floats Improbable Survival Scenarios as He Ponders His Future"
+    excerpt: "President Trump is simply trying to survive from one news cycle to the next. At a meeting on Wednesday at the White House, President Trump had something he wanted to discuss with his advisers, many of whom have told him his chances of succeeding at changing the results of the 2020 election are thin as a reed."
+    publishedDateTime: 2020-11-13T08:51:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-memo1/12dc-memo1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "wlkppXISsj+p8FvtqpCea4PiQ/SdZWkH8oWpE2bhZU+QNHikDz37RnfzyX/5asDDBxPEefeurIR+RySg2hk2o1OjY5HBJ1wVvmEB9HCwIB5Hx7hhFVwdtNnGNidRSoOU6jlEnLIBmR6RXlfhznNZlv9rHnnQiYXkO3nWTIL05/34dMJABHiZq9wc0TfGzmlypLsAIBMGpUtWiOf2ZttXYHSutenirsasJspQG0up6kz6zgG1SvdAKAnrObRcz8QzFstnHi9nLOcwtxl1sbAJIPrfWjJq6C5QsWxbk8UEhiioAbW6asFhEqWktGZEtWSPZjqFj8pUy09q0RH0E7wU5hFwOzcv4hrNIN841zL1d1c=;glV6NVpq4bF9gIkUB58CDw=="
 ---

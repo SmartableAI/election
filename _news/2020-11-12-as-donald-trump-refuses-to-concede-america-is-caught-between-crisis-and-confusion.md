@@ -3,8 +3,8 @@ category: news
 title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
 excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
 publishedDateTime: 2020-11-12T12:42:00Z
-originalUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR3uwJnz4rx9ZJya1Vh03kolVQNbCkGdbF2ffCpqQFTEQt_uDRNDKC39zd4page%2F5page%2F7page%2F22page%2F2page%2F5page%2F3page/22"
-webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR3uwJnz4rx9ZJya1Vh03kolVQNbCkGdbF2ffCpqQFTEQt_uDRNDKC39zd4page%2F5page%2F7page%2F22page%2F2page%2F5page%2F3page/22"
+originalUrl: "https://time.com/magazine/us/?fbclid=IwAR02kTXwD7PnzUdGPlzf8KOF_LUCextXSsYkK9k-N-iLyMs3T3z6LX6hBVEpage%2F2page%2F2page%2F481page%2F481page%2F2page%2F5page%2F5page%2F7page%2F7page%2F485page%2F3page/486"
+webUrl: "https://time.com/magazine/us/?fbclid=IwAR02kTXwD7PnzUdGPlzf8KOF_LUCextXSsYkK9k-N-iLyMs3T3z6LX6hBVEpage%2F2page%2F2page%2F481page%2F481page%2F2page%2F5page%2F5page%2F7page%2F7page%2F485page%2F3page/486"
 type: article
 quality: 99
 heat: -1
@@ -4481,6 +4481,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Asian stocks edge higher as Biden cements presidential win"
+    excerpt: "Asian shares eked out gains on Friday and U.S. stock futures turned higher after U.S. president-elect Joe Biden was projected to win the battleground state of Arizona, cementing his win for the office."
+    publishedDateTime: 2020-11-13T06:46:00Z
+    webUrl: "https://www.reuters.com/article/global-markets/asian-stocks-edge-higher-as-biden-cements-presidential-win-idUSKBN27T02K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T02G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T02G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541048561&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC01A"
+        width: 785
+        height: 545
+        isCached: true
   - title: "Could the electoral college be stolen from Biden?"
     excerpt: "She said she’s concerned Republicans are trying to use baseless claims of voter irregularities to take Biden’s 16 electoral votes away from him, even though he won the state by more than 148,000 votes."
     publishedDateTime: 2020-11-12T19:44:00Z
@@ -4528,6 +4544,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_francisbidenclimate_111220getty.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Trump lost. But his Twitter feed keeps giving supporters false hope."
+    excerpt: "By any reasonable calculation, President Trump was decisively beaten by Joe Biden in the 2020 presidential election. Biden is on track to receive 306 electoral votes, compared with 232 for Trump. Biden has bigger leads than Trump had in two of the three states — Pennsylvania,"
+    publishedDateTime: 2020-11-13T08:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/trump-lost-his-twitter-feed-keeps-giving-supporters-false-hope/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/trump-lost-his-twitter-feed-keeps-giving-supporters-false-hope/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/trump-lost-his-twitter-feed-keeps-giving-supporters-false-hope/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EVPORYBFFAI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
@@ -6991,6 +7023,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The first steps Biden may take on foreign policy"
+    excerpt: "AP reporter Matt Lee says he expects 80 to 90 percent of the executive orders President Trump has signed under during his term to be reversed. (Nov. 12)"
+    publishedDateTime: 2020-11-12T23:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/12/first-steps-biden-may-take-foreign-policy/6272283002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/36e6f39d-cfd7-4def-a151-e339cea48a4d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump could buck US tradition of conceding defeat"
     excerpt: "For generations, losing U.S. presidential candidates have conceded to their opponents after bruising elections. President Donald Trump could be the first presidential candidate in modern times to ignore a tradition that supports peaceful transitions."
     publishedDateTime: 2020-11-12T19:39:00Z
@@ -8015,6 +8061,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Mike Pence cancels Florida vacation to help Trump effort to overturn election"
+    excerpt: "Mike Pence isn't going to Disney World anytime soon. The vice president scrapped plans for a Florida vacation so he could help lead President Donald Trump's effort to overturn President-elect Joe Biden's win in last week's election,"
+    publishedDateTime: 2020-11-12T02:49:00Z
+    webUrl: "https://www.appeal-democrat.com/news/national_news/mike-pence-cancels-florida-vacation-to-help-trump-effort-to-overturn-election/article_10848166-249a-11eb-bc68-fb8b1291084b.html"
+    type: article
+    provider:
+      name: Appeal-democrat.com
+      domain: appeal-democrat.com
+    quality: 82
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/appeal-democrat.com/content/tncms/custom/image/e63f55ec-f4aa-11e7-8fac-53188e867597.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Trump and Biden campaigns, Halloween, daylight saving time: 5 things to know this weekend"
     excerpt: "Trump and Biden eye Pennsylvania on final campaign stretch, experts warn of Halloween dangers during COVID-19 and more things to start your weekend."
     publishedDateTime: 2020-11-02T08:44:00Z
@@ -8605,6 +8665,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "DctS2kGU4nR4xW4YupP8Ukhb6rB7tr6JrLGWxFOat/BW+8QhNQetLzqAh56+Za/Nkb6qM4IhLEbhQbAQsAbMls3rCPlZ7NfB0U3eqo6m0mi+NkzgUQz8l1UtVoIkaN5f/3ap19JAaABgO3IZDn+e7k5U4tS3jHfpvOW1BukjC5tUMt9VUKyngddD4Qinj98WCPmk6rDRH7KhZ07QwzltPsCFBhzWS3QsWnfl2PO3qzgIxVuQxGSarbUxLAZX8nTzDk1OwHDDypzgajCIPWj1uOpMZ/i9PBHzXBaPWop91l9UKPiwkXq0WPlmls7MaBIxogkoy/33gdCEi7YgTqr75I9hMBde4cZnx/OTOhy48a4=;DsD9+W+2rYClE5u9W/KK5w=="
+secured: "rySQjUSozY1oZaAj02ewCHznHwB544j+24K79kQjjSPpbGD09CALyAZgnOuLNeCQzI+e6AQcaN6HH1Du7WgBOurejJ7oMhQ7DoscOswY72Sx6RBO3gDVS0t377nEbwzldFRaZJtYtfRrmdQQE3eflLu591xyk0+zVSIjvq1gvGjllI0rozPfoB9bwCeNj4nBFYfreFrNakczPAgQpUHwsnue0CXuh2GULinAOLyiVldqObGbCbSEJWqxiX8pcOnQuJCsEzwGf1jrHU1ZTMZn6JA8xppDqXLlvSNHjv99G6oeGmeIe8NJYOHO8GUgsRHN6GJzwz07mINdDe9SB2hetBmmF+WFgtHEoDyztNpNeew=;k/m26jX27zGBcfzITN4gJg=="
 ---
 

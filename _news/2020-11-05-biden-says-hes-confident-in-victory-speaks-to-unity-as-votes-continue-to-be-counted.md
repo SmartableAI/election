@@ -61,6 +61,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Former China finance minister says trade frictions with U.S. could remain under Biden"
+    excerpt: "Trade frictions between the United States and China may not ease in the near term even if Joe Biden becomes president of the United States, former Chinese finance minister Lou Jiwei said on Friday."
+    publishedDateTime: 2020-11-13T05:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-china-caixin/former-china-finance-minister-says-trade-frictions-with-u-s-could-remain-under-biden-idUSKBN27T0AC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0G2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0G2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541074972&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC055"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "v6/VXU0jp230FmK3eUu8pnNZolj8muNkSnfssjKRHUR4akJfzEB6YjdWci5J4nqqUe7RexZadSJ/v45GK6igDI91V32y0bGy/IZr/iE+Ukq7pd9FpoYTx8F3wllD8EOKkRbqG3ZFWvzDGAXxXmWGAPje5Ih38nIDF2hgNYLWGF3cFjIw2DPITSDg3yZK+PVv+HMMaJCEIDA44bCChm0/A8vtQehSmBeEJz3vo8pMeB3tvcrVkwl5kk25yVFf7mXBN+1Jknj4fZ8nLM6fc6eKniTcGIs49IW8V7GPppafiXc6BthHLekNbcbpS6AfwjDihzSiHXQR5Ii7vWSYi+ywLrQmZESPJf/b20uzuA09WNw=;01pT73K883gxEHkkxm3xOw=="
 ---
