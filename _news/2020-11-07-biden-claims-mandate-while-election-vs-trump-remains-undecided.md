@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-speech-mandate-trump-undecide
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
 type: article
 quality: 205
-heat: 2285
+heat: 2305
 published: true
 
 provider:
@@ -494,6 +494,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20313107857951.jpg"
         width: 5094
         height: 3396
+        isCached: true
+  - title: "Candace Owens blasts 'despicable' Obama book claiming Trump election was racist reaction"
+    excerpt: "The suggestion by former President Barack Obama that President Trump’s rise to power was a product of racism is \"absolutely despicable,\" author and activist Candace Owens told “Hannity” Thursday."
+    publishedDateTime: 2020-11-13T04:42:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ssX7HvtLPVg/candace-owens-barack-obama-donald-trump-election"
+    ampWebUrl: "https://www.foxnews.com/politics/candace-owens-barack-obama-donald-trump-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-barack-obama-donald-trump-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5630b133-b478-42fd-ab9e-1d6d49478b5e/b9e250a1-7324-4a44-ab3e-a98150b248c5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump claims Dems are trying to 'steal' election, says he'll win if 'legal votes' are counted"
     excerpt: "A defiant President Trump on Thursday said he and his campaign will “not allow corruption to steal” the election during a press conference at the White House, while maintaing that he will win the 2020 presidential race despite a dwindling path toward reelection as votes continue to come in."

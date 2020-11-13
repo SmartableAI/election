@@ -1247,6 +1247,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden carries Arizona, flipping a longtime Republican stronghold"
+    excerpt: "For just the second time in more than seven decades, a Democrat will carry Arizona in a presidential election, a monumental shift for a state that was once a Republican stronghold.\n    \n"
+    publishedDateTime: 2020-11-13T04:46:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WObB1EUYGQ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/biden-wins-arizona/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/biden-wins-arizona/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top congressional Republicans still haven't acknowledged Biden's victory"
     excerpt: "President-elect Joe Biden urged the country \"to lower the temperature\" in his victory speech on Saturday night, but Republican leaders he'll have to work with in Congress have either urged President Donald Trump to not concede or stayed silent despite no widespread evidence of fraud in the election.\n"
     publishedDateTime: 2020-11-08T22:24:55Z

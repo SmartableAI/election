@@ -1815,6 +1815,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "A few cracks but no big GOP break with Trump on Biden's win"
+    excerpt: "The most powerful Republicans in Washington are still standing behind President Donald Trump and his unsupported claims of voter fraud"
+    publishedDateTime: 2020-11-13T03:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/cracks-big-gop-break-trump-bidens-win-74178620"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cracks-big-gop-break-trump-bidens-win-74178620"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cracks-big-gop-break-trump-bidens-win-74178620"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4b5be0ca237e4c2391717405d22ffd31_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump grasps at a new set of straws: Computers rigged his election loss"
     excerpt: "President Trump has transitioned from insisting that he will win the 2020 presidential election once all the votes are counted (he will not) to claiming that the results were muddied by rampant voter fraud (they were not) to a new set of claims: The results were altered by the use of computers and perhaps,"
     publishedDateTime: 2020-11-13T02:31:00Z
@@ -2149,6 +2165,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540604210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81TY"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden wins Arizona, boosting margin of victory over Trump: Edison Research"
+    excerpt: "Democrat Joe Biden defeated U.S. President Donald Trump in Arizona, Edison Research projected on Thursday, increasing his margin of victory over the Republican incumbent by 11 Electoral College votes following the Nov."
+    publishedDateTime: 2020-11-13T04:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-arizona-idUSKBN27T0FO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0FO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0FO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541064628&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC08G"
+        width: 713
         height: 545
         isCached: true
   - title: "President Joe Biden? Donald Trump tweets suggest he knows that will happen"
@@ -7113,7 +7145,7 @@ related:
   - title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
     excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
     publishedDateTime: 2020-11-12T12:42:00Z
-    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR3uwJnz4rx9ZJya1Vh03kolVQNbCkGdbF2ffCpqQFTEQt_uDRNDKC39zd4page%2F5page%2F7page%2F22page%2F2page%2F5page%2F3page/22"
+    webUrl: "https://time.com/magazine/us/?fbclid=IwAR02kTXwD7PnzUdGPlzf8KOF_LUCextXSsYkK9k-N-iLyMs3T3z6LX6hBVEpage%2F2page%2F5page%2F6page%2F3page/11"
     type: article
     provider:
       name: Time

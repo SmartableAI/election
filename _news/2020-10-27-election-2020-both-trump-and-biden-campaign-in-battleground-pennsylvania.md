@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 4834
+heat: 4854
 published: true
 
 provider:
@@ -942,6 +942,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99dc200f79606cb9793dcf%2F0x0.jpg"
         width: 1200
         height: 727
+        isCached: true
+  - title: "Trump team and Pennsylvania election officials clash in federal court filings"
+    excerpt: "Lawyers for President Donald Trump and those representing Pennsylvania election officials clash in federal court filings."
+    publishedDateTime: 2020-11-13T04:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-team-pennsylvania-election-officials-clash-federal-court/story?id=74182918"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-team-pennsylvania-election-officials-clash-federal-court/story?id=74182918"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-team-pennsylvania-election-officials-clash-federal-court/story?id=74182918"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/2020-election-day-3-39-pennsylvania-ap-jc-201105_1604634249975_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Snap polls give Joe Biden edge over Trump in final TV debate – US politics live"
     excerpt: "Biden accused Trump of pouring fuel ‘on every single racist fire’ as pair clashed over coronavirus, Obamacare and fossil fuels"

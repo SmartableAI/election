@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump bans U.S. investments in firms linked to Chinese military"
+    excerpt: "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U."
+    publishedDateTime: 2020-11-13T04:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUSKBN27S2X3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2X3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2X3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541018365&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1TB"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Pennsylvania's Democratic governor calls Trump remarks 'partisan attack'"
     excerpt: "Pennsylvania's Democratic Governor Tom Wolf on Wednesday called President Donald Trump's unsubstantiated claim about fraud in the U.S. presidential election a \"partisan attack\", and said his state was working hard to count more than 1 million mail-in ballots."
     publishedDateTime: 2020-11-04T08:44:00Z
@@ -140,6 +156,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3"
         width: 818
         height: 545
+        isCached: true
+  - title: "Outgoing Trump administration bans investments in Chinese companies it says support China’s military"
+    excerpt: "The White House continued to push an economic decoupling with China by banning certain U.S. investments in companies linked to Chinese military"
+    publishedDateTime: 2020-11-13T04:56:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BWJA7BU6OII6VPQGV5KRJ3QDQU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump campaign says 'illegally cast' ballots should not be counted"
     excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."

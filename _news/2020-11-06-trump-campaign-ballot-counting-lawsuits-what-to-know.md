@@ -45,6 +45,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump floating multiple unlikely survival scenarios as he weighs political future: report"
+    excerpt: "President Trump has floated multiple unlikely scenarios of political survival to his advisers as he refuses to concede the presidential election to former Vice President Joe Biden, according to a report."
+    publishedDateTime: 2020-11-13T03:54:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tshR_-UDxrU/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21a4726c-255d-4afa-86b6-f6ad10f4970a/17418480-58fa-4ba9-ba66-82a488516027/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "BqYh/YwzgJ/iTzklUZx89OaehTTUkA22BYzOd7rXObigyaD7hICYd6yZN3A9vpz+SuGyZgQR5DkzFuTrhBJGSSuqL1YRJ4ssjb1DnHd9BujiG221H4ypkeIwaWJlNsIQS7ET0ItiLEGY99bGY16NlQR3MSALsJEFp2huqgnjgx1R3iTBlsAfrbiCROK//WHQbW6EjmvSdYxmu7998A+bs9v5jP9pUhSC9xgR1eAA/XmDbXskBTXTAqp7hyf/0hD3DfTY+GKdb0SSOsFdiVlulAD1cGmUkZ9kQYYuqCssocwoF4CbZC7Rz+niPS8AE5eyk8gMdva9kNRjHbsIpMO4ikBCSruSWKaS+TP+wI4K85k=;4QlP7J5MzvVQzAJSdjEnNA=="
 ---

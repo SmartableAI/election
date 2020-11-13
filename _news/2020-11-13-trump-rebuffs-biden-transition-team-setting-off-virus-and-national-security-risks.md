@@ -1248,6 +1248,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden carries Arizona, flipping a longtime Republican stronghold"
+    excerpt: "For just the second time in more than seven decades, a Democrat will carry Arizona in a presidential election, a monumental shift for a state that was once a Republican stronghold.\n    \n"
+    publishedDateTime: 2020-11-13T04:46:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WObB1EUYGQ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/biden-wins-arizona/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/biden-wins-arizona/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Election officials, including federal government, contradict Trump's voter-fraud conspiracy theories"
     excerpt: "A group of national, state and private election officials said in a joint statement Thursday that there is no evidence of any voting system being compromised in the 2020 election despite President Donald Trump's deluge of election fraud conspiracies.\n    \n"
     publishedDateTime: 2020-11-13T00:54:35Z
@@ -3548,6 +3564,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "S/BiLLfCEsEXmzO3DoU1fuGv4PbXA86AHRaOw1VXaoQso7E9MekoZz0VqwK0habby39tDswRJb129j/5hi7jKgKAuSneOfkX1rEP8VRoT1xqFUQMy76JeglnsuP0jZfmohHRJH4rSK1j1HWmB/GrWQxYGQxBIBLnOI/RFnGnyQ+hvN1z2V3v7wOVgQvC8QXYJrSOh4p73w0NaFTc2WECFWjp9mTlO8KfhvMhzZw+ODjsAXm5lls1fY2oD3SkDq2rabJYmFZzu6633SuRvyN1LczI7IrDQy9/t6tTXrAc66nvb/2kyh0uDGteSdcvW3D3RN25xo0f6wPZgmby1X3X3kypeh1qQqd6wYiiDsKeOjY=;MYZvbjKh5leJLIyG7admsw=="
+secured: "uNJDax9xw6wh4WFuYPszcl38JT76A2FzUoLD69E2gpiot86j5HP+adhxx4sUv8TZYeMDlfpFlBJfpYwL4JGKt6qhGT3AJAy163iDVylgQ8LoujEMOa9vv/ZwuMmWbPOa6tMpEpfdzEinm223w7VIhtXgRWDcjH2xh2dVihdXDKqZb+bUTgf6l0LbQVgv7dkNelcfAHBVnv1CIMBJYMwRWxbDDRzLWTL2BLsgnQGsOVDEIgILhkJCJiLuWL5nFc3ZS3Vl9ZMfc8SU4BXiWTkNavXTMSFNk24b4FHu2VizBfTAoQokvUlRt0JrLI7J3CVAUB9LkIS4gSjvcxBRnNbLr8lNur8uYQyK7SnmiU1fAUDCCq6EjC6TAkT307zNHl0vQqhP08NrTcK9PzBCoFX6U0Y78o016wZakCIFA2zHbNtZ/Bp1W5QTRtOXYp+kaCCO1CgL9Rh9k8MhIbRHuhCcva/1c3RWbq6yFma2aeUBRt1d5qisoV2T+K9Tvb93OtLFK6xbBIP8mmVWTpt4Q6P8AQ==;kLuVZwvJhlOZSyVaY9bkWw=="
 ---
 

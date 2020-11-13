@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-cri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.amp"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -266,6 +266,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-257312/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Bars Americans From Investing in Firms That Help China’s Military"
+    excerpt: "The ban applies to 31 companies including state-run aerospace, shipbuilding and construction enterprises."
+    publishedDateTime: 2020-11-13T04:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-259063/social"
         width: 1280
         height: 640
         isCached: true

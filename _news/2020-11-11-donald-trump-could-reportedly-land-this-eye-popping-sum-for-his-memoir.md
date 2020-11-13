@@ -269,6 +269,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Bars Americans From Investing in Firms That Help China’s Military"
+    excerpt: "The ban applies to 31 companies including state-run aerospace, shipbuilding and construction enterprises."
+    publishedDateTime: 2020-11-13T04:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-259063/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "3AYytKhHAmGMISoKUE3KGLh3ju3G0DfZXhIzuDEajmATUfAo7SrRIRH8JtoQLDlz7cxeerzvdUoHc6zFONWWQtY2Pd72HLbPAU2lazcLZe5y+vrQT4hGcyEPLkw0HNkXHSr1RKNo3Dl7n1I6R6LJj09gsjfXLiI+6f6wqNnEw/NsOwGfEz2AwabPBJUM6I7HN3Zsn13fd1OHYMRBExS8+OBz8z3kufsg39XSRODd0jHVZpQq7CkFo0sHOuZdlVRvbZDdH47X41C3EWj5CPdk7SuNyW21Sr1CRwVpe6E2TPoyBEiWRj5e9iIxYYUJ7nLhyQI5VOkfVjF+yq4+vYYhYv2aIVVwNoSwxN/q9VZwJGo=;O/a8qf/9i+Ww2hAY0b0SuQ=="
 ---
